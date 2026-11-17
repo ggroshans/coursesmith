@@ -1,0 +1,2440 @@
+{
+ ".gl": {
+  "v": "out",
+  "why": "internet domain; unrelated"
+ },
+ "100% renewable energy": {
+  "v": "out",
+  "why": "energy systems topic, outside nature-economy core"
+ },
+ "15th Five-Year Plan": {
+  "v": "out",
+  "why": "national plan"
+ },
+ "1948 Donora smog": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "1966 New York City smog": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "1969 Santa Barbara oil spill": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "1970–1979 world oil market chronology": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "1972 Peruvian anchoveta crisis": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "1973–1974 stock market crash": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "1979 Greenlandic home rule referendum": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "1982 Greenlandic European Communities membership referendum": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "1985 Helsinki Protocol on the Reduction of Sulphur Emissions": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "1994 Oslo Protocol on Further Reduction of Sulphur Emissions": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "1998 Russian financial crisis": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "1998 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2 degree climate target": {
+  "v": "in",
+  "ch": "climate-finance-and-agreements",
+  "why": "core temperature goal framing climate policy and economics"
+ },
+ "2000s United States housing bubble": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2001 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2002 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2003 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2004 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2005 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2006 Southeast Asian haze": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2006 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2007 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2008 European Union stimulus plan": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2008 Greenlandic self-government referendum": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2008 Shell Bodo Oil Spill": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2008 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2008 financial crisis": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2008–2009 Keynesian resurgence": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2009 Greenlandic general election": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2010 Biodiversity Target": {
+  "v": "in",
+  "ch": "biodiversity-agreements-and-targets",
+  "why": "CBD global biodiversity target preceding Aichi targets"
+ },
+ "2010 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2010 Xinfa aluminum plant protest": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2011 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2012 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2013 Greenlandic general election": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2013 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2014 Greenlandic general election": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2014 People's Climate March": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2014 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2015 Gold King Mine waste water spill": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2015 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2016 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2017 People's Climate March": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2017 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2017 United Nations Ocean Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2018 Greenlandic general election": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2018 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2019 Russian wildfires": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2019 UN Climate Action Summit": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2019 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2019 in climate change": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2020 stock market crash": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2021 Colombian protests": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2021 Greece wildfires": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2021 Leaders Summit on Climate": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2021 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2021–2022 Serbian environmental protests": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2022 United Nations Biodiversity Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2022 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2022 in climate change": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2022 stock market decline": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2023 Greenland landslide": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2023 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2024 Serbian environmental protests": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2024 United Nations Biodiversity Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2024 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2024 in Greenland": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2025 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2026 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2027 United Nations Climate Change Conference": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "2052: A Global Forecast for the Next Forty Years": {
+  "v": "out",
+  "why": "single dated event"
+ },
+ "2nd Street Market": {
+  "v": "out",
+  "why": "single marketplace"
+ },
+ "3-Hydroxypropionate/4-hydroxybutyrate cycle": {
+  "v": "out",
+  "why": "biochemistry"
+ },
+ "30th World Economic Forum": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "350.org": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "5 Gyres": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "501(c)(3) organization": {
+  "v": "out",
+  "why": "US tax status"
+ },
+ "56th World Economic Forum": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "A Blueprint for Survival": {
+  "v": "out",
+  "why": "book or report"
+ },
+ "A Critical Review of Impacts of Greenhouse Gas Emissions on the U.S. Climate": {
+  "v": "out",
+  "why": "book or report"
+ },
+ "A Green New Deal": {
+  "v": "out",
+  "why": "single report"
+ },
+ "A Taxonomy of Office Chairs": {
+  "v": "out",
+  "why": "book or report"
+ },
+ "A Treatise of Human Nature": {
+  "v": "out",
+  "why": "book or report"
+ },
+ "A Treatise on Money": {
+  "v": "out",
+  "why": "book or report"
+ },
+ "A. Starker Leopold": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "AP 42 Compilation of Air Pollutant Emission Factors": {
+  "v": "out",
+  "why": "US agency document"
+ },
+ "APG system": {
+  "v": "out",
+  "why": "plant taxonomy"
+ },
+ "ASEAN Agreement on Transboundary Haze Pollution": {
+  "v": "out",
+  "why": "regional or species-specific treaty"
+ },
+ "ATCOR": {
+  "v": "out",
+  "why": "niche land tax acronym"
+ },
+ "ATL & BTL Agencies": {
+  "v": "out",
+  "why": "marketing"
+ },
+ "Aarey Forest": {
+  "v": "out",
+  "why": "single place"
+ },
+ "Aarhus Protocol on Persistent Organic Pollutants": {
+  "v": "out",
+  "why": "regional or species-specific treaty"
+ },
+ "Aaron Mair": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Abandonment rate": {
+  "v": "out",
+  "why": "marketing term"
+ },
+ "Abbotts Hall Farm": {
+  "v": "out",
+  "why": "single place or protected area"
+ },
+ "Abby Rockefeller (ecologist)": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Abengoa": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Abidjan": {
+  "v": "out",
+  "why": "city"
+ },
+ "Abiotic component": {
+  "v": "support",
+  "ch": "ecosystem-structure-and-function",
+  "why": "non-living parts of ecosystems"
+ },
+ "Abrupt climate change": {
+  "v": "out",
+  "why": "general climate science"
+ },
+ "Absolute advantage": {
+  "v": "support",
+  "ch": "economics-from-the-ground-up-other-topic",
+  "why": "basic trade concept alongside comparative advantage"
+ },
+ "Absolute income hypothesis": {
+  "v": "out",
+  "why": "macroeconomics, not needed here"
+ },
+ "Abundance (ecology)": {
+  "v": "support",
+  "ch": "biodiversity-and-its-loss",
+  "why": "basic measure of species representation"
+ },
+ "Abundance (economics)": {
+  "v": "out",
+  "why": "unclear holding page"
+ },
+ "Academy for Sustainable Communities": {
+  "v": "out",
+  "why": "UK government body"
+ },
+ "Accession Treaty of Spain to the European Economic Community": {
+  "v": "out",
+  "why": "EU accession treaty"
+ },
+ "Accounting": {
+  "v": "out",
+  "why": "very broad general field"
+ },
+ "Acculturation": {
+  "v": "out",
+  "why": "unrelated social science"
+ },
+ "Acetylide": {
+  "v": "out",
+  "why": "chemistry topic, not subject"
+ },
+ "Acidosis": {
+  "v": "out",
+  "why": "medical topic"
+ },
+ "Acoustic ecology": {
+  "v": "out",
+  "why": "soundscape study, unrelated"
+ },
+ "Actinides in the environment": {
+  "v": "out",
+  "why": "nuclear chemistry"
+ },
+ "Activated carbon": {
+  "v": "out",
+  "why": "material"
+ },
+ "Active labour market policies": {
+  "v": "out",
+  "why": "labour economics, unrelated"
+ },
+ "Ad valorem tax": {
+  "v": "out",
+  "why": "general tax term, not needed"
+ },
+ "Adam Rome": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Adam Smith Prize": {
+  "v": "out",
+  "why": "award"
+ },
+ "Adam Werbach": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Adaptation": {
+  "v": "out",
+  "why": "general evolutionary biology"
+ },
+ "Adaptation (eye)": {
+  "v": "out",
+  "why": "physiology"
+ },
+ "Adaptive behavior (ecology)": {
+  "v": "out",
+  "why": "behavioral ecology, unrelated"
+ },
+ "Adaptive market hypothesis": {
+  "v": "out",
+  "why": "finance theory"
+ },
+ "Addis Mercato": {
+  "v": "out",
+  "why": "single marketplace"
+ },
+ "Addo Elephant National Park": {
+  "v": "out",
+  "why": "single place or protected area"
+ },
+ "Adelaida K. Semesi": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Adelaide Central Market": {
+  "v": "out",
+  "why": "single marketplace"
+ },
+ "Adele Morris": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Adil Najam": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Adipose tissue": {
+  "v": "out",
+  "why": "anatomy"
+ },
+ "Adjustable-rate mortgage": {
+  "v": "out",
+  "why": "consumer finance"
+ },
+ "Adjusted gross income": {
+  "v": "out",
+  "why": "US tax term"
+ },
+ "Adjusted present value": {
+  "v": "out",
+  "why": "corporate finance niche"
+ },
+ "Administrative divisions of Greenland": {
+  "v": "out",
+  "why": "places"
+ },
+ "Administrative-command system": {
+  "v": "out",
+  "why": "economic system history, unrelated"
+ },
+ "Administrator of the Environmental Protection Agency": {
+  "v": "out",
+  "why": "US office"
+ },
+ "Adolf Engler": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Advance market commitment": {
+  "v": "out",
+  "why": "vaccine funding mechanism, niche here"
+ },
+ "Adventure Consultants": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Advertising": {
+  "v": "out",
+  "why": "marketing"
+ },
+ "Advisory Group on Greenhouse Gases": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Adélaïde Charlier": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Aegean and Western Turkey sclerophyllous and mixed forests": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Aerial Forest Protection Service (Russia)": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Aerobic organism": {
+  "v": "out",
+  "why": "general biology"
+ },
+ "Afforestation in Scotland": {
+  "v": "out",
+  "why": "regional topic"
+ },
+ "Africa Environment Outlook for Youth": {
+  "v": "out",
+  "why": "single UNEP project"
+ },
+ "African Adaptation Initiative": {
+  "v": "out",
+  "why": "regional initiative"
+ },
+ "African Adaptation Solutions Challenge": {
+  "v": "out",
+  "why": "award event"
+ },
+ "African Conservation Foundation": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "African Convention on the Conservation of Nature and Natural Resources": {
+  "v": "out",
+  "why": "regional or species-specific treaty"
+ },
+ "African carbon market": {
+  "v": "out",
+  "why": "regional market"
+ },
+ "African humid period": {
+  "v": "out",
+  "why": "paleoclimate"
+ },
+ "Afroz Shah": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Age class structure": {
+  "v": "out",
+  "why": "population ecology technique, too niche"
+ },
+ "Agenda 21": {
+  "v": "in",
+  "ch": "environmental-governance",
+  "why": "landmark UN sustainable development action plan"
+ },
+ "Agent-based computational economics": {
+  "v": "out",
+  "why": "computational economics, peripheral"
+ },
+ "Aggregate supply": {
+  "v": "out",
+  "why": "macroeconomics, not needed here"
+ },
+ "Aggregates Levy": {
+  "v": "out",
+  "why": "UK tax"
+ },
+ "Aggregation problem": {
+  "v": "out",
+  "why": "economic theory niche"
+ },
+ "Aghion–Howitt model": {
+  "v": "out",
+  "why": "growth theory model, unrelated"
+ },
+ "Agreed Measures for the Conservation of Antarctic Fauna and Flora": {
+  "v": "out",
+  "why": "regional or species-specific treaty"
+ },
+ "Agreement on the Conservation of African-Eurasian Migratory Waterbirds": {
+  "v": "out",
+  "why": "regional or species-specific treaty"
+ },
+ "Agreement on the Conservation of Albatrosses and Petrels": {
+  "v": "out",
+  "why": "species-specific treaty"
+ },
+ "Agreement on the Conservation of Cetaceans of the Black Sea, Mediterranean Sea and Contiguous Atlantic Area": {
+  "v": "out",
+  "why": "regional or species-specific treaty"
+ },
+ "Agreement on the Conservation of Gorillas and Their Habitats": {
+  "v": "out",
+  "why": "species-specific treaty"
+ },
+ "Agreement on the Conservation of Polar Bears": {
+  "v": "out",
+  "why": "regional or species-specific treaty"
+ },
+ "Agreement on the Conservation of Populations of European Bats": {
+  "v": "out",
+  "why": "regional or species-specific treaty"
+ },
+ "Agreement on the Conservation of Seals in the Wadden Sea": {
+  "v": "out",
+  "why": "regional or species-specific treaty"
+ },
+ "Agreement on the Conservation of Small Cetaceans of the Baltic, North East Atlantic, Irish and North Seas": {
+  "v": "out",
+  "why": "regional or species-specific treaty"
+ },
+ "Agricultural & Applied Economics Association": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Agricultural Market Information System": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Agricultural Marketing Service": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Agricultural biodiversity": {
+  "v": "support",
+  "ch": "biodiversity-and-its-loss",
+  "why": "agrobiodiversity underpins food provisioning services"
+ },
+ "Agricultural economics": {
+  "v": "support",
+  "ch": "natural-resource-economics-other-topics",
+  "why": "applied field adjoining resource economics"
+ },
+ "Agricultural lime": {
+  "v": "out",
+  "why": "soil amendment"
+ },
+ "Agricultural marketing": {
+  "v": "out",
+  "why": "marketing of farm goods"
+ },
+ "Agricultural pollution": {
+  "v": "support",
+  "ch": "working-lands",
+  "why": "classic agricultural externality"
+ },
+ "Agriculture in Concert with the Environment": {
+  "v": "out",
+  "why": "US program"
+ },
+ "Agrowth": {
+  "v": "in",
+  "ch": "growth-decoupling-and-limits",
+  "why": "growth-agnostic position in growth debate"
+ },
+ "Air Pollution Control Act of 1955": {
+  "v": "out",
+  "why": "country-specific law, policy or topic"
+ },
+ "Air Pollution Index": {
+  "v": "out",
+  "why": "national index"
+ },
+ "Air Quality Health Index (Canada)": {
+  "v": "out",
+  "why": "national index"
+ },
+ "Air Travel Tax": {
+  "v": "out",
+  "why": "Irish national tax"
+ },
+ "Air pollution": {
+  "v": "support",
+  "ch": "why-markets-miss-nature",
+  "why": "classic pollution externality example"
+ },
+ "Air pollution forecasting": {
+  "v": "out",
+  "why": "atmospheric science"
+ },
+ "Air pollution in British Columbia": {
+  "v": "out",
+  "why": "regional"
+ },
+ "Air pollution in India": {
+  "v": "out",
+  "why": "country-specific"
+ },
+ "Air pollution in Turkey": {
+  "v": "out",
+  "why": "country-specific"
+ },
+ "Air pollution in the United States": {
+  "v": "out",
+  "why": "country-specific"
+ },
+ "Air quality index": {
+  "v": "out",
+  "why": "monitoring index, environmental science"
+ },
+ "Air quality law": {
+  "v": "out",
+  "why": "US-centric law topic"
+ },
+ "Air well (condenser)": {
+  "v": "out",
+  "why": "device"
+ },
+ "Aircraft noise pollution": {
+  "v": "out",
+  "why": "specific pollution type, peripheral"
+ },
+ "Airglow": {
+  "v": "out",
+  "why": "atmospheric physics"
+ },
+ "Airshed": {
+  "v": "out",
+  "why": "air-quality management geography, niche"
+ },
+ "Akbelen Forest": {
+  "v": "out",
+  "why": "single place"
+ },
+ "Aki-Matilda Høegh-Dam": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Al Runte": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Al Shouf Cedar Nature Reserve": {
+  "v": "out",
+  "why": "single place or protected area"
+ },
+ "Alam-Pedja Nature Reserve": {
+  "v": "out",
+  "why": "single place or protected area"
+ },
+ "Alan Greenspan": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Alan Krueger": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Alaska Department of Environmental Conservation v. EPA": {
+  "v": "out",
+  "why": "country-specific law, policy or topic"
+ },
+ "Alastair Driver": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Alastair Fitter": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Albert Knapp": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Albert Morris": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Alberta Environment and Protected Areas": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Albertine Rift montane forests": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Alcohol tax": {
+  "v": "out",
+  "why": "health excise, not environmental"
+ },
+ "Aldi": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Alexander Gerschenkron": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Alexander Watt": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Algerian Green Dam": {
+  "v": "out",
+  "why": "single national project"
+ },
+ "Algorithmic game theory": {
+  "v": "out",
+  "why": "computer science"
+ },
+ "Alice Holt Forest": {
+  "v": "out",
+  "why": "single place or protected area"
+ },
+ "Alimenta": {
+  "v": "out",
+  "why": "ancient Roman welfare"
+ },
+ "Alismatales": {
+  "v": "out",
+  "why": "taxon"
+ },
+ "Alkalosis": {
+  "v": "out",
+  "why": "medical topic"
+ },
+ "Allen Hershkowitz": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Allen V. Kneese": {
+  "v": "in",
+  "ch": "people-who-shaped-the-field",
+  "why": "founder of environmental economics, materials balance"
+ },
+ "Alliance for Zero Extinction": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Allogenic succession": {
+  "v": "out",
+  "why": "niche ecology term"
+ },
+ "Allotropes of carbon": {
+  "v": "out",
+  "why": "chemistry topic, not subject"
+ },
+ "Alpine Pearls": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Alpine climate": {
+  "v": "out",
+  "why": "climatology"
+ },
+ "Alps conifer and mixed forests": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Altai montane forest and forest steppe": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Alter-globalization": {
+  "v": "out",
+  "why": "political movement"
+ },
+ "Alternatiba, Village of Alternatives": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Alternative minimum tax": {
+  "v": "out",
+  "why": "US tax law"
+ },
+ "Alternative stable state": {
+  "v": "in",
+  "ch": "resilience-thresholds-and-limits",
+  "why": "core regime-shift concept"
+ },
+ "Altezza Travel": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Alto Mayo Protection Forest": {
+  "v": "out",
+  "why": "single place or protected area"
+ },
+ "Alto Paraná Atlantic forests": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Amanda McKenzie": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Amazon Conservation Association": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Amazon Conservation Team": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Amazon Cooperation Treaty Organization": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Amazon biome": {
+  "v": "out",
+  "why": "single region"
+ },
+ "Amazon rainforest": {
+  "v": "out",
+  "why": "single region"
+ },
+ "American Clean Energy and Security Act": {
+  "v": "out",
+  "why": "country-specific law, policy or topic"
+ },
+ "American Economic Association": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "American Economic Journal": {
+  "v": "out",
+  "why": "journal"
+ },
+ "American Economic Review": {
+  "v": "out",
+  "why": "journal"
+ },
+ "American Forests": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "American Marketing Association": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "American Prairie (nature reserve)": {
+  "v": "out",
+  "why": "single place"
+ },
+ "American Psychological Association": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "American Rescue Plan Act of 2021": {
+  "v": "out",
+  "why": "country-specific law, policy or topic"
+ },
+ "American School (economics)": {
+  "v": "out",
+  "why": "national economic history"
+ },
+ "American Society for Environmental History": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "American System (economic plan)": {
+  "v": "out",
+  "why": "national economic history"
+ },
+ "American green tree frog": {
+  "v": "out",
+  "why": "species"
+ },
+ "Americans for Tax Reform": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Ammonia pollution": {
+  "v": "out",
+  "why": "specific pollutant"
+ },
+ "Ammonium carbonate": {
+  "v": "out",
+  "why": "chemistry topic, not subject"
+ },
+ "Amorphous carbon": {
+  "v": "out",
+  "why": "chemistry topic, not subject"
+ },
+ "Amorphous carbonia": {
+  "v": "out",
+  "why": "chemistry topic, not subject"
+ },
+ "Amortization (tax law)": {
+  "v": "out",
+  "why": "tax law"
+ },
+ "Amrita Devi": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Amy Bowers Cordalis": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "An Economic Theory of Democracy": {
+  "v": "out",
+  "why": "book or report"
+ },
+ "An Essay on the Nature and Significance of Economic Science": {
+  "v": "out",
+  "why": "book or report"
+ },
+ "Analysis of algorithms": {
+  "v": "out",
+  "why": "computer science"
+ },
+ "Anarcho-capitalism": {
+  "v": "out",
+  "why": "political ideology"
+ },
+ "Anatolian conifer and deciduous mixed forests": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Ancestral domain": {
+  "v": "support",
+  "ch": "justice-rights-and-indigenous-knowledge",
+  "why": "indigenous land and resource rights"
+ },
+ "Ancylite": {
+  "v": "out",
+  "why": "mineral; unrelated to subject"
+ },
+ "Andersonite": {
+  "v": "out",
+  "why": "mineral; unrelated to subject"
+ },
+ "Andreas Malm": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Andrew Fisher": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Andrew Haswell Green": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Andrew J. Jordan": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Andrew Simms": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Angle gauge": {
+  "v": "out",
+  "why": "forestry tool"
+ },
+ "Anil Agarwal (environmentalist)": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Animal Welfare (Sentience) Act 2022": {
+  "v": "out",
+  "why": "country-specific law, policy or topic"
+ },
+ "Animal Welfare Act 2006": {
+  "v": "out",
+  "why": "country-specific law, policy or topic"
+ },
+ "Animal Welfare Act of 1966": {
+  "v": "out",
+  "why": "country-specific law, policy or topic"
+ },
+ "Animal Welfare Committee": {
+  "v": "out",
+  "why": "UK body"
+ },
+ "Animal Welfare Institute": {
+  "v": "out",
+  "why": "organization"
+ },
+ "Animal genetic resources for food and agriculture": {
+  "v": "out",
+  "why": "FAO database topic, niche"
+ },
+ "Animal welfare": {
+  "v": "out",
+  "why": "animal ethics, separate field"
+ },
+ "Animal welfare and rights in Brazil": {
+  "v": "out",
+  "why": "country-specific animal welfare"
+ },
+ "Animal welfare and rights in China": {
+  "v": "out",
+  "why": "country-specific law, policy or topic"
+ },
+ "Animal welfare and rights in Germany": {
+  "v": "out",
+  "why": "country-specific law, policy or topic"
+ },
+ "Animal welfare and rights in India": {
+  "v": "out",
+  "why": "country-specific law, policy or topic"
+ },
+ "Animal welfare and rights in Israel": {
+  "v": "out",
+  "why": "country-specific law, policy or topic"
+ },
+ "Animal welfare and rights in Japan": {
+  "v": "out",
+  "why": "country-specific law, policy or topic"
+ },
+ "Animal welfare and rights in Malaysia": {
+  "v": "out",
+  "why": "country-specific law, policy or topic"
+ },
+ "Animal welfare and rights in South Korea": {
+  "v": "out",
+  "why": "country-specific animal welfare"
+ },
+ "Animal welfare in Egypt": {
+  "v": "out",
+  "why": "country-specific animal welfare"
+ },
+ "Animal welfare in Nazi Germany": {
+  "v": "out",
+  "why": "historical country-specific topic"
+ },
+ "Animal welfare in New Zealand": {
+  "v": "out",
+  "why": "country-specific animal welfare"
+ },
+ "Animal welfare in Thailand": {
+  "v": "out",
+  "why": "country-specific animal welfare"
+ },
+ "Animal welfare in the United Kingdom": {
+  "v": "out",
+  "why": "country-specific law, policy or topic"
+ },
+ "Animal welfare in the United States": {
+  "v": "out",
+  "why": "country-specific law, policy or topic"
+ },
+ "Animal welfare science": {
+  "v": "out",
+  "why": "separate field"
+ },
+ "Anjajavy Forest": {
+  "v": "out",
+  "why": "single place or protected area"
+ },
+ "Ankeniheny-Zahamena Corridor": {
+  "v": "out",
+  "why": "single protected area"
+ },
+ "Ankerite": {
+  "v": "out",
+  "why": "mineral; unrelated to subject"
+ },
+ "AnnMari Jansson": {
+  "v": "in",
+  "ch": "people-who-shaped-the-field",
+  "why": "co-founder of ecological economics (ISEE)"
+ },
+ "Anna Botsford Comstock": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Anna Luísa Beserra": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Annapurna Conservation Area": {
+  "v": "out",
+  "why": "single place or protected area"
+ },
+ "Anne H. Ehrlich": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Anne Larigauderie": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Anne Springs Close Greenway": {
+  "v": "out",
+  "why": "single place"
+ },
+ "Annise Parker": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Annual Review of Resource Economics": {
+  "v": "out",
+  "why": "journal"
+ },
+ "Annual effective discount rate": {
+  "v": "out",
+  "why": "finance rate convention, niche"
+ },
+ "Ansel Adams": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Ansel Adams Award for Conservation Photography": {
+  "v": "out",
+  "why": "award"
+ },
+ "Ant Forest": {
+  "v": "out",
+  "why": "single company initiative"
+ },
+ "Antarctic Cold Reversal": {
+  "v": "out",
+  "why": "paleoclimate"
+ },
+ "Anthony Clinton Fisher": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Anthony Venables": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Anthropization": {
+  "v": "out",
+  "why": "general geography term"
+ },
+ "Anthropocene": {
+  "v": "support",
+  "ch": "nature-as-the-economy-s-foundation",
+  "why": "framing of humanity as planetary force"
+ },
+ "Anthropogenic biome": {
+  "v": "out",
+  "why": "biogeography concept, peripheral"
+ },
+ "Anthroposphere": {
+  "v": "out",
+  "why": "general earth science term"
+ },
+ "Anti-competitive practices": {
+  "v": "out",
+  "why": "competition law"
+ },
+ "Anti-consumerism": {
+  "v": "out",
+  "why": "social ideology, peripheral"
+ },
+ "Anti-environmentalism": {
+  "v": "out",
+  "why": "political ideology"
+ },
+ "Anti-greenhouse effect": {
+  "v": "out",
+  "why": "planetary atmospheres"
+ },
+ "Anti-incinerator movement in China": {
+  "v": "out",
+  "why": "national movement"
+ },
+ "Anti-nuclear movement": {
+  "v": "out",
+  "why": "political movement"
+ },
+ "Anti-predator adaptation": {
+  "v": "out",
+  "why": "animal behavior"
+ },
+ "Anti-rival good": {
+  "v": "out",
+  "why": "niche goods classification"
+ },
+ "Antioxidant": {
+  "v": "out",
+  "why": "chemistry"
+ },
+ "Anuna De Wever": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Apache National Forest": {
+  "v": "out",
+  "why": "single place or protected area"
+ },
+ "Apennine deciduous montane forests": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Appalachian Voices": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Appliance recycling": {
+  "v": "out",
+  "why": "single recycling stream"
+ },
+ "Applications of cybernetics in economics": {
+  "v": "out",
+  "why": "niche"
+ },
+ "Applied ecology": {
+  "v": "out",
+  "why": "very broad field"
+ },
+ "Applied economics": {
+  "v": "out",
+  "why": "very broad field"
+ },
+ "Appraiser": {
+  "v": "out",
+  "why": "occupation"
+ },
+ "Apure–Villavicencio dry forests": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Aquaculture Stewardship Council": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Aquatic ecosystem": {
+  "v": "support",
+  "ch": "key-ecosystems",
+  "why": "aquatic ecosystems provide many services"
+ },
+ "Aquatic plant": {
+  "v": "out",
+  "why": "organism group"
+ },
+ "Aquatic science": {
+  "v": "out",
+  "why": "broad field"
+ },
+ "Aquifer": {
+  "v": "support",
+  "ch": "forests-land-and-water",
+  "why": "groundwater resource economics basis"
+ },
+ "Aquifer storage and recovery": {
+  "v": "out",
+  "why": "water engineering technique"
+ },
+ "Arachidonic acid": {
+  "v": "out",
+  "why": "chemistry topic, not subject"
+ },
+ "Aragonite": {
+  "v": "out",
+  "why": "mineral; unrelated to subject"
+ },
+ "Araucaria moist forests": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Arava Institute for Environmental Studies": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Aravalli West Thorn Scrub Forests": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Arbitrage": {
+  "v": "out",
+  "why": "finance"
+ },
+ "Archie Carr": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Architecture for REDD+ Transactions": {
+  "v": "out",
+  "why": "single crediting programme"
+ },
+ "Arctic Climate Impact Assessment": {
+  "v": "out",
+  "why": "single regional assessment"
+ },
+ "Arctic Umiaq Line": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Arctic Waters Pollution Prevention Act": {
+  "v": "out",
+  "why": "country-specific law, policy or topic"
+ },
+ "Arctic methane emissions": {
+  "v": "out",
+  "why": "climate science"
+ },
+ "Area source pollution": {
+  "v": "out",
+  "why": "emissions inventory term, niche"
+ },
+ "Arik Levinson": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Arjen Hoekstra": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Arnold Toynbee (historian, born 1852)": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Arrow–Debreu model": {
+  "v": "out",
+  "why": "advanced general equilibrium, beyond course needs"
+ },
+ "Arsenic contamination of groundwater": {
+  "v": "out",
+  "why": "specific pollution problem"
+ },
+ "Art Cooley": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Arthur H. Westing": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Arthur Nielsen": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Arthur Tansley": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Artificial Intelligence for Environment & Sustainability": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Artificial demand": {
+  "v": "out",
+  "why": "marketing concept"
+ },
+ "Artificial scarcity": {
+  "v": "out",
+  "why": "IP economics concept"
+ },
+ "Artinite": {
+  "v": "out",
+  "why": "mineral; unrelated to subject"
+ },
+ "Asghar Leghari vs. Federation of Pakistan": {
+  "v": "out",
+  "why": "single court case"
+ },
+ "Ashok Khosla": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Asia Pacific Greens Federation": {
+  "v": "out",
+  "why": "political parties"
+ },
+ "Asia-Pacific Economic Cooperation": {
+  "v": "out",
+  "why": "trade forum"
+ },
+ "Asia-Pacific Partnership on Clean Development and Climate": {
+  "v": "out",
+  "why": "defunct regional partnership"
+ },
+ "Asian Trekking": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Assembly rules": {
+  "v": "out",
+  "why": "community ecology niche"
+ },
+ "Asset": {
+  "v": "support",
+  "ch": "national-and-corporate-natural-capital-a",
+  "why": "natural capital treated as asset"
+ },
+ "Assets under management": {
+  "v": "out",
+  "why": "investment term"
+ },
+ "Assigned amount unit": {
+  "v": "in",
+  "ch": "tradable-permits-and-carbon-markets",
+  "why": "Kyoto emissions trading unit"
+ },
+ "Assimilative capacity": {
+  "v": "in",
+  "ch": "nature-as-the-economy-s-foundation",
+  "why": "nature's sink function for pollution"
+ },
+ "Assisted migration": {
+  "v": "out",
+  "why": "conservation biology technique"
+ },
+ "Assisted migration of forests in North America": {
+  "v": "out",
+  "why": "regional topic"
+ },
+ "Association (ecology)": {
+  "v": "out",
+  "why": "community ecology term"
+ },
+ "Association for the Advancement of Sustainability in Higher Education": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Association for the Taxation of Financial Transactions and for Citizens' Action": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Association of Environmental Professionals": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Association of Environmental and Resource Economists": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Atchafalaya Basin": {
+  "v": "out",
+  "why": "single place"
+ },
+ "Atkinson Center for a Sustainable Future": {
+  "v": "out",
+  "why": "university center"
+ },
+ "Atlantic Forest": {
+  "v": "out",
+  "why": "single region"
+ },
+ "Atlantic dry forests": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Atlantic mixed forests": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Atmospheric carbon cycle": {
+  "v": "out",
+  "why": "sub-article; carbon cycle covered elsewhere"
+ },
+ "Atmospheric dispersion modeling": {
+  "v": "out",
+  "why": "air pollution engineering"
+ },
+ "Atmospheric methane removal": {
+  "v": "out",
+  "why": "speculative niche technology"
+ },
+ "Atomic carbon": {
+  "v": "out",
+  "why": "chemistry topic, not subject"
+ },
+ "Attendance Allowance": {
+  "v": "out",
+  "why": "UK welfare"
+ },
+ "Attention economy": {
+  "v": "out",
+  "why": "unrelated economics"
+ },
+ "Attention restoration theory": {
+  "v": "out",
+  "why": "psychology"
+ },
+ "Attention theft": {
+  "v": "out",
+  "why": "marketing"
+ },
+ "Atuagagdliutit/Grønlandsposten": {
+  "v": "out",
+  "why": "newspaper"
+ },
+ "Atwater Market": {
+  "v": "out",
+  "why": "single marketplace"
+ },
+ "Auction theory": {
+  "v": "out",
+  "why": "general microeconomics branch, peripheral"
+ },
+ "Auden Schendler": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "August Thienemann": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Aurelia Harwood": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Aurichalcite": {
+  "v": "out",
+  "why": "mineral; unrelated to subject"
+ },
+ "Austerity": {
+  "v": "out",
+  "why": "macroeconomic policy"
+ },
+ "Austerity: The History of a Dangerous Idea": {
+  "v": "out",
+  "why": "book or report"
+ },
+ "Australian Conservation Foundation": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Australian Energy Market Commission": {
+  "v": "out",
+  "why": "national agency"
+ },
+ "Australian Marine Conservation Society": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Australian Student Environment Network": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Australian Youth Climate Coalition": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Austrian Institute of Economic Research": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Austrian World Summit": {
+  "v": "out",
+  "why": "single event or conference"
+ },
+ "Austrian business cycle theory": {
+  "v": "out",
+  "why": "macroeconomics school"
+ },
+ "Austrian school of economics": {
+  "v": "out",
+  "why": "school of thought, unrelated"
+ },
+ "Autecology": {
+  "v": "out",
+  "why": "ecology subfield, not needed"
+ },
+ "Automatic stabilizer": {
+  "v": "out",
+  "why": "macroeconomics"
+ },
+ "Automotive oil recycling": {
+  "v": "out",
+  "why": "single recycling stream"
+ },
+ "Available name": {
+  "v": "out",
+  "why": "taxonomic nomenclature"
+ },
+ "Aviation biofuel": {
+  "v": "out",
+  "why": "fuel technology"
+ },
+ "Aviation taxation and subsidies": {
+  "v": "out",
+  "why": "sector-specific taxes, peripheral"
+ },
+ "Avoid-Shift-Improve": {
+  "v": "out",
+  "why": "niche transport framework"
+ },
+ "Aydar Akhatov": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Ayot Greenway": {
+  "v": "out",
+  "why": "single trail"
+ },
+ "Azores temperate mixed forests": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Azurite": {
+  "v": "out",
+  "why": "mineral; unrelated to subject"
+ },
+ "B Corporation (certification)": {
+  "v": "out",
+  "why": "single certification brand"
+ },
+ "B3 (stock exchange)": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "BIOS-3": {
+  "v": "out",
+  "why": "single facility"
+ },
+ "BN66": {
+  "v": "out",
+  "why": "UK tax law"
+ },
+ "BREEAM": {
+  "v": "out",
+  "why": "building rating brand"
+ },
+ "BRIC (economics term)": {
+  "v": "out",
+  "why": "country grouping"
+ },
+ "BSE SENSEX": {
+  "v": "out",
+  "why": "stock index"
+ },
+ "BSI PAS 2060": {
+  "v": "out",
+  "why": "national standard"
+ },
+ "Baba Shiv": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Bachelor of Economics": {
+  "v": "out",
+  "why": "degree"
+ },
+ "Back to nature": {
+  "v": "out",
+  "why": "lifestyle philosophy"
+ },
+ "Background radiation": {
+  "v": "out",
+  "why": "physics"
+ },
+ "Backstop resources": {
+  "v": "in",
+  "ch": "renewable-and-non-renewable-resources",
+  "why": "core concept in exhaustible resource economics"
+ },
+ "Bacterial cellulose": {
+  "v": "out",
+  "why": "chemistry topic, not subject"
+ },
+ "Baffin Bay": {
+  "v": "out",
+  "why": "single place"
+ },
+ "Baffle spray scrubber": {
+  "v": "out",
+  "why": "pollution control device"
+ },
+ "Baghouse": {
+  "v": "out",
+  "why": "pollution control device"
+ },
+ "Bahamian dry forests": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Bahia coastal forests": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Bahia interior forests": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Bahia mangroves": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Bajío dry forests": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Balance of nature": {
+  "v": "support",
+  "ch": "resilience-thresholds-and-limits",
+  "why": "superseded idea contrasted with resilience thinking"
+ },
+ "Balance sheet recession": {
+  "v": "out",
+  "why": "macroeconomics"
+ },
+ "Balaton Group": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Balgis Osman-Elasha": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Balkan green lizard": {
+  "v": "out",
+  "why": "species"
+ },
+ "Balkan mixed forests": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Ballast water discharge and the environment": {
+  "v": "out",
+  "why": "shipping pollution niche"
+ },
+ "Balsas dry forests": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Baltic mixed forests": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Baltimore Gas & Electric Co. v. Natural Resources Defense Council, Inc.": {
+  "v": "out",
+  "why": "country-specific law, policy or topic"
+ },
+ "Bamboo forest": {
+  "v": "out",
+  "why": "vegetation type, niche"
+ },
+ "Bangladesh Climate Change Resilience Fund": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Bank of Natural Capital": {
+  "v": "out",
+  "why": "stub website/project, niche"
+ },
+ "Bank tax": {
+  "v": "out",
+  "why": "financial tax"
+ },
+ "Bao Bolong Wetland Reserve": {
+  "v": "out",
+  "why": "single place or protected area"
+ },
+ "Barbertonite": {
+  "v": "out",
+  "why": "mineral; unrelated to subject"
+ },
+ "Barcelona School of Economics": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Bargaining": {
+  "v": "support",
+  "ch": "public-goods-commons-and-property",
+  "why": "bargaining underlies Coase theorem"
+ },
+ "Barguzinsky Nature Reserve": {
+  "v": "out",
+  "why": "single place or protected area"
+ },
+ "Barium carbonate": {
+  "v": "out",
+  "why": "chemistry topic, not subject"
+ },
+ "Barriers to entry": {
+  "v": "out",
+  "why": "industrial organization"
+ },
+ "Barriers to pro-environmental behaviour": {
+  "v": "out",
+  "why": "environmental psychology"
+ },
+ "Barry Sinervo": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Barytocalcite": {
+  "v": "out",
+  "why": "mineral; unrelated to subject"
+ },
+ "Base erosion and profit shifting": {
+  "v": "out",
+  "why": "corporate tax avoidance"
+ },
+ "Basel Action Network": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Basel Convention": {
+  "v": "in",
+  "ch": "environmental-governance",
+  "why": "major multilateral environmental agreement on waste"
+ },
+ "Bashkirian": {
+  "v": "out",
+  "why": "geologic stage"
+ },
+ "Baumol–Tobin model": {
+  "v": "out",
+  "why": "monetary economics"
+ },
+ "Bayarjargal Agvaantseren": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Bayhead": {
+  "v": "out",
+  "why": "local swamp type"
+ },
+ "Bayleyite": {
+  "v": "out",
+  "why": "mineral; unrelated to subject"
+ },
+ "Bazaar": {
+  "v": "out",
+  "why": "marketplace type"
+ },
+ "Beacon Food Forest": {
+  "v": "out",
+  "why": "single place"
+ },
+ "Beaverhead–Deerlodge National Forest": {
+  "v": "out",
+  "why": "single place"
+ },
+ "Beccy Speight": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Becher Point Wetlands": {
+  "v": "out",
+  "why": "single place"
+ },
+ "Becker Friedman Institute for Research in Economics": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Bedroom tax": {
+  "v": "out",
+  "why": "UK welfare"
+ },
+ "Beech–maple forest": {
+  "v": "out",
+  "why": "forest type, regional"
+ },
+ "Behavioral assumption": {
+  "v": "out",
+  "why": "stub; covered by rational choice pages"
+ },
+ "Behavioral ecology": {
+  "v": "out",
+  "why": "animal behavior field"
+ },
+ "Belgian economic miracle": {
+  "v": "out",
+  "why": "national economic history"
+ },
+ "Bell M. Shimada": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Bellona Foundation": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Ben Metcalfe": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Benefit principle": {
+  "v": "out",
+  "why": "public finance niche"
+ },
+ "Benelux": {
+  "v": "out",
+  "why": "political union"
+ },
+ "Benjamin D. Santer": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Benstonite": {
+  "v": "out",
+  "why": "mineral; unrelated to subject"
+ },
+ "Benthic zone": {
+  "v": "out",
+  "why": "marine zone, peripheral"
+ },
+ "Bergmann's rule": {
+  "v": "out",
+  "why": "biogeography rule"
+ },
+ "Berlin School of Economics and Law": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Bermondsey Market": {
+  "v": "out",
+  "why": "single marketplace"
+ },
+ "Bernard Forest de Bélidor": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Berne Convention on the Conservation of European Wildlife and Natural Habitats": {
+  "v": "out",
+  "why": "regional or species-specific treaty"
+ },
+ "Bernhard Fernow": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Bernie Zaleha": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Bertelsmann Transformation Index": {
+  "v": "out",
+  "why": "governance index"
+ },
+ "Berthold Ribbentrop": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Bertrand competition": {
+  "v": "out",
+  "why": "oligopoly theory"
+ },
+ "Bertrand de Jouvenel": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Bertrand–Edgeworth model": {
+  "v": "out",
+  "why": "oligopoly theory"
+ },
+ "Berwick Street Market": {
+  "v": "out",
+  "why": "single marketplace"
+ },
+ "Beryllium carbonate": {
+  "v": "out",
+  "why": "chemistry topic, not subject"
+ },
+ "Bessarabskyi Market": {
+  "v": "out",
+  "why": "single marketplace"
+ },
+ "Best management practice for water pollution": {
+  "v": "out",
+  "why": "North American practice"
+ },
+ "Best practicable environmental option": {
+  "v": "out",
+  "why": "UK policy concept"
+ },
+ "Bestor Robinson": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Beta (finance)": {
+  "v": "out",
+  "why": "finance"
+ },
+ "Beta diversity": {
+  "v": "support",
+  "ch": "biodiversity-and-its-loss",
+  "why": "standard biodiversity measure"
+ },
+ "Beveridge Report": {
+  "v": "out",
+  "why": "UK welfare report"
+ },
+ "Bhitarkanika Mangroves": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Bid–ask spread": {
+  "v": "out",
+  "why": "finance"
+ },
+ "Big Ask (campaign)": {
+  "v": "out",
+  "why": "single campaign"
+ },
+ "Big Bang (financial markets)": {
+  "v": "out",
+  "why": "single event"
+ },
+ "Big Mac Index": {
+  "v": "out",
+  "why": "purchasing-power index"
+ },
+ "Big Wind Carpenter": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Big push model": {
+  "v": "out",
+  "why": "development economics"
+ },
+ "Bijvoetite-(Y)": {
+  "v": "out",
+  "why": "mineral; unrelated to subject"
+ },
+ "Bilateral monopoly": {
+  "v": "out",
+  "why": "market structure niche"
+ },
+ "Bilge pollution": {
+  "v": "out",
+  "why": "ship pollution niche"
+ },
+ "Bill McKibben": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Billingsgate Fish Market": {
+  "v": "out",
+  "why": "single marketplace"
+ },
+ "Biltmore Forest School": {
+  "v": "out",
+  "why": "single institution"
+ },
+ "Biltmore stick": {
+  "v": "out",
+  "why": "forestry tool"
+ },
+ "Bina Agarwal": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Binary economics": {
+  "v": "out",
+  "why": "fringe theory"
+ },
+ "Biochar": {
+  "v": "in",
+  "ch": "mitigation-and-carbon-removal",
+  "why": "carbon removal and soil practice"
+ },
+ "Biochar carbon removal": {
+  "v": "in",
+  "ch": "mitigation-and-carbon-removal",
+  "why": "biochar as negative emissions method"
+ },
+ "Biodiversity Indicators Partnership": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Biodiversity Information Standards (TDWG)": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Biodiversity action plan": {
+  "v": "in",
+  "ch": "biodiversity-agreements-and-targets",
+  "why": "national biodiversity action planning under CBD"
+ },
+ "Biodiversity hotspot": {
+  "v": "in",
+  "ch": "biodiversity-and-its-loss",
+  "why": "key conservation prioritization concept"
+ },
+ "Biodiversity in agriculture": {
+  "v": "support",
+  "ch": "working-lands",
+  "why": "biodiversity role in farm landscapes"
+ },
+ "Biodiversity informatics": {
+  "v": "out",
+  "why": "informatics field"
+ },
+ "Biodiversity of New Caledonia": {
+  "v": "out",
+  "why": "single place"
+ },
+ "Biodiversity of New Zealand": {
+  "v": "out",
+  "why": "single country"
+ },
+ "Bioeffector": {
+  "v": "out",
+  "why": "agronomy"
+ },
+ "Bioenergy with carbon capture and storage": {
+  "v": "in",
+  "ch": "mitigation-and-carbon-removal",
+  "why": "BECCS, major carbon removal option"
+ },
+ "Biofilter": {
+  "v": "out",
+  "why": "pollution control technique"
+ },
+ "Biogeoclimatic zones of British Columbia": {
+  "v": "out",
+  "why": "single ecoregion or place"
+ },
+ "Biological Conservation (journal)": {
+  "v": "out",
+  "why": "journal"
+ },
+ "Biological Dynamics of Forest Fragments Project": {
+  "v": "out",
+  "why": "single research project"
+ },
+ "Biological carbon fixation": {
+  "v": "out",
+  "why": "biochemistry"
+ },
+ "Biological integrity": {
+  "v": "out",
+  "why": "water quality metric, niche"
+ },
+ "Biological pollution": {
+  "v": "out",
+  "why": "invasive species term, peripheral"
+ },
+ "Biological pump": {
+  "v": "support",
+  "ch": "cycles-of-carbon-water-and-nutrients",
+  "why": "ocean carbon sink mechanism"
+ },
+ "Bioluminescence": {
+  "v": "out",
+  "why": "biology"
+ },
+ "Biomass (ecology)": {
+  "v": "support",
+  "ch": "ecosystem-structure-and-function",
+  "why": "basic ecosystem metric"
+ },
+ "Biomass briquettes": {
+  "v": "out",
+  "why": "fuel product"
+ },
+ "Biomass carbon removal and storage": {
+  "v": "in",
+  "ch": "mitigation-and-carbon-removal",
+  "why": "biomass-based carbon removal family"
+ },
+ "Biopiracy": {
+  "v": "in",
+  "ch": "justice-rights-and-indigenous-knowledge",
+  "why": "equity issue in genetic resource use"
+ },
+ "Bioprospecting": {
+  "v": "in",
+  "ch": "provisioning-and-regulating-services",
+  "why": "commercial value of genetic resources"
+ },
+ "Bioreactor": {
+  "v": "out",
+  "why": "engineering"
+ },
+ "Bioregion": {
+  "v": "out",
+  "why": "biogeography term, peripheral"
+ },
+ "Biosecurity": {
+  "v": "out",
+  "why": "disease prevention"
+ },
+ "Biosphere": {
+  "v": "support",
+  "ch": "nature-as-the-economy-s-foundation",
+  "why": "global ecosystem context of economy"
+ },
+ "Biosphere 2": {
+  "v": "out",
+  "why": "single facility"
+ },
+ "Biotic index": {
+  "v": "out",
+  "why": "water quality metric, niche"
+ },
+ "Biotic pump": {
+  "v": "out",
+  "why": "contested hydrology hypothesis"
+ },
+ "Biotope": {
+  "v": "out",
+  "why": "ecology term, peripheral"
+ },
+ "Bird Conservation International": {
+  "v": "out",
+  "why": "journal"
+ },
+ "Bird conservation": {
+  "v": "out",
+  "why": "taxon-specific conservation"
+ },
+ "BirdLife Australia": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "BirdLife International": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "BirdWatch Ireland": {
+  "v": "out",
+  "why": "organization or institution"
+ },
+ "Birds Directive": {
+  "v": "out",
+  "why": "EU-specific law"
+ },
+ "Birmingham school (economics)": {
+  "v": "out",
+  "why": "local school of thought"
+ },
+ "Biruté Galdikas": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Bishop Museum of Science and Nature": {
+  "v": "out",
+  "why": "museum"
+ },
+ "Bismutite": {
+  "v": "out",
+  "why": "mineral; unrelated to subject"
+ },
+ "Bjørn Lomborg": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Black Country Urban Forest": {
+  "v": "out",
+  "why": "local project"
+ },
+ "Black Forest": {
+  "v": "out",
+  "why": "single place"
+ },
+ "Black Monday (1987)": {
+  "v": "out",
+  "why": "single event"
+ },
+ "Black carbon": {
+  "v": "out",
+  "why": "air pollutant, climate science"
+ },
+ "Black market": {
+  "v": "out",
+  "why": "illegal markets, unrelated"
+ },
+ "Black-throated green warbler": {
+  "v": "out",
+  "why": "species"
+ },
+ "Blackwater river": {
+  "v": "out",
+  "why": "river type, peripheral"
+ },
+ "Bliss point (economics)": {
+  "v": "out",
+  "why": "consumer theory niche"
+ },
+ "Bloemenmarkt": {
+  "v": "out",
+  "why": "single marketplace"
+ }
+}

@@ -1,0 +1,2462 @@
+{
+ "FairTax": {
+  "v": "out",
+  "why": "national scheme or law without global significance"
+ },
+ "Fairy Creek old-growth logging protests": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Faiza Darkhani": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fakhri A. Bazzaz": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Falls Park on the Reedy": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "False economy": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Family (taxonomy)": {
+  "v": "out",
+  "why": "organism, taxon or substance"
+ },
+ "Family Assistance Plan": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Family economics": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Famosa Slough State Marine Conservation Area": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Farhana Sultana": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Farmers Market, Dallas": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Farmers' Market Nutrition Program / Senior Farmers' Market Nutrition Program": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Farmers' market": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fat tax": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fatemah Alzelzela": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fatima Jibrell": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Faucet aerator": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fauna and Flora International": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Faye Duchin": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Federal Agency for Nature Conservation": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Federal Department of Economic Affairs, Education and Research": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Federal Department of Environment, Transport, Energy and Communications": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Federal Duck Stamp": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Federal Institute for Geosciences and Natural Resources": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Federal Ministry for Economic Cooperation and Development": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Federal Ministry for the Environment, Climate Action, Nature Conservation and Nuclear Safety": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Federal Office for the Environment": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Federal Open Market Committee": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Federal aid during the COVID-19 pandemic in Canada": {
+  "v": "out",
+  "why": "single event or campaign"
+ },
+ "Federation of Green Parties of Africa": {
+  "v": "out",
+  "why": "general politics, only touches environment"
+ },
+ "Fedor Baranov": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Feed-in premium": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Feed-in tariff": {
+  "v": "in",
+  "ch": "subsidies-information-and-voluntary-appr",
+  "why": "price-support instrument for renewable energy"
+ },
+ "Felicia Keesing": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Felicity Wishart": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Felix Finkbeiner": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Feminist Economics (journal)": {
+  "v": "out",
+  "why": "academic journal"
+ },
+ "Feminist economics": {
+  "v": "out",
+  "why": "general economics school; only touches environment"
+ },
+ "Feminist political ecology": {
+  "v": "in",
+  "ch": "justice-rights-and-indigenous-knowledge",
+  "why": "gendered lens on environmental access and justice"
+ },
+ "Fen": {
+  "v": "support",
+  "ch": "key-ecosystems",
+  "why": "peat-forming wetland type; carbon store"
+ },
+ "Fertility": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fictitious commodities": {
+  "v": "in",
+  "ch": "debates-about-pricing-nature",
+  "why": "Polanyi's critique of commodifying land and nature"
+ },
+ "Fiji tropical dry forests": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Fikret Berkes": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Financial Services and Markets Act 2000": {
+  "v": "out",
+  "why": "national scheme or law without global significance"
+ },
+ "Financial capital": {
+  "v": "support",
+  "ch": "measuring-wealth-and-accounting-for-natu",
+  "why": "capital type contrasted with natural capital"
+ },
+ "Financial compensation": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Financial economics": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Financial incentives for photovoltaics": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Financial market": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Financial market efficiency": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Financial market impact of the COVID-19 pandemic": {
+  "v": "out",
+  "why": "single economic event"
+ },
+ "Financial market participants": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Financial risk management": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Financial services": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Financial transaction tax": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Findlay Market": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Finnish Association for Nature Conservation": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Fire Information for Resource Management System": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fire adaptations": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fire ecology": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fire sale": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "First five-year plan (Soviet Union)": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "First law of thermodynamics": {
+  "v": "support",
+  "ch": "ecological-economics",
+  "why": "materials balance and energy conservation in ecological economics"
+ },
+ "Fiscal conservatism": {
+  "v": "out",
+  "why": "general politics, only touches environment"
+ },
+ "Fiscal gap": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fiscal incidence": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Fiscal sustainability": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Fischer–Tropsch process": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fish as food": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fish market": {
+  "v": "out",
+  "why": "retail market type; not resource economics"
+ },
+ "Fish marketing": {
+  "v": "out",
+  "why": "consumer marketing topic"
+ },
+ "Fish mortality": {
+  "v": "in",
+  "ch": "fisheries",
+  "why": "fishing mortality parameter in stock assessment"
+ },
+ "Fish-booking": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fisher (animal)": {
+  "v": "out",
+  "why": "organism, taxon or substance"
+ },
+ "Fisher Body": {
+  "v": "out",
+  "why": "single company"
+ },
+ "Fisher effect": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Fisher equation": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Fisher information": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fisher market": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fisher separation theorem": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fisher's fundamental theorem of natural selection": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fisheries Act (Canada)": {
+  "v": "out",
+  "why": "national scheme or law without global significance"
+ },
+ "Fisheries Agency (Japan)": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Fisheries Convention": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fisheries and Oceans Canada": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Fisheries monitoring control and surveillance": {
+  "v": "support",
+  "ch": "fisheries",
+  "why": "enforcement side of fisheries management"
+ },
+ "Fisheries observer": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fisheries subsidy": {
+  "v": "in",
+  "ch": "fisheries",
+  "why": "harmful subsidies driving overfishing"
+ },
+ "Fisheries-induced evolution": {
+  "v": "support",
+  "ch": "fisheries",
+  "why": "long-run ecological cost of selective harvest"
+ },
+ "Fisherman": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fit for 55": {
+  "v": "out",
+  "why": "EU-specific legislative package"
+ },
+ "Five Freedoms": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Five-year plans of the Soviet Union": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fivebough and Tuckerbil Wetlands": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Flade Isblink": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Flag of Greenland": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Flagship species": {
+  "v": "support",
+  "ch": "biodiversity-and-its-loss",
+  "why": "conservation prioritisation and public appeal concept"
+ },
+ "Flat tax": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Flatwoods": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Flea market": {
+  "v": "out",
+  "why": "retail market type; word overlap"
+ },
+ "FleishmanHillard": {
+  "v": "out",
+  "why": "single company"
+ },
+ "Flexible mechanisms": {
+  "v": "in",
+  "ch": "tradable-permits-and-carbon-markets",
+  "why": "Kyoto market mechanisms: ET, CDM, JI"
+ },
+ "Flint Hills": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Floating market": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Flood pulse concept": {
+  "v": "support",
+  "ch": "water-and-flood-solutions",
+  "why": "floodplain ecology behind river flood services"
+ },
+ "Fluorescence": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fluorinated gases": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Flynn's taxonomy": {
+  "v": "out",
+  "why": "computer architecture; word overlap only"
+ },
+ "Folk taxonomy": {
+  "v": "out",
+  "why": "ethnobiology naming; not needed here"
+ },
+ "Food": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Food Quality Protection Act": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Food biodiversity": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Food chain": {
+  "v": "in",
+  "ch": "ecosystem-structure-and-function",
+  "why": "basic trophic structure of ecosystems"
+ },
+ "Food vs. feed": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Food, Conservation, and Energy Act of 2008": {
+  "v": "out",
+  "why": "national scheme or law without global significance"
+ },
+ "Foraging": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Foreign exchange market": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Foreign tax credit": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Forest & Bird": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Forest History Society": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Forest Land Enhancement Program": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Forest Landscape Integrity Index": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forest Legacy Program": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Forest Peoples Programme": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Forest Principles": {
+  "v": "in",
+  "ch": "environmental-governance",
+  "why": "1992 global non-binding forest governance statement"
+ },
+ "Forest Products Laboratory": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forest Research Institute (India)": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Forest Rights Act (India)": {
+  "v": "out",
+  "why": "national scheme or law without global significance"
+ },
+ "Forest Stewardship Council": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Forest Trends": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Forest and Rangeland Renewable Resources Planning Act of 1974": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forest cover": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forest degradation": {
+  "v": "in",
+  "ch": "forest-carbon-and-redd",
+  "why": "the 'D' of REDD+; carbon and biodiversity loss"
+ },
+ "Forest dieback": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forest dynamics": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forest floor": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forest inventory": {
+  "v": "support",
+  "ch": "forest-carbon-and-redd",
+  "why": "measurement basis for forest carbon MRV"
+ },
+ "Forest kindergarten": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forest migration": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forest of Dean": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forest of Fontainebleau": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Forest of Tronçais": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Forest pathology": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forest produce (India)": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forest product": {
+  "v": "support",
+  "ch": "forests-land-and-water",
+  "why": "timber and non-timber outputs of forests"
+ },
+ "Forest protection": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forest railway": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forest reference emission level": {
+  "v": "in",
+  "ch": "forest-carbon-and-redd",
+  "why": "REDD+ baseline benchmark"
+ },
+ "Forest reproductive material": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forest road": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forest school (learning style)": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forest stand": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forest steppe": {
+  "v": "out",
+  "why": "vegetation zone; general geography"
+ },
+ "Forest tent caterpillar moth": {
+  "v": "out",
+  "why": "organism, taxon or substance"
+ },
+ "Forest transition": {
+  "v": "in",
+  "ch": "forests-land-and-water",
+  "why": "theory of deforestation then reforestation with development"
+ },
+ "Forest-tundra": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forester": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forester's lodge": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Foresters' Association of Turkey": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forestry": {
+  "v": "support",
+  "ch": "forests-land-and-water",
+  "why": "forest management practice underlying forest economics"
+ },
+ "Forestry Act 1967": {
+  "v": "out",
+  "why": "national scheme or law without global significance"
+ },
+ "Forestry Agency": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Forestry Commission": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Forestry England": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Forestry and Land Scotland": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Forestry in the United Kingdom": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forests Now Declaration": {
+  "v": "out",
+  "why": "minor advocacy declaration"
+ },
+ "Forests of Turkey": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Formaldehyde": {
+  "v": "out",
+  "why": "organism, taxon or substance"
+ },
+ "Formalist–substantivist debate": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Forsinard Flows National Nature Reserve": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Forward market": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Fossil fuel": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fossil fuel divestment": {
+  "v": "in",
+  "ch": "climate-finance-and-agreements",
+  "why": "finance-sector climate strategy"
+ },
+ "Foundation for Economic Education": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Foundation for Research on Economics and the Environment": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Foundation species": {
+  "v": "support",
+  "ch": "ecosystem-structure-and-function",
+  "why": "species structuring ecosystems and their services"
+ },
+ "Foundations of Economic Analysis": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Four Major Rivers Project": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fourth International Conference on Environmental Education": {
+  "v": "out",
+  "why": "single event or campaign"
+ },
+ "Fourth National Climate Assessment": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fractionation of carbon isotopes in oxygenic photosynthesis": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fram Strait": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Framework Convention for the Protection of the Marine Environment of the Caspian Sea": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Framework Convention on the Protection and Sustainable Development of the Carpathians": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Francis C. Evans": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Francis P. Farquhar": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Frank Alan Ward": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Frank H. Wadsworth": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Frank de Jong": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Frankfurt City Forest": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Frankfurt Stock Exchange": {
+  "v": "out",
+  "why": "single company"
+ },
+ "Frankfurt Zoological Society": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Franklin M. Fisher": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Frans Vera": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "François Partant": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Fraser Experimental Forest": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fraud on the market": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Fred M. Utter": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Frederic Clements": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Free Market Environmentalism": {
+  "v": "out",
+  "why": "single book or publication"
+ },
+ "Free Money Day": {
+  "v": "out",
+  "why": "single event or campaign"
+ },
+ "Free education": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Free entry": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Free good": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "free vs economic goods; nature treated as free"
+ },
+ "Free market": {
+  "v": "support",
+  "ch": "markets-prices-and-surplus",
+  "why": "basic market economy concept"
+ },
+ "Free price system": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Free-trade zone": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Freiwirtschaft": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "French Economic, Social and Environmental Council": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "French Facility for Global Environment": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "French Market": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "French forestry ordinance of 1669": {
+  "v": "out",
+  "why": "historic national law"
+ },
+ "Frenchy's (second-hand clothing)": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fresh water": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Freshwater biology": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Freshwater ecosystem": {
+  "v": "in",
+  "ch": "key-ecosystems",
+  "why": "major ecosystem type supplying water services"
+ },
+ "Freshwater environmental quality parameters": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Freshwater marsh": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Freshwater salinization": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Freshwater swamp forest": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Frictionless market": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Friend of the Sea": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Friends of the Earth": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Friends of the Earth (EWNI)": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Friends of the Earth (US)": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Friends of the Earth Australia": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Friends of the Earth Scotland": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Friends of the Earth – France": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Friends of the Urban Forest": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Frontex": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Frontier Climate": {
+  "v": "out",
+  "why": "single company"
+ },
+ "Frontier market": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Frontiers in Ecology and the Environment": {
+  "v": "out",
+  "why": "academic journal"
+ },
+ "Frugality": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fudekeng Environmental Restoration Park": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Fuel taxes in the United States": {
+  "v": "out",
+  "why": "national scheme or law without global significance"
+ },
+ "Fugitive emission": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fugitive gas emissions": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Full employment": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fullerene": {
+  "v": "out",
+  "why": "organism, taxon or substance"
+ },
+ "Fulton Fish Market": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Fumifugium": {
+  "v": "out",
+  "why": "single book or publication"
+ },
+ "Functional Ecology (journal)": {
+  "v": "out",
+  "why": "academic journal"
+ },
+ "Functional finance": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Functional group (ecology)": {
+  "v": "support",
+  "ch": "ecosystem-structure-and-function",
+  "why": "functional diversity underpinning services"
+ },
+ "Functional response": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Fundamental analysis": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Fundamental theorem of asset pricing": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Fundamental theorems of welfare economics": {
+  "v": "in",
+  "ch": "efficiency-and-welfare",
+  "why": "core theorems on market efficiency"
+ },
+ "Fundi (politics)": {
+  "v": "out",
+  "why": "general politics, only touches environment"
+ },
+ "Funding": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Future 50 Foods report": {
+  "v": "out",
+  "why": "single book or publication"
+ },
+ "Future Earth": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "G. David Tilman": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "G. Evelyn Hutchinson": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "GD Greenway": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "GDP deflator": {
+  "v": "support",
+  "ch": "measuring-an-economy",
+  "why": "real vs nominal output measurement"
+ },
+ "GE multifactorial analysis": {
+  "v": "out",
+  "why": "consumer marketing topic"
+ },
+ "GIS in environmental contamination": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "GROWL": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Gabelle": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Gaborone Declaration for Sustainability in Africa": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Gabor–Granger method": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Gabriel Felbermayr": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Gabriel Hemery": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Gabriel Willow": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Gains from trade": {
+  "v": "in",
+  "ch": "markets-prices-and-surplus",
+  "why": "basic benefit of exchange"
+ },
+ "Game & Wildlife Conservation Trust": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Game (hunting)": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Game law": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Games and Economic Behavior": {
+  "v": "out",
+  "why": "academic journal"
+ },
+ "Gandhi Bazaar": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Garden": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Gardens by the Bay": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Garnaut Climate Change Review": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Gary Yohe": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Garðar, Greenland": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Gas mask": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Gaspéite": {
+  "v": "out",
+  "why": "organism, taxon or substance"
+ },
+ "Gaylussite": {
+  "v": "out",
+  "why": "organism, taxon or substance"
+ },
+ "Gear": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Gemstone industry in Greenland": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Gender apartheid": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Gene Grossman": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Gene Likens": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Gene bank": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "General circulation model": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Generalist and specialist species": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Generational accounting": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Genetic pollution": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Genetic resources": {
+  "v": "support",
+  "ch": "biodiversity-agreements-and-targets",
+  "why": "object of access and benefit-sharing rules"
+ },
+ "Genetic resources conservation and sustainable use": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Gene–environment interaction": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Genome Taxonomy Database": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Genus": {
+  "v": "out",
+  "why": "organism, taxon or substance"
+ },
+ "Geoengineering": {
+  "v": "in",
+  "ch": "mitigation-and-carbon-removal",
+  "why": "climate intervention option in climate economics"
+ },
+ "Geography of Greenland": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Geography of finance": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Geolibertarianism": {
+  "v": "out",
+  "why": "general politics, only touches environment"
+ },
+ "Geopark": {
+  "v": "out",
+  "why": "geology protected-area label; peripheral"
+ },
+ "Georg Ludwig Hartig": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "George Marshall (conservationist)": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "George de Forest Brush": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Georgina Mace": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Georgism": {
+  "v": "support",
+  "ch": "public-goods-commons-and-property",
+  "why": "land rent and land value taxation tradition"
+ },
+ "Geostationary Operational Environmental Satellite": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Geostationary orbit": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Gerald L. Young": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "German Advisory Council on Global Change": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "German Renewable Energy Sources Act": {
+  "v": "out",
+  "why": "national scheme or law without global significance"
+ },
+ "Gernot Wagner": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Ghost forest": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Gifford Pinchot": {
+  "v": "in",
+  "ch": "people-who-shaped-the-field",
+  "why": "founder of utilitarian resource conservation"
+ },
+ "Gifford Pinchot National Forest": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Gift tax": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Gikomba market": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Gila National Forest": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Gilbert E. Metcalf": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Gilbert LaFreniere": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Gina Lopez": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Gino Luzzatto": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Giorgos Kallis": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Glacial geoengineering": {
+  "v": "out",
+  "why": "niche proposal; geoengineering covers it"
+ },
+ "Glacier": {
+  "v": "out",
+  "why": "general earth science"
+ },
+ "Glasgow Climate Pact": {
+  "v": "in",
+  "ch": "climate-finance-and-agreements",
+  "why": "COP26 outcome; Article 6 carbon market rules"
+ },
+ "Glasgow Statement": {
+  "v": "out",
+  "why": "minor single declaration"
+ },
+ "Glassy carbon": {
+  "v": "out",
+  "why": "organism, taxon or substance"
+ },
+ "Global 500 Roll of Honour": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Global Assessment Report on Biodiversity and Ecosystem Services": {
+  "v": "in",
+  "ch": "biodiversity-and-its-loss",
+  "why": "IPBES 2019 landmark global assessment"
+ },
+ "Global Biodiversity Information Facility": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Global Carbon Council": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Global Carbon Project": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Global Change Research Act of 1990": {
+  "v": "out",
+  "why": "national scheme or law without global significance"
+ },
+ "Global Climate Action (portal)": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Global Climate Action Partnership": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Global Climate Action Summit": {
+  "v": "out",
+  "why": "single event or campaign"
+ },
+ "Global Climate Coalition": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Global Climate March": {
+  "v": "out",
+  "why": "single event or campaign"
+ },
+ "Global Climate and Energy Project": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Global Commons Institute": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Global Covenant of Mayors for Climate & Energy": {
+  "v": "out",
+  "why": "single initiative of cities"
+ },
+ "Global Day of Action": {
+  "v": "out",
+  "why": "single event or campaign"
+ },
+ "Global Development and Environment Institute": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Global Environment Facility": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Global Environmental Change": {
+  "v": "out",
+  "why": "academic journal"
+ },
+ "Global Environmental Politics": {
+  "v": "out",
+  "why": "academic journal"
+ },
+ "Global Footprint Network": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Global Forest Change dataset": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Global Forest Resources Assessment": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Global Forest Watch": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Global Goals Week": {
+  "v": "out",
+  "why": "single event or campaign"
+ },
+ "Global Green Growth Institute": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Global Green USA": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Global Greens": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Global Greens Charter": {
+  "v": "out",
+  "why": "general politics, only touches environment"
+ },
+ "Global Industry Classification Standard": {
+  "v": "out",
+  "why": "industry taxonomy; finance tool"
+ },
+ "Global Methane Pledge": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Global Pact for the Environment": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Global Reporting Initiative": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Global Risks Report": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Global Sustainability Assessment System": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Global Warming Pollution Reduction Act of 2007": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Global biodiversity": {
+  "v": "support",
+  "ch": "biodiversity-and-its-loss",
+  "why": "global extent of biodiversity"
+ },
+ "Global climate regime": {
+  "v": "in",
+  "ch": "climate-finance-and-agreements",
+  "why": "international climate governance architecture"
+ },
+ "Global governance": {
+  "v": "support",
+  "ch": "environmental-governance",
+  "why": "context for international environmental governance"
+ },
+ "Global marketing": {
+  "v": "out",
+  "why": "consumer marketing topic"
+ },
+ "Global minimum corporate tax rate": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Global plastic pollution treaty": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Global resources dividend": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Global trade of secondhand clothing": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Global value chain": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Global warming potential": {
+  "v": "support",
+  "ch": "the-economics-of-climate-change",
+  "why": "metric for CO2-equivalent pricing and accounting"
+ },
+ "Glossary of economics": {
+  "v": "out",
+  "why": "list or glossary"
+ },
+ "Glossary of environmental science": {
+  "v": "out",
+  "why": "list or glossary"
+ },
+ "Gnathifera": {
+  "v": "out",
+  "why": "organism, taxon or substance"
+ },
+ "Golden Agri-Resources": {
+  "v": "out",
+  "why": "single company"
+ },
+ "Goldman Environmental Prize": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Good Country Index": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Goodge Place Market": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Goods and Services Tax (India)": {
+  "v": "out",
+  "why": "national scheme or law without global significance"
+ },
+ "Goods and Services Tax (New Zealand)": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Goods and services tax (Australia)": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Goods and services tax (Canada)": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Goodwin model (economics)": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Gordon Gunter": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Gort cloud": {
+  "v": "out",
+  "why": "single book or publication"
+ },
+ "Gosplan": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Gossen's laws": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Government Economic Service": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Government failure": {
+  "v": "in",
+  "ch": "why-markets-miss-nature",
+  "why": "counterpart to market failure in policy design"
+ },
+ "Grand Bazaar, Istanbul": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Grand Bazaar, Tehran": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Grand Canyon (Greenland)": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Grand Central Market": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Grand Kankakee Marsh": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Grantham Institute – Climate Change and Environment (Imperial College London)": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Grantham Research Institute on Climate Change and the Environment (London School of Economics)": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Graphene": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Graphite": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Grasslands Reserve Program": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Great Black Swamp": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Great Cumbungi Swamp": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Great Depression": {
+  "v": "out",
+  "why": "single event or campaign"
+ },
+ "Great Depression in Canada": {
+  "v": "out",
+  "why": "single event or campaign"
+ },
+ "Great Green Wall (China)": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Great Plains Conservation": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Great Recession": {
+  "v": "out",
+  "why": "single event or campaign"
+ },
+ "Great Recession in Europe": {
+  "v": "out",
+  "why": "single event or campaign"
+ },
+ "Great Reset": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Great Stink": {
+  "v": "out",
+  "why": "single event or campaign"
+ },
+ "Greater Grand Forks Greenway": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Greater Yellowstone Ecosystem": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Greek economic miracle": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green & Black's": {
+  "v": "out",
+  "why": "single company"
+ },
+ "Green Action": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Green America": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Green Bazaar": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Green Belt Movement": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Green Building Initiative": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Green Business Certification Inc.": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Green Cross International": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Green Dot (symbol)": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Green Energy Act, 2009": {
+  "v": "out",
+  "why": "national scheme or law without global significance"
+ },
+ "Green Fins": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Green Gathering": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green Growth Africa": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Green Guerillas": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green Hydrogen Catapult": {
+  "v": "out",
+  "why": "single advocacy initiative"
+ },
+ "Green Illusions": {
+  "v": "out",
+  "why": "single book or publication"
+ },
+ "Green Left (newspaper)": {
+  "v": "out",
+  "why": "general politics, only touches environment"
+ },
+ "Green Mountain College": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green New Deal": {
+  "v": "in",
+  "ch": "growth-decoupling-and-limits",
+  "why": "green stimulus and transition policy concept"
+ },
+ "Green Plains": {
+  "v": "out",
+  "why": "single company"
+ },
+ "Green Planet Energy": {
+  "v": "out",
+  "why": "single company"
+ },
+ "Green Power Partnership": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Green Revolution": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green Revolution in India": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green River (Colorado River tributary)": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Green River Formation": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green Roof Innovation Testing Laboratory": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green Seal": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green Star (Australia)": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green Swamp (Florida)": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Green Swamp (North Carolina)": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Green affordable housing": {
+  "v": "out",
+  "why": "housing policy; niche"
+ },
+ "Green algae": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green anarchism": {
+  "v": "out",
+  "why": "general politics, only touches environment"
+ },
+ "Green ban": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green bank": {
+  "v": "in",
+  "ch": "climate-finance-and-agreements",
+  "why": "public finance vehicle for low-carbon investment"
+ },
+ "Green bean": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green belt": {
+  "v": "in",
+  "ch": "cities-and-green-space",
+  "why": "land-use tool protecting peri-urban green space"
+ },
+ "Green belt (United Kingdom)": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green brands": {
+  "v": "out",
+  "why": "consumer marketing topic"
+ },
+ "Green bubble": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green building": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green building and wood": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green building certification systems": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green building council": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Green building in Australia": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green building in Bangladesh": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green building in Canada": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green building in France": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green building in Germany": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green building in India": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green building in Israel": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green building in South Africa": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green building in the United Kingdom": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green building in the United States": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green certificate": {
+  "v": "in",
+  "ch": "tradable-permits-and-carbon-markets",
+  "why": "tradable renewable energy certificates"
+ },
+ "Green chemistry": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green conservatism": {
+  "v": "out",
+  "why": "general politics, only touches environment"
+ },
+ "Green consumption": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green conventions": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green criminology": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green development": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green engineering": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green finance and the Belt and Road Initiative": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Green guides": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green hydrogen": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green iguana": {
+  "v": "out",
+  "why": "organism, taxon or substance"
+ },
+ "Green imperialism": {
+  "v": "support",
+  "ch": "justice-rights-and-indigenous-knowledge",
+  "why": "colonial roots of conservation; justice critiques"
+ },
+ "Green industrial policy": {
+  "v": "in",
+  "ch": "subsidies-information-and-voluntary-appr",
+  "why": "state support for green sectors"
+ },
+ "Green job": {
+  "v": "out",
+  "why": "labor category; peripheral"
+ },
+ "Green lane (road)": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green lending": {
+  "v": "out",
+  "why": "niche finance product; green bank covers"
+ },
+ "Green liberalism": {
+  "v": "out",
+  "why": "general politics, only touches environment"
+ },
+ "Green libertarianism": {
+  "v": "out",
+  "why": "general politics, only touches environment"
+ },
+ "Green manure": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green marketing": {
+  "v": "out",
+  "why": "consumer marketing topic"
+ },
+ "Green nanotechnology": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green national product": {
+  "v": "in",
+  "ch": "beyond-gdp",
+  "why": "environmentally adjusted national income"
+ },
+ "Green paper": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green parking lot": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green politics": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Green recovery": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Green sea turtle": {
+  "v": "out",
+  "why": "organism, taxon or substance"
+ },
+ "Green seniors": {
+  "v": "out",
+  "why": "demographic group; peripheral"
+ },
+ "Green sulfur bacteria": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green swordtail": {
+  "v": "out",
+  "why": "organism, taxon or substance"
+ },
+ "Green trading": {
+  "v": "out",
+  "why": "vague term; covered by emissions trading"
+ },
+ "Green tree python": {
+  "v": "out",
+  "why": "organism, taxon or substance"
+ },
+ "Green urbanism": {
+  "v": "support",
+  "ch": "cities-and-green-space",
+  "why": "urban design integrating nature"
+ },
+ "Green vehicle": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green waste": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green world hypothesis": {
+  "v": "support",
+  "ch": "ecosystem-structure-and-function",
+  "why": "top-down trophic regulation of ecosystems"
+ },
+ "Green's function": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green-collar worker": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "GreenFaith": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "GreenGen": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "GreenWave": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "GreenWay": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "GreenXC": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Greenbelt (Golden Horseshoe)": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Greenfield land": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Greenfield project": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Greenfield status": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Greenhouse": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Greenhouse Gas Pollution Pricing Act": {
+  "v": "out",
+  "why": "national scheme or law without global significance"
+ },
+ "Greenhouse Gases Observing Satellite": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Greenhouse and icehouse Earth": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Greenhouse effect": {
+  "v": "support",
+  "ch": "the-economics-of-climate-change",
+  "why": "physical basis needed for climate economics"
+ },
+ "Greenhouse gas": {
+  "v": "support",
+  "ch": "the-economics-of-climate-change",
+  "why": "what climate policy prices and limits"
+ },
+ "Greenhouse gas emissions": {
+  "v": "support",
+  "ch": "the-economics-of-climate-change",
+  "why": "emission sources targeted by climate policy"
+ },
+ "Greenhouse gas emissions by China": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Greenhouse gas emissions by Russia": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Greenhouse gas emissions by the United Kingdom": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Greenhouse gas emissions by the United States": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Greenhouse gas emissions from agriculture": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Greenhouse gas inventory": {
+  "v": "support",
+  "ch": "mitigation-and-carbon-removal",
+  "why": "emissions accounting underpinning targets and markets"
+ },
+ "Greenhouse gas monitoring": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Greening": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Greening Australia": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Greenish warbler": {
+  "v": "out",
+  "why": "organism, taxon or substance"
+ },
+ "Greenland": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Greenland (Folketing constituency)": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Greenland Airports": {
+  "v": "out",
+  "why": "single operator company"
+ },
+ "Greenland Commission": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Greenland Dog": {
+  "v": "out",
+  "why": "organism, taxon or substance"
+ },
+ "Greenland Provincial Council": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Greenland Sea": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Greenland and the European Union": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Greenland crisis": {
+  "v": "out",
+  "why": "single political event"
+ },
+ "Greenland halibut": {
+  "v": "out",
+  "why": "organism, taxon or substance"
+ },
+ "Greenland ice sheet": {
+  "v": "out",
+  "why": "glaciology; general climate science"
+ },
+ "Greenland in World War II": {
+  "v": "out",
+  "why": "single history topic"
+ },
+ "Greenland men's national handball team": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Greenlanders": {
+  "v": "out",
+  "why": "single nationality group"
+ },
+ "Greenlandian": {
+  "v": "out",
+  "why": "geologic age; word overlap"
+ },
+ "Greenlandic Inuit": {
+  "v": "out",
+  "why": "single ethnic group"
+ },
+ "Greenlandic Norse": {
+  "v": "out",
+  "why": "historic language; unrelated"
+ },
+ "Greenlandic independence": {
+  "v": "out",
+  "why": "single-country politics"
+ },
+ "Greenlandic language": {
+  "v": "out",
+  "why": "language; unrelated"
+ },
+ "Greenlandic people in Denmark": {
+  "v": "out",
+  "why": "single diaspora group"
+ },
+ "Greenlandic sheep": {
+  "v": "out",
+  "why": "organism, taxon or substance"
+ },
+ "Greenpeace": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Greenpeace Aotearoa New Zealand": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Greenpeace Arctic Sunrise ship case": {
+  "v": "out",
+  "why": "single event or campaign"
+ },
+ "Greenpeace Foundation": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Greenpeace Nordic": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Greenpeace USA": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Greensand": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Greenspan put": {
+  "v": "out",
+  "why": "monetary policy; unrelated"
+ },
+ "Greens–European Free Alliance": {
+  "v": "out",
+  "why": "general politics, only touches environment"
+ },
+ "Greenway (landscape)": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Greenway footpath, London": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Greenwich Mean Time": {
+  "v": "out",
+  "why": "word overlap only"
+ },
+ "Greenwood–Hercowitz–Huffman preferences": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Green–Kubo relations": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Greg Mankiw": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Gregory Clark (economist)": {
+  "v": "out",
+  "why": "person, not a founder of the field"
+ },
+ "Gregoryite": {
+  "v": "out",
+  "why": "organism, taxon or substance"
+ },
+ "Grey market": {
+  "v": "out",
+  "why": "distribution practice; unrelated"
+ },
+ "Grid parity": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Groenkloof Nature Reserve": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Gross National Happiness": {
+  "v": "in",
+  "ch": "beyond-gdp",
+  "why": "well-known alternative to GDP"
+ },
+ "Gross ecosystem product": {
+  "v": "in",
+  "ch": "national-and-corporate-natural-capital-a",
+  "why": "aggregate ecosystem service accounting measure"
+ },
+ "Gross income": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Gross national income": {
+  "v": "support",
+  "ch": "measuring-an-economy",
+  "why": "standard national income measure"
+ },
+ "Gross output": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Gross receipts tax": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Grossman model of health demand": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Groundwater": {
+  "v": "support",
+  "ch": "forests-land-and-water",
+  "why": "resource base of groundwater economics"
+ },
+ "Groundwater pollution": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Groundwater recharge": {
+  "v": "support",
+  "ch": "provisioning-and-regulating-services",
+  "why": "regulating service of wetlands and forests"
+ },
+ "Groundwater remediation": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Groundwork UK": {
+  "v": "out",
+  "why": "single organization or program"
+ },
+ "Group 14 hydride": {
+  "v": "out",
+  "why": "organism, taxon or substance"
+ },
+ "Grove (nature)": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Growth imperative": {
+  "v": "in",
+  "ch": "growth-decoupling-and-limits",
+  "why": "degrowth argument about growth dependence"
+ },
+ "Growth in a Time of Debt": {
+  "v": "out",
+  "why": "single book or publication"
+ },
+ "Gruae": {
+  "v": "out",
+  "why": "organism, taxon or substance"
+ },
+ "Guaranteed minimum income": {
+  "v": "out",
+  "why": "general economics or finance beyond course needs"
+ },
+ "Guerrilla marketing": {
+  "v": "out",
+  "why": "consumer marketing topic"
+ },
+ "Guianan Highlands moist forests": {
+  "v": "out",
+  "why": "single place, site or region"
+ },
+ "Guild (ecology)": {
+  "v": "out",
+  "why": "general, niche or only word overlap with subject"
+ },
+ "Guinean forests of West Africa": {
+  "v": "out",
+  "why": "single place, site or region"
+ }
+}
