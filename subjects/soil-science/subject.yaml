@@ -21,6 +21,7 @@ categories:
 scope:
   include_terms: [soil, pedo, humus, loam, clay, silt, horizon, weathering, erosion, fertility, tillage]
   exclude_terms: [company, university, award, fictional, song, album]
+  person_terms: [pedologist, agronomist, soil scientist]
   # Short descriptions that mark a page as outside the course (people other than founders, books, bodies,
   # places, software, single microbial taxa). Founders are pinned in the frame, so they stay in.
   exclude_desc: [book, city in, town in, organisation, organization, government agency, non-profit, foundation,

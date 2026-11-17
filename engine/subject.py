@@ -13,7 +13,7 @@ DEFAULTS = {
     "targets": {"entries": None, "per_unit": [4, 5], "units": None},
     "edition": {"images": False, "questions": False, "proportional_clock": False},
     "categories": {"roots": [], "depth": 1, "exclude": []},
-    "scope": {"include_terms": [], "exclude_terms": [], "threshold": None},
+    "scope": {"include_terms": [], "exclude_terms": [], "threshold": None, "person_terms": []},
     "hubs": {},
     "seeds": [],
     "verification": {"works": "openalex", "authorities": []},

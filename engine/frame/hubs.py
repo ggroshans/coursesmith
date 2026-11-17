@@ -1,4 +1,4 @@
-"""Readers for the places Wikipedia maps a subject :
+"""Readers for the places Wikipedia maps a subject:
 
 - navbox templates: groups and subgroups of article links (the best free hierarchy)
 - an index page: a flat alphabetical list

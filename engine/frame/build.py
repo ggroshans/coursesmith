@@ -30,8 +30,18 @@ from ..util import atomic_write, slug
 from . import hubs as H
 
 IMP_CORE = {"Top": 4, "High": 3, "Mid": 2, "Low": 1}
-PERSON_RE = re.compile(r"\b(scientist|pedologist|agronomist|geologist|chemist|biologist|ecologist|botanist|"
-                       r"geographer|microbiologist|soil scientist|engineer|researcher|professor|naturalist)\b", re.I)
+# Descriptions that mark a page about a person; a subject adds its own (scope.person_terms: [pedologist]).
+PERSON_TERMS = ("scientist", "engineer", "researcher", "professor", "naturalist", "inventor", "physicist",
+                "chemist", "biologist", "geologist", "ecologist", "botanist", "zoologist", "geographer",
+                "microbiologist", "astronomer", "mathematician", "economist", "philosopher", "historian",
+                "physician", "psychologist", "sociologist", "anthropologist", "archaeologist", "architect",
+                "musician", "composer", "artist", "painter", "writer", "author", "poet", "politician",
+                "businessman", "businesswoman", "businessperson", "entrepreneur", "explorer", "scholar")
+
+
+def person_re(extra=()):
+    terms = sorted({t.lower() for t in (*PERSON_TERMS, *(extra or ()))}, key=len, reverse=True)
+    return re.compile(r"\b(" + "|".join(map(re.escape, terms)) + r")\b", re.I)
 ORG_RE = re.compile(r"\b(society|journal|institute|university|association|union|council|agency|organi[sz]ation|"
                     r"initiative|program(me)?|conference|award|prize|magazine|publisher|company|centre|center)\b",
                     re.I)
@@ -176,6 +186,7 @@ def build(subject, scout=100, refresh=False, log=print):
     # no parts in subject.yaml: one part named for the subject, chapters by category clustering
     parts_cfg = fcfg.get("parts") or [{"key": "main", "title": subject.title}]
     single = parts_cfg[0]["key"] if len(parts_cfg) == 1 else None
+    is_person = person_re(subject.cfg["scope"].get("person_terms"))
     nav_parts = fcfg.get("navbox_parts") or {}
     foundations = set(fcfg.get("foundations") or [])
     hist_key = next((p["key"] for p in parts_cfg if p.get("history")), None)
@@ -190,7 +201,7 @@ def build(subject, scout=100, refresh=False, log=print):
             assign[t] = found_key
             continue
         desc = c["description"]
-        if hist_key and (PERSON_RE.search(desc) or ORG_RE.search(t + " " + desc) or t.lower().startswith("history of")):
+        if hist_key and (is_person.search(desc) or ORG_RE.search(t + " " + desc) or t.lower().startswith("history of")):
             assign[t] = hist_key
             continue
         scores = {p["key"]: _hint_score(p.get("hints"), t, desc, c["categories"]) for p in parts_cfg

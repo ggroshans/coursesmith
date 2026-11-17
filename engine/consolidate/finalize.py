@@ -138,8 +138,17 @@ def merge_parts(subject, chapter, log=print):
     return len(merged)
 
 
-def _tokens(t):
-    return {w for w in re.findall(r"[a-z0-9]+", (t or "").lower()) if w not in ("the", "of", "and", "a", "in", "soil")}
+STOP = frozenset(("the", "of", "and", "a", "in"))
+
+
+def stop_words(subject):
+    """Words every title in the subject may share ('soil' in soil science): ignored when comparing titles."""
+    words = f"{subject.title} {subject.short}".lower()
+    return STOP | set(re.findall(r"[a-z0-9]+", words))
+
+
+def _tokens(t, stop=STOP):
+    return {w for w in re.findall(r"[a-z0-9]+", (t or "").lower()) if w not in stop}
 
 
 def validate(e, known, crawled):
@@ -268,7 +277,7 @@ def finalize(subject, chapter="all", check_file=None, log=print):
             e[key] = list(dict.fromkeys(ids))
         _derive(e, found, nodes, db)
 
-    dups = possible_duplicates(finals)
+    dups = possible_duplicates(finals, stop_words(subject))
     _write_dups(subject, dups)
     groups = defaultdict(list)
     for e in finals:
@@ -338,7 +347,7 @@ def _derive(e, found, nodes, db):
     e["curriculum"] = tests
 
 
-def possible_duplicates(entries):
+def possible_duplicates(entries, stop=STOP):
     out = []
     for i, a in enumerate(entries):
         for b in entries[i + 1:]:
@@ -350,7 +359,7 @@ def possible_duplicates(entries):
             elif a.get("qid") and a.get("qid") == b.get("qid") and "#" not in (a.get("article") or "") + (b.get("article") or ""):
                 why = f"same QID {a['qid']}"
             else:
-                ta, tb = _tokens(a["title"]), _tokens(b["title"])
+                ta, tb = _tokens(a["title"], stop), _tokens(b["title"], stop)
                 if ta and tb and len(ta & tb) / len(ta | tb) >= 0.75:
                     why = "similar titles"
             if why:
