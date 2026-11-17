@@ -28,22 +28,26 @@ and gitignored; `build/` (EPUBs) is gitignored and rebuildable.
 | `subject.yaml` | hand | seeds, hubs, categories, scope rules, targets, ordering strategy, edition flags, verification registry, frame hints |
 | `frame.yaml` | `frame build`, then hand | the reviewed TOC: parts -> chapters (`key`, `title`, `seeds`, `also`, `candidates`, `share`, and `target` only when `targets.entries` is set). Chronological subjects carry an `outline:` tree instead |
 | `scope/hubs.json` | `frame build` | category distances, navbox/index/Vital lists, WikiProject importance, forced titles |
-| `scope/calibration.csv` | `frame build`, hand | borderline titles: `title, score, reasons, description, suggested, label` (`label` = owner's in/out) |
+| `scope/calibration.csv` | `frame build`, hand | borderline titles: `title, score, reasons, description, suggested, label` (`label` = your in/out) |
 | `scope/tuned.json` | `scope tune` | threshold fitted to the labels (F1, precision, recall) |
 | `ledger.csv` | `crawl` | every page visit: `title, url, revid, depth, linked_from, in_scope_reason, score, status` |
 | `scope/frontier_review.csv`, `scope/frontier_rejected.csv` | `crawl` | borderline and rejected links |
-| `work/graph.json` | `graph build` | nodes (importance, difficulty, chapter, lead links, QID), weighted edges, RefD pairs |
-| `work/dossiers/<chapter>/chunk_NN.md` | `dossier` | consolidation input |
+| `work/graph.json` | `graph build` (gitignored, regenerable) | nodes (importance, difficulty, chapter, lead links, QID), weighted edges, RefD pairs |
+| `work/dossiers/<chapter>/chunk_NN.md` | `dossier` (gitignored, regenerable) | consolidation input |
 | `entries/draft/<chapter>.jsonl` | consolidation passes | draft entries |
 | `entries/<chapter>.jsonl` | `finalize`, then `select`, `order`, `verify`, `units build` | final entries |
 | `work/order/prereqs.NN.json` | ordering pass | `{"entries": {id: [{"id", "reason"}]}}` |
 | `order.json` | `order build`, `order lock` | `{strategy, locked, locked_at, order: [ids]}` |
 | `output/curriculum.md` | `order build` | full TOC with every entry; reordered by hand before `order lock` |
 | `verify/reviews.json`, `verify/external.json` | verification pass | hand verdicts; tier D facts |
-| `work/write/packet-<part>.md`, `questions-packet.md` | `write skeleton`, `write questions` | writer input |
+| `work/write/packet-<part>.md`, `questions-packet.md` | `write skeleton`, `write questions` (gitignored) | writer input |
 | `work/write/fill.*.json` | writing passes | prose batches (see below) |
 | `output/prose.json`, `output/course.md` | `write render` | merged prose; the whole course as Markdown |
 | `units.json`, `glossary.json` | `units build` | units and the cumulative glossary |
+| `output/course.json` | `export` | the whole course in one file for any renderer (see `docs/OUTPUT.md`) |
+| `sentences.jsonl` | port | optional frozen copy of the cited sentences, for a subject not crawled by this engine (`export` falls back to it) |
+| `scope/judge.json`, `scope/judge/batch-NN.json` | judge passes, `scope judge-merge` | in/support/out verdicts on borderline pages |
+| `scope/syllabus.json`, `scope/syllabus_resolved.json` | planner pass, `frame resolve` | the planned branches and concepts, and what each resolved to |
 | `reports/*.md` | most stages | frame, coverage, duplicates, selection, order, verification |
 | `waivers.json` | hand | checked false alarms for `publish check`, each with a reason |
 | `STATE.md` | every session | where the subject stands and the next step |

@@ -336,6 +336,20 @@ def cmd_publish_check(a):
         raise SystemExit(1)
 
 
+@command("export", "write output/course.json: the whole course, prose and cited sentences in one file",
+         arg("--out", default=None, help="path to write (default: subjects/<slug>/output/course.json)"),
+         arg("--images", action="store_true", help="also copy entry images next to the file"),
+         arg("--strict", action="store_true", help="fail if any cited sentence is missing from the index"))
+def cmd_export(a):
+    from pathlib import Path
+
+    from .publish import export
+    try:
+        export.export(a.subject, Path(a.out) if a.out else None, a.images, a.strict)
+    except export.ExportError as e:
+        raise SystemExit(f"export: {e}")
+
+
 # --------------------------------------------------------------------- main
 def build_parser():
     p = argparse.ArgumentParser(prog="wikicourse", description="Wikipedia subjects as sourced courses.")
