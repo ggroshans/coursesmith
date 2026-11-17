@@ -27272,5 +27272,2685 @@
  "Δ13C": {
   "v": "out",
   "why": "material, compound or technique outside subject"
+ },
+ "Short-termism": {
+  "v": "in",
+  "ch": "nature-as-the-economy-s-foundation",
+  "why": "syllabus: Short-termism"
+ },
+ "Microeconomics": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "syllabus: Microeconomics"
+ },
+ "Ceteris paribus": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "syllabus: Ceteris paribus"
+ },
+ "Production-possibility frontier": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "syllabus: Production–possibility frontier"
+ },
+ "Comparative advantage": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "syllabus: Comparative advantage"
+ },
+ "Sunk cost": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "syllabus: Sunk cost"
+ },
+ "Goods": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "syllabus: Goods and services"
+ },
+ "Goods and services": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "syllabus: Goods and services"
+ },
+ "Budget constraint": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "syllabus: Budget constraint"
+ },
+ "Consumer choice": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "syllabus: Consumer choice"
+ },
+ "Normal good": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "syllabus: Normal and inferior goods"
+ },
+ "Inferior good": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "syllabus: Normal and inferior goods"
+ },
+ "Complementary goods": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "syllabus: Substitute and complementary goods"
+ },
+ "Utility maximization problem": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "syllabus: Utility maximization problem"
+ },
+ "Ordinal utility": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "syllabus: Ordinal and cardinal utility"
+ },
+ "Substitution effect": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "syllabus: Income and substitution effects"
+ },
+ "Expenditure minimization problem": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "syllabus: Expenditure minimization problem"
+ },
+ "Slutsky equation": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "syllabus: Slutsky equation"
+ },
+ "Marshallian demand function": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "syllabus: Marshallian demand function"
+ },
+ "Hicksian demand function": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "syllabus: Hicksian demand function"
+ },
+ "Compensating variation": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "syllabus: Compensating variation"
+ },
+ "Equivalent variation": {
+  "v": "in",
+  "ch": "choices-scarcity-and-value",
+  "why": "syllabus: Equivalent variation"
+ },
+ "Demand curve": {
+  "v": "in",
+  "ch": "markets-prices-and-surplus",
+  "why": "syllabus: Demand curve"
+ },
+ "Law of demand": {
+  "v": "in",
+  "ch": "markets-prices-and-surplus",
+  "why": "syllabus: Law of demand"
+ },
+ "Income elasticity of demand": {
+  "v": "in",
+  "ch": "markets-prices-and-surplus",
+  "why": "syllabus: Income elasticity of demand"
+ },
+ "Cross elasticity of demand": {
+  "v": "in",
+  "ch": "markets-prices-and-surplus",
+  "why": "syllabus: Cross elasticity of demand"
+ },
+ "Price controls": {
+  "v": "in",
+  "ch": "markets-prices-and-surplus",
+  "why": "syllabus: Price controls"
+ },
+ "Price ceiling": {
+  "v": "in",
+  "ch": "markets-prices-and-surplus",
+  "why": "syllabus: Price controls"
+ },
+ "Price floor": {
+  "v": "in",
+  "ch": "markets-prices-and-surplus",
+  "why": "syllabus: Price controls"
+ },
+ "Price signal": {
+  "v": "in",
+  "ch": "markets-prices-and-surplus",
+  "why": "syllabus: Price signal"
+ },
+ "General equilibrium theory": {
+  "v": "in",
+  "ch": "markets-prices-and-surplus",
+  "why": "syllabus: General equilibrium theory"
+ },
+ "Comparative statics": {
+  "v": "in",
+  "ch": "markets-prices-and-surplus",
+  "why": "syllabus: Comparative statics"
+ },
+ "Marginal revenue": {
+  "v": "in",
+  "ch": "markets-prices-and-surplus",
+  "why": "syllabus: Marginal revenue"
+ },
+ "Inverse demand function": {
+  "v": "in",
+  "ch": "markets-prices-and-surplus",
+  "why": "syllabus: Inverse demand function"
+ },
+ "Price discrimination": {
+  "v": "in",
+  "ch": "markets-prices-and-surplus",
+  "why": "syllabus: Price discrimination"
+ },
+ "Theory of the firm": {
+  "v": "in",
+  "ch": "new: Firms, costs and market structure",
+  "why": "syllabus: Theory of the firm"
+ },
+ "Profit maximization": {
+  "v": "in",
+  "ch": "new: Firms, costs and market structure",
+  "why": "syllabus: Profit maximization"
+ },
+ "Production function": {
+  "v": "in",
+  "ch": "new: Firms, costs and market structure",
+  "why": "syllabus: Production function"
+ },
+ "Marginal product": {
+  "v": "in",
+  "ch": "new: Firms, costs and market structure",
+  "why": "syllabus: Marginal product"
+ },
+ "Returns to scale": {
+  "v": "in",
+  "ch": "new: Firms, costs and market structure",
+  "why": "syllabus: Returns to scale"
+ },
+ "Economies of scale": {
+  "v": "in",
+  "ch": "new: Firms, costs and market structure",
+  "why": "syllabus: Economies of scale"
+ },
+ "Isoquant": {
+  "v": "in",
+  "ch": "new: Firms, costs and market structure",
+  "why": "syllabus: Isoquant"
+ },
+ "Average cost": {
+  "v": "in",
+  "ch": "new: Firms, costs and market structure",
+  "why": "syllabus: Average cost"
+ },
+ "Fixed cost": {
+  "v": "in",
+  "ch": "new: Firms, costs and market structure",
+  "why": "syllabus: Fixed and variable costs"
+ },
+ "Variable cost": {
+  "v": "in",
+  "ch": "new: Firms, costs and market structure",
+  "why": "syllabus: Fixed and variable costs"
+ },
+ "Long run and short run": {
+  "v": "in",
+  "ch": "new: Firms, costs and market structure",
+  "why": "syllabus: Long run and short run"
+ },
+ "Monopolistic competition": {
+  "v": "in",
+  "ch": "new: Firms, costs and market structure",
+  "why": "syllabus: Monopolistic competition"
+ },
+ "Cartel": {
+  "v": "in",
+  "ch": "new: Firms, costs and market structure",
+  "why": "syllabus: Cartel"
+ },
+ "Cournot competition": {
+  "v": "in",
+  "ch": "new: Firms, costs and market structure",
+  "why": "syllabus: Cournot competition"
+ },
+ "Technological change": {
+  "v": "in",
+  "ch": "new: Firms, costs and market structure",
+  "why": "syllabus: Technological change"
+ },
+ "Allocative efficiency": {
+  "v": "in",
+  "ch": "efficiency-and-welfare",
+  "why": "syllabus: Allocative efficiency"
+ },
+ "Productive efficiency": {
+  "v": "in",
+  "ch": "efficiency-and-welfare",
+  "why": "syllabus: Productive efficiency"
+ },
+ "Contract curve": {
+  "v": "in",
+  "ch": "efficiency-and-welfare",
+  "why": "syllabus: Contract curve"
+ },
+ "Utilitarianism": {
+  "v": "in",
+  "ch": "efficiency-and-welfare",
+  "why": "syllabus: Utilitarianism"
+ },
+ "Original position": {
+  "v": "in",
+  "ch": "efficiency-and-welfare",
+  "why": "syllabus: Original position"
+ },
+ "Prioritarianism": {
+  "v": "in",
+  "ch": "efficiency-and-welfare",
+  "why": "syllabus: Prioritarianism"
+ },
+ "Social choice theory": {
+  "v": "in",
+  "ch": "efficiency-and-welfare",
+  "why": "syllabus: Social choice theory"
+ },
+ "Arrow's impossibility theorem": {
+  "v": "in",
+  "ch": "efficiency-and-welfare",
+  "why": "syllabus: Arrow's impossibility theorem"
+ },
+ "Marginal cost of public funds": {
+  "v": "in",
+  "ch": "efficiency-and-welfare",
+  "why": "syllabus: Marginal cost of public funds"
+ },
+ "Inequity aversion": {
+  "v": "in",
+  "ch": "efficiency-and-welfare",
+  "why": "syllabus: Inequality aversion"
+ },
+ "Atkinson index": {
+  "v": "in",
+  "ch": "efficiency-and-welfare",
+  "why": "syllabus: Atkinson index"
+ },
+ "Scitovsky paradox": {
+  "v": "in",
+  "ch": "efficiency-and-welfare",
+  "why": "syllabus: Scitovsky paradox"
+ },
+ "The Problem of Social Cost": {
+  "v": "in",
+  "ch": "new: Externalities, Pigou and Coase",
+  "why": "syllabus: The Problem of Social Cost"
+ },
+ "Nuisance": {
+  "v": "in",
+  "ch": "new: Externalities, Pigou and Coase",
+  "why": "syllabus: Nuisance law"
+ },
+ "Strict liability": {
+  "v": "in",
+  "ch": "new: Externalities, Pigou and Coase",
+  "why": "syllabus: Strict liability"
+ },
+ "Pigouvian tax": {
+  "v": "in",
+  "ch": "new: Externalities, Pigou and Coase",
+  "why": "syllabus: Pigouvian subsidy"
+ },
+ "Moral hazard": {
+  "v": "in",
+  "ch": "new: Information, incentives and contracts",
+  "why": "syllabus: Moral hazard"
+ },
+ "Adverse selection": {
+  "v": "in",
+  "ch": "new: Information, incentives and contracts",
+  "why": "syllabus: Adverse selection"
+ },
+ "Principal–agent problem": {
+  "v": "in",
+  "ch": "new: Information, incentives and contracts",
+  "why": "syllabus: Principal–agent problem"
+ },
+ "Incentive compatibility": {
+  "v": "in",
+  "ch": "new: Information, incentives and contracts",
+  "why": "syllabus: Incentive compatibility"
+ },
+ "Vickrey–Clarke–Groves mechanism": {
+  "v": "in",
+  "ch": "new: Information, incentives and contracts",
+  "why": "syllabus: Vickrey–Clarke–Groves mechanism"
+ },
+ "Private good": {
+  "v": "in",
+  "ch": "public-goods-commons-and-property",
+  "why": "syllabus: Private good"
+ },
+ "Global public good": {
+  "v": "in",
+  "ch": "public-goods-commons-and-property",
+  "why": "syllabus: Global public good"
+ },
+ "Samuelson condition": {
+  "v": "in",
+  "ch": "public-goods-commons-and-property",
+  "why": "syllabus: Samuelson condition"
+ },
+ "Tragedy of the anticommons": {
+  "v": "in",
+  "ch": "public-goods-commons-and-property",
+  "why": "syllabus: Tragedy of the anticommons"
+ },
+ "Property": {
+  "v": "in",
+  "ch": "public-goods-commons-and-property",
+  "why": "syllabus: Property"
+ },
+ "Private property": {
+  "v": "in",
+  "ch": "public-goods-commons-and-property",
+  "why": "syllabus: Private property"
+ },
+ "Bundle of rights": {
+  "v": "in",
+  "ch": "public-goods-commons-and-property",
+  "why": "syllabus: Bundle of rights"
+ },
+ "Usufruct": {
+  "v": "in",
+  "ch": "public-goods-commons-and-property",
+  "why": "syllabus: Usufruct"
+ },
+ "Land tenure": {
+  "v": "in",
+  "ch": "public-goods-commons-and-property",
+  "why": "syllabus: Land tenure"
+ },
+ "Public trust doctrine": {
+  "v": "in",
+  "ch": "public-goods-commons-and-property",
+  "why": "syllabus: Public trust doctrine"
+ },
+ "Res communis": {
+  "v": "in",
+  "ch": "public-goods-commons-and-property",
+  "why": "syllabus: Res communis"
+ },
+ "Intertemporal choice": {
+  "v": "in",
+  "ch": "time-risk-and-discounting",
+  "why": "syllabus: Intertemporal choice"
+ },
+ "Ramsey–Cass–Koopmans model": {
+  "v": "in",
+  "ch": "time-risk-and-discounting",
+  "why": "syllabus: Ramsey rule for discounting"
+ },
+ "Compound interest": {
+  "v": "in",
+  "ch": "time-risk-and-discounting",
+  "why": "syllabus: Compound interest"
+ },
+ "Annuity": {
+  "v": "in",
+  "ch": "time-risk-and-discounting",
+  "why": "syllabus: Annuity"
+ },
+ "Real and nominal value": {
+  "v": "in",
+  "ch": "time-risk-and-discounting",
+  "why": "syllabus: Real versus nominal value"
+ },
+ "Inflation": {
+  "v": "in",
+  "ch": "time-risk-and-discounting",
+  "why": "syllabus: Inflation"
+ },
+ "Cost of capital": {
+  "v": "in",
+  "ch": "time-risk-and-discounting",
+  "why": "syllabus: Cost of capital"
+ },
+ "Internal rate of return": {
+  "v": "in",
+  "ch": "time-risk-and-discounting",
+  "why": "syllabus: Internal rate of return"
+ },
+ "Von Neumann–Morgenstern utility theorem": {
+  "v": "in",
+  "ch": "time-risk-and-discounting",
+  "why": "syllabus: Von Neumann–Morgenstern utility theorem"
+ },
+ "Risk premium": {
+  "v": "in",
+  "ch": "time-risk-and-discounting",
+  "why": "syllabus: Risk premium"
+ },
+ "Risk neutral preferences": {
+  "v": "in",
+  "ch": "time-risk-and-discounting",
+  "why": "syllabus: Risk neutrality"
+ },
+ "Insurance": {
+  "v": "in",
+  "ch": "time-risk-and-discounting",
+  "why": "syllabus: Insurance"
+ },
+ "Ambiguity aversion": {
+  "v": "in",
+  "ch": "time-risk-and-discounting",
+  "why": "syllabus: Ambiguity aversion"
+ },
+ "Stochastic dominance": {
+  "v": "in",
+  "ch": "time-risk-and-discounting",
+  "why": "syllabus: Stochastic dominance"
+ },
+ "Precautionary savings": {
+  "v": "in",
+  "ch": "time-risk-and-discounting",
+  "why": "syllabus: Precautionary saving"
+ },
+ "Decision theory": {
+  "v": "in",
+  "ch": "time-risk-and-discounting",
+  "why": "syllabus: Decision theory"
+ },
+ "Minimax": {
+  "v": "in",
+  "ch": "time-risk-and-discounting",
+  "why": "syllabus: Maximin decision rule"
+ },
+ "Epstein–Zin preferences": {
+  "v": "in",
+  "ch": "time-risk-and-discounting",
+  "why": "syllabus: Epstein–Zin preferences"
+ },
+ "Macroeconomics": {
+  "v": "in",
+  "ch": "measuring-an-economy",
+  "why": "syllabus: Macroeconomics"
+ },
+ "Net national product": {
+  "v": "in",
+  "ch": "measuring-an-economy",
+  "why": "syllabus: Net national product"
+ },
+ "National accounts": {
+  "v": "in",
+  "ch": "measuring-an-economy",
+  "why": "syllabus: National accounts"
+ },
+ "System of National Accounts": {
+  "v": "in",
+  "ch": "measuring-an-economy",
+  "why": "syllabus: System of National Accounts"
+ },
+ "Consumption of fixed capital": {
+  "v": "in",
+  "ch": "measuring-an-economy",
+  "why": "syllabus: Consumption of fixed capital"
+ },
+ "Depreciation": {
+  "v": "in",
+  "ch": "measuring-an-economy",
+  "why": "syllabus: Consumption of fixed capital"
+ },
+ "Investment": {
+  "v": "in",
+  "ch": "measuring-an-economy",
+  "why": "syllabus: Investment"
+ },
+ "Saving": {
+  "v": "in",
+  "ch": "measuring-an-economy",
+  "why": "syllabus: Saving"
+ },
+ "Stock and flow": {
+  "v": "in",
+  "ch": "measuring-an-economy",
+  "why": "syllabus: Stock and flow"
+ },
+ "Social capital": {
+  "v": "in",
+  "ch": "measuring-an-economy",
+  "why": "syllabus: Social capital"
+ },
+ "Real gross domestic product": {
+  "v": "in",
+  "ch": "measuring-an-economy",
+  "why": "syllabus: Real gross domestic product"
+ },
+ "Purchasing power parity": {
+  "v": "in",
+  "ch": "measuring-an-economy",
+  "why": "syllabus: Purchasing power parity"
+ },
+ "Price index": {
+  "v": "in",
+  "ch": "measuring-an-economy",
+  "why": "syllabus: Price index"
+ },
+ "Consumer price index": {
+  "v": "in",
+  "ch": "measuring-an-economy",
+  "why": "syllabus: Price index"
+ },
+ "Productivity": {
+  "v": "in",
+  "ch": "measuring-an-economy",
+  "why": "syllabus: Productivity"
+ },
+ "Total factor productivity": {
+  "v": "in",
+  "ch": "measuring-an-economy",
+  "why": "syllabus: Total factor productivity"
+ },
+ "Fiscal policy": {
+  "v": "in",
+  "ch": "measuring-an-economy",
+  "why": "syllabus: Fiscal policy"
+ },
+ "Monetary policy": {
+  "v": "in",
+  "ch": "measuring-an-economy",
+  "why": "syllabus: Monetary policy"
+ },
+ "Gini coefficient": {
+  "v": "in",
+  "ch": "measuring-an-economy",
+  "why": "syllabus: Gini coefficient"
+ },
+ "Status quo bias": {
+  "v": "in",
+  "ch": "behavior-and-decisions",
+  "why": "syllabus: Status quo bias"
+ },
+ "Framing effect (psychology)": {
+  "v": "in",
+  "ch": "behavior-and-decisions",
+  "why": "syllabus: Framing effect"
+ },
+ "Anchoring effect": {
+  "v": "in",
+  "ch": "behavior-and-decisions",
+  "why": "syllabus: Anchoring effect"
+ },
+ "Heuristic (psychology)": {
+  "v": "in",
+  "ch": "behavior-and-decisions",
+  "why": "syllabus: Heuristics in judgment"
+ },
+ "Availability heuristic": {
+  "v": "in",
+  "ch": "behavior-and-decisions",
+  "why": "syllabus: Availability heuristic"
+ },
+ "Present bias": {
+  "v": "in",
+  "ch": "behavior-and-decisions",
+  "why": "syllabus: Present bias"
+ },
+ "Mental accounting": {
+  "v": "in",
+  "ch": "behavior-and-decisions",
+  "why": "syllabus: Mental accounting"
+ },
+ "Default effect": {
+  "v": "in",
+  "ch": "behavior-and-decisions",
+  "why": "syllabus: Default effect"
+ },
+ "Choice architecture": {
+  "v": "in",
+  "ch": "behavior-and-decisions",
+  "why": "syllabus: Choice architecture"
+ },
+ "Libertarian paternalism": {
+  "v": "in",
+  "ch": "behavior-and-decisions",
+  "why": "syllabus: Libertarian paternalism"
+ },
+ "Social norm": {
+  "v": "in",
+  "ch": "behavior-and-decisions",
+  "why": "syllabus: Social norms"
+ },
+ "Social norms approach": {
+  "v": "in",
+  "ch": "behavior-and-decisions",
+  "why": "syllabus: Social norms approach"
+ },
+ "Social preferences": {
+  "v": "in",
+  "ch": "behavior-and-decisions",
+  "why": "syllabus: Social preferences"
+ },
+ "Warm-glow giving": {
+  "v": "in",
+  "ch": "behavior-and-decisions",
+  "why": "syllabus: Warm-glow giving"
+ },
+ "Dictator game": {
+  "v": "in",
+  "ch": "behavior-and-decisions",
+  "why": "syllabus: Dictator game"
+ },
+ "Motivation crowding theory": {
+  "v": "in",
+  "ch": "behavior-and-decisions",
+  "why": "syllabus: Motivation crowding theory"
+ },
+ "Satisficing": {
+  "v": "in",
+  "ch": "behavior-and-decisions",
+  "why": "syllabus: Satisficing"
+ },
+ "Construal level theory": {
+  "v": "in",
+  "ch": "behavior-and-decisions",
+  "why": "syllabus: Construal level theory"
+ },
+ "Energy efficiency gap": {
+  "v": "in",
+  "ch": "behavior-and-decisions",
+  "why": "syllabus: Energy efficiency gap"
+ },
+ "Field experiment": {
+  "v": "in",
+  "ch": "behavior-and-decisions",
+  "why": "syllabus: Field experiment"
+ },
+ "Zero-sum game": {
+  "v": "in",
+  "ch": "new: Strategic interaction and game theory",
+  "why": "syllabus: Zero-sum game"
+ },
+ "Nash equilibrium": {
+  "v": "in",
+  "ch": "new: Strategic interaction and game theory",
+  "why": "syllabus: Nash equilibrium"
+ },
+ "Strategic dominance": {
+  "v": "in",
+  "ch": "new: Strategic interaction and game theory",
+  "why": "syllabus: Strategic dominance"
+ },
+ "Normal-form game": {
+  "v": "in",
+  "ch": "new: Strategic interaction and game theory",
+  "why": "syllabus: Normal-form game"
+ },
+ "Extensive-form game": {
+  "v": "in",
+  "ch": "new: Strategic interaction and game theory",
+  "why": "syllabus: Extensive-form game"
+ },
+ "Strategy (game theory)": {
+  "v": "in",
+  "ch": "new: Strategic interaction and game theory",
+  "why": "syllabus: Strategy"
+ },
+ "Subgame perfect equilibrium": {
+  "v": "in",
+  "ch": "new: Strategic interaction and game theory",
+  "why": "syllabus: Subgame perfect equilibrium"
+ },
+ "Repeated game": {
+  "v": "in",
+  "ch": "new: Strategic interaction and game theory",
+  "why": "syllabus: Repeated game"
+ },
+ "Folk theorem (game theory)": {
+  "v": "in",
+  "ch": "new: Strategic interaction and game theory",
+  "why": "syllabus: Folk theorem"
+ },
+ "Tit for tat": {
+  "v": "in",
+  "ch": "new: Strategic interaction and game theory",
+  "why": "syllabus: Tit for tat"
+ },
+ "Coordination game": {
+  "v": "in",
+  "ch": "new: Strategic interaction and game theory",
+  "why": "syllabus: Coordination game"
+ },
+ "Stag hunt": {
+  "v": "in",
+  "ch": "new: Strategic interaction and game theory",
+  "why": "syllabus: Stag hunt"
+ },
+ "Chicken (game)": {
+  "v": "in",
+  "ch": "new: Strategic interaction and game theory",
+  "why": "syllabus: Chicken"
+ },
+ "Bayesian game": {
+  "v": "in",
+  "ch": "new: Strategic interaction and game theory",
+  "why": "syllabus: Bayesian game"
+ },
+ "Cooperative game theory": {
+  "v": "in",
+  "ch": "new: Strategic interaction and game theory",
+  "why": "syllabus: Cooperative game theory"
+ },
+ "Core (game theory)": {
+  "v": "in",
+  "ch": "new: Strategic interaction and game theory",
+  "why": "syllabus: Core"
+ },
+ "Shapley value": {
+  "v": "in",
+  "ch": "new: Strategic interaction and game theory",
+  "why": "syllabus: Shapley value"
+ },
+ "Cooperative bargaining": {
+  "v": "in",
+  "ch": "new: Strategic interaction and game theory",
+  "why": "syllabus: Nash bargaining solution"
+ },
+ "Evolutionary game theory": {
+  "v": "in",
+  "ch": "new: Strategic interaction and game theory",
+  "why": "syllabus: Evolutionary game theory"
+ },
+ "Auction": {
+  "v": "in",
+  "ch": "new: Strategic interaction and game theory",
+  "why": "syllabus: Auction theory"
+ },
+ "Bond (finance)": {
+  "v": "in",
+  "ch": "economics-from-the-ground-up-other-topic",
+  "why": "syllabus: Bond"
+ },
+ "Stock": {
+  "v": "in",
+  "ch": "economics-from-the-ground-up-other-topic",
+  "why": "syllabus: Stock"
+ },
+ "Return on investment": {
+  "v": "in",
+  "ch": "economics-from-the-ground-up-other-topic",
+  "why": "syllabus: Return on investment"
+ },
+ "Diversification (finance)": {
+  "v": "in",
+  "ch": "economics-from-the-ground-up-other-topic",
+  "why": "syllabus: Diversification"
+ },
+ "Capital asset pricing model": {
+  "v": "in",
+  "ch": "economics-from-the-ground-up-other-topic",
+  "why": "syllabus: Capital asset pricing model"
+ },
+ "Fiduciary": {
+  "v": "in",
+  "ch": "economics-from-the-ground-up-other-topic",
+  "why": "syllabus: Fiduciary duty"
+ },
+ "Mixed economy": {
+  "v": "in",
+  "ch": "economics-from-the-ground-up-other-topic",
+  "why": "syllabus: Mixed economy"
+ },
+ "Statistical hypothesis test": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Statistical hypothesis test"
+ },
+ "Correlation does not imply causation": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Correlation does not imply causation"
+ },
+ "Regression analysis": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Regression analysis"
+ },
+ "Ordinary least squares": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Ordinary least squares"
+ },
+ "Logistic regression": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Logistic regression"
+ },
+ "Maximum likelihood estimation": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Maximum likelihood estimation"
+ },
+ "Panel data": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Panel data"
+ },
+ "Fixed effects model": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Fixed effects model"
+ },
+ "Omitted-variable bias": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Omitted-variable bias"
+ },
+ "Selection bias": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Selection bias"
+ },
+ "Endogeneity (econometrics)": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Endogeneity"
+ },
+ "Causal inference": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Causal inference"
+ },
+ "Rubin causal model": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Rubin causal model"
+ },
+ "Randomized controlled trial": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Randomized controlled trial"
+ },
+ "Natural experiment": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Natural experiment"
+ },
+ "Instrumental variables": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Instrumental variables estimation"
+ },
+ "Difference in differences": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Difference in differences"
+ },
+ "Regression discontinuity design": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Regression discontinuity design"
+ },
+ "Propensity score matching": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Propensity score matching"
+ },
+ "Synthetic control method": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Synthetic control method"
+ },
+ "Impact evaluation": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Impact evaluation"
+ },
+ "Program evaluation": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Impact evaluation"
+ },
+ "Meta-analysis": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Meta-analysis"
+ },
+ "Bayesian inference": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Bayesian inference"
+ },
+ "Monte Carlo method": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Monte Carlo method"
+ },
+ "Sensitivity analysis": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Sensitivity analysis"
+ },
+ "Spatial econometrics": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Spatial econometrics"
+ },
+ "Poisson regression": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Poisson regression"
+ },
+ "Truncated regression model": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Truncated regression model"
+ },
+ "Design of experiments": {
+  "v": "in",
+  "ch": "new: Empirical methods and econometrics",
+  "why": "syllabus: Design of experiments"
+ },
+ "Derivative": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Derivative"
+ },
+ "Exponential growth": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Exponential growth"
+ },
+ "Mathematical optimization": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Mathematical optimization"
+ },
+ "Constrained optimization": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Constrained optimization"
+ },
+ "Lagrange multiplier": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Lagrange multiplier"
+ },
+ "Karush–Kuhn–Tucker conditions": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Karush–Kuhn–Tucker conditions"
+ },
+ "Linear programming": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Linear programming"
+ },
+ "Integer programming": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Integer programming"
+ },
+ "Convex function": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Convex function"
+ },
+ "Duality (optimization)": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Duality"
+ },
+ "Differential equation": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Differential equation"
+ },
+ "Discrete time and continuous time": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Discrete and continuous time"
+ },
+ "Steady state": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Steady state"
+ },
+ "Phase portrait": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Phase portrait"
+ },
+ "Stability theory": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Stability theory"
+ },
+ "Bifurcation theory": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Bifurcation theory"
+ },
+ "Optimal control": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Optimal control"
+ },
+ "Pontryagin's maximum principle": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Pontryagin's maximum principle"
+ },
+ "Hamiltonian (control theory)": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Hamiltonian"
+ },
+ "Calculus of variations": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Calculus of variations"
+ },
+ "Dynamic programming": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Dynamic programming"
+ },
+ "Bellman equation": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Bellman equation"
+ },
+ "Markov decision process": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Markov decision process"
+ },
+ "Bang–bang control": {
+  "v": "in",
+  "ch": "new: Mathematical tools for economics",
+  "why": "syllabus: Bang–bang control"
+ },
+ "Population (biology)": {
+  "v": "in",
+  "ch": "ecosystem-structure-and-function",
+  "why": "syllabus: Population"
+ },
+ "Biome": {
+  "v": "in",
+  "ch": "ecosystem-structure-and-function",
+  "why": "syllabus: Biome"
+ },
+ "Ecosystem": {
+  "v": "in",
+  "ch": "ecosystem-structure-and-function",
+  "why": "syllabus: Abiotic and biotic components"
+ },
+ "Autotroph": {
+  "v": "in",
+  "ch": "ecosystem-structure-and-function",
+  "why": "syllabus: Autotroph"
+ },
+ "Decomposer": {
+  "v": "in",
+  "ch": "ecosystem-structure-and-function",
+  "why": "syllabus: Decomposer"
+ },
+ "Ecotone": {
+  "v": "in",
+  "ch": "ecosystem-structure-and-function",
+  "why": "syllabus: Ecotone"
+ },
+ "Mutualism (biology)": {
+  "v": "in",
+  "ch": "ecosystem-structure-and-function",
+  "why": "syllabus: Mutualism"
+ },
+ "Predation": {
+  "v": "in",
+  "ch": "ecosystem-structure-and-function",
+  "why": "syllabus: Predation"
+ },
+ "Competition (biology)": {
+  "v": "in",
+  "ch": "ecosystem-structure-and-function",
+  "why": "syllabus: Competition"
+ },
+ "Parasitism": {
+  "v": "in",
+  "ch": "ecosystem-structure-and-function",
+  "why": "syllabus: Parasitism"
+ },
+ "Herbivore": {
+  "v": "in",
+  "ch": "ecosystem-structure-and-function",
+  "why": "syllabus: Herbivore"
+ },
+ "Apex predator": {
+  "v": "in",
+  "ch": "ecosystem-structure-and-function",
+  "why": "syllabus: Apex predator"
+ },
+ "Biodiversity": {
+  "v": "in",
+  "ch": "ecosystem-structure-and-function",
+  "why": "syllabus: Functional diversity"
+ },
+ "Decomposition": {
+  "v": "in",
+  "ch": "ecosystem-structure-and-function",
+  "why": "syllabus: Decomposition"
+ },
+ "Soil": {
+  "v": "in",
+  "ch": "ecosystem-structure-and-function",
+  "why": "syllabus: Soil"
+ },
+ "Soil fertility": {
+  "v": "in",
+  "ch": "ecosystem-structure-and-function",
+  "why": "syllabus: Soil fertility"
+ },
+ "Soil organic matter": {
+  "v": "in",
+  "ch": "ecosystem-structure-and-function",
+  "why": "syllabus: Soil organic matter"
+ },
+ "Soil biology": {
+  "v": "in",
+  "ch": "ecosystem-structure-and-function",
+  "why": "syllabus: Soil biology"
+ },
+ "Ecological stoichiometry": {
+  "v": "in",
+  "ch": "ecosystem-structure-and-function",
+  "why": "syllabus: Ecological stoichiometry"
+ },
+ "Population dynamics": {
+  "v": "in",
+  "ch": "new: Populations and communities",
+  "why": "syllabus: Population dynamics"
+ },
+ "Logistic function": {
+  "v": "in",
+  "ch": "new: Populations and communities",
+  "why": "syllabus: Logistic growth"
+ },
+ "Allee effect": {
+  "v": "in",
+  "ch": "new: Populations and communities",
+  "why": "syllabus: Allee effect"
+ },
+ "R/K selection theory": {
+  "v": "in",
+  "ch": "new: Populations and communities",
+  "why": "syllabus: r/K selection theory"
+ },
+ "Lotka–Volterra equations": {
+  "v": "in",
+  "ch": "new: Populations and communities",
+  "why": "syllabus: Lotka–Volterra equations"
+ },
+ "Competitive Lotka–Volterra equations": {
+  "v": "in",
+  "ch": "new: Populations and communities",
+  "why": "syllabus: Competitive Lotka–Volterra equations"
+ },
+ "Recruitment (biology)": {
+  "v": "in",
+  "ch": "new: Populations and communities",
+  "why": "syllabus: Recruitment"
+ },
+ "Leslie matrix": {
+  "v": "in",
+  "ch": "new: Populations and communities",
+  "why": "syllabus: Leslie matrix"
+ },
+ "Species–area relationship": {
+  "v": "in",
+  "ch": "new: Populations and communities",
+  "why": "syllabus: Species–area relationship"
+ },
+ "Minimum viable population": {
+  "v": "in",
+  "ch": "new: Populations and communities",
+  "why": "syllabus: Minimum viable population"
+ },
+ "Biological dispersal": {
+  "v": "in",
+  "ch": "new: Populations and communities",
+  "why": "syllabus: Biological dispersal"
+ },
+ "Cellular respiration": {
+  "v": "in",
+  "ch": "cycles-of-carbon-water-and-nutrients",
+  "why": "syllabus: Cellular respiration"
+ },
+ "Ocean acidification": {
+  "v": "in",
+  "ch": "cycles-of-carbon-water-and-nutrients",
+  "why": "syllabus: Ocean acidification"
+ },
+ "Eutrophication": {
+  "v": "in",
+  "ch": "cycles-of-carbon-water-and-nutrients",
+  "why": "syllabus: Eutrophication"
+ },
+ "Nitrogen fixation": {
+  "v": "in",
+  "ch": "cycles-of-carbon-water-and-nutrients",
+  "why": "syllabus: Nitrogen fixation"
+ },
+ "Haber process": {
+  "v": "in",
+  "ch": "cycles-of-carbon-water-and-nutrients",
+  "why": "syllabus: Haber process"
+ },
+ "Sulfur cycle": {
+  "v": "in",
+  "ch": "cycles-of-carbon-water-and-nutrients",
+  "why": "syllabus: Sulfur cycle"
+ },
+ "Atmospheric methane": {
+  "v": "in",
+  "ch": "cycles-of-carbon-water-and-nutrients",
+  "why": "syllabus: Atmospheric methane"
+ },
+ "Infiltration (hydrology)": {
+  "v": "in",
+  "ch": "cycles-of-carbon-water-and-nutrients",
+  "why": "syllabus: Infiltration"
+ },
+ "Surface runoff": {
+  "v": "in",
+  "ch": "cycles-of-carbon-water-and-nutrients",
+  "why": "syllabus: Surface runoff"
+ },
+ "Evapotranspiration": {
+  "v": "in",
+  "ch": "cycles-of-carbon-water-and-nutrients",
+  "why": "syllabus: Evapotranspiration"
+ },
+ "Soil erosion": {
+  "v": "in",
+  "ch": "cycles-of-carbon-water-and-nutrients",
+  "why": "syllabus: Soil erosion"
+ },
+ "Species diversity": {
+  "v": "in",
+  "ch": "biodiversity-and-its-loss",
+  "why": "syllabus: Species diversity"
+ },
+ "Genetic diversity": {
+  "v": "in",
+  "ch": "biodiversity-and-its-loss",
+  "why": "syllabus: Genetic diversity"
+ },
+ "Diversity index": {
+  "v": "in",
+  "ch": "biodiversity-and-its-loss",
+  "why": "syllabus: Diversity index"
+ },
+ "Alpha diversity": {
+  "v": "in",
+  "ch": "biodiversity-and-its-loss",
+  "why": "syllabus: Alpha, beta and gamma diversity"
+ },
+ "Gamma diversity": {
+  "v": "in",
+  "ch": "biodiversity-and-its-loss",
+  "why": "syllabus: Alpha, beta and gamma diversity"
+ },
+ "Endemism": {
+  "v": "in",
+  "ch": "biodiversity-and-its-loss",
+  "why": "syllabus: Endemism"
+ },
+ "Extinction": {
+  "v": "in",
+  "ch": "biodiversity-and-its-loss",
+  "why": "syllabus: Extinction"
+ },
+ "Background extinction rate": {
+  "v": "in",
+  "ch": "biodiversity-and-its-loss",
+  "why": "syllabus: Background extinction rate"
+ },
+ "Extinction debt": {
+  "v": "in",
+  "ch": "biodiversity-and-its-loss",
+  "why": "syllabus: Extinction debt"
+ },
+ "Desertification": {
+  "v": "in",
+  "ch": "biodiversity-and-its-loss",
+  "why": "syllabus: Desertification"
+ },
+ "Wildlife trade": {
+  "v": "in",
+  "ch": "biodiversity-and-its-loss",
+  "why": "syllabus: Wildlife trade"
+ },
+ "Poaching": {
+  "v": "in",
+  "ch": "biodiversity-and-its-loss",
+  "why": "syllabus: Poaching"
+ },
+ "Biotic homogenization": {
+  "v": "in",
+  "ch": "biodiversity-and-its-loss",
+  "why": "syllabus: Biotic homogenization"
+ },
+ "Genetic erosion": {
+  "v": "in",
+  "ch": "biodiversity-and-its-loss",
+  "why": "syllabus: Genetic erosion"
+ },
+ "Crop wild relative": {
+  "v": "in",
+  "ch": "biodiversity-and-its-loss",
+  "why": "syllabus: Crop wild relative"
+ },
+ "Wildlife corridor": {
+  "v": "in",
+  "ch": "biodiversity-and-its-loss",
+  "why": "syllabus: Wildlife corridor"
+ },
+ "Systems thinking": {
+  "v": "in",
+  "ch": "resilience-thresholds-and-limits",
+  "why": "syllabus: Systems thinking"
+ },
+ "Feedback": {
+  "v": "in",
+  "ch": "resilience-thresholds-and-limits",
+  "why": "syllabus: Feedback"
+ },
+ "Complex adaptive system": {
+  "v": "in",
+  "ch": "resilience-thresholds-and-limits",
+  "why": "syllabus: Complex adaptive system"
+ },
+ "Socio-ecological system": {
+  "v": "in",
+  "ch": "resilience-thresholds-and-limits",
+  "why": "syllabus: Social-ecological system"
+ },
+ "Hysteresis": {
+  "v": "in",
+  "ch": "resilience-thresholds-and-limits",
+  "why": "syllabus: Hysteresis"
+ },
+ "Planetary health": {
+  "v": "in",
+  "ch": "resilience-thresholds-and-limits",
+  "why": "syllabus: Planetary health"
+ },
+ "Tropical rainforest": {
+  "v": "in",
+  "ch": "key-ecosystems",
+  "why": "syllabus: Tropical rainforest"
+ },
+ "Tundra": {
+  "v": "in",
+  "ch": "key-ecosystems",
+  "why": "syllabus: Tundra"
+ },
+ "Drylands": {
+  "v": "in",
+  "ch": "key-ecosystems",
+  "why": "syllabus: Drylands"
+ },
+ "Estuary": {
+  "v": "in",
+  "ch": "key-ecosystems",
+  "why": "syllabus: Estuary"
+ },
+ "Pelagic zone": {
+  "v": "in",
+  "ch": "key-ecosystems",
+  "why": "syllabus: Pelagic zone"
+ },
+ "Deep sea": {
+  "v": "in",
+  "ch": "key-ecosystems",
+  "why": "syllabus: Deep sea"
+ },
+ "Radiative forcing": {
+  "v": "in",
+  "ch": "new: Climate science essentials",
+  "why": "syllabus: Radiative forcing"
+ },
+ "Extreme weather": {
+  "v": "in",
+  "ch": "new: Climate science essentials",
+  "why": "syllabus: Extreme weather"
+ },
+ "Food security": {
+  "v": "in",
+  "ch": "provisioning-and-regulating-services",
+  "why": "syllabus: Food security"
+ },
+ "Firewood": {
+  "v": "in",
+  "ch": "provisioning-and-regulating-services",
+  "why": "syllabus: Firewood"
+ },
+ "Medicinal plants": {
+  "v": "in",
+  "ch": "provisioning-and-regulating-services",
+  "why": "syllabus: Medicinal plants"
+ },
+ "Pollination management": {
+  "v": "in",
+  "ch": "provisioning-and-regulating-services",
+  "why": "syllabus: Pollination management"
+ },
+ "Storm surge": {
+  "v": "in",
+  "ch": "provisioning-and-regulating-services",
+  "why": "syllabus: Storm surge"
+ },
+ "Flood management": {
+  "v": "in",
+  "ch": "provisioning-and-regulating-services",
+  "why": "syllabus: Flood mitigation by ecosystems"
+ },
+ "Soil formation": {
+  "v": "in",
+  "ch": "provisioning-and-regulating-services",
+  "why": "syllabus: Pedogenesis"
+ },
+ "Microclimate": {
+  "v": "in",
+  "ch": "provisioning-and-regulating-services",
+  "why": "syllabus: Microclimate"
+ },
+ "Well-being": {
+  "v": "in",
+  "ch": "cultural-services-and-human-wellbeing",
+  "why": "syllabus: Well-being"
+ },
+ "Subjective well-being": {
+  "v": "in",
+  "ch": "cultural-services-and-human-wellbeing",
+  "why": "syllabus: Subjective well-being"
+ },
+ "Sacred natural site": {
+  "v": "in",
+  "ch": "cultural-services-and-human-wellbeing",
+  "why": "syllabus: Sacred natural site"
+ },
+ "Cultural landscape": {
+  "v": "in",
+  "ch": "cultural-services-and-human-wellbeing",
+  "why": "syllabus: Cultural landscape"
+ },
+ "Outdoor recreation": {
+  "v": "in",
+  "ch": "cultural-services-and-human-wellbeing",
+  "why": "syllabus: Outdoor recreation"
+ },
+ "Spatial analysis": {
+  "v": "in",
+  "ch": "mapping-and-modeling-services",
+  "why": "syllabus: Spatial analysis"
+ },
+ "Normalized difference vegetation index": {
+  "v": "in",
+  "ch": "mapping-and-modeling-services",
+  "why": "syllabus: Normalized difference vegetation index"
+ },
+ "Lidar": {
+  "v": "in",
+  "ch": "mapping-and-modeling-services",
+  "why": "syllabus: Lidar"
+ },
+ "Participatory GIS": {
+  "v": "in",
+  "ch": "mapping-and-modeling-services",
+  "why": "syllabus: Participatory GIS"
+ },
+ "Universal Soil Loss Equation": {
+  "v": "in",
+  "ch": "mapping-and-modeling-services",
+  "why": "syllabus: Universal Soil Loss Equation"
+ },
+ "Runoff curve number": {
+  "v": "in",
+  "ch": "mapping-and-modeling-services",
+  "why": "syllabus: Runoff curve number"
+ },
+ "Species distribution modelling": {
+  "v": "in",
+  "ch": "mapping-and-modeling-services",
+  "why": "syllabus: Species distribution modelling"
+ },
+ "Agent-based model": {
+  "v": "in",
+  "ch": "mapping-and-modeling-services",
+  "why": "syllabus: Agent-based model"
+ },
+ "System dynamics": {
+  "v": "in",
+  "ch": "mapping-and-modeling-services",
+  "why": "syllabus: System dynamics"
+ },
+ "Bayesian network": {
+  "v": "in",
+  "ch": "mapping-and-modeling-services",
+  "why": "syllabus: Bayesian network"
+ },
+ "Scenario planning": {
+  "v": "in",
+  "ch": "mapping-and-modeling-services",
+  "why": "syllabus: Scenario planning"
+ },
+ "Exchange value": {
+  "v": "in",
+  "ch": "kinds-of-value",
+  "why": "syllabus: Exchange value"
+ },
+ "Paradox of value": {
+  "v": "in",
+  "ch": "kinds-of-value",
+  "why": "syllabus: Paradox of value"
+ },
+ "Anthropocentrism": {
+  "v": "in",
+  "ch": "kinds-of-value",
+  "why": "syllabus: Anthropocentrism"
+ },
+ "Biocentrism (ethics)": {
+  "v": "in",
+  "ch": "kinds-of-value",
+  "why": "syllabus: Biocentrism"
+ },
+ "Discrete choice": {
+  "v": "in",
+  "ch": "valuation-methods",
+  "why": "syllabus: Discrete choice"
+ },
+ "Conjoint analysis": {
+  "v": "in",
+  "ch": "valuation-methods",
+  "why": "syllabus: Conjoint analysis"
+ },
+ "Random utility model": {
+  "v": "in",
+  "ch": "new: Valuation econometrics",
+  "why": "syllabus: Random utility model"
+ },
+ "Multinomial logistic regression": {
+  "v": "in",
+  "ch": "new: Valuation econometrics",
+  "why": "syllabus: Multinomial logit"
+ },
+ "Mixed logit": {
+  "v": "in",
+  "ch": "new: Valuation econometrics",
+  "why": "syllabus: Mixed logit"
+ },
+ "Latent class model": {
+  "v": "in",
+  "ch": "new: Valuation econometrics",
+  "why": "syllabus: Latent class model"
+ },
+ "Probit model": {
+  "v": "in",
+  "ch": "new: Valuation econometrics",
+  "why": "syllabus: Probit model"
+ },
+ "Scope neglect": {
+  "v": "in",
+  "ch": "new: Valuation econometrics",
+  "why": "syllabus: Scope test and scope insensitivity"
+ },
+ "Cheap talk": {
+  "v": "in",
+  "ch": "new: Valuation econometrics",
+  "why": "syllabus: Cheap talk script"
+ },
+ "Exxon Valdez oil spill": {
+  "v": "in",
+  "ch": "new: Valuation econometrics",
+  "why": "syllabus: Exxon Valdez oil spill"
+ },
+ "Best–worst scaling": {
+  "v": "in",
+  "ch": "new: Valuation econometrics",
+  "why": "syllabus: Best–worst scaling"
+ },
+ "Meta-regression": {
+  "v": "in",
+  "ch": "new: Valuation econometrics",
+  "why": "syllabus: Meta-regression"
+ },
+ "Benefit–cost ratio": {
+  "v": "in",
+  "ch": "cost-benefit-analysis",
+  "why": "syllabus: Benefit–cost ratio"
+ },
+ "Payback period": {
+  "v": "in",
+  "ch": "cost-benefit-analysis",
+  "why": "syllabus: Payback period"
+ },
+ "Project appraisal": {
+  "v": "in",
+  "ch": "cost-benefit-analysis",
+  "why": "syllabus: Project appraisal"
+ },
+ "Risk–benefit ratio": {
+  "v": "in",
+  "ch": "cost-benefit-analysis",
+  "why": "syllabus: Risk–benefit analysis"
+ },
+ "Quality-adjusted life year": {
+  "v": "in",
+  "ch": "cost-benefit-analysis",
+  "why": "syllabus: Quality-adjusted life year"
+ },
+ "Disability-adjusted life year": {
+  "v": "in",
+  "ch": "cost-benefit-analysis",
+  "why": "syllabus: Disability-adjusted life year"
+ },
+ "Dose–response relationship": {
+  "v": "in",
+  "ch": "cost-benefit-analysis",
+  "why": "syllabus: Dose–response relationship"
+ },
+ "HM Treasury": {
+  "v": "in",
+  "ch": "cost-benefit-analysis",
+  "why": "syllabus: The Green Book (HM Treasury)"
+ },
+ "Commensurability (ethics)": {
+  "v": "in",
+  "ch": "debates-about-pricing-nature",
+  "why": "syllabus: Incommensurability of values"
+ },
+ "Land ethic": {
+  "v": "in",
+  "ch": "debates-about-pricing-nature",
+  "why": "syllabus: Land ethic"
+ },
+ "Animal rights": {
+  "v": "in",
+  "ch": "debates-about-pricing-nature",
+  "why": "syllabus: Animal rights"
+ },
+ "OECD Better Life Index": {
+  "v": "in",
+  "ch": "beyond-gdp",
+  "why": "syllabus: OECD Better Life Index"
+ },
+ "Social Progress Index": {
+  "v": "in",
+  "ch": "beyond-gdp",
+  "why": "syllabus: Social Progress Index"
+ },
+ "Integrated reporting": {
+  "v": "in",
+  "ch": "national-and-corporate-natural-capital-a",
+  "why": "syllabus: Integrated reporting"
+ },
+ "Triple bottom line": {
+  "v": "in",
+  "ch": "national-and-corporate-natural-capital-a",
+  "why": "syllabus: Triple bottom line"
+ },
+ "Zoning": {
+  "v": "in",
+  "ch": "regulation-and-standards",
+  "why": "syllabus: Zoning"
+ },
+ "Endangered Species Act of 1973": {
+  "v": "in",
+  "ch": "regulation-and-standards",
+  "why": "syllabus: Endangered Species Act"
+ },
+ "Natura 2000": {
+  "v": "in",
+  "ch": "regulation-and-standards",
+  "why": "syllabus: Natura 2000"
+ },
+ "Corporate average fuel economy": {
+  "v": "in",
+  "ch": "regulation-and-standards",
+  "why": "syllabus: Corporate average fuel economy"
+ },
+ "Minimum energy performance standard": {
+  "v": "in",
+  "ch": "regulation-and-standards",
+  "why": "syllabus: Minimum energy performance standard"
+ },
+ "Low-carbon fuel standard": {
+  "v": "in",
+  "ch": "regulation-and-standards",
+  "why": "syllabus: Low-carbon fuel standard"
+ },
+ "Superfund": {
+  "v": "in",
+  "ch": "regulation-and-standards",
+  "why": "syllabus: Superfund"
+ },
+ "Dividend": {
+  "v": "in",
+  "ch": "pollution-taxes-and-charges",
+  "why": "syllabus: Double dividend"
+ },
+ "Plastic bag ban": {
+  "v": "in",
+  "ch": "pollution-taxes-and-charges",
+  "why": "syllabus: Plastic bag levy"
+ },
+ "Congestion pricing": {
+  "v": "in",
+  "ch": "pollution-taxes-and-charges",
+  "why": "syllabus: Congestion pricing"
+ },
+ "Road pricing": {
+  "v": "in",
+  "ch": "pollution-taxes-and-charges",
+  "why": "syllabus: Road pricing"
+ },
+ "Effluent": {
+  "v": "in",
+  "ch": "pollution-taxes-and-charges",
+  "why": "syllabus: Effluent fees"
+ },
+ "Feebate": {
+  "v": "in",
+  "ch": "pollution-taxes-and-charges",
+  "why": "syllabus: Feebate"
+ },
+ "User fee": {
+  "v": "in",
+  "ch": "pollution-taxes-and-charges",
+  "why": "syllabus: User fee"
+ },
+ "Windfall gain": {
+  "v": "in",
+  "ch": "tradable-permits-and-carbon-markets",
+  "why": "syllabus: Windfall profits from free allocation"
+ },
+ "Verification and validation": {
+  "v": "in",
+  "ch": "tradable-permits-and-carbon-markets",
+  "why": "syllabus: Measurement, reporting and verification"
+ },
+ "Transferable development rights": {
+  "v": "in",
+  "ch": "tradable-permits-and-carbon-markets",
+  "why": "syllabus: Transfer of development rights"
+ },
+ "Environmental management scheme": {
+  "v": "in",
+  "ch": "subsidies-information-and-voluntary-appr",
+  "why": "syllabus: Agri-environment scheme"
+ },
+ "Common Agricultural Policy": {
+  "v": "in",
+  "ch": "subsidies-information-and-voluntary-appr",
+  "why": "syllabus: Common Agricultural Policy"
+ },
+ "Subsidy": {
+  "v": "in",
+  "ch": "subsidies-information-and-voluntary-appr",
+  "why": "syllabus: Perverse subsidies"
+ },
+ "Toxics Release Inventory": {
+  "v": "in",
+  "ch": "subsidies-information-and-voluntary-appr",
+  "why": "syllabus: Toxics Release Inventory"
+ },
+ "Energy Star": {
+  "v": "in",
+  "ch": "subsidies-information-and-voluntary-appr",
+  "why": "syllabus: Energy labels"
+ },
+ "ISO 14000 family": {
+  "v": "in",
+  "ch": "subsidies-information-and-voluntary-appr",
+  "why": "syllabus: ISO 14001"
+ },
+ "Inflation Reduction Act": {
+  "v": "in",
+  "ch": "subsidies-information-and-voluntary-appr",
+  "why": "syllabus: Inflation Reduction Act"
+ },
+ "Gossen's second law": {
+  "v": "in",
+  "ch": "choosing-among-instruments",
+  "why": "syllabus: Equimarginal principle"
+ },
+ "Induced innovation": {
+  "v": "in",
+  "ch": "choosing-among-instruments",
+  "why": "syllabus: Induced innovation"
+ },
+ "Regulatory capture": {
+  "v": "in",
+  "ch": "new: Political economy of environmental policy",
+  "why": "syllabus: Regulatory capture"
+ },
+ "Rent-seeking": {
+  "v": "in",
+  "ch": "new: Political economy of environmental policy",
+  "why": "syllabus: Rent-seeking"
+ },
+ "Lobbying": {
+  "v": "in",
+  "ch": "new: Political economy of environmental policy",
+  "why": "syllabus: Lobbying"
+ },
+ "The Logic of Collective Action": {
+  "v": "in",
+  "ch": "new: Political economy of environmental policy",
+  "why": "syllabus: The Logic of Collective Action"
+ },
+ "Median voter theorem": {
+  "v": "in",
+  "ch": "new: Political economy of environmental policy",
+  "why": "syllabus: Median voter theorem"
+ },
+ "Path dependence": {
+  "v": "in",
+  "ch": "new: Political economy of environmental policy",
+  "why": "syllabus: Path dependence"
+ },
+ "Fossil fuels lobby": {
+  "v": "in",
+  "ch": "new: Political economy of environmental policy",
+  "why": "syllabus: Fossil fuels lobby"
+ },
+ "Particulate matter": {
+  "v": "in",
+  "ch": "new: Pollution economics and environmental health",
+  "why": "syllabus: Particulates"
+ },
+ "Acid rain": {
+  "v": "in",
+  "ch": "new: Pollution economics and environmental health",
+  "why": "syllabus: Acid rain"
+ },
+ "Municipal solid waste": {
+  "v": "in",
+  "ch": "new: Pollution economics and environmental health",
+  "why": "syllabus: Municipal solid waste"
+ },
+ "Landfill": {
+  "v": "in",
+  "ch": "new: Pollution economics and environmental health",
+  "why": "syllabus: Landfill"
+ },
+ "Hazardous waste": {
+  "v": "in",
+  "ch": "new: Pollution economics and environmental health",
+  "why": "syllabus: Hazardous waste"
+ },
+ "Brownfield land": {
+  "v": "in",
+  "ch": "new: Pollution economics and environmental health",
+  "why": "syllabus: Brownfield land"
+ },
+ "International trade": {
+  "v": "in",
+  "ch": "new: Trade and the environment",
+  "why": "syllabus: International trade"
+ },
+ "Non-tariff barriers to trade": {
+  "v": "in",
+  "ch": "new: Trade and the environment",
+  "why": "syllabus: Non-tariff barriers to trade"
+ },
+ "Kuznets curve": {
+  "v": "in",
+  "ch": "new: Trade and the environment",
+  "why": "syllabus: Scale, composition and technique effects"
+ },
+ "Levelized cost of electricity": {
+  "v": "in",
+  "ch": "new: Energy economics",
+  "why": "syllabus: Levelized cost of electricity"
+ },
+ "Energy intensity": {
+  "v": "in",
+  "ch": "new: Energy economics",
+  "why": "syllabus: Energy intensity"
+ },
+ "Efficient energy use": {
+  "v": "in",
+  "ch": "new: Energy economics",
+  "why": "syllabus: Efficient energy use"
+ },
+ "Merit order": {
+  "v": "in",
+  "ch": "new: Energy economics",
+  "why": "syllabus: Merit order"
+ },
+ "Capacity factor": {
+  "v": "in",
+  "ch": "new: Energy economics",
+  "why": "syllabus: Capacity factor"
+ },
+ "Experience curve effect": {
+  "v": "in",
+  "ch": "new: Energy economics",
+  "why": "syllabus: Experience curve"
+ },
+ "Variable renewable energy": {
+  "v": "in",
+  "ch": "new: Energy economics",
+  "why": "syllabus: Variable renewable energy"
+ },
+ "Grid energy storage": {
+  "v": "in",
+  "ch": "new: Energy economics",
+  "why": "syllabus: Grid energy storage"
+ },
+ "Demand response": {
+  "v": "in",
+  "ch": "new: Energy economics",
+  "why": "syllabus: Demand response"
+ },
+ "Energy security": {
+  "v": "in",
+  "ch": "new: Energy economics",
+  "why": "syllabus: Energy security"
+ },
+ "Energy poverty": {
+  "v": "in",
+  "ch": "new: Energy economics",
+  "why": "syllabus: Energy poverty"
+ },
+ "Price of oil": {
+  "v": "in",
+  "ch": "new: Energy economics",
+  "why": "syllabus: Price of oil"
+ },
+ "Reverse auction": {
+  "v": "in",
+  "ch": "payments-for-ecosystem-services",
+  "why": "syllabus: Reverse auction for conservation contracts"
+ },
+ "New York City water supply system": {
+  "v": "in",
+  "ch": "payments-for-ecosystem-services",
+  "why": "syllabus: New York City watershed program"
+ },
+ "Conditional cash transfer": {
+  "v": "in",
+  "ch": "payments-for-ecosystem-services",
+  "why": "syllabus: Conditional cash transfer"
+ },
+ "Biodiversity offsetting": {
+  "v": "in",
+  "ch": "offsets-and-banking",
+  "why": "syllabus: Biodiversity net gain"
+ },
+ "Biodiversity Impact Credit": {
+  "v": "in",
+  "ch": "offsets-and-banking",
+  "why": "syllabus: Biodiversity credits"
+ },
+ "Carbon offsets and credits": {
+  "v": "in",
+  "ch": "forest-carbon-and-redd",
+  "why": "syllabus: Voluntary carbon market"
+ },
+ "Parametric insurance": {
+  "v": "in",
+  "ch": "finance-for-conservation",
+  "why": "syllabus: Parametric insurance"
+ },
+ "Catastrophe bond": {
+  "v": "in",
+  "ch": "finance-for-conservation",
+  "why": "syllabus: Catastrophe bond"
+ },
+ "Social impact bond": {
+  "v": "in",
+  "ch": "finance-for-conservation",
+  "why": "syllabus: Social impact bond"
+ },
+ "Trophy hunting": {
+  "v": "in",
+  "ch": "finance-for-conservation",
+  "why": "syllabus: Trophy hunting"
+ },
+ "Official development assistance": {
+  "v": "in",
+  "ch": "finance-for-conservation",
+  "why": "syllabus: Official development assistance"
+ },
+ "Reserve design": {
+  "v": "in",
+  "ch": "new: Economics of conservation",
+  "why": "syllabus: Reserve site selection"
+ },
+ "Marxan": {
+  "v": "in",
+  "ch": "new: Economics of conservation",
+  "why": "syllabus: Marxan"
+ },
+ "Human–wildlife conflict": {
+  "v": "in",
+  "ch": "new: Economics of conservation",
+  "why": "syllabus: Human–wildlife conflict"
+ },
+ "Paper park": {
+  "v": "in",
+  "ch": "new: Economics of conservation",
+  "why": "syllabus: Paper park"
+ },
+ "Conservation agriculture": {
+  "v": "in",
+  "ch": "new: Economics of conservation",
+  "why": "syllabus: Land sparing and land sharing"
+ },
+ "CITES": {
+  "v": "in",
+  "ch": "new: Economics of conservation",
+  "why": "syllabus: CITES"
+ },
+ "Ivory trade": {
+  "v": "in",
+  "ch": "new: Economics of conservation",
+  "why": "syllabus: Ivory trade"
+ },
+ "Simon–Ehrlich wager": {
+  "v": "in",
+  "ch": "renewable-and-non-renewable-resources",
+  "why": "syllabus: Simon–Ehrlich wager"
+ },
+ "Malthusianism": {
+  "v": "in",
+  "ch": "renewable-and-non-renewable-resources",
+  "why": "syllabus: Malthusianism"
+ },
+ "Cornucopianism": {
+  "v": "in",
+  "ch": "renewable-and-non-renewable-resources",
+  "why": "syllabus: Cornucopian"
+ },
+ "Critical Raw Materials Act": {
+  "v": "in",
+  "ch": "renewable-and-non-renewable-resources",
+  "why": "syllabus: Critical minerals"
+ },
+ "Sovereign wealth fund": {
+  "v": "in",
+  "ch": "renewable-and-non-renewable-resources",
+  "why": "syllabus: Sovereign wealth fund"
+ },
+ "Resource rent tax": {
+  "v": "in",
+  "ch": "renewable-and-non-renewable-resources",
+  "why": "syllabus: Resource rent tax"
+ },
+ "Beverton–Holt model": {
+  "v": "in",
+  "ch": "fisheries",
+  "why": "syllabus: Beverton–Holt model"
+ },
+ "Ricker model": {
+  "v": "in",
+  "ch": "fisheries",
+  "why": "syllabus: Ricker model"
+ },
+ "Catch per unit effort": {
+  "v": "in",
+  "ch": "fisheries",
+  "why": "syllabus: Catch per unit effort"
+ },
+ "Illegal, unreported and unregulated fishing": {
+  "v": "in",
+  "ch": "fisheries",
+  "why": "syllabus: Illegal, unreported and unregulated fishing"
+ },
+ "Fish stocks": {
+  "v": "in",
+  "ch": "fisheries",
+  "why": "syllabus: Straddling stocks"
+ },
+ "Aquaculture": {
+  "v": "in",
+  "ch": "fisheries",
+  "why": "syllabus: Aquaculture"
+ },
+ "Bycatch": {
+  "v": "in",
+  "ch": "fisheries",
+  "why": "syllabus: Bycatch"
+ },
+ "Fishing down the food web": {
+  "v": "in",
+  "ch": "fisheries",
+  "why": "syllabus: Fishing down the food web"
+ },
+ "Shifting baseline": {
+  "v": "in",
+  "ch": "fisheries",
+  "why": "syllabus: Shifting baseline"
+ },
+ "Recreational fishing": {
+  "v": "in",
+  "ch": "fisheries",
+  "why": "syllabus: Recreational fishing"
+ },
+ "Multiple-Use Sustained-Yield Act of 1960": {
+  "v": "in",
+  "ch": "forests-land-and-water",
+  "why": "syllabus: Sustained yield"
+ },
+ "Intensive farming": {
+  "v": "in",
+  "ch": "forests-land-and-water",
+  "why": "syllabus: Intensive farming"
+ },
+ "Slash-and-burn agriculture": {
+  "v": "in",
+  "ch": "forests-land-and-water",
+  "why": "syllabus: Slash-and-burn"
+ },
+ "Shifting cultivation": {
+  "v": "in",
+  "ch": "forests-land-and-water",
+  "why": "syllabus: Shifting cultivation"
+ },
+ "Illegal logging": {
+  "v": "in",
+  "ch": "forests-land-and-water",
+  "why": "syllabus: Illegal logging"
+ },
+ "Water right": {
+  "v": "in",
+  "ch": "forests-land-and-water",
+  "why": "syllabus: Water rights"
+ },
+ "Groundwater depletion": {
+  "v": "in",
+  "ch": "forests-land-and-water",
+  "why": "syllabus: Overdrafting"
+ },
+ "Water-energy nexus": {
+  "v": "in",
+  "ch": "forests-land-and-water",
+  "why": "syllabus: Water–energy nexus"
+ },
+ "Water resources": {
+  "v": "in",
+  "ch": "forests-land-and-water",
+  "why": "syllabus: Integrated water resources management"
+ },
+ "Water privatization": {
+  "v": "in",
+  "ch": "forests-land-and-water",
+  "why": "syllabus: Water privatization"
+ },
+ "Pastoralism": {
+  "v": "in",
+  "ch": "forests-land-and-water",
+  "why": "syllabus: Pastoralism"
+ },
+ "Land grabbing": {
+  "v": "in",
+  "ch": "forests-land-and-water",
+  "why": "syllabus: Land grabbing"
+ },
+ "Food system": {
+  "v": "in",
+  "ch": "forests-land-and-water",
+  "why": "syllabus: Food system"
+ },
+ "Food loss and waste": {
+  "v": "in",
+  "ch": "forests-land-and-water",
+  "why": "syllabus: Food loss and waste"
+ },
+ "Precision agriculture": {
+  "v": "in",
+  "ch": "forests-land-and-water",
+  "why": "syllabus: Precision agriculture"
+ },
+ "Institutional analysis and development framework": {
+  "v": "in",
+  "ch": "managing-the-commons",
+  "why": "syllabus: Institutional Analysis and Development framework"
+ },
+ "Natural resource management": {
+  "v": "in",
+  "ch": "managing-the-commons",
+  "why": "syllabus: Community-based natural resource management"
+ },
+ "Collective action problem": {
+  "v": "in",
+  "ch": "managing-the-commons",
+  "why": "syllabus: Social dilemma"
+ },
+ "Climate change mitigation": {
+  "v": "in",
+  "ch": "what-nature-based-solutions-are",
+  "why": "syllabus: Co-benefits"
+ },
+ "Permeable paving": {
+  "v": "in",
+  "ch": "water-and-flood-solutions",
+  "why": "syllabus: Permeable paving"
+ },
+ "Room for the River": {
+  "v": "in",
+  "ch": "water-and-flood-solutions",
+  "why": "syllabus: Room for the River"
+ },
+ "Dam removal": {
+  "v": "in",
+  "ch": "water-and-flood-solutions",
+  "why": "syllabus: Dam removal"
+ },
+ "Source water protection": {
+  "v": "in",
+  "ch": "water-and-flood-solutions",
+  "why": "syllabus: Source water protection"
+ },
+ "Wetland": {
+  "v": "in",
+  "ch": "water-and-flood-solutions",
+  "why": "syllabus: Wetland restoration"
+ },
+ "Coastal erosion": {
+  "v": "in",
+  "ch": "coastal-solutions",
+  "why": "syllabus: Coastal erosion"
+ },
+ "Beach nourishment": {
+  "v": "in",
+  "ch": "coastal-solutions",
+  "why": "syllabus: Beach nourishment"
+ },
+ "Seawall": {
+  "v": "in",
+  "ch": "coastal-solutions",
+  "why": "syllabus: Seawall"
+ },
+ "Managed retreat": {
+  "v": "in",
+  "ch": "coastal-solutions",
+  "why": "syllabus: Managed realignment"
+ },
+ "Coastal squeeze": {
+  "v": "in",
+  "ch": "coastal-solutions",
+  "why": "syllabus: Coastal squeeze"
+ },
+ "Urban forestry": {
+  "v": "in",
+  "ch": "cities-and-green-space",
+  "why": "syllabus: Street tree"
+ },
+ "Exclosure": {
+  "v": "in",
+  "ch": "restoring-land-and-forests",
+  "why": "syllabus: Exclosure"
+ },
+ "Forest restoration": {
+  "v": "in",
+  "ch": "restoring-land-and-forests",
+  "why": "syllabus: Forest landscape restoration"
+ },
+ "Novel ecosystem": {
+  "v": "in",
+  "ch": "restoring-land-and-forests",
+  "why": "syllabus: Novel ecosystem"
+ },
+ "No-till farming": {
+  "v": "in",
+  "ch": "working-lands",
+  "why": "syllabus: No-till farming"
+ },
+ "Crop rotation": {
+  "v": "in",
+  "ch": "working-lands",
+  "why": "syllabus: Crop rotation"
+ },
+ "Intercropping": {
+  "v": "in",
+  "ch": "working-lands",
+  "why": "syllabus: Intercropping"
+ },
+ "Permaculture": {
+  "v": "in",
+  "ch": "working-lands",
+  "why": "syllabus: Permaculture"
+ },
+ "Hedge": {
+  "v": "in",
+  "ch": "working-lands",
+  "why": "syllabus: Hedgerow"
+ },
+ "Rotational grazing": {
+  "v": "in",
+  "ch": "working-lands",
+  "why": "syllabus: Rotational grazing"
+ },
+ "Forest management": {
+  "v": "in",
+  "ch": "working-lands",
+  "why": "syllabus: Sustainable forest management"
+ },
+ "Systematic review": {
+  "v": "in",
+  "ch": "evidence-risks-and-greenwashing",
+  "why": "syllabus: Systematic review"
+ },
+ "Tree plantation": {
+  "v": "in",
+  "ch": "evidence-risks-and-greenwashing",
+  "why": "syllabus: Tree plantation"
+ },
+ "Albedo": {
+  "v": "in",
+  "ch": "evidence-risks-and-greenwashing",
+  "why": "syllabus: Albedo effect of afforestation"
+ },
+ "Economic analysis of climate change": {
+  "v": "in",
+  "ch": "the-economics-of-climate-change",
+  "why": "syllabus: Economic impacts of climate change"
+ },
+ "Fat-tailed distribution": {
+  "v": "in",
+  "ch": "the-economics-of-climate-change",
+  "why": "syllabus: Fat-tailed distribution"
+ },
+ "The Green Paradox": {
+  "v": "in",
+  "ch": "the-economics-of-climate-change",
+  "why": "syllabus: Green paradox"
+ },
+ "Robust decision-making": {
+  "v": "in",
+  "ch": "the-economics-of-climate-change",
+  "why": "syllabus: Robust decision-making"
+ },
+ "Solar radiation modification": {
+  "v": "in",
+  "ch": "mitigation-and-carbon-removal",
+  "why": "syllabus: Solar radiation modification"
+ },
+ "Electrification": {
+  "v": "in",
+  "ch": "mitigation-and-carbon-removal",
+  "why": "syllabus: Electrification"
+ },
+ "Fossil fuel phase-out": {
+  "v": "in",
+  "ch": "mitigation-and-carbon-removal",
+  "why": "syllabus: Fossil fuel phase-out"
+ },
+ "Crop insurance": {
+  "v": "in",
+  "ch": "adaptation-and-resilience",
+  "why": "syllabus: Crop insurance"
+ },
+ "Index-based insurance": {
+  "v": "in",
+  "ch": "adaptation-and-resilience",
+  "why": "syllabus: Index insurance"
+ },
+ "National Flood Insurance Program": {
+  "v": "in",
+  "ch": "adaptation-and-resilience",
+  "why": "syllabus: National Flood Insurance Program"
+ },
+ "Early warning system": {
+  "v": "in",
+  "ch": "adaptation-and-resilience",
+  "why": "syllabus: Early warning system"
+ },
+ "Montreal Protocol": {
+  "v": "in",
+  "ch": "climate-finance-and-agreements",
+  "why": "syllabus: Montreal Protocol"
+ },
+ "Global stocktake": {
+  "v": "in",
+  "ch": "climate-finance-and-agreements",
+  "why": "syllabus: Global stocktake"
+ },
+ "Entropy": {
+  "v": "in",
+  "ch": "ecological-economics",
+  "why": "syllabus: Entropy"
+ },
+ "Nicholas Georgescu-Roegen": {
+  "v": "in",
+  "ch": "ecological-economics",
+  "why": "syllabus: The Entropy Law and the Economic Process"
+ },
+ "Laws of thermodynamics": {
+  "v": "in",
+  "ch": "ecological-economics",
+  "why": "syllabus: Laws of thermodynamics"
+ },
+ "Spaceship Earth": {
+  "v": "in",
+  "ch": "ecological-economics",
+  "why": "syllabus: Spaceship Earth"
+ },
+ "Thermoeconomics": {
+  "v": "in",
+  "ch": "ecological-economics",
+  "why": "syllabus: Biophysical economics"
+ },
+ "Post-normal science": {
+  "v": "in",
+  "ch": "ecological-economics",
+  "why": "syllabus: Post-normal science"
+ },
+ "Stock-flow consistent model": {
+  "v": "in",
+  "ch": "ecological-economics",
+  "why": "syllabus: Stock-flow consistent model"
+ },
+ "Overlapping generations model": {
+  "v": "in",
+  "ch": "strong-and-weak-sustainability",
+  "why": "syllabus: Overlapping generations model"
+ },
+ "Solow–Swan model": {
+  "v": "in",
+  "ch": "new: Growth theory and the environment",
+  "why": "syllabus: Solow–Swan model"
+ },
+ "Golden Rule savings rate": {
+  "v": "in",
+  "ch": "new: Growth theory and the environment",
+  "why": "syllabus: Golden rule savings rate"
+ },
+ "Endogenous growth theory": {
+  "v": "in",
+  "ch": "new: Growth theory and the environment",
+  "why": "syllabus: Endogenous growth theory"
+ },
+ "AK model": {
+  "v": "in",
+  "ch": "new: Growth theory and the environment",
+  "why": "syllabus: AK model"
+ },
+ "Population growth": {
+  "v": "in",
+  "ch": "new: Growth theory and the environment",
+  "why": "syllabus: Population growth"
+ },
+ "Khazzoom–Brookes postulate": {
+  "v": "in",
+  "ch": "growth-decoupling-and-limits",
+  "why": "syllabus: Khazzoom–Brookes postulate"
+ },
+ "Planned obsolescence": {
+  "v": "in",
+  "ch": "growth-decoupling-and-limits",
+  "why": "syllabus: Planned obsolescence"
+ },
+ "Remanufacturing": {
+  "v": "in",
+  "ch": "circular-and-bio-based-economies",
+  "why": "syllabus: Remanufacturing"
+ },
+ "Product-service system": {
+  "v": "in",
+  "ch": "circular-and-bio-based-economies",
+  "why": "syllabus: Product-service system"
+ },
+ "Right to repair": {
+  "v": "in",
+  "ch": "circular-and-bio-based-economies",
+  "why": "syllabus: Right to repair"
+ },
+ "Urban mining": {
+  "v": "in",
+  "ch": "circular-and-bio-based-economies",
+  "why": "syllabus: Urban mining"
+ },
+ "Zero waste": {
+  "v": "in",
+  "ch": "circular-and-bio-based-economies",
+  "why": "syllabus: Zero waste"
+ },
+ "Biorefinery": {
+  "v": "in",
+  "ch": "circular-and-bio-based-economies",
+  "why": "syllabus: Biorefinery"
+ },
+ "Upcycling": {
+  "v": "in",
+  "ch": "circular-and-bio-based-economies",
+  "why": "syllabus: Upcycling"
+ },
+ "Pay as you throw": {
+  "v": "in",
+  "ch": "circular-and-bio-based-economies",
+  "why": "syllabus: Pay as you throw"
+ },
+ "Multi-level governance": {
+  "v": "in",
+  "ch": "environmental-governance",
+  "why": "syllabus: Multi-level governance"
+ },
+ "Public participation": {
+  "v": "in",
+  "ch": "environmental-governance",
+  "why": "syllabus: Public participation"
+ },
+ "Aarhus Convention": {
+  "v": "in",
+  "ch": "environmental-governance",
+  "why": "syllabus: Aarhus Convention"
+ },
+ "Convention on Biological Diversity": {
+  "v": "in",
+  "ch": "biodiversity-agreements-and-targets",
+  "why": "syllabus: Aichi Biodiversity Targets"
+ },
+ "World Heritage Site": {
+  "v": "in",
+  "ch": "biodiversity-agreements-and-targets",
+  "why": "syllabus: World Heritage Site"
+ },
+ "Cartagena Protocol on Biosafety": {
+  "v": "in",
+  "ch": "biodiversity-agreements-and-targets",
+  "why": "syllabus: Cartagena Protocol on Biosafety"
+ },
+ "High Seas Treaty": {
+  "v": "in",
+  "ch": "biodiversity-agreements-and-targets",
+  "why": "syllabus: High Seas Treaty"
+ },
+ "United Nations Convention to Combat Desertification": {
+  "v": "in",
+  "ch": "biodiversity-agreements-and-targets",
+  "why": "syllabus: United Nations Convention to Combat Desertification"
+ },
+ "United Nations Convention on the Law of the Sea": {
+  "v": "in",
+  "ch": "biodiversity-agreements-and-targets",
+  "why": "syllabus: United Nations Convention on the Law of the Sea"
+ },
+ "Digital sequence information": {
+  "v": "in",
+  "ch": "biodiversity-agreements-and-targets",
+  "why": "syllabus: Digital sequence information"
+ },
+ "Energy justice": {
+  "v": "in",
+  "ch": "justice-rights-and-indigenous-knowledge",
+  "why": "syllabus: Energy justice"
+ },
+ "Land law": {
+  "v": "in",
+  "ch": "justice-rights-and-indigenous-knowledge",
+  "why": "syllabus: Land rights"
+ },
+ "Indigenous land rights": {
+  "v": "in",
+  "ch": "justice-rights-and-indigenous-knowledge",
+  "why": "syllabus: Indigenous land rights"
+ },
+ "Indigenous and community conserved area": {
+  "v": "in",
+  "ch": "justice-rights-and-indigenous-knowledge",
+  "why": "syllabus: Indigenous and community conserved area"
+ },
+ "Environmental personhood": {
+  "v": "in",
+  "ch": "justice-rights-and-indigenous-knowledge",
+  "why": "syllabus: Environmental personhood"
+ },
+ "Sustainability reporting": {
+  "v": "in",
+  "ch": "business-and-nature",
+  "why": "syllabus: Corporate Sustainability Reporting Directive"
+ },
+ "Creating shared value": {
+  "v": "in",
+  "ch": "business-and-nature",
+  "why": "syllabus: Creating shared value"
+ },
+ "Cycle of poverty": {
+  "v": "in",
+  "ch": "new: Poverty, development and the environment",
+  "why": "syllabus: Poverty trap"
+ },
+ "Physiocracy": {
+  "v": "in",
+  "ch": "how-the-field-developed",
+  "why": "syllabus: Physiocracy"
+ },
+ "An Essay on the Principle of Population": {
+  "v": "in",
+  "ch": "how-the-field-developed",
+  "why": "syllabus: An Essay on the Principle of Population"
+ },
+ "Earth Day": {
+  "v": "in",
+  "ch": "how-the-field-developed",
+  "why": "syllabus: Earth Day"
+ },
+ "The Population Bomb": {
+  "v": "in",
+  "ch": "how-the-field-developed",
+  "why": "syllabus: The Population Bomb"
+ },
+ "Small Is Beautiful": {
+  "v": "in",
+  "ch": "how-the-field-developed",
+  "why": "syllabus: Small Is Beautiful"
  }
 }
