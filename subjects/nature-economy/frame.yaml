@@ -1,0 +1,1269 @@
+subject: nature-economy
+status: 'draft: review before the main crawl'
+note: 'Edit freely: reorder parts and chapters, move seeds, rename. Seeds are forced into the crawl; candidates
+  are crawled only if they pass the scope threshold. `share` is the chapter''s share of the entry target.'
+parts:
+- key: found
+  title: Foundations
+  chapters:
+  - key: nature-as-the-economy-s-foundation
+    title: Nature as the economy's foundation
+    seeds:
+    - Biodiversity
+    - Ecosystem service
+    - Natural capital
+    - Ecosystem
+    share: 0.0085
+  - key: why-markets-miss-nature
+    title: Why markets miss nature
+    seeds:
+    - Environmental economics
+    - Externality
+    - Economics
+    - Market failure
+    - Scarcity
+    share: 0.0102
+- key: econ
+  title: Economics from the ground up
+  chapters:
+  - key: choices-scarcity-and-value
+    title: Choices, scarcity and value
+    seeds:
+    - Land (economics)
+    - Capital (economics)
+    - Factors of production
+    - Incentive
+    - Marginal utility
+    - Opportunity cost
+    - Rational choice model
+    - Trade-off
+    - Utility
+    candidates:
+    - Financial incentives for photovoltaics
+    - Home energy upgrades from public utilities
+    - Renewable energy industry
+    share: 0.0166
+  - key: markets-prices-and-surplus
+    title: Markets, prices and surplus
+    seeds:
+    - Economic equilibrium
+    - Economic surplus
+    - Market (economics)
+    - Willingness to pay
+    - Deadweight loss
+    - Marginal cost
+    - Monopoly
+    - Perfect competition
+    - Price
+    - Price elasticity of demand
+    - Supply and demand
+    candidates:
+    - Gabor–Granger method
+    - Grid parity
+    share: 0.0196
+  - key: efficiency-and-welfare
+    title: Efficiency and welfare
+    seeds:
+    - Economic efficiency
+    - Social welfare function
+    - Welfare economics
+    - Distributive justice
+    - Kaldor–Hicks efficiency
+    - Pareto efficiency
+    - Missing market
+    candidates:
+    - Eco-efficiency
+    - Levelized cost of water
+    share: 0.0115
+  - key: public-goods-commons-and-property
+    title: Public goods, commons and property
+    seeds:
+    - Tragedy of the commons
+    - Common-pool resource
+    - Free-rider problem
+    - Property rights (economics)
+    - Rivalry (economics)
+    - Club good
+    - Coase theorem
+    - Excludability
+    - Public good
+    - Transaction cost
+    candidates:
+    - Riparian water rights
+    share: 0.0191
+  - key: time-risk-and-discounting
+    title: Time, risk and discounting
+    seeds:
+    - Discounting
+    - Hyperbolic discounting
+    - Social discount rate
+    - Expected value
+    - Interest rate
+    - Present value
+    - Risk aversion
+    - Time value of money
+    - Uncertainty
+    candidates:
+    - Time value of carbon
+    share: 0.0161
+  - key: measuring-an-economy
+    title: Measuring an economy
+    seeds:
+    - Economic growth
+    - Gross domestic product
+    - Income
+    - Measures of national income and output
+    - Wealth
+    candidates:
+    - Green national product
+    share: 0.0093
+  - key: behavior-and-decisions
+    title: Behavior and decisions
+    seeds:
+    - Behavioral economics
+    - Bounded rationality
+    - Collective action problem
+    - Endowment effect
+    - Game theory
+    - Loss aversion
+    - Prisoner's dilemma
+    candidates:
+    - Bounded rationality in environmental decision making
+    share: 0.0124
+  - key: economics-from-the-ground-up-other-topic
+    title: 'Economics from the ground up: other topics'
+    seeds:
+    - Natural Capital Committee
+    share: 0.0005
+- key: eco
+  title: How ecosystems work
+  chapters:
+  - key: ecosystem-structure-and-function
+    title: Ecosystem structure and function
+    seeds:
+    - Ecological niche
+    - Ecosystem diversity
+    - Ecosystem ecology
+    - Ecosystem engineer
+    - Functional ecology
+    - Habitat
+    - Food web
+    - Keystone species
+    - Primary production
+    - Trophic level
+    - Conservation biology
+    - Environmentalism
+    - Wildlife conservation
+    candidates:
+    - Meadow
+    - Energy systems language
+    - Wildlife tourism
+    share: 0.0201
+  - key: cycles-of-carbon-water-and-nutrients
+    title: Cycles of carbon, water and nutrients
+    seeds:
+    - Carbon cycle
+    - Carbon sink
+    - Biogeochemical cycle
+    - Nitrogen cycle
+    - Phosphorus cycle
+    - Photosynthesis
+    - Water cycle
+    share: 0.0122
+  - key: biodiversity-and-its-loss
+    title: Biodiversity and its loss
+    seeds:
+    - Holocene extinction
+    - Invasive species
+    - Biodiversity loss
+    - Habitat destruction
+    - Habitat fragmentation
+    - Defaunation
+    - Deforestation
+    - Land degradation
+    - Overexploitation
+    - Deforestation and climate change
+    candidates:
+    - Endangered species
+    - Mangrove deforestation in Myanmar
+    share: 0.0176
+  - key: resilience-thresholds-and-limits
+    title: Resilience, thresholds and limits
+    seeds:
+    - Ecological threshold
+    - Carrying capacity
+    - Planetary boundaries
+    - Ecological resilience
+    - Tipping points in the climate system
+    - Regime shift
+    candidates:
+    - Overconsumption
+    share: 0.012
+  - key: key-ecosystems
+    title: Key ecosystems
+    seeds:
+    - Mangrove
+    - Forest ecology
+    - Kelp forest
+    - Salt marsh
+    - Urban ecosystem
+    - Wetland
+    - Agroecosystem
+    - Coral reef
+    - Floodplain
+    - Grassland
+    - Peatland
+    - Riparian zone
+    - Seagrass meadow
+    - Greenhouse gas emissions from wetlands
+    candidates:
+    - Community Based Mangrove Management
+    - Integrated mangrove-shrimp aquaculture
+    share: 0.0244
+  - key: how-ecosystems-work-other-topics
+    title: 'How ecosystems work: other topics'
+    seeds:
+    - Eco-capitalism
+    - Environmental resource management
+    - Climate change and infectious diseases
+    - Eco-investing
+    - Energy flow (ecology)
+    - Forest
+    - Forest genetic resources
+    - Forestry law
+    - Human Ecology, Human Economy
+    - Human ecology
+    - International Treaty on Plant Genetic Resources for Food and Agriculture
+    - Marine conservation
+    - Non-timber forest product
+    - Plant genetic resources
+    - Political ecology
+    - Pollution haven hypothesis
+    - Sustainability and environmental management
+    candidates:
+    - Anthropocene
+    - Bank of Natural Capital
+    - Bioeffector
+    - Bioprospecting
+    - Biosphere
+    - Bushmeat
+    - Drainage basin
+    - Eco-cities
+    - Eco-costs
+    - Eco-industrial development
+    - Eco-socialism
+    - Ecological goods and services
+    - Ecopsychology
+    - Embodied energy
+    - Energy quality
+    - Forests Now Declaration
+    - Fresh water
+    - Game (hunting)
+    - Glacier
+    - Harrington paradox
+    - Hydrosphere
+    - Limberlost Forest and Wildlife Reserve
+    - List of plants used in herbalism
+    - Mt. Camisong Forest Park and Events
+    - Planetary management
+    - Rangeland
+    - Resource
+    - Resource consumption
+    - Wood
+    - World energy supply and consumption
+    - Amazon rainforest
+    - Blue economy
+    - Current solar income
+    - Eco-sufficiency
+    - Len Foote Hike Inn
+    - Wood industry
+    share: 0.0201
+- key: es
+  title: Ecosystem services
+  chapters:
+  - key: the-ecosystem-services-idea
+    title: The ecosystem services idea
+    seeds:
+    - Millennium Ecosystem Assessment
+    share: 0.0019
+  - key: provisioning-and-regulating-services
+    title: Provisioning and regulating services
+    seeds:
+    - Ecological values of mangroves
+    - Nutrient cycle
+    - Biological pest control
+    - Erosion control
+    - Pollination
+    - Pollinator decline
+    - Seed dispersal
+    - Water purification
+    share: 0.0144
+  - key: cultural-services-and-human-wellbeing
+    title: Cultural services and human wellbeing
+    seeds:
+    - Ecotourism
+    - Aesthetics of nature
+    - Nature connectedness
+    - Nature therapy
+    - Biophilia hypothesis
+    - Recreation
+    - Sense of place
+    share: 0.0127
+  - key: mapping-and-modeling-services
+    title: Mapping and modeling services
+    seeds:
+    - Landscape ecology
+    - Natural Capital Project
+    - Geographic information system
+    - Land cover
+    - Remote sensing
+    share: 0.0088
+  - key: ecosystem-services-other-topics
+    title: 'Ecosystem services: other topics'
+    seeds: []
+    candidates:
+    - Land-use planning
+    share: 0.0003
+- key: val
+  title: Valuing nature
+  chapters:
+  - key: kinds-of-value
+    title: Kinds of value
+    seeds:
+    - Total economic value
+    - Bequest value
+    - Existence value
+    - Option value (cost–benefit analysis)
+    - Instrumental and intrinsic value
+    - Intrinsic value (ethics)
+    - Use value
+    share: 0.0132
+  - key: valuation-methods
+    title: Valuation methods
+    seeds:
+    - Contingent valuation
+    - Ecosystem valuation
+    - Travel cost analysis
+    - Willingness to accept
+    - Choice modelling
+    - Hedonic regression
+    - Replacement value
+    - Revealed preference
+    share: 0.0151
+  - key: cost-benefit-analysis
+    title: Cost–benefit analysis
+    seeds:
+    - Cost–benefit analysis
+    - Cost-effectiveness analysis
+    - Multiple-criteria decision analysis
+    - Net present value
+    - Regulatory impact analysis
+    - Shadow price
+    - Value of a statistical life
+    share: 0.012
+  - key: debates-about-pricing-nature
+    title: Debates about pricing nature
+    seeds:
+    - Commodification of nature
+    - Clive Spash
+    - Environmental ethics
+    - Value of Earth
+    - Value pluralism
+    candidates:
+    - Commodification of water
+    share: 0.0096
+  - key: valuing-nature-other-topics
+    title: 'Valuing nature: other topics'
+    seeds:
+    - Value (economics)
+    - Project Appraisal and Valuation of the Environment
+    candidates:
+    - Social return on investment
+    - Mottainai
+    share: 0.0029
+- key: acct
+  title: Measuring wealth and accounting for nature
+  chapters:
+  - key: beyond-gdp
+    title: Beyond GDP
+    seeds:
+    - Index of Sustainable Economic Welfare
+    - Genuine progress indicator
+    - Human Development Index
+    - Broad measures of economic progress
+    - Green gross domestic product
+    - Inclusive wealth
+    - Wellbeing economy
+    share: 0.0134
+  - key: national-and-corporate-natural-capital-a
+    title: National and corporate natural capital accounts
+    seeds:
+    - Environmental accounting
+    - Environmental full-cost accounting
+    - Green accounting
+    - Natural capital accounting
+    - Sustainability accounting
+    - System of Integrated Environmental and Economic Accounting
+    - True cost accounting
+    share: 0.0156
+  - key: footprints-and-indicators
+    title: Footprints and indicators
+    seeds:
+    - Ecological footprint
+    - Carbon footprint
+    - Sustainability metrics and indices
+    - Earth Overshoot Day
+    - Water footprint
+    - Biocapacity
+    - Life-cycle assessment
+    - Living Planet Index
+    - Sustainability measurement
+    candidates:
+    - Resource intensity
+    - Resource productivity
+    - Sustainable national income
+    - Vulnerability index
+    share: 0.0181
+  - key: measuring-wealth-and-accounting-for-natu
+    title: 'Measuring wealth and accounting for nature: other topics'
+    seeds:
+    - Carbon accounting
+    candidates:
+    - Energy accounting
+    - Generational accounting
+    - MuSIASEM
+    - Sustainable Performance Accounting
+    share: 0.002
+- key: pol
+  title: Environmental policy instruments
+  chapters:
+  - key: regulation-and-standards
+    title: Regulation and standards
+    seeds:
+    - Environmental impact assessment
+    - Porter hypothesis
+    - Emission standard
+    - Environmental law
+    - Strategic environmental assessment
+    - Best available technology
+    - Command and control regulation
+    - Global warming taxes
+    - Meat tax
+    candidates:
+    - Eco-tariff
+    - Game law
+    - National Ambient Air Quality Standards
+    share: 0.0151
+  - key: pollution-taxes-and-charges
+    title: Pollution taxes and charges
+    seeds:
+    - Carbon tax
+    - Environmental tax
+    - Fuel tax
+    - Pigouvian tax
+    - Polluter pays principle
+    - Carbon fee and dividend
+    - Environmental pricing reform
+    - Deposit-refund system
+    - Carbon pricing on shipping
+    - Energy Innovation and Carbon Dividend Act of 2019
+    - Energy Tax Act
+    - Energy tax
+    - Fiscal environmentalism
+    - List of supporters of Pigouvian taxes
+    - Maryland's "Rain Tax"
+    - Steering tax
+    candidates:
+    - Aggregates Levy
+    - Commonwealth Edison Co. v. Montana
+    - Stormwater fee
+    share: 0.0218
+  - key: tradable-permits-and-carbon-markets
+    title: Tradable permits and carbon markets
+    seeds:
+    - Carbon price
+    - Carbon emission trading
+    - Carbon leakage
+    - Emissions trading
+    - EU Carbon Border Adjustment Mechanism
+    - Acid Rain Program
+    - Cap and dividend
+    - Water trading
+    - Carbon tariff
+    candidates:
+    - Open Coalition on Compliance Carbon Markets
+    - Personal carbon trading
+    - UK Emissions Trading Scheme
+    - American Clean Energy and Security Act
+    share: 0.0179
+  - key: subsidies-information-and-voluntary-appr
+    title: Subsidies, information and voluntary approaches
+    seeds:
+    - Sustainability standards and certification
+    - Ecolabel
+    - Energy subsidy
+    - Extended producer responsibility
+    - Fossil fuel subsidies
+    - Nudge theory
+    - Precautionary principle
+    - Subsidy
+    candidates:
+    - Eco-Management and Audit Scheme
+    share: 0.0144
+  - key: choosing-among-instruments
+    title: Choosing among instruments
+    seeds:
+    - Environmental policy
+    - Policy mix
+    share: 0.0039
+  - key: environmental-policy-instruments-other-t
+    title: 'Environmental policy instruments: other topics'
+    seeds: []
+    candidates:
+    - United Nations Framework Classification for Resources
+    - BSI PAS 2060
+    share: 0.0005
+- key: mkt
+  title: Paying for nature
+  chapters:
+  - key: payments-for-ecosystem-services
+    title: Payments for ecosystem services
+    seeds:
+    - Payment for ecosystem services
+    - Conservation Reserve Program
+    - Environmental management scheme
+    - Grain for Green
+    - Additionality
+    - Watershed management
+    share: 0.0112
+  - key: offsets-and-banking
+    title: Offsets and banking
+    seeds:
+    - Biodiversity banking
+    - Biodiversity offsetting
+    - Mitigation banking
+    - Biodiversity Impact Credit
+    - Conservation banking
+    - Environmental mitigation
+    - No net loss
+    candidates:
+    - Carbon Offsetting and Reduction Scheme for International Aviation
+    share: 0.0141
+  - key: forest-carbon-and-redd
+    title: Forest carbon and REDD+
+    seeds:
+    - Carbon offsets and credits
+    - Gold Standard (carbon offset standard)
+    - REDD+
+    - Forest Carbon Partnership Facility
+    - Verified Carbon Standard
+    - Clean Development Mechanism
+    candidates:
+    - Personal carbon credits
+    share: 0.013
+  - key: finance-for-conservation
+    title: Finance for conservation
+    seeds:
+    - Conservation finance
+    - Sustainable finance
+    - Economics of biodiversity
+    - Impact investing
+    - Natural Asset Company
+    - Conservation easement
+    - Debt-for-nature swap
+    - Environmental, social, and governance
+    - Green bond
+    - Blended finance
+    - Land trust
+    candidates:
+    - Great Plains Conservation
+    - Eco hotel
+    - Low impact diving
+    - Shark tourism
+    - Sri Lanka Ecotourism Foundation
+    - UGA Costa Rica
+    share: 0.0225
+  - key: paying-for-nature-other-topics
+    title: 'Paying for nature: other topics'
+    seeds: []
+    candidates:
+    - Hebacong Sea of Clouds and Nature Park
+    - Las Piñas–Parañaque Critical Habitat and Ecotourism Area
+    - List of ecological tourist sites in Ghana
+    - Boulder Gardens
+    - BurroCross
+    - Butterfly Valley, Fethiye
+    - Costa Rica Thermal Dome
+    - Ecotourism in Costa Rica
+    - Ecotourism in Jordan
+    - Ecotourism in Mexico
+    - Ecotourism in Paraguay
+    - Ecotourism in South Africa
+    - Ecotourism in the United States
+    - Ecotourism in the Valdivian temperate rainforest
+    - Ecotourism routes in Europe
+    - Hogenakkal Eco Tourism
+    - Jetwing Vil Uyana
+    - Jungle tourism
+    - Lake Kuyucuk
+    - Manta ray night dive
+    - Miss Eco International
+    - Mohonk Agreement
+    - Overlanding
+    - Prodetur
+    - Rosie (shark)
+    - Safari
+    - Scuba diving tourism
+    - Soreng
+    - The Lodge at Chaa Creek
+    - Urban ecotourism
+    - Warm Showers
+    share: 0.0058
+- key: res
+  title: Natural resource economics
+  chapters:
+  - key: renewable-and-non-renewable-resources
+    title: Renewable and non-renewable resources
+    seeds:
+    - Resource curse
+    - Resource depletion
+    - Non-renewable resource
+    - Renewable resource
+    - Natural resource economics
+    - Economic rent
+    - Exploitation of natural resources
+    - Hotelling's rule
+    - Peak oil
+    candidates:
+    - Resource rent
+    - Energix Renewable Energies
+    - Harold Hotelling
+    share: 0.0191
+  - key: fisheries
+    title: Fisheries
+    seeds:
+    - Fisheries management
+    - Sustainable fishery
+    - Maximum sustainable yield
+    - Fisheries science
+    - Gordon-Schaefer model
+    - Individual fishing quota
+    - Marine protected area
+    - Open access
+    - Overfishing
+    - Climate change and fisheries
+    - Fisheries law
+    - Fishery
+    share: 0.0185
+  - key: forests-land-and-water
+    title: Forests, land and water
+    seeds:
+    - Water scarcity
+    - Forest management
+    - Land use, land-use change, and forestry
+    - Water pricing
+    - Water resources
+    - Faustmann's formula
+    - Land use
+    - Martin Faustmann
+    - Virtual water
+    share: 0.0174
+  - key: managing-the-commons
+    title: Managing the commons
+    seeds:
+    - Natural resource management
+    - Commons
+    - Global commons
+    - Common ownership
+    - Customary land
+    - Enclosure
+    candidates:
+    - Leecher (computing)
+    - Protocol ossification
+    - The Hangman (poem)
+    - Tyranny of small decisions
+    - Vasilis Kostakis
+    share: 0.0119
+  - key: natural-resource-economics-other-topics
+    title: 'Natural resource economics: other topics'
+    seeds:
+    - Resource war
+    - Natural resource
+    candidates:
+    - Backstop resources
+    - Natural resources of India
+    - Oil and gas reserves and resource quantification
+    - Pan African Resource Reporting Code
+    - Resource-based economy
+    - The Brando Resort
+    - United Nations Resource Management System
+    - Wildlife management
+    - Blue justice
+    - Cobalt
+    - Energy return on investment
+    - Renewable energy commercialization
+    - Seneca effect
+    share: 0.0047
+- key: nbs
+  title: Nature-based solutions
+  chapters:
+  - key: what-nature-based-solutions-are
+    title: What nature-based solutions are
+    seeds:
+    - Ecological engineering
+    - Ecosystem-based adaptation
+    - Nature-based solutions
+    - Ecosystem-based disaster risk reduction
+    share: 0.0085
+  - key: water-and-flood-solutions
+    title: Water and flood solutions
+    seeds:
+    - Constructed wetland
+    - Green infrastructure
+    - Sustainable drainage system
+    - Bioretention
+    - Bioswale
+    - Flood management
+    - Rain garden
+    - Water-sensitive urban design
+    - Floodplain restoration
+    - Stream restoration
+    - Beaver dam
+    - Low-impact development (U.S. and Canada)
+    - Sponge city
+    share: 0.0256
+  - key: coastal-solutions
+    title: Coastal solutions
+    seeds:
+    - Blue carbon
+    - Managed retreat
+    - Mangrove restoration
+    - Coral reef restoration
+    - Oyster reef restoration
+    - Coastal management
+    - Living shoreline
+    - Sand dune stabilization
+    - List of areas depopulated due to climate change
+    candidates:
+    - GreenWave
+    - Seagrass
+    - Seaweed
+    - Seaweed farming
+    - Seychelles Blue Bond
+    - The Blue Economy
+    share: 0.0169
+  - key: cities-and-green-space
+    title: Cities and green space
+    seeds:
+    - Green roof
+    - Green wall
+    - Pocket forest
+    - Urban forestry
+    - Urban green space
+    - Biophilic design
+    - Urban agriculture
+    - Urban heat island
+    - Urban park
+    share: 0.0164
+  - key: restoring-land-and-forests
+    title: Restoring land and forests
+    seeds:
+    - Restoration economy
+    - Afforestation
+    - Reforestation
+    - Ecological restoration
+    - Forest restoration
+    - Great Green Wall (Africa)
+    - Peatland restoration
+    - Rewilding
+    - UN Decade on Ecosystem Restoration
+    - Assisted natural regeneration
+    - Bonn Challenge
+    - Trillion Tree Campaign
+    candidates:
+    - Groundwater remediation
+    - Sea rewilding
+    - EthioTrees
+    - Harehuwa exclosure
+    share: 0.0235
+  - key: working-lands
+    title: Working lands
+    seeds:
+    - Carbon farming
+    - Climate-smart agriculture
+    - Landscape-scale conservation
+    - Sustainable agriculture
+    - Conservation agriculture
+    - Agroecology
+    - Agroforestry
+    - Cover crop
+    - Regenerative agriculture
+    - Riparian buffer
+    - Silvopasture
+    - Regenerative economics
+    share: 0.0213
+  - key: evidence-risks-and-greenwashing
+    title: Evidence, risks and greenwashing
+    seeds:
+    - Greenwashing
+    - Maladaptation
+    - Monoculture
+    - Tree planting
+    share: 0.0069
+  - key: nature-based-solutions-other-topics
+    title: 'Nature-based solutions: other topics'
+    seeds: []
+    candidates:
+    - Tidal power
+    share: 0.0003
+- key: clim
+  title: Climate economics
+  chapters:
+  - key: the-economics-of-climate-change
+    title: The economics of climate change
+    seeds:
+    - Climate risk
+    - Economic analysis of climate change
+    - Social cost of carbon
+    - Marginal abatement cost
+    - Martin Weitzman
+    - DICE model
+    - Integrated assessment modelling
+    share: 0.0135
+  - key: mitigation-and-carbon-removal
+    title: Mitigation and carbon removal
+    seeds:
+    - Carbon budget
+    - Carbon dioxide removal
+    - Carbon sequestration
+    - Climate change mitigation
+    - Net-zero emissions
+    - Energy transition
+    - Just transition
+    - Stranded asset
+    - Supply-side environmental policy
+    candidates:
+    - Direct air capture
+    - EcoProfit
+    share: 0.0179
+  - key: adaptation-and-resilience
+    title: Adaptation and resilience
+    seeds:
+    - Adaptive capacity
+    - Climate change adaptation
+    - Climate resilience
+    - Climate risk insurance
+    - Loss and damage (climate change)
+    - Disaster risk reduction
+    - Vulnerability
+    - Climate change vulnerability
+    - Ecological anthropology
+    - The Adaptation Fund
+    share: 0.0164
+  - key: climate-finance-and-agreements
+    title: Climate finance and agreements
+    seeds:
+    - Climate finance
+    - Green Climate Fund
+    - Kyoto Protocol
+    - United Nations Framework Convention on Climate Change
+    - Cooperative mechanisms under Article 6 of the Paris Agreement
+    - Nationally determined contribution
+    - Paris Agreement
+    candidates:
+    - Criticism of the Kyoto Protocol
+    - Flexible mechanisms
+    - Kyoto Protocol and government action
+    - Views on the Kyoto Protocol
+    share: 0.0156
+- key: eecon
+  title: Ecological economics and sustainability
+  chapters:
+  - key: ecological-economics
+    title: Ecological economics
+    seeds:
+    - Ecological economics
+    - Steady-state economy
+    - Ecologically unequal exchange
+    - Social metabolism
+    - Thermoeconomics
+    - Uneconomic growth
+    - Green logistics
+    candidates:
+    - '2052: A Global Forecast for the Next Forty Years'
+    - Deep Economy
+    - Eco-restructuring
+    - Exergy
+    - Fish-booking
+    - Gross National Happiness
+    - Preorder economy
+    - Quantitative storytelling
+    - Tourism carrying capacity
+    - Unequal exchange
+    - Waste input-output model
+    share: 0.0174
+  - key: strong-and-weak-sustainability
+    title: Strong and weak sustainability
+    seeds:
+    - Sustainability
+    - Sustainable development
+    - Weak and strong sustainability
+    - Brundtland Commission
+    - Hartwick's rule
+    - Intergenerational equity
+    share: 0.0125
+  - key: growth-decoupling-and-limits
+    title: Growth, decoupling and limits
+    seeds:
+    - Green economy
+    - Degrowth
+    - Doughnut (economic model)
+    - Eco-economic decoupling
+    - Green growth
+    - The Limits to Growth
+    - Post-growth
+    - Rebound effect (conservation)
+    - Jevons paradox
+    - Kuznets curve
+    candidates:
+    - Degrowth in the Global South
+    - Green industrial policy
+    - The Path to Degrowth in Overdeveloped Countries
+    - Capital in the Anthropocene
+    - Conviviality
+    - Ecomodernism
+    - Ecopop
+    - GROWL
+    - Growth imperative
+    - Kirjava "Puolue" – Elonkehän Puolesta
+    - Minimalism (computing)
+    share: 0.0227
+  - key: circular-and-bio-based-economies
+    title: Circular and bio-based economies
+    seeds:
+    - Circular economy
+    - Dematerialization (economics)
+    - Industrial ecology
+    - Bioeconomy
+    - Cradle-to-cradle design
+    - Industrial symbiosis
+    - Material flow analysis
+    - Waste hierarchy
+    - Circular fashion
+    - Circular procurement
+    candidates:
+    - Material flow cost accounting
+    - Material flow
+    - Material flow accounting
+    share: 0.0171
+- key: gov
+  title: Governance, equity and justice
+  chapters:
+  - key: environmental-governance
+    title: Environmental governance
+    seeds:
+    - Earth system governance
+    - Collaborative environmental governance
+    - Ecosystem-based management
+    - Environmental governance
+    - Fisheries co-management
+    - Adaptive management
+    - Bloomington school
+    - Integrated coastal zone management
+    - Climate governance
+    candidates:
+    - Ecoauthoritarianism
+    - Global governance
+    - Transition management (governance)
+    share: 0.0161
+  - key: biodiversity-agreements-and-targets
+    title: Biodiversity agreements and targets
+    seeds:
+    - Sustainable Development Goals
+    - Convention on Biological Diversity
+    - Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services
+    - Kunming-Montreal Global Biodiversity Framework
+    - Other effective area-based conservation measures
+    - Sustainable Development Goal 14
+    - Sustainable Development Goal 15
+    - 30 by 30
+    - Nagoya Protocol
+    - Protected area
+    - Sustainable Development Goal 13
+    candidates:
+    - Geopark
+    share: 0.0195
+  - key: justice-rights-and-indigenous-knowledge
+    title: Justice, rights and Indigenous knowledge
+    seeds:
+    - Climate justice
+    - Green grabbing
+    - Fortress conservation
+    - Environmental defender
+    - Environmental justice
+    - Environmental racism
+    - Rights of nature
+    - Traditional ecological knowledge
+    - Access and Benefit Sharing Agreement
+    - Free, prior and informed consent
+    - Indigenous peoples
+    - Climate change and indigenous peoples
+    - Human rights and climate change
+    candidates:
+    - Bush tucker
+    - Resource justice
+    - Milnthorpe Model
+    share: 0.0227
+  - key: business-and-nature
+    title: Business and nature
+    seeds:
+    - Corporate environmental responsibility
+    - Sustainable business
+    - Corporate social responsibility
+    - Nature-positive
+    - Supply chain sustainability
+    - Science Based Targets initiative
+    share: 0.0119
+  - key: governance-equity-and-justice-other-topi
+    title: 'Governance, equity and justice: other topics'
+    seeds:
+    - Free-market environmentalism
+    - Sustainable community
+    candidates:
+    - Community-supported agriculture
+    - Ecovillage
+    - Seed bank
+    - Sewage
+    - Free Money Day
+    share: 0.0025
+- key: hist
+  title: History, people and frontiers
+  chapters:
+  - key: how-the-field-developed
+    title: How the field developed
+    seeds:
+    - The Economics of Ecosystems and Biodiversity
+    - United Nations Conference on the Human Environment
+    - Earth Summit
+    - Our Common Future
+    - A Sand County Almanac
+    - Silent Spring
+    - Climate change
+    - United Nations Conference on Sustainable Development
+    - World Conference on Cultural Policies and Sustainable Development
+    candidates:
+    - Brazilian disease
+    - Earth Summit 2002
+    - International Conference on Transitioning Away from Fossil Fuels
+    share: 0.0144
+  - key: people-who-shaped-the-field
+    title: People who shaped the field
+    seeds:
+    - Arthur Cecil Pigou
+    - Elinor Ostrom
+    - Herman Daly
+    - John V. Krutilla
+    - Kate Raworth
+    - Kenneth E. Boulding
+    - Nicholas Georgescu-Roegen
+    - Nicholas Stern, Baron Stern of Brentford
+    - Partha Dasgupta
+    - Pavan Sukhdev
+    - Robert Costanza
+    - Ronald Coase
+    - William Nordhaus
+    - Aldo Leopold
+    - Garrett Hardin
+    - Gretchen Daily
+    candidates:
+    - Anthony Clinton Fisher
+    - Martin D. Smith (environmental economist)
+    - Michael Greenstone
+    - Adele Morris
+    - Alan Krueger
+    - Allen V. Kneese
+    - Arik Levinson
+    - Aydar Akhatov
+    - Bina Agarwal
+    - Brynhildur Davíðsdóttir
+    - C. Arden Pope
+    - C. S. Holling
+    - Cameron Hepburn
+    - Charles Kolstad
+    - Clem Tisdell
+    - Cristina Penasco
+    - Cutler J. Cleveland
+    - Dan Hammer
+    - Dave Donaldson (economist)
+    - David Bradford (economist)
+    - David Fleming (writer)
+    - David Pearce (economist)
+    - E. F. Schumacher
+    - E. J. Mishan
+    - Edward Barbier
+    - Edward Miguel
+    - Enrique Leff
+    - Eva Lang (economist)
+    - Faye Duchin
+    - François Partant
+    - Gabriel Felbermayr
+    - Gary Yohe
+    - Gene Grossman
+    - Gilbert E. Metcalf
+    - Giorgos Kallis
+    - Hans-Werner Sinn
+    - Howard T. Odum
+    - Iulie Aslaksen
+    - Jeroen C. J. M. van den Bergh
+    - Joachim Weimann
+    - Joan Martinez Alier
+    - John A. List
+    - John Quiggin
+    - Jon David Erickson
+    - Julian Simon
+    - Karin Limburg
+    - Karl William Kapp
+    - Karl-Göran Mäler
+    - Kristalina Georgieva
+    - Lans Bovenberg
+    - Lester Lave
+    - Linwood Pendleton
+    - Mar Reguant
+    - Matthew Kahn
+    - Maureen Cropper
+    - Mauro Bonaiuti
+    - Maximilian Auffhammer
+    - Michel Aglietta
+    - Milena Büchs
+    - Molly Scott Cato
+    - Nat Keohane
+    - Neva Goodwin
+    - Niko Paech
+    - Paul Burkett
+    - Paul Hawken
+    - Paul Joskow
+    - Peter Berck
+    - Phoebe Koundouri
+    - Quinn Weninger
+    - Rebecca L. Johnson
+    - René Castro
+    - Richard B. Norgaard
+    - Richard Carson
+    - Richard L. Sandor
+    - Richard Tol
+    - Robert Ayres (scientist)
+    - Robert O. Mendelsohn
+    - Robin Hahnel
+    - Roefie Hueting
+    - Scott Barrett (political scientist)
+    - Serge Latouche
+    - Stanislav Edward Shmelev
+    - Tim Jackson (economist)
+    - V. Kerry Smith
+    - Vernon L. Smith
+    - W. Michael Hanemann
+    - Walter Block
+    - William Baumol
+    - William E. Rees
+    - William Stanley Jevons
+    - Yoram Bauman
+    - Yukihiro Torikai
+    share: 0.0454
+  - key: institutions-and-initiatives
+    title: Institutions and initiatives
+    seeds:
+    - International Society for Ecological Economics
+    - International Union for Conservation of Nature
+    - United Nations Environment Programme
+    - World Resources Institute
+    - Integrity Council for the Voluntary Carbon Market
+    - Taskforce on Scaling Voluntary Carbon Markets
+    - Economics of Land Degradation Initiative
+    - Gund Institute for Ecological Economics
+    - Indian Society for Ecological Economics
+    - Mesoamerican Society for Ecological Economics
+    - National Adaptation Programme of Action
+    - Natural Capital Initiative
+    - Psychological impact of climate change
+    - Russian Society for Ecological Economics
+    candidates:
+    - California Climate Credit
+    - Civic agriculture
+    - Earth4All
+    - Global Carbon Council
+    - Global Development and Environment Institute
+    - Global Green Growth Institute
+    - Green New Deal
+    - Green finance and the Belt and Road Initiative
+    - Green recovery
+    - International Institute for Applied Systems Analysis
+    - International Union for the Protection of New Varieties of Plants
+    - Landsupport
+    - Regional Greenhouse Gas Initiative
+    - Vereinigung für Ökologische Ökonomie
+    - Architecture for REDD+ Transactions
+    - Bertrand de Jouvenel
+    - David Korten
+    - Ecotourism Society Pakistan
+    - Global Reporting Initiative
+    - Greg Mankiw
+    - Homaio
+    - Oceanic Society
+    - Programme for Belize
+    - Public Eye (organization)
+    - Steve Davis (scientist)
+    - The International Ecotourism Society
+    share: 0.02
+  - key: history-people-and-frontiers-other-topic
+    title: 'History, people and frontiers: other topics'
+    seeds:
+    - Citizens' Climate Lobby
+    - Ecological Economics (journal)
+    - International Association for the Study of the Commons
+    - Journal of Environmental Economics and Management
+    - Journal of Political Ecology
+    - Land Economics
+    - Phase I environmental site assessment
+    - Review of Environmental Economics and Policy
+    - Sustainability organization
+    - Sustainability reporting
+    candidates:
+    - Blue Carbon (company)
+    - Carbon Lighthouse
+    - Economic Geology (journal)
+    - Environmental and Resource Economics
+    - Green Growth Africa
+    - Marine Resource Economics
+    - Spatial planning
+    - World Resources Forum
+    - Adventure Consultants
+    - Alpine Pearls
+    - Altezza Travel
+    - Asian Trekking
+    - Bjørn Lomborg
+    - Carl Folke
+    - Claudine Schneider
+    - Daniel Dahm
+    - Dennis Meadows
+    - Donella Meadows
+    - Frank Alan Ward
+    - Hermann Scheer
+    - Himex
+    - InventWood
+    - Jane Jacobs
+    - Jørgen Randers
+    - Mountain Madness
+    - Mushfiq Mobarak
+    - Plant A Tree Today Foundation
+    - Population Balance
+    - Rashid Hassan
+    - Servas International
+    - Solar United Neighbors
+    - South Pole (company)
+    - Sylvie Faucheux
+    - Tabitha M. Benney
+    - The London Accord
+    - Wilderness (company)
+    - World Future Council
+    - Youssef Chahed
+    share: 0.0129

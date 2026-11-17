@@ -1,0 +1,443 @@
+slug: nature-economy
+title: "Nature and the Economy"
+short: nature   # prefix for entry ids: nature-<chapter>-001
+description: >-
+  How nature supports the economy and how economics can protect nature: ecosystems and the services they
+  provide, the economics needed to reason about them (taught from zero, no prior economics assumed), how
+  nature is valued and accounted for, the policies and markets that put a price on pollution and pay for
+  conservation, natural resource economics, nature-based solutions, climate economics, ecological economics
+  and the governance and justice questions that run through all of it. Ordered from foundational to
+  advanced, sourced from Wikipedia.
+
+# Pages the crawl always fetches: the subject's main article and anything a course on it must cover.
+seeds: [Ecosystem service, Nature-based solutions, Environmental economics, Ecological economics, Natural capital,
+        Externality, Market failure, Payment for ecosystem services, Ecosystem valuation, Green infrastructure]
+
+hubs:
+  navboxes: [Template:Environmental social science, Template:Natural resources, Template:Sustainability,
+             Template:Climate change]
+
+categories:
+  roots: [Category:Environmental economics, Category:Ecological economics, Category:Environmental tax]
+  depth: 1
+  exclude: [Category:Environmental economics journals]
+
+scope:
+  include_terms: [ecosystem, ecolog, environment, nature, natural capital, natural resource, biodiversity, conservation,
+                  sustainab, valuation, externalit, pollut, emission, carbon, green, restoration, wetland, mangrove,
+                  forest, offset, commons, resource, economic, tax, market, climate, adaptation, resilien, rewild,
+                  habitat, pigouvian, welfare, cost–benefit, discount, willingness, degrowth, circular, fisher]
+  exclude_terms: [album, song, film, novel, fictional, band, video game, footballer, singer, actor, actress,
+                  television, magazine]
+  exclude_desc: [city in, town in, village in, county in, municipality, album, film, novel, footballer, singer,
+                 rapper, actor, actress, television, video game, sports, hotel, resort, restaurant, airline,
+                 football club, private company, public company, company based, manufacturer, school in, university in,
+                 political party, member of parliament, member of the, bishop, cricketer]
+  person_terms: [economist, ecologist, environmentalist, conservationist, environmental scientist]
+  threshold: 4
+
+# per_unit is the unit size; the course runs as many units as the entries need. No entry target.
+targets: {per_unit: [4, 5]}
+ordering: pedagogical
+edition: {images: false, questions: true, proportional_clock: false}
+verification:
+  works: openalex           # cited DOIs checked against OpenAlex/Crossref abstracts
+  authorities: []
+
+# Hints for `frame build`. A hint matches the start of a word in the title (x3) or the short description (x2),
+# or a whole word in a category (x1); "~x" matches anywhere, "x$" only the whole word. `seeds` pin articles to
+# a chapter. The draft is reviewed by hand before the main crawl.
+frame:
+  foundations: [Ecosystem, Ecosystem service, Natural capital, Economics, Scarcity, Externality, Sustainability,
+                Biodiversity, Environmental economics, Market failure]
+  navbox_skip: ["General / General", "General / By country and region", "General / Physical",
+                "General / Flora and fauna", "General / Measurements", "General / Theory",
+                "General / Research and modelling", "General / Communication", "General / Other", "General / Society",
+                "General / Energy", "General / Overview", "Air / Pollution / quality", "Energy", "Land",
+                "Water / Types / location", "Water / Aspects", "Related / Politics", "Related", "Technology",
+                "World population", "Lists", "See also", "Main fields"]
+  drop_category_prefixes: ["Carbon pricing in ", "Climate change in "]
+  parts:
+    - key: found
+      title: Foundations
+      foundations: true
+      chapters:
+        - title: Nature as the economy's foundation
+          seeds: [Ecosystem, Ecosystem service, Natural capital, Biodiversity, Sustainability]
+        - title: Why markets miss nature
+          seeds: [Economics, Scarcity, Externality, Market failure, Environmental economics]
+
+    - key: econ
+      title: Economics from the ground up
+      hints: [supply and demand, opportunity cost, marginal, utility, price, elasticity, consumer surplus,
+              producer surplus, economic surplus, deadweight, pareto, welfare economics, efficiency, equilibrium,
+              perfect competition, monopoly, incentive, rational choice, behavioral economics, property rights,
+              public good, excludab, rivalr, free-rider, coase, transaction cost, present value, time value,
+              interest rate, gross domestic product, capital (economics), factors of production]
+      chapters:
+        - title: Choices, scarcity and value
+          seeds: [Opportunity cost, Utility, Marginal utility, Economic value, Factors of production,
+                  Capital (economics), Land (economics), Incentive, Rational choice model, Trade-off]
+          hints: [opportunity cost, utility, factors of production, incentive, rational choice, trade-off]
+        - title: Markets, prices and surplus
+          seeds: [Supply and demand, Price, Market (economics), Economic equilibrium, Price elasticity of demand,
+                  Marginal cost, Economic surplus, Deadweight loss, Perfect competition, Monopoly,
+                  Willingness to pay]
+          hints: [supply and demand, price, elasticity, marginal cost, surplus, deadweight, competition, monopoly]
+        - title: Efficiency and welfare
+          seeds: [Pareto efficiency, Welfare economics, Kaldor–Hicks efficiency, Social welfare function,
+                  Economic efficiency, Distributive justice]
+          hints: [pareto, welfare economics, kaldor, social welfare, efficiency]
+        - title: Public goods, commons and property
+          seeds: [Public good (economics), Common-pool resource, Excludability, Rivalry (economics), Free-rider problem,
+                  Property rights (economics), Coase theorem, Transaction cost, Tragedy of the commons,
+                  Club good]
+          hints: [public good, excludab, rivalr, free-rider, free rider, property rights, coase, transaction cost,
+                  common-pool, club good]
+        - title: Time, risk and discounting
+          seeds: [Time value of money, Present value, Discounting, Social discount rate, Interest rate,
+                  Risk aversion, Uncertainty, Expected value, Hyperbolic discounting]
+          hints: [time value, present value, discount, interest rate, risk aversion, uncertainty]
+        - title: Measuring an economy
+          seeds: [Gross domestic product, Economic growth, Wealth, Income, Measures of national income and output]
+          hints: [gross domestic product, economic growth, national income, wealth]
+        - title: Behavior and decisions
+          seeds: [Behavioral economics, Bounded rationality, Nudge theory, Loss aversion, Endowment effect,
+                  Collective action problem, Game theory, Prisoner's dilemma]
+          hints: [behavioral economics, bounded rationality, nudge, loss aversion, endowment effect, collective action,
+                  game theory, prisoner's dilemma]
+
+    - key: eco
+      title: How ecosystems work
+      hints: [ecosystem, ecology, biodiversity, food web, trophic, biogeochemical, nutrient cycle, carbon cycle,
+              water cycle, primary production, habitat, keystone, resilience, ecological threshold, tipping point,
+              regime shift, planetary boundaries, biome, wetland, mangrove, coral reef, forest, grassland, pollinat]
+      chapters:
+        - title: Ecosystem structure and function
+          seeds: [Ecosystem ecology, Food web, Trophic level, Primary production, Ecosystem diversity,
+                  Keystone species, Ecological niche, Habitat, Ecosystem engineer, Functional ecology]
+          hints: [ecosystem ecology, food web, trophic, primary production, keystone, niche, habitat, functional]
+        - title: Cycles of carbon, water and nutrients
+          seeds: [Biogeochemical cycle, Carbon cycle, Water cycle, Nitrogen cycle, Phosphorus cycle, Carbon sink,
+                  Photosynthesis]
+          hints: [biogeochemical, carbon cycle, water cycle, nitrogen cycle, phosphorus cycle, carbon sink]
+        - title: Biodiversity and its loss
+          seeds: [Biodiversity loss, Holocene extinction, Habitat destruction, Invasive species, Deforestation,
+                  Land degradation, Overexploitation, Defaunation, Habitat fragmentation]
+          hints: [biodiversity loss, extinction, habitat destruction, habitat fragmentation, invasive, deforestation,
+                  overexploitation, defaunation, land degradation]
+        - title: Resilience, thresholds and limits
+          seeds: [Ecological resilience, Ecological threshold, Tipping points in the climate system, Regime shift,
+                  Planetary boundaries, Carrying capacity, Socio-ecological system]
+          hints: [resilience, threshold, tipping point, regime shift, planetary boundaries, carrying capacity,
+                  social-ecological, socio-ecological, panarchy]
+        - title: Key ecosystems
+          seeds: [Wetland, Mangrove, Coral reef, Forest ecology, Grassland, Peatland, Seagrass meadow, Salt marsh,
+                  Riparian zone, Urban ecosystem, Agroecosystem, Kelp forest, Floodplain]
+          hints: [wetland, mangrove, coral reef, forest ecology, grassland, peatland, seagrass, salt marsh, riparian,
+                  kelp, floodplain]
+
+    - key: es
+      title: Ecosystem services
+      hints: [ecosystem service, nature's contributions, pollination, water purification, flood regulation,
+              erosion control, pest control, climate regulation, cultural ecosystem, provisioning, regulating,
+              supporting service, ecosystem disservice, millennium ecosystem assessment, teeb, cices]
+      chapters:
+        - title: The ecosystem services idea
+          seeds: [Millennium Ecosystem Assessment, Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services]
+          hints: [ecosystem service, millennium ecosystem assessment, nature's contributions, cices, disservice]
+        - title: Provisioning and regulating services
+          seeds: [Pollination, Pollinator decline, Biological pest control, Water purification, Flood management,
+                  Erosion control, Ecological values of mangroves, Carbon sequestration,
+                  Seed dispersal, Nutrient cycle]
+          hints: [pollinat, pest control, water purification, flood, erosion control, climate regulation,
+                  sequestration, coastal protection, seed dispersal]
+        - title: Cultural services and human wellbeing
+          seeds: [Ecotourism, Biophilia hypothesis, Nature connectedness, Sense of place, Nature therapy,
+                  Recreation, Aesthetics of nature]
+          hints: [cultural ecosystem, ecotourism, biophilia, nature connectedness, health, wellbeing, recreation,
+                  sense of place]
+        - title: Mapping and modeling services
+          seeds: [Natural Capital Project, Landscape ecology, Geographic information system,
+                  Remote sensing, Land cover]
+          hints: [invest, mapping, landscape ecology, remote sensing, land cover, model]
+
+    - key: val
+      title: Valuing nature
+      hints: [valuation, value, willingness to pay, willingness to accept, contingent valuation, choice modelling,
+              hedonic, travel cost, revealed preference, stated preference, benefit transfer, replacement cost,
+              avoided cost, existence value, option value, bequest value, non-use, cost–benefit, value of life,
+              commodification]
+      chapters:
+        - title: Kinds of value
+          seeds: [Total economic value, Use value, Existence value, Option value (cost–benefit analysis), Bequest value, Intrinsic value (ethics),
+                  Instrumental and intrinsic value, Value of Earth]
+          hints: [total economic value, use value, existence value, option value, bequest value, intrinsic value]
+        - title: Valuation methods
+          seeds: [Ecosystem valuation, Contingent valuation, Choice modelling, Hedonic regression, Travel cost analysis,
+                  Revealed preference, Replacement value, Willingness to accept, Shadow price]
+          hints: [contingent valuation, choice modelling, hedonic, travel cost, travel-cost, revealed preference,
+                  stated preference, benefit transfer, replacement cost, willingness to accept]
+        - title: Cost–benefit analysis
+          seeds: [Cost–benefit analysis, Net present value, Value of a statistical life, Cost-effectiveness analysis,
+                  Multiple-criteria decision analysis, Shadow price, Regulatory impact analysis]
+          hints: [cost–benefit, cost-benefit, net present value, value of life, cost-effectiveness, multiple-criteria,
+                  shadow price, impact analysis]
+        - title: Debates about pricing nature
+          seeds: [Commodification of nature, Environmental ethics, Value pluralism, Value of Earth, Clive Spash]
+          hints: [commodification, incommensurab, environmental ethics, pluralism, critique]
+
+    - key: acct
+      title: Measuring wealth and accounting for nature
+      hints: [accounting, green accounting, green gdp, genuine progress, inclusive wealth, genuine savings,
+              system of environmental-economic, seea, ecological footprint, biocapacity, sustainability metrics,
+              natural capital accounting, disclosure, tnfd, esg, full-cost, true cost]
+      chapters:
+        - title: Beyond GDP
+          seeds: [Green gross domestic product, Genuine progress indicator, Inclusive wealth, Broad measures of economic progress, Human Development Index, Wellbeing economy, Index of Sustainable Economic Welfare]
+          hints: [green gdp, green gross, genuine progress, inclusive wealth, genuine savings, beyond gdp,
+                  wellbeing economy, sustainable economic welfare]
+        - title: National and corporate natural capital accounts
+          seeds: [Natural capital accounting, System of Integrated Environmental and Economic Accounting, Green accounting,
+                  Environmental accounting, Environmental full-cost accounting, Sustainability accounting,
+                  True cost accounting]
+          hints: [natural capital accounting, environmental-economic accounting, green accounting,
+                  environmental accounting, full-cost, sustainability accounting, true cost, disclosure]
+        - title: Footprints and indicators
+          seeds: [Ecological footprint, Biocapacity, Carbon footprint, Water footprint, Earth Overshoot Day,
+                  Sustainability metrics and indices, Living Planet Index, Life-cycle assessment]
+          hints: [footprint, biocapacity, overshoot, sustainability metrics, living planet, life-cycle assessment,
+                  indicator]
+
+    - key: pol
+      title: Environmental policy instruments
+      hints: [pigouvian, environmental tax, carbon tax, emissions trading, cap and trade, tradable permit,
+              environmental regulation, command and control, polluter pays, precautionary principle, subsidy,
+              environmental subsidies, standard, regulation, carbon leakage, border adjustment, double dividend,
+              porter hypothesis, deposit, liability, environmental impact assessment, carbon price]
+      chapters:
+        - title: Regulation and standards
+          seeds: [Environmental law, Command and control regulation, Emission standard,
+                  Best available technology, Environmental impact assessment, Strategic environmental assessment,
+                  Porter hypothesis]
+          hints: [environmental law, regulation, command and control, emission standard, best available,
+                  impact assessment, porter hypothesis]
+        - title: Pollution taxes and charges
+          seeds: [Pigouvian tax, Environmental tax, Carbon tax, Carbon fee and dividend, Polluter pays principle,
+                  Deposit-refund system, Environmental pricing reform, Fuel tax]
+          hints: [pigouvian, environmental tax, carbon tax, double dividend, fee and dividend, polluter pays,
+                  deposit, tax reform, fuel tax]
+        - title: Tradable permits and carbon markets
+          seeds: [Emissions trading, Carbon emission trading, European Union Emissions Trading System,
+                  Acid Rain Program, Cap and dividend, Carbon price, Carbon leakage, EU Carbon Border Adjustment Mechanism,
+                  Individual fishing quota, Water trading]
+          hints: [emissions trading, cap and trade, carbon price, carbon leakage, border adjustment, permit, quota,
+                  water trading]
+        - title: Subsidies, information and voluntary approaches
+          seeds: [Subsidy, Energy subsidy, Fossil fuel subsidies, Ecolabel, Sustainability standards and certification,
+                  Extended producer responsibility, Nudge theory, Precautionary principle]
+          hints: [subsid, ecolabel, certification, producer responsibility, precautionary, liability, voluntary]
+        - title: Choosing among instruments
+          seeds: [Policy mix, Environmental policy, Martin Weitzman]
+          hints: [prices vs, instrument, policy mix, environmental policy]
+
+    - key: mkt
+      title: Paying for nature
+      hints: [payment for ecosystem services, offset, offsetting, biodiversity banking, mitigation banking,
+              habitat bank, conservation finance, green bond, debt-for-nature, conservation easement, redd,
+              carbon credit, carbon offset, biodiversity credit, nature credit, blended finance, impact investing,
+              trust fund, land trust, ecotourism, user fee]
+      chapters:
+        - title: Payments for ecosystem services
+          seeds: [Payment for ecosystem services, Environmental management scheme,
+                  Watershed management, Conservation Reserve Program, Grain for Green, Additionality]
+          hints: [payment for ecosystem, payments for, agri-environment, watershed, conservation reserve, additionality]
+        - title: Offsets and banking
+          seeds: [Biodiversity offsetting, Biodiversity banking, Mitigation banking, Conservation banking,
+                  No net loss, Environmental mitigation, Biodiversity Impact Credit]
+          hints: [offset, banking, mitigation bank, net loss, net gain, mitigation hierarchy, biodiversity credit]
+        - title: Forest carbon and REDD+
+          seeds: [REDD+, Carbon offsets and credits, Clean Development Mechanism,
+                  Forest Carbon Partnership Facility, Verified Carbon Standard, Gold Standard (carbon offset standard)]
+          hints: [redd, carbon offset, carbon credit, voluntary carbon, clean development, forest carbon, permanence]
+        - title: Finance for conservation
+          seeds: [Conservation finance, Debt-for-nature swap, Green bond, Sustainable finance, Conservation easement,
+                  Land trust, Impact investing, Blended finance, "Environmental, social, and governance",
+                  Economics of biodiversity, Natural Asset Company]
+          hints: [conservation finance, debt-for-nature, green bond, sustainable finance, easement, land trust,
+                  impact investing, blended finance, environmental, social, and governance, biodiversity finance]
+
+    - key: res
+      title: Natural resource economics
+      hints: [natural resource, renewable resource, non-renewable, hotelling, resource depletion, fishery,
+              fisheries, maximum sustainable yield, overfishing, forestry, faustmann, rotation, water resource,
+              water pricing, resource curse, extraction, mining, peak, rent, scarcity rent, open access, ostrom,
+              common property, commons]
+      chapters:
+        - title: Renewable and non-renewable resources
+          seeds: [Natural resource economics, Renewable resource, Non-renewable resource, Hotelling's rule,
+                  Resource depletion, Economic rent, Resource curse, Exploitation of natural resources, Peak oil]
+          hints: [natural resource economics, renewable resource, non-renewable, hotelling, depletion, rent,
+                  resource curse, exploitation]
+        - title: Fisheries
+          seeds: [Fisheries science, Maximum sustainable yield, Overfishing, Fisheries management, Open access,
+                  Sustainable fishery, Marine protected area, Individual fishing quota, Gordon-Schaefer model]
+          hints: [fisher, maximum sustainable yield, overfishing, marine protected, transferable quota]
+        - title: Forests, land and water
+          seeds: [Martin Faustmann, Faustmann's formula, Forest management, Land use, Water resources,
+                  Water pricing, Water scarcity, Virtual water, "Land use, land-use change, and forestry"]
+          hints: [forest economics, faustmann, forest management, land use, water resource, water pricing,
+                  water scarcity, virtual water]
+        - title: Managing the commons
+          seeds: [Commons, Elinor Ostrom, Common ownership, Global commons,
+                  Enclosure, Natural resource management, Customary land, Bloomington school]
+          hints: [commons, common property, enclosure, community-based, customary]
+
+    - key: nbs
+      title: Nature-based solutions
+      hints: [nature-based, ecosystem-based, green infrastructure, blue-green, blue infrastructure, sponge city,
+              constructed wetland, living shoreline, restoration, rewilding, reforestation, afforestation, agroforestry,
+              green roof, bioswale, rain garden, bioretention, urban forest, urban green, sustainable drainage,
+              managed retreat, blue carbon, regenerative, carbon farming, natural flood, beaver, oyster reef,
+              coastal, eco-drr, disaster risk]
+      chapters:
+        - title: What nature-based solutions are
+          seeds: [Nature-based solutions, Ecosystem-based adaptation, Ecosystem-based disaster risk reduction,
+                  Ecological engineering]
+          hints: [nature-based, ecosystem-based, ecological engineering, natural climate solution]
+        - title: Water and flood solutions
+          seeds: [Flood management, Sponge city, Constructed wetland, Sustainable drainage system,
+                  Bioswale, Rain garden, Bioretention, Floodplain restoration, Stream restoration, Beaver dam,
+                  Green infrastructure, Water-sensitive urban design, Low-impact development (U.S. and Canada)]
+          hints: [flood, sponge city, constructed wetland, drainage, bioswale, rain garden, bioretention,
+                  river restoration, blue-green, water-sensitive, low-impact]
+        - title: Coastal solutions
+          seeds: [Living shoreline, Mangrove restoration, Oyster reef restoration, Coral reef restoration,
+                  Managed retreat, Sand dune stabilization, Coastal management, Blue carbon]
+          hints: [living shoreline, mangrove restoration, oyster reef, coral reef restoration, managed retreat,
+                  managed realignment, dune, coastal management, blue carbon]
+        - title: Cities and green space
+          seeds: [Urban forestry, Green roof, Urban green space, Urban heat island, Urban park, Green wall,
+                  Biophilic design, Urban agriculture, Pocket forest]
+          hints: [urban forest, green roof, green space, heat island, urban park, green wall, biophilic, street tree]
+        - title: Restoring land and forests
+          seeds: [Ecological restoration, Reforestation, Afforestation, Forest restoration, Rewilding,
+                  Assisted natural regeneration, Bonn Challenge, Trillion Tree Campaign, Great Green Wall (Africa),
+                  UN Decade on Ecosystem Restoration, Peatland restoration, Restoration economy]
+          hints: [restoration, reforestation, afforestation, rewilding, natural regeneration, bonn challenge,
+                  green wall, decade on ecosystem restoration]
+        - title: Working lands
+          seeds: [Agroforestry, Regenerative agriculture, Carbon farming, Sustainable agriculture, Conservation agriculture,
+                  Silvopasture, Agroecology, Climate-smart agriculture, Cover crop, Riparian buffer, Landscape-scale conservation]
+          hints: [agroforestry, regenerative, carbon farming, sustainable agriculture, conservation agriculture,
+                  silvopasture, agroecology, climate-smart, cover crop, buffer, landscape management]
+        - title: Evidence, risks and greenwashing
+          seeds: [Greenwashing, Maladaptation, Monoculture, Tree planting]
+          hints: [greenwashing, maladaptation, standard, monoculture]
+
+    - key: clim
+      title: Climate economics
+      hints: [social cost of carbon, climate economics, economics of climate change, stern review, integrated assessment,
+              dice model, carbon budget, climate finance, adaptation, loss and damage, carbon dioxide removal,
+              mitigation, abatement, marginal abatement, climate risk, stranded asset, green new deal, just transition,
+              co-benefits, nationally determined, paris agreement, kyoto]
+      chapters:
+        - title: The economics of climate change
+          seeds: [Economic analysis of climate change, Social cost of carbon, Stern Review,
+                  Integrated assessment modelling, DICE model, Marginal abatement cost, Climate risk,
+                  Martin Weitzman]
+          hints: [economics of climate, social cost of carbon, stern review, integrated assessment, dice,
+                  abatement, economic impact]
+        - title: Mitigation and carbon removal
+          seeds: [Climate change mitigation, Carbon budget, Carbon dioxide removal, Carbon sequestration,
+                  Net-zero emissions, Stranded asset, Energy transition, Just transition]
+          hints: [mitigation, carbon budget, carbon dioxide removal, stranded asset, energy transition, just transition,
+                  co-benefits]
+        - title: Adaptation and resilience
+          seeds: [Climate change adaptation, Adaptive capacity, Climate resilience, Loss and damage (climate change),
+                  Climate risk insurance, Disaster risk reduction, Vulnerability]
+          hints: [adaptation, adaptive capacity, resilience, loss and damage, risk insurance, disaster risk, vulnerab]
+        - title: Climate finance and agreements
+          seeds: [Climate finance, Green Climate Fund, Paris Agreement, Kyoto Protocol, Nationally determined contribution,
+                  Cooperative mechanisms under Article 6 of the Paris Agreement, United Nations Framework Convention on Climate Change]
+          hints: [climate finance, climate fund, paris agreement, kyoto, nationally determined, article 6, unfccc,
+                  framework convention]
+
+    - key: eecon
+      title: Ecological economics and sustainability
+      hints: [ecological economics, steady-state, steady state, degrowth, post-growth, green growth, green economy,
+              circular economy, decoupling, environmental kuznets, rebound effect, jevons, limits to growth,
+              entropy, thermoeconomics, strong sustainability, weak sustainability, hartwick, doughnut, throughput,
+              biophysical, industrial ecology, material flow, bioeconomy, social metabolism]
+      chapters:
+        - title: Ecological economics
+          seeds: [Ecological economics, Steady-state economy, Uneconomic growth, Thermoeconomics,
+                  Nicholas Georgescu-Roegen, Social metabolism,
+                  Ecologically unequal exchange]
+          hints: [ecological economics, steady-state, uneconomic growth, thermoeconomic, entropy, biophysical,
+                  metabolism, unequal exchange]
+        - title: Strong and weak sustainability
+          seeds: [Weak and strong sustainability, Hartwick's rule, Intergenerational equity,
+                  Sustainable development, Brundtland Commission, Sustainability]
+          hints: [strong sustainab, weak sustainab, hartwick, critical natural capital, intergenerational,
+                  sustainable development, brundtland, pillars]
+        - title: Growth, decoupling and limits
+          seeds: [Kuznets curve, Eco-economic decoupling, Rebound effect (conservation), Jevons paradox,
+                  The Limits to Growth, Degrowth, Green growth, Green economy, Doughnut (economic model), Post-growth]
+          hints: [kuznets, decoupling, rebound, jevons, limits to growth, degrowth, green growth, green economy,
+                  doughnut, post-growth]
+        - title: Circular and bio-based economies
+          seeds: [Circular economy, Industrial ecology, Material flow analysis, Bioeconomy, Cradle-to-cradle design,
+                  Industrial symbiosis, Dematerialization (economics), Waste hierarchy]
+          hints: [circular economy, industrial ecology, material flow, bioeconomy, cradle-to-cradle, symbiosis,
+                  dematerialization, waste hierarchy]
+
+    - key: gov
+      title: Governance, equity and justice
+      hints: [governance, convention on biological diversity, biodiversity framework, 30 by 30, ipbes,
+              environmental justice, indigenous, traditional ecological knowledge, polycentric, sustainable development
+              goal, protected area, environmental justice, rights of nature, land rights, benefit-sharing, nagoya,
+              access and benefit, free, prior and informed consent, environmental defender, community]
+      chapters:
+        - title: Environmental governance
+          seeds: [Environmental governance, Bloomington school, Adaptive management, Earth system governance,
+                  Collaborative environmental governance, Fisheries co-management, Integrated coastal zone management,
+                  Ecosystem-based management]
+          hints: [governance, polycentric, adaptive management, co-management, ecosystem-based management]
+        - title: Biodiversity agreements and targets
+          seeds: [Convention on Biological Diversity, Kunming-Montreal Global Biodiversity Framework, 30 by 30,
+                   Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services,
+                  Nagoya Protocol, Protected area, Other effective area-based conservation measures,
+                  Sustainable Development Goal 15, Sustainable Development Goal 14, Sustainable Development Goals]
+          hints: [biological diversity, biodiversity framework, 30 by 30, aichi, ipbes, nagoya, protected area,
+                  area-based, development goal]
+        - title: Justice, rights and Indigenous knowledge
+          seeds: [Environmental justice, Climate justice, Traditional ecological knowledge, Indigenous peoples,
+                  Rights of nature, "Free, prior and informed consent", Access and Benefit Sharing Agreement, Fortress conservation,
+                  Green grabbing, Environmental racism, Environmental defender]
+          hints: [justice, traditional ecological knowledge, indigenous, rights of nature, prior and informed,
+                  benefit sharing, fortress conservation, green grabbing, environmental racism, defender]
+        - title: Business and nature
+          seeds: [Corporate environmental responsibility, Corporate social responsibility, Sustainable business,
+                  Nature-positive, Science Based Targets initiative, Supply chain sustainability]
+          hints: [corporate, business, nature positive, science based targets, supply chain]
+
+    - key: hist
+      title: "History, people and frontiers"
+      history: true
+      hints: [history of, conference, summit, report, review, assessment]
+      chapters:
+        - title: How the field developed
+          seeds: [Our Common Future, United Nations Conference on the Human Environment,
+                  Earth Summit, The Economics of Ecosystems and Biodiversity, Stern Review,
+                  Silent Spring, A Sand County Almanac]
+          hints: [history, conference, summit, our common future, the economics of]
+        - title: People who shaped the field
+          seeds: [Arthur Cecil Pigou, Ronald Coase, Elinor Ostrom, Herman Daly, Robert Costanza, Gretchen Daily,
+                  Partha Dasgupta, William Nordhaus, "Nicholas Stern, Baron Stern of Brentford", Nicholas Georgescu-Roegen, Kenneth E. Boulding,
+                  John V. Krutilla, Pavan Sukhdev, Kate Raworth, Garrett Hardin, Aldo Leopold]
+          hints: [economist, ecologist, environmentalist, conservationist]
+        - title: Institutions and initiatives
+          seeds: [International Society for Ecological Economics, International Union for Conservation of Nature,
+                  United Nations Environment Programme, World Resources Institute]
+          hints: [society, institute, initiative, programme, program, coalition, project, union]

@@ -1,0 +1,9 @@
+{
+ "threshold": 5.0,
+ "f1": 0.374,
+ "precision": 0.23,
+ "recall": 1.0,
+ "labels": 100,
+ "owner_labels": 100,
+ "suggested_labels": 0
+}
