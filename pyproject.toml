@@ -26,7 +26,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/ggroshans/wikicourse"
+Homepage = "https://github.com/ggroshans/wiki-course"
 
 [project.scripts]
 wikicourse = "engine.cli:main"
