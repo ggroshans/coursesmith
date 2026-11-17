@@ -23,6 +23,7 @@ from ..write.render import REF_RE
 from ..write.render import load as load_prose
 
 NUM = re.compile(r"(?<![\w.])\d[\d,]*(?:\.\d+)?")
+from .units import _per_unit, size_bounds
 from .images import OK as OK_LICENSES  # one rule for fetching and checking: CC BY, CC BY-SA, CC0, PD
 
 
@@ -60,9 +61,9 @@ def run(subject, log=print):
     prose = load_prose(subject)
     units = (subject.units() or {}).get("units") or []
     waivers = read_json(subject.dir / "waivers.json", {}) or {}
-    lo, hi = min(subject.targets["per_unit"]), max(subject.targets["per_unit"])
     if not units:
         return [f"{subject.slug}: no units.json"], []
+    lo, hi = size_bounds(sum(len(u["entries"]) for u in units), *_per_unit(subject))
 
     unit_of, seq = {}, []
     for u in units:

@@ -1,5 +1,7 @@
 """Split a subject's locked order into units of 4-5 entries (targets.per_unit).
 
+A course too small for the unit size (3, 7 or 11 entries) gets the fewest units that fit; see size_bounds.
+
     wikicourse units build <subject> [--units N]
 
 A course runs as many units as its entries need: 1,650 entries make about 370 units, 4,000 make about 900.
@@ -31,11 +33,23 @@ class UnitError(RuntimeError):
     pass
 
 
+def size_bounds(n_entries, lo_size=4, hi_size=5):
+    """Unit sizes a course of n entries can use: per_unit when it divides, else the smallest size it forces.
+
+    A small or awkward count (3, 7, 11 entries with per_unit 4-5) gets the fewest units of at most hi_size
+    and lets the shortest one be as short as the remainder makes it: 11 -> sizes 3-5, 3 -> one unit of 3.
+    """
+    if n_entries < 1:
+        raise UnitError("no entries to split into units")
+    if math.ceil(n_entries / hi_size) <= n_entries // lo_size:
+        return lo_size, hi_size
+    return n_entries // math.ceil(n_entries / hi_size), hi_size
+
+
 def choose_n(n_entries, lo_size=4, hi_size=5, want=None):
+    lo_size, hi_size = size_bounds(n_entries, lo_size, hi_size)
     lo = math.ceil(n_entries / hi_size)
     hi = n_entries // lo_size
-    if lo > hi:
-        raise UnitError(f"{n_entries} entries cannot be split into units of {lo_size}-{hi_size}")
     n = want or round(n_entries / ((lo_size + hi_size) / 2))
     return max(lo, min(hi, n))
 
@@ -90,6 +104,11 @@ def split(order, leaf_of, prereqs, n_units, sizes=(4, 5)):
     return list(reversed(spans))
 
 
+def _per_unit(subject):
+    sizes = subject.targets.get("per_unit") or (4, 5)
+    return min(sizes), max(sizes)
+
+
 def _join(titles):
     titles = [t for t in titles if t]
     if len(titles) <= 1:
@@ -111,7 +130,7 @@ def build(subject, n_units=None, log=print):
     prose = load_prose(subject)
     outline = Outline.from_subject(subject)
     t = subject.targets
-    sizes = tuple(t.get("per_unit") or (4, 5))
+    sizes = size_bounds(len(order), *_per_unit(subject))
     n = choose_n(len(order), min(sizes), max(sizes), n_units or t.get("units"))
     leaf_of = {i: outline.leaf(entries[i]) for i in order}
     prereqs = {i: [p for p in entries[i].get("prerequisites") or [] if p in entries] for i in order}

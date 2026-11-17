@@ -1,6 +1,6 @@
 import unittest
 
-from engine.publish.units import UnitError, choose_n, split
+from engine.publish.units import UnitError, choose_n, size_bounds, split
 
 
 class ChooseN(unittest.TestCase):
@@ -18,9 +18,23 @@ class ChooseN(unittest.TestCase):
         self.assertEqual(choose_n(4000), 889)
         self.assertEqual(choose_n(5 * 365 + 1), 406)
 
-    def test_impossible_count(self):
+    def test_small_and_awkward_counts(self):
+        self.assertEqual(size_bounds(11), (3, 5))
+        self.assertEqual(choose_n(11), 3)
+        self.assertEqual(choose_n(3), 1)
+        self.assertEqual(choose_n(1), 1)
+        self.assertEqual(size_bounds(60), (4, 5))
         with self.assertRaises(UnitError):
-            choose_n(11)
+            choose_n(0)
+
+    def test_every_count_splits(self):
+        for n in range(1, 40):
+            order = [f"e{i:02d}" for i in range(n)]
+            lo, hi = size_bounds(n)
+            k = choose_n(n)
+            spans = split(order, {e: "a" for e in order}, {}, k, (lo, hi))
+            self.assertEqual((spans[0][0], spans[-1][1], len(spans)), (0, n, k), n)
+            self.assertTrue(all(lo <= b - a <= hi for a, b in spans), (n, spans))
 
 
 class Split(unittest.TestCase):

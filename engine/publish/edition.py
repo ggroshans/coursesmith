@@ -353,6 +353,10 @@ class Edition:
                     self._leaf_last[self.outline.leaf(self.entries[i])] = i
         return self._leaf_last.get(leaf)
 
+    def _unit_sizes(self):
+        sizes = sorted({len(u["entries"]) for u in self.units}) or [0]
+        return f"{sizes[0]}–{sizes[-1]}" if sizes[0] != sizes[-1] else str(sizes[0])
+
     def _about_html(self, n_entries):
         desc = (self.s.cfg.get("description") or "").strip()
         tiers = {}
@@ -361,7 +365,8 @@ class Edition:
                 tiers[e.get("source_tier", "wikipedia")] = tiers.get(e.get("source_tier", "wikipedia"), 0) + 1
         tier_txt = ", ".join(f"{v:,} {k}" for k, v in sorted(tiers.items(), key=lambda kv: -kv[1]))
         return (f"<h1>About this course</h1>{_paras(desc)}"
-                f"<p>{n_entries:,} entries in {self.total} units of 4–5 entries each. Every fact traces to a "
+                f"<p>{n_entries:,} entries in {self.total} units of {self._unit_sizes()} entries each. "
+                "Every fact traces to a "
                 "Wikipedia revision listed under Sources and license at the end of this book, or to a verified "
                 "external source named in the entry's tag line. Nothing comes from general knowledge.</p>"
                 f"<p>Source tiers: {escape(tier_txt)}. An entry is <i>primary</i> when a cited paper or an "
