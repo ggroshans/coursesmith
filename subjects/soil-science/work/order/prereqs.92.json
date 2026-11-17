@@ -1,0 +1,1038 @@
+{
+ "entries": {
+  "soil-hist-115": [
+   {
+    "id": "soil-fert-001",
+    "reason": "the experiment's plots compare fertilizer treatments on wheat"
+   }
+  ],
+  "soil-hist-116": [
+   {
+    "id": "soil-water-001",
+    "reason": "ploughing the new lands led to soil erosion"
+   },
+   {
+    "id": "soil-water-010",
+    "reason": "the ploughed steppe suffered wind erosion"
+   }
+  ],
+  "soil-hist-117": [
+   {
+    "id": "soil-class-001",
+    "reason": "the map shows soils grouped by a soil classification"
+   }
+  ],
+  "soil-hist-118": [
+   {
+    "id": "soil-bio-089",
+    "reason": "the theory is about humus"
+   },
+   {
+    "id": "soil-fert-156",
+    "reason": "the theory was an account of plant nutrition"
+   }
+  ],
+  "soil-form-116": [
+   {
+    "id": "soil-found-040",
+    "reason": "slickensides form in clayey soils"
+   },
+   {
+    "id": "soil-phys-028",
+    "reason": "they come from swelling and shrinking clays"
+   },
+   {
+    "id": "soil-found-068",
+    "reason": "slickensides are a kind of ped surface feature like cutans"
+   }
+  ],
+  "soil-form-117": [
+   {
+    "id": "soil-form-017",
+    "reason": "it is a diagnostic horizon"
+   },
+   {
+    "id": "soil-form-061",
+    "reason": "it forms by podzolisation"
+   }
+  ],
+  "soil-form-118": [
+   {
+    "id": "soil-form-018",
+    "reason": "a mollic epipedon is an epipedon"
+   },
+   {
+    "id": "soil-form-008",
+    "reason": "it is a dark surface (A) horizon"
+   },
+   {
+    "id": "soil-found-045",
+    "reason": "its darkness comes from organic matter"
+   }
+  ],
+  "soil-form-119": [
+   {
+    "id": "soil-form-017",
+    "reason": "it is a diagnostic horizon"
+   },
+   {
+    "id": "soil-class-045",
+    "reason": "a natric horizon is an argillic horizon"
+   },
+   {
+    "id": "soil-chem-018",
+    "reason": "it is defined by exchangeable sodium"
+   }
+  ],
+  "soil-form-120": [
+   {
+    "id": "soil-form-017",
+    "reason": "it is a diagnostic horizon"
+   },
+   {
+    "id": "soil-class-045",
+    "reason": "a kandic horizon is an argillic horizon"
+   },
+   {
+    "id": "soil-chem-088",
+    "reason": "its clays are 1:1 clays such as kaolinite"
+   },
+   {
+    "id": "soil-chem-046",
+    "reason": "it is defined by low cation exchange capacity"
+   }
+  ],
+  "soil-form-121": [
+   {
+    "id": "soil-form-017",
+    "reason": "it is a diagnostic horizon"
+   },
+   {
+    "id": "soil-found-118",
+    "reason": "it accumulates calcium carbonate"
+   }
+  ],
+  "soil-form-122": [
+   {
+    "id": "soil-form-002",
+    "reason": "a monolith is a preserved soil profile"
+   },
+   {
+    "id": "soil-found-001",
+    "reason": "it keeps the horizons intact"
+   }
+  ],
+  "soil-form-123": [
+   {
+    "id": "soil-form-080",
+    "reason": "it is a kind of pedoturbation"
+   },
+   {
+    "id": "soil-chem-091",
+    "reason": "it is driven by smectite clays"
+   },
+   {
+    "id": "soil-phys-028",
+    "reason": "the mixing comes from shrinking and swelling"
+   }
+  ],
+  "soil-form-124": [
+   {
+    "id": "soil-form-080",
+    "reason": "tree throw is a form of pedoturbation"
+   },
+   {
+    "id": "soil-form-023",
+    "reason": "the pit is made in the subsoil"
+   }
+  ],
+  "soil-form-125": [
+   {
+    "id": "soil-form-046",
+    "reason": "succession is the change over time of the organisms that act on soil"
+   }
+  ],
+  "soil-form-126": [
+   {
+    "id": "soil-found-054",
+    "reason": "periglacial processes are driven by freezing and thawing"
+   },
+   {
+    "id": "soil-env-129",
+    "reason": "they occur mostly in areas of permafrost"
+   }
+  ],
+  "soil-bio-203": [
+   {
+    "id": "soil-bio-002",
+    "reason": "bacterivores eat soil bacteria"
+   },
+   {
+    "id": "soil-bio-025",
+    "reason": "they are a feeding group in the soil food web"
+   }
+  ],
+  "soil-bio-204": [
+   {
+    "id": "soil-bio-003",
+    "reason": "fungivores eat fungi"
+   },
+   {
+    "id": "soil-bio-025",
+    "reason": "they are a feeding group in the soil food web"
+   }
+  ],
+  "soil-bio-207": [
+   {
+    "id": "soil-bio-011",
+    "reason": "the groups classify microorganisms"
+   },
+   {
+    "id": "soil-chem-177",
+    "reason": "groups are defined partly by electron source"
+   },
+   {
+    "id": "soil-chem-113",
+    "reason": "energy is obtained through redox reactions"
+   }
+  ],
+  "soil-bio-205": [
+   {
+    "id": "soil-bio-207",
+    "reason": "chemotrophs are one primary nutritional group"
+   },
+   {
+    "id": "soil-chem-177",
+    "reason": "they oxidise electron donors"
+   },
+   {
+    "id": "soil-chem-113",
+    "reason": "energy comes from redox reactions"
+   }
+  ],
+  "soil-bio-206": [
+   {
+    "id": "soil-bio-207",
+    "reason": "organotrophs are one primary nutritional group"
+   },
+   {
+    "id": "soil-chem-177",
+    "reason": "they take electrons from donors"
+   },
+   {
+    "id": "soil-bio-114",
+    "reason": "their electron donors are organic substrates"
+   }
+  ],
+  "soil-bio-208": [
+   {
+    "id": "soil-bio-011",
+    "reason": "it is the metabolism of soil microbes"
+   },
+   {
+    "id": "soil-bio-207",
+    "reason": "metabolic types follow the primary nutritional groups"
+   },
+   {
+    "id": "soil-bio-205",
+    "reason": "chemotrophy is a main metabolic mode"
+   },
+   {
+    "id": "soil-bio-206",
+    "reason": "organotrophy is a main metabolic mode"
+   },
+   {
+    "id": "soil-chem-128",
+    "reason": "many soil microbes rely on anaerobic respiration"
+   }
+  ],
+  "soil-bio-209": [
+   {
+    "id": "soil-bio-022",
+    "reason": "microarthropods are a size group of mesofauna"
+   },
+   {
+    "id": "soil-bio-020",
+    "reason": "they are soil animals"
+   }
+  ],
+  "soil-bio-210": [
+   {
+    "id": "soil-bio-209",
+    "reason": "mites are microarthropods"
+   },
+   {
+    "id": "soil-bio-132",
+    "reason": "many soil mites are decomposers"
+   }
+  ],
+  "soil-bio-211": [
+   {
+    "id": "soil-bio-023",
+    "reason": "millipedes are macrofauna"
+   },
+   {
+    "id": "soil-bio-052",
+    "reason": "millipedes are detritivores"
+   }
+  ],
+  "soil-bio-212": [
+   {
+    "id": "soil-bio-023",
+    "reason": "termites are macrofauna"
+   },
+   {
+    "id": "soil-bio-052",
+    "reason": "they feed on decaying plant material"
+   },
+   {
+    "id": "soil-bio-106",
+    "reason": "their food includes leaf litter"
+   },
+   {
+    "id": "soil-bio-089",
+    "reason": "some eat soil humus"
+   }
+  ],
+  "soil-bio-213": [
+   {
+    "id": "soil-bio-212",
+    "reason": "mounds are termite nests"
+   },
+   {
+    "id": "soil-found-077",
+    "reason": "they are built of soil"
+   }
+  ],
+  "soil-bio-214": [
+   {
+    "id": "soil-bio-020",
+    "reason": "fossorial animals are soil animals"
+   },
+   {
+    "id": "soil-bio-047",
+    "reason": "their digging mixes soil"
+   }
+  ],
+  "soil-bio-215": [
+   {
+    "id": "soil-bio-193",
+    "reason": "these fungi trap nematodes"
+   },
+   {
+    "id": "soil-bio-003",
+    "reason": "they are soil fungi"
+   }
+  ],
+  "soil-bio-216": [
+   {
+    "id": "soil-bio-003",
+    "reason": "hyphae are the growth form of fungi"
+   },
+   {
+    "id": "soil-bio-012",
+    "reason": "actinobacteria also form hyphae"
+   }
+  ],
+  "soil-bio-217": [
+   {
+    "id": "soil-bio-216",
+    "reason": "a mycelium is a mass of hyphae"
+   },
+   {
+    "id": "soil-bio-003",
+    "reason": "it is the body of a fungus"
+   }
+  ],
+  "soil-bio-218": [
+   {
+    "id": "soil-bio-011",
+    "reason": "it studies microbes"
+   },
+   {
+    "id": "soil-found-052",
+    "reason": "microbes drive weathering and geochemical processes"
+   },
+   {
+    "id": "soil-found-029",
+    "reason": "it studies microbe-mineral interactions"
+   }
+  ],
+  "soil-bio-219": [
+   {
+    "id": "soil-bio-011",
+    "reason": "it is the study of microorganisms"
+   },
+   {
+    "id": "soil-bio-226",
+    "reason": "microbial interactions include symbiosis"
+   }
+  ],
+  "soil-bio-220": [
+   {
+    "id": "soil-bio-011",
+    "reason": "it studies microorganisms"
+   },
+   {
+    "id": "soil-bio-219",
+    "reason": "it is a branch of microbial ecology"
+   },
+   {
+    "id": "soil-bio-008",
+    "reason": "it explains patterns of microbial diversity"
+   }
+  ],
+  "soil-bio-221": [
+   {
+    "id": "soil-bio-011",
+    "reason": "it studies soil microorganisms"
+   },
+   {
+    "id": "soil-bio-008",
+    "reason": "it reveals community diversity"
+   },
+   {
+    "id": "soil-bio-227",
+    "reason": "it surveys whole microbiomes"
+   }
+  ],
+  "soil-bio-222": [
+   {
+    "id": "soil-bio-011",
+    "reason": "it measures microbial communities"
+   },
+   {
+    "id": "soil-bio-269",
+    "reason": "it estimates living microbial biomass"
+   },
+   {
+    "id": "soil-bio-002",
+    "reason": "it distinguishes bacteria"
+   },
+   {
+    "id": "soil-bio-003",
+    "reason": "it distinguishes fungi"
+   }
+  ],
+  "soil-bio-223": [
+   {
+    "id": "soil-bio-222",
+    "reason": "biomarkers are read from a PLFA profile"
+   },
+   {
+    "id": "soil-bio-002",
+    "reason": "markers indicate bacterial groups"
+   },
+   {
+    "id": "soil-bio-003",
+    "reason": "markers indicate fungi"
+   }
+  ],
+  "soil-bio-224": [
+   {
+    "id": "soil-bio-002",
+    "reason": "Azotobacter is a soil bacterium"
+   },
+   {
+    "id": "soil-fert-100",
+    "reason": "it fixes atmospheric nitrogen"
+   }
+  ],
+  "soil-bio-225": [
+   {
+    "id": "soil-bio-012",
+    "reason": "Streptomyces is an actinomycete genus"
+   },
+   {
+    "id": "soil-bio-002",
+    "reason": "it is a soil bacterium"
+   }
+  ],
+  "soil-bio-226": [],
+  "soil-bio-227": [
+   {
+    "id": "soil-bio-011",
+    "reason": "a microbiome is a microbial community"
+   },
+   {
+    "id": "soil-bio-219",
+    "reason": "it is studied by microbial ecology"
+   }
+  ],
+  "soil-bio-228": [
+   {
+    "id": "soil-bio-025",
+    "reason": "it is a kind of food web"
+   },
+   {
+    "id": "soil-bio-132",
+    "reason": "decomposers break down the dead matter"
+   },
+   {
+    "id": "soil-bio-052",
+    "reason": "detritivores are the next level"
+   },
+   {
+    "id": "soil-bio-113",
+    "reason": "it generalises the detritus food chain"
+   }
+  ],
+  "soil-bio-229": [
+   {
+    "id": "soil-bio-040",
+    "reason": "the subject is earthworms"
+   },
+   {
+    "id": "soil-bio-043",
+    "reason": "it is a case of earthworm invasion"
+   },
+   {
+    "id": "soil-bio-126",
+    "reason": "the worms transform northern forest floors"
+   }
+  ],
+  "soil-fert-218": [
+   {
+    "id": "soil-fert-140",
+    "reason": "it studies biogeochemical cycles"
+   },
+   {
+    "id": "soil-found-084",
+    "reason": "the pedosphere is part of its scope"
+   }
+  ],
+  "soil-fert-219": [
+   {
+    "id": "soil-bio-179",
+    "reason": "it is found in root nodules"
+   },
+   {
+    "id": "soil-fert-100",
+    "reason": "it supports nitrogen fixation"
+   },
+   {
+    "id": "soil-fert-101",
+    "reason": "it protects nitrogenase from oxygen"
+   },
+   {
+    "id": "soil-bio-178",
+    "reason": "the nodules house rhizobia"
+   }
+  ],
+  "soil-fert-220": [
+   {
+    "id": "soil-fert-099",
+    "reason": "it traces conversions in the nitrogen cycle"
+   },
+   {
+    "id": "soil-fert-112",
+    "reason": "nitrification is a traced conversion"
+   },
+   {
+    "id": "soil-fert-108",
+    "reason": "denitrification is a traced conversion"
+   }
+  ],
+  "soil-fert-221": [
+   {
+    "id": "soil-fert-112",
+    "reason": "it performs a step of nitrification"
+   },
+   {
+    "id": "soil-fert-113",
+    "reason": "it is a nitrifying bacterium"
+   },
+   {
+    "id": "soil-bio-002",
+    "reason": "it is a soil bacterium"
+   }
+  ],
+  "soil-fert-222": [
+   {
+    "id": "soil-fert-140",
+    "reason": "it is a biogeochemical cycle"
+   },
+   {
+    "id": "soil-chem-113",
+    "reason": "it runs by reduction and oxidation"
+   }
+  ],
+  "soil-fert-223": [
+   {
+    "id": "soil-fert-133",
+    "reason": "assimilation is a step of the sulfur cycle"
+   },
+   {
+    "id": "soil-fert-178",
+    "reason": "it builds sulfur, a plant nutrient, into molecules"
+   }
+  ],
+  "soil-fert-224": [
+   {
+    "id": "soil-bio-039",
+    "reason": "urease is a soil enzyme"
+   },
+   {
+    "id": "soil-fert-021",
+    "reason": "it breaks down urea"
+   }
+  ],
+  "soil-fert-225": [
+   {
+    "id": "soil-fert-108",
+    "reason": "it performs the last step of denitrification"
+   },
+   {
+    "id": "soil-fert-119",
+    "reason": "it is an enzyme of denitrifying bacteria"
+   },
+   {
+    "id": "soil-fert-118",
+    "reason": "it removes nitrous oxide"
+   }
+  ],
+  "soil-fert-226": [
+   {
+    "id": "soil-fert-160",
+    "reason": "it is a lack of boron"
+   },
+   {
+    "id": "soil-fert-179",
+    "reason": "boron is a micronutrient"
+   },
+   {
+    "id": "soil-fert-163",
+    "reason": "it is a nutrient deficiency"
+   }
+  ],
+  "soil-fert-227": [
+   {
+    "id": "soil-fert-176",
+    "reason": "it is a lack of calcium"
+   },
+   {
+    "id": "soil-fert-163",
+    "reason": "it is a nutrient deficiency"
+   },
+   {
+    "id": "soil-fert-162",
+    "reason": "calcium's immobility in plants matters"
+   },
+   {
+    "id": "soil-phys-213",
+    "reason": "low transpiration often causes it"
+   }
+  ],
+  "soil-fert-228": [
+   {
+    "id": "soil-fert-163",
+    "reason": "chlorosis is the typical symptom of nutrient deficiency"
+   }
+  ],
+  "soil-fert-229": [
+   {
+    "id": "soil-fert-179",
+    "reason": "manganese is a micronutrient"
+   },
+   {
+    "id": "soil-fert-163",
+    "reason": "it is a nutrient deficiency"
+   },
+   {
+    "id": "soil-fert-201",
+    "reason": "it is confused with iron deficiency"
+   }
+  ],
+  "soil-fert-230": [
+   {
+    "id": "soil-fert-161",
+    "reason": "it is a lack of zinc"
+   },
+   {
+    "id": "soil-fert-163",
+    "reason": "it is a nutrient deficiency"
+   }
+  ],
+  "soil-fert-231": [
+   {
+    "id": "soil-fert-172",
+    "reason": "it is a lack of nitrogen"
+   },
+   {
+    "id": "soil-fert-163",
+    "reason": "it is a nutrient deficiency"
+   },
+   {
+    "id": "soil-fert-228",
+    "reason": "chlorosis is a symptom"
+   }
+  ],
+  "soil-fert-232": [
+   {
+    "id": "soil-fert-174",
+    "reason": "it is a lack of phosphorus"
+   },
+   {
+    "id": "soil-fert-163",
+    "reason": "it is a nutrient deficiency"
+   }
+  ],
+  "soil-fert-233": [
+   {
+    "id": "soil-fert-175",
+    "reason": "it is a lack of potassium"
+   },
+   {
+    "id": "soil-fert-163",
+    "reason": "it is a nutrient deficiency"
+   }
+  ],
+  "soil-fert-234": [
+   {
+    "id": "soil-fert-169",
+    "reason": "it supplies every essential element"
+   },
+   {
+    "id": "soil-fert-167",
+    "reason": "it is a hydroponic solution"
+   }
+  ],
+  "soil-fert-235": [
+   {
+    "id": "soil-fert-172",
+    "reason": "it measures nitrogen use"
+   },
+   {
+    "id": "soil-fert-107",
+    "reason": "it depends on nitrogen uptake and assimilation"
+   }
+  ],
+  "soil-fert-236": [
+   {
+    "id": "soil-fert-166",
+    "reason": "it is a form of plant tissue testing"
+   },
+   {
+    "id": "soil-fert-172",
+    "reason": "it estimates nitrogen status"
+   },
+   {
+    "id": "soil-fert-231",
+    "reason": "it detects nitrogen deficiency"
+   }
+  ],
+  "soil-fert-238": [
+   {
+    "id": "soil-fert-182",
+    "reason": "it refines Liebig's law"
+   },
+   {
+    "id": "soil-fert-156",
+    "reason": "it relates yield to plant food"
+   }
+  ],
+  "soil-bio-230": [
+   {
+    "id": "soil-bio-011",
+    "reason": "it is dead microbial biomass"
+   },
+   {
+    "id": "soil-found-045",
+    "reason": "it becomes soil organic matter"
+   },
+   {
+    "id": "soil-bio-115",
+    "reason": "it is left by decomposition"
+   }
+  ],
+  "soil-bio-232": [
+   {
+    "id": "soil-bio-106",
+    "reason": "it is a plant cell wall component of litter"
+   }
+  ],
+  "soil-bio-233": [
+   {
+    "id": "soil-bio-106",
+    "reason": "it is a plant polymer entering litter"
+   }
+  ],
+  "soil-bio-234": [
+   {
+    "id": "soil-bio-106",
+    "reason": "it is a plant polymer entering litter"
+   },
+   {
+    "id": "soil-bio-233",
+    "reason": "it is compared with cutin"
+   }
+  ],
+  "soil-bio-235": [
+   {
+    "id": "soil-bio-115",
+    "reason": "it feeds on decomposing biomass"
+   },
+   {
+    "id": "soil-bio-052",
+    "reason": "saprophages are detritivores"
+   },
+   {
+    "id": "soil-bio-125",
+    "reason": "it parallels saprotrophy"
+   }
+  ],
+  "soil-bio-236": [
+   {
+    "id": "soil-bio-115",
+    "reason": "it is a decomposition pathway"
+   },
+   {
+    "id": "soil-bio-106",
+    "reason": "it acts on litter at the surface"
+   }
+  ],
+  "soil-class-156": [
+   {
+    "id": "soil-class-070",
+    "reason": "it is a layer of peat"
+   },
+   {
+    "id": "soil-water-121",
+    "reason": "it is the upper layer of a bog"
+   }
+  ],
+  "soil-class-157": [
+   {
+    "id": "soil-class-145",
+    "reason": "it is a Technosol-type soil"
+   },
+   {
+    "id": "soil-found-077",
+    "reason": "it imitates natural soil"
+   },
+   {
+    "id": "soil-form-021",
+    "reason": "it often replaces topsoil"
+   }
+  ],
+  "soil-class-158": [
+   {
+    "id": "soil-chem-035",
+    "reason": "machair is shell-rich calcareous soil"
+   },
+   {
+    "id": "soil-water-033",
+    "reason": "it is dune grassland"
+   }
+  ],
+  "soil-class-159": [
+   {
+    "id": "soil-class-106",
+    "reason": "it is a Vertisol"
+   },
+   {
+    "id": "soil-chem-093",
+    "reason": "it is rich in montmorillonite"
+   },
+   {
+    "id": "soil-phys-028",
+    "reason": "it shrinks and swells"
+   }
+  ],
+  "soil-class-160": [
+   {
+    "id": "soil-chem-133",
+    "reason": "it is the soil of paddy fields"
+   },
+   {
+    "id": "soil-class-120",
+    "reason": "it is an anthropogenic soil"
+   },
+   {
+    "id": "soil-chem-113",
+    "reason": "flooding drives its redox"
+   }
+  ],
+  "soil-hist-119": [
+   {
+    "id": "soil-form-134",
+    "reason": "it dates rocks"
+   },
+   {
+    "id": "soil-water-046",
+    "reason": "it dates sediments"
+   }
+  ],
+  "soil-hist-120": [
+   {
+    "id": "soil-hist-119",
+    "reason": "it is a geochronology method"
+   },
+   {
+    "id": "soil-bio-114",
+    "reason": "it dates organic carbon"
+   }
+  ],
+  "soil-hist-121": [
+   {
+    "id": "soil-hist-120",
+    "reason": "it calibrates radiocarbon ages"
+   }
+  ],
+  "soil-hist-122": [
+   {
+    "id": "soil-hist-120",
+    "reason": "it applies radiocarbon dating"
+   },
+   {
+    "id": "soil-found-045",
+    "reason": "it dates soil organic matter"
+   },
+   {
+    "id": "soil-bio-089",
+    "reason": "humic material contaminates it"
+   },
+   {
+    "id": "soil-class-070",
+    "reason": "it dates peat"
+   }
+  ],
+  "soil-hist-123": [
+   {
+    "id": "soil-hist-120",
+    "reason": "the pulse affects carbon-14 measurement"
+   }
+  ],
+  "soil-hist-124": [
+   {
+    "id": "soil-hist-119",
+    "reason": "it is a geochronology method"
+   },
+   {
+    "id": "soil-found-029",
+    "reason": "it dates mineral grains"
+   }
+  ],
+  "soil-hist-125": [
+   {
+    "id": "soil-hist-124",
+    "reason": "it is a luminescence method"
+   },
+   {
+    "id": "soil-water-046",
+    "reason": "it dates sediments"
+   }
+  ],
+  "soil-hist-126": [
+   {
+    "id": "soil-hist-124",
+    "reason": "it is a luminescence method"
+   },
+   {
+    "id": "soil-water-046",
+    "reason": "it dates sediments"
+   }
+  ],
+  "soil-hist-127": [
+   {
+    "id": "soil-hist-119",
+    "reason": "these nuclides are used in dating"
+   },
+   {
+    "id": "soil-form-134",
+    "reason": "they form in surface rock"
+   }
+  ],
+  "soil-hist-128": [
+   {
+    "id": "soil-hist-127",
+    "reason": "it measures cosmogenic nuclides"
+   },
+   {
+    "id": "soil-hist-119",
+    "reason": "it is a dating method"
+   },
+   {
+    "id": "soil-form-134",
+    "reason": "it dates rock surfaces"
+   }
+  ],
+  "soil-hist-129": [
+   {
+    "id": "soil-hist-127",
+    "reason": "beryllium-10 is a cosmogenic isotope"
+   },
+   {
+    "id": "soil-form-042",
+    "reason": "it traces soil formation"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "it traces soil erosion"
+   }
+  ],
+  "soil-hist-130": [
+   {
+    "id": "soil-hist-119",
+    "reason": "it is a dating method"
+   },
+   {
+    "id": "soil-water-046",
+    "reason": "it dates recent sediments"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "it traces soil movement"
+   }
+  ],
+  "soil-hist-131": [],
+  "soil-hist-132": [
+   {
+    "id": "soil-water-046",
+    "reason": "it studies remains in sediments"
+   },
+   {
+    "id": "soil-form-136",
+    "reason": "and in sedimentary rocks"
+   }
+  ],
+  "soil-hist-133": [
+   {
+    "id": "soil-form-072",
+    "reason": "rhizoliths occur in paleosols"
+   },
+   {
+    "id": "soil-bio-133",
+    "reason": "they are formed by roots"
+   }
+  ],
+  "soil-hist-134": [
+   {
+    "id": "soil-found-077",
+    "reason": "the spread of land plants built soils"
+   },
+   {
+    "id": "soil-found-052",
+    "reason": "plants and fungi sped weathering"
+   },
+   {
+    "id": "soil-bio-133",
+    "reason": "roots spread in this period"
+   },
+   {
+    "id": "soil-bio-003",
+    "reason": "fungi diversified"
+   }
+  ],
+  "soil-hist-135": [
+   {
+    "id": "soil-hist-119",
+    "reason": "it is a dating method"
+   },
+   {
+    "id": "soil-form-152",
+    "reason": "it uses volcanic ash layers"
+   }
+  ]
+ }
+}

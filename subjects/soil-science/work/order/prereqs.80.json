@@ -1,0 +1,928 @@
+{
+ "entries": {
+  "soil-chem-134": [
+   {
+    "id": "soil-found-029",
+    "reason": "pyrite is a sulfide mineral"
+   },
+   {
+    "id": "soil-chem-113",
+    "reason": "its oxidation in soils is a redox reaction"
+   }
+  ],
+  "soil-chem-135": [
+   {
+    "id": "soil-found-029",
+    "reason": "mica is a mineral group"
+   },
+   {
+    "id": "soil-found-033",
+    "reason": "micas are sheet silicates"
+   },
+   {
+    "id": "soil-found-031",
+    "reason": "micas are silicate minerals"
+   }
+  ],
+  "soil-env-198": [
+   {
+    "id": "soil-env-001",
+    "reason": "POPs are a class of soil contaminant"
+   }
+  ],
+  "soil-env-199": [
+   {
+    "id": "soil-env-001",
+    "reason": "PAHs are soil contaminants"
+   },
+   {
+    "id": "soil-bio-114",
+    "reason": "formed by incomplete burning of organic matter"
+   }
+  ],
+  "soil-env-200": [
+   {
+    "id": "soil-env-001",
+    "reason": "PFAS are soil contaminants"
+   },
+   {
+    "id": "soil-env-198",
+    "reason": "PFAS are persistent pollutants of the same kind"
+   }
+  ],
+  "soil-env-201": [
+   {
+    "id": "soil-env-001",
+    "reason": "brownfields carry contamination"
+   },
+   {
+    "id": "soil-water-091",
+    "reason": "brownfields are previously developed land"
+   },
+   {
+    "id": "soil-env-018",
+    "reason": "past industry leaves heavy metals"
+   }
+  ],
+  "soil-env-202": [
+   {
+    "id": "soil-env-012",
+    "reason": "a PRB is an in situ remediation method"
+   },
+   {
+    "id": "soil-chem-068",
+    "reason": "barriers remove contaminants by sorption"
+   },
+   {
+    "id": "soil-chem-113",
+    "reason": "barriers break down contaminants by redox"
+   },
+   {
+    "id": "soil-water-193",
+    "reason": "groundwater must flow through the barrier"
+   }
+  ],
+  "soil-env-203": [
+   {
+    "id": "soil-env-001",
+    "reason": "radioactive contamination is a kind of contamination"
+   }
+  ],
+  "soil-env-204": [
+   {
+    "id": "soil-env-001",
+    "reason": "point sources pollute soil and water"
+   }
+  ],
+  "soil-env-089": [
+   {
+    "id": "soil-env-072",
+    "reason": "the wall was built to combat desertification"
+   },
+   {
+    "id": "soil-env-081",
+    "reason": "it targets the Sahel"
+   }
+  ],
+  "soil-env-205": [
+   {
+    "id": "soil-env-077",
+    "reason": "restoration works on drylands"
+   },
+   {
+    "id": "soil-env-062",
+    "reason": "it reverses land degradation"
+   },
+   {
+    "id": "soil-env-072",
+    "reason": "dryland degradation is desertification"
+   }
+  ],
+  "soil-env-206": [
+   {
+    "id": "soil-class-148",
+    "reason": "the index measures aridity"
+   },
+   {
+    "id": "soil-water-246",
+    "reason": "it compares rainfall with potential evapotranspiration"
+   }
+  ],
+  "soil-env-207": [
+   {
+    "id": "soil-env-095",
+    "reason": "encroachment replaces grasses on grassland"
+   }
+  ],
+  "soil-env-208": [
+   {
+    "id": "soil-env-207",
+    "reason": "causes of the encroachment process"
+   },
+   {
+    "id": "soil-env-096",
+    "reason": "overgrazing is a main driver"
+   }
+  ],
+  "soil-env-209": [
+   {
+    "id": "soil-env-207",
+    "reason": "effect of encroachment"
+   },
+   {
+    "id": "soil-env-108",
+    "reason": "soil organic carbon losses are weighed"
+   },
+   {
+    "id": "soil-env-116",
+    "reason": "whether encroachment is a carbon sink"
+   }
+  ],
+  "soil-env-210": [
+   {
+    "id": "soil-env-207",
+    "reason": "effect of encroachment"
+   },
+   {
+    "id": "soil-water-210",
+    "reason": "bushes reduce groundwater recharge"
+   },
+   {
+    "id": "soil-water-161",
+    "reason": "bushes use more water by evapotranspiration"
+   }
+  ],
+  "soil-env-211": [
+   {
+    "id": "soil-env-207",
+    "reason": "bush control responds to encroachment"
+   }
+  ],
+  "soil-water-249": [
+   {
+    "id": "soil-water-048",
+    "reason": "bed and suspended load are the modes of sediment transport"
+   },
+   {
+    "id": "soil-water-046",
+    "reason": "what is carried is sediment"
+   }
+  ],
+  "soil-water-250": [
+   {
+    "id": "soil-water-048",
+    "reason": "the curve shows erosion, transport and deposition"
+   },
+   {
+    "id": "soil-phys-015",
+    "reason": "plotted against grain size"
+   },
+   {
+    "id": "soil-water-002",
+    "reason": "erosion threshold velocity"
+   }
+  ],
+  "soil-water-251": [
+   {
+    "id": "soil-water-048",
+    "reason": "saltation is a transport mode"
+   },
+   {
+    "id": "soil-water-029",
+    "reason": "wind-driven saltation is an aeolian process"
+   },
+   {
+    "id": "soil-phys-014",
+    "reason": "sand grains are what hop"
+   }
+  ],
+  "soil-water-252": [
+   {
+    "id": "soil-water-053",
+    "reason": "debris flow is a form of mass wasting"
+   },
+   {
+    "id": "soil-phys-098",
+    "reason": "water pressure in pores drives the flow"
+   }
+  ],
+  "soil-water-253": [
+   {
+    "id": "soil-water-030",
+    "reason": "deflation removes fines to leave the pavement"
+   },
+   {
+    "id": "soil-water-029",
+    "reason": "pavement forms by aeolian processes"
+   },
+   {
+    "id": "soil-phys-044",
+    "reason": "the surface is pebbles and cobbles"
+   }
+  ],
+  "soil-water-254": [
+   {
+    "id": "soil-water-050",
+    "reason": "geotextiles are used for erosion control"
+   }
+  ],
+  "soil-water-255": [
+   {
+    "id": "soil-water-180",
+    "reason": "groups are defined by infiltration rate"
+   },
+   {
+    "id": "soil-water-193",
+    "reason": "and by how fast water moves through the soil"
+   }
+  ],
+  "soil-water-256": [
+   {
+    "id": "soil-water-180",
+    "reason": "simulators measure infiltration"
+   },
+   {
+    "id": "soil-water-019",
+    "reason": "and runoff"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "and soil erosion"
+   }
+  ],
+  "soil-water-257": [
+   {
+    "id": "soil-water-046",
+    "reason": "legacy sediment is sediment"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "produced by human-accelerated erosion"
+   },
+   {
+    "id": "soil-form-112",
+    "reason": "it is deposited as alluvium"
+   }
+  ],
+  "soil-water-258": [
+   {
+    "id": "soil-water-001",
+    "reason": "treatments cut post-fire erosion"
+   },
+   {
+    "id": "soil-phys-034",
+    "reason": "fire makes soil water-repellent"
+   },
+   {
+    "id": "soil-water-019",
+    "reason": "burned slopes produce runoff"
+   },
+   {
+    "id": "soil-water-012",
+    "reason": "fire removes protective vegetation cover"
+   }
+  ],
+  "soil-agri-131": [
+   {
+    "id": "soil-agri-013",
+    "reason": "a kind of irrigation"
+   }
+  ],
+  "soil-agri-132": [
+   {
+    "id": "soil-agri-013",
+    "reason": "a strategy of irrigation"
+   },
+   {
+    "id": "soil-water-161",
+    "reason": "crop water use is evapotranspiration"
+   }
+  ],
+  "soil-agri-133": [
+   {
+    "id": "soil-agri-009",
+    "reason": "intercropping is a form of polyculture"
+   }
+  ],
+  "soil-agri-134": [
+   {
+    "id": "soil-agri-133",
+    "reason": "alley cropping is intercropping with trees"
+   },
+   {
+    "id": "soil-agri-140",
+    "reason": "alley cropping is a form of agroforestry"
+   }
+  ],
+  "soil-agri-135": [
+   {
+    "id": "soil-fert-028",
+    "reason": "relies on compost"
+   },
+   {
+    "id": "soil-fert-023",
+    "reason": "relies on manure"
+   },
+   {
+    "id": "soil-fert-026",
+    "reason": "relies on green manure"
+   },
+   {
+    "id": "soil-agri-004",
+    "reason": "uses crop rotation"
+   },
+   {
+    "id": "soil-fert-001",
+    "reason": "defined against synthetic fertilizer"
+   }
+  ],
+  "soil-agri-136": [
+   {
+    "id": "soil-agri-135",
+    "reason": "fertility management within organic farming"
+   },
+   {
+    "id": "soil-bio-120",
+    "reason": "nutrients come from breakdown of organic matter"
+   },
+   {
+    "id": "soil-fert-026",
+    "reason": "uses green manure"
+   },
+   {
+    "id": "soil-fert-028",
+    "reason": "uses composting"
+   }
+  ],
+  "soil-agri-137": [
+   {
+    "id": "soil-agri-135",
+    "reason": "debate about organic farming"
+   },
+   {
+    "id": "soil-env-179",
+    "reason": "the question is soil quality"
+   },
+   {
+    "id": "soil-found-045",
+    "reason": "organic matter is a key measure"
+   }
+  ],
+  "soil-agri-138": [
+   {
+    "id": "soil-fert-001",
+    "reason": "yields rose with synthetic fertilizer"
+   },
+   {
+    "id": "soil-agri-013",
+    "reason": "and irrigation"
+   },
+   {
+    "id": "soil-agri-058",
+    "reason": "the result is measured as crop yield"
+   }
+  ],
+  "soil-agri-139": [
+   {
+    "id": "soil-agri-028",
+    "reason": "coco peat is used in potting mixes"
+   },
+   {
+    "id": "soil-class-070",
+    "reason": "coir substitutes for peat"
+   }
+  ],
+  "soil-fert-202": [
+   {
+    "id": "soil-fert-021",
+    "reason": "the core is urea"
+   },
+   {
+    "id": "soil-fert-022",
+    "reason": "coated urea is a controlled-release fertilizer"
+   }
+  ],
+  "soil-fert-203": [
+   {
+    "id": "soil-fert-028",
+    "reason": "bokashi is a composting method"
+   },
+   {
+    "id": "soil-bio-115",
+    "reason": "it breaks down organic matter by fermentation"
+   },
+   {
+    "id": "soil-fert-063",
+    "reason": "the product is a soil amendment"
+   }
+  ],
+  "soil-fert-204": [
+   {
+    "id": "soil-fert-100",
+    "reason": "azolla hosts nitrogen-fixing cyanobacteria"
+   },
+   {
+    "id": "soil-fert-048",
+    "reason": "used as a biofertilizer"
+   }
+  ],
+  "soil-hist-072": [
+   {
+    "id": "soil-fert-182",
+    "reason": "Sprengel first stated the law of the minimum"
+   },
+   {
+    "id": "soil-fert-156",
+    "reason": "his work was plant nutrition"
+   },
+   {
+    "id": "soil-hist-077",
+    "reason": "he was an agricultural chemist"
+   }
+  ],
+  "soil-hist-073": [
+   {
+    "id": "soil-fert-156",
+    "reason": "his contributions were to plant nutrition"
+   },
+   {
+    "id": "soil-hist-077",
+    "reason": "he was an agricultural chemist"
+   }
+  ],
+  "soil-hist-074": [
+   {
+    "id": "soil-fert-001",
+    "reason": "Lawes founded the fertilizer industry"
+   },
+   {
+    "id": "soil-hist-053",
+    "reason": "his farm became Rothamsted"
+   },
+   {
+    "id": "soil-fert-094",
+    "reason": "he patented superphosphate"
+   }
+  ],
+  "soil-hist-075": [
+   {
+    "id": "soil-bio-143",
+    "reason": "Hiltner developed the rhizosphere concept"
+   },
+   {
+    "id": "soil-bio-011",
+    "reason": "he helped found microbial ecology"
+   }
+  ],
+  "soil-hist-076": [
+   {
+    "id": "soil-bio-157",
+    "reason": "Frank coined the term mycorrhiza"
+   }
+  ],
+  "soil-hist-077": [
+   {
+    "id": "soil-chem-076",
+    "reason": "agricultural chemistry builds on soil chemistry"
+   },
+   {
+    "id": "soil-fert-149",
+    "reason": "its subject is soil fertility"
+   }
+  ],
+  "soil-bio-193": [
+   {
+    "id": "soil-bio-020",
+    "reason": "nematodes are soil animals"
+   },
+   {
+    "id": "soil-bio-021",
+    "reason": "they belong to the microfauna"
+   }
+  ],
+  "soil-bio-194": [
+   {
+    "id": "soil-bio-193",
+    "reason": "a group of nematodes"
+   }
+  ],
+  "soil-bio-195": [
+   {
+    "id": "soil-bio-014",
+    "reason": "testate amoebae are soil protozoa"
+   }
+  ],
+  "soil-bio-196": [
+   {
+    "id": "soil-bio-106",
+    "reason": "leaf mold is decomposed plant litter"
+   },
+   {
+    "id": "soil-bio-115",
+    "reason": "it forms by decomposition"
+   },
+   {
+    "id": "soil-bio-003",
+    "reason": "mainly by fungal breakdown"
+   }
+  ],
+  "soil-bio-197": [
+   {
+    "id": "soil-bio-106",
+    "reason": "woody debris is coarse plant litter"
+   },
+   {
+    "id": "soil-bio-115",
+    "reason": "it is slowly decomposed"
+   }
+  ],
+  "soil-bio-198": [
+   {
+    "id": "soil-bio-133",
+    "reason": "the root cap covers the root tip"
+   }
+  ],
+  "soil-bio-199": [
+   {
+    "id": "soil-bio-133",
+    "reason": "pneumatophores are roots"
+   },
+   {
+    "id": "soil-phys-150",
+    "reason": "they supply air where soil aeration fails"
+   },
+   {
+    "id": "soil-water-218",
+    "reason": "they grow in waterlogged soil"
+   }
+  ],
+  "soil-bio-200": [
+   {
+    "id": "soil-bio-180",
+    "reason": "Frankia nodulates actinorhizal plants"
+   },
+   {
+    "id": "soil-bio-179",
+    "reason": "it lives in root nodules"
+   },
+   {
+    "id": "soil-bio-178",
+    "reason": "compared with rhizobia"
+   },
+   {
+    "id": "soil-bio-012",
+    "reason": "Frankia is an actinomycete"
+   }
+  ],
+  "soil-bio-201": [
+   {
+    "id": "soil-bio-178",
+    "reason": "nod factors are released by rhizobia"
+   },
+   {
+    "id": "soil-bio-179",
+    "reason": "they trigger root nodule formation"
+   },
+   {
+    "id": "soil-bio-182",
+    "reason": "in response to legume flavonoids"
+   }
+  ],
+  "soil-bio-202": [
+   {
+    "id": "soil-bio-151",
+    "reason": "endophytes are part of the plant microbiome"
+   },
+   {
+    "id": "soil-bio-002",
+    "reason": "often bacteria"
+   },
+   {
+    "id": "soil-bio-003",
+    "reason": "or fungi"
+   }
+  ],
+  "soil-hist-078": [
+   {
+    "id": "soil-hist-048",
+    "reason": "the journal of the SSSA"
+   }
+  ],
+  "soil-env-212": [
+   {
+    "id": "soil-env-102",
+    "reason": "sequestration moves carbon within the carbon cycle"
+   },
+   {
+    "id": "soil-env-116",
+    "reason": "carbon is stored in a sink"
+   }
+  ],
+  "soil-env-213": [
+   {
+    "id": "soil-env-102",
+    "reason": "many feedbacks run through the carbon cycle"
+   },
+   {
+    "id": "soil-env-116",
+    "reason": "sinks damp warming"
+   }
+  ],
+  "soil-env-214": [
+   {
+    "id": "soil-env-213",
+    "reason": "a subset of climate feedbacks"
+   },
+   {
+    "id": "soil-env-102",
+    "reason": "they come from the carbon cycle"
+   },
+   {
+    "id": "soil-env-116",
+    "reason": "negative feedbacks come from sinks"
+   }
+  ],
+  "soil-env-215": [
+   {
+    "id": "soil-env-139",
+    "reason": "methane is released by permafrost thaw"
+   },
+   {
+    "id": "soil-env-159",
+    "reason": "permafrost methane is the main soil source"
+   },
+   {
+    "id": "soil-chem-129",
+    "reason": "methane is made by methanogenesis"
+   }
+  ],
+  "soil-agri-140": [
+   {
+    "id": "soil-agri-002",
+    "reason": "agroforestry is an agroecological land use"
+   },
+   {
+    "id": "soil-agri-059",
+    "reason": "it serves soil conservation"
+   }
+  ],
+  "soil-agri-141": [
+   {
+    "id": "soil-water-027",
+    "reason": "check dams counter gully erosion"
+   },
+   {
+    "id": "soil-water-019",
+    "reason": "by slowing runoff"
+   },
+   {
+    "id": "soil-water-050",
+    "reason": "a structure for erosion control"
+   }
+  ],
+  "soil-agri-142": [
+   {
+    "id": "soil-agri-059",
+    "reason": "prairie strips are a soil conservation practice"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "they protect against soil erosion"
+   },
+   {
+    "id": "soil-water-019",
+    "reason": "and runoff"
+   }
+  ],
+  "soil-env-216": [
+   {
+    "id": "soil-env-182",
+    "reason": "septic systems rely on soil as a filter"
+   },
+   {
+    "id": "soil-bio-115",
+    "reason": "sewage is anaerobically digested"
+   }
+  ],
+  "soil-env-217": [
+   {
+    "id": "soil-env-062",
+    "reason": "mining degrades land"
+   },
+   {
+    "id": "soil-found-082",
+    "reason": "reclamation restores soil"
+   },
+   {
+    "id": "soil-agri-040",
+    "reason": "a kind of land reclamation"
+   }
+  ],
+  "soil-env-218": [
+   {
+    "id": "soil-env-174",
+    "reason": "permaculture aims at healthy soils"
+   },
+   {
+    "id": "soil-agri-002",
+    "reason": "it is an agroecological design approach"
+   }
+  ],
+  "soil-hist-079": [
+   {
+    "id": "soil-found-052",
+    "reason": "space weathering is a kind of weathering"
+   },
+   {
+    "id": "soil-hist-059",
+    "reason": "it alters lunar regolith"
+   },
+   {
+    "id": "soil-form-097",
+    "reason": "acting on regolith"
+   }
+  ],
+  "soil-hist-080": [
+   {
+    "id": "soil-hist-059",
+    "reason": "impacts stir lunar regolith"
+   },
+   {
+    "id": "soil-form-097",
+    "reason": "the gardened layer is regolith"
+   }
+  ],
+  "soil-hist-081": [
+   {
+    "id": "soil-hist-067",
+    "reason": "simulants mimic Martian regolith"
+   }
+  ],
+  "soil-hist-082": [
+   {
+    "id": "soil-hist-059",
+    "reason": "lunarcrete is made from lunar regolith"
+   },
+   {
+    "id": "soil-hist-083",
+    "reason": "it is an in situ resource use"
+   }
+  ],
+  "soil-hist-083": [
+   {
+    "id": "soil-hist-059",
+    "reason": "resources include lunar regolith"
+   },
+   {
+    "id": "soil-hist-067",
+    "reason": "and Martian regolith"
+   }
+  ],
+  "soil-water-259": [
+   {
+    "id": "soil-water-124",
+    "reason": "the hydrology of wetlands"
+   },
+   {
+    "id": "soil-water-247",
+    "reason": "shallow water tables define it"
+   },
+   {
+    "id": "soil-water-079",
+    "reason": "surface and groundwater flows"
+   }
+  ],
+  "soil-water-260": [
+   {
+    "id": "soil-water-124",
+    "reason": "an artificial wetland"
+   },
+   {
+    "id": "soil-water-127",
+    "reason": "treatment relies on wetland nutrient cycling"
+   }
+  ],
+  "soil-water-261": [
+   {
+    "id": "soil-water-124",
+    "reason": "emissions from wetland soils"
+   },
+   {
+    "id": "soil-chem-129",
+    "reason": "methane comes from methanogenesis"
+   },
+   {
+    "id": "soil-chem-113",
+    "reason": "under reducing conditions"
+   }
+  ],
+  "soil-water-262": [
+   {
+    "id": "soil-water-124",
+    "reason": "the treaty protects wetlands"
+   }
+  ],
+  "soil-water-263": [
+   {
+    "id": "soil-water-264",
+    "reason": "riparian land borders the channel and floodplain"
+   },
+   {
+    "id": "soil-water-019",
+    "reason": "it intercepts runoff"
+   }
+  ],
+  "soil-water-264": [
+   {
+    "id": "soil-form-112",
+    "reason": "floodplains are built of alluvium"
+   },
+   {
+    "id": "soil-water-048",
+    "reason": "by deposition of transported sediment"
+   }
+  ],
+  "soil-water-265": [
+   {
+    "id": "soil-water-264",
+    "reason": "the soils of floodplains"
+   },
+   {
+    "id": "soil-chem-113",
+    "reason": "they swing between oxidized and reduced states"
+   },
+   {
+    "id": "soil-water-218",
+    "reason": "and are periodically waterlogged"
+   }
+  ],
+  "soil-water-266": [
+   {
+    "id": "soil-env-129",
+    "reason": "a palsa has a permafrost core"
+   },
+   {
+    "id": "soil-class-070",
+    "reason": "it is a peat mound"
+   },
+   {
+    "id": "soil-water-136",
+    "reason": "it forms in peatland mires"
+   }
+  ],
+  "soil-water-267": [
+   {
+    "id": "soil-class-070",
+    "reason": "the forest builds peat"
+   },
+   {
+    "id": "soil-water-134",
+    "reason": "it is a swamp forest"
+   },
+   {
+    "id": "soil-water-218",
+    "reason": "its soil is waterlogged"
+   },
+   {
+    "id": "soil-bio-115",
+    "reason": "decomposition is incomplete"
+   }
+  ],
+  "soil-phys-165": [
+   {
+    "id": "soil-water-247",
+    "reason": "head sets the water table level"
+   },
+   {
+    "id": "soil-phys-131",
+    "reason": "pressure is normalized by specific weight"
+   }
+  ],
+  "soil-phys-166": [
+   {
+    "id": "soil-phys-165",
+    "reason": "the gradient is the change in hydraulic head"
+   }
+  ]
+ }
+}

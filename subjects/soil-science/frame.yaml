@@ -1,0 +1,1902 @@
+subject: soil-science
+status: 'reviewed 2026-11-16 (review pass for the owner; the pilot chapter reviewed 2026-11-15). Merged the ''other topics''
+  chapters, moved misplaced seeds, dropped single taxa, soil series, journals and engineering tools, pinned the founders.
+  Re-review freely. Targets set 2026-11-16 to what each chapter''s sources supported after consolidation (1,666 in all).
+  Curriculum review 2026-11-16: Water in soil moved into Soil physics, Horizons before How soils form, Redox before Acidity,
+  farming systems open the agriculture part; Permafrost moved to Soil temperature and air, and soil health, functions
+  and quality to Foundations. Discovery 2026-11-16: thirteen chapters added from the syllabus plan (a new part, Studying
+  soil: methods and mapping), and pages the scope judge and the syllabus placed added as seeds. Order review 2026-11-16:
+  the methods part moved after Agriculture (its entries build on soil tests and soil survey); Forest and rangeland soils
+  dissolved into weathering, degradation and soil survey.'
+note: 'Edit freely: reorder parts and chapters, move seeds, rename. Seeds are forced into the crawl; candidates are crawled
+  only if they pass the scope threshold. `share` is the chapter''s share of the entry target.'
+parts:
+- key: found
+  title: Foundations
+  chapters:
+  - key: what-soil-is
+    title: What soil is
+    seeds:
+    - Soil
+    - Pedosphere
+    - Soil science
+    - Pedology
+    - Edaphology
+    target: 24
+    share: 0.0145
+  - key: what-soil-is-made-of
+    title: What soil is made of
+    seeds:
+    - Mineral
+    - Clay
+    - Soil organic matter
+    - Soil texture
+    - Weathering
+    - Calcite
+    - Mineralogy
+    - Phytolith
+    - Silicate mineral
+    - Spheroidal weathering
+    - Weathering rind
+    target: 36
+    share: 0.0218
+  - key: reading-a-soil
+    title: Reading a soil
+    seeds:
+    - Soil horizon
+    - Soil pH
+    - Soil color
+    - Munsell color system
+    - Mottle
+    - Core sample
+    - Trial pit
+    target: 19
+    share: 0.0115
+- key: form
+  title: Soil formation and the pedosphere
+  chapters:
+  - key: weathering-and-parent-material
+    title: Weathering and parent material
+    seeds:
+    - Parent material
+    - Regolith
+    - Saprolite
+    - Bedrock
+    - Residuum (geology)
+    - Eluvium
+    - Loess
+    - Alluvium
+    - Colluvium
+    - Stone stripe
+    - Bauxite
+    - Biotite
+    - Boulder clay
+    - Drift (geology)
+    - Feldspar
+    - Frost weathering
+    - Grus (geology)
+    - Hydrolysis
+    - Igneous rock
+    - Lichen
+    - Limestone
+    - Lithology
+    - Mafic
+    - Metamorphic rock
+    - Mineral hydration
+    - Moraine
+    - Olivine
+    - Orthoclase
+    - Outwash plain
+    - Parent rock
+    - Plagioclase
+    - Primary mineral
+    - Rock (geology)
+    - Rock cycle
+    - Sedimentary rock
+    - Tephra
+    - Volcanic ash
+    target: 28
+    candidates:
+    - Lateritic nickel ore deposits
+    - Parent rock
+    share: 0.0169
+  - key: horizons-and-the-soil-profile
+    title: Horizons and the soil profile
+    seeds:
+    - Soil morphology
+    - Topsoil
+    - Subsoil
+    - Solum
+    - Hardpan
+    - Claypan
+    - Duripan
+    - Fragipan
+    - Petrocalcic horizon
+    - Umbric horizon
+    - Cambic horizon
+    - Illuvium
+    - Cryoturbation
+    - Tepetate
+    - Argillic
+    - Clay cutan
+    - Nodule (geology)
+    - Slickenside
+    - Stone line
+    target: 41
+    candidates:
+    - Lateral earth pressure
+    - Horton overland flow
+    share: 0.0248
+  - key: how-soils-form
+    title: How soils form
+    seeds:
+    - Soil formation
+    - Leaching (pedology)
+    - Leaching model (soil)
+    - Catena (soil)
+    - Soil biomantle
+    - Biorhexistasy
+    - Lessivage
+    - Podsolisation
+    - Cheluviation
+    - Chronosequence
+    - Pedodiversity
+    - Laterite
+    - Paleosol
+    - Soil memory
+    - Perturbation (geology)
+    - Ferrallitisation
+    - Sesquioxide
+    - Soil production function
+    - Argillipedoturbation
+    - Bone decalcification
+    - Ecological succession
+    - Leaching (chemistry)
+    - Mass balance
+    - Periglaciation
+    - Solod
+    - Tree throw
+    target: 43
+    candidates:
+    - Surfactant leaching (decontamination)
+    - Toxicity characteristic leaching procedure
+    share: 0.026
+  - key: soil-geography
+    title: Soil geography
+    seeds:
+    - Hillslope evolution
+- key: phys
+  title: Soil physics
+  chapters:
+  - key: soil-texture-and-structure
+    title: Soil texture and structure
+    seeds:
+    - Soil structure
+    - Ped
+    - Soil aggregate stability
+    - Loam
+    - Silt
+    - Sand
+    - Grain size
+    - Particle-size distribution
+    - Sieve analysis
+    - Atterberg limits
+    - Expansive clay
+    - Shrink–swell capacity
+    - Soil crust
+    - Dispersion (geology)
+    - Hydrophobic soil
+    - Unified Soil Classification System
+    - Tilth
+    - Physical properties of soil
+    - Gravel
+    - Agrophysics
+    - Friability
+    - Hydrometer
+    - Laser diffraction analysis
+    - Particle size
+    - Particle size analysis
+    - Plasticity (physics)
+    - Rock fragment
+    - Slaking (geology)
+    - Stokes's law
+    - Ternary plot
+    candidates:
+    - Biological soil crust
+    - Flocculation
+    - Hydrometer
+    share: 0.0345
+    target: 57
+    also:
+    - Soil texture
+    - Clay
+    - Soil physics
+    reviewed: 2026-11-15 (pilot chapter)
+  - key: density-pores-and-compaction
+    title: Density, pores and compaction
+    seeds:
+    - Soil physics
+    - Bulk density
+    - Porosity
+    - Pore space in soil
+    - Void ratio
+    - Water content
+    - Soil compaction
+    - Soil compaction (agriculture)
+    - Soil mechanics
+    - Pore water pressure
+    - Effective stress
+    - Shear strength (soil)
+    - Cohesion (geology)
+    - Angle of repose
+    - Soil consolidation
+    - Overburden pressure
+    - Soil liquefaction
+    - Quicksand
+    - Thixotropy
+    - Soil matrix
+    - Bearing capacity
+    - Penetrometer
+    - Subsoiler
+    - Controlled traffic farming
+    - Geotechnical engineering
+    - Mohr–Coulomb theory
+    - Oedometer test
+    - Particle mass density
+    - Pore structure
+    - Porous medium
+    - Relative density
+    - Representative elementary volume
+    - Shear strength
+    - Tortuosity
+    - Trafficability
+    - Trampling
+    target: 60
+    candidates:
+    - Bioclogging
+    - Bound water
+    - Dilatancy (granular material)
+    - Pore structure
+    - Specific weight
+    - Vadose zone
+    - Argillipedoturbation
+    - Earthflow
+    - Flow net
+    - Marsh gas
+    - Rankine's theory
+    - Routing (hydrology)
+    - Shear strength (discontinuity)
+    share: 0.0363
+  - key: water-in-soil
+    title: Water in soil
+    seeds:
+    - Soil water (retention)
+    - Soil moisture
+    - Water content
+    - Water potential
+    - Water retention curve
+    - Field capacity
+    - Permanent wilting point
+    - Capillary fringe
+    - Infiltration (hydrology)
+    - Infiltrometer
+    - Macropore
+    - Permeability (porous media)
+    - Permeability of soils
+    - Hydraulic conductivity
+    - Darcy's law
+    - Darcy (unit)
+    - Disc permeameter
+    - Pedotransfer function
+    - Soil moisture velocity equation
+    - Soil moisture zone
+    - Soil-plant-atmosphere continuum
+    - Hydropedology
+    - Groundwater recharge
+    - Drainage
+    - Drainage equation
+    - Drainage research
+    - Tensiometer (soil science)
+    - Soil moisture sensor
+    - Time-domain reflectometer
+    - Capacitance probe
+    - Soil Moisture Active Passive
+    - Frequency domain sensor
+    - Evapotranspiration
+    - Water table
+    - Lysimeter
+    - Hydraulic head
+    - Adhesion
+    - Advection
+    - Agricultural hydrology
+    - Aquifer
+    - Bound water
+    - Capillary action
+    - Capillary pressure
+    - Chlamydomonas moewusii
+    - Continuity equation
+    - Crop coefficient
+    - Drainage system (agriculture)
+    - Eddy covariance
+    - Fluid flow through porous media
+    - Groundwater
+    - Gypsum block
+    - Hagen–Poiseuille equation
+    - Horton overland flow
+    - Hydrogeology
+    - Hydrology
+    - Hygroscopy
+    - Hysteresis
+    - Interflow
+    - Kozeny–Carman equation
+    - Land drains
+    - Nonlimiting water range
+    - Osmosis
+    - Penman–Monteith equation
+    - Percolation
+    - Phreatic zone
+    - Pressure head
+    - Properties of water
+    - Subsurface flow
+    - Surface tension
+    - TDR moisture sensor
+    - Tile drainage
+    - Transpiration
+    - Water balance
+    - Wilting
+    target: 99
+    candidates:
+    - Amplitude domain reflectometry
+    - Frequency domain sensor
+    - Grassed waterway
+    - Hydraulic redistribution
+    - Moisture equivalent
+    - Moisture stress
+    - SWAT model
+    - Tree box filter
+    - Udic moisture regime
+    - Watertable control
+    - Bar ditch
+    - Darcy–Weisbach equation
+    - Land drains
+    - METRIC
+    - Modified Philip Dunne Infiltrometer
+    - Proctor compaction test
+    - TDR moisture sensor
+    share: 0.0599
+  - key: solute-transport-in-soil
+    title: Solute transport in soil
+    seeds:
+    - Breakthrough curve
+    - Colloid-facilitated transport
+    - Convection–diffusion equation
+    - Dye tracing
+    - Péclet number
+    - Retardation factor
+    - Transport phenomena
+  - key: soil-temperature-and-air
+    title: Soil temperature and air
+    seeds:
+    - Soil thermal properties
+    - Soil gas
+    - Soil aeration
+    - Linear aeration
+    - Frost heaving
+    - Frost line
+    - Needle ice
+    - Frost boil
+    - Thermal diffusivity
+    - Albedo
+    - Diffusion
+    - Diffusion equation
+    - Fick's laws of diffusion
+    - Ground source heat pump
+    - Heat capacity
+    - Heat equation
+    - Heat flux
+    - Ice segregation
+    - Microclimate
+    - Molecular diffusion
+    - Partial pressure
+    - Specific heat capacity
+    - Thermal conduction
+    - Thermal conductivity and resistivity
+    - Thermal effusivity
+    - Units of textile measurement
+    target: 28
+    candidates:
+    - Lithalsa
+    - Aeration
+    - In situ thermal desorption
+    - Thermal blanket
+    - Thermal desorption
+    share: 0.0169
+- key: chem
+  title: Soil chemistry
+  chapters:
+  - key: soil-mineralogy
+    title: Soil mineralogy
+    seeds:
+    - Ammonium oxalate
+    - Anatase
+    - Birnessite
+    - Bowen's reaction series
+    - Bragg's law
+    - Dithionite
+    - Electron probe microanalysis
+    - Energy-dispersive X-ray spectroscopy
+    - Environmental magnetism
+    - Fourier-transform infrared spectroscopy
+    - Glauconite
+    - Goldich dissolution series
+    - Heavy mineral
+    - Jarosite
+    - Order and disorder
+    - Phase diagram
+    - Powder diffraction
+    - Schwertmannite
+    - Strengite
+    - Thermogravimetric analysis
+    - Variscite
+    - Volcanic glass
+    - X-ray fluorescence
+    - Zeolite
+  - key: clay-minerals-and-colloids
+    title: Clay minerals and colloids
+    seeds:
+    - Soil chemistry
+    - Clay mineral
+    - Kaolinite
+    - Smectite
+    - Montmorillonite
+    - Illite
+    - Vermiculite
+    - Allophane
+    - Imogolite
+    - Bentonite
+    - Fuller's earth
+    - Clay–water interaction
+    - Goethite
+    - Gibbsite
+    - Chlorite group
+    - Ferrihydrite
+    - Hematite
+    - Mica
+    - Aluminosilicate
+    - Clay chemistry
+    - Clay mineral X-ray diffraction
+    - Cloud forest
+    - Colloid
+    - DLVO theory
+    - Dispersion (chemistry)
+    - Flocculation
+    - Hydrous oxide
+    - Iron oxide
+    - Iron(III) oxide-hydroxide
+    - Lepidocrocite
+    - Limonite
+    - Maghemite
+    - Muscovite
+    - Oxide mineral
+    - Particle aggregation
+    - Peptization
+    - Sepiolite
+    - Specific surface area
+    - Van der Waals force
+    - X-ray diffraction
+    - Zeta potential
+    target: 37
+    candidates:
+    - Clay pit
+    share: 0.0224
+  - key: charge-and-nutrient-holding
+    title: Charge and nutrient holding
+    seeds:
+    - Cation-exchange capacity
+    - Base-richness
+    - Base-cation saturation ratio
+    - Humic substance
+    - Sorption
+    - Chelation
+    - Ion exchange
+    - Point of zero charge
+    - Double layer (surface science)
+    - Adsorption
+    - Desorption
+    - Equivalent (chemistry)
+    target: 29
+    candidates:
+    - Hydrogen cycle
+    - Riparian buffer
+    - Buffer strip
+    share: 0.0175
+  - key: soil-solution-chemistry-and-sorption
+    title: Soil solution chemistry and sorption
+    seeds:
+    - Activity coefficient
+    - Coprecipitation
+    - Debye–Hückel theory
+    - Freundlich equation
+    - Geochemical modeling
+    - Hofmeister series
+    - Inner sphere complex
+    - Ionic strength
+    - Langmuir adsorption model
+    - Partition coefficient
+    - X-ray absorption fine structure
+  - key: redox-and-soil-chemistry
+    title: Redox and soil chemistry
+    seeds:
+    - Redox
+    - Redoximorphic features
+    - Redox gradient
+    - Reduction potential
+    - Anaerobic respiration
+    - Methanogenesis
+    - Paddy field
+    - 2,2′-Bipyridine
+    - Arsenic biochemistry
+    - Dissimilatory metal-reducing microorganisms
+    - Dissimilatory sulfate reduction
+    - Electron acceptor
+    - Electron donor
+    - Green rust
+    - Iron-oxidizing bacteria
+    - Manganese cycle
+    - Methanogen
+    - Obligate anaerobe
+    - Oxidation state
+    - Pourbaix diagram
+    - Precipitation (chemistry)
+    - Reducing agent
+    - Solubility equilibrium
+    - Standard hydrogen electrode
+    - Thermodynamic activity
+    target: 21
+    candidates:
+    - Dopplerite
+    - Integrated pest management
+    - Schikorr reaction
+    - Organosulfur chemistry
+    share: 0.0127
+  - key: acidity-alkalinity-and-salinity
+    title: Acidity, alkalinity and salinity
+    seeds:
+    - Soil acidification
+    - Soil salinity
+    - Soil salinity control
+    - Sodium adsorption ratio
+    - Alkali soil
+    - Residual sodium carbonate index
+    - Dryland salinity
+    - Saline seep
+    - Salinity in Australia
+    - Acid sulfate soil
+    - Calcareous
+    - Caliche
+    - Gypcrust
+    - Halophyte
+    - Acid rain
+    - Pyrite
+    - Alkalinity
+    - Biosaline agriculture
+    - Brønsted–Lowry acid–base theory
+    - Buffer solution
+    - Conductivity (electrolytic)
+    - Critical load
+    - Deicing
+    - Efflorescence
+    - Electrical resistivity and conductivity
+    - Halotolerance
+    - Osmotic pressure
+    - PH
+    - Road salt
+    - Salinity
+    - Saltwater intrusion
+    - Van Genuchten–Gupta model
+    target: 44
+    candidates:
+    - Brackish marsh
+    - Fougèrite
+    - Framboid
+    - Bjerrum plot
+    - Leonardite
+    - Phospholipid-derived fatty acids
+    - Sulfide intrusion
+    share: 0.0266
+- key: bio
+  title: Soil biology
+  chapters:
+  - key: life-in-the-soil
+    title: Life in the soil
+    seeds:
+    - Soil biology
+    - Soil ecology
+    - Soil biodiversity
+    - Soil microbiology
+    - Soil zoology
+    - Soil animals
+    - Soil food web
+    - Soil respiration
+    - Soil enzyme
+    - Earthworm
+    - Worm cast
+    - Drilosphere
+    - Bioturbation
+    - Biofilm
+    - Detritivore
+    - Saprotrophic bacteria
+    - Lithotroph
+    - Oligotroph
+    - Biomineralization
+    - Microbiologically induced calcite precipitation
+    - Soil-borne pathogen
+    - Microbial inoculant
+    - Ammonia fungi
+    - Laimosphere
+    - Geosmin
+    - Petrichor
+    - Ecosystem engineer
+    - Microbial loop
+    - Springtail
+    - Oribatida
+    - Enchytraeidae
+    - Actinomycetota
+    - Copiotroph
+    - Nematode
+    - Testate amoebae
+    - Actinomycetes
+    - Azotobacter
+    - Bacterivore
+    - Chemotroph
+    - Earthworms as invasive species
+    - Facultative anaerobic organism
+    - Food web
+    - Fossorial
+    - Fungivore
+    - Fungus
+    - Geomicrobiology
+    - Hypha
+    - Invasive earthworms of North America
+    - Lithoautotroph
+    - Metagenomics
+    - Microarthropods
+    - Microbial biogeography
+    - Microbial ecology
+    - Microbial metabolism
+    - Microbiome
+    - Microfauna
+    - Microorganism
+    - Millipede
+    - Mite
+    - Mycelium
+    - Nematophagous fungus
+    - Organotroph
+    - Phospholipid-derived fatty acids
+    - Primary nutritional groups
+    - Protozoa
+    - Streptomyces
+    - Symbiosis
+    - Termite
+    target: 87
+    candidates:
+    - Bacteria
+    - Beutenbergiaceae
+    - Biostimulation
+    - Bogoriellaceae
+    - Brevibacterium
+    - Brevibacterium iodinum
+    - Clavibacter michiganensis
+    - Curtobacterium flaccumfaciens
+    - Dermabacteraceae
+    - Entomopathogenic nematode
+    - Extracellular polymeric substance
+    - Forest floor
+    - Fungal loop hypothesis
+    - Glomus (fungus)
+    - Hartig net
+    - Hyphomicrobiales
+    - Intrasporangiaceae
+    - Jonesiaceae
+    - List of fen plants
+    - List of members of the National Academy of Sciences (plant, soil and microbial sciences)
+    - Malacidin
+    - Micrococcales
+    - Micromonosporaceae
+    - Mycorrhizosphere
+    - Organic geochemistry
+    - Pedobacter
+    - Penicillium expansum
+    - Priming (microbiology)
+    - Promicromonosporaceae
+    - Pseudomonadaceae
+    - Rarobacteraceae
+    - Rathayibacter
+    - Rathayibacter tritici
+    - Rhizobiaceae
+    - Rhodococcus rhodochrous
+    - Ruaniaceae
+    - Sarocladium strictum
+    - Stylonychia
+    - Thanatophage
+    - Thermomonosporaceae
+    - Acrophialophora fusispora
+    - Cercomonad
+    - Coniochaeta hoffmannii
+    - Cunninghamellaceae
+    - Curtobacterium
+    - Cytophaga
+    - Dark septate endophyte
+    - Earthworms as invasive species
+    - Fusarium oxysporum
+    - Geophilic
+    - Gigaspora margarita
+    - Gliomastix murorum
+    - Gordonia (bacterium)
+    - Harzia
+    - Harzia acremonioides
+    - Ilumatobacteraceae
+    - International Collection of (Vesicular) Arbuscular Mycorrhizal Fungi
+    - Intrasporangium
+    - Invasive earthworms of North America
+    - Jonesia
+    - Knoellia
+    - Leohumicola atra
+    - Leohumicola verrucosa
+    - Lumbricus badensis
+    - Malbranchea cinnamomea
+    - Microbial biodegradation
+    - Microbial ecology
+    - Microbiology of oxygen minimum zones
+    - Microsporum fulvum
+    - Myriodontium keratinophilum
+    - Novosphingobium rhizosphaerae
+    - Oidiodendron cereale
+    - Penicillium turcosoconidiatum
+    - Phycicoccus
+    - Plant-growth promoting fungi
+    - Pseudothielavia terricola
+    - Saprophagy
+    - Schmutzdecke
+    - Streptomyces roseoviolaceus
+    - Terrabacter
+    - Terrabacter carboxydivorans
+    - Terrabacter ginsenosidimutans
+    - Terrabacter tumescens
+    - Vermitechnology
+    - Veronaea
+    - Vertical ecosystem
+    share: 0.0526
+  - key: roots-and-the-rhizosphere
+    title: Roots and the rhizosphere
+    seeds:
+    - Root
+    - Fibrous root system
+    - Taproot
+    - Root hair
+    - Root mucilage
+    - Rhizosphere
+    - Bulk soil
+    - Spermosphere
+    - Root microbiome
+    - Rhizobacteria
+    - Mycorrhiza
+    - Arbuscular mycorrhiza
+    - Ectomycorrhiza
+    - Ericoid mycorrhiza
+    - Glomeromycota
+    - Rhizobia
+    - Actinorhizal plant
+    - Plant use of endophytic fungi in defense
+    - Mycorrhizal network
+    - Cluster root
+    - Siderophore
+    - Root cap
+    - Aerial root
+    - Frankia
+    - Nod factor
+    - Endophyte
+    - Azospirillum
+    - Bradyrhizobium
+    - Depletion region
+    - Ectomycorrhizal extramatrical mycelium
+    - Fine root
+    - Lateral root
+    - Mucilage
+    - Mutualism (biology)
+    - Mycorrhiza helper bacteria
+    - Mycorrhizosphere
+    - Plant hormone
+    - Plant root exudates
+    - Plant-growth promoting fungi
+    - Plant–soil feedback
+    - Rhizobium
+    - Rhizotron
+    - Strigolactone
+    target: 61
+    candidates:
+    - Nitrogen nutrition in the arbuscular mycorrhizal system
+    - Orchid mycorrhiza
+    - Root barrier
+    - Common symbiosis signaling pathway
+    share: 0.0369
+  - key: organic-matter-humus-and-decomposition
+    title: Organic matter, humus and decomposition
+    seeds:
+    - Humus
+    - Humus form
+    - Mull humus
+    - Moder humus
+    - Mor humus
+    - Humin
+    - Plant litter
+    - Detritus
+    - Organic matter
+    - Particulate organic matter
+    - Mineralization (soil science)
+    - Glomalin
+    - Canopy soils
+    - Saprotroph
+    - Decomposition
+    - Lignin
+    - Dissolved organic carbon
+    - Decomposer
+    - Black carbon
+    - Leaf mold
+    - Coarse woody debris
+    - Brown rot
+    - Cutin
+    - Hemicellulose
+    - Home advantage
+    - Photodegradation
+    - Polysaccharide
+    - Remineralisation
+    - Saprophagy
+    - Suberin
+    target: 44
+    candidates:
+    - Kerogen
+    - Leaf mold
+    - Thatch (lawn)
+    share: 0.0266
+  - key: soil-biochemistry
+    title: Soil biochemistry
+    seeds:
+    - Acid phosphatase
+    - Amino sugar
+    - Amplicon
+    - Ecological stoichiometry
+    - Exoenzyme
+    - Fungal extracellular enzyme activity
+    - Isotope dilution
+    - Isotope-ratio mass spectrometry
+    - Lignin peroxidase
+    - Manganese peroxidase
+    - Metabarcoding
+    - Michaelis–Menten kinetics
+    - Microbial carbon pump
+    - Q10 (temperature coefficient)
+    - Resistome
+    - Stable-isotope probing
+    - Β-Glucosidase
+- key: class
+  title: Classification and taxonomy
+  chapters:
+  - key: classification-systems
+    title: Classification systems
+    seeds:
+    - Soil classification
+    - Soil type
+    - USDA soil taxonomy
+    - 1938 USDA soil taxonomy
+    - World Reference Base for Soil Resources
+    - FAO soil classification
+    - Australian Soil Classification
+    - Canadian system of soil classification
+    - Polish Soil Classification
+    - Référentiel pédologique
+    - AASHTO Soil Classification System
+    - Soil series
+    target: 49
+    candidates:
+    - Calcid
+    - Kurosol
+    - Necrosol
+    - Sapric
+    - Soil types in Kerala
+    - Ustic
+    - Argillic
+    - Greyzem
+    share: 0.0296
+  - key: usda-soil-orders
+    title: USDA soil orders
+    seeds:
+    - Alfisol
+    - Andisol
+    - Aridisol
+    - Entisol
+    - Gelisol
+    - Histosol
+    - Inceptisol
+    - Mollisol
+    - Oxisol
+    - Ultisol
+    - Vertisol
+    - Psamment
+    - Anthrepts
+    - Aquent
+    - Calcid
+    target: 29
+    share: 0.0175
+  - key: world-reference-base-soil-groups
+    title: World Reference Base soil groups
+    seeds:
+    - Acrisol
+    - Alisol
+    - Andosol
+    - Anthrosol
+    - Calcisol
+    - Cambisol
+    - Chernozem
+    - Durisol
+    - Fluvisol
+    - Gleysol
+    - Gypsisol
+    - Kastanozem
+    - Leptosol
+    - Lixisol
+    - Luvisol
+    - Nitisol
+    - Phaeozem
+    - Planosol
+    - Plinthosol
+    - Podzol
+    - Regosol
+    - Retisol
+    - Solonchak
+    - Solonetz
+    - Stagnosol
+    - Technosol
+    - Umbrisol
+    - Albeluvisols
+    target: 33
+    share: 0.02
+  - key: other-soil-types
+    title: Other soil types
+    seeds:
+    - Brown earth
+    - Brown podzolic
+    - Rendzina
+    - Terra rossa (soil)
+    - Terra preta
+    - Dark earth
+    - Red soil
+    - Latosol
+    - Serpentine soil
+    - Duplex soil
+    - Stagnogley
+    - Brickearth
+    - Gumbo (soil)
+    - Takir (soil)
+    - Subaqueous soil
+    - Peat
+    - Tropical peat
+    - Mesotrophic soil
+    - Acrotelm
+    - Constructed soil
+    - Machair
+    target: 40
+    share: 0.0242
+- key: fert
+  title: Fertility and plant nutrition
+  chapters:
+  - key: nutrients-and-plant-nutrition
+    title: Nutrients and plant nutrition
+    seeds:
+    - Soil fertility
+    - Plant nutrition
+    - Plant nutrients in soil
+    - Nutrient
+    - Liebig's law of the minimum
+    - Carbon-to-nitrogen ratio
+    - Soil test
+    - Illinois Soil Nitrogen Test
+    - Nutrient management
+    - Nutrient depletion
+    - Micronutrient
+    - Law of Maximum
+    - Iron deficiency (plant disorder)
+    - Boron deficiency (plant disorder)
+    - Calcium deficiency (plant)
+    - Chlorosis
+    - Coal tar
+    - Copper in biology
+    - Hoagland solution
+    - Limiting factor
+    - Manganese deficiency (plant)
+    - Manganese in biology
+    - Micronutrient deficiency
+    - Mineral (nutrient)
+    - Molybdenum deficiency (plant disorder)
+    - Nitrogen assimilation
+    - Nitrogen deficiency
+    - Phosphorus deficiency
+    - Plant tissue test
+    - Potassium deficiency (plants)
+    - Trace element
+    - Zinc deficiency (plant disorder)
+    target: 52
+    candidates:
+    - Barren vegetation
+    - Land restoration
+    - Molybdenum deficiency (plant disorder)
+    - Soil defertilisation
+    - Nitrophily
+    - Nutrient budgeting
+    - Revegetation
+    share: 0.0315
+  - key: nutrient-cycles
+    title: Nutrient cycles
+    seeds:
+    - Nitrogen cycle
+    - Nitrogen fixation
+    - Nitrification
+    - Nitrifying bacteria
+    - Nitrosomonas
+    - Denitrifying bacteria
+    - Immobilization (soil science)
+    - Reactive nitrogen
+    - Human impact on the nitrogen cycle
+    - Phosphorus cycle
+    - Phosphate solubilizing bacteria
+    - Sulfur cycle
+    - Potassium cycle
+    - Calcium cycle
+    - Nutrient cycle
+    - Haber process
+    - Nitrobacter
+    - Dissimilatory nitrate reduction to ammonium
+    - Sulfate-reducing microorganism
+    - Ammonia volatilization from urea
+    - Biogeochemistry
+    - Leghemoglobin
+    - Microbial oxidation of sulfur
+    - Nitrogen-15 tracing
+    - Nitrospira
+    - Phosphatase
+    - Selenium cycle
+    - Sulfur assimilation
+    - Urease
+    target: 50
+    candidates:
+    - Ammonium nitrate
+    share: 0.0302
+  - key: fertilizers-manures-and-amendments
+    title: Fertilizers, manures and amendments
+    seeds:
+    - Fertilizer
+    - Urea
+    - Controlled-release fertiliser
+    - Manure
+    - Green manure
+    - Compost
+    - Phosphate rich organic manure
+    - Night soil
+    - Reuse of human excreta
+    - Biofertilizer
+    - Biochar
+    - Liming (soil)
+    - Agricultural lime
+    - Soil conditioner
+    - Superphosphate
+    - Phosphorite
+    - Digestate
+    - Struvite
+    - Vermicompost
+    - Manure management
+    - Coated urea
+    - Bokashi (horticulture)
+    - Azolla
+    - Allotropes of sulfur
+    - Biosolids
+    - Biostimulant
+    - Chromosome
+    - Diammonium phosphate
+    - Ecological sanitation
+    - Fertigation
+    - Guano
+    - History of fertilizer
+    - Labeling of fertilizer
+    - Lime (material)
+    - Liquid manure
+    - N-(n-Butyl)thiophosphoric triamide
+    - Nutrient budgeting
+    - Organic fertilizer
+    - Phosphogypsum
+    - Polyhalite
+    - Potash
+    - Sewage sludge
+    - Wood ash
+    target: 96
+    candidates:
+    - Ammonia volatilization from urea
+    - Biochar carbon removal
+    - Manure management
+    - Seaweed fertiliser
+    - Agrichar
+    - Bone meal
+    - Chicken manure
+    - Coated urea
+    - Fertilizer burn
+    - Manure crisis in the Netherlands
+    - Mushroom compost
+    - UAN
+    share: 0.0581
+- key: water
+  title: Erosion and landscape
+  chapters:
+  - key: erosion-and-sediment
+    title: Erosion and sediment
+    seeds:
+    - Soil erosion
+    - Erosion
+    - Surface runoff
+    - Rill
+    - Gully
+    - Aeolian processes
+    - Dust
+    - Wind Erosion on European Light Soils
+    - Tillage erosion
+    - Universal Soil Loss Equation
+    - Erosion prediction
+    - Erosion index
+    - Erodibility
+    - Sediment
+    - Erosion control
+    - Sediment control
+    - Mass wasting
+    - Downhill creep
+    - Solifluction
+    - Landslide
+    - Slope stability
+    - Vegetation and slope stability
+    - Quick clay
+    - Dust Bowl
+    - Fech fech
+    - Sediment transport
+    - Saltation (geology)
+    - Debris flow
+    - Desert pavement
+    - Geotextile
+    - Runoff curve number
+    - Rainfall simulator
+    - Legacy sediment
+    - Post-fire hillslope stabilization treatments
+    - Aggradation
+    - Badlands
+    - Bank erosion
+    - Corrasion
+    - Denudation
+    - Deposition (geology)
+    - Entrainment (physical geography)
+    - Fluvial sediment processes
+    - Headward erosion
+    - Landslide classification
+    - Mineral dust
+    - Sedimentation
+    - Shear velocity
+    - Shields parameter
+    - Siltation
+    - Soil and Water Assessment Tool
+    - Stream power
+    - Suspended load
+    - Wind erosion equation
+    target: 113
+    candidates:
+    - Ball clay
+    - Bonded Fibre Matrix
+    - Drop structure
+    - Fiber roll
+    - Grain for Green
+    - Internal erosion
+    - Post-fire hillslope stabilization treatments
+    - Rainfall simulator
+    - Retention basin
+    - River bank failure
+    - River channel migration
+    - Runoff (hydrology)
+    - Runoff curve number
+    - Sediment basin
+    - Soil sloughing
+    - 2002 Taman Hillview landslide
+    - 2006 Kampung Pasir landslide
+    - 2008 Bukit Antarabangsa landslide
+    - 2022 Risaralda landslide
+    - Baffle blocks
+    - Bauxite
+    - Bioretention
+    - Bridge scour
+    - Desire path
+    - Fort Carlos III
+    - Highly erodible land
+    - Hwangto
+    - Land loss
+    - Landslides in Malaysia
+    - Legacy sediment
+    - Mudflow
+    - Napoleon, Arkansas
+    - Palos Verdes Peninsula landslides
+    - Sarma method
+    - Terrigenous sediment
+    - WEPP
+    share: 0.0684
+  - key: soils-in-the-landscape
+    title: Soils in the landscape
+    seeds:
+    - Landscape ecology
+    - Hydric soil
+    - Bog
+    - Fen
+    - Marsh
+    - Swamp
+    - Peatland
+    - Muskeg
+    - Börde
+    - Soil-surface roughness
+    - Suffosion
+    - Slump (geology)
+    - Wetland
+    - Raised bog
+    - Blanket bog
+    - Riparian zone
+    - Floodplain
+    - Palsa
+    - Peat swamp forest
+    - Ramsar Convention
+    - Alluvial fan
+    - Aspect (geography)
+    - Geomorphology
+    - Gilgai
+    - Hydrosere
+    - Pedotope
+    - Topography
+    target: 41
+    candidates:
+    - Baer–Babinet law
+    - Freshwater marsh
+    - Hardscape
+    - Living Machine
+    - Mesopotamian Marshes
+    - Barkdust
+    - Cultural burning
+    - Endla Wetland Complex
+    - Epu-Kakerdi Wetland Complex
+    - Haapsalu-Noarootsi Wetland Complex
+    - Hügelkultur
+    - Lavassaare Wetland Complex
+    - Palustrine wetland
+    - Peatland restoration
+    - Peedla Wetland Complex
+    share: 0.0248
+- key: agri
+  title: Agriculture and management
+  chapters:
+  - key: farming-systems-and-growing-media
+    title: Farming systems and growing media
+    seeds:
+    - Agricultural soil science
+    - Agroecology
+    - Crop rotation
+    - Precision agriculture
+    - Irrigation
+    - Leaching (agriculture)
+    - Salt tolerance of crops
+    - Potting soil
+    - Soil steam sterilization
+    - Soil solarization
+    - Biosolarization
+    - Agrogeology
+    - Agrominerals
+    - Land reclamation
+    - Regenerative agriculture
+    - Fallow
+    - Drip irrigation
+    - Center-pivot irrigation
+    - Deficit irrigation
+    - Intercropping
+    - Organic farming
+    - Rockdust
+    - Mineral wool
+    - Coir
+    - Green Revolution
+    - Bromomethane
+    - Dryland farming
+    - Expanded clay aggregate
+    - Monoculture
+    - Multiple cropping
+    - Natural farming
+    - Perlite
+    - Shifting cultivation
+    - Slash-and-burn agriculture
+    - Sustainable agriculture
+    target: 55
+    candidates:
+    - Bioeffector
+    - Bokashi (horticulture)
+    - Carbon farming
+    - Environmental impact of irrigation
+    - Green Revolution in India
+    - Irrigation scheduling
+    - Monocropping
+    - Norfolk four-course system
+    - Open-field system
+    - Semicircular bund
+    - Surface irrigation
+    - The Living Soil
+    - Three-field system
+    - Agrobiology
+    - Controlled traffic farming
+    - Crop tolerance to seawater
+    - Crop yield
+    - Foliar feeding
+    - Growstones
+    - Hoe-farming
+    - Intensive crop farming
+    - Percy Edgar Brown
+    - Ramial chipped wood
+    - SESL Australia
+    - Slash-and-char
+    - Variable rate application
+    - Zam (irrigation)
+    - Zaï
+    - École nationale supérieure des industries agricoles et alimentaires
+    share: 0.0333
+  - key: tillage-and-cultivation
+    title: Tillage and cultivation
+    seeds:
+    - Tillage
+    - Plough
+    - Harrow (tool)
+    - No-till farming
+    - Strip-till
+    - Vertical tillage
+    - Contour plowing
+    - Optimum water content for tillage
+    - Arable land
+    - Crop residue
+    - Keyline design
+    - Deep plowing
+    - Disc harrow
+    - Mulch-till
+    - Stubble burning
+    - Stubble-mulching
+    target: 36
+    candidates: []
+    share: 0.0218
+  - key: soil-conservation
+    title: Soil conservation
+    seeds:
+    - Soil conservation
+    - Soil management
+    - Cover crop
+    - Strip farming
+    - Terrace (earthworks)
+    - Terracette
+    - Contour trenching
+    - Soil stabilization
+    - Soil Conservation and Domestic Allotment Act of 1936
+    - Great Plains Shelterbelt
+    - Conservation agriculture
+    - Windbreak
+    - Catch crop
+    - Agroforestry
+    - Check dam
+    - Prairie strips
+    - Bioretention
+    - Buffer strip
+    - Vetiver System
+    target: 23
+    candidates:
+    - Lynchet
+    - Permanent Presidential Commission on Soil Conservation and Afforestation
+    share: 0.0139
+  - key: soil-survey-and-land-evaluation
+    title: Soil survey and land evaluation
+    seeds:
+    - Soil survey
+    - SSURGO
+    - Soil value
+    - Prime farmland
+    - Digital soil mapping
+    - Storie index
+    - Aerial photography
+    - Centimorgan
+    - Digital elevation model
+    - Geographic information system
+    - Land Suitability classification
+    - Land use capability map
+    - Onsite sewage facility
+    - Remote sensing
+    - Stereoscopy
+    target: 14
+    candidates: []
+    share: 0.0085
+- key: meth
+  title: 'Studying soil: methods and mapping'
+  chapters:
+  - key: soil-analysis-and-laboratory-methods
+    title: Soil analysis and laboratory methods
+    seeds:
+    - Ammonium acetate
+    - Aqua regia
+    - Atomic absorption spectroscopy
+    - Certified reference materials
+    - Combustion analysis
+    - Dumas method
+    - Elemental analysis
+    - Gas chromatography
+    - Inductively coupled plasma atomic emission spectroscopy
+    - Inductively coupled plasma mass spectrometry
+    - Ion chromatography
+    - Ion-selective electrode
+    - Kjeldahl method
+    - Loss on ignition
+    - Molybdenum blue
+    - Pentetic acid
+    - Sample preparation
+    - Wood auger
+  - key: soil-micromorphology
+    title: Soil micromorphology
+    seeds:
+    - Image analysis
+    - Industrial computed tomography
+    - Optical mineralogy
+    - Polarized light microscopy
+    - Thin section
+    - X-ray microtomography
+  - key: pedometrics-and-digital-soil-mapping
+    title: Pedometrics and digital soil mapping
+    seeds:
+    - Chemometrics
+    - Compositional data
+    - Electrical resistivity tomography
+    - Electromagnetic induction
+    - Fuzzy clustering
+    - Gamma-ray spectrometer
+    - Geomorphometry
+    - Geostatistics
+    - Ground-penetrating radar
+    - Hyperspectral imaging
+    - Inverse distance weighting
+    - Kriging
+    - Landsat program
+    - Latin hypercube sampling
+    - Modifiable areal unit problem
+    - Multispectral imaging
+    - Multivariate interpolation
+    - Near-infrared spectroscopy
+    - Normalized difference vegetation index
+    - Partial least squares regression
+    - Random forest
+    - Regression-kriging
+    - Sampling design
+    - Spatial analysis
+    - Spatial scale
+    - Spatial variability
+    - Stratified sampling
+    - Topographic wetness index
+    - Uncertainty quantification
+    - Variogram
+- key: env
+  title: Environmental soil science and climate
+  chapters:
+  - key: soil-carbon-and-climate
+    title: Soil carbon and climate
+    seeds:
+    - Carbon cycle
+    - Soil carbon
+    - Soil carbon feedback
+    - Carbon sink
+    - Soil carbon sponge
+    - Mycorrhizal fungi and soil carbon storage
+    - Enhanced weathering
+    - Permafrost
+    - Active layer
+    - Thaw depth
+    - Talik
+    - Yedoma
+    - Permafrost carbon cycle
+    - Effects of climate change on agriculture
+    - Arctic methane emissions
+    - Climate change feedbacks
+    - Carbon sequestration
+    - Alternate wetting and drying
+    - Biochar carbon removal
+    - Greenhouse gas emissions from agriculture
+    - Greenhouse gas emissions from wetlands
+    - Land use, land-use change, and forestry
+    - Methane emissions
+    - Methanotroph
+    - Peatland restoration
+    - Terrestrial biological carbon cycle
+    - Verification and validation
+    target: 70
+    candidates:
+    - Syngenetic permafrost growth
+    - Allan Savory
+    - Effects of climate change on the water cycle
+    - Ice wedge
+    - JULES
+    - Land surface effects on climate
+    share: 0.0423
+  - key: degradation-and-desertification
+    title: Degradation and desertification
+    seeds:
+    - Soil retrogression and degradation
+    - Land degradation
+    - Desertification
+    - Soil sealing
+    - Grassland degradation
+    - United Nations Convention to Combat Desertification
+    - Drylands
+    - Aridity index
+    - Farmer-managed natural regeneration
+    - Great Green Wall (Africa)
+    - Great Green Wall (China)
+    - Woody plant encroachment
+    - Deforestation
+    - Overgrazing
+    target: 43
+    candidates:
+    - Desertification in Lebanon
+    - International Year of Deserts and Desertification
+    - Oltenian Sahara
+    - Straw checkerboard
+    share: 0.026
+  - key: urban-and-human-made-soils
+    title: Urban and human-made soils
+    seeds:
+    - Rain garden
+    - Soil stockpile
+    - Spoil tip
+    - Urban forestry
+  - key: soil-health-and-protection
+    title: Soil health and protection
+    seeds:
+    - Environmental soil science
+    - Soil health
+    - Soil quality
+    - Soil functions
+    - Soil resilience
+    - Soil regeneration
+    - Soil governance
+    - Soil bioengineering
+    - Septic drain field
+    - Soil Health Card Scheme
+    - Holistic management (agriculture)
+    - Permaculture
+    - Septic tank
+    - Mine reclamation
+    - Ecosystem service
+    target: 23
+    candidates:
+    - Aerobic granulation
+    - Belterra, Pará
+    - Impervious surface
+    - Land allocation decision support system
+    - Landfarming
+    - Mound system
+    - Prairie restoration
+    - Vegetative treatment system
+    - Wastewater quality indicators
+    - Water stagnation
+    - Hydroseeding
+    - Land recycling
+    - Lava filter
+    - Level spreader
+    - Salt marsh dieback
+    - Wieringerrandmeer
+    share: 0.0139
+  - key: contamination-and-remediation
+    title: Contamination and remediation
+    seeds:
+    - Soil contamination
+    - Soil guideline value
+    - Nonpoint source pollution
+    - Nutrient pollution
+    - Bioremediation
+    - Mycoremediation
+    - Phytoremediation
+    - Soil vapor extraction
+    - Electrokinetic remediation
+    - Heavy metals
+    - Microplastics
+    - Persistent organic pollutant
+    - Polycyclic aromatic hydrocarbon
+    - PFAS
+    - DDT
+    - Biomagnification
+    - Brownfield land
+    - Permeable reactive barrier
+    - Radioactive contamination
+    - Point source pollution
+    - Acid mine drainage
+    - Agricultural pollution
+    - Air sparging
+    - Arsenic contamination of groundwater
+    - Biodegradation
+    - Biological half-life
+    - Bioremediation of polychlorinated biphenyls
+    - Bioremediation of radioactive waste
+    - Biosorption
+    - Biotransformation
+    - Cadmium poisoning
+    - Contaminants of emerging concern
+    - Contaminated land
+    - Dense non-aqueous phase liquid
+    - Ecotoxicology
+    - Electrical resistance heating
+    - Environmental remediation
+    - Groundwater pollution
+    - Groundwater remediation
+    - Hexavalent chromium
+    - In situ bioremediation
+    - In situ chemical reduction
+    - Light non-aqueous phase liquid
+    - Metal toxicity
+    - Microbial biodegradation
+    - Nanotoxicology
+    - Natural attenuation
+    - Pesticide
+    - Pesticide degradation
+    - Phytotoxicity
+    - Pneumatic fracturing
+    - Sustainable remediation
+    - Thermal desorption
+    - Total petroleum hydrocarbon
+    - Vapor intrusion
+    target: 55
+    candidates:
+    - Biofilter
+    - GIS in environmental contamination
+    - In situ chemical reduction
+    - NASA Clean Air Study
+    - Nitrate in the Mississippi River Basin
+    - Land rehabilitation
+    - Landfill leachate
+    - Pesticide
+    share: 0.0333
+  - key: soils-and-human-health
+    title: Soils and human health
+    seeds:
+    - Biofortification
+    - Burkholderia pseudomallei
+    - Chronic wasting disease
+    - Coccidioidomycosis
+    - Geophagia
+    - Hygiene hypothesis
+    - Iodine deficiency
+    - Itai-itai disease
+    - Keshan disease
+    - Medical geology
+    - Melioidosis
+    - Mycobacterium vaccae
+    - One Health
+    - Podoconiosis
+    - Prion
+    - Selenium deficiency
+    - Soil-transmitted helminthiasis
+- key: hist
+  title: History, people and frontiers
+  chapters:
+  - key: paleopedology-and-soil-dating
+    title: Paleopedology and soil dating
+    seeds:
+    - Bomb pulse
+    - Clumped isotopes
+    - Cosmogenic nuclide
+    - Geochronology
+    - Isotopes of beryllium
+    - Isotopes of lead
+    - Luminescence dating
+    - Marine isotope stages
+    - Optically stimulated luminescence
+    - Palynology
+    - Radiocarbon dating
+    - Rhizolith
+    - Silurian-Devonian Terrestrial Revolution
+    - Surface exposure dating
+    - Tephrochronology
+    - Thermoluminescence dating
+    - Δ13C
+  - key: forensic-and-archaeological-soil-science
+    title: Forensic and archaeological soil science
+    seeds:
+    - Celtic field
+    - Cropmark
+    - Environmental DNA
+    - Forensic anthropology
+    - Forensic geology
+    - Forensic palynology
+    - Geoarchaeology
+    - Geophysical survey (archaeology)
+    - Law of superposition
+    - Magnetometer
+    - Midden
+    - Raised field
+    - Ridge and furrow
+    - Soil mark
+    - Stratigraphy (archaeology)
+    - Taphonomy
+    - Trace evidence
+  - key: history-of-soil-science
+    title: History of soil science
+    seeds:
+    - History of soil science
+    - The Formation of Vegetable Mould Through the Action of Worms
+    - International Year of Soils
+    - World Congress of Soil Science
+    - World Soil Museum
+    - V.V. Dokuchaev Central Museum of Soil
+    - Park Grass Experiment
+    - Agricultural chemistry
+    - Long-term experiment
+    - Martinus Beijerinck
+    - Virgin Lands campaign
+    target: 20
+    candidates:
+    - Turbah Karbala
+    - Turkish Foundation for Combating Soil Erosion
+    - Cimolian earth
+    - Levant bole
+    - Salting the earth
+    share: 0.0121
+  - key: founders-and-pioneers
+    title: Founders and pioneers
+    seeds:
+    - Vasily Dokuchaev
+    - Friedrich Albert Fallou
+    - Justus von Liebig
+    - Eugene W. Hilgard
+    - Konstantin Glinka
+    - Curtis F. Marbut
+    - Hans Jenny (pedologist)
+    - Albert Atterberg
+    - Peter Erasmus Müller (forester)
+    - Sergei Winogradsky
+    - Martinus Beijerinck
+    - Selman Waksman
+    - Hugh Hammond Bennett
+    - Franklin Hiram King
+    - Cyril G. Hopkins
+    - Lorenzo A. Richards
+    - Guy D. Smith
+    - Roy W. Simonson
+    - Rattan Lal
+    - Carl Sprengel
+    - Jean-Baptiste Boussingault
+    - John Bennet Lawes
+    - Lorenz Hiltner
+    - Albert Bernhard Frank
+    - Albrecht Thaer
+    - Bernard Keen
+    - Charles Darwin
+    - Edgar Buckingham
+    - Edmund Ruffin
+    - Francis D. Hole
+    - Joseph Henry Gilbert
+    - Konstantin Gedroits
+    - Nicolas Théodore de Saussure
+    - Thomas Lyttleton Lyon
+    target: 26
+    candidates:
+    - Abdul Karim (soil scientist)
+    - Albert Schatz (scientist)
+    - Cynthia Grant (soil scientist)
+    - Edmund Ruffin
+    - Elaine Ingham
+    - Emil Truog
+    - Joseph Dixon (soil scientist)
+    - Neal Menzies
+    - William Albrecht
+    - A. Q. M. Bazlul Karim
+    - Alina Kabata-Pendias
+    - Andrew Colin McClung
+    - Bernard Keen
+    - Bohdan Dobrzański
+    - C. Fred Bentley
+    - C. Vernon Cole
+    - Constantine Campbell
+    - Ehrenfried Pfeiffer
+    - Ellen Kandeler
+    - Ethel K. Allen
+    - Fabio Terribile
+    - Francis D. Hole
+    - Georg Wiegner
+    - George Demas
+    - George Nelson Coffey
+    - Harald Bergseth
+    - Heather McNairn
+    - Henry Granger Knight
+    - Hjalmar Uggla
+    - Humberto Monserrate Anselmi
+    - James Arthur Prescott
+    - John Catt
+    - John D. Hamaker
+    - John McCraw
+    - John Mortvedt
+    - Juraj Hraško
+    - Kamrun Nahar
+    - Ludwig Meyn
+    - Maja Krzic
+    - Mary C. Baltz
+    - Mary K. Firestone
+    - Nathaniel Shaler
+    - Nico van Breemen
+    - Nikolai Krasilnikov (microbiologist)
+    - Norman Taylor (scientist)
+    - Pedro A. Sanchez
+    - Peter Bullock (scientist)
+    - Peter Smith (biologist)
+    - Ravi Naidu
+    - Richard McDowell
+    - S. M. Ullah
+    - Saturnin Zawadzki
+    - Sergey Kravkov (agronomist)
+    - Thomas J. Goreau
+    - Thomas Lyttleton Lyon
+    - Victor A. Tiedjens
+    - Zhang Jiabao
+    - Zhao Qiguo
+    share: 0.0157
+  - key: societies-institutes-and-journals
+    title: Societies, institutes and journals
+    seeds:
+    - International Union of Soil Sciences
+    - Soil Science Society of America
+    - International Soil Reference and Information Centre
+    - Natural Resources Conservation Service
+    - National Cooperative Soil Survey
+    - Rothamsted Research
+    - European Soil Bureau Network
+    - International Humic Substances Society
+    - International Committee on Anthropogenic Soils
+    - Soil Science Society of America Journal
+    target: 13
+    candidates:
+    - Earth Rover Program
+    - International Society for Soil Mechanics and Geotechnical Engineering
+    - Permafrost and Periglacial Processes
+    - Soil Association
+    - Soil Bureau
+    - Soil Resource Development Institute
+    - American Society of Agronomy
+    - Center for Biofilm Engineering
+    - Crop Science Society of America
+    - Cửu Long Delta Rice Research Institute
+    - Japanese Geotechnical Society
+    - Jennifer Harden
+    - Landsupport
+    - Levington Research Station
+    - Lyman James Briggs
+    - Nil Ratan Dhar
+    - Whendee Silver
+    share: 0.0079
+  - key: soils-beyond-earth
+    title: Soils beyond Earth
+    seeds:
+    - Astropedology
+    - Lunar regolith
+    - Martian regolith
+    - Lunar regolith simulant
+    - Martian regolith simulant
+    - Space weathering
+    - Impact gardening
+    - Lunarcrete
+    - In situ resource utilization
+    - Mars sample-return mission
+    - Plants in space
+    - Viking lander biological experiments
+    target: 14
+    candidates: []
+    share: 0.0085

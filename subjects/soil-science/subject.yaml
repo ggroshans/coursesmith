@@ -1,0 +1,248 @@
+slug: soil-science
+title: Soil Science
+short: soil
+description: >-
+  Soil science from the ground up: what soil is, how it forms, its physics, chemistry and life, how it is
+  classified, how it feeds plants, how water moves and erodes it, how farmers manage it, and what it means
+  for the environment and the climate. Ordered from foundational to advanced, sourced from Wikipedia.
+seeds: [Soil science, Soil]
+hubs:
+  navboxes: [Template:Soil science topics]
+  index: Index of soil-related articles
+  vital: [Wikipedia:Vital articles/Level 4/Physical sciences#Pedology,
+          Wikipedia:Vital articles/Level 5/Physical sciences/Earth science#Soil science]
+  wikiproject: Soil
+categories:
+  roots: [Category:Soil science]
+  depth: 2
+  exclude: [Category:Soil scientists, Category:Soil science journals, Category:Soil by country,
+            Category:Fertilizer companies, Category:Fictional characters with earth or stone abilities,
+            Category:Sample return missions, Category:Geophagia, Category:Superfund sites]
+scope:
+  include_terms: [soil, pedo, humus, loam, clay, silt, horizon, weathering, erosion, fertility, tillage]
+  exclude_terms: [company, university, award, fictional, song, album]
+  # Short descriptions that mark a page as outside the course (people other than founders, books, bodies,
+  # places, software, single microbial taxa). Founders are pinned in the frame, so they stay in.
+  exclude_desc: [book, city in, town in, organisation, organization, government agency, non-profit, foundation,
+                 board, commission, institute, model, software, family of bacteria, genus of bacteria,
+                 species of bacteria, family of woodlice, soil scientist, pedologist, microbiologist, educationist,
+                 politician, historian, chemist, engineering technique, wastewater, trademark, used to treat]
+# per_unit is the unit size; the course runs as many units as the entries need. No entry target: every
+# entry that passes the curriculum test is kept.
+targets: {per_unit: [4, 5]}
+ordering: pedagogical
+edition: {images: true, questions: true, proportional_clock: false}
+verification:
+  works: openalex
+  authorities:
+    # Live: the Soil Survey Manual's chapter on soil properties (texture, structure, consistence), the soil
+    # survey glossary, the Keys to Soil Taxonomy and the WRB (both only for Classification entries: a long manual
+    # matched against every entry gives false numeric hits). Pending (no fetcher): SoilGrids, which is a dataset.
+    - name: USDA NRCS Soil Survey Manual
+      kind: classification
+      fetcher: text_reference
+      urls: [https://www.nrcs.usda.gov/sites/default/files/2022-09/SSM-ch3.pdf]
+    - name: USDA NRCS soil survey glossary
+      kind: classification
+      fetcher: text_reference
+      urls: [https://www.nrcs.usda.gov/sites/default/files/2022-08/A_Glossary_of_Terms_Used_in_Soil_Survey_and_Classification.pdf]
+    - name: USDA NRCS Keys to Soil Taxonomy
+      kind: classification
+      fetcher: text_reference
+      kinds: [Classification]
+      urls: [https://www.nrcs.usda.gov/sites/default/files/2022-09/Keys-to-Soil-Taxonomy.pdf]
+    - name: IUSS World Reference Base for Soil Resources
+      kind: classification
+      fetcher: text_reference
+      kinds: [Classification]
+      urls: [https://www.isric.org/sites/default/files/WRB_fourth_edition_2022-12-18.pdf]
+    - {name: ISRIC SoilGrids, kind: numeric}
+
+# Hints for `frame build`. A hint matches the start of a word in the title (x3) or the short description (x2),
+# or a whole word in a category (x1); "~x" matches anywhere, "x$" only the whole word. `seeds` pin articles to
+# a chapter. The draft is reviewed by hand before the main crawl.
+frame:
+  foundations: [Soil, Mineral, Weathering, Clay, Soil pH, Soil organic matter, Soil horizon, Soil texture,
+                Soil science, Pedology, Edaphology, Pedosphere]
+  navbox_skip: [Related fields, See also]
+  drop_category_prefixes: ["Symbols of "]
+  navbox_parts:
+    Main fields: found
+    Applications: agri
+    "Societies, Initiatives": hist
+    Scientific journals: hist
+    World Reference Base for Soil Resources (1998–): class
+    USDA soil taxonomy: class
+    Other systems: class
+    Non-systematic soil types: class
+    Soil on bodies other than Earth: hist
+  parts:
+    - key: found
+      title: Foundations
+      foundations: true
+      chapters:
+        - title: What soil is
+          seeds: [Soil, Pedosphere, Soil science, Pedology, Edaphology]
+        - title: What soil is made of
+          seeds: [Mineral, Clay, Soil organic matter, Soil texture, Weathering]
+        - title: Reading a soil
+          seeds: [Soil horizon, Soil pH]
+    - key: form
+      title: Soil formation and the pedosphere
+      hints: [soil formation, pedogenesis, parent material, regolith, saprolite, bedrock, horizon, soil profile,
+              soil morphology, illuviation, eluviation, podzolization, laterization, gleying, pedodiversity,
+              soil color, catena, chronosequence, paleosol, pedoturbation, cryoturbation, hardpan, solum,
+              leaching, lessivage, biomantle]
+      chapters:
+        - title: How soils form
+          hints: [soil formation, pedogenesis, podzolization, laterization, calcification, pedoturbation,
+                  chronosequence, catena, biorhexistasy, biomantle, leaching, lessivage, ferrallitisation]
+        - title: Weathering and parent material
+          hints: [weathering, parent material, regolith, saprolite, bedrock, loess, alluvium, colluvium, eluvium]
+        - title: Horizons and the soil profile
+          hints: [horizon, soil profile, topsoil, subsoil, hardpan, duripan, fragipan, claypan, illuviation,
+                  eluviation, soil morphology, soil color, solum, cryoturbation, redoximorphic]
+        - title: Old and buried soils
+          hints: [paleosol, buried, relict, soil memory]
+    - key: phys
+      title: Soil physics
+      hints: [soil physics, texture, soil structure, particle, grain size, sand, silt, loam, gravel, aggregate,
+              ped$, peds$, bulk density, porosity, pore, compaction, consistency, atterberg, plasticity, shrink,
+              swell, expansive, soil crust, soil mechanics, soil temperature, thermal, frost, aeration, soil gas]
+      chapters:
+        - title: Soil texture and structure
+          hints: [texture, particle, grain size, sand$, sandy, silt, loam, gravel, soil structure, aggregate,
+                  ped$, peds$, soil crust, tilth, consistency, atterberg, plasticity, shrink, swell, expansive,
+                  cracking, flocculation, dispersion, physical properties of soil]
+        - title: "Density, pores and compaction"
+          hints: [bulk density, porosity, pore, compaction, void ratio, soil mechanics, consolidation, shear,
+                  overburden, stress distribution, quick condition, quicksand, thixotropy, angle of repose]
+        - title: Soil temperature and air
+          hints: [soil temperature, thermal, frost, aeration, soil gas, soil respiration, needle ice]
+    - key: chem
+      title: Soil chemistry
+      hints: [soil chemistry, cation, anion, exchange, acid, alkal, salin, sodic, sodium, redox, buffer,
+              clay mineral, kaolinite, smectite, montmorillonite, illite, vermiculite, chlorite, allophane,
+              sesquioxide, colloid, adsorption, chelat, carbonate, gypsum, sulfate, sulfide, base-richness,
+              humic substance]
+      chapters:
+        - title: Clay minerals and colloids
+          hints: [clay mineral, kaolinite, smectite, montmorillonite, illite, vermiculite, chlorite, allophane,
+                  colloid, oxide, sesquioxide, fuller's earth]
+        - title: Charge and nutrient holding
+          hints: [cation, anion, exchange, adsorption, sorption, chelat, buffer, base saturation, base-richness,
+                  humic substance, humin]
+        - title: "Acidity, alkalinity and salinity"
+          hints: [acid, alkal, salin, sodic, sodium, lime, gypsum, gypcrust, caliche, carbonate, calcareous,
+                  sulfate, sulfide, saline]
+        - title: Redox and soil chemistry
+          hints: [redox, reduction, oxidation, manganese, soil chemistry, geochemistry, laterite]
+    - key: bio
+      title: Soil biology
+      hints: [soil biology, soil ecology, soil zoology, soil microbiology, microb, bacteri, fung, mycorrhiza,
+              earthworm, nematode, arthropod, fauna, rhizosphere, root$, roots$, root system, organism, biota,
+              humus, decomposition, plant litter, detritus, organic matter, biofilm, microbiome, soil enzyme,
+              bioturbation, protozoa, termite, soil food web, biodiversity]
+      chapters:
+        - title: Life in the soil
+          hints: [soil biology, soil ecology, soil zoology, soil microbiology, microb, bacteri, fung, earthworm,
+                  nematode, arthropod, fauna, biota, organism, protozoa, termite, bioturbation, soil food web,
+                  biodiversity, biofilm, soil enzyme, drilosphere]
+        - title: Roots and the rhizosphere
+          hints: [root$, roots$, root system, rhizosphere, mycorrhiza, nodule, symbio, plant–soil feedback]
+        - title: "Organic matter, humus and decomposition"
+          hints: [humus, decomposition, plant litter, detritus, organic matter, humic, mull, mor$, moder$,
+                  particulate organic]
+    - key: class
+      title: Classification and taxonomy
+      hints: [soil classification, taxonomy, soil type, reference base, "~sol", podzol, chernozem, rendzina,
+              soil series, soil order, pedon, gley]
+      chapters:
+        - title: Classification systems
+          hints: [soil classification, taxonomy, reference base, soil series, pedon, soil type,
+                  classification system]
+        - title: USDA soil orders
+          hints: [alfisol, andisol, aridisol, entisol, gelisol, histosol, inceptisol, mollisol, oxisol, spodosol,
+                  ultisol, vertisol]
+        - title: World Reference Base soil groups
+          hints: [acrisol, alisol, andosol, anthrosol, arenosol, calcisol, cambisol, chernozem, cryosol, durisol,
+                  ferralsol, fluvisol, gleysol, gypsisol, kastanozem, leptosol, lixisol, luvisol, nitisol,
+                  phaeozem, planosol, plinthosol, podzol, regosol, retisol, solonchak, solonetz, stagnosol,
+                  technosol, umbrisol, albeluvisol]
+        - title: Other soil types
+          hints: [terra rossa, terra preta, rendzina, ranker, brown earth, stagnogley, serpentine soil,
+                  brickearth, dark earth, plaggen, subaqueous, hydrophobic, duplex soil, peat]
+    - key: fert
+      title: Fertility and plant nutrition
+      hints: [soil fertility, fertili, nutrient, nitrogen, phosphorus, potassium, manure, compost,
+              plant nutrition, micronutrient, soil test, deficiency, liming, nitrification, mineralization,
+              immobilization, amendment, biochar, urea]
+      chapters:
+        - title: Nutrients and plant nutrition
+          hints: [nutrient, plant nutrition, micronutrient, deficiency, soil fertility, soil test, bioavailab]
+        - title: Nutrient cycles
+          hints: [nitrogen cycle, phosphorus cycle, sulfur cycle, nitrification, denitrification,
+                  mineralization, immobilization, nitrogen fixation, cycle]
+        - title: "Fertilizers, manures and amendments"
+          hints: [fertili, manure, compost, amendment, liming, urea, biochar, soil conditioner, night soil]
+    - key: water
+      title: "Water, erosion and landscape"
+      hints: [soil water, soil moisture, moisture, infiltration, drainage, hydraulic, permeab, groundwater,
+              runoff, evapotranspiration, field capacity, wilting, erosion, sediment, landslide, gully, rill,
+              aeolian, dust$, deposition, landscape, geomorphology, wetland, hydric, waterlog, hydropedology,
+              water retention, water potential, darcy]
+      chapters:
+        - title: Water in soil
+          hints: [soil water, soil moisture, moisture, infiltration, drainage, hydraulic, permeab, field capacity,
+                  wilting, matric, capillar, evapotranspiration, water retention, water potential, darcy,
+                  hydropedology, throughflow, macropore, water content]
+        - title: Erosion and sediment
+          hints: [erosion, sediment, gully, rill, aeolian, dust$, landslide, runoff, deposition, creep, dust bowl]
+        - title: Soils in the landscape
+          hints: [landscape, geomorphology, wetland, hydric, waterlog, floodplain, bog, fen, marsh, swamp, muskeg]
+    - key: agri
+      title: Agriculture and management
+      hints: [agricultur, tillage, till$, plough, plow, crop, irrigation, soil conservation, soil management,
+              cover crop, no-till, terrace, farming, agronomy, soil survey, grazing, horticulture, potting,
+              growing medium, precision agriculture, soil stabilization, land reclamation]
+      chapters:
+        - title: Tillage and cultivation
+          hints: [tillage, till$, plough, plow, cultivat, no-till, strip-till, seedbed]
+        - title: Soil conservation
+          hints: [soil conservation, cover crop, terrace, contour, windbreak, mulch, erosion control]
+        - title: Soil survey and land evaluation
+          hints: [soil survey, soil map, land evaluation, land capability, prime farmland, soil value]
+        - title: Farming systems and growing media
+          hints: [crop, farming, agronomy, irrigation, grazing, horticulture, potting, growing medium, hydroponic,
+                  precision agriculture, agricultural soil science]
+    - key: env
+      title: Environmental soil science and climate
+      hints: [contamina, pollut, remediation, degradation, desertification, soil carbon, carbon sink,
+              sequestration, climate, greenhouse, methane, nitrous, permafrost, soil health, soil quality,
+              sealing, urban, landfill, heavy metal, pesticide, salinization, acidification, guideline value,
+              governance, environmental soil science, soil resilience, soil functions]
+      chapters:
+        - title: Soil carbon and climate
+          hints: [soil carbon, carbon sink, sequestration, climate, greenhouse, methane, nitrous, permafrost,
+                  active layer, yedoma, talik]
+        - title: Degradation and desertification
+          hints: [degradation, desertification, salinization, sealing, acidification, land degradation,
+                  land consumption, retrogression]
+        - title: Contamination and remediation
+          hints: [contamina, pollut, remediation, landfill, heavy metal, pesticide, guideline value]
+        - title: Soil health and protection
+          hints: [soil health, soil quality, governance, policy, urban, environmental soil science,
+                  soil resilience, soil functions, regeneration]
+    - key: hist
+      title: "History, people and frontiers"
+      history: true
+      hints: [history of, dust bowl, lunar, martian, extraterrestrial, astropedology, museum]
+      chapters:
+        - title: History of soil science
+          hints: [history, dust bowl, museum, year of soils, congress]
+        - title: Founders and pioneers
+          hints: [scientist, pedologist, agronomist, chemist, geologist, biologist, microbiologist, naturalist]
+        - title: "Societies, institutes and journals"
+          hints: [society, journal, institute, union, centre, center, association, bureau, survey, research]
+        - title: Soils beyond Earth
+          hints: [lunar, martian, extraterrestrial, astropedology, regolith]

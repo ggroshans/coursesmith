@@ -1,0 +1,2437 @@
+{
+"Seaweed farming": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sebacinales": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Secondary flow": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Secondary forest": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Secondary metabolite": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Secondary treatment": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Secretion": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Sedentaria": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Sediment gravity flow": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sediment quality triad": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Sediment trap": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sediment trap (geology)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sedimentary basin": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sedimentary exhalative deposits": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sedimentary rock": {
+"v": "support",
+"ch": "weathering-and-parent-material",
+"why": "common soil parent material rock type"
+},
+"Sedimentary structures": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sedimentation": {
+"v": "support",
+"ch": "erosion-and-sediment",
+"why": "settling of eroded particles; basis of texture analysis"
+},
+"Sedimentation (water treatment)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sedimentation enhancing strategy": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Sedimentology": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sediment–water interface": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Seed": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Seed dispersal": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Seed drill": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Seedling": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Seep": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Segmented regression": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Seismic wave": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Seismology": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Seitz (soil)": {
+"v": "out",
+"why": "single named soil series"
+},
+"Selective catalytic reduction": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Selenium": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Semantic change": {
+"v": "out",
+"why": "overlaps soil science only by a word"
+},
+"Semi-arid climate": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Semicircular bund": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Semiconductor": {
+"v": "out",
+"why": "overlaps soil science only by a word"
+},
+"Semiconductor device": {
+"v": "out",
+"why": "overlaps soil science only by a word"
+},
+"Semiochemical": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Semipermeable membrane": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Senescence": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sepsis": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sergei Winogradsky": {
+"v": "in",
+"ch": "founders-and-pioneers",
+"why": "founder of soil microbiology, chemoautotrophy"
+},
+"Sergey Kravkov (agronomist)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sericite": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Serine": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Serpentine subgroup": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Serpentinite": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Serpulidae": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Serratia marcescens": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Sessility (motility)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Settling": {
+"v": "out",
+"why": "duplicates sedimentation; general physics"
+},
+"Sewage": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Sewage sludge": {
+"v": "in",
+"ch": "fertilizers-manures-and-amendments",
+"why": "biosolids applied to land as amendment"
+},
+"Sewage sludge treatment": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sewerage": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sexual reproduction": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Sexual revolution": {
+"v": "out",
+"why": "overlaps soil science only by a word"
+},
+"Shaanxi": {
+"v": "out",
+"why": "place or region"
+},
+"Shale": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Shale gas": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Shallow water marine environment": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Shared Socioeconomic Pathways": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sharp sand": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Shear band": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Shear force": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Shear modulus": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Shear strength": {
+"v": "support",
+"ch": "density-pores-and-compaction",
+"why": "soil shear strength underlies compaction and stability"
+},
+"Shear stress": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Shear thinning": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Shear vane test": {
+"v": "out",
+"why": "single test device"
+},
+"Shearing (physics)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sheep": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Sheet mulching": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Shellfish": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Shepherdia": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Shewanella": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Shewanella oneidensis": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Shifting cultivation": {
+"v": "in",
+"ch": "farming-systems-and-growing-media",
+"why": "traditional farming system tied to soil fertility"
+},
+"Shoal": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Shoot (botany)": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Shortgrass prairie": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Shotcrete": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Shovel": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Shrawan Danda": {
+"v": "out",
+"why": "place or region"
+},
+"Shrub": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Shrubland": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Siberia": {
+"v": "out",
+"why": "place or region"
+},
+"Sicily": {
+"v": "out",
+"why": "place or region"
+},
+"Siderite": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sidewalk": {
+"v": "out",
+"why": "overlaps soil science only by a word"
+},
+"Siege": {
+"v": "out",
+"why": "overlaps soil science only by a word"
+},
+"Siemens (unit)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sieve": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Signal transduction": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sikkim": {
+"v": "out",
+"why": "place or region"
+},
+"Silage": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Silent Spring": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Silicate": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Silicate mineral": {
+"v": "support",
+"ch": "what-soil-is-made-of",
+"why": "primary minerals that make up soil"
+},
+"Siliceous ooze": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Siliceous soil": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Silicic acid": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Siliciclastic": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Silicification": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Silicon": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Silicon dioxide": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Silicon isotope biogeochemistry": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Silicosis": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Silo": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Siltation": {
+"v": "in",
+"ch": "erosion-and-sediment",
+"why": "sediment pollution from soil erosion"
+},
+"Siltstone": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Silurian": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Silver": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Silviculture": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Silvopasture": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Simplified Molecular Input Line Entry System": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Simulation": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Simultaneous nitrification–denitrification": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Sindh": {
+"v": "out",
+"why": "place or region"
+},
+"Singing sand": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Sinkhole": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sintering": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Skeleton": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Skin": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Skredkommissionen": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Slag": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Slaking (geology)": {
+"v": "in",
+"ch": "soil-texture-and-structure",
+"why": "aggregate breakdown on wetting"
+},
+"Slash-and-burn agriculture": {
+"v": "in",
+"ch": "farming-systems-and-growing-media",
+"why": "classic agricultural practice affecting soil fertility"
+},
+"Slate": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Slickenside": {
+"v": "in",
+"ch": "horizons-and-the-soil-profile",
+"why": "shear faces diagnostic of vertic soils"
+},
+"Sliding criterion (geotechnical engineering)": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Slime mold": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Slope": {
+"v": "out",
+"why": "overlaps soil science only by a word"
+},
+"Slope stability analysis": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Slovakia": {
+"v": "out",
+"why": "place or region"
+},
+"Slovenia": {
+"v": "out",
+"why": "place or region"
+},
+"Slow sand filter": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sludge": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Slug": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Slurry": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Slurry wall": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Smallholding": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Smelting": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Smithsonian Institution": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Smog": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Snail": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Snake": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Snow": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Snowball Earth": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Snowmelt": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Soap": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Social change": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Social cost": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Social cost of carbon": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Social discount rate": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Social science": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Sociology": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Sod": {
+"v": "out",
+"why": "soil-grass mat for landscaping, minor usage"
+},
+"Sod house": {
+"v": "out",
+"why": "overlaps soil science only by a word"
+},
+"Sod roof": {
+"v": "out",
+"why": "overlaps soil science only by a word"
+},
+"Soda lime": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Sodbuster": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Sodium": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Sodium aluminate": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Sodium bicarbonate": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Sodium carbonate": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Sodium chlorate": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Sodium chloride": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Sodium hydroxide": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Sodium nitrate": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Sodium oxide": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Sodium phenylbutyrate": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Sodium silicate": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Sodium sulfate": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Soil Association": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Soil Biology and Biochemistry": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Soil Bureau": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Soil Dryness Index": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Soil Erosion Service": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Soil Moisture and Ocean Salinity": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Soil Resource Development Institute": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Soil Use Efficiency": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Soil and Water Assessment Tool": {
+"v": "in",
+"ch": "erosion-and-sediment",
+"why": "widely used watershed soil and water model"
+},
+"Soil defertilisation": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Soil in the United States": {
+"v": "out",
+"why": "place or region"
+},
+"Soil nailing": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Soil policy in Victoria": {
+"v": "out",
+"why": "place or region"
+},
+"Soil sloughing": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Soil types in Kerala": {
+"v": "out",
+"why": "place or region"
+},
+"Soil-adjusted vegetation index": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Soil-structure interaction": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Soils, Food and Healthy Communities": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Solar System": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Solar cell": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Solar energy": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Solar irradiance": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Solar power": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Solar wind": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Soldiers Delight Natural Environment Area": {
+"v": "out",
+"why": "place or region"
+},
+"Soledad Canyon Sand and Gravel Mining Project": {
+"v": "out",
+"why": "place or region"
+},
+"Solid": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Solid oxide fuel cell": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Solid solution": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Solid-phase extraction": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Solstice": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Solubility": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Solubility equilibrium": {
+"v": "support",
+"ch": "redox-and-soil-chemistry",
+"why": "mineral dissolution and precipitation in soil solution"
+},
+"Solubility pump": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Solution (chemistry)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Solvation": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Solvent": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Solvent exposure": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sonoma County, California": {
+"v": "out",
+"why": "place or region"
+},
+"Soot": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Sorghum": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Sorting (sediment)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sossusvlei": {
+"v": "out",
+"why": "place or region"
+},
+"Soterml": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Source rock": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"South Africa": {
+"v": "out",
+"why": "place or region"
+},
+"South America": {
+"v": "out",
+"why": "place or region"
+},
+"South Asia": {
+"v": "out",
+"why": "place or region"
+},
+"South Australia": {
+"v": "out",
+"why": "place or region"
+},
+"South Carolina": {
+"v": "out",
+"why": "place or region"
+},
+"South Dakota": {
+"v": "out",
+"why": "place or region"
+},
+"South Flats earthwork site": {
+"v": "out",
+"why": "place or region"
+},
+"South Korea": {
+"v": "out",
+"why": "place or region"
+},
+"Southeast Asia": {
+"v": "out",
+"why": "place or region"
+},
+"Southeastern United States": {
+"v": "out",
+"why": "place or region"
+},
+"Southern Africa": {
+"v": "out",
+"why": "place or region"
+},
+"Southern Europe": {
+"v": "out",
+"why": "place or region"
+},
+"Southern Hemisphere": {
+"v": "out",
+"why": "place or region"
+},
+"Southern Ocean": {
+"v": "out",
+"why": "place or region"
+},
+"Southern United States": {
+"v": "out",
+"why": "place or region"
+},
+"Southwestern United States": {
+"v": "out",
+"why": "place or region"
+},
+"Soviet Union": {
+"v": "out",
+"why": "place or region"
+},
+"Sowing": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Soybean": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Space group": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Space station": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Spacecraft": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Spain": {
+"v": "out",
+"why": "place or region"
+},
+"Spatial heterogeneity": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Special Report on Climate Change and Land": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Special Report on Global Warming of 1.5 °C": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Speciation": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Species": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Species complex": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Species distribution": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Species richness": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Specific heat capacity": {
+"v": "support",
+"ch": "soil-temperature-and-air",
+"why": "governs soil heat storage and warming"
+},
+"Specific replant disease": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Specific surface area": {
+"v": "in",
+"ch": "clay-minerals-and-colloids",
+"why": "surface area of clays controls sorption"
+},
+"Spectral line": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Spectrophotometry": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Speed of sound": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Speleothem": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sperm": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Spermatophore": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Sphagnum": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Sphalerite": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sphere": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Spherical Earth": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Spice": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Spider": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Spillway": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Spinel": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Spit (landform)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Splash (fluid mechanics)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Spodden Valley asbestos controversy": {
+"v": "out",
+"why": "place or region"
+},
+"Sponge": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Sponge spicule": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Spontaneous generation": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Spore": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sporobolus alterniflorus": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Sporocarp (fungus)": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Spreading ground": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Spring (hydrology)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Spring-tooth harrow": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Spruce": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Sputtering": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Square metre": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Sri Lanka": {
+"v": "out",
+"why": "place or region"
+},
+"Stabilized soil mixing plant": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Stable isotope": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Stable isotope ratio": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Stacking (chemistry)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Stainless steel": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Stalactite": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Stamicarbon": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Standard Uptake Fraction": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Standard atmosphere (unit)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Standard atomic weight": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Standard hydrogen electrode": {
+"v": "support",
+"ch": "redox-and-soil-chemistry",
+"why": "reference for soil redox potential"
+},
+"Standard molar entropy": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Standard of living": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Standard penetration test": {
+"v": "out",
+"why": "single test device"
+},
+"Standard state": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Standard temperature and pressure": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Staphylococcus": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Staphylococcus aureus": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Staple food": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Star": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Star sand": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Starch": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"State of matter": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Statistics": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Steady state": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Steam": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Steam engine": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Steam reforming": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Steel": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Steelmaking": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Steppe": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sterilization (microbiology)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sterling B. Hendricks": {
+"v": "out",
+"why": "person, not a founder of soil science"
+},
+"Stern Review": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Steroid": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Stiffness": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Stochastic": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Stock market": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Stockholm": {
+"v": "out",
+"why": "place or region"
+},
+"Stockholm Convention on Persistent Organic Pollutants": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Stoichiometry": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Stokes flow": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Stokes's law": {
+"v": "support",
+"ch": "soil-texture-and-structure",
+"why": "settling law behind particle-size analysis"
+},
+"Stolon": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Stoma": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Stomach": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Stomatal conductance": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Stone line": {
+"v": "in",
+"ch": "horizons-and-the-soil-profile",
+"why": "subsurface stone layer in soil profiles"
+},
+"Stonehenge": {
+"v": "out",
+"why": "place or region"
+},
+"Storm": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Storm drain": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Storm surge": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Stormwater harvesting": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Strain (biology)": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Strain (mechanics)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Stranded asset": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Stratified slope deposit": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Stratigraphy": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Stratosphere": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Stratum": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Straw checkerboard": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Strawberry": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Streak (mineralogy)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Stream": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Stream bed": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Stream restoration": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Streamflow": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Strength of materials": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Streptomyces": {
+"v": "in",
+"ch": "life-in-the-soil",
+"why": "dominant soil actinomycete genus, gives soil smell"
+},
+"Streptomyces roseoviolaceus": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Streptomycin": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Stress (mechanics)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Stress–strain curve": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Strigolactone": {
+"v": "support",
+"ch": "roots-and-the-rhizosphere",
+"why": "root signal recruiting mycorrhizal fungi"
+},
+"Stroke": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Stromatolite": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Strontium": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Strontium sulfate": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Structural Soil": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Structural dynamics": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Structural engineering": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Structural geology": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Structural integrity and failure": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Structural load": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Structural stability": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Structure": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Strychnine": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Stubble burning": {
+"v": "in",
+"ch": "tillage-and-cultivation",
+"why": "crop residue burning practice affecting soil organic matter"
+},
+"Stubble-mulching": {
+"v": "in",
+"ch": "tillage-and-cultivation",
+"why": "residue-retaining conservation tillage"
+},
+"Sturzstrom": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Stuttgart (soil)": {
+"v": "out",
+"why": "single named soil series"
+},
+"Stylonychia": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Styrene": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Suaeda": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Sub-Cambrian peneplain": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Sub-Saharan Africa": {
+"v": "out",
+"why": "place or region"
+},
+"Subarctic": {
+"v": "out",
+"why": "place or region"
+},
+"Subarctic climate": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Subdivision (land)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Subduction": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Subgrade": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Subirrigation": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Sublimation": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Submarine volcano": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Submersion (coastal management)": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Subphylum": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Subsidy": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Subsistence agriculture": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Substance (chemistry)": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Substrate (biology)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Substrate (chemistry)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Subsurface flow": {
+"v": "support",
+"ch": "water-in-soil",
+"why": "lateral water movement through soil"
+},
+"Subtropics": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Suburb": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Succinic acid": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Succulent plant": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Sucrose": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Suction": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sudan": {
+"v": "out",
+"why": "place or region"
+},
+"Suffolk": {
+"v": "out",
+"why": "place or region"
+},
+"Sugar": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Sugar beet": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Sugar sand": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Sugarcane": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Suillus": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Suillus tomentosus": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Sulfammox": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Sulfate": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Sulfide": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Sulfide intrusion": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Sulfide mineral": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sulfite": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Sulfur": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Sulfur dioxide": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Sulfur-reducing bacteria": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Sulfuric acid": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Sumatra": {
+"v": "out",
+"why": "place or region"
+},
+"Sumer": {
+"v": "out",
+"why": "place or region"
+},
+"Summer solstice": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Sun": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Sundarbans": {
+"v": "out",
+"why": "place or region"
+},
+"Sunlight": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Suo (journal)": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Superadobe": {
+"v": "out",
+"why": "overlaps soil science only by a word"
+},
+"Supercontinent": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Supercritical fluid": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Superficial velocity": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Superfund": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Supergene (geology)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Superoxide": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Surface area": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Surface mining": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Surface science": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Surface tension": {
+"v": "support",
+"ch": "water-in-soil",
+"why": "drives capillarity and soil water retention"
+},
+"Surface water": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Surfactant": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Suriname": {
+"v": "out",
+"why": "place or region"
+},
+"Suru Suursoo": {
+"v": "out",
+"why": "place or region"
+},
+"Surveying": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Surveyor program": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Suspended load": {
+"v": "support",
+"ch": "erosion-and-sediment",
+"why": "how eroded soil travels in streams"
+},
+"Suspended solids": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Suspension (chemistry)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sustainability": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Sustainable Development Goal 14": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Sustainable Development Goal 15": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Sustainable Development Goals": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Sustainable agriculture": {
+"v": "in",
+"ch": "farming-systems-and-growing-media",
+"why": "farming approach centered on maintaining soil"
+},
+"Sustainable development": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Sustainable energy": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Sustainable food system": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Sustainable remediation": {
+"v": "in",
+"ch": "contamination-and-remediation",
+"why": "framework for remediating contaminated land"
+},
+"Swale (landform)": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Swamp Land Act of 1850": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Sweden": {
+"v": "out",
+"why": "place or region"
+},
+"Swedish language": {
+"v": "out",
+"why": "overlaps soil science only by a word"
+},
+"Sweet corn": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Sweet potato": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Swimming pool": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Switzerland": {
+"v": "out",
+"why": "place or region"
+},
+"Sydney": {
+"v": "out",
+"why": "place or region"
+},
+"Syenite": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Syllable": {
+"v": "out",
+"why": "overlaps soil science only by a word"
+},
+"Sylvite": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Symbiosis": {
+"v": "support",
+"ch": "life-in-the-soil",
+"why": "basis of mycorrhizae and nitrogen-fixing nodules"
+},
+"Symbiosome": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Symphyla": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Synergy": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Synesius": {
+"v": "out",
+"why": "person, not a founder of soil science"
+},
+"Syngas": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Syngenta": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Synonym (taxonomy)": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Synthetic fiber": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Syntrophy": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Syria": {
+"v": "out",
+"why": "place or region"
+},
+"System": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Systemic acquired resistance": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Systems theory": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Systems thinking": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Sławomir Miklaszewski": {
+"v": "out",
+"why": "person, not a founder of soil science"
+},
+"TDR moisture sensor": {
+"v": "in",
+"ch": "water-in-soil",
+"why": "standard method for measuring soil moisture"
+},
+"TNT": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"TSI slant": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Table tennis": {
+"v": "out",
+"why": "overlaps soil science only by a word"
+},
+"Taenite": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Tagus": {
+"v": "out",
+"why": "place or region"
+},
+"Taiga": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Tailings": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Taiwan": {
+"v": "out",
+"why": "place or region"
+},
+"Talc": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Tallgrass prairie": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Tamarind": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Tamil Nadu": {
+"v": "out",
+"why": "place or region"
+},
+"Tanana (soil)": {
+"v": "out",
+"why": "single named soil series"
+},
+"Tannin": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Tanning (leather)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Tantalum": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Tanzania": {
+"v": "out",
+"why": "place or region"
+},
+"Taphonomy": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Taproot": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Tar": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Taraxacum": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Tardigrade": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Tariff": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Tartaric acid": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Tasmania": {
+"v": "out",
+"why": "place or region"
+},
+"Taurine": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Taxon": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Taxonomy (biology)": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Taxus": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Tea": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Technetium": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Technology": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Tecla house": {
+"v": "out",
+"why": "overlaps soil science only by a word"
+},
+"Tectonic subsidence": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Tectonic uplift": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Tectonics": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Teichoic acid": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Tektite": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Tellurium": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Temperate broadleaf and mixed forests": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Temperate climate": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Temperate coniferous forest": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Temperate forest": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Temperate rainforest": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Temperateness (virology)": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Temperature": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Temperature gradient": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Temple": {
+"v": "out",
+"why": "overlaps soil science only by a word"
+},
+"Tenacity (mineralogy)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Tennessee": {
+"v": "out",
+"why": "place or region"
+},
+"Tennessine": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Tensor": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Tentacle": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Tephra": {
+"v": "support",
+"ch": "weathering-and-parent-material",
+"why": "volcanic parent material of Andisols"
+},
+"Terbium": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Terminal velocity": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Termite": {
+"v": "in",
+"ch": "life-in-the-soil",
+"why": "major soil ecosystem engineers in tropics"
+},
+"Terpene": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Terpenoid": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Terra fusca": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Terrabacter": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Terrabacter carboxydivorans": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Terrabacter ginsenosidimutans": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Terrabacter tumescens": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Terraforming": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Terrain": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Terrain softening": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Terramechanics": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Terrarium": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Terrestrial animal": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Terrestrial biological carbon cycle": {
+"v": "in",
+"ch": "soil-carbon-and-climate",
+"why": "land carbon cycle including soil carbon"
+},
+"Terrestrial ecosystem": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Terrestrial planet": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Terrestrial plant": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Terrigenous sediment": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Tertiary period": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Test (biology)": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Test method": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Tetanus": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Tetrachloroethylene": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Tetracycline": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Tetragonal crystal system": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Tetrahedral molecular geometry": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Tetrahedron": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Tetrahydrofuran": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Tetrapod": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Texas": {
+"v": "out",
+"why": "place or region"
+},
+"Texas Blackland Prairies": {
+"v": "out",
+"why": "place or region"
+},
+"Texas State Soil and Water Conservation Board": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"Texas panhandle": {
+"v": "out",
+"why": "place or region"
+},
+"Textile": {
+"v": "out",
+"why": "general or broad topic, not soil science"
+},
+"Texture (geology)": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Thailand": {
+"v": "out",
+"why": "place or region"
+},
+"Thalassinidea": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Thallium": {
+"v": "out",
+"why": "chemical element or compound, general chemistry"
+},
+"Thanatophage": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Thar Desert": {
+"v": "out",
+"why": "place or region"
+},
+"The Bahamas": {
+"v": "out",
+"why": "place or region"
+},
+"The Economics of Ecosystems and Biodiversity": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"The Economist": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"The Fens": {
+"v": "out",
+"why": "place or region"
+},
+"The Lacassane Company": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"The Lancet": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"The Living Soil": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"The New York Times": {
+"v": "out",
+"why": "organization, product, book or media"
+},
+"The Sand Reckoner": {
+"v": "out",
+"why": "overlaps soil science only by a word"
+},
+"Thermal blanket": {
+"v": "out",
+"why": "too niche for the course"
+},
+"Thermal conduction": {
+"v": "support",
+"ch": "soil-temperature-and-air",
+"why": "heat transfer mechanism in soil"
+},
+"Thermal conductivity and resistivity": {
+"v": "support",
+"ch": "soil-temperature-and-air",
+"why": "soil thermal property governing heat flow"
+},
+"Thermal desorption": {
+"v": "in",
+"ch": "contamination-and-remediation",
+"why": "thermal remediation of contaminated soil"
+},
+"Thermal energy storage": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Thermal expansion": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Thermal insulation": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Thermal mass": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Thermal oxidation": {
+"v": "out",
+"why": "other field, not needed to follow course"
+},
+"Thermo-mechanical fatigue": {
+"v": "out",
+"why": "other field, not needed to follow course"
+}
+}

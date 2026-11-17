@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.DS_Store
+*.tmp
+
+# shared page cache and build output, both rebuildable
+cache/
+build/
+
+# per-pass scratch folders
+subjects/*/work/tmp/
+subjects/*/work/scope/
+
+# regenerable pass inputs: packets, dossiers and the link graph (pass outputs stay tracked)
+subjects/*/work/**/*.md
+subjects/*/work/graph.json

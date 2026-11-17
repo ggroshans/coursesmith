@@ -1,0 +1,99 @@
+{
+ "entries": {
+  "soil-form-014": {
+   "title": "Horizon suffixes, small letters with big meanings",
+   "text": "One lowercase letter can say what happened in a layer. Horizon suffixes are added to a master symbol to record particular features or soil-forming processes. In the USDA field book, t marks illuvial silicate clay, k pedogenic calcium carbonate, g strong gleying and p a plow layer. Others include b for a buried genetic horizon, f for permanently frozen ground, x for {{ref:soil-form-028}} features and y for gypsum. WRB letters borrow from other languages: k from German Karbonat, t from German Ton, clay, n from natrium and z from Dutch zout, salt. Suffixes combine in order of dominance, as in Btng or Btgb."
+  },
+  "soil-form-015": {
+   "title": "Lithologic discontinuities, numbering a change of material",
+   "text": "Not every profile grew from a single material. A lithologic discontinuity is a change in parent material within a soil profile, shown by a number in front of the horizon symbol. By convention the uppermost material carries no number, and each lower stratum gets 2, 3 and so on, as in Oi-Oe-Ah-E-2Bt-2C-3R. Numbers after a symbol, by contrast, mark subdivisions within a single horizon. Where no discontinuity separates the solum from the C horizon below, that C horizon resembles the solum's parent material."
+  },
+  "soil-form-016": {
+   "title": "Buried horizons, old surfaces under new ground",
+   "text": "Soils are often pictured as forming in place, but burial makes the process far more complicated. Wind- or water-laid sediments can cover a fully formed profile and later form a new profile on top, most commonly in coastal areas. A buried soil horizon is a genetic horizon that formed at the surface and was later covered by new mineral material; it carries the suffix b. Numerical prefixes describe such stacks, as in O, A1, A2, B2, 2A2, 2B21, 2B22, 2C, where the buried profile starts at 2A2. Fossil soil horizons also occur within sedimentary rock sequences, where they record past environments."
+  },
+  "soil-form-013": {
+   "title": "Transitional horizons, where one layer shades into the next",
+   "text": "Some layers belong to two horizons at once. A transitional horizon combines the properties of two master horizons and is written with both capital letters, the dominant one first, as in AB or BA. Where separate bodies of the two are intermingled, a slash joins the symbols, as in A/B or B/A. The WRB writes superimposed horizons without a separator, as in AhBw. It keeps the slash for separate bodies, as in Bt/E, where E material interfingers into a Bt horizon. The Australian A3, B1 and B3 are loosely defined and used at the describer's discretion. I, L and W layers never appear in transitional designations."
+  },
+  "soil-form-028": {
+   "title": "Fragipans, brittle layers that still puzzle soil scientists",
+   "text": "A fragipan holds virtually no roots, yet its air-dry fragments fall apart in water. It is a diagnostic horizon of {{ref:soil-class-006}}: an altered, dense subsurface layer that blocks water and roots. Written Bx or Btx, it limits land use much as the layer in {{ref:soil-form-027}} does. It contains no calcium or magnesium carbonate and does not fizz in dilute HCl. Proposed origins include glacial compaction, frozen ground, physical ripening, inheritance from ancient buried soils, and hydroconsolidation, the collapse of structure under loading and wetting. Soil scientists still debate how fragipans form, how to define them and whether they exist in some landscapes."
+  },
+  "soil-form-022": {
+   "title": "Topsoil by the truckload",
+   "text": "Topsoil is also a product. Commercial topsoil is any soil mixture sold as topsoil: natural topsoil mined and conditioned for use, or a blend manufactured from minerals, {{ref:soil-fert-045}}, compost or paper mill sludge. Buyers use it to improve gardens and lawns, fill containers and grade the ground around buildings, though it suits potting less well than {{ref:soil-agri-028}} or compost. In the UK it must be classified under British Standard BS 3882 (2015), with thresholds for nutrients, phytotoxic elements, particle size, soil organic matter, pH and contamination. The United States has no federal legal definition of it. Low-quality artificial topsoil helped rehabilitate an open-cut coal mine in Victoria, Australia."
+  },
+  "soil-form-005": {
+   "title": "Horizon boundaries, sharp or gradual, smooth or wavy",
+   "text": "Where one horizon ends, a describer records two things. Horizon boundaries are the lower borders of horizons, described by how sharp they are, called distinctness, and how their shape varies sideways, called topography. Distinctness runs from very abrupt and abrupt through clear and gradual to diffuse. Boundaries are often not parallel to the surface and may be broken, so the topography classes are smooth, wavy, irregular and broken. Official series descriptions record them. The Cecil series, for instance, has an abrupt smooth boundary below its Ap horizon and gradual wavy boundaries further down."
+  },
+  "soil-form-020": {
+   "title": "Soil micromorphology, the profile under the microscope",
+   "text": "Some soil features are too small to see with the unaided eye. Soil micromorphology describes, measures and interprets them. Work may begin in the field with a 10x hand lens, but thin sections under a petrographic polarizing microscope reveal far more. A recognized technique for some 50 years, it spread from studies of soil development and ancient buried soils to the soils and sediments of archaeological sites. Micromorphologists have also characterized humus-form horizons on thin soil sections."
+  },
+  "soil-form-027": {
+   "title": "Duripans, subsoil set as hard as concrete",
+   "text": "Duripans form almost only in arid or Mediterranean climates, and they can be as hard as concrete. A duripan is a diagnostic horizon of {{ref:soil-class-006}} in which silica washed down from above has cemented the subsoil into a hardpan. Silica from fast-weathering volcanic glass, feldspars or iron-magnesium minerals precipitates there as microaggregates that grow into a pan. Criteria include cementation of over half the volume, roots only along fractures 10 cm or more apart, and breaking down in KOH but not HCl. That test separates it from fragipans and from the carbonate-cemented layer in {{ref:soil-form-029}}. Its soils are seldom cultivated and serve mostly for grazing or wildlife."
+  },
+  "soil-form-036": {
+   "title": "Ice wedges, cracks that freeze and grow each winter",
+   "text": "An ice wedge is a crack in the ground holding a narrow wedge of ice up to 3–4 meters long at the surface. By the widely accepted thermal contraction theory, winter cold opens cracks a few cm wide that fill with snowmelt, freeze and crack again. A mean annual air temperature of −6 to −8 °C or colder is thought necessary. Epigenetic wedges grow in existing {{ref:soil-env-129}} and widen to 3–5 m. Syngenetic ones grow upward as sediment accumulates and can reach 25 m deep. Where the frozen ground has gone, melted wedges fill with sediment. These casts help estimate climates of hundreds of thousands of years ago."
+  },
+  "soil-form-026": {
+   "title": "Claypans, where water perches and topsoil washes away",
+   "text": "Across about 4 million ha of the central United States, in states such as Kansas, Oklahoma and Illinois, a dense layer of clay lies beneath the fields. A claypan is a compact, slowly permeable subsoil layer with much more clay than the material above, separated from it by a sharp boundary. Bare ground, the mix of grain sizes and heavy rain favor it: raindrops rearrange fine sand, silt and clay until they plug the pores. Its dense structure restricts roots and the entry of water, so water perches on top of it and saturates the soil above. Runoff rises, leaving the organic-rich topsoil highly vulnerable to erosion. Dominated by {{ref:soil-chem-093}}, it shrinks hard in the dry season and turns wet and sticky in the wet season, with poor aeration. It holds much water, but most is unavailable to plants, because the pores are tiny and the water evaporates. Acidic and clay-rich, it binds phosphorus so tightly that much P fertilizer is needed, while its potassium stays available. It also occurs in south-west Queensland."
+  },
+  "soil-found-103": {
+   "title": "Silcrete, the stone early toolmakers heated",
+   "text": "At Pinnacle Point in South Africa, toolmakers were heat-treating silcrete between 60,000 and 80,000 years ago. Silcrete is a hard crust, a kind of {{ref:soil-chem-039}}, formed when surface soil, sand and gravel are cemented by dissolved silica. It forms much as its cousins do: one cemented by calcium carbonate, and one cemented by iron oxide, described in {{ref:soil-form-038}}. Microcrystalline silcretes form in arid settings as pH rises, lacustrine ones where pH falls. It often caps landforms in arid Australia and Africa. Aboriginal Australians and Middle Stone Age Africans prized it for tools, heating it so it flaked more easily, possibly the first use of pyrotechnology."
+  },
+  "soil-form-029": {
+   "title": "Petrocalcic horizons, subsoil cemented by carbonate",
+   "text": "Carbonates typify the alkaline soils of arid and semiarid climates, and a drop of hydrochloric acid makes them fizz. In a petrocalcic horizon, secondary carbonates have cemented the subsoil into a hardpan. It is a diagnostic horizon in {{ref:soil-class-006}} and the WRB. Water carries carbonates from parent material or dust downward, and they precipitate as it evaporates. Over time they build a massive, continuous cemented layer, with or without silica. Roots get through only along vertical fractures 10 cm or more apart. The horizon marks advanced soil evolution in older soils, and most formed before the Holocene."
+  },
+  "soil-form-030": {
+   "title": "Umbric horizons, dark but acid",
+   "text": "Shade is in the name: umbric comes from the Latin umbra. An umbric horizon is a thick, dark, organic-rich surface horizon that is acid and low in bases. It normally has a pH below 5.5 and a {{ref:soil-chem-052}} under 50 percent. WRB criteria include Munsell chroma and value of 3 or less when moist, and at least 0.6% organic carbon. It must be at least 100 mm thick on hard rock, otherwise 200 mm. Roots growing horizontally can indicate its acidity. Similar dark, base-poor layers made by deep cultivation, kitchen middens or manuring are told apart by artifacts, spade marks or land-use history."
+  },
+  "soil-form-038": {
+   "title": "Ferricrete, the iron-cemented coffee stone",
+   "text": "In rural South Africa, road builders use a rock they call koffieklip, Afrikaans for coffee stone. Ferricrete is a hard, erosion-resistant layer of sedimentary rock, usually conglomerate or breccia, cemented by iron oxides into the kind of crust described in {{ref:soil-chem-039}}. The cement comes from the oxidation of percolating iron-salt solutions, and the name joins ferruginous and concrete. It forms at or near the land surface and may hold sediments brought from elsewhere. Its other names include hardpan and ironpan. Some deposits of {{ref:soil-form-065}} contain ferricrete, and one suggestion is that it forms in their wetter, leached parts."
+  },
+  "soil-form-040": {
+   "title": "Pedocals, the carbonate soils of an older scheme",
+   "text": "Marbut's classification split soils at its highest level into two groups: pedocals and pedalfers, the latter rich in aluminum and iron. Pedocals are soils of semiarid and arid regions, rich in calcium carbonate and low in soil organic matter. They were once a class of the order described in {{ref:soil-class-015}}. Under a thin A horizon, calcite and other soluble minerals that water would normally remove build up in the B horizon. There they form a cemented layer, {{ref:soil-chem-036}}. The term is not used in the current US classification, but it often appears in college geology texts."
+  },
+  "soil-found-068": {
+   "title": "Cutans, the coatings left by moving clay",
+   "text": "Soil surfaces keep a record of what water carried past them. Cutans are changes in soil texture or structure at the natural surfaces of particles, pores and clumps, caused by illuviation. They are oriented deposits of any soil component: clay skins, or coatings of silica, sesquioxides, manganese, organic material or carbonate. Clay skins are also called argillans, and a horizon with enough washed-in clay is the kind named in {{ref:soil-class-045}}. Common and visible in the field, they are focal points of chemical and biological reactions. Reading them, a core skill in soil morphology and the study of ancient soils, shows the degree and nature of soil development."
+  },
+  "soil-found-072": {
+   "title": "Paralithic horizons, weathered bedrock beneath the soil",
+   "text": "Bedrock does not always meet the soil as solid stone. A paralithic horizon is a weathered layer of bedrock. The name comes from the Greek para, akin to, and lithic, stony. A paralithic contact is one of the depth limits used to define soil classes, as in the definitions of the {{ref:soil-class-097}}."
+  },
+  "soil-form-031": {
+   "title": "Cambic horizons, the first signs of change below ground",
+   "text": "The cambic horizon is the diagnostic horizon of last resort. It is a subsurface horizon showing early change by soil-forming processes, recognized when it does not meet the requirements of any other diagnostic horizon. It lacks appreciable illuviated clay, organic carbon, iron and aluminum oxyhydroxides, carbonate, gypsum or soluble salts. Its texture must be no coarser than loamy fine sand or very fine sand. It is commonest in Mollisols and Inceptisols, also occurs in Andisols and is written Bw or Bg. Along a {{ref:soil-form-063}}, it gains clay and develops into a clay-enriched Bt horizon once the soil becomes one of the {{ref:soil-class-090}} kind."
+  },
+  "soil-form-035": {
+   "title": "Tepetate, Mexico's hardened volcanic layers",
+   "text": "In the volcanic regions of Mexico, some horizons have hardened by compaction or cementation. Mexicans call such a horizon tepetate, from the Nahuatl tepetlatl. At the surface, tepetates are hard, poorly drained and infertile, which makes them a problem for farming. Buried under soil, they bring a different danger. Water runs off sideways instead of soaking in, raising the risk of erosion and landslides."
+  },
+  "soil-form-019": {
+   "title": "Albic horizons, bleached layers below the surface",
+   "text": "Bleached and pale, the albic horizon is what remains when soil-forming processes move clay minerals and oxides downward. It is a light-colored subsurface diagnostic horizon in both the WRB and {{ref:soil-class-006}}. Spodosols, acidic soils common in coniferous and boreal forests, usually have one. In {{ref:soil-class-147}} soils it tongues down into a clay-rich Bt horizon. In Stagnosols the topsoil can be completely bleached. Plinthosols often show eluviation as an albic horizon beneath an umbric surface layer."
+  },
+  "soil-form-018": {
+   "title": "Epipedons, the diagnostic surface horizons of USDA taxonomy",
+   "text": "{{ref:soil-class-006}} gives the top of the soil its own set of names. An epipedon is a diagnostic surface horizon, the upper part of the soil. There are eight: the anthropic, folistic, histic, melanic, mollic, ochric, plaggen and umbric epipedons. A fertile mollic epipedon, built by long additions of root-derived organic material, is the defining feature of Mollisols. Histosols must have a histic epipedon, while an ochric epipedon is common in Entisols and Aridisols. Inceptisols usually have an ochric or umbric epipedon over a cambic horizon. Plaggen or anthropic epipedons signal intense, prolonged human activity."
+  },
+  "soil-form-003": {
+   "title": "The pedon, the basic block of field soil study",
+   "text": "The fundamental unit of field soil study is imaginary. A pedon is the three-dimensional unit of soil large enough to show the full range of properties of a particular soil. A soil profile is one face of it. Pedons generally cover 1 to 10 square meters of land. The Canadian system defines one as a body commonly 1 meter across and 1 to 2 meters deep. To classify a soil, every horizon of its pedon is checked against the criteria for diagnostic horizons. One proposal splits the pedon into a living humipedon, a copedon where most mineral weathering occurs, and a lithopedon in contact with the subsoil."
+  }
+ },
+ "reviews": {
+  "horizons-and-the-soil-profile": "A soil profile reads from the top down as a stack of horizons, from the leaf litter of the O horizon to the hard rock of the R layer. Water drives much of the pattern: eluviation strips the E horizon, and illuviation fills the B horizon below, leaving cutans on the surfaces it passes. Where silica, carbonates or iron oxides cement the subsoil, or plows and traffic compact it, hardpans form that stop roots and water. Describers record each layer in horizon designations and suffixes, and classifiers check every horizon of a pedon against the criteria for diagnostic horizons. Above it all lies topsoil, which takes 500 to 1,000 years to build one inch (2.5 cm) and is now lost faster than it forms."
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "entries": {
+  "soil-phys-223": {
+   "title": "Pressure head: pressure written as a height",
+   "text": "Pressure can be measured as a height. Pressure head is the height of a liquid column corresponding to the pressure the liquid exerts at its base. For a given fluid it is proportional to pressure, which is why columns of water or mercury are used to measure pressure. Combined with elevation head, it makes up hydraulic head. Below the water table, pressure head exceeds atmospheric pressure; the water table is where the two are equal. Above it, pressure head is negative, and water partly filling the pores is under suction."
+  },
+  "soil-phys-222": {
+   "title": "Wetting or drying: why soil water has a memory",
+   "text": "The same soil at the same suction can hold very different amounts of water. At a matric potential of 5 kPa, a fine sandy soil could hold anywhere between 8% and 25% water by volume. The cause is water retention hysteresis: water content at a given matric potential depends on whether the soil is wetting or drying, that is, on its saturation history. The matric potential–water content relationship is the basis of the water retention curve, so one curve tells only part of the story. Some matric potential sensors show hysteresis themselves, yet as of 2002 calibrations usually measured only the drying curve."
+  },
+  "soil-phys-224": {
+   "title": "Kozeny–Carman: permeability from grains and gaps",
+   "text": "The Kozeny–Carman equation links how easily fluid passes through a packed bed of solids to the size of its grains and the space between them. It gives the pressure drop of the flowing fluid, and from it the bed's permeability. Kozeny derived it in 1927, and Carman modified it in 1937 and 1956. They modeled the bed as curving tubes carrying Poiseuille flow, smooth flow through a narrow pipe. Permeability rises with particle diameter squared and with the cube of porosity, and falls with (1 − porosity) squared. A special case of Darcy's law, it holds only for creeping flow, with particle Reynolds numbers up to about 1.0."
+  },
+  "soil-phys-219": {
+   "title": "Eddy covariance: catching vapor in the wind",
+   "text": "Swirling eddies of air carry water vapor, heat and gases up from a field. Eddy covariance measures those vertical turbulent fluxes from fast readings of wind and gas concentration. The flux is the covariance, a measure of how two quantities rise and fall together, between vertical wind speed and gas concentration, times mean air density. Instruments sample at 5 to 40 Hz. Over natural ecosystems and farm fields, the method measures water loss and evapotranspiration, and carbon dioxide and methane exchange. Its source area, the flux footprint, shifts with wind direction, stability and measurement height. It assumes flat, uniform terrain and fully turbulent flow."
+  },
+  "soil-phys-216": {
+   "title": "Priestley–Taylor: evaporation from radiation alone",
+   "text": "One number, 1.26, carries much of the Priestley–Taylor equation. The equation is a simplified substitute for the Penman–Monteith equation that needs only radiation observations. It drops the aerodynamic terms and multiplies {{ref:soil-phys-217}} by an empirical constant, α. Over well-watered vegetation, observed evaporation was 1.26 times the reference rate. The equation assumes plants with abundant water. Arid regions with high moisture stress are estimated to have a higher α."
+  },
+  "soil-phys-217": {
+   "title": "ET0: the water use of an imaginary lawn",
+   "text": "Crop water use is measured against an imaginary patch of grass. Reference evapotranspiration, written ET0, is the water a standard, well-watered grass surface would lose under the current temperature, humidity, wind and solar radiation. FAO 56 defines that grass precisely as a hypothetical crop 0.12 m tall, actively growing and adequately watered. It has a surface resistance of 70 s m-1 and an albedo, or reflectivity, of 0.23. The FAO derived its Penman–Monteith equation to model it. Multiplying ET0 by {{ref:soil-phys-218}} gives the evapotranspiration of unstressed plants, ET = Kc × ET0. A stress coefficient then gives actual crop use. Weather-based irrigation controllers calculate it."
+  },
+  "soil-phys-218": {
+   "title": "Crop coefficients: from reference grass to real crop",
+   "text": "Irrigation scheduling turns a weather figure into a crop's thirst with one multiplier. The crop coefficient, Kc, is most simply the ratio of a crop's evapotranspiration to that of a reference crop. Multiplying ET0 by Kc gives the crop's actual water requirement, ETc. Kc changes through the season with growth stage, often following a trapezoidal or leaf area index curve. It can exceed 1 when the crop uses more water than the reference. Stress coefficients between 0 and 1, most often for water stress (Kw), are multiplied in to reduce the estimate."
+  },
+  "soil-phys-203": {
+   "title": "Groundwater: the water held in the pores of the Earth",
+   "text": "About 30 percent of the world's readily available fresh water is groundwater. It is water held beneath the Earth's surface in the pore spaces of soil and rock and in rock fractures. In the technical sense it includes soil moisture, permafrost and immobile water in tight bedrock, not only water flowing in shallow {{ref:soil-phys-201}}. It enters naturally as infiltration that percolates down to the water table, and leaves through springs and seepage to the oceans. It is a long-term store of the water cycle, with residence times from days to millennia. In the Great Artesian Basin it travels about 1 meter per year and can be more than 1 million years old. About 70% of extracted groundwater is used in agriculture, and that use carries risks. Where salty water evapotranspires, salts are left behind. Poor drainage in irrigation districts can raise water tables to the surface, causing soil salinity and waterlogging. Pollution, often from improper waste disposal on land, spreads in plumes and is harder to clean up than surface water pollution."
+  },
+  "soil-phys-201": {
+   "title": "Aquifers: not underground lakes but soaked rock",
+   "text": "Despite the popular image, most aquifers are not underground rivers or lakes. They are porous rock saturated with water. An aquifer is an underground layer of permeable, porous or fractured rock, or of loose gravel, sand or silt, that holds and yields water. Recharge, water moving down from the surface, is the main way water enters. In porous aquifers it seeps slowly between sand grains; 0.3 m a day counts as a high rate. Porosity alone does not make a good aquifer: the Deccan Traps basalts are highly porous but poorly permeable. Aquifers occur from near the surface to deeper than 9,000 m. Shallower ones are more often tapped for supply and irrigation and more readily refilled by local rain. Aquitards, low-permeability beds of clay or non-porous rock, restrict flow between aquifers; a completely impermeable one is an aquiclude or aquifuge. Karst aquifers form where carbonic acid widens fissures in limestone. Their fast flow makes them far more sensitive to contamination. Pumping brings overdrafting, land subsidence, salinization and pollution."
+  },
+  "soil-phys-208": {
+   "title": "Hydrogeology: the geology of water underground",
+   "text": "In 1856 Henry Darcy derived the law that still anchors the study of groundwater. Hydrogeology is the branch of geology dealing with the distribution and movement of groundwater in soil and rock, mainly in aquifers. Groundwater hydrology and geohydrology are near-synonyms. It covers the laws of subsurface water movement, the water's interaction with the porous solid, and the transport of energy, chemicals and particles by flow. The type of aquifer decides what controls flow: storativity in one kind, specific yield in the other, as {{ref:soil-phys-202}} explains. Darcy's law remains its basic equation for groundwater discharge."
+  },
+  "soil-phys-202": {
+   "title": "Capped or open: confined and unconfined aquifers",
+   "text": "Aquifers are divided by what lies directly above them. A confined aquifer sits beneath an impermeable layer, usually clay, which may give some protection from surface contamination. An unconfined aquifer's upper boundary is the water table. Unconfined aquifers release water by draining their pores, with specific yields above 0.01, or 1% of bulk volume. Confined aquifers store water through expansion of the solid matrix and the compressibility of water, with storativities far below 0.01 and as low as 10−5. A perched aquifer is a small body of groundwater held above the regional aquifer on a low-permeability layer such as clay."
+  },
+  "soil-phys-209": {
+   "title": "The groundwater flow equation: diffusion underground",
+   "text": "Mathematicians know it as the diffusion equation. The groundwater flow equation describes how groundwater moves through a porous medium. It is usually derived by combining Darcy's law with conservation of mass in a small control volume. The compressibility of both fluid and matrix enters it: clay's is 10−6 to 10−8 Pa−1, against 10−7 to 10−9 for sand. Its solutions do practical work. The Theis and Thiem equations, its transient and steady-state solutions for flow to a well, are used in pumping tests. The Hooghoudt equation applies it to drainage by pipes, tile drains or ditches."
+  },
+  "soil-phys-206": {
+   "title": "Subsurface flow: the slow road back to the surface",
+   "text": "Rain that soaks in has not left the water cycle. Subsurface flow is the movement of water beneath the Earth's surface. Infiltrated water wets the unsaturated zone above the water table and recharges aquifers, and the excess moves on as subsurface runoff. Its path is set mainly by the water gradient, the type of substrate and barriers to flow. Flow in the soil can be unsaturated, but faster subsurface flow goes with local saturation. The water returns to the surface at lower elevations through springs, seeps, wells or streams, sometimes after thousands of years in an aquifer."
+  },
+  "soil-phys-228": {
+   "title": "The hidden costs of draining farmland",
+   "text": "Draining wetlands caused population declines in hundreds of thousands of wetland species. Widespread tile drainage changes rivers too. By moving water off the land faster, it delivers higher volumes downstream, causing bank erosion and heavy sediment loads. Its effect on water quality cuts both ways. Soil filters water before it reaches streams, so tiling can reduce erosion and phosphorus runoff. But its outflow tends to be very high in nitrogen. On tile-drained land, controlled drainage or constructed wetlands may work better than surface conservation practices."
+  },
+  "soil-phys-220": {
+   "title": "The non-limiting water range: where roots meet no limits",
+   "text": "In 1985 John Letey proposed a sharper version of available water capacity. His non-limiting water range is the span of soil water content within which water potential, aeration and soil strength barely limit plant growth. Its wet end is the lower of field capacity and the water content that leaves 10% air-filled porosity for root aeration. Its dry end is the higher of the permanent wilting point and the water content at which penetration resistance reaches a limit of, say, 3 MPa. In 1994 da Silva, Kay and Perfect refined it as the least limiting water range, or LLWR."
+  },
+  "soil-phys-211": {
+   "title": "Agricultural hydrology: water budgets for farmland",
+   "text": "A farm's soil can be treated as a stack of reservoirs. Agricultural hydrology studies the water balance components that matter for managing farm water, especially irrigation and drainage. It divides the soil profile into the surface, the unsaturated root zone with mainly vertical flow, a transition zone, and the aquifer with mainly horizontal flow. For the root zone, infiltration plus capillary rise equals actual evapotranspiration plus percolation plus the change in storage. Bordering zones can be combined. Over months or years storage terms are often negligible, giving steady-state balances. These water balances also underpin the salt balances of irrigated land and models such as SaltMod and SahysMod."
+  },
+  "soil-phys-204": {
+   "title": "The phreatic zone, where every pore is full",
+   "text": "Below the water table, the ground holds no air in its pores. The phreatic zone is that saturated zone, in which all pores and fractures are filled with water. It is the counterpart of the unsaturated vadose zone above the water table. Its size and depth fluctuate with the seasons and with wet and dry periods. Depending on particle packing and porosity, its boundary can be stable or form unstable fingering patterns known as Saffman–Taylor instability. Deep-rooted phreatophytes draw much of their water from in or near it."
+  },
+  "soil-phys-205": {
+   "title": "Interflow: water that slips sideways through the soil",
+   "text": "Not all water that soaks in heads straight down. Interflow is the lateral movement of water through the unsaturated zone that returns to the surface or enters a stream. It happens when infiltrated water meets hydraulic conductivity that decreases with depth and turns downslope. Throughflow is the part of interflow that returns to the surface as overland flow before reaching a stream or groundwater. If the subsurface saturates, interflow may exfiltrate as return flow and join the overland flow. Interflow and soil piping can erode gullies, just as surface runoff does."
+  },
+  "soil-phys-212": {
+   "title": "How much to irrigate, how much to drain",
+   "text": "In the Netherlands, 720 mm of precipitation against 540 mm of evaporation gives a winter drainage requirement of 180 mm. Water balances tell how much water a field needs from irrigation and must lose through drains or wells. With surface evaporation neglected and actual evapotranspiration set to potential, the topsoil balance gives Irr = Epo + Osu + Per − Rai − Cap. Irrigation efficiency is the fraction of irrigation water the crop consumes, Epo/Irr. Drain and well discharges in the balances give the drainage requirements central to designing drainage systems. In the Dutch case, shallow-rooted pastures need summer irrigation; deep-rooted wheat practically does not."
+  },
+  "soil-phys-225": {
+   "title": "Unsaturated conductivity: flow that depends on wetness",
+   "text": "In a soil that is not saturated, the ease of water flow is not a fixed number. Unsaturated hydraulic conductivity depends on water content, and that dependence is a main complication in studying the vadose zone. It enters the Richards equation as K(h) and the soil moisture velocity equation as K(θ). Relations such as Brooks and Corey, Clapp and Hornberger, and van Genuchten–Mualem describe it, with parameters taken from the water retention curve. In the field, the Guelph permeameter measures it, using a Mariotte bottle to keep a constant head."
+  }
+ }
+}

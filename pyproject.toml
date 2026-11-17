@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wikicourse"
+version = "0.1.0"
+description = "Wikipedia subjects as sourced courses, one unit at a time, on your e-reader."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "requests>=2.31",
+    "beautifulsoup4>=4.12",
+    "pyyaml>=6.0",
+    "pillow>=10.0",
+    "pypdf>=4.0",
+]
+
+[project.scripts]
+wikicourse = "engine.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["engine*"]

@@ -1,0 +1,86 @@
+{
+ "entries": {
+  "soil-hist-088": {
+   "title": "Taphonomy: the journey from death to fossil",
+   "text": "Between death and discovery, every bone and shell goes through a long series of changes. Taphonomy is the study of how organisms decay and become fossilized or preserved. The Soviet scientist Ivan Efremov introduced the term in 1940 for the passage of remains from the biosphere to the lithosphere. Its processes fall into two stages: biostratinomy, between death and burial, and diagenesis, after burial. In archaeology it weighs burning, rodent disturbance, gnaw marks and soil pH. Archaeologists observe these processes at real sites to judge how they alter what survives."
+  },
+  "soil-hist-092": {
+   "title": "Geoarchaeology: reading a site as a landscape",
+   "text": "An archaeological site is also a piece of ground, shaped by sediments, soils and landforms. Geoarchaeology is a multidisciplinary field that applies the theories and techniques of the geosciences to archaeology. It draws on geomorphology, sedimentology, pedology, geochronology and the study of layered deposits. It has three aims: to place sites in time, to understand the natural processes that create them, and to reconstruct their landscapes. It also studies how natural processes affect buried sites and artifacts after deposition. Its principles of layering go back to Nicolas Steno in 1669 and James Hutton in 1788. It became a subfield of archaeology in the 1970s–1980s. In monolith sampling, workers hammer narrow metal tins into a section in overlapping sequence. That captures a site's complete profile for laboratory study. There, a sample's particle-size distribution may show the conditions under which its layer was deposited."
+  },
+  "soil-hist-090": {
+   "title": "Environmental DNA, the genetic traces left in soil",
+   "text": "A scoop of soil holds the genes of creatures no one has seen. Environmental DNA is DNA collected from samples such as soil, sediment, water, snow or air rather than from an individual organism. Sequencing it reveals which species are present in an ecosystem, including microscopic ones not otherwise detectable. Many microbes cannot be cultured in the laboratory, so eDNA is the only access to their genetic make-up. Extracellular DNA can reach 2 μg/L in soil and 88 μg/L in natural waters. It was first applied to terrestrial sediments. They yielded DNA of extinct and living animals and plants, known as sedimentary ancient DNA, or 'dirtDNA'."
+  },
+  "soil-hist-098": {
+   "title": "Soil marks: buried features that show through as color",
+   "text": "A freshly ploughed field can reveal a vanished earthwork as a change of color. A soil mark is a difference in soil color caused by archaeological features beneath it. A ploughed-out bank leaves hard, dry material, while its ditch leaves damper soil. A feature may also cut through the topsoil to expose chalk. Black or red soil can show organic or burnt deposits, and so whether fire was used. Soil marks usually show in ploughed or harrowed fields before crops grow. They can also reveal former river channels, or slightly raised dry ground on floodplains that attracted settlement."
+  },
+  "soil-hist-102": {
+   "title": "Middens, the rubbish heaps that keep the past",
+   "text": "Bones, shells, broken pots and even human excrement: an old rubbish heap keeps them all. A midden is an old dump for domestic waste. Besides animal bones and mollusc shells, it may hold plant material, potsherds and stone tools. Damp, anaerobic conditions inside can preserve organic remains. Shell middens are alkaline from calcium carbonate. That slows decay driven by soil acidity, so organic material survives. Wind, water and animal digging lay down sediment among the refuse. This matrix yields seasonal and climatic information."
+  },
+  "soil-hist-096": {
+   "title": "The law of superposition: oldest at the bottom",
+   "text": "In a stack of undisturbed layers, the bottom one came first. The law of superposition states that in undeformed layered sequences the oldest layers lie at the bottom, and newer material stacks on top. Nicolas Steno first proposed it in 1669. William 'Strata' Smith popularized it in English and used it to make the first geologic map of Britain. Nature can scramble the order: animals, vegetation and limestone crystallization disrupt the original layering. At archaeological sites, layers can form by undercutting earlier ones, so applying the law needs interpretation."
+  },
+  "soil-hist-095": {
+   "title": "Stratigraphy: putting a site's events in order",
+   "text": "A ditch must be dug before anyone can fill it in. That simple logic drives archaeological stratigraphy, the study of a site's sequence of superimposed units, or contexts, to learn when and how its deposits formed. Each context is a single event that leaves a discrete trace. It may be a deposit, such as a ditch's back-fill, or a structure, such as a wall. It may also be a 'cut' that removes earlier material. Two long-accepted principles guide the reading. Lower units are older than upper ones, and a layer is no older than the most recent artifact in it. E.C. Harris added original horizontality, lateral continuity and stratigraphic succession. A Harris matrix represents a site's formation in space and time. A context sealed between two dated layers must date between them. Yet older 'residual' finds and later 'intrusive' finds can enter a context, so dating rests on its latest evidence."
+  },
+  "soil-hist-084": {
+   "title": "Forensic geology, from Sherlock Holmes to the courtroom",
+   "text": "Sherlock Holmes could tell where someone had been from the clays on their shoes. Ray Murray traces the idea behind forensic geology to that fiction by Arthur Conan Doyle. The field studies earth materials as evidence to answer questions raised by the legal system. In 1891 Hans Gross used microscopic analysis of soil from a suspect's shoes to link him to a crime scene. Today its main use is trace evidence: soil and sediment particles can link a suspect to a crime or crime scene. That rests on Edmond Locard's exchange principle, that every contact leaves a trace. Murray and John Tedrow published the book Forensic Geology in 1975. Ground-penetrating radar is used mainly to find buried bodies. It narrows the search area and cuts excavation time."
+  },
+  "soil-hist-085": {
+   "title": "Matching a muddy shoe to a crime scene",
+   "text": "Soils differ over very short distances, which makes them telling evidence and tricky to sample. Forensic soil comparison sets a questioned sample of unknown origin beside control samples, such as soil from the crime scene, to find similarities or differences. Because soils vary so locally, examiners study the questioned sample first, then choose where to sample at the scene. Color is one of the most important properties. It is matched to the Munsell soil chart, though people perceive color differently. Spectrophotometry using CIELAB coordinates gives objective numerical values instead. Particle-size distribution is among the most discriminating properties, measured by microscope, laser diffraction or sieving. Soil pH can point to elements such as P, Zn, B, Cu and Fe, and to lime requirement. A lump of soil is kept whole to preserve its layers. Ground samples come from horizons differing in color, minerals and texture. Samples are dried before collection, or refrigerated if damp, so microbial activity cannot change them."
+  },
+  "soil-hist-099": {
+   "title": "Celtic fields, small prehistoric plots with a misleading name",
+   "text": "The Celtic fields of north-west Europe have nothing to do with Celtic culture. The name is an old one for traces of prehistoric field systems, and O. G. S. Crawford gave it. The fields date from the Early Bronze Age, around 1800 BC, to the early medieval period. They survive as earthworks or soil marks. Plots were rarely more than 2,000 m², small enough for one person or household to cultivate. Lynchets at their upper and lower ends are evidence of early ploughing."
+  },
+  "soil-hist-100": {
+   "title": "Ridge and furrow, the ripples of medieval ploughing",
+   "text": "Some grassland still ripples with ridges built by medieval ploughs. Ridge and furrow is the pattern of ridges and troughs left by a ploughing system used in medieval Europe, typical of the open-field system. Non-reversible ploughs turned soil toward the center of the same strip each year. Gradually a ridge rose, with a furrow between strips. The ridges drained wet soils into the furrows; only some well-drained soils were left flat. Surviving ridges stand up to 61 cm (24 inches), but in use some topped 1.8 m (6 feet). The pattern survives where land became grassland and was never ploughed again. Elsewhere, reversible ploughs erased it."
+  },
+  "soil-hist-086": {
+   "title": "Forensic palynology: pollen as a witness",
+   "text": "Pollen clings so well that a suspect can hardly get rid of it. Forensic palynology uses pollen, spores and other palynomorphs to prove or disprove a link between objects, people and places in criminal and civil cases. Regions, and even parts of one garden, have distinctive pollen assemblages. Pollen can also show the season it was picked up. It adheres to soil, clothing, hair and rock. In a 2023 Argentine case, soil in the suspect's car and on the suspect's shoe soles matched the palynomorph mix of the coast where the body was found. A Bolivian study built a forensic database of pollen in high-altitude, non-seasonal soils."
+  },
+  "soil-hist-087": {
+   "title": "Forensic archaeology: finding graves through the soil",
+   "text": "A grave gives itself away through the soil above it. Forensic archaeology, a branch of forensic anthropology, uses archaeological methods in legal cases, such as finding overlooked graves and processing mass graves. Differences in the soil guide the search. Burying a body leaves a small mound of soil from the grave fill. Grave sites typically have looser, darker, more organic soil than the area around them. Loose soil and nutrients from the decomposing body also make plants grow differently from their surroundings."
+  },
+  "soil-hist-089": {
+   "title": "Geotaphonomy: how a burial changes the ground",
+   "text": "A body in the ground changes the ground itself. Geotaphonomy is the study of how a decomposing body and its burial affect the surrounding environment. It examines how the soil was disturbed, how the pH around the body changed, and whether plant growth sped up or slowed. It also reads tool marks from digging the grave, and changes to land and drainage from adding an unnatural mass. It belongs to forensic taphonomy, which studies post-mortem changes to remains caused by soil, water, plants, insects and animals. William M. Bass created the first body farm to study decomposition in conditions such as partial or full burial."
+  },
+  "soil-hist-093": {
+   "title": "Magnetic susceptibility: fire's lasting mark in soil",
+   "text": "Fire leaves a magnetic signature in soil. Magnetic susceptibility analysis measures how readily a soil or sediment becomes magnetized in an external magnetic field. The value reflects magnetic iron oxides such as maghemite, not total iron content. Burning and microbial activity form magnetic iron, as in topsoils and some anaerobic deposits. So the method finds hearths and burning residues. It also tells reddening by fire from natural reddening, such as gleying. It can identify buried soils, too, and soil material redeposited in peat or lake sediments."
+  },
+  "soil-hist-091": {
+   "title": "Geophysical survey: mapping a site without digging",
+   "text": "Most archaeological sites lie within the top meter of ground, close enough to sense without a spade. Geophysical survey uses ground-based physical sensing techniques to image or map buried archaeological features. Instruments detect features whose physical properties contrast measurably with their surroundings, without digging or damage. Targets may be as faint as organic staining from decayed wooden posts. The usual instruments are magnetometers, electrical resistance meters, ground-penetrating radar and electromagnetic conductivity meters. A stone foundation resists electric current, while organic midden deposits conduct it more easily than surrounding soils. Magnetometers respond strongly to brick and burned soil. They also pick up subtle anomalies from disturbed soils or decayed organic matter. Ploughed fields add magnetic noise, but old tracks can show through differential compaction. Radar works best in uniform sandy soils. Conductive clays and silts weaken its signal, and rocky sediments scatter it. The approach was pioneered in Britain in the 1940s and 1950s."
+  },
+  "soil-hist-094": {
+   "title": "Soil phosphate survey: the chemical footprint of people",
+   "text": "One hundred people excrete about 62 kg of phosphate a year, and their rubbish adds about as much again. Soil phosphate survey measures and maps that phosphate, which comes from people, their animals, rubbish and bones, to find former activity areas and sites. Most of it is quickly fixed on soil clay and can persist for thousands of years. So human activity soon makes large differences. The human body holds about 650 g of phosphate, raising levels at burial sites. Detection uses the molybdate blue reaction, whose color deepens in proportion to concentration."
+  },
+  "soil-hist-097": {
+   "title": "Cropmarks: buried walls drawn in growing grain",
+   "text": "From the air, crops can trace buried walls. A cropmark is a pattern in growing crops, visible from the air or high ground, that reveals buried archaeological, natural or recent features. It comes from differential growth, in which soil conditions are key. A buried wall diverts water and displaces fertile soil, stunting the crop above it. An organic-rich ditch fill holds water and boosts growth. Cropmarks show only seasonally and may need very wet or dry years. Droughts make them appear even in hardy grass. Thermal imaging can show them at any growth stage, because water loss depends on the water available to roots."
+  },
+  "soil-hist-101": {
+   "title": "Raised fields: farming on mounds above the water",
+   "text": "Pre-Hispanic farmers in Latin America lifted their crops above wet ground. A raised field is a large cultivated mound, usually bounded by water-filled ditches, used to control moisture, frost damage and flooding. Such fields were used, for example, in the Llanos de Moxos of lowland Bolivia. The Tiwanaku culture built them near Lake Titicaca, where the technique is called Waru Waru. The Maya farmed raised fields at Pulltrouser Swamp in Belize. The Aztecs built chinampas on Lake Texcoco."
+  }
+ },
+ "openers": {
+  "forensic-and-archaeological-soil-science": "Soil remembers what people did on it and what they buried in it. A ploughed-out ditch leaves a change of color, an old rubbish dump keeps its bones and shells, and medieval ploughing left ridges and troughs across Europe's fields. This chapter reads soil as a record: how remains decay or are preserved, how layers stack with the oldest at the bottom, and how DNA lingers in soil and sediment. The same reading serves the law, where a soil sample or a few pollen grains can link a person to a place."
+ },
+ "reviews": {
+  "forensic-and-archaeological-soil-science": "Everything in this chapter rests on one idea: every contact leaves a trace. Buried walls, ditches and graves change the soil above them, showing up as soil marks, cropmarks, magnetic and electrical anomalies, or patches rich in phosphate. Layers stack with the oldest at the bottom, so contexts sealed between dated layers fix the order of a site's past, while middens, Celtic fields, ridge and furrow and raised fields record how people lived and farmed. The courts use the same evidence: soil color, particle size and pollen tie suspects to scenes, and the looser, darker soil of a grave guides the search for a body."
+ }
+}

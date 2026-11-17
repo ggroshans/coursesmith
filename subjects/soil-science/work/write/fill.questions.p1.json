@@ -1,0 +1,532 @@
+{
+ "questions": {
+  "soil-found-077": {
+   "q": "What are the two main historical branches of soil science, and how do they differ?",
+   "a": "Pedology studies soil in its natural setting, while edaphology studies soil in relation to the uses that depend on it.",
+   "sent_ids": [
+    "03e8d020acfc",
+    "5c6f67d59379",
+    "014e50bc4546"
+   ]
+  },
+  "soil-found-097": {
+   "q": "In a typical soil, how is the volume shared between solids and pores?",
+   "a": "About half is solids (45% mineral and 5% organic matter) and half is pores, split equally between water and gas.",
+   "sent_ids": [
+    "a3ccab778f94"
+   ]
+  },
+  "soil-found-091": {
+   "q": "Before Fallou and Dokuchaev, how was soil generally seen?",
+   "a": "As a product of chemical transformations of rocks: a dead substrate from which plants draw nutrients.",
+   "sent_ids": [
+    "cb8b100a651a"
+   ]
+  },
+  "soil-found-096": {
+   "q": "Why do classifications not rest on soil genesis alone?",
+   "a": "Soil-forming processes are seldom observed and change over time, so genesis aids classification but cannot be its only basis.",
+   "sent_ids": [
+    "7d8946e3a744",
+    "7e3ae6b95017",
+    "d64d67538293"
+   ]
+  },
+  "soil-found-089": {
+   "q": "Why do tropical soils turn rusty red instead of showing podzolized layers?",
+   "a": "Fast decomposition leaves little fulvic acid to leach metals, so mobile magnesium, iron and aluminium precipitate as oxide minerals.",
+   "sent_ids": [
+    "db1f8fc14aac",
+    "d68e18f44064",
+    "d3efce54c90b"
+   ]
+  },
+  "soil-found-098": {
+   "q": "What did van Helmont conclude from his willow experiment?",
+   "a": "Seeing the tree gain more weight than the soil lost, he concluded the willow was made of water, which was only partly correct.",
+   "sent_ids": [
+    "87203705f134",
+    "e771443fb720"
+   ]
+  },
+  "soil-found-052": {
+   "q": "What separates weathering from erosion?",
+   "a": "Weathering happens in place, while erosion carries rock and mineral material away by water, ice, wind, waves or gravity.",
+   "sent_ids": [
+    "802231efdc41"
+   ]
+  },
+  "soil-found-063": {
+   "q": "True or false: rainwater can dissolve quartz.",
+   "a": "True: given enough time even quartz dissolves, going into solution as silicic acid.",
+   "sent_ids": [
+    "8220a5530005",
+    "a216e122cafe"
+   ]
+  },
+  "soil-found-048": {
+   "q": "Why is frost wedging unlikely to dominate in the tropics or in arid climates?",
+   "a": "It needs daily freeze–thaw cycles of nearly saturated rock, conditions those climates do not supply.",
+   "sent_ids": [
+    "100075710819"
+   ]
+  },
+  "soil-found-056": {
+   "q": "How does pressure release make rock break into sheets?",
+   "a": "When erosion strips the rock above, the outer parts of deep-formed rock expand, opening fractures parallel to the surface along which sheets break away.",
+   "sent_ids": [
+    "dcc7f6db0600",
+    "0573481b2839",
+    "bc09e815ffbe",
+    "a3207a6e7df2",
+    "356ad09e6a41"
+   ]
+  },
+  "soil-found-037": {
+   "q": "Why does a quartz-rich rock count as mature?",
+   "a": "Quartz is the primary mineral that survives heavy weathering, so its abundance shows long weathering.",
+   "sent_ids": [
+    "fd7a4a972432"
+   ]
+  },
+  "soil-found-051": {
+   "q": "Unlike soil structure, can farming change a soil's texture?",
+   "a": "No: texture is fixed by the soil's mineral component and does not change with farming.",
+   "sent_ids": [
+    "078bf2918101"
+   ]
+  },
+  "soil-found-043": {
+   "q": "Why do igneous minerals weather in roughly the order they formed?",
+   "a": "Acid hydrolysis breaks the weakest cation–oxygen bonds first, following Bowen's reaction series.",
+   "sent_ids": [
+    "a914b0d353a2",
+    "2a1162d633f4"
+   ]
+  },
+  "soil-found-038": {
+   "q": "Why is a pH of 3.5 so much more acidic than a pH of 9.5?",
+   "a": "The pH scale is logarithmic, so a solution at pH 3.5 has one million times more hydronium ions than one at pH 9.5.",
+   "sent_ids": [
+    "91a06a70719d"
+   ]
+  },
+  "soil-found-024": {
+   "q": "Why does a clay- and humus-rich soil need more lime to change its pH?",
+   "a": "Its colloids buffer strongly, and lime must also neutralise the exchangeable acidity they hold, or the stored cations restore the original pH.",
+   "sent_ids": [
+    "8fa329cb9977",
+    "ca860d3dbd7c",
+    "1a2556cbf2ac",
+    "d26e8bfc0d8b",
+    "255ef6020434"
+   ]
+  },
+  "soil-found-016": {
+   "q": "What does litmus paper show when dipped in a soil–water mix?",
+   "a": "It turns red if the soil is acidic and blue if it is basic.",
+   "sent_ids": [
+    "f9aa32c539f7"
+   ]
+  },
+  "soil-found-022": {
+   "q": "Why can roots in strongly acidic soil suffer moisture stress even when the soil is fairly moist?",
+   "a": "Aluminium toxicity limits root growth so much that the plant cannot take up enough water.",
+   "sent_ids": [
+    "165aa4bca62d"
+   ]
+  },
+  "soil-found-026": {
+   "q": "In the Munsell notation 10R 4/8, what do the three parts stand for?",
+   "a": "10R is the hue, 4 the value and 8 the chroma, written as hue, then value/chroma.",
+   "sent_ids": [
+    "b3c75b4bfb3a",
+    "6afec23c53d0"
+   ]
+  },
+  "soil-form-100": {
+   "q": "How does saprolite differ from saprock?",
+   "a": "Saprolite is weathered rock, oxidised in its upper part and partly weathered below, while saprock is fractured bedrock weathered only along its fractures.",
+   "sent_ids": [
+    "7575820bd8b2",
+    "1bcf624da695",
+    "04a5c815c317"
+   ]
+  },
+  "soil-form-087": {
+   "q": "Which plant nutrients does rock not supply to soil?",
+   "a": "Nitrogen, hydrogen and carbon; rock is the source of every other plant nutrient.",
+   "sent_ids": [
+    "cd0b15eb82a8"
+   ]
+  },
+  "soil-form-113": {
+   "q": "What is the soil of the Loess Plateau known for?",
+   "a": "It has been called the most highly erodible soil on Earth.",
+   "sent_ids": [
+    "660954fd49a1"
+   ]
+  },
+  "soil-form-108": {
+   "q": "How does residuum differ from saprolite?",
+   "a": "Saprolite keeps its bedrock's structural features, while residuum has lost them, being transformed further and shrunk in volume.",
+   "sent_ids": [
+    "abc5ed723288",
+    "864d81b95437",
+    "58145d9bc4e2",
+    "01b4f719704f"
+   ]
+  },
+  "soil-form-095": {
+   "q": "Why do soils formed in lake deposits tend to have low permeability?",
+   "a": "Lacustrine material has a high clay content.",
+   "sent_ids": [
+    "045a257456f1"
+   ]
+  },
+  "soil-form-092": {
+   "q": "What makes river meanders become better defined over time?",
+   "a": "Cut-bank erosion usually equals point-bar deposition, and point bars push flow into the opposite bank.",
+   "sent_ids": [
+    "d43e107e9948",
+    "f8a9ee81a37c",
+    "afa1253e1039"
+   ]
+  },
+  "soil-form-021": {
+   "q": "How does eluviation differ from leaching?",
+   "a": "Eluviation moves mineral and organic colloids, while leaching is a distinct mechanism of soil formation.",
+   "sent_ids": [
+    "ab880751572b"
+   ]
+  },
+  "soil-form-017": {
+   "q": "How do hardpans made by people differ in origin from natural ones?",
+   "a": "Natural pans form when deposits such as silica, iron oxides or calcium carbonate bind soil particles; man-made ones are compacted by repeated ploughing, heavy traffic or pollution.",
+   "sent_ids": [
+    "0945365ede3e",
+    "cf8520f455e7",
+    "8461b2ff3f32"
+   ]
+  },
+  "soil-form-034": {
+   "q": "What separates illuviation from alluviation?",
+   "a": "Illuviation moves material basically vertically within the soil, while alluviation is the horizontal transfer by running water.",
+   "sent_ids": [
+    "e938ef19d804"
+   ]
+  },
+  "soil-form-024": {
+   "q": "In a horizon label such as 2Bt2, what do the leading and trailing numbers mean?",
+   "a": "The prefix 2 marks a lithologic discontinuity, a change in parent material; the suffix 2 marks a subdivision of one horizon.",
+   "sent_ids": [
+    "214a0e82660e",
+    "d44f9963eb83",
+    "6498b5c0cd90"
+   ]
+  },
+  "soil-form-014": {
+   "q": "What does a sequence like O, A1, A2, B2, 2A2, 2B21 reveal about a soil's history?",
+   "a": "A fully formed profile was buried by sediments that later formed a new profile; the buried one starts at 2A2.",
+   "sent_ids": [
+    "a45361c17c5b",
+    "f5d87e3aec9e"
+   ]
+  },
+  "soil-form-028": {
+   "q": "How can a fragipan be told apart from a duripan?",
+   "a": "Air-dry fragipan fragments slake in water, unlike duripans and petrocalcic horizons.",
+   "sent_ids": [
+    "80240a6d2d54",
+    "fc1783793e52"
+   ]
+  },
+  "soil-form-020": {
+   "q": "Why can a claypan soil be waterlogged yet leave plants short of water?",
+   "a": "Most of the water it holds is unavailable because it evaporates and the pores are tiny, while its dense layer can perch a water table on top.",
+   "sent_ids": [
+    "dfaed29f4285",
+    "2aaa7bda2139",
+    "f7959cc482c7"
+   ]
+  },
+  "soil-form-030": {
+   "q": "What do the old terms pedocal and pedalfer distinguish?",
+   "a": "Marbut split soils into pedocals, with calcite building up as caliche in the B horizon, and pedalfers, rich in aluminium and iron.",
+   "sent_ids": [
+    "289ecf02cf39",
+    "c52e7c5fe38d",
+    "bb2780087b9c"
+   ]
+  },
+  "soil-form-031": {
+   "q": "What does a cambic horizon become as a soil develops into an Alfisol?",
+   "a": "An argillic (Bt) horizon, which holds more clay than the cambic horizon.",
+   "sent_ids": [
+    "ed47c2b40d61",
+    "b30ffac57d2b"
+   ]
+  },
+  "soil-form-042": {
+   "q": "Which soil-forming factor is regarded as dominant?",
+   "a": "Climate: soils show the distinctive characteristics of the climate zones in which they form.",
+   "sent_ids": [
+    "638bc4dcc703"
+   ]
+  },
+  "soil-form-044": {
+   "q": "How do animals that mix soil affect the horizons?",
+   "a": "Their mixing, sometimes called pedoturbation, tends to undo the processes that create distinct horizons.",
+   "sent_ids": [
+    "9805a689ee64"
+   ]
+  },
+  "soil-form-049": {
+   "q": "Why are crest soils on a catena drier than toeslope soils?",
+   "a": "Crests drain freely, while toeslopes are wetter, poorly drained and richer in clay and organic matter.",
+   "sent_ids": [
+    "57f41a37a752",
+    "eda37cfd8aae"
+   ]
+  },
+  "soil-form-055": {
+   "q": "What key assumption does a chronosequence make, and why is it debated?",
+   "a": "It assumes nothing but age differs between sites, which often cannot be tested.",
+   "sent_ids": [
+    "7a36fff71102",
+    "0217302428ae"
+   ]
+  },
+  "soil-form-061": {
+   "q": "In Erhart's theory, what happens to soils during rhexistasy?",
+   "a": "A drier climate thins vegetation, physical weathering dominates, and intense rains erode soils into layers of sand and silt.",
+   "sent_ids": [
+    "9983b143a971",
+    "e024ddd2d3bf",
+    "ebfc62dbeade",
+    "23b64758dee1"
+   ]
+  },
+  "soil-form-064": {
+   "q": "Why does modern soil classification fit paleosols poorly?",
+   "a": "Geology, life and the atmosphere changed greatly over the record, and an alfisol, for example, could not exist before trees.",
+   "sent_ids": [
+    "5fa14d5b891e",
+    "80a2498c8d0c"
+   ]
+  },
+  "soil-form-073": {
+   "q": "Why can laterite be cut from the ground yet serve as durable building stone?",
+   "a": "It is mined below the water table while wet and soft; as it dries, iron compounds lock into a rigid lattice that resists the weather.",
+   "sent_ids": [
+    "cc9ee29f37ed",
+    "072c7ab58162"
+   ]
+  },
+  "soil-form-067": {
+   "q": "How is ferrallitisation the reverse of podsolisation?",
+   "a": "In ferrallitisation silica is leached away and iron and aluminium sesquioxides remain; in podsolisation silica remains and iron and aluminium are removed.",
+   "sent_ids": [
+    "6185a92700fa",
+    "017f2ba86683"
+   ]
+  },
+  "soil-form-052": {
+   "q": "In biosorting, why do large stones end up at the base of the biomantle?",
+   "a": "Burrowers move only particles smaller than their burrows, so larger stones settle and form a stonelayer.",
+   "sent_ids": [
+    "f5769c12ba67",
+    "92084a175bc7"
+   ]
+  },
+  "soil-form-062": {
+   "q": "How does soil memory in soils differ from memory in layered sediments?",
+   "a": "Soils store records palimpsest-wise, with features overprinting each other, while sediments store them book-wise, in datable order.",
+   "sent_ids": [
+    "8111c93c7b83",
+    "78c569f3853b"
+   ]
+  },
+  "soil-phys-014": {
+   "q": "Why do geotechnical engineers separate silts from clays by plasticity rather than size?",
+   "a": "Size does not fix mineral makeup, so engineers use plasticity measured with the Atterberg limits instead.",
+   "sent_ids": [
+    "bba619a77675",
+    "6e062603c4ef"
+   ]
+  },
+  "soil-phys-053": {
+   "q": "What makes loam the only distinctive class in the USDA texture triangle?",
+   "a": "It is the only class not dominated by sand, silt or clay.",
+   "sent_ids": [
+    "02b682a18779"
+   ]
+  },
+  "soil-phys-046": {
+   "q": "In the ribbon test, what does the length of the unbroken ribbon indicate?",
+   "a": "How much clay the sample holds.",
+   "sent_ids": [
+    "73c2a53f2ed4"
+   ]
+  },
+  "soil-phys-003": {
+   "q": "What is the difference between a ped and a clod?",
+   "a": "A ped forms naturally as particles clump into aggregates, while a clod is a mass of soil made artificially, for example by cultivation.",
+   "sent_ids": [
+    "f9f4e5e59ef3",
+    "70bf5c5c9e70",
+    "ebf9810d45d8"
+   ]
+  },
+  "soil-phys-019": {
+   "q": "Why can sieving alone not complete a soil's particle-size analysis?",
+   "a": "Silt and clay below 60 μm need a second method, usually the hydrometer or pipette, on the material from the bottom sieve.",
+   "sent_ids": [
+    "150965ff2165"
+   ]
+  },
+  "soil-phys-051": {
+   "q": "Why does laser diffraction usually size platy clay larger than sedimentation analysis does?",
+   "a": "Its theories assume spherical particles, so a clay plate is sized by its cross-section.",
+   "sent_ids": [
+    "e482118522d5",
+    "82338b11b0b6",
+    "a58e57f5ae85"
+   ]
+  },
+  "soil-phys-021": {
+   "q": "In the USCS symbol CH, what do the two letters mean?",
+   "a": "C names the main material, clay, and H means a high liquid limit.",
+   "sent_ids": [
+    "2e297db491ef"
+   ]
+  },
+  "soil-phys-017": {
+   "q": "How is cumulative percent passing found from cumulative percent retained?",
+   "a": "It equals 100% minus the cumulative percent retained.",
+   "sent_ids": [
+    "30d7e3397dd5",
+    "7ee404f47774"
+   ]
+  },
+  "soil-phys-026": {
+   "q": "What do the liquidity and consistency indices always add up to?",
+   "a": "They always add up to 1.",
+   "sent_ids": [
+    "60f6eb5a0c33"
+   ]
+  },
+  "soil-phys-024": {
+   "q": "Why does sodium make clay deflocculate?",
+   "a": "Clay flocculates when the slightly positive edges of plates stick to the negative faces of others, and sodium displacing polyvalent cations weakens this.",
+   "sent_ids": [
+    "fce06f723d0a",
+    "2a856837f689",
+    "d15f50e5a553"
+   ]
+  },
+  "soil-phys-039": {
+   "q": "Above what exchangeable sodium percentage does dispersion become highly likely?",
+   "a": "Above 15%; dispersion becomes possible above 5%.",
+   "sent_ids": [
+    "68a50304bc25"
+   ]
+  },
+  "soil-phys-011": {
+   "q": "Is every crusting soil also hardsetting?",
+   "a": "No: a hardsetting horizon is thicker than a crust, often as thick as the cultivated layer or more.",
+   "sent_ids": [
+    "a8f5dfdc6b9d",
+    "2820d8cbdc42"
+   ]
+  },
+  "soil-phys-057": {
+   "q": "When is a sand classed as well graded (SW) under the USCS?",
+   "a": "When Cu ≥ 6 and 1 < Cc < 3; otherwise it is poorly graded (SP).",
+   "sent_ids": [
+    "e2b70beb78f0",
+    "3362944460e6",
+    "84ef4b65e252",
+    "caaab1779602"
+   ]
+  },
+  "soil-phys-063": {
+   "q": "How do bulk density and porosity relate in a dry soil?",
+   "a": "Inversely: the more pore space a soil has, the lower its bulk density.",
+   "sent_ids": [
+    "2cd6371589fc",
+    "82f705d2b46c"
+   ]
+  },
+  "soil-phys-069": {
+   "q": "Why is compaction harder to manage than salinization or erosion?",
+   "a": "It is mainly a hidden, sub-surface problem, so special methods are needed to locate it.",
+   "sent_ids": [
+    "65c1904c456c",
+    "481441e90556"
+   ]
+  },
+  "soil-phys-073": {
+   "q": "Why does higher pore water pressure make soil weaker?",
+   "a": "Strength comes mainly from friction proportional to normal stress, and effective stress is total stress minus pore water pressure.",
+   "sent_ids": [
+    "52b079da572a",
+    "4c52457d7547",
+    "3df15f81187d"
+   ]
+  },
+  "soil-phys-116": {
+   "q": "Why does a saturated clay settle so much more slowly than a sand under load?",
+   "a": "Clay's extremely low hydraulic conductivity lets water drain only slowly, while coarse soils drain readily and settle at once.",
+   "sent_ids": [
+    "c13053d456a0",
+    "9ff57abfac7f",
+    "ba13b7d42950"
+   ]
+  },
+  "soil-phys-109": {
+   "q": "Why does a wet sandcastle stand but collapse when submerged?",
+   "a": "Water above the water table is at negative pressure, pulling grains together so friction holds them; submerged, that pull is lost.",
+   "sent_ids": [
+    "23c2205e3d53",
+    "e7d8577b294a",
+    "e49f21a8bec9",
+    "1b1410a61187",
+    "fcb430017dc6"
+   ]
+  },
+  "soil-phys-094": {
+   "q": "How does compaction reduce the nitrogen available to crops?",
+   "a": "Poorer oxygen diffusion with wetter conditions boosts denitrification, raising N2O emissions and lowering crop nitrogen.",
+   "sent_ids": [
+    "37741e608048",
+    "bb0d6c1ad746",
+    "13328ea6a404"
+   ]
+  },
+  "soil-phys-091": {
+   "q": "Why are fine-textured, wet soils most easily compacted?",
+   "a": "Water films shield the contacts between particles, and clay-rich soils are more susceptible than coarse ones.",
+   "sent_ids": [
+    "50c6dd4eb22f",
+    "717fcbe9ef43"
+   ]
+  },
+  "soil-phys-068": {
+   "q": "Why can clay be highly porous yet conduct water poorly?",
+   "a": "It stores much water per volume but releases it slowly through narrow pore throats.",
+   "sent_ids": [
+    "22522a482f6b"
+   ]
+  },
+  "soil-phys-133": {
+   "q": "Why does pumping groundwater make the land surface sink?",
+   "a": "Pumping changes the effective stress on compressible silt or clay layers, which consolidate, often irreversibly, and lose volume.",
+   "sent_ids": [
+    "6ead78d83cf5",
+    "7a3a3a773990",
+    "65f1bb18a20a"
+   ]
+  }
+ }
+}

@@ -1,0 +1,798 @@
+{
+ "entries": {
+  "soil-meth-001": [
+   {
+    "id": "soil-meth-005",
+    "reason": "geostatistics models data that vary from place to place"
+   }
+  ],
+  "soil-meth-002": [
+   {
+    "id": "soil-meth-001",
+    "reason": "the variogram is the key tool of geostatistics"
+   },
+   {
+    "id": "soil-meth-005",
+    "reason": "it describes how values differ with separating distance"
+   }
+  ],
+  "soil-meth-003": [
+   {
+    "id": "soil-meth-002",
+    "reason": "kriging weights rest on a modelled covariance, from the variogram"
+   },
+   {
+    "id": "soil-meth-001",
+    "reason": "kriging is a geostatistical method"
+   },
+   {
+    "id": "soil-meth-006",
+    "reason": "kriging is a kind of spatial interpolation"
+   }
+  ],
+  "soil-meth-004": [
+   {
+    "id": "soil-meth-003",
+    "reason": "the regression residuals are kriged"
+   },
+   {
+    "id": "soil-meth-008",
+    "reason": "terrain layers serve as auxiliary variables"
+   }
+  ],
+  "soil-meth-005": [
+   {
+    "id": "soil-found-077",
+    "reason": "the varying quantity is a soil property"
+   }
+  ],
+  "soil-meth-006": [
+   {
+    "id": "soil-meth-005",
+    "reason": "interpolation estimates a spatially varying quantity"
+   }
+  ],
+  "soil-meth-007": [
+   {
+    "id": "soil-meth-006",
+    "reason": "IDW is a deterministic interpolation method"
+   }
+  ],
+  "soil-meth-008": [],
+  "soil-meth-009": [
+   {
+    "id": "soil-meth-008",
+    "reason": "computed from slope and upslope area of the land surface"
+   },
+   {
+    "id": "soil-phys-207",
+    "reason": "it quantifies control on hydrological processes"
+   },
+   {
+    "id": "soil-form-054",
+    "reason": "topographic control on wetness along a slope"
+   }
+  ],
+  "soil-meth-010": [
+   {
+    "id": "soil-meth-011",
+    "reason": "NDVI is computed from red and near-infrared bands"
+   }
+  ],
+  "soil-meth-011": [],
+  "soil-meth-012": [
+   {
+    "id": "soil-meth-011",
+    "reason": "hyperspectral extends band imaging to many continuous bands"
+   }
+  ],
+  "soil-meth-013": [
+   {
+    "id": "soil-chem-078",
+    "reason": "used as a soil laboratory analysis method"
+   }
+  ],
+  "soil-meth-014": [
+   {
+    "id": "soil-found-001",
+    "reason": "radar reflections come from buried boundaries such as horizons"
+   }
+  ],
+  "soil-meth-015": [
+   {
+    "id": "soil-phys-042",
+    "reason": "the technique images resistivity"
+   }
+  ],
+  "soil-meth-016": [
+   {
+    "id": "soil-form-097",
+    "reason": "it maps the elements of planetary surface regolith"
+   }
+  ],
+  "soil-meth-017": [
+   {
+    "id": "soil-meth-004",
+    "reason": "models fitted to profiles and environmental covariates"
+   },
+   {
+    "id": "soil-form-002",
+    "reason": "the models are fitted to soil profiles"
+   }
+  ],
+  "soil-found-116": [
+   {
+    "id": "soil-found-001",
+    "reason": "pits expose the horizons of the subsurface"
+   }
+  ],
+  "soil-found-117": [
+   {
+    "id": "soil-found-077",
+    "reason": "cores sample soil and sediment"
+   }
+  ],
+  "soil-chem-169": [
+   {
+    "id": "soil-chem-128",
+    "reason": "it is a form of anaerobic respiration"
+   },
+   {
+    "id": "soil-chem-176",
+    "reason": "the metal is the terminal electron acceptor"
+   }
+  ],
+  "soil-chem-170": [
+   {
+    "id": "soil-chem-178",
+    "reason": "green rust mixes iron(II) and iron(III)"
+   },
+   {
+    "id": "soil-chem-163",
+    "reason": "it is an iron hydroxide phase"
+   }
+  ],
+  "soil-chem-171": [
+   {
+    "id": "soil-chem-177",
+    "reason": "dissolved iron is the electron donor"
+   },
+   {
+    "id": "soil-chem-113",
+    "reason": "energy comes from oxidizing iron"
+   },
+   {
+    "id": "soil-chem-119",
+    "reason": "they carry out a biological redox reaction"
+   }
+  ],
+  "soil-chem-172": [
+   {
+    "id": "soil-chem-113",
+    "reason": "manganese cycles between redox states"
+   },
+   {
+    "id": "soil-chem-178",
+    "reason": "the cycle turns on manganese oxidation states"
+   },
+   {
+    "id": "soil-chem-118",
+    "reason": "much of the cycle runs through soil redox"
+   }
+  ],
+  "soil-chem-173": [
+   {
+    "id": "soil-chem-172",
+    "reason": "forms within the manganese cycle"
+   },
+   {
+    "id": "soil-chem-123",
+    "reason": "solubility is set by redox potential"
+   },
+   {
+    "id": "soil-found-014",
+    "reason": "solubility is set by pH"
+   }
+  ],
+  "soil-chem-174": [
+   {
+    "id": "soil-chem-129",
+    "reason": "methanogens carry out methanogenesis"
+   },
+   {
+    "id": "soil-chem-175",
+    "reason": "they are anaerobic"
+   }
+  ],
+  "soil-chem-175": [
+   {
+    "id": "soil-chem-128",
+    "reason": "they live by anaerobic metabolism"
+   }
+  ],
+  "soil-chem-176": [
+   {
+    "id": "soil-chem-113",
+    "reason": "electron transfer is redox"
+   },
+   {
+    "id": "soil-chem-114",
+    "reason": "an acceptor acts as an oxidizing agent"
+   }
+  ],
+  "soil-chem-177": [
+   {
+    "id": "soil-chem-113",
+    "reason": "electron transfer is redox"
+   },
+   {
+    "id": "soil-chem-115",
+    "reason": "a donor acts as a reducing agent"
+   },
+   {
+    "id": "soil-chem-176",
+    "reason": "a donor transfers electrons to an acceptor"
+   }
+  ],
+  "soil-chem-178": [
+   {
+    "id": "soil-chem-113",
+    "reason": "oxidation state measures how far an atom is oxidized"
+   }
+  ],
+  "soil-chem-179": [
+   {
+    "id": "soil-chem-117",
+    "reason": "it sets the zero of electrode potentials"
+   },
+   {
+    "id": "soil-chem-113",
+    "reason": "it is a reference for redox potentials"
+   }
+  ],
+  "soil-chem-180": [
+   {
+    "id": "soil-chem-123",
+    "reason": "one axis is redox potential Eh"
+   },
+   {
+    "id": "soil-chem-183",
+    "reason": "or pe"
+   },
+   {
+    "id": "soil-found-014",
+    "reason": "the other axis is pH"
+   }
+  ],
+  "soil-chem-181": [
+   {
+    "id": "soil-found-079",
+    "reason": "the equilibrium is between solid and solution"
+   }
+  ],
+  "soil-chem-182": [
+   {
+    "id": "soil-water-218",
+    "reason": "formed under waterlogging"
+   },
+   {
+    "id": "soil-chem-125",
+    "reason": "reduction in waterlogged soils shapes its development"
+   }
+  ],
+  "soil-chem-183": [
+   {
+    "id": "soil-chem-123",
+    "reason": "pe is a measure of redox potential"
+   },
+   {
+    "id": "soil-found-014",
+    "reason": "defined by analogy with pH"
+   }
+  ],
+  "soil-bio-237": [
+   {
+    "id": "soil-bio-002",
+    "reason": "Azospirillum is a genus of soil bacteria"
+   },
+   {
+    "id": "soil-bio-155",
+    "reason": "it promotes plant growth from the rhizosphere"
+   }
+  ],
+  "soil-bio-238": [
+   {
+    "id": "soil-bio-178",
+    "reason": "Bradyrhizobium is a rhizobial genus"
+   },
+   {
+    "id": "soil-bio-179",
+    "reason": "fixes nitrogen in root nodules"
+   }
+  ],
+  "soil-bio-239": [
+   {
+    "id": "soil-bio-178",
+    "reason": "Rhizobium is a rhizobial genus"
+   },
+   {
+    "id": "soil-bio-179",
+    "reason": "lives in root nodules"
+   }
+  ],
+  "soil-bio-240": [
+   {
+    "id": "soil-bio-173",
+    "reason": "the mycelium grows out from ectomycorrhizas"
+   },
+   {
+    "id": "soil-bio-216",
+    "reason": "it is a mass of hyphae"
+   },
+   {
+    "id": "soil-bio-217",
+    "reason": "it is a mycelium"
+   }
+  ],
+  "soil-bio-241": [
+   {
+    "id": "soil-bio-240",
+    "reason": "types are defined by extramatrical mycelium growth"
+   }
+  ],
+  "soil-bio-242": [
+   {
+    "id": "soil-bio-133",
+    "reason": "a fine root is a class of root"
+   }
+  ],
+  "soil-bio-243": [
+   {
+    "id": "soil-bio-242",
+    "reason": "the schemes divide fine roots"
+   },
+   {
+    "id": "soil-bio-134",
+    "reason": "position in the branching hierarchy"
+   }
+  ],
+  "soil-bio-244": [
+   {
+    "id": "soil-bio-133",
+    "reason": "a lateral root grows from the primary root"
+   }
+  ],
+  "soil-bio-245": [],
+  "soil-bio-246": [
+   {
+    "id": "soil-bio-157",
+    "reason": "they improve the mycorrhizal symbiosis"
+   },
+   {
+    "id": "soil-bio-173",
+    "reason": "associate with ectomycorrhizal fungi"
+   },
+   {
+    "id": "soil-bio-166",
+    "reason": "and arbuscular mycorrhizal fungi"
+   },
+   {
+    "id": "soil-bio-002",
+    "reason": "they are soil bacteria"
+   }
+  ],
+  "soil-bio-247": [
+   {
+    "id": "soil-bio-157",
+    "reason": "the zone includes mycorrhizal fungi"
+   },
+   {
+    "id": "soil-bio-143",
+    "reason": "extends the rhizosphere concept"
+   },
+   {
+    "id": "soil-bio-216",
+    "reason": "includes the fungal hyphae"
+   }
+  ],
+  "soil-bio-248": [
+   {
+    "id": "soil-bio-247",
+    "reason": "practices act on the mycorrhizosphere"
+   }
+  ],
+  "soil-bio-249": [
+   {
+    "id": "soil-bio-003",
+    "reason": "they are soil fungi"
+   },
+   {
+    "id": "soil-bio-143",
+    "reason": "they colonise roots chiefly in the rhizosphere"
+   }
+  ],
+  "soil-bio-250": [
+   {
+    "id": "soil-bio-143",
+    "reason": "plants change the biology of the soil around roots"
+   },
+   {
+    "id": "soil-bio-069",
+    "reason": "soil pathogens are a main feedback agent"
+   }
+  ],
+  "soil-bio-251": [],
+  "soil-bio-252": [
+   {
+    "id": "soil-bio-133",
+    "reason": "built to study roots and soil"
+   }
+  ],
+  "soil-hist-136": [
+   {
+    "id": "soil-found-090",
+    "reason": "a soil science journal"
+   }
+  ],
+  "soil-meth-018": [
+   {
+    "id": "soil-found-051",
+    "reason": "the fraction is defined by particle size"
+   },
+   {
+    "id": "soil-phys-044",
+    "reason": "it excludes gravel over 2 mm"
+   }
+  ],
+  "soil-meth-019": [
+   {
+    "id": "soil-found-045",
+    "reason": "mass lost estimates organic matter"
+   },
+   {
+    "id": "soil-chem-078",
+    "reason": "a soil laboratory method"
+   }
+  ],
+  "soil-meth-020": [
+   {
+    "id": "soil-chem-078",
+    "reason": "a wet-chemistry laboratory method"
+   }
+  ],
+  "soil-meth-021": [
+   {
+    "id": "soil-chem-078",
+    "reason": "a laboratory analysis of soil"
+   }
+  ],
+  "soil-meth-022": [
+   {
+    "id": "soil-chem-046",
+    "reason": "used to measure CEC"
+   },
+   {
+    "id": "soil-chem-047",
+    "reason": "ammonium displaces exchangeable cations"
+   },
+   {
+    "id": "soil-chem-051",
+    "reason": "a standard CEC measurement"
+   }
+  ],
+  "soil-meth-023": [
+   {
+    "id": "soil-meth-021",
+    "reason": "AAS is an elemental analysis method"
+   },
+   {
+    "id": "soil-chem-078",
+    "reason": "a soil laboratory method"
+   }
+  ],
+  "soil-meth-024": [
+   {
+    "id": "soil-meth-021",
+    "reason": "ICP-AES detects chemical elements"
+   }
+  ],
+  "soil-meth-025": [
+   {
+    "id": "soil-meth-024",
+    "reason": "uses the same inductively coupled plasma"
+   },
+   {
+    "id": "soil-meth-021",
+    "reason": "an elemental analysis method"
+   }
+  ],
+  "soil-meth-026": [
+   {
+    "id": "soil-chem-047",
+    "reason": "separation by affinity for an ion exchanger"
+   },
+   {
+    "id": "soil-chem-078",
+    "reason": "a soil laboratory method"
+   }
+  ],
+  "soil-meth-027": [
+   {
+    "id": "soil-chem-078",
+    "reason": "a laboratory sensor for ions in solution"
+   }
+  ],
+  "soil-meth-028": [
+   {
+    "id": "soil-chem-078",
+    "reason": "a colorimetric laboratory test"
+   }
+  ],
+  "soil-meth-029": [
+   {
+    "id": "soil-chem-078",
+    "reason": "a laboratory separation method"
+   }
+  ],
+  "soil-bio-253": [
+   {
+    "id": "soil-bio-039",
+    "reason": "an exoenzyme is a kind of enzyme"
+   },
+   {
+    "id": "soil-bio-115",
+    "reason": "it breaks down large molecules"
+   }
+  ],
+  "soil-bio-254": [
+   {
+    "id": "soil-bio-253",
+    "reason": "fungi secrete exoenzymes"
+   },
+   {
+    "id": "soil-bio-003",
+    "reason": "the enzymes come from soil fungi"
+   },
+   {
+    "id": "soil-bio-116",
+    "reason": "they degrade complex matter such as lignin"
+   },
+   {
+    "id": "soil-bio-106",
+    "reason": "most activity is in leaf litter"
+   }
+  ],
+  "soil-bio-255": [
+   {
+    "id": "soil-bio-039",
+    "reason": "assays estimate soil enzyme activity"
+   },
+   {
+    "id": "soil-bio-253",
+    "reason": "activity of secreted enzymes"
+   }
+  ],
+  "soil-bio-256": [
+   {
+    "id": "soil-bio-039",
+    "reason": "a soil enzyme"
+   },
+   {
+    "id": "soil-found-014",
+    "reason": "works best at acidic pH"
+   }
+  ],
+  "soil-bio-257": [
+   {
+    "id": "soil-bio-039",
+    "reason": "a soil enzyme"
+   }
+  ],
+  "soil-bio-258": [
+   {
+    "id": "soil-bio-116",
+    "reason": "cleaves lignin-like compounds"
+   },
+   {
+    "id": "soil-bio-253",
+    "reason": "a secreted ligninase"
+   }
+  ],
+  "soil-bio-259": [
+   {
+    "id": "soil-bio-116",
+    "reason": "a ligninolytic peroxidase"
+   },
+   {
+    "id": "soil-bio-253",
+    "reason": "a secreted enzyme"
+   },
+   {
+    "id": "soil-chem-178",
+    "reason": "oxidises Mn(II) to Mn(III)"
+   }
+  ],
+  "soil-bio-260": [],
+  "soil-bio-261": [
+   {
+    "id": "soil-bio-011",
+    "reason": "amplified DNA is used to study soil microbes"
+   }
+  ],
+  "soil-bio-262": [
+   {
+    "id": "soil-bio-261",
+    "reason": "barcodes are amplicons"
+   },
+   {
+    "id": "soil-bio-011",
+    "reason": "identifies many microbial taxa"
+   }
+  ],
+  "soil-bio-263": [
+   {
+    "id": "soil-bio-011",
+    "reason": "traces uptake by microorganisms"
+   },
+   {
+    "id": "soil-bio-219",
+    "reason": "a microbial ecology technique"
+   }
+  ],
+  "soil-bio-264": [
+   {
+    "id": "soil-fert-184",
+    "reason": "element ratios such as C:N are the core measure"
+   }
+  ],
+  "soil-bio-265": [
+   {
+    "id": "soil-bio-039",
+    "reason": "a model of enzyme kinetics"
+   }
+  ],
+  "soil-bio-266": [
+   {
+    "id": "soil-bio-128",
+    "reason": "microbes transform dissolved organic carbon"
+   },
+   {
+    "id": "soil-bio-011",
+    "reason": "the pump is run by microorganisms"
+   }
+  ],
+  "soil-bio-267": [],
+  "soil-bio-268": [
+   {
+    "id": "soil-bio-002",
+    "reason": "resistance genes of bacterial communities"
+   }
+  ],
+  "soil-bio-269": [
+   {
+    "id": "soil-bio-011",
+    "reason": "the living microbes of soil"
+   },
+   {
+    "id": "soil-found-045",
+    "reason": "a few percent of soil organic matter"
+   }
+  ],
+  "soil-bio-270": [
+   {
+    "id": "soil-bio-269",
+    "reason": "carbon going into microbial biomass"
+   },
+   {
+    "id": "soil-bio-033",
+    "reason": "versus carbon respired for maintenance"
+   }
+  ],
+  "soil-env-271": [
+   {
+    "id": "soil-chem-133",
+    "reason": "an irrigation method for paddy rice"
+   },
+   {
+    "id": "soil-chem-129",
+    "reason": "drying interrupts methanogenesis"
+   }
+  ],
+  "soil-env-272": [
+   {
+    "id": "soil-fert-053",
+    "reason": "permanence measures biochar carbon removal"
+   },
+   {
+    "id": "soil-fert-050",
+    "reason": "the carbon is held in biochar"
+   }
+  ],
+  "soil-env-273": [
+   {
+    "id": "soil-fert-053",
+    "reason": "credits pay for biochar carbon removal"
+   },
+   {
+    "id": "soil-env-272",
+    "reason": "credits require durable storage"
+   }
+  ],
+  "soil-env-274": [
+   {
+    "id": "soil-water-261",
+    "reason": "a route of wetland emission"
+   },
+   {
+    "id": "soil-chem-129",
+    "reason": "methane is made by methanogenesis"
+   },
+   {
+    "id": "soil-water-124",
+    "reason": "routes out of wetland soils"
+   }
+  ],
+  "soil-env-275": [
+   {
+    "id": "soil-env-274",
+    "reason": "controls act on the emission pathways"
+   },
+   {
+    "id": "soil-water-247",
+    "reason": "water table is a chief control"
+   },
+   {
+    "id": "soil-chem-129",
+    "reason": "substrate controls methanogenesis"
+   }
+  ],
+  "soil-env-276": [
+   {
+    "id": "soil-water-261",
+    "reason": "part of wetland greenhouse gas exchange"
+   },
+   {
+    "id": "soil-fert-118",
+    "reason": "nitrous oxide emission from soil"
+   },
+   {
+    "id": "soil-fert-108",
+    "reason": "denitrification produces and consumes N2O"
+   }
+  ],
+  "soil-env-277": [
+   {
+    "id": "soil-water-261",
+    "reason": "drainage alters wetland emissions"
+   },
+   {
+    "id": "soil-env-280",
+    "reason": "drying favours methane oxidation"
+   },
+   {
+    "id": "soil-chem-129",
+    "reason": "flooding favours methanogenesis"
+   }
+  ],
+  "soil-env-278": [
+   {
+    "id": "soil-env-105",
+    "reason": "covers emissions from land-use change"
+   },
+   {
+    "id": "soil-env-102",
+    "reason": "removals and emissions in the carbon cycle"
+   }
+  ],
+  "soil-env-279": [
+   {
+    "id": "soil-chem-129",
+    "reason": "natural methane comes from methanogenesis"
+   },
+   {
+    "id": "soil-water-124",
+    "reason": "wetlands are a main natural source"
+   }
+  ]
+ }
+}

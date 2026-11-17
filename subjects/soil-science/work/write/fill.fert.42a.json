@@ -1,0 +1,111 @@
+{
+ "entries": {
+  "soil-fert-190": {
+   "title": "Testing garden soil for lead",
+   "text": "Lead is a particularly dangerous soil contaminant, and a soil test can judge how much risk a garden carries. Other common mineral contaminants include arsenic, barium, cadmium, copper, mercury and zinc. Children and pregnant women should avoid soil with an estimated total lead content above 300 ppm. Levels of 500–1000 ppm are rated medium, and 1000–3000 ppm high. Advice includes siting gardens away from old painted buildings and busy roads, adding {{ref:soil-fert-028}}, and raising the soil to pH 6.5, which minimizes lead availability."
+  },
+  "soil-fert-160": {
+   "title": "Boron, the micronutrient of flowers and growing tips",
+   "text": "Boron cannot travel in the phloem, so it must reach a plant's growing parts through the xylem. When it runs short, terminal growing points die and growth is stunted. This micronutrient affects flowering, fruiting, pollen germination, cell division and cell walls. Mobile in soil, it leaches readily from sandy soils but little from silt or clay. Decomposing organic matter leaves boron in the topmost layer, so deficiency appears in dry weather, when plants cannot draw on that drying layer. More than one ppm in the soil solution is toxic to most plants, but toxic soils are mostly limited to arid regions."
+  },
+  "soil-fert-167": {
+   "title": "Hydroponics: growing plants without soil",
+   "text": "Plants need what soil provides, not the soil itself. Hydroponics grows them in a water-nutrient solution instead of nutrient-rich soil or substrate. The most common solution, developed by D. R. Hoagland and W. C. Snyder in 1933, holds all the essential macro- and micronutrients in the proportions most plants need. Aerators prevent hypoxia, a shortage of oxygen that inhibits root respiration and so nutrient uptake. In the nutrient film technique, a thin film of solution flows past roots that are not fully submerged, keeping them aerated."
+  },
+  "soil-fert-159": {
+   "title": "Iron, the metal behind green leaves",
+   "text": "Iron is not part of chlorophyll, yet a plant cannot make chlorophyll without it. This micronutrient is an enzyme cofactor, a helper the enzymes need, in photosynthesis and electron transport. Deficiency causes interveinal chlorosis and necrosis. It can stem from excess heavy metals or lime in the soil, or from a lack of copper. Iron(II) is the most useful form because it is more soluble at neutral pH. Plants can also use iron(III) through the photo-reduction of ferric citrate. In the field, iron fertilizer is supplied as a chelate, a compound that holds the metal in a form plants can take up."
+  },
+  "soil-fert-165": {
+   "title": "When one nutrient gets in another's way",
+   "text": "Feeding a plant one nutrient can starve it of another. Nutrient interactions are the ways the supply of one nutrient affects the uptake, movement or action of another. Calcium and magnesium inhibit uptake of trace metals, and copper and zinc reduce each other's uptake. Such effects depend on species and growing conditions. The amount of ammonium available can influence potassium uptake. Potash fertilizers can reduce uptake of phosphorus, magnesium and calcium, so imbalanced potassium fertilizing can markedly lower yields. Heavy nitrogen applications on sulfur-poor fields can cause sulfur deficiency by dilution, as faster growth raises the plant's sulfur demand."
+  },
+  "soil-fert-164": {
+   "title": "Too much of a good thing: nutrient toxicity",
+   "text": "An element a plant cannot live without can also poison it. Plant nutrient toxicity is harm from a nutrient present at too high a level. Excess soluble boron, molybdenum and chloride are toxic. Boron above 1 ppm in soil water harms most plants. Within plants, 10 to 50 ppm is toxic for small grains, while tolerant crops such as sugar beets withstand 200 ppm. A fertile soil lacks toxic substances such as Fe2+. Diagnosis is tricky. Deficiency of one element can look like toxicity from another, and an abundance of one nutrient can cause deficiency of another."
+  },
+  "soil-fert-166": {
+   "title": "Plant tissue analysis: asking the crop instead of the soil",
+   "text": "Sometimes the surest way to learn what a soil supplies is to analyze the plant. Plant tissue analysis describes a plant's nutrient status, also called its ionome or nutrient profile. Interpreting the results has been controversial. In recent decades, mathematical models that allow for interactions between nutrients have replaced the nearly two-century-old Liebig's law in this work. Tissue tests can identify nitrogen deficiencies, and sensing chlorophyll content allows variable nitrogen rates during the season. Analysis can also reveal boron deficiency early enough to correct it. Once symptoms appear, crop loss cannot be prevented."
+  },
+  "soil-fert-161": {
+   "title": "Zinc, the most widely missing micronutrient",
+   "text": "Zinc is the most widely deficient micronutrient in industrial crop production, followed by boron. A large number of plant enzymes need it, and it is essential to DNA transcription. A zinc-starved plant shows 'little leaf': its leaves are stunted because the growth hormone auxin breaks down by oxidation. Shortened internodes, the stem lengths between leaves, stack the leaves together. Heavy phosphate applications can cause deficiency by forming insoluble zinc phosphates, though soil pH can modify the effect. Copper and zinc reduce each other's uptake, and zinc also affects a plant's iron levels."
+  },
+  "soil-fert-185": {
+   "title": "Balancing carbon and nitrogen in a rotting heap",
+   "text": "A heap of rotting plant matter needs the same balance of carbon and nitrogen that soil does. In {{ref:soil-fert-028}}, the microbes prefer feedstocks with a carbon-to-nitrogen ratio of 30–35:1, though some carbon, especially lignin, is not fully digested. An imbalanced ratio slows the process and lowers its temperature. Below 15:1, ammonium can outgas, causing odor and nitrogen loss. The finished product has a C:N of around 10:1. Feedstock contents come from lookup tables. A mixture's ratio is the summed carbon of all its components divided by their summed nitrogen."
+  },
+  "soil-fert-186": {
+   "title": "Reading old mud: the carbon-to-nitrogen ratio of sediments",
+   "text": "The mud on a lake bed records what once grew around it. The sediment C/N ratio uses the carbon-to-nitrogen ratio of sediments as a clue to the sources of their organic matter and to past climate. Ratios of 4–10:1 usually mean marine sources, while land vascular plants tend to exceed 20. Algae lack cellulose and hold more protein. Bacteria eat the nitrogen-rich part of sinking matter first. The ratio therefore rises with depth, to about 10 at 1000 m and up to 15 below about 2500 m. In lake cores, abrupt shifts between algal and land-plant sources suggest deep-water or shallow, marshy phases."
+  },
+  "soil-fert-201": {
+   "title": "Iron deficiency chlorosis: yellow leaves in iron-rich soil",
+   "text": "Azaleas, camellias, raspberries and pears can turn yellow in soil full of iron. Iron deficiency chlorosis, also called lime-induced chlorosis, is a disorder in which a plant gets too little iron to make enough chlorophyll. Soil iron becomes unavailable when soil pH is above 6.5, and excess manganese can also block uptake. Iron is not mobile in the plant, so yellowing appears between the veins of new leaves. Organic matter, acidifying ammonium sulphate or slow-acting elemental sulphur can lower the pH toward 6.5–7. For quick relief, iron sulphate and Fe EDTA work only up to pH 7.1, but Fe EDDHA works up to pH 9."
+  },
+  "soil-fert-193": {
+   "title": "The nutrient management plan, rewritten every year",
+   "text": "A nutrient management plan is never finished: it is reviewed and updated every year. It makes a crop's nutrient sources more efficient while lowering production and environmental risk. It is generally agreed to have ten components. It begins with a field map of reference points, acreage and soil types, and a soil test to set nutrient rates. It weighs crop sequence, yield estimates from historic records, nutrient sources such as animal dung, and sensitive areas near streams or wells. It then sets rates, timing and methods, favoring injection where feasible. For animal feeding operations it may center on {{ref:soil-fert-098}}. Some U.S. agencies require one."
+  },
+  "soil-fert-180": {
+   "title": "Beneficial elements: helpful, but not required",
+   "text": "Some elements help a plant without being strictly required. Beneficial elements improve plant health, but their absence does not stop the life cycle. Examples include cobalt, strontium, vanadium, silicon and nickel. Silicon strengthens cell walls and improves drought and frost resistance, resistance to lodging and pest defenses. Cobalt seems unneeded by most plants but is essential for the bacteria that fix nitrogen with legumes. Sodium can partly take over potassium's control of the stomata and is essential for C4 plants. Selenium fertilizers raise crop selenium and help animals fed from selenium-deficient soils. Such elements may join the essential list as their importance is weighed."
+  },
+  "soil-fert-176": {
+   "title": "Calcium, the builder of cell walls",
+   "text": "Calcium helps hold a plant together as part of its cell walls. This secondary macronutrient also aids root development and acts as a messenger in the cytosol, the fluid inside cells. Soil calcium occurs as insoluble calcite and dolomite, as a divalent cation in solution, as exchangeable ions on particle surfaces, and complexed with organic matter. It is more available than potassium because calcite dissolves more readily than feldspar. Mass flow alone usually brings enough to roots. Being soluble, it leaches, so it runs low in sandy, heavily leached or strongly acidic soils, which then need {{ref:soil-fert-055}}."
+  },
+  "soil-fert-171": {
+   "title": "Carbon: the nutrient plants pull from the air",
+   "text": "About 45% of a plant's dry mass is carbon, and most of it comes from the air. Plants take carbon mainly as carbon dioxide, through photosynthesis. They also take dissolved carbon from the soil solution and receive it through mycorrhizal networks. At its normal 0.03% in air, CO2 can limit growth when water and nutrients are not scarce. Raising CO2 strongly promotes growth, up to levels above 300 ppm. Soil air holds 10 to 100 times the atmospheric concentration. When porosity is low or flooding blocks diffusion, it can reach toxic levels."
+  },
+  "soil-fert-177": {
+   "title": "Magnesium, the metal inside chlorophyll",
+   "text": "Every chlorophyll molecule contains magnesium. This secondary macronutrient also activates many enzyme reactions, working closely with energy-supplying phosphorus compounds. In most soils it is one of the dominant exchangeable cations, after calcium and potassium. Weathering of hornblende, biotite and vermiculite releases it. Highly weathered and sandy soils may become deficient as heavy rain leaches it away."
+  },
+  "soil-fert-173": {
+   "title": "Three ways nitrogen escapes from soil",
+   "text": "Nitrogen rarely stays where it is put. Nitrate leaches easily, unlike ammonium, and pollutes groundwater or runoff, especially under heavy fertilizer use. In poorly aerated soil, bacteria short of oxygen respire with nitrate and release N2 or N2O. This {{ref:soil-fert-108}} can remove 25 percent of the nitrogen in fertilizer and animal dung on heavy clay. On alkaline soils ammonium turns to ammonia gas, and ammonium fertilizer applied there can lose as much as 87 percent this way. These losses drive aquifer and air pollution, soil acidification and the overfeeding of lakes and rivers, causing severe biodiversity loss in natural ecosystems."
+  },
+  "soil-fert-194": {
+   "title": "Nitrogen management: keeping a restless nutrient in the field",
+   "text": "Careful choice of fertilizer source, rate, timing and placement can cut nitrous oxide emissions per unit of crop by up to half. Nitrogen management aims for crops to use applied nitrogen as fully as possible, with as little as possible lost. Of the 16 essential nutrients, nitrogen is usually the hardest to manage, because plant-available nitrogen changes quickly with soil water. It escapes by leaching, runoff, erosion, ammonia volatilization and loss as gas from oxygen-starved soil. Nitrate is the form most at risk. Rates should allow for nitrogen mineralized from organic matter and legume residues, and for nitrogen in animal dung, irrigation water and the atmosphere. Applying nitrogen close to crop uptake in split doses reduces losses. So do slow-release products and additives that keep nitrogen as ammonium. Working ammonium fertilizers into the soil cuts ammonia losses. Deep-rooted rotations capture leftover nitrate, while buffers and built wetlands strip nitrogen from runoff and drainage water. Models such as NLEAP and Adapt-N use daily soil, weather and crop data to predict the fate of applied nitrogen."
+  },
+  "soil-fert-195": {
+   "title": "Testing soil and crops for nitrogen",
+   "text": "Nitrogen needs can be checked before, during and after a season. Soil and crop nitrogen tests judge whether, and how much, nitrogen a crop needs. Preplant soil tests show the soil's nitrogen-supplying power, and late-spring or pre-side-dress tests decide whether more is needed. Amino sugar tests, grid mapping and real-time sensors can refine those needs. Plant tissue tests identify deficiencies. After harvest, tests check the season's management. Corn stalk nitrate tests taken after black layer show whether the last crop got too little, enough or too much nitrogen."
+  },
+  "soil-fert-178": {
+   "title": "Sulfur, the nutrient that follows organic matter",
+   "text": "Sulfur behaves much like phosphorus in the soil. Most of it becomes available as decomposing organic matter releases it, so it declines with depth along with organic matter. This secondary macronutrient is part of some amino acids and vitamins and is essential for chloroplasts. Plants need it to turn nitrate into amino acids and protein, and legumes need it to fix nitrogen. Some soils, especially sandy ones, are deficient and need sulfur added when cropped. Sulfur cannot be moved out of older leaves, so yellowing and stunting appear first in the youngest tissues."
+  },
+  "soil-fert-196": {
+   "title": "Nutrient depletion: when the first link of the food chain fails",
+   "text": "Overfarming can turn fertile soil into barren land within a few years. Nutrient depletion is the loss of nutrients and micronutrients from a habitat, most often the soil, and a form of resource depletion. It ends in nutrient deficiency. Its opposite is {{ref:soil-env-019}}, and both tend to reduce biodiversity. Nutrients are the first link in food chains, so their loss disturbs the flow of nutrients through ecosystems and whole food chains, reaching people as malnourishment. Growing the same crop with the same fertilizer on the same land every year yields decreasing returns."
+  },
+  "soil-fert-199": {
+   "title": "Barren vegetation: sparse plants on hard ground",
+   "text": "Barren vegetation marks land where plant growth is sparse or stunted and biodiversity may be limited. Toxic or infertile soil, high winds, coastal salt spray and climate are often key causes. Barren does not always mean poor in species. Serpentine barrens form on soils weathered from ultramafic bedrock, short of water, nitrogen and phosphorus. Yet they carry very diverse floras with many endemics, plants found nowhere else. The Pine Barrens grow on acidic, coarse sands and gravels whose mature soils are siliceous, highly permeable podzols."
+  },
+  "soil-fert-191": {
+   "title": "The Illinois Soil Nitrogen Test: beyond guessing by the bushel",
+   "text": "Since about 1975, Corn Belt farmers have often sized nitrogen doses by the bushel, applying 1.1 to 1.4 lbs per bushel of expected corn. Illinois trials found this yield-based method usually over-applies nitrogen. The excess is lost to air or water and appears to speed the decomposition of soil organic matter. The Illinois Soil Nitrogen Test, introduced in 2007, offers an alternative. It estimates amino sugar nitrogen to measure the soil nitrogen available to plants. For corn and soybeans the optimal range is around 225 to 240 mg/kg. Below it, some nitrogen fertilizer is needed. Above it, more nitrogen will not increase yield."
+  },
+  "soil-fert-183": {
+   "title": "Liebig's barrel: a crop is only as full as its shortest stave",
+   "text": "A barrel with staves of unequal length holds water only up to its shortest stave. Dobenecks used this picture to explain Liebig's law: a plant's growth is limited by the nutrient in shortest supply, as the barrel is by its shortest stave. The image has a twist. Adaptation acts like a cooper lengthening the shortest stave, so well-adapted systems compensate for their limiting factor as far as possible. Hence a paradox. A law of the minimum seen in artificial systems should be violated in nature, where adaptation evens out the load among factors."
+  },
+  "soil-fert-200": {
+   "title": "The Law of the Maximum: growth as a product of many factors",
+   "text": "Arthur Wallace built his rule around about 70 growth factors. His Law of the Maximum holds that total crop growth is proportional to them and cannot exceed their aggregate value. Each factor scores from 0, no growth, to 1, maximum, and growth is their product. Three factors at 0.5 give 12.5% of optimum; three at 0.9 give 72.9%. In a demonstration, low phosphorus alone gave 83% of optimum growth and low nitrogen 71%. Both together gave 57%, close to the predicted 59%. The factors span nutrients, soil conditions, soil biology, weather and management. Unless limiting factors are corrected, other inputs are wasted."
+  },
+  "soil-fert-168": {
+   "title": "Luxury consumption: when a plant takes more than it needs",
+   "text": "Give a plant more potassium than it needs and it may take it anyway. Luxury consumption is uptake of more of a nutrient than healthy growth requires. Macronutrients, normally 0.15% to 6.0% of plant dry matter, are sometimes taken up beyond need, especially when fertilizer is applied in excess. Potassium uptake rises with root temperature and depresses calcium uptake. Calcium itself was long regarded as a luxury but is now considered essential, for cell walls and membranes among other roles."
+  }
+ },
+ "reviews": {
+  "nutrients-and-plant-nutrition": "Every thread in this chapter leads back to sixteen elements and the soil that holds them. A fertile soil supplies them in adequate amounts and proportions, and the scarcest one limits growth, a rule later refined to allow for interactions between nutrients. Mass flow, diffusion and root interception carry dissolved ions to roots, and each nutrient's mobility inside the plant decides where a shortage shows. When harvests remove more than is replaced, as in colonial New England and on Southern plantations, soils are depleted. Soil tests, tissue analysis and nutrient management plans aim to put the right source at the right rate, time and place, while losing as little as possible to air and water."
+ }
+}

@@ -1,0 +1,1015 @@
+{
+ "entries": {
+  "soil-env-280": [
+   {
+    "id": "soil-bio-011",
+    "reason": "methanotrophs are soil microbes"
+   },
+   {
+    "id": "soil-chem-129",
+    "reason": "they consume the methane that methanogenesis produces"
+   },
+   {
+    "id": "soil-bio-002",
+    "reason": "bacteria are one of the two groups named"
+   }
+  ],
+  "soil-env-281": [
+   {
+    "id": "soil-water-136",
+    "reason": "rewetting acts on a drained peatland"
+   },
+   {
+    "id": "soil-class-074",
+    "reason": "it reverses peat drainage"
+   },
+   {
+    "id": "soil-class-070",
+    "reason": "the goal is renewed peat accumulation"
+   },
+   {
+    "id": "soil-class-079",
+    "reason": "rewetting is a form of peatland restoration"
+   }
+  ],
+  "soil-env-282": [
+   {
+    "id": "soil-env-281",
+    "reason": "paludiculture is rewetting combined with farming"
+   },
+   {
+    "id": "soil-water-136",
+    "reason": "practised on drained peatlands"
+   },
+   {
+    "id": "soil-class-074",
+    "reason": "it follows peat drainage"
+   }
+  ],
+  "soil-env-283": [
+   {
+    "id": "soil-env-280",
+    "reason": "uptake is carried out by methanotrophs"
+   },
+   {
+    "id": "soil-chem-129",
+    "reason": "methane is produced by methanogenesis"
+   },
+   {
+    "id": "soil-env-116",
+    "reason": "soils act as a methane sink"
+   }
+  ],
+  "soil-env-284": [
+   {
+    "id": "soil-env-102",
+    "reason": "models simulate the carbon cycle"
+   },
+   {
+    "id": "soil-env-114",
+    "reason": "they represent soil carbon feedback to climate"
+   },
+   {
+    "id": "soil-phys-207",
+    "reason": "they simulate the water cycle"
+   }
+  ],
+  "soil-agri-157": [
+   {
+    "id": "soil-water-081",
+    "reason": "bioretention treats stormwater"
+   },
+   {
+    "id": "soil-water-019",
+    "reason": "it intercepts surface runoff"
+   },
+   {
+    "id": "soil-chem-068",
+    "reason": "contaminants are retained by sorption in the soil"
+   }
+  ],
+  "soil-agri-158": [
+   {
+    "id": "soil-agri-059",
+    "reason": "a buffer strip is a soil conservation practice"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "the strip protects soil from erosion"
+   },
+   {
+    "id": "soil-water-019",
+    "reason": "it intercepts runoff"
+   }
+  ],
+  "soil-agri-159": [
+   {
+    "id": "soil-agri-158",
+    "reason": "a contour buffer strip is a kind of buffer strip"
+   },
+   {
+    "id": "soil-agri-123",
+    "reason": "strips run across the slope on the contour"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "it slows erosion on slopes"
+   }
+  ],
+  "soil-agri-160": [
+   {
+    "id": "soil-agri-158",
+    "reason": "a filter strip is a kind of buffer strip"
+   },
+   {
+    "id": "soil-water-019",
+    "reason": "it filters runoff from fields"
+   },
+   {
+    "id": "soil-water-046",
+    "reason": "it traps sediment"
+   },
+   {
+    "id": "soil-water-263",
+    "reason": "it shields riparian areas"
+   }
+  ],
+  "soil-agri-161": [
+   {
+    "id": "soil-agri-059",
+    "reason": "it is a soil and water conservation system"
+   },
+   {
+    "id": "soil-water-051",
+    "reason": "the hedgerows act as sediment control"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "it is aimed at soil erosion"
+   }
+  ],
+  "soil-form-127": [
+   {
+    "id": "soil-found-077",
+    "reason": "the distribution of soils across terrain"
+   },
+   {
+    "id": "soil-form-043",
+    "reason": "soil-forming factors explain the distribution"
+   }
+  ],
+  "soil-form-128": [
+   {
+    "id": "soil-found-052",
+    "reason": "slopes change as rock weathers"
+   },
+   {
+    "id": "soil-form-097",
+    "reason": "slopes are mantled by regolith"
+   },
+   {
+    "id": "soil-form-086",
+    "reason": "soil production sets erosion styles on slopes"
+   }
+  ],
+  "soil-form-129": [
+   {
+    "id": "soil-form-128",
+    "reason": "models describe hillslope erosion over time"
+   },
+   {
+    "id": "soil-form-086",
+    "reason": "sediment flux is set against soil production"
+   }
+  ],
+  "soil-form-130": [
+   {
+    "id": "soil-form-128",
+    "reason": "convex hills are a hillslope evolution outcome"
+   },
+   {
+    "id": "soil-form-086",
+    "reason": "the steady state balances soil production and erosion"
+   }
+  ],
+  "soil-form-131": [
+   {
+    "id": "soil-form-050",
+    "reason": "most tropical soils are strongly leached"
+   },
+   {
+    "id": "soil-form-081",
+    "reason": "ferrallitisation shapes humid tropical soils"
+   },
+   {
+    "id": "soil-form-043",
+    "reason": "climate is the controlling soil-forming factor"
+   }
+  ],
+  "soil-form-132": [
+   {
+    "id": "soil-form-087",
+    "reason": "the profiles differ by parent material"
+   },
+   {
+    "id": "soil-form-043",
+    "reason": "parent material is one soil-forming factor varied alone"
+   }
+  ],
+  "soil-form-133": [
+   {
+    "id": "soil-form-127",
+    "reason": "a regional account of soil geography"
+   },
+   {
+    "id": "soil-found-052",
+    "reason": "very ancient soils are deeply weathered"
+   },
+   {
+    "id": "soil-form-043",
+    "reason": "age is the dominant soil-forming factor there"
+   }
+  ],
+  "soil-env-285": [
+   {
+    "id": "soil-env-181",
+    "reason": "soil functions are a source of ecosystem services"
+   },
+   {
+    "id": "soil-bio-115",
+    "reason": "decomposition of wastes is a named service"
+   },
+   {
+    "id": "soil-fert-146",
+    "reason": "nutrient cycling underlies food provision"
+   }
+  ],
+  "soil-meth-030": [
+   {
+    "id": "soil-form-020",
+    "reason": "thin sections are the basis of micromorphology"
+   },
+   {
+    "id": "soil-found-029",
+    "reason": "the slice is studied for its minerals"
+   },
+   {
+    "id": "soil-form-134",
+    "reason": "thin sections are also made of rock"
+   }
+  ],
+  "soil-meth-031": [
+   {
+    "id": "soil-meth-030",
+    "reason": "biofabric is seen in thin sections"
+   },
+   {
+    "id": "soil-form-020",
+    "reason": "biofabric is a micromorphological feature"
+   },
+   {
+    "id": "soil-bio-047",
+    "reason": "made by burrowing organisms"
+   },
+   {
+    "id": "soil-bio-212",
+    "reason": "termites are named makers"
+   }
+  ],
+  "soil-meth-032": [
+   {
+    "id": "soil-meth-030",
+    "reason": "alteration is seen in thin section"
+   },
+   {
+    "id": "soil-found-052",
+    "reason": "natural alteration of minerals is weathering"
+   },
+   {
+    "id": "soil-found-029",
+    "reason": "alteration changes a mineral's composition and structure"
+   }
+  ],
+  "soil-chem-184": [
+   {
+    "id": "soil-found-029",
+    "reason": "the study of minerals"
+   },
+   {
+    "id": "soil-found-119",
+    "reason": "soil mineralogy applies mineralogy to soil"
+   },
+   {
+    "id": "soil-chem-076",
+    "reason": "a branch beside soil chemistry"
+   }
+  ],
+  "soil-chem-185": [
+   {
+    "id": "soil-found-034",
+    "reason": "pedogenic carbonate is a carbonate mineral"
+   },
+   {
+    "id": "soil-found-060",
+    "reason": "it forms in place by carbonation reactions"
+   },
+   {
+    "id": "soil-form-087",
+    "reason": "contrasted with carbonate inherited from parent material"
+   }
+  ],
+  "soil-chem-186": [
+   {
+    "id": "soil-found-031",
+    "reason": "the series orders silicate minerals"
+   },
+   {
+    "id": "soil-form-135",
+    "reason": "it describes crystallisation of igneous rock"
+   },
+   {
+    "id": "soil-found-029",
+    "reason": "a sequence of mineral formation"
+   }
+  ],
+  "soil-chem-187": [
+   {
+    "id": "soil-chem-186",
+    "reason": "weathering order mirrors crystallisation order"
+   },
+   {
+    "id": "soil-found-058",
+    "reason": "it ranks chemical weathering rates"
+   },
+   {
+    "id": "soil-form-135",
+    "reason": "it ranks igneous minerals"
+   }
+  ],
+  "soil-chem-188": [
+   {
+    "id": "soil-found-029",
+    "reason": "used to identify mineral structure"
+   },
+   {
+    "id": "soil-chem-184",
+    "reason": "a core soil mineralogy technique"
+   },
+   {
+    "id": "soil-chem-079",
+    "reason": "widely used to identify clay minerals"
+   }
+  ],
+  "soil-chem-189": [
+   {
+    "id": "soil-found-029",
+    "reason": "reveals the elements in a material"
+   },
+   {
+    "id": "soil-chem-184",
+    "reason": "a mineralogical analysis method"
+   }
+  ],
+  "soil-chem-190": [
+   {
+    "id": "soil-chem-184",
+    "reason": "applied to soil minerals"
+   },
+   {
+    "id": "soil-chem-079",
+    "reason": "used on clay minerals"
+   }
+  ],
+  "soil-chem-191": [
+   {
+    "id": "soil-chem-189",
+    "reason": "it reads emitted X-rays as in fluorescence"
+   },
+   {
+    "id": "soil-found-029",
+    "reason": "determines mineral composition"
+   }
+  ],
+  "soil-chem-192": [
+   {
+    "id": "soil-found-035",
+    "reason": "magnetic minerals are mostly oxides"
+   },
+   {
+    "id": "soil-chem-163",
+    "reason": "iron oxides carry soil magnetism"
+   },
+   {
+    "id": "soil-chem-166",
+    "reason": "maghemite is a key magnetic mineral"
+   }
+  ],
+  "soil-chem-193": [
+   {
+    "id": "soil-found-029",
+    "reason": "a class of mineral"
+   },
+   {
+    "id": "soil-form-136",
+    "reason": "minor components of siliciclastic sediments"
+   }
+  ],
+  "soil-chem-194": [
+   {
+    "id": "soil-chem-163",
+    "reason": "the extractions target iron oxides"
+   },
+   {
+    "id": "soil-chem-111",
+    "reason": "ferrihydrite is a phase dissolved selectively"
+   },
+   {
+    "id": "soil-found-035",
+    "reason": "aluminium and iron oxide phases"
+   }
+  ],
+  "soil-chem-195": [
+   {
+    "id": "soil-found-035",
+    "reason": "birnessite is a manganese oxide"
+   },
+   {
+    "id": "soil-found-029",
+    "reason": "a mineral"
+   }
+  ],
+  "soil-chem-196": [
+   {
+    "id": "soil-found-033",
+    "reason": "glauconite is a phyllosilicate"
+   },
+   {
+    "id": "soil-chem-135",
+    "reason": "a member of the mica group"
+   },
+   {
+    "id": "soil-found-052",
+    "reason": "noted for low weathering resistance"
+   }
+  ],
+  "soil-chem-197": [
+   {
+    "id": "soil-found-036",
+    "reason": "jarosite is a sulfate mineral"
+   },
+   {
+    "id": "soil-chem-134",
+    "reason": "it forms by oxidation of iron sulfides such as pyrite"
+   },
+   {
+    "id": "soil-chem-030",
+    "reason": "characteristic of acid sulfate soils"
+   },
+   {
+    "id": "soil-chem-113",
+    "reason": "formed by oxidation"
+   }
+  ],
+  "soil-chem-198": [
+   {
+    "id": "soil-found-036",
+    "reason": "an iron oxyhydroxysulfate mineral"
+   },
+   {
+    "id": "soil-chem-030",
+    "reason": "it forms in acid sulfate settings"
+   },
+   {
+    "id": "soil-chem-163",
+    "reason": "related to the iron oxides"
+   }
+  ],
+  "soil-chem-199": [
+   {
+    "id": "soil-found-031",
+    "reason": "zeolites are aluminosilicate minerals"
+   },
+   {
+    "id": "soil-chem-145",
+    "reason": "used as adsorbents"
+   },
+   {
+    "id": "soil-chem-046",
+    "reason": "noted for high exchange capacity"
+   }
+  ],
+  "soil-chem-200": [
+   {
+    "id": "soil-form-135",
+    "reason": "the product of rapidly cooled magma"
+   },
+   {
+    "id": "soil-form-152",
+    "reason": "volcanic ash is largely glass"
+   },
+   {
+    "id": "soil-found-029",
+    "reason": "contrasted with crystalline minerals"
+   }
+  ],
+  "soil-chem-201": [
+   {
+    "id": "soil-found-079",
+    "reason": "corrects ion concentrations in soil solution"
+   },
+   {
+    "id": "soil-chem-202",
+    "reason": "activity coefficients depend on ionic strength"
+   }
+  ],
+  "soil-chem-202": [
+   {
+    "id": "soil-found-079",
+    "reason": "measures ions in soil solution"
+   }
+  ],
+  "soil-chem-203": [
+   {
+    "id": "soil-chem-202",
+    "reason": "the theory is framed in ionic strength"
+   },
+   {
+    "id": "soil-chem-201",
+    "reason": "it predicts activity coefficients"
+   }
+  ],
+  "soil-chem-204": [
+   {
+    "id": "soil-found-079",
+    "reason": "substances normally stay dissolved in solution"
+   },
+   {
+    "id": "soil-chem-145",
+    "reason": "carrying down involves adsorption onto precipitates"
+   }
+  ],
+  "soil-chem-205": [
+   {
+    "id": "soil-chem-146",
+    "reason": "the Freundlich equation is an adsorption isotherm"
+   },
+   {
+    "id": "soil-chem-145",
+    "reason": "it describes adsorption"
+   }
+  ],
+  "soil-chem-206": [
+   {
+    "id": "soil-chem-146",
+    "reason": "the Langmuir model gives an isotherm"
+   },
+   {
+    "id": "soil-chem-145",
+    "reason": "it models adsorption"
+   },
+   {
+    "id": "soil-chem-147",
+    "reason": "adsorption and desorption are reversible"
+   }
+  ],
+  "soil-chem-207": [
+   {
+    "id": "soil-chem-211",
+    "reason": "speciation is a core modelling calculation"
+   },
+   {
+    "id": "soil-chem-201",
+    "reason": "models correct concentrations with activities"
+   },
+   {
+    "id": "soil-found-079",
+    "reason": "applied to aqueous solutions near the surface"
+   }
+  ],
+  "soil-chem-208": [
+   {
+    "id": "soil-chem-145",
+    "reason": "an inner sphere complex is a mode of adsorption"
+   },
+   {
+    "id": "soil-chem-084",
+    "reason": "binding is to colloid mineral surfaces"
+   },
+   {
+    "id": "soil-chem-049",
+    "reason": "surface charge sites on minerals"
+   }
+  ],
+  "soil-chem-209": [
+   {
+    "id": "soil-found-079",
+    "reason": "partition between solution and another phase"
+   },
+   {
+    "id": "soil-chem-068",
+    "reason": "sorption is expressed by partitioning"
+   }
+  ],
+  "soil-chem-210": [
+   {
+    "id": "soil-chem-208",
+    "reason": "used to distinguish surface complex structure"
+   },
+   {
+    "id": "soil-found-029",
+    "reason": "reveals local atomic structure"
+   }
+  ],
+  "soil-chem-211": [
+   {
+    "id": "soil-found-079",
+    "reason": "species present in solution"
+   },
+   {
+    "id": "soil-chem-069",
+    "reason": "complexation such as chelation forms species"
+   }
+  ],
+  "soil-agri-162": [
+   {
+    "id": "soil-agri-163",
+    "reason": "aerial photography is a remote sensing method"
+   },
+   {
+    "id": "soil-agri-082",
+    "reason": "used as a base for soil survey"
+   }
+  ],
+  "soil-agri-163": [
+   {
+    "id": "soil-agri-082",
+    "reason": "remote sensing supports soil survey"
+   }
+  ],
+  "soil-agri-164": [
+   {
+    "id": "soil-agri-165",
+    "reason": "DEMs are handled in GIS"
+   },
+   {
+    "id": "soil-agri-163",
+    "reason": "elevation data come from remote sensing"
+   },
+   {
+    "id": "soil-water-295",
+    "reason": "they depict terrain"
+   }
+  ],
+  "soil-agri-165": [
+   {
+    "id": "soil-agri-084",
+    "reason": "soil maps are geographic data"
+   },
+   {
+    "id": "soil-agri-082",
+    "reason": "GIS stores survey data"
+   }
+  ],
+  "soil-agri-166": [
+   {
+    "id": "soil-agri-083",
+    "reason": "land evaluation interprets soil survey"
+   },
+   {
+    "id": "soil-agri-082",
+    "reason": "appraisal draws on soil survey"
+   }
+  ],
+  "soil-agri-167": [
+   {
+    "id": "soil-agri-166",
+    "reason": "classes subdivide the FAO suitability orders"
+   }
+  ],
+  "soil-agri-168": [
+   {
+    "id": "soil-agri-084",
+    "reason": "a capability map is a kind of soil map"
+   },
+   {
+    "id": "soil-agri-083",
+    "reason": "it interprets survey for land use"
+   }
+  ],
+  "soil-agri-169": [
+   {
+    "id": "soil-agri-083",
+    "reason": "siting relies on survey interpretation"
+   },
+   {
+    "id": "soil-chem-130",
+    "reason": "the soil acts as a biofilter for effluent"
+   }
+  ],
+  "soil-agri-170": [
+   {
+    "id": "soil-agri-082",
+    "reason": "gives access to soil survey data"
+   },
+   {
+    "id": "soil-agri-084",
+    "reason": "delivers soil maps online"
+   }
+  ],
+  "soil-phys-177": [
+   {
+    "id": "soil-phys-137",
+    "reason": "reflected sunlight governs surface soil temperature"
+   }
+  ],
+  "soil-phys-178": [
+   {
+    "id": "soil-phys-137",
+    "reason": "uses near-constant ground temperature"
+   },
+   {
+    "id": "soil-phys-142",
+    "reason": "seasonal temperature lag at depth"
+   },
+   {
+    "id": "soil-phys-140",
+    "reason": "heat exchange depends on soil thermal properties"
+   }
+  ],
+  "soil-phys-179": [
+   {
+    "id": "soil-phys-154",
+    "reason": "ice segregation grows ice lenses"
+   },
+   {
+    "id": "soil-phys-153",
+    "reason": "it drives frost heaving"
+   },
+   {
+    "id": "soil-phys-156",
+    "reason": "moisture moves to the ice by premelting"
+   }
+  ],
+  "soil-phys-180": [
+   {
+    "id": "soil-phys-137",
+    "reason": "shallow soil conditions include temperature"
+   },
+   {
+    "id": "soil-phys-177",
+    "reason": "surface reflectance shapes local conditions"
+   }
+  ],
+  "soil-phys-181": [
+   {
+    "id": "soil-phys-148",
+    "reason": "the laws describe gas diffusion in soil"
+   }
+  ],
+  "soil-phys-182": [
+   {
+    "id": "soil-phys-141",
+    "reason": "flow depends on thermal conductivity"
+   },
+   {
+    "id": "soil-phys-138",
+    "reason": "Fourier's law gives soil heat flux"
+   }
+  ],
+  "soil-phys-183": [
+   {
+    "id": "soil-phys-182",
+    "reason": "the heat equation builds on Fourier's law"
+   },
+   {
+    "id": "soil-phys-164",
+    "reason": "its coefficient is thermal diffusivity"
+   }
+  ],
+  "soil-phys-184": [
+   {
+    "id": "soil-phys-141",
+    "reason": "defined from thermal conductivity"
+   },
+   {
+    "id": "soil-phys-140",
+    "reason": "and volumetric heat capacity"
+   }
+  ],
+  "soil-phys-185": [
+   {
+    "id": "soil-phys-158",
+    "reason": "depth of seasonal freezing is the frost line"
+   },
+   {
+    "id": "soil-phys-137",
+    "reason": "freeze and thaw follow soil temperature"
+   }
+  ],
+  "soil-phys-186": [
+   {
+    "id": "soil-phys-059",
+    "reason": "agrophysics extends soil physics"
+   },
+   {
+    "id": "soil-found-090",
+    "reason": "a branch bordering soil science"
+   }
+  ],
+  "soil-phys-187": [
+   {
+    "id": "soil-phys-041",
+    "reason": "friability is a soil consistency class"
+   }
+  ],
+  "soil-phys-188": [
+   {
+    "id": "soil-phys-015",
+    "reason": "settling speed depends on grain size"
+   }
+  ],
+  "soil-phys-189": [
+   {
+    "id": "soil-phys-018",
+    "reason": "the methods measure particle-size distribution"
+   },
+   {
+    "id": "soil-phys-015",
+    "reason": "grain size is the quantity measured"
+   },
+   {
+    "id": "soil-found-051",
+    "reason": "the result gives soil texture"
+   }
+  ],
+  "soil-phys-190": [
+   {
+    "id": "soil-phys-188",
+    "reason": "settling rates come from Stokes' law"
+   },
+   {
+    "id": "soil-phys-189",
+    "reason": "a particle size analysis method"
+   },
+   {
+    "id": "soil-phys-019",
+    "reason": "it complements sieving for fines"
+   }
+  ],
+  "soil-phys-191": [
+   {
+    "id": "soil-phys-003",
+    "reason": "contrasted with a natural ped"
+   }
+  ],
+  "soil-env-287": [
+   {
+    "id": "soil-found-029",
+    "reason": "geological factors include minerals"
+   },
+   {
+    "id": "soil-fert-179",
+    "reason": "trace elements affect health"
+   },
+   {
+    "id": "soil-env-018",
+    "reason": "toxic metals are a geological factor"
+   }
+  ],
+  "soil-env-288": [
+   {
+    "id": "soil-found-040",
+    "reason": "earths eaten are mostly clays"
+   },
+   {
+    "id": "soil-chem-079",
+    "reason": "clay minerals in eaten earth"
+   }
+  ],
+  "soil-env-289": [
+   {
+    "id": "soil-env-288",
+    "reason": "avian geophagy is geophagia by birds"
+   },
+   {
+    "id": "soil-found-040",
+    "reason": "birds eat clay-rich soil"
+   }
+  ],
+  "soil-env-290": [
+   {
+    "id": "soil-env-288",
+    "reason": "a form of soil eating by animals"
+   }
+  ],
+  "soil-env-291": [
+   {
+    "id": "soil-found-040",
+    "reason": "irritant soils are clay-rich"
+   },
+   {
+    "id": "soil-chem-079",
+    "reason": "clay minerals are the suspected irritants"
+   }
+  ],
+  "soil-env-292": [
+   {
+    "id": "soil-bio-193",
+    "reason": "the infecting roundworms are nematodes"
+   }
+  ],
+  "soil-env-293": [
+   {
+    "id": "soil-bio-003",
+    "reason": "caused by soil fungi"
+   }
+  ],
+  "soil-env-294": [
+   {
+    "id": "soil-bio-002",
+    "reason": "caused by a soil bacterium"
+   }
+  ],
+  "soil-env-295": [
+   {
+    "id": "soil-fert-179",
+    "reason": "iodine is an essential trace element"
+   },
+   {
+    "id": "soil-env-287",
+    "reason": "deficiency follows soil geology"
+   }
+  ],
+  "soil-env-296": [
+   {
+    "id": "soil-fert-179",
+    "reason": "selenium is a trace nutrient"
+   },
+   {
+    "id": "soil-env-287",
+    "reason": "deficiency follows soil geology"
+   }
+  ],
+  "soil-env-297": [
+   {
+    "id": "soil-env-296",
+    "reason": "caused by selenium deficiency"
+   }
+  ],
+  "soil-env-298": [
+   {
+    "id": "soil-env-256",
+    "reason": "the event was cadmium poisoning"
+   },
+   {
+    "id": "soil-env-018",
+    "reason": "cadmium is a heavy metal in soil"
+   }
+  ],
+  "soil-env-299": [
+   {
+    "id": "soil-env-298",
+    "reason": "restoration followed itai-itai disease"
+   },
+   {
+    "id": "soil-env-012",
+    "reason": "it is soil remediation"
+   },
+   {
+    "id": "soil-env-018",
+    "reason": "the pollutant was cadmium"
+   }
+  ],
+  "soil-env-300": [
+   {
+    "id": "soil-fert-179",
+    "reason": "raising micronutrient content of crops"
+   },
+   {
+    "id": "soil-env-295",
+    "reason": "addresses dietary deficiencies"
+   }
+  ],
+  "soil-env-301": [
+   {
+    "id": "soil-bio-001",
+    "reason": "exposure is to soil microorganisms"
+   },
+   {
+    "id": "soil-bio-002",
+    "reason": "bacteria are the main microbes in question"
+   }
+  ],
+  "soil-env-302": [
+   {
+    "id": "soil-bio-002",
+    "reason": "it is a soil bacterium"
+   },
+   {
+    "id": "soil-bio-012",
+    "reason": "related soil actinomycetes"
+   }
+  ],
+  "soil-env-303": []
+ }
+}

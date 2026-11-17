@@ -1,0 +1,91 @@
+{
+"entries": {
+"soil-bio-185": {
+"title": "The Hartig net, a fungal trading floor inside the root",
+"text": "In 1842 the German forest biologist Theodor Hartig reported a hidden root-fungus interface. The Hartig net, named after him, is the network of fungal hyphae that grows between the epidermal and cortical cells of a root in an ectomycorrhiza. It is where fungus and plant trade. The outer mycelium releases nitrogen, phosphorus, potassium, micronutrients and water into the spaces between root cells. Plant sugars pass back to feed the fungus. With pine-family hosts the net reaches deep into the root cortex; with many flowering plants it may stop at the epidermis."
+},
+"soil-bio-181": {
+"title": "Fungal endophytes, a plant's hired guards",
+"text": "Some plants hire fungi to guard them against grazers. In fungal endophyte defense, fungi living inside a plant's tissues protect it indirectly from herbivores. In exchange for carbohydrates, the fungi can raise the plant's water or nutrient uptake and protect it from insects, birds or mammals. Once settled, they change the plant's nutrient content and start or boost production of defensive compounds. Infection even reduces below-ground attackers such as nematodes and root-feeding insects. The defense has a price. Fungal toxins in forage harm livestock, causing fescue toxicosis and more than 600 million dollars in livestock deaths each year."
+},
+"soil-bio-186": {
+"title": "Orchid mycorrhiza, the fungus that raises orchid seedlings",
+"text": "An orchid seed, 0.35–1.50 mm long, carries virtually no energy reserve. Its seedling must get carbon from a fungus, and nearly all orchids depend on one at some stage. Orchid mycorrhiza is the symbiosis between orchids and the endomycorrhizal fungi that colonize their roots and seeds. Inside root cortex cells the fungus forms coils called pelotons, the defining structure, which the plant can later digest for carbon and nitrogen. The fungi are typically basidiomycetes such as Ceratobasidium (Rhizoctonia), Sebacina, Tulasnella and Russula. Phosphorus shortage often decides whether the partnership forms."
+},
+"soil-bio-170": {
+"title": "How arbuscular fungi reshape life around the root",
+"text": "An arbuscular fungus changes far more than its host. By altering the amount and makeup of root and fungal exudates, colonization decides the diversity and abundance of rhizosphere bacteria. The effect runs both ways with rhizobia. Rhizobia in the soil raise fungal colonization, and good colonization in turn increases nodulation and the nitrogen legumes fix. Greater fungal diversity increases plant diversity, and dominant arbuscular fungi can keep non-mycorrhizal plants from invading. At higher soil nutrient and moisture levels the fungi become less common and less diverse, because plants give them less carbon."
+},
+"soil-bio-171": {
+"title": "Finding hidden arbuscular fungi by their molecules",
+"text": "Arbuscular fungi hide inside roots and among soil grains, so researchers track them by their molecules. DNA methods target markers in the 18S rRNA region, and quantitative PCR measures targeted fungal DNA in roots or soil. The phospholipid fatty acid 16:1ω5 is the most used marker of fungal mycelium in soil; with 18:1ω7 it makes up about 58% of their phospholipid fatty acids. Stable isotope probing feeds substrates enriched in 13C, 15N or heavy-oxygen water, then traces labelled DNA or RNA to find which fungi are active."
+},
+"soil-bio-169": {
+"title": "Putting fungi back to heal degraded land",
+"text": "Replanting degraded land works better when the right fungi go in with the plants. Where native plant cover is disturbed in areas threatened by {{ref:soil-env-072}}, soil structure, nutrient availability and organic matter often decline. Mycorrhizal inoculation adds arbuscular fungi during replanting to rebuild the soil's biological and physical properties. A mixture of native fungi improved soil quality over the long term more than a single exotic species or no inoculum. Benefits included more plant growth, phosphorus uptake, soil nitrogen and organic matter, and better aggregation, infiltration and aeration, helped by more legume nodulation. Native strains also help extract heavy metals from polluted soils."
+},
+"soil-bio-175": {
+"title": "Ectomycorrhizal fungi in forestry and restoration",
+"text": "A eucalyptus planted far from home often needs more than water to prosper. Trees transplanted far from their range, or with specific partners, such as Eucalyptus and Pinus in plantations, often need native ectomycorrhizal inoculum. Foresters use these fungi when planting trees and restoring disturbed ecosystems. Losing a habitat's mycorrhizal fungi is a major soil disturbance, so adding them back is an important part of restoring vegetation. One use is controversial. Pine and eucalyptus plantations are promoted as carbon sinks, but their fungi tend to deplete the carbon stored in the soil. In farming these fungi matter little, since most mycorrhizal crops partner with arbuscular fungi."
+},
+"soil-bio-174": {
+"title": "Fungi that let trees endure poisoned ground",
+"text": "Some fungi thrive where metals poison most life. Ectomycorrhizal fungi can survive, and help their hosts survive, soils high in heavy metals, salts, radionuclides and organic pollutants. They limit heavy-metal uptake by binding metals at the cell wall and locking them inside cells in complexes, metallothioneins or vacuoles. They can also concentrate metals in their fruiting bodies. Suillus luteus and S. bovinus have forms adapted to zinc, cadmium and copper. Tolerance seems widespread, yet contaminated sites have less diverse fungal communities, while naturally metal-rich serpentine soils do not. Some species help hosts survive salty soil, some break down persistent pollutants such as PCBs, and many hyperaccumulate radionuclides."
+},
+"soil-bio-073": {
+"title": "The laimosphere, the busy zone around buried stems",
+"text": "Its name comes from the Greek laimos, 'throat', for a connecting neck. The laimosphere is the microbe-rich zone of soil around the underground parts of plant stems, the stem's counterpart of the rhizosphere and spermosphere. It surrounds any buried organ other than roots, such as hypocotyls, the seedling stem below the first leaves, and stems, stolons, corms, bulbs and leaves. Sugars and amino acids exuded there stimulate microbes. As a seedling grows, the spermosphere extends downward into the rhizosphere and upward into the laimosphere. Those exudates can also wake pathogens such as Fusarium, Phytophthora, Pythium and Rhizoctonia, which start the stem rots of damping-off."
+},
+"soil-bio-155": {
+"title": "Growth-promoting bacteria, from seed coat to root",
+"text": "Joseph W. Kloepper first used the term plant growth-promoting rhizobacteria, or PGPR, in the late 1970s. They are soil bacteria that colonize plant roots after being inoculated onto seed, and they enhance plant growth. Directly, they fix nitrogen, make siderophores that chelate iron for the root, solubilize minerals such as phosphorus and make plant hormones. Indirectly, they limit the damage pathogens do to yield, through induced systemic resistance and antifungal compounds. To work they must survive on the seed, multiply in the spermosphere, attach to the root and colonize the root system. Failure to colonize often explains poor field results. Inoculants usually go on the seed coat so that enough bacteria establish, and those at the root tip were found most active. Most are Pseudomonadota and Bacillota, such as Pseudomonas putida and Azospirillum lipoferum. As biofertilizers and biopesticides, they could raise yields and cut disease while reducing dependence on chemical fertilizers and pesticides."
+},
+"soil-bio-188": {
+"title": "Disease suppressive soils, where pathogens fail",
+"text": "In some soils, pathogens arrive and fail to establish. These disease suppressive soils hold microbes that keep pathogens out of the rhizosphere. They develop as growth-promoting rhizobacteria settle around roots and outcompete pathogens by releasing suppressive metabolites. Pathogenic fungi that reach the rhizosphere release enzymes that break down root cell walls. Beneficial Pseudomonas and Bacillus answer with metabolites that break up the fungal hyphae. Plants under attack recruit these bacteria from the bulk soil through their exudates, but only microbes already in the soil can be recruited. Greater plant diversity brings greater microbial diversity near roots and can mean stronger suppression. Informed rotation of crops and the practice described in {{ref:soil-agri-034}} can create such soils. They can even make plants more resistant to leaf-feeding insects, by promoting helpful bacteria and priming plant defenses."
+},
+"soil-bio-180": {
+"title": "Actinorhizal plants, the nitrogen fixers that are not legumes",
+"text": "Some alders fix as much as 300 kg of N2 per hectare per year, close to the highest legume rates. They do it with Frankia, a nitrogen-fixing actinomycete living in nodules on their roots, and plants with this partnership are called actinorhizal. Apart from the herbaceous Datisca, they are trees or shrubs, in three orders, eight families and twenty-six genera, such as alder, sea-buckthorn and Casuarina. Their nodules let them pioneer nitrogen-poor ground such as moraines, volcanic flows and sand dunes, enriching the soil for later species. Altogether these plants fix roughly as much nitrogen as rhizobial partnerships."
+},
+"soil-bio-189": {
+"title": "Do arbuscular fungi feed plants nitrogen too?",
+"text": "Phosphorus is the famous gift of arbuscular fungi; nitrogen is the disputed one. Their outer mycelium takes up nitrogen as ammonium, nitrate or organic compounds and hands it over inside the root. In laboratory cultures, 29% to 50% of root nitrogen has come via the fungus. Nitrogen can also pass between plants through common mycorrhizal networks: about 25% of labelled nitrogen given to a grass reached a grapevine. Yet a soybean–corn field study found negligible transfer. No growth benefit has been shown conclusively, and some researchers doubt the fungi matter much for plant nitrogen in nature."
+},
+"soil-bio-152": {
+"title": "Friend or parasite: a sliding scale for root microbes",
+"text": "A root microbe is not simply friend or foe. The mutualist–parasite continuum holds that the same microbe can behave anywhere between the two, depending on its host, the environment and the host's health. A parasite takes carbon from the plant while giving no benefit, or too little for what it takes, and so lowers the host's fitness. The host's immune response keeps symbionts in check; if it fails, the relationship slides toward the parasitic end. High nutrient levels can push some microbes into parasitism just when the plant no longer needs their help. Symbionts may be biotrophic, living off living tissue, or necrotrophic, living off dead tissue."
+},
+"soil-bio-153": {
+"title": "Chosen or chance: how root microbe communities form",
+"text": "How does a crowd of microbes sort itself onto a root? Two explanations compete, and the debate is open. One holds that 'everything is everywhere, but the environment selects'. The other says that when microbes are equally fit, neutral processes such as distance and dispersal barriers decide who arrives. Most likely both act, with some microbes more limited by one than the other. Selection clearly matters. Root tips, fine roots, the root surface and the rhizosphere each host different communities, because exudates favor microbes with matching metabolism. Nutrient levels, pH, moisture, temperature, soil structure and disturbance also shape assembly."
+},
+"soil-bio-156": {
+"title": "Deleterious rhizobacteria, the root bacteria that harm crops",
+"text": "In one sugar beet trial, root bacteria cost the crop 48% of its yield. Deleterious rhizobacteria are root-colonizing bacteria that harm plant growth, first described from sugar beet. Seeds inoculated with them germinated less and grew short, distorted roots with lesions, more fungal infection and poorer growth. Six strains have been identified, in the genera Enterobacter, Klebsiella, Citrobacter, Flavobacterium, Achromobacter and Arthrobacter. Growth-promoting rhizobacteria hold them back. Plots given both kinds rose 39% in production, while plots given only the harmful strains fell 30%."
+},
+"soil-bio-191": {
+"title": "Cluster roots, phosphorus miners of poor soils",
+"text": "Some plants grow a special tool for the phosphorus-poor native soils of Australia. Cluster roots, also called proteoid roots, are clusters of closely spaced short side rootlets. They may form a mat 2 to 5 cm thick beneath the leaf litter. They appear when phosphate or iron is scarce and boost nutrient uptake, possibly by chemically changing the soil to dissolve nutrients. Adolf Engler first described them in 1894 on the Proteaceae. They are now known in 27 Proteaceae genera, about 30 species of other families, and crops such as lupins and macadamia. Such crops need slow-release, low-phosphorus fertilizers; more phosphorus causes toxicity and sometimes iron deficiency."
+},
+"soil-bio-190": {
+"title": "One ancient signal chain for fungi and bacteria",
+"text": "Plants let two very different guests in through the same door. The common symbiosis signaling pathway is a highly conserved chain of signals in root cells that admits symbiotic microbes such as arbuscular mycorrhizal fungi and rhizobia. Receptor kinases at the cell membrane perceive the guests' Myc or Nod factors. The signal reaches the nucleus as pulses of calcium, decoded by a protein called CCaMK, which activates CYCLOPS to switch on arbuscule or nodule genes. Its origins predate plants' move onto land: plants and arbuscular fungi have co-evolved for over 500 million years. Rhizobia probably co-opted it later, since both processes share genes such as the receptor SYMRK."
+},
+"soil-bio-148": {
+"title": "Rhizodeposition, what living roots leave behind",
+"text": "A living root sheds itself as it grows. Rhizodeposition is the addition of organic matter to soil by living roots, which exude compounds and slough off cells, especially at their tips. These rhizodeposits supply many forms of organic carbon and nitrogen. They feed the communities around roots and strongly change the chemistry next to them. They also stimulate bacterial activity in the rhizosphere, whereas most bacteria in the bulk soil stay quiescent. Together with fungal hyphae and the sticky polymers microbes make, rhizodeposition enmeshes soil and improves aggregate stability."
+},
+"soil-bio-144": {
+"title": "Trade, theft and hunting in the root zone",
+"text": "Around every root runs a small economy of trade, theft and hunting. Rhizosphere ecology is the web of mutualism, predation and competition among the microbes and soil animals that rhizodeposition supports. Its food web has three channels and two energy sources. Fungal and bacterial channels run on dead organic debris, while nematodes, symbionts and some arthropods run on root energy. The bacterial channel turns over faster, because bacteria use more accessible resources and regenerate faster. Nematodes grazing on bacteria have been shown to affect nitrogen availability and plant growth. Plants and microbes compete indirectly by locking scarce carbon and nitrogen into their biomass, and microbes take up amino acids better than plants do. Teams of microbes, such as growth-promoting bacteria with mycorrhizal fungi or Trichoderma, can give plants combined benefits. The web can also go wrong. Growing one crop for many years can cause 'soil sickness', a shift in pathogens and helpers that lowers fertility and yield. In aged tea plantations, built-up soil polyphenols have been linked to such a shift."
+},
+"soil-bio-172": {
+"title": "Strigolactones, the root signals fungi and parasites heed",
+"text": "Fungal hyphae bathed in exudates from phosphorus-starved roots grew more and branched further than those in exudates from well-supplied plants. The signals behind that difference are strigolactones, carotenoid-derived molecules that roots secrete into the rhizosphere. They make fungal spores germinate and boost the fungi's metabolism, growth and branching. They also prompt the fungi to send back signals the plant can detect. Together with soil phosphorus, they control how hyphae grow through soil: low phosphorus raises both hyphal branching and the plant's output of branching signals. The parasitic plant Striga eavesdrops, germinating when it detects strigolactones and then feeding on the root."
+}
+},
+"reviews": {
+"roots-and-the-rhizosphere": "A root anchors its plant and takes in water and nutrients, whether as a single taproot or a fibrous mat, and most roots stay near the surface where nutrients and air are richest. Roots rarely work alone. They release perhaps 20–40% of their fixed carbon as sugars and organic acids, feeding a rhizosphere where up to 10 billion bacterial cells crowd each gram and cycle the nutrients plants need. Mycorrhizal fungi trade water, phosphorus and nitrogen for that carbon, while rhizobia in legume nodules turn nitrogen gas into ammonia. Signals such as flavonoids and strigolactones decide who gets in, and high nutrient levels can turn the same partners from mutualists into parasites."
+}
+}

@@ -1,0 +1,100 @@
+{
+ "entries": {
+  "soil-chem-176": {
+   "title": "Electron acceptors, the last stop for every electron",
+   "text": "All organisms get energy by moving electrons from a donor to an acceptor. An electron acceptor is a chemical species that takes up electrons transferred from another compound, so it is an oxidizing agent, described in {{ref:soil-chem-114}}. Its pull is measured by its redox potential. In biology, the terminal electron acceptor receives the last electron in a transport chain, such as oxygen in aerobic respiration, though organisms use many kinds. The weedkiller paraquat is a potent acceptor: it takes electrons from photosynthesis and passes them to oxygen, forming toxic reactive oxygen species."
+  },
+  "soil-chem-178": {
+   "title": "Oxidation states: bookkeeping for electrons",
+   "text": "Iron in magnetite, Fe3O4, has an oxidation state of 8/3, an average rather than a whole number. An oxidation state is the hypothetical charge an atom would carry if all its bonds were fully ionic. It records how far the atom has been oxidized. A rise is oxidation and a fall is reduction, and in redox reactions the two always occur in pairs. Pure elements sit at zero, and the oxidation numbers in a neutral molecule sum to zero. Stock nomenclature writes the state as a Roman numeral after the element, as in iron(III) oxide."
+  },
+  "soil-chem-177": {
+   "title": "Electron donors: the fuel behind natural cleanup",
+   "text": "Soil organic matter, petroleum hydrocarbons and even vinyl chloride can all hand electrons to microbes. An electron donor is a chemical species that transfers electrons to another compound, acting as a reducing agent, the role described in {{ref:soil-chem-115}}, and being oxidized itself. In respiration, donors release electrons and energy. Microbes capture that energy as the electrons pass along a transport chain to an electron acceptor. Less chlorinated solvents and reduced inorganic compounds serve as donors too. These reactions drive the natural breakdown of organic contaminants by microbes, a major part of the monitored cleanup described in {{ref:soil-env-026}}."
+  },
+  "soil-chem-169": {
+   "title": "Microbes that breathe iron instead of oxygen",
+   "text": "Where oxygen runs out in soils and sediments, some microbes breathe metal instead. Dissimilatory metal reduction is a form of {{ref:soil-chem-128}} in which bacteria and archaea use a metal, rather than oxygen, as the terminal electron acceptor. Iron and manganese are the metals most used. Fe(III) is reduced to Fe(II) and Mn(IV) to Mn(II), and most Fe(III) reducers can also reduce Mn(IV). Vanadium, chromium(VI), molybdenum, cobalt, palladium, gold and mercury can serve as well. The process runs without oxygen, but the organisms include both strict anaerobes such as the Geobacteraceae and facultative ones such as Shewanella. Their challenge is reach. In near-neutral soils and sediments, iron is held in solid oxidized minerals. So these microbes reduce metals outside the cell, passing electrons out through cytochromes c in their membranes. Some reduce minerals at a distance using electron shuttles, and humic acids common in soils and sediments can act as such shuttles. Many Fe(III) minerals can be reduced, including magnetite, hematite, goethite, lepidocrocite, ferrihydrite, smectite, illite and jarosite. New minerals such as magnetite, siderite, vivianite and the iron hydroxide in {{ref:soil-chem-170}} can form as by-products."
+  },
+  "soil-chem-179": {
+   "title": "The hydrogen electrode that defines zero volts",
+   "text": "Every redox potential is measured against one agreed zero. The standard hydrogen electrode is the reference electrode that sets that zero on the thermodynamic scale of oxidation–reduction potentials. Its {{ref:soil-chem-117}} is declared to be zero volts at any temperature, though its absolute potential is estimated at 4.44 ± 0.02 V at 25 °C. The potentials of all other electrodes are compared with it at the same temperature. Soil Eh, for example, is the potential of a platinum electrode measured against it. It is a theoretical ideal-solution standard. It replaced the older normal hydrogen electrode, platinum in 1 N acid with bubbling hydrogen."
+  },
+  "soil-chem-175": {
+   "title": "Obligate anaerobes, microbes poisoned by air",
+   "text": "For some microbes, ordinary air is lethal. Obligate anaerobes are microorganisms killed by normal atmospheric concentrations of oxygen. Tolerance varies: some survive up to 8% oxygen, while others lose viability above 0.5%. Oxygen harms them through reactive oxygen species, which aerobes detoxify with enzymes these microbes barely make. They respire sulfate, nitrate, iron or manganese, or ferment, both yielding less ATP than aerobic respiration. Facultative anaerobes, by contrast, use oxygen but survive without it. Obligate anaerobes inhabit deep soil sediments, landfills and still waters; some Mycobacterium and Rhodococcus species, and some of the bacteria in {{ref:soil-bio-225}}, live in soil."
+  },
+  "soil-chem-174": {
+   "title": "Methanogens, the methane makers of paddies and bogs",
+   "text": "Wetlands, rice paddies, landfills and animal guts share a population of methane makers. Methanogens are anaerobic archaea that produce methane as a by-product of their energy metabolism. Methanogenesis is their only biochemical pathway for making ATP, and all known methanogens belong to the domain Archaea. They live in oxygen-free settings, including sediments and wastewater plants, and grow at a redox potential below −0.3 V. Their oxygen sensitivity varies, though. Methanogenesis is often detected in temporarily oxygenated soil of the kind described in {{ref:soil-class-160}}, and one wetland and soil species works in anoxic microsites within aerobic soil."
+  },
+  "soil-chem-171": {
+   "title": "Iron-oxidizing bacteria and their reddish-brown slime",
+   "text": "Bog iron ore deposits formed where oxygen-free groundwater emerged and met the air. That boundary is home to iron-oxidizing bacteria, chemotrophic bacteria that get their energy by oxidizing dissolved iron. They live where oxygen-free water meets an oxygenated setting, turning dissolved iron into an insoluble reddish-brown slime. They need at least 0.3 ppm dissolved oxygen. Other soil microbes create their habitat: feeding on organic matter dissolved in liquid seeping from landfills or septic fields, they can strip oxygen from groundwater. Some species oxidize Fe(II) without oxygen by coupling it to nitrate reduction, a light-independent metabolism found in sediments including flooded rice soils."
+  },
+  "soil-chem-170": {
+   "title": "Green rust, the iron mineral that fades in air",
+   "text": "Some bluish-green soils turn ochre once exposed to air, and green rust is the suspected reason. Green rust is a family of green layered iron(II)–iron(III) hydroxides that hold another anion, such as carbonate, chloride or sulfate, between their layers. In nature it occurs as the mineral fougerite, suspected in soils formed under alternating redox conditions. In oxidizing conditions it generally converts to goethite and lepidocrocite. Iron-reducing bacteria such as Shewanella putrefaciens produce it while oxidizing organic matter, a process thought to occur in soil solutions and aquifers. Sulfate green rust can also reduce nitrate and nitrite to ammonium."
+  },
+  "soil-chem-172": {
+   "title": "The manganese cycle, from bedrock to seafloor",
+   "text": "Manganese makes up only about 0.1% of the Earth's crust, yet it never sits still. The manganese cycle is the natural circuit, biological and geological, that moves it through the atmosphere, water, living things, rocks and soils. It is cycled much like iron, but by distinct redox pathways. Bacteria push it both ways. Some oxidize manganese to insoluble oxides, while others reduce it to soluble Mn2+ in order to use it. Weathering of regolith and dissolution of bedrock carry manganese into rivers. From there it travels to the ocean, where it can form minerals and be buried. People now tilt the cycle. Mining, mineral processing and the burning of fossil fuels are altering it globally. Near iron and steel plants in North America and Europe, over half the manganese in ridge soils came from industrial waste and settled airborne particles."
+  },
+  "soil-chem-181": {
+   "title": "Solubility equilibrium: dissolving and precipitating in balance",
+   "text": "A crystal resting in its saturated solution looks still, but it is busy. In a solubility equilibrium, a solid compound and its solution exchange material, with dissolution and precipitation going on at equal rates. Each such equilibrium has a temperature-dependent solubility product, which works like an equilibrium constant. Strictly it is a quotient of activities, but it is usually converted to one of concentrations. A solution at equilibrium with undissolved solid is saturated; one holding more solute than its solubility is supersaturated and can precipitate. Acid rain leaching aluminum from soil is dissolution with reaction: aluminosilicates react with the acid to give soluble Al3+."
+  },
+  "soil-chem-183": {
+   "title": "Electron activity: redox measured like pH",
+   "text": "Chemists borrowed the logic of pH and applied it to electrons. Electron activity, written pe, is the negative logarithm of electron activity, a dimensionless measure of redox potential. Environmental chemists often prefer it to Eh because it works directly on a logarithmic scale. At 25 °C, pe = Eh/0.05916 = 16.903 × Eh. Environmental values run from −12 to +25, because beyond them water itself is reduced or oxidized. Along with pH, Eh or pe is a master variable in soils, both controlling and governed by chemical and biological reactions. Together, redox potential and pH constrain how soluble manganese is."
+  },
+  "soil-chem-180": {
+   "title": "Pourbaix diagrams: maps of what is stable in water",
+   "text": "A Pourbaix diagram plots the thermodynamically stable phases of an aqueous system against Eh or pe and pH. Lines mark the 50/50 boundaries between predominant dissolved species or solids. Water is stable only between two parallel lines, EH = −0.05916 pH and EH = 1.229 V − 0.05916 pH. Outside them it is reduced to hydrogen or oxidized to oxygen. Like a phase diagram, it assumes equilibrium and says nothing about reaction rates. Used in corrosion, geochemistry and environmental science, the diagrams are named after the Belgian engineer Marcel Pourbaix (1904–1998)."
+  },
+  "soil-chem-173": {
+   "title": "Manganese in soil, a nutrient steered by pH and pe",
+   "text": "In photosynthesis, manganese acts as a catalyst in the oxygen-evolving complex of photosystem II. That makes it a key soil micronutrient, one whose solubility is set by redox potential and pH. Fungi in soil oxidize soluble Mn2+ and may reprecipitate it as manganese oxides. Much of the soil cycle is biological, though inorganic reactions also oxidize manganese. As pH rises, manganese speciation becomes less sensitive to pe. In acidic soils, at pH 5 with pe above 8, manganese is mostly in reducible forms. There, exchangeable and soluble manganese fall sharply as pe rises."
+  },
+  "soil-chem-182": {
+   "title": "Hydromorphic soils, shaped by standing water",
+   "text": "Leave a soil waterlogged long enough and the water starts to shape it. A hydromorphic soil is one formed under such wetland conditions. The 1938 USDA taxonomy listed hydromorphic soils as an intrazonal group. One sub-type was the gley soils, saturated and airless, so that their iron is reduced. The soils described in {{ref:soil-class-137}} form by the accumulation of iron under hydromorphic conditions, and gypcretes can form in these soils, among other settings. Strong zinc sorption can leave hydromorphic soils with little plant-available zinc."
+  },
+  "soil-chem-142": {
+   "title": "Alkalinity, a stream's defense against acid",
+   "text": "Some streams can absorb acid inputs; others cannot. Alkalinity is the capacity of water to resist acidification, set by its buffer of weak acids and their conjugate bases. It is not the same as basicity, which is an absolute position on the pH scale. It is measured by titrating with an acid such as HCl to an endpoint, and expressed in meq/L or mg/L as CaCO3. Fresh water on non-limestone terrain is low in alkalinity, which is one of the best measures of a stream's sensitivity to acid. Acid rain from SOx and NOx emissions can change it over the long term."
+  },
+  "soil-chem-143": {
+   "title": "Electrolytic conductivity, a quick read on salt",
+   "text": "Sea water conducts electricity far better than drinking water: about 50 mS/cm against a typical 200–800 μS/cm. Electrolytic conductivity measures how well a solution of ions conducts electricity, and so gauges how much dissolved salt it holds. Its SI unit is the siemens per meter (S/m). Measuring it is a fast, cheap and reliable way to find a solution's ionic content. It is often linked directly to total dissolved solids."
+  },
+  "soil-chem-141": {
+   "title": "Saltwater intrusion: the sea creeping into aquifers",
+   "text": "Along coasts, the sea presses inland underground. Saltwater intrusion is the movement of saline water into freshwater aquifers, degrading groundwater quality. It happens naturally, because denser saline water pushes inland beneath the fresh water. Pumping from coastal freshwater wells lowers the fresh groundwater's pressure and lets saltwater flow further inland. Agricultural and drainage channels, sea level rise and storm surges drive it too. Seawater moving into rivers can harm agriculture in upstream areas."
+  },
+  "soil-chem-137": {
+   "title": "Halotolerance: living with more salt than needed",
+   "text": "Salt pulls water out of living cells. Halotolerance is the ability of an organism to live in salt concentrations above those it needs for growth. Halotolerant bacteria, archaea and fungi live in saline waters and soils; unlike halophiles, they do not need high salinity. High salt upsets ionic balance, impairing respiration and photosynthesis and slowing growth or killing sensitive plants. Because salinity brings both osmotic and ionic stress, tolerant organisms retain water and sequester salt. Halotolerant bacteria can even remediate saline soil, lowering its sodium content and sodium adsorption ratio and degrading toxic compounds."
+  },
+  "soil-chem-140": {
+   "title": "Road salt: winter safety that lingers in the soil",
+   "text": "Millions of tons of salt are spread on roads each year, making it one of the most widely used chemicals in urban infrastructure. Sodium chloride is the most common form; calcium and magnesium chlorides are used too, especially in colder weather. The salt does not leave with the ice. Its chloride persists in soils, surface waters and groundwater, harming aquatic life, roadside vegetation and drinking water. In roadside soils the build-up raises salinity, hindering plant growth, killing sensitive species and adding to erosion."
+  },
+  "soil-chem-139": {
+   "title": "The Van Genuchten–Gupta curve of yield against salt",
+   "text": "As soil grows saltier, the yield of a crop traces an inverted S. The Van Genuchten–Gupta model describes that curve. It is named after Martinus Theodore van Genuchten and Satyandra K. Gupta, from their work in the 1990s. Yield is Y = Ym / (1 + (C/C50)^P). Ym is maximum yield, C the soil salt concentration, C50 the concentration giving 50% yield and P a fitted exponent. A logistic S-function or a cubic regression of yield on soil salt concentration can be used instead."
+  },
+  "soil-chem-138": {
+   "title": "Critical loads: how much acid rain a landscape can bear",
+   "text": "How much acid can a landscape take before it is harmed? A critical load answers with a number. It is the pollutant exposure below which, as far as is known, significant harm to specified sensitive parts of the environment does not occur. Most work has centered on sulfur deposition and on {{ref:soil-fert-124}}, which can acidify soils and surface waters. They strip calcium from soil and release toxic aluminum, harming plants and animals. Deposition above the critical load is an exceedance, putting the biota at greater risk. In Europe, a sensitive element is tied to a chemical criterion, such as a soil base cation to aluminum ratio of Bc/Al = 1. A mass balance model then gives the deposition that reaches it. Today a two-dimensional function is often calculated, with nitrogen on one axis and sulfur on the other. Empirical critical loads come from observed ecosystem responses; steady-state ones come from models that can include soil chemistry and mineral weathering rates. The concept says nothing about how long effects take to appear, so target load functions add a time dimension."
+  },
+  "soil-chem-136": {
+   "title": "Biosaline agriculture: farming land too salty for crops",
+   "text": "Soil salinization from poor irrigation helped bring down the civilizations of Mesopotamia, from 2400 BC to 1700 BC. The problem has only spread. Salinization affects an estimated one billion hectares worldwide, with another one million hectares added each year. Salinity affects one quarter of the world's arable cropland, and that share is projected to double by 2050. Biosaline agriculture turns salt into a growing condition rather than a dead end. It grows plants with saline groundwater or on saline soil, using salt-tolerant plants to farm land too salty for ordinary crops. Halophytes are its cornerstone, used for food, forage, medicine, biofuel and restoring salty land. Irrigating with high-salinity water eases pressure on scarce fresh water, especially in arid and semi-arid regions. Repeated cycles of halophyte growth can restore degraded soil and water, and the plants accumulate heavy metals too. The field was formalized in the late 1990s, with the International Center for Biosaline Agriculture founded in 1996."
+  },
+  "soil-chem-144": {
+   "title": "Manganese toxicity, when acid soil poisons plants",
+   "text": "Acid soil can turn a micronutrient into a poison. Manganese toxicity is the poisoning of plants by manganese that becomes soluble at low soil pH. Together with aluminum toxicity, it is a serious problem in the soils described in {{ref:soil-class-118}}, whose low pH makes normally insoluble metals soluble enough to harm intolerant plants. It may occur in strongly acidic horizons, especially when they are waterlogged. Spreading finely ground limestone or dolomite, the practice in {{ref:soil-fert-055}}, brings acid soil near neutral and reduces both aluminum and manganese toxicity."
+  }
+ }
+}

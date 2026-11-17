@@ -1,0 +1,2039 @@
+{
+ "entries": {
+  "soil-env-001": [
+   {
+    "id": "soil-found-077",
+    "reason": "contamination of soil"
+   },
+   {
+    "id": "soil-env-062",
+    "reason": "a form of land degradation"
+   }
+  ],
+  "soil-env-002": [
+   {
+    "id": "soil-env-001",
+    "reason": "sources of soil contamination"
+   }
+  ],
+  "soil-env-003": [
+   {
+    "id": "soil-env-001",
+    "reason": "a soil contaminant"
+   }
+  ],
+  "soil-env-004": [
+   {
+    "id": "soil-env-001",
+    "reason": "a class of soil contaminant"
+   }
+  ],
+  "soil-env-005": [
+   {
+    "id": "soil-env-004",
+    "reason": "a pesticide"
+   }
+  ],
+  "soil-env-006": [
+   {
+    "id": "soil-env-001",
+    "reason": "a kind of soil contamination"
+   }
+  ],
+  "soil-env-007": [
+   {
+    "id": "soil-env-001",
+    "reason": "how soil contaminants reach people"
+   }
+  ],
+  "soil-env-008": [
+   {
+    "id": "soil-env-007",
+    "reason": "harm depends on the exposure route"
+   },
+   {
+    "id": "soil-env-001",
+    "reason": "harm from soil contaminants"
+   }
+  ],
+  "soil-env-009": [
+   {
+    "id": "soil-env-001",
+    "reason": "harm from soil contaminants"
+   },
+   {
+    "id": "soil-bio-008",
+    "reason": "affects soil organisms"
+   },
+   {
+    "id": "soil-bio-025",
+    "reason": "damage spreads through the food web"
+   }
+  ],
+  "soil-env-010": [
+   {
+    "id": "soil-bio-025",
+    "reason": "concentration rises up a food chain"
+   }
+  ],
+  "soil-env-011": [
+   {
+    "id": "soil-env-018",
+    "reason": "heavy metals alter microbes"
+   },
+   {
+    "id": "soil-env-009",
+    "reason": "an ecological effect"
+   },
+   {
+    "id": "soil-bio-011",
+    "reason": "acts on soil microorganisms"
+   },
+   {
+    "id": "soil-env-102",
+    "reason": "disrupts carbon cycling"
+   },
+   {
+    "id": "soil-fert-099",
+    "reason": "disrupts nitrogen cycling"
+   }
+  ],
+  "soil-env-012": [
+   {
+    "id": "soil-env-001",
+    "reason": "cleans up contaminated soil"
+   }
+  ],
+  "soil-env-013": [
+   {
+    "id": "soil-env-001",
+    "reason": "assesses contaminated sites"
+   },
+   {
+    "id": "soil-env-007",
+    "reason": "risk depends on exposure pathways"
+   }
+  ],
+  "soil-env-015": [
+   {
+    "id": "soil-water-019",
+    "reason": "diffuse pollution carried by runoff"
+   }
+  ],
+  "soil-env-016": [
+   {
+    "id": "soil-env-015",
+    "reason": "the agricultural kind of nonpoint pollution"
+   },
+   {
+    "id": "soil-fert-001",
+    "reason": "carries nutrients and agrochemicals"
+   },
+   {
+    "id": "soil-water-046",
+    "reason": "and sediment"
+   }
+  ],
+  "soil-env-017": [
+   {
+    "id": "soil-env-015",
+    "reason": "pollutants in polluted runoff"
+   },
+   {
+    "id": "soil-water-019",
+    "reason": "carried in runoff"
+   }
+  ],
+  "soil-env-018": [
+   {
+    "id": "soil-env-001",
+    "reason": "common soil contaminants"
+   }
+  ],
+  "soil-env-019": [
+   {
+    "id": "soil-fert-181",
+    "reason": "excess nutrients"
+   },
+   {
+    "id": "soil-env-015",
+    "reason": "mostly diffuse pollution"
+   },
+   {
+    "id": "soil-fert-001",
+    "reason": "fertilizer is a main source"
+   }
+  ],
+  "soil-env-020": [
+   {
+    "id": "soil-env-019",
+    "reason": "result of nutrient pollution"
+   },
+   {
+    "id": "soil-fert-181",
+    "reason": "nutrient build-up in water"
+   }
+  ],
+  "soil-env-021": [
+   {
+    "id": "soil-env-019",
+    "reason": "credits for reducing nutrient pollution"
+   }
+  ],
+  "soil-env-022": [
+   {
+    "id": "soil-env-019",
+    "reason": "apportions nutrient load"
+   },
+   {
+    "id": "soil-env-015",
+    "reason": "across diffuse and point sectors"
+   }
+  ],
+  "soil-env-023": [
+   {
+    "id": "soil-env-012",
+    "reason": "a remediation approach"
+   },
+   {
+    "id": "soil-bio-011",
+    "reason": "typically uses microbes"
+   }
+  ],
+  "soil-env-024": [
+   {
+    "id": "soil-env-023",
+    "reason": "a bioremediation method"
+   },
+   {
+    "id": "soil-phys-150",
+    "reason": "raises soil aeration"
+   },
+   {
+    "id": "soil-water-230",
+    "reason": "acts in the unsaturated zone"
+   }
+  ],
+  "soil-env-025": [
+   {
+    "id": "soil-env-023",
+    "reason": "a bioremediation method"
+   },
+   {
+    "id": "soil-water-247",
+    "reason": "acts in saturated zones below the water table"
+   }
+  ],
+  "soil-env-026": [
+   {
+    "id": "soil-env-023",
+    "reason": "bioremediation without intervention"
+   }
+  ],
+  "soil-env-027": [
+   {
+    "id": "soil-env-023",
+    "reason": "ex situ bioremediation"
+   }
+  ],
+  "soil-env-028": [
+   {
+    "id": "soil-env-023",
+    "reason": "bioremediation without oxygen"
+   },
+   {
+    "id": "soil-chem-128",
+    "reason": "pollutants serve in anaerobic respiration"
+   },
+   {
+    "id": "soil-chem-113",
+    "reason": "drives reduction of oxidized pollutants"
+   }
+  ],
+  "soil-env-029": [
+   {
+    "id": "soil-env-023",
+    "reason": "microbial breakdown"
+   },
+   {
+    "id": "soil-env-004",
+    "reason": "of pesticide residues"
+   }
+  ],
+  "soil-env-030": [
+   {
+    "id": "soil-env-023",
+    "reason": "drawbacks of bioremediation"
+   }
+  ],
+  "soil-env-031": [
+   {
+    "id": "soil-env-023",
+    "reason": "engineered organisms for bioremediation"
+   }
+  ],
+  "soil-env-032": [
+   {
+    "id": "soil-env-023",
+    "reason": "a type of bioremediation"
+   }
+  ],
+  "soil-env-033": [
+   {
+    "id": "soil-env-023",
+    "reason": "a form of bioremediation"
+   },
+   {
+    "id": "soil-bio-003",
+    "reason": "uses fungi"
+   }
+  ],
+  "soil-env-034": [
+   {
+    "id": "soil-env-033",
+    "reason": "a fungal remediation process"
+   },
+   {
+    "id": "soil-env-018",
+    "reason": "captures metals"
+   }
+  ],
+  "soil-env-035": [
+   {
+    "id": "soil-env-033",
+    "reason": "a fungal remediation process"
+   },
+   {
+    "id": "soil-bio-129",
+    "reason": "especially white rot fungi"
+   },
+   {
+    "id": "soil-bio-116",
+    "reason": "using lignin-digesting enzymes"
+   }
+  ],
+  "soil-env-036": [
+   {
+    "id": "soil-env-037",
+    "reason": "strengthens phytoremediation"
+   },
+   {
+    "id": "soil-bio-157",
+    "reason": "uses mycorrhizal fungi"
+   }
+  ],
+  "soil-env-037": [
+   {
+    "id": "soil-env-023",
+    "reason": "a type of bioremediation"
+   },
+   {
+    "id": "soil-bio-133",
+    "reason": "uses living plants and roots"
+   }
+  ],
+  "soil-env-038": [
+   {
+    "id": "soil-env-037",
+    "reason": "a phytoremediation process"
+   },
+   {
+    "id": "soil-fert-157",
+    "reason": "roots absorb contaminants"
+   }
+  ],
+  "soil-env-039": [
+   {
+    "id": "soil-env-037",
+    "reason": "a phytoremediation process"
+   }
+  ],
+  "soil-env-040": [
+   {
+    "id": "soil-env-037",
+    "reason": "a phytoremediation process"
+   }
+  ],
+  "soil-env-041": [
+   {
+    "id": "soil-env-037",
+    "reason": "a phytoremediation process"
+   },
+   {
+    "id": "soil-bio-143",
+    "reason": "acts in the rhizosphere"
+   }
+  ],
+  "soil-env-042": [
+   {
+    "id": "soil-env-037",
+    "reason": "a phytoremediation process"
+   }
+  ],
+  "soil-env-043": [
+   {
+    "id": "soil-env-037",
+    "reason": "a phytoremediation method"
+   },
+   {
+    "id": "soil-bio-133",
+    "reason": "filters through roots"
+   }
+  ],
+  "soil-env-044": [
+   {
+    "id": "soil-env-037",
+    "reason": "uses plant uptake"
+   }
+  ],
+  "soil-env-045": [
+   {
+    "id": "soil-env-012",
+    "reason": "a remediation method"
+   },
+   {
+    "id": "soil-phys-146",
+    "reason": "draws contaminants out as gas"
+   },
+   {
+    "id": "soil-water-230",
+    "reason": "acts in the vadose zone"
+   },
+   {
+    "id": "soil-water-192",
+    "reason": "depends on soil permeability"
+   }
+  ],
+  "soil-env-046": [
+   {
+    "id": "soil-env-045",
+    "reason": "treats SVE vapour"
+   },
+   {
+    "id": "soil-chem-068",
+    "reason": "by adsorption"
+   }
+  ],
+  "soil-env-047": [
+   {
+    "id": "soil-env-012",
+    "reason": "a remediation method"
+   },
+   {
+    "id": "soil-env-018",
+    "reason": "removes heavy metals"
+   }
+  ],
+  "soil-env-048": [
+   {
+    "id": "soil-env-001",
+    "reason": "maps soil contaminants"
+   }
+  ],
+  "soil-env-049": [
+   {
+    "id": "soil-env-048",
+    "reason": "mapped with GIS"
+   },
+   {
+    "id": "soil-water-193",
+    "reason": "rates hydrological conditions"
+   },
+   {
+    "id": "soil-water-230",
+    "reason": "contaminants pass the vadose zone"
+   }
+  ],
+  "soil-env-050": [
+   {
+    "id": "soil-env-052",
+    "reason": "a kind of metallophyte"
+   },
+   {
+    "id": "soil-env-018",
+    "reason": "stores heavy metals"
+   }
+  ],
+  "soil-env-051": [
+   {
+    "id": "soil-env-050",
+    "reason": "uses hyperaccumulators"
+   },
+   {
+    "id": "soil-env-038",
+    "reason": "by phytoextraction"
+   }
+  ],
+  "soil-env-052": [
+   {
+    "id": "soil-env-018",
+    "reason": "survives metal-rich soil"
+   }
+  ],
+  "soil-env-053": [
+   {
+    "id": "soil-env-023",
+    "reason": "microbial ex situ treatment"
+   },
+   {
+    "id": "soil-agri-095",
+    "reason": "periodically tilled"
+   }
+  ],
+  "soil-env-054": [
+   {
+    "id": "soil-env-012",
+    "reason": "a remediation technology"
+   }
+  ],
+  "soil-env-055": [
+   {
+    "id": "soil-env-023",
+    "reason": "stimulates bioremediating bacteria"
+   },
+   {
+    "id": "soil-fert-181",
+    "reason": "adds nutrients"
+   },
+   {
+    "id": "soil-chem-113",
+    "reason": "adds electron acceptors or donors"
+   }
+  ],
+  "soil-env-056": [
+   {
+    "id": "soil-env-012",
+    "reason": "a decontamination method"
+   }
+  ],
+  "soil-env-058": [
+   {
+    "id": "soil-found-077",
+    "reason": "degradation of soil"
+   },
+   {
+    "id": "soil-form-042",
+    "reason": "a regression from a stable formed soil"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "erosion is a main form"
+   }
+  ],
+  "soil-env-059": [
+   {
+    "id": "soil-env-058",
+    "reason": "a form of soil degradation"
+   },
+   {
+    "id": "soil-env-060",
+    "reason": "the reverse of soil succession toward climax"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "driven by erosion"
+   },
+   {
+    "id": "soil-found-001",
+    "reason": "upper horizons are lost"
+   }
+  ],
+  "soil-env-060": [
+   {
+    "id": "soil-form-042",
+    "reason": "the endpoint of soil formation"
+   },
+   {
+    "id": "soil-form-043",
+    "reason": "set by its environment's factors"
+   },
+   {
+    "id": "soil-found-001",
+    "reason": "a developed horizon sequence"
+   }
+  ],
+  "soil-env-061": [
+   {
+    "id": "soil-env-058",
+    "reason": "rebuilds degraded soil"
+   },
+   {
+    "id": "soil-phys-001",
+    "reason": "improves structure"
+   },
+   {
+    "id": "soil-found-045",
+    "reason": "adds organic matter"
+   },
+   {
+    "id": "soil-water-019",
+    "reason": "limits runoff"
+   }
+  ],
+  "soil-env-062": [
+   {
+    "id": "soil-found-077",
+    "reason": "includes degradation of soil"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "erosion is a main form"
+   }
+  ],
+  "soil-env-063": [
+   {
+    "id": "soil-env-062",
+    "reason": "extent of land degradation"
+   }
+  ],
+  "soil-env-064": [
+   {
+    "id": "soil-env-062",
+    "reason": "forms of land degradation"
+   },
+   {
+    "id": "soil-env-058",
+    "reason": "physical, chemical and biological decline"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "erosion is the long-known form"
+   }
+  ],
+  "soil-env-065": [
+   {
+    "id": "soil-env-062",
+    "reason": "drivers of land degradation"
+   }
+  ],
+  "soil-env-066": [
+   {
+    "id": "soil-env-062",
+    "reason": "worsening of land degradation"
+   },
+   {
+    "id": "soil-env-077",
+    "reason": "especially in drylands"
+   },
+   {
+    "id": "soil-env-129",
+    "reason": "and permafrost areas"
+   }
+  ],
+  "soil-env-067": [
+   {
+    "id": "soil-env-062",
+    "reason": "harm from land degradation"
+   },
+   {
+    "id": "soil-env-058",
+    "reason": "and from soil degradation"
+   }
+  ],
+  "soil-env-068": [
+   {
+    "id": "soil-env-062",
+    "reason": "vulnerability to degradation"
+   }
+  ],
+  "soil-env-069": [
+   {
+    "id": "soil-env-062",
+    "reason": "degradation of farmland"
+   },
+   {
+    "id": "soil-env-065",
+    "reason": "shaped by its drivers"
+   }
+  ],
+  "soil-env-070": [
+   {
+    "id": "soil-env-062",
+    "reason": "prevents and reverses degradation"
+   },
+   {
+    "id": "soil-agri-059",
+    "reason": "conserves soil and water"
+   }
+  ],
+  "soil-env-071": [
+   {
+    "id": "soil-env-062",
+    "reason": "goal of neutral land degradation"
+   }
+  ],
+  "soil-env-072": [
+   {
+    "id": "soil-env-062",
+    "reason": "a form of land degradation"
+   },
+   {
+    "id": "soil-env-077",
+    "reason": "affects drylands"
+   },
+   {
+    "id": "soil-class-148",
+    "reason": "land turns arid"
+   }
+  ],
+  "soil-env-073": [
+   {
+    "id": "soil-env-072",
+    "reason": "definitions of desertification"
+   }
+  ],
+  "soil-env-074": [
+   {
+    "id": "soil-env-072",
+    "reason": "causes of desertification"
+   },
+   {
+    "id": "soil-env-096",
+    "reason": "overgrazing strips vegetation"
+   },
+   {
+    "id": "soil-water-012",
+    "reason": "vegetation loss exposes land"
+   }
+  ],
+  "soil-env-075": [
+   {
+    "id": "soil-env-072",
+    "reason": "debate over its drivers"
+   },
+   {
+    "id": "soil-env-074",
+    "reason": "human versus natural causes"
+   }
+  ],
+  "soil-env-076": [
+   {
+    "id": "soil-env-072",
+    "reason": "climate's role in desertification"
+   },
+   {
+    "id": "soil-env-077",
+    "reason": "expanding drylands"
+   }
+  ],
+  "soil-env-077": [
+   {
+    "id": "soil-class-148",
+    "reason": "drylands are defined by aridity"
+   }
+  ],
+  "soil-env-078": [
+   {
+    "id": "soil-env-072",
+    "reason": "follows from desertification"
+   },
+   {
+    "id": "soil-water-034",
+    "reason": "dust storms"
+   },
+   {
+    "id": "soil-water-029",
+    "reason": "wind picks up loose material"
+   }
+  ],
+  "soil-env-079": [
+   {
+    "id": "soil-env-072",
+    "reason": "threat from desertification"
+   },
+   {
+    "id": "soil-agri-126",
+    "reason": "shrinks farmable land"
+   }
+  ],
+  "soil-env-080": [
+   {
+    "id": "soil-env-072",
+    "reason": "effect of desertification"
+   },
+   {
+    "id": "soil-env-077",
+    "reason": "on dryland communities"
+   }
+  ],
+  "soil-env-081": [
+   {
+    "id": "soil-env-072",
+    "reason": "regional case"
+   },
+   {
+    "id": "soil-env-077",
+    "reason": "the Sahel is a dryland belt"
+   }
+  ],
+  "soil-env-082": [
+   {
+    "id": "soil-env-072",
+    "reason": "regional case"
+   },
+   {
+    "id": "soil-env-077",
+    "reason": "dryland setting"
+   }
+  ],
+  "soil-env-083": [
+   {
+    "id": "soil-env-072",
+    "reason": "regional case"
+   },
+   {
+    "id": "soil-env-077",
+    "reason": "25% of the land is drylands"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "soil erosion"
+   },
+   {
+    "id": "soil-env-096",
+    "reason": "from overgrazing"
+   }
+  ],
+  "soil-env-084": [
+   {
+    "id": "soil-env-072",
+    "reason": "countermeasures to desertification"
+   }
+  ],
+  "soil-env-085": [
+   {
+    "id": "soil-env-084",
+    "reason": "one set of countermeasures"
+   },
+   {
+    "id": "soil-env-072",
+    "reason": "halts desertification"
+   }
+  ],
+  "soil-env-086": [
+   {
+    "id": "soil-env-084",
+    "reason": "reclaims desertified land"
+   },
+   {
+    "id": "soil-env-072",
+    "reason": "applies to desertified land"
+   }
+  ],
+  "soil-env-087": [
+   {
+    "id": "soil-env-084",
+    "reason": "a technique to reverse degradation"
+   },
+   {
+    "id": "soil-env-062",
+    "reason": "reforests degraded land"
+   }
+  ],
+  "soil-env-088": [
+   {
+    "id": "soil-env-072",
+    "reason": "aims to reverse desertification"
+   },
+   {
+    "id": "soil-env-082",
+    "reason": "slows the spread of the Gobi"
+   },
+   {
+    "id": "soil-agri-061",
+    "reason": "a shelter forest of tree belts"
+   }
+  ],
+  "soil-env-090": [
+   {
+    "id": "soil-env-096",
+    "reason": "the alternative to overgrazing"
+   }
+  ],
+  "soil-env-091": [
+   {
+    "id": "soil-env-072",
+    "reason": "a desert practice"
+   },
+   {
+    "id": "soil-env-077",
+    "reason": "where rain is scarce"
+   }
+  ],
+  "soil-env-092": [
+   {
+    "id": "soil-env-072",
+    "reason": "history of desertification"
+   }
+  ],
+  "soil-env-093": [
+   {
+    "id": "soil-env-062",
+    "reason": "a form of land degradation"
+   },
+   {
+    "id": "soil-water-231",
+    "reason": "covered by impervious surfaces"
+   },
+   {
+    "id": "soil-form-021",
+    "reason": "loses the soil resource"
+   }
+  ],
+  "soil-env-094": [
+   {
+    "id": "soil-env-093",
+    "reason": "reverses sealing"
+   },
+   {
+    "id": "soil-water-231",
+    "reason": "removes impervious covers"
+   }
+  ],
+  "soil-env-095": [
+   {
+    "id": "soil-env-062",
+    "reason": "a form of land degradation"
+   },
+   {
+    "id": "soil-env-096",
+    "reason": "driven by overgrazing"
+   }
+  ],
+  "soil-env-096": [],
+  "soil-env-097": [
+   {
+    "id": "soil-env-095",
+    "reason": "one proposed cause of grassland degradation"
+   }
+  ],
+  "soil-env-098": [
+   {
+    "id": "soil-env-095",
+    "reason": "stages of grassland degradation"
+   }
+  ],
+  "soil-env-099": [
+   {
+    "id": "soil-env-095",
+    "reason": "restores degraded grassland"
+   },
+   {
+    "id": "soil-env-098",
+    "reason": "matched to the degree of degradation"
+   }
+  ],
+  "soil-env-100": [
+   {
+    "id": "soil-env-072",
+    "reason": "combats desertification"
+   },
+   {
+    "id": "soil-env-077",
+    "reason": "acts in drylands"
+   }
+  ],
+  "soil-env-101": [
+   {
+    "id": "soil-env-062",
+    "reason": "a driver of land loss"
+   },
+   {
+    "id": "soil-env-093",
+    "reason": "urban growth seals soil"
+   },
+   {
+    "id": "soil-water-091",
+    "reason": "conversion by land development"
+   }
+  ],
+  "soil-env-102": [
+   {
+    "id": "soil-fert-140",
+    "reason": "the carbon cycle is one of Earth's biogeochemical cycles"
+   },
+   {
+    "id": "soil-found-045",
+    "reason": "soils hold carbon as organic matter"
+   }
+  ],
+  "soil-env-103": [
+   {
+    "id": "soil-env-102",
+    "reason": "splits the carbon cycle into fast and slow parts"
+   },
+   {
+    "id": "soil-found-052",
+    "reason": "the slow cycle runs through rock weathering"
+   }
+  ],
+  "soil-env-104": [
+   {
+    "id": "soil-env-102",
+    "reason": "a land reservoir within the carbon cycle"
+   },
+   {
+    "id": "soil-env-117",
+    "reason": "it is one carbon pool"
+   },
+   {
+    "id": "soil-found-045",
+    "reason": "includes carbon in dead organic matter in soils"
+   }
+  ],
+  "soil-env-105": [
+   {
+    "id": "soil-env-102",
+    "reason": "moves land carbon to the atmosphere"
+   },
+   {
+    "id": "soil-env-104",
+    "reason": "the carbon lost is the terrestrial pool"
+   }
+  ],
+  "soil-env-106": [
+   {
+    "id": "soil-found-045",
+    "reason": "organic soil carbon is held in organic matter"
+   },
+   {
+    "id": "soil-found-034",
+    "reason": "inorganic soil carbon is carbonate minerals"
+   },
+   {
+    "id": "soil-env-102",
+    "reason": "soil carbon is part of the carbon cycle"
+   }
+  ],
+  "soil-env-107": [
+   {
+    "id": "soil-env-106",
+    "reason": "the inorganic fraction of soil carbon"
+   },
+   {
+    "id": "soil-found-034",
+    "reason": "held mainly as carbonates"
+   },
+   {
+    "id": "soil-found-052",
+    "reason": "formed by weathering"
+   },
+   {
+    "id": "soil-form-087",
+    "reason": "weathering of parent material supplies it"
+   }
+  ],
+  "soil-env-108": [
+   {
+    "id": "soil-env-106",
+    "reason": "the organic fraction of soil carbon"
+   },
+   {
+    "id": "soil-found-045",
+    "reason": "carbon held in soil organic matter"
+   }
+  ],
+  "soil-env-109": [
+   {
+    "id": "soil-env-108",
+    "reason": "how organic carbon supports soil services"
+   },
+   {
+    "id": "soil-chem-046",
+    "reason": "organic carbon contributes to nutrient holding"
+   },
+   {
+    "id": "soil-phys-060",
+    "reason": "organic carbon affects bulk density"
+   }
+  ],
+  "soil-env-110": [
+   {
+    "id": "soil-env-106",
+    "reason": "about changes in soil carbon"
+   },
+   {
+    "id": "soil-env-102",
+    "reason": "soil carbon losses and gains feed the atmospheric cycle"
+   }
+  ],
+  "soil-env-111": [
+   {
+    "id": "soil-env-108",
+    "reason": "aims to keep and build soil organic carbon"
+   },
+   {
+    "id": "soil-agri-095",
+    "reason": "management choices include tillage"
+   }
+  ],
+  "soil-env-112": [
+   {
+    "id": "soil-env-106",
+    "reason": "benefits of raising soil carbon"
+   },
+   {
+    "id": "soil-env-116",
+    "reason": "contrasted with its role as a carbon sink"
+   }
+  ],
+  "soil-env-113": [
+   {
+    "id": "soil-env-108",
+    "reason": "estimates soil organic carbon stocks"
+   },
+   {
+    "id": "soil-env-110",
+    "reason": "driven by climate reporting"
+   }
+  ],
+  "soil-env-114": [
+   {
+    "id": "soil-env-106",
+    "reason": "release of soil carbon"
+   },
+   {
+    "id": "soil-bio-033",
+    "reason": "released through soil respiration"
+   },
+   {
+    "id": "soil-env-110",
+    "reason": "a case of the soil carbon-climate link"
+   }
+  ],
+  "soil-env-115": [
+   {
+    "id": "soil-env-114",
+    "reason": "a runaway form of soil carbon feedback"
+   },
+   {
+    "id": "soil-water-136",
+    "reason": "concerns peatland carbon"
+   }
+  ],
+  "soil-env-116": [
+   {
+    "id": "soil-env-102",
+    "reason": "a sink takes up carbon within the carbon cycle"
+   }
+  ],
+  "soil-env-117": [
+   {
+    "id": "soil-env-102",
+    "reason": "a reservoir of the carbon cycle"
+   }
+  ],
+  "soil-env-118": [
+   {
+    "id": "soil-env-116",
+    "reason": "soils acting as a carbon sink"
+   },
+   {
+    "id": "soil-env-106",
+    "reason": "the carbon stored is soil carbon"
+   }
+  ],
+  "soil-env-119": [
+   {
+    "id": "soil-env-106",
+    "reason": "carbon-rich soil"
+   },
+   {
+    "id": "soil-phys-004",
+    "reason": "well-aggregated soil"
+   },
+   {
+    "id": "soil-phys-069",
+    "reason": "porous soil"
+   },
+   {
+    "id": "soil-water-153",
+    "reason": "holds water well"
+   },
+   {
+    "id": "soil-water-180",
+    "reason": "absorbs water"
+   }
+  ],
+  "soil-env-120": [
+   {
+    "id": "soil-bio-157",
+    "reason": "role of mycorrhizal fungi"
+   },
+   {
+    "id": "soil-env-106",
+    "reason": "the soil carbon pool"
+   },
+   {
+    "id": "soil-bio-115",
+    "reason": "carbon is lost through decomposition"
+   }
+  ],
+  "soil-env-121": [
+   {
+    "id": "soil-env-120",
+    "reason": "one mechanism of mycorrhizal carbon storage"
+   },
+   {
+    "id": "soil-bio-115",
+    "reason": "rests on how slowly fungal tissue decays"
+   },
+   {
+    "id": "soil-bio-121",
+    "reason": "glomalin is a fungal tissue product"
+   }
+  ],
+  "soil-env-122": [
+   {
+    "id": "soil-env-120",
+    "reason": "one mechanism of mycorrhizal carbon storage"
+   },
+   {
+    "id": "soil-phys-005",
+    "reason": "fungi bind soil into aggregates"
+   }
+  ],
+  "soil-env-123": [
+   {
+    "id": "soil-env-120",
+    "reason": "mycorrhizal effect on soil carbon"
+   },
+   {
+    "id": "soil-bio-117",
+    "reason": "it is a priming effect"
+   },
+   {
+    "id": "soil-bio-115",
+    "reason": "speeds decomposition"
+   }
+  ],
+  "soil-env-124": [
+   {
+    "id": "soil-env-120",
+    "reason": "mycorrhizal effect on soil carbon"
+   },
+   {
+    "id": "soil-bio-173",
+    "reason": "involves ectomycorrhizal fungi"
+   },
+   {
+    "id": "soil-bio-115",
+    "reason": "slows decomposition"
+   }
+  ],
+  "soil-env-125": [
+   {
+    "id": "soil-env-126",
+    "reason": "speeds up natural silicate weathering CO2 removal"
+   },
+   {
+    "id": "soil-found-031",
+    "reason": "spreads ground silicate rock"
+   },
+   {
+    "id": "soil-env-116",
+    "reason": "a carbon removal method"
+   }
+  ],
+  "soil-env-126": [
+   {
+    "id": "soil-found-058",
+    "reason": "carbonic acid dissolution is chemical weathering"
+   },
+   {
+    "id": "soil-found-060",
+    "reason": "hydrolysis and carbonation reactions"
+   },
+   {
+    "id": "soil-found-031",
+    "reason": "acts on silicate minerals"
+   },
+   {
+    "id": "soil-env-103",
+    "reason": "part of the slow carbon cycle"
+   }
+  ],
+  "soil-env-127": [
+   {
+    "id": "soil-env-125",
+    "reason": "enhanced weathering done on land"
+   },
+   {
+    "id": "soil-found-031",
+    "reason": "spreads crushed silicate minerals"
+   }
+  ],
+  "soil-env-128": [
+   {
+    "id": "soil-env-126",
+    "reason": "deliberate version of silicate carbonation"
+   },
+   {
+    "id": "soil-found-034",
+    "reason": "locks CO2 into carbonate"
+   }
+  ],
+  "soil-env-129": [
+   {
+    "id": "soil-found-077",
+    "reason": "permafrost is frozen soil or rock"
+   },
+   {
+    "id": "soil-phys-137",
+    "reason": "defined by ground temperature below 0 °C"
+   }
+  ],
+  "soil-env-130": [
+   {
+    "id": "soil-env-129",
+    "reason": "divides permafrost regions"
+   }
+  ],
+  "soil-env-131": [
+   {
+    "id": "soil-env-129",
+    "reason": "a kind of permafrost"
+   }
+  ],
+  "soil-env-132": [
+   {
+    "id": "soil-env-129",
+    "reason": "a kind of permafrost"
+   },
+   {
+    "id": "soil-env-133",
+    "reason": "formed on land exposed at the Last Glacial Maximum"
+   }
+  ],
+  "soil-env-133": [
+   {
+    "id": "soil-env-129",
+    "reason": "past distribution of permafrost"
+   }
+  ],
+  "soil-env-134": [
+   {
+    "id": "soil-env-129",
+    "reason": "the bottom of permafrost"
+   },
+   {
+    "id": "soil-phys-137",
+    "reason": "set by ground temperature"
+   },
+   {
+    "id": "soil-phys-140",
+    "reason": "geothermal heat balance"
+   }
+  ],
+  "soil-env-135": [
+   {
+    "id": "soil-env-129",
+    "reason": "ice-rich permafrost"
+   },
+   {
+    "id": "soil-water-164",
+    "reason": "ice content given as percent of dry soil mass"
+   }
+  ],
+  "soil-env-136": [
+   {
+    "id": "soil-env-129",
+    "reason": "landforms of permafrost ground"
+   },
+   {
+    "id": "soil-form-036",
+    "reason": "ice wedges are built by cracking"
+   },
+   {
+    "id": "soil-phys-153",
+    "reason": "built by freezing"
+   }
+  ],
+  "soil-env-137": [
+   {
+    "id": "soil-env-129",
+    "reason": "life in frozen ground"
+   },
+   {
+    "id": "soil-bio-011",
+    "reason": "includes soil microbes"
+   }
+  ],
+  "soil-env-138": [
+   {
+    "id": "soil-env-129",
+    "reason": "building on frozen ground"
+   },
+   {
+    "id": "soil-phys-123",
+    "reason": "frozen ground supports the structure"
+   }
+  ],
+  "soil-env-139": [
+   {
+    "id": "soil-env-129",
+    "reason": "thawing of permafrost"
+   },
+   {
+    "id": "soil-env-146",
+    "reason": "seen as a thickening active layer"
+   }
+  ],
+  "soil-env-140": [
+   {
+    "id": "soil-env-139",
+    "reason": "driven by thaw"
+   },
+   {
+    "id": "soil-env-114",
+    "reason": "a soil carbon feedback"
+   },
+   {
+    "id": "soil-env-157",
+    "reason": "warming from released permafrost carbon"
+   }
+  ],
+  "soil-env-141": [
+   {
+    "id": "soil-env-139",
+    "reason": "caused by thaw"
+   },
+   {
+    "id": "soil-env-135",
+    "reason": "ground ice thaws and drains"
+   },
+   {
+    "id": "soil-water-064",
+    "reason": "weakening threatens slope stability"
+   }
+  ],
+  "soil-env-142": [
+   {
+    "id": "soil-env-139",
+    "reason": "threat from thaw"
+   },
+   {
+    "id": "soil-env-138",
+    "reason": "affects structures built on permafrost"
+   }
+  ],
+  "soil-env-143": [
+   {
+    "id": "soil-env-139",
+    "reason": "release on thaw"
+   },
+   {
+    "id": "soil-found-066",
+    "reason": "includes natural mercury"
+   }
+  ],
+  "soil-env-144": [
+   {
+    "id": "soil-env-129",
+    "reason": "organisms preserved in frozen ground"
+   },
+   {
+    "id": "soil-env-137",
+    "reason": "permafrost microbes and plants"
+   }
+  ],
+  "soil-env-145": [
+   {
+    "id": "soil-env-129",
+    "reason": "history of its study"
+   }
+  ],
+  "soil-env-146": [
+   {
+    "id": "soil-env-129",
+    "reason": "the seasonal layer over permafrost"
+   },
+   {
+    "id": "soil-phys-137",
+    "reason": "defined by seasonal freezing and thawing"
+   }
+  ],
+  "soil-env-147": [
+   {
+    "id": "soil-env-146",
+    "reason": "measures the thawed active layer"
+   },
+   {
+    "id": "soil-phys-137",
+    "reason": "set by soil temperature at 0 °C"
+   }
+  ],
+  "soil-env-148": [
+   {
+    "id": "soil-env-146",
+    "reason": "soil formation in the active layer"
+   },
+   {
+    "id": "soil-form-034",
+    "reason": "dominated by frost churning"
+   },
+   {
+    "id": "soil-form-042",
+    "reason": "a case of soil formation"
+   }
+  ],
+  "soil-env-149": [
+   {
+    "id": "soil-env-129",
+    "reason": "frozen ground lasting several years"
+   },
+   {
+    "id": "soil-env-146",
+    "reason": "lies between the active layer and permafrost"
+   }
+  ],
+  "soil-env-150": [
+   {
+    "id": "soil-env-129",
+    "reason": "unfrozen zone within permafrost"
+   }
+  ],
+  "soil-env-151": [
+   {
+    "id": "soil-env-150",
+    "reason": "a kind of talik"
+   },
+   {
+    "id": "soil-env-146",
+    "reason": "forms when the active layer fails to refreeze"
+   },
+   {
+    "id": "soil-env-139",
+    "reason": "a sign of thaw"
+   }
+  ],
+  "soil-env-152": [
+   {
+    "id": "soil-env-129",
+    "reason": "a kind of permafrost"
+   },
+   {
+    "id": "soil-env-108",
+    "reason": "organic-rich, about 2% carbon"
+   },
+   {
+    "id": "soil-env-135",
+    "reason": "ice-rich ground"
+   }
+  ],
+  "soil-env-153": [
+   {
+    "id": "soil-env-129",
+    "reason": "terrain on permafrost"
+   },
+   {
+    "id": "soil-env-135",
+    "reason": "formed when ice-rich ground thaws"
+   },
+   {
+    "id": "soil-env-139",
+    "reason": "a product of thaw"
+   }
+  ],
+  "soil-env-154": [
+   {
+    "id": "soil-env-102",
+    "reason": "the Arctic part of the carbon cycle"
+   },
+   {
+    "id": "soil-env-129",
+    "reason": "carbon in permafrost soils"
+   },
+   {
+    "id": "soil-env-108",
+    "reason": "organic carbon moves through it"
+   }
+  ],
+  "soil-env-155": [
+   {
+    "id": "soil-env-154",
+    "reason": "storage step of the permafrost carbon cycle"
+   },
+   {
+    "id": "soil-form-034",
+    "reason": "cryoturbation carries carbon down"
+   },
+   {
+    "id": "soil-env-171",
+    "reason": "syngenetic growth buries carbon"
+   }
+  ],
+  "soil-env-156": [
+   {
+    "id": "soil-env-154",
+    "reason": "the stock in the permafrost carbon cycle"
+   },
+   {
+    "id": "soil-env-108",
+    "reason": "organic carbon held"
+   }
+  ],
+  "soil-env-157": [
+   {
+    "id": "soil-env-154",
+    "reason": "release step of the permafrost carbon cycle"
+   },
+   {
+    "id": "soil-env-139",
+    "reason": "occurs on thaw"
+   },
+   {
+    "id": "soil-bio-115",
+    "reason": "microbes decompose it"
+   }
+  ],
+  "soil-env-158": [
+   {
+    "id": "soil-env-157",
+    "reason": "the CO2 part of carbon release"
+   },
+   {
+    "id": "soil-bio-033",
+    "reason": "produced by microbial respiration"
+   }
+  ],
+  "soil-env-159": [
+   {
+    "id": "soil-env-157",
+    "reason": "the methane part of carbon release"
+   },
+   {
+    "id": "soil-chem-129",
+    "reason": "produced by methanogenesis"
+   },
+   {
+    "id": "soil-chem-125",
+    "reason": "occurs in waterlogged soil"
+   },
+   {
+    "id": "soil-env-153",
+    "reason": "especially under thermokarst lakes"
+   }
+  ],
+  "soil-env-160": [
+   {
+    "id": "soil-env-139",
+    "reason": "rapid form of thaw"
+   },
+   {
+    "id": "soil-env-153",
+    "reason": "includes thermokarst lake formation"
+   }
+  ],
+  "soil-env-161": [
+   {
+    "id": "soil-env-140",
+    "reason": "projects the feedback's emissions"
+   },
+   {
+    "id": "soil-env-158",
+    "reason": "CO2 emissions"
+   },
+   {
+    "id": "soil-env-159",
+    "reason": "methane emissions"
+   }
+  ],
+  "soil-env-162": [
+   {
+    "id": "soil-fert-149",
+    "reason": "soil fertility underlies farming"
+   },
+   {
+    "id": "soil-agri-058",
+    "reason": "effects are measured in crop yields"
+   },
+   {
+    "id": "soil-env-110",
+    "reason": "climate change alters soils"
+   }
+  ],
+  "soil-env-163": [
+   {
+    "id": "soil-fert-149",
+    "reason": "decline of soil fertility"
+   },
+   {
+    "id": "soil-env-108",
+    "reason": "faster decay of soil organic matter"
+   },
+   {
+    "id": "soil-bio-115",
+    "reason": "decay is decomposition"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "heavier rain erodes soil"
+   }
+  ],
+  "soil-env-164": [
+   {
+    "id": "soil-env-139",
+    "reason": "permafrost thaw frees land"
+   },
+   {
+    "id": "soil-agri-126",
+    "reason": "new arable land"
+   }
+  ],
+  "soil-env-165": [
+   {
+    "id": "soil-agri-126",
+    "reason": "loss of low-lying farmland"
+   },
+   {
+    "id": "soil-chem-008",
+    "reason": "salt intrudes into soils"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "farmland is lost to erosion"
+   }
+  ],
+  "soil-env-166": [
+   {
+    "id": "soil-env-106",
+    "reason": "emissions include soil carbon"
+   },
+   {
+    "id": "soil-env-105",
+    "reason": "clearing land for crops releases carbon"
+   },
+   {
+    "id": "soil-fert-118",
+    "reason": "soils emit nitrous oxide"
+   }
+  ],
+  "soil-env-167": [
+   {
+    "id": "soil-env-102",
+    "reason": "limits greenhouse gases in the carbon cycle"
+   },
+   {
+    "id": "soil-env-116",
+    "reason": "includes enhancing carbon sinks"
+   }
+  ],
+  "soil-env-168": [
+   {
+    "id": "soil-env-106",
+    "reason": "builds soil carbon"
+   },
+   {
+    "id": "soil-env-116",
+    "reason": "uses soil as a sink"
+   },
+   {
+    "id": "soil-env-118",
+    "reason": "soils as carbon sinks"
+   }
+  ],
+  "soil-env-169": [
+   {
+    "id": "soil-water-124",
+    "reason": "restoring wetlands"
+   },
+   {
+    "id": "soil-water-136",
+    "reason": "restoring peatlands"
+   },
+   {
+    "id": "soil-env-118",
+    "reason": "so they keep sequestering carbon"
+   }
+  ],
+  "soil-env-170": [
+   {
+    "id": "soil-env-129",
+    "reason": "grows only in permafrost"
+   },
+   {
+    "id": "soil-phys-153",
+    "reason": "an ice-cored frost-heave hill"
+   }
+  ],
+  "soil-env-171": [
+   {
+    "id": "soil-env-129",
+    "reason": "growth of permafrost"
+   },
+   {
+    "id": "soil-water-046",
+    "reason": "new material is deposited on the surface"
+   }
+  ],
+  "soil-env-172": [
+   {
+    "id": "soil-env-108",
+    "reason": "a form of soil carbon"
+   },
+   {
+    "id": "soil-class-083",
+    "reason": "held as charcoal"
+   }
+  ],
+  "soil-env-173": [
+   {
+    "id": "soil-found-084",
+    "reason": "human interaction with the pedosphere"
+   },
+   {
+    "id": "soil-found-090",
+    "reason": "a branch of soil science"
+   }
+  ],
+  "soil-env-174": [
+   {
+    "id": "soil-found-077",
+    "reason": "health of soil"
+   },
+   {
+    "id": "soil-env-181",
+    "reason": "meeting its ecosystem functions"
+   },
+   {
+    "id": "soil-bio-008",
+    "reason": "soil as a living system"
+   }
+  ],
+  "soil-env-175": [
+   {
+    "id": "soil-env-174",
+    "reason": "relates soil health"
+   },
+   {
+    "id": "soil-env-179",
+    "reason": "to soil quality"
+   }
+  ],
+  "soil-env-176": [
+   {
+    "id": "soil-env-174",
+    "reason": "interpretations of soil health"
+   }
+  ],
+  "soil-env-177": [
+   {
+    "id": "soil-env-174",
+    "reason": "assesses soil health"
+   },
+   {
+    "id": "soil-fert-187",
+    "reason": "uses soil tests"
+   }
+  ],
+  "soil-env-178": [
+   {
+    "id": "soil-env-177",
+    "reason": "benchmarks soil health measurements"
+   }
+  ],
+  "soil-env-179": [
+   {
+    "id": "soil-found-077",
+    "reason": "condition of soil"
+   },
+   {
+    "id": "soil-env-181",
+    "reason": "judged by soil functions"
+   }
+  ],
+  "soil-env-180": [
+   {
+    "id": "soil-env-179",
+    "reason": "indicators of soil quality"
+   },
+   {
+    "id": "soil-phys-040",
+    "reason": "physical measurements"
+   },
+   {
+    "id": "soil-found-014",
+    "reason": "chemical measurements such as pH"
+   }
+  ],
+  "soil-env-181": [
+   {
+    "id": "soil-found-077",
+    "reason": "capabilities of soils"
+   }
+  ],
+  "soil-env-182": [
+   {
+    "id": "soil-env-181",
+    "reason": "a soil function"
+   }
+  ],
+  "soil-env-183": [
+   {
+    "id": "soil-env-181",
+    "reason": "maps soil functions"
+   },
+   {
+    "id": "soil-agri-084",
+    "reason": "as soil maps"
+   },
+   {
+    "id": "soil-agri-083",
+    "reason": "interpretations of soil properties"
+   }
+  ],
+  "soil-env-184": [
+   {
+    "id": "soil-env-174",
+    "reason": "recovery of a healthy state"
+   }
+  ],
+  "soil-env-185": [
+   {
+    "id": "soil-env-174",
+    "reason": "restores soil health"
+   },
+   {
+    "id": "soil-env-058",
+    "reason": "reverses degradation"
+   },
+   {
+    "id": "soil-form-021",
+    "reason": "minimizes topsoil loss"
+   },
+   {
+    "id": "soil-env-108",
+    "reason": "retains carbon"
+   }
+  ],
+  "soil-env-186": [
+   {
+    "id": "soil-env-058",
+    "reason": "forms of soil degradation"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "erosion is one form"
+   }
+  ],
+  "soil-env-187": [
+   {
+    "id": "soil-env-108",
+    "reason": "loss of soil carbon"
+   },
+   {
+    "id": "soil-env-102",
+    "reason": "to the atmosphere"
+   }
+  ],
+  "soil-env-188": [
+   {
+    "id": "soil-env-185",
+    "reason": "methods for regeneration"
+   },
+   {
+    "id": "soil-agri-065",
+    "reason": "many from conservation agriculture"
+   }
+  ],
+  "soil-env-189": [
+   {
+    "id": "soil-agri-063",
+    "reason": "governs soil use"
+   },
+   {
+    "id": "soil-env-058",
+    "reason": "responds to soil degradation"
+   }
+  ],
+  "soil-env-190": [
+   {
+    "id": "soil-env-189",
+    "reason": "an institution of soil governance"
+   }
+  ],
+  "soil-env-191": [
+   {
+    "id": "soil-env-189",
+    "reason": "EU soil governance"
+   }
+  ],
+  "soil-env-192": [
+   {
+    "id": "soil-env-189",
+    "reason": "India's soil governance"
+   },
+   {
+    "id": "soil-env-058",
+    "reason": "farmland degradation"
+   }
+  ],
+  "soil-env-193": [
+   {
+    "id": "soil-env-189",
+    "reason": "soil governance in cities"
+   },
+   {
+    "id": "soil-env-058",
+    "reason": "industry causes degradation"
+   }
+  ],
+  "soil-env-194": [
+   {
+    "id": "soil-water-050",
+    "reason": "performs erosion control"
+   },
+   {
+    "id": "soil-water-064",
+    "reason": "stabilizes slopes"
+   },
+   {
+    "id": "soil-water-069",
+    "reason": "plant roots reinforce soil"
+   }
+  ],
+  "soil-env-195": [
+   {
+    "id": "soil-env-182",
+    "reason": "soil filters effluent"
+   },
+   {
+    "id": "soil-water-159",
+    "reason": "effluent percolates through soil"
+   },
+   {
+    "id": "soil-found-051",
+    "reason": "texture controls drainage"
+   }
+  ],
+  "soil-env-196": [
+   {
+    "id": "soil-env-195",
+    "reason": "assesses drain field sites"
+   },
+   {
+    "id": "soil-found-071",
+    "reason": "by percolation test"
+   },
+   {
+    "id": "soil-form-001",
+    "reason": "or by soil morphology"
+   },
+   {
+    "id": "soil-chem-120",
+    "reason": "redoximorphic features show wetness"
+   }
+  ],
+  "soil-env-197": [
+   {
+    "id": "soil-fert-187",
+    "reason": "based on soil tests"
+   },
+   {
+    "id": "soil-fert-192",
+    "reason": "gives nutrient recommendations"
+   }
+  ]
+ }
+}

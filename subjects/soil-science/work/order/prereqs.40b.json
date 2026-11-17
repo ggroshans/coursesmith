@@ -1,0 +1,1306 @@
+{
+ "entries": {
+  "soil-agri-001": [
+   {
+    "id": "soil-found-090",
+    "reason": "a branch of soil science"
+   },
+   {
+    "id": "soil-found-097",
+    "reason": "edaphology studies soil as it affects plants"
+   }
+  ],
+  "soil-agri-002": [
+   {
+    "id": "soil-agri-003",
+    "reason": "studies agroecosystems"
+   },
+   {
+    "id": "soil-bio-005",
+    "reason": "applies ecology to farming"
+   },
+   {
+    "id": "soil-agri-001",
+    "reason": "draws on agricultural soil science"
+   }
+  ],
+  "soil-agri-003": [],
+  "soil-agri-004": [
+   {
+    "id": "soil-fert-149",
+    "reason": "rotation maintains soil fertility"
+   },
+   {
+    "id": "soil-fert-181",
+    "reason": "crops differ in nutrients taken and returned"
+   }
+  ],
+  "soil-agri-005": [
+   {
+    "id": "soil-agri-004",
+    "reason": "the benefit of rotation"
+   },
+   {
+    "id": "soil-agri-053",
+    "reason": "measured against continuous cropping"
+   },
+   {
+    "id": "soil-agri-058",
+    "reason": "the benefit is in yield"
+   }
+  ],
+  "soil-agri-006": [
+   {
+    "id": "soil-agri-004",
+    "reason": "uses the rotation"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "aims to cut erosion"
+   },
+   {
+    "id": "soil-agri-044",
+    "reason": "manages fallow"
+   },
+   {
+    "id": "soil-agri-129",
+    "reason": "manages residue"
+   }
+  ],
+  "soil-agri-007": [
+   {
+    "id": "soil-agri-004",
+    "reason": "chooses the crops of a rotation"
+   },
+   {
+    "id": "soil-found-045",
+    "reason": "crops differ in organic matter added"
+   },
+   {
+    "id": "soil-fert-181",
+    "reason": "crops differ in nutrients used"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "crops differ in erosion protection"
+   }
+  ],
+  "soil-agri-008": [
+   {
+    "id": "soil-agri-004",
+    "reason": "combines livestock with rotations"
+   },
+   {
+    "id": "soil-fert-024",
+    "reason": "livestock supply manure"
+   },
+   {
+    "id": "soil-fert-146",
+    "reason": "helps cycle nutrients"
+   }
+  ],
+  "soil-agri-009": [
+   {
+    "id": "soil-agri-053",
+    "reason": "the opposite of a single crop"
+   }
+  ],
+  "soil-agri-010": [
+   {
+    "id": "soil-fert-187",
+    "reason": "relies on soil data"
+   },
+   {
+    "id": "soil-agri-058",
+    "reason": "aims at better yield"
+   },
+   {
+    "id": "soil-fert-192",
+    "reason": "fits fertilizer decisions to the field"
+   }
+  ],
+  "soil-agri-011": [
+   {
+    "id": "soil-agri-010",
+    "reason": "a precision-agriculture technique"
+   },
+   {
+    "id": "soil-agri-012",
+    "reason": "rate follows within-field differences"
+   },
+   {
+    "id": "soil-fert-001",
+    "reason": "the applied material is often fertilizer"
+   }
+  ],
+  "soil-agri-012": [
+   {
+    "id": "soil-agri-010",
+    "reason": "what precision agriculture measures"
+   }
+  ],
+  "soil-agri-013": [
+   {
+    "id": "soil-water-155",
+    "reason": "adds water to soil moisture"
+   },
+   {
+    "id": "soil-water-160",
+    "reason": "water must reach crop uptake"
+   }
+  ],
+  "soil-agri-014": [
+   {
+    "id": "soil-agri-013",
+    "reason": "efficiency of irrigation"
+   },
+   {
+    "id": "soil-water-161",
+    "reason": "uses water transpired by the crop"
+   }
+  ],
+  "soil-agri-015": [
+   {
+    "id": "soil-agri-013",
+    "reason": "a form of irrigation"
+   },
+   {
+    "id": "soil-bio-133",
+    "reason": "delivers water at the roots"
+   }
+  ],
+  "soil-agri-016": [
+   {
+    "id": "soil-agri-013",
+    "reason": "a form of irrigation"
+   }
+  ],
+  "soil-agri-017": [
+   {
+    "id": "soil-agri-013",
+    "reason": "a form of irrigation"
+   },
+   {
+    "id": "soil-water-247",
+    "reason": "works by raising the water table"
+   },
+   {
+    "id": "soil-bio-135",
+    "reason": "moistens soil below the root zone"
+   }
+  ],
+  "soil-agri-018": [
+   {
+    "id": "soil-agri-013",
+    "reason": "a form of irrigation"
+   },
+   {
+    "id": "soil-fert-181",
+    "reason": "wastewater nutrients fertilize crops"
+   }
+  ],
+  "soil-agri-021": [
+   {
+    "id": "soil-fert-181",
+    "reason": "the lost substances are nutrients"
+   },
+   {
+    "id": "soil-water-159",
+    "reason": "carried down by percolating water"
+   },
+   {
+    "id": "soil-form-050",
+    "reason": "the general leaching process"
+   },
+   {
+    "id": "soil-agri-013",
+    "reason": "irrigation water drives it"
+   }
+  ],
+  "soil-agri-022": [
+   {
+    "id": "soil-agri-021",
+    "reason": "a kind of nutrient leaching"
+   },
+   {
+    "id": "soil-fert-099",
+    "reason": "nitrate comes from the nitrogen cycle"
+   },
+   {
+    "id": "soil-chem-046",
+    "reason": "soils do not hold nitrate ions"
+   }
+  ],
+  "soil-agri-023": [
+   {
+    "id": "soil-agri-021",
+    "reason": "a kind of nutrient leaching"
+   },
+   {
+    "id": "soil-fert-129",
+    "reason": "phosphorus is usually retained"
+   },
+   {
+    "id": "soil-water-157",
+    "reason": "important where flow is preferential"
+   }
+  ],
+  "soil-agri-024": [
+   {
+    "id": "soil-chem-008",
+    "reason": "tolerance of soil salinity"
+   },
+   {
+    "id": "soil-agri-013",
+    "reason": "irrigation is the usual salt source"
+   }
+  ],
+  "soil-agri-025": [
+   {
+    "id": "soil-agri-024",
+    "reason": "classes match crop tolerance"
+   },
+   {
+    "id": "soil-chem-012",
+    "reason": "uses electrical conductivity of an extract"
+   },
+   {
+    "id": "soil-chem-008",
+    "reason": "classes of soil salinity"
+   }
+  ],
+  "soil-agri-027": [
+   {
+    "id": "soil-agri-024",
+    "reason": "a case of crop salt tolerance"
+   },
+   {
+    "id": "soil-agri-013",
+    "reason": "irrigation with seawater"
+   }
+  ],
+  "soil-agri-028": [
+   {
+    "id": "soil-found-077",
+    "reason": "a substitute for natural soil"
+   }
+  ],
+  "soil-agri-029": [
+   {
+    "id": "soil-agri-028",
+    "reason": "adapted potting mixes"
+   },
+   {
+    "id": "soil-phys-150",
+    "reason": "tuned for aeration"
+   },
+   {
+    "id": "soil-water-214",
+    "reason": "tuned for drainage"
+   },
+   {
+    "id": "soil-found-014",
+    "reason": "tuned for pH"
+   }
+  ],
+  "soil-agri-030": [
+   {
+    "id": "soil-agri-028",
+    "reason": "a test of potting mix"
+   },
+   {
+    "id": "soil-fert-187",
+    "reason": "a form of soil testing"
+   }
+  ],
+  "soil-agri-031": [
+   {
+    "id": "soil-agri-028",
+    "reason": "a kind of growing medium"
+   },
+   {
+    "id": "soil-fert-167",
+    "reason": "support roots in hydroponics"
+   },
+   {
+    "id": "soil-fert-072",
+    "reason": "perlite is a typical substrate"
+   }
+  ],
+  "soil-agri-032": [
+   {
+    "id": "soil-bio-069",
+    "reason": "steam kills soil-borne pathogens"
+   },
+   {
+    "id": "soil-bio-011",
+    "reason": "sterilizing affects soil microbes"
+   }
+  ],
+  "soil-agri-033": [
+   {
+    "id": "soil-agri-032",
+    "reason": "methods of soil steaming"
+   },
+   {
+    "id": "soil-phys-001",
+    "reason": "chosen by soil structure"
+   }
+  ],
+  "soil-agri-034": [
+   {
+    "id": "soil-bio-069",
+    "reason": "targets soil-borne pathogens"
+   },
+   {
+    "id": "soil-phys-137",
+    "reason": "works by raising soil temperature"
+   }
+  ],
+  "soil-agri-035": [
+   {
+    "id": "soil-agri-034",
+    "reason": "a form of solarization"
+   },
+   {
+    "id": "soil-fert-028",
+    "reason": "adds organic amendments or compost"
+   },
+   {
+    "id": "soil-bio-011",
+    "reason": "microbial activity shortens treatment"
+   }
+  ],
+  "soil-agri-036": [
+   {
+    "id": "soil-agri-038",
+    "reason": "studies agrominerals"
+   },
+   {
+    "id": "soil-found-029",
+    "reason": "minerals and their origins"
+   },
+   {
+    "id": "soil-fert-149",
+    "reason": "applied to soil productivity"
+   }
+  ],
+  "soil-agri-037": [
+   {
+    "id": "soil-agri-038",
+    "reason": "one of the agrominerals"
+   },
+   {
+    "id": "soil-fert-095",
+    "reason": "it is phosphorite"
+   },
+   {
+    "id": "soil-fert-174",
+    "reason": "supplies phosphorus to crops"
+   }
+  ],
+  "soil-agri-038": [
+   {
+    "id": "soil-found-029",
+    "reason": "agrominerals are minerals"
+   },
+   {
+    "id": "soil-fert-169",
+    "reason": "they supply essential plant nutrients"
+   }
+  ],
+  "soil-agri-039": [
+   {
+    "id": "soil-agri-038",
+    "reason": "applies rock powders"
+   },
+   {
+    "id": "soil-fert-075",
+    "reason": "crushed rock is rock flour"
+   },
+   {
+    "id": "soil-found-052",
+    "reason": "nutrients are released by weathering"
+   }
+  ],
+  "soil-agri-040": [
+   {
+    "id": "soil-water-214",
+    "reason": "new land is drained from water bodies"
+   }
+  ],
+  "soil-agri-041": [
+   {
+    "id": "soil-agri-040",
+    "reason": "a kind of land reclamation"
+   },
+   {
+    "id": "soil-water-124",
+    "reason": "reclaims wetlands"
+   }
+  ],
+  "soil-agri-042": [
+   {
+    "id": "soil-form-021",
+    "reason": "aims to regenerate topsoil"
+   },
+   {
+    "id": "soil-bio-008",
+    "reason": "aims to raise biodiversity"
+   },
+   {
+    "id": "soil-found-045",
+    "reason": "builds soil organic matter"
+   }
+  ],
+  "soil-agri-043": [
+   {
+    "id": "soil-agri-042",
+    "reason": "a regenerative grazing method"
+   }
+  ],
+  "soil-agri-044": [
+   {
+    "id": "soil-agri-126",
+    "reason": "leaving arable land unsown"
+   }
+  ],
+  "soil-agri-045": [
+   {
+    "id": "soil-agri-044",
+    "reason": "occurs after fallow"
+   },
+   {
+    "id": "soil-bio-166",
+    "reason": "caused by lack of arbuscular mycorrhizal fungi"
+   }
+  ],
+  "soil-agri-046": [],
+  "soil-agri-047": [
+   {
+    "id": "soil-agri-046",
+    "reason": "a way of using herbicides"
+   },
+   {
+    "id": "soil-chem-068",
+    "reason": "herbicides interact with soil by sorption"
+   },
+   {
+    "id": "soil-bio-133",
+    "reason": "taken up through roots"
+   }
+  ],
+  "soil-agri-048": [
+   {
+    "id": "soil-agri-046",
+    "reason": "persistence of herbicides"
+   },
+   {
+    "id": "soil-chem-068",
+    "reason": "soil reactions neutralize them"
+   }
+  ],
+  "soil-agri-049": [
+   {
+    "id": "soil-agri-013",
+    "reason": "a form of irrigation"
+   },
+   {
+    "id": "soil-water-180",
+    "reason": "water soaks in from the surface"
+   }
+  ],
+  "soil-agri-050": [
+   {
+    "id": "soil-agri-049",
+    "reason": "a form of surface irrigation"
+   }
+  ],
+  "soil-agri-051": [
+   {
+    "id": "soil-agri-049",
+    "reason": "a form of surface irrigation"
+   },
+   {
+    "id": "soil-water-180",
+    "reason": "water left to infiltrate"
+   }
+  ],
+  "soil-agri-052": [
+   {
+    "id": "soil-agri-049",
+    "reason": "a form of surface irrigation by diverted floods"
+   }
+  ],
+  "soil-agri-053": [
+   {
+    "id": "soil-agri-004",
+    "reason": "defined against rotation"
+   }
+  ],
+  "soil-agri-054": [
+   {
+    "id": "soil-agri-046",
+    "reason": "combines chemical controls"
+   },
+   {
+    "id": "soil-agri-004",
+    "reason": "rotation is a non-chemical method"
+   }
+  ],
+  "soil-agri-055": [
+   {
+    "id": "soil-env-062",
+    "reason": "restoration answers land degradation"
+   }
+  ],
+  "soil-agri-056": [
+   {
+    "id": "soil-bio-069",
+    "reason": "controls soil-borne pests"
+   },
+   {
+    "id": "soil-bio-115",
+    "reason": "fumigant comes from decomposing plant material"
+   }
+  ],
+  "soil-agri-057": [
+   {
+    "id": "soil-fert-028",
+    "reason": "pits concentrate compost"
+   },
+   {
+    "id": "soil-water-180",
+    "reason": "pits catch water to soak in"
+   },
+   {
+    "id": "soil-water-192",
+    "reason": "used on poorly permeable soil"
+   }
+  ],
+  "soil-agri-058": [],
+  "soil-agri-059": [
+   {
+    "id": "soil-form-021",
+    "reason": "prevents topsoil loss"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "main threat is erosion"
+   },
+   {
+    "id": "soil-chem-001",
+    "reason": "fertility lost to acidification"
+   },
+   {
+    "id": "soil-chem-008",
+    "reason": "fertility lost to salinization"
+   }
+  ],
+  "soil-agri-060": [
+   {
+    "id": "soil-agri-059",
+    "reason": "a soil-conservation approach"
+   },
+   {
+    "id": "soil-agri-117",
+    "reason": "combines no-till"
+   },
+   {
+    "id": "soil-fert-026",
+    "reason": "and green manures"
+   }
+  ],
+  "soil-agri-061": [
+   {
+    "id": "soil-water-010",
+    "reason": "shields fields from wind erosion"
+   }
+  ],
+  "soil-agri-062": [
+   {
+    "id": "soil-agri-059",
+    "reason": "a soil-conservation practice"
+   },
+   {
+    "id": "soil-env-004",
+    "reason": "pesticides contaminate soil"
+   }
+  ],
+  "soil-agri-063": [
+   {
+    "id": "soil-found-077",
+    "reason": "management of soil"
+   },
+   {
+    "id": "soil-fert-149",
+    "reason": "improves fertility"
+   }
+  ],
+  "soil-agri-064": [
+   {
+    "id": "soil-agri-063",
+    "reason": "effects of soil management"
+   },
+   {
+    "id": "soil-fert-118",
+    "reason": "management emits nitrous oxide"
+   },
+   {
+    "id": "soil-found-045",
+    "reason": "or stores carbon in organic matter"
+   }
+  ],
+  "soil-agri-065": [
+   {
+    "id": "soil-agri-059",
+    "reason": "a soil-conservation system"
+   },
+   {
+    "id": "soil-agri-099",
+    "reason": "minimal disturbance"
+   },
+   {
+    "id": "soil-agri-066",
+    "reason": "permanent soil cover"
+   }
+  ],
+  "soil-agri-066": [
+   {
+    "id": "soil-water-001",
+    "reason": "covers soil against erosion"
+   }
+  ],
+  "soil-agri-067": [
+   {
+    "id": "soil-agri-066",
+    "reason": "a use of cover crops"
+   },
+   {
+    "id": "soil-fert-100",
+    "reason": "legumes supply fixed nitrogen"
+   },
+   {
+    "id": "soil-bio-182",
+    "reason": "often legumes"
+   }
+  ],
+  "soil-agri-068": [
+   {
+    "id": "soil-agri-066",
+    "reason": "a kind of cover crop"
+   },
+   {
+    "id": "soil-fert-099",
+    "reason": "recycles soil nitrogen"
+   }
+  ],
+  "soil-agri-069": [
+   {
+    "id": "soil-agri-066",
+    "reason": "effect of cover crops"
+   },
+   {
+    "id": "soil-water-180",
+    "reason": "water entering the soil"
+   },
+   {
+    "id": "soil-water-161",
+    "reason": "water leaving as evapotranspiration"
+   }
+  ],
+  "soil-agri-070": [
+   {
+    "id": "soil-agri-066",
+    "reason": "effect of cover crops"
+   },
+   {
+    "id": "soil-bio-146",
+    "reason": "chemical inhibition of weeds"
+   }
+  ],
+  "soil-agri-071": [
+   {
+    "id": "soil-agri-066",
+    "reason": "a use of cover crops"
+   },
+   {
+    "id": "soil-bio-069",
+    "reason": "breaks soil-borne disease cycles"
+   }
+  ],
+  "soil-agri-072": [
+   {
+    "id": "soil-agri-004",
+    "reason": "strips alternate in rotation"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "strips cut erosion"
+   }
+  ],
+  "soil-agri-073": [
+   {
+    "id": "soil-water-013",
+    "reason": "terraces reduce slope"
+   },
+   {
+    "id": "soil-water-019",
+    "reason": "terraces slow runoff"
+   }
+  ],
+  "soil-agri-074": [
+   {
+    "id": "soil-water-053",
+    "reason": "step-like ridges from slope movement"
+   },
+   {
+    "id": "soil-water-055",
+    "reason": "formed by downhill creep"
+   }
+  ],
+  "soil-agri-075": [
+   {
+    "id": "soil-agri-059",
+    "reason": "a conservation technique"
+   },
+   {
+    "id": "soil-water-019",
+    "reason": "trenches catch runoff"
+   },
+   {
+    "id": "soil-water-180",
+    "reason": "water soaks in from trenches"
+   }
+  ],
+  "soil-agri-076": [
+   {
+    "id": "soil-phys-092",
+    "reason": "alters engineering behaviour"
+   },
+   {
+    "id": "soil-phys-101",
+    "reason": "often aims at strength"
+   }
+  ],
+  "soil-agri-077": [
+   {
+    "id": "soil-agri-076",
+    "reason": "a mechanical form of stabilization"
+   }
+  ],
+  "soil-agri-078": [
+   {
+    "id": "soil-water-035",
+    "reason": "controls dust"
+   },
+   {
+    "id": "soil-water-036",
+    "reason": "a dust-control method"
+   },
+   {
+    "id": "soil-agri-076",
+    "reason": "a chemical surface stabilization"
+   }
+  ],
+  "soil-agri-079": [
+   {
+    "id": "soil-agri-059",
+    "reason": "pays for soil conservation"
+   },
+   {
+    "id": "soil-water-075",
+    "reason": "passed in response to the Dust Bowl"
+   }
+  ],
+  "soil-agri-080": [
+   {
+    "id": "soil-agri-061",
+    "reason": "a programme of windbreaks"
+   },
+   {
+    "id": "soil-water-075",
+    "reason": "a response to the Dust Bowl"
+   }
+  ],
+  "soil-agri-081": [
+   {
+    "id": "soil-agri-073",
+    "reason": "an earth terrace"
+   },
+   {
+    "id": "soil-water-038",
+    "reason": "built up by tillage erosion"
+   }
+  ],
+  "soil-agri-082": [
+   {
+    "id": "soil-class-001",
+    "reason": "records classified soils"
+   },
+   {
+    "id": "soil-class-005",
+    "reason": "maps soil types"
+   }
+  ],
+  "soil-agri-083": [
+   {
+    "id": "soil-agri-082",
+    "reason": "interprets survey information"
+   }
+  ],
+  "soil-agri-084": [
+   {
+    "id": "soil-agri-082",
+    "reason": "the product of soil survey"
+   },
+   {
+    "id": "soil-class-005",
+    "reason": "shows soil types"
+   }
+  ],
+  "soil-agri-085": [
+   {
+    "id": "soil-agri-084",
+    "reason": "a collection of soil maps"
+   }
+  ],
+  "soil-agri-086": [
+   {
+    "id": "soil-agri-082",
+    "reason": "digital soil survey data"
+   },
+   {
+    "id": "soil-agri-084",
+    "reason": "distributed as soil maps"
+   }
+  ],
+  "soil-agri-087": [
+   {
+    "id": "soil-found-051",
+    "reason": "rated from sampled properties such as texture"
+   },
+   {
+    "id": "soil-fert-149",
+    "reason": "rates productive capacity"
+   },
+   {
+    "id": "soil-env-179",
+    "reason": "a rating of soil quality"
+   }
+  ],
+  "soil-agri-088": [
+   {
+    "id": "soil-agri-082",
+    "reason": "designated from soil survey"
+   },
+   {
+    "id": "soil-agri-126",
+    "reason": "land for crops"
+   }
+  ],
+  "soil-agri-089": [
+   {
+    "id": "soil-agri-082",
+    "reason": "a form of soil mapping"
+   },
+   {
+    "id": "soil-agri-084",
+    "reason": "produces soil maps"
+   }
+  ],
+  "soil-agri-090": [
+   {
+    "id": "soil-agri-089",
+    "reason": "the model behind digital soil mapping"
+   },
+   {
+    "id": "soil-form-043",
+    "reason": "extends the soil-forming factors"
+   }
+  ],
+  "soil-agri-091": [
+   {
+    "id": "soil-agri-089",
+    "reason": "a kind of digital soil mapping"
+   },
+   {
+    "id": "soil-agri-092",
+    "reason": "uses pedometric statistics"
+   },
+   {
+    "id": "soil-agri-084",
+    "reason": "produces soil maps"
+   }
+  ],
+  "soil-agri-092": [
+   {
+    "id": "soil-found-095",
+    "reason": "applies mathematics to pedology"
+   },
+   {
+    "id": "soil-agri-082",
+    "reason": "works on soil survey data"
+   }
+  ],
+  "soil-agri-093": [
+   {
+    "id": "soil-agri-092",
+    "reason": "a pedometric model"
+   },
+   {
+    "id": "soil-agri-084",
+    "reason": "models mapped soil variation"
+   }
+  ],
+  "soil-agri-094": [
+   {
+    "id": "soil-agri-082",
+    "reason": "uses survey data"
+   },
+   {
+    "id": "soil-found-051",
+    "reason": "rates soil characteristics such as texture"
+   }
+  ],
+  "soil-agri-095": [
+   {
+    "id": "soil-form-021",
+    "reason": "agitates the topsoil"
+   }
+  ],
+  "soil-agri-096": [
+   {
+    "id": "soil-agri-095",
+    "reason": "classes of tillage"
+   }
+  ],
+  "soil-agri-097": [
+   {
+    "id": "soil-agri-095",
+    "reason": "a tillage intensity"
+   },
+   {
+    "id": "soil-agri-129",
+    "reason": "defined by residue cover"
+   }
+  ],
+  "soil-agri-098": [
+   {
+    "id": "soil-agri-095",
+    "reason": "a tillage intensity"
+   },
+   {
+    "id": "soil-agri-129",
+    "reason": "defined by residue cover"
+   },
+   {
+    "id": "soil-agri-097",
+    "reason": "the next class above intensive tillage"
+   }
+  ],
+  "soil-agri-099": [
+   {
+    "id": "soil-agri-095",
+    "reason": "a tillage intensity"
+   },
+   {
+    "id": "soil-agri-129",
+    "reason": "defined by residue cover"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "residue protects against erosion"
+   }
+  ],
+  "soil-agri-100": [
+   {
+    "id": "soil-agri-095",
+    "reason": "effects of tillage"
+   },
+   {
+    "id": "soil-phys-001",
+    "reason": "tillage degrades structure"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "speeds erosion"
+   },
+   {
+    "id": "soil-phys-082",
+    "reason": "compacts soil"
+   }
+  ],
+  "soil-agri-101": [
+   {
+    "id": "soil-agri-095",
+    "reason": "created by tillage"
+   },
+   {
+    "id": "soil-phys-082",
+    "reason": "a compacted layer"
+   }
+  ],
+  "soil-agri-102": [
+   {
+    "id": "soil-agri-095",
+    "reason": "damage done by tillage"
+   }
+  ],
+  "soil-agri-103": [
+   {
+    "id": "soil-agri-095",
+    "reason": "prepares a site by working the soil"
+   },
+   {
+    "id": "soil-found-087",
+    "reason": "applied to forest sites"
+   }
+  ],
+  "soil-agri-104": [
+   {
+    "id": "soil-agri-103",
+    "reason": "a site-preparation method"
+   }
+  ],
+  "soil-agri-105": [
+   {
+    "id": "soil-agri-103",
+    "reason": "a site-preparation method"
+   },
+   {
+    "id": "soil-phys-137",
+    "reason": "helps on cold sites"
+   }
+  ],
+  "soil-agri-106": [
+   {
+    "id": "soil-agri-095",
+    "reason": "a tillage tool"
+   }
+  ],
+  "soil-agri-107": [
+   {
+    "id": "soil-agri-106",
+    "reason": "an early plough"
+   }
+  ],
+  "soil-agri-108": [
+   {
+    "id": "soil-agri-095",
+    "reason": "hand tillage"
+   }
+  ],
+  "soil-agri-109": [
+   {
+    "id": "soil-agri-106",
+    "reason": "a kind of plough"
+   }
+  ],
+  "soil-agri-110": [
+   {
+    "id": "soil-agri-109",
+    "reason": "carries a mould board"
+   }
+  ],
+  "soil-agri-111": [
+   {
+    "id": "soil-agri-106",
+    "reason": "a kind of plough"
+   },
+   {
+    "id": "soil-agri-129",
+    "reason": "leaves residue on the surface"
+   }
+  ],
+  "soil-agri-112": [
+   {
+    "id": "soil-agri-106",
+    "reason": "works below plough depth"
+   },
+   {
+    "id": "soil-agri-101",
+    "reason": "breaks compacted pans"
+   },
+   {
+    "id": "soil-form-023",
+    "reason": "loosens subsoil"
+   }
+  ],
+  "soil-agri-113": [
+   {
+    "id": "soil-agri-106",
+    "reason": "a kind of plough"
+   },
+   {
+    "id": "soil-water-214",
+    "reason": "leaves a drainage channel"
+   }
+  ],
+  "soil-agri-114": [
+   {
+    "id": "soil-agri-096",
+    "reason": "does secondary surface tillage"
+   },
+   {
+    "id": "soil-agri-106",
+    "reason": "used after ploughing"
+   }
+  ],
+  "soil-agri-115": [
+   {
+    "id": "soil-agri-096",
+    "reason": "does secondary tillage"
+   }
+  ],
+  "soil-agri-116": [
+   {
+    "id": "soil-agri-095",
+    "reason": "prepared by tillage"
+   },
+   {
+    "id": "soil-phys-039",
+    "reason": "good seedbeds need tilth"
+   }
+  ],
+  "soil-agri-117": [
+   {
+    "id": "soil-agri-095",
+    "reason": "farming without tillage"
+   },
+   {
+    "id": "soil-agri-099",
+    "reason": "the extreme of conservation tillage"
+   },
+   {
+    "id": "soil-agri-129",
+    "reason": "residue stays on the surface"
+   }
+  ],
+  "soil-agri-118": [
+   {
+    "id": "soil-agri-117",
+    "reason": "a debate about no-till"
+   },
+   {
+    "id": "soil-found-045",
+    "reason": "whether organic carbon is stored"
+   }
+  ],
+  "soil-agri-119": [
+   {
+    "id": "soil-agri-117",
+    "reason": "weed control in no-till"
+   },
+   {
+    "id": "soil-agri-046",
+    "reason": "uses herbicides"
+   },
+   {
+    "id": "soil-agri-066",
+    "reason": "uses cover crops"
+   }
+  ],
+  "soil-agri-120": [
+   {
+    "id": "soil-agri-121",
+    "reason": "a minimum-tillage system"
+   },
+   {
+    "id": "soil-agri-117",
+    "reason": "untilled between rows"
+   }
+  ],
+  "soil-agri-121": [
+   {
+    "id": "soil-agri-096",
+    "reason": "avoids turning the soil over"
+   },
+   {
+    "id": "soil-agri-099",
+    "reason": "a conservation tillage system"
+   }
+  ],
+  "soil-agri-122": [
+   {
+    "id": "soil-agri-099",
+    "reason": "principles like conservation tillage"
+   },
+   {
+    "id": "soil-phys-082",
+    "reason": "aims to reduce compaction"
+   },
+   {
+    "id": "soil-water-180",
+    "reason": "aims to raise infiltration"
+   }
+  ],
+  "soil-agri-123": [
+   {
+    "id": "soil-agri-106",
+    "reason": "ploughing technique"
+   },
+   {
+    "id": "soil-water-013",
+    "reason": "controls slope erosion"
+   }
+  ],
+  "soil-agri-124": [
+   {
+    "id": "soil-agri-123",
+    "reason": "refines contour ploughing"
+   }
+  ],
+  "soil-agri-125": [
+   {
+    "id": "soil-agri-095",
+    "reason": "moisture for tillage"
+   },
+   {
+    "id": "soil-water-164",
+    "reason": "a water content"
+   },
+   {
+    "id": "soil-phys-005",
+    "reason": "aim is small aggregates"
+   },
+   {
+    "id": "soil-phys-041",
+    "reason": "consistency changes with moisture"
+   }
+  ],
+  "soil-agri-126": [
+   {
+    "id": "soil-agri-106",
+    "reason": "land that can be ploughed"
+   }
+  ],
+  "soil-agri-127": [
+   {
+    "id": "soil-agri-126",
+    "reason": "making land arable"
+   }
+  ],
+  "soil-agri-128": [
+   {
+    "id": "soil-agri-004",
+    "reason": "a crop rotation"
+   },
+   {
+    "id": "soil-agri-044",
+    "reason": "third year lies fallow"
+   }
+  ],
+  "soil-agri-129": [],
+  "soil-agri-130": [
+   {
+    "id": "soil-phys-086",
+    "reason": "limits agricultural compaction"
+   },
+   {
+    "id": "soil-agri-095",
+    "reason": "confines machinery traffic"
+   }
+  ]
+ }
+}

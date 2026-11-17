@@ -1,0 +1,659 @@
+{
+ "questions": {
+  "soil-found-115": {
+   "q": "Where does the critical zone end at depth?",
+   "a": "At some depth in bedrock, where life and water cease to change the chemistry significantly.",
+   "sent_ids": [
+    "9d77f888cab8"
+   ]
+  },
+  "soil-found-047": {
+   "q": "How long does mineral-associated organic matter typically persist, compared with particulate organic matter?",
+   "a": "Typically for centuries, whereas particulate organic matter, mostly little-decomposed plant remains, lasts only a few years to decades.",
+   "sent_ids": [
+    "16f27cf00697",
+    "8f83ac7b8f68"
+   ]
+  },
+  "soil-form-097": {
+   "q": "Which part of the regolith is conventionally called soil?",
+   "a": "Its uppermost part, which typically holds significant organic matter.",
+   "sent_ids": [
+    "7a07061beea7"
+   ]
+  },
+  "soil-form-146": {
+   "q": "What silica content and enrichments mark mafic rocks?",
+   "a": "They have 45 to 55 wt% silica and are enriched in iron, magnesium and calcium.",
+   "sent_ids": [
+    "1e041bfa2160"
+   ]
+  },
+  "soil-form-105": {
+   "q": "What features typically mark a meandering river?",
+   "a": "Point bars, cut banks, meanders, floodplains and oxbow lakes.",
+   "sent_ids": [
+    "5d0e3ad90100"
+   ]
+  },
+  "soil-form-023": {
+   "q": "Why does the subsoil get most of its colour from iron oxides?",
+   "a": "Because it holds little organic matter.",
+   "sent_ids": [
+    "6206816043dc"
+   ]
+  },
+  "soil-form-019": {
+   "q": "What is the defining feature of Mollisols?",
+   "a": "A fertile mollic epipedon, built by long additions of root-derived organic matter.",
+   "sent_ids": [
+    "3f363b635579",
+    "60037e0501fa"
+   ]
+  },
+  "soil-form-070": {
+   "q": "How much phosphorus did laterite remove from solution in laboratory tests and at pilot scale?",
+   "a": "99% in laboratory tests and 96% in a pilot-scale facility.",
+   "sent_ids": [
+    "26f54de043b5",
+    "e07a6fbea8c5"
+   ]
+  },
+  "soil-form-127": {
+   "q": "Why is phosphorus often the most deficient nutrient in tropical soils?",
+   "a": "Intense leaching and weathering deplete the mineral pool, and unlike nitrogen it cannot be replenished from the air.",
+   "sent_ids": [
+    "d367da9aa250",
+    "7e72da5b1c80"
+   ]
+  },
+  "soil-phys-189": {
+   "q": "How much surface per gram do clay minerals typically have?",
+   "a": "Typically 10 to 1,000 square metres per gram, as they form thin plates.",
+   "sent_ids": [
+    "9d12562745f4",
+    "ffddb97f44be",
+    "f335481626b6"
+   ]
+  },
+  "soil-phys-125": {
+   "q": "Over what range does hydraulic conductivity vary from clays to gravels?",
+   "a": "From about 10−12 m/s in clays to about 10−1 m/s in gravels.",
+   "sent_ids": [
+    "2b472b470276",
+    "92fcd30a989f"
+   ]
+  },
+  "soil-phys-064": {
+   "q": "Why are clay soils called heavy, despite their high porosity?",
+   "a": "The word reflects their moisture weight and the extra force needed to pull tillage tools through them.",
+   "sent_ids": [
+    "f4b3e0d56c33",
+    "4a266f726dd4"
+   ]
+  },
+  "soil-phys-114": {
+   "q": "How is the overconsolidation ratio (OCR) defined?",
+   "a": "It divides the preconsolidation stress, the highest stress a soil has carried, by the current stress.",
+   "sent_ids": [
+    "3434039cc0b9",
+    "6424db8cb74e"
+   ]
+  },
+  "soil-water-182": {
+   "q": "What theory describes how most soil water enters plants?",
+   "a": "The cohesion-tension theory: water is pulled passively up the column of xylem sap from roots to leaves as it transpires.",
+   "sent_ids": [
+    "892972f6b5a8"
+   ]
+  },
+  "soil-phys-210": {
+   "q": "What is the general basin form of the water balance?",
+   "a": "P = Q + ET + ΔS: precipitation equals streamflow plus evapotranspiration plus change in storage.",
+   "sent_ids": [
+    "63853e424017",
+    "f7aa4a4be5bb",
+    "e8d58396f0f1",
+    "0156bfdab531",
+    "dc26eba3d2b3"
+   ]
+  },
+  "soil-water-174": {
+   "q": "Why does a high salt content restrict water uptake by roots?",
+   "a": "Solutes lower the osmotic potential of the soil solution, which severely restricts uptake by roots.",
+   "sent_ids": [
+    "fd6d5e3a8766",
+    "55ed31fcbe38",
+    "96617aab076f"
+   ]
+  },
+  "soil-phys-221": {
+   "q": "What is the pressure head at the water table?",
+   "a": "There it equals atmospheric pressure; below it pressure head exceeds atmospheric pressure, and above it is negative.",
+   "sent_ids": [
+    "399e357d9e9c",
+    "51721ab0dc05",
+    "d38a282bb6e4"
+   ]
+  },
+  "soil-phys-201": {
+   "q": "Why are karst aquifers more sensitive to contamination than porous aquifers?",
+   "a": "Their fast flow, through limestone fissures widened by carbonic acid, makes them far more sensitive.",
+   "sent_ids": [
+    "6c493492ad71",
+    "bec7bc0184c1",
+    "fdbc4d9e516c"
+   ]
+  },
+  "soil-phys-194": {
+   "q": "Why do less soluble contaminants travel only short distances?",
+   "a": "Adsorption holds them back, so they can move hundreds or thousands of times slower than water.",
+   "sent_ids": [
+    "557cb2b435cd",
+    "9783b493383d",
+    "908d02ca7edb"
+   ]
+  },
+  "soil-phys-180": {
+   "q": "What does Fick's first law state?",
+   "a": "J = −D dφ/dx: diffusive flux equals the diffusion coefficient times the concentration gradient, with a minus sign.",
+   "sent_ids": [
+    "9e3722afa3bf",
+    "77ce21797e83",
+    "4dc25f972a11"
+   ]
+  },
+  "soil-phys-145": {
+   "q": "How deep do annual temperature cycles penetrate in wet and dry clay?",
+   "a": "About 18.0 m in wet clay but only 6.5 m in dry clay.",
+   "sent_ids": [
+    "5ee4a3ed3a53",
+    "3b7514263cfd",
+    "ddf1ad9099cb",
+    "16bb03834678",
+    "5701d1806d6a"
+   ]
+  },
+  "soil-chem-107": {
+   "q": "What size are the particles of the colloidal fraction of soil?",
+   "a": "Tiny clay and humus particles under 1 μm across, whose charges vary with soil pH.",
+   "sent_ids": [
+    "66fc3f368929"
+   ]
+  },
+  "soil-chem-097": {
+   "q": "What does allophane alter to when silica is added, and when it is removed?",
+   "a": "To halloysite where silica is added and to gibbsite where silica is removed.",
+   "sent_ids": [
+    "a0c877d8c046"
+   ]
+  },
+  "soil-chem-085": {
+   "q": "Why is the cation exchange capacity of kaolinite low?",
+   "a": "Kaolinite has undergone almost no isomorphous substitution.",
+   "sent_ids": [
+    "80bb010ae9c5"
+   ]
+  },
+  "soil-chem-071": {
+   "q": "How many milliequivalents are 1 mmol of Na+ and 1 mmol of Ca2+?",
+   "a": "1 milliequivalent for Na+ but 2 for Ca2+, since equivalents are moles multiplied by valence.",
+   "sent_ids": [
+    "09222bc6b623",
+    "d0fb251d408d"
+   ]
+  },
+  "soil-chem-130": {
+   "q": "When and where was biofiltration first introduced?",
+   "a": "In England in 1893, as a trickling filter for wastewater.",
+   "sent_ids": [
+    "6fa12bcec761"
+   ]
+  },
+  "soil-chem-180": {
+   "q": "Between which two lines is water stable on a Pourbaix diagram?",
+   "a": "Between EH = −0.05916 pH and EH = 1.229 V − 0.05916 pH; outside them it is reduced to hydrogen or oxidized to oxygen.",
+   "sent_ids": [
+    "b9a109617a99",
+    "de4abf1ed6e1",
+    "98a04615b2f5",
+    "116b7b45da1f"
+   ]
+  },
+  "soil-chem-142": {
+   "q": "How does alkalinity differ from basicity?",
+   "a": "Basicity is an absolute position on the pH scale, while alkalinity is measured by titrating with an acid to an endpoint.",
+   "sent_ids": [
+    "952d2f87ccc1",
+    "1721e6068a44"
+   ]
+  },
+  "soil-chem-021": {
+   "q": "How does gypsum reclaim an alkali soil?",
+   "a": "It supplies Ca2+ to replace sodium on the exchange complex and turns sodium carbonate into neutral sodium sulphate.",
+   "sent_ids": [
+    "4c8401c02ca2",
+    "7bf213b1720e"
+   ]
+  },
+  "soil-bio-212": {
+   "q": "What do termites mainly eat?",
+   "a": "They are primarily detritivores, eating dead plants at any stage of decay.",
+   "sent_ids": [
+    "d494a1534945"
+   ]
+  },
+  "soil-bio-071": {
+   "q": "What did a 2007 study find to be the main global determinant of bacterial diversity?",
+   "a": "Salinity, not temperature or pH.",
+   "sent_ids": [
+    "f8929ff931d9",
+    "f8780321fcf2"
+   ]
+  },
+  "soil-bio-225": {
+   "q": "Which compound gives soil its earthy odour?",
+   "a": "Geosmin, a volatile compound released by soil bacteria that mostly also produce spores.",
+   "sent_ids": [
+    "c07671a8bc02"
+   ]
+  },
+  "soil-bio-054": {
+   "q": "How fast do bacteria turn over in the rhizosphere?",
+   "a": "In just 12–19 hours, shorter on younger roots, because root exudates make the rhizosphere a special case.",
+   "sent_ids": [
+    "7ab552b541dd",
+    "c4d9a890c387"
+   ]
+  },
+  "soil-bio-178": {
+   "q": "What do rhizobia and legumes exchange in their mutualism?",
+   "a": "The bacteria supply ammonia or amino acids and receive organic acids, mainly malate and succinate, as their carbon and energy source.",
+   "sent_ids": [
+    "1a6590e627c1"
+   ]
+  },
+  "soil-bio-240": {
+   "q": "What are rhizomorphs?",
+   "a": "Hyphae aggregated into durable, water-repellent transport structures that work like xylem.",
+   "sent_ids": [
+    "00072795fc1b",
+    "ada519531249"
+   ]
+  },
+  "soil-bio-248": {
+   "q": "How does glomalin help soil?",
+   "a": "Secreted by mycorrhizal hyphae, it builds stable aggregates that resist erosion and accounts for about 5% of global organic carbon and nitrogen storage.",
+   "sent_ids": [
+    "cf84b330d60c"
+   ]
+  },
+  "soil-bio-196": {
+   "q": "Why do autumn leaves decompose more slowly than most compost ingredients?",
+   "a": "They are low in nitrogen and made largely of cellulose and lignin, which resist decay.",
+   "sent_ids": [
+    "2167c7f11768",
+    "a61a7c8a7557",
+    "ee49a4f92358"
+   ]
+  },
+  "soil-bio-258": {
+   "q": "What does the Michaelis constant Km represent?",
+   "a": "The substrate concentration at which the reaction rate is half of the limiting rate V.",
+   "sent_ids": [
+    "5b33e4472e37"
+   ]
+  },
+  "soil-class-021": {
+   "q": "What system replaced the FAO soil classification, and when?",
+   "a": "The World Reference Base replaced it in 1998.",
+   "sent_ids": [
+    "198c935286dd"
+   ]
+  },
+  "soil-class-155": {
+   "q": "Where does the ustic moisture regime sit relative to the aridic and udic?",
+   "a": "It is wetter than the aridic and drier than the udic.",
+   "sent_ids": [
+    "59bda6512a76"
+   ]
+  },
+  "soil-class-116": {
+   "q": "Which soil order covers the largest share of U.S. land?",
+   "a": "Mollisols, at an estimated 21.5%, followed by Alfisols at 14%.",
+   "sent_ids": [
+    "5f5f2c76ad48",
+    "58a446d93cbe"
+   ]
+  },
+  "soil-class-139": {
+   "q": "Which soils are excluded from the Regosols?",
+   "a": "Weakly developed soils that qualify as Leptosols, Arenosols or Fluvisols; Regosols are a leftover group for soils that fit no other.",
+   "sent_ids": [
+    "2f91cf7f699a",
+    "2c07f33358ee"
+   ]
+  },
+  "soil-class-065": {
+   "q": "Why must fill be as free of organic matter as possible?",
+   "a": "Decomposing organic matter leaves voids that make the fill settle and can damage structures built on it.",
+   "sent_ids": [
+    "ebb3bef598c9",
+    "6c60c1177b9c"
+   ]
+  },
+  "soil-fert-165": {
+   "q": "At what concentration in soil water is boron toxic to most plants?",
+   "a": "Above 1 ppm.",
+   "sent_ids": [
+    "226f2bbc9d4c"
+   ]
+  },
+  "soil-fert-195": {
+   "q": "Why does sulfur deficiency show first in the youngest tissues?",
+   "a": "Sulfur cannot be moved out of older leaves, so yellowing and stunting appear first in the youngest tissues.",
+   "sent_ids": [
+    "322e6e847e87",
+    "17accbfbbb2e"
+   ]
+  },
+  "soil-fert-119": {
+   "q": "What do denitrifying bacteria use in place of oxygen?",
+   "a": "Nitrate and nitrite, as the final electron acceptor.",
+   "sent_ids": [
+    "084d26460f10"
+   ]
+  },
+  "soil-fert-138": {
+   "q": "What share of soil potassium is in the soil solution, the form plants absorb most readily?",
+   "a": "Only 0.1–0.2% of the total; fixed potassium makes up 96–99%.",
+   "sent_ids": [
+    "884d301d9484",
+    "c814472c5bdf"
+   ]
+  },
+  "soil-fert-082": {
+   "q": "Why does excess salt around roots make a plant respond as in drought?",
+   "a": "When salts outside the root exceed those inside, water stops entering and may even leave the roots.",
+   "sent_ids": [
+    "61417dd4c779",
+    "c1a2f17600ea",
+    "f51a1bd78dcf"
+   ]
+  },
+  "soil-fert-067": {
+   "q": "Why can straw or sawdust mulch briefly slow plant growth?",
+   "a": "Their wide carbon-to-nitrogen ratio lets decomposing microbes draw nitrogen from the soil.",
+   "sent_ids": [
+    "c8200dfbc43b"
+   ]
+  },
+  "soil-fert-013": {
+   "q": "What do the numbers of a fertilizer grade such as 10-10-10 give?",
+   "a": "The percentages of nitrogen, P2O5 and K2O.",
+   "sent_ids": [
+    "c281926e8d0f",
+    "a42c99dcef9b"
+   ]
+  },
+  "soil-water-079": {
+   "q": "What two fates await rain that reaches land?",
+   "a": "It either flows over the ground as surface runoff or soaks in by infiltration, becoming soil moisture or groundwater.",
+   "sent_ids": [
+    "dde4c3fa10e5",
+    "2dbf38356f05",
+    "466ec88a3b02"
+   ]
+  },
+  "soil-water-083": {
+   "q": "Why are planners advised to avoid karst for new development?",
+   "a": "Under a roof of competent limestone there is often no surface warning before an opening collapses.",
+   "sent_ids": [
+    "04872a66f5bd",
+    "fe43b433fbe4"
+   ]
+  },
+  "soil-water-042": {
+   "q": "Why must drop size and terminal velocity be simulated accurately on bare soil?",
+   "a": "Because they control splash erosion.",
+   "sent_ids": [
+    "bb199e5c9407",
+    "a8b2ce9769a4"
+   ]
+  },
+  "soil-water-006": {
+   "q": "How do earth and debris differ in landslide classification?",
+   "a": "Earth has less than 20% by weight of particles over 2 mm; debris has more.",
+   "sent_ids": [
+    "d365c8cbad89",
+    "363a332827fe"
+   ]
+  },
+  "soil-water-098": {
+   "q": "Why are anionic flocculants best practice in open systems?",
+   "a": "Cationic flocculants such as chitosan can cause hypoxia in fish.",
+   "sent_ids": [
+    "4ba6424be19c",
+    "30dd3244ec03"
+   ]
+  },
+  "soil-water-253": {
+   "q": "What does a well-developed desert pavement indicate?",
+   "a": "Aridity and an older surface, since older surfaces carry better-developed pavements.",
+   "sent_ids": [
+    "8f3f3b1d8736",
+    "b083c2bea199"
+   ]
+  },
+  "soil-water-280": {
+   "q": "What share of damaging landslides in the year to September 2003 were triggered by heavy rainfall?",
+   "a": "Over 90% of 210 events worldwide.",
+   "sent_ids": [
+    "611081121d00",
+    "5265cd17ca98"
+   ]
+  },
+  "soil-water-267": {
+   "q": "How does tropical peatland forest compare with forest on mineral soil as a carbon store?",
+   "a": "It holds far more carbon as soil organic matter, among the largest near-surface stores of land organic carbon.",
+   "sent_ids": [
+    "a68188b61cc2",
+    "a1c7f58908a3"
+   ]
+  },
+  "soil-water-297": {
+   "q": "How do dead plankton help fill in a pond?",
+   "a": "They decay into humus that mixes with inwashed silt and clay to form soil, making the pond shallower.",
+   "sent_ids": [
+    "f6b4d3d3a5ce",
+    "7abe24beac14"
+   ]
+  },
+  "soil-agri-030": {
+   "q": "What is the difference between monoculture and monocropping?",
+   "a": "Monoculture describes crop diversity in space, whereas monocropping describes diversity over time.",
+   "sent_ids": [
+    "14febd8dfb49",
+    "8f1e8ff77103",
+    "16ff0c2d34cd"
+   ]
+  },
+  "soil-agri-011": {
+   "q": "In what units is soil salinity most often expressed?",
+   "a": "As ECe in decisiemens per metre, formerly millimhos per centimetre.",
+   "sent_ids": [
+    "dcb251e7bbec"
+   ]
+  },
+  "soil-agri-110": {
+   "q": "Why did the heavy carruca plough make farming communal?",
+   "a": "Pulling it took four to eight oxen, more than one peasant household had.",
+   "sent_ids": [
+    "62835f870bc7",
+    "77893d35f0de"
+   ]
+  },
+  "soil-agri-067": {
+   "q": "What is fertilizer replacement value?",
+   "a": "The ability of cover crops, such as nitrogen-fixing legumes, to stand in for chemical nitrogen fertilizer.",
+   "sent_ids": [
+    "e0733de4cbee",
+    "c8ad0bf7fbee",
+    "2aaf2ce1ac26"
+   ]
+  },
+  "soil-agri-159": {
+   "q": "How wide do filter strips need to be?",
+   "a": "At least 15 feet (4.6 m), and they can often serve as a cheap substitute for terraces.",
+   "sent_ids": [
+    "be9e7a264e7a",
+    "a3c6c754c068"
+   ]
+  },
+  "soil-agri-167": {
+   "q": "What do the two Not Suitable land classes, N1 and N2, mean?",
+   "a": "N1 has limitations that might be overcome in time but not at acceptable cost now; N2 has limitations ruling out any sustained use.",
+   "sent_ids": [
+    "dc174c359ecc",
+    "a0b1e25d61f2"
+   ]
+  },
+  "soil-form-020": {
+   "q": "Why do micromorphologists use thin sections rather than a hand lens?",
+   "a": "A petrographic polarizing microscope shows far more in thin sections, including the relation of components to one another, often invisible in a hand specimen.",
+   "sent_ids": [
+    "69d4e7405735",
+    "fed975c626ff",
+    "83bba30681b3"
+   ]
+  },
+  "soil-meth-007": {
+   "q": "Which exponent of distance did Shepard settle on for inverse distance weighting?",
+   "a": "Near -2, close to the gravity model.",
+   "sent_ids": [
+    "f3ba782e7196"
+   ]
+  },
+  "soil-env-283": {
+   "q": "How can lowering a wetland's water table affect its methane balance?",
+   "a": "It increases methane consumption by soil methanotrophs and can turn the wetland into a methane sink.",
+   "sent_ids": [
+    "0c80db110dd6",
+    "2c346169cfeb"
+   ]
+  },
+  "soil-env-085": {
+   "q": "How does contour trenching prevent erosion?",
+   "a": "Trenches 150 m long and 1 m deep are dug along the contour and edged with stone walls, so water cannot flow.",
+   "sent_ids": [
+    "4722a8859080",
+    "9b61550952ad",
+    "71b102a8200d",
+    "1e383f0f4f7a"
+   ]
+  },
+  "soil-env-090": {
+   "q": "How much agricultural land had unsustainable farming degraded by 2025?",
+   "a": "996 Mha, over 60% of all human-induced land degradation.",
+   "sent_ids": [
+    "522c5e1b32d0"
+   ]
+  },
+  "soil-env-217": {
+   "q": "In what order are materials replaced when an open-cut mine is reclaimed?",
+   "a": "Rock backfills the pit, stored pre-mining soil goes on top, then topsoil, and finally vegetation is restored.",
+   "sent_ids": [
+    "6ab6ae3d6570",
+    "cab0f711e044",
+    "24add453bbeb",
+    "add5d6205389"
+   ]
+  },
+  "soil-env-038": {
+   "q": "What is assisted phytoextraction?",
+   "a": "Adding a chelator to make heavy metals, often too immobile for plants to absorb, more soluble.",
+   "sent_ids": [
+    "ea97360f10a5",
+    "20b7af8906e7"
+   ]
+  },
+  "soil-env-034": {
+   "q": "Why can ligninolytic fungi degrade many organic pollutants?",
+   "a": "Lignin and cellulose are long-chain carbon compounds much like many organic pollutants.",
+   "sent_ids": [
+    "57da7f6142a2"
+   ]
+  },
+  "soil-env-252": {
+   "q": "Which nanoparticle has been used in most field applications of nanoremediation?",
+   "a": "Nano zero-valent iron.",
+   "sent_ids": [
+    "964e53a44e7f"
+   ]
+  },
+  "soil-env-229": {
+   "q": "Why does electrical resistance heating (ERH) work in any soil type?",
+   "a": "Current travels mainly through the thin water film on grains, which is also why it cannot dry the ground out.",
+   "sent_ids": [
+    "4d25d66abbd2",
+    "0f1b7784f498",
+    "f299604c112f"
+   ]
+  },
+  "soil-env-296": {
+   "q": "How does Finland raise soil selenium?",
+   "a": "It adds selenium salts to chemical fertilizers.",
+   "sent_ids": [
+    "9b255337af5c"
+   ]
+  },
+  "soil-hist-127": {
+   "q": "What is the half-life of beryllium-10, and what does it date?",
+   "a": "1,387,000 years; it dates exposure of rocks, soils and ice cores.",
+   "sent_ids": [
+    "16d9feaa9706",
+    "4bc4ac9729b1"
+   ]
+  },
+  "soil-hist-096": {
+   "q": "Who first proposed the law of superposition, and when?",
+   "a": "Nicolas Steno, in 1669.",
+   "sent_ids": [
+    "1fc69a6fd5a9"
+   ]
+  },
+  "soil-hist-042": {
+   "q": "What did Darwin's chalk experiment near Down House show?",
+   "a": "Chalk spread in December 1842 ended up buried 18 centimetres deep, a rate of 6 millimetres per year.",
+   "sent_ids": [
+    "5bb753ef5a33",
+    "fcc654429c72",
+    "982a010f571d"
+   ]
+  },
+  "soil-hist-016": {
+   "q": "Which bacterium was shown in 1901 to fix atmospheric nitrogen?",
+   "a": "Azotobacter chroococcum, in work that fully described the fixation process found by Hellriegel and Wilfarth.",
+   "sent_ids": [
+    "445e4f56b908",
+    "684eb4af8f19"
+   ]
+  },
+  "soil-hist-107": {
+   "q": "Which soil did the Wisconsin legislature name the official state soil in 1983?",
+   "a": "Antigo silt loam.",
+   "sent_ids": [
+    "b4b71c4d1d0a",
+    "c6ebd8471273"
+   ]
+  },
+  "soil-hist-068": {
+   "q": "How do planetary scientists functionally separate rock from soil?",
+   "a": "Rocks are fragments of about 10 cm or more, larger than cobbles; soil is all other, typically loose material.",
+   "sent_ids": [
+    "7b28250592f1",
+    "89ce416c6744"
+   ]
+  }
+ }
+}

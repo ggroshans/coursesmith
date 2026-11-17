@@ -1,0 +1,2455 @@
+{
+"Le Chatelier's principle": {
+"v": "out",
+"why": "general chemistry principle"
+},
+"Leaching (chemistry)": {
+"v": "support",
+"ch": "how-soils-form",
+"why": "leaching process; drives soil profile development"
+},
+"Lead": {
+"v": "out",
+"why": "chemical element"
+},
+"Lead poisoning": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Leadership": {
+"v": "out",
+"why": "general social concept"
+},
+"Leaf": {
+"v": "out",
+"why": "general botany"
+},
+"Leaf area index": {
+"v": "out",
+"why": "crop canopy agronomy, not soil"
+},
+"Leaf scorch": {
+"v": "out",
+"why": "plant disorder not soil-specific"
+},
+"Leather": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Leavening agent": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Leblanc process": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Leeuwenhoek Medal": {
+"v": "out",
+"why": "organization or institution"
+},
+"Leghemoglobin": {
+"v": "support",
+"ch": "nutrient-cycles",
+"why": "oxygen buffer in legume nodules for nitrogen fixation"
+},
+"Legion of Honour": {
+"v": "out",
+"why": "organization or institution"
+},
+"Legionnaires' disease": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Legume": {
+"v": "out",
+"why": "plant family; nitrogen fixation covered separately"
+},
+"Leipzig": {
+"v": "out",
+"why": "place"
+},
+"Lemnian Earth": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Lemnoideae": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Lemon": {
+"v": "out",
+"why": "fruit, unrelated"
+},
+"Lena River": {
+"v": "out",
+"why": "place"
+},
+"Length": {
+"v": "out",
+"why": "general unit"
+},
+"Lens (geology)": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Leohumicola atra": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Leohumicola verrucosa": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Lepidocrocite": {
+"v": "in",
+"ch": "clay-minerals-and-colloids",
+"why": "common soil iron oxyhydroxide mineral"
+},
+"Leslie Grange": {
+"v": "out",
+"why": "person"
+},
+"Lesotho": {
+"v": "out",
+"why": "place"
+},
+"Letcombe Laboratory": {
+"v": "out",
+"why": "organization or institution"
+},
+"Lethal dose": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Letsoku": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Lettuce": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Leucine": {
+"v": "out",
+"why": "chemical compound"
+},
+"Levallois technique": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Levant bole": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Levee": {
+"v": "out",
+"why": "flood structure, not soil science"
+},
+"Level spreader": {
+"v": "out",
+"why": "niche construction device"
+},
+"Levington Research Station": {
+"v": "out",
+"why": "organization or institution"
+},
+"Lewis Fry Richardson": {
+"v": "out",
+"why": "person"
+},
+"Liberia": {
+"v": "out",
+"why": "place"
+},
+"Libya": {
+"v": "out",
+"why": "place"
+},
+"Lichen": {
+"v": "support",
+"ch": "weathering-and-parent-material",
+"why": "pioneer organisms in biological weathering"
+},
+"Lichens and nitrogen cycling": {
+"v": "out",
+"why": "niche subtopic of lichen ecology"
+},
+"Lidar": {
+"v": "out",
+"why": "general remote sensing technology"
+},
+"Life": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Life-cycle assessment": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Life-support system": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Ligand": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Ligand (biochemistry)": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Light": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Light clay": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Lightness": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Lightning": {
+"v": "out",
+"why": "weather phenomenon"
+},
+"Lignite": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Lignocellulosic biomass": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Lime (material)": {
+"v": "in",
+"ch": "fertilizers-manures-and-amendments",
+"why": "liming material for acid soils"
+},
+"Limepit": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Limestone": {
+"v": "support",
+"ch": "weathering-and-parent-material",
+"why": "major calcareous parent material"
+},
+"Limestone pavement": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Limiting factor": {
+"v": "support",
+"ch": "nutrients-and-plant-nutrition",
+"why": "Liebig's law of the minimum in fertility"
+},
+"Limnology": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Limonite": {
+"v": "in",
+"ch": "clay-minerals-and-colloids",
+"why": "iron oxide giving soils yellow-brown colour"
+},
+"Limpet": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Lindane": {
+"v": "out",
+"why": "chemical compound"
+},
+"Lindow Moss": {
+"v": "out",
+"why": "place"
+},
+"Line source": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Linus Pauling": {
+"v": "out",
+"why": "person"
+},
+"Lipase": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Lipid": {
+"v": "out",
+"why": "chemical compound"
+},
+"Lipid bilayer": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Lipophilicity": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Lipopolysaccharide": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Liquefaction": {
+"v": "out",
+"why": "general physics; soil liquefaction separate"
+},
+"Liquid": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Liquid manure": {
+"v": "in",
+"ch": "fertilizers-manures-and-amendments",
+"why": "slurry manure applied to fields"
+},
+"Liquid oxygen": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"List of Prokaryotic names with Standing in Nomenclature": {
+"v": "out",
+"why": "list"
+},
+"List of bogs": {
+"v": "out",
+"why": "list"
+},
+"List of chemical element name etymologies": {
+"v": "out",
+"why": "list"
+},
+"List of data references for chemical elements": {
+"v": "out",
+"why": "list"
+},
+"List of fen plants": {
+"v": "out",
+"why": "list"
+},
+"List of hyperaccumulators": {
+"v": "out",
+"why": "list"
+},
+"List of landslides": {
+"v": "out",
+"why": "list"
+},
+"List of members of the National Academy of Sciences (plant, soil and microbial sciences)": {
+"v": "out",
+"why": "list"
+},
+"List of mineral symbols": {
+"v": "out",
+"why": "list"
+},
+"List of minerals recognized by the International Mineralogical Association": {
+"v": "out",
+"why": "list"
+},
+"List of raised and transitional bogs of Switzerland": {
+"v": "out",
+"why": "list"
+},
+"List of soil scientists": {
+"v": "out",
+"why": "list"
+},
+"List of state soil science associations": {
+"v": "out",
+"why": "list"
+},
+"List of trichloroethylene-related incidents": {
+"v": "out",
+"why": "list"
+},
+"Lithification": {
+"v": "out",
+"why": "rock formation, geology"
+},
+"Lithium": {
+"v": "out",
+"why": "chemical element"
+},
+"Lithoautotroph": {
+"v": "support",
+"ch": "life-in-the-soil",
+"why": "chemolithoautotrophic soil microbes"
+},
+"Lithology": {
+"v": "support",
+"ch": "weathering-and-parent-material",
+"why": "describes parent rock character"
+},
+"Lithosphere": {
+"v": "out",
+"why": "very broad geology"
+},
+"Lithostratigraphy": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Litter box": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Live rock": {
+"v": "out",
+"why": "marine topic, not soil"
+},
+"Livelihood": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Liver": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Livermorium": {
+"v": "out",
+"why": "chemical element"
+},
+"Liverwort": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Livestock": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Living Machine": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Loanword": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Local extinction": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Local government": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Lode": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Loess Plateau": {
+"v": "out",
+"why": "single region"
+},
+"Logarithm": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Logarithmic scale": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Logging": {
+"v": "out",
+"why": "forestry practice"
+},
+"Logistics": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Lolium": {
+"v": "out",
+"why": "organism or taxon"
+},
+"London": {
+"v": "out",
+"why": "place"
+},
+"London Clay": {
+"v": "out",
+"why": "single geological formation"
+},
+"London stock brick": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Longitude": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Longleaf pine": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Longshore drift": {
+"v": "out",
+"why": "marine topic, not soil"
+},
+"Los Monjes Archipelago": {
+"v": "out",
+"why": "place"
+},
+"Lotus (genus)": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Lotus japonicus": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Louis Pasteur": {
+"v": "out",
+"why": "person"
+},
+"Louisiana": {
+"v": "out",
+"why": "place"
+},
+"Low Earth orbit": {
+"v": "out",
+"why": "astronomy"
+},
+"Low-impact development (U.S. and Canada)": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Lubricant": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Lubrication": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Lucknow": {
+"v": "out",
+"why": "place"
+},
+"Ludwig Meyn": {
+"v": "out",
+"why": "person"
+},
+"Lumber": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Lumbricidae": {
+"v": "out",
+"why": "taxon; earthworms covered elsewhere"
+},
+"Lumbricus badensis": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Luminescence": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Luminescence dating": {
+"v": "out",
+"why": "geochronology method, niche for soils"
+},
+"Lupinus": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Lustre (mineralogy)": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Lutetium": {
+"v": "out",
+"why": "chemical element"
+},
+"Luvos": {
+"v": "out",
+"why": "organization or institution"
+},
+"Lyman James Briggs": {
+"v": "out",
+"why": "person, not founder"
+},
+"Lysine": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Lysis": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Lysogenic cycle": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Lytic cycle": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"M. Francesca Cotrufo": {
+"v": "out",
+"why": "person"
+},
+"MASWCD": {
+"v": "out",
+"why": "organization or institution"
+},
+"MCPA": {
+"v": "out",
+"why": "chemical compound"
+},
+"METRIC": {
+"v": "out",
+"why": "niche software model"
+},
+"MTBE controversy": {
+"v": "out",
+"why": "single controversy"
+},
+"Machine learning": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mackenzie River": {
+"v": "out",
+"why": "place"
+},
+"Mackinawite": {
+"v": "out",
+"why": "niche mineral"
+},
+"Macrofossil": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Macromolecule": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Macrophage": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Macroptilium atropurpureum": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Macroptilium lathyroides": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Madagascar": {
+"v": "out",
+"why": "place"
+},
+"Madhya Pradesh": {
+"v": "out",
+"why": "place"
+},
+"Madison, Wisconsin": {
+"v": "out",
+"why": "place"
+},
+"Mafic": {
+"v": "support",
+"ch": "weathering-and-parent-material",
+"why": "parent rock composition affects soil"
+},
+"Magellanic subpolar forests": {
+"v": "out",
+"why": "place"
+},
+"Maghemite": {
+"v": "in",
+"ch": "clay-minerals-and-colloids",
+"why": "pedogenic iron oxide; soil magnetism"
+},
+"Magma": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Magnesite": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Magnesium": {
+"v": "out",
+"why": "chemical element"
+},
+"Magnesium carbonate": {
+"v": "out",
+"why": "chemical compound"
+},
+"Magnesium oxide": {
+"v": "out",
+"why": "chemical compound"
+},
+"Magnesium sulfate": {
+"v": "out",
+"why": "chemical compound"
+},
+"Magnetic field": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Magnetic field of the Moon": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Magnetic susceptibility": {
+"v": "out",
+"why": "general physics property"
+},
+"Magnetism": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Magnetite": {
+"v": "out",
+"why": "general mineral"
+},
+"Magnetotactic bacteria": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Magnifying glass": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mahanadi": {
+"v": "out",
+"why": "place"
+},
+"Maharashtra": {
+"v": "out",
+"why": "place"
+},
+"Maine": {
+"v": "out",
+"why": "place"
+},
+"Maize": {
+"v": "out",
+"why": "crop species"
+},
+"Maja Krzic": {
+"v": "out",
+"why": "person"
+},
+"Malachite": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Malacidin": {
+"v": "out",
+"why": "chemical compound"
+},
+"Malaria": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Malawi": {
+"v": "out",
+"why": "place"
+},
+"Malaysia": {
+"v": "out",
+"why": "place"
+},
+"Malbranchea cinnamomea": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Mali": {
+"v": "out",
+"why": "place"
+},
+"Malic acid": {
+"v": "out",
+"why": "chemical compound"
+},
+"Malnutrition": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Malta": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mammal": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Man and the Biosphere Programme": {
+"v": "out",
+"why": "organization or institution"
+},
+"Management": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Manganese": {
+"v": "out",
+"why": "chemical element"
+},
+"Manganese deficiency (plant)": {
+"v": "in",
+"ch": "nutrients-and-plant-nutrition",
+"why": "plant nutrient deficiency disorder"
+},
+"Manganese oxide": {
+"v": "out",
+"why": "index page of compounds"
+},
+"Manganese(II) oxide": {
+"v": "out",
+"why": "chemical compound"
+},
+"Mangrove": {
+"v": "out",
+"why": "plant/ecosystem, not soil-specific"
+},
+"Mangrove forest": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mangrove restoration": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Manitoba": {
+"v": "out",
+"why": "place"
+},
+"Manorialism": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mantle (geology)": {
+"v": "out",
+"why": "deep earth geology"
+},
+"Mantle plume": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Manual labour": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Manufacturing": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Manure": {
+"v": "in",
+"ch": "fertilizers-manures-and-amendments",
+"why": "core organic fertilizer and amendment"
+},
+"Manure crisis in the Netherlands": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Manure tea": {
+"v": "out",
+"why": "niche fertilizer preparation"
+},
+"Maple": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Marble": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Marc Isambard Brunel": {
+"v": "out",
+"why": "person"
+},
+"Marcasite": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Marcel De Boodt": {
+"v": "out",
+"why": "person"
+},
+"Marchetti dilatometer test": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Marginal abatement cost": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Maria Glazovskaya": {
+"v": "out",
+"why": "person"
+},
+"Mariana Trench": {
+"v": "out",
+"why": "marine topic, not soil"
+},
+"Marina District, San Francisco": {
+"v": "out",
+"why": "place"
+},
+"Marine aquarium": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Marine biogenic calcification": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Marine biology": {
+"v": "out",
+"why": "marine topic, not soil"
+},
+"Marine chemistry": {
+"v": "out",
+"why": "marine topic, not soil"
+},
+"Marine clay": {
+"v": "out",
+"why": "marine sediment; geotechnical"
+},
+"Marine coastal ecosystem": {
+"v": "out",
+"why": "marine topic, not soil"
+},
+"Marine debris": {
+"v": "out",
+"why": "marine topic, not soil"
+},
+"Marine ecosystem": {
+"v": "out",
+"why": "marine topic, not soil"
+},
+"Marine food web": {
+"v": "out",
+"why": "marine topic, not soil"
+},
+"Marine habitat": {
+"v": "out",
+"why": "marine topic, not soil"
+},
+"Marine life": {
+"v": "out",
+"why": "marine topic, not soil"
+},
+"Marine nitrogen fixation": {
+"v": "out",
+"why": "marine topic, not soil"
+},
+"Marine primary production": {
+"v": "out",
+"why": "marine topic, not soil"
+},
+"Marine prokaryotes": {
+"v": "out",
+"why": "marine topic, not soil"
+},
+"Marine resources": {
+"v": "out",
+"why": "marine topic, not soil"
+},
+"Marine sediment": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Marine snow": {
+"v": "out",
+"why": "marine topic, not soil"
+},
+"Marker horizon": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Markerwaard": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Market-based environmental policy instruments": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mars": {
+"v": "out",
+"why": "astronomy"
+},
+"Mars Exploration Rover": {
+"v": "out",
+"why": "space mission"
+},
+"Mars Global Surveyor": {
+"v": "out",
+"why": "space mission"
+},
+"Mars Reconnaissance Orbiter": {
+"v": "out",
+"why": "space mission"
+},
+"Mars rover": {
+"v": "out",
+"why": "astronomy"
+},
+"Marsh gas": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Martin Gerzabek": {
+"v": "out",
+"why": "person"
+},
+"Martinus Beijerinck": {
+"v": "in",
+"ch": "history-of-soil-science",
+"why": "founder of soil microbiology"
+},
+"Martinus Theodorus van Genuchten": {
+"v": "out",
+"why": "person; his equation covered elsewhere"
+},
+"Mary C. Baltz": {
+"v": "out",
+"why": "person"
+},
+"Mary K. Firestone": {
+"v": "out",
+"why": "person"
+},
+"Maryland": {
+"v": "out",
+"why": "place"
+},
+"Masonry": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mass": {
+"v": "out",
+"why": "general unit"
+},
+"Mass fraction (chemistry)": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mass spectrometry": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mass transfer": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Massachusetts": {
+"v": "out",
+"why": "place"
+},
+"Master of Science": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Master's degree": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Material": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Materials science": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mathematical model": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mathematical optimization": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mating": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Matrix (geology)": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Mattock": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mauritania": {
+"v": "out",
+"why": "place"
+},
+"Mawrth Vallis": {
+"v": "out",
+"why": "place"
+},
+"Max C. Brewer": {
+"v": "out",
+"why": "person"
+},
+"Maximum residue limit": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Maya ceramics": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Maya civilization": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Meadow": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Meander": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Measures of pollutant concentration": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Meat and bone meal": {
+"v": "out",
+"why": "niche byproduct"
+},
+"Mechanical engineering": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mechanically stabilized earth": {
+"v": "out",
+"why": "geotechnical construction"
+},
+"Mechanics": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Media filter": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Median lethal dose": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Medicago": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Medicago truncatula": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Medical Subject Headings": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Medication": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Medicinal clay": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Medicine": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mediterranean Sea": {
+"v": "out",
+"why": "place"
+},
+"Mediterranean climate": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mega Borg oil spill": {
+"v": "out",
+"why": "single event"
+},
+"Megafauna": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Megascolecidae": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Meiosis": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Meitnerium": {
+"v": "out",
+"why": "chemical element"
+},
+"Mekong Delta": {
+"v": "out",
+"why": "place"
+},
+"Melamine": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Melezitose": {
+"v": "out",
+"why": "chemical compound"
+},
+"Mellite": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Melnikov Permafrost Institute": {
+"v": "out",
+"why": "organization or institution"
+},
+"Meloidogyne arenaria": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Melting": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Melting point": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Meltwater": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Member states of the United Nations": {
+"v": "out",
+"why": "organization or institution"
+},
+"Membrane": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Membrane potential": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Memot Circular Earthworks": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mendelevium": {
+"v": "out",
+"why": "chemical element"
+},
+"Menfro": {
+"v": "out",
+"why": "single named soil series"
+},
+"Meniscus (liquid)": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mercury (element)": {
+"v": "out",
+"why": "chemical element"
+},
+"Mercury (planet)": {
+"v": "out",
+"why": "astronomy"
+},
+"Mercury poisoning": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Meristem": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mesh (scale)": {
+"v": "out",
+"why": "measurement unit"
+},
+"Mesoamerica": {
+"v": "out",
+"why": "place"
+},
+"Mesophile": {
+"v": "out",
+"why": "general microbiology"
+},
+"Mesophyte": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mesopotamia": {
+"v": "out",
+"why": "place"
+},
+"Mesopotamian Marshes": {
+"v": "out",
+"why": "place"
+},
+"Mesosphere": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mesozoic": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Meta-analysis": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Metabolic pathway": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Metabolic waste": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Metabolism": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Metabolite": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Metagenomics": {
+"v": "support",
+"ch": "life-in-the-soil",
+"why": "method for studying soil microbial communities"
+},
+"Metakaolin": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Metal": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Metal aquo complex": {
+"v": "out",
+"why": "chemical compound"
+},
+"Metal clay": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Metal ions in aqueous solution": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Metal toxicity": {
+"v": "support",
+"ch": "contamination-and-remediation",
+"why": "heavy metal toxicity in contaminated soils"
+},
+"Metallic sediment in the Normandy landing beaches": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Metalloid": {
+"v": "out",
+"why": "chemical element"
+},
+"Metallurgy": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Metamorphic rock": {
+"v": "support",
+"ch": "weathering-and-parent-material",
+"why": "rock class serving as parent material"
+},
+"Metamorphism": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Metasomatism": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Meteoric water": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Meteorite": {
+"v": "out",
+"why": "astronomy"
+},
+"Meteoroid": {
+"v": "out",
+"why": "astronomy"
+},
+"Meteorology": {
+"v": "out",
+"why": "broad neighboring science"
+},
+"Methane": {
+"v": "out",
+"why": "chemical compound"
+},
+"Methane clathrate": {
+"v": "out",
+"why": "chemical compound"
+},
+"Methane emissions": {
+"v": "support",
+"ch": "soil-carbon-and-climate",
+"why": "soils as methane sources and sinks"
+},
+"Methanobacteriati": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Methanogen": {
+"v": "in",
+"ch": "redox-and-soil-chemistry",
+"why": "methane production in waterlogged soils"
+},
+"Methanol": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Methanotroph": {
+"v": "in",
+"ch": "soil-carbon-and-climate",
+"why": "soil methane oxidizers; methane sink"
+},
+"Methemoglobinemia": {
+"v": "out",
+"why": "medical condition"
+},
+"Methionine": {
+"v": "out",
+"why": "chemical compound"
+},
+"Methodology": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Methyl red": {
+"v": "out",
+"why": "chemical compound"
+},
+"Methyl tert-butyl ether": {
+"v": "out",
+"why": "chemical compound"
+},
+"Methylene diurea": {
+"v": "out",
+"why": "niche fertilizer compound"
+},
+"Methylmercury": {
+"v": "out",
+"why": "chemical compound"
+},
+"Metre": {
+"v": "out",
+"why": "general unit"
+},
+"Metre per second": {
+"v": "out",
+"why": "general unit"
+},
+"Mexico": {
+"v": "out",
+"why": "place"
+},
+"Michigan": {
+"v": "out",
+"why": "place"
+},
+"Michigan State University": {
+"v": "out",
+"why": "organization or institution"
+},
+"Micro-irrigation": {
+"v": "out",
+"why": "irrigation technology, peripheral"
+},
+"Microalgae": {
+"v": "out",
+"why": "aquatic organisms"
+},
+"Microarthropods": {
+"v": "in",
+"ch": "life-in-the-soil",
+"why": "mites and springtails of soil fauna"
+},
+"Microbial biodegradation": {
+"v": "in",
+"ch": "contamination-and-remediation",
+"why": "microbial breakdown of soil pollutants"
+},
+"Microbial consortium": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Microbial ecology": {
+"v": "support",
+"ch": "life-in-the-soil",
+"why": "framework for soil microbial communities"
+},
+"Microbial fuel cell": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Microbial mat": {
+"v": "out",
+"why": "aquatic microbial ecology"
+},
+"Microbial metabolism": {
+"v": "support",
+"ch": "life-in-the-soil",
+"why": "energy pathways of soil microbes"
+},
+"Microbial oxidation of sulfur": {
+"v": "in",
+"ch": "nutrient-cycles",
+"why": "sulfur oxidation in soil sulfur cycle"
+},
+"Microbial population biology": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Microbiological culture": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Microbiologist": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Microbiology": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Microbiology of oxygen minimum zones": {
+"v": "out",
+"why": "marine topic, not soil"
+},
+"Microbiome": {
+"v": "support",
+"ch": "life-in-the-soil",
+"why": "microbial community concept for soils"
+},
+"Microbiota": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Microclimate": {
+"v": "support",
+"ch": "soil-temperature-and-air",
+"why": "local climate near the soil surface"
+},
+"Micrococcales": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Microcolony": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Microcystinase": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Microfauna": {
+"v": "in",
+"ch": "life-in-the-soil",
+"why": "protozoa, nematodes and other soil microfauna"
+},
+"Microfiber": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Micrometeorite": {
+"v": "out",
+"why": "astronomy"
+},
+"Micrometre": {
+"v": "out",
+"why": "general unit"
+},
+"Micromonosporaceae": {
+"v": "out",
+"why": "bacterial taxon"
+},
+"Micronutrient deficiency": {
+"v": "in",
+"ch": "nutrients-and-plant-nutrition",
+"why": "micronutrient deficiency in plants"
+},
+"Microorganism": {
+"v": "support",
+"ch": "life-in-the-soil",
+"why": "basic concept for soil microbiology"
+},
+"Micropollutant": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Microporous material": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Microscope": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Microsoft Windows": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Microsporum fulvum": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Microwave": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mid-ocean ridge": {
+"v": "out",
+"why": "marine topic, not soil"
+},
+"Middle Ages": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Middle East": {
+"v": "out",
+"why": "place"
+},
+"Middle English": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Middle High German": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Middle Triassic": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Midsummer": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Midwestern United States": {
+"v": "out",
+"why": "place"
+},
+"Migmatite": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Mikhail Lomonosov": {
+"v": "out",
+"why": "person"
+},
+"Military engineering": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Milk": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Milky Way": {
+"v": "out",
+"why": "astronomy"
+},
+"Mill (grinding)": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Millennium": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Millennium Ecosystem Assessment": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Millet": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Millipede": {
+"v": "support",
+"ch": "life-in-the-soil",
+"why": "major soil detritivore group"
+},
+"Mine dewatering": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mineral (nutrient)": {
+"v": "support",
+"ch": "nutrients-and-plant-nutrition",
+"why": "essential mineral nutrients concept"
+},
+"Mineral dust": {
+"v": "support",
+"ch": "erosion-and-sediment",
+"why": "wind-eroded soil dust"
+},
+"Mineral group": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Mineral hydration": {
+"v": "in",
+"ch": "weathering-and-parent-material",
+"why": "hydration as chemical weathering"
+},
+"Mineral processing": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Mineral variety": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Mineral wool": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Mineralization (geology)": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Mineralized tissues": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Mineralogy": {
+"v": "support",
+"ch": "what-soil-is-made-of",
+"why": "basis for soil mineral composition"
+},
+"Mineraloid": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Mining": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Mining engineering": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Ministry of Agriculture, Fisheries and Food (United Kingdom)": {
+"v": "out",
+"why": "organization or institution"
+},
+"Minnesota": {
+"v": "out",
+"why": "place"
+},
+"Minor planet": {
+"v": "out",
+"why": "astronomy"
+},
+"Minute": {
+"v": "out",
+"why": "general unit"
+},
+"Miocene": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Miscibility": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mississippi": {
+"v": "out",
+"why": "place"
+},
+"Mississippi River": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mississippi River Delta": {
+"v": "out",
+"why": "place"
+},
+"Missouri": {
+"v": "out",
+"why": "place"
+},
+"Mist": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mite": {
+"v": "support",
+"ch": "life-in-the-soil",
+"why": "mites are abundant soil fauna"
+},
+"Mitochondria": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mitochondrial DNA": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mixotroph": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mixture": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mnemonic": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Model organism": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Modelling clay": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Moder humus": {
+"v": "in",
+"ch": "organic-matter-humus-and-decomposition",
+"why": "humus form type"
+},
+"Modified Philip Dunne Infiltrometer": {
+"v": "out",
+"why": "single test device"
+},
+"Modified active gas sampling": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mohr–Coulomb theory": {
+"v": "out",
+"why": "geotechnical mechanics"
+},
+"Mohs scale": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Moisture": {
+"v": "out",
+"why": "too general"
+},
+"Mojave Desert": {
+"v": "out",
+"why": "place"
+},
+"Molar concentration": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Molar heat capacity": {
+"v": "out",
+"why": "general physics quantity"
+},
+"Molar mass": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Molasses": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mold": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Molding (process)": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Molding sand": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mole (animal)": {
+"v": "out",
+"why": "animal"
+},
+"Mole (unit)": {
+"v": "out",
+"why": "general unit"
+},
+"Molecular biology": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Molecular clock": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Molecular cloud": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Molecular diffusion": {
+"v": "support",
+"ch": "soil-temperature-and-air",
+"why": "gas diffusion governs soil aeration"
+},
+"Molecular mass": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Molecular phylogenetics": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Molecule": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Molehill": {
+"v": "out",
+"why": "overlaps by word"
+},
+"Mollusc shell": {
+"v": "out",
+"why": "animal anatomy"
+},
+"Mollusca": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Molybdate": {
+"v": "out",
+"why": "chemical compound"
+},
+"Molybdenum": {
+"v": "out",
+"why": "chemical element"
+},
+"Molybdenum deficiency (plant disorder)": {
+"v": "in",
+"ch": "nutrients-and-plant-nutrition",
+"why": "plant nutrient deficiency disorder"
+},
+"Momentum": {
+"v": "out",
+"why": "general physics"
+},
+"Mongolia": {
+"v": "out",
+"why": "place"
+},
+"Monocalcium phosphate": {
+"v": "out",
+"why": "chemical compound"
+},
+"Monoclinic crystal system": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Monocotyledon": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Monoculture": {
+"v": "in",
+"ch": "farming-systems-and-growing-media",
+"why": "cropping system affecting soil health"
+},
+"Monophyly": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Monosaccharide": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Monsanto": {
+"v": "out",
+"why": "organization or institution"
+},
+"Monsoon": {
+"v": "out",
+"why": "climate phenomenon"
+},
+"Montane ecosystem": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Montpellier": {
+"v": "out",
+"why": "place"
+},
+"Montreal Protocol": {
+"v": "out",
+"why": "treaty"
+},
+"Moon": {
+"v": "out",
+"why": "astronomy"
+},
+"Moorland": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Moose": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Mor humus": {
+"v": "in",
+"ch": "organic-matter-humus-and-decomposition",
+"why": "humus form type"
+},
+"Moraine": {
+"v": "support",
+"ch": "weathering-and-parent-material",
+"why": "glacial till parent material"
+},
+"Mordant": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Morice Fieldes": {
+"v": "out",
+"why": "person"
+},
+"Morphology (biology)": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Morro Bay, California": {
+"v": "out",
+"why": "place"
+},
+"Mortar (masonry)": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Moscovium": {
+"v": "out",
+"why": "chemical element"
+},
+"Moscow": {
+"v": "out",
+"why": "place"
+},
+"Mosquito": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Moss": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Most recent common ancestor": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Moth": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Motility": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Motor oil": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mottle": {
+"v": "out",
+"why": "plant/animal colour, not soil mottles"
+},
+"Moulting": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mound": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Mound system": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mound-building termites": {
+"v": "out",
+"why": "insect taxon"
+},
+"Mount Everest": {
+"v": "out",
+"why": "place"
+},
+"Mountain": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Muammar Gaddafi": {
+"v": "out",
+"why": "person"
+},
+"Mucilage": {
+"v": "support",
+"ch": "roots-and-the-rhizosphere",
+"why": "root mucilage shapes rhizosphere"
+},
+"Mucor": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Mucoromycotina": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Mucuna pruriens": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Mucus": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mud volcano": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Mudbrick": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mudcrack": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mudcrete": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mudflat": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mudrock": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Mudstone": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Mule": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Multi-National Force – Iraq": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Multicellular organism": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Multilateralism": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Multiphase flow": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Multiple cropping": {
+"v": "in",
+"ch": "farming-systems-and-growing-media",
+"why": "cropping system"
+},
+"Multiscale European Soil Information System": {
+"v": "out",
+"why": "niche data system"
+},
+"Municipal solid waste": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Muscle": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Muscovite": {
+"v": "support",
+"ch": "clay-minerals-and-colloids",
+"why": "mica weathering to illite; potassium source"
+},
+"Museum": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mushroom": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mushroom compost": {
+"v": "out",
+"why": "niche growing medium"
+},
+"Musical instrument": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mussel": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mustard (condiment)": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mustard cake": {
+"v": "out",
+"why": "niche fertilizer"
+},
+"Mustard gas": {
+"v": "out",
+"why": "chemical compound"
+},
+"Mustard plant": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mutant": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mutation": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mutualism (biology)": {
+"v": "support",
+"ch": "roots-and-the-rhizosphere",
+"why": "basis of mycorrhizal and rhizobial symbioses"
+},
+"Myakka (soil)": {
+"v": "out",
+"why": "single named soil series"
+},
+"Myanmar": {
+"v": "out",
+"why": "place"
+},
+"Mycelium": {
+"v": "support",
+"ch": "life-in-the-soil",
+"why": "fungal hyphae network in soil"
+},
+"Myco-heterotrophy": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mycobacterium tuberculosis": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Mycorestoration": {
+"v": "out",
+"why": "niche remediation variant"
+},
+"Mycorrhiza helper bacteria": {
+"v": "in",
+"ch": "roots-and-the-rhizosphere",
+"why": "bacteria aiding mycorrhizal symbiosis"
+},
+"Mycorrhizal bioremediation": {
+"v": "out",
+"why": "niche remediation variant"
+},
+"Mycorrhizal fungi and soil carbon storage": {
+"v": "in",
+"ch": "soil-carbon-and-climate",
+"why": "mycorrhizal role in soil carbon storage"
+},
+"Mycorrhizosphere": {
+"v": "in",
+"ch": "roots-and-the-rhizosphere",
+"why": "soil zone around mycorrhizal hyphae"
+},
+"Myoglobin": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Myrica": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Myricaceae": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Myriodontium keratinophilum": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Myrtaceae": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Myxobacteria": {
+"v": "out",
+"why": "organism or taxon"
+},
+"Mélange": {
+"v": "out",
+"why": "geology/mineralogy outside soil scope"
+},
+"Mössbauer spectroscopy": {
+"v": "out",
+"why": "specialized analytical technique"
+},
+"Māori people": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"N-(n-Butyl)thiophosphoric triamide": {
+"v": "in",
+"ch": "fertilizers-manures-and-amendments",
+"why": "urease inhibitor used with urea fertilizer"
+},
+"N-Acetylglucosamine": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"NASA": {
+"v": "out",
+"why": "organization or institution"
+},
+"NASA Clean Air Study": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"NFPA 704": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"NOx": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Namibia": {
+"v": "out",
+"why": "place"
+},
+"Nanjing": {
+"v": "out",
+"why": "place"
+},
+"Nanomaterials": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Nanometre": {
+"v": "out",
+"why": "general unit"
+},
+"Nanoparticle": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Naphthalene": {
+"v": "out",
+"why": "chemical compound"
+},
+"Napoleon, Arkansas": {
+"v": "out",
+"why": "place"
+},
+"Narragansett (soil)": {
+"v": "out",
+"why": "single named soil series"
+},
+"Nassau, Bahamas": {
+"v": "out",
+"why": "place"
+},
+"Natchez silt loam": {
+"v": "out",
+"why": "single named soil series"
+},
+"Nathaniel Shaler": {
+"v": "out",
+"why": "person"
+},
+"National Academy of Sciences": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"National Atmospheric Deposition Program": {
+"v": "out",
+"why": "organization/program"
+},
+"National Center for Biotechnology Information": {
+"v": "out",
+"why": "organization or institution"
+},
+"National Environmental Policy Act": {
+"v": "out",
+"why": "legislation"
+},
+"National Institute for Occupational Safety and Health": {
+"v": "out",
+"why": "organization or institution"
+},
+"National Natural Landmark": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"National Oceanic and Atmospheric Administration": {
+"v": "out",
+"why": "organization or institution"
+},
+"National Organic Program": {
+"v": "out",
+"why": "regulatory program"
+},
+"National Park Service": {
+"v": "out",
+"why": "organization or institution"
+},
+"National security": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Native Americans in the United States": {
+"v": "out",
+"why": "general or unrelated topic"
+},
+"Native species": {
+"v": "out",
+"why": "general or unrelated topic"
+}
+}

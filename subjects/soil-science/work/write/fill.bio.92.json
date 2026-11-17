@@ -1,0 +1,106 @@
+{
+ "entries": {
+  "soil-bio-232": {
+   "title": "Hemicellulose, the mixed-sugar glue of plant walls",
+   "text": "About a fifth of all land-plant biomass is hemicellulose. It is a group of branched polysaccharides, long sugar chains such as arabinoxylans, that sit with cellulose in almost every plant cell wall. Cellulose is built only from glucose. Hemicellulose mixes xylose, arabinose, glucose, mannose and galactose, in chains of 500 to 3000 units. In {{ref:soil-bio-115}}, it counts as moderately labile, slower to go than simple sugars. Brown-rot fungi attack it first. Modern {{ref:soil-class-070}} is mostly lignin, with 5% to 40% cellulose and hemicellulose."
+  },
+  "soil-bio-236": {
+   "title": "Photodegradation: sunlight as a quiet decomposer",
+   "text": "Gardeners are told to spread the iron chelate Iron EDDHA in the evening. Daylight would break it down. That breakdown is photodegradation, the alteration of materials by light, often used loosely for sunlight and air acting together. It helps remineralize biomass. With {{ref:soil-env-231}} and flocculation, it is one of three main processes that remove {{ref:soil-bio-128}} from water, often turning tough molecules into easily used ones. Makers of {{ref:soil-env-237}} products pick compounds that resist it, so they last long enough to work."
+  },
+  "soil-bio-233": {
+   "title": "Cutin, the waterproof skin of leaves and stems",
+   "text": "Every leaf and stem above ground wears a waxy coat called the cuticle. Its main builders are two polymers, cutin and cutan. Cutin is an insoluble, waterproof polyester: omega hydroxy acids joined by ester bonds. Its building blocks fall into two main families, the C16 and C18 families. Cutan survives far better in the fossil record. In soil, cutin turns up in {{ref:soil-bio-106}}, and chemists must handle it with care. Extracting humic substances alters the ester bonds in such plant polyesters."
+  },
+  "soil-bio-234": {
+   "title": "Suberin, the cork that guards roots and bark",
+   "text": "Cork takes its name from the cork oak, Quercus suber, and so does suberin, its major constituent. Suberin is a fatty, water-repelling polyester of plants, built from long-chain fatty acids and glycerol. Interlinked with {{ref:soil-bio-233}} and lignin, it forms a barrier in cell walls that blocks water and dissolved substances. In roots it lines the endodermis as the Casparian strip. Water must then pass through living cells, so the plant chooses which solutes go on. In bark it may hold off microbial decay."
+  },
+  "soil-bio-230": {
+   "title": "Microbial necromass, the dead that build soil carbon",
+   "text": "Much of the carbon in soil was once inside a microbe. Microbes cycle the carbon in soil so thoroughly that their necromass, the dead biomass left as cells die, can make up 30 to 80% of it. The remains join {{ref:soil-found-045}} as the cells break apart. One model, the {{ref:soil-bio-266}}, gives carbon taken up by microbes two fates. It is either respired to the atmosphere or locked into a stable store as necromass. Necromass is one of the primary raw materials of humification, the slow making of humus. It joins plant detritus, the excreta of soil organisms and black carbon from past fires. Pollutants follow the same route. Once metabolized or immobilized in living or dead biomass, they become part of stable humus."
+  },
+  "soil-bio-235": {
+   "title": "Saprophagy: the animals that eat the dead",
+   "text": "Fallen leaves are taken apart largely by small animals of the soil. They are saprophages, organisms that feed on decomposing dead plants or animals, and their habit is saprophagy. Specialists have their own names: necrophages eat dead animals, thanatophages dead plants, and sapro-xylophagous animals dead wood alone. Larger saprophages that digest wood or soil organic matter rely on enzymes from microbes living in their guts. As these animals and microbes digest litter, carbon leaves as carbon dioxide. The remaining material's C/N therefore falls, feeding {{ref:soil-bio-115}} onward."
+  },
+  "soil-bio-253": {
+   "title": "Exoenzymes: digesting food before eating it",
+   "text": "A bacterium cannot swallow a log, so it digests the log from outside. Exoenzymes are enzymes a cell secretes to work beyond its walls, most often breaking large molecules apart. The small pieces can pass through the cell membrane and be used inside. There, endoenzymes, which work within the cell, finish the processing. Bacteria and fungi feed this way. In soil, cellulases target carbohydrates, oxidases lignin, phosphatases organic phosphates, chitinases chains of {{ref:soil-bio-260}} and proteases proteins. Grouped as hydrolases, lyases, oxidoreductases and transferases, they set the pace of {{ref:soil-bio-039}} activity by degrading biopolymers. Fungi used to clean polluted ground secrete oxidative exoenzymes, such as laccases, from their growing hyphal tips. Cell-free exoenzymes can also clean up pollution, but they are often fragile and hard to get into soil. The word entered English in 1908; pepsin and trypsin were probably the first known."
+  },
+  "soil-bio-254": {
+   "title": "How fungi spend energy to dismantle litter",
+   "text": "Most of the enzymes working outside cells in leaf litter and soil come from fungi. Fungal extracellular enzyme activity is this secretion of {{ref:soil-bio-253}} to break down complex organic matter. The work is costly. Making and exporting enzymes takes a lot of energy, so evolution favors restraint. Some enzymes are made steadily at low levels and boosted when their target is plentiful. Glucose, a ready meal, represses cellulase production. The setting matters too. Soil pH, temperature and moisture alter which enzymes are made and how well they work. So do litter type and quality. {{ref:soil-fert-001}} and plowing, {{ref:soil-agri-095}}, shift that activity through the profile. Decay follows a sequence. Cellulose and other easy substrates go first, cut by endoglucanases, cellobiohydrolase and {{ref:soil-bio-257}}. {{ref:soil-bio-116}} is broken down later, as oxidative enzymes such as phenol oxidases, peroxidases and laccases rise. Two of these, {{ref:soil-bio-258}} and {{ref:soil-bio-259}}, are hallmarks of basidiomycetes and are used to gauge their activity. Enzyme activity also serves as an indicator of soil quality."
+  },
+  "soil-bio-261": {
+   "title": "Amplicons, copied DNA that names the microbes",
+   "text": "Most soil microbes are identified not by sight but by copied DNA. An amplicon is a piece of DNA that is the source or product of amplification or replication. It is usually made by the polymerase or ligase chain reaction, so the term is used interchangeably with PCR product. Bacteria and archaea are classified by comparing amplicons of the highly conserved 16S rRNA gene with known sequences. Fungi are classified from the 18S rRNA gene and the ITS1 region. Counting identical taxa gives their relative abundance."
+  },
+  "soil-bio-262": {
+   "title": "Metabarcoding: a census of a whole sample",
+   "text": "Barcoding identifies one organism. Metabarcoding identifies many taxa in one sample at once, from their DNA or RNA, to learn the sample's species composition. It runs through DNA extraction, {{ref:soil-bio-261}} production by PCR, sequencing and data analysis. Soil can be a bulk sample of collected organisms or a source of {{ref:soil-hist-090}}, taken without separating the organisms. Soil holds inhibitors, so its DNA needs special isolation techniques. Researchers still lack consensus on the best experimental design and bioinformatics criteria."
+  },
+  "soil-bio-258": {
+   "title": "Lignin peroxidase, a fungal tool for tough wood",
+   "text": "Lignin resists decay so well that only higher fungi and some bacteria can break it down, by oxidation. Lignin peroxidase is one of their tools. It is a heme-containing enzyme, one of the ligninases, that uses hydrogen peroxide to cleave lignin-like compounds. Fungi such as Phanerochaete chrysosporium secrete it as an {{ref:soil-bio-253}}. It works with veratryl alcohol, a white-rot fungal metabolite that acts as its cofactor. After twenty years of study, its mechanism is still not fully worked out."
+  },
+  "soil-bio-265": {
+   "title": "Michaelis–Menten: how fast an enzyme can work",
+   "text": "Add more food and an enzyme speeds up, but only to a limit. Michaelis–Menten kinetics, the simplest model of enzyme speed, captures this for one substrate turning into one product. Its equation is v = Va/(Km + a), where a is substrate concentration. V, or Vmax, is the limiting rate when substrate saturates the enzyme. Km, the Michaelis constant, is the concentration giving half that rate. Michaelis and Menten published it in 1913, building on Victor Henri's 1902 equation. Copiotrophic microbes have a higher Km than oligotrophs."
+  },
+  "soil-bio-259": {
+   "title": "Manganese peroxidase, a metal messenger against lignin",
+   "text": "This enzyme attacks lignin through a go-between. Manganese peroxidase is a heme peroxidase that uses hydrogen peroxide to oxidize manganese(II) to manganese(III), raising its {{ref:soil-chem-178}}. White-rot fungi secrete it; found in Phanerochaete chrysosporium in 1985, it seems unique to Basidiomycota. The unstable Mn(III) leaves bound to a carboxylic acid, most often oxalate. It then oxidizes phenolic parts of lignin and can cleave alkyl–aryl bonds. More Mn(II), hydrogen peroxide or lignin around the cell boosts its production."
+  },
+  "soil-bio-260": {
+   "title": "Amino sugars, the nitrogen-carrying sugars of chitin",
+   "text": "Swap one hydroxyl group on a sugar for an amine group and the result is an amino sugar. More than 60 are known. One of the most abundant, N-acetyl-D-glucosamine, is the main component of chitin. Soil microbes break chains of amino sugars apart with chitinases. In {{ref:soil-bio-115}}, plant material yields simpler forms, including sugars and amino sugars. These become the bodies of microbes or join humic assemblages."
+  },
+  "soil-bio-256": {
+   "title": "Acid phosphatase, the key to locked-up phosphorus",
+   "text": "Much soil phosphorus is bound inside organic molecules, out of reach. Acid phosphatase frees it. This enzyme strips attached phosphate groups from other molecules, working best at an acidic {{ref:soil-found-014}} below 7. It uses water to split a phosphate monoester into an alcohol and phosphate. Soil microorganisms rely on phosphatases to reach organically bound phosphate. Some roots, especially cluster roots, exude carboxylates with this activity to mobilize phosphorus in poor soils. Measuring phosphatase activity reveals how much a soil's life is demanding phosphate."
+  },
+  "soil-bio-269": {
+   "title": "Microbial biomass, the living fraction of soil",
+   "text": "A hectare of temperate grassland has held 1–2 t of bacteria and 2–5 t of fungi. That living mass, with its metabolites, is microbial biomass. It is only a few percent of {{ref:soil-found-045}}, and it turns over quickly. One way to estimate it is to weigh soil before and after fumigation. Small as it is, it matters. Microbes compete with plants for inorganic nitrogen, phosphorus and potassium and tie them up in their cells, a process called {{ref:soil-fert-121}}. The biomass also stores carbon, one way microbes sequester it. Worldwide it averages a C:N:P ratio of 60:7:1. Farming moves it quickly. Plowing can cut microbial biomass carbon and nitrogen at once, while sowing a {{ref:soil-agri-066}} raised the carbon by roughly 20% in one meta-analysis. Microbial biomass and activity are standard measures of soil health."
+  },
+  "soil-bio-264": {
+   "title": "Ecological stoichiometry: life as a balance of elements",
+   "text": "A termite's body holds about five parts carbon to one of nitrogen. Its wood holds 300–1000. Ecological stoichiometry studies such gaps: how the balance of energy and elements shapes living things, and how they reshape it. Like chemical stoichiometry, it rests on mass balance, an idea traced to Liebig, Lotka and Redfield. A mismatch between need and food is an elemental imbalance. Plants vary widely in composition, while animals hold close to a fixed recipe. The approach has been applied to the recycling of elements, competition for resources, animal growth and the scarce elements that limit whole ecosystems. A 2007 study found global average C:N:P ratios of 186:13:1 in soil and 60:7:1 in soil {{ref:soil-bio-269}}. The growth rate hypothesis adds a twist. It holds that phosphorus demand rises during active growth, to build phosphorus-rich nucleic acids."
+  },
+  "soil-bio-257": {
+   "title": "β-Glucosidase, the last cut in cellulose breakdown",
+   "text": "Cellulose is a chain of β-1,4-linked glucose, and three enzymes take it apart. Cellulases cut it, cellobiosidases trim it, and β-glucosidase finishes the job. This enzyme removes terminal glucose units, splitting cellobiose into glucose. Clearing cellobiose also lifts its brake on the other cellulose enzymes. White- and brown-rot fungi both secrete it, and it can also cleave xylose, mannose and galactose. Soil and litter assays track cellulose breakdown through cellobiohydrolase and β-glucosidase activity on pNP or MUF substrates."
+  },
+  "soil-bio-255": {
+   "title": "Soil enzyme assays: measuring invisible work",
+   "text": "Enzymes cannot be counted by eye, so their work is measured. Soil enzyme assays mix soil or litter with buffers and a substrate. Hydrolytic enzymes are read by color with p-nitrophenol substrates or by fluorescence with 4-methylumbelliferone ones. Phenol oxidase oxidizes L-DOPA, pyrogallol or ABTS; peroxidase is the extra activity when hydrogen peroxide is added. Transport, storage, pH, substrate concentration, temperature and preparation all sway results. Assays mostly catch enzymes cutting from chain ends, so molecular methods now count enzyme genes to link enzymes to their makers."
+  },
+  "soil-bio-270": {
+   "title": "Carbon use efficiency: growth versus upkeep",
+   "text": "A microbe can spend carbon on growing or on staying alive. Microbial carbon use efficiency measures how much of its carbon intake goes into biomass rather than maintenance energy. Copiotrophs tend to score lower than oligotrophs, making less protein per gram of oxygen consumed. In soil, two flows decide the result. Catabolism releases carbon as CO2, as in {{ref:soil-bio-033}}. Anabolism builds stable carbon compounds. Their balance controls how much carbon the soil keeps."
+  },
+  "soil-bio-266": {
+   "title": "The microbial carbon pump: making carbon hard to eat",
+   "text": "Microbes can lock carbon away by making it unappetizing. The microbial carbon pump turns {{ref:soil-bio-128}} into refractory forms that resist further microbial attack. In the ocean it can store carbon for centuries to millennia, unlike the biological pump, which relies on sinking particles. Warming there sends extra carbon to CO2 rather than new biomass. A soil model of the same name describes how microbes transform and stabilize organic matter. Carbon is either respired or enters the stable pool as {{ref:soil-bio-230}}."
+  },
+  "soil-bio-263": {
+   "title": "Stable-isotope probing: following labeled food",
+   "text": "Feed microbes a heavier version of their food, and the eaters reveal themselves. Stable-isotope probing traces uptake with substrate enriched in a heavy stable isotope. Isopycnic centrifugation then sorts labeled biomarkers from unlabeled ones by density. With 13CO2, heavy DNA is spun out and sequenced to show who uses fresh photosynthate. 18O-water shows who is actively growing. 13C is used most; 15N shifts DNA density less, because DNA holds fewer nitrogen atoms. Quantitative SIP, or qSIP, uses the predictable shift to estimate how much isotope went in."
+  },
+  "soil-bio-267": {
+   "title": "Q10: how much warmth speeds up life",
+   "text": "Warm most living systems by 10 °C and their chemistry runs two to three times faster. That factor is Q10, the temperature coefficient: a unitless measure of how much a rate changes with a 10 °C rise. It assumes rates rise exponentially with temperature, following Q10 = (R2/R1)^(10 °C/(T2−T1)). It applies to processes such as respiration, including {{ref:soil-bio-033}}, and photosynthesis. Environmental scientists often use 0 °C or 10 °C as the reference. The idea is thought to come from van 't Hoff's work in the late 19th century."
+  },
+  "soil-bio-268": {
+   "title": "The resistome: soil's ancient store of drug resistance",
+   "text": "Antibiotic resistance is older than antibiotics. Sequences from ancient permafrost show it existed millennia before people made the drugs. The resistome is the full set of antibiotic resistance genes in bacterial communities, harmful or not. Soil samples from cities, farms and forests held spore-forming {{ref:soil-bio-002}} resistant to most major antibiotics. Their resistance genes sit on mobile genetic elements, so soil and water communities act as reservoirs for pathogens. Sequencing has found genes shared between soil bacteria and clinical pathogens, some matching exactly across five antibiotic classes."
+  }
+ },
+ "openers": {
+  "soil-biochemistry": "Most of the work of decay happens outside the cells that do it. Microbes secrete enzymes into the soil to break large molecules down, and in leaf litter and soil most of these come from fungi. Some, such as peroxidases armed with hydrogen peroxide, attack lignin; others free phosphate or release glucose. This chapter follows those enzymes, the simple model of how fast they work, and the living microbes that make up a few percent of soil organic matter. It also shows how researchers read soil communities from copied DNA, and how the balance of elements shapes what those communities can do."
+ },
+ "reviews": {
+  "soil-biochemistry": "Soil microbes feed by secreting exoenzymes, and fungi supply most of them, taking apart cellulose first and lignin later with lignin and manganese peroxidases. Enzymes such as β-glucosidase and acid phosphatase release glucose and phosphate, and assays and the Michaelis–Menten model measure how fast they work, with Q10 adding temperature. The microbes doing this work form a small but active biomass with a C:N:P ratio of 60:7:1, and ecological stoichiometry explains why such ratios matter. How efficiently they use carbon, and how the microbial carbon pump turns it into stable forms, decides how much carbon the soil keeps. Amplicons, metabarcoding and stable-isotope probing reveal who these microbes are, down to the antibiotic resistance genes of the resistome."
+ }
+}

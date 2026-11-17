@@ -1,0 +1,104 @@
+{
+ "entries": {
+  "soil-fert-090": {
+   "title": "Bone meal, the slow phosphorus of ground bones",
+   "text": "Before chemistry offered a faster route, farmers on worn-out soils crushed bones gathered from battlefields such as Waterloo and Austerlitz. Bone meal is ground animal bones and slaughterhouse waste, fed to livestock and spread as a slow-release organic fertilizer. It supplies phosphorus and calcium with little nitrogen: a typical N-P-K rating is 3–15–0, with about 12% calcium. Bone does not dissolve in water. Soil acidity or microbial acids must break it down, so it releases nutrients only in acidic soils, below pH 7.0, over 1 to 4 months. Around 1840 Liebig suggested dissolving bones in sulfuric acid, a process first used in Britain in 1841."
+  },
+  "soil-fert-025": {
+   "title": "What can go wrong with animal manure",
+   "text": "Manure feeds the soil, but it can carry more than nutrients. Any manure may hold pathogens or food-spoilage organisms, spread by flies, rodents and other vectors, that threaten food safety. Under intensive land use it is spread less precisely than mineral fertilizer, so crops use its nitrogen poorly, and it can give off nitrous oxide, a greenhouse gas. In 2007 a University of Minnesota study found corn, lettuce and potatoes taking up antibiotics from soils spread with drug-laden manure. Organic standards therefore require non-organic manure to be rotted or composted first. That breaks down drug residues and kills pathogenic bacteria."
+  },
+  "soil-fert-065": {
+   "title": "Water-hoarding polymers that promised more than they gave",
+   "text": "Some synthetic polymers can soak up several hundred times their own weight in water. These hydroabsorbent polymers, such as polyacrylamides and polymethacrylates, have been tested as soil conditioners. The first synthetic conditioners appeared in the 1950s, chiefly hydrolyzed polyacrylonitrile. Trials in farming, horticulture and landscaping from the 1960s stalled when the polymers proved phytotoxic, poisonous to plants, because of leftover acrylamide monomer. Even after monomer levels fell below toxic levels, few studies show them improving plant quality or survival. Such materials are judged on cost-effectiveness, on how long they keep soil moist, and on their effects on microbes, nutrients and plant survival."
+  },
+  "soil-fert-064": {
+   "title": "Polyacrylamide, a synthetic binder for heavy clay",
+   "text": "In 1951 a symposium on improving soil structure heard about a new kind of additive. Synthetic polyacrylamide polymers, introduced in the 1950s as linear soil conditioners, are added to soil to improve its structure and the way it handles water. Water-soluble forms increase pore space and infiltration in clay soils. The soil turns friable, crumbly and easy to work, and it dries enough to be worked sooner after rain. Cross-linked forms hold water strongly and go into horticulture, farming and some potting mixes. On construction sites they control erosion, protecting the water quality of nearby streams."
+  },
+  "soil-fert-069": {
+   "title": "Living mulch, a groundcover that grows with the crop",
+   "text": "A mulch does not have to be dead. Living mulch is a low groundcover grown under a main crop to slow weeds and give the other benefits of mulch. Its plants are usually fast-growing and keep growing alongside the crop, whereas {{ref:soil-agri-066}} plants are worked into the soil or killed. Some bring extras. Clovers can fix nitrogen from the air, and creeping comfrey can gather nutrients from the subsoil. The partnership has limits. A living mulch may eventually have to be killed, mechanically or chemically, to stop it competing with the crop."
+  },
+  "soil-fert-067": {
+   "title": "Organic mulch and the hidden cost of straw and sawdust",
+   "text": "A layer of straw looks harmless, yet it can briefly slow the plants beneath it. Organic mulch is made of plant or animal residues, such as leaves, straw, bark, wood chips or manure, and it decays over time. Straw, peat, sawdust and wood products are rich in carbon but poor in nitrogen, so the microbes decomposing them draw nitrogen from the soil. Such mulches can also mat into a barrier to water and air. Growers use fully composted material to avoid phytotoxicity and seed-free material to keep out weeds. Peat moss lowers surface pH, which suits acid-loving plants, but once wetted and dried it can form a crust that water cannot soak into."
+  },
+  "soil-fert-068": {
+   "title": "Plastic mulch, the film over millions of acres",
+   "text": "Across millions of acres each year, vegetables grow through slits in plastic. Plastic mulch is thin sheeting laid over soil, with crops planted through holes in it, and it dominates large-scale vegetable growing. Black and clear films capture sunlight and warm the soil. Because the plastic lets no water through, drip tape usually runs underneath. Polyethylene mulch must come up at the end of the season. Left in place, it breaks into fragments that pollute the soil with ketones and aldehydes. Biodegradable films made from plant starches or sugars avoid that problem. Soil microorganisms break them down into water and carbon dioxide, so they can be tilled in."
+  },
+  "soil-fert-070": {
+   "title": "Sour mulch, when a pile smells of vinegar",
+   "text": "Mulch that smells of vinegar, ammonia, sulfur or silage has gone sour. It has turned anaerobic, decaying without oxygen. This happens when nitrogen-rich material is not turned often enough and forms pockets of intense decomposition. The anaerobic process makes small amounts of phytotoxic compounds, chemicals that harm plants. They can linger for a while even after the material is aerated again. Low-growing and newly planted plants suffer most, and some seeds may fail to germinate."
+  },
+  "soil-fert-051": {
+   "title": "How biochar is made: heat without flame",
+   "text": "Heat biomass without oxygen and it does not burn. It decomposes. That process, pyrolysis, is the main way biochar is made. It yields three products: a solid (biochar), a liquid (bio-oil) and a gas (syngas). Most biochar sold in the United States comes from gasifiers, which run through oxidation, drying, pyrolysis and reduction; their pyrolysis zone runs at 250–550 °C. Smallholders need no equipment: they light crop-waste piles from the top and quench the embers with soil or water. This top-down or conservation burn gives far less smoke than open burning. Hydrothermal carbonization also yields a carbon-rich solid, but because the process differs, its product is called hydrochar."
+  },
+  "soil-fert-087": {
+   "title": "Slash-and-char: clearing land without losing its carbon",
+   "text": "Slash-and-burn leaves only 3% of the organic carbon in the soil. Slash-and-char can keep up to 50%, in a highly stable form. The difference lies in the fire. Instead of burning cleared vegetation, farmers char it, leaving biochar for the soil. Burned plots soon lose their nutrients and are abandoned, whereas biochar-enriched soils can sustain cropping indefinitely. Mixed with crop leftovers, food waste or manure and buried, the char can form terra preta, itself a product of Amazonian slash-and-char farming. A worldwide shift to the practice could lock away an estimated 0.22–0.42 Gt of carbon a year."
+  },
+  "soil-fert-052": {
+   "title": "What sets one biochar apart from another",
+   "text": "A biochar's physical and chemical makeup is set by the feedstock and the production method, and it explains how each one performs. Properties are grouped by proximate and elemental composition, pH and porosity, and the International Biochar Initiative publishes standard methods for evaluating them. Two ratios, hydrogen-to-carbon and oxygen-to-carbon, track polarity and aromaticity. Both fall during carbonization as hydrogen- and oxygen-bearing groups are driven off. Temperature reshapes the carbon itself. At 450–550 °C it stays amorphous; hotter runs progressively turn it into turbostratic graphene sheets. Higher temperatures raise conductivity, aromaticity and intrinsic recalcitrance, the resistance to decay that governs how long the carbon lasts."
+  },
+  "soil-fert-089": {
+   "title": "UAN, the nitrogen fertilizer that stays liquid",
+   "text": "Urea and ammonium nitrate dissolve far better together than either salt does alone. UAN is that pair dissolved in water, a stable solution with 32% total nitrogen. It can only be used as a liquid. The mixture has a very low critical relative humidity, 18% at 30 °C, so as a solid it would pull water from the air. The commonest grade, UAN 32, is 45% ammonium nitrate, 35% urea and only 20% water. UAN 28, UAN 30 and UAN 18 also exist. The solutions corrode mild steel. Mixed with calcium nitrate solutions, they form a precipitate that can plug nozzles."
+  },
+  "soil-fert-092": {
+   "title": "Foliar feeding: fertilizer through the leaves",
+   "text": "In the 1950s H. B. Tukey and S. H. Wittwer at Michigan State sprayed radioactive phosphorus and potassium on leaves. They traced it moving through the plant at about one foot per hour. Foliar feeding applies liquid fertilizer directly to the leaves, which absorb nutrients through their stomata, the leaf pores, and their epidermis, the outer skin. Skipping the soil avoids leaching losses. It helps most with phosphorus, zinc and iron, which soils fix or hold in poorly available forms. Timing matters: early morning or late evening, below 24 °C (75 °F), since heat closes leaf pores in some species."
+  },
+  "soil-fert-204": {
+   "title": "Azolla, the floating fern that feeds rice",
+   "text": "Rice farmers were fertilizing their paddies with a small floating fern 1500 years ago. Azolla, the mosquito fern, is a genus of seven such aquatic ferns. Each hosts a partner, the cyanobacterium Anabaena azollae, which fixes nitrogen from the air and passes directly from one generation of fern to the next. Azolla can double its biomass in 1.9 days and yield 8–10 tonnes of fresh matter per hectare in Asian paddy fields. Planted in flooded rice paddies, it covers the water and suppresses weeds, then releases nitrogen to the rice as it dies. The earliest known written record is Jia Sixie's Qimin Yaoshu of 554 CE. It is still widely used in southeast Asia."
+  },
+  "soil-fert-098": {
+   "title": "Manure management: handling a useful hazard",
+   "text": "Hydrogen sulfide deadens the sense of smell at about 100 to 150 ppm, and 500 to 700 ppm can kill within 30 to 60 minutes. That gas rises from stored manure, so manure management is about safety as much as fertility. It covers the capture, storage, treatment and sustainable use of manure, whether liquid, slurry or solid, bedding and urine included. Stored manure also gives off methane, ammonia and carbon dioxide, peaking when it is agitated for pumping; in confined spaces these gases can kill. About 33% of global ammonia emissions in 2018 could be attributed to manure. As part of nutrient management, the aim is to spread enough to enrich soil without polluting water. Over-application can acidify soil and build up heavy metals. Water running off and draining through manured fields carries nutrients, pathogens, antibiotics, hormones and heavy metals. In streams and lakes, those nutrients overfeed the water. Remedies include anaerobic digestion to biogas and {{ref:soil-fert-096}}, composting, separating solids from liquids, and vegetated buffer strips."
+  },
+  "soil-fert-203": {
+   "title": "Bokashi: pickling food waste for the soil",
+   "text": "Bokashi treats food waste more like silage than like compost. Waste is mixed with a specialized bran carrying yeast, photosynthetic bacteria and lactic acid bacteria. It ferments for a few weeks in an airtight vessel, preserved by lactic acid. Dug into soil, it is eaten by soil life, mainly bacteria, within weeks. Unlike aerobic compost, bokashi barely heats. It loses little carbon as carbon dioxide and almost no nitrogen as nitrous oxide or ammonia, and it lowers the risk of nutrient leaching. Begun in Korea, the method is best known through Teruo Higa's commercial 'EM' (Effective Microorganisms) method of 1982. Nobody disputes that EM starts the fermentation, but other claims, such as whether particular microbes bring the benefits, are robustly contested."
+  },
+  "soil-fert-096": {
+   "title": "Digestate, what remains after biogas is made",
+   "text": "Anaerobic digestion has two main products. One is biogas; the other is digestate, the material left behind. Its chemistry depends on the feedstock: sewage sludge, livestock manure, energy crops such as maize, food and municipal waste, crop leftovers or industrial wastes. Acidogenic digestate is fibrous solid matter, rich in lignin and cellulose, that holds moisture well. Methanogenic digestate is a liquid sludge high in ammonium and potassium. The liquid fraction is up to 90% of the volume, with 2–6% dry matter and most of the soluble N and K. The solid fraction keeps most of the phosphorus. Ammonia is usually 60–80% of total nitrogen, and up to 99% from kitchen food waste. Digestate serves mainly as a soil conditioner: the solid part adds organic matter and water retention, the liquid part nutrients, and it can protect soil from erosion. It is not technically compost, which forms aerobically and breaks lignin and cellulose down further, and it carries more phosphorus and potassium. In the UK, digestate meeting PAS110 ceases to be waste and can be sold as a biofertilizer."
+  },
+  "soil-fert-091": {
+   "title": "IBDU, urea that dissolves slowly",
+   "text": "Urea dissolves at once and acts fast. Isobutylidenediurea, or IBDU, does neither. This organic compound derived from urea is not water-soluble, and its low solubility limits how fast it hydrolyzes, splitting back into fast-acting urea. It is made by condensing isobutyraldehyde with two equivalents of urea. Once dissolved, it releases nitrogen by the reverse reaction, which makes it a controlled-release nitrogen fertilizer. Related urea-based slow-release materials include crotonylidene diurea and urea-formaldehyde products such as ureaform."
+  },
+  "soil-fert-056": {
+   "title": "Lime requirement: how much lime an acid soil needs",
+   "text": "The acid-forming ions held on soil colloids, the finest charged particles, must be neutralized along with those in the soil water, or they will restore the original pH. The lime requirement is the dose that does this, worked out by soil-testing laboratories from the soil's base saturation. How far a given dose raises pH depends on the soil's buffer capacity, which is generally related to its cation-exchange capacity. Low-CEC soils show a sharper pH rise but lose the added bases faster to leaching, so they turn acid sooner unless limed again. Over-liming is most likely on them, as on sands that lack organic matter and clay to buffer them."
+  },
+  "soil-fert-058": {
+   "title": "Does liming add or remove soil carbon?",
+   "text": "Liming changes the organic carbon stored in soil through three processes that pull in different directions. First, better growing conditions raise yields, so more organic matter returns to the soil as dying roots and crop leftovers. Second, a more favorable pH briefly stimulates soil biological activity, speeding mineralization and the turnover of organic matter, which works against storage. Third, calcium drives flocculation, building more stable aggregates, and that better structure protects organic carbon from mineralization. The net change is the balance of all three."
+  },
+  "soil-fert-057": {
+   "title": "Structure liming, lime that firms up clay",
+   "text": "Structure liming aims at the crumbs of a clay soil. It usually uses calcium oxide or hydroxide mixed with calcium carbonate, to improve aggregate stability. The lime brings high calcium concentrations and high ionic strength, a high total of dissolved ions, to the soil solution. Both enhance flocculation of clay minerals, which then form more stable aggregates. Firmer aggregates can reduce losses of clay and nutrients from the soil."
+  },
+  "soil-fert-027": {
+   "title": "How green manure feeds the next crop",
+   "text": "A green manure only helps once bacteria have eaten it. Heterotrophic bacteria, which feed on organic matter, break the worked-in plants down into nutrients the following crop can use. Warmth and moisture drive the process, as in composting. The decaying matter gives off carbon dioxide and weak acids that free nutrients from insoluble minerals. On soils rich in calcium minerals, it can raise the phosphate content. The plant's {{ref:soil-fert-184}}, which varies with species and age, must be below 30:1. Otherwise the decomposers deplete soil nitrogen and starve the crop. Working the plants in too short a time before planting can cause the same nitrogen shortfall."
+  },
+  "soil-fert-077": {
+   "title": "One dose of compost that stored carbon for years",
+   "text": "A 2013 study found that a single compost application raised grassland carbon storage by 25–70%, significantly and durably. The method is simple: spread compost over the soil surface without tilling, so its carbon is stored in a stable form. Forage output rose as well, by 78% at a drier valley site and 42% at a wetter coastal one. Methane and nitrous oxide emissions showed no significant rise. Two obstacles remain. Composting is not an NRCS-approved technique, and commercial compost supplies are too limited to cover large areas."
+  },
+  "soil-fert-078": {
+   "title": "Can grazing cattle build soil carbon?",
+   "text": "Advocates credit rotational grazing with building carbon in grassland soils. The method moves herds through small paddocks so that each paddock can rest. Rest favors deep-rooted perennials over shallow-rooted annual grasses that die once grazed. The carbon payoff is disputed. Only a small amount of carbon may be stored in grassland soils, through root exudates and manure, while the animals themselves emit methane. Many researchers argue the approach cannot deliver the benefits claimed. Some studies find that simply excluding livestock from semi-arid grasslands recovers both vegetation and the carbon in the soil. The question remains open."
+  },
+  "soil-fert-062": {
+   "title": "How farm lime misleads archaeologists",
+   "text": "Archaeologists read strontium in ancient remains to work out where prehistoric people lived. Agricultural lime can distort those studies. The effect is significant in areas with calcium-poor soils. In Denmark's Karup River catchment, more than half the strontium washed in from agricultural lime rather than the natural environment. Comparing remains with lime-contaminated burial sites has led researchers to wrongly conclude that some prehistoric people came from far away."
+  }
+ }
+}

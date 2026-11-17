@@ -1,0 +1,78 @@
+{
+ "openers": {
+  "soil-mineralogy": "Every soil starts with minerals, and their history shapes almost everything that follows. The study of them, {{ref:soil-chem-184}}, is one of the branches, alongside soil physics, chemistry and biology, through which soil processes are measured. This chapter begins in a cooling basaltic magma, where silicate minerals crystallize in a fixed order, and follows them to the surface, where minerals formed hot and deep weather fastest. Along the way come odd characters: glass with no crystals at all, a green mineral that crumbles at a touch, and crusts born where iron sulfides oxidize. It ends with the beams of X-rays that tell one mineral from another."
+ },
+ "entries": {
+  "soil-chem-199": {
+   "title": "Zeolites, the mineral sponges that swap ions",
+   "text": "Some minerals behave like sponges built by a chemist. Zeolites are a group of crystalline aluminosilicates, a family of {{ref:soil-found-031}} riddled with microscopic pores. They are widely used to catch other substances on their surfaces and to speed up reactions as catalysts. Their frameworks carry negatively charged aluminium centres. Positive ions must sit beside them, and these can be swapped for others, so zeolites exchange ions. Over 40 natural frameworks are known among 253 identified by December 2018. Altered {{ref:soil-chem-200}} has formed zeolite deposits. Yet much material sold as zeolite is ground volcanic tuff holding little of it, used for building stone, aggregate, cement and products that improve soil."
+  },
+  "soil-chem-186": {
+   "title": "Bowen's reaction series: the order in which magma freezes",
+   "text": "Cool a basaltic magma slowly, and its minerals appear in a fixed order. The petrologist Norman L. Bowen worked out that order in the early 1900s. He melted powdered rock and noted which minerals formed as the temperature fell. Olivine and calcium plagioclase crystallize first. Pyroxene, amphibole and biotite follow, then sodium plagioclase, orthoclase, muscovite and finally quartz. This sequence of {{ref:soil-found-031}} is Bowen's reaction series. It has two branches. In the continuous branch, feldspars grow steadily richer in sodium as the melt cools. In the discontinuous branch, one mafic mineral, rich in iron and magnesium, gives way to the next. The order explains why some minerals tend to occur together in {{ref:soil-form-135}} and others almost never do. It also matters for soil. Minerals are most stable near the conditions where they formed, so the series ranks resistance to weathering at Earth's surface. Quartz, the last to form, lasts longest."
+  },
+  "soil-chem-187": {
+   "title": "Goldich's ladder: which minerals weather first",
+   "text": "Apatite and quartz can weather millions of years apart. S. S. Goldich ranked why in 1938, after studying soil profiles beside the rocks beneath them. His dissolution series orders common minerals of {{ref:soil-form-135}} by how fast they weather at Earth's surface. Minerals formed at higher temperatures and pressures are less stable, so the order echoes {{ref:soil-chem-186}}. Mafic minerals, rich in iron and magnesium, go faster than felsic, silica-rich ones. Apatite weathers quickest and quartz slowest. That is why quartz is so common as a leftover mineral in residual soils. Mafic rocks weather to serpentine, magnesium- and calcium-rich clays and oxides of iron; felsic rocks to clays such as {{ref:soil-chem-088}}. The series covers only a mineral's own properties. Climate also controls the rate, through the water-to-rock ratio, pH and {{ref:soil-chem-142}}. And White and Brantley (2003) found K-feldspar and plagioclase weathering at similar rates, so the series may not hold for every process."
+  },
+  "soil-chem-200": {
+   "title": "Volcanic glass, rock that froze before it could crystallize",
+   "text": "When magma cools too fast for crystals to grow, it freezes as glass. Volcanic glass is this amorphous product, with no crystal structure at all. That disorder makes it reactive. Water attacks it easily, and over time it breaks down into new minerals. Its weathering, with that of feldspars, forms {{ref:soil-chem-097}}. Glass in ash beds that turns crystalline becomes {{ref:soil-chem-100}}. Some young volcanic soils, with limited soil formation, still contain much glass. Soils with {{ref:soil-form-027}} layers are often found in volcanic areas and show traces of ash or glass."
+  },
+  "soil-chem-196": {
+   "title": "Glauconite, the green mineral of slow seafloors",
+   "text": "A green, crumbly mineral in a field can mark an ancient seabed. Glauconite is an iron potassium mineral among the {{ref:soil-found-033}}, a member of the {{ref:soil-chem-135}} group. It forms in place in the sea, commonly where oxygen is scarce, and indicates continental shelf deposits laid down slowly. It is very friable and has very low resistance to weathering. As the main component of greensand, it is a common potassium source in fertilizers and is used to adjust soil pH. Greensand is low in potassium, though, so it pays to haul it only short distances. In 1896, the master's thesis of {{ref:soil-hist-008}} dealt with its origin, composition and weathering."
+  },
+  "soil-chem-197": {
+   "title": "Jarosite, a store of slow-release acid",
+   "text": "Rovers have found jarosite on Mars, a sign of strongly oxidizing surface conditions. On Earth it is a basic hydrous sulfate of potassium and ferric iron, KFe3(SO4)2(OH)6, one of the {{ref:soil-found-036}}. It forms when iron sulfides oxidize. It is common in drainage from mines and in strongly acid soils that form where sulfides oxidize. When iron sulfide in clay oxidizes, jarosite's potassium comes mainly from {{ref:soil-chem-094}} or K-feldspar. Together with {{ref:soil-chem-198}}, it holds retained acidity, releasing it slowly as Fe3+ and Al3+ hydrolyze. The horizon suffix j marks their accumulation."
+  },
+  "soil-chem-195": {
+   "title": "Birnessite, the manganese mineral microbes make",
+   "text": "Microbes probably built most of the manganese mineral at Earth's surface. Birnessite, a hydrous manganese dioxide, nominally MnO2·nH2O, is the main one. It occurs as fine, poorly crystalline aggregates in soils, sediments, marine nodules and rock coatings such as desert varnish. Biological oxidation of Mn(II) is faster than the abiotic kind, which is why microorganisms are thought to make most of it. Its layers contain vacancies, balanced by interlayer cations such as calcium, copper, zinc, lead and cadmium. Manganese oxides like it, among the {{ref:soil-found-035}}, can oxidize trivalent chromium in soils to {{ref:soil-env-255}}."
+  },
+  "soil-chem-198": {
+   "title": "Schwertmannite, the orange crust of acid waters",
+   "text": "Streams and lakes fouled by mine drainage are often coated with an orange precipitate. That coating is commonly schwertmannite, an iron oxyhydroxysulfate, ideally Fe8O8(OH)6(SO4)·nH2O, usually seen as brownish-yellow crusts. It forms in iron-rich, acidic sulfate waters with a pH of 2 to 4. Like other {{ref:soil-found-036}}, it belongs to a wider chemistry. It is central to iron-sulfur geochemistry in the strongly acid, sulfur-rich soils of coastal lowlands. First described in 1994, it is named for the soil scientist Udo Schwertmann of the Technical University of Munich."
+  },
+  "soil-chem-185": {
+   "title": "Pedogenic carbonate, made in the soil itself",
+   "text": "Not all the carbonate in a soil came from its rock. Pedogenic carbonate forms in place within the soil, unlike carbonate inherited from bedrock or {{ref:soil-form-087}}. One route is carbonation, acid hydrolysis by dissolved carbon dioxide, described in {{ref:soil-found-060}}. It can weather primary minerals into secondary {{ref:soil-found-034}}. Carbonate can also form as a soil wets and dries, which underlies proposed clues to past seasonality. Horizon descriptions mark accumulated secondary carbonates with the suffix k. These carbonates also sort soils in the international classification: some soil groups are defined by accumulating them, others by lacking them within one meter. Ancient soils keep a record too. Carbon isotopes in carbonate nodules of {{ref:soil-form-072}} help reconstruct past atmospheric carbon dioxide."
+  },
+  "soil-chem-184": {
+   "title": "Soil mineralogy: where plant nutrients begin",
+   "text": "Most of the elements a plant needs come from the chemical breakdown of minerals. Soil mineralogy is the study of the minerals in soil. With soil physics, chemistry and biology, it is one of the branches through which soil processes are studied quantitatively. As roots remove nutrients from the soil solution, weathering of minerals helps replenish them, along with ion exchange and decaying organic matter. Minerals hold phosphorus too. In acid soils it binds to iron and aluminium oxyhydroxides; in neutral soils and in {{ref:soil-chem-035}} it precipitates onto calcite. Organic matter clings to minerals and stays longer in soil. Weathering also releases salts, which drainage flushes out or evaporation concentrates near the surface. Mineralogy mainly influences soil color. Size can mislead: gypsum, calcite, feldspar or quartz grains can be clay-sized without behaving like a true {{ref:soil-chem-079}}. Advances here have added new tools to the study of soil formation."
+  },
+  "soil-chem-188": {
+   "title": "Powder diffraction, a fingerprint for every crystal",
+   "text": "Every crystalline solid leaves its own fingerprint when struck by radiation. Powder diffraction reads it. The method aims X-rays, neutrons or electrons at powdered or microcrystalline samples. Diffraction happens when radiation of a wavelength comparable to atomic spacings reflects off planes of atoms and the reflections reinforce one another. Bragg's law, nλ = 2d sin θ, links the wavelength λ, the lattice spacing d and the glancing angle θ. The Braggs proposed it in 1913. Line positions, set by lattice spacings, and their intensities identify the solid. A soil sample is a mixture, so its patterns lie on top of one another, and from them the relative amount of each phase can be found. Preparation is simple and measurement fast. The method mainly identifies known phases rather than solving unknown structures, and the 2021 Powder Diffraction File held over 1,047,661 reference materials."
+  },
+  "soil-chem-189": {
+   "title": "X-ray fluorescence: making minerals glow with their elements",
+   "text": "Hit a mineral with high-energy X-rays or gamma rays, and it answers with X-rays of its own. Their energies reveal which elements are present, and their intensities how much. This is X-ray fluorescence, a non-destructive method used in geochemistry, archaeology and forensic science. Minerals may be ground and pressed into a tablet or, for accurate work, dissolved in borate glass and cast into a bead. Pressed powders have pitfalls: finer minerals gather at the surface, and mixtures absorb in ways that depart from theory. XRF tools increasingly ride cone penetration test probes to measure soil in place."
+  },
+  "soil-chem-191": {
+   "title": "Electron probe microanalysis: chemistry from a speck",
+   "text": "A single mineral grain can record its own history from core to rim. Electron probe microanalysis reads that record. It bombards small volumes of a solid with an electron beam and measures the emitted X-rays, much as {{ref:soil-chem-189}} does, without destroying the sample. Scanning electron microscopes share the principle, but the probe holds its beam fixed and aims at analysis rather than images. Mineralogists and petrologists use it to trace chemical zoning in grains. {{ref:soil-hist-135}}, which dates layers of volcanic ash, usually fingerprints ash with the probe. Light elements such as hydrogen, lithium and beryllium are hard to measure this way."
+  },
+  "soil-chem-190": {
+   "title": "Infrared spectra that reveal water in minerals",
+   "text": "Some minerals have no long-range order, yet still announce themselves. {{ref:soil-chem-097}} is one, identified by its distinctive infrared spectrum and its X-ray diffraction pattern. Fourier-transform infrared spectroscopy records how a solid, liquid or gas absorbs or emits infrared light over a wide range of wavelengths at once. A mathematical Fourier transform converts the raw data into the spectrum, which gives the method its name. Geologists use it to quantify water and carbon dioxide in minerals and glasses. With X-ray and electron diffraction, infrared spectroscopy is a standard way to study clays."
+  },
+  "soil-chem-194": {
+   "title": "Dissolving one iron mineral and sparing the rest",
+   "text": "A soil chemist can dissolve one kind of iron mineral and leave another largely alone. Selective extractions target particular iron- and aluminium-bearing phases, mostly {{ref:soil-found-035}}, so they can be measured. Acid ammonium oxalate at pH 3 pulls iron and aluminium from poorly crystalline minerals such as {{ref:soil-chem-111}}, from iron(II) minerals such as magnetite, and from organic matter. Dithionite works differently. It is a {{ref:soil-chem-115}}, with a reduction potential of −0.66 V at pH 7. Paired with a complexing agent such as citric acid, it turns iron(III) oxyhydroxides into soluble iron(II) and removes amorphous iron(III) phases."
+  },
+  "soil-chem-193": {
+   "title": "Heavy minerals, the dense grains that betray a sand's origin",
+   "text": "A pinch of dense grains can reveal where a sediment came from. A heavy mineral is one denser than 2.9 g/cm3, usually a minor part of siliciclastic sediments, those built of silicate rock fragments that may harden into {{ref:soil-form-136}}. Zircon, tourmaline, rutile, garnet and magnetite are common examples, dense and resistant to weathering. Because they resist, deep weathering concentrates them in residual accumulations. Their relative proportions, a heavy mineral suite, help trace the provenance of sediments. Being scarce, they are separated for study in a dense liquid such as bromoform, in a funnel or centrifuge."
+  },
+  "soil-chem-192": {
+   "title": "Environmental magnetism: climate and fire written in iron",
+   "text": "Magnetic minerals in soil keep a diary of climate, moving sediment, pollution and fire. Environmental magnetism reads it, using their magnetic properties as proxies. The main magnetic minerals are oxides of iron, among the {{ref:soil-found-035}}, such as magnetite, and iron sulfides such as greigite and pyrrhotite. Magnetic susceptibility and remanence estimate mineral size and composition, and the measurements are quick and non-invasive. Susceptibility profiles through alternating loess and {{ref:soil-form-072}} in north-central China mapped Quaternary monsoon variations. Heat leaves a mark too. It converts {{ref:soil-chem-104}} and {{ref:soil-chem-111}} into {{ref:soil-chem-166}}, raising soil magnetism."
+  }
+ },
+ "reviews": {
+  "soil-mineralogy": "A mineral's birth sets how long it lasts in soil. Bowen's reaction series orders silicates as they crystallize from magma, and the Goldich series turns that order into a weathering ranking, from fast apatite to enduring quartz. Fragile materials such as volcanic glass and glauconite break down into new minerals, while jarosite and schwertmannite record iron sulfides oxidizing in acid settings. Because most plant nutrients come from mineral breakdown, identifying minerals matters. Diffraction, X-ray fluorescence, the electron probe, infrared spectra, selective extractions and magnetism each read a different trait."
+ }
+}

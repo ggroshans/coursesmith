@@ -1,0 +1,315 @@
+# Order report
+
+## Prerequisite edges moved to `related`
+
+Each points to a later chapter or part (or closed a cycle). Move an entry, reorder chapters in frame.yaml, or accept the edge as a forward reference.
+
+- Fertilizer-induced acidification (soil-chem-005) needed Fertilizer (soil-fert-001) — consolidation
+- Fertilizer-induced acidification (soil-chem-005) needed Nitrification (soil-fert-112) — consolidation
+- Managing soil acidification (soil-chem-007) needed Liming (soil) (soil-fert-055) — consolidation
+- Irrigation salinity (soil-chem-010) needed Irrigation (soil-agri-013) — consolidation
+- Soil salinity control (soil-chem-011) needed Irrigation (soil-agri-013) — consolidation
+- Leaching requirement (soil-chem-013) needed Leaching (agriculture) (soil-agri-021) — consolidation
+- Environmental impact of irrigation (soil-chem-041) needed Irrigation (soil-agri-013) — consolidation
+- Maas–Hoffman model (soil-chem-043) needed Salt tolerance of crops (soil-agri-024) — consolidation
+- Van Genuchten–Gupta model (soil-chem-139) needed Salt tolerance of crops (soil-agri-024) — consolidation
+- Base-cation saturation ratio (soil-chem-055) needed Soil test (soil-fert-187) — consolidation
+- Humic substance (soil-chem-058) needed Humus (soil-bio-089) — consolidation
+- Chelated micronutrient fertilizers (soil-chem-072) needed Fertilizer (soil-fert-001) — consolidation
+- USDA suborders and great groups (soil-class-007) needed USDA soil orders (soil-class-089) — ordering pass
+- WRB map legends (soil-class-019) needed Soil survey (soil-agri-082) — consolidation
+- Greyzem (soil-class-047) needed Chernozem (soil-class-123) — ordering pass
+- Environmental soil chemistry (soil-chem-077) needed Soil contamination (soil-env-001) — consolidation
+- Clay mineral identification (soil-chem-082) needed Cation-exchange capacity (soil-chem-046) — consolidation
+- Soil colloids (soil-chem-084) needed Humus (soil-bio-089) — consolidation
+- Goethite (soil-chem-104) needed Redox (soil-chem-113) — consolidation
+- Fougèrite (soil-chem-109) needed Redox (soil-chem-113) — consolidation
+- Ferrihydrite (soil-chem-111) needed Redox (soil-chem-113) — consolidation
+- Hematite (soil-chem-112) needed Redox (soil-chem-113) — consolidation
+- Clay chemistry (soil-chem-149) needed Cation-exchange capacity (soil-chem-046) — ordering pass
+- Colloidal stability (soil-chem-155) needed Diffuse double layer (soil-chem-050) — ordering pass
+- DLVO theory (soil-chem-157) needed Diffuse double layer (soil-chem-050) — ordering pass
+- DLVO theory (soil-chem-157) needed Ionic strength (soil-chem-202) — ordering pass
+- Particle aggregation (soil-chem-158) needed Diffuse double layer (soil-chem-050) — consolidation
+- Zeta potential (soil-chem-160) needed Diffuse double layer (soil-chem-050) — ordering pass
+- Peptization (soil-chem-161) needed Diffuse double layer (soil-chem-050) — consolidation
+- Iron oxides (soil-chem-163) needed Redox (soil-chem-113) — consolidation
+- Measuring specific surface area (soil-chem-168) needed Adsorption isotherm (soil-chem-146) — ordering pass
+- Porosity and hydraulic conductivity (soil-phys-065) needed Hydraulic conductivity (soil-water-193) — ordering pass
+- Soil pore size classes (soil-phys-070) needed Field capacity (soil-water-177) — consolidation
+- Unsaturated soil conditions (soil-phys-077) needed Water content (soil-water-164) — consolidation
+- Mechanism of soil compaction (soil-phys-087) needed Water content (soil-water-164) — consolidation
+- Soil mass–volume relations (soil-phys-093) needed Water content (soil-water-164) — consolidation
+- Soil consolidation (soil-phys-110) needed Hydraulic conductivity (soil-water-193) — consolidation
+- Soil matrix (soil-phys-120) needed Clay mineral (soil-chem-079) — consolidation
+- Seepage (soil-phys-125) needed Hydraulic conductivity (soil-water-193) — consolidation
+- Seepage (soil-phys-125) needed Darcy's law (soil-water-201) — consolidation
+- Specific storage and storativity (soil-phys-128) needed Hydraulic conductivity (soil-water-193) — consolidation
+- Specific weight (soil-phys-131) needed Water content (soil-water-164) — consolidation
+- Agriculture and soil erosion (soil-water-014) needed Tillage (soil-agri-095) — consolidation
+- Tillage erosion (soil-water-038) needed Tillage (soil-agri-095) — ordering pass
+- Dust Bowl government response (soil-water-076) needed Soil conservation (soil-agri-059) — consolidation
+- Riparian buffer (soil-water-102) needed Nonpoint source pollution (soil-env-015) — consolidation
+- Crop rotation and erosion control (soil-agri-006) needed Crop residue (soil-agri-129) — ordering pass
+- Fallow (soil-agri-044) needed Arable land (soil-agri-126) — ordering pass
+- Land restoration (soil-agri-055) needed Land degradation (soil-env-062) — ordering pass
+- Alley cropping (soil-agri-134) needed Agroforestry (soil-agri-140) — ordering pass
+- Natural farming (soil-agri-148) needed No-till farming (soil-agri-117) — ordering pass
+- Sustainable agriculture (soil-agri-151) needed Soil conservation (soil-agri-059) — ordering pass
+- Toxic elements in fertilizers (soil-fert-017) needed Soil contamination (soil-env-001) — consolidation
+- Biochar carbon removal (soil-fert-053) needed Carbon sink (soil-env-116) — consolidation
+- Biochar carbon removal (soil-fert-053) needed Soil carbon (soil-env-106) — consolidation
+- Living mulch (soil-fert-069) needed Cover crop (soil-agri-066) — consolidation
+- Carbon farming (soil-fert-076) needed Soil carbon (soil-env-106) — consolidation
+- Carbon farming (soil-fert-076) needed Carbon sink (soil-env-116) — consolidation
+- Grazing management and soil carbon (soil-fert-078) needed Soil carbon (soil-env-106) — consolidation
+- John Bennet Lawes (soil-hist-074) needed Rothamsted Research (soil-hist-053) — ordering pass
+- Joseph Henry Gilbert (soil-hist-108) needed Rothamsted Research (soil-hist-053) — ordering pass
+- Russian school of soil science (soil-hist-028) needed Vasily Dokuchaev (soil-hist-001) — consolidation
+- V.V. Dokuchaev Central Museum of Soil (soil-hist-042) needed Vasily Dokuchaev (soil-hist-001) — consolidation
+- A horizon (soil-form-008) needed Humus (soil-bio-089) — consolidation
+- E horizon (soil-form-009) needed Leaching (pedology) (soil-form-050) — consolidation
+- Diagnostic horizon (soil-form-017) needed Soil classification (soil-class-001) — ordering pass
+- Epipedon (soil-form-018) needed USDA soil taxonomy (soil-class-006) — ordering pass
+- Solum (soil-form-024) needed Soil-forming factors (soil-form-043) — ordering pass
+- Hardpan (soil-form-025) needed Soil compaction (soil-phys-082) — consolidation
+- Umbric horizon (soil-form-030) needed Base-richness (soil-chem-054) — consolidation
+- Eluviation (soil-form-033) needed Leaching (pedology) (soil-form-050) — ordering pass
+- Cryoturbation (soil-form-034) needed Permafrost (soil-env-129) — ordering pass
+- Cryoturbation (soil-form-034) needed Active layer (soil-env-146) — consolidation
+- Ice wedge (soil-form-036) needed Permafrost (soil-env-129) — ordering pass
+- Ferricrete (soil-form-038) needed Sesquioxide (soil-form-085) — ordering pass
+- Pedocal (soil-form-040) needed 1938 USDA soil taxonomy (soil-class-012) — ordering pass
+- Silcrete (soil-found-103) needed Duricrust (soil-chem-039) — ordering pass
+- Cutans (soil-found-068) needed Ped (soil-phys-003) — consolidation
+- Slickensides in soils (soil-form-116) needed Shrink–swell capacity (soil-phys-028) — ordering pass
+- Spodic horizon (soil-form-117) needed Podzolisation (soil-form-061) — ordering pass
+- Natric horizon (soil-form-119) needed Argillic (soil-class-045) — ordering pass
+- Natric horizon (soil-form-119) needed Exchangeable sodium percentage (soil-chem-018) — ordering pass
+- Kandic horizon (soil-form-120) needed Argillic (soil-class-045) — ordering pass
+- Kandic horizon (soil-form-120) needed Kaolinite (soil-chem-088) — ordering pass
+- Kandic horizon (soil-form-120) needed Cation-exchange capacity (soil-chem-046) — ordering pass
+- Calcic horizon (soil-form-121) needed Calcareous soil (soil-chem-035) — consolidation
+- Topography as a soil-forming factor (soil-form-045) needed Erosion (soil-water-002) — consolidation
+- Leaching model (soil-form-051) needed Soil salinity (soil-chem-008) — ordering pass
+- Leaching efficiency (soil-form-052) needed Soil structure (soil-phys-001) — consolidation
+- Soil biomantle (soil-form-055) needed Bioturbation (soil-bio-047) — ordering pass
+- Biomixing, biotransfer and biosorting (soil-form-056) needed Bioturbation (soil-bio-047) — consolidation
+- Dynamic denudation (soil-form-057) needed Bioturbation (soil-bio-047) — consolidation
+- Biorhexistasy (soil-form-059) needed Soil erosion (soil-water-001) — consolidation
+- Podzolisation (soil-form-061) needed Chelation (soil-chem-069) — consolidation
+- Cheluviation (soil-form-062) needed Chelation (soil-chem-069) — ordering pass
+- Pedodiversity (soil-form-064) needed Soil classification (soil-class-001) — ordering pass
+- Laterite (soil-form-065) needed Sesquioxide clays (soil-chem-106) — consolidation
+- Laterite soils in farming (soil-form-067) needed Cation-exchange capacity (soil-chem-046) — consolidation
+- Paleosol classification (soil-form-074) needed USDA soil taxonomy (soil-class-006) — ordering pass
+- Microbial soil memory (soil-form-079) needed Soil microbiology (soil-bio-011) — ordering pass
+- Ferrallitisation (soil-form-081) needed Sesquioxide clays (soil-chem-106) — consolidation
+- Argillipedoturbation (soil-form-123) needed Smectite (soil-chem-091) — ordering pass
+- Argillipedoturbation (soil-form-123) needed Shrink–swell capacity (soil-phys-028) — ordering pass
+- Periglaciation (soil-form-126) needed Permafrost (soil-env-129) — ordering pass
+- Soil microbial hotspots (soil-bio-006) needed Rhizosphere (soil-bio-143) — consolidation
+- Soil microbial loop (soil-bio-015) needed Dissolved organic matter (soil-bio-128) — ordering pass
+- Soil microbial loop (soil-bio-015) needed Rhizosphere (soil-bio-143) — consolidation
+- Sources of soil respiration (soil-bio-034) needed Rhizosphere (soil-bio-143) — consolidation
+- Vermicomposting (soil-bio-044) needed Compost (soil-fert-028) — consolidation
+- Detritivore (soil-bio-052) needed Plant litter (soil-bio-106) — consolidation
+- Saprotrophic bacteria (soil-bio-053) needed Saprotroph (soil-bio-125) — consolidation
+- Acid mine drainage (soil-bio-059) needed Sulfur cycle (soil-fert-133) — consolidation
+- Oligotroph (soil-bio-060) needed Nutrient (soil-fert-181) — consolidation
+- Plant adaptations to nutrient-poor soils (soil-bio-062) needed Plant nutrition (soil-fert-156) — consolidation
+- Microbiologically induced calcite precipitation (soil-bio-067) needed Nitrogen cycle (soil-fert-099) — consolidation
+- Microbiologically induced calcite precipitation (soil-bio-067) needed Urea (soil-fert-021) — consolidation
+- Soil-borne pathogen (soil-bio-069) needed Root (soil-bio-133) — consolidation
+- Microbial inoculant (soil-bio-070) needed Rhizosphere (soil-bio-143) — ordering pass
+- Microbial inoculant (soil-bio-070) needed Mycorrhiza (soil-bio-157) — consolidation
+- Microbial inoculant (soil-bio-070) needed Nitrogen fixation (soil-fert-100) — consolidation
+- Ammonia fungi (soil-bio-071) needed Nitrogen cycle (soil-fert-099) — consolidation
+- Total organic carbon (soil-bio-078) needed Soil carbon (soil-env-106) — consolidation
+- Dwarf forest (soil-bio-081) needed Soil fertility (soil-fert-149) — consolidation
+- Mendocino ecological staircase (soil-bio-082) needed Podzol (soil-class-138) — consolidation
+- Thatch (lawn) (soil-bio-084) needed Plant litter (soil-bio-106) — consolidation
+- Fungal loop hypothesis (soil-found-076) needed Mycorrhiza (soil-bio-157) — ordering pass
+- Organotroph (soil-bio-206) needed Organic matter (soil-bio-114) — ordering pass
+- Soil mites (soil-bio-210) needed Decomposer (soil-bio-132) — ordering pass
+- Termites (soil-bio-212) needed Plant litter (soil-bio-106) — ordering pass
+- Termites (soil-bio-212) needed Humus (soil-bio-089) — ordering pass
+- Phospholipid fatty acid analysis (soil-bio-222) needed Microbial biomass (soil-bio-269) — ordering pass
+- Phospholipid fatty acid analysis (soil-bio-222) needed Soil test (soil-fert-187) — consolidation
+- Azotobacter (soil-bio-224) needed Nitrogen fixation (soil-fert-100) — ordering pass
+- Detrital food web (soil-bio-228) needed Decomposer (soil-bio-132) — ordering pass
+- Detrital food web (soil-bio-228) needed Detritus food chain (soil-bio-113) — ordering pass
+- Detrital food web (soil-bio-228) needed Decomposition (soil-bio-115) — consolidation
+- Invasive earthworms of North America (soil-bio-229) needed Forest floor (soil-bio-126) — ordering pass
+- Invasive earthworms of North America (soil-bio-229) needed Podzol (soil-class-138) — consolidation
+- Nitrification inhibitor (soil-fert-116) needed Fertilizer (soil-fert-001) — consolidation
+- Human impact on the phosphorus cycle (soil-fert-131) needed Fertilizer (soil-fert-001) — consolidation
+- Urease (soil-fert-224) needed Urea (soil-fert-021) — ordering pass
+- Irrigation effects on soil fertility (soil-fert-155) needed Irrigation (soil-agri-013) — consolidation
+- Nitrogen use efficiency (soil-fert-235) needed Nitrogen assimilation (soil-fert-107) — ordering pass
+- Canopy soil nitrogen cycling (soil-bio-124) needed Nitrogen cycle (soil-fert-099) — ordering pass
+- Terra preta (soil-class-053) needed Soil fertility (soil-fert-149) — consolidation
+- Charcoal in terra preta (soil-class-054) needed Biochar (soil-fert-050) — consolidation
+- Synthetic terra preta (soil-class-056) needed Biochar (soil-fert-050) — ordering pass
+- Subaqueous soil mapping (soil-class-069) needed Soil survey (soil-agri-082) — consolidation
+- Peat hags (soil-class-076) needed Gully erosion (soil-water-027) — ordering pass
+- Tropical peat (soil-class-081) needed Carbon sink (soil-env-116) — consolidation
+- Mesotrophic soil (soil-class-082) needed Soil fertility (soil-fert-149) — ordering pass
+- Acrotelm (soil-class-156) needed Bog (soil-water-121) — ordering pass
+- Machair (soil-class-158) needed Sand dune (soil-water-033) — ordering pass
+- Planetary gamma-ray spectrometry (soil-meth-016) needed Martian regolith (soil-hist-067) — consolidation
+- WRB horizon designations (soil-found-010) needed World Reference Base for Soil Resources (soil-class-016) — ordering pass
+- Australian horizon designations (soil-found-011) needed Australian Soil Classification (soil-class-022) — ordering pass
+- Soil pH and nutrient availability (soil-found-020) needed Essential plant nutrients (soil-fert-169) — consolidation
+- Soil pH and soil organisms (soil-found-022) needed Soil biology (soil-bio-001) — consolidation
+- Lowering soil pH (soil-found-023) needed Alkali soil (soil-chem-019) — consolidation
+- Soil buffering capacity (soil-found-024) needed Cation-exchange capacity (soil-chem-046) — consolidation
+- Soil color interpretation (soil-found-027) needed Redox (soil-chem-113) — consolidation
+- Gleying (soil-found-028) needed Redox (soil-chem-113) — consolidation
+- Gleying (soil-found-028) needed Water table (soil-water-247) — consolidation
+- Trial pit (soil-found-116) needed Soil profile (soil-form-002) — consolidation
+- Core sample (soil-found-117) needed Soil profile (soil-form-002) — consolidation
+- Biofilter (soil-chem-130) needed Biofilm (soil-bio-050) — consolidation
+- In situ chemical oxidation (soil-chem-131) needed Soil contamination (soil-env-001) — consolidation
+- Manganese cycle (soil-chem-172) needed Biogeochemical cycle (soil-fert-140) — consolidation
+- Rhizobacteria (soil-bio-154) needed Nitrogen fixation (soil-fert-100) — consolidation
+- Mycorrhizal nutrient exchange (soil-bio-158) needed Essential plant nutrients (soil-fert-169) — consolidation
+- Arbuscular mycorrhizae in agriculture (soil-bio-168) needed Tillage (soil-agri-095) — consolidation
+- Ectomycorrhizal tolerance of polluted soils (soil-bio-174) needed Soil contamination (soil-env-001) — consolidation
+- Rhizobia (soil-bio-178) needed Nitrogen fixation (soil-fert-100) — ordering pass
+- Actinorhizal plant (soil-bio-180) needed Nitrogen fixation (soil-fert-100) — consolidation
+- Nitrogen nutrition in the arbuscular mycorrhizal system (soil-bio-189) needed Nitrogen cycle (soil-fert-099) — consolidation
+- Frankia (soil-bio-200) needed Nitrogen fixation (soil-fert-100) — consolidation
+- Azospirillum (soil-bio-237) needed Nitrogen fixation (soil-fert-100) — consolidation
+- Farming practices and the mycorrhizosphere (soil-bio-248) needed Tillage (soil-agri-095) — consolidation
+- Acid phosphatase (soil-bio-256) needed Phosphorus cycle (soil-fert-127) — consolidation
+- Ecological stoichiometry (soil-bio-264) needed Carbon-to-nitrogen ratio (soil-fert-184) — ordering pass
+- Ecological stoichiometry (soil-bio-264) needed Nitrogen cycle (soil-fert-099) — consolidation
+- Ecological stoichiometry (soil-bio-264) needed Phosphorus cycle (soil-fert-127) — consolidation
+- Reducing pesticide use (soil-agri-062) needed Pesticides in soil (soil-env-004) — ordering pass
+- Soil management and greenhouse gases (soil-agri-064) needed Soil carbon (soil-env-106) — consolidation
+- Bioretention (soil-agri-157) needed Heavy metals in soil (soil-env-018) — consolidation
+- Tropical soils (soil-form-131) needed Cation-exchange capacity (soil-chem-046) — consolidation
+- Soils of Australia (soil-form-133) needed Soil classification (soil-class-001) — consolidation
+- Soil mineralogy (soil-chem-184) needed Soil chemistry (soil-chem-076) — ordering pass
+- Powder diffraction (soil-chem-188) needed Clay mineral (soil-chem-079) — ordering pass
+- Fourier-transform infrared spectroscopy (soil-chem-190) needed Clay mineral (soil-chem-079) — ordering pass
+- Environmental magnetism (soil-chem-192) needed Iron oxides (soil-chem-163) — ordering pass
+- Environmental magnetism (soil-chem-192) needed Maghemite (soil-chem-166) — ordering pass
+- Selective extraction of iron oxides (soil-chem-194) needed Iron oxides (soil-chem-163) — ordering pass
+- Selective extraction of iron oxides (soil-chem-194) needed Ferrihydrite (soil-chem-111) — ordering pass
+- Glauconite (soil-chem-196) needed Mica (soil-chem-135) — ordering pass
+- Jarosite (soil-chem-197) needed Pyrite (soil-chem-134) — ordering pass
+- Jarosite (soil-chem-197) needed Acid sulfate soil (soil-chem-030) — ordering pass
+- Jarosite (soil-chem-197) needed Redox (soil-chem-113) — ordering pass
+- Schwertmannite (soil-chem-198) needed Acid sulfate soil (soil-chem-030) — ordering pass
+- Schwertmannite (soil-chem-198) needed Iron oxides (soil-chem-163) — ordering pass
+- Zeolite (soil-chem-199) needed Adsorption (soil-chem-145) — ordering pass
+- Zeolite (soil-chem-199) needed Cation-exchange capacity (soil-chem-046) — ordering pass
+- SSURGO (soil-agri-086) needed Natural Resources Conservation Service (soil-hist-050) — consolidation
+- Soil aggregation (soil-phys-005) needed Clay mineral (soil-chem-079) — consolidation
+- Flocculation (soil-phys-006) needed Clay mineral (soil-chem-079) — consolidation
+- Atterberg limits (soil-phys-021) needed Water content (soil-water-164) — ordering pass
+- Clay activity (soil-phys-027) needed Clay mineral (soil-chem-079) — consolidation
+- Shrink–swell capacity (soil-phys-028) needed Clay mineral (soil-chem-079) — consolidation
+- Shrink–swell capacity (soil-phys-028) needed Water content (soil-water-164) — consolidation
+- Expansive clay (soil-phys-029) needed Clay mineral (soil-chem-079) — consolidation
+- Gilgai (soil-phys-030) needed Vertisol (soil-class-106) — consolidation
+- Soil dispersion (soil-phys-033) needed Cation-exchange capacity (soil-chem-046) — consolidation
+- Soil dispersion (soil-phys-033) needed Soil salinity (soil-chem-008) — consolidation
+- Hydrophobic soil (soil-phys-034) needed Infiltration (soil-water-180) — consolidation
+- Plasticity of clay (soil-phys-053) needed Clay mineral (soil-chem-079) — consolidation
+- Clay size versus clay minerals (soil-phys-054) needed Clay mineral (soil-chem-079) — consolidation
+- Agrophysics (soil-phys-186) needed Soil physics (soil-phys-059) — ordering pass
+- Peatland carbon storage (soil-water-138) needed Soil carbon (soil-env-106) — consolidation
+- Peatland carbon storage (soil-water-138) needed Carbon cycle (soil-env-102) — consolidation
+- Soil-surface roughness (soil-water-141) needed Tillage (soil-agri-095) — consolidation
+- Retardation by adsorption (soil-phys-196) needed Sorption (soil-chem-068) — ordering pass
+- Convection–diffusion equation (soil-phys-197) needed Fick's laws of diffusion (soil-phys-181) — ordering pass
+- Colloid-facilitated transport (soil-phys-198) needed Colloid (soil-chem-154) — ordering pass
+- Colloid-facilitated transport (soil-phys-198) needed Sorption (soil-chem-068) — ordering pass
+- Colloid-facilitated transport (soil-phys-198) needed Soil colloids (soil-chem-084) — consolidation
+- No-till and soil carbon (soil-agri-118) needed Soil carbon (soil-env-106) — consolidation
+- Weed management in no-till (soil-agri-119) needed Cover crop (soil-agri-066) — ordering pass
+- Urban soil (soil-env-306) needed Soil contamination (soil-env-001) — ordering pass
+- Spoil tip (soil-env-311) needed Mine reclamation (soil-env-217) — ordering pass
+- Urban forestry (soil-env-312) needed Ecosystem service (soil-env-285) — ordering pass
+- Aridisol (soil-class-093) needed Aridity (soil-class-148) — ordering pass
+- Gelisol suborders (soil-class-097) needed Active layer (soil-env-146) — consolidation
+- Histosol (soil-class-098) needed Peat (soil-class-070) — ordering pass
+- Sapric (soil-class-109) needed Peat material types (soil-class-072) — ordering pass
+- Soil moisture and climate (soil-water-154) needed Soil thermal properties (soil-phys-140) — ordering pass
+- Plant water uptake (soil-water-160) needed Root (soil-bio-133) — ordering pass
+- Osmotic potential of soil water (soil-water-174) needed Soil salinity (soil-chem-008) — ordering pass
+- Soil moisture zone (soil-water-207) needed Root (soil-bio-133) — ordering pass
+- Waterlogging (soil-water-218) needed Soil aeration (soil-phys-150) — ordering pass
+- SaltMod (soil-water-237) needed Soil salinity (soil-chem-008) — ordering pass
+- SaltMod (soil-water-237) needed Irrigation salinity (soil-chem-010) — ordering pass
+- SaltMod (soil-water-237) needed Irrigation (soil-agri-013) — consolidation
+- Bioclogging (soil-water-241) needed Biofilm (soil-bio-050) — ordering pass
+- Plinthite (soil-water-242) needed Redoximorphic features (soil-chem-120) — ordering pass
+- Moisture stress (soil-phys-130) needed Root (soil-bio-133) — ordering pass
+- Hydrology (soil-phys-207) needed Water cycle (soil-water-079) — consolidation
+- Agricultural hydrology (soil-phys-211) needed Irrigation (soil-agri-013) — ordering pass
+- Eddy covariance (soil-phys-219) needed Soil gas (soil-phys-146) — ordering pass
+- Non-limiting water range (soil-phys-220) needed Soil aeration (soil-phys-150) — ordering pass
+- Bound water (soil-phys-221) needed Clay mineral (soil-chem-079) — ordering pass
+- Parent material (soil-form-087) needed Soil formation (soil-form-042) — ordering pass
+- Loess (soil-form-106) needed Silt (soil-phys-013) — consolidation
+- Loess (soil-form-106) needed Aeolian processes (soil-water-029) — consolidation
+- Loess soils and fertility (soil-form-109) needed Cation-exchange capacity (soil-chem-046) — consolidation
+- Loess–paleosol sequences (soil-form-111) needed Paleosol (soil-form-072) — ordering pass
+- Alluvium (soil-form-112) needed Sediment (soil-water-046) — consolidation
+- Colluvium (soil-form-113) needed Downhill creep (soil-water-055) — consolidation
+- Stone stripe (soil-form-114) needed Mass wasting (soil-water-053) — ordering pass
+- Stone stripe (soil-form-114) needed Eluviation (soil-form-033) — consolidation
+- Sedimentary rock (soil-form-136) needed Sediment (soil-water-046) — ordering pass
+- Biotite (soil-form-144) needed Mica (soil-chem-135) — ordering pass
+- Glacial drift (soil-form-149) needed Sediment (soil-water-046) — ordering pass
+- Volcanic ash (soil-form-152) needed Volcanic glass (soil-chem-200) — ordering pass
+- Lichens and soil formation (soil-form-153) needed Soil formation (soil-form-042) — ordering pass
+- Desert varnish (soil-form-154) needed Aridity (soil-class-148) — ordering pass
+- Desert varnish (soil-form-154) needed Aridisol (soil-class-093) — consolidation
+- Clay (soil-found-040) needed Soil separates (soil-phys-047) — consolidation
+- Clay varieties (soil-found-042) needed Clay mineral (soil-chem-079) — consolidation
+- Soil organic carbon with depth (soil-found-046) needed Soil horizon (soil-found-001) — consolidation
+- Mineral-associated organic matter (soil-found-047) needed Clay mineral (soil-chem-079) — consolidation
+- Soil organic matter in the carbon cycle (soil-found-049) needed Carbon cycle (soil-env-102) — consolidation
+- Soil texture (soil-found-051) needed Sand (soil-phys-014) — consolidation
+- Soil texture (soil-found-051) needed Silt (soil-phys-013) — consolidation
+- Oxidation weathering (soil-found-061) needed Redox (soil-chem-113) — consolidation
+- What counts as soil (soil-found-080) needed Regolith (soil-form-097) — ordering pass
+- Soil reclamation (soil-found-082) needed Clay mineral (soil-chem-079) — consolidation
+- Pioneer organisms in soil formation (soil-found-085) needed Weathering (soil-found-052) — consolidation
+- Forest soils (soil-found-087) needed Leaching (pedology) (soil-form-050) — consolidation
+- Tropical forest soils (soil-found-088) needed Weathering (soil-found-052) — consolidation
+- Grassland and desert soils (soil-found-089) needed Leaching (pedology) (soil-form-050) — consolidation
+- Vernacular soil classification (soil-found-092) needed Soil texture (soil-found-051) — consolidation
+- Principles of pedology (soil-found-096) needed Soil formation (soil-form-042) — consolidation
+- Soil health (soil-env-174) needed Soil biodiversity (soil-bio-008) — ordering pass
+- Soil health (soil-env-174) needed Soil organic matter (soil-found-045) — consolidation
+- Chernozem (soil-class-123) needed Soil fertility (soil-fert-149) — consolidation
+- Fluvisol (soil-class-126) needed Sediment (soil-water-046) — consolidation
+- Leptosol (soil-class-131) needed Erosion (soil-water-002) — consolidation
+- Plaggen soil (soil-class-149) needed Manure (soil-fert-023) — ordering pass
+- Black Dirt Region (soil-class-150) needed Peat (soil-class-070) — consolidation
+- Pore structure (soil-phys-171) needed Tortuosity (soil-phys-174) — cycle
+- Groundwater recharge (soil-water-210) needed Percolation (soil-water-159) — cycle
+- Groundwater recharge (soil-water-210) needed Vadose zone (soil-water-230) — cycle
+- Field capacity (soil-water-177) needed Percolation (soil-water-159) — cycle
+- Vadose zone (soil-water-230) needed Capillary fringe (soil-water-179) — cycle
+- Biofilm (soil-bio-050) needed Extracellular polymeric substance (soil-bio-080) — cycle
+- Phosphate fertilizers (soil-fert-008) needed Phosphorite (soil-fert-095) — cycle
+- Soil erosion (soil-water-001) needed Erosion (soil-water-002) — cycle
+- Sediment (soil-water-046) needed Erosion (soil-water-002) — cycle
+
+## Cycles broken
+
+- released Pore structure ahead of Tortuosity
+- released Groundwater recharge ahead of Percolation, Vadose zone
+- released Field capacity ahead of Percolation
+- released Vadose zone ahead of Capillary fringe
+- released Biofilm ahead of Extracellular polymeric substance
+- released Phosphate fertilizers ahead of Phosphorite
+- released Soil erosion ahead of Erosion
+- released Sediment ahead of Erosion

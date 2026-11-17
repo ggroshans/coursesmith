@@ -1,0 +1,72 @@
+{
+ "entries": {
+  "soil-agri-151": {
+   "title": "Farming that keeps the soil it farms",
+   "text": "Under conventional {{ref:soil-agri-095}}, farm fields lose soil more than 100 times faster than new soil forms. Even without it, erosion runs 10 to 20 times the formation rate. Sustainable agriculture is farming that reduces environmental harm, sustains and expands natural resources and uses non-renewable ones productively. The USDA defined it in 1977 as an integrated, site-specific system that meets food needs over the long term while enhancing the environment and the resource base. Its tools include {{ref:soil-env-218}}, {{ref:soil-agri-140}}, mixed farming, {{ref:soil-agri-147}} and {{ref:soil-agri-004}}. The stakes are concrete. Over a billion tonnes of southern Africa's soil erode each year, enough to halve harvests within thirty to fifty years. Intensive farming drains carbon from the soil, yet changed practices can make soil a net store of it. One sustainably managed wheat farm held more organic matter, microbes and nutrients than its conventional neighbor. Its yields were slightly lower, but its net returns were 22.4% higher. Microbes help here too: phosphate-solubilizing microorganisms and mycorrhizae free phosphorus locked up by aluminium, calcium and iron."
+  },
+  "soil-agri-149": {
+   "title": "Crop a plot, then let the forest take it back",
+   "text": "Weeds, more often than tired soil, end the harvest. In shifting cultivation a farmer crops a plot for a while, then abandons it to regrow as {{ref:soil-agri-044}} and moves on to another. Cropping stops when the soil shows exhaustion or, more usually, when weeds overrun the field. The cropping period is usually shorter than the fallow, during which the land regenerates. Land is often cleared by slash-and-burn, and the ashes add potash to the soil. It is one of the first forms of agriculture, and its survival suggests a flexible, highly adaptive way to grow food. That balance is fragile. Population growth, cash crops and chainsaws have shortened fallows and lengthened cropping. Fragile tropical soils farmed permanently after a single burn, with little nutrient replacement, can degrade fast. Its role in forest loss is contested. The FAO named it a cause of {{ref:soil-env-269}} while leaving logging out, and environmental groups and later observers have disputed that view."
+  },
+  "soil-agri-150": {
+   "title": "Fire, ash and a few good harvests",
+   "text": "Somewhere between 200 and 300 million people farm by fire. In slash-and-burn agriculture, a form of {{ref:soil-agri-149}}, forest or woodland plants are cut, left to dry and burned to make a field called a swidden. The burn leaves a layer of nutrient-rich ash that raises fertility and briefly clears weeds and pests. After about three to five years, depleted nutrients and returning weeds cut yields, and the plot is abandoned. Recovery takes from five to more than twenty years. On leached tropical soils such as the Amazon's, which are extremely poor, it is one of the few kinds of farming possible. But it needs much land or few people. As populations grow and plots are burned too often, the forest is eventually destroyed. One proposed fix is slash-and-char: charring the slash rather than fully burning it, then ploughing the charcoal in to boost yields."
+  },
+  "soil-agri-146": {
+   "title": "One crop, one field, mounting trouble",
+   "text": "A field of one crop is easy to plant and easy to harvest. That is monoculture: growing a single crop species in a field at one time. It describes diversity in space, as polyculture does, whereas monocropping and {{ref:soil-agri-004}} describe diversity over time. The short-term ease fades. Lost biodiversity and depleted nutrients leave the crop more open to pests and disease. Perennial monocultures such as oil palm, sugarcane, tea and pines can acidify and degrade soil and favor soil-borne diseases. As soil health falls, farmers add more synthetic fertilizer, and the excess nitrogen can leach into ground and surface waters."
+  },
+  "soil-agri-144": {
+   "title": "Growing grain on last winter's rain",
+   "text": "Crops can grow where only 230 millimetres of precipitation fall in a year. Dryland farming grows crops without {{ref:soil-agri-013}}, usually where a cool wet season charges the soil with water for the dry season that follows. In places marked by {{ref:soil-class-148}}, grain grows on that bank of stored {{ref:soil-water-155}}, not on rain during the growing season. Farmers space plants widely, control traffic, disturb the soil little and weed strictly, so weeds do not drink the stored water. Summer {{ref:soil-agri-044}} grows one crop on two seasons' precipitation, leaving stubble and residue to trap snow. An old idea held that {{ref:soil-agri-095}} sealed in moisture under a dust mulch. One account calls this controversial; another says testing showed working the soil actually increases evaporation. The method is prone to wind erosion, since fallow years leave fields bare. Frequent cultivation may save water but costs topsoil, usually the more important long-term asset. {{ref:soil-agri-061}}, no-till, mulch and {{ref:soil-agri-072}} help."
+  },
+  "soil-fert-208": {
+   "title": "Feeding crops through the irrigation line",
+   "text": "Fertigation injects fertilizers and other water-soluble products into an irrigation system, so the water carries the food. Growers use it to add nutrients or fix deficiencies that plant tissue analysis reveals, mostly on high-value crops: vegetables, turf, fruit trees and ornamentals. Nitrogen is the commonest nutrient, supplied as anhydrous ammonia, ammonium nitrate or urea. Phosphorus comes as ammonium phosphates and potassium as muriate of potash. Dosing with the water allows tiny amounts at a precise time and rate, and it reduces leaching. Drip systems, especially buried ones, can raise fruit and flower yield and quality. Most need a backflow preventer to protect drinking water."
+  },
+  "soil-agri-148": {
+   "title": "Fukuoka's farm of five refusals",
+   "text": "Masanobu Fukuoka built a farming method out of things not to do. Natural farming, also called the Fukuoka method or do-nothing farming, rests on five principles: no {{ref:soil-agri-095}}, no fertilizer, no pest or weed killers, no weeding and no pruning. Weeds, clover and legumes keep the ground covered and are cut and left to return their nutrients. The last crop's straw mulches the topsoil. Fukuoka meant it as a closed system needing no human inputs. After 25 years his farm matched the yields of Japan's most advanced farms. On slopes he grew trees and shrubs instead of building {{ref:soil-agri-073}} to stop erosion."
+  },
+  "soil-agri-145": {
+   "title": "Clay baked into bubbles",
+   "text": "Heat clay to about 1,200 °C in a rotary kiln and the gases trapped inside swell into thousands of tiny bubbles. The result is expanded clay aggregate, or LECA: light, porous pellets from 0.1 to 25 millimetres across, weighing 250 to 510 kg/m3. It extends the {{ref:soil-agri-031}} and starts from ordinary {{ref:soil-found-040}}. Mixed into heavy soil, it improves aeration and drainage. Blended with soil and peat, it resists compaction and holds water through drought. In hydroponics the round pellets air the roots while the clay soaks up water and nutrients. In semi-hydroponics a pot of LECA stands in a nutrient reservoir and wicks moisture up to the roots."
+  },
+  "soil-agri-147": {
+   "title": "Two harvests or twelve from one plot",
+   "text": "In the Garhwal Himalaya, farmers practicing barahnaja sow 12 or more crops on a single plot and harvest them at different times. That is multiple cropping at its fullest: growing two or more crops on the same land within one year. Crops grown together count as {{ref:soil-agri-133}}. Double-cropping plants a second crop once the first is harvested, a close cousin of {{ref:soil-agri-004}}. Relationships between crops can cut input costs and lower the risk of weeds, pests and disease. Water decides where it happens. Only 5% of global rainfed cropland is multiple cropped, against 40% of irrigated cropland."
+  },
+  "soil-agri-143": {
+   "title": "The soil fumigant that ate the ozone",
+   "text": "One small molecule of carbon, hydrogen and bromine long kept seed fields clean. Methyl bromide, CH3Br, was widely used as a fumigant and soil sterilant, mainly in seed production but also for strawberries and almonds. It was safer and more effective than some other sterilants. Its flaw lay in the sky: it releases bromine radicals that destroy ozone. The Montreal Protocol phased it out, and developed countries reached 100% reduction by 2005. Seed growers turned to {{ref:soil-agri-032}}, mechanical roguing and fallow seasons. Chemical substitutes include chloropicrin, 1,3-dichloropropene and methyl isothiocyanate, which spreads poorly through soil and needs far more irrigation to activate."
+  },
+  "soil-agri-152": {
+   "title": "When a field grows tired of its crop",
+   "text": "Plant the same crop year after year and the soil itself can seem to turn against it. Soil sickness is a decline in fertility and yield, often after long {{ref:soil-agri-053}}. It is marked by a shift in the balance of harmful and beneficial microbes around the roots, in the {{ref:soil-bio-143}}. The idea is old. In 1832 the Swiss botanist De Candolle suggested that substances exuded by crop plants caused it. Aged tea plantations show one mechanism: polyphenols build up in the soil, shift its microbial communities and erode {{ref:soil-fert-149}}."
+  },
+  "soil-agri-174": {
+   "title": "Setting the stubble alight",
+   "text": "After the rice or wheat harvest, a match is the cheapest plough. Stubble burning deliberately sets fire to the straw stubble left in the field, a quick way to dispose of {{ref:soil-agri-129}}. It clears land fast, helps fight pests and weeds and can reduce nitrogen tie-up. The costs come later. Burning wastes nutrients, and years of it kill beneficial soil microflora and fauna, cutting organic matter and upsetting the carbon–nitrogen balance. The smoke spreads particulate pollution, linked to lung cancer, respiratory infections and harm to people with chronic lung disease. The practice is illegal in India and Pakistan, though weakly enforced, and has effectively been banned in the United Kingdom since 1993. Alternatives exist. Spraying an enzyme that decomposes stubble into fertiliser improves the soil and spares the air. Residues can also become particle board or biofuel, though hauling them away can still cause erosion and nutrient loss."
+  },
+  "soil-agri-172": {
+   "title": "Angled discs that slice and lift",
+   "text": "A disc harrow is a {{ref:soil-agri-114}} whose cutting edges are rows of concave metal discs set at an angle. Each cupped disc runs offset from the direction of travel, so it slices the ground repeatedly and lifts what it cuts. Heavy primary models, at 120 to 454 kg per disc, break virgin land and work residue into the topsoil to speed its decay. Lighter ones break clods into a fine bed for seed. It is the preferred tool for mixing lime and gypsum into soil, reaching a 50/50 blend that lowers topsoil acid saturation. Since lime does not move in soil, zero-till farming faces a critical challenge."
+  },
+  "soil-agri-171": {
+   "title": "Ploughing below half a metre",
+   "text": "An ordinary {{ref:soil-agri-106}} rarely cuts below 20 cm. Deep ploughing goes deeper than 50 cm, aiming to change how the soil holds water for the long term. In a 35-year test, deep-ploughed plots averaged 3,138 kg of grain per hectare a year, 10% more than the 2,858 kg from unploughed ones. In soils such as Podzols it can shatter a {{ref:soil-form-025}} and help release nutrients, and it is sometimes advised before planting vineyards. Still, farming is moving away from ploughing, deep ploughing most of all, to save topsoil and organic matter. That same long study found that skipping the plough does not conserve ground moisture."
+  },
+  "soil-agri-175": {
+   "title": "Leaving the stubble standing",
+   "text": "The simplest cover for a resting field is the last crop's leftovers. Stubble mulching leaves stubble or {{ref:soil-agri-129}} in place on the surface during a {{ref:soil-agri-044}} period, a kind of {{ref:soil-fert-066}} the field grows for itself. That cover can keep wind and water from carrying soil away, and it conserves soil moisture until the next crop goes in."
+  },
+  "soil-agri-173": {
+   "title": "Tilling everything, burying only part",
+   "text": "Mulch tillage is a compromise between turning the soil and protecting it. The whole surface is tilled and {{ref:soil-agri-129}} is mixed in, but some residue stays on top as a {{ref:soil-fert-066}}. Farmers do it with a wide variety of cultivators. In the United States it counts as {{ref:soil-agri-099}}."
+  },
+  "soil-agri-176": {
+   "title": "Raising the root zone above the water",
+   "text": "Ridge tillage lifts the cultivated part of the soil profile away from the {{ref:soil-water-247}}. Raised above the water, the soil where crops root is better aerated, the benefit described in {{ref:soil-phys-150}}. It belongs to the {{ref:soil-agri-099}} family, alongside no-till, in-row subsoiling and strip-till. All of these aim to keep 30% or more of the surface covered with crop residue."
+  }
+ }
+}

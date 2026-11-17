@@ -1,0 +1,95 @@
+{
+ "entries": {
+  "soil-fert-115": {
+   "title": "Ammonia-oxidizing archaea, the overlooked majority",
+   "text": "Until 2005, bacteria were thought to be the only organisms that could oxidize ammonia. Ammonia-oxidizing archaea overturned that idea. These archaea, mainly of the group Nitrososphaerota, carry out the first step of {{ref:soil-fert-112}}, turning ammonia into nitrite. They outnumber ammonia-oxidizing bacteria in both soils and the sea, so they may do more of the work there. Crenarchaeol, a lipid thought to be made only by these archaea, has been proposed as a biomarker, a chemical fingerprint that reveals them."
+  },
+  "soil-fert-117": {
+   "title": "Proving that microbes make nitrate",
+   "text": "In 1862 Louis Pasteur suggested that turning ammonia into nitrate is a biological process. Proof came in 1877, when Schloesing and Müntz showed it was microbial, using sewage and sterilized sand. Robert Warington confirmed it in garden soil at the station in {{ref:soil-hist-053}} in 1878. In 1879 Warington first saw that nitrification, the process in {{ref:soil-fert-112}}, has two steps, and John Munro confirmed this in 1886. Percy and Grace Frankland probably isolated the first pure ammonia-oxidizing culture in 1890. Winogradsky succeeded in 1891."
+  },
+  "soil-fert-147": {
+   "title": "Nitrobacter, living on a thin energy margin",
+   "text": "Nitrobacter lives on scraps. Oxidizing nitrite to nitrate yields only −74 kJ per mole of nitrite, so its metabolism is highly specialized. This genus of rod-shaped, gram-negative bacteria performs the second step of {{ref:soil-fert-112}} in soil and the sea, and it fixes carbon dioxide through the Calvin cycle. All members are obligate aerobes with a doubling time of about 13 hours, so oxygen and phosphorus tend to limit them. Widespread in water and soil, it makes nitrate, a primary source of inorganic nitrogen for plants. It grows best at pH 7.3 to 7.5. Winogradsky named the genus in 1892."
+  },
+  "soil-fert-145": {
+   "title": "Bioavailability: the share living things can absorb",
+   "text": "Bioavailability is the amount of an element or compound in soil that an organism can actually take up across its cell membranes. Roots and soil organisms take up almost only dissolved substances. Sorbed or precipitated forms, described in {{ref:soil-chem-068}}, must dissolve again in the soil solution first. Soil pH, ion exchange capacity, organic matter, texture and porosity all shape it. Bioavailability also falls the longer a contaminant stays in contact with soil, an effect called ageing. In farm and environmental use, the term mostly concerns pollutants, for example when judging the risk of spreading sewage sludge."
+  },
+  "soil-fert-135": {
+   "title": "Dissimilatory sulfate reduction: breathing sulfate",
+   "text": "Where oxygen is gone, sulfate can stand in for it. In dissimilatory sulfate reduction, microbes use sulfate to oxidize organic compounds, chiefly organic acids, and reduce it to hydrogen sulfide. It is a form of {{ref:soil-chem-128}}. Without microbes, high temperature can do the same, a route called thermochemical reduction. Both give hydrogen sulfide, carbon dioxide, carbonates, sulfur and metal sulfides. Under reducing conditions these bacteria turn the sulfate of gypsum back into sulfide, and they deposit pyrite in sediments. Beijerinck isolated the first known sulfate reducer, now called Desulfovibrio desulfuricans."
+  },
+  "soil-fert-148": {
+   "title": "Sulfate reducers and the smell of the mudflat",
+   "text": "The rotten-egg smell of a mud flat comes from sulfate-reducing microorganisms. These bacteria and archaea respire without oxygen, using sulfate as the final electron acceptor and reducing it to hydrogen sulfide. They reduce large amounts for energy and expel the sulfide. Other organisms reduce only a little sulfate, to build cell parts. They help break down organic matter by oxidizing the organic acids and alcohols left by fermenting bacteria. Their sulfide reacts with metal ions to form insoluble black or brown sulfides such as ferrous sulfide. They are the main source of neurotoxic methylmercury in aquatic systems, and some have helped clean up contaminated soils."
+  },
+  "soil-fert-136": {
+   "title": "How coal and oil reshaped the sulfur cycle",
+   "text": "Mining coal and extracting petroleum mobilize 150 × 10^12 g of sulfur a year, more than double the rate of 100 years ago. Sulfur dioxide from this pollution forms sulfuric acid, which can drop rain pH to 4.3 or lower. Over the most polluted areas, sulfate deposition has risen 30-fold. Then the story turned. As pollution controls cut sulfur from the air, sulfur deficiency became widespread in many European countries. Sulfur is now increasingly added to fertilizers. Heavy nitrogen fertilizing on low-sulfur fields can also cause sulfur deficiency by dilution."
+  },
+  "soil-fert-134": {
+   "title": "Microbial sulfur oxidation: living on sulfide",
+   "text": "Some microbes run on rotten-egg gas. Microbial sulfur oxidation is the conversion of sulfide and elemental sulfur to sulfate by bacteria and archaea, often to gain energy. Aerobic sulfide oxidizers are usually autotrophs. They use the energy to fix carbon dioxide, the lifestyle described in {{ref:soil-bio-057}}. Intermediates include elemental sulfur and thiosulfate. At low oxygen, microbes stop at elemental sulfur and store it as globules. Photosynthetic green and purple sulfur bacteria, and some chemolithotrophs, oxidize hydrogen sulfide to elemental sulfur."
+  },
+  "soil-fert-137": {
+   "title": "The potassium cycle and the fields that drain it",
+   "text": "Crops take potassium from fields faster than weathering puts it back. So of the 32 Tg mined each year, about 28 Tg goes onto farmland, mostly as potassium chloride. The potassium cycle moves potassium through Earth's rocks, soils, living things, air and waters. With nitrogen and phosphorus, potassium is one of the three major nutrients plants need in large amounts, as {{ref:soil-fert-175}} described. It controls the opening of stomata, the pores in leaves. Potassium makes up 2.6% of Earth's crust, held in feldspar, biotite and muscovite. Chemical weathering supplies up to 11% of plant demand. Some plants and bacteria release organic acids that make soil potassium accessible, and plants can 'pump' it from deeper layers to the surface. It is the most abundant ion in plant cells. Because it exists only as the small, soluble K+ ion, it leaches from plants faster than nitrogen or phosphorus. It returns to the soil as plant matter decays, so leaving crop leftovers to decay on fields limits depletion. At current use, K2O reserves are expected to last 100 years. Leaching and erosion carry 1400 Tg of potassium a year to groundwater, rivers and oceans. The hydrosphere, Earth's water, is the largest potassium reservoir."
+  },
+  "soil-fert-131": {
+   "title": "Mining phosphorus faster than rocks can replace it",
+   "text": "From 1900 to 2022, global phosphate mining rose 72-fold. About 110 teragrams of phosphorus have been added to the environment since mining spread in the 1840s, speeding up {{ref:soil-fert-127}}. Most mined phosphorus becomes fertilizer, and at current rates the geological system cannot replace what is taken. Repeated excess applications of liquid hog manure harm the cycle, and treated sewage solids can raise available soil phosphorus. Over the last 40 years the N:P ratio has risen from 19:1 to 30:1, leaving phosphorus less available to ecosystems."
+  },
+  "soil-fert-130": {
+   "title": "Enzymes that free phosphorus from dead matter",
+   "text": "Plant growth depends on roots quickly taking up the phosphorus released from dead organic matter. Organic phosphorus mineralization is the breakdown of organic phosphorus compounds by enzymes into free phosphate that plants and microbes can use. Phosphatases, nucleases and phytase are among the enzymes involved, members of the group in {{ref:soil-bio-039}}. This hydrolysis, the splitting of molecules with water, is essential for plant and microbial nutrition, and it moves organic phosphorus from soil to water. Soil phosphatase activity can serve as an indicator of phosphorus mineralization potential and availability."
+  },
+  "soil-fert-118": {
+   "title": "Soil nitrous oxide: a greenhouse gas from microbes",
+   "text": "Most of a soil's yearly nitrous oxide can escape in a few short 'hot moments' or from small 'hotspots', which makes it hard to measure. Soil nitrous oxide emissions are the release of this gas as a by-product of {{ref:soil-fert-112}} and {{ref:soil-fert-108}}. Nitrous oxide is the third most important greenhouse gas for warming and a major ozone-depleting substance. Microbes make it by several routes: autotrophic nitrification, heterotrophic denitrification, nitrifier denitrification and fungal denitrification. A non-biological route, chemodenitrification, adds more. Output depends on the supply of mineral nitrogen and organic matter, acidity, soil type, soil temperature and water content. Soils under natural vegetation give 60% of naturally produced nitrous oxide. Farming adds more. Cultivation, fertilizer nitrogen and the handling of animal waste stimulate soil bacteria to produce the gas. Fertilized farm soils and livestock manure make up 42% of human emissions, and runoff and leaching of fertilizers another 25%. There are remedies. Modest additions of charred organic matter, the material in {{ref:soil-fert-050}}, can cut emissions by up to 80%."
+  },
+  "soil-fert-101": {
+   "title": "Nitrogenase, the costly enzyme that splits the air",
+   "text": "Each reaction of nitrogenase burns 16 ATP, the cell's energy currency, and wastes some as hydrogen gas. That makes fixation expensive. Nitrogenase is the enzyme complex that reduces nitrogen gas to ammonia in nitrogen-fixing microbes such as those in {{ref:soil-fert-102}}. It has two proteins: a catalytic MoFe protein and a reducing Fe protein that contains only iron. The nitrogen is converted at a metal cluster called FeMoco. Three forms carry molybdenum, iron or vanadium in the active site, and the molybdenum form is the most common. Oxygen rapidly destroys it. Many bacteria stop making it when oxygen is present, and cyanobacteria house it in special cells called heterocysts."
+  },
+  "soil-fert-120": {
+   "title": "Bacteria that eat methane by breathing nitrate",
+   "text": "In deep lakes such as Lake Constance, bacteria that burn methane with nitrate are a dominant methane sink. Denitrification-coupled methane oxidation is the oxygen-free oxidation of methane by denitrifying bacteria, which use the electrons to reduce nitrate. It removes methane and fixed nitrogen at once. First observed in 2008, it works in habitats from sediments to waterlogged peat and layered water columns. In Lake Constance it is the work of Methylomirabilis oxyfera-like bacteria. It can strip excess nitrate from fertilizer runoff even when oxygen is scarce."
+  },
+  "soil-fert-126": {
+   "title": "The nitrogen cascade: one atom, many harms",
+   "text": "The same nitrogen can cause trouble again and again. The nitrogen cascade is the passage of the same reactive nitrogen from one ecosystem to the next, with effects at each step. Most reactive nitrogen applied to farmland cascades through air, water and land until {{ref:soil-fert-108}} turns it back into nitrogen gas. That final microbial step matters, because the atmosphere is the ultimate sink for reactive nitrogen. Some systems store reactive nitrogen along the way, delaying the cascade and intensifying its local effects. Managed buffer strips and wet areas can remove much of the nitrate leaving farms, damping the cascade."
+  },
+  "soil-fert-124": {
+   "title": "Nitrogen deposition: fertilizer falling from the sky",
+   "text": "Reactive nitrogen falls from the sky. Nitrogen deposition is its arrival from the atmosphere onto land and water. It comes as nitrate, ammonium and organic nitrogen in rain and snow, as ammonia and nitric acid gases, or as fine aerosol particles of the salt in {{ref:soil-fert-071}}. More of it can acidify soils, streams and lakes and change forest and grassland productivity. Grasslands gain at first, then decline past critical thresholds. Extra nitrogen favours fast-growing plants that shade out slower ones, so species richness falls. On nitrogen-poor heathland, invading grasses replace heath. Ammonia and ammonium can also harm plants adapted to nitrate, stunting their roots and shoots."
+  },
+  "soil-fert-125": {
+   "title": "Nitrogen saturation: when a forest has too much",
+   "text": "At Harvard Forest, 15 years of added nitrogen brought more leaching, higher pine mortality and an end to biomass gain. Nitrogen saturation is the state in which available nitrogen exceeds what plants, soil and microbes can take up, so the excess is lost to water and air. At first, microbes often lock added nitrogen away, the process of {{ref:soil-fert-121}}. Whether extra nitrogen helps forests is still disputed: studies report both gains and losses in growth and carbon storage. Saturation can upset nutrient balance, for example as calcium leaches away with nitrate, and may lead to forest decline."
+  },
+  "soil-fert-110": {
+   "title": "Comammox: one microbe doing both shifts",
+   "text": "Nitrification was long thought to need two groups of microbes, one making nitrite from ammonia and another making nitrate from nitrite. A single organism doing both was predicted in 2006 and found in 2015, in the genus Nitrospira. This complete ammonia oxidation, or comammox, prompted an update to the nitrogen cycle. It pays. The full oxidation yields −349 kJ per mol of ammonia, more than ammonia oxidation at −275 kJ or nitrite oxidation at −74 kJ alone. Comammox occurs in freshwater, on land and in water-treatment systems, but its genes are not abundant in the oceans."
+  },
+  "soil-fert-109": {
+   "title": "Nitrate ammonification: keeping nitrogen in the soil",
+   "text": "Not every microbe that breathes nitrate sends the nitrogen away. Dissimilatory nitrate reduction to ammonium, also called nitrate ammonification, is a respiration without oxygen. Microbes oxidize organic matter and reduce nitrate to nitrite, then to ammonium. Unlike {{ref:soil-fert-108}}, which loses nitrogen as gas, it keeps nitrogen available as soluble ammonium, and the two groups of microbes compete for nitrate. It usually makes up about 15% of total nitrate reduction, favoured where organic carbon is plentiful relative to nitrate. Only organisms with the nrf gene can carry it out. Some nitrous oxide may still escape, more at higher pH."
+  },
+  "soil-fert-111": {
+   "title": "Anammox: ammonium straight to nitrogen gas",
+   "text": "Some bacteria turn ammonium and nitrite directly into nitrogen gas and water, with no oxygen and no organic carbon. This is anammox, short for anaerobic ammonium oxidation. Bacteria of the phylum Planctomycetota, first identified in 1999, do it inside a membrane-bound compartment called the anammoxosome. Unlike {{ref:soil-fert-108}}, it uses ammonium and nitrite directly and releases less nitrous oxide. It occurs in freshwater lakes, riverbanks and farm soils such as rice paddies. In the ocean it may account for 30–50% of the nitrogen lost."
+  },
+  "soil-fert-138": {
+   "title": "Soil potassium pools: mostly locked away",
+   "text": "Almost all soil potassium is out of a plant's reach. The soil holds it in three pools. Fixed potassium, locked in feldspar, mica and illite, makes up 96–99% of the total. Exchangeable potassium, held on clay particles and organic matter by {{ref:soil-chem-047}}, makes up 1–2%. Potassium dissolved in soil solution is the form plants absorb most readily, yet it is only 0.1–0.2% of the total. Soil potassium is most concentrated in the uppermost layers."
+  },
+  "soil-fert-132": {
+   "title": "Phosphate solubilizing bacteria: freeing locked phosphorus",
+   "text": "Coating seed with the right bacteria can replace half the phosphate fertilizer a crop needs. Seed inoculation can match 30 kg/ha P2O5, or 50 percent of the need. Phosphate solubilizing bacteria are beneficial soil bacteria that dissolve inorganic phosphate from insoluble compounds, the form described in {{ref:soil-fert-129}}. They release small organic acids whose hydroxyl and carboxyl groups grab the cations bound to phosphate, so it dissolves. Mycorrhizal fungi release oxalic acid, freeing phosphorus held by aluminium, iron and calcium. In the {{ref:soil-bio-143}}, this solubilizing is considered one of the most important traits for plant phosphate nutrition."
+  }
+ },
+ "reviews": {
+  "nutrient-cycles": "Matter in this chapter went round while energy passed through once, and microbes drove nearly every turn. Nitrogen showed the full loop: lightning, diazotrophs and the Haber–Bosch process fix it, ammonification and nitrification turn dead matter into ammonium and then nitrate, and denitrification returns it to the air. Phosphorus, with almost no gas phase, creeps from weathered apatite into soils that bind it tightly, while sulfur, iron and calcium shift between oxidized and reduced or dissolved and solid forms. Immobilization showed that microbes can compete with crops for the same nitrogen, and enzymes and solubilizing bacteria showed how locked nutrients are freed. People now push these cycles hard: fertilizer and fuel burning have more than doubled the flow of usable nitrogen, and phosphate mining has risen 72-fold since 1900."
+ }
+}

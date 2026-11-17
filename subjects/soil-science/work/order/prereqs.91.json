@@ -1,0 +1,952 @@
+{
+ "entries": {
+  "soil-phys-170": [
+   {
+    "id": "soil-phys-110",
+    "reason": "the test measures consolidation properties"
+   },
+   {
+    "id": "soil-phys-100",
+    "reason": "loading and deformation are read through effective stress"
+   },
+   {
+    "id": "soil-phys-073",
+    "reason": "deformation is recorded as change in void ratio"
+   }
+  ],
+  "soil-phys-171": [
+   {
+    "id": "soil-phys-172",
+    "reason": "pore structure describes the pores of a porous medium"
+   },
+   {
+    "id": "soil-phys-063",
+    "reason": "porosity is one of its components"
+   },
+   {
+    "id": "soil-phys-069",
+    "reason": "builds on pore space in soil"
+   },
+   {
+    "id": "soil-phys-174",
+    "reason": "tortuosity is one of its components"
+   }
+  ],
+  "soil-phys-172": [
+   {
+    "id": "soil-phys-063",
+    "reason": "a porous medium is defined by its pores and porosity"
+   }
+  ],
+  "soil-phys-173": [
+   {
+    "id": "soil-phys-172",
+    "reason": "defined for measurements on porous media"
+   },
+   {
+    "id": "soil-phys-063",
+    "reason": "porosity is the classic property measured over an REV"
+   }
+  ],
+  "soil-phys-174": [
+   {
+    "id": "soil-phys-172",
+    "reason": "tortuosity predicts transport through porous media"
+   },
+   {
+    "id": "soil-phys-063",
+    "reason": "path length depends on the pore network"
+   }
+  ],
+  "soil-phys-175": [
+   {
+    "id": "soil-phys-082",
+    "reason": "trampling acts on soil chiefly by compaction"
+   },
+   {
+    "id": "soil-phys-063",
+    "reason": "compaction by trampling reduces porosity"
+   }
+  ],
+  "soil-phys-176": [
+   {
+    "id": "soil-phys-136",
+    "reason": "soil strength is measured with a penetrometer"
+   },
+   {
+    "id": "soil-phys-100",
+    "reason": "resistance to deformation depends on effective stress"
+   }
+  ],
+  "soil-water-268": [
+   {
+    "id": "soil-water-274",
+    "reason": "aggradation is land rise from deposition"
+   },
+   {
+    "id": "soil-water-046",
+    "reason": "the deposited material is sediment"
+   },
+   {
+    "id": "soil-form-112",
+    "reason": "aggraded river sediment is alluvium"
+   }
+  ],
+  "soil-water-269": [
+   {
+    "id": "soil-water-002",
+    "reason": "badlands are deeply eroded terrain"
+   },
+   {
+    "id": "soil-water-027",
+    "reason": "gullying carves badland relief"
+   },
+   {
+    "id": "soil-form-136",
+    "reason": "they form in soft sedimentary rocks"
+   },
+   {
+    "id": "soil-found-040",
+    "reason": "clay-rich soils are part of the definition"
+   }
+  ],
+  "soil-water-270": [
+   {
+    "id": "soil-water-006",
+    "reason": "bank erosion is a form of river and stream erosion"
+   },
+   {
+    "id": "soil-water-002",
+    "reason": "it is wearing away by erosion"
+   }
+  ],
+  "soil-water-271": [
+   {
+    "id": "soil-water-002",
+    "reason": "corrasion is mechanical erosion"
+   },
+   {
+    "id": "soil-water-048",
+    "reason": "the agent is material dragged along by moving fluids"
+   }
+  ],
+  "soil-water-272": [
+   {
+    "id": "soil-water-002",
+    "reason": "denudation sums erosional processes"
+   },
+   {
+    "id": "soil-found-052",
+    "reason": "weathering is part of denudation"
+   },
+   {
+    "id": "soil-water-053",
+    "reason": "downslope movement is included"
+   }
+  ],
+  "soil-water-273": [
+   {
+    "id": "soil-water-272",
+    "reason": "measures the rate of denudation"
+   }
+  ],
+  "soil-water-274": [
+   {
+    "id": "soil-water-046",
+    "reason": "deposition adds sediment to landforms"
+   }
+  ],
+  "soil-water-275": [
+   {
+    "id": "soil-water-274",
+    "reason": "sedimentation is settling that ends in deposition"
+   },
+   {
+    "id": "soil-water-046",
+    "reason": "the particles settled are sediment"
+   },
+   {
+    "id": "soil-phys-188",
+    "reason": "settling velocity follows Stokes's law"
+   }
+  ],
+  "soil-water-276": [
+   {
+    "id": "soil-water-046",
+    "reason": "entrainment picks up surface sediment"
+   },
+   {
+    "id": "soil-water-048",
+    "reason": "it begins sediment transport"
+   },
+   {
+    "id": "soil-water-002",
+    "reason": "it is a stage of erosion"
+   }
+  ],
+  "soil-water-277": [
+   {
+    "id": "soil-water-048",
+    "reason": "fluvial processes are sediment transport by rivers"
+   },
+   {
+    "id": "soil-water-274",
+    "reason": "includes deposition"
+   },
+   {
+    "id": "soil-water-006",
+    "reason": "includes river erosion"
+   }
+  ],
+  "soil-water-278": [
+   {
+    "id": "soil-water-027",
+    "reason": "headward erosion lengthens gullies and channels"
+   },
+   {
+    "id": "soil-water-006",
+    "reason": "it is stream-channel erosion"
+   }
+  ],
+  "soil-water-279": [
+   {
+    "id": "soil-water-057",
+    "reason": "about why landslides happen"
+   },
+   {
+    "id": "soil-water-064",
+    "reason": "causes reduce slope stability"
+   },
+   {
+    "id": "soil-water-053",
+    "reason": "landslides are mass wasting"
+   }
+  ],
+  "soil-water-280": [
+   {
+    "id": "soil-water-279",
+    "reason": "rain is the main landslide trigger"
+   },
+   {
+    "id": "soil-phys-098",
+    "reason": "rain raises pore water pressure"
+   },
+   {
+    "id": "soil-water-057",
+    "reason": "a kind of landslide"
+   }
+  ],
+  "soil-water-281": [
+   {
+    "id": "soil-water-035",
+    "reason": "mineral dust is a kind of dust"
+   },
+   {
+    "id": "soil-water-010",
+    "reason": "it is raised by wind erosion"
+   },
+   {
+    "id": "soil-found-029",
+    "reason": "made of suspended soil minerals"
+   }
+  ],
+  "soil-water-282": [
+   {
+    "id": "soil-water-048",
+    "reason": "used to describe the flow driving sediment transport"
+   }
+  ],
+  "soil-water-283": [
+   {
+    "id": "soil-water-276",
+    "reason": "predicts the onset of sediment entrainment"
+   },
+   {
+    "id": "soil-water-048",
+    "reason": "threshold of sediment motion"
+   },
+   {
+    "id": "soil-water-282",
+    "reason": "uses bed shear stress expressed as shear velocity"
+   }
+  ],
+  "soil-water-284": [
+   {
+    "id": "soil-water-046",
+    "reason": "siltation is pollution by fine sediment"
+   },
+   {
+    "id": "soil-phys-013",
+    "reason": "the particles are silt"
+   },
+   {
+    "id": "soil-found-040",
+    "reason": "and clay"
+   },
+   {
+    "id": "soil-water-275",
+    "reason": "includes unwanted fine deposits settled on the bottom"
+   }
+  ],
+  "soil-water-285": [
+   {
+    "id": "soil-water-048",
+    "reason": "stream power drives sediment transport"
+   },
+   {
+    "id": "soil-water-006",
+    "reason": "it is the energy spent on bed and banks"
+   }
+  ],
+  "soil-water-286": [
+   {
+    "id": "soil-water-048",
+    "reason": "suspended load is part of sediment transport"
+   },
+   {
+    "id": "soil-water-046",
+    "reason": "it is the sediment held in the flow"
+   },
+   {
+    "id": "soil-phys-013",
+    "reason": "silt is typically carried in suspension"
+   }
+  ],
+  "soil-water-287": [
+   {
+    "id": "soil-water-010",
+    "reason": "it estimates soil loss to wind"
+   },
+   {
+    "id": "soil-water-045",
+    "reason": "field erodibility is a model input"
+   }
+  ],
+  "soil-water-288": [
+   {
+    "id": "soil-water-107",
+    "reason": "SWAT is a hydrological transport model"
+   },
+   {
+    "id": "soil-phys-207",
+    "reason": "it simulates catchment hydrology"
+   }
+  ],
+  "soil-water-289": [
+   {
+    "id": "soil-water-100",
+    "reason": "piping is internal erosion by seepage"
+   },
+   {
+    "id": "soil-phys-125",
+    "reason": "driven by seeping water"
+   }
+  ],
+  "soil-water-290": [
+   {
+    "id": "soil-water-019",
+    "reason": "the strip intercepts runoff"
+   },
+   {
+    "id": "soil-water-051",
+    "reason": "it is a sediment control measure"
+   }
+  ],
+  "soil-water-291": [
+   {
+    "id": "soil-water-041",
+    "reason": "RUSLE revises the USLE"
+   }
+  ],
+  "soil-water-292": [
+   {
+    "id": "soil-water-048",
+    "reason": "yield is the sediment a river carries away"
+   },
+   {
+    "id": "soil-water-001",
+    "reason": "it measures watershed erosion"
+   }
+  ],
+  "soil-agri-143": [
+   {
+    "id": "soil-agri-032",
+    "reason": "another way of sterilizing soil"
+   }
+  ],
+  "soil-agri-144": [
+   {
+    "id": "soil-agri-013",
+    "reason": "defined as farming without irrigation"
+   },
+   {
+    "id": "soil-water-155",
+    "reason": "relies on stored soil moisture"
+   },
+   {
+    "id": "soil-class-148",
+    "reason": "practised in arid climates"
+   }
+  ],
+  "soil-agri-145": [
+   {
+    "id": "soil-agri-031",
+    "reason": "LECA is a soilless growing substrate"
+   },
+   {
+    "id": "soil-found-040",
+    "reason": "made by firing clay"
+   }
+  ],
+  "soil-agri-146": [
+   {
+    "id": "soil-agri-004",
+    "reason": "defined in contrast to crop rotation"
+   }
+  ],
+  "soil-agri-147": [
+   {
+    "id": "soil-agri-004",
+    "reason": "multiple cropping sequences crops on one field"
+   },
+   {
+    "id": "soil-agri-133",
+    "reason": "intercropping is a form of it"
+   }
+  ],
+  "soil-agri-148": [
+   {
+    "id": "soil-agri-135",
+    "reason": "an ecological, organic approach"
+   },
+   {
+    "id": "soil-agri-117",
+    "reason": "do-nothing farming avoids tillage"
+   },
+   {
+    "id": "soil-agri-151",
+    "reason": "framed as sustainable farming"
+   }
+  ],
+  "soil-agri-149": [
+   {
+    "id": "soil-agri-044",
+    "reason": "plots are left to fallow regrowth"
+   }
+  ],
+  "soil-agri-150": [
+   {
+    "id": "soil-agri-149",
+    "reason": "a form of shifting cultivation"
+   }
+  ],
+  "soil-agri-151": [
+   {
+    "id": "soil-agri-059",
+    "reason": "sustaining resources rests on soil conservation"
+   },
+   {
+    "id": "soil-agri-004",
+    "reason": "crop rotation is a core practice"
+   }
+  ],
+  "soil-agri-152": [
+   {
+    "id": "soil-agri-053",
+    "reason": "soil sickness follows long-term monocropping"
+   },
+   {
+    "id": "soil-bio-143",
+    "reason": "marked by shifts in root-zone microbes"
+   },
+   {
+    "id": "soil-fert-149",
+    "reason": "it is a decline in soil fertility"
+   }
+  ],
+  "soil-fert-205": [
+   {
+    "id": "soil-fert-001",
+    "reason": "defined as not a fertilizer"
+   },
+   {
+    "id": "soil-bio-245",
+    "reason": "many act through plant hormones"
+   },
+   {
+    "id": "soil-fert-048",
+    "reason": "overlaps with microbial biofertilizers"
+   }
+  ],
+  "soil-fert-206": [
+   {
+    "id": "soil-fert-008",
+    "reason": "DAP is a phosphate fertilizer"
+   },
+   {
+    "id": "soil-fert-007",
+    "reason": "it also supplies ammonium nitrogen"
+   }
+  ],
+  "soil-fert-207": [
+   {
+    "id": "soil-fert-042",
+    "reason": "ecosan is safe reuse of human excreta"
+   },
+   {
+    "id": "soil-fert-146",
+    "reason": "it closes the nutrient loop"
+   }
+  ],
+  "soil-fert-208": [
+   {
+    "id": "soil-fert-001",
+    "reason": "fertilizers are injected"
+   },
+   {
+    "id": "soil-agri-013",
+    "reason": "into an irrigation system"
+   }
+  ],
+  "soil-fert-209": [
+   {
+    "id": "soil-fert-024",
+    "reason": "guano is an animal manure"
+   },
+   {
+    "id": "soil-fert-001",
+    "reason": "used as fertilizer"
+   }
+  ],
+  "soil-fert-210": [
+   {
+    "id": "soil-fert-209",
+    "reason": "an era of guano export"
+   }
+  ],
+  "soil-fert-211": [
+   {
+    "id": "soil-fert-024",
+    "reason": "liquid manure is animal manure"
+   },
+   {
+    "id": "soil-fert-001",
+    "reason": "used as fertilizer"
+   }
+  ],
+  "soil-fert-212": [
+   {
+    "id": "soil-fert-181",
+    "reason": "budgets nutrients applied and removed"
+   },
+   {
+    "id": "soil-fert-192",
+    "reason": "a tool of nutrient management"
+   },
+   {
+    "id": "soil-fert-001",
+    "reason": "fertilizer is the main input"
+   }
+  ],
+  "soil-fert-213": [
+   {
+    "id": "soil-fert-008",
+    "reason": "a by-product of phosphate fertilizer manufacture"
+   },
+   {
+    "id": "soil-fert-095",
+    "reason": "made from phosphate rock"
+   },
+   {
+    "id": "soil-chem-044",
+    "reason": "it is mainly gypsum"
+   }
+  ],
+  "soil-fert-214": [
+   {
+    "id": "soil-fert-009",
+    "reason": "polyhalite is a potassium fertilizer"
+   }
+  ],
+  "soil-fert-215": [
+   {
+    "id": "soil-found-014",
+    "reason": "its calcium compounds raise soil pH"
+   },
+   {
+    "id": "soil-fert-055",
+    "reason": "it acts as a liming material"
+   }
+  ],
+  "soil-fert-216": [
+   {
+    "id": "soil-fert-005",
+    "reason": "converts the values on the NPK label"
+   }
+  ],
+  "soil-fert-217": [
+   {
+    "id": "soil-fert-001",
+    "reason": "placement of fertilizer"
+   },
+   {
+    "id": "soil-fert-192",
+    "reason": "part of managing nutrient use efficiency"
+   }
+  ],
+  "soil-hist-084": [
+   {
+    "id": "soil-found-077",
+    "reason": "earth materials such as soil are the evidence"
+   }
+  ],
+  "soil-hist-085": [
+   {
+    "id": "soil-hist-084",
+    "reason": "a core forensic geology method"
+   },
+   {
+    "id": "soil-found-025",
+    "reason": "soil colour is compared"
+   },
+   {
+    "id": "soil-phys-018",
+    "reason": "particle-size distribution is compared"
+   }
+  ],
+  "soil-hist-086": [
+   {
+    "id": "soil-hist-132",
+    "reason": "applies palynology"
+   },
+   {
+    "id": "soil-hist-084",
+    "reason": "as forensic trace evidence"
+   }
+  ],
+  "soil-hist-087": [
+   {
+    "id": "soil-hist-084",
+    "reason": "forensic use of earth evidence"
+   },
+   {
+    "id": "soil-hist-095",
+    "reason": "uses archaeological stratigraphic excavation"
+   }
+  ],
+  "soil-hist-088": [
+   {
+    "id": "soil-bio-115",
+    "reason": "taphonomy studies decay"
+   }
+  ],
+  "soil-hist-089": [
+   {
+    "id": "soil-hist-088",
+    "reason": "geotaphonomy extends taphonomy to the burial environment"
+   },
+   {
+    "id": "soil-bio-115",
+    "reason": "the body is decomposing"
+   },
+   {
+    "id": "soil-found-014",
+    "reason": "burial alters soil pH"
+   }
+  ],
+  "soil-hist-090": [
+   {
+    "id": "soil-bio-011",
+    "reason": "eDNA is a soil microbiology tool"
+   },
+   {
+    "id": "soil-bio-221",
+    "reason": "sequenced by metagenomics"
+   }
+  ],
+  "soil-hist-091": [
+   {
+    "id": "soil-meth-014",
+    "reason": "GPR is a geophysical survey technique"
+   },
+   {
+    "id": "soil-meth-015",
+    "reason": "so is resistivity"
+   },
+   {
+    "id": "soil-hist-093",
+    "reason": "magnetic methods are another"
+   },
+   {
+    "id": "soil-phys-042",
+    "reason": "resistivity depends on soil properties"
+   }
+  ],
+  "soil-hist-092": [
+   {
+    "id": "soil-found-095",
+    "reason": "applies pedology and the geosciences"
+   },
+   {
+    "id": "soil-water-295",
+    "reason": "geomorphology is a core geoscience used"
+   },
+   {
+    "id": "soil-water-046",
+    "reason": "studies site sediments"
+   }
+  ],
+  "soil-hist-093": [
+   {
+    "id": "soil-chem-163",
+    "reason": "iron oxides control soil magnetism"
+   },
+   {
+    "id": "soil-form-042",
+    "reason": "soil formation enhances magnetic minerals"
+   }
+  ],
+  "soil-hist-094": [
+   {
+    "id": "soil-fert-127",
+    "reason": "soil phosphate behaviour follows the phosphorus cycle"
+   },
+   {
+    "id": "soil-hist-092",
+    "reason": "a geoarchaeological method"
+   }
+  ],
+  "soil-hist-095": [
+   {
+    "id": "soil-hist-096",
+    "reason": "stratigraphy rests on superposition"
+   },
+   {
+    "id": "soil-found-001",
+    "reason": "layers are compared with soil horizons"
+   }
+  ],
+  "soil-hist-096": [
+   {
+    "id": "soil-form-136",
+    "reason": "describes layered sedimentary sequences"
+   }
+  ],
+  "soil-hist-097": [
+   {
+    "id": "soil-hist-098",
+    "reason": "cropmarks are the crop counterpart of soil marks"
+   }
+  ],
+  "soil-hist-098": [
+   {
+    "id": "soil-found-025",
+    "reason": "a soil mark is a difference in soil colour"
+   }
+  ],
+  "soil-hist-099": [
+   {
+    "id": "soil-agri-106",
+    "reason": "traces of ploughed field systems"
+   },
+   {
+    "id": "soil-agri-081",
+    "reason": "bounded by lynchets"
+   }
+  ],
+  "soil-hist-100": [
+   {
+    "id": "soil-agri-106",
+    "reason": "ridges are left by ploughing"
+   }
+  ],
+  "soil-hist-101": [
+   {
+    "id": "soil-water-214",
+    "reason": "raised fields control moisture by ditch drainage"
+   }
+  ],
+  "soil-hist-102": [
+   {
+    "id": "soil-bio-114",
+    "reason": "middens accumulate organic waste"
+   }
+  ],
+  "soil-form-154": [
+   {
+    "id": "soil-found-040",
+    "reason": "varnish is largely clay minerals"
+   },
+   {
+    "id": "soil-form-134",
+    "reason": "coats exposed rock"
+   },
+   {
+    "id": "soil-class-148",
+    "reason": "found in arid environments"
+   }
+  ],
+  "soil-env-313": [
+   {
+    "id": "soil-env-096",
+    "reason": "rangeland management prevents overgrazing"
+   },
+   {
+    "id": "soil-env-095",
+    "reason": "and grassland degradation"
+   }
+  ],
+  "soil-agri-177": [
+   {
+    "id": "soil-agri-082",
+    "reason": "site productivity is assessed in survey"
+   },
+   {
+    "id": "soil-agri-084",
+    "reason": "site index is mapped with soils"
+   }
+  ],
+  "soil-agri-178": [
+   {
+    "id": "soil-agri-177",
+    "reason": "they produce the site index"
+   }
+  ],
+  "soil-hist-103": [
+   {
+    "id": "soil-bio-089",
+    "reason": "he supported the humus theory"
+   },
+   {
+    "id": "soil-fert-156",
+    "reason": "a theory of plant nutrition"
+   }
+  ],
+  "soil-hist-104": [
+   {
+    "id": "soil-bio-040",
+    "reason": "his soil work was on earthworms"
+   }
+  ],
+  "soil-hist-105": [
+   {
+    "id": "soil-phys-059",
+    "reason": "he worked as a soil physicist"
+   },
+   {
+    "id": "soil-water-172",
+    "reason": "known for capillary potential"
+   },
+   {
+    "id": "soil-water-193",
+    "reason": "and unsaturated conductivity"
+   },
+   {
+    "id": "soil-phys-146",
+    "reason": "and soil gas movement"
+   }
+  ],
+  "soil-hist-106": [
+   {
+    "id": "soil-fert-079",
+    "reason": "he improved soils with marl"
+   },
+   {
+    "id": "soil-fert-055",
+    "reason": "as liming against acidity"
+   },
+   {
+    "id": "soil-found-014",
+    "reason": "soil acidity is the problem he addressed"
+   },
+   {
+    "id": "soil-agri-004",
+    "reason": "he promoted crop rotation"
+   }
+  ],
+  "soil-hist-107": [
+   {
+    "id": "soil-found-095",
+    "reason": "pedologist"
+   },
+   {
+    "id": "soil-agri-082",
+    "reason": "mapped Wisconsin's soils"
+   }
+  ],
+  "soil-hist-108": [
+   {
+    "id": "soil-hist-053",
+    "reason": "his career was at Rothamsted"
+   },
+   {
+    "id": "soil-hist-074",
+    "reason": "partner of Lawes"
+   },
+   {
+    "id": "soil-hist-004",
+    "reason": "engaged with Liebig's theories"
+   }
+  ],
+  "soil-hist-109": [
+   {
+    "id": "soil-chem-084",
+    "reason": "founded colloidal soil chemistry"
+   },
+   {
+    "id": "soil-chem-047",
+    "reason": "known for cation exchange work"
+   },
+   {
+    "id": "soil-chem-076",
+    "reason": "a soil chemist"
+   }
+  ],
+  "soil-hist-110": [
+   {
+    "id": "soil-fert-156",
+    "reason": "pioneer of plant nutrition and photosynthesis"
+   }
+  ],
+  "soil-hist-111": [
+   {
+    "id": "soil-fert-099",
+    "reason": "wrote on the nitrogen cycle"
+   },
+   {
+    "id": "soil-found-090",
+    "reason": "a soil scientist"
+   }
+  ],
+  "soil-hist-112": [
+   {
+    "id": "soil-agri-082",
+    "reason": "led the forerunner of the soil survey"
+   }
+  ],
+  "soil-hist-113": [
+   {
+    "id": "soil-hist-001",
+    "reason": "worked with Dokuchaev"
+   },
+   {
+    "id": "soil-found-095",
+    "reason": "Russian school of pedology"
+   }
+  ],
+  "soil-hist-114": [
+   {
+    "id": "soil-fert-149",
+    "reason": "they track yield and fertility trends"
+   },
+   {
+    "id": "soil-fert-001",
+    "reason": "test fertilizer regimes"
+   },
+   {
+    "id": "soil-agri-151",
+    "reason": "to judge sustainability"
+   }
+  ]
+ }
+}

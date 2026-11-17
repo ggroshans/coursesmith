@@ -1,0 +1,660 @@
+{
+ "questions": {
+  "soil-found-048": {
+   "q": "Which three elements make up most of the dry weight of plant debris, and how much of it?",
+   "a": "Carbon, oxygen and hydrogen, which together make up about 92% of the dry weight.",
+   "sent_ids": [
+    "ac8f6b0de4ae",
+    "38702fe47345"
+   ]
+  },
+  "soil-found-017": {
+   "q": "How does plant species diversity tend to change across the soil pH range, and why?",
+   "a": "It tends to increase from pH 3.5 toward pH 9, because there are more calcicole species, which prefer lime-rich soils, than calcifuge species, which prefer acid ones.",
+   "sent_ids": [
+    "8299792cc3b2",
+    "68946dcafb43",
+    "9cf18dc113cd"
+   ]
+  },
+  "soil-form-147": {
+   "q": "Why does limestone erode into karst landscapes?",
+   "a": "It is partly soluble, especially in acid: water and organic acid from the soil slowly widen its joints over thousands or millions of years, dissolving the calcium carbonate into pavements, caves and gorges.",
+   "sent_ids": [
+    "820a621afc4d",
+    "18b79f795b5c",
+    "c038969968c8",
+    "14925032188d"
+   ]
+  },
+  "soil-form-103": {
+   "q": "What materials make up superficial deposits, and how do they usually lie onshore?",
+   "a": "Mostly gravel, sand, silt and clay, forming relatively thin, often discontinuous patches.",
+   "sent_ids": [
+    "cef9b2acdeb4"
+   ]
+  },
+  "soil-form-107": {
+   "q": "How did periglacial loess come to be deposited?",
+   "a": "As meltwater dwindled each autumn and winter, bare floodplains dried and wind winnowed their glacially ground silt and clay, depositing it downwind.",
+   "sent_ids": [
+    "00fdf037bbd4",
+    "8a5219b40cb8",
+    "55587b1a684e",
+    "273d853b24df"
+   ]
+  },
+  "soil-form-008": {
+   "q": "What is bioturbation in the A horizon?",
+   "a": "The mixing of organic matter into the mineral matter by burrowing animals.",
+   "sent_ids": [
+    "8cd9f8827f03"
+   ]
+  },
+  "soil-form-118": {
+   "q": "Besides a mollic epipedon, what must a Mollisol have, and where are Mollisols common?",
+   "a": "A base saturation above 50%; they are common in grasslands.",
+   "sent_ids": [
+    "f530a17f8cde"
+   ]
+  },
+  "soil-form-125": {
+   "q": "How does primary succession differ from secondary succession?",
+   "a": "Primary succession colonizes new surfaces with no life, such as bare rock, lava flows or freshly exposed till; secondary succession follows a disturbance.",
+   "sent_ids": [
+    "d734178b9d06",
+    "e8ef66e08e1d",
+    "5edf7af86c97"
+   ]
+  },
+  "soil-phys-001": {
+   "q": "What determines soil structure?",
+   "a": "How individual particles clump, bind and aggregate, which in turn sets the pattern of pores between them.",
+   "sent_ids": [
+    "f0109415efe2"
+   ]
+  },
+  "soil-phys-030": {
+   "q": "How does gilgai form in Vertisols?",
+   "a": "Repeated shrinking and swelling churns the soil and heaves underlying material to the surface.",
+   "sent_ids": [
+    "ff7a09464ba8",
+    "84f410c781fa"
+   ]
+  },
+  "soil-phys-118": {
+   "q": "What kind of fluid is quicksand, and how does it respond to stress?",
+   "a": "A shear-thinning non-Newtonian fluid: undisturbed it looks solid, but a change in stress of less than 1% suddenly lowers its viscosity.",
+   "sent_ids": [
+    "ac4a1ff06c1a"
+   ]
+  },
+  "soil-phys-099": {
+   "q": "How does heavy rain affect slope stability through matric suction?",
+   "a": "Raising infiltration lowers matric suction along the soil water characteristic curve, cutting the soil's shear strength and slope stability.",
+   "sent_ids": [
+    "9546c0809600"
+   ]
+  },
+  "soil-phys-175": {
+   "q": "How does recreational trampling change alpine soils?",
+   "a": "It raises bulk density and lowers porosity, altering soil moisture and temperature and increasing runoff and erosion.",
+   "sent_ids": [
+    "e3472158eac3"
+   ]
+  },
+  "soil-water-156": {
+   "q": "Over what suction range does saturated flow occur, and what drives it?",
+   "a": "Between 0 and 33 kPa suction, up to field capacity, with gravity and differences in water pressure pushing water away from where it was applied.",
+   "sent_ids": [
+    "d811cae456fc"
+   ]
+  },
+  "soil-water-195": {
+   "q": "How is hydraulic conductivity found in a constant-head test?",
+   "a": "The volume of water passing in a set time is measured, and K follows by rearranging Darcy's law with the specimen's length, cross-section and head.",
+   "sent_ids": [
+    "53f2aa6611c5",
+    "92038e88e826"
+   ]
+  },
+  "soil-water-176": {
+   "q": "What do the parameters α and n describe in the van Genuchten model?",
+   "a": "α relates to the inverse of the air-entry suction, and n, greater than 1, measures the pore-size distribution.",
+   "sent_ids": [
+    "5c3e42ecf9c3",
+    "c7e2b16661d9"
+   ]
+  },
+  "soil-water-157": {
+   "q": "By how much can tree roots raise infiltration rates through preferential flow?",
+   "a": "Up to 27 times, because living or dead roots open preferential channels for rainwater.",
+   "sent_ids": [
+    "9f202c55caca"
+   ]
+  },
+  "soil-phys-202": {
+   "q": "How do confined aquifers store water, and how large are their storativities?",
+   "a": "By matrix expansion and water compressibility, with storativities far below 0.01 and as low as 10−5.",
+   "sent_ids": [
+    "2f84d7f99914"
+   ]
+  },
+  "soil-phys-200": {
+   "q": "When was fluorescein first developed, and what is its sodium salt called?",
+   "a": "In 1871; its sodium salt is uranine, and both remain among the best dye tracers.",
+   "sent_ids": [
+    "1c4ac8189fbb",
+    "7b46c77d4685",
+    "d3167eb4e64b"
+   ]
+  },
+  "soil-phys-160": {
+   "q": "How large are frost boils, and where do they occur?",
+   "a": "Typically 1 to 3 metres across, in periglacial or alpine areas with permafrost.",
+   "sent_ids": [
+    "b423eaad0591",
+    "2217b597c829",
+    "07e5f4128faa"
+   ]
+  },
+  "soil-chem-187": {
+   "q": "Who derived the Goldich dissolution series, and when?",
+   "a": "S. S. Goldich, in 1938, after studying soil profiles and their parent rocks.",
+   "sent_ids": [
+    "c077c20a10c6"
+   ]
+  },
+  "soil-chem-095": {
+   "q": "How does vermiculite form from biotite or phlogopite?",
+   "a": "By weathering or hydrothermal alteration: the micas lose the potassium between their sheets, which is replaced by magnesium and iron.",
+   "sent_ids": [
+    "03039fa9b0eb",
+    "2ab3ff785290"
+   ]
+  },
+  "soil-chem-158": {
+   "q": "What are the two fates of growing agglomerates during particle aggregation?",
+   "a": "They settle out as sediment, or in concentrated suspensions link into a colloidal gel.",
+   "sent_ids": [
+    "8b9b0d435a07",
+    "8f02bc6128fb"
+   ]
+  },
+  "soil-chem-102": {
+   "q": "Which minerals are products sold as fuller's earth usually made of?",
+   "a": "Palygorskite (attapulgite) or bentonite.",
+   "sent_ids": [
+    "9d585b3acc75",
+    "de9061b2fad8",
+    "694f67b7f680"
+   ]
+  },
+  "soil-chem-051": {
+   "q": "Which exchanger cations are frequently used to measure cation-exchange capacity?",
+   "a": "Barium (Ba2+) and ammonium (NH4+).",
+   "sent_ids": [
+    "a85cebd316f3"
+   ]
+  },
+  "soil-chem-177": {
+   "q": "Name some substances in soil that can act as electron donors.",
+   "a": "Soil organic matter, petroleum hydrocarbons, less chlorinated solvents such as vinyl chloride, and reduced inorganic compounds.",
+   "sent_ids": [
+    "1c2dd37422c3"
+   ]
+  },
+  "soil-chem-005": {
+   "q": "Which nitrogen fertilizers do not acidify the soil?",
+   "a": "Nitrate sources with little or no ammonium, such as calcium, magnesium, potassium and sodium nitrate.",
+   "sent_ids": [
+    "e37fe51e2d61"
+   ]
+  },
+  "soil-chem-033": {
+   "q": "How is net acidity calculated in acid base accounting?",
+   "a": "Potential sulfidic acidity plus titratable actual acidity plus retained acidity, minus the acid neutralising capacity, in mol H+ per tonne of dry soil.",
+   "sent_ids": [
+    "0168d43054f0",
+    "83dc9cd73d56"
+   ]
+  },
+  "soil-bio-044": {
+   "q": "Which earthworms are usually used in vermicomposting?",
+   "a": "The brandling worm Eisenia fetida or Eisenia andrei, which live in manure heaps rather than soil.",
+   "sent_ids": [
+    "a23d5b2b5613",
+    "d5f91638d231",
+    "9df6a14e20a8"
+   ]
+  },
+  "soil-bio-013": {
+   "q": "How do soil algae survive below the surface, out of the light?",
+   "a": "Given steady temperature and moisture, they feed heterotrophically on easy carbon sources such as glucose.",
+   "sent_ids": [
+    "591cee351fc4"
+   ]
+  },
+  "soil-bio-229": {
+   "q": "Why do many northern forests of North America have a deep detritus layer that invasive earthworms can disrupt?",
+   "a": "Most northern forests lost their native earthworms to the Wisconsin glaciation, so a deep detritus layer is typical and many native plants rely on it.",
+   "sent_ids": [
+    "deb892850bfa",
+    "1da66859d805"
+   ]
+  },
+  "soil-bio-214": {
+   "q": "How much soil do small burrowers such as ants, termites and earthworms move worldwide?",
+   "a": "So much that the global total matches the global rate of tectonic uplift.",
+   "sent_ids": [
+    "b883b1da3593",
+    "424cec8448f3"
+   ]
+  },
+  "soil-bio-187": {
+   "q": "Which way do roots move water during drought in hydraulic redistribution?",
+   "a": "Groundwater is drawn up the taproot and released from the lateral roots into the dry surface soil; under flooding, roots move water the other way.",
+   "sent_ids": [
+    "7fb2a424b3d6",
+    "489393725b4c"
+   ]
+  },
+  "soil-bio-176": {
+   "q": "Where do ericoid mycorrhizal fungi trade nutrients with the plant, and how long do these sites last?",
+   "a": "In coils inside the epidermal cells of fine hair roots, where soil nutrients are traded for plant sugars; the coils work for only a few weeks before degrading.",
+   "sent_ids": [
+    "058a590e3a81",
+    "9c2692800465",
+    "535d5f205f83"
+   ]
+  },
+  "soil-bio-246": {
+   "q": "Which genera of mycorrhiza helper bacteria are most commonly reported?",
+   "a": "Pseudomonas and Streptomyces; Bacillus is another.",
+   "sent_ids": [
+    "b22d5b22eb8e",
+    "b86945aae74e",
+    "9e218f985948"
+   ]
+  },
+  "soil-bio-093": {
+   "q": "Why has much humus persisted for more than 100 years?",
+   "a": "It is hidden inside small soil aggregates or tightly sorbed or complexed to clays, out of reach of microbes and enzymes.",
+   "sent_ids": [
+    "db6cf77fbb7d"
+   ]
+  },
+  "soil-bio-098": {
+   "q": "On what substrates do tangel and mor humus each develop in cold, humid mountains?",
+   "a": "Tangel develops on alkaline substrates and mor on acidic ones.",
+   "sent_ids": [
+    "c0ace127a39c"
+   ]
+  },
+  "soil-bio-256": {
+   "q": "What reaction does acid phosphatase catalyse, and at what pH does it work best?",
+   "a": "It hydrolyses a phosphate monoester with water to give an alcohol and phosphate, at an optimum pH below 7.",
+   "sent_ids": [
+    "ebaac450f278",
+    "3b579283f686"
+   ]
+  },
+  "soil-class-003": {
+   "q": "Why are natural soil classes useful?",
+   "a": "Experience shows that natural classes, based on morphology, behaviour or genesis, can be interpreted for many different uses.",
+   "sent_ids": [
+    "54ec767cf898"
+   ]
+  },
+  "soil-class-014": {
+   "q": "Why do soils on river flood plains stay azonal, or immature?",
+   "a": "New alluvium arrives every year, so the soils stay immature even though the farmland is fertile.",
+   "sent_ids": [
+    "9083a32d720f",
+    "179f27c42bc2",
+    "2cd467928e99"
+   ]
+  },
+  "soil-class-112": {
+   "q": "How does soil climate differ between well-drained and waterlogged soils?",
+   "a": "In well-drained soils it is a subdued version of the regional climate; in waterlogged soils it depends more on local groundwater than on the atmosphere.",
+   "sent_ids": [
+    "015afb6dfa84",
+    "14c877ea684d"
+   ]
+  },
+  "soil-class-135": {
+   "q": "On what materials and under what vegetation do Phaeozems form?",
+   "a": "On loess and glacial till under humid and sub-humid tall-grass steppe.",
+   "sent_ids": [
+    "d58c533c6b2e",
+    "90a02d4f7c44"
+   ]
+  },
+  "soil-class-156": {
+   "q": "Why do conditions in the acrotelm swing between aerobic and anaerobic?",
+   "a": "Its lower boundary usually coincides with the lowest level of the water table, which fluctuates within it.",
+   "sent_ids": [
+    "8bbc9d26494c",
+    "3c8bf1293f78"
+   ]
+  },
+  "soil-fert-185": {
+   "q": "What carbon-to-nitrogen ratio do composting microbes prefer in their feedstock?",
+   "a": "A ratio of 30–35:1.",
+   "sent_ids": [
+    "72f7d5a9d31e"
+   ]
+  },
+  "soil-fert-232": {
+   "q": "At what pH range is the least soil phosphorus bound up?",
+   "a": "Between pH 6 and 7.",
+   "sent_ids": [
+    "5de976f13e37",
+    "4757f8104120",
+    "d590f779805c"
+   ]
+  },
+  "soil-fert-218": {
+   "q": "Which paper is counted a milestone of biogeochemistry?",
+   "a": "An 1844 paper by Dumas and Boussingault.",
+   "sent_ids": [
+    "873724bf85ca",
+    "c09784889bd6"
+   ]
+  },
+  "soil-fert-012": {
+   "q": "What share of fertilizers is applied as solids, and which are most common?",
+   "a": "About 90%, most commonly urea, diammonium phosphate and potassium chloride.",
+   "sent_ids": [
+    "b41d0ec1ea07",
+    "7d7296a5ea1a"
+   ]
+  },
+  "soil-fert-092": {
+   "q": "How fast did Tukey and Wittwer find leaf-sprayed nutrients moving through the plant?",
+   "a": "About one foot per hour, tracing radioactive phosphorus and potassium sprayed on leaves in the 1950s at Michigan State.",
+   "sent_ids": [
+    "a1b666dc7fce",
+    "139a41b1df61",
+    "ba171309db83",
+    "b2a32ddf4570"
+   ]
+  },
+  "soil-fert-045": {
+   "q": "What proportion of biosolids is organic matter?",
+   "a": "60–65%, which stimulates soil microbes.",
+   "sent_ids": [
+    "625f4f34872c",
+    "943cbf5df95a"
+   ]
+  },
+  "soil-fert-210": {
+   "q": "How did Peru treat guano from 1840, and what did that mean for its finances?",
+   "a": "Peru made guano an exclusive state resource, and its royalties became the country's largest source of revenue.",
+   "sent_ids": [
+    "92bd7935ef79",
+    "c85854fb3bfc",
+    "c08f89b993dc"
+   ]
+  },
+  "soil-water-086": {
+   "q": "What three conditions cause surface runoff to form?",
+   "a": "Water cannot infiltrate fast enough because the soil is saturated, rain arrives faster than it can be absorbed, or surfaces are impervious.",
+   "sent_ids": [
+    "9864b82a51da",
+    "5eed410143b6",
+    "e9bcb50fa69a"
+   ]
+  },
+  "soil-water-011": {
+   "q": "What is the main climatic control on water erosion?",
+   "a": "The amount and intensity of precipitation, especially when the soil surface lacks plant cover.",
+   "sent_ids": [
+    "79dcdbde1de5",
+    "c7456083cc10"
+   ]
+  },
+  "soil-water-044": {
+   "q": "What erosion index does the Conservation Reserve Program require land to have?",
+   "a": "An index above 8.",
+   "sent_ids": [
+    "2eb305cf6b8d",
+    "200feec95869"
+   ]
+  },
+  "soil-water-071": {
+   "q": "Why does quick clay lose so much strength once remolded?",
+   "a": "Its clay particle structure is highly unstable, so it keeps far less strength than it had on first loading.",
+   "sent_ids": [
+    "1ae12fdc6fc6",
+    "e1b0359be4df"
+   ]
+  },
+  "soil-water-028": {
+   "q": "Which structures carry water safely down to a gully floor?",
+   "a": "Drop structures, pipe structures, grass chutes and rock chutes.",
+   "sent_ids": [
+    "925590d0a51b"
+   ]
+  },
+  "soil-water-097": {
+   "q": "When are gabions chosen over riprap for river bank protection?",
+   "a": "On steep banks where flow is too fast for riprap; gabions are stone-filled wire boxes.",
+   "sent_ids": [
+    "25585db7de11",
+    "4709c9c128b9",
+    "9036ec7c9824",
+    "35d513d2d301"
+   ]
+  },
+  "soil-water-263": {
+   "q": "How does a riparian zone protect water?",
+   "a": "It acts as a natural biofilter, shielding water from excess sediment, polluted surface runoff and erosion.",
+   "sent_ids": [
+    "34a56d331ebb"
+   ]
+  },
+  "soil-water-259": {
+   "q": "What decides whether a wetland carries aquatic, marsh or swamp vegetation?",
+   "a": "How long flooding or groundwater saturation lasts.",
+   "sent_ids": [
+    "966e22226ebb"
+   ]
+  },
+  "soil-agri-016": {
+   "q": "What is Low Energy Precision Application (LEPA) in centre pivot irrigation?",
+   "a": "Hanging drop heads just above the crop, or dragging hoses that wet the ground directly, to limit evaporation.",
+   "sent_ids": [
+    "5aa22b2af54e",
+    "2c9cd1ebfed8",
+    "63c9485bcc3a"
+   ]
+  },
+  "soil-fert-208": {
+   "q": "What forms of nitrogen are most commonly supplied by fertigation?",
+   "a": "Anhydrous ammonia, ammonium nitrate or urea; nitrogen is the most common nutrient supplied.",
+   "sent_ids": [
+    "30c998ec244b",
+    "b1bf79973919",
+    "9d5156ca100f",
+    "7c292e535fe0"
+   ]
+  },
+  "soil-agri-003": {
+   "q": "Whose 1974 concept is considered the foundation of modern agroecology?",
+   "a": "Harper's 1974 concept of agroecosystems, perhaps inspired by Tansley's process ecology of the 1930s.",
+   "sent_ids": [
+    "bbb0a03a29e3"
+   ]
+  },
+  "soil-agri-125": {
+   "q": "For several soils, how does the optimum water content for tillage relate to the plastic limit?",
+   "a": "The optimum equals 0.9 times the lower plastic limit.",
+   "sent_ids": [
+    "4643a8f77c82",
+    "ff749ea2ed8f"
+   ]
+  },
+  "soil-agri-081": {
+   "q": "According to the traditional theory, how do lynchets form?",
+   "a": "Long ploughing makes soil slip downslope, building a positive lynchet where the surface rises and a negative lynchet where it drops.",
+   "sent_ids": [
+    "eeda36de67a0",
+    "f2da13462081"
+   ]
+  },
+  "soil-agri-088": {
+   "q": "What makes land prime farmland?",
+   "a": "It has the soil quality, growing season and moisture supply to give economically sustained high yields under acceptable farming methods, including water management.",
+   "sent_ids": [
+    "96b764ee8eb0"
+   ]
+  },
+  "soil-meth-029": {
+   "q": "What role does gas chromatography play in the Dumas nitrogen method?",
+   "a": "The method ends with a gas chromatography column that separates nitrogen from carbon dioxide and water.",
+   "sent_ids": [
+    "3b01de865e8a",
+    "927957a16a50",
+    "32cee1a799ee"
+   ]
+  },
+  "soil-meth-008": {
+   "q": "What does geomorphometry extract from digital elevation models?",
+   "a": "Surface parameters and objects such as watersheds, stream networks and landforms.",
+   "sent_ids": [
+    "c255d74eec57"
+   ]
+  },
+  "soil-env-161": {
+   "q": "What did preliminary 2011 analyses estimate permafrost emissions to be, and what could they not account for?",
+   "a": "Around 15% of human emissions, but they could not account for abrupt thaw.",
+   "sent_ids": [
+    "66144bba1f18",
+    "60152029dc32"
+   ]
+  },
+  "soil-env-269": {
+   "q": "What share of Earth's land do forests now cover, and how does that compare with before agriculture spread?",
+   "a": "About 31%, one-third less than before agriculture spread, with half that loss in the last century.",
+   "sent_ids": [
+    "4ff4890b2b10",
+    "6a7bae0ac4b4"
+   ]
+  },
+  "soil-env-075": {
+   "q": "What is Sahel drought now thought to stem from mainly?",
+   "a": "Rainfall variability set by sea surface temperatures, which are driven by natural variability, sulphate aerosols and greenhouse gases.",
+   "sent_ids": [
+    "da53d5b2cf93"
+   ]
+  },
+  "soil-env-313": {
+   "q": "Why did rangeland management develop in the United States?",
+   "a": "In response to rangeland deterioration from overgrazing and misuse of arid lands, shown by the Dust Bowl.",
+   "sent_ids": [
+    "c3711780a070"
+   ]
+  },
+  "soil-env-037": {
+   "q": "What are the main mechanisms of phytoremediation?",
+   "a": "Phytoextraction, phytostabilization, phytovolatilization and phytofiltration, along with breakdown of pollutants by plants and by root-zone microbes.",
+   "sent_ids": [
+    "f3668c972db4",
+    "6ea2c32700e4",
+    "59796f89d1c1"
+   ]
+  },
+  "soil-env-047": {
+   "q": "Which two migrations drive electrokinetic remediation, and which dominates?",
+   "a": "Electromigration (electrophoresis) of charged particles, the dominant one, and electro-osmotic flow of pore fluid running the opposite way.",
+   "sent_ids": [
+    "aff87bb73f1d",
+    "7951fa2e50f3",
+    "1f6b0684b4ab"
+   ]
+  },
+  "soil-env-241": {
+   "q": "What limit does the WHO recommend for arsenic in drinking water, and why is it often unattainable?",
+   "a": "10 μg/L; it is often unattainable in problem areas because arsenic is hard to remove.",
+   "sent_ids": [
+    "040910c365e8"
+   ]
+  },
+  "soil-env-243": {
+   "q": "Above what fluoride concentration can groundwater cause dental fluorosis?",
+   "a": "Above 1.5 mg/L.",
+   "sent_ids": [
+    "cf78d1380ed4",
+    "08018f5964af",
+    "ff70d4a641b4"
+   ]
+  },
+  "soil-env-263": {
+   "q": "How does the Raymond process circulate groundwater?",
+   "a": "Groundwater is pumped up downstream, infused with nutrients and oxygen, and re-injected upstream in a loop.",
+   "sent_ids": [
+    "e4254038635b",
+    "079c3ba04b55",
+    "59d625879b57"
+   ]
+  },
+  "soil-env-297": {
+   "q": "What caused Keshan disease across its belt of China, and when did it peak?",
+   "a": "Selenium-deficient soil; it peaked in 1960–1970, killing thousands.",
+   "sent_ids": [
+    "512f103bc880",
+    "a04c3c0d3fc8"
+   ]
+  },
+  "soil-hist-126": {
+   "q": "How is an age calculated in thermoluminescence dating?",
+   "a": "The dose measured by heating is divided by the yearly dose rate, found from uranium, thorium and potassium contents plus cosmic rays.",
+   "sent_ids": [
+    "d6c06b85de08",
+    "542cbce6aec7",
+    "153fde93f6e4"
+   ]
+  },
+  "soil-hist-100": {
+   "q": "How did non-reversible ploughs build ridge and furrow?",
+   "a": "They turned soil toward the centre of the same strip each year, gradually building a ridge with a furrow between strips.",
+   "sent_ids": [
+    "c5bad3361e6f",
+    "0b58aeefc75a",
+    "494256626245"
+   ]
+  },
+  "soil-hist-033": {
+   "q": "Who extended Darwin's idea of bioturbation to ants and trees, and when?",
+   "a": "Geologist Nathaniel Shaler, in 1891.",
+   "sent_ids": [
+    "7c381cc29b06"
+   ]
+  },
+  "soil-hist-009": {
+   "q": "When did Curtis F. Marbut begin developing the first formal soil classification scheme for the United States?",
+   "a": "In 1920.",
+   "sent_ids": [
+    "a814b7104855",
+    "1d857576a2a2"
+   ]
+  },
+  "soil-hist-021": {
+   "q": "What journey does Farmers of Forty Centuries recount?",
+   "a": "A nine-month tour of Asia in 1909, studying what would now be called organic farming or sustainable agriculture.",
+   "sent_ids": [
+    "9cd1557fc9fc"
+   ]
+  },
+  "soil-hist-066": {
+   "q": "Why would clayey and organic soils have kept producing clay and organic matter on the early Earth?",
+   "a": "They resist erosion, and early unicellular life would also have bound the soil.",
+   "sent_ids": [
+    "b1b173bce813",
+    "eb0fb8e9534f"
+   ]
+  }
+ }
+}

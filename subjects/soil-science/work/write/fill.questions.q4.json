@@ -1,0 +1,652 @@
+{
+ "questions": {
+  "soil-found-118": {
+   "q": "How can a drop of acid help identify calcite?",
+   "a": "Acid dissolves calcite and releases carbon dioxide, giving a characteristic fizz.",
+   "sent_ids": [
+    "567e1ceaebc7",
+    "3d6b3afad90f"
+   ]
+  },
+  "soil-found-028": {
+   "q": "Why do gleyed soils show yellow-brown or orange mottles on a gray background?",
+   "a": "Under saturation microbes reduce iron to its soluble ferrous form, which can be removed and leaves gray silicate minerals; when the soil dries and oxygen returns, iron re-oxidises locally into the coloured mottles.",
+   "sent_ids": [
+    "f2b5092334fd",
+    "43dd90043c87",
+    "1e687a62e8c2",
+    "6142557dccfc"
+   ]
+  },
+  "soil-form-141": {
+   "q": "Why are clays such abundant weathering products in soils?",
+   "a": "Feldspars make up about 60% of the Earth's crust, and hydrolysis turns them into clay minerals such as illite, smectite and kaolinite.",
+   "sent_ids": [
+    "0a1cdcc6e7dd",
+    "fab73d883d14",
+    "8db321a11d11"
+   ]
+  },
+  "soil-form-109": {
+   "q": "What happens to the fertility of Iowa's Loess Hills once their topsoil erodes?",
+   "a": "Their fertility comes from 10,000 years of prairie humus, so the loess left beneath is infertile without fertilizer.",
+   "sent_ids": [
+    "a37e08f8504b",
+    "d4c70f02f8b9"
+   ]
+  },
+  "soil-form-150": {
+   "q": "How does a terminal moraine differ from a recessional moraine?",
+   "a": "A terminal moraine forms at the glacier's foot and marks its furthest advance; a recessional moraine is a small ridge left where a retreating glacier paused.",
+   "sent_ids": [
+    "213de80a080c",
+    "f3096e5a0304"
+   ]
+  },
+  "soil-found-072": {
+   "q": "What does the name paralithic mean?",
+   "a": "Akin to stony: from the Greek para, \"akin to\", and lithic, \"stony\".",
+   "sent_ids": [
+    "01513596d703"
+   ]
+  },
+  "soil-form-064": {
+   "q": "Why is the mean soil taxonomic distance a better measure of pedodiversity than conventional indices?",
+   "a": "Conventional indices ignore how similar soil classes are, while the mean soil taxonomic distance accounts for it.",
+   "sent_ids": [
+    "6061927aa6fe",
+    "d01a3109389f"
+   ]
+  },
+  "soil-form-057": {
+   "q": "Which pedogenic process appears to be the most active in many soils?",
+   "a": "Bioturbation, which dominates the upper part of most soils, except possibly vertisols and cryosols.",
+   "sent_ids": [
+    "ce2ed6af3b46"
+   ]
+  },
+  "soil-phys-009": {
+   "q": "How does fast wetting destroy soil structure by slaking?",
+   "a": "Water entering aggregates displaces air from their pores and aggregates with trapped air burst; the faster the wetting, the more slaking occurs.",
+   "sent_ids": [
+    "897c58773266",
+    "d15110ed107c",
+    "4648c8337b5b"
+   ]
+  },
+  "soil-phys-082": {
+   "q": "How did wheel traffic change the soil in one cotton field?",
+   "a": "Tilled surface soil had a bulk density of 1.3 g/cm3 and 51% pore space, while wheel-trafficked inter-rows had 1.67 g/cm3 and 37%.",
+   "sent_ids": [
+    "b327cb9014f4",
+    "cc7fe969a5f2",
+    "7d18d76f49b7"
+   ]
+  },
+  "soil-phys-070": {
+   "q": "Which pores are the largest still water-filled at field capacity, and why do they matter?",
+   "a": "Mesopores, 30–75 μm; called storage pores, they hold water that plants and soil organisms can use.",
+   "sent_ids": [
+    "438beda2bb03",
+    "0bb3fc4b8f2b",
+    "4c4ab36f05bd",
+    "7cccf49a1c7b"
+   ]
+  },
+  "soil-phys-093": {
+   "q": "How is a soil's water content w measured?",
+   "a": "As the mass of water over the mass of solids, found by weighing a sample before and after oven drying.",
+   "sent_ids": [
+    "fc69cabbf0a0",
+    "2da9a3917bc2"
+   ]
+  },
+  "soil-found-094": {
+   "q": "How does depression storage capacity help govern Horton overland flow?",
+   "a": "Together with infiltration capacity: once both are exceeded, water flows across the land, possibly causing flooding and soil erosion.",
+   "sent_ids": [
+    "00b393adacd6"
+   ]
+  },
+  "soil-water-185": {
+   "q": "What is the main limitation of the Kostiakov equation, and how is it fixed?",
+   "a": "It implies a final intake rate of zero, whereas infiltration usually approaches a finite steady value; the Kostiakov–Lewis equation adds a steady intake term.",
+   "sent_ids": [
+    "e90a77b124a1",
+    "737fcd5cd9d6",
+    "f561285f9d19"
+   ]
+  },
+  "soil-water-202": {
+   "q": "When does Darcy's law stop holding?",
+   "a": "Above Reynolds numbers of about 1 to 10, when inertial effects become significant.",
+   "sent_ids": [
+    "376e3d3b0647",
+    "9fd375b3f783"
+   ]
+  },
+  "soil-water-243": {
+   "q": "What is the premise of a soil inference system?",
+   "a": "That a soil's basic properties are enough to infer all its other physical and chemical properties, through logically linked pedotransfer functions.",
+   "sent_ids": [
+    "501d99894522",
+    "78ab86eb9ad1",
+    "0c76912873d0"
+   ]
+  },
+  "soil-water-234": {
+   "q": "How do soil-based irrigation controllers decide when to water?",
+   "a": "They either skip a timed cycle when the soil is wet or start watering only when moisture falls to a set threshold.",
+   "sent_ids": [
+    "792baffeda7e",
+    "ef02148c0c5f"
+   ]
+  },
+  "soil-phys-212": {
+   "q": "In the Netherlands, how large is the winter drainage requirement, and where does it come from?",
+   "a": "About 180 mm: 720 mm of precipitation against 540 mm of evaporation.",
+   "sent_ids": [
+    "50b895ffab62"
+   ]
+  },
+  "soil-env-129": {
+   "q": "Why can thawing permafrost add to climate change?",
+   "a": "Dead biomass has built up in it over millennia without fully decomposing; as warming thaws it, decomposition restarts and releases carbon dioxide or methane.",
+   "sent_ids": [
+    "c9e2b53dd4c9",
+    "616e26044f3e",
+    "194fae3cc3be"
+   ]
+  },
+  "soil-phys-184": {
+   "q": "Which changes temperature more over a day: a material of low or high thermal effusivity?",
+   "a": "One of low effusivity; a material of high effusivity changes much less.",
+   "sent_ids": [
+    "e5ce73b8a126",
+    "e4e9d7ca780a"
+   ]
+  },
+  "soil-chem-191": {
+   "q": "What can electron probe microanalysis reveal inside a mineral grain?",
+   "a": "Chemical zoning from core to rim, which records the grain's history.",
+   "sent_ids": [
+    "3481c0209b3a",
+    "6c1edee95ec1"
+   ]
+  },
+  "soil-chem-111": {
+   "q": "Why can ferrihydrite hold so much arsenic, lead or phosphate?",
+   "a": "Its nanoporous particles give several hundred square metres of surface per gram, which adsorb these substances.",
+   "sent_ids": [
+    "47543bd4e883",
+    "2bf3730e777c"
+   ]
+  },
+  "soil-chem-164": {
+   "q": "Where does lepidocrocite form?",
+   "a": "When iron-bearing substances rust underwater, and commonly where primary iron minerals weather.",
+   "sent_ids": [
+    "9018187dc0b5",
+    "01063806fbda"
+   ]
+  },
+  "soil-chem-146": {
+   "q": "What does the Langmuir isotherm assume about a surface?",
+   "a": "Equivalent sites holding one molecule each, an energetically uniform surface and at most a monolayer, assumptions seldom all true.",
+   "sent_ids": [
+    "1edc60c8c76f",
+    "451f34da3b81",
+    "9f31e232bef7",
+    "24c2ca28af00"
+   ]
+  },
+  "soil-chem-205": {
+   "q": "How does surface heterogeneity explain the Freundlich equation?",
+   "a": "High-energy sites fill first, then low-energy ones, so the heat of adsorption weakens with coverage.",
+   "sent_ids": [
+    "c39c771ca909",
+    "42e038a50aab",
+    "880921f32617"
+   ]
+  },
+  "soil-chem-124": {
+   "q": "How is soil Eh measured?",
+   "a": "With a platinum electrode, read relative to the standard hydrogen electrode.",
+   "sent_ids": [
+    "a8e2c4537697"
+   ]
+  },
+  "soil-chem-014": {
+   "q": "How does controlled drainage save irrigation water?",
+   "a": "Where wet and dry seasons are marked, drains run only in the wet season.",
+   "sent_ids": [
+    "d86f06a1d6d4",
+    "39ab56303454"
+   ]
+  },
+  "soil-chem-043": {
+   "q": "In the Maas–Hoffman model, what is the breakpoint?",
+   "a": "The salinity up to which yield is unaffected; beyond it, yield falls.",
+   "sent_ids": [
+    "e8059624484f"
+   ]
+  },
+  "soil-bio-217": {
+   "q": "How does a mycelium feed?",
+   "a": "In two stages: its hyphae secrete enzymes that break polymers into small units such as monomers, which are then absorbed.",
+   "sent_ids": [
+    "0d653273570f",
+    "86a764dafe27",
+    "48fd6279c73d"
+   ]
+  },
+  "soil-bio-059": {
+   "q": "How do bacteria such as Acidithiobacillus ferrooxidans cause acid mine drainage?",
+   "a": "They use iron sulfide to generate sulfuric acid, which drains from the mine with runoff and can drive the pH of groundwater and streams down to 2–3.",
+   "sent_ids": [
+    "078ee185490b",
+    "83b3a0417a61",
+    "3ee480d85558"
+   ]
+  },
+  "soil-bio-205": {
+   "q": "How does a chemoautotroph differ from a chemoheterotroph?",
+   "a": "A chemoautotroph builds all its organic compounds from carbon dioxide; a chemoheterotroph, like most animals and fungi, cannot fix carbon into its own organic compounds.",
+   "sent_ids": [
+    "fed47e4d775d",
+    "c1ec2429b0d3",
+    "b86a527704cd"
+   ]
+  },
+  "soil-bio-209": {
+   "q": "Why can microarthropod communities be used as bioindicators?",
+   "a": "They are very sensitive to changes in ecosystems.",
+   "sent_ids": [
+    "0368363d1848"
+   ]
+  },
+  "soil-bio-166": {
+   "q": "How widespread is arbuscular mycorrhiza among plants?",
+   "a": "It is the most widespread plant symbiosis known, found in about 80% of plant species, on every continent except Antarctica.",
+   "sent_ids": [
+    "5f8e397c8870",
+    "218821b6e5cd"
+   ]
+  },
+  "soil-bio-181": {
+   "q": "What do endophytic fungi give a plant in exchange for carbohydrates?",
+   "a": "They can increase its water or nutrient uptake and protect it from insects, birds or mammals.",
+   "sent_ids": [
+    "4305f2799c53"
+   ]
+  },
+  "soil-bio-252": {
+   "q": "How does a rhizotron let researchers watch roots?",
+   "a": "A central corridor usually has viewing windows into the soil profiles on either side.",
+   "sent_ids": [
+    "b1503b1d598a"
+   ]
+  },
+  "soil-bio-131": {
+   "q": "Which kind of kerogen yields oil, which yields gas, and which yields none?",
+   "a": "Labile kerogen yields mainly oil, refractory kerogen mainly gas, and inert kerogen no hydrocarbons but graphite.",
+   "sent_ids": [
+    "629034f78992"
+   ]
+  },
+  "soil-bio-253": {
+   "q": "Why do bacteria and fungi release exoenzymes into their surroundings?",
+   "a": "Breaking macromolecules into small pieces lets their constituents pass through the cell membrane and be used inside the cell.",
+   "sent_ids": [
+    "de71a242982b",
+    "585dd2d2f667",
+    "47a74553f643"
+   ]
+  },
+  "soil-class-001": {
+   "q": "What traits do soil classification systems group soils by?",
+   "a": "Measurable traits such as texture, structure, mineral composition and the way the soil formed.",
+   "sent_ids": [
+    "7109d84da3d6"
+   ]
+  },
+  "soil-class-044": {
+   "q": "Why were human-made soils long left out of classification systems?",
+   "a": "Criteria built for natural soils often do not apply to them.",
+   "sent_ids": [
+    "53b57bd058c3",
+    "f479282d1db2"
+   ]
+  },
+  "soil-class-093": {
+   "q": "What is the defining trait of an Aridisol?",
+   "a": "Water deficiency: an aridic moisture regime, with fewer than 90 consecutive moist days in the growing season, and no leaching.",
+   "sent_ids": [
+    "65c70bdccf1d",
+    "e699c6876eae",
+    "08a94df95c5b"
+   ]
+  },
+  "soil-class-131": {
+   "q": "Which Leptosols are the most extensive on Earth?",
+   "a": "Lithic Leptosols, less than 10 cm deep, in mountain regions.",
+   "sent_ids": [
+    "a1be057fc4a9"
+   ]
+  },
+  "soil-class-058": {
+   "q": "What gives red soils their colour?",
+   "a": "High iron content, which gives colours from reddish brown to reddish yellow.",
+   "sent_ids": [
+    "5de4fe745ed1"
+   ]
+  },
+  "soil-fert-175": {
+   "q": "How does potassium help a plant tolerate drought?",
+   "a": "It opens and closes stomata through an ion pump, so it controls water loss from leaves.",
+   "sent_ids": [
+    "8ebdf2b389ea",
+    "b40c561c845c"
+   ]
+  },
+  "soil-fert-171": {
+   "q": "How much of a plant's dry mass is carbon?",
+   "a": "About 45%.",
+   "sent_ids": [
+    "89e5cad13401"
+   ]
+  },
+  "soil-fert-146": {
+   "q": "How does a nutrient cycle differ from the flow of energy through an ecosystem?",
+   "a": "Energy flows one way through ecosystems, but mineral nutrients cycle.",
+   "sent_ids": [
+    "48256a484523"
+   ]
+  },
+  "soil-fert-125": {
+   "q": "What did a 15-year nitrogen-addition study at Harvard Forest find?",
+   "a": "More leaching, higher pine mortality and an end to biomass accumulation.",
+   "sent_ids": [
+    "c5745ca6f2d7",
+    "e14c192e87e0"
+   ]
+  },
+  "soil-fert-030": {
+   "q": "Which compost organisms are the most abundant and important?",
+   "a": "Bacteria, which excrete plant-available nitrogen, phosphorus and magnesium; mesophilic or thermophilic kinds dominate depending on the phase.",
+   "sent_ids": [
+    "20762a0a8f20",
+    "97e1de100c87",
+    "a84ee27d2e73"
+   ]
+  },
+  "soil-fert-209": {
+   "q": "Why did demand for guano fall rapidly after 1910?",
+   "a": "Because of the Haber–Bosch process.",
+   "sent_ids": [
+    "d2220b59eaf1"
+   ]
+  },
+  "soil-fert-215": {
+   "q": "What does wood ash supply as a fertilizer?",
+   "a": "Potassium, and calcium carbonate, which acts as a liming agent to neutralise acid soils.",
+   "sent_ids": [
+    "89cecc9f2c73",
+    "28b603ddce43"
+   ]
+  },
+  "soil-fert-040": {
+   "q": "How does phosphate rich organic manure free the phosphorus locked in rock phosphate?",
+   "a": "Microbial organic acids slowly dissolve its insoluble tricalcium phosphate, and the organic matter stops other ions locking the phosphorus into insoluble forms.",
+   "sent_ids": [
+    "7800361a6c85",
+    "254032433fe3",
+    "d446c379fc15"
+   ]
+  },
+  "soil-water-021": {
+   "q": "Why does saturation-excess overland flow start sooner after earlier rain?",
+   "a": "Antecedent soil moisture sets how soon soil saturates: the wetter it starts, the sooner runoff begins.",
+   "sent_ids": [
+    "58f2b80f7412",
+    "0f19d9c286b8",
+    "ed289ca2c2fd"
+   ]
+  },
+  "soil-water-036": {
+   "q": "How are unpaved lots and dirt roads kept from raising dust?",
+   "a": "They are paved or gravelled, or stabilized with water, vegetable oil, calcium chloride or other suppressants.",
+   "sent_ids": [
+    "3750a02f7a68",
+    "0dd99f6250e3"
+   ]
+  },
+  "soil-water-049": {
+   "q": "What share of eroded sediment reaches rivers in Europe, according to WaTEM/SEDEM estimates?",
+   "a": "About 15%: that is the estimated sediment delivery ratio.",
+   "sent_ids": [
+    "1e8cd1d44c7f"
+   ]
+  },
+  "soil-water-284": {
+   "q": "How can as little as 1 mm of silt harm coral?",
+   "a": "Suspended sediment disrupts filter-feeding organisms and deposits bury them; 1 mm of accumulation may kill coral polyps.",
+   "sent_ids": [
+    "5e3bd7b3ec5e",
+    "5cb198f21291"
+   ]
+  },
+  "soil-water-249": {
+   "q": "How does bed load move along a stream?",
+   "a": "It rolls, slides and hops along the bed at a small fraction of the flow speed.",
+   "sent_ids": [
+    "669d56d2598d"
+   ]
+  },
+  "soil-water-069": {
+   "q": "How do roots crossing a potential failure plane stabilize a slope?",
+   "a": "They raise shear strength by binding particles and anchor unstable surface soil to deeper stable layers or bedrock.",
+   "sent_ids": [
+    "ea0087b1deff",
+    "22b7b273dbb5"
+   ]
+  },
+  "soil-water-293": {
+   "q": "Why does an alluvial fan form where a channel opens out?",
+   "a": "Flow leaving a confined channel spreads out and loses the capacity to carry its sediment.",
+   "sent_ids": [
+    "50dabfeed4bf",
+    "4d450ad465da"
+   ]
+  },
+  "soil-water-120": {
+   "q": "How does the National Technical Committee for Hydric Soils define a hydric soil?",
+   "a": "As soil formed under saturation, flooding or ponding long enough to turn its upper part anaerobic.",
+   "sent_ids": [
+    "1f0f3307ed1e"
+   ]
+  },
+  "soil-agri-150": {
+   "q": "Why does burning the slash raise soil fertility for a time?",
+   "a": "It leaves a nutrient-rich ash layer and temporarily removes weeds and pests.",
+   "sent_ids": [
+    "69ff14d73db9",
+    "d493fad06afb"
+   ]
+  },
+  "soil-agri-145": {
+   "q": "How does expanded clay aggregate help a heavy soil?",
+   "a": "Mixed in, its pellets improve aeration and drainage.",
+   "sent_ids": [
+    "97357e55257b"
+   ]
+  },
+  "soil-agri-124": {
+   "q": "Why does keyline cultivation give water more time to infiltrate?",
+   "a": "Cultivating parallel to the keyline drifts runoff away from the valley centre, delaying runoff concentration.",
+   "sent_ids": [
+    "2c72a182ad24",
+    "bbf84754d960"
+   ]
+  },
+  "soil-agri-063": {
+   "q": "How do reduced-tillage and no-till systems protect soil?",
+   "a": "They keep residues on the surface for erosion protection and water retention.",
+   "sent_ids": [
+    "f43ef95f07ff"
+   ]
+  },
+  "soil-agri-068": {
+   "q": "What does a catch crop do with nitrogen left from the previous crop?",
+   "a": "It takes up the surplus, keeping it from loss by leaching, denitrification or volatilization, and returns it to the soil when worked in as green manure or decomposed.",
+   "sent_ids": [
+    "efe9cee9a18c",
+    "b2b7d1ef11b6",
+    "d287b62b4f59"
+   ]
+  },
+  "soil-agri-094": {
+   "q": "Why can a single poor rating make a Storie index zero?",
+   "a": "The index multiplies its ratings, so a zero in any one makes the whole result zero.",
+   "sent_ids": [
+    "d46bcad43f9c",
+    "217f9ca7e89b"
+   ]
+  },
+  "soil-meth-018": {
+   "q": "In the WRB, what does the whole soil include besides the fine earth?",
+   "a": "Coarse fragments, artefacts, cemented parts and dead plant residues of any size.",
+   "sent_ids": [
+    "edccfdd71a20"
+   ]
+  },
+  "soil-meth-002": {
+   "q": "What are the nugget, sill and range of a variogram?",
+   "a": "The nugget is a jump at the origin, the sill its limit at large distances, and the range the distance where it nears the sill.",
+   "sent_ids": [
+    "4c729f5e14d2",
+    "a96efb4396d5",
+    "182c314a8f09"
+   ]
+  },
+  "soil-env-275": {
+   "q": "What mainly decides the net methane flux from a wetland?",
+   "a": "How much methane made by methanogens reaches the surface before methanotrophs oxidize it.",
+   "sent_ids": [
+    "bafffe5c1f71"
+   ]
+  },
+  "soil-env-100": {
+   "q": "What sets the United Nations Convention to Combat Desertification apart from other agreements on land?",
+   "a": "It is the only internationally legally binding framework on desertification, and the only convention stemming directly from the Rio Conference's Agenda 21.",
+   "sent_ids": [
+    "dde6478395dd",
+    "859b0116a0fd"
+   ]
+  },
+  "soil-env-080": {
+   "q": "What happens to people when desertified rural land can no longer support them?",
+   "a": "They migrate to cities, particularly in Africa, creating unemployment and slums.",
+   "sent_ids": [
+    "299063d4d25b",
+    "c80aa6e84cc5"
+   ]
+  },
+  "soil-env-311": {
+   "q": "What caused the spoil tip at Aberfan, Wales, to collapse in 1966?",
+   "a": "It was built over a spring and saturated by heavy rain; it collapsed onto a school, killing 144 people.",
+   "sent_ids": [
+    "5e82f373e759",
+    "cc3f206eaa0d",
+    "93f459f1f7eb"
+   ]
+  },
+  "soil-env-200": {
+   "q": "How does PFAS in soil reach people?",
+   "a": "Crops take it up: soil contamination raises PFAS in foods such as white rice, coffee and animals reared on the land.",
+   "sent_ids": [
+    "be65a5fb52cf",
+    "7b11aaa4c2e5"
+   ]
+  },
+  "soil-env-017": {
+   "q": "Why are coliform bacteria in runoff measured if they do not cause disease?",
+   "a": "They are a common indicator of water pollution.",
+   "sent_ids": [
+    "c53d0922c18c",
+    "a308e50de143"
+   ]
+  },
+  "soil-env-050": {
+   "q": "What makes a plant a hyperaccumulator?",
+   "a": "It concentrates metals to levels toxic to related species not adapted to metalliferous soils, for example over 1000 mg/kg of dry weight for nickel, copper, cobalt, chromium or lead.",
+   "sent_ids": [
+    "dbc51a5ed4d3",
+    "0966ad51b6ca"
+   ]
+  },
+  "soil-env-247": {
+   "q": "How does bioslurping recover oil from above the water table?",
+   "a": "A slurp tube reaching into the free-product layer draws up liquid and soil gas together, lifting oil off the water table and capillary fringe.",
+   "sent_ids": [
+    "d06ab9ef8a75",
+    "dded2109d6d5",
+    "a80dde75ff69"
+   ]
+  },
+  "soil-env-298": {
+   "q": "How did cadmium from upstream mines reach the people who developed itai-itai disease?",
+   "a": "Residents irrigated rice with the Jinzū River water, so the highly soluble cadmium contaminated paddies and rice and raised body burdens.",
+   "sent_ids": [
+    "53b27302d399",
+    "a1f0f01e614c",
+    "7d3951bd43d1"
+   ]
+  },
+  "soil-hist-119": {
+   "q": "How do absolute and relative ages differ in the methods that produce them?",
+   "a": "Absolute ages come from radioactive isotopes, while relative ages come from tools such as paleomagnetism and stable isotope ratios.",
+   "sent_ids": [
+    "565a34e55262"
+   ]
+  },
+  "soil-hist-088": {
+   "q": "Into which two stages does taphonomy divide its processes?",
+   "a": "Biostratinomy, between death and burial, and diagenesis, after burial.",
+   "sent_ids": [
+    "7bd1031177f2"
+   ]
+  },
+  "soil-hist-077": {
+   "q": "What does agricultural chemistry often aim to do for soil?",
+   "a": "Preserve or raise soil fertility so as to keep or improve crop yields and crop quality.",
+   "sent_ids": [
+    "f04150c296a8"
+   ]
+  },
+  "soil-hist-001": {
+   "q": "Besides parent material, what did Dokuchaev show explains how soil types vary from place to place?",
+   "a": "Climate, topography and the length of soil formation.",
+   "sent_ids": [
+    "436ce5e5bf84"
+   ]
+  },
+  "soil-hist-076": {
+   "q": "What did a failed royal commission on truffle cultivation lead Albert Bernhard Frank to discover?",
+   "a": "The nature and development of mycorrhizae, which he named in an 1885 paper.",
+   "sent_ids": [
+    "964c6db9b74a",
+    "1097485933bf",
+    "0c2c02b4eb55"
+   ]
+  },
+  "soil-hist-069": {
+   "q": "What level of perchlorate in Martian regolith is considered toxic to humans?",
+   "a": "Around 0.5%, and even trace amounts interfere with human thyroid function.",
+   "sent_ids": [
+    "01fa8a178d87",
+    "9792f57eb05d"
+   ]
+  }
+ }
+}

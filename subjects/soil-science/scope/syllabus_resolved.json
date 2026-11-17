@@ -1,0 +1,8085 @@
+[
+ {
+  "name": "Soil mineralogy",
+  "branch": "Soil mineralogy",
+  "level": "Foundational",
+  "chapter": "new: Soil mineralogy",
+  "status": "phrase",
+  "phrases": [
+   "Soil mineralogy",
+   "soil mineralogy",
+   "soil minerals"
+  ],
+  "sentences": 40
+ },
+ {
+  "name": "Primary and secondary minerals",
+  "branch": "Soil mineralogy",
+  "level": "Foundational",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Primary mineral",
+   "Primary mineral"
+  ]
+ },
+ {
+  "name": "Quartz",
+  "branch": "Soil mineralogy",
+  "level": "Foundational",
+  "chapter": "new: Soil mineralogy",
+  "status": "judged out",
+  "pages": [
+   "Quartz"
+  ],
+  "judged_out": [
+   "Quartz"
+  ]
+ },
+ {
+  "name": "Feldspar",
+  "branch": "Soil mineralogy",
+  "level": "Foundational",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Feldspar"
+  ]
+ },
+ {
+  "name": "Plagioclase",
+  "branch": "Soil mineralogy",
+  "level": "Intermediate",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Plagioclase"
+  ]
+ },
+ {
+  "name": "Potassium feldspar",
+  "branch": "Soil mineralogy",
+  "level": "Intermediate",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Potassium feldspar",
+   "Orthoclase"
+  ],
+  "judged_out": [
+   "Potassium feldspar"
+  ]
+ },
+ {
+  "name": "Olivine",
+  "branch": "Soil mineralogy",
+  "level": "Intermediate",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Olivine"
+  ]
+ },
+ {
+  "name": "Pyroxene",
+  "branch": "Soil mineralogy",
+  "level": "Intermediate",
+  "chapter": "new: Soil mineralogy",
+  "status": "judged out",
+  "pages": [
+   "Pyroxene"
+  ],
+  "judged_out": [
+   "Pyroxene"
+  ]
+ },
+ {
+  "name": "Amphibole",
+  "branch": "Soil mineralogy",
+  "level": "Intermediate",
+  "chapter": "new: Soil mineralogy",
+  "status": "judged out",
+  "pages": [
+   "Amphibole",
+   "Hornblende"
+  ],
+  "judged_out": [
+   "Amphibole",
+   "Hornblende"
+  ]
+ },
+ {
+  "name": "Biotite",
+  "branch": "Soil mineralogy",
+  "level": "Intermediate",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Biotite"
+  ]
+ },
+ {
+  "name": "Muscovite",
+  "branch": "Soil mineralogy",
+  "level": "Intermediate",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Muscovite"
+  ]
+ },
+ {
+  "name": "Calcite",
+  "branch": "Soil mineralogy",
+  "level": "Foundational",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Calcite"
+  ]
+ },
+ {
+  "name": "Dolomite (mineral)",
+  "branch": "Soil mineralogy",
+  "level": "Intermediate",
+  "chapter": "new: Soil mineralogy",
+  "status": "judged out",
+  "pages": [
+   "Dolomite (mineral)"
+  ],
+  "judged_out": [
+   "Dolomite (mineral)"
+  ]
+ },
+ {
+  "name": "Gypsum",
+  "branch": "Soil mineralogy",
+  "level": "Intermediate",
+  "chapter": "new: Soil mineralogy",
+  "status": "covered",
+  "entry": "soil-chem-044"
+ },
+ {
+  "name": "Iron oxides",
+  "branch": "Soil mineralogy",
+  "level": "Intermediate",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Iron oxide"
+  ]
+ },
+ {
+  "name": "Magnetite",
+  "branch": "Soil mineralogy",
+  "level": "Intermediate",
+  "chapter": "new: Soil mineralogy",
+  "status": "judged out",
+  "pages": [
+   "Magnetite"
+  ],
+  "judged_out": [
+   "Magnetite"
+  ]
+ },
+ {
+  "name": "Lepidocrocite",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Lepidocrocite"
+  ]
+ },
+ {
+  "name": "Maghemite",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Maghemite"
+  ]
+ },
+ {
+  "name": "Manganese oxides in soil",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Manganese oxide",
+   "Birnessite"
+  ],
+  "judged_out": [
+   "Manganese oxide"
+  ]
+ },
+ {
+  "name": "Boehmite",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "judged out",
+  "pages": [
+   "Boehmite"
+  ],
+  "judged_out": [
+   "Boehmite"
+  ]
+ },
+ {
+  "name": "Anatase and rutile",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Anatase",
+   "Rutile"
+  ],
+  "judged_out": [
+   "Rutile"
+  ]
+ },
+ {
+  "name": "Zircon",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "judged out",
+  "pages": [
+   "Zircon"
+  ],
+  "judged_out": [
+   "Zircon"
+  ]
+ },
+ {
+  "name": "Heavy minerals",
+  "branch": "Soil mineralogy",
+  "level": "Intermediate",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Heavy mineral"
+  ]
+ },
+ {
+  "name": "Goldich dissolution series",
+  "branch": "Soil mineralogy",
+  "level": "Intermediate",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Goldich dissolution series"
+  ]
+ },
+ {
+  "name": "Bowen's reaction series",
+  "branch": "Soil mineralogy",
+  "level": "Intermediate",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Bowen's reaction series"
+  ]
+ },
+ {
+  "name": "Jackson weathering stages",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Zeolite",
+  "branch": "Soil mineralogy",
+  "level": "Intermediate",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Zeolite"
+  ]
+ },
+ {
+  "name": "Glauconite",
+  "branch": "Soil mineralogy",
+  "level": "Intermediate",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Glauconite"
+  ]
+ },
+ {
+  "name": "Jarosite",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Jarosite"
+  ]
+ },
+ {
+  "name": "Schwertmannite",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Schwertmannite"
+  ]
+ },
+ {
+  "name": "Siderite",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "judged out",
+  "pages": [
+   "Siderite"
+  ],
+  "judged_out": [
+   "Siderite"
+  ]
+ },
+ {
+  "name": "Evaporite minerals in soils",
+  "branch": "Soil mineralogy",
+  "level": "Intermediate",
+  "chapter": "new: Soil mineralogy",
+  "status": "judged out",
+  "pages": [
+   "Evaporite",
+   "Halite"
+  ],
+  "judged_out": [
+   "Evaporite",
+   "Halite"
+  ]
+ },
+ {
+  "name": "Apatite",
+  "branch": "Soil mineralogy",
+  "level": "Intermediate",
+  "chapter": "new: Soil mineralogy",
+  "status": "judged out",
+  "pages": [
+   "Apatite"
+  ],
+  "judged_out": [
+   "Apatite"
+  ]
+ },
+ {
+  "name": "Iron and aluminium phosphate minerals",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Variscite",
+   "Strengite"
+  ]
+ },
+ {
+  "name": "Volcanic glass",
+  "branch": "Soil mineralogy",
+  "level": "Intermediate",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Volcanic glass"
+  ]
+ },
+ {
+  "name": "Short-range-order minerals",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Order and disorder"
+  ]
+ },
+ {
+  "name": "Crystal structure of minerals",
+  "branch": "Soil mineralogy",
+  "level": "Intermediate",
+  "chapter": "new: Soil mineralogy",
+  "status": "judged out",
+  "pages": [
+   "Crystal structure"
+  ],
+  "judged_out": [
+   "Crystal structure"
+  ]
+ },
+ {
+  "name": "X-ray powder diffraction",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Powder diffraction",
+   "X-ray crystallography"
+  ],
+  "judged_out": [
+   "X-ray crystallography"
+  ]
+ },
+ {
+  "name": "Bragg's law",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Bragg's law"
+  ]
+ },
+ {
+  "name": "Thermal analysis of minerals",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Differential thermal analysis",
+   "Thermogravimetric analysis"
+  ],
+  "judged_out": [
+   "Differential thermal analysis"
+  ]
+ },
+ {
+  "name": "Infrared spectroscopy of minerals",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Fourier-transform infrared spectroscopy",
+   "Infrared spectroscopy"
+  ],
+  "judged_out": [
+   "Infrared spectroscopy"
+  ]
+ },
+ {
+  "name": "Scanning electron microscopy",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "judged out",
+  "pages": [
+   "Scanning electron microscope"
+  ],
+  "judged_out": [
+   "Scanning electron microscope"
+  ]
+ },
+ {
+  "name": "Transmission electron microscopy",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "judged out",
+  "pages": [
+   "Transmission electron microscopy"
+  ],
+  "judged_out": [
+   "Transmission electron microscopy"
+  ]
+ },
+ {
+  "name": "Energy-dispersive X-ray spectroscopy",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Energy-dispersive X-ray spectroscopy"
+  ]
+ },
+ {
+  "name": "Mössbauer spectroscopy",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "judged out",
+  "pages": [
+   "Mössbauer spectroscopy"
+  ],
+  "judged_out": [
+   "Mössbauer spectroscopy"
+  ]
+ },
+ {
+  "name": "Electron microprobe",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Electron probe microanalysis"
+  ]
+ },
+ {
+  "name": "X-ray fluorescence",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "X-ray fluorescence"
+  ]
+ },
+ {
+  "name": "Selective dissolution of soil oxides",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Dithionite",
+   "Ammonium oxalate"
+  ]
+ },
+ {
+  "name": "Mineral stability diagrams",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Phase diagram"
+  ]
+ },
+ {
+  "name": "Magnetic susceptibility of soils",
+  "branch": "Soil mineralogy",
+  "level": "Advanced",
+  "chapter": "new: Soil mineralogy",
+  "status": "page",
+  "pages": [
+   "Magnetic susceptibility",
+   "Environmental magnetism"
+  ],
+  "judged_out": [
+   "Magnetic susceptibility"
+  ]
+ },
+ {
+  "name": "Pedogenic carbonate",
+  "branch": "Soil mineralogy",
+  "level": "Intermediate",
+  "chapter": "new: Soil mineralogy",
+  "status": "phrase",
+  "phrases": [
+   "Pedogenic carbonate",
+   "pedogenic carbonate",
+   "secondary carbonate"
+  ],
+  "sentences": 15
+ },
+ {
+  "name": "Interstratified clay minerals",
+  "branch": "Clay mineralogy and soil colloids",
+  "level": "Advanced",
+  "chapter": "clay-minerals-and-colloids",
+  "status": "phrase",
+  "phrases": [
+   "Interstratified clay minerals",
+   "interstratified",
+   "mixed-layer clay"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Hydroxy-interlayered vermiculite",
+  "branch": "Clay mineralogy and soil colloids",
+  "level": "Advanced",
+  "chapter": "clay-minerals-and-colloids",
+  "status": "phrase",
+  "phrases": [
+   "Hydroxy-interlayered vermiculite",
+   "hydroxy-interlayered vermiculite",
+   "HIV"
+  ],
+  "sentences": 60
+ },
+ {
+  "name": "Nontronite",
+  "branch": "Clay mineralogy and soil colloids",
+  "level": "Advanced",
+  "chapter": "clay-minerals-and-colloids",
+  "status": "judged out",
+  "pages": [
+   "Nontronite"
+  ],
+  "judged_out": [
+   "Nontronite"
+  ]
+ },
+ {
+  "name": "Beidellite",
+  "branch": "Clay mineralogy and soil colloids",
+  "level": "Advanced",
+  "chapter": "clay-minerals-and-colloids",
+  "status": "phrase",
+  "phrases": [
+   "Beidellite",
+   "beidellite"
+  ],
+  "sentences": 4
+ },
+ {
+  "name": "Sepiolite",
+  "branch": "Clay mineralogy and soil colloids",
+  "level": "Advanced",
+  "chapter": "clay-minerals-and-colloids",
+  "status": "page",
+  "pages": [
+   "Sepiolite"
+  ]
+ },
+ {
+  "name": "Layer charge",
+  "branch": "Clay mineralogy and soil colloids",
+  "level": "Advanced",
+  "chapter": "clay-minerals-and-colloids",
+  "status": "phrase",
+  "phrases": [
+   "Layer charge",
+   "layer charge"
+  ],
+  "sentences": 4
+ },
+ {
+  "name": "Potassium and ammonium fixation",
+  "branch": "Clay mineralogy and soil colloids",
+  "level": "Advanced",
+  "chapter": "clay-minerals-and-colloids",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "DLVO theory",
+  "branch": "Clay mineralogy and soil colloids",
+  "level": "Advanced",
+  "chapter": "clay-minerals-and-colloids",
+  "status": "page",
+  "pages": [
+   "DLVO theory"
+  ]
+ },
+ {
+  "name": "Zeta potential",
+  "branch": "Clay mineralogy and soil colloids",
+  "level": "Advanced",
+  "chapter": "clay-minerals-and-colloids",
+  "status": "page",
+  "pages": [
+   "Zeta potential"
+  ]
+ },
+ {
+  "name": "Schulze–Hardy rule",
+  "branch": "Clay mineralogy and soil colloids",
+  "level": "Advanced",
+  "chapter": "clay-minerals-and-colloids",
+  "status": "phrase",
+  "phrases": [
+   "Schulze–Hardy rule",
+   "Schulze-Hardy rule",
+   "critical coagulation concentration"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Thin section",
+  "branch": "Soil micromorphology",
+  "level": "Intermediate",
+  "chapter": "new: Soil micromorphology",
+  "status": "page",
+  "pages": [
+   "Thin section"
+  ]
+ },
+ {
+  "name": "Petrographic microscope",
+  "branch": "Soil micromorphology",
+  "level": "Intermediate",
+  "chapter": "new: Soil micromorphology",
+  "status": "judged out",
+  "pages": [
+   "Petrographic microscope"
+  ],
+  "judged_out": [
+   "Petrographic microscope"
+  ]
+ },
+ {
+  "name": "Polarized light microscopy",
+  "branch": "Soil micromorphology",
+  "level": "Advanced",
+  "chapter": "new: Soil micromorphology",
+  "status": "page",
+  "pages": [
+   "Polarized light microscopy",
+   "Optical mineralogy"
+  ]
+ },
+ {
+  "name": "Soil fabric",
+  "branch": "Soil micromorphology",
+  "level": "Advanced",
+  "chapter": "new: Soil micromorphology",
+  "status": "phrase",
+  "phrases": [
+   "Soil fabric",
+   "soil fabric",
+   "microfabric"
+  ],
+  "sentences": 5
+ },
+ {
+  "name": "Soil microstructure",
+  "branch": "Soil micromorphology",
+  "level": "Advanced",
+  "chapter": "new: Soil micromorphology",
+  "status": "phrase",
+  "phrases": [
+   "Soil microstructure",
+   "microstructure",
+   "microaggregates"
+  ],
+  "sentences": 72
+ },
+ {
+  "name": "Birefringence fabric",
+  "branch": "Soil micromorphology",
+  "level": "Advanced",
+  "chapter": "new: Soil micromorphology",
+  "status": "judged out",
+  "pages": [
+   "Birefringence"
+  ],
+  "judged_out": [
+   "Birefringence"
+  ]
+ },
+ {
+  "name": "Pedofeatures",
+  "branch": "Soil micromorphology",
+  "level": "Advanced",
+  "chapter": "new: Soil micromorphology",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Coarse/fine related distribution",
+  "branch": "Soil micromorphology",
+  "level": "Advanced",
+  "chapter": "new: Soil micromorphology",
+  "status": "phrase",
+  "phrases": [
+   "Coarse/fine related distribution",
+   "c/f related distribution",
+   "groundmass"
+  ],
+  "sentences": 30
+ },
+ {
+  "name": "Nodules and concretions",
+  "branch": "Soil micromorphology",
+  "level": "Intermediate",
+  "chapter": "new: Soil micromorphology",
+  "status": "page",
+  "pages": [
+   "Concretion",
+   "Nodule (geology)"
+  ],
+  "judged_out": [
+   "Concretion"
+  ]
+ },
+ {
+  "name": "Excrement pedofeatures",
+  "branch": "Soil micromorphology",
+  "level": "Advanced",
+  "chapter": "new: Soil micromorphology",
+  "status": "judged out",
+  "pages": [
+   "Feces"
+  ],
+  "judged_out": [
+   "Feces"
+  ]
+ },
+ {
+  "name": "Earthworm calcite granules",
+  "branch": "Soil micromorphology",
+  "level": "Advanced",
+  "chapter": "new: Soil micromorphology",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "X-ray computed tomography of soil",
+  "branch": "Soil micromorphology",
+  "level": "Advanced",
+  "chapter": "new: Soil micromorphology",
+  "status": "page",
+  "pages": [
+   "X-ray microtomography",
+   "Industrial computed tomography"
+  ]
+ },
+ {
+  "name": "Pore image analysis",
+  "branch": "Soil micromorphology",
+  "level": "Advanced",
+  "chapter": "new: Soil micromorphology",
+  "status": "page",
+  "pages": [
+   "Image analysis"
+  ]
+ },
+ {
+  "name": "Micromorphological description systems",
+  "branch": "Soil micromorphology",
+  "level": "Advanced",
+  "chapter": "new: Soil micromorphology",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Mineral weathering in thin section",
+  "branch": "Soil micromorphology",
+  "level": "Advanced",
+  "chapter": "new: Soil micromorphology",
+  "status": "phrase",
+  "phrases": [
+   "Mineral weathering in thin section",
+   "alteromorphs",
+   "mineral alteration"
+  ],
+  "sentences": 8
+ },
+ {
+  "name": "Geostatistics",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Intermediate",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Geostatistics"
+  ]
+ },
+ {
+  "name": "Kriging",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Kriging"
+  ]
+ },
+ {
+  "name": "Regression-kriging",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Regression-kriging"
+  ]
+ },
+ {
+  "name": "Cokriging",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Variogram",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Variogram"
+  ]
+ },
+ {
+  "name": "Semivariance",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Variogram"
+  ]
+ },
+ {
+  "name": "Spatial autocorrelation",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Intermediate",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Spatial analysis"
+  ]
+ },
+ {
+  "name": "Inverse distance weighting",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Intermediate",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Inverse distance weighting"
+  ]
+ },
+ {
+  "name": "Spatial interpolation",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Intermediate",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Multivariate interpolation",
+   "Multivariate interpolation"
+  ]
+ },
+ {
+  "name": "Geostatistical simulation",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Fuzzy soil classification",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Fuzzy clustering"
+  ]
+ },
+ {
+  "name": "Machine learning in soil mapping",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Random forest",
+   "Machine learning"
+  ],
+  "judged_out": [
+   "Machine learning"
+  ]
+ },
+ {
+  "name": "Digital elevation model",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Intermediate",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Digital elevation model"
+  ]
+ },
+ {
+  "name": "Topographic wetness index",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Topographic wetness index"
+  ]
+ },
+ {
+  "name": "Geomorphometry",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Geomorphometry",
+   "Geomorphometry"
+  ]
+ },
+ {
+  "name": "Proximal soil sensing",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Intermediate",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Soil spectroscopy",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Near-infrared spectroscopy"
+  ]
+ },
+ {
+  "name": "Mid-infrared soil spectroscopy",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "phrase",
+  "phrases": [
+   "Mid-infrared soil spectroscopy",
+   "mid-infrared",
+   "MIR spectroscopy"
+  ],
+  "sentences": 13
+ },
+ {
+  "name": "Soil spectral libraries",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Chemometrics",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Chemometrics",
+   "Partial least squares regression"
+  ]
+ },
+ {
+  "name": "Electromagnetic induction soil survey",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Intermediate",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Electromagnetic induction"
+  ]
+ },
+ {
+  "name": "Electrical resistivity tomography",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Electrical resistivity tomography"
+  ]
+ },
+ {
+  "name": "Ground-penetrating radar",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Intermediate",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Ground-penetrating radar"
+  ]
+ },
+ {
+  "name": "Gamma-ray spectrometry",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Gamma-ray spectrometer"
+  ]
+ },
+ {
+  "name": "Remote sensing of soils",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Intermediate",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Remote sensing"
+  ]
+ },
+ {
+  "name": "Hyperspectral imaging",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Hyperspectral imaging"
+  ]
+ },
+ {
+  "name": "Multispectral satellite imagery",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Intermediate",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Multispectral imaging",
+   "Landsat program"
+  ]
+ },
+ {
+  "name": "Normalized difference vegetation index",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Intermediate",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Normalized difference vegetation index"
+  ]
+ },
+ {
+  "name": "Lidar",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Intermediate",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "judged out",
+  "pages": [
+   "Lidar"
+  ],
+  "judged_out": [
+   "Lidar"
+  ]
+ },
+ {
+  "name": "Geographic information system",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Foundational",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Geographic information system"
+  ]
+ },
+ {
+  "name": "Soil sampling design",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Intermediate",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Sampling design",
+   "Stratified sampling"
+  ]
+ },
+ {
+  "name": "Latin hypercube sampling",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Latin hypercube sampling"
+  ]
+ },
+ {
+  "name": "Soil map accuracy and uncertainty",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Uncertainty quantification"
+  ]
+ },
+ {
+  "name": "Spatial scale and support",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Modifiable areal unit problem",
+   "Spatial scale"
+  ]
+ },
+ {
+  "name": "Compositional data analysis",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Compositional data"
+  ]
+ },
+ {
+  "name": "Soil spatial variability",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Intermediate",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "page",
+  "pages": [
+   "Spatial variability"
+  ]
+ },
+ {
+  "name": "GlobalSoilMap",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Intermediate",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "SoilGrids",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Intermediate",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "phrase",
+  "phrases": [
+   "SoilGrids",
+   "SoilGrids"
+  ],
+  "sentences": 4
+ },
+ {
+  "name": "Harmonized World Soil Database",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Intermediate",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Soil-landscape modelling",
+  "branch": "Pedometrics and digital soil mapping",
+  "level": "Advanced",
+  "chapter": "new: Pedometrics and digital soil mapping",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Solute transport in soil",
+  "branch": "Solute transport in soil",
+  "level": "Intermediate",
+  "chapter": "new: Solute transport in soil",
+  "status": "page",
+  "pages": [
+   "Transport phenomena"
+  ]
+ },
+ {
+  "name": "Advection–dispersion equation",
+  "branch": "Solute transport in soil",
+  "level": "Advanced",
+  "chapter": "new: Solute transport in soil",
+  "status": "page",
+  "pages": [
+   "Convection–diffusion equation"
+  ]
+ },
+ {
+  "name": "Hydrodynamic dispersion",
+  "branch": "Solute transport in soil",
+  "level": "Advanced",
+  "chapter": "new: Solute transport in soil",
+  "status": "phrase",
+  "phrases": [
+   "Hydrodynamic dispersion",
+   "hydrodynamic dispersion",
+   "dispersivity"
+  ],
+  "sentences": 7
+ },
+ {
+  "name": "Molecular diffusion in soil",
+  "branch": "Solute transport in soil",
+  "level": "Intermediate",
+  "chapter": "new: Solute transport in soil",
+  "status": "page",
+  "pages": [
+   "Molecular diffusion"
+  ]
+ },
+ {
+  "name": "Fick's laws of diffusion",
+  "branch": "Solute transport in soil",
+  "level": "Intermediate",
+  "chapter": "new: Solute transport in soil",
+  "status": "page",
+  "pages": [
+   "Fick's laws of diffusion"
+  ]
+ },
+ {
+  "name": "Péclet number",
+  "branch": "Solute transport in soil",
+  "level": "Advanced",
+  "chapter": "new: Solute transport in soil",
+  "status": "page",
+  "pages": [
+   "Péclet number"
+  ]
+ },
+ {
+  "name": "Breakthrough curve",
+  "branch": "Solute transport in soil",
+  "level": "Advanced",
+  "chapter": "new: Solute transport in soil",
+  "status": "page",
+  "pages": [
+   "Breakthrough curve"
+  ]
+ },
+ {
+  "name": "Retardation factor",
+  "branch": "Solute transport in soil",
+  "level": "Advanced",
+  "chapter": "new: Solute transport in soil",
+  "status": "page",
+  "pages": [
+   "Retardation factor"
+  ]
+ },
+ {
+  "name": "Tracer tests in soil",
+  "branch": "Solute transport in soil",
+  "level": "Advanced",
+  "chapter": "new: Solute transport in soil",
+  "status": "page",
+  "pages": [
+   "Dye tracing"
+  ]
+ },
+ {
+  "name": "Dual-porosity models",
+  "branch": "Solute transport in soil",
+  "level": "Advanced",
+  "chapter": "new: Solute transport in soil",
+  "status": "covered",
+  "entry": "soil-phys-063"
+ },
+ {
+  "name": "Colloid-facilitated transport",
+  "branch": "Solute transport in soil",
+  "level": "Advanced",
+  "chapter": "new: Solute transport in soil",
+  "status": "page",
+  "pages": [
+   "Colloid-facilitated transport"
+  ]
+ },
+ {
+  "name": "Pesticide leaching indices",
+  "branch": "Solute transport in soil",
+  "level": "Advanced",
+  "chapter": "new: Solute transport in soil",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Suction lysimeter",
+  "branch": "Solute transport in soil",
+  "level": "Advanced",
+  "chapter": "new: Solute transport in soil",
+  "status": "phrase",
+  "phrases": [
+   "Suction lysimeter",
+   "suction lysimeter",
+   "porous cup"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Contaminant hydrology",
+  "branch": "Solute transport in soil",
+  "level": "Intermediate",
+  "chapter": "new: Solute transport in soil",
+  "status": "page",
+  "pages": [
+   "Hydrogeology"
+  ]
+ },
+ {
+  "name": "Vadose zone transport models",
+  "branch": "Solute transport in soil",
+  "level": "Advanced",
+  "chapter": "new: Solute transport in soil",
+  "status": "phrase",
+  "phrases": [
+   "Vadose zone transport models",
+   "HYDRUS",
+   "numerical model of water flow"
+  ],
+  "sentences": 4
+ },
+ {
+  "name": "Salt transport and leaching fronts",
+  "branch": "Solute transport in soil",
+  "level": "Advanced",
+  "chapter": "new: Solute transport in soil",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Urban soil",
+  "branch": "Urban and human-made soils",
+  "level": "Intermediate",
+  "chapter": "new: Urban and human-made soils",
+  "status": "phrase",
+  "phrases": [
+   "Urban soil",
+   "urban soil",
+   "urban soils"
+  ],
+  "sentences": 16
+ },
+ {
+  "name": "Anthropogenic soil",
+  "branch": "Urban and human-made soils",
+  "level": "Intermediate",
+  "chapter": "new: Urban and human-made soils",
+  "status": "covered",
+  "entry": "soil-class-120"
+ },
+ {
+  "name": "Constructed soils",
+  "branch": "Urban and human-made soils",
+  "level": "Intermediate",
+  "chapter": "new: Urban and human-made soils",
+  "status": "page",
+  "pages": [
+   "Constructed soil"
+  ]
+ },
+ {
+  "name": "Structural soil",
+  "branch": "Urban and human-made soils",
+  "level": "Advanced",
+  "chapter": "new: Urban and human-made soils",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Green roof substrates",
+  "branch": "Urban and human-made soils",
+  "level": "Intermediate",
+  "chapter": "new: Urban and human-made soils",
+  "status": "judged out",
+  "pages": [
+   "Green roof"
+  ],
+  "judged_out": [
+   "Green roof"
+  ]
+ },
+ {
+  "name": "Urban agriculture soils",
+  "branch": "Urban and human-made soils",
+  "level": "Intermediate",
+  "chapter": "new: Urban and human-made soils",
+  "status": "judged out",
+  "pages": [
+   "Urban agriculture",
+   "Community gardening"
+  ],
+  "judged_out": [
+   "Urban agriculture",
+   "Community gardening"
+  ]
+ },
+ {
+  "name": "Artefacts and human-transported material",
+  "branch": "Urban and human-made soils",
+  "level": "Advanced",
+  "chapter": "new: Urban and human-made soils",
+  "status": "phrase",
+  "phrases": [
+   "Artefacts and human-transported material",
+   "artefacts",
+   "human-transported material",
+   "human-altered material"
+  ],
+  "sentences": 60
+ },
+ {
+  "name": "Spoil tip",
+  "branch": "Urban and human-made soils",
+  "level": "Intermediate",
+  "chapter": "new: Urban and human-made soils",
+  "status": "page",
+  "pages": [
+   "Spoil tip"
+  ]
+ },
+ {
+  "name": "Tailings",
+  "branch": "Urban and human-made soils",
+  "level": "Intermediate",
+  "chapter": "new: Urban and human-made soils",
+  "status": "judged out",
+  "pages": [
+   "Tailings"
+  ],
+  "judged_out": [
+   "Tailings"
+  ]
+ },
+ {
+  "name": "Landfill cover soils",
+  "branch": "Urban and human-made soils",
+  "level": "Intermediate",
+  "chapter": "new: Urban and human-made soils",
+  "status": "judged out",
+  "pages": [
+   "Landfill"
+  ],
+  "judged_out": [
+   "Landfill"
+  ]
+ },
+ {
+  "name": "Dredged sediment soils",
+  "branch": "Urban and human-made soils",
+  "level": "Advanced",
+  "chapter": "new: Urban and human-made soils",
+  "status": "judged out",
+  "pages": [
+   "Dredging"
+  ],
+  "judged_out": [
+   "Dredging"
+  ]
+ },
+ {
+  "name": "Topsoil stripping and stockpiling",
+  "branch": "Urban and human-made soils",
+  "level": "Intermediate",
+  "chapter": "new: Urban and human-made soils",
+  "status": "page",
+  "pages": [
+   "Soil stockpile"
+  ]
+ },
+ {
+  "name": "Necrosol",
+  "branch": "Urban and human-made soils",
+  "level": "Advanced",
+  "chapter": "new: Urban and human-made soils",
+  "status": "judged out",
+  "pages": [
+   "Necrosol"
+  ],
+  "judged_out": [
+   "Necrosol"
+  ]
+ },
+ {
+  "name": "Rain garden",
+  "branch": "Urban and human-made soils",
+  "level": "Intermediate",
+  "chapter": "new: Urban and human-made soils",
+  "status": "page",
+  "pages": [
+   "Rain garden"
+  ]
+ },
+ {
+  "name": "Permeable paving",
+  "branch": "Urban and human-made soils",
+  "level": "Intermediate",
+  "chapter": "new: Urban and human-made soils",
+  "status": "judged out",
+  "pages": [
+   "Permeable paving"
+  ],
+  "judged_out": [
+   "Permeable paving"
+  ]
+ },
+ {
+  "name": "Urban forestry soils",
+  "branch": "Urban and human-made soils",
+  "level": "Intermediate",
+  "chapter": "new: Urban and human-made soils",
+  "status": "page",
+  "pages": [
+   "Urban forestry"
+  ]
+ },
+ {
+  "name": "Urban heat island and soils",
+  "branch": "Urban and human-made soils",
+  "level": "Intermediate",
+  "chapter": "new: Urban and human-made soils",
+  "status": "judged out",
+  "pages": [
+   "Urban heat island"
+  ],
+  "judged_out": [
+   "Urban heat island"
+  ]
+ },
+ {
+  "name": "Fly ash in soils",
+  "branch": "Urban and human-made soils",
+  "level": "Advanced",
+  "chapter": "new: Urban and human-made soils",
+  "status": "judged out",
+  "pages": [
+   "Coal combustion products"
+  ],
+  "judged_out": [
+   "Coal combustion products"
+  ]
+ },
+ {
+  "name": "Soils of the Anthropocene",
+  "branch": "Urban and human-made soils",
+  "level": "Intermediate",
+  "chapter": "new: Urban and human-made soils",
+  "status": "judged out",
+  "pages": [
+   "Anthropocene"
+  ],
+  "judged_out": [
+   "Anthropocene"
+  ]
+ },
+ {
+  "name": "Soil in urban planning",
+  "branch": "Urban and human-made soils",
+  "level": "Intermediate",
+  "chapter": "new: Urban and human-made soils",
+  "status": "judged out",
+  "pages": [
+   "Urban planning",
+   "Land-use planning"
+  ],
+  "judged_out": [
+   "Urban planning",
+   "Land-use planning"
+  ]
+ },
+ {
+  "name": "Radiocarbon dating",
+  "branch": "Paleopedology and soil dating",
+  "level": "Intermediate",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "page",
+  "pages": [
+   "Radiocarbon dating"
+  ]
+ },
+ {
+  "name": "Mean residence time of soil carbon",
+  "branch": "Paleopedology and soil dating",
+  "level": "Advanced",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "judged out",
+  "pages": [
+   "Residence time"
+  ],
+  "judged_out": [
+   "Residence time"
+  ]
+ },
+ {
+  "name": "Bomb pulse",
+  "branch": "Paleopedology and soil dating",
+  "level": "Advanced",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "page",
+  "pages": [
+   "Bomb pulse"
+  ]
+ },
+ {
+  "name": "Luminescence dating",
+  "branch": "Paleopedology and soil dating",
+  "level": "Advanced",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "page",
+  "pages": [
+   "Luminescence dating"
+  ]
+ },
+ {
+  "name": "Optically stimulated luminescence",
+  "branch": "Paleopedology and soil dating",
+  "level": "Advanced",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "page",
+  "pages": [
+   "Optically stimulated luminescence"
+  ]
+ },
+ {
+  "name": "Thermoluminescence dating",
+  "branch": "Paleopedology and soil dating",
+  "level": "Advanced",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "page",
+  "pages": [
+   "Thermoluminescence dating"
+  ]
+ },
+ {
+  "name": "Surface exposure dating",
+  "branch": "Paleopedology and soil dating",
+  "level": "Advanced",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "page",
+  "pages": [
+   "Surface exposure dating",
+   "Cosmogenic nuclide"
+  ]
+ },
+ {
+  "name": "Beryllium-10",
+  "branch": "Paleopedology and soil dating",
+  "level": "Advanced",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "page",
+  "pages": [
+   "Isotopes of beryllium"
+  ]
+ },
+ {
+  "name": "Lead-210 dating",
+  "branch": "Paleopedology and soil dating",
+  "level": "Advanced",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "page",
+  "pages": [
+   "Isotopes of lead"
+  ]
+ },
+ {
+  "name": "Tephrochronology",
+  "branch": "Paleopedology and soil dating",
+  "level": "Advanced",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "page",
+  "pages": [
+   "Tephrochronology"
+  ]
+ },
+ {
+  "name": "Geochronology",
+  "branch": "Paleopedology and soil dating",
+  "level": "Intermediate",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "page",
+  "pages": [
+   "Geochronology"
+  ]
+ },
+ {
+  "name": "Stable isotopes in paleosol carbonate",
+  "branch": "Paleopedology and soil dating",
+  "level": "Advanced",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "page",
+  "pages": [
+   "Isotope analysis",
+   "Δ13C"
+  ],
+  "judged_out": [
+   "Isotope analysis"
+  ]
+ },
+ {
+  "name": "Clumped isotope thermometry",
+  "branch": "Paleopedology and soil dating",
+  "level": "Advanced",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "page",
+  "pages": [
+   "Clumped isotopes"
+  ]
+ },
+ {
+  "name": "Soil development indices",
+  "branch": "Paleopedology and soil dating",
+  "level": "Advanced",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Soil age",
+  "branch": "Paleopedology and soil dating",
+  "level": "Intermediate",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "phrase",
+  "phrases": [
+   "Soil age",
+   "soil age",
+   "age of soils"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Pedostratigraphy",
+  "branch": "Paleopedology and soil dating",
+  "level": "Advanced",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "phrase",
+  "phrases": [
+   "Pedostratigraphy",
+   "pedostratigraphic unit",
+   "geosol"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Relict soils",
+  "branch": "Paleopedology and soil dating",
+  "level": "Advanced",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "phrase",
+  "phrases": [
+   "Relict soils",
+   "relict soil",
+   "vetusol"
+  ],
+  "sentences": 4
+ },
+ {
+  "name": "Exhumed paleosols",
+  "branch": "Paleopedology and soil dating",
+  "level": "Advanced",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Rhizolith",
+  "branch": "Paleopedology and soil dating",
+  "level": "Advanced",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "page",
+  "pages": [
+   "Rhizolith"
+  ]
+ },
+ {
+  "name": "Phytolith",
+  "branch": "Paleopedology and soil dating",
+  "level": "Intermediate",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "page",
+  "pages": [
+   "Phytolith"
+  ]
+ },
+ {
+  "name": "Palynology in soils",
+  "branch": "Paleopedology and soil dating",
+  "level": "Intermediate",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "page",
+  "pages": [
+   "Palynology",
+   "Palynology"
+  ]
+ },
+ {
+  "name": "Quaternary",
+  "branch": "Paleopedology and soil dating",
+  "level": "Intermediate",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "judged out",
+  "pages": [
+   "Quaternary"
+  ],
+  "judged_out": [
+   "Quaternary"
+  ]
+ },
+ {
+  "name": "Marine isotope stages",
+  "branch": "Paleopedology and soil dating",
+  "level": "Advanced",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "page",
+  "pages": [
+   "Marine isotope stages"
+  ]
+ },
+ {
+  "name": "Silurian–Devonian terrestrial revolution",
+  "branch": "Paleopedology and soil dating",
+  "level": "Advanced",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "page",
+  "pages": [
+   "Silurian-Devonian Terrestrial Revolution"
+  ]
+ },
+ {
+  "name": "Great Oxidation Event in paleosols",
+  "branch": "Paleopedology and soil dating",
+  "level": "Advanced",
+  "chapter": "new: Paleopedology and soil dating",
+  "status": "judged out",
+  "pages": [
+   "Great Oxidation Event"
+  ],
+  "judged_out": [
+   "Great Oxidation Event"
+  ]
+ },
+ {
+  "name": "Forensic soil science",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Intermediate",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "page",
+  "pages": [
+   "Forensic geology"
+  ]
+ },
+ {
+  "name": "Soil trace evidence",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Intermediate",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "page",
+  "pages": [
+   "Trace evidence"
+  ]
+ },
+ {
+  "name": "Forensic palynology",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Advanced",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "page",
+  "pages": [
+   "Forensic palynology"
+  ]
+ },
+ {
+  "name": "Soil environmental DNA",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Advanced",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "page",
+  "pages": [
+   "Environmental DNA"
+  ]
+ },
+ {
+  "name": "Geochemical fingerprinting of soil",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Advanced",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Cadaver decomposition island",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Advanced",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Forensic archaeology",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Advanced",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "page",
+  "pages": [
+   "Forensic anthropology"
+  ]
+ },
+ {
+  "name": "Taphonomy",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Intermediate",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "page",
+  "pages": [
+   "Taphonomy"
+  ]
+ },
+ {
+  "name": "Geoarchaeology",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Intermediate",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "page",
+  "pages": [
+   "Geoarchaeology"
+  ]
+ },
+ {
+  "name": "Archaeological soil micromorphology",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Advanced",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Soil phosphate survey",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Advanced",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Midden",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Intermediate",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "page",
+  "pages": [
+   "Midden"
+  ]
+ },
+ {
+  "name": "Shell midden",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Intermediate",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "page",
+  "pages": [
+   "Midden"
+  ]
+ },
+ {
+  "name": "Site formation processes",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Intermediate",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "phrase",
+  "phrases": [
+   "Site formation processes",
+   "site formation processes",
+   "formation processes"
+  ],
+  "sentences": 20
+ },
+ {
+  "name": "Archaeological stratigraphy",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Intermediate",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "page",
+  "pages": [
+   "Stratigraphy (archaeology)"
+  ]
+ },
+ {
+  "name": "Law of superposition",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Foundational",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "page",
+  "pages": [
+   "Law of superposition"
+  ]
+ },
+ {
+  "name": "Geophysical survey in archaeology",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Intermediate",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "page",
+  "pages": [
+   "Geophysical survey (archaeology)",
+   "Magnetometer"
+  ]
+ },
+ {
+  "name": "Cropmarks and soil marks",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Intermediate",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "page",
+  "pages": [
+   "Cropmark",
+   "Soil mark"
+  ]
+ },
+ {
+  "name": "Ridge and furrow",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Intermediate",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "page",
+  "pages": [
+   "Ridge and furrow"
+  ]
+ },
+ {
+  "name": "Celtic field",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Intermediate",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "page",
+  "pages": [
+   "Celtic field"
+  ]
+ },
+ {
+  "name": "Raised field agriculture",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Intermediate",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "page",
+  "pages": [
+   "Raised field",
+   "Chinampa"
+  ],
+  "judged_out": [
+   "Chinampa"
+  ]
+ },
+ {
+  "name": "Bog body",
+  "branch": "Forensic and archaeological soil science",
+  "level": "Intermediate",
+  "chapter": "new: Forensic and archaeological soil science",
+  "status": "judged out",
+  "pages": [
+   "Bog body"
+  ],
+  "judged_out": [
+   "Bog body"
+  ]
+ },
+ {
+  "name": "Rangeland",
+  "branch": "Forest and rangeland soils",
+  "level": "Foundational",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "judged out",
+  "pages": [
+   "Rangeland"
+  ],
+  "judged_out": [
+   "Rangeland"
+  ]
+ },
+ {
+  "name": "Rangeland management",
+  "branch": "Forest and rangeland soils",
+  "level": "Intermediate",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "page",
+  "pages": [
+   "Rangeland management"
+  ]
+ },
+ {
+  "name": "Grazing effects on soil",
+  "branch": "Forest and rangeland soils",
+  "level": "Intermediate",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "page",
+  "pages": [
+   "Grazing",
+   "Trampling"
+  ],
+  "judged_out": [
+   "Grazing"
+  ]
+ },
+ {
+  "name": "Pasture soils",
+  "branch": "Forest and rangeland soils",
+  "level": "Intermediate",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "judged out",
+  "pages": [
+   "Pasture"
+  ],
+  "judged_out": [
+   "Pasture"
+  ]
+ },
+ {
+  "name": "Ecological site",
+  "branch": "Forest and rangeland soils",
+  "level": "Advanced",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "State and transition model",
+  "branch": "Forest and rangeland soils",
+  "level": "Advanced",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Silviculture and soils",
+  "branch": "Forest and rangeland soils",
+  "level": "Intermediate",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "judged out",
+  "pages": [
+   "Silviculture"
+  ],
+  "judged_out": [
+   "Silviculture"
+  ]
+ },
+ {
+  "name": "Site index",
+  "branch": "Forest and rangeland soils",
+  "level": "Advanced",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "page",
+  "pages": [
+   "Site index"
+  ]
+ },
+ {
+  "name": "Clearcutting effects on soil",
+  "branch": "Forest and rangeland soils",
+  "level": "Intermediate",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "judged out",
+  "pages": [
+   "Clearcutting"
+  ],
+  "judged_out": [
+   "Clearcutting"
+  ]
+ },
+ {
+  "name": "Whole-tree harvesting",
+  "branch": "Forest and rangeland soils",
+  "level": "Advanced",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Forest fertilization",
+  "branch": "Forest and rangeland soils",
+  "level": "Advanced",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Wildfire effects on soil",
+  "branch": "Forest and rangeland soils",
+  "level": "Intermediate",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "judged out",
+  "pages": [
+   "Wildfire",
+   "Fire ecology"
+  ],
+  "judged_out": [
+   "Wildfire",
+   "Fire ecology"
+  ]
+ },
+ {
+  "name": "Burn severity",
+  "branch": "Forest and rangeland soils",
+  "level": "Advanced",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Controlled burn",
+  "branch": "Forest and rangeland soils",
+  "level": "Intermediate",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "judged out",
+  "pages": [
+   "Controlled burn"
+  ],
+  "judged_out": [
+   "Controlled burn"
+  ]
+ },
+ {
+  "name": "Boreal forest soils",
+  "branch": "Forest and rangeland soils",
+  "level": "Intermediate",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "judged out",
+  "pages": [
+   "Taiga"
+  ],
+  "judged_out": [
+   "Taiga"
+  ]
+ },
+ {
+  "name": "Savanna soils",
+  "branch": "Forest and rangeland soils",
+  "level": "Intermediate",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "judged out",
+  "pages": [
+   "Savanna"
+  ],
+  "judged_out": [
+   "Savanna"
+  ]
+ },
+ {
+  "name": "Islands of fertility",
+  "branch": "Forest and rangeland soils",
+  "level": "Advanced",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Vesicular horizon",
+  "branch": "Forest and rangeland soils",
+  "level": "Advanced",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Desert varnish",
+  "branch": "Forest and rangeland soils",
+  "level": "Intermediate",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "page",
+  "pages": [
+   "Desert varnish"
+  ]
+ },
+ {
+  "name": "Silvopasture",
+  "branch": "Forest and rangeland soils",
+  "level": "Intermediate",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "judged out",
+  "pages": [
+   "Silvopasture"
+  ],
+  "judged_out": [
+   "Silvopasture"
+  ]
+ },
+ {
+  "name": "Tree throw",
+  "branch": "Forest and rangeland soils",
+  "level": "Intermediate",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "page",
+  "pages": [
+   "Tree throw"
+  ]
+ },
+ {
+  "name": "Heathland soils",
+  "branch": "Forest and rangeland soils",
+  "level": "Intermediate",
+  "chapter": "new: Forest and rangeland soils",
+  "status": "judged out",
+  "pages": [
+   "Heath"
+  ],
+  "judged_out": [
+   "Heath"
+  ]
+ },
+ {
+  "name": "Soil geography",
+  "branch": "Soil geography",
+  "level": "Foundational",
+  "chapter": "new: Soil geography",
+  "status": "phrase",
+  "phrases": [
+   "Soil geography",
+   "soil geography"
+  ],
+  "sentences": 7
+ },
+ {
+  "name": "Global distribution of soils",
+  "branch": "Soil geography",
+  "level": "Intermediate",
+  "chapter": "new: Soil geography",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Köppen climate classification",
+  "branch": "Soil geography",
+  "level": "Intermediate",
+  "chapter": "new: Soil geography",
+  "status": "judged out",
+  "pages": [
+   "Köppen climate classification"
+  ],
+  "judged_out": [
+   "Köppen climate classification"
+  ]
+ },
+ {
+  "name": "Biome",
+  "branch": "Soil geography",
+  "level": "Foundational",
+  "chapter": "new: Soil geography",
+  "status": "judged out",
+  "pages": [
+   "Biome"
+  ],
+  "judged_out": [
+   "Biome"
+  ]
+ },
+ {
+  "name": "Tropical soils",
+  "branch": "Soil geography",
+  "level": "Intermediate",
+  "chapter": "new: Soil geography",
+  "status": "phrase",
+  "phrases": [
+   "Tropical soils",
+   "tropical soils"
+  ],
+  "sentences": 31
+ },
+ {
+  "name": "Tundra soils",
+  "branch": "Soil geography",
+  "level": "Intermediate",
+  "chapter": "new: Soil geography",
+  "status": "judged out",
+  "pages": [
+   "Tundra"
+  ],
+  "judged_out": [
+   "Tundra"
+  ]
+ },
+ {
+  "name": "Mountain soils",
+  "branch": "Soil geography",
+  "level": "Intermediate",
+  "chapter": "new: Soil geography",
+  "status": "phrase",
+  "phrases": [
+   "Mountain soils",
+   "mountain soils",
+   "alpine soils"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Volcanic soils",
+  "branch": "Soil geography",
+  "level": "Intermediate",
+  "chapter": "new: Soil geography",
+  "status": "covered",
+  "entry": "soil-class-039"
+ },
+ {
+  "name": "Soils of Africa",
+  "branch": "Soil geography",
+  "level": "Intermediate",
+  "chapter": "new: Soil geography",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Soils of Europe",
+  "branch": "Soil geography",
+  "level": "Intermediate",
+  "chapter": "new: Soil geography",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Soils of Asia",
+  "branch": "Soil geography",
+  "level": "Intermediate",
+  "chapter": "new: Soil geography",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Soils of Australia",
+  "branch": "Soil geography",
+  "level": "Intermediate",
+  "chapter": "new: Soil geography",
+  "status": "phrase",
+  "phrases": [
+   "Soils of Australia",
+   "Australian soils"
+  ],
+  "sentences": 6
+ },
+ {
+  "name": "Soils of South America",
+  "branch": "Soil geography",
+  "level": "Intermediate",
+  "chapter": "new: Soil geography",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Toposequence",
+  "branch": "Soil geography",
+  "level": "Intermediate",
+  "chapter": "new: Soil geography",
+  "status": "covered",
+  "entry": "soil-form-054"
+ },
+ {
+  "name": "Climosequence, lithosequence and biosequence",
+  "branch": "Soil geography",
+  "level": "Advanced",
+  "chapter": "new: Soil geography",
+  "status": "phrase",
+  "phrases": [
+   "Climosequence, lithosequence and biosequence",
+   "climosequence",
+   "lithosequence",
+   "biosequence"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Hillslope position and soils",
+  "branch": "Soil geography",
+  "level": "Intermediate",
+  "chapter": "new: Soil geography",
+  "status": "page",
+  "pages": [
+   "Hillslope evolution",
+   "Slope"
+  ],
+  "judged_out": [
+   "Slope"
+  ]
+ },
+ {
+  "name": "Soil zonality",
+  "branch": "Soil geography",
+  "level": "Intermediate",
+  "chapter": "new: Soil geography",
+  "status": "phrase",
+  "phrases": [
+   "Soil zonality",
+   "soil zones",
+   "zonality"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Humans as a soil-forming factor",
+  "branch": "Soil geography",
+  "level": "Intermediate",
+  "chapter": "new: Soil geography",
+  "status": "phrase",
+  "phrases": [
+   "Humans as a soil-forming factor",
+   "humans as a soil-forming factor",
+   "anthropogenic factor"
+  ],
+  "sentences": 14
+ },
+ {
+  "name": "Soil biochemistry",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Intermediate",
+  "chapter": "new: Soil biochemistry",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Extracellular enzymes",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Intermediate",
+  "chapter": "new: Soil biochemistry",
+  "status": "page",
+  "pages": [
+   "Fungal extracellular enzyme activity",
+   "Exoenzyme"
+  ]
+ },
+ {
+  "name": "Phosphatase",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Intermediate",
+  "chapter": "new: Soil biochemistry",
+  "status": "page",
+  "pages": [
+   "Phosphatase",
+   "Acid phosphatase"
+  ]
+ },
+ {
+  "name": "Urease",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Intermediate",
+  "chapter": "new: Soil biochemistry",
+  "status": "page",
+  "pages": [
+   "Urease"
+  ]
+ },
+ {
+  "name": "Beta-glucosidase",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "page",
+  "pages": [
+   "Β-Glucosidase"
+  ]
+ },
+ {
+  "name": "Dehydrogenase activity",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "judged out",
+  "pages": [
+   "Dehydrogenase"
+  ],
+  "judged_out": [
+   "Dehydrogenase"
+  ]
+ },
+ {
+  "name": "Cellulase",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Intermediate",
+  "chapter": "new: Soil biochemistry",
+  "status": "judged out",
+  "pages": [
+   "Cellulase"
+  ],
+  "judged_out": [
+   "Cellulase"
+  ]
+ },
+ {
+  "name": "Ligninolytic enzymes",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "page",
+  "pages": [
+   "Laccase",
+   "Lignin peroxidase",
+   "Manganese peroxidase"
+  ],
+  "judged_out": [
+   "Laccase"
+  ]
+ },
+ {
+  "name": "Chitinase",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "judged out",
+  "pages": [
+   "Chitinase"
+  ],
+  "judged_out": [
+   "Chitinase"
+  ]
+ },
+ {
+  "name": "Microbial carbon use efficiency",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "phrase",
+  "phrases": [
+   "Microbial carbon use efficiency",
+   "carbon use efficiency",
+   "microbial growth efficiency"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Microbial biomass",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Intermediate",
+  "chapter": "new: Soil biochemistry",
+  "status": "phrase",
+  "phrases": [
+   "Microbial biomass",
+   "microbial biomass"
+  ],
+  "sentences": 45
+ },
+ {
+  "name": "Chloroform fumigation extraction",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Substrate-induced respiration",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Metabolic quotient",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Microbial carbon pump",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "page",
+  "pages": [
+   "Microbial carbon pump"
+  ]
+ },
+ {
+  "name": "Q10 temperature coefficient",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "page",
+  "pages": [
+   "Q10 (temperature coefficient)"
+  ]
+ },
+ {
+  "name": "Michaelis–Menten kinetics",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "page",
+  "pages": [
+   "Michaelis–Menten kinetics"
+  ]
+ },
+ {
+  "name": "Ecological stoichiometry",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "page",
+  "pages": [
+   "Ecological stoichiometry"
+  ]
+ },
+ {
+  "name": "Phospholipid fatty acid analysis",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "page",
+  "pages": [
+   "Phospholipid-derived fatty acids"
+  ]
+ },
+ {
+  "name": "Stable-isotope probing",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "page",
+  "pages": [
+   "Stable-isotope probing"
+  ]
+ },
+ {
+  "name": "Metagenomics",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "page",
+  "pages": [
+   "Metagenomics"
+  ]
+ },
+ {
+  "name": "16S rRNA sequencing",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "judged out",
+  "pages": [
+   "16S ribosomal RNA"
+  ],
+  "judged_out": [
+   "16S ribosomal RNA"
+  ]
+ },
+ {
+  "name": "Metabarcoding",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "page",
+  "pages": [
+   "Metabarcoding",
+   "Amplicon"
+  ]
+ },
+ {
+  "name": "Quorum sensing",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "judged out",
+  "pages": [
+   "Quorum sensing"
+  ],
+  "judged_out": [
+   "Quorum sensing"
+  ]
+ },
+ {
+  "name": "Horizontal gene transfer in soil",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "judged out",
+  "pages": [
+   "Horizontal gene transfer"
+  ],
+  "judged_out": [
+   "Horizontal gene transfer"
+  ]
+ },
+ {
+  "name": "Soil resistome",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "page",
+  "pages": [
+   "Antimicrobial resistance",
+   "Resistome"
+  ],
+  "judged_out": [
+   "Antimicrobial resistance"
+  ]
+ },
+ {
+  "name": "Amino sugar biomarkers",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "page",
+  "pages": [
+   "Amino sugar"
+  ]
+ },
+ {
+  "name": "Natural-abundance carbon isotopes in soil",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "judged out",
+  "pages": [
+   "Isotopic signature",
+   "Carbon-13"
+  ],
+  "judged_out": [
+   "Isotopic signature",
+   "Carbon-13"
+  ]
+ },
+ {
+  "name": "Nitrogen-15 tracing",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "page",
+  "pages": [
+   "Nitrogen-15 tracing",
+   "Isotope dilution"
+  ]
+ },
+ {
+  "name": "Gross nitrogen transformations",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Soil volatile organic compounds",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "judged out",
+  "pages": [
+   "Volatile organic compound"
+  ],
+  "judged_out": [
+   "Volatile organic compound"
+  ]
+ },
+ {
+  "name": "Microbial dormancy",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "judged out",
+  "pages": [
+   "Dormancy"
+  ],
+  "judged_out": [
+   "Dormancy"
+  ]
+ },
+ {
+  "name": "Fungal-to-bacterial ratio",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Isotope-ratio mass spectrometry",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "page",
+  "pages": [
+   "Isotope-ratio mass spectrometry"
+  ]
+ },
+ {
+  "name": "Nuclear magnetic resonance of soil organic matter",
+  "branch": "Soil biochemistry and microbial ecology methods",
+  "level": "Advanced",
+  "chapter": "new: Soil biochemistry",
+  "status": "judged out",
+  "pages": [
+   "Nuclear magnetic resonance spectroscopy"
+  ],
+  "judged_out": [
+   "Nuclear magnetic resonance spectroscopy"
+  ]
+ },
+ {
+  "name": "Adsorption isotherm",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Advanced",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "page",
+  "pages": [
+   "Adsorption",
+   "Adsorption"
+  ]
+ },
+ {
+  "name": "Langmuir adsorption model",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Advanced",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "page",
+  "pages": [
+   "Langmuir adsorption model"
+  ]
+ },
+ {
+  "name": "Freundlich equation",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Advanced",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "page",
+  "pages": [
+   "Freundlich equation"
+  ]
+ },
+ {
+  "name": "Distribution coefficient",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Advanced",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "page",
+  "pages": [
+   "Partition coefficient",
+   "Partition coefficient"
+  ]
+ },
+ {
+  "name": "Surface complexation models",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Advanced",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "phrase",
+  "phrases": [
+   "Surface complexation models",
+   "surface complexation"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Inner- and outer-sphere complexes",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Advanced",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "page",
+  "pages": [
+   "Inner sphere complex"
+  ]
+ },
+ {
+  "name": "Ligand exchange and specific adsorption",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Advanced",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "judged out",
+  "pages": [
+   "Ligand"
+  ],
+  "judged_out": [
+   "Ligand"
+  ]
+ },
+ {
+  "name": "Ion activity and activity coefficients",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Advanced",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "page",
+  "pages": [
+   "Activity coefficient",
+   "Thermodynamic activity"
+  ]
+ },
+ {
+  "name": "Debye–Hückel equation",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Advanced",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "page",
+  "pages": [
+   "Debye–Hückel theory"
+  ]
+ },
+ {
+  "name": "Ionic strength",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Intermediate",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "page",
+  "pages": [
+   "Ionic strength"
+  ]
+ },
+ {
+  "name": "Chemical speciation",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Advanced",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "phrase",
+  "phrases": [
+   "Chemical speciation",
+   "speciation"
+  ],
+  "sentences": 64
+ },
+ {
+  "name": "Solubility equilibrium",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Intermediate",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "page",
+  "pages": [
+   "Solubility equilibrium",
+   "Solubility equilibrium"
+  ]
+ },
+ {
+  "name": "Chemical equilibrium in soils",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Intermediate",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "judged out",
+  "pages": [
+   "Chemical equilibrium"
+  ],
+  "judged_out": [
+   "Chemical equilibrium"
+  ]
+ },
+ {
+  "name": "Kinetics of soil chemical reactions",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Advanced",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "judged out",
+  "pages": [
+   "Chemical kinetics"
+  ],
+  "judged_out": [
+   "Chemical kinetics"
+  ]
+ },
+ {
+  "name": "Cation exchange selectivity",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Advanced",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Hofmeister series",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Advanced",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "page",
+  "pages": [
+   "Hofmeister series",
+   "Hofmeister series"
+  ]
+ },
+ {
+  "name": "Electrical conductivity of soil solution",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Intermediate",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "page",
+  "pages": [
+   "Electrical resistivity and conductivity",
+   "Conductivity (electrolytic)"
+  ]
+ },
+ {
+  "name": "Carbonate equilibria in soils",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Advanced",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "judged out",
+  "pages": [
+   "Carbonic acid",
+   "Carbonate–silicate cycle"
+  ],
+  "judged_out": [
+   "Carbonic acid",
+   "Carbonate–silicate cycle"
+  ]
+ },
+ {
+  "name": "Aluminium hydrolysis and speciation",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Advanced",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "judged out",
+  "pages": [
+   "Aluminium hydroxide"
+  ],
+  "judged_out": [
+   "Aluminium hydroxide"
+  ]
+ },
+ {
+  "name": "Biotic ligand model",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Advanced",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Geochemical modeling",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Advanced",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "page",
+  "pages": [
+   "Geochemical modeling"
+  ]
+ },
+ {
+  "name": "X-ray absorption spectroscopy",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Advanced",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "page",
+  "pages": [
+   "X-ray absorption spectroscopy",
+   "X-ray absorption fine structure"
+  ],
+  "judged_out": [
+   "X-ray absorption spectroscopy"
+  ]
+ },
+ {
+  "name": "Precipitation and coprecipitation",
+  "branch": "Soil solution chemistry, sorption and speciation",
+  "level": "Advanced",
+  "chapter": "new: Soil solution chemistry and sorption",
+  "status": "page",
+  "pages": [
+   "Coprecipitation",
+   "Precipitation (chemistry)"
+  ]
+ },
+ {
+  "name": "Soil sampling",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Foundational",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "covered",
+  "entry": "soil-fert-187"
+ },
+ {
+  "name": "Soil auger",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Foundational",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "page",
+  "pages": [
+   "Wood auger"
+  ]
+ },
+ {
+  "name": "Soil pit",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Foundational",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Soil sample preparation",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Intermediate",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "page",
+  "pages": [
+   "Sample preparation"
+  ]
+ },
+ {
+  "name": "Fine earth fraction",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Intermediate",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "phrase",
+  "phrases": [
+   "Fine earth fraction",
+   "fine earth",
+   "fine-earth fraction"
+  ],
+  "sentences": 13
+ },
+ {
+  "name": "Mehlich soil test",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Advanced",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Olsen phosphorus test",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Advanced",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Bray phosphorus test",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Advanced",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Kjeldahl method",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Intermediate",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "page",
+  "pages": [
+   "Kjeldahl method"
+  ]
+ },
+ {
+  "name": "Dumas method",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Advanced",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "page",
+  "pages": [
+   "Dumas method",
+   "Combustion analysis"
+  ]
+ },
+ {
+  "name": "Walkley–Black method",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Advanced",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Loss on ignition",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Intermediate",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "page",
+  "pages": [
+   "Loss on ignition"
+  ]
+ },
+ {
+  "name": "CHN elemental analysis",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Advanced",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "page",
+  "pages": [
+   "Combustion analysis",
+   "Elemental analysis"
+  ]
+ },
+ {
+  "name": "Atomic absorption spectroscopy",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Advanced",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "page",
+  "pages": [
+   "Atomic absorption spectroscopy"
+  ]
+ },
+ {
+  "name": "Inductively coupled plasma spectrometry",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Advanced",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "page",
+  "pages": [
+   "Inductively coupled plasma atomic emission spectroscopy",
+   "Inductively coupled plasma mass spectrometry"
+  ]
+ },
+ {
+  "name": "Molybdenum blue method",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Advanced",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "page",
+  "pages": [
+   "Molybdenum blue"
+  ]
+ },
+ {
+  "name": "Ion chromatography",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Advanced",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "page",
+  "pages": [
+   "Ion chromatography"
+  ]
+ },
+ {
+  "name": "Gas chromatography of soil gases",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Advanced",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "page",
+  "pages": [
+   "Gas chromatography"
+  ]
+ },
+ {
+  "name": "Ion-selective electrode",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Intermediate",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "page",
+  "pages": [
+   "Ion-selective electrode"
+  ]
+ },
+ {
+  "name": "DTPA micronutrient extraction",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Advanced",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "page",
+  "pages": [
+   "Pentetic acid",
+   "Pentetic acid"
+  ]
+ },
+ {
+  "name": "Ammonium acetate extraction",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Advanced",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "page",
+  "pages": [
+   "Ammonium acetate"
+  ]
+ },
+ {
+  "name": "Sequential extraction",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Advanced",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Aqua regia digestion",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Advanced",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "page",
+  "pages": [
+   "Aqua regia"
+  ]
+ },
+ {
+  "name": "Soil test calibration and correlation",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Advanced",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Soil gas flux chamber",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Advanced",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Laboratory quality control and reference soils",
+  "branch": "Soil analysis and laboratory methods",
+  "level": "Advanced",
+  "chapter": "new: Soil analysis and laboratory methods",
+  "status": "page",
+  "pages": [
+   "Certified reference materials"
+  ]
+ },
+ {
+  "name": "Soils and human health",
+  "branch": "Soils and human health",
+  "level": "Intermediate",
+  "chapter": "new: Soils and human health",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Geophagia",
+  "branch": "Soils and human health",
+  "level": "Intermediate",
+  "chapter": "new: Soils and human health",
+  "status": "page",
+  "pages": [
+   "Geophagia"
+  ]
+ },
+ {
+  "name": "Medical geology",
+  "branch": "Soils and human health",
+  "level": "Intermediate",
+  "chapter": "new: Soils and human health",
+  "status": "page",
+  "pages": [
+   "Medical geology"
+  ]
+ },
+ {
+  "name": "Soil-transmitted helminthiasis",
+  "branch": "Soils and human health",
+  "level": "Intermediate",
+  "chapter": "new: Soils and human health",
+  "status": "page",
+  "pages": [
+   "Soil-transmitted helminthiasis"
+  ]
+ },
+ {
+  "name": "Clostridium tetani in soil",
+  "branch": "Soils and human health",
+  "level": "Intermediate",
+  "chapter": "new: Soils and human health",
+  "status": "judged out",
+  "pages": [
+   "Clostridium tetani",
+   "Tetanus"
+  ],
+  "judged_out": [
+   "Clostridium tetani",
+   "Tetanus"
+  ]
+ },
+ {
+  "name": "Anthrax spores in soil",
+  "branch": "Soils and human health",
+  "level": "Intermediate",
+  "chapter": "new: Soils and human health",
+  "status": "judged out",
+  "pages": [
+   "Bacillus anthracis",
+   "Anthrax"
+  ],
+  "judged_out": [
+   "Bacillus anthracis",
+   "Anthrax"
+  ]
+ },
+ {
+  "name": "Coccidioidomycosis",
+  "branch": "Soils and human health",
+  "level": "Intermediate",
+  "chapter": "new: Soils and human health",
+  "status": "page",
+  "pages": [
+   "Coccidioidomycosis"
+  ]
+ },
+ {
+  "name": "Histoplasmosis",
+  "branch": "Soils and human health",
+  "level": "Intermediate",
+  "chapter": "new: Soils and human health",
+  "status": "judged out",
+  "pages": [
+   "Histoplasmosis"
+  ],
+  "judged_out": [
+   "Histoplasmosis"
+  ]
+ },
+ {
+  "name": "Melioidosis",
+  "branch": "Soils and human health",
+  "level": "Advanced",
+  "chapter": "new: Soils and human health",
+  "status": "page",
+  "pages": [
+   "Melioidosis",
+   "Burkholderia pseudomallei"
+  ]
+ },
+ {
+  "name": "Prions in soil",
+  "branch": "Soils and human health",
+  "level": "Advanced",
+  "chapter": "new: Soils and human health",
+  "status": "page",
+  "pages": [
+   "Chronic wasting disease",
+   "Prion"
+  ]
+ },
+ {
+  "name": "Antibiotics discovered in soil",
+  "branch": "Soils and human health",
+  "level": "Intermediate",
+  "chapter": "new: Soils and human health",
+  "status": "judged out",
+  "pages": [
+   "Streptomycin",
+   "Antibiotic"
+  ],
+  "judged_out": [
+   "Streptomycin",
+   "Antibiotic"
+  ]
+ },
+ {
+  "name": "Hygiene hypothesis",
+  "branch": "Soils and human health",
+  "level": "Intermediate",
+  "chapter": "new: Soils and human health",
+  "status": "page",
+  "pages": [
+   "Hygiene hypothesis"
+  ]
+ },
+ {
+  "name": "Mycobacterium vaccae",
+  "branch": "Soils and human health",
+  "level": "Advanced",
+  "chapter": "new: Soils and human health",
+  "status": "page",
+  "pages": [
+   "Mycobacterium vaccae"
+  ]
+ },
+ {
+  "name": "Radon from soil",
+  "branch": "Soils and human health",
+  "level": "Intermediate",
+  "chapter": "new: Soils and human health",
+  "status": "judged out",
+  "pages": [
+   "Radon"
+  ],
+  "judged_out": [
+   "Radon"
+  ]
+ },
+ {
+  "name": "Keshan disease",
+  "branch": "Soils and human health",
+  "level": "Advanced",
+  "chapter": "new: Soils and human health",
+  "status": "page",
+  "pages": [
+   "Keshan disease",
+   "Selenium deficiency"
+  ]
+ },
+ {
+  "name": "Iodine deficiency and soils",
+  "branch": "Soils and human health",
+  "level": "Intermediate",
+  "chapter": "new: Soils and human health",
+  "status": "page",
+  "pages": [
+   "Iodine deficiency"
+  ]
+ },
+ {
+  "name": "Podoconiosis",
+  "branch": "Soils and human health",
+  "level": "Advanced",
+  "chapter": "new: Soils and human health",
+  "status": "page",
+  "pages": [
+   "Podoconiosis"
+  ]
+ },
+ {
+  "name": "Itai-itai disease",
+  "branch": "Soils and human health",
+  "level": "Advanced",
+  "chapter": "new: Soils and human health",
+  "status": "page",
+  "pages": [
+   "Itai-itai disease"
+  ]
+ },
+ {
+  "name": "Biofortification",
+  "branch": "Soils and human health",
+  "level": "Intermediate",
+  "chapter": "new: Soils and human health",
+  "status": "page",
+  "pages": [
+   "Biofortification"
+  ]
+ },
+ {
+  "name": "Food security and soils",
+  "branch": "Soils and human health",
+  "level": "Foundational",
+  "chapter": "new: Soils and human health",
+  "status": "judged out",
+  "pages": [
+   "Food security"
+  ],
+  "judged_out": [
+   "Food security"
+  ]
+ },
+ {
+  "name": "One Health and soils",
+  "branch": "Soils and human health",
+  "level": "Intermediate",
+  "chapter": "new: Soils and human health",
+  "status": "page",
+  "pages": [
+   "One Health"
+  ]
+ },
+ {
+  "name": "Soil ingestion exposure",
+  "branch": "Soils and human health",
+  "level": "Advanced",
+  "chapter": "new: Soils and human health",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Dirt",
+  "branch": "Foundations of soil science",
+  "level": "Foundational",
+  "chapter": "what-soil-is",
+  "status": "judged out",
+  "pages": [
+   "Dirt"
+  ],
+  "judged_out": [
+   "Dirt"
+  ]
+ },
+ {
+  "name": "Critical Zone Observatories",
+  "branch": "Foundations of soil science",
+  "level": "Intermediate",
+  "chapter": "what-soil-is",
+  "status": "judged out",
+  "pages": [
+   "Critical Zone Observatories"
+  ],
+  "judged_out": [
+   "Critical Zone Observatories"
+  ]
+ },
+ {
+  "name": "Rock types as soil parent rocks",
+  "branch": "Parent materials and weathering",
+  "level": "Foundational",
+  "chapter": "weathering-and-parent-material",
+  "status": "page",
+  "pages": [
+   "Igneous rock",
+   "Sedimentary rock",
+   "Metamorphic rock"
+  ]
+ },
+ {
+  "name": "Granite weathering",
+  "branch": "Parent materials and weathering",
+  "level": "Intermediate",
+  "chapter": "weathering-and-parent-material",
+  "status": "judged out",
+  "pages": [
+   "Granite"
+  ],
+  "judged_out": [
+   "Granite"
+  ]
+ },
+ {
+  "name": "Basalt weathering",
+  "branch": "Parent materials and weathering",
+  "level": "Intermediate",
+  "chapter": "weathering-and-parent-material",
+  "status": "judged out",
+  "pages": [
+   "Basalt"
+  ],
+  "judged_out": [
+   "Basalt"
+  ]
+ },
+ {
+  "name": "Limestone",
+  "branch": "Parent materials and weathering",
+  "level": "Foundational",
+  "chapter": "weathering-and-parent-material",
+  "status": "page",
+  "pages": [
+   "Limestone"
+  ]
+ },
+ {
+  "name": "Shale",
+  "branch": "Parent materials and weathering",
+  "level": "Intermediate",
+  "chapter": "weathering-and-parent-material",
+  "status": "judged out",
+  "pages": [
+   "Shale"
+  ],
+  "judged_out": [
+   "Shale"
+  ]
+ },
+ {
+  "name": "Sandstone",
+  "branch": "Parent materials and weathering",
+  "level": "Intermediate",
+  "chapter": "weathering-and-parent-material",
+  "status": "judged out",
+  "pages": [
+   "Sandstone"
+  ],
+  "judged_out": [
+   "Sandstone"
+  ]
+ },
+ {
+  "name": "Spheroidal weathering",
+  "branch": "Soil composition",
+  "level": "Intermediate",
+  "chapter": "what-soil-is-made-of",
+  "status": "page",
+  "pages": [
+   "Spheroidal weathering"
+  ]
+ },
+ {
+  "name": "Weathering rind",
+  "branch": "Soil composition",
+  "level": "Advanced",
+  "chapter": "what-soil-is-made-of",
+  "status": "page",
+  "pages": [
+   "Weathering rind"
+  ]
+ },
+ {
+  "name": "Grus",
+  "branch": "Parent materials and weathering",
+  "level": "Intermediate",
+  "chapter": "weathering-and-parent-material",
+  "status": "page",
+  "pages": [
+   "Grus (geology)"
+  ]
+ },
+ {
+  "name": "Alluvial fan",
+  "branch": "Parent materials and weathering",
+  "level": "Intermediate",
+  "chapter": "weathering-and-parent-material",
+  "status": "page",
+  "pages": [
+   "Alluvial fan"
+  ]
+ },
+ {
+  "name": "Outwash plain",
+  "branch": "Parent materials and weathering",
+  "level": "Intermediate",
+  "chapter": "weathering-and-parent-material",
+  "status": "page",
+  "pages": [
+   "Outwash plain"
+  ]
+ },
+ {
+  "name": "Varve",
+  "branch": "Parent materials and weathering",
+  "level": "Intermediate",
+  "chapter": "weathering-and-parent-material",
+  "status": "judged out",
+  "pages": [
+   "Varve"
+  ],
+  "judged_out": [
+   "Varve"
+  ]
+ },
+ {
+  "name": "Scree",
+  "branch": "Parent materials and weathering",
+  "level": "Intermediate",
+  "chapter": "weathering-and-parent-material",
+  "status": "judged out",
+  "pages": [
+   "Scree"
+  ],
+  "judged_out": [
+   "Scree"
+  ]
+ },
+ {
+  "name": "Drift (geology)",
+  "branch": "Parent materials and weathering",
+  "level": "Intermediate",
+  "chapter": "weathering-and-parent-material",
+  "status": "page",
+  "pages": [
+   "Drift (geology)"
+  ]
+ },
+ {
+  "name": "Coversand",
+  "branch": "Parent materials and weathering",
+  "level": "Intermediate",
+  "chapter": "weathering-and-parent-material",
+  "status": "covered",
+  "entry": "soil-phys-014"
+ },
+ {
+  "name": "Moraine",
+  "branch": "Parent materials and weathering",
+  "level": "Intermediate",
+  "chapter": "weathering-and-parent-material",
+  "status": "page",
+  "pages": [
+   "Moraine"
+  ]
+ },
+ {
+  "name": "Weathering front",
+  "branch": "Parent materials and weathering",
+  "level": "Advanced",
+  "chapter": "weathering-and-parent-material",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Spodic horizon",
+  "branch": "Soil morphology and profile description",
+  "level": "Intermediate",
+  "chapter": "horizons-and-the-soil-profile",
+  "status": "phrase",
+  "phrases": [
+   "Spodic horizon",
+   "spodic horizon"
+  ],
+  "sentences": 6
+ },
+ {
+  "name": "Ortstein",
+  "branch": "Soil morphology and profile description",
+  "level": "Advanced",
+  "chapter": "horizons-and-the-soil-profile",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Placic horizon",
+  "branch": "Soil morphology and profile description",
+  "level": "Advanced",
+  "chapter": "horizons-and-the-soil-profile",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Mollic epipedon",
+  "branch": "Soil morphology and profile description",
+  "level": "Intermediate",
+  "chapter": "horizons-and-the-soil-profile",
+  "status": "phrase",
+  "phrases": [
+   "Mollic epipedon",
+   "mollic epipedon",
+   "mollic horizon"
+  ],
+  "sentences": 10
+ },
+ {
+  "name": "Ochric epipedon",
+  "branch": "Soil morphology and profile description",
+  "level": "Intermediate",
+  "chapter": "horizons-and-the-soil-profile",
+  "status": "phrase",
+  "phrases": [
+   "Ochric epipedon",
+   "ochric epipedon"
+  ],
+  "sentences": 4
+ },
+ {
+  "name": "Histic epipedon",
+  "branch": "Soil morphology and profile description",
+  "level": "Intermediate",
+  "chapter": "horizons-and-the-soil-profile",
+  "status": "phrase",
+  "phrases": [
+   "Histic epipedon",
+   "histic epipedon"
+  ],
+  "sentences": 4
+ },
+ {
+  "name": "Melanic and anthropic epipedons",
+  "branch": "Soil morphology and profile description",
+  "level": "Advanced",
+  "chapter": "horizons-and-the-soil-profile",
+  "status": "phrase",
+  "phrases": [
+   "Melanic and anthropic epipedons",
+   "melanic epipedon",
+   "anthropic epipedon"
+  ],
+  "sentences": 4
+ },
+ {
+  "name": "Natric horizon",
+  "branch": "Soil morphology and profile description",
+  "level": "Intermediate",
+  "chapter": "horizons-and-the-soil-profile",
+  "status": "phrase",
+  "phrases": [
+   "Natric horizon",
+   "natric horizon"
+  ],
+  "sentences": 7
+ },
+ {
+  "name": "Kandic horizon",
+  "branch": "Soil morphology and profile description",
+  "level": "Advanced",
+  "chapter": "horizons-and-the-soil-profile",
+  "status": "phrase",
+  "phrases": [
+   "Kandic horizon",
+   "kandic horizon"
+  ],
+  "sentences": 4
+ },
+ {
+  "name": "Oxic horizon",
+  "branch": "Soil morphology and profile description",
+  "level": "Advanced",
+  "chapter": "horizons-and-the-soil-profile",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Calcic horizon",
+  "branch": "Soil morphology and profile description",
+  "level": "Intermediate",
+  "chapter": "horizons-and-the-soil-profile",
+  "status": "phrase",
+  "phrases": [
+   "Calcic horizon",
+   "calcic horizon"
+  ],
+  "sentences": 23
+ },
+ {
+  "name": "Gypsic and salic horizons",
+  "branch": "Soil morphology and profile description",
+  "level": "Advanced",
+  "chapter": "horizons-and-the-soil-profile",
+  "status": "phrase",
+  "phrases": [
+   "Gypsic and salic horizons",
+   "gypsic horizon",
+   "salic horizon"
+  ],
+  "sentences": 8
+ },
+ {
+  "name": "Clay lamellae",
+  "branch": "Soil morphology and profile description",
+  "level": "Advanced",
+  "chapter": "horizons-and-the-soil-profile",
+  "status": "phrase",
+  "phrases": [
+   "Clay lamellae",
+   "lamellae"
+  ],
+  "sentences": 31
+ },
+ {
+  "name": "Slickenside",
+  "branch": "Soil morphology and profile description",
+  "level": "Intermediate",
+  "chapter": "horizons-and-the-soil-profile",
+  "status": "page",
+  "pages": [
+   "Slickenside"
+  ]
+ },
+ {
+  "name": "Perched water table",
+  "branch": "Soil morphology and profile description",
+  "level": "Intermediate",
+  "chapter": "horizons-and-the-soil-profile",
+  "status": "covered",
+  "entry": "soil-water-247"
+ },
+ {
+  "name": "Root-restricting layers",
+  "branch": "Soil morphology and profile description",
+  "level": "Intermediate",
+  "chapter": "horizons-and-the-soil-profile",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Field Book for Describing and Sampling Soils",
+  "branch": "Soil morphology and profile description",
+  "level": "Intermediate",
+  "chapter": "horizons-and-the-soil-profile",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "FAO Guidelines for Soil Description",
+  "branch": "Soil morphology and profile description",
+  "level": "Advanced",
+  "chapter": "horizons-and-the-soil-profile",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Soil monolith",
+  "branch": "Soil morphology and profile description",
+  "level": "Intermediate",
+  "chapter": "horizons-and-the-soil-profile",
+  "status": "phrase",
+  "phrases": [
+   "Soil monolith",
+   "soil monolith"
+  ],
+  "sentences": 6
+ },
+ {
+  "name": "Pedogenic processes",
+  "branch": "Pedology and soil genesis",
+  "level": "Intermediate",
+  "chapter": "how-soils-form",
+  "status": "covered",
+  "entry": "soil-form-042"
+ },
+ {
+  "name": "Calcrete",
+  "branch": "Pedology and soil genesis",
+  "level": "Intermediate",
+  "chapter": "how-soils-form",
+  "status": "covered",
+  "entry": "soil-chem-036"
+ },
+ {
+  "name": "Krotovina",
+  "branch": "Pedology and soil genesis",
+  "level": "Intermediate",
+  "chapter": "how-soils-form",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Argillipedoturbation",
+  "branch": "Pedology and soil genesis",
+  "level": "Advanced",
+  "chapter": "how-soils-form",
+  "status": "page",
+  "pages": [
+   "Argillipedoturbation"
+  ]
+ },
+ {
+  "name": "Solonization and solodization",
+  "branch": "Pedology and soil genesis",
+  "level": "Advanced",
+  "chapter": "how-soils-form",
+  "status": "page",
+  "pages": [
+   "Solod"
+  ]
+ },
+ {
+  "name": "Melanization",
+  "branch": "Pedology and soil genesis",
+  "level": "Advanced",
+  "chapter": "how-soils-form",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Rubification",
+  "branch": "Pedology and soil genesis",
+  "level": "Advanced",
+  "chapter": "how-soils-form",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Brunification",
+  "branch": "Pedology and soil genesis",
+  "level": "Advanced",
+  "chapter": "how-soils-form",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Desilication",
+  "branch": "Pedology and soil genesis",
+  "level": "Advanced",
+  "chapter": "how-soils-form",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Ferrolysis",
+  "branch": "Pedology and soil genesis",
+  "level": "Advanced",
+  "chapter": "how-soils-form",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Decalcification",
+  "branch": "Pedology and soil genesis",
+  "level": "Intermediate",
+  "chapter": "how-soils-form",
+  "status": "page",
+  "pages": [
+   "Bone decalcification"
+  ]
+ },
+ {
+  "name": "Sulfidization",
+  "branch": "Pedology and soil genesis",
+  "level": "Advanced",
+  "chapter": "how-soils-form",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Chemical index of alteration",
+  "branch": "Pedology and soil genesis",
+  "level": "Advanced",
+  "chapter": "how-soils-form",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Mass-balance pedogenesis",
+  "branch": "Pedology and soil genesis",
+  "level": "Advanced",
+  "chapter": "how-soils-form",
+  "status": "page",
+  "pages": [
+   "Mass balance"
+  ]
+ },
+ {
+  "name": "Progressive and regressive pedogenesis",
+  "branch": "Pedology and soil genesis",
+  "level": "Advanced",
+  "chapter": "how-soils-form",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Steady-state soils",
+  "branch": "Pedology and soil genesis",
+  "level": "Advanced",
+  "chapter": "how-soils-form",
+  "status": "phrase",
+  "phrases": [
+   "Steady-state soils",
+   "steady state",
+   "soil residence time"
+  ],
+  "sentences": 60
+ },
+ {
+  "name": "Geomorphology",
+  "branch": "Soil geomorphology and wetland soils",
+  "level": "Intermediate",
+  "chapter": "soils-in-the-landscape",
+  "status": "page",
+  "pages": [
+   "Geomorphology"
+  ]
+ },
+ {
+  "name": "Soil geomorphology",
+  "branch": "Soil geomorphology and wetland soils",
+  "level": "Intermediate",
+  "chapter": "soils-in-the-landscape",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Landform",
+  "branch": "Soil geomorphology and wetland soils",
+  "level": "Foundational",
+  "chapter": "soils-in-the-landscape",
+  "status": "judged out",
+  "pages": [
+   "Landform"
+  ],
+  "judged_out": [
+   "Landform"
+  ]
+ },
+ {
+  "name": "Fluvial terrace",
+  "branch": "Soil geomorphology and wetland soils",
+  "level": "Intermediate",
+  "chapter": "soils-in-the-landscape",
+  "status": "judged out",
+  "pages": [
+   "Fluvial terrace"
+  ],
+  "judged_out": [
+   "Fluvial terrace"
+  ]
+ },
+ {
+  "name": "Geomorphic surface",
+  "branch": "Soil geomorphology and wetland soils",
+  "level": "Advanced",
+  "chapter": "soils-in-the-landscape",
+  "status": "phrase",
+  "phrases": [
+   "Geomorphic surface",
+   "geomorphic surface"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Karst",
+  "branch": "Soil geomorphology and wetland soils",
+  "level": "Intermediate",
+  "chapter": "soils-in-the-landscape",
+  "status": "judged out",
+  "pages": [
+   "Karst"
+  ],
+  "judged_out": [
+   "Karst"
+  ]
+ },
+ {
+  "name": "Terrestrialisation",
+  "branch": "Soil geomorphology and wetland soils",
+  "level": "Intermediate",
+  "chapter": "soils-in-the-landscape",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Hydrosere",
+  "branch": "Soil geomorphology and wetland soils",
+  "level": "Intermediate",
+  "chapter": "soils-in-the-landscape",
+  "status": "page",
+  "pages": [
+   "Hydrosere"
+  ]
+ },
+ {
+  "name": "Carr (landform)",
+  "branch": "Soil geomorphology and wetland soils",
+  "level": "Intermediate",
+  "chapter": "soils-in-the-landscape",
+  "status": "judged out",
+  "pages": [
+   "Carr (landform)"
+  ],
+  "judged_out": [
+   "Carr (landform)"
+  ]
+ },
+ {
+  "name": "Wetland delineation",
+  "branch": "Soil geomorphology and wetland soils",
+  "level": "Intermediate",
+  "chapter": "soils-in-the-landscape",
+  "status": "phrase",
+  "phrases": [
+   "Wetland delineation",
+   "wetland delineation"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Hydric soil indicators",
+  "branch": "Soil geomorphology and wetland soils",
+  "level": "Advanced",
+  "chapter": "soils-in-the-landscape",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Mangrove soils",
+  "branch": "Soil geomorphology and wetland soils",
+  "level": "Intermediate",
+  "chapter": "soils-in-the-landscape",
+  "status": "judged out",
+  "pages": [
+   "Mangrove"
+  ],
+  "judged_out": [
+   "Mangrove"
+  ]
+ },
+ {
+  "name": "Land capability classification",
+  "branch": "Soil survey and land evaluation",
+  "level": "Intermediate",
+  "chapter": "soil-survey-and-land-evaluation",
+  "status": "page",
+  "pages": [
+   "Land use capability map"
+  ]
+ },
+ {
+  "name": "Modified Burmister classification",
+  "branch": "Soil classification",
+  "level": "Advanced",
+  "chapter": "classification-systems",
+  "status": "judged out",
+  "pages": [
+   "Donald Burmister"
+  ],
+  "judged_out": [
+   "Donald Burmister"
+  ]
+ },
+ {
+  "name": "ISO 14688",
+  "branch": "Soil classification",
+  "level": "Advanced",
+  "chapter": "classification-systems",
+  "status": "phrase",
+  "phrases": [
+   "ISO 14688",
+   "ISO 14688"
+  ],
+  "sentences": 8
+ },
+ {
+  "name": "Chinese Soil Taxonomy",
+  "branch": "Soil classification",
+  "level": "Intermediate",
+  "chapter": "classification-systems",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Russian soil classification",
+  "branch": "Soil classification",
+  "level": "Intermediate",
+  "chapter": "classification-systems",
+  "status": "phrase",
+  "phrases": [
+   "Russian soil classification",
+   "Russian soil classification"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "German soil classification",
+  "branch": "Soil classification",
+  "level": "Intermediate",
+  "chapter": "classification-systems",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Brazilian Soil Classification System",
+  "branch": "Soil classification",
+  "level": "Intermediate",
+  "chapter": "classification-systems",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "New Zealand Soil Classification",
+  "branch": "Soil classification",
+  "level": "Intermediate",
+  "chapter": "classification-systems",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Calcid",
+  "branch": "Soil classification",
+  "level": "Advanced",
+  "chapter": "classification-systems",
+  "status": "page",
+  "pages": [
+   "Calcid"
+  ]
+ },
+ {
+  "name": "Xeric moisture regime",
+  "branch": "Soil classification",
+  "level": "Intermediate",
+  "chapter": "classification-systems",
+  "status": "phrase",
+  "phrases": [
+   "Xeric moisture regime",
+   "xeric"
+  ],
+  "sentences": 60
+ },
+ {
+  "name": "Aridic moisture regime",
+  "branch": "Soil classification",
+  "level": "Intermediate",
+  "chapter": "classification-systems",
+  "status": "phrase",
+  "phrases": [
+   "Aridic moisture regime",
+   "aridic",
+   "torric"
+  ],
+  "sentences": 28
+ },
+ {
+  "name": "Aquic conditions",
+  "branch": "Soil classification",
+  "level": "Intermediate",
+  "chapter": "classification-systems",
+  "status": "phrase",
+  "phrases": [
+   "Aquic conditions",
+   "aquic conditions",
+   "aquic moisture regime"
+  ],
+  "sentences": 6
+ },
+ {
+  "name": "Lithic contact",
+  "branch": "Soil classification",
+  "level": "Advanced",
+  "chapter": "classification-systems",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "WRB qualifiers",
+  "branch": "World Reference Base",
+  "level": "Advanced",
+  "chapter": "world-reference-base-soil-groups",
+  "status": "phrase",
+  "phrases": [
+   "WRB qualifiers",
+   "principal qualifiers",
+   "supplementary qualifiers"
+  ],
+  "sentences": 17
+ },
+ {
+  "name": "Histel",
+  "branch": "USDA Soil Taxonomy",
+  "level": "Advanced",
+  "chapter": "usda-soil-orders",
+  "status": "covered",
+  "entry": "soil-class-096"
+ },
+ {
+  "name": "Aquent",
+  "branch": "USDA Soil Taxonomy",
+  "level": "Advanced",
+  "chapter": "usda-soil-orders",
+  "status": "page",
+  "pages": [
+   "Aquent"
+  ]
+ },
+ {
+  "name": "Udoll",
+  "branch": "USDA Soil Taxonomy",
+  "level": "Advanced",
+  "chapter": "usda-soil-orders",
+  "status": "phrase",
+  "phrases": [
+   "Udoll",
+   "Udolls"
+  ],
+  "sentences": 4
+ },
+ {
+  "name": "Alfisol suborders",
+  "branch": "USDA Soil Taxonomy",
+  "level": "Advanced",
+  "chapter": "usda-soil-orders",
+  "status": "phrase",
+  "phrases": [
+   "Alfisol suborders",
+   "Udalfs",
+   "Xeralfs"
+  ],
+  "sentences": 12
+ },
+ {
+  "name": "Aridisol suborders",
+  "branch": "USDA Soil Taxonomy",
+  "level": "Advanced",
+  "chapter": "usda-soil-orders",
+  "status": "page",
+  "pages": [
+   "Calcid"
+  ]
+ },
+ {
+  "name": "Ultisol suborders",
+  "branch": "USDA Soil Taxonomy",
+  "level": "Advanced",
+  "chapter": "usda-soil-orders",
+  "status": "phrase",
+  "phrases": [
+   "Ultisol suborders",
+   "Udults",
+   "Humults"
+  ],
+  "sentences": 8
+ },
+ {
+  "name": "Oxisol suborders",
+  "branch": "USDA Soil Taxonomy",
+  "level": "Advanced",
+  "chapter": "usda-soil-orders",
+  "status": "phrase",
+  "phrases": [
+   "Oxisol suborders",
+   "Udox",
+   "Ustox"
+  ],
+  "sentences": 7
+ },
+ {
+  "name": "Inceptisol suborders",
+  "branch": "USDA Soil Taxonomy",
+  "level": "Advanced",
+  "chapter": "usda-soil-orders",
+  "status": "phrase",
+  "phrases": [
+   "Inceptisol suborders",
+   "Aquepts",
+   "Udepts"
+  ],
+  "sentences": 15
+ },
+ {
+  "name": "Spodosol suborders",
+  "branch": "USDA Soil Taxonomy",
+  "level": "Advanced",
+  "chapter": "usda-soil-orders",
+  "status": "phrase",
+  "phrases": [
+   "Spodosol suborders",
+   "Orthods",
+   "Humods"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Andisol suborders",
+  "branch": "USDA Soil Taxonomy",
+  "level": "Advanced",
+  "chapter": "usda-soil-orders",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Histosol suborders",
+  "branch": "USDA Soil Taxonomy",
+  "level": "Advanced",
+  "chapter": "usda-soil-orders",
+  "status": "phrase",
+  "phrases": [
+   "Histosol suborders",
+   "Fibrists",
+   "Hemists",
+   "Saprists"
+  ],
+  "sentences": 65
+ },
+ {
+  "name": "Entisol suborders",
+  "branch": "USDA Soil Taxonomy",
+  "level": "Advanced",
+  "chapter": "usda-soil-orders",
+  "status": "covered",
+  "entry": "soil-class-094"
+ },
+ {
+  "name": "Muck (soil)",
+  "branch": "Other and regional soil types",
+  "level": "Intermediate",
+  "chapter": "other-soil-types",
+  "status": "covered",
+  "entry": "soil-class-109"
+ },
+ {
+  "name": "Black cotton soil",
+  "branch": "Other and regional soil types",
+  "level": "Intermediate",
+  "chapter": "other-soil-types",
+  "status": "phrase",
+  "phrases": [
+   "Black cotton soil",
+   "black cotton soil",
+   "regur"
+  ],
+  "sentences": 28
+ },
+ {
+  "name": "Paddy soil",
+  "branch": "Other and regional soil types",
+  "level": "Intermediate",
+  "chapter": "other-soil-types",
+  "status": "phrase",
+  "phrases": [
+   "Paddy soil",
+   "paddy soil",
+   "anthraquic"
+  ],
+  "sentences": 10
+ },
+ {
+  "name": "Alluvial soil",
+  "branch": "Other and regional soil types",
+  "level": "Intermediate",
+  "chapter": "other-soil-types",
+  "status": "covered",
+  "entry": "soil-form-112"
+ },
+ {
+  "name": "Pseudogley",
+  "branch": "Other and regional soil types",
+  "level": "Intermediate",
+  "chapter": "other-soil-types",
+  "status": "covered",
+  "entry": "soil-class-144"
+ },
+ {
+  "name": "Mudflat",
+  "branch": "Other and regional soil types",
+  "level": "Intermediate",
+  "chapter": "other-soil-types",
+  "status": "judged out",
+  "pages": [
+   "Mudflat"
+  ],
+  "judged_out": [
+   "Mudflat"
+  ]
+ },
+ {
+  "name": "Machair",
+  "branch": "Other and regional soil types",
+  "level": "Intermediate",
+  "chapter": "other-soil-types",
+  "status": "page",
+  "pages": [
+   "Machair"
+  ]
+ },
+ {
+  "name": "Krasnozem",
+  "branch": "Other and regional soil types",
+  "level": "Advanced",
+  "chapter": "other-soil-types",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Sierozem",
+  "branch": "Other and regional soil types",
+  "level": "Advanced",
+  "chapter": "other-soil-types",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Bog iron",
+  "branch": "Other and regional soil types",
+  "level": "Intermediate",
+  "chapter": "other-soil-types",
+  "status": "judged out",
+  "pages": [
+   "Bog iron"
+  ],
+  "judged_out": [
+   "Bog iron"
+  ]
+ },
+ {
+  "name": "Ironstone",
+  "branch": "Other and regional soil types",
+  "level": "Intermediate",
+  "chapter": "other-soil-types",
+  "status": "judged out",
+  "pages": [
+   "Ironstone"
+  ],
+  "judged_out": [
+   "Ironstone"
+  ]
+ },
+ {
+  "name": "Stokes' law",
+  "branch": "Soil physics: texture and structure",
+  "level": "Intermediate",
+  "chapter": "soil-texture-and-structure",
+  "status": "page",
+  "pages": [
+   "Stokes's law"
+  ]
+ },
+ {
+  "name": "Pipette method",
+  "branch": "Soil physics: texture and structure",
+  "level": "Advanced",
+  "chapter": "soil-texture-and-structure",
+  "status": "phrase",
+  "phrases": [
+   "Pipette method",
+   "pipette method"
+  ],
+  "sentences": 5
+ },
+ {
+  "name": "Friability",
+  "branch": "Soil physics: texture and structure",
+  "level": "Intermediate",
+  "chapter": "soil-texture-and-structure",
+  "status": "page",
+  "pages": [
+   "Friability"
+  ]
+ },
+ {
+  "name": "Ternary plot",
+  "branch": "Soil physics: texture and structure",
+  "level": "Intermediate",
+  "chapter": "soil-texture-and-structure",
+  "status": "page",
+  "pages": [
+   "Ternary plot"
+  ]
+ },
+ {
+  "name": "Coarse fragments",
+  "branch": "Soil physics: texture and structure",
+  "level": "Intermediate",
+  "chapter": "soil-texture-and-structure",
+  "status": "page",
+  "pages": [
+   "Rock fragment"
+  ]
+ },
+ {
+  "name": "Clod",
+  "branch": "Soil physics: texture and structure",
+  "level": "Foundational",
+  "chapter": "soil-texture-and-structure",
+  "status": "phrase",
+  "phrases": [
+   "Clod",
+   "clod",
+   "clods"
+  ],
+  "sentences": 49
+ },
+ {
+  "name": "Self-mulching soils",
+  "branch": "Soil physics: texture and structure",
+  "level": "Intermediate",
+  "chapter": "soil-texture-and-structure",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Wet sieving and mean weight diameter",
+  "branch": "Soil physics: texture and structure",
+  "level": "Advanced",
+  "chapter": "soil-texture-and-structure",
+  "status": "phrase",
+  "phrases": [
+   "Wet sieving and mean weight diameter",
+   "wet sieving",
+   "mean weight diameter"
+  ],
+  "sentences": 12
+ },
+ {
+  "name": "Soil fractal geometry",
+  "branch": "Soil physics: texture and structure",
+  "level": "Advanced",
+  "chapter": "soil-texture-and-structure",
+  "status": "judged out",
+  "pages": [
+   "Fractal"
+  ],
+  "judged_out": [
+   "Fractal"
+  ]
+ },
+ {
+  "name": "Organic binding agents of aggregates",
+  "branch": "Soil physics: texture and structure",
+  "level": "Intermediate",
+  "chapter": "soil-texture-and-structure",
+  "status": "judged out",
+  "pages": [
+   "Binder (material)"
+  ],
+  "judged_out": [
+   "Binder (material)"
+  ]
+ },
+ {
+  "name": "Air-filled porosity",
+  "branch": "Soil mechanics and compaction",
+  "level": "Intermediate",
+  "chapter": "density-pores-and-compaction",
+  "status": "phrase",
+  "phrases": [
+   "Air-filled porosity",
+   "air-filled porosity",
+   "air capacity"
+  ],
+  "sentences": 6
+ },
+ {
+  "name": "Least limiting water range",
+  "branch": "Soil mechanics and compaction",
+  "level": "Advanced",
+  "chapter": "density-pores-and-compaction",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Mohr–Coulomb theory",
+  "branch": "Soil mechanics and compaction",
+  "level": "Advanced",
+  "chapter": "density-pores-and-compaction",
+  "status": "page",
+  "pages": [
+   "Mohr–Coulomb theory"
+  ]
+ },
+ {
+  "name": "Oedometer test",
+  "branch": "Soil mechanics and compaction",
+  "level": "Advanced",
+  "chapter": "density-pores-and-compaction",
+  "status": "page",
+  "pages": [
+   "Oedometer test"
+  ]
+ },
+ {
+  "name": "Trafficability",
+  "branch": "Soil mechanics and compaction",
+  "level": "Intermediate",
+  "chapter": "density-pores-and-compaction",
+  "status": "page",
+  "pages": [
+   "Trafficability"
+  ]
+ },
+ {
+  "name": "Terramechanics",
+  "branch": "Soil mechanics and compaction",
+  "level": "Advanced",
+  "chapter": "density-pores-and-compaction",
+  "status": "judged out",
+  "pages": [
+   "Terramechanics"
+  ],
+  "judged_out": [
+   "Terramechanics"
+  ]
+ },
+ {
+  "name": "Tortuosity",
+  "branch": "Soil mechanics and compaction",
+  "level": "Advanced",
+  "chapter": "density-pores-and-compaction",
+  "status": "page",
+  "pages": [
+   "Tortuosity"
+  ]
+ },
+ {
+  "name": "Soil strength",
+  "branch": "Soil mechanics and compaction",
+  "level": "Intermediate",
+  "chapter": "density-pores-and-compaction",
+  "status": "phrase",
+  "phrases": [
+   "Soil strength",
+   "soil strength"
+  ],
+  "sentences": 26
+ },
+ {
+  "name": "Soil rheology",
+  "branch": "Soil mechanics and compaction",
+  "level": "Advanced",
+  "chapter": "density-pores-and-compaction",
+  "status": "judged out",
+  "pages": [
+   "Rheology"
+  ],
+  "judged_out": [
+   "Rheology"
+  ]
+ },
+ {
+  "name": "Collapsible soil",
+  "branch": "Soil mechanics and compaction",
+  "level": "Intermediate",
+  "chapter": "density-pores-and-compaction",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Geotechnical investigation",
+  "branch": "Soil mechanics and compaction",
+  "level": "Intermediate",
+  "chapter": "density-pores-and-compaction",
+  "status": "judged out",
+  "pages": [
+   "Geotechnical investigation"
+  ],
+  "judged_out": [
+   "Geotechnical investigation"
+  ]
+ },
+ {
+  "name": "Geotechnical engineering",
+  "branch": "Soil mechanics and compaction",
+  "level": "Intermediate",
+  "chapter": "density-pores-and-compaction",
+  "status": "page",
+  "pages": [
+   "Geotechnical engineering"
+  ]
+ },
+ {
+  "name": "Biopores",
+  "branch": "Soil mechanics and compaction",
+  "level": "Intermediate",
+  "chapter": "density-pores-and-compaction",
+  "status": "phrase",
+  "phrases": [
+   "Biopores",
+   "biopores"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Pressure head",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Intermediate",
+  "chapter": "water-in-soil",
+  "status": "page",
+  "pages": [
+   "Pressure head"
+  ]
+ },
+ {
+  "name": "Kozeny–Carman equation",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Advanced",
+  "chapter": "water-in-soil",
+  "status": "page",
+  "pages": [
+   "Kozeny–Carman equation"
+  ]
+ },
+ {
+  "name": "Tile drainage",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Intermediate",
+  "chapter": "water-in-soil",
+  "status": "page",
+  "pages": [
+   "Tile drainage"
+  ]
+ },
+ {
+  "name": "Drainage system (agriculture)",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Intermediate",
+  "chapter": "water-in-soil",
+  "status": "page",
+  "pages": [
+   "Drainage system (agriculture)"
+  ]
+ },
+ {
+  "name": "Hydrology (agriculture)",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Intermediate",
+  "chapter": "water-in-soil",
+  "status": "page",
+  "pages": [
+   "Agricultural hydrology"
+  ]
+ },
+ {
+  "name": "Gypsum block",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Intermediate",
+  "chapter": "water-in-soil",
+  "status": "page",
+  "pages": [
+   "Gypsum block"
+  ]
+ },
+ {
+  "name": "Guelph permeameter",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Advanced",
+  "chapter": "water-in-soil",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Brooks–Corey model",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Advanced",
+  "chapter": "water-in-soil",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Mualem model",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Advanced",
+  "chapter": "water-in-soil",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Unsaturated hydraulic conductivity",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Advanced",
+  "chapter": "water-in-soil",
+  "status": "phrase",
+  "phrases": [
+   "Unsaturated hydraulic conductivity",
+   "unsaturated hydraulic conductivity"
+  ],
+  "sentences": 10
+ },
+ {
+  "name": "Hysteresis in soil water retention",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Advanced",
+  "chapter": "water-in-soil",
+  "status": "page",
+  "pages": [
+   "Hysteresis"
+  ]
+ },
+ {
+  "name": "Soil evaporation",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Intermediate",
+  "chapter": "water-in-soil",
+  "status": "judged out",
+  "pages": [
+   "Evaporation"
+  ],
+  "judged_out": [
+   "Evaporation"
+  ]
+ },
+ {
+  "name": "Penman–Monteith equation",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Advanced",
+  "chapter": "water-in-soil",
+  "status": "page",
+  "pages": [
+   "Penman–Monteith equation"
+  ]
+ },
+ {
+  "name": "Reference evapotranspiration",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Intermediate",
+  "chapter": "water-in-soil",
+  "status": "phrase",
+  "phrases": [
+   "Reference evapotranspiration",
+   "reference evapotranspiration"
+  ],
+  "sentences": 10
+ },
+ {
+  "name": "Crop coefficient",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Intermediate",
+  "chapter": "water-in-soil",
+  "status": "page",
+  "pages": [
+   "Crop coefficient"
+  ]
+ },
+ {
+  "name": "Eddy covariance",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Advanced",
+  "chapter": "water-in-soil",
+  "status": "page",
+  "pages": [
+   "Eddy covariance"
+  ]
+ },
+ {
+  "name": "Cosmic-ray neutron sensing",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Advanced",
+  "chapter": "water-in-soil",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Pressure plate apparatus",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Advanced",
+  "chapter": "water-in-soil",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Topp equation",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Advanced",
+  "chapter": "water-in-soil",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Dielectric permittivity of soil",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Advanced",
+  "chapter": "water-in-soil",
+  "status": "judged out",
+  "pages": [
+   "Relative permittivity"
+  ],
+  "judged_out": [
+   "Relative permittivity"
+  ]
+ },
+ {
+  "name": "Groundwater",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Foundational",
+  "chapter": "water-in-soil",
+  "status": "page",
+  "pages": [
+   "Groundwater"
+  ]
+ },
+ {
+  "name": "Aquifer",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Foundational",
+  "chapter": "water-in-soil",
+  "status": "page",
+  "pages": [
+   "Aquifer"
+  ]
+ },
+ {
+  "name": "Hillslope hydrology",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Intermediate",
+  "chapter": "water-in-soil",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Variable source area",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Advanced",
+  "chapter": "water-in-soil",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Water-use efficiency",
+  "branch": "Soil hydrology and hydropedology",
+  "level": "Intermediate",
+  "chapter": "water-in-soil",
+  "status": "judged out",
+  "pages": [
+   "Water-use efficiency"
+  ],
+  "judged_out": [
+   "Water-use efficiency"
+  ]
+ },
+ {
+  "name": "Thermal effusivity",
+  "branch": "Soil thermal regime, aeration and frozen ground",
+  "level": "Advanced",
+  "chapter": "soil-temperature-and-air",
+  "status": "page",
+  "pages": [
+   "Thermal effusivity"
+  ]
+ },
+ {
+  "name": "Air permeability of soil",
+  "branch": "Soil thermal regime, aeration and frozen ground",
+  "level": "Advanced",
+  "chapter": "soil-temperature-and-air",
+  "status": "page",
+  "pages": [
+   "Units of textile measurement"
+  ]
+ },
+ {
+  "name": "Air freezing index",
+  "branch": "Soil thermal regime, aeration and frozen ground",
+  "level": "Advanced",
+  "chapter": "soil-temperature-and-air",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Seasonal frost",
+  "branch": "Soil thermal regime, aeration and frozen ground",
+  "level": "Intermediate",
+  "chapter": "soil-temperature-and-air",
+  "status": "phrase",
+  "phrases": [
+   "Seasonal frost",
+   "seasonal frost",
+   "seasonally frozen ground"
+  ],
+  "sentences": 7
+ },
+ {
+  "name": "Fourier's law",
+  "branch": "Soil thermal regime, aeration and frozen ground",
+  "level": "Intermediate",
+  "chapter": "soil-temperature-and-air",
+  "status": "page",
+  "pages": [
+   "Thermal conduction",
+   "Thermal conduction"
+  ]
+ },
+ {
+  "name": "Heat equation",
+  "branch": "Soil thermal regime, aeration and frozen ground",
+  "level": "Advanced",
+  "chapter": "soil-temperature-and-air",
+  "status": "page",
+  "pages": [
+   "Heat equation"
+  ]
+ },
+ {
+  "name": "Damping depth",
+  "branch": "Soil thermal regime, aeration and frozen ground",
+  "level": "Advanced",
+  "chapter": "soil-temperature-and-air",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Oxygen diffusion rate",
+  "branch": "Soil thermal regime, aeration and frozen ground",
+  "level": "Advanced",
+  "chapter": "soil-temperature-and-air",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Soil hypoxia",
+  "branch": "Soil thermal regime, aeration and frozen ground",
+  "level": "Intermediate",
+  "chapter": "soil-temperature-and-air",
+  "status": "judged out",
+  "pages": [
+   "Hypoxia (environmental)"
+  ],
+  "judged_out": [
+   "Hypoxia (environmental)"
+  ]
+ },
+ {
+  "name": "Unfrozen water in frozen soil",
+  "branch": "Soil thermal regime, aeration and frozen ground",
+  "level": "Advanced",
+  "chapter": "soil-temperature-and-air",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Ground source heat pump",
+  "branch": "Soil thermal regime, aeration and frozen ground",
+  "level": "Intermediate",
+  "chapter": "soil-temperature-and-air",
+  "status": "page",
+  "pages": [
+   "Ground source heat pump"
+  ]
+ },
+ {
+  "name": "Soil warming experiments",
+  "branch": "Soil thermal regime, aeration and frozen ground",
+  "level": "Advanced",
+  "chapter": "soil-temperature-and-air",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Exchangeable acidity",
+  "branch": "Soil surface chemistry and ion exchange",
+  "level": "Intermediate",
+  "chapter": "charge-and-nutrient-holding",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Effective cation-exchange capacity",
+  "branch": "Soil surface chemistry and ion exchange",
+  "level": "Intermediate",
+  "chapter": "charge-and-nutrient-holding",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "John Thomas Way",
+  "branch": "Founders and pioneers",
+  "level": "Intermediate",
+  "chapter": "founders-and-pioneers",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Mottles",
+  "branch": "Soil redox chemistry",
+  "level": "Intermediate",
+  "chapter": "redox-and-soil-chemistry",
+  "status": "judged out",
+  "pages": [
+   "Mottle"
+  ],
+  "judged_out": [
+   "Mottle"
+  ]
+ },
+ {
+  "name": "Electron acceptor",
+  "branch": "Soil redox chemistry",
+  "level": "Intermediate",
+  "chapter": "redox-and-soil-chemistry",
+  "status": "page",
+  "pages": [
+   "Electron acceptor"
+  ]
+ },
+ {
+  "name": "Dissimilatory metal-reducing microorganisms",
+  "branch": "Soil redox chemistry",
+  "level": "Advanced",
+  "chapter": "redox-and-soil-chemistry",
+  "status": "page",
+  "pages": [
+   "Dissimilatory metal-reducing microorganisms"
+  ]
+ },
+ {
+  "name": "Hydromorphic soil",
+  "branch": "Soil redox chemistry",
+  "level": "Intermediate",
+  "chapter": "redox-and-soil-chemistry",
+  "status": "phrase",
+  "phrases": [
+   "Hydromorphic soil",
+   "hydromorphic soil"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Pourbaix diagram",
+  "branch": "Soil redox chemistry",
+  "level": "Advanced",
+  "chapter": "redox-and-soil-chemistry",
+  "status": "page",
+  "pages": [
+   "Pourbaix diagram"
+  ]
+ },
+ {
+  "name": "Electron activity (pe)",
+  "branch": "Soil redox chemistry",
+  "level": "Advanced",
+  "chapter": "redox-and-soil-chemistry",
+  "status": "phrase",
+  "phrases": [
+   "Electron activity (pe)",
+   "pe",
+   "electron activity"
+  ],
+  "sentences": 60
+ },
+ {
+  "name": "Methanotroph",
+  "branch": "Soil redox chemistry",
+  "level": "Intermediate",
+  "chapter": "redox-and-soil-chemistry",
+  "status": "page",
+  "pages": [
+   "Methanotroph"
+  ]
+ },
+ {
+  "name": "Manganese cycle",
+  "branch": "Soil redox chemistry",
+  "level": "Intermediate",
+  "chapter": "redox-and-soil-chemistry",
+  "status": "page",
+  "pages": [
+   "Manganese cycle"
+  ]
+ },
+ {
+  "name": "IRIS tubes",
+  "branch": "Soil redox chemistry",
+  "level": "Advanced",
+  "chapter": "redox-and-soil-chemistry",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Alpha,alpha-dipyridyl test",
+  "branch": "Soil redox chemistry",
+  "level": "Advanced",
+  "chapter": "redox-and-soil-chemistry",
+  "status": "page",
+  "pages": [
+   "2,2′-Bipyridine"
+  ]
+ },
+ {
+  "name": "Arsenic release under reducing conditions",
+  "branch": "Soil redox chemistry",
+  "level": "Advanced",
+  "chapter": "redox-and-soil-chemistry",
+  "status": "page",
+  "pages": [
+   "Arsenic biochemistry"
+  ]
+ },
+ {
+  "name": "Saline, sodic and saline-sodic soils",
+  "branch": "Soil acidity, alkalinity and salinity",
+  "level": "Intermediate",
+  "chapter": "acidity-alkalinity-and-salinity",
+  "status": "covered",
+  "entry": "soil-chem-008"
+ },
+ {
+  "name": "Exchangeable aluminium and aluminium saturation",
+  "branch": "Soil acidity, alkalinity and salinity",
+  "level": "Advanced",
+  "chapter": "acidity-alkalinity-and-salinity",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Manganese toxicity",
+  "branch": "Soil acidity, alkalinity and salinity",
+  "level": "Intermediate",
+  "chapter": "acidity-alkalinity-and-salinity",
+  "status": "phrase",
+  "phrases": [
+   "Manganese toxicity",
+   "manganese toxicity"
+  ],
+  "sentences": 4
+ },
+ {
+  "name": "Gypsum requirement",
+  "branch": "Soil acidity, alkalinity and salinity",
+  "level": "Advanced",
+  "chapter": "acidity-alkalinity-and-salinity",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Efflorescence",
+  "branch": "Soil acidity, alkalinity and salinity",
+  "level": "Intermediate",
+  "chapter": "acidity-alkalinity-and-salinity",
+  "status": "page",
+  "pages": [
+   "Efflorescence"
+  ]
+ },
+ {
+  "name": "Acid-neutralizing capacity",
+  "branch": "Soil acidity, alkalinity and salinity",
+  "level": "Advanced",
+  "chapter": "acidity-alkalinity-and-salinity",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Critical load",
+  "branch": "Soil acidity, alkalinity and salinity",
+  "level": "Advanced",
+  "chapter": "acidity-alkalinity-and-salinity",
+  "status": "page",
+  "pages": [
+   "Critical load"
+  ]
+ },
+ {
+  "name": "Saltwater intrusion",
+  "branch": "Soil acidity, alkalinity and salinity",
+  "level": "Intermediate",
+  "chapter": "acidity-alkalinity-and-salinity",
+  "status": "page",
+  "pages": [
+   "Saltwater intrusion"
+  ]
+ },
+ {
+  "name": "Road salt in soils",
+  "branch": "Soil acidity, alkalinity and salinity",
+  "level": "Intermediate",
+  "chapter": "acidity-alkalinity-and-salinity",
+  "status": "page",
+  "pages": [
+   "Road salt",
+   "Deicing"
+  ]
+ },
+ {
+  "name": "Biosaline agriculture",
+  "branch": "Soil acidity, alkalinity and salinity",
+  "level": "Intermediate",
+  "chapter": "acidity-alkalinity-and-salinity",
+  "status": "page",
+  "pages": [
+   "Biosaline agriculture"
+  ]
+ },
+ {
+  "name": "Soil archaea",
+  "branch": "Soil biology and ecology",
+  "level": "Intermediate",
+  "chapter": "life-in-the-soil",
+  "status": "judged out",
+  "pages": [
+   "Archaea"
+  ],
+  "judged_out": [
+   "Archaea"
+  ]
+ },
+ {
+  "name": "Primary nutritional groups",
+  "branch": "Soil biology and ecology",
+  "level": "Intermediate",
+  "chapter": "life-in-the-soil",
+  "status": "page",
+  "pages": [
+   "Primary nutritional groups"
+  ]
+ },
+ {
+  "name": "Cyanobacteria",
+  "branch": "Soil biology and ecology",
+  "level": "Intermediate",
+  "chapter": "life-in-the-soil",
+  "status": "judged out",
+  "pages": [
+   "Cyanobacteria"
+  ],
+  "judged_out": [
+   "Cyanobacteria"
+  ]
+ },
+ {
+  "name": "Streptomyces",
+  "branch": "Soil biology and ecology",
+  "level": "Intermediate",
+  "chapter": "life-in-the-soil",
+  "status": "page",
+  "pages": [
+   "Streptomyces"
+  ]
+ },
+ {
+  "name": "Mound-building termites",
+  "branch": "Soil biology and ecology",
+  "level": "Intermediate",
+  "chapter": "life-in-the-soil",
+  "status": "page",
+  "pages": [
+   "Mound-building termites",
+   "Termite"
+  ],
+  "judged_out": [
+   "Mound-building termites"
+  ]
+ },
+ {
+  "name": "Ants as soil engineers",
+  "branch": "Soil biology and ecology",
+  "level": "Intermediate",
+  "chapter": "life-in-the-soil",
+  "status": "judged out",
+  "pages": [
+   "Ant"
+  ],
+  "judged_out": [
+   "Ant"
+  ]
+ },
+ {
+  "name": "Woodlice",
+  "branch": "Soil biology and ecology",
+  "level": "Intermediate",
+  "chapter": "life-in-the-soil",
+  "status": "judged out",
+  "pages": [
+   "Woodlouse"
+  ],
+  "judged_out": [
+   "Woodlouse"
+  ]
+ },
+ {
+  "name": "Millipedes",
+  "branch": "Soil biology and ecology",
+  "level": "Intermediate",
+  "chapter": "life-in-the-soil",
+  "status": "page",
+  "pages": [
+   "Millipede"
+  ]
+ },
+ {
+  "name": "Tardigrades",
+  "branch": "Soil biology and ecology",
+  "level": "Intermediate",
+  "chapter": "life-in-the-soil",
+  "status": "judged out",
+  "pages": [
+   "Tardigrade"
+  ],
+  "judged_out": [
+   "Tardigrade"
+  ]
+ },
+ {
+  "name": "Rotifers",
+  "branch": "Soil biology and ecology",
+  "level": "Intermediate",
+  "chapter": "life-in-the-soil",
+  "status": "judged out",
+  "pages": [
+   "Rotifer"
+  ],
+  "judged_out": [
+   "Rotifer"
+  ]
+ },
+ {
+  "name": "Fossorial animals",
+  "branch": "Soil biology and ecology",
+  "level": "Intermediate",
+  "chapter": "life-in-the-soil",
+  "status": "page",
+  "pages": [
+   "Fossorial",
+   "Gopher",
+   "Mole (animal)"
+  ],
+  "judged_out": [
+   "Gopher",
+   "Mole (animal)"
+  ]
+ },
+ {
+  "name": "Lichens",
+  "branch": "Soil biology and ecology",
+  "level": "Intermediate",
+  "chapter": "life-in-the-soil",
+  "status": "page",
+  "pages": [
+   "Lichen"
+  ]
+ },
+ {
+  "name": "Bacillus",
+  "branch": "Soil biology and ecology",
+  "level": "Intermediate",
+  "chapter": "life-in-the-soil",
+  "status": "judged out",
+  "pages": [
+   "Bacillus"
+  ],
+  "judged_out": [
+   "Bacillus"
+  ]
+ },
+ {
+  "name": "Pseudomonas",
+  "branch": "Soil biology and ecology",
+  "level": "Intermediate",
+  "chapter": "life-in-the-soil",
+  "status": "judged out",
+  "pages": [
+   "Pseudomonas"
+  ],
+  "judged_out": [
+   "Pseudomonas"
+  ]
+ },
+ {
+  "name": "Acidobacteriota",
+  "branch": "Soil biology and ecology",
+  "level": "Advanced",
+  "chapter": "life-in-the-soil",
+  "status": "judged out",
+  "pages": [
+   "Acidobacteriota"
+  ],
+  "judged_out": [
+   "Acidobacteriota"
+  ]
+ },
+ {
+  "name": "Mycelium and hyphae",
+  "branch": "Soil biology and ecology",
+  "level": "Foundational",
+  "chapter": "life-in-the-soil",
+  "status": "page",
+  "pages": [
+   "Mycelium",
+   "Hypha"
+  ]
+ },
+ {
+  "name": "Trichoderma",
+  "branch": "Soil biology and ecology",
+  "level": "Intermediate",
+  "chapter": "life-in-the-soil",
+  "status": "judged out",
+  "pages": [
+   "Trichoderma"
+  ],
+  "judged_out": [
+   "Trichoderma"
+  ]
+ },
+ {
+  "name": "Fungal highways",
+  "branch": "Soil biology and ecology",
+  "level": "Advanced",
+  "chapter": "life-in-the-soil",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Microbial biogeography",
+  "branch": "Soil biology and ecology",
+  "level": "Advanced",
+  "chapter": "life-in-the-soil",
+  "status": "page",
+  "pages": [
+   "Microbial biogeography"
+  ]
+ },
+ {
+  "name": "Nematophagous fungi",
+  "branch": "Soil biology and ecology",
+  "level": "Advanced",
+  "chapter": "life-in-the-soil",
+  "status": "page",
+  "pages": [
+   "Nematophagous fungus"
+  ]
+ },
+ {
+  "name": "Plant-growth promoting fungi",
+  "branch": "Rhizosphere and plant-microbe symbioses",
+  "level": "Advanced",
+  "chapter": "roots-and-the-rhizosphere",
+  "status": "page",
+  "pages": [
+   "Plant-growth promoting fungi"
+  ]
+ },
+ {
+  "name": "Rhizotron and minirhizotron",
+  "branch": "Rhizosphere and plant-microbe symbioses",
+  "level": "Advanced",
+  "chapter": "roots-and-the-rhizosphere",
+  "status": "page",
+  "pages": [
+   "Rhizotron"
+  ]
+ },
+ {
+  "name": "Fine roots and root turnover",
+  "branch": "Rhizosphere and plant-microbe symbioses",
+  "level": "Advanced",
+  "chapter": "roots-and-the-rhizosphere",
+  "status": "page",
+  "pages": [
+   "Fine root"
+  ]
+ },
+ {
+  "name": "Rhizosheath",
+  "branch": "Rhizosphere and plant-microbe symbioses",
+  "level": "Advanced",
+  "chapter": "roots-and-the-rhizosphere",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Hyphosphere",
+  "branch": "Rhizosphere and plant-microbe symbioses",
+  "level": "Advanced",
+  "chapter": "roots-and-the-rhizosphere",
+  "status": "page",
+  "pages": [
+   "Mycorrhizosphere"
+  ]
+ },
+ {
+  "name": "Aerenchyma",
+  "branch": "Rhizosphere and plant-microbe symbioses",
+  "level": "Intermediate",
+  "chapter": "roots-and-the-rhizosphere",
+  "status": "judged out",
+  "pages": [
+   "Aerenchyma"
+  ],
+  "judged_out": [
+   "Aerenchyma"
+  ]
+ },
+ {
+  "name": "Root depletion zone",
+  "branch": "Rhizosphere and plant-microbe symbioses",
+  "level": "Advanced",
+  "chapter": "roots-and-the-rhizosphere",
+  "status": "page",
+  "pages": [
+   "Depletion region"
+  ]
+ },
+ {
+  "name": "Microbial necromass",
+  "branch": "Soil organic matter",
+  "level": "Advanced",
+  "chapter": "organic-matter-humus-and-decomposition",
+  "status": "phrase",
+  "phrases": [
+   "Microbial necromass",
+   "necromass",
+   "microbial residues"
+  ],
+  "sentences": 9
+ },
+ {
+  "name": "Brown rot",
+  "branch": "Soil organic matter",
+  "level": "Intermediate",
+  "chapter": "organic-matter-humus-and-decomposition",
+  "status": "page",
+  "pages": [
+   "Brown rot",
+   "Wood-decay fungus"
+  ],
+  "judged_out": [
+   "Wood-decay fungus"
+  ]
+ },
+ {
+  "name": "Cellulose and hemicellulose",
+  "branch": "Soil organic matter",
+  "level": "Intermediate",
+  "chapter": "organic-matter-humus-and-decomposition",
+  "status": "page",
+  "pages": [
+   "Cellulose",
+   "Hemicellulose"
+  ],
+  "judged_out": [
+   "Cellulose"
+  ]
+ },
+ {
+  "name": "Chitin",
+  "branch": "Soil organic matter",
+  "level": "Intermediate",
+  "chapter": "organic-matter-humus-and-decomposition",
+  "status": "judged out",
+  "pages": [
+   "Chitin"
+  ],
+  "judged_out": [
+   "Chitin"
+  ]
+ },
+ {
+  "name": "Suberin and cutin",
+  "branch": "Soil organic matter",
+  "level": "Advanced",
+  "chapter": "organic-matter-humus-and-decomposition",
+  "status": "page",
+  "pages": [
+   "Suberin",
+   "Cutin"
+  ]
+ },
+ {
+  "name": "First-order decomposition kinetics",
+  "branch": "Soil organic matter",
+  "level": "Advanced",
+  "chapter": "organic-matter-humus-and-decomposition",
+  "status": "judged out",
+  "pages": [
+   "Exponential decay"
+  ],
+  "judged_out": [
+   "Exponential decay"
+  ]
+ },
+ {
+  "name": "Soil organic matter models",
+  "branch": "Soil organic matter",
+  "level": "Advanced",
+  "chapter": "organic-matter-humus-and-decomposition",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Microbial efficiency–matrix stabilization",
+  "branch": "Soil organic matter",
+  "level": "Advanced",
+  "chapter": "organic-matter-humus-and-decomposition",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Physical protection of organic matter",
+  "branch": "Soil organic matter",
+  "level": "Advanced",
+  "chapter": "organic-matter-humus-and-decomposition",
+  "status": "phrase",
+  "phrases": [
+   "Physical protection of organic matter",
+   "physical protection",
+   "occluded organic matter"
+  ],
+  "sentences": 7
+ },
+ {
+  "name": "Density fractionation",
+  "branch": "Soil organic matter",
+  "level": "Advanced",
+  "chapter": "organic-matter-humus-and-decomposition",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Home-field advantage",
+  "branch": "Soil organic matter",
+  "level": "Advanced",
+  "chapter": "organic-matter-humus-and-decomposition",
+  "status": "page",
+  "pages": [
+   "Home advantage"
+  ]
+ },
+ {
+  "name": "Photodegradation of litter",
+  "branch": "Soil organic matter",
+  "level": "Advanced",
+  "chapter": "organic-matter-humus-and-decomposition",
+  "status": "page",
+  "pages": [
+   "Photodegradation"
+  ]
+ },
+ {
+  "name": "4R nutrient stewardship",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Intermediate",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Hoagland solution",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Intermediate",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "page",
+  "pages": [
+   "Hoagland solution"
+  ]
+ },
+ {
+  "name": "Zinc deficiency in plants",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Intermediate",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "page",
+  "pages": [
+   "Zinc deficiency (plant disorder)"
+  ]
+ },
+ {
+  "name": "Chlorosis",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Intermediate",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "page",
+  "pages": [
+   "Chlorosis"
+  ]
+ },
+ {
+  "name": "Nitrogen deficiency",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Intermediate",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "page",
+  "pages": [
+   "Nitrogen deficiency"
+  ]
+ },
+ {
+  "name": "Phosphorus deficiency",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Intermediate",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "page",
+  "pages": [
+   "Phosphorus deficiency"
+  ]
+ },
+ {
+  "name": "Potassium deficiency",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Intermediate",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "page",
+  "pages": [
+   "Potassium deficiency (plants)"
+  ]
+ },
+ {
+  "name": "Calcium deficiency in plants",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Intermediate",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "page",
+  "pages": [
+   "Calcium deficiency (plant)",
+   "Calcium deficiency (plant)"
+  ]
+ },
+ {
+  "name": "Magnesium deficiency in plants",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Intermediate",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "covered",
+  "entry": "soil-fert-156"
+ },
+ {
+  "name": "Sulfur deficiency in plants",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Intermediate",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "phrase",
+  "phrases": [
+   "Sulfur deficiency in plants",
+   "sulfur deficiency"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Boron deficiency in plants",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Intermediate",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "page",
+  "pages": [
+   "Boron deficiency (plant disorder)"
+  ]
+ },
+ {
+  "name": "Manganese as a plant nutrient",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Intermediate",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "page",
+  "pages": [
+   "Manganese in biology"
+  ]
+ },
+ {
+  "name": "Copper as a plant nutrient",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Intermediate",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "page",
+  "pages": [
+   "Copper in biology"
+  ]
+ },
+ {
+  "name": "Chlorine as a plant nutrient",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Advanced",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "judged out",
+  "pages": [
+   "Chlorine"
+  ],
+  "judged_out": [
+   "Chlorine"
+  ]
+ },
+ {
+  "name": "Nickel as a plant nutrient",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Advanced",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Silicon in plants",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Intermediate",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Mitscherlich equation",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Advanced",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "phrase",
+  "phrases": [
+   "Mitscherlich equation",
+   "Mitscherlich"
+  ],
+  "sentences": 8
+ },
+ {
+  "name": "Yield response curves",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Advanced",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Economic optimum nitrogen rate",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Advanced",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Nitrogen use efficiency",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Intermediate",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "page",
+  "pages": [
+   "Nitrogen assimilation"
+  ]
+ },
+ {
+  "name": "Nutrient budgets",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Intermediate",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "phrase",
+  "phrases": [
+   "Nutrient budgets",
+   "nutrient budget",
+   "nutrient balance"
+  ],
+  "sentences": 14
+ },
+ {
+  "name": "Pre-sidedress nitrate test",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Advanced",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Chlorophyll meter",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Advanced",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "page",
+  "pages": [
+   "Plant tissue test"
+  ]
+ },
+ {
+  "name": "DRIS",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Advanced",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "phrase",
+  "phrases": [
+   "DRIS",
+   "DRIS"
+  ],
+  "sentences": 60
+ },
+ {
+  "name": "Quantity–intensity relationships",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Advanced",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Legacy phosphorus",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Advanced",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Phosphorus index",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Advanced",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "phrase",
+  "phrases": [
+   "Phosphorus index",
+   "phosphorus index",
+   "P index"
+  ],
+  "sentences": 7
+ },
+ {
+  "name": "Critical nutrient concentration",
+  "branch": "Soil fertility and plant nutrition",
+  "level": "Advanced",
+  "chapter": "nutrients-and-plant-nutrition",
+  "status": "phrase",
+  "phrases": [
+   "Critical nutrient concentration",
+   "critical concentration",
+   "sufficiency range"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Ammonia monooxygenase",
+  "branch": "Nutrient biogeochemistry",
+  "level": "Advanced",
+  "chapter": "nutrient-cycles",
+  "status": "judged out",
+  "pages": [
+   "Ammonia monooxygenase"
+  ],
+  "judged_out": [
+   "Ammonia monooxygenase"
+  ]
+ },
+ {
+  "name": "Sulfur assimilation",
+  "branch": "Nutrient biogeochemistry",
+  "level": "Intermediate",
+  "chapter": "nutrient-cycles",
+  "status": "page",
+  "pages": [
+   "Sulfur assimilation"
+  ]
+ },
+ {
+  "name": "Iron-oxidizing bacteria",
+  "branch": "Nutrient biogeochemistry",
+  "level": "Intermediate",
+  "chapter": "nutrient-cycles",
+  "status": "page",
+  "pages": [
+   "Iron-oxidizing bacteria"
+  ]
+ },
+ {
+  "name": "Hedley phosphorus fractionation",
+  "branch": "Nutrient biogeochemistry",
+  "level": "Advanced",
+  "chapter": "nutrient-cycles",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Occluded phosphorus",
+  "branch": "Nutrient biogeochemistry",
+  "level": "Advanced",
+  "chapter": "nutrient-cycles",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Walker–Syers model",
+  "branch": "Nutrient biogeochemistry",
+  "level": "Advanced",
+  "chapter": "nutrient-cycles",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Selenium cycle",
+  "branch": "Nutrient biogeochemistry",
+  "level": "Advanced",
+  "chapter": "nutrient-cycles",
+  "status": "page",
+  "pages": [
+   "Selenium cycle"
+  ]
+ },
+ {
+  "name": "Nitrous oxide reductase",
+  "branch": "Nutrient biogeochemistry",
+  "level": "Advanced",
+  "chapter": "nutrient-cycles",
+  "status": "phrase",
+  "phrases": [
+   "Nitrous oxide reductase",
+   "nitrous oxide reductase",
+   "nosZ"
+  ],
+  "sentences": 13
+ },
+ {
+  "name": "Acetylene reduction assay",
+  "branch": "Nutrient biogeochemistry",
+  "level": "Advanced",
+  "chapter": "nutrient-cycles",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Methane cycle",
+  "branch": "Nutrient biogeochemistry",
+  "level": "Intermediate",
+  "chapter": "nutrient-cycles",
+  "status": "judged out",
+  "pages": [
+   "Atmospheric methane"
+  ],
+  "judged_out": [
+   "Atmospheric methane"
+  ]
+ },
+ {
+  "name": "Slurry",
+  "branch": "Fertilizers, manures and amendments",
+  "level": "Intermediate",
+  "chapter": "fertilizers-manures-and-amendments",
+  "status": "judged out",
+  "pages": [
+   "Slurry"
+  ],
+  "judged_out": [
+   "Slurry"
+  ]
+ },
+ {
+  "name": "Urine-diverting dry toilet",
+  "branch": "Fertilizers, manures and amendments",
+  "level": "Intermediate",
+  "chapter": "fertilizers-manures-and-amendments",
+  "status": "judged out",
+  "pages": [
+   "Urine-diverting dry toilet"
+  ],
+  "judged_out": [
+   "Urine-diverting dry toilet"
+  ]
+ },
+ {
+  "name": "Fecal sludge management",
+  "branch": "Fertilizers, manures and amendments",
+  "level": "Intermediate",
+  "chapter": "fertilizers-manures-and-amendments",
+  "status": "judged out",
+  "pages": [
+   "Fecal sludge management"
+  ],
+  "judged_out": [
+   "Fecal sludge management"
+  ]
+ },
+ {
+  "name": "Ecological sanitation",
+  "branch": "Fertilizers, manures and amendments",
+  "level": "Intermediate",
+  "chapter": "fertilizers-manures-and-amendments",
+  "status": "page",
+  "pages": [
+   "Ecological sanitation"
+  ]
+ },
+ {
+  "name": "Dolomitic lime",
+  "branch": "Fertilizers, manures and amendments",
+  "level": "Intermediate",
+  "chapter": "fertilizers-manures-and-amendments",
+  "status": "judged out",
+  "pages": [
+   "Dolomite (mineral)",
+   "Dolomite (rock)"
+  ],
+  "judged_out": [
+   "Dolomite (mineral)",
+   "Dolomite (rock)"
+  ]
+ },
+ {
+  "name": "Lime (material)",
+  "branch": "Fertilizers, manures and amendments",
+  "level": "Intermediate",
+  "chapter": "fertilizers-manures-and-amendments",
+  "status": "page",
+  "pages": [
+   "Lime (material)",
+   "Calcium hydroxide"
+  ],
+  "judged_out": [
+   "Calcium hydroxide"
+  ]
+ },
+ {
+  "name": "Wood ash",
+  "branch": "Fertilizers, manures and amendments",
+  "level": "Intermediate",
+  "chapter": "fertilizers-manures-and-amendments",
+  "status": "page",
+  "pages": [
+   "Wood ash"
+  ]
+ },
+ {
+  "name": "Basic slag",
+  "branch": "Fertilizers, manures and amendments",
+  "level": "Intermediate",
+  "chapter": "fertilizers-manures-and-amendments",
+  "status": "judged out",
+  "pages": [
+   "Slag"
+  ],
+  "judged_out": [
+   "Slag"
+  ]
+ },
+ {
+  "name": "Anhydrous ammonia",
+  "branch": "Fertilizers, manures and amendments",
+  "level": "Intermediate",
+  "chapter": "fertilizers-manures-and-amendments",
+  "status": "judged out",
+  "pages": [
+   "Ammonia"
+  ],
+  "judged_out": [
+   "Ammonia"
+  ]
+ },
+ {
+  "name": "Ammonium sulfate",
+  "branch": "Fertilizers, manures and amendments",
+  "level": "Intermediate",
+  "chapter": "fertilizers-manures-and-amendments",
+  "status": "judged out",
+  "pages": [
+   "Ammonium sulfate"
+  ],
+  "judged_out": [
+   "Ammonium sulfate"
+  ]
+ },
+ {
+  "name": "Ammonium phosphates",
+  "branch": "Fertilizers, manures and amendments",
+  "level": "Intermediate",
+  "chapter": "fertilizers-manures-and-amendments",
+  "status": "page",
+  "pages": [
+   "Diammonium phosphate",
+   "Ammonium dihydrogen phosphate"
+  ],
+  "judged_out": [
+   "Ammonium dihydrogen phosphate"
+  ]
+ },
+ {
+  "name": "Potash",
+  "branch": "Fertilizers, manures and amendments",
+  "level": "Intermediate",
+  "chapter": "fertilizers-manures-and-amendments",
+  "status": "page",
+  "pages": [
+   "Potash",
+   "Potassium chloride"
+  ],
+  "judged_out": [
+   "Potassium chloride"
+  ]
+ },
+ {
+  "name": "Potassium sulfate",
+  "branch": "Fertilizers, manures and amendments",
+  "level": "Intermediate",
+  "chapter": "fertilizers-manures-and-amendments",
+  "status": "judged out",
+  "pages": [
+   "Potassium sulfate"
+  ],
+  "judged_out": [
+   "Potassium sulfate"
+  ]
+ },
+ {
+  "name": "Calcium ammonium nitrate",
+  "branch": "Fertilizers, manures and amendments",
+  "level": "Intermediate",
+  "chapter": "fertilizers-manures-and-amendments",
+  "status": "judged out",
+  "pages": [
+   "Calcium ammonium nitrate"
+  ],
+  "judged_out": [
+   "Calcium ammonium nitrate"
+  ]
+ },
+ {
+  "name": "Polyhalite",
+  "branch": "Fertilizers, manures and amendments",
+  "level": "Advanced",
+  "chapter": "fertilizers-manures-and-amendments",
+  "status": "page",
+  "pages": [
+   "Polyhalite"
+  ]
+ },
+ {
+  "name": "Phosphogypsum",
+  "branch": "Fertilizers, manures and amendments",
+  "level": "Advanced",
+  "chapter": "fertilizers-manures-and-amendments",
+  "status": "page",
+  "pages": [
+   "Phosphogypsum"
+  ]
+ },
+ {
+  "name": "Fertigation",
+  "branch": "Fertilizers, manures and amendments",
+  "level": "Intermediate",
+  "chapter": "fertilizers-manures-and-amendments",
+  "status": "page",
+  "pages": [
+   "Fertigation"
+  ]
+ },
+ {
+  "name": "Fertilizer placement",
+  "branch": "Fertilizers, manures and amendments",
+  "level": "Intermediate",
+  "chapter": "fertilizers-manures-and-amendments",
+  "status": "phrase",
+  "phrases": [
+   "Fertilizer placement",
+   "banding",
+   "broadcast application"
+  ],
+  "sentences": 39
+ },
+ {
+  "name": "Guano",
+  "branch": "Fertilizers, manures and amendments",
+  "level": "Intermediate",
+  "chapter": "fertilizers-manures-and-amendments",
+  "status": "page",
+  "pages": [
+   "Guano"
+  ]
+ },
+ {
+  "name": "Blood meal",
+  "branch": "Fertilizers, manures and amendments",
+  "level": "Intermediate",
+  "chapter": "fertilizers-manures-and-amendments",
+  "status": "judged out",
+  "pages": [
+   "Blood meal"
+  ],
+  "judged_out": [
+   "Blood meal"
+  ]
+ },
+ {
+  "name": "Elemental sulfur as an amendment",
+  "branch": "Fertilizers, manures and amendments",
+  "level": "Intermediate",
+  "chapter": "fertilizers-manures-and-amendments",
+  "status": "page",
+  "pages": [
+   "Sulfur",
+   "Allotropes of sulfur"
+  ],
+  "judged_out": [
+   "Sulfur"
+  ]
+ },
+ {
+  "name": "Bank erosion",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Intermediate",
+  "chapter": "erosion-and-sediment",
+  "status": "page",
+  "pages": [
+   "Bank erosion"
+  ]
+ },
+ {
+  "name": "Rockfall",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Intermediate",
+  "chapter": "erosion-and-sediment",
+  "status": "judged out",
+  "pages": [
+   "Rockfall"
+  ],
+  "judged_out": [
+   "Rockfall"
+  ]
+ },
+ {
+  "name": "Sinkhole",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Intermediate",
+  "chapter": "erosion-and-sediment",
+  "status": "judged out",
+  "pages": [
+   "Sinkhole"
+  ],
+  "judged_out": [
+   "Sinkhole"
+  ]
+ },
+ {
+  "name": "Piping (geotechnical)",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Intermediate",
+  "chapter": "erosion-and-sediment",
+  "status": "phrase",
+  "phrases": [
+   "Piping (geotechnical)",
+   "piping",
+   "soil pipes"
+  ],
+  "sentences": 62
+ },
+ {
+  "name": "Detention basin",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Intermediate",
+  "chapter": "erosion-and-sediment",
+  "status": "judged out",
+  "pages": [
+   "Detention basin"
+  ],
+  "judged_out": [
+   "Detention basin"
+  ]
+ },
+ {
+  "name": "Infiltration basin",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Intermediate",
+  "chapter": "erosion-and-sediment",
+  "status": "judged out",
+  "pages": [
+   "Infiltration basin"
+  ],
+  "judged_out": [
+   "Infiltration basin"
+  ]
+ },
+ {
+  "name": "Vegetative filter strip",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Intermediate",
+  "chapter": "erosion-and-sediment",
+  "status": "phrase",
+  "phrases": [
+   "Vegetative filter strip",
+   "filter strip"
+  ],
+  "sentences": 15
+ },
+ {
+  "name": "Gabion",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Intermediate",
+  "chapter": "erosion-and-sediment",
+  "status": "judged out",
+  "pages": [
+   "Gabion"
+  ],
+  "judged_out": [
+   "Gabion"
+  ]
+ },
+ {
+  "name": "Dryland farming",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Intermediate",
+  "chapter": "erosion-and-sediment",
+  "status": "page",
+  "pages": [
+   "Dryland farming"
+  ]
+ },
+ {
+  "name": "Revised Universal Soil Loss Equation",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Advanced",
+  "chapter": "erosion-and-sediment",
+  "status": "phrase",
+  "phrases": [
+   "Revised Universal Soil Loss Equation",
+   "RUSLE"
+  ],
+  "sentences": 6
+ },
+ {
+  "name": "Wind erosion equation",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Advanced",
+  "chapter": "erosion-and-sediment",
+  "status": "page",
+  "pages": [
+   "Wind erosion equation"
+  ]
+ },
+ {
+  "name": "Threshold friction velocity",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Advanced",
+  "chapter": "erosion-and-sediment",
+  "status": "page",
+  "pages": [
+   "Shear velocity"
+  ]
+ },
+ {
+  "name": "Shields parameter",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Advanced",
+  "chapter": "erosion-and-sediment",
+  "status": "page",
+  "pages": [
+   "Shields parameter"
+  ]
+ },
+ {
+  "name": "Stream power",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Advanced",
+  "chapter": "erosion-and-sediment",
+  "status": "page",
+  "pages": [
+   "Stream power"
+  ]
+ },
+ {
+  "name": "Interrill erosion",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Intermediate",
+  "chapter": "erosion-and-sediment",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Ephemeral gully",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Intermediate",
+  "chapter": "erosion-and-sediment",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Sediment fingerprinting",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Advanced",
+  "chapter": "erosion-and-sediment",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Fallout radionuclide erosion tracing",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Advanced",
+  "chapter": "erosion-and-sediment",
+  "status": "judged out",
+  "pages": [
+   "Caesium-137"
+  ],
+  "judged_out": [
+   "Caesium-137"
+  ]
+ },
+ {
+  "name": "Erosion plots and pins",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Intermediate",
+  "chapter": "erosion-and-sediment",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Badlands",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Intermediate",
+  "chapter": "erosion-and-sediment",
+  "status": "page",
+  "pages": [
+   "Badlands"
+  ]
+ },
+ {
+  "name": "Sediment yield",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Intermediate",
+  "chapter": "erosion-and-sediment",
+  "status": "phrase",
+  "phrases": [
+   "Sediment yield",
+   "sediment yield"
+  ],
+  "sentences": 7
+ },
+ {
+  "name": "Sediment connectivity",
+  "branch": "Soil erosion and sedimentation",
+  "level": "Advanced",
+  "chapter": "erosion-and-sediment",
+  "status": "phrase",
+  "phrases": [
+   "Sediment connectivity",
+   "sediment connectivity",
+   "connectivity"
+  ],
+  "sentences": 60
+ },
+ {
+  "name": "Soil fumigation",
+  "branch": "Farming systems, irrigation and growing media",
+  "level": "Intermediate",
+  "chapter": "farming-systems-and-growing-media",
+  "status": "page",
+  "pages": [
+   "Fumigation",
+   "Bromomethane"
+  ],
+  "judged_out": [
+   "Fumigation"
+  ]
+ },
+ {
+  "name": "Plasticulture",
+  "branch": "Farming systems, irrigation and growing media",
+  "level": "Intermediate",
+  "chapter": "farming-systems-and-growing-media",
+  "status": "judged out",
+  "pages": [
+   "Plasticulture"
+  ],
+  "judged_out": [
+   "Plasticulture"
+  ]
+ },
+ {
+  "name": "Mineral wool growing media",
+  "branch": "Farming systems, irrigation and growing media",
+  "level": "Intermediate",
+  "chapter": "farming-systems-and-growing-media",
+  "status": "judged out",
+  "pages": [
+   "Mineral wool"
+  ],
+  "judged_out": [
+   "Mineral wool"
+  ]
+ },
+ {
+  "name": "Replant disease",
+  "branch": "Farming systems, irrigation and growing media",
+  "level": "Intermediate",
+  "chapter": "farming-systems-and-growing-media",
+  "status": "phrase",
+  "phrases": [
+   "Replant disease",
+   "replant disease",
+   "soil sickness"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Shifting cultivation",
+  "branch": "Farming systems, irrigation and growing media",
+  "level": "Intermediate",
+  "chapter": "farming-systems-and-growing-media",
+  "status": "page",
+  "pages": [
+   "Shifting cultivation",
+   "Slash-and-burn agriculture"
+  ]
+ },
+ {
+  "name": "Sustainable agriculture",
+  "branch": "Farming systems, irrigation and growing media",
+  "level": "Foundational",
+  "chapter": "farming-systems-and-growing-media",
+  "status": "page",
+  "pages": [
+   "Sustainable agriculture"
+  ]
+ },
+ {
+  "name": "Biodynamic agriculture",
+  "branch": "Farming systems, irrigation and growing media",
+  "level": "Intermediate",
+  "chapter": "farming-systems-and-growing-media",
+  "status": "judged out",
+  "pages": [
+   "Biodynamic agriculture"
+  ],
+  "judged_out": [
+   "Biodynamic agriculture"
+  ]
+ },
+ {
+  "name": "Irrigation water quality",
+  "branch": "Farming systems, irrigation and growing media",
+  "level": "Intermediate",
+  "chapter": "farming-systems-and-growing-media",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Rotary tiller",
+  "branch": "Tillage and cultivation",
+  "level": "Intermediate",
+  "chapter": "tillage-and-cultivation",
+  "status": "covered",
+  "entry": "soil-agri-115"
+ },
+ {
+  "name": "Ridge tillage",
+  "branch": "Tillage and cultivation",
+  "level": "Intermediate",
+  "chapter": "tillage-and-cultivation",
+  "status": "phrase",
+  "phrases": [
+   "Ridge tillage",
+   "ridge tillage",
+   "ridge-till"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Disc harrow",
+  "branch": "Tillage and cultivation",
+  "level": "Intermediate",
+  "chapter": "tillage-and-cultivation",
+  "status": "page",
+  "pages": [
+   "Disc harrow"
+  ]
+ },
+ {
+  "name": "Seed drill",
+  "branch": "Tillage and cultivation",
+  "level": "Intermediate",
+  "chapter": "tillage-and-cultivation",
+  "status": "judged out",
+  "pages": [
+   "Seed drill"
+  ],
+  "judged_out": [
+   "Seed drill"
+  ]
+ },
+ {
+  "name": "Mulch tillage",
+  "branch": "Tillage and cultivation",
+  "level": "Intermediate",
+  "chapter": "tillage-and-cultivation",
+  "status": "page",
+  "pages": [
+   "Mulch-till",
+   "Stubble-mulching"
+  ]
+ },
+ {
+  "name": "Roller crimper",
+  "branch": "Tillage and cultivation",
+  "level": "Intermediate",
+  "chapter": "tillage-and-cultivation",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Puddling",
+  "branch": "Tillage and cultivation",
+  "level": "Intermediate",
+  "chapter": "tillage-and-cultivation",
+  "status": "phrase",
+  "phrases": [
+   "Puddling",
+   "puddling"
+  ],
+  "sentences": 16
+ },
+ {
+  "name": "Trap crop",
+  "branch": "Soil and water conservation",
+  "level": "Intermediate",
+  "chapter": "soil-conservation",
+  "status": "judged out",
+  "pages": [
+   "Trap crop"
+  ],
+  "judged_out": [
+   "Trap crop"
+  ]
+ },
+ {
+  "name": "Contour bund",
+  "branch": "Soil and water conservation",
+  "level": "Intermediate",
+  "chapter": "soil-conservation",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Vetiver System",
+  "branch": "Soil and water conservation",
+  "level": "Intermediate",
+  "chapter": "soil-conservation",
+  "status": "page",
+  "pages": [
+   "Vetiver System"
+  ]
+ },
+ {
+  "name": "Hedgerow",
+  "branch": "Soil and water conservation",
+  "level": "Intermediate",
+  "chapter": "soil-conservation",
+  "status": "judged out",
+  "pages": [
+   "Hedge"
+  ],
+  "judged_out": [
+   "Hedge"
+  ]
+ },
+ {
+  "name": "Half-moon water harvesting",
+  "branch": "Soil and water conservation",
+  "level": "Intermediate",
+  "chapter": "soil-conservation",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Rainwater harvesting",
+  "branch": "Soil and water conservation",
+  "level": "Intermediate",
+  "chapter": "soil-conservation",
+  "status": "judged out",
+  "pages": [
+   "Rainwater harvesting"
+  ],
+  "judged_out": [
+   "Rainwater harvesting"
+  ]
+ },
+ {
+  "name": "Land evaluation",
+  "branch": "Soil survey and land evaluation",
+  "level": "Intermediate",
+  "chapter": "soil-survey-and-land-evaluation",
+  "status": "phrase",
+  "phrases": [
+   "Land evaluation",
+   "land evaluation"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Land suitability",
+  "branch": "Soil survey and land evaluation",
+  "level": "Intermediate",
+  "chapter": "soil-survey-and-land-evaluation",
+  "status": "phrase",
+  "phrases": [
+   "Land suitability",
+   "land suitability"
+  ],
+  "sentences": 11
+ },
+ {
+  "name": "Soil association",
+  "branch": "Soil survey and land evaluation",
+  "level": "Intermediate",
+  "chapter": "soil-survey-and-land-evaluation",
+  "status": "phrase",
+  "phrases": [
+   "Soil association",
+   "soil association"
+  ],
+  "sentences": 11
+ },
+ {
+  "name": "Soil map units",
+  "branch": "Soil survey and land evaluation",
+  "level": "Intermediate",
+  "chapter": "soil-survey-and-land-evaluation",
+  "status": "page",
+  "pages": [
+   "Centimorgan"
+  ]
+ },
+ {
+  "name": "Order of soil survey",
+  "branch": "Soil survey and land evaluation",
+  "level": "Advanced",
+  "chapter": "soil-survey-and-land-evaluation",
+  "status": "phrase",
+  "phrases": [
+   "Order of soil survey",
+   "order of survey",
+   "map scale"
+  ],
+  "sentences": 16
+ },
+ {
+  "name": "Web Soil Survey",
+  "branch": "Soil survey and land evaluation",
+  "level": "Intermediate",
+  "chapter": "soil-survey-and-land-evaluation",
+  "status": "phrase",
+  "phrases": [
+   "Web Soil Survey",
+   "Web Soil Survey"
+  ],
+  "sentences": 4
+ },
+ {
+  "name": "Land-use planning",
+  "branch": "Soil survey and land evaluation",
+  "level": "Intermediate",
+  "chapter": "soil-survey-and-land-evaluation",
+  "status": "judged out",
+  "pages": [
+   "Land-use planning"
+  ],
+  "judged_out": [
+   "Land-use planning"
+  ]
+ },
+ {
+  "name": "Agro-ecological zoning",
+  "branch": "Soil survey and land evaluation",
+  "level": "Intermediate",
+  "chapter": "soil-survey-and-land-evaluation",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Corn suitability rating",
+  "branch": "Soil survey and land evaluation",
+  "level": "Advanced",
+  "chapter": "soil-survey-and-land-evaluation",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Soil productivity index",
+  "branch": "Soil survey and land evaluation",
+  "level": "Advanced",
+  "chapter": "soil-survey-and-land-evaluation",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Soil monitoring networks",
+  "branch": "Soil survey and land evaluation",
+  "level": "Intermediate",
+  "chapter": "soil-survey-and-land-evaluation",
+  "status": "judged out",
+  "pages": [
+   "Environmental monitoring"
+  ],
+  "judged_out": [
+   "Environmental monitoring"
+  ]
+ },
+ {
+  "name": "LUCAS soil survey",
+  "branch": "Soil survey and land evaluation",
+  "level": "Advanced",
+  "chapter": "soil-survey-and-land-evaluation",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Aerial photography in soil survey",
+  "branch": "Soil survey and land evaluation",
+  "level": "Intermediate",
+  "chapter": "soil-survey-and-land-evaluation",
+  "status": "page",
+  "pages": [
+   "Aerial photography",
+   "Stereoscopy"
+  ]
+ },
+ {
+  "name": "4 per 1000",
+  "branch": "Soil carbon and climate",
+  "level": "Intermediate",
+  "chapter": "soil-carbon-and-climate",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Tipping points in the climate system",
+  "branch": "Soil carbon and climate",
+  "level": "Intermediate",
+  "chapter": "soil-carbon-and-climate",
+  "status": "judged out",
+  "pages": [
+   "Tipping points in the climate system"
+  ],
+  "judged_out": [
+   "Tipping points in the climate system"
+  ]
+ },
+ {
+  "name": "Soil carbon saturation",
+  "branch": "Soil carbon and climate",
+  "level": "Advanced",
+  "chapter": "soil-carbon-and-climate",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Equivalent soil mass",
+  "branch": "Soil carbon and climate",
+  "level": "Advanced",
+  "chapter": "soil-carbon-and-climate",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Measurement, reporting and verification",
+  "branch": "Soil carbon and climate",
+  "level": "Advanced",
+  "chapter": "soil-carbon-and-climate",
+  "status": "page",
+  "pages": [
+   "Verification and validation"
+  ]
+ },
+ {
+  "name": "Soil carbon credits",
+  "branch": "Soil carbon and climate",
+  "level": "Intermediate",
+  "chapter": "soil-carbon-and-climate",
+  "status": "judged out",
+  "pages": [
+   "Carbon offsets and credits",
+   "Carbon offsets and credits"
+  ],
+  "judged_out": [
+   "Carbon offsets and credits",
+   "Carbon offsets and credits"
+  ]
+ },
+ {
+  "name": "Blue carbon",
+  "branch": "Soil carbon and climate",
+  "level": "Intermediate",
+  "chapter": "soil-carbon-and-climate",
+  "status": "judged out",
+  "pages": [
+   "Blue carbon"
+  ],
+  "judged_out": [
+   "Blue carbon"
+  ]
+ },
+ {
+  "name": "Alternate wetting and drying",
+  "branch": "Soil carbon and climate",
+  "level": "Intermediate",
+  "chapter": "soil-carbon-and-climate",
+  "status": "page",
+  "pages": [
+   "Alternate wetting and drying"
+  ]
+ },
+ {
+  "name": "Methane emissions from rice paddies",
+  "branch": "Soil carbon and climate",
+  "level": "Intermediate",
+  "chapter": "soil-carbon-and-climate",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Soil methane uptake",
+  "branch": "Soil carbon and climate",
+  "level": "Advanced",
+  "chapter": "soil-carbon-and-climate",
+  "status": "phrase",
+  "phrases": [
+   "Soil methane uptake",
+   "methane uptake",
+   "methane sink"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Land surface model",
+  "branch": "Soil carbon and climate",
+  "level": "Advanced",
+  "chapter": "soil-carbon-and-climate",
+  "status": "phrase",
+  "phrases": [
+   "Land surface model",
+   "land surface model",
+   "Earth system model"
+  ],
+  "sentences": 17
+ },
+ {
+  "name": "Land use, land-use change and forestry",
+  "branch": "Soil carbon and climate",
+  "level": "Intermediate",
+  "chapter": "soil-carbon-and-climate",
+  "status": "page",
+  "pages": [
+   "Land use, land-use change, and forestry"
+  ]
+ },
+ {
+  "name": "Subsoil carbon",
+  "branch": "Soil carbon and climate",
+  "level": "Advanced",
+  "chapter": "soil-carbon-and-climate",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Global Assessment of Human-induced Soil Degradation",
+  "branch": "Land degradation and desertification",
+  "level": "Intermediate",
+  "chapter": "degradation-and-desertification",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Land abandonment",
+  "branch": "Land degradation and desertification",
+  "level": "Intermediate",
+  "chapter": "degradation-and-desertification",
+  "status": "phrase",
+  "phrases": [
+   "Land abandonment",
+   "land abandonment"
+  ],
+  "sentences": 6
+ },
+ {
+  "name": "Soil Management Assessment Framework",
+  "branch": "Soil health, policy and protection",
+  "level": "Advanced",
+  "chapter": "soil-health-and-protection",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Soil Monitoring Law",
+  "branch": "Soil health, policy and protection",
+  "level": "Intermediate",
+  "chapter": "soil-health-and-protection",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Soil security",
+  "branch": "Soil health, policy and protection",
+  "level": "Intermediate",
+  "chapter": "soil-health-and-protection",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Active carbon (POXC)",
+  "branch": "Soil health, policy and protection",
+  "level": "Advanced",
+  "chapter": "soil-health-and-protection",
+  "status": "phrase",
+  "phrases": [
+   "Active carbon (POXC)",
+   "permanganate oxidizable carbon",
+   "active carbon"
+  ],
+  "sentences": 17
+ },
+ {
+  "name": "Visual soil assessment",
+  "branch": "Soil health, policy and protection",
+  "level": "Intermediate",
+  "chapter": "soil-health-and-protection",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "Soil natural capital",
+  "branch": "Soil health, policy and protection",
+  "level": "Advanced",
+  "chapter": "soil-health-and-protection",
+  "status": "judged out",
+  "pages": [
+   "Natural capital"
+  ],
+  "judged_out": [
+   "Natural capital"
+  ]
+ },
+ {
+  "name": "Polychlorinated biphenyl",
+  "branch": "Soil contamination and remediation",
+  "level": "Intermediate",
+  "chapter": "contamination-and-remediation",
+  "status": "judged out",
+  "pages": [
+   "Polychlorinated biphenyl"
+  ],
+  "judged_out": [
+   "Polychlorinated biphenyl"
+  ]
+ },
+ {
+  "name": "Pump and treat",
+  "branch": "Soil contamination and remediation",
+  "level": "Intermediate",
+  "chapter": "contamination-and-remediation",
+  "status": "page",
+  "pages": [
+   "Environmental remediation"
+  ]
+ },
+ {
+  "name": "Soil washing",
+  "branch": "Soil contamination and remediation",
+  "level": "Intermediate",
+  "chapter": "contamination-and-remediation",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "Arsenic contamination of groundwater",
+  "branch": "Soil contamination and remediation",
+  "level": "Intermediate",
+  "chapter": "contamination-and-remediation",
+  "status": "page",
+  "pages": [
+   "Arsenic contamination of groundwater"
+  ]
+ },
+ {
+  "name": "Lead poisoning",
+  "branch": "Soil contamination and remediation",
+  "level": "Intermediate",
+  "chapter": "contamination-and-remediation",
+  "status": "judged out",
+  "pages": [
+   "Lead poisoning"
+  ],
+  "judged_out": [
+   "Lead poisoning"
+  ]
+ },
+ {
+  "name": "Dead zone (ecology)",
+  "branch": "Soil contamination and remediation",
+  "level": "Intermediate",
+  "chapter": "contamination-and-remediation",
+  "status": "judged out",
+  "pages": [
+   "Dead zone (ecology)"
+  ],
+  "judged_out": [
+   "Dead zone (ecology)"
+  ]
+ },
+ {
+  "name": "In situ chemical reduction",
+  "branch": "Soil contamination and remediation",
+  "level": "Advanced",
+  "chapter": "contamination-and-remediation",
+  "status": "page",
+  "pages": [
+   "In situ chemical reduction"
+  ]
+ },
+ {
+  "name": "Cadmium in soils",
+  "branch": "Soil contamination and remediation",
+  "level": "Intermediate",
+  "chapter": "contamination-and-remediation",
+  "status": "page",
+  "pages": [
+   "Cadmium",
+   "Cadmium poisoning"
+  ],
+  "judged_out": [
+   "Cadmium"
+  ]
+ },
+ {
+  "name": "Hexavalent chromium",
+  "branch": "Soil contamination and remediation",
+  "level": "Advanced",
+  "chapter": "contamination-and-remediation",
+  "status": "page",
+  "pages": [
+   "Hexavalent chromium"
+  ]
+ },
+ {
+  "name": "Petroleum-contaminated soil",
+  "branch": "Soil contamination and remediation",
+  "level": "Intermediate",
+  "chapter": "contamination-and-remediation",
+  "status": "page",
+  "pages": [
+   "Total petroleum hydrocarbon",
+   "Oil spill"
+  ],
+  "judged_out": [
+   "Oil spill"
+  ]
+ },
+ {
+  "name": "Non-aqueous phase liquids",
+  "branch": "Soil contamination and remediation",
+  "level": "Advanced",
+  "chapter": "contamination-and-remediation",
+  "status": "page",
+  "pages": [
+   "Dense non-aqueous phase liquid",
+   "Light non-aqueous phase liquid"
+  ]
+ },
+ {
+  "name": "Vapor intrusion",
+  "branch": "Soil contamination and remediation",
+  "level": "Advanced",
+  "chapter": "contamination-and-remediation",
+  "status": "page",
+  "pages": [
+   "Vapor intrusion"
+  ]
+ },
+ {
+  "name": "Solidification and stabilization",
+  "branch": "Soil contamination and remediation",
+  "level": "Advanced",
+  "chapter": "contamination-and-remediation",
+  "status": "judged out",
+  "pages": [
+   "Vitrification"
+  ],
+  "judged_out": [
+   "Vitrification"
+  ]
+ },
+ {
+  "name": "Thermal desorption",
+  "branch": "Soil contamination and remediation",
+  "level": "Advanced",
+  "chapter": "contamination-and-remediation",
+  "status": "page",
+  "pages": [
+   "Thermal desorption"
+  ]
+ },
+ {
+  "name": "Pesticide degradation and half-life",
+  "branch": "Soil contamination and remediation",
+  "level": "Advanced",
+  "chapter": "contamination-and-remediation",
+  "status": "page",
+  "pages": [
+   "Biological half-life",
+   "Pesticide degradation"
+  ]
+ },
+ {
+  "name": "Organic carbon–water partition coefficient",
+  "branch": "Soil contamination and remediation",
+  "level": "Advanced",
+  "chapter": "contamination-and-remediation",
+  "status": "phrase",
+  "phrases": [
+   "Organic carbon–water partition coefficient",
+   "Koc"
+  ],
+  "sentences": 60
+ },
+ {
+  "name": "Contaminants of emerging concern",
+  "branch": "Soil contamination and remediation",
+  "level": "Advanced",
+  "chapter": "contamination-and-remediation",
+  "status": "page",
+  "pages": [
+   "Contaminants of emerging concern",
+   "Environmental impact of pharmaceuticals and personal care products"
+  ],
+  "judged_out": [
+   "Environmental impact of pharmaceuticals and personal care products"
+  ]
+ },
+ {
+  "name": "Engineered nanomaterials in soil",
+  "branch": "Soil contamination and remediation",
+  "level": "Advanced",
+  "chapter": "contamination-and-remediation",
+  "status": "page",
+  "pages": [
+   "Nanoparticle",
+   "Nanotoxicology"
+  ],
+  "judged_out": [
+   "Nanoparticle"
+  ]
+ },
+ {
+  "name": "Ecotoxicology",
+  "branch": "Soil contamination and remediation",
+  "level": "Intermediate",
+  "chapter": "contamination-and-remediation",
+  "status": "page",
+  "pages": [
+   "Ecotoxicology"
+  ]
+ },
+ {
+  "name": "Geochemical background",
+  "branch": "Soil contamination and remediation",
+  "level": "Advanced",
+  "chapter": "contamination-and-remediation",
+  "status": "phrase",
+  "phrases": [
+   "Geochemical background",
+   "geochemical background",
+   "background concentration"
+  ],
+  "sentences": 11
+ },
+ {
+  "name": "Soil Map of the World",
+  "branch": "History of soil science",
+  "level": "Intermediate",
+  "chapter": "history-of-soil-science",
+  "status": "phrase",
+  "phrases": [
+   "Soil Map of the World",
+   "Soil Map of the World"
+  ],
+  "sentences": 12
+ },
+ {
+  "name": "Columella",
+  "branch": "History of soil science",
+  "level": "Intermediate",
+  "chapter": "history-of-soil-science",
+  "status": "phrase",
+  "phrases": [
+   "Columella",
+   "Columella"
+  ],
+  "sentences": 20
+ },
+ {
+  "name": "Broadbalk experiment",
+  "branch": "History of soil science",
+  "level": "Intermediate",
+  "chapter": "history-of-soil-science",
+  "status": "phrase",
+  "phrases": [
+   "Broadbalk experiment",
+   "Broadbalk"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Humus theory",
+  "branch": "History of soil science",
+  "level": "Intermediate",
+  "chapter": "history-of-soil-science",
+  "status": "phrase",
+  "phrases": [
+   "Humus theory",
+   "humus theory"
+  ],
+  "sentences": 4
+ },
+ {
+  "name": "Virgin Lands campaign",
+  "branch": "History of soil science",
+  "level": "Intermediate",
+  "chapter": "history-of-soil-science",
+  "status": "page",
+  "pages": [
+   "Virgin Lands campaign"
+  ]
+ },
+ {
+  "name": "Long-term agricultural experiments",
+  "branch": "History of soil science",
+  "level": "Intermediate",
+  "chapter": "history-of-soil-science",
+  "status": "page",
+  "pages": [
+   "Long-term experiment"
+  ]
+ },
+ {
+  "name": "Charles Kellogg",
+  "branch": "Founders and pioneers",
+  "level": "Intermediate",
+  "chapter": "founders-and-pioneers",
+  "status": "page",
+  "pages": [
+   "Charles Kellogg (naturalist)"
+  ]
+ },
+ {
+  "name": "Milton Whitney",
+  "branch": "Founders and pioneers",
+  "level": "Intermediate",
+  "chapter": "founders-and-pioneers",
+  "status": "phrase",
+  "phrases": [
+   "Milton Whitney",
+   "Milton Whitney"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Nikolai Sibirtsev",
+  "branch": "Founders and pioneers",
+  "level": "Intermediate",
+  "chapter": "founders-and-pioneers",
+  "status": "phrase",
+  "phrases": [
+   "Nikolai Sibirtsev",
+   "Sibirtsev"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Albrecht Thaer",
+  "branch": "Founders and pioneers",
+  "level": "Intermediate",
+  "chapter": "founders-and-pioneers",
+  "status": "page",
+  "pages": [
+   "Albrecht Thaer"
+  ]
+ },
+ {
+  "name": "Karl Terzaghi",
+  "branch": "Founders and pioneers",
+  "level": "Intermediate",
+  "chapter": "founders-and-pioneers",
+  "status": "judged out",
+  "pages": [
+   "Karl von Terzaghi"
+  ],
+  "judged_out": [
+   "Karl von Terzaghi"
+  ]
+ },
+ {
+  "name": "Edgar Buckingham",
+  "branch": "Founders and pioneers",
+  "level": "Intermediate",
+  "chapter": "founders-and-pioneers",
+  "status": "page",
+  "pages": [
+   "Edgar Buckingham"
+  ]
+ },
+ {
+  "name": "Walter Kubiëna",
+  "branch": "Founders and pioneers",
+  "level": "Intermediate",
+  "chapter": "founders-and-pioneers",
+  "status": "none",
+  "sentences": 2
+ },
+ {
+  "name": "British Society of Soil Science",
+  "branch": "Societies and journals",
+  "level": "Intermediate",
+  "chapter": "societies-institutes-and-journals",
+  "status": "none",
+  "sentences": 0
+ },
+ {
+  "name": "European Journal of Soil Science",
+  "branch": "Societies and journals",
+  "level": "Intermediate",
+  "chapter": "societies-institutes-and-journals",
+  "status": "phrase",
+  "phrases": [
+   "European Journal of Soil Science",
+   "European Journal of Soil Science"
+  ],
+  "sentences": 3
+ },
+ {
+  "name": "Geoderma",
+  "branch": "Societies and journals",
+  "level": "Intermediate",
+  "chapter": "societies-institutes-and-journals",
+  "status": "phrase",
+  "phrases": [
+   "Geoderma",
+   "Geoderma"
+  ],
+  "sentences": 12
+ },
+ {
+  "name": "Soil Science (journal)",
+  "branch": "Societies and journals",
+  "level": "Intermediate",
+  "chapter": "societies-institutes-and-journals",
+  "status": "none",
+  "sentences": 1
+ },
+ {
+  "name": "Soil Biology and Biochemistry",
+  "branch": "Societies and journals",
+  "level": "Intermediate",
+  "chapter": "societies-institutes-and-journals",
+  "status": "judged out",
+  "pages": [
+   "Soil Biology and Biochemistry"
+  ],
+  "judged_out": [
+   "Soil Biology and Biochemistry"
+  ]
+ },
+ {
+  "name": "Plants in space",
+  "branch": "Astropedology",
+  "level": "Intermediate",
+  "chapter": "soils-beyond-earth",
+  "status": "page",
+  "pages": [
+   "Plants in space"
+  ]
+ },
+ {
+  "name": "Mars sample-return mission",
+  "branch": "Astropedology",
+  "level": "Intermediate",
+  "chapter": "soils-beyond-earth",
+  "status": "page",
+  "pages": [
+   "Mars sample-return mission"
+  ]
+ },
+ {
+  "name": "Water on Mars",
+  "branch": "Astropedology",
+  "level": "Intermediate",
+  "chapter": "soils-beyond-earth",
+  "status": "judged out",
+  "pages": [
+   "Water on Mars"
+  ],
+  "judged_out": [
+   "Water on Mars"
+  ]
+ },
+ {
+  "name": "Viking lander biological experiments",
+  "branch": "Astropedology",
+  "level": "Intermediate",
+  "chapter": "soils-beyond-earth",
+  "status": "page",
+  "pages": [
+   "Viking lander biological experiments"
+  ]
+ }
+]

@@ -1,0 +1,64 @@
+{
+ "entries": {
+  "soil-agri-158": {
+   "title": "A green border between field and stream",
+   "text": "A strip of grass at a field's edge can stop much of the field from reaching the river. A buffer strip is land kept under permanent vegetation, mostly on farms, to protect soil, water and air, a staple of {{ref:soil-agri-059}}. It slows {{ref:soil-water-019}}, so sediment settles and nutrients and {{ref:soil-env-237}} are filtered out before they reach surface waters. Roots bind soil particles, cutting wind erosion and holding stream banks against {{ref:soil-water-001}} and landslides. Plantings range from grass alone to mixes of grass, trees and shrubs, and more diverse strips protect better. Governments often pay for them because they cut nitrogen losses to water and soil lost to wind. Siting starts with drainage. Poorly drained ground ponds, very well drained ground turns droughty, and medium drainage suits grasses best. On slopes, the NRCS finds contour strip cropping most effective at 4 to 8%."
+  },
+  "soil-agri-157": {
+   "title": "Rain gardens that clean the runoff",
+   "text": "Bioretention cleans stormwater by passing it through planted soil, where plants and microbes hold and break down pollutants. A typical cell has a sand bed, a layered filter soil and plants on top; stored water seeps away over days. Filtration, chemical change, biological breakdown and {{ref:soil-chem-068}} do the work, with clay gripping hydrocarbons, heavy metals and nutrients. Lab cells removed 94% of zinc, 88% of copper, 95% of lead and over 95% of cadmium. Capacity is finite, so the media eventually needs replacing. Loamy sand suits best; clay above 25 percent or slopes above 20 percent may rule it out."
+  },
+  "soil-agri-159": {
+   "title": "Grass bands across the hillside",
+   "text": "Contour buffer strips alternate bands of perennial vegetation with wider strips of crops across a slope, following the logic of {{ref:soil-agri-123}}. They work best when runoff arrives evenly as a sheet, and they excel at trapping pest-killing chemicals and curbing the small channels water cuts into fields. Each band must be at least 15 feet (4.6 m) wide, and the strips often stand in cheaply for terraces. Vegetative barriers are a narrower version: rows of hardy native perennial grasses or shrubs that slow wind and water and trap sediment."
+  },
+  "soil-agri-160": {
+   "title": "The last line before the water",
+   "text": "A filter strip is a band of grass or other permanent vegetation at a field's edge. It shields the {{ref:soil-water-263}} from {{ref:soil-water-046}}, pest-killing chemicals, pathogens and nutrients carried in runoff. It protects stream banks and water quality, and works best when other practices steer water toward it. Once mainly agricultural, filter strips are now common in towns, where water quality is a growing concern. Field borders, perennial strips along cropland edges, also reduce wind and water erosion. They help only with runoff that actually flows across them."
+  },
+  "soil-agri-161": {
+   "title": "A grass hedge that builds its own terrace",
+   "text": "Plant one grass in a line across a slope and, given time, it builds a terrace by itself. The Vetiver System conserves soil and water with hedgerows of vetiver grass. The dense hedge slows and spreads runoff, and sediment piling up behind it gradually forms a lasting {{ref:soil-agri-073}}. Its roots can reach 3–4 m deep in the first year. It tolerates roughly pH 3 to pH 11 and most heavy metals. A good hedge can cut runoff by as much as 70% and sediment by as much as 90%. It is used in more than 100 countries for {{ref:soil-water-051}}, slope stabilization and cleaning polluted soil."
+  },
+  "soil-agri-163": {
+   "title": "Reading the land from orbit",
+   "text": "A satellite can gauge the moisture in a field it will never touch. Remote sensing gathers information about an object or area from a distance, usually with sensors on satellites or aircraft, instead of measuring on site. It is active when the sensor sends out a signal and catches the reflection, passive when it detects reflected sunlight. Soil moisture, surface water storage, precipitation and evapotranspiration can all be measured this way, at various resolutions and accuracies. Land cover and land use maps reveal {{ref:soil-env-269}} and track the health of crops and native plants. Interferometric synthetic aperture radar, a radar technique, builds precise elevation models of large terrains. The view from above still needs the ground. Agricultural and environmental statistics usually combine classified satellite images with field samples, the same ground truth a {{ref:soil-agri-082}} depends on."
+  },
+  "soil-agri-165": {
+   "title": "Maps that answer questions",
+   "text": "Location is the thread that ties unrelated facts together. A geographic information system, or GIS, is computer hardware and software that store, manage, analyze, edit and display geographic data, using location as the key index. The first was the Canada Geographic Information System. It handled the Canada Land Inventory, which mapped soils, agriculture, forestry and land use at 1:50,000 to judge rural land capability. GIS data usually show features such as roads, land use, elevation and waterways. Masses such as an area's soil types, the stuff of a {{ref:soil-agri-084}}, are represented less directly. Data from digital survey instruments can flow straight into a GIS by coordinate geometry."
+  },
+  "soil-agri-164": {
+   "title": "The ground surface as a grid of heights",
+   "text": "A digital elevation model, or DEM, is a computer representation of elevation that depicts terrain or the objects on it. A terrain model shows bare ground; a surface model may include tree canopy and buildings, though the terms are used loosely. DEMs usually come from {{ref:soil-agri-163}} such as photogrammetry, lidar or radar interferometry, but land surveys work too. They are widely used in a {{ref:soil-agri-165}}. They feed drainage modelling and land-use studies, supply terrain measures for {{ref:soil-water-295}} and help model soil wetness through depth-to-water indexes."
+  },
+  "soil-agri-162": {
+   "title": "Erosion seen from the air",
+   "text": "One of Fairchild's first government contracts was an aerial survey of New Mexico to study soil erosion. Aerial photography takes pictures of landscapes from aircraft and other airborne platforms, an early form of {{ref:soil-agri-163}}. Vertical photographs underpin photogrammetry, mapping from aerial photographs, which was pioneered commercially in the 1930s. It is the usual basis of topographic maps and serves land-use planning. Terrain analysts have often viewed overlapping pairs in stereo to draw those maps."
+  },
+  "soil-agri-166": {
+   "title": "Is this land fit for that use",
+   "text": "Cultivating a steep slope may be possible, yet still a bad idea. Land suitability classification is the FAO method of land evaluation for answering that question. It appraises and groups land by its fitness for one defined use, drawing on {{ref:soil-agri-083}}. Land can be judged as it is now or after improvements. The scheme has four levels of decreasing generality. Orders give the kind of suitability, classes the degree, subclasses the kind of limitation, and units the minor differences in management. There are just two orders. S marks land whose sustained use yields benefits that justify the inputs without unacceptable damage. N marks land whose qualities seem to rule that use out. Land falls into N for three reasons. The use may be impracticable, or it may cause severe degradation, as cultivating steep slopes would. Most often, it simply would not repay its costs. The answers are not fixed. Climate change shifts suitability for many crops, usually toward higher latitudes and altitudes."
+  },
+  "soil-agri-168": {
+   "title": "What land could do, not what it does",
+   "text": "A land use capability map shows the potential uses of each unit of land, usually for farming. That sets it apart from a land use map, which shows how land is used now. It typically rests on five physical factors: rock type, soil type, slope, the degree and type of erosion, and vegetation. Each draws on a {{ref:soil-agri-084}} and {{ref:soil-agri-083}}. In the United States the Soil Conservation Service developed the Land Capability System in 1951, and soil survey standards keep data consistent with it."
+  },
+  "soil-agri-177": {
+   "title": "Judging a forest site by its tallest trees",
+   "text": "A 50-year-old red oak standing 70 feet (21 m) tall gives its site a site index of 70. Site index is the forester's measure of a site's potential for tree growth: the height of dominant and co-dominant trees at a base age. Base ages of 25, 50 and 100 years are used, and each index belongs to one tree species. Foresters can find it from tree height, from understory indicator plants or from a {{ref:soil-agri-084}}. In the United States the NRCS measured site index on surveyed soils and tabulated soils against indexes for important species. Indirect estimates use the dominant species, lesser vegetation, and topographic, climatic and soil factors. It has shortcomings, yet it has been the most widely used way to estimate site productivity in North America."
+  },
+  "soil-agri-167": {
+   "title": "From highly suitable to never suitable",
+   "text": "Within each FAO order of {{ref:soil-agri-166}}, numbered classes rank land in decreasing suitability. The number of Suitable classes is not fixed, but should stay small, probably never more than five. With three, S1 is highly suitable, S2 moderately suitable and S3 marginally suitable, barely justifying the inputs. Not Suitable land normally has two classes. N1 has limitations that might be overcome in time, but not at acceptable cost now. N2 has limitations that rule out any sustained use."
+  },
+  "soil-agri-170": {
+   "title": "The soil survey moves online",
+   "text": "US soil surveys are no longer printed as books. They are published on Web Soil Survey, an online service of the USDA {{ref:soil-hist-050}} that opens data from the {{ref:soil-hist-051}}. Users can build a custom {{ref:soil-agri-082}} for their own area. It is also one recognized basis, alongside measured infiltration rates, for assigning a site's hydrologic soil group."
+  },
+  "soil-agri-178": {
+   "title": "Turning height and age into a site index",
+   "text": "Site index curves and equations turn a stand's dominant height and age into its {{ref:soil-agri-177}}. Height is measured on a dominant or co-dominant tree with a clinometer, laser hypsometer or releskop; age comes from an increment borer or planting records. A 60-foot (18 m) tree in a 50-year-old stand is read where age 50 meets 60 feet, and the nearest curve gives the index. One equation is lnS = lnHd − b1(A⁻¹ − Ai⁻¹), with S site index, Hd dominant height, A stand age and Ai index age. Planted white spruce curves fail below about 15 years, since early growth is hard to predict."
+  }
+ }
+}

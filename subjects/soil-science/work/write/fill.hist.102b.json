@@ -1,0 +1,24 @@
+{
+ "entries": {
+  "soil-hist-114": {
+   "title": "Farm trials that outlast the people who began them",
+   "text": "Some farm experiments outlive everyone who started them. Long-term agricultural experiments are field trials run for decades, some for more than 100 years, to test the sustainability of farming practices from yield trends. Examples include the Park Grass Experiment at Rothamsted, the Morrow Plots (1876), Sanborn Field (1888), the Magruder Plots (1892) and Auburn's Old Rotation (1896). Why so long? Nitrogen released from soil organic matter can hide a legume nitrogen shortfall for a decade or more, so short trials cannot prove sustainability. Rothamsted showed that wheat and barley monocultures can sustain grain yields for almost 150 years, given organic or inorganic fertilizer every year. Even so, abundant evidence shows that crop rotation and organic inputs are often beneficial. The Old Rotation showed that legume nitrogen ploughed in as green manure can balance the nitrogen harvests remove. The Haughley Experiment ran organic farming without outside nutrients. Whether its yield decline came from soil nutrient depletion is disputed. In 2017 Rothamsted began the Large Scale Rotation Experiment, to study regenerative approaches such as no-till and crop rotation."
+  },
+  "soil-hist-115": {
+   "title": "Broadbalk, a wheat field sown every year since 1843",
+   "text": "One field at {{ref:soil-hist-053}} has grown winter wheat every year since 1843. This is the Broadbalk experiment. It is one of the classical field experiments begun by Lawes and Gilbert that remain in place as a resource for agricultural and environmental research. Its continuous wheat revealed a surprise about disease. Take-all built up to a peak in the 3rd to 5th crop, then declined, restoring yields to 80 to 90% of early levels."
+  },
+  "soil-hist-118": {
+   "title": "Humus theory, the belief that plants eat rot",
+   "text": "For decades, scientists believed plants drew their carbon from rotted plant matter. Humus theory was the once-prevalent view that humus, decayed plant matter, was plants' main source of carbon. Fertilizers were thought to work by breaking humus down so plants could absorb it more easily. The German agronomist {{ref:soil-hist-103}} supported it and dismissed Humphry Davy's idea of atmospheric carbon. His Principles of Agriculture (1809–12) set out the theory, which was still accepted between 1800 and 1860. {{ref:soil-hist-004}} argued against it."
+  },
+  "soil-hist-117": {
+   "title": "The Soil Map of the World, ten volumes long",
+   "text": "From 1971 to 1981, FAO and UNESCO published a map of the whole world's soils in 10 volumes at a scale of 1:5 million. This is the Soil Map of the World. The FAO soil classification was first developed as its legend, then applied by United Nations projects. A Revised Legend of the Soil Map of the World followed in 1988. The world's 3,230,000 km² of saline land has been mapped by region from it. In 1996, at the request of UNESCO and the International Society of Soil Science, the World Soil Museum was created to support it."
+  },
+  "soil-hist-116": {
+   "title": "The Virgin Lands campaign and the eroded steppe",
+   "text": "A plan to feed the Soviet Union became an environmental disaster for the Kazakh steppe. In 1953 Nikita Khrushchev launched the Virgin Lands campaign to boost farm output by ploughing new land in southern Western Siberia and northern Kazakhstan. After early success, output fell considerably. The region got only 200 to 350 mm of rain a year, mostly at harvest, and its soils had high salt content. Strong winds blew snow off the fields in winter and caused soil erosion in spring. Monoculture, with grain on 83% of cropland in 1958–1959, depleted the soil of nutrients. Severe erosion followed."
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "entries": {
+  "soil-found-121": {
+   "title": "Spheroidal weathering, peeling rock like an onion",
+   "text": "Square blocks of rock can rot into round boulders. Spheroidal, or onion-skin, weathering is the chemical attack on jointed bedrock that leaves concentric shells of decayed rock inside {{ref:soil-form-100}}. Water enters along the joints. Each block therefore weathers inward fastest at its corners, then its edges, then its faces, leaving a rounded core. These corestones, or woolsacks, stand as freestanding boulders or tors once erosion strips away the rotten rock around them. The alteration forms secondary minerals such as {{ref:soil-chem-088}} and {{ref:soil-chem-093}}, and swells the rock's volume. It has often been wrongly blamed on physical weathering alone, yet much of it happened in past humid, even tropical, climates."
+  },
+  "soil-form-116": {
+   "title": "Slickensides, polished cracks in swelling clay",
+   "text": "Some soil cracks shine as if polished. In pedology, slickensides are those glossy crack surfaces, formed in soils with a high proportion of swelling clays. They are a type of {{ref:soil-found-068}}, a coating or surface feature on soil aggregates. In {{ref:soil-class-022}}, slickensides together with lens-shaped aggregates mark one soil order, {{ref:soil-class-106}}. Geologists use the same name for something larger: fault surfaces smoothed by friction and striated in the direction of movement."
+  },
+  "soil-form-121": {
+   "title": "The calcic horizon, where lime collects in dry soils",
+   "text": "In dry soils, lime washed down from above can pile up in a layer of its own. A calcic horizon is that layer of secondary carbonate accumulation, carbonate built from {{ref:soil-found-118}}. It must hold more than 15% carbonate, measured as {{ref:soil-fert-060}}, and at least 5% more carbonate than the layer below. This {{ref:soil-form-017}} marks several dryland soil groups. {{ref:soil-class-161}} have a calcic, hypercalcic or petrocalcic horizon whose upper boundary lies within 1.0 m of the surface. Calciorthids are distinguished by one, and most Ustolls have one too. {{ref:soil-class-093}} have even been redefined as soils with a calcic horizon less than 1 meter deep."
+  },
+  "soil-form-120": {
+   "title": "The kandic horizon, a clay layer that holds little",
+   "text": "Not every clay-rich subsoil is rich in nutrients. A kandic horizon is a subsoil layer of washed-in clay, a kind of {{ref:soil-class-045}}, whose clays are mainly 1:1 silicate clays. These clays carry little exchangeable charge, so the horizon stores nutrients poorly. It is a {{ref:soil-form-017}} that helps sort soils into orders. {{ref:soil-class-090}} must have a clay-enriched, natric or kandic horizon. {{ref:soil-class-104}} must have a clay-enriched or kandic one. In the world system, {{ref:soil-class-134}} correspond to kandic soils of those two orders and of {{ref:soil-class-100}}. {{ref:soil-class-117}} correspond partly to {{ref:soil-class-103}} with a kandic horizon."
+  },
+  "soil-form-118": {
+   "title": "The mollic epipedon, the dark topsoil of grasslands",
+   "text": "The black topsoil of a grassland is built by roots, year after year. Long-term additions of organic matter from plant roots create a mollic epipedon, a fertile, dark surface horizon with typically soft, granular structure. It is a kind of {{ref:soil-form-018}}, a dark version of the {{ref:soil-form-008}}. It defines {{ref:soil-class-101}}, which must have one and a {{ref:soil-chem-052}} above 50%. These soils are common in grasslands. Other traits can override it. Where shrink–swell clays dominate, a soil with a mollic epipedon is classed with {{ref:soil-class-106}}. In {{ref:soil-class-092}} the andic properties take precedence. {{ref:soil-class-047}} combine a mollic horizon with dry-forest vegetation, where organic accumulation outweighs {{ref:soil-form-050}}."
+  },
+  "soil-form-119": {
+   "title": "The natric horizon, a clay layer loaded with sodium",
+   "text": "Natrium is Latin for sodium, and it names a troublesome soil layer. A natric horizon is a subsoil layer of washed-in clay in which large amounts of exchangeable sodium have built up. It develops from a clay-enriched layer of the kind described in {{ref:soil-class-045}}. It is a {{ref:soil-form-017}} in both the WRB and {{ref:soil-class-006}}. {{ref:soil-class-143}} soils have a natric horizon within the upper 100 cm. Soils of two other orders, {{ref:soil-class-090}} and {{ref:soil-class-101}}, belong mainly to that group when they have one."
+  },
+  "soil-form-122": {
+   "title": "Soil monoliths, whole profiles carried into museums",
+   "text": "A soil profile can be lifted out of the ground and hung on a wall. A soil monolith is a {{ref:soil-form-002}} dug out in one piece, without disturbing its layers, and preserved for study or display. Each one is processed for a month or longer before it is mounted. The {{ref:soil-hist-041}} shows some 80 monoliths and stores about 1000 from over 70 countries. Each comes with site data and a description of every {{ref:soil-found-001}}. The Dokuchaev Central Museum of Soil holds about 330, representing the world's soil diversity."
+  },
+  "soil-form-117": {
+   "title": "The spodic horizon, where iron and humus settle",
+   "text": "Under conifer forests, iron and aluminium travel downward and stop together. A spodic horizon is the subsurface layer of the soils in {{ref:soil-class-138}}, where iron and aluminium oxides accumulate with decayed organic matter, giving it an iron-rich look. It is a {{ref:soil-form-017}} in both the WRB and {{ref:soil-class-006}}. {{ref:soil-class-099}} must have one within 2 m of the surface, usually beneath a pale, bleached albic horizon. They are acidic soils of coniferous and boreal forests. The Polish classification uses the spodic horizon to define its order of soils formed mainly by {{ref:soil-form-061}}."
+  },
+  "soil-form-126": {
+   "title": "Periglaciation, the shaping power of freeze and thaw",
+   "text": "About a quarter of Earth's land is shaped by freeze and thaw today. Periglaciation is the set of landform processes that result from seasonal freezing and thawing, very often where the ground stays frozen year-round. Walery Łoziński introduced the term in 1909. The name suggests the edges of glaciers, but periglacial environments are anywhere freeze and thaw significantly modify the landscape. Another quarter or fifth of the land had such conditions during the Pleistocene. Its hallmark processes are {{ref:soil-phys-153}}, {{ref:soil-water-056}} and the growth of ice wedges, all driven by the force described in {{ref:soil-found-054}}."
+  },
+  "soil-form-125": {
+   "title": "Ecological succession, how life builds its own soil",
+   "text": "Bare rock, a fresh lava flow or newly exposed till starts with no life at all. Ecological succession is the change in a community's species over time, and on such surfaces it is called primary succession. Secondary succession follows a disturbance instead. Pioneers come first: microorganisms, lichens and mosses. Grasses, shrubs and trees follow. As plants grow they change the soil, adding organic matter to litter and {{ref:soil-bio-089}} and altering nutrients and pH. That is how {{ref:soil-form-046}} lets soil form. The soil in turn steers what grows next, since its properties and the cycling of its nutrients shape further succession."
+  },
+  "soil-form-124": {
+   "title": "Tree throw, how falling trees plough the land",
+   "text": "When a big tree topples, it tears out a pit several meters across and 1–2 metres deep. Tree throw is that bowl-shaped pit in the subsoil, made by a falling tree's rootwad or by long root growth. It exposes humus-poor, mineral-rich soil and is a form of {{ref:soil-form-080}}. It drives bedrock weathering and {{ref:soil-form-042}}, fastest where soils are of intermediate thickness. Under soils deeper than the roots reach, no bedrock is upturned. Before trees appeared about 370 million years ago, bedrock weathering was too slow to keep thick soils on hilly terrain. In old-growth forest, the pits and the mounds of rotting fallen trees form pit-and-mound topography."
+  },
+  "soil-form-123": {
+   "title": "Argillipedoturbation, clay that churns itself",
+   "text": "Some clay soils mix themselves. Argillipedoturbation is soil mixing caused by the shrinking and swelling of {{ref:soil-chem-091}} clays, sometimes called self-mulching. Wetting and drying cycles drive it, and it needs at least 30% clay. As the soil dries, vertical cracks open up to 2 centimetres wide and 50 centimetres or more deep. Surface material sloughs into them. Over time this {{ref:soil-form-080}} can blend horizons until they are hard to tell apart. It also produces {{ref:soil-phys-030}}, a hummocky surface, and the polished cracks in {{ref:soil-form-116}}. Such soils are very productive when irrigated but hard to plough and manage."
+  },
+  "soil-form-127": {
+   "title": "Soil geography, the map of where soils lie",
+   "text": "Why is one soil here and another there? Soil geography is the branch of physical geography that answers that question, dealing with how soils are distributed across the terrain. It studies their spatial distribution in relation to topography, climate, soil life and the minerals within soils, the same {{ref:soil-form-043}} that build every {{ref:soil-found-077}}. It sits beside {{ref:soil-water-295}}, climatology, {{ref:soil-phys-207}} and biogeography among the fields that study the Earth's surface. Its key is an understanding of {{ref:soil-form-042}}. That knowledge explains soil patterns today, the business of soil geography, and in past geologic periods, the business of {{ref:soil-class-111}}. Pedodiversity was brought into pedology to analyse soil spatial patterns and to test theories of soil formation. The Russian Geographical Society awarded {{ref:soil-hist-008}} its Lütke Gold Medal for his work in the field."
+  },
+  "soil-form-131": {
+   "title": "Tropical soils, lush forests on poor ground",
+   "text": "Rainforests look rich, yet most of the soils beneath them are poor. The soils of the humid tropics are mostly strongly leached and low in nutrients, though some areas are fertile. On younger substrates, especially volcanic ones, they can be quite fertile. The poverty comes from heat and rain. Most of a soil's nutrient-holding capacity sits on particles of clay and {{ref:soil-bio-089}}, and fast {{ref:soil-form-050}} and decomposition remove them. Phosphorus is often the scarcest nutrient, because intense weathering depletes the mineral pool and, unlike nitrogen, it cannot be replenished from the air. Leaching also strips silica and leaves iron and aluminium oxides, the source of the typical red colour. So these soils draw their fertility almost wholly from organic matter, whose decayed fraction holds nutrients and releases them to roots. Clear the forest and some harden irreversibly into a surface crust of laterite or {{ref:soil-chem-108}}. Burrowing ants, termites and worms keep them churned, so they often lack the clay-enriched subsoils of midlatitude soils. Farmers add charcoal, modelled on the fertile Amazonian {{ref:soil-class-053}}, to improve them."
+  },
+  "soil-form-132": {
+   "title": "Lithosequences, soils that differ only in their rock",
+   "text": "To see what rock alone does to a soil, compare soils where everything else is the same. A lithosequence is a set of soils formed under similar conditions on different {{ref:soil-form-087}}. The soils share similar weathering conditions. Their differences in composition therefore reflect how fast each parent's minerals weather. {{ref:soil-chem-187}}, which ranks minerals by weathering rate, can be applied to them. Lithosequence studies give the clearest picture of the role of parent material in soil formation, even in ancient buried soils."
+  },
+  "soil-form-133": {
+   "title": "The soils of Australia, ancient and starved of phosphorus",
+   "text": "Australia's soils are among the oldest anywhere, and many are naturally short of phosphorus. Plants have adapted. Those with proteoid, or cluster, roots grow in these very nutrient-poor soils, and dense mats of fine hairs on their roots can absorb enough rain to prevent runoff. James Arthur Prescott described the continent's soils in CSIR bulletin 52. Its title was The Soils of Australia in Relation to Vegetation and Climate. {{ref:soil-class-022}} later replaced earlier systems, including the Factual Key (1960) and {{ref:soil-class-046}} (1968)."
+  }
+ },
+ "openers": {
+  "soil-geography": "Soils are not scattered at random across the land. Soil geography, a branch of physical geography, maps how they are distributed across the terrain and asks why. This short chapter tests that question in three places. In the humid tropics, most soils are strongly leached and poor in nutrients, though some are fertile. In Australia, many soils are extremely ancient and naturally short of phosphorus, while a third approach compares soils formed under similar conditions on different parent materials."
+ },
+ "reviews": {
+  "soil-geography": "Soil geography explains where soils lie by the factors that formed them: topography, climate, soil life and minerals. The tropics show climate at work, as heat and heavy rain leach soils until their fertility rests almost wholly on organic matter. Australia shows the weight of time, with ancient soils so short of phosphorus that only specialists such as cluster-rooted plants thrive. Lithosequences hold climate steady and change only the rock, giving the clearest view of what parent material does. Phosphorus runs through the chapter: it cannot be replenished from the air, so intense leaching and weathering leave old soils short of it."
+ }
+}

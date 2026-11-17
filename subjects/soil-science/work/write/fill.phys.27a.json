@@ -1,0 +1,92 @@
+{
+ "entries": {
+  "soil-water-222": {
+   "title": "Soil moisture sensors and the sprinkler that knows better",
+   "text": "Wired to an irrigation clock, a soil moisture sensor makes a smart controller that skips watering when the soil is already wet. The sensor estimates the volumetric water content of soil, usually indirectly. Instead of drying and weighing a sample, it reads a proxy such as electrical resistance, dielectric constant or interaction with neutrons. The link between proxy and moisture must be calibrated, and it can shift with the kind of soil, its temperature and electrical conductivity. Technologies include frequency domain reflectometry, capacitance sensors, time domain reflectometry and transmission, neutron gauges, soil resistivity and galvanic cells. Capacitance sensors resemble frequency domain sensors. But where those work at several hundred MHz, capacitance sensors run below 1 MHz and pick up more noise. A separate class of sensors, such as {{ref:soil-water-221}} and gypsum blocks, measures water potential instead of content. Farmers use sensors to irrigate with less water, raising yield and quality through better moisture control at critical growth stages."
+  },
+  "soil-water-225": {
+   "title": "The capacitance probe, a capacitor with soil inside",
+   "text": "Water has a dielectric constant of 80, against 4 for mineral soil and {{ref:soil-bio-114}} and 1 for air. A capacitance probe exploits that gap. It measures the dielectric permittivity of the surrounding soil, and from it the water content. Two metal rings form the plates of a capacitor, with the soil as the material between them. When soil permittivity changes, so does the frequency of the oscillator circuit. Like a {{ref:soil-water-170}}, it sits in a PVC access tube in the soil, or comes as comb-like probes wired to a logger. Oscillating at over 100 MHz in free air, the sensors are widely used to time irrigation."
+  },
+  "soil-water-216": {
+   "title": "Fabric filters that keep drains from clogging",
+   "text": "Geotextile drain filters are synthetic fabrics that hold back fine soil particles but let water through, so a drain does not clog. In a typical drain the fabric lines a trench filled with gravel, shells or stone. It is folded over the top and covered with soil, and groundwater seeps through it to an outfall. Where groundwater is high, a perforated PVC or PE pipe along the base increases the volume carried. Prefabricated HDPE drains with geotextile, coco fiber or rag filters avoid hauling stone aggregate, which is always more expensive."
+  },
+  "soil-water-217": {
+   "title": "Seattle's streets that soak up their own rain",
+   "text": "Seattle Public Utilities reported a 99 percent reduction in storm water leaving its Street Edge Alternatives Project. The project uses roadside ditches, plantings and uncurbed sidewalks so that runoff flows onto permeable ground. That is sustainable urban drainage, designed to imitate the natural flow of water more closely than traditional piped systems. Since 2010, UK local and neighborhood planning has been required by law to factor such systems into development projects."
+  },
+  "soil-water-173": {
+   "title": "Matric potential: the grip of grains on water",
+   "text": "Water held in an unsaturated soil always has less energy than pure water, because the soil's solids hold on to it. That hold is matric potential, the part of water potential that comes from water's attraction to solid particles and the curved menisci it forms between them. Adhesion to solids, with cohesion among water molecules, creates surface tension, and force is needed to break it, as {{ref:soil-phys-095}} showed. Its size depends on the spacing between particles, which sets meniscus width, and on the chemistry of the solids. Matric potential is always negative and occurs only in unsaturated soil above the water table. Near zero, nearly all pores are full. Water draining into less moist soil of similar porosity is generally at −10 to −30 kPa. It is often large compared with the other components, and though the flow it drives may be slow, it is vital for supplying water to roots."
+  },
+  "soil-water-184": {
+   "title": "Horton's equation: a fast start, then a steady soak",
+   "text": "Robert E. Horton saw infiltration capacity fall quickly early in a storm, then settle toward a near-constant value. His empirical equation captures that shape. Infiltration starts at an initial rate and declines exponentially with time. Once the soil is wet enough, the rate levels off at a constant equilibrium value, fc, the minimum infiltration rate. Integrated over time, the equation gives the total volume infiltrated."
+  },
+  "soil-water-185": {
+   "title": "The Kostiakov equation and its missing final rate",
+   "text": "Taken at its word, the Kostiakov equation says a soil will eventually stop taking in water altogether. It is an empirical infiltration equation in which the intake rate declines over time as a power function. That implied final rate of zero is its main limitation, since infiltration usually approaches a finite steady value. The Kostiakov–Lewis, or modified Kostiakov, equation fixes this by adding a steady intake term."
+  },
+  "soil-water-204": {
+   "title": "The disc permeameter, which ignores the biggest pores",
+   "text": "In 1988 Perroux and White of CSIRO developed a field instrument that deliberately leaves a soil's largest pores out of the measurement. The disc permeameter, called the tension infiltrometer in the US, measures infiltration under tension. It is used mainly to estimate hydraulic conductivity near saturation, in place. Ring infiltrometers measure only ponded flow, which macropores dominate. A slightly negative potential keeps those pores empty, so flow through the soil matrix alone can be measured. A nylon mesh membrane, a water reservoir and a bubbling tower supply potentials from −200 mm to 0 mm, excluding pores wider than 0.075 mm."
+  },
+  "soil-water-163": {
+   "title": "Soil suction and pF: a scale for how hard water clings",
+   "text": "Oven-dry soil grips its last water with a suction of 1,000,000 kPa. Soil suction is the negative of soil water potential, the force needed to pull water out of soil. Water stays where its adhesion to soil particles beats the cohesion between water molecules, and that hold sets its availability to plants. The pF scale is the common logarithm of suction in centimeters of water, so pF 3 equals 1000 cm, 98 kPa or 0.98 bar. As roots thin a water film, suction rises to 1500 kPa (pF 4.2), the wilting point. Air-dry soil sits at 100,000 kPa (pF 6), oven-dry soil at pF 7."
+  },
+  "soil-water-183": {
+   "title": "The Green–Ampt method, an equation that contains its own answer",
+   "text": "The Green–Ampt method estimates infiltration from four quantities: soil suction head, porosity, hydraulic conductivity and time. Named after Green and Ampt, it accounts for more variables than approaches such as the simplified Darcy's law method. It gives the cumulative infiltration depth F(t) through F(t) = Kt + ψΔθ ln[1 + F(t)/ψΔθ]. Because F appears on both sides, the equation is solved iteratively. It assumes the depth of water ponded on the surface is negligible."
+  },
+  "soil-water-162": {
+   "title": "500 kilograms of water for a kilogram of alfalfa",
+   "text": "Growing one kilogram of dry alfalfa may take 500 kilograms of water. That figure is alfalfa's transpiration ratio, a measure of water use efficiency: the water a plant transpires divided by the dry weight of the harvested plant. For crops, transpiration ratios range from 300 to 700."
+  },
+  "soil-water-237": {
+   "title": "SaltMod, a salinity model built for the field",
+   "text": "Most salinity models, such as Swatre and DrainMod, solve {{ref:soil-water-238}} with hard-to-measure soil relations and daily data. SaltMod, from the Institute for Land Reclamation and Improvement (ILRI), was built simpler, for field technicians and planners. For irrigated farmland, it predicts the salinity of soil moisture, groundwater and drainage water, plus water table depth and drain flow. Working from seasonal water balances, it predicts long-term trends rather than exact future states. It tracks four reservoirs: the surface, the root zone, a transition zone holding any horizontal drains, and the aquifer. Users can test drain depths, reuse of drainage water and farmers' responses, which slow salinization toward an equilibrium."
+  },
+  "soil-water-240": {
+   "title": "Ecohydrology, where water meets living systems",
+   "text": "In a rainforest, where water is ample, plant growth depends more on nutrients. In a semi-arid savanna, vegetation follows the water plants can draw from the soil. Ecohydrology is the interdisciplinary study of how water and ecological systems interact. It covers water bodies and land ecosystems such as forests and deserts. Its research covers plant water use, how organisms adapt to water, how vegetation affects streams, and feedbacks between ecology, {{ref:soil-env-119}} and {{ref:soil-water-079}}. A basic tool is the water balance at a point: water entering the soil equals water leaving plus the change in storage."
+  },
+  "soil-phys-130": {
+   "title": "Moisture stress and the root's chemical alarm",
+   "text": "When roots sense dry soil, they make the hormone ABA. It closes the stomata, cutting transpiration and photosynthesis, and loosens root cell walls so roots can grow in search of water. Moisture stress is the strain a plant suffers when water in its tissues falls below optimal levels, because transpiration outpaces uptake by the roots. Mildly stressed plants recover in 1–2 days; severely stressed ones regain only 40-60% of maximum photosynthesis the day after rewatering. Well-timed irrigation avoids it by replacing soil water before stress sets in. In strongly acidic soils, aluminum toxicity can cause it even when the soil is fairly moist."
+  },
+  "soil-water-195": {
+   "title": "The constant-head test: steady water through a sample",
+   "text": "Few laboratory measurements of hydraulic conductivity are as simple and inexpensive as the constant-head test. Water flows through a soil specimen under a steady head, the height of water driving it, and the test is typically used on granular soil. The head defines an excess mass of water whose weight sets the pressure difference across the sample, ρgh. The volume passing in a set time is measured. Rearranging Darcy's law with the specimen's length, cross-section and head then gives K."
+  },
+  "soil-water-196": {
+   "title": "The falling-head test, for fine soils as well as coarse",
+   "text": "Unlike the {{ref:soil-water-195}}, the falling-head test works on both fine-grained and coarse-grained soils. In this laboratory test of hydraulic conductivity, a saturated sample drains with no water added, so the head of water above it declines over time. K is calculated from how far the head drops in a given time."
+  },
+  "soil-water-197": {
+   "title": "Testing permeability where the soil lies",
+   "text": "Digging up a sample disturbs it, and disturbance undermines laboratory results. Field permeability tests avoid that by measuring hydraulic conductivity in place, giving the most reliable values with the least disturbance. Small-scale tests watch water levels in cavities: infiltration tests above the water table and slug tests below it. Large-scale tests include pumping tests in wells and observing how existing horizontal drainage systems perform. The pumping test, in pumping-in and pumping-out forms, is called the most reliable way to find a soil's coefficient of permeability."
+  },
+  "soil-water-198": {
+   "title": "The augerhole method: bail a hole, time the refill",
+   "text": "Auger a hole to below the water table, bail out the water, and record how fast the level rises again. That is the augerhole method, a slug test that measures hydraulic conductivity below a shallow water table. It gives the horizontal saturated hydraulic conductivity in meters per day. Hooghoudt developed it in the Netherlands in 1934, and Van Bavel and Kirkham introduced it to the US in 1948. Results vary widely: measurements across 100 ha differed by a factor of 25, with a lognormal distribution."
+  },
+  "soil-water-194": {
+   "title": "Hazen's formula: flow estimated from grain size",
+   "text": "Allen Hazen found that a soil's coefficient of permeability is proportional to the square of particle size. His empirical formula uses that link to approximate hydraulic conductivity from a grain-size analysis, as summed up in a {{ref:soil-phys-018}}. It uses D10, the diameter at the 10th percentile of grain size, and an empirical coefficient C. Depending on the source, C lies between 0.0 and 1.5, averaging 1.0. Laboratory pumping tests have been used to check such formulas for sandy soils. Some studies found a modified Hazen formula approximates laboratory measurements reasonably well."
+  },
+  "soil-water-200": {
+   "title": "Hydraulic anisotropy: when water prefers one direction",
+   "text": "In a layered aquifer, water runs sideways through the layers of high horizontal permeability and passes vertically through the tight ones. A soil layer or aquifer whose horizontal and vertical hydraulic conductivity differ considerably shows hydraulic anisotropy. Where an aquitard, a poorly conducting layer, overlies a highly conducting one, the aquifer is semi-confined. Flow is then mainly vertical in the first and horizontal in the second. Designs for drains or wells that control the water table must allow for anisotropy, or the result may be wrong. Mathematically, permeability becomes a symmetric, positive-definite 3 by 3 tensor whose eigenvectors give the principal flow directions."
+  },
+  "soil-water-199": {
+   "title": "Transmissivity: how much water a layer can deliver",
+   "text": "Transmissivity measures how much water a soil layer or aquifer can transmit horizontally, as toward a pumping well. It is proportional to the layer's horizontal hydraulic conductivity and its saturated thickness; with those in m/day and m, it comes out in m²/day. An aquifer's total transmissivity is the sum of its layers', and pumping tests can find it. Layers above the water table are unsaturated and add nothing. So transmissivity changes as the water table moves, and drawdown in an unconfined aquifer reduces the flow to a well."
+  },
+  "soil-water-171": {
+   "title": "Agricultural drought, which can strike without a dry year",
+   "text": "A farm can suffer drought without any fall in rainfall. Agricultural drought is a condition in which soil is too dry to sustain reliable plant growth. It can arise when soil conditions and erosion from poorly planned farming leave crops short of water. As soil dries, transpiration falls, because suction holds the water ever more tightly. Below the permanent wilting point plants wilt and stop transpiring. Common in arid and semi-arid environments, it is a particular focus of irrigation management. Agricultural or ecological droughts harm crop production or ecosystems generally."
+  }
+ }
+}

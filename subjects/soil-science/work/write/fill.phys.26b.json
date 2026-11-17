@@ -1,0 +1,87 @@
+{
+ "entries": {
+  "soil-phys-105": {
+   "title": "Critical state theory and its critics",
+   "text": "Critical state theory, developed by Roscoe, Schofield and Wroth (1958), holds that a shearing soil reaches a distinct strength at which it keeps shearing at constant volume. It separates peak, critical state and residual strengths. Loose soil contracts as it shears and may show no peak above it. Dense soil must dilate once its grains interlock, so it peaks and then softens. Both head toward a critical void ratio. Residual strength, lower still, appears when plate-like clay particles align into slickensides. The concept drew much criticism for failing to match test data, chiefly because it ignores particle structure."
+  },
+  "soil-phys-104": {
+   "title": "Drained shear strength and the trouble with c′",
+   "text": "When pore pressures can escape as a soil shears, or the soil is dry, its strength is the drained shear strength. It is usually approximated by the Mohr–Coulomb equation, which Terzaghi combined with effective stress in 1942: strength equals c′ plus effective normal stress times tan ϕ′. Here ϕ′ is the angle of internal friction. The cohesion intercept c′ often comes from forcing a straight line through data that actually curve. So it depends on the stress range and is not a fundamental soil property. The curve arises because dilatancy depends on confining pressure."
+  },
+  "soil-phys-102": {
+   "title": "Four things that set a soil's strength",
+   "text": "A soil's strength rests on four things: what it is made of, its starting state, its structure and how it is loaded. Composition covers mineralogy, grain sizes, particle shape, the pore fluid, and the ions on grains and in that fluid. The initial state is set by void ratio, effective normal stress and stress history: loose or dense, contractive or dilative. Structure includes layers, fissures, slickensides and cements, such as recrystallized calcium carbonate, that bond grains where they touch. Loading means drained or undrained paths and the size, rate and history of loading, static or cyclic."
+  },
+  "soil-phys-106": {
+   "title": "Steady state soil mechanics, a rival school",
+   "text": "Steve J. Poulos formally defined the steady state, building on a hypothesis of Arthur Casagrande; the approach is informally called Harvard soil mechanics. In it, soil deforms continuously at constant volume, effective stress, shear stress and velocity, with a statistically steady grain structure. Elongated grains align in the direction of shear. It applies to drained and undrained shearing and to any granular material, including sands. Its proponents insist the steady state is not the critical state and list common misconceptions, so the two schools plainly disagree."
+  },
+  "soil-phys-103": {
+   "title": "Undrained shear strength: when water has no time to escape",
+   "text": "A pore that dilates as soil shears draws water in under negative pressure; one that contracts pushes water out. When shearing outpaces that flow, the soil is undrained, and its strength is the undrained shear strength. Rapid loading of sand in an earthquake, a clay slope failing in heavy rain and most failures during construction are all undrained. Undrained strength may be lower or higher than drained strength, depending on whether the soil contracts or dilates. It is usually defined by Tresca theory as Su."
+  },
+  "soil-phys-072": {
+   "title": "Seeing soil pores in glowing resin",
+   "text": "To see the cracks inside a soil, researchers fill them with glowing resin. A representative undisturbed core is soaked in low-viscosity synthetic resin mixed with a fluorescent dye such as fluorescein. The core is then ground back about 1 mm at a time. Each new face is lit with ultraviolet or blue light and photographed with a digital camera. Computer image analysis measures the depth, continuity, surface area and other properties of the resin-filled cracks."
+  },
+  "soil-phys-071": {
+   "title": "Mapping and modelling the cracks in soil",
+   "text": "Cracks shape how water enters soil, how gases move and how compaction plays out. Early field workers traced crack patterns by hand, or counted cracks under a wire semicircle moved along a string line and estimated their spread with Buffon's needle. Horgan and Young (2000) built a two-dimensional computer model of crack growth, in which cracks attract one another once they come close. It could not predict where cracking starts; soil often cracks along lines of weakness rather than at random. Because air has infinite resistivity, electrical resistivity imaging can map air-filled cracks."
+  },
+  "soil-phys-123": {
+   "title": "Bearing capacity: how much load the ground can take",
+   "text": "Well-graded gravels can carry about 8,000 pounds per square foot (39,000 kg/m2) and drain excellently. That figure is their bearing capacity, the capacity of soil to support loads such as a foundation without failing in shear. Ultimate bearing capacity is the theoretical maximum before failure. The allowable value divides it by a factor of safety or, on soft soils, is set by how much settlement can be tolerated. It depends on the soil's shear strength and on the foundation's shape, size, depth and type."
+  },
+  "soil-phys-088": {
+   "title": "Wheels, hooves and tillage: what compacts farmland",
+   "text": "Farmland can compact on its own, through drying and wetting, or under external pressure. Heavy machinery compacts the subsoil as well as the topsoil, and subsoil compaction is harder to reverse. Axle load, speed, number of passes and tyre pressure all set how severe it is. Working the soil can itself compact it, though over the long term it may leave less topsoil compaction than leaving the soil unworked. Heavy trampling by livestock, set by how intensively they graze, is another major cause."
+  },
+  "soil-phys-108": {
+   "title": "Apparent cohesion: strength without glue",
+   "text": "Soft clay can act cohesive without any chemical bonds between its particles. Its apparent cohesion comes instead from pore water suction and friction. Clay particles and chemicals in soft soil mainly create a measurable pore water suction. Remoulded, the soil flows as a ductile plastic material with constant apparent cohesion. During critical state flow, its undrained cohesion results from effective stress and friction, not from bonds. So the critical state approach treats the bearing capacity of soft clay as that of a perfectly plastic material."
+  },
+  "soil-phys-111": {
+   "title": "Compression index: how much a clay gives under load",
+   "text": "Clays differ widely in how much they squeeze. Most theories assume void ratio falls with the logarithm of effective stress. Plotted from oedometer test data, the slope of that line is the compression index. It ranges from 0.19 to 0.28 for {{ref:soil-chem-088}}, 0.50 to 1.10 for {{ref:soil-chem-094}} and 1.0 to 2.6 for {{ref:soil-chem-093}}, depending on the ions the clay holds. Unloaded, a consolidated soil rebounds and regains some lost volume. Reloaded, it follows a recompression curve set by the recompression index."
+  },
+  "soil-phys-114": {
+   "title": "Terzaghi, Fillunger and a bitter quarrel over consolidation",
+   "text": "The first modern theories of soil consolidation appeared in the 1920s, along two very different lines. Karl Terzaghi's simplified model, built on the diffusion equation, became engineering practice. Paul Fillunger's rigorous mixture-theory model was too abstract to apply to real cases. Their bitter dispute ended tragically in 1937 with Fillunger's suicide, and his results were forgotten for decades. Maurice Biot later developed the full three-dimensional theory. Terzaghi's one-dimensional model is still the most used, because it is simple and rests on cheap, reliable oedometer tests."
+  },
+  "soil-phys-112": {
+   "title": "Overconsolidation: soils that remember heavier loads",
+   "text": "Soils once covered by glaciers now bear less weight than they used to. They are overconsolidated: their load has been removed, so they carry less than the highest stress they have ever borne. Sinking land can produce the same state. That highest past stress is the preconsolidation stress, and the overconsolidation ratio (OCR) divides it by the current stress. A soil now under its highest stress is normally consolidated, with an OCR of one. Just after a new load, before excess pore water pressure dissipates, it is underconsolidated."
+  },
+  "soil-phys-113": {
+   "title": "Creep: the settling that goes on after the water leaves",
+   "text": "Peat keeps settling after the water has stopped draining. That slow change in volume at constant effective stress is secondary consolidation, also called creep or secondary compression. It differs from primary consolidation, the volume change as excess pore water pressure dissipates. Creep comes from the viscous behaviour of the clay–water system and the compression of organic matter. Most sands and low-organic clays show little of it, but peat creeps markedly, which makes it an unstable foundation for roads and buildings."
+  },
+  "soil-phys-135": {
+   "title": "Terzaghi's principle: water shares the load",
+   "text": "Karl von Terzaghi worked out his principle in the 1920s, studying how buildings consolidated the soil beneath them. A load on a porous material such as soil is opposed partly by the fluid pressure in its pores. The pore fluid bears part of the load, so effective stress is total stress minus pore pressure, and measurable responses follow it. It suits soil because silica grains are effectively incompressible. Maurice Biot generalised it to compressible solids in the 1940s. Experiments contradict some of its assumptions: for example, {{ref:soil-water-201}} fails at high gradients."
+  },
+  "soil-phys-129": {
+   "title": "Specific yield: the water that drains out by gravity",
+   "text": "Drain a block of coarse sand and 27% of its volume runs out as water; clay gives up only 2%. Specific yield, or drainable porosity, is that fraction of a material's bulk volume that drains under gravity. Average values are 8% for silt and 21% for fine sand. Dune sand yields about 38% and loess about 18%, while till that is mostly silt yields only about 6%. It is used mainly for unconfined aquifers."
+  },
+  "soil-phys-136": {
+   "title": "The penetrometer, a probe that tests the ground",
+   "text": "The same kind of probe has tested farm fields, cricket pitches and the surface of Titan. A penetrometer tests the strength of a material such as soil by measuring how far a probe sinks into it. Soil penetrometers, usually round or cone-shaped, are dropped on or pressed into the ground. The depth of the hole shows, for example, whether it can carry a road. On farmland they measure the rise in soil strength caused by compaction. Since 2009 they have also tested British racecourses."
+  },
+  "soil-phys-090": {
+   "title": "Finding compaction in the field, the lab and from space",
+   "text": "No single method reveals compacted soil, so several are combined. Field signs include standing water, visibly fewer pores, and changed structure, moisture and colour; poorly aired soil can turn blue-grey and smell of hydrogen sulphide. A penetrometer measures the rise in strength, and crop growth patterns, pale leaves and root growth reveal it too, best judged against nearby uncompacted soil. In the laboratory, bulk density and pore-size distribution show its degree. Remote sensing can map susceptibility but cannot detect compaction directly, which often varies within a few square metres."
+  },
+  "soil-phys-062": {
+   "title": "Particle density: the weight of the grains alone",
+   "text": "Leave out the pores and soil grains come to a density of typically 2.60 to 2.75 g/cm3. That is particle density: the density of the solid particles alone, not counting the voids between them. It usually stays the same for a given soil. It is lower in soils rich in organic matter and higher in soils rich in iron oxides. Because {{ref:soil-phys-060}} includes the pores, it is always less than particle density, and it varies widely with biological activity and management while particle density does not. Together the two give {{ref:soil-phys-063}}. A mean particle density of about 2.65 g/cm3 is used for silica sediments and 2.70 g/cm3 for carbonate ones."
+  },
+  "soil-phys-093": {
+   "title": "Air, water and solids: the arithmetic of soil",
+   "text": "Soil holds air, water and solids, and engineers describe their proportions by volume and by mass. These are the soil mass–volume relations. The notation separates the volume, mass and weight of each phase, giving equations for how the three interact. The specific gravity of the solids, Gs, is their density divided by that of pure water, 1 g/cm3. Wet, or bulk, density is total mass over total volume, taking the mass of air as zero; dry density counts only the solids. Buoyant density, the mixture's density minus that of water, is used for soil under water. The ratio w, explained in {{ref:soil-water-164}}, is the mass of water over the mass of solids, found by weighing before and after oven drying. Void ratio e and porosity n convert freely: n equals e/(1 + e), and e equals n/(1 − n). The share of the voids filled with water, S, is described in {{ref:soil-water-166}}. Combining the definitions expresses bulk density through Gs, S, e or w and the density of water."
+  }
+ },
+ "reviews": {
+  "density-pores-and-compaction": "Soil is part grain and part gap, and this chapter has measured both. Bulk density, particle density, porosity and void ratio describe how tightly the particles pack, and the pore size classes show which gaps hold water, air or microbes. Press on soil and its particles crowd closer: on farmland that is compaction, which slows water soaking in, starves roots of air and can take several decades to undo. In saturated soil the water first shares the load, so effective stress, total stress minus pore water pressure, governs strength, consolidation and settlement. When pore pressure climbs far enough, through upward seepage or earthquake shaking, effective stress falls to zero and solid ground turns to quicksand or liquefies."
+ }
+}

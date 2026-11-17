@@ -1,0 +1,88 @@
+{
+ "entries": {
+  "soil-form-134": {
+   "title": "Rock, the solid stuff the Earth is built from",
+   "text": "Almost the whole planet is rock. It makes up the Earth's crust and most of its interior, apart from the liquid outer core and pockets of magma. A rock is any naturally occurring solid mass or aggregate of minerals or mineraloid matter, built from the crystals described in {{ref:soil-found-029}}. Geologists sort rocks by the minerals they contain, their chemical composition and how they formed. That last test gives three main groups: {{ref:soil-form-135}}, {{ref:soil-form-136}} and {{ref:soil-form-137}}. The second group matters most to soil, because it is made from the wreckage of other rocks. Weathering breaks existing rock down, and water, wind and ice carry and deposit the pieces as sediment. From smallest to largest, those sediments are clay, silt, sand and gravel, the same grains soil is made of."
+  },
+  "soil-form-136": {
+   "title": "Sedimentary rock, a thin skin over most of the land",
+   "text": "Sedimentary rock covers 73% of the Earth's land surface, yet it makes up only about 8% of the crust's volume. It is a thin skin. This rock forms when mineral or organic particles deposited at the surface are cemented together. Its mineral debris comes from {{ref:soil-found-052}} and erosion of older rock, carried by water, wind, ice or mass movement. Clastic sedimentary rocks are cemented rock fragments, commonly grains of quartz, {{ref:soil-form-141}}, the clay-forming minerals of {{ref:soil-chem-079}} or flaky {{ref:soil-chem-135}}. They are subdivided by their dominant particle size. Mudrocks, for example, contain at least 50% silt- and clay-sized particles."
+  },
+  "soil-form-147": {
+   "title": "Limestone, the rock that dissolves and sweetens soil",
+   "text": "Limestone is rock that water can slowly eat. It is a carbonate sedimentary rock made mostly of calcite and aragonite, two forms of calcium carbonate, and it is the main source of lime. About 20% to 25% of sedimentary rock is carbonate rock, most of it limestone and much of the rest dolomite. Limestone is partly soluble, especially in acid. Water and organic acid from the soil widen its joints over thousands or millions of years, dissolving the {{ref:soil-found-118}}. The result is karst country of pavements, caves and gorges. Farmers turn the same chemistry to use: pulverized limestone, spread as {{ref:soil-fert-059}}, neutralizes acidic soils."
+  },
+  "soil-form-135": {
+   "title": "Igneous rock, frozen from molten magma",
+   "text": "Every igneous rock was once liquid. It forms when magma or lava cools and solidifies, and it is one of the three main rock types. Some freezes below the surface as intrusive rock, slowly enough to grow mineral grains the eye can see. Some freezes at the surface as extrusive rock, so fast that it ends up glassy or very fine-grained. Geologists classify it chiefly by that particle size, which depends largely on cooling history, and by its {{ref:soil-found-029}} content. Born hot and deep, igneous rock is unstable near the surface. There acidic soil water and groundwater readily dissolve it and break it down."
+  },
+  "soil-form-137": {
+   "title": "Metamorphic rock, remade by heat and pressure",
+   "text": "A metamorphic rock is a rock that has been cooked into something new. Heat and pressure transform an existing rock, a process called metamorphism. The starting rock, the protolith, may be {{ref:soil-form-135}}, {{ref:soil-form-136}} or an older metamorphic rock. It is heated above 150 to 200 °C, often under 100 megapascals of pressure or more. Its minerals then recrystallize while the rock stays mostly solid. Metamorphic rocks form 12% of the Earth's land surface. Gneiss, slate, marble, schist and quartzite are familiar examples."
+  },
+  "soil-form-148": {
+   "title": "Grus, granite crumbled into coarse grit",
+   "text": "Granite can fall apart grain by grain. The result is grus, an accumulation of angular, coarse sand and gravel left when crystalline rocks, especially granitoids, disintegrate through weathering. Both chemical and mechanical weathering make it, generally in arid or semiarid regions. Most Late Cenozoic {{ref:soil-form-100}} mantles in Europe are grus. Older Mesozoic and Early Cenozoic saprolites are different: they are made of kaolinitic and ferrallitic material, rotted much further. Cement grus sand together and it becomes a sandstone called arkose."
+  },
+  "soil-form-139": {
+   "title": "Lithology, describing a rock at a glance",
+   "text": "Before naming a rock, a geologist describes what can be seen. Lithology is that description of a rock unit's physical characteristics, visible at outcrop, in hand or core samples, or under low magnification. It records colour, texture, the size of the grains and composition, building on the skills in {{ref:soil-found-038}}. The word can also mean a summary rock name, such as sandstone, slate, basalt or limestone. Lithology is the basis for dividing rock sequences into lithostratigraphic units for mapping and correlation. Site investigations describe it in standard terms, as in the European geotechnical standard Eurocode 7."
+  },
+  "soil-form-140": {
+   "title": "Primary minerals, inherited unchanged from rock",
+   "text": "Much of a soil's grit was never made in the soil at all. Soil minerals come in two types. Primary minerals are found in soil but did not form there. They crystallized with their host igneous rock and have not been chemically altered since. Secondary minerals, by contrast, form as primary minerals weather. Primary mineral particles are mostly larger than 2 μm. They make up the silt, sand and gravel fractions. {{ref:soil-form-135}} supplies them: quartz, {{ref:soil-form-141}}, {{ref:soil-form-142}}, muscovite, {{ref:soil-form-144}}, amphibole, pyroxene and {{ref:soil-form-145}}. Silicates dominate the primary minerals in soil, and quartz and cristobalite are common soil tectosilicates, silicates built as a three-dimensional framework. The chain runs from primary rocks, the source of primary minerals, to the parent rocks those minerals compose."
+  },
+  "soil-form-141": {
+   "title": "Feldspar, the mineral that weathers into clay",
+   "text": "Feldspar makes up about 60% of the Earth's crust and 41% of the continental crust by weight. Few minerals matter more to soil. Feldspars are a group of rock-forming aluminium tectosilicates, part of the family in {{ref:soil-found-031}}, that also hold cations such as sodium, calcium, potassium or barium. The commonest are the sodium–calcium feldspars of {{ref:soil-form-142}} and the potassium–sodium alkali feldspars. Formed at high temperature, feldspars, especially the sodium–calcium kind, are unstable at the surface. Hydrolysis attacks them, turning them into the minerals of {{ref:soil-chem-079}}, including {{ref:soil-chem-094}}, {{ref:soil-chem-091}} and {{ref:soil-chem-088}}. The reaction starts with the feldspar dissolving, which goes best in acidic or basic solutions, and that dissolution rate sets the weathering rate. Because feldspars are so abundant, clays are very abundant weathering products and an important part of soils. The change is visible: clay-replaced feldspar looks chalky beside glassy unweathered grains. Feldspar-rich sediment therefore points to little chemical weathering before burial."
+  },
+  "soil-form-145": {
+   "title": "Olivine, the mantle mineral that fades fast at the surface",
+   "text": "Olivine is common underground and rare in the open. This magnesium iron silicate, (Mg,Fe)2SiO4, is the main component of the upper mantle. At the surface it weathers quickly. It ranks among the least stable common surface minerals in {{ref:soil-chem-187}}, a ranking of minerals by how fast they weather, so it is rarely found in sedimentary rock. With water it readily alters to iddingsite, a mix of clay-forming minerals, oxides of iron and {{ref:soil-chem-111}}. That eagerness to react has a proposed use. Spreading fine olivine on beaches to speed its weathering could be a cheap way to sequester CO2."
+  },
+  "soil-form-142": {
+   "title": "Plagioclase, the striped feldspar that weathers first",
+   "text": "Plagioclase is a sliding scale rather than a single mineral. It is a continuous series of framework silicates within {{ref:soil-form-141}}, running from albite, NaAlSi3O8, to anorthite, CaAl2Si2O8, as sodium and calcium substitute for each other. It is abundant in igneous and metamorphic rock and common as a detrital grain in sedimentary rock. In hand samples, fine parallel striations called polysynthetic twinning often give it away. Plagioclase weathers relatively rapidly to clay-forming minerals such as {{ref:soil-chem-091}}. Sandstones therefore usually hold more of the more resistant alkali feldspar."
+  },
+  "soil-form-144": {
+   "title": "Biotite, the dark mica that yellows with age",
+   "text": "Biotite peels apart in thin, dark flakes. It is a group of phyllosilicate minerals in the family of {{ref:soil-chem-135}}, approximately K(Mg,Fe)3AlSi3O10(OH,F)2. Its sheets of iron, magnesium, aluminium, silicon, oxygen and hydrogen are held together only weakly, by potassium ions. It occurs in a wide variety of igneous and metamorphic rocks and makes up as much as 7% of the exposed continental crust. Fresh biotite is greenish to brown or black. Weathered, it can turn even yellow."
+  },
+  "soil-form-146": {
+   "title": "Mafic: dark rocks rich in magnesium and iron",
+   "text": "Mafic is a word made from two elements: magnesium and ferric, for iron. Coined in 1912, it describes silicate minerals, magmas and igneous rocks rich in magnesium and iron and relatively low in silica. Mafic rocks have 45 to 55 wt% silica and are enriched in iron, magnesium and calcium. They are dark and dense. At the other end of the spectrum sit felsic rocks, light, less dense and enriched in aluminium, silicon, potassium and sodium. Common mafic minerals are {{ref:soil-form-145}}, pyroxene, amphibole and biotite. Common mafic rocks are basalt, diabase and gabbro."
+  },
+  "soil-form-143": {
+   "title": "Orthoclase, the potassium feldspar of granite",
+   "text": "Orthoclase is the feldspar that carries potassium. Its formula is KAlSi3O8, and it is an important tectosilicate of {{ref:soil-form-135}}. It is a type of alkali feldspar, also called potassium feldspar or K-spar. It is a common constituent of most granites and other felsic igneous rocks, the light-coloured, silica-rich kind. Like other feldspars it does not last forever at the surface. It commonly alters to sericite, a fine-grained flaky mineral, or to clay."
+  },
+  "soil-form-138": {
+   "title": "The rock cycle, from basalt to sediment and back",
+   "text": "No rock is permanent. The rock cycle describes how {{ref:soil-form-136}}, {{ref:soil-form-137}} and {{ref:soil-form-135}} turn into one another through geologic time. Each type changes when forced out of the conditions it formed in. Basalt, for example, breaks down and dissolves when exposed to the atmosphere. Weathering and erosion break exposed rock into fragments and carry away dissolved material, on the way to new sedimentary rock. Plate tectonics and {{ref:soil-water-079}} drive the whole loop. On planets with life, living things join in, so the loop is a {{ref:soil-fert-140}} as well as a geologic one."
+  },
+  "soil-form-152": {
+   "title": "Volcanic ash, a fertile gift that can smother",
+   "text": "Wind can carry volcanic ash thousands of kilometres from the eruption that made it. Ash is fragments of rock, mineral crystals and glass chilled from lava, all under 2 mm across. Coarser explosive products fall under tephra, the fragmental material of an eruption whatever its size. Washed into the soil, ash minerals form a nutrient-rich layer that is very good for farming, the kind found in {{ref:soil-class-092}}. Too much at once does harm. Heavy ashfalls can bury pasture and sterilize the soil by cutting off its oxygen. Rehabilitation includes mixing the ash into the buried soil, adding to its {{ref:soil-form-087}}."
+  },
+  "soil-form-153": {
+   "title": "Lichens, the first soil makers on bare stone",
+   "text": "On bare rock high in the mountains or far toward the poles, lichens often arrive first. They are symbiotic colonies of fungi with algae or cyanobacteria, and they slowly turn stone into soil. They disrupt minerals physically and degrade them chemically, a clear case of {{ref:soil-found-063}}. Their metal-binding exudates and the new minerals they form, especially metal oxalates, make them important agents of chemical weathering. In deserts, lichen crusts stabilize sand and hold water. Some plant seeds establish only there."
+  },
+  "soil-form-154": {
+   "title": "Desert varnish, a dark skin painted by dust and dew",
+   "text": "Desert rocks often wear a coat only about one micrometre thick. Desert varnish is that orange-yellow to black coating on exposed rock in arid places. It forms only on stable surfaces, safe from frequent rain, fracturing or sandblasting by wind, and is mostly {{ref:soil-found-040}} with iron and manganese oxides. Windblown clay traps other substances, which react as the rock heats in the sun and is wetted by dew. Black varnish holds manganese 50 to 60 times more abundantly than the crust's 0.12%. Microbes that oxidize manganese may explain it. Where the local pH exceeds 7.5, iron-rich orange varnish forms instead."
+  },
+  "soil-form-149": {
+   "title": "Glacial drift, named for a theory that sank",
+   "text": "Glacial drift carries the name of a mistake. Murchison introduced the term in 1839, following Lyell's idea that the sediments were dropped by drifting sea ice. The hypothesis died; the name outlived it. Drift is now all sediment, from clay to boulders, carried by a glacier and deposited by the ice or its meltwater. It splits in two. Unstratified drift is {{ref:soil-form-090}}, which builds the ridges described in {{ref:soil-form-150}}. Stratified drift is sorted and laid down by meltwater, forming {{ref:soil-form-151}}, eskers, kames and varves. In the United Kingdom the word is broader, covering all Quaternary surface deposits mapped apart from bedrock, including loess, river deposits and colluvium."
+  },
+  "soil-form-150": {
+   "title": "Moraines, the rubble ridges glaciers leave behind",
+   "text": "A glacier dumps what it carries along its edges and at its snout. A moraine is any such accumulation of loose glacial debris, often till, in regions that are or once were glaciated. It ranges from boulders down to gravel and sand, set in a groundmass of fine clayey glacial flour. Lateral moraines form at the side of the ice. Terminal moraines form at its foot and mark the glacier's furthest advance. Recessional moraines are small ridges left where a retreating glacier paused. Ground moraines are till-covered sheets of gently rolling relief under 10 meters, laid at the ice base as lodgment till."
+  },
+  "soil-form-151": {
+   "title": "Outwash plains, where meltwater sorts the glacier's load",
+   "text": "Meltwater pouring off a glacier sorts its load by size. Boulders settle near the {{ref:soil-form-150}} at the ice front, and the finest silt travels furthest. The result is an outwash plain, or sandur: a plain of {{ref:soil-form-091}} built at the end of a glacier. Braided streams rework its surface. Kettle lakes form where buried blocks of ice melted. Not every sandur is active. Fossil sandar lie in formerly glaciated areas, long after the ice has gone."
+  }
+ }
+}

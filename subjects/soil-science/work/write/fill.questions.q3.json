@@ -1,0 +1,678 @@
+{
+ "questions": {
+  "soil-found-060": {
+   "q": "In what order do igneous minerals weather, and why?",
+   "a": "Roughly in the order they formed, Bowen's reaction series, because the weakest cation–oxygen bonds go first.",
+   "sent_ids": [
+    "2a1162d633f4",
+    "fff377163c14"
+   ]
+  },
+  "soil-found-011": {
+   "q": "How is a soil colour written in Munsell notation?",
+   "a": "As hue, then value/chroma, as in a Cecil soil horizon recorded as red (10R 4/8) clay.",
+   "sent_ids": [
+    "b3c75b4bfb3a",
+    "6afec23c53d0"
+   ]
+  },
+  "soil-form-137": {
+   "q": "At weathering rates of 20 m per million years, how long do deep regoliths take to form?",
+   "a": "Several million years, and longer still in cooler climates.",
+   "sent_ids": [
+    "771b62d42f9d",
+    "e6389f9c1a62"
+   ]
+  },
+  "soil-form-112": {
+   "q": "How does alluvium differ from colluvium in sorting, and why?",
+   "a": "Running water lays down alluvium, so it is generally fine-grained and well sorted; colluvium moves without running water and is poorly sorted.",
+   "sent_ids": [
+    "61401e5da25e",
+    "1722c1c4e86f",
+    "bd04229cdee5"
+   ]
+  },
+  "soil-form-096": {
+   "q": "How much richer in manganese is black rock varnish than the Earth's crust?",
+   "a": "It holds manganese 50 to 60 times more abundantly than the crust's 0.12%.",
+   "sent_ids": [
+    "5ef943750b32",
+    "eb8e61d71bbb",
+    "9d349a12a334"
+   ]
+  },
+  "soil-form-027": {
+   "q": "Which test separates a duripan from petrocalcic horizons and fragipans?",
+   "a": "A duripan slakes in KOH but not in HCl.",
+   "sent_ids": [
+    "17b7292d695e",
+    "7a7d928c1f2d",
+    "c946532fcfee",
+    "2094b4fb902c"
+   ]
+  },
+  "soil-form-076": {
+   "q": "Why does modern soil classification fit paleosols poorly?",
+   "a": "Geology, life and the atmosphere changed greatly over the record, notably at the Great Oxidation Event 2.42 billion years ago; an alfisol, a forest soil, could not exist before trees.",
+   "sent_ids": [
+    "5fa14d5b891e",
+    "6dc3db1ab34d",
+    "80a2498c8d0c"
+   ]
+  },
+  "soil-form-124": {
+   "q": "In biosorting, why do large stones end up at the base of the biomantle?",
+   "a": "Burrowers move only particles smaller than their burrows, so larger stones settle and form a stonelayer there.",
+   "sent_ids": [
+    "f5769c12ba67",
+    "92084a175bc7"
+   ]
+  },
+  "soil-phys-052": {
+   "q": "Under Stokes' law, why does settling velocity vary so much with particle size?",
+   "a": "The excess weight grows with R³ and the drag only with R, so settling velocity grows with R².",
+   "sent_ids": [
+    "e9a1f7011c2d"
+   ]
+  },
+  "soil-phys-092": {
+   "q": "How does the dry bulk density of a mineral soil compare with the density of quartz?",
+   "a": "Quartz is about 2.65 g/cm3, but a mineral soil's dry bulk density is normally about half that, between 1.0 and 1.6 g/cm3, because the more pore space a soil has, the lower its bulk density.",
+   "sent_ids": [
+    "b0ea2daf5037",
+    "2cd6371589fc",
+    "82f705d2b46c"
+   ]
+  },
+  "soil-phys-115": {
+   "q": "What do relative densities of 100% and 0% mean?",
+   "a": "100% means very dense sand or gravel; 0% means extremely loose, unstable soil.",
+   "sent_ids": [
+    "9d33036106d1"
+   ]
+  },
+  "soil-phys-123": {
+   "q": "Why is a soil's bulk density always less than its particle density?",
+   "a": "Bulk density includes the pores; particle density, typically 2.60 to 2.75 g/cm3, does not.",
+   "sent_ids": [
+    "b3eff7e2e4c2",
+    "9490520a201c"
+   ]
+  },
+  "soil-water-153": {
+   "q": "Why do clay soils hold more water than sandy soils?",
+   "a": "Water clings more tightly to fine clay particles than to coarse sand grains, so clays hold more water while sands let it pass more easily.",
+   "sent_ids": [
+    "3f9004b8dd8c",
+    "6837f113ec1d"
+   ]
+  },
+  "soil-water-223": {
+   "q": "Why does a capacitance probe's reading depend mostly on soil water?",
+   "a": "Water's dielectric constant (80) is far above that of mineral soil (4), organic matter (4) and air (1).",
+   "sent_ids": [
+    "7a5cb70d3ea2"
+   ]
+  },
+  "soil-water-200": {
+   "q": "How quickly do plants recover from water stress after rewatering?",
+   "a": "Mildly stressed plants recover in 1–2 days, but after severe stress they regain only 40-60% of maximum photosynthesis the day after rewatering.",
+   "sent_ids": [
+    "3d992b7d6478"
+   ]
+  },
+  "soil-water-208": {
+   "q": "How much can development cut infiltration?",
+   "a": "Felton and Lull (1963) found a potential 80 percent cut, and Taylor (1982) found construction cut infiltration rates by more than 77 percent.",
+   "sent_ids": [
+    "02e664ca59eb",
+    "ab1aafcfa38d",
+    "03a21d73304e"
+   ]
+  },
+  "soil-phys-218": {
+   "q": "At what suction is field capacity conventionally defined?",
+   "a": "At −33 kPa (−0.33 bar), or −10 kPa for sandy soils.",
+   "sent_ids": [
+    "bca07dbc9655",
+    "1957172ccfe0"
+   ]
+  },
+  "soil-phys-206": {
+   "q": "What sets the wet and dry ends of the least limiting water range?",
+   "a": "The wet end is the lower of field capacity and the water content leaving 10% air-filled porosity; the dry end is the higher of the permanent wilting point and the water content at which penetration resistance reaches, say, 3 MPa.",
+   "sent_ids": [
+    "fada2b14983a",
+    "63982bbd4aee",
+    "f39011e5f7fc",
+    "71ddac0c77c5",
+    "2097ebb2e8b8"
+   ]
+  },
+  "soil-phys-158": {
+   "q": "Why can't the expansion of freezing water explain frost heave?",
+   "a": "Water expands only about 9%, too little; by 1930 Stephen Taber had shown that water migrates to the freeze line, and that benzene, which contracts on freezing, also heaves.",
+   "sent_ids": [
+    "f8f54e4c9430",
+    "8b8ddadd4198",
+    "b7248d257e0d",
+    "da78ed742dac",
+    "98234e5ee92e"
+   ]
+  },
+  "soil-phys-185": {
+   "q": "How does wetting change a soil's thermal conductivity?",
+   "a": "It raises it: dry soil conducts about 0.2–0.4 W·m−1·K−1 and wet soil 1–3, and varying moisture largely determines a soil's conductivity because air conducts heat poorly.",
+   "sent_ids": [
+    "013d684a9f16",
+    "facd29d0924d",
+    "fe3bc2875a92",
+    "35598410f5c7",
+    "8769d136d7ad",
+    "b1205206cbbb",
+    "6b8d556a07bb",
+    "5266d695e995"
+   ]
+  },
+  "soil-chem-198": {
+   "q": "How do soil minerals retain phosphorus in acid and in calcareous soils?",
+   "a": "In acid soils by adsorption onto iron and aluminium oxyhydroxides; in neutral to calcareous soils by precipitation onto calcite.",
+   "sent_ids": [
+    "d7af5fbf51b8"
+   ]
+  },
+  "soil-chem-108": {
+   "q": "Why does chlorite not swell?",
+   "a": "Water is not adsorbed between its layers; its CEC is low as well.",
+   "sent_ids": [
+    "ec403c296d57",
+    "44227fb2ec0b"
+   ]
+  },
+  "soil-chem-161": {
+   "q": "Which iron(III) oxyhydroxides matter most in soils?",
+   "a": "Goethite and lepidocrocite, the commonest forms and the most important mineral carriers of iron in soils.",
+   "sent_ids": [
+    "924f6535f091"
+   ]
+  },
+  "soil-chem-103": {
+   "q": "Rank AlCl3, CaCl2 and NaCl by how well they flocculate colloids.",
+   "a": "AlCl3 > CaCl2 > NaCl, because multivalent cations flocculate colloids more efficiently than monovalent ones.",
+   "sent_ids": [
+    "ad20896c00d0"
+   ]
+  },
+  "soil-chem-203": {
+   "q": "What does the Langmuir isotherm predict at low and high pressure?",
+   "a": "θ = Kp/(1 + Kp), the fraction of sites occupied, is about Kp at low pressure and approaches 1 at high pressure.",
+   "sent_ids": [
+    "48d4728f09e4",
+    "a401fdf6b8ab",
+    "1209ba9deeb6"
+   ]
+  },
+  "soil-chem-174": {
+   "q": "Below what redox potential do methanogens grow, and to which domain do they belong?",
+   "a": "Below −0.3 V; all known methanogens belong to the domain Archaea.",
+   "sent_ids": [
+    "c691b2e26de3",
+    "41ed96f86259",
+    "7945d4fa22f1"
+   ]
+  },
+  "soil-chem-028": {
+   "q": "Why did land clearing bring salt to the surface in Australia?",
+   "a": "Deep-rooted native vegetation had used groundwater year-round; once crops and pasture replaced it, rising groundwater brought stored salt up, and evaporation left it in the soil.",
+   "sent_ids": [
+    "af4cb9a09112",
+    "443657bf0c9c",
+    "1c026bc35443",
+    "7c76de0974d4",
+    "c9e9061e8551"
+   ]
+  },
+  "soil-chem-025": {
+   "q": "How do seeps differ from scalds?",
+   "a": "Both are saline discharge areas: seeps are where groundwater meets the soil surface, scalds where water is lost by evaporation only.",
+   "sent_ids": [
+    "f0a2642c2806",
+    "5dcd9960eb22"
+   ]
+  },
+  "soil-bio-067": {
+   "q": "What do Nitrosomonas and Nitrobacter each oxidize?",
+   "a": "Nitrosomonas oxidizes ammonia to nitrite, and Nitrobacter oxidizes nitrite to nitrate.",
+   "sent_ids": [
+    "de891675601b",
+    "df710a542a28",
+    "a1fdf9e03b1b"
+   ]
+  },
+  "soil-bio-065": {
+   "q": "Why are earthworm casts taken as a sign of healthy soil?",
+   "a": "Casts often hold more plant-available nutrients than the surrounding soil and build stable soil aggregates, marking biologically active soil.",
+   "sent_ids": [
+    "ac5f604516df",
+    "fc0f01f3f93c"
+   ]
+  },
+  "soil-bio-030": {
+   "q": "Which energy channels did soil flow webs reveal?",
+   "a": "The bacterial and fungal channels, which carry the largest flow, and the root-herbivory channel, which carries much less.",
+   "sent_ids": [
+    "63fc7d79178c",
+    "49b195bcd74a"
+   ]
+  },
+  "soil-bio-208": {
+   "q": "Why do the pines of the pygmy forest stay so small?",
+   "a": "Their podzol, the Blacklock series, is very acid, nutrient-poor and high in exchangeable aluminium, and its iron hardpan blocks deep roots and internal drainage.",
+   "sent_ids": [
+    "3664d0cb4c60",
+    "e5caae0dd26f",
+    "d310b5e61f13",
+    "1eeabfd2a06b",
+    "1115eaf60288"
+   ]
+  },
+  "soil-bio-151": {
+   "q": "How do mycorrhizal hyphae reach soil that roots cannot?",
+   "a": "Most are far finer than the smallest root or root hair, so they explore soil that roots cannot reach and add absorbing surface.",
+   "sent_ids": [
+    "7debc63a7a8c"
+   ]
+  },
+  "soil-bio-163": {
+   "q": "Why do orchid seedlings depend on a fungus?",
+   "a": "Orchid seeds, 0.35–1.50 mm long, carry virtually no energy reserve, so seedlings get their carbon from the fungus.",
+   "sent_ids": [
+    "223c43da71c7",
+    "18b0b93af11d",
+    "d1c891fecdfe"
+   ]
+  },
+  "soil-bio-153": {
+   "q": "How much nitrogen do grain legumes fix each year?",
+   "a": "Grown on about 1.5 million km2 a year, they fix about 44–66 million tons, almost half of the nitrogen used in agriculture.",
+   "sent_ids": [
+    "c90f6260df34",
+    "816da85a7e2c"
+   ]
+  },
+  "soil-bio-111": {
+   "q": "How do detritivores and microbes break detritus down together?",
+   "a": "Detritivores digest mainly the protein-rich microbes and excrete the detritus barely changed; microbes regrow on that dung and it is eaten again, until the detritus is fragmented and its complex carbohydrates disappear.",
+   "sent_ids": [
+    "110262d77e8c",
+    "f479203a16a6",
+    "25156d2b1e81"
+   ]
+  },
+  "soil-bio-101": {
+   "q": "How much of the carbon in soil can microbial necromass make up?",
+   "a": "30 to 80%, because microbes cycle soil carbon so extensively.",
+   "sent_ids": [
+    "711885a5c005"
+   ]
+  },
+  "soil-bio-270": {
+   "q": "What does a Q10 of 2 to 3 mean for a biological rate?",
+   "a": "The rate doubles or triples with every 10 °C, as in most biological systems.",
+   "sent_ids": [
+    "ad5c72293d75"
+   ]
+  },
+  "soil-class-017": {
+   "q": "What organic carbon content separates mineral from organic material?",
+   "a": "Mineral material has less than 20% soil organic carbon; organic material has 20% or more.",
+   "sent_ids": [
+    "1f3f89bc6a4c",
+    "23f0dbfe4790"
+   ]
+  },
+  "soil-class-106": {
+   "q": "What base saturation separates Alfisols from Ultisols?",
+   "a": "Alfisols have at least 35% base saturation; the more leached Ultisols fall below 35%.",
+   "sent_ids": [
+    "00d713bbef9d",
+    "4db4d667c147"
+   ]
+  },
+  "soil-class-120": {
+   "q": "In the WRB, what decides whether redox features make a Gleysol or a Stagnosol?",
+   "a": "Features from rising groundwater make a Gleysol; those from stagnant surface water make a Stagnosol or Planosol.",
+   "sent_ids": [
+    "7062fd085a17",
+    "6a354eb5628d"
+   ]
+  },
+  "soil-class-146": {
+   "q": "What turns plinthite into ironstone?",
+   "a": "Repeated wetting and drying: plinthite, a red clay-rich material sometimes over 80% iron oxides, then hardens irreversibly.",
+   "sent_ids": [
+    "4024bde8a506",
+    "9198a3be1c20"
+   ]
+  },
+  "soil-fert-184": {
+   "q": "Why does residue with a C:N above 30:1 lower the nitrogen available to plants?",
+   "a": "Microbes are left short of nitrogen, so they take up soil ammonium and nitrate and immobilize them; below 15, mineral nitrogen is freed for plants.",
+   "sent_ids": [
+    "4c9289ecc45d",
+    "3c814536b621"
+   ]
+  },
+  "soil-fert-231": {
+   "q": "Why do older leaves yellow first when nitrogen runs short?",
+   "a": "The plant moves nitrogen out of them to younger tissue.",
+   "sent_ids": [
+    "53dddf4d5cfa",
+    "987165072ebc"
+   ]
+  },
+  "soil-fert-227": {
+   "q": "Why does calcium deficiency show first in new, fast-growing parts?",
+   "a": "Calcium does not move in the phloem, so low-transpiring tissues and new, fast-growing parts suffer first.",
+   "sent_ids": [
+    "8b41a9077d4e",
+    "d0332b4ac8ec"
+   ]
+  },
+  "soil-fert-137": {
+   "q": "Why does potassium leach from plants faster than nitrogen or phosphorus?",
+   "a": "It exists only as the small soluble K+ ion.",
+   "sent_ids": [
+    "626bca0a794e",
+    "68cb9a06c30d"
+   ]
+  },
+  "soil-fert-079": {
+   "q": "Why may marled crops show magnesium deficiency?",
+   "a": "Marl's carbonate is mostly calcium carbonate, so magnesium must be supplied as well.",
+   "sent_ids": [
+    "1c574957e850"
+   ]
+  },
+  "soil-fert-026": {
+   "q": "How much nitrogen does a green manure release?",
+   "a": "Depending on the species, 45 to 224 kg/ha (40 to 200 lb/acre), and usually 40-60% of the crop's nitrogen becomes available to the next crop.",
+   "sent_ids": [
+    "e3ed25b9c7f5",
+    "cfc5b0c7b5e4"
+   ]
+  },
+  "soil-fert-057": {
+   "q": "Why must agricultural lime be finely ground?",
+   "a": "Soil acids are weak: particles over 8 mesh are of little value, 8–60 mesh somewhat effective, and finer than 60 mesh fully effective.",
+   "sent_ids": [
+    "77d24be2d52c",
+    "4cc520754e02"
+   ]
+  },
+  "soil-fert-207": {
+   "q": "How much phosphogypsum does making phosphoric acid leave behind?",
+   "a": "Five tons for each ton of phosphoric acid, an impure radioactive waste; 100 to 280 million tons are produced yearly.",
+   "sent_ids": [
+    "059216e490b9",
+    "4d68276fc9f7",
+    "a0b4da86368d"
+   ]
+  },
+  "soil-water-091": {
+   "q": "When does saturation-excess overland flow begin, unlike Hortonian flow?",
+   "a": "Only once the soil itself is saturated; Hortonian flow is also called unsaturated overland flow.",
+   "sent_ids": [
+    "dad6b6d336d8",
+    "0d8293f29aeb",
+    "f1b817ba6073"
+   ]
+  },
+  "soil-water-014": {
+   "q": "Why do clay-rich soils resist erosion better than sandy or silty ones?",
+   "a": "Clay binds particles together.",
+   "sent_ids": [
+    "b5f9fbf40442"
+   ]
+  },
+  "soil-water-055": {
+   "q": "What safety factor makes a slope stable, and which values call for monitoring?",
+   "a": "A slope is globally stable if the safety factor exceeds 1 along every potential sliding surface; values between about 1 and 1.3 mark marginally stable slopes that need monitoring or stabilization.",
+   "sent_ids": [
+    "e507dc8cd366",
+    "5124af62a6c2",
+    "679973b6baf3"
+   ]
+  },
+  "soil-water-030": {
+   "q": "How high does wind usually lift sand?",
+   "a": "Most stays within 50 cm of the surface, and practically none rises above 2 m.",
+   "sent_ids": [
+    "f77d2c5cf16f"
+   ]
+  },
+  "soil-water-106": {
+   "q": "How much can active pore water pressure cut a soil's shear strength?",
+   "a": "By up to 60%, because rising water content weakens shear strength and so cohesion.",
+   "sent_ids": [
+    "707d0cd30a6e",
+    "04d39d57e9ec"
+   ]
+  },
+  "soil-water-269": {
+   "q": "What does the Shields number compare?",
+   "a": "It is proportional to the ratio of the fluid force on a particle to the particle's weight.",
+   "sent_ids": [
+    "a97e5c61b60e"
+   ]
+  },
+  "soil-water-146": {
+   "q": "Why does a rich fen keep a fairly stable pH?",
+   "a": "Groundwater passing limestone dissolves some calcium carbonate, and the bicarbonate produced buffers the fen's pH.",
+   "sent_ids": [
+    "b4f26e9a8b91",
+    "b2858e3a6bb1",
+    "3d6d5ca79747"
+   ]
+  },
+  "soil-phys-162": {
+   "q": "In Penck's slope replacement, where does flattening begin?",
+   "a": "At the lowest slope, spreading upward and backward: flattening always occurs from the bottom up.",
+   "sent_ids": [
+    "488c4f2e379b",
+    "6c8f7a54a9f1",
+    "fc4d055b3762",
+    "2d492384f285"
+   ]
+  },
+  "soil-agri-006": {
+   "q": "Why is crop rotation not a form of intercropping?",
+   "a": "Its crops grow in separate seasons.",
+   "sent_ids": [
+    "c7100c4ea2b9"
+   ]
+  },
+  "soil-agri-057": {
+   "q": "Why does filling planting pits with manure and compost raise yields so much?",
+   "a": "The organic matter attracts termites whose tunnels break up the soil; yields of trees, sorghum and millet can rise by up to 500 percent.",
+   "sent_ids": [
+    "e8f4821d718f",
+    "0b16479b91f1",
+    "2ebca090811c"
+   ]
+  },
+  "soil-agri-098": {
+   "q": "How much can no-till cut nitrous oxide emissions?",
+   "a": "By 40–70% depending on rotation, which matters because nitrous oxide is 300 times stronger than CO2 and lasts 120 years.",
+   "sent_ids": [
+    "bbd998ab4153",
+    "043de3f9f208"
+   ]
+  },
+  "soil-agri-112": {
+   "q": "How deep does a subsoiler work compared with most tillage tools?",
+   "a": "Most tools work the top 15–20 cm (6–8 in); a subsoiler loosens soil to twice that depth, usually 45–75 cm (18–30 in) or more.",
+   "sent_ids": [
+    "408f713a5e20",
+    "9f9b397a1036"
+   ]
+  },
+  "soil-agri-158": {
+   "q": "How do buffer strips protect surface waters?",
+   "a": "By slowing surface runoff, they trap sediment and filter out nutrients and pesticides before these reach the water.",
+   "sent_ids": [
+    "db61b34e870d"
+   ]
+  },
+  "soil-agri-083": {
+   "q": "How does a digital terrain model differ from a digital surface model?",
+   "a": "A digital terrain model shows the bare ground surface, while a digital surface model may include tree canopy and buildings.",
+   "sent_ids": [
+    "f745d329f53c",
+    "18bdee5fbcd4"
+   ]
+  },
+  "soil-meth-019": {
+   "q": "How does the Kjeldahl method measure nitrogen?",
+   "a": "Concentrated sulfuric acid at 360–410 °C digests the sample and holds its nitrogen as ammonium sulfate; sodium hydroxide turns this into ammonia gas, which is distilled into a standard acid and measured by titration.",
+   "sent_ids": [
+    "3517fc7db6bf",
+    "6c3b5ded7251",
+    "77b5189b67e1",
+    "8299adcd277c"
+   ]
+  },
+  "soil-meth-012": {
+   "q": "Why can soil moisture shift the NDVI without any change in vegetation?",
+   "a": "Wet soil darkens, and bare soils themselves give small positive values of about 0.1 to 0.2.",
+   "sent_ids": [
+    "104516fda5d6",
+    "6cda6dd40840",
+    "5a4f6df19163"
+   ]
+  },
+  "soil-env-273": {
+   "q": "How much CO2 does silicate weathering sequester per mole of calcium or magnesium released?",
+   "a": "In theory 1 mol of CO2 for each mol of Ca2+ or Mg2+, though natural ratios vary with temperature and CO2 pressure.",
+   "sent_ids": [
+    "ea589848e745",
+    "f3e637742b1c"
+   ]
+  },
+  "soil-env-070": {
+   "q": "How much land do drylands cover, and how many people live there?",
+   "a": "41.3% of Earth's land surface, home to more than 2 billion people.",
+   "sent_ids": [
+    "af37f5772f34",
+    "eeb2a9461924"
+   ]
+  },
+  "soil-env-091": {
+   "q": "Why did soils improve under agrivoltaic systems in the Kubuqi Desert?",
+   "a": "Panel shade cut soil temperature and evaporation, and the panels acted as windbreaks that stopped sand burying plants, creating a better microclimate with the vegetation.",
+   "sent_ids": [
+    "c83bddf6984b",
+    "d93f1817c046"
+   ]
+  },
+  "soil-env-097": {
+   "q": "What removal rates do bioretention systems typically achieve?",
+   "a": "About 80% of suspended solids and 50–60% of heavy metals; a 2025 meta-analysis found nitrogen and phosphorus loads cut by about 55% and 62%.",
+   "sent_ids": [
+    "44aa239d4fc5",
+    "9c3891968a6b"
+   ]
+  },
+  "soil-env-002": {
+   "q": "How long does DDT persist in soil?",
+   "a": "Its half-life in soil is 2–15 years, so residues are still found in people, though at levels 5 to 10 times lower than in the 1970s.",
+   "sent_ids": [
+    "c738aae75e75"
+   ]
+  },
+  "soil-env-031": {
+   "q": "Why can heavy metal pollutants never biodegrade?",
+   "a": "Almost all compounds biodegrade given time, but elements do not.",
+   "sent_ids": [
+    "bff12fb26abc",
+    "3147948c15d0"
+   ]
+  },
+  "soil-env-013": {
+   "q": "Which fuels does air sparging suit, and which does it not?",
+   "a": "It suits light gasoline constituents such as benzene, toluene, ethylbenzene and xylene, but not heavier fuels such as kerosene and diesel.",
+   "sent_ids": [
+    "5051d3936240",
+    "0a2f9b2d39cc"
+   ]
+  },
+  "soil-env-221": {
+   "q": "Why are LNAPLs easier to locate and remove than DNAPLs?",
+   "a": "An LNAPL is buoyant, so it stops at the water table and floats on it.",
+   "sent_ids": [
+    "a00c6e99356e",
+    "393d290f5daf",
+    "df7861e8975d"
+   ]
+  },
+  "soil-env-266": {
+   "q": "How much caesium did mustard greens remove in the Chernobyl zone?",
+   "a": "Up to 22% of average caesium activity in one growing season.",
+   "sent_ids": [
+    "0d57ed2ea04b"
+   ]
+  },
+  "soil-env-299": {
+   "q": "What most likely drives parrots on the Manu River to eat soil?",
+   "a": "Sodium: consumed soils are consistently higher in it, and geophagy increases with distance from the ocean.",
+   "sent_ids": [
+    "52e82cbd08d9",
+    "bfa8109db39b",
+    "dd66db77588a"
+   ]
+  },
+  "soil-hist-129": {
+   "q": "How does lead-210 reveal soil erosion?",
+   "a": "Excess lead-210 from fallout builds up in surface soils, and its activity profile with depth reconstructs soil redistribution over the past century, giving erosion and deposition rates.",
+   "sent_ids": [
+    "f1a396774e66",
+    "a6af788c9bc8",
+    "337a23094d0d"
+   ]
+  },
+  "soil-hist-091": {
+   "q": "How do a buried wall and a buried ditch show up as cropmarks?",
+   "a": "A buried wall diverts water and displaces fertile soil, stunting crops, while an organic-rich ditch fill holds water and boosts growth.",
+   "sent_ids": [
+    "0c515275adc8",
+    "bffccbacf986"
+   ]
+  },
+  "soil-hist-115": {
+   "q": "Why did grain output on the Kazakh steppe fall after early success?",
+   "a": "Only 200 to 350 mm of rain fell a year, the soils were salty, winds caused erosion in spring, and grain monoculture, on 83% of cropland in 1958–1959, depleted nutrients.",
+   "sent_ids": [
+    "5803adb6c632",
+    "307396260896",
+    "489c4aad2dbf",
+    "84b50f8974cb"
+   ]
+  },
+  "soil-hist-108": {
+   "q": "Where did Lawes and Gilbert find that cereals get their nitrogen?",
+   "a": "From the soil, contrary to Liebig's view that it came only from the air.",
+   "sent_ids": [
+    "5149f4978692"
+   ]
+  },
+  "soil-hist-078": {
+   "q": "Since when has the Soil Science Society of America's flagship journal appeared only online?",
+   "a": "Since 2013, with double-blind review of its articles.",
+   "sent_ids": [
+    "3f5b77e5bb8d",
+    "6d416290acca"
+   ]
+  }
+ }
+}

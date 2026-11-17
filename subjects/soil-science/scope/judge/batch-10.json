@@ -1,0 +1,2116 @@
+{
+"Thermodynamic activity": {
+"v": "support",
+"ch": "redox-and-soil-chemistry",
+"why": "ion activity governs soil solution chemistry"
+},
+"Thermodynamic equilibrium": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Thermodynamic free energy": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Thermodynamics": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Thermohaline circulation": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Thermomonosporaceae": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Thermophile": {
+"v": "out",
+"why": "organism class, composting detail only"
+},
+"Thermoproteota": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Thiamine": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Thickening agent": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Thinopyrum intermedium": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Thinset": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Thiodictyon": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Thiomargarita namibiensis": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Thiosulfate": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Thiourea": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Thiruvananthapuram": {
+"v": "out",
+"why": "place or region"
+},
+"Thomas J. Goreau": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Thomas Lyttleton Lyon": {
+"v": "in",
+"ch": "founders-and-pioneers",
+"why": "co-author of classic textbook Nature and Properties of Soils"
+},
+"Thorium": {
+"v": "out",
+"why": "chemical element; soil roles covered elsewhere"
+},
+"Threatened species": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Three-domain system": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Three-point hitch": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Threebear (soil)": {
+"v": "out",
+"why": "single named soil series or local soil type"
+},
+"Threonine": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Thrush (bird)": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Thuja plicata": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Thulium": {
+"v": "out",
+"why": "chemical element; soil roles covered elsewhere"
+},
+"Tibet": {
+"v": "out",
+"why": "place or region"
+},
+"Tibetan Plateau": {
+"v": "out",
+"why": "place or region"
+},
+"Tidal marsh": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tidal power": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tide": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tifton (soil)": {
+"v": "out",
+"why": "single named soil series or local soil type"
+},
+"Tigris": {
+"v": "out",
+"why": "place or region"
+},
+"Tile drainage": {
+"v": "in",
+"ch": "water-in-soil",
+"why": "subsurface drainage of wet agricultural soils"
+},
+"Tilia": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Tilia americana": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Tillage erosion": {
+"v": "in",
+"ch": "erosion-and-sediment",
+"why": "soil erosion caused by tillage"
+},
+"Tiltmeter": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Timber framing": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Time": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Timeline of chemical element discoveries": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tin": {
+"v": "out",
+"why": "chemical element; soil roles covered elsewhere"
+},
+"Tipping points in the climate system": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tissue (biology)": {
+"v": "out",
+"why": "general biology"
+},
+"Titan (moon)": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Titanium": {
+"v": "out",
+"why": "chemical element; soil roles covered elsewhere"
+},
+"Titanium dioxide": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Titration": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tobacco": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tobacco mosaic virus": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tofu": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tokul soil": {
+"v": "out",
+"why": "single named soil series or local soil type"
+},
+"Tollund Man": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Toluene": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Tomato": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tonne": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tool": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tooth": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tooth enamel": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Toothpaste": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Topography": {
+"v": "support",
+"ch": "soils-in-the-landscape",
+"why": "relief is a soil-forming factor"
+},
+"Topology": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Toreva block": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Toronto": {
+"v": "out",
+"why": "place or region"
+},
+"Torrefaction": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Total carbon": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Total inorganic carbon": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Total suspended solids": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Toughness": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tourism": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Toxic hotspot": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Toxic waste": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Toxicant": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Toxicity": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Toxin": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Trace element": {
+"v": "support",
+"ch": "nutrients-and-plant-nutrition",
+"why": "micronutrients and trace metals in soils"
+},
+"Trace fossil": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Traction engine": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tractor": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Traditional ecological knowledge": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Traffic": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tragedy of the commons": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Trampling": {
+"v": "support",
+"ch": "density-pores-and-compaction",
+"why": "repeated trampling compacts soil"
+},
+"Transcription (biology)": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Transcription factor": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Transduction (genetics)": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Transformer": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Transgene": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Transition metal": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Transmission electron microscopy": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Transmission line": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Transparency and translucency": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Transpiration": {
+"v": "support",
+"ch": "water-in-soil",
+"why": "plant water loss drives soil water extraction"
+},
+"Transpiration stream": {
+"v": "out",
+"why": "plant physiology detail beyond support level"
+},
+"Transplanting": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Transport": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Transsulfuration pathway": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Trap crop": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Travertine": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Tree": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tree box filter": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tree line": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tree planting": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tree throw": {
+"v": "in",
+"ch": "how-soils-form",
+"why": "tree uprooting mixes soil (pedoturbation)"
+},
+"Treebog": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Trema (plant)": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Trench": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Trevoa": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Trial and error": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Trial pit": {
+"v": "support",
+"ch": "reading-a-soil",
+"why": "excavation for examining a soil profile"
+},
+"Triangle of death (Italy)": {
+"v": "out",
+"why": "place or region"
+},
+"Triassic": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Triaxial shear test": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tributary": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tricalcium phosphate": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Trichloroethylene": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Trichoderma": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Trichoderma harzianum": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Trickling filter": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Triclinic crystal system": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Trifolium repens": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Trillium grandiflorum": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Trinidad and Tobago": {
+"v": "out",
+"why": "place or region"
+},
+"Triple point": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Trophic cascade": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Trophic level": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tropical climate": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tropical cyclone": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tropical forest": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tropical rainforest": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tropics": {
+"v": "out",
+"why": "place or region"
+},
+"Troposphere": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Truck": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Truffle": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Trumao": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tryptophan": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Tsunami": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tuber": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tuberculosis": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tufa": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tuff": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tuktoyaktuk": {
+"v": "out",
+"why": "place or region"
+},
+"Tundra": {
+"v": "out",
+"why": "biome, too broad"
+},
+"Tundra climate": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tungsten": {
+"v": "out",
+"why": "chemical element; soil roles covered elsewhere"
+},
+"Tunisia": {
+"v": "out",
+"why": "place or region"
+},
+"Tunnel": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Turbah Karbala": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Turbidite": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Turbidity": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Turbidity current": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Turbulence": {
+"v": "out",
+"why": "fluid dynamics concept, not needed for soil course"
+},
+"Turgor pressure": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Turkey": {
+"v": "out",
+"why": "place or region"
+},
+"Turkish Foundation for Combating Soil Erosion": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"Turkish language": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Turnip": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Turpentine": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Tuscany": {
+"v": "out",
+"why": "place or region"
+},
+"Twig": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Type genus": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Type species": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Typha": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Tyrosine": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"U.S. state": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"UNESCO": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"Ukraine": {
+"v": "out",
+"why": "place or region"
+},
+"Ukrainian language": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Ultimate tensile strength": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Ultramafic rock": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Ultrapure water": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Ultrasound": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Ultraviolet": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Umm al Samim": {
+"v": "out",
+"why": "place or region"
+},
+"Unconformity": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Underground storage tank": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Ungulate": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Unicellular organism": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Unicode": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Unicornvirus": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Unique Ingredient Identifier": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"United Arab Emirates": {
+"v": "out",
+"why": "place or region"
+},
+"United Kingdom": {
+"v": "out",
+"why": "place or region"
+},
+"United Nations": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"United Nations Development Programme": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"United Nations Environment Programme": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"United Nations Framework Convention on Climate Change": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"United States": {
+"v": "out",
+"why": "place or region"
+},
+"United States Army": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"United States Army Corps of Engineers": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"United States Congress": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"United States Department of Agriculture": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"United States Department of the Interior": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"United States Environmental Protection Agency": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"United States Forest Service": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"United States Geological Survey": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"United States House Committee on Agriculture": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"United States Secretary of Agriculture": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"United States dollar": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Universe": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"University of Illinois Urbana-Champaign": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"University of Missouri": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"University of Wisconsin–Madison": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"Unmanned aerial vehicle": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Upland and lowland": {
+"v": "out",
+"why": "general landform terms"
+},
+"Upwelling": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Uranium": {
+"v": "out",
+"why": "chemical element; soil roles covered elsewhere"
+},
+"Uranium in the environment": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Urban agriculture": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Urban area": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Urban flooding": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Urban heat island": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Urban planning": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Urban runoff": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Urban sprawl": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Urbanization": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Urea cycle": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Urea-formaldehyde": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Urease": {
+"v": "support",
+"ch": "nutrient-cycles",
+"why": "soil enzyme hydrolysing urea fertilizer"
+},
+"Uric acid": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Urinary system": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Urinary tract infection": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Urine": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Urine diversion": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Urine-diverting dry toilet": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Uronic acid": {
+"v": "out",
+"why": "carbohydrate chemistry, not a soil topic"
+},
+"Uruguay": {
+"v": "out",
+"why": "place or region"
+},
+"Utah": {
+"v": "out",
+"why": "place or region"
+},
+"Uterus": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Utilitarianism": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Utility tunnel": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Uttar Pradesh": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Uttarakhand": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vacuole": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vacuum": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vacuum consolidation": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vacuum distillation": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vacuum truck": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Valence (chemistry)": {
+"v": "out",
+"why": "general chemistry knowledge"
+},
+"Valine": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Valley": {
+"v": "out",
+"why": "general landform"
+},
+"Value (economics)": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Van Genuchten–Gupta model": {
+"v": "in",
+"ch": "acidity-alkalinity-and-salinity",
+"why": "model of crop yield response to soil salinity"
+},
+"Van Krevelen diagram": {
+"v": "out",
+"why": "petroleum geochemistry plot"
+},
+"Van der Waals force": {
+"v": "support",
+"ch": "clay-minerals-and-colloids",
+"why": "weak forces in colloid and sorption interactions"
+},
+"Van der Waals radius": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vanadium": {
+"v": "out",
+"why": "chemical element; soil roles covered elsewhere"
+},
+"Vanadium nitrogenase": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Vancouver Island": {
+"v": "out",
+"why": "place or region"
+},
+"Vapor": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vapor pressure": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Variable (mathematics)": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Variety (botany)": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Varnish": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Varve": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vascular plant": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Vascular tissue": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vasyugan Swamp": {
+"v": "out",
+"why": "place or region"
+},
+"Vaterite": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Vegetable": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vegetable oil": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vegetation": {
+"v": "out",
+"why": "too broad; general ecology"
+},
+"Vegetative treatment system": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vehicle": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vein (geology)": {
+"v": "out",
+"why": "ore geology, not soil"
+},
+"Velocity": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Venezuela": {
+"v": "out",
+"why": "place or region"
+},
+"Venus": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vermiculite": {
+"v": "in",
+"ch": "clay-minerals-and-colloids",
+"why": "expanding 2:1 clay mineral"
+},
+"Vermifilter": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vermifilter toilet": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vermitechnology": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vermont": {
+"v": "out",
+"why": "place or region"
+},
+"Vernal pool": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Veronaea": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Verrucomicrobiota": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Vertebrate": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Vertical and horizontal": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vertical ecosystem": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vertical tillage": {
+"v": "in",
+"ch": "tillage-and-cultivation",
+"why": "shallow vertical tillage practice"
+},
+"Vibro stone column": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vicia": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Vicia faba": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Vicia villosa": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Victor A. Tiedjens": {
+"v": "out",
+"why": "person, not a founder of soil science"
+},
+"Victoria (state)": {
+"v": "out",
+"why": "place or region"
+},
+"Vienna": {
+"v": "out",
+"why": "place or region"
+},
+"Vietnam": {
+"v": "out",
+"why": "place or region"
+},
+"Vine": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vinegar": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Vineyard": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vinyl chloride": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Virginia": {
+"v": "out",
+"why": "place or region"
+},
+"Virology": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Virus": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Viscoelasticity": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Viscosity": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Visible spectrum": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vitalism": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vitamin": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vitamin B12": {
+"v": "out",
+"why": "vitamin, not a soil topic"
+},
+"Vitamin C": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vitamin D": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vitamin E": {
+"v": "out",
+"why": "vitamin, not a soil topic"
+},
+"Vitamin K": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Viticulture": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vitrification": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Voges–Proskauer test": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Void (composites)": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Volatile (astrogeology)": {
+"v": "out",
+"why": "planetary geology term"
+},
+"Volatile organic compound": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Volatility (chemistry)": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Volcanic ash": {
+"v": "support",
+"ch": "weathering-and-parent-material",
+"why": "parent material of volcanic soils"
+},
+"Volcanic cone": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Volcanic eruption": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Volcanic glass": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Volcanic rock": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Volcanism": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Volcano": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vole": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Volga": {
+"v": "out",
+"why": "place or region"
+},
+"Volt": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Voltage": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Volume": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Volumetric flow rate": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vomiting": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Vortex": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wadden Sea": {
+"v": "out",
+"why": "place or region"
+},
+"Wader": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Waffle slab foundation": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wales": {
+"v": "out",
+"why": "place or region"
+},
+"Walkway": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Walnut": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Walrus": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Wash load": {
+"v": "out",
+"why": "river sediment transport, not soil"
+},
+"Washboard moraine": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Washington (state)": {
+"v": "out",
+"why": "place or region"
+},
+"Washington, D.C.": {
+"v": "out",
+"why": "place or region"
+},
+"Wasp": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Waste": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Waste compaction": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Waste heat": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Waste management": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Waste valorization": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wastewater": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wastewater quality indicators": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wastewater treatment": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Water": {
+"v": "out",
+"why": "general knowledge, too broad"
+},
+"Water balance": {
+"v": "support",
+"ch": "water-in-soil",
+"why": "soil water balance accounting"
+},
+"Water buffalo": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Water chlorination": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Water column": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Water conservation": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Water efficiency": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Water filter": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Water heating": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Water level": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Water of crystallization": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Water on Mars": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Water pollution": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Water purification": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Water quality": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Water resources": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Water scarcity": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Water security": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Water softening": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Water supply": {
+"v": "out",
+"why": "water utility topic, not soil science"
+},
+"Water supply network": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Water treatment": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Water vapor": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Water-use efficiency": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Waterproofing": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Watershed management": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Waterway": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wattle and daub": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wave equation analysis": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wavelength": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wax": {
+"v": "out",
+"why": "general organic material"
+},
+"Wayback Machine": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"Weather": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Weaving": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wedge": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Weed": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Weed control": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Weighing scale": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Weight": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Well": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Well drilling": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Well logging": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"West Africa": {
+"v": "out",
+"why": "place or region"
+},
+"West Asia": {
+"v": "out",
+"why": "place or region"
+},
+"West Bengal": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"West Germany": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"West Siberian Plain": {
+"v": "out",
+"why": "place or region"
+},
+"Western Australia": {
+"v": "out",
+"why": "place or region"
+},
+"Western Europe": {
+"v": "out",
+"why": "place or region"
+},
+"Western United States": {
+"v": "out",
+"why": "place or region"
+},
+"Wet meadow": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wet season": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Whale feces": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wheal Maid": {
+"v": "out",
+"why": "place or region"
+},
+"Wheat": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Wheel tractor-scraper": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Whendee Silver": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Whipped cream": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"White Beaches": {
+"v": "out",
+"why": "place or region"
+},
+"White pipe clay": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"White-eye (soil)": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wicking bed": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wieringerrandmeer": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wildfire": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wildfire suppression": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wildlife": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wildlife corridor": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Will Bonsall": {
+"v": "out",
+"why": "person, not a founder of soil science"
+},
+"William Nordhaus": {
+"v": "out",
+"why": "person, not a founder of soil science"
+},
+"William Smith (geologist)": {
+"v": "out",
+"why": "person, not a founder of soil science"
+},
+"Willingness to pay": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Willow": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Wilting": {
+"v": "support",
+"ch": "water-in-soil",
+"why": "wilting point defines plant-available soil water"
+},
+"Winch": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wind": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wind farm": {
+"v": "out",
+"why": "energy infrastructure, unrelated"
+},
+"Wind power": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wind wave": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Windmill": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Windrow": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Windsor (soil)": {
+"v": "out",
+"why": "single named soil series or local soil type"
+},
+"Wine": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Winnipeg": {
+"v": "out",
+"why": "place or region"
+},
+"Winnowing (sedimentology)": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Winter": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Winter solstice": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Winter wheat": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wire rope": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wisconsin": {
+"v": "out",
+"why": "place or region"
+},
+"Wisconsin glaciation": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wood": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wood ash": {
+"v": "in",
+"ch": "fertilizers-manures-and-amendments",
+"why": "liming and potash amendment for soils"
+},
+"Wood preservation": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wood-decay fungus": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Woodchips": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Woodland": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Woodlot": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Woodlouse": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Woody plant": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wool": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Work (human activity)": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Working animal": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Works Progress Administration": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"World Bank Group": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"World Food Prize": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"World Health Organization": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"World Heritage Site": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"World Meteorological Organization": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"World War I": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"World War II": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"World economy": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"World population": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Worm": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Worms Eat My Garbage": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wychert": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Wyoming": {
+"v": "out",
+"why": "place or region"
+},
+"Wüstite": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"X-ray": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"X-ray absorption spectroscopy": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"X-ray crystallography": {
+"v": "out",
+"why": "general crystallography; XRD covers soil use"
+},
+"X-ray diffraction": {
+"v": "support",
+"ch": "clay-minerals-and-colloids",
+"why": "standard method for identifying clay minerals"
+},
+"Xenobiotic": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Xenobiotic metabolism": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Xenon": {
+"v": "out",
+"why": "chemical element; soil roles covered elsewhere"
+},
+"Xeriscaping": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Xerophyte": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Xylem": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Xylene": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Xylophagy": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Xylose": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Yakutsk": {
+"v": "out",
+"why": "place or region"
+},
+"Yam (vegetable)": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Yangtze": {
+"v": "out",
+"why": "place or region"
+},
+"Year": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Yeast": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Yellow River": {
+"v": "out",
+"why": "place or region"
+},
+"Yellow fever": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Yemen": {
+"v": "out",
+"why": "place or region"
+},
+"Yersinia pestis": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Yogurt": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Yorkicystis": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Young's modulus": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Ytterbium": {
+"v": "out",
+"why": "chemical element; soil roles covered elsewhere"
+},
+"Yttrium": {
+"v": "out",
+"why": "chemical element; soil roles covered elsewhere"
+},
+"Yucatán Peninsula": {
+"v": "out",
+"why": "place or region"
+},
+"Yukon": {
+"v": "out",
+"why": "place or region"
+},
+"Yukon Ice Patches": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Yukon River": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Yunnan": {
+"v": "out",
+"why": "place or region"
+},
+"Zam (irrigation)": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Zambia": {
+"v": "out",
+"why": "place or region"
+},
+"Zanzibar": {
+"v": "out",
+"why": "place or region"
+},
+"Zeolite": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Zeta potential": {
+"v": "support",
+"ch": "clay-minerals-and-colloids",
+"why": "surface charge and stability of soil colloids"
+},
+"Zhang Jiabao": {
+"v": "out",
+"why": "person, not a founder of soil science"
+},
+"Zhao Qiguo": {
+"v": "out",
+"why": "person, not a founder of soil science"
+},
+"Ziggurat": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Zimbabwe": {
+"v": "out",
+"why": "place or region"
+},
+"Zinc": {
+"v": "out",
+"why": "chemical element; soil roles covered elsewhere"
+},
+"Zinc carbonate": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Zinc deficiency (plant disorder)": {
+"v": "in",
+"ch": "nutrients-and-plant-nutrition",
+"why": "common micronutrient deficiency on soils"
+},
+"Zinc oxide": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Zinc sulfate": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Zircon": {
+"v": "out",
+"why": "chemical compound or mineral, not a soil topic"
+},
+"Zirconium": {
+"v": "out",
+"why": "chemical element; soil roles covered elsewhere"
+},
+"Zone rouge": {
+"v": "out",
+"why": "place or region"
+},
+"Zoning": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Zooplankton": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Zygomycota": {
+"v": "out",
+"why": "organism or taxon, not its soil role"
+},
+"Éamon Hanrahan": {
+"v": "out",
+"why": "person, not a founder of soil science"
+},
+"École nationale supérieure des industries agricoles et alimentaires": {
+"v": "out",
+"why": "organization, institution or program"
+},
+"Ñadi": {
+"v": "out",
+"why": "general or neighboring-field topic outside soil course scope"
+},
+"Öland": {
+"v": "out",
+"why": "place or region"
+},
+"Ōgata, Akita": {
+"v": "out",
+"why": "place or region"
+}
+}

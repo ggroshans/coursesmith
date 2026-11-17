@@ -1,0 +1,87 @@
+{
+ "entries": {
+  "soil-water-103": {
+   "title": "Gelifluction: spring meltwater sets topsoil flowing",
+   "text": "In some periglacial regions, spring melt releases half a year's precipitation within a couple of days. Gelifluction is what that flood does to the ground: the downslope movement of waterlogged topsoil driven by seasonal freezing and thawing. It is a close relative of {{ref:soil-water-056}}, prominent where snow lies six to eight months a year. The soaked topsoil flows like a liquid, so gelifluction can occur on slopes of less than half a degree. On slopes of 10° to 20° it builds tongue-shaped lobes, with risers up to 5 metres (16 ft) and treads up to 50 metres (160 ft). Gentler slopes get terrace-like benches."
+  },
+  "soil-water-066": {
+   "title": "Calculating whether a slope will hold",
+   "text": "Engineers design safe embankments, road cuts, open-pit mines, excavations and landfills with slope stability analysis. It covers static or dynamic, analytical or empirical methods for judging natural slopes and dams, embankments and excavations in soil and rock. It needs site data on soil and rock properties, slope geometry, groundwater and fractures, since water pressure in pores and fractures lowers strength. Limit equilibrium is the most common and simplest method. Complex failures such as progressive creep or liquefaction need numerical modelling. Simple two-dimensional circular analysis is widely used, but finding the most probable slip plane is a primary difficulty, and real failures in mixed soils are not always circular."
+  },
+  "soil-water-065": {
+   "title": "Engineering slopes that stay put",
+   "text": "Draining water out of a slope significantly improves its stability by reducing the forces that push it toward failure. Slope stabilization is engineering work that raises a slope's stability and lessens the effect of landslides. Its methods fall into three classes. Geometric methods reshape the slope. Hydrogeological methods lower groundwater or dry the material. Chemical or mechanical methods raise shear strength or add anchors, nails and piles. Flattening, retaining walls, grouting, and consolidation by surcharging or electro-osmosis also serve. Where landslides are shallow, vegetation is a widely used bioengineering method: roots reinforce the upper soil, while interception and transpiration dry it."
+  },
+  "soil-water-106": {
+   "title": "Baer–Babinet law: blaming Earth's spin for lopsided rivers",
+   "text": "In 1859 Jacques Babinet proposed that the Earth's rotation makes rivers erode one bank more than the other. Karl Ernst von Baer gave a fuller explanation in 1860. Their Baer–Babinet law holds that rivers wear mostly their right banks in the Northern Hemisphere and their left banks in the Southern. The proposed cause was the Coriolis force. It is best treated as a hypothesis with too weak a mechanism. The Coriolis force is orders of magnitude weaker than local flow forces in a channel, so it is unlikely to matter in any one river. Einstein explained the true causes in 1926."
+  },
+  "soil-water-054": {
+   "title": "Reading the marks gravity leaves on slopes",
+   "text": "Most traces of mass wasting are subtle, but a few are spectacular. Soil creep shows in curved tree trunks and tilted fences and poles, and freeze-thaw creep builds small steps on hillsides. Solifluction leaves lobed or sheet-like deposits whose rock fragments point perpendicular to the deposit's contours. Rockfall piles talus slopes at the foot of cliffs, and landslides leave scarps and step-like benches. Debris flows leave long, narrow tracks of very poorly sorted material, often with levees, and build much of the upper slopes of alluvial fans."
+  },
+  "soil-water-108": {
+   "title": "Soil sloughing: the shallow slip that can grow",
+   "text": "Active pore water pressure can cut a soil's shear strength by up to 60%. Soil sloughing is the falling of soil off banks and slopes when it loses cohesion. It is shallow, involving only the uppermost layers, and it shares the causes of landslides, very wet soil above all. Rising water content weakens shear strength and so cohesion. Bare soils slough more readily than vegetated ones, because roots hold the surface. Clearing banks therefore raises the risk, and lost root strength after harvesting can lower the safety factor so far that a moderate storm brings failure. Left unchecked, sloughing can end in massive bank or slope failure."
+  },
+  "soil-water-104": {
+   "title": "Rivers that melt their way through frozen banks",
+   "text": "On the Lena, spring floods break river ice up to 2 m thick, discharge rises about tenfold within days, and the banks retreat about 40 m per year. That is fluvio-thermal erosion: the combined mechanical and thermal erosion of ice-rich soils and sediments by an unfrozen river. Strong flow thaws the frozen bank, and the water removes the thawed material where it can cut in. Melting ice weakens the porous soil, leaving it easy to break up, and banks may collapse along ice wedges. Cold-room experiments show that water temperature, ice temperature and discharge drive the thawing, while high ice content slows it."
+  },
+  "soil-water-224": {
+   "title": "A buried cable that feels a slope shift",
+   "text": "Engineers use {{ref:soil-water-223}} to watch for slope movement at highway cuts, rail beds and open-pit mines. A coaxial cable is set in a vertical borehole with brittle grout. When the ground moves, the cable deforms sharply, and the bend shows up as a peak in the reflection trace. The method was once insensitive to small movements and relied on people reading the traces. Farrington and Sargand (2004) improved it with a numerical-derivative method that gives earlier warning. Probes in different layers can also time infiltration, helping judge how well best management practices cut stormwater runoff."
+  },
+  "soil-water-078": {
+   "title": "Fech fech: desert powder that swallows vehicles",
+   "text": "Part of Egypt's Qattara Depression is impassable to most vehicles because of a powder hidden underfoot. Fech fech is a very fine powder formed by the erosion of clay-limestone terrain, found mostly in deserts. It forms a surface layer of pulverised, weakly cohesive soil under a thin crust, so it is invisible from the surface. A vehicle can break through and sink into a quicksand-like mass. It derives from ancient lake muds or certain clay-rich rocks, and it is one of the desert surfaces that produce dust."
+  },
+  "soil-water-249": {
+   "title": "Bed load and suspended load: two ways a river carries",
+   "text": "A stream's bed load, the sediment that rolls, slides and hops along the bottom, is usually thought to be only 5–10% of its total load. It moves at a small fraction of the flow speed. The suspended load, held up in the water, moves at a large fraction of the mean flow speed. Wash load, fine material from upstream, rides with the stream, spread almost evenly through the water. The Rouse number weighs a grain's settling velocity against turbulent upward velocity and decides its mode: above 7.5 it stays put, below 0.8 it travels as wash load. Small grains settle more slowly and so travel farther downstream."
+  },
+  "soil-water-250": {
+   "title": "The Hjulström curve: a classic graph now retired",
+   "text": "In 1935 Filip Hjulström drew a graph of the flow velocity needed to erode, transport or deposit sediment of each grain size. The Hjulström curve uses logarithmic axes, and Åke Sundborg later added separate movement thresholds for several water depths. Today it has mainly historical value. It ignores water depth, and it does not show that slowing flow causes deposition and speeding flow causes erosion. For the start of sediment motion in rivers, the accepted tool is now the dimensionless Shields diagram, based on shear stress."
+  },
+  "soil-water-253": {
+   "title": "Desert pavement: a stone floor of disputed origin",
+   "text": "Some desert ground is tiled with closely packed, interlocking pebbles and cobbles. This is desert pavement, and geologists still debate how it forms and how old it is. A common explanation is that wind and occasional rain remove sand and dust and leave the larger stones. Clay shrink–swell has also been proposed. A newer idea runs the other way: windblown dust settles between and under the stones, building soil beneath them. In 1995, helium-3 dating in the Mojave Desert found the rocks older than the soil below. Once formed, a pavement shields the ground, and older surfaces carry better-developed pavements, so it signals aridity and relative age."
+  },
+  "soil-water-114": {
+   "title": "Why rock masses fail along their cracks",
+   "text": "Many natural and man-made slopes fail not through solid rock but along its joints. The shear strength along a discontinuity, such as a joint, is often far lower than that of the intact blocks between. It depends on how far the discontinuity extends, its roughness, infill, fluid pressure, solution and cementation, and whether it has moved before. Weak discontinuities make a mass deform plastically rather than elastically, which can bring larger, permanent settlement of foundations. Real discontinuities cannot be calculated analytically. Their strength comes from laboratory or field tests, such as the direct shear test, or from empirical characterisation."
+  },
+  "soil-water-072": {
+   "title": "How the last glaciation built a clay that can liquefy",
+   "text": "Quick clay began about 20,000 years ago, at the height of the last glaciation. Ice pressed the land down, and the sea reached far inland to receive the ground-up rock. Silt and clay settled loosely in the seawater, giving an unusual form of {{ref:soil-phys-006}}: a strongly bonded skeleton glued by mobile sea-salt ions. Post-glacial rebound then lifted the clay above the sea. Soft rainwater and snowmelt weakened its ionic glue, leaving a loose skeleton holding much water. A normal topsoil cover absorbs ordinary stresses. A large earthquake, extra load near a slope or saturating rain can disturb the clay and start liquefaction."
+  },
+  "soil-water-074": {
+   "title": "Quick clay slides that eat their way inland",
+   "text": "In 1893 a quick clay slide at Verdal, Norway, killed 116 people. Such slides are retrogressive: they usually start at water and work their way upslope. Most advance at slow walking speed, but deep quick clay can collapse much faster, and slides have reached kilometres inland. Topsoil hides the clay, so settlements and roads were often built on vulnerable sites that only soil testing reveals. At Rissa in 1978, about 33 hectares of farmland liquefied and flowed into a lake within a few hours. Precautions include lightweight polystyrene fill, wick drains and cutoff walls that keep groundwater out."
+  },
+  "soil-water-257": {
+   "title": "Legacy sediment: the buried record of human erosion",
+   "text": "Human-caused soil erosion has raised river sediment transport by 2.3 (± 0.6) billion metric tons a year. Reservoirs, meanwhile, cut delivery to the coasts by 1.4 (± 0.3) billion tons a year. Legacy sediment is sediment laid down because of human activity since the Neolithic. Its sources include land clearance, logging, mining, roads, urban growth and dams. In the eastern US, upland soil eroded from the late 17th to the late 19th centuries buried valley floors and filled mill ponds. Fine sediment can carry trace metals, nutrients and pesticides, and heavy metals may stay toxic in it for decades to centuries."
+  },
+  "soil-water-097": {
+   "title": "Armoring river banks with rock, wire and willow",
+   "text": "The cheapest way to hold a river bank is also the most laborious: willow or cottonwood cuttings staked in trenches, left to root and grip the soil. River bank protection covers the structural and vegetative measures that keep banks from eroding and failing. Riprap, rock laid to resist erosion, is expensive and can fail but covers large areas. Gabions, stone-filled wire boxes, suit steep banks where flow is too fast for riprap. Retaining walls, sheet piling, lime stabilization and soil-cement are other options. Trees add deep, dense roots, but on steep banks they may fail to hold the toe, and their weight can bring the bank down."
+  },
+  "soil-water-069": {
+   "title": "How roots stitch soil to the ground below",
+   "text": "Root strength generally reaches only about 1 m (3.3 ft) down, yet most slope failures occur at 1.2–1.5 m (3.9–4.9 ft). Root reinforcement is the strengthening of soil by roots that grow across potential failure planes, act as piles and limit surface erosion. Roots crossing a possible slip plane bind particles and anchor unstable surface soil to deeper stable layers or bedrock. A root stretched across the plane develops a tensile force that passes to the soil through cohesion and friction. Near the surface, fine roots of shrubs and grasses hold soil against sheet wash and overland flow, like a mesh."
+  },
+  "soil-water-070": {
+   "title": "How hard a root holds before it lets go",
+   "text": "A root resists being pulled out of the ground with a force only a little less than its laboratory tensile strength. Tests on many species and root diameters put that strength at about 5–60 MN/m2. Thicker roots resist more than thinner ones. Unbranched roots fail in tension and slip out with little resistance. Branched roots hold a high force that declines as branches fail, or they break in stepped stages, often at weak points such as branching points, nodes or damage. A root strengthens a slope only with enough embedment and adhesion, so engineers measure its contribution with in situ pull-out tests."
+  },
+  "soil-water-068": {
+   "title": "Thirsty plants that help hold slopes",
+   "text": "The soil around trees is drier, and drier soil is stronger. Plants draw water out of the soil and transpire it, lowering pore water pressure and offsetting the strength soil loses when wet. The help fades in storms, because plants transpire little in wet weather. Even so, transpiration still makes failure after heavy rain less likely. Studies in Malaysia linked high root length density to low soil water content, higher shear strength, lower permeability and fewer slope failures. Dry weather brings a catch: plants can deepen desiccation cracks that let water reach a slip plane. Shade from their foliage limits that drying and cracking."
+  }
+ },
+ "reviews": {
+  "erosion-and-sediment": "Rain, runoff and wind loosen soil and carry it away, cutting sheets, rills and gullies on slopes and lifting dust from dry, bare ground, as the Dust Bowl showed on a ruinous scale. Gravity works alone in mass wasting, from slow creep to sudden landslides and debris flows, and a slope holds only while its shear strength exceeds the stress on it, a balance that water, roots and quick clay can tip. Whatever moves, grain size and flow speed decide how far it travels, and only part of it reaches rivers, where it smothers spawning beds and carries pesticides and fertilizers. Farmers and engineers answer with plant cover, erosion models such as the Universal Soil Loss Equation, silt fences, sediment basins and slope stabilization."
+ }
+}
