@@ -173,7 +173,9 @@ def build(subject, scout=100, refresh=False, log=print):
     store.flush_caches()
 
     # parts
-    parts_cfg = fcfg.get("parts") or []
+    # no parts in subject.yaml: one part named for the subject, chapters by category clustering
+    parts_cfg = fcfg.get("parts") or [{"key": "main", "title": subject.title}]
+    single = parts_cfg[0]["key"] if len(parts_cfg) == 1 else None
     nav_parts = fcfg.get("navbox_parts") or {}
     foundations = set(fcfg.get("foundations") or [])
     hist_key = next((p["key"] for p in parts_cfg if p.get("history")), None)
@@ -196,6 +198,8 @@ def build(subject, scout=100, refresh=False, log=print):
         best = max(scores.items(), key=lambda kv: kv[1]) if scores else (None, 0)
         if best[1] > 0:
             assign[t] = best[0]
+        elif single:
+            assign[t] = single
         elif c.get("navbox"):
             for label, key in nav_parts.items():
                 if c["navbox"].endswith(label) or c["navbox"] == label:
@@ -280,7 +284,7 @@ def _chapters(p, members, kept):
             cat, n = cnt.most_common(1)[0] if cnt else (None, 0)
             if not cat or n < 3:
                 break
-            title = re.sub(r"^Soil\b", "Soil", cat)
+            title = cat
             mem = [t for t in left if cat in kept[t]["categories"]]
             groups[title] += mem
             order.append(title)
@@ -312,7 +316,8 @@ def _report(subject, parts, kept, unassigned, dropped, n_fetched, cal_path):
         L.append(f"### {p['title']} ({n} articles)")
         L.append("")
         for c in p["chapters"]:
-            L.append(f"- **{c['title']}** (share {c['share']:.1%}, target {c['target']}): "
+            target = f", target {c['target']}" if c.get("target") else ""
+            L.append(f"- **{c['title']}** (share {c['share']:.1%}{target}): "
                      + ", ".join(c["seeds"][:25]) + (" …" if len(c["seeds"]) > 25 else "")
                      + (f" — plus {len(c.get('candidates', []))} candidates" if c.get("candidates") else ""))
         L.append("")
