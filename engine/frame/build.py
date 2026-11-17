@@ -97,6 +97,11 @@ def gather(subject, client, store, log=print):
             cand[t]["catdist"] = d
     for t in cfg.get("seeds") or []:
         cand[t]["seed"] = True
+    # seeds pinned to a chapter in subject.yaml are candidates even when no hub lists them
+    for p in (cfg.get("frame") or {}).get("parts") or []:
+        for ch in p.get("chapters") or []:
+            for t in ch.get("seeds") or []:
+                cand[t]["seed"] = True
     for t in (cfg.get("frame") or {}).get("foundations") or []:
         cand[t]["foundation"] = True
     log(f"[frame] {len(cand)} candidates: navbox {len(set(nav_titles))}, index "
