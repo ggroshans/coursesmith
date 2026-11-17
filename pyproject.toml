@@ -5,9 +5,18 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "wikicourse"
 version = "0.1.0"
-description = "Wikipedia subjects as sourced courses, one unit at a time, on your e-reader."
+description = "Build a complete, sourced, logically ordered course on any subject from Wikipedia."
 readme = "README.md"
 requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "Garth Groshans Jr"}]
+keywords = ["wikipedia", "curriculum", "course", "education", "epub", "knowledge graph"]
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Education",
+    "Topic :: Text Processing",
+]
 dependencies = [
     "requests>=2.31",
     "beautifulsoup4>=4.12",
@@ -15,6 +24,9 @@ dependencies = [
     "pillow>=10.0",
     "pypdf>=4.0",
 ]
+
+[project.urls]
+Homepage = "https://github.com/ggroshans/wikicourse"
 
 [project.scripts]
 wikicourse = "engine.cli:main"
