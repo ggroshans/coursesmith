@@ -18,9 +18,8 @@ order prerequisites and write prose, but only from the cited facts they are hand
 | Subject | Ordering | Size |
 |---|---|---|
 | [`soil-science`](subjects/soil-science) | foundational to advanced | 2,274 entries in 505 units, 12 parts, 50 chapters, from 6,885 pages |
-| [`earth-history`](subjects/earth-history) | chronological | 1,672 entries in 365 units (ported from an earlier project) |
 
-Each has `output/course.json` (the whole course), `output/course.md` (readable in one file) and
+It has `output/course.json` (the whole course), `output/course.md` (readable in one file) and
 `output/curriculum.md` (the table of contents with every entry's level, kind and prerequisites).
 
 ## Setup
