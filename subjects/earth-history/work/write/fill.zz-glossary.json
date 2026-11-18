@@ -1,0 +1,47 @@
+{
+ "glossary": {
+  "prot-119": [],
+  "ordo-060": [],
+  "tria-066": [],
+  "jura-151": [],
+  "cret-019": [],
+  "cret-094": [],
+  "cret-101": [],
+  "cret-119": [],
+  "cret-147": [
+   {
+    "term": "tektite",
+    "text": "A droplet of natural glass formed from rock melted and thrown out by an impact.",
+    "sent_ids": [
+     "6cc1c0a95cd2"
+    ]
+   }
+  ],
+  "cret-130": [],
+  "pale-030": [],
+  "eoce-015": [],
+  "eoce-038": [],
+  "eoce-056": [],
+  "eoce-068": [],
+  "eoce-084": [],
+  "olig-015": [],
+  "mioc-021": [],
+  "olig-046": [],
+  "mioc-078": [],
+  "mioc-081": [],
+  "gela-066": [],
+  "late-122": [],
+  "late-036": [],
+  "gree-005": [],
+  "gree-049": [],
+  "nort-004": [],
+  "nort-010": [],
+  "nort-016": [],
+  "nort-018": [],
+  "megh-011": [],
+  "megh-045": [],
+  "megh-063": [],
+  "megh-097": [],
+  "megh-119": []
+ }
+}

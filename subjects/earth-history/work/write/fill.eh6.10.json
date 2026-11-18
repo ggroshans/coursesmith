@@ -1,0 +1,58 @@
+{
+ "glossary": {
+  "olig-015": [
+   {
+    "term": "anoxic",
+    "text": "Lacking dissolved oxygen, as in deep water that does not mix with the surface.",
+    "sent_ids": [
+     "f76df4cf9d66"
+    ]
+   }
+  ],
+  "mioc-021": [
+   {
+    "term": "ignimbrite",
+    "text": "Rock formed from a glowing avalanche of volcanic ash and pumice that welds together as it settles.",
+    "sent_ids": [
+     "03f10a07fe55"
+    ]
+   }
+  ],
+  "olig-046": [
+   {
+    "term": "caldera",
+    "text": "A huge crater formed when the ground collapses into an emptied magma chamber after an eruption.",
+    "sent_ids": [
+     "ee3bda8a1780"
+    ]
+   }
+  ],
+  "gela-017": [
+   {
+    "term": "loess",
+    "text": "Fine, wind-blown silt that piles up in thick blankets.",
+    "sent_ids": [
+     "1bd5cf056509"
+    ]
+   }
+  ],
+  "mioc-078": [
+   {
+    "term": "rain shadow",
+    "text": "A dry zone on the downwind side of a mountain range, which blocks moist air.",
+    "sent_ids": [
+     "c1be430c9bd6"
+    ]
+   }
+  ],
+  "mioc-081": [
+   {
+    "term": "evaporite",
+    "text": "Salt and other minerals left behind when seawater evaporates.",
+    "sent_ids": [
+     "fa302791c955"
+    ]
+   }
+  ]
+ }
+}

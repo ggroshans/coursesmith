@@ -1,0 +1,130 @@
+{
+ "glossary": {
+  "gela-064": [
+   {
+    "term": "tektite",
+    "text": "A glassy bead of melted rock thrown out by a meteorite impact.",
+    "sent_ids": [
+     "ff8d39fd1e13"
+    ]
+   }
+  ],
+  "gela-066": [
+   {
+    "term": "ignimbrite",
+    "text": "Rock laid down by a scalding avalanche of volcanic ash and gas.",
+    "sent_ids": [
+     "3fa7edb2ea13"
+    ]
+   }
+  ],
+  "gela-048": [
+   {
+    "term": "calcrete",
+    "text": "A hard, limy crust that forms in soil.",
+    "sent_ids": [
+     "1bfb9fa2b144"
+    ]
+   }
+  ],
+  "chib-012": [
+   {
+    "term": "marine isotope stage",
+    "text": "A numbered warm or cold stage of the ice ages, read from chemical signals in seafloor shells.",
+    "sent_ids": [
+     "6de8781ff5a9"
+    ]
+   }
+  ],
+  "chib-036": [
+   {
+    "term": "thermohaline circulation",
+    "text": "The deep ocean conveyor driven by differences in heat and salt.",
+    "sent_ids": [
+     "aa41700d0319"
+    ]
+   }
+  ],
+  "chib-045": [
+   {
+    "term": "tephra",
+    "text": "The fragments of rock and ash a volcano hurls into the air.",
+    "sent_ids": [
+     "e5728c88740e"
+    ]
+   }
+  ],
+  "late-081": [
+   {
+    "term": "phreatomagmatic eruption",
+    "text": "An eruption driven by steam where magma meets water.",
+    "sent_ids": [
+     "45e34c1f7e7b"
+    ]
+   }
+  ],
+  "late-053": [
+   {
+    "term": "fire-stick farming",
+    "text": "The deliberate burning of forest and grassland to shape the landscape.",
+    "sent_ids": [
+     "b19608f071f3"
+    ]
+   }
+  ],
+  "late-117": [
+   {
+    "term": "polar seesaw",
+    "text": "A pattern in which one hemisphere warms while the other cools.",
+    "sent_ids": [
+     "5e2c03706d13"
+    ]
+   }
+  ],
+  "late-122": [
+   {
+    "term": "coprolite",
+    "text": "Fossilized dung.",
+    "sent_ids": [
+     "bdef695e06d7"
+    ]
+   }
+  ],
+  "chib-008": [
+   {
+    "term": "biface",
+    "text": "A stone tool flaked on both faces, such as a hand axe.",
+    "sent_ids": [
+     "a8d167a1c2fd"
+    ]
+   }
+  ],
+  "late-080": [
+   {
+    "term": "refugium",
+    "text": "A sheltered area where species survive a harsh period such as a glacial maximum.",
+    "sent_ids": [
+     "812585c64e86"
+    ]
+   }
+  ],
+  "chib-052": [
+   {
+    "term": "hafting",
+    "text": "Fixing a stone point or blade to a handle or shaft.",
+    "sent_ids": [
+     "d982c6d888c8"
+    ]
+   }
+  ],
+  "late-036": [
+   {
+    "term": "mitochondrial haplogroup",
+    "text": "A maternal lineage traced through mitochondrial DNA, passed only from mothers.",
+    "sent_ids": [
+     "4037513ee58c"
+    ]
+   }
+  ]
+ }
+}

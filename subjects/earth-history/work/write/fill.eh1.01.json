@@ -1,0 +1,129 @@
+{
+ "openers": {
+  "hadean-eon": "Earth began as dust. A supernova seeded a dense corner of the Milky Way with heavy elements, a hydrogen cloud collapsed into the Sun, and debris from the solar nebula clumped into ever larger bodies until one of them was our planet. Then came violence: iron sank to the core, a Mars-sized body called Theia struck, and a magma ocean about 200 km deep covered the surface. Yet zircon crystals show that liquid water and an atmosphere existed by 4.404 billion years ago, astonishingly soon after Earth formed. This first eon is the story of how a molten ball became a world with seas.",
+  "archean-eon": "The Archean is the eon of the oldest rocks that still stand intact. Zircons in Canada's Acasta Gneiss crystallized about 4.03 billion years ago, and Greenland's Isua belt holds the oldest known banded iron formations. Around 3,800 million years ago the first cratons, whole continental masses built of granite blocks, appeared. Over this stretch the carbon cycle took its basic form, the last great impacts faded, and life left its first faint chemical traces.",
+  "eoarchean-era": "The Eoarchean opens with Earth's oldest known felsic crust, the Acasta Gneiss, about 4.03 billion years old. Impacts stayed frequent, with the final phase of the Late Heavy Bombardment placed at about 3,920–3,850 million years ago. Meanwhile the first cratons began to form: the Pilbara of Western Australia, the Yangtze Block of South China, the first rocks of the East European Craton. In Greenland, graphite low in carbon-13 and the oldest banded iron formations hint that life may already have been at work."
+ },
+ "entries": {
+  "hade-001": {
+   "title": "A dying star seeds the Sun's birth cloud",
+   "text": "Some of the atoms in Earth were forged in a star that exploded before the Sun existed. A supernova, the blast of a dying star, sent a shock wave through a dense part of the Milky Way and seeded it with heavy elements. That same shock wave may have triggered the collapse of the solar nebula, the gas cloud that became the Solar System, and set it spinning. Its signature survives in calcium–aluminum-rich inclusions, specks that formed 2 million years before chondrules."
+  },
+  "hade-002": {
+   "title": "The Sun ignites and the Solar System begins",
+   "text": "Every date in Earth's history is counted from a handful of tiny white specks. About 25,000 light years from the center of the Milky Way, a hydrogen cloud collapsed rapidly and gave birth to the Sun. The spinning cloud flattened into a protoplanetary disk, a pancake of gas and dust circling the young T Tauri Sun, and it held the raw material of Earth.\n\nThe first solids to condense from that hot disk were calcium–aluminum-rich inclusions. They date to 4,567.30 ± 0.16 million years ago, and that age defines the start of the Solar System and of the Hadean Eon. The young Sun did not wait long to tidy up. Its solar wind blew away most of the disk material not yet gathered into larger bodies, and by 10 million years the gas was gone.\n\nThe star at the center was not yet the Sun we know. It has grown about 30% brighter since it formed, a slow change that shapes the puzzle of {{ref:hade-007}}."
+  },
+  "hade-003": {
+   "title": "The iron catastrophe gives Earth its core",
+   "text": "Earth's magnetic shield was born when a planet's worth of metal fell inward. Radioactive heating and heat left from accretion melted the young Earth enough for metal to move. Dense iron and nickel then sank to the center, and the sinking itself released energy, driving a runaway process called the iron catastrophe. It was geologically brief, though still a postulated event.\n\nThe result was Earth's layered structure: a metallic core, where siderophile, or iron-loving, metals gathered, beneath a primitive mantle and, later, a crust. The spinning molten metal set up the magnetic field that still shields the atmosphere and life from the solar wind. When it happened is uncertain. Hafnium–tungsten models give 30–100 million years after the first solids; other sources say 10 or about 500 million years in."
+  },
+  "hade-004": {
+   "title": "Did plates already move in the Hadean?",
+   "text": "The young mantle churned hard. Radiogenic heat and trapped water lowered its viscosity, so Hadean convection was vigorous. Whether that motion drove plate tectonics or stayed trapped under a rigid lid is still debated. Some point to the removal of the CO2-rich early atmosphere, helped by carbonate sinking at subduction zones, as evidence for Hadean plates. Critics note the zircon evidence comes almost entirely from one Australian locality. One major paper argues global plate tectonics began only about 3.0 billion years ago, in the Archean."
+  },
+  "hade-005": {
+   "title": "Earth assembles from colliding debris",
+   "text": "A day on the newborn Earth lasted only about six hours. The planet had just been built by collision. In runaway accretion, dust and debris from the solar nebula clumped into ever larger bodies, and the bigger a body grew, the faster it swept up more. The proto-Earth took shape at the cool outer edge of the habitable zone, the band around a star where liquid water can exist. It grew through a series of giant impacts.\n\nThe work was fast. Accretion began soon after the first solids formed in {{ref:hade-002}} and was largely complete within 10–20 million years. One estimate allows 70–100 million years, while 2023 evidence suggests only about three million.\n\nEarth's official age, 4.54 ± 0.05 billion years, marks the final stages of accretion and differentiation, the sorting of the planet into layers. The fast spin was a leftover of all those collisions, and it would not last."
+  },
+  "hade-006": {
+   "title": "A magma ocean covers the young Earth",
+   "text": "For a time, Earth had no ground at all. Giant impacts and the heat of forming the core melted its outer layers into a magma ocean, a global sea of molten rock about 200 km deep. There were probably several such oceans. The last, raised by {{ref:hade-008}}, may have reached 2,000 km down, and siderophile elements in the mantle record depths of about 1,000 km during accretion.\n\nThe first magma ocean solidified within about 5 million years. Hot volatiles it left behind formed a heavy carbon dioxide atmosphere. The evidence is weaker than on the Moon, because Earth recycles its crust and mixes its mantle. Sources also disagree: one cites chemical traces, another finds no evidence Earth ever had one."
+  },
+  "hade-007": {
+   "title": "Why the early Earth did not freeze",
+   "text": "By rights, the young Earth should have been a snowball. The young Sun gave only about 70% of today's output, yet Earth seems to have had liquid water and life. How it stayed warm is an unsolved problem.\n\nThe favored answer is a greenhouse. Models find that 4.5 billion years ago, under a 30% dimmer Sun, staying above freezing took at least 0.1 bar of carbon dioxide. A plausible upper limit is 10 bar. A natural thermostat may have helped: in the carbonate–silicate cycle, cold slows the weathering of rock, so carbon dioxide builds up. How much there really was is still debated, and other proposals include a darker, less reflective surface and mass loss from the young Sun. The Sun has brightened ever since and now shines 1.4 times as bright as 4.6 billion years ago."
+  },
+  "hade-008": {
+   "title": "Theia strikes and the Moon is born",
+   "text": "The Moon is the wreckage of a planetary collision. In the explanation most astronomers favor, a Mars-sized protoplanet called Theia struck the proto-Earth about 20–100 million years after the Solar System formed.\n\nThe blow probably vaporized much of Earth's crust and upper mantle. The planet was wrapped in rock vapor, and any water already present was disrupted. Debris thrown into orbit lingered as rings for a few million years, then gathered into the Moon. Lunar rocks date it to 4.53 ± 0.01 billion years.\n\nThe impact also reshaped Earth for good. It fed the last and deepest of the {{ref:hade-006}} episodes, and it stripped away the planet's first atmosphere. Over the long run, the Moon's pull steadied Earth's wobbling axis of rotation. That steadiness made the climate more regular, a quiet gift to everything that would later live here."
+  },
+  "hade-009": {
+   "title": "The Moon grows a pale crust",
+   "text": "The bright patches on the Moon are its oldest skin. About 100 million years after the Moon formed, light plagioclase crystals floated up through its magma ocean, which was at first 200–300 km thick. They built the first crust, made of anorthosite, a pale rock dominated by that mineral. Ferroan anorthosites date to about 4.4 billion years ago, and anorthosite still forms the lunar highlands, about 80% of the Moon's surface."
+  },
+  "hade-010": {
+   "title": "Earth's first oceans condense",
+   "text": "Earth had oceans almost as soon as it had a surface. Zircon crystals show that liquid water and an atmosphere existed by 4.404 ± 0.008 billion years ago, very soon after the planet formed.\n\nAs the crust and surface cooled, water vapor condensed into a superocean that covered nearly the whole planet. Earth may have been mostly a water world between 4.4 and 4.3 billion years ago. The seas were hot, yet they stayed liquid, because the air pressed down at about 27 atmospheres and high pressure keeps water from boiling.\n\nWhere did the water come from? Most likely from the mantle itself, released by outgassing. Isotopes, versions of an element that differ slightly in weight, make comets an unlikely main source. The water was not the clear sea of today. Dissolved carbon dioxide probably made it slightly acidic, about pH 5.5. Still, these were the oceans where life would later begin."
+  },
+  "hade-011": {
+   "title": "A Jack Hills zircon, the oldest mineral on Earth",
+   "text": "The oldest piece of Earth anyone has dated is a grain of sand. It is a zircon crystal from the Jack Hills of Western Australia, 4.404 ± 0.008 billion years old. It sits in a conglomerate, a rock of cemented pebbles, in the Narryer Gneiss terrane, and most zircons there are only 3.6–3.8 billion years old.\n\nEven the record grain is a slight outlier; the oldest consistently dated zircons are closer to 4.35 billion years. Hadean zircons crystallized at fairly low temperatures from evolved melts and carry heavy oxygen, hinting at crust-forming processes like today's. They are rare worldwide because plate tectonics recycled the crust that held them."
+  },
+  "hade-012": {
+   "title": "A second, carbon dioxide atmosphere",
+   "text": "Earth lost its first sky in a single blow. Early Hadean Earth had a very thick atmosphere rich in hydrides, hydrogen compounds like those of the solar nebula, and the Moon-forming impact stripped it away.\n\nA second atmosphere rose from below. The cooling magma ocean released carbon dioxide and water, building a heavy CO2 atmosphere at about 230 °C and more than 27 atmospheres of pressure. Outgassing from the crust had built it by 4,404 million years ago at the latest. Comets and carbonaceous chondrites added water and possibly organic molecules. Over time, volcanic outgassing and impacts turned this air into the nitrogen- and CO2-rich, weakly reducing atmosphere of the Paleoarchean."
+  },
+  "hade-014": {
+   "title": "Earth's first solid crust",
+   "text": "Only crumbs survive of Earth's first crust. Zircons formed 4.4 billion years ago show that the crust solidified about 100 million years after the planet formed. One source puts a stable crust in place by 4,433 million years ago.\n\nIt formed as the molten outer layer cooled, probably much like the Moon's first crust, from similar materials separating out of the magma. It was probably mafic, dark rock rich in iron and magnesium. Partial melting of it then made the first, more felsic continental crust, paler and richer in silica. Hafnium isotopes in zircons fit crust forming from 4.5 billion years ago onward. Yet only mineral grains remain; the oldest whole rock formations at the surface are Archean."
+  },
+  "hade-013": {
+   "title": "A cool early Earth, and a paradox",
+   "text": "Could the Hadean have been frozen? The cool early Earth hypothesis holds that temperatures were cold enough to freeze water between about 4.4 and 4.0 billion years ago. Its own source calls this somewhat of a paradox, since zircons show liquid water by 4.404 billion years ago. Another view allows a possible cool period within a Hadean otherwise dominated by bombardment. The question remains open."
+  },
+  "hade-015": {
+   "title": "The last impact that boiled the oceans",
+   "text": "Before about 4.3–4.2 billion years ago, Earth was very hostile to life. Impacts were the reason. They declined over time, and the last one big enough to vaporize the oceans struck about 4.3 billion years ago. Life probably emerged only after it. Later Hadean impacts came thousands to millions of years apart, but any young life stayed vulnerable to the largest of them."
+  },
+  "hade-016": {
+   "title": "Possible microfossils in Quebec's Nuvvuagittuq Belt",
+   "text": "Tiny structures in an ancient seabed in Quebec might be the oldest life on Earth, or nothing alive at all. They lie in hydrothermal-vent deposits of the Nuvvuagittuq Belt, dated anywhere from 3.77 to 4.28 billion years ago. At 4.28 billion years, they would suggest life emerged almost at once, in geological terms, after the oceans formed. But silica-rich waters, chemical gardens, hot fluids and volcanic debris can mimic such shapes, and the rocks' age is itself disputed."
+  },
+  "hade-017": {
+   "title": "Light carbon in Jack Hills zircons",
+   "text": "Living things prefer the lighter form of carbon, so light carbon can be a fingerprint of life. Jack Hills zircons in Western Australia, dated to 4.25 billion years, hold unusually light carbon isotopes in tiny pieces of diamond and graphite trapped inside them. The signal is far from settled. Studies in 2005, 2006 and 2009 found no light carbon of the kind behind earlier claims of Hadean life, and a biological origin is unproven."
+  },
+  "hade-018": {
+   "title": "Hadean zircons in Guyana and Brazil",
+   "text": "Old crust can hide inside younger rock. Zircon cores from the Iwokrama Formation of southern Guyana, in the Guiana Shield, have been dated to 4.22 billion years by uranium–lead laser analysis. Eastern Brazil has also yielded 4.22-billion-year-old material, rich in uranium and born from felsic magma. Hadean grains inside younger rocks show that those rocks formed on older crust and swallowed some of it."
+  },
+  "hade-020": {
+   "title": "Hadean granite beneath the Acasta Gneiss",
+   "text": "Some of Canada's oldest rocks are recycled. The Acasta gneisses of the Slave Craton are 3.94 billion years old. Yet they hold zircon xenocrysts, foreign crystals carried in from older rock, that date to 4.2 billion years. The gneisses partly derive from that older granite magma, so early crust was already being melted and reworked. Zircons from the granite resemble Western Australia's Yilgarn zircons and may record Hadean continental crust."
+  },
+  "hade-021": {
+   "title": "LUCA, the ancestor of all life",
+   "text": "Every living thing, from bacteria to blue whales, shares one ancestor: LUCA, the last universal common ancestor. A 2024 study put it at about 4.2 billion years ago, within a range of 4.33–4.09 billion. That date comes from a molecular clock, which counts genetic changes to time branches in the tree of life, not from any fossil.\n\nIf it is right, only about 100–200 million years separated life's origin from LUCA, since the first habitable environments likely formed around 4.3–4.4 billion years ago. A 2018 study likewise placed LUCA before the Late Heavy Bombardment, over 3.9 billion years ago. Other estimates run from 4.52–4.48 billion down to 3.8–3.5 billion years ago. Most agree LUCA existed by 3.5 billion years ago."
+  },
+  "hade-019": {
+   "title": "How much continent did the Hadean have?",
+   "text": "Nobody agrees how much land the Hadean held. In some models a global ocean covered Earth. Models by Korenaga and colleagues go to the other extreme, with continental crust reaching today's volume between 4.2 and 4.0 billion years ago. Dhuime and colleagues estimate only 25% of today's continental area by the end of the eon.\n\nThe estimates rest on disputed models of early tectonics. Small proto-continents are generally thought to have existed before 4,280 million years ago. Continents may even have appeared in the mid-Hadean, then vanished beneath a thick ocean by the eon's end."
+  },
+  "hade-022": {
+   "title": "Nuvvuagittuq, perhaps Earth's oldest rock",
+   "text": "A single dated dike sets the floor for one of Earth's oldest rock bodies. The dike, a sheet of gabbro that once cut through Quebec's Nuvvuagittuq Belt as magma, dates to 4,157 million years, so the dark rocks it crosses are older. A 2012 samarium–neodymium study gave the belt 4,321 million years, which would make it Earth's oldest known rock. Other studies accept only a minimum of 3.75 billion years and argue the older signal was inherited from melted Hadean crust."
+  },
+  "hade-024": {
+   "title": "How and where life may have begun",
+   "text": "No one knows when life began, and the sources call the evidence for Hadean life controversial. The geologic record puts its emergence most likely between 4.32 and 3.48 billion years ago. Geochemical evidence suggests possibly as early as 4.1 billion, and some models propose nearly 4.5 billion.\n\nTwo settings lead the list. Hot springs on volcanic land, common in the Hadean, may have let RNA, a molecule that can carry genetic information, form and copy itself. Evidence suggests the first RNA molecules formed before 4.17 billion years ago. Alternatively, life began in hydrothermal vents, shielded from impacts and ultraviolet light, perhaps as early as 4.4 billion years ago. A deep-vent origin would allow 4.0–4.2 billion."
+  },
+  "hade-025": {
+   "title": "Possible life-made carbon in a 4.1-billion-year-old zircon",
+   "text": "A speck of carbon in a single crystal may be the oldest trace of life on Earth. It sits in 4.1-billion-year-old zircon from Western Australia, and it may be the remains of living things. Such carbon-isotope anomalies are chemical fossils: no shapes, only a chemical signature. The evidence is preliminary and still needs confirmation, and the carbon may not be biological at all."
+  },
+  "hade-023": {
+   "title": "The Late Heavy Bombardment, real or imagined",
+   "text": "The Moon's battered face may record a storm that also hit Earth. Crater counts suggest intense impacts from about 4.1 to 3.8 billion years ago, cratering the Moon and, by inference, Earth, Mercury, Venus and Mars. The main evidence is a cluster of ages, about 3.8 to 4.1 billion years, in impact-melted rock brought back by Apollo. Most samples came from near the Imbrium Basin.\n\nOnce widely accepted, the idea is now debated. Critics see the cluster as debris from one large impact, and some evidence favors bombardment spread from 4.2 to 3.5 billion years ago. If there was a spike, Neptune migrating outward may have caused it. Either way, life most likely survived the barrage, and the heat of hydrothermal systems may even have helped it begin."
+  },
+  "arch-001": {
+   "title": "The Acasta Gneiss, Earth's oldest intact rock",
+   "text": "On a remote river in Canada's Northwest Territories sits the oldest intact rock on Earth. Zircons in the Acasta Gneiss Complex crystallized about 4.03 billion years ago. As of 2026 these beds are Earth's oldest known felsic crust, the pale, silica-rich rock of continents.\n\nThe rock is so important that it sets the calendar. The International Commission on Stratigraphy starts the Archean Eon at 4,031 ± 3 million years ago, the age of the oldest known intact rock formations.\n\nThe gneiss belongs to the Slave Craton and records more than a billion years of melting and remaking, from over 4.0 to 2.9 billion years ago. Its tonalites, from about 4.0 billion years ago, are among the first larger pieces of continental crust. They formed from light rock that rose during partial melting. Even older crust is hidden inside: 3.94-billion-year-old gneisses partly derive from the 4.2-billion-year-old granite of {{ref:hade-020}}. Crust was already being reworked at the very start of the Archean."
+  },
+  "arch-002": {
+   "title": "The carbon cycle takes its basic form",
+   "text": "Carbon was moving around Earth in familiar ways four billion years ago. Early carbon isotope ratios closely match today's, suggesting the carbon cycle's fundamental features were established as early as about 4 billion years ago. Much of the carbon dioxide in the young atmosphere dissolved in water. There it reacted with calcium and magnesium from weathered rock, locking the carbon away in carbonate sediments, limy deposits on the seafloor."
+  },
+  "arch-003": {
+   "title": "DNA takes over from RNA",
+   "text": "Life's first genes were probably written in RNA. DNA evolved later, a more chemically stable store of genetic information, and LUCA most likely already had it. Virologist Luis Villarreal proposes that viruses carried RNA genes into DNA genomes during this switch, around 4 billion years ago, before {{ref:hade-021}}. That date rests on his proposal alone. The exact timeline and mechanism remain open questions."
+  },
+  "arch-004": {
+   "title": "The Napier mountains rise in Antarctica",
+   "text": "Some of Earth's first metamorphic rocks may come from Antarctica. Mountain building raised the Napier range of East Antarctica, dated to 4000 ± 200 million years ago. Its faulting and folding may have produced some of the planet's first metamorphic rocks, rocks remade by heat and pressure without melting. The range is one of the earliest orogenies, or mountain-building episodes, on record."
+  },
+  "arch-005": {
+   "title": "The bombardment winds down",
+   "text": "Earth's gold may owe a debt to falling rocks. Tungsten isotopes suggest most gold in the crust came from the mantle after a meteorite bombardment about 3.9 billion years ago. The final phase of the Late Heavy Bombardment is placed at about 3,920–3,850 million years ago, though impacts stayed frequent in the early Archean. Lunar melt ages cluster near 3.9 billion years, but critics and impact models favor several smaller episodes over one cataclysm. Whether a distinct spike happened at all is still debated."
+  }
+ }
+}

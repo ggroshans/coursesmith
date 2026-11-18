@@ -1,0 +1,161 @@
+{
+ "openers": {
+  "miaolingian-epoch": "The Miaolingian opens with a die-off: the first major trilobite extinction removed the olenellids, eodiscids and most redlichiids. In their place, Paradoxides, the largest trilobites of the Cambrian, spread around the world. Conodonts, eel-like jawless animals known mainly from their teeth, make their first appearance, and the Paleo-Tethys Ocean begins to open along Gondwana's northern margin. Meteorites left craters from Norway to North Dakota. By its end, around 497.05 Ma, the Great Ordovician Biodiversification Event had already begun.",
+  "furongian-epoch": "The Furongian is the Cambrian's last epoch, and it was a hard one. One extinction cut species diversity by 45%, and after a brief recovery another cut it by 55.2%. A global carbon event, SPICE, ran between about 497 and 494 Ma. Yet new things arrived: Plectronoceras, the earliest undisputed cephalopod, and the first brittle stars. Mountain building began that would raise the Caledonides and reshape South America, and the epoch closed with another extinction at the boundary with the Ordovician."
+ },
+ "reviews": {
+  "cambrian-series-2-epoch": "Series 2 is the Cambrian explosion at full stretch. Trilobites with calcite eyes, giant radiodont predators and the first vertebrates crowd the soft-bodied records of Chengjiang, the Emu Bay Shale and the Burgess Shale. Animals even began to walk onto tidal flats. Then the Kalkarindji flood basalts erupted over more than 2,100,000 km², and the Sinsk Event spread anoxic water across the shelves. The archaeocyath reefs collapsed in the Phanerozoic's first mass extinction, though mobile trilobites recovered fast.",
+  "miaolingian-epoch": "The Miaolingian is a story of loss and recovery. It begins with the first major trilobite extinction, as Kalkarindji volcanism peaked, and the survivors grew larger tails and thicker cuticles. Anoxic deep water rose again in the Drumian and hampered reefs already in trouble, and the Dresbachian crisis struck around 502 Ma. Meanwhile conodonts appeared, Paradoxides spread worldwide, and the Paleo-Tethys began to open. By the late Cambrian, oxic waters spread and invertebrates moved into open water, starting the great Ordovician radiation.",
+  "furongian-epoch": "The Furongian shows how closely Cambrian life tracked ocean oxygen. Spreading anoxia drove the end-Marjuman extinction, and the SPICE excursion that came with it recorded organic matter and pyrite being buried. The oxygen rise that followed helped photosynthetic plankton radiate. Two more extinctions, in the Jiangshanian and at the Cambrian–Ordovician boundary, cut trilobites and brachiopods again. Through it all, the first cephalopods and brittle stars appeared, and new mountain belts began to rise along the Iapetus and western South America."
+ },
+ "entries": {
+  "camb-028": {
+   "title": "Trilobites arrive with calcite eyes",
+   "text": "Even the earliest trilobites had complex compound eyes with lenses of calcite, the same mineral as their armor. Their body fossils first appear around 521 Ma, as trilobites evolved mineralized calcite exoskeletons. That first appearance is the proposed base of Cambrian Series 2 and Stage 3, and the top of the Terreneuvian.\n\nThe animals may be older than their shells. Trace fossils such as Rusophycus and Cruziana, claimed as trilobite tracks, appear from about 537 Ma.\n\nOnce armored, trilobites spread fast. They quickly diversified into the typical Cambrian orders: Redlichiida, Ptychopariida, Agnostida and Corynexochida. Within a short time they were the most diverse animals of the early Cambrian, and their hard parts made them some of the best-recorded animals of the period."
+  },
+  "camb-026": {
+   "title": "Eocrinoids, the first stalked echinoderms",
+   "text": "Eocrinoids, an extinct class of echinoderms, the group that includes starfish and sea urchins, first appear in Cambrian Stage 3. They were the earliest known stalked echinoderms with brachioles, slender food-gathering arms. They became the most common echinoderms of the Cambrian and lasted into the Silurian."
+  },
+  "camb-027": {
+   "title": "Radiodonts, the giant predators",
+   "text": "The largest animal in Cambrian seas was Anomalocaris, up to 2 m long. It was a radiodont, one of an order of stem-group arthropods, early relatives of the arthropods that branched off before the living groups. Radiodonts appear in Cambrian Series 2 and thrived worldwide through the period. Most dwarfed the animals around them. Large species were typically 30–50 cm long."
+  },
+  "camb-030": {
+   "title": "The Ritland crater, Norway",
+   "text": "About 520 ± 20 Ma, an impact blasted a crater about 2 km across at Ritland, in Norway. It is a confirmed impact crater, one of several from the Cambrian. Its small size points to a modest impactor, but the age carries a wide margin of uncertainty, as many ancient impact dates do."
+  },
+  "camb-031": {
+   "title": "The Ross orogeny lifts the Transantarctic Mountains",
+   "text": "Antarctica's great mountain spine began in the Cambrian. After rifting early in the period, Antarctica deformed, and the Transantarctic Mountains rose in the mid-Cambrian. From about 520 to 450 Ma, Cambrian sediments there were uplifted, folded and metamorphosed, changed by heat and pressure. Huge bodies of granite, called batholiths, intruded them."
+  },
+  "camb-033": {
+   "title": "Chengjiang: the Cambrian explosion in full color",
+   "text": "About ten million years before the Burgess Shale, a sea floor in what is now Yunnan, China, preserved animals soft tissues and all. The Maotianshan Shales of Chengjiang were laid down no earlier than 518 Ma. They hold the oldest diverse animal assemblage of the Phanerozoic, the best record of the Cambrian explosion.\n\nChengjiang has all the animal groups of the Burgess Shale despite being so much older. That implies animals diversified earlier, or faster, than the younger site alone would suggest. Its chordates include Haikouella, Yunnanozoon and early fish such as Haikouichthys. Its arthropods also occur at other sites, which suggests they ranged worldwide.\n\nSome of its residents defy classification. About one in eight of its animals are problematic forms whose relationships remain uncertain."
+  },
+  "camb-034": {
+   "title": "The first fish swim in Chengjiang",
+   "text": "Our own lineage appears in rocks about 518 Ma. The earliest known vertebrates, animals with a backbone, belong to China's Chengjiang biota, though fish are thought to have begun evolving around 530 Ma.\n\nTwo species stand out. Haikouichthys and Myllokunmingia had fins, vertebrate muscles and gills, and Haikouichthys had distinct vertebrae. They belonged to the chordates, a group that also includes tunicates. In the Cambrian, chordates diversified as mid-sized suspension feeders in open water or near the bottom.\n\nA later example comes from the Burgess Shale, about 505 Ma. Metaspriggina had an elongate body, prominent eyes and gills. For all their later success, early vertebrates remain rare in the Cambrian record."
+  },
+  "camb-037": {
+   "title": "The first crustaceans",
+   "text": "Crustaceans, the group of crabs, shrimps and their kin, had appeared by 517 Ma, in the Stage 3 Chengjiang biota. Sunella, a possible early relative of ostracods, suggests modern pancrustaceans existed by then. Their Cambrian record is sparse, despite an apparently early, hidden diversification. Even so, most major crustacean groups, the branchiopods, maxillopods and malacostracans, appear before the end of the Cambrian."
+  },
+  "camb-039": {
+   "title": "The last of the Ediacaran fronds",
+   "text": "Frond-shaped animals typical of the Ediacaran biota, the petalonamids, are dated from about 635 to 516 Ma. The group is taken to include Stromatoveris from the lower Cambrian and, in a 2022 study, the middle Cambrian Thaumaptilon. Rare possible Ediacaran survivors occur as late as 510–500 Ma. Whether any truly survived is disputed: no Cambrian report is widely accepted."
+  },
+  "camb-042": {
+   "title": "Emu Bay Shale: muscle turned to mineral",
+   "text": "The oldest phosphatized muscle tissue comes from South Australia's Emu Bay Shale. Dated to Stage 4, about 514–512 Ma, it preserves soft tissue mineralized as apatite, a calcium phosphate, or as calcium carbonate. It is younger than the Chengjiang and Sirius Passet sites, adding a later snapshot of the Cambrian explosion."
+  },
+  "camb-041": {
+   "title": "The Delamerian orogeny folds South Australia",
+   "text": "From about 514 to 490 Ma, the Delamerian orogeny ended deposition in the Adelaide Superbasin and folded and deformed its rocks. Australia's eastern margin was turned inside out. It became a subduction zone, where the ocean floor of the Palaeo-Pacific sank beneath the continent."
+  },
+  "camb-046": {
+   "title": "The Sinsk Event: the first Phanerozoic mass extinction",
+   "text": "Over 60% of animal species disappeared. The Sinsk Event, about 513.5 Ma, began the end-Botomian crisis of Stages 4 and 5, the first mass extinction of the Phanerozoic.\n\nThe killer was the sea itself. A major transgression brought deep water without oxygen onto the shelves, spreading black shales. The nearly simultaneous Kalkarindji eruptions probably drove warming and deoxygenation.\n\nReefs suffered most. The archaeocyath sponges that dominated them were devastated, along with halkieriids and much of the small shelly fauna. Many early branches of sponges, cnidarians, brachiopods and molluscs died out. Mobile animals such as trilobites recovered fast, but diversity stayed low into the early Ordovician. Deep-water communities, such as the later Huayuan biota, may have come through largely intact in refuges."
+  },
+  "camb-048": {
+   "title": "Kalkarindji floods Australia with basalt",
+   "text": "Lava eventually covered over 2,100,000 km² of what is now Australia. Around 511 Ma, flood basalts of the Kalkarindji large igneous province began to erupt. It was one of the largest such provinces and the earliest of the Phanerozoic.\n\nThe eruptions, in Stage 4 and the early Miaolingian, released carbon dioxide, methane and sulphur dioxide. Climate changed rapidly and the seas warmed. Three large, rapid carbon isotope excursions record the upheaval. The timing suggests the eruptions helped cause the early to middle Cambrian mass extinction."
+  },
+  "camb-050": {
+   "title": "Blackberry Hill: animals walk onto tidal flats",
+   "text": "On sandy tidal flats around 510 Ma, something heavy dragged itself along and left Climactichnites, the largest Cambrian trace fossil. Blackberry Hill in Wisconsin preserves some of the oldest evidence of animals leaving the sea for land: large molluscs and euthycarcinoid arthropods. The Protichnites trackways come from Blackberry Hill and from the Potsdam Sandstone of Quebec."
+  },
+  "camb-053": {
+   "title": "The Glikson crater, Western Australia",
+   "text": "The Glikson crater in Western Australia is about 19 km across. Its age is hard to fix. Nearby dolerite, a dark volcanic rock, is dated 508 ± 5 Ma, and that suggests the impact is younger, probably Paleozoic. Like other old craters, it is better known for its size than for its timing."
+  },
+  "camb-052": {
+   "title": "The Burgess Shale",
+   "text": "Thin dark films of carbon on British Columbia slate turned out to be animals no one had imagined. The Burgess Shale, about 508–505 Ma, preserves soft-bodied creatures that elsewhere would have rotted away. It is one of the best-known Lagerstätten, or sites of exceptional preservation, of the Cambrian, and a key record of the Cambrian explosion.\n\nIts cast is strange. Opabinia is one of several odd arthropods there. Anomalocaris was the first great apex predator. Metaspriggina, an early vertebrate with prominent eyes and gills, swam among them, and medusa-stage jellyfish such as Burgessomedusa drifted overhead.\n\nThe site is younger than {{ref:camb-033}}, yet it was the Burgess Shale that first revealed how varied Cambrian life had been."
+  },
+  "camb-062": {
+   "title": "Trilobites suffer their first great extinction",
+   "text": "At the boundary between Series 2 and the Miaolingian, the first major trilobite extinction removed the olenellids, the eodiscids and most redlichiids. A carbon isotope event called ROECE marks the boundary. It coincides with the main phase of Kalkarindji volcanism. Spain's Murero site records this end-Lower Cambrian extinction, the Valdemiedes event, in detail. The survivors changed. Trilobite orders that came through evolved larger tails and thicker cuticles, better at resisting predators."
+  },
+  "camb-058": {
+   "title": "Conodonts: teeth that lasted 300 million years",
+   "text": "For more than 300 million years, from the Cambrian to the start of the Jurassic, the seas held conodonts. These eel-like jawless animals are known mostly from their tooth elements, which survive where their soft bodies do not. They first appear in the Middle Cambrian. Their teeth are so durable and so widespread that they turn up across a vast stretch of the fossil record."
+  },
+  "camb-060": {
+   "title": "The Paleo-Tethys Ocean begins to open",
+   "text": "An ocean that would last about 400 million years began as a crack along Gondwana's northern margin in the Middle Cambrian. The Paleo-Tethys Ocean grew through the Paleozoic as land split away from the supercontinent. It finally closed in the Late Triassic. Its long life spans most of the story of the Paleozoic seas told in the coming chapters."
+  },
+  "camb-061": {
+   "title": "Paradoxides, the giant trilobites",
+   "text": "Paradoxides was a genus of large to very large trilobites, the biggest of the Cambrian. In the Middle Cambrian, the Miaolingian, they lived throughout the world. They spread after {{ref:camb-062}} had cleared away older trilobite groups, and their wide range makes them familiar fossils of the epoch."
+  },
+  "camb-064": {
+   "title": "DICE: deep anoxic water rises again",
+   "text": "Around 504.5 Ma, deep water short of oxygen rose into shallower seas as the sea advanced over the land. That rise caused the Drumian carbon isotope excursion, or DICE, which marks the start of the Drumian age. It came at a bad time. Reef ecosystems were still recovering from the early to middle Cambrian mass extinctions, and DICE held that recovery back."
+  },
+  "camb-068": {
+   "title": "The Dresbachian extinction",
+   "text": "About 502 Ma, the Dresbachian extinction struck, one of the Cambrian crises before the Cambrian–Ordovician extinction. Its own page calls it the second of two severe Cambrian extinctions, after the end-Botomian. North America's Dresbachian stage spans 501 to 497 Ma. Carbonate sequences such as those of the North China Craton record Cambrian extinction events like the biomeres, bands of rock bounded by trilobite die-offs."
+  },
+  "camb-070": {
+   "title": "The Gardnos impact hits a shallow sea",
+   "text": "A meteorite 200–300 m across struck Buskerud, Norway, about 500 ± 10 Ma, leaving the 5 km Gardnos crater. The sediments laid down afterward show it hit a shallow sea. When the crater rim was breached, rock avalanches and debris flows poured in."
+  },
+  "camb-071": {
+   "title": "The Mizarai crater, Lithuania",
+   "text": "In Lithuania lies the Mizarai crater, 5 km across, formed by an impact about 500 Ma. It is one of a cluster of craters dated to around the end of the Cambrian, from Norway to North America. Like many old impact sites, it is known mainly from its size and approximate age."
+  },
+  "camb-072": {
+   "title": "The Newporte structure, North Dakota",
+   "text": "Under North Dakota lies the Newporte structure, 3.2 km across, an impact formed about 500 Ma or slightly later. It joins other craters of roughly the same age in Norway, Lithuania and Quebec. Its age, like theirs, is known only approximately."
+  },
+  "camb-073": {
+   "title": "Orsten: microscopic animals of the seafloor",
+   "text": "Some of the most revealing Cambrian fossils are too small to see without a microscope. Sweden's Kinnekulle Orsten and Alum Shale reveal the oldest well-documented meiofauna, the tiny animals that live among seafloor grains. Among them are microscopic arthropods such as free-living pentastomids. These sites show that the Cambrian sea floor teemed with life at a scale larger fossils miss."
+  },
+  "camb-074": {
+   "title": "The Presqu'île crater, Quebec",
+   "text": "The Presqu'île crater in Quebec is 24 km across, the scar of a sizeable impact. It is estimated to be less than 500 million years old. That loose upper limit is all the dating allows, so the crater sits among the late Cambrian impacts only provisionally, waiting for a firmer date."
+  },
+  "camb-077": {
+   "title": "The Great Ordovician Biodiversification begins",
+   "text": "The great Ordovician radiation began before the Ordovician. A biodiversity study across the Paleozoic dates its start to 497.05 Ma, in the late Cambrian. Its first phase was tied to plankton, as invertebrate lineages moved into open water and started new food chains. Oxic waters spread into deep and shelf seas, while burrows deepened and body plans grew more complex."
+  },
+  "camb-079": {
+   "title": "The end-Marjuman extinction strips the shallows",
+   "text": "Species diversity fell by 45% in an extinction that began in the mid-Guzhangian. It ended early in the Furongian, perhaps mid-Paibian, about 3 million years later. In South China it came in two phases: a slight decline over about 1.8 million years, then a sharper one over 1.2 million years.\n\nThe ocean was slowly suffocating. Gradual deoxygenation from the Guzhangian into the Jiangshanian, along with the linked {{ref:camb-084}}, likely caused it. Spreading anoxia killed off marjumiid and damesellid trilobites. Deep-water olenimorph trilobites replaced the shallow-water polymerids. The second wave matches the start of that carbon event, and diversity recovered at the very start of the Jiangshanian."
+  },
+  "camb-084": {
+   "title": "SPICE: a carbon spike in a suffocating sea",
+   "text": "Mountains wearing away on Gondwana drove seawater strontium ratios to a peak. At the same time, anoxia spreading across the seafloor boosted the burial of organic matter and pyrite. The result was the Steptoean positive carbon isotope excursion, or SPICE, a global event between about 497 and 494 Ma that began near the Guzhangian–Paibian boundary.\n\nIt came with sea-level changes, cooling of surface water, anoxia, and extinctions of trilobites and brachiopods. Its end matches the End-Steptoean biomere extinction. Then came a turn. The rise in oxygen that followed opened niches for photosynthetic plankton and helped drive their radiation."
+  },
+  "camb-080": {
+   "title": "The first cephalopods take to the water",
+   "text": "Plectronoceras, from the Late Cambrian, is the earliest undisputed cephalopod, the group that includes nautiluses and squid. Its shell was divided by septa, internal walls, and threaded by a siphuncle, a tube that ran through the chambers. Nautiloids originated in the same epoch. They were already diverse in the Fengshan Formation of northeastern China, then a warm shallow sea. The earliest nautiloids typically had siphuncles along the underside, like the later ammonites."
+  },
+  "camb-085": {
+   "title": "The Ollo de Sapo magmatic event",
+   "text": "From the Furongian to the end of the Early Ordovician, about 495–470 Ma, a mantle plume, a column of hot rock rising from deep in the Earth, fed magma into northwestern Gondwana. That region is now the Iberian Peninsula. The Ollo de Sapo event ran long enough to span the boundary between two periods."
+  },
+  "camb-087": {
+   "title": "The Jiangshanian extinction",
+   "text": "Recovery did not last. After diversity rebounded at the start of the Jiangshanian, a new extinction cut species diversity by 55.2%, a deeper cut than the end-Marjuman crisis that came just before. Small fluctuations in species richness followed and lasted until shortly after the Ordovician began. The late Cambrian thus ended with repeated blows rather than a single clean break."
+  },
+  "camb-091": {
+   "title": "The Famatinian orogeny raises western South America",
+   "text": "A chain of volcanoes, the Famatinian magmatic arc, rose along what is now western South America. The Famatinian orogeny that built it ran from the Late Cambrian to at least the Late Devonian, with mountain building peaking about 490–460 Ma. Plutonic rocks south of Chile's Salar de Atacama formed with it in the Cambrian and Ordovician.\n\nIts climax came from a collision. The orogeny peaked when the Cuyania terrane struck Pampia in the Ordovician. From 480 to 435 Ma, rocks of the Cordillera Oriental were deformed as the arc developed."
+  },
+  "camb-090": {
+   "title": "The Caledonian orogeny begins to close the Iapetus",
+   "text": "Mountains in northern Britain and Ireland, Scandinavia, Svalbard, East Greenland and north-central Europe share one origin. They rose in the Caledonian orogeny, as Laurentia, Baltica and Avalonia collided. Its mountain-building events span the Ordovician to the Early Devonian, roughly 490–390 Ma, though its onset has also been dated to about 500 Ma.\n\nThe ocean between them had to disappear first. The Iapetus, widest in the Late Cambrian and Early Ordovician, began closing by subduction between 500 and 488 Ma. In the Late Cambrian its mid-ocean ridge sank beneath Gondwana, opening large basins behind the volcanic arcs."
+  },
+  "camb-092": {
+   "title": "The earliest brittle stars",
+   "text": "The earliest brittle stars, or ophiuroids, appear about 488 Ma. These echinoderms, with slender arms around a small central disc, arrived at the very end of the Cambrian. They are a small sign of the new kinds of animals that would fill the Ordovician seas."
+  },
+  "camb-093": {
+   "title": "The Cambrian–Ordovician extinction",
+   "text": "An extinction closed the Cambrian. It eliminated many brachiopods and conodonts and severely reduced the number of trilobite species. Almost all Redlichiida and most Late Cambrian trilobite stocks died out, and agnostid diversity fell sharply.\n\nThe cause is uncertain. Volcanism, especially from large igneous provinces, has been suggested. Some researchers go further and argue the extinction is only apparent, an artifact of a gap in the rock record. Whatever happened, another radiation followed, and it established the animals that would dominate the rest of the Paleozoic."
+  }
+ }
+}

@@ -1,0 +1,497 @@
+{
+ "questions": {
+  "chib-067": {
+   "q": "What did the second megaflood break through?",
+   "a": "The Weald–Artois chalk ridge.",
+   "sent_ids": [
+    "93e1bd2d76b2"
+   ]
+  },
+  "late-001": {
+   "q": "What greened northern Africa more strongly than the Holocene's humid period?",
+   "a": "The Eemian humid period.",
+   "sent_ids": [
+    "acc40cb2810e",
+    "2645a241fcc9"
+   ]
+  },
+  "late-005": {
+   "q": "When did habitation at Klasies River Caves begin?",
+   "a": "About 125,000 years ago.",
+   "sent_ids": [
+    "cd469c2a9a95"
+   ]
+  },
+  "late-009": {
+   "q": "Where did steppe bison spread about 130,000 years ago?",
+   "a": "From Alaska into central North America.",
+   "sent_ids": [
+    "0d3c86d4c126",
+    "ecb71128ba2b"
+   ]
+  },
+  "late-013": {
+   "q": "How many Dansgaard–Oeschger events occurred in the Last Glacial Period?",
+   "a": "25.",
+   "sent_ids": [
+    "01966cf180b0"
+   ]
+  },
+  "late-020": {
+   "q": "What produced Central America's largest known eruption?",
+   "a": "The Atitlán caldera.",
+   "sent_ids": [
+    "b92c709e4fc1",
+    "c1e4e85570ed"
+   ]
+  },
+  "late-026": {
+   "q": "What did the Barents-Kara Ice Sheet block?",
+   "a": "The Arctic outlets of the Ob and Yenisei.",
+   "sent_ids": [
+    "948edbc9eccc"
+   ]
+  },
+  "late-030": {
+   "q": "Where did Heinrich-event icebergs drift?",
+   "a": "Through Hudson Strait into the North Atlantic.",
+   "sent_ids": [
+    "26288fbf2f90"
+   ]
+  },
+  "late-037": {
+   "q": "When was Yellowstone's last magmatic eruption?",
+   "a": "About 70,000 years ago.",
+   "sent_ids": [
+    "c1dd41d78796",
+    "0a2e2cd45bf6",
+    "6d7e16a25741"
+   ]
+  },
+  "late-040": {
+   "q": "What was found in Mandrin Cave's layer E?",
+   "a": "Modern human teeth and Neronian tools.",
+   "sent_ids": [
+    "0e3367edbf53",
+    "bd30b42e2cff",
+    "54d7120ad358",
+    "caa5009efe55"
+   ]
+  },
+  "late-046": {
+   "q": "What was unusual about the extinction from 50,000 years ago?",
+   "a": "Its bias toward large species.",
+   "sent_ids": [
+    "c5fd7ec889e2",
+    "7b307d7bf6a4"
+   ]
+  },
+  "late-051": {
+   "q": "How old is the charcoal at Topper?",
+   "a": "About 50,000 years.",
+   "sent_ids": [
+    "89831a977282",
+    "b632f8d67745",
+    "d5ad318f6efb"
+   ]
+  },
+  "late-055": {
+   "q": "How old are the modern human remains in Germany?",
+   "a": "45,000–47,000 years.",
+   "sent_ids": [
+    "4cbc7f33c012",
+    "4e61683b7992"
+   ]
+  },
+  "late-060": {
+   "q": "When did the field briefly reverse during the Last Glacial Period?",
+   "a": "Between 42,200 and 41,500 years ago.",
+   "sent_ids": [
+    "8f0f084d8535"
+   ]
+  },
+  "late-065": {
+   "q": "Which volcano produced the Campanian Ignimbrite?",
+   "a": "Archiflegreo at the Campi Flegrei.",
+   "sent_ids": [
+    "258af43f68f7",
+    "c84fa0e4812d"
+   ]
+  },
+  "late-070": {
+   "q": "Where does mitochondrial DNA place dog origins?",
+   "a": "Among European hunter-gatherers.",
+   "sent_ids": [
+    "baa00ea99c9e",
+    "6bcf0ba16d95"
+   ]
+  },
+  "late-077": {
+   "q": "What kept northern Africa well-watered until about 30,000 years ago?",
+   "a": "The Mousterian Pluvial.",
+   "sent_ids": [
+    "a5274f8f0ca9"
+   ]
+  },
+  "late-082": {
+   "q": "When did glaciers peak around the Strait of Magellan?",
+   "a": "25,200–23,100 years ago.",
+   "sent_ids": [
+    "ce97cc9ef183",
+    "2375d20fe691"
+   ]
+  },
+  "late-088": {
+   "q": "What crops were people near the Sea of Galilee cultivating?",
+   "a": "Emmer, barley and oats.",
+   "sent_ids": [
+    "0d43db8a1184"
+   ]
+  },
+  "late-092": {
+   "q": "How low was sea level 21,000 years ago?",
+   "a": "About 125 m below today's.",
+   "sent_ids": [
+    "d9f332b2cc6e",
+    "ceb28ca4cba1"
+   ]
+  },
+  "late-099": {
+   "q": "What lay exposed at the Last Glacial Maximum?",
+   "a": "The Sunda Shelf.",
+   "sent_ids": [
+    "9151c354c447",
+    "99e0dab03925"
+   ]
+  },
+  "late-103": {
+   "q": "When did Lake Bonneville reach its highest level?",
+   "a": "About 17,400 calendar years ago.",
+   "sent_ids": [
+    "fef53d108eea",
+    "4c488470236e"
+   ]
+  },
+  "late-109": {
+   "q": "Where did the first Americans come from?",
+   "a": "Siberia.",
+   "sent_ids": [
+    "0714bebcf05d"
+   ]
+  },
+  "late-111": {
+   "q": "What dammed the Chuya River?",
+   "a": "Altai glaciers.",
+   "sent_ids": [
+    "4caf5275a4e3"
+   ]
+  },
+  "late-118": {
+   "q": "How fast did sea level rise in that pulse?",
+   "a": "About 40–60 mm a year.",
+   "sent_ids": [
+    "b8df9c98dc1c",
+    "e09b99290eef"
+   ]
+  },
+  "late-123": {
+   "q": "How did the Great Lakes form?",
+   "a": "Meltwater filled basins carved and exposed by retreating ice.",
+   "sent_ids": [
+    "bbcb05fca155"
+   ]
+  },
+  "late-130": {
+   "q": "What did the VEI 6 eruption in western Germany leave?",
+   "a": "The Laacher See crater lake.",
+   "sent_ids": [
+    "016164c8ce7f",
+    "ea455abf9083",
+    "cbb8635d83b5"
+   ]
+  },
+  "late-135": {
+   "q": "What did Channel Islands mammoths evolve into?",
+   "a": "The pygmy mammoth.",
+   "sent_ids": [
+    "c4c472b55ae0",
+    "af73beaa034e",
+    "923e1d08f83c"
+   ]
+  },
+  "late-140": {
+   "q": "How large was the Columbian mammoth?",
+   "a": "Up to 4.2 m tall and 12.5 tonnes.",
+   "sent_ids": [
+    "aa4aae94f5b1",
+    "ac07199a9b19"
+   ]
+  },
+  "gree-004": {
+   "q": "What coincides with warming from 11.7 ka?",
+   "a": "The earliest farming in the Fertile Crescent.",
+   "sent_ids": [
+    "a4184e35a02a",
+    "5b09c3fa672b",
+    "938f83b9cd3d",
+    "1a0f19772f56"
+   ]
+  },
+  "gree-001": {
+   "q": "When did the Baltic Ice Lake end?",
+   "a": "Close to the start of the Holocene.",
+   "sent_ids": [
+    "42b846d8ef27"
+   ]
+  },
+  "gree-011": {
+   "q": "When was Göbekli Tepe built?",
+   "a": "Around 9500 BCE.",
+   "sent_ids": [
+    "573bbe2148e0",
+    "0b8388ef3347",
+    "2a4f8b54cc0e",
+    "1089fc8db12f"
+   ]
+  },
+  "gree-019": {
+   "q": "Where is Wakamiko Caldera?",
+   "a": "Inside Kyushu's Aira Caldera.",
+   "sent_ids": [
+    "cc37c8f0ab85",
+    "51904ed61b18"
+   ]
+  },
+  "gree-033": {
+   "q": "When did the modern coyote appear?",
+   "a": "Around 10,000 years ago.",
+   "sent_ids": [
+    "8fa3ef3bd5ad",
+    "6e6f8fc554b6"
+   ]
+  },
+  "gree-038": {
+   "q": "When had the Scandinavian ice left Finland?",
+   "a": "By 10.1 ka.",
+   "sent_ids": [
+    "0007f0a55796"
+   ]
+  },
+  "gree-043": {
+   "q": "How young are the youngest American mastodon remains?",
+   "a": "7110–6810 BCE.",
+   "sent_ids": [
+    "076771bdfdbb"
+   ]
+  },
+  "nort-001": {
+   "q": "How long did the 8.2 ka cool spell last?",
+   "a": "Two to four centuries.",
+   "sent_ids": [
+    "0abd8a9b89d6"
+   ]
+  },
+  "nort-008": {
+   "q": "When was the thermal maximum?",
+   "a": "Around 8,000 years BP.",
+   "sent_ids": [
+    "896ec208ac07"
+   ]
+  },
+  "nort-006": {
+   "q": "What did the Laurentide Ice Sheet split into?",
+   "a": "Two lobes, over Quebec–Labrador and Keewatin.",
+   "sent_ids": [
+    "ec56508a40d5"
+   ]
+  },
+  "nort-015": {
+   "q": "What may have pushed the Neolithic into Europe?",
+   "a": "Fast sea-level rise, the 8.2 ka cooling and lost coastal land.",
+   "sent_ids": [
+    "e65ebd91f9ff"
+   ]
+  },
+  "nort-020": {
+   "q": "What does the Hokkaido caldera now hold?",
+   "a": "Lake Mashū.",
+   "sent_ids": [
+    "39e2b97bf732"
+   ]
+  },
+  "nort-026": {
+   "q": "What struck the Sahara around 3900 BCE?",
+   "a": "An aridification event.",
+   "sent_ids": [
+    "27f8465aa5b8"
+   ]
+  },
+  "nort-032": {
+   "q": "How much did Mount Rainier lose from its summit?",
+   "a": "About 490 m.",
+   "sent_ids": [
+    "3e8654fec319",
+    "b84db6833e87"
+   ]
+  },
+  "megh-001": {
+   "q": "When did the 4.2 ka drought begin?",
+   "a": "About 4,200 years ago.",
+   "sent_ids": [
+    "ebaea29d7ad8",
+    "ac4e95bc2d7f",
+    "ebb684d448da"
+   ]
+  },
+  "megh-008": {
+   "q": "What was the Avellino eruption?",
+   "a": "A VEI 6 eruption of Vesuvius around 1800 BC.",
+   "sent_ids": [
+    "8fef857ecd91",
+    "29f1f3d3b25b"
+   ]
+  },
+  "megh-014": {
+   "q": "Where did the last ground sloths live?",
+   "a": "Cuba, Hispaniola and Puerto Rico.",
+   "sent_ids": [
+    "fe25ed9e0baa"
+   ]
+  },
+  "megh-020": {
+   "q": "How much did Pinatubo eject around 1050 BCE?",
+   "a": "About 12.5 km³.",
+   "sent_ids": [
+    "2d787ff94451",
+    "4d89e8c3de2d"
+   ]
+  },
+  "megh-027": {
+   "q": "How much did Lake Chad shrink?",
+   "a": "To about 5% of its former size.",
+   "sent_ids": [
+    "6d0e02dc15da"
+   ]
+  },
+  "megh-032": {
+   "q": "What did Ksudach's eruption create?",
+   "a": "Caldera V, 4 by 6.5 km.",
+   "sent_ids": [
+    "309639ccf19d"
+   ]
+  },
+  "megh-039": {
+   "q": "What is Paektu's 946 CE eruption called?",
+   "a": "The 'Millennium eruption'.",
+   "sent_ids": [
+    "e8574aa8a425",
+    "d973ab8f6d34"
+   ]
+  },
+  "megh-048": {
+   "q": "What was the last West Indian giant tortoise?",
+   "a": "Chelonoidis alburyorum.",
+   "sent_ids": [
+    "2c280133af7c",
+    "3c72972e70d1"
+   ]
+  },
+  "megh-058": {
+   "q": "What may explain the CO2 fall around 1610?",
+   "a": "Mass deaths in the Americas after European arrival.",
+   "sent_ids": [
+    "9ab7a68d1f7f",
+    "c1f04e5b6474"
+   ]
+  },
+  "megh-065": {
+   "q": "How much has methane risen since 1750?",
+   "a": "About 2.6-fold.",
+   "sent_ids": [
+    "a116b4a20d1b",
+    "045e91663427",
+    "937a36b05932"
+   ]
+  },
+  "megh-071": {
+   "q": "How much did Tambora eject?",
+   "a": "37–45 km³.",
+   "sent_ids": [
+    "47cbb8ff8b98",
+    "42c96156f903"
+   ]
+  },
+  "megh-078": {
+   "q": "When did Krakatoa explode?",
+   "a": "26–27 August 1883.",
+   "sent_ids": [
+    "bb99f9f1ddb3",
+    "cd0cea39670c",
+    "dc38c668c507"
+   ]
+  },
+  "megh-083": {
+   "q": "What destroyed the passenger pigeon?",
+   "a": "Habitat loss and mass hunting.",
+   "sent_ids": [
+    "50368f31ffbd",
+    "e5545b8675dc",
+    "79d4e7692cab"
+   ]
+  },
+  "megh-090": {
+   "q": "What has caused planetary-scale climate change?",
+   "a": "Greenhouse gases from fossil fuels.",
+   "sent_ids": [
+    "f66a30621bfe",
+    "5d7a7394cf18"
+   ]
+  },
+  "megh-095": {
+   "q": "What is the largest earthquake ever recorded?",
+   "a": "The 1960 southern Chile earthquake, magnitude 9.4–9.6.",
+   "sent_ids": [
+    "c7e3754ada6a",
+    "ac6e63de42ec",
+    "2d2ede36d1e0",
+    "f4f164beb98e"
+   ]
+  },
+  "megh-102": {
+   "q": "When did Mount St. Helens erupt catastrophically?",
+   "a": "18 May 1980.",
+   "sent_ids": [
+    "a6571696b3af",
+    "602420b7103a",
+    "f496ad3c77b6",
+    "d57c32202c4d"
+   ]
+  },
+  "megh-108": {
+   "q": "What made Jakobshavn Isbræ lose mass rapidly?",
+   "a": "Warming North Atlantic water melting its fronts from below.",
+   "sent_ids": [
+    "7d6d7c5f8ef8",
+    "df22ba0c1761",
+    "2e87a792deae"
+   ]
+  },
+  "megh-114": {
+   "q": "What magnitude was the 2010 central Chile earthquake?",
+   "a": "8.8.",
+   "sent_ids": [
+    "9a5320aa1e67"
+   ]
+  },
+  "megh-120": {
+   "q": "What was the largest eruption since Pinatubo?",
+   "a": "Hunga Tonga–Hunga Haʻapai in January 2022.",
+   "sent_ids": [
+    "9c40544fb4a0",
+    "1042ef6c1f39",
+    "8d8137a33c9f",
+    "6e8cc8156fc7"
+   ]
+  }
+ }
+}

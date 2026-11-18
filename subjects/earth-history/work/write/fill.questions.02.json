@@ -1,0 +1,503 @@
+{
+ "questions": {
+  "camb-031": {
+   "q": "What happened to Cambrian sediments in the Transantarctic Mountains from about 520 to 450 Ma?",
+   "a": "They were uplifted, folded, metamorphosed and intruded by granite batholiths.",
+   "sent_ids": [
+    "16e5f29fa469"
+   ]
+  },
+  "camb-039": {
+   "q": "What were petalonamids?",
+   "a": "Frond-like animals typical of the Ediacaran biota, dated about 635 to 516 Ma.",
+   "sent_ids": [
+    "d53075f0e004"
+   ]
+  },
+  "camb-048": {
+   "q": "What began erupting in Australia around 511 Ma?",
+   "a": "Flood basalts of the Kalkarindji large igneous province.",
+   "sent_ids": [
+    "55fe14dbe92b"
+   ]
+  },
+  "camb-062": {
+   "q": "Which groups did the first major trilobite extinction remove?",
+   "a": "The olenellids, eodiscids and most redlichiids.",
+   "sent_ids": [
+    "ef8688ae8c0b",
+    "032516d26b13",
+    "e2b3c621f308"
+   ]
+  },
+  "camb-064": {
+   "q": "What marks the start of the Drumian age?",
+   "a": "The Drumian carbon isotope excursion (DICE), about 504.5 Ma.",
+   "sent_ids": [
+    "35af14d702cf",
+    "2b6d71993f9d",
+    "e699ed01486a"
+   ]
+  },
+  "camb-072": {
+   "q": "How big is the Newporte structure in North Dakota?",
+   "a": "About 3.2 km across.",
+   "sent_ids": [
+    "bfc65a34c64c",
+    "6927fff5f9b7"
+   ]
+  },
+  "camb-079": {
+   "q": "By how much did the mid-Guzhangian extinction cut species diversity?",
+   "a": "By 45%.",
+   "sent_ids": [
+    "f117ad9e2b40",
+    "2c37da90e628",
+    "a7fe3abd1545",
+    "4727de16a085"
+   ]
+  },
+  "camb-087": {
+   "q": "By how much did the Jiangshanian extinction cut species diversity?",
+   "a": "By 55.2%.",
+   "sent_ids": [
+    "a7fe3abd1545",
+    "24c5819824b4"
+   ]
+  },
+  "ordo-009": {
+   "q": "What kind of fauna replaced the Cambrian fauna in the Ordovician?",
+   "a": "One rich in suspension feeders and swimmers.",
+   "sent_ids": [
+    "5c69fc77d8fc",
+    "8e3b21c69ac4"
+   ]
+  },
+  "ordo-001": {
+   "q": "What did sea level do in the Early Ordovician?",
+   "a": "It rose more or less continuously, levelling off around mid-period.",
+   "sent_ids": [
+    "37879dcfec8f"
+   ]
+  },
+  "ordo-007": {
+   "q": "What sea chemistry replaced the mixed aragonite–calcite seas?",
+   "a": "Fully calcite seas, by the early Ordovician.",
+   "sent_ids": [
+    "624b8f79ab12"
+   ]
+  },
+  "ordo-018": {
+   "q": "What were the Strophomenida?",
+   "a": "An order of articulate brachiopods.",
+   "sent_ids": [
+    "b26390c4a9bc",
+    "130263c4d1b9"
+   ]
+  },
+  "ordo-020": {
+   "q": "How hot was the Early Ordovician?",
+   "a": "Very hot, with sea surface temperatures like the Early Eocene Climatic Optimum.",
+   "sent_ids": [
+    "822420f089c6"
+   ]
+  },
+  "ordo-027": {
+   "q": "When do the earliest known eurypterids date to?",
+   "a": "The Tremadocian, about 480 million years ago.",
+   "sent_ids": [
+    "85de21072821"
+   ]
+  },
+  "ordo-031": {
+   "q": "What do conodont oxygen isotopes show at the end of the Early Ordovician?",
+   "a": "A shift from greenhouse to icehouse climate.",
+   "sent_ids": [
+    "1a3d3b8a3855",
+    "d2bea8ea5650"
+   ]
+  },
+  "ordo-035": {
+   "q": "What was the Paleozoic Oxidation Event?",
+   "a": "A rise in atmospheric oxygen between 470 and 400 Ma.",
+   "sent_ids": [
+    "9f5941819fdc",
+    "4d7b426a6704"
+   ]
+  },
+  "ordo-043": {
+   "q": "What opened the Paleo-Tethys Ocean?",
+   "a": "Back-arc spreading that split the Hunic terranes from Gondwana.",
+   "sent_ids": [
+    "6c8132b25f42"
+   ]
+  },
+  "ordo-047": {
+   "q": "What made the Lockne crater?",
+   "a": "An asteroid about 600 m across.",
+   "sent_ids": [
+    "56aecc3cd3ae",
+    "6e91802e58e5",
+    "23de90fb5b61"
+   ]
+  },
+  "ordo-050": {
+   "q": "What was the Boda Event?",
+   "a": "A brief rise in global temperatures in the early Katian.",
+   "sent_ids": [
+    "b1098ed0000d"
+   ]
+  },
+  "ordo-056": {
+   "q": "What struck Charlevoix, Quebec?",
+   "a": "A stony meteorite, leaving a structure about 54 km across.",
+   "sent_ids": [
+    "9fab7dbb9e10",
+    "2bf7ee81e108",
+    "21853b68b3ab"
+   ]
+  },
+  "ordo-059": {
+   "q": "What happened at the Katian–Hirnantian boundary?",
+   "a": "A sudden cooling rapidly expanded glaciers.",
+   "sent_ids": [
+    "056649ec8c84",
+    "c39c836951bf"
+   ]
+  },
+  "silu-001": {
+   "q": "Where did the Armorican Terrane Assemblage drift after leaving Gondwana?",
+   "a": "Toward Laurussia.",
+   "sent_ids": [
+    "24018eb47287"
+   ]
+  },
+  "silu-009": {
+   "q": "Which jawed fish diversified in the Silurian?",
+   "a": "Placoderms, acanthodians and bony fish.",
+   "sent_ids": [
+    "71af23912622",
+    "580220898cf8"
+   ]
+  },
+  "silu-014": {
+   "q": "Where did paracrinoids live?",
+   "a": "In shallow seas.",
+   "sent_ids": [
+    "80b4a579e316",
+    "3327d6e228ec"
+   ]
+  },
+  "silu-020": {
+   "q": "What does Dob's Linn hold?",
+   "a": "The GSSP for the Ordovician–Silurian boundary.",
+   "sent_ids": [
+    "a367308add64",
+    "2b6f75e72c30"
+   ]
+  },
+  "silu-018": {
+   "q": "When did widespread reef building begin?",
+   "a": "In the Llandovery.",
+   "sent_ids": [
+    "4da2fb65245f"
+   ]
+  },
+  "silu-026": {
+   "q": "What does the Huixingshao Formation preserve?",
+   "a": "Complete fossils of the earliest jawed vertebrates.",
+   "sent_ids": [
+    "b3966f29d969"
+   ]
+  },
+  "silu-032": {
+   "q": "How long did the Ireviken event last?",
+   "a": "About 200,000 years.",
+   "sent_ids": [
+    "cf10b020db0a",
+    "aeb865911c25",
+    "6c3a2378fda8",
+    "bf6b4dda61db",
+    "db0b530fad2d"
+   ]
+  },
+  "silu-038": {
+   "q": "What is the oldest known scorpion?",
+   "a": "Dolichophonus loudonensis, from Scotland.",
+   "sent_ids": [
+    "6b81fc1db897",
+    "a61eb0788228"
+   ]
+  },
+  "silu-048": {
+   "q": "How old are lycophytes?",
+   "a": "They date back to the Silurian, about 425 Ma.",
+   "sent_ids": [
+    "b56c1975df47"
+   ]
+  },
+  "silu-054": {
+   "q": "What is the Lau event named after?",
+   "a": "Lau parish on Gotland.",
+   "sent_ids": [
+    "53ef3893d757",
+    "ca6674a1f10e",
+    "aa2c471267e4"
+   ]
+  },
+  "silu-062": {
+   "q": "What marks the Šilalė event?",
+   "a": "A negative carbon isotope excursion.",
+   "sent_ids": [
+    "4ccc139ca7f5",
+    "c1c8950618ee",
+    "d532c60f07bf"
+   ]
+  },
+  "silu-065": {
+   "q": "What did the closing of the Iapetus Ocean leave behind?",
+   "a": "The Iapetus Suture.",
+   "sent_ids": [
+    "0e09ccae8a14",
+    "986b58309040",
+    "021e14b4d5b0"
+   ]
+  },
+  "devo-003": {
+   "q": "What island arc accreted to Patagonia?",
+   "a": "Chaitenia.",
+   "sent_ids": [
+    "231096e6bf6c",
+    "eec1926a7803"
+   ]
+  },
+  "devo-002": {
+   "q": "When did the Caledonian orogen begin to collapse?",
+   "a": "In the Early Devonian.",
+   "sent_ids": [
+    "6d054c690218"
+   ]
+  },
+  "devo-012": {
+   "q": "Which ocean lay between Laurussia and Gondwana?",
+   "a": "The Rheic Ocean.",
+   "sent_ids": [
+    "7c673bb86346",
+    "455815f977ee"
+   ]
+  },
+  "devo-022": {
+   "q": "What petrified life in the Rhynie chert?",
+   "a": "Silica-rich water from volcanic hot springs.",
+   "sent_ids": [
+    "945d2609b515",
+    "2841711a9dd6",
+    "d6dc41d91f22",
+    "eec348856894"
+   ]
+  },
+  "devo-026": {
+   "q": "What is special about the Hunsrück Slate?",
+   "a": "It preserves soft tissue.",
+   "sent_ids": [
+    "b42962413a90",
+    "1f8871293562"
+   ]
+  },
+  "devo-036": {
+   "q": "What formed the first forests?",
+   "a": "Cladoxylopsid trees in the Eifelian.",
+   "sent_ids": [
+    "2a73a16c25fe",
+    "291154d20ad1"
+   ]
+  },
+  "devo-035": {
+   "q": "Where did the Catskill Delta's sediment come from?",
+   "a": "The Acadian Mountains.",
+   "sent_ids": [
+    "985255b92c41",
+    "7c1c23b96a18",
+    "8be947e94099",
+    "beb9090a136a"
+   ]
+  },
+  "devo-048": {
+   "q": "What did the Chilenia terrane collide with?",
+   "a": "The western border of the Precordillera.",
+   "sent_ids": [
+    "1aa0c6231234",
+    "eec1926a7803"
+   ]
+  },
+  "devo-053": {
+   "q": "What fed the Viluy Traps?",
+   "a": "Rifting and deep mantle plumes.",
+   "sent_ids": [
+    "67e92fb1ff93",
+    "c5af3ff73907",
+    "ba0f4ab565f9"
+   ]
+  },
+  "devo-057": {
+   "q": "How large is the crater in Kaluga Oblast?",
+   "a": "15 km across.",
+   "sent_ids": [
+    "6a70f9b83c45",
+    "217cbab94f25",
+    "6a000ea3530a"
+   ]
+  },
+  "devo-061": {
+   "q": "How long did the Acadian orogeny last?",
+   "a": "About 50 million years.",
+   "sent_ids": [
+    "69d777da05fa",
+    "76c2d5b0ec0f",
+    "8781fff629e1"
+   ]
+  },
+  "devo-064": {
+   "q": "What drove magmatism in the Dnieper-Donets rift?",
+   "a": "A mantle plume.",
+   "sent_ids": [
+    "cf213c3cba70",
+    "e48b2f1ae425"
+   ]
+  },
+  "devo-069": {
+   "q": "Which forests spread rapidly in the Late Devonian?",
+   "a": "Archaeopteris forests.",
+   "sent_ids": [
+    "a2e7e0dd8c71",
+    "f780a224c52e"
+   ]
+  },
+  "devo-076": {
+   "q": "What is the oldest known notostracan?",
+   "a": "Strudops goldenbergi.",
+   "sent_ids": [
+    "8d7b23ac7d86",
+    "c0b5c3307bcf"
+   ]
+  },
+  "devo-080": {
+   "q": "How big might the Warburton asteroids have been?",
+   "a": "About 10 km each.",
+   "sent_ids": [
+    "e33424bb9c92",
+    "cd65d232f9e4"
+   ]
+  },
+  "carb-006": {
+   "q": "What are Cordaitales?",
+   "a": "An order of gymnosperms.",
+   "sent_ids": [
+    "c71b83348423"
+   ]
+  },
+  "carb-002": {
+   "q": "Where is the base of the Carboniferous fixed?",
+   "a": "At La Serre, Montagne Noire.",
+   "sent_ids": [
+    "5fb66d320558"
+   ]
+  },
+  "carb-003": {
+   "q": "When did camerate crinoids peak?",
+   "a": "In the Mississippian.",
+   "sent_ids": [
+    "6f2c0d5166c8",
+    "d22978665298"
+   ]
+  },
+  "carb-016": {
+   "q": "Where were glacial strata building by 350 Ma?",
+   "a": "In sub-Andean basins of Bolivia, Argentina and Paraguay.",
+   "sent_ids": [
+    "efd2ebb87b79"
+   ]
+  },
+  "carb-020": {
+   "q": "When do the oldest known winged insects appear?",
+   "a": "In the mid-Mississippian.",
+   "sent_ids": [
+    "e9ce3e22310e",
+    "93975315cc8a"
+   ]
+  },
+  "carb-024": {
+   "q": "When did full collision of Gondwana with Laurussia come?",
+   "a": "Around 340 Ma.",
+   "sent_ids": [
+    "5836013f4bbe",
+    "3e1f0103fcd7",
+    "dbc84181d358"
+   ]
+  },
+  "carb-031": {
+   "q": "What collided in the Ouachita orogeny?",
+   "a": "South American Gondwana and Laurussia's southern margin.",
+   "sent_ids": [
+    "e30d07899617",
+    "f56d1951340c"
+   ]
+  },
+  "carb-033": {
+   "q": "What let amniote eggs survive on dry land?",
+   "a": "Membranes around the embryo.",
+   "sent_ids": [
+    "1fa846f0047c",
+    "5fc8714e433e"
+   ]
+  },
+  "carb-040": {
+   "q": "Where is the base of the Pennsylvanian fixed?",
+   "a": "At Arrow Canyon, Nevada.",
+   "sent_ids": [
+    "6cd1b3d0074a"
+   ]
+  },
+  "carb-041": {
+   "q": "How low did CO2 fall in the Pennsylvanian?",
+   "a": "Below 300 ppm.",
+   "sent_ids": [
+    "1bfbb8cefc88",
+    "3e9112e73b97",
+    "4e1ada120d14"
+   ]
+  },
+  "carb-045": {
+   "q": "What are cyclothems?",
+   "a": "Repeating sediment cycles in shallow seas.",
+   "sent_ids": [
+    "e86b1b5b50a6"
+   ]
+  },
+  "carb-051": {
+   "q": "What began around Oslo in the late Carboniferous?",
+   "a": "The main phase of graben formation.",
+   "sent_ids": [
+    "fd2b5954ba59",
+    "f0a57cfaa289",
+    "de4db2aac19e"
+   ]
+  },
+  "carb-062": {
+   "q": "How long did the magnetic field stay reversed?",
+   "a": "More than 50 million years, about 312 to 262 Ma.",
+   "sent_ids": [
+    "f8338b4906d2",
+    "906f3a966898"
+   ]
+  },
+  "carb-072": {
+   "q": "What are among the first diapsid reptiles?",
+   "a": "Petrolacosaurus, around 305 Ma.",
+   "sent_ids": [
+    "9a8d4903e6a6",
+    "d78fc8df7561"
+   ]
+  }
+ }
+}
