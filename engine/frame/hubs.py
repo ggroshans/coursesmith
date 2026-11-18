@@ -18,7 +18,7 @@ from .. import config
 from ..crawl.clean import NON_ARTICLE_NS
 from ..util import atomic_write, slug
 
-HUB_CACHE = config.CACHE / "hubs"
+HUB_CACHE = config.HUB_CACHE
 
 
 def _cached(key, fn):

@@ -33,7 +33,10 @@ def _entry_articles(subject, store):
 def _lead(store, title, n=2, cap=240):
     if not store.has_page(title):
         return ""
-    paras = [p for p in (store.load_text(title) or "").split("\n\n") if p.strip() and p.lstrip()[0] not in "#-|[!>*"]
+    text = store.load_text(title) or ""
+    if text.startswith("# "):  # the title line shares its block with the lead, so drop it first
+        text = text.split("\n", 1)[1] if "\n" in text else ""
+    paras = [p for p in text.split("\n\n") if p.strip() and p.lstrip()[0] not in "#-|[!>*"]
     lead = re.sub(r"\[\^?\d+\]", "", " ".join(paras[0].split())) if paras else ""
     sents = re.split(r"(?<=[.!?])\s+", lead)
     return " ".join(sents[:n])[:cap]

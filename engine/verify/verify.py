@@ -121,25 +121,26 @@ def _flagged(e):
     return bool(set(e.get("flags") or []) & {"contested", "conflict", "citation_needed"})
 
 
-def _authority_text(a):
-    """Fetch an authority's pages once (cached) and return their plain text."""
+def _authority_text(a, network=True):
+    """Fetch an authority's pages once (cached) and return their plain text. With network=False only what is
+    already cached is read."""
     from bs4 import BeautifulSoup
     texts = []
     for url in a.get("urls") or ([a["url"]] if a.get("url") else []):
         if url.lower().endswith(".pdf"):
             # a long manual takes minutes to parse; keep its text next to the cached download
-            cached = config.CACHE / "authority_text" / (hashlib.sha1(url.encode()).hexdigest()[:16] + ".txt")
+            cached = config.AUTHORITY_TEXT_DIR / (hashlib.sha1(url.encode()).hexdigest()[:16] + ".txt")
             if cached.exists():
                 texts.append(cached.read_text(encoding="utf-8"))
                 continue
-            data = extsrc.HTTP.get(url, binary=True)
+            data = extsrc.HTTP.get(url, binary=True, cache_only=not network)
             if data:
                 t = _pdf_text(data)
                 cached.parent.mkdir(parents=True, exist_ok=True)
                 atomic_write(cached, t)
                 texts.append(t)
             continue
-        raw = extsrc.HTTP.get(url)
+        raw = extsrc.HTTP.get(url, cache_only=not network)
         if not raw:
             continue
         soup = BeautifulSoup(raw, "html.parser")
@@ -180,7 +181,7 @@ def run(subject, network=True, log=print):
     auths = [a for a in (subject.cfg.get("verification") or {}).get("authorities") or []]
     live = [a for a in auths if a.get("fetcher") == "text_reference" and (a.get("urls") or a.get("url"))]
     pending = [a["name"] for a in auths if a not in live]
-    auth_text = {a["name"]: _authority_text(a) for a in live}
+    auth_text = {a["name"]: _authority_text(a, network) for a in live}
 
     verdicts = Counter()
     worklist = []

@@ -6,6 +6,7 @@ Metadata and abstracts only, never full text. Same etiquette as the crawler: the
 """
 import hashlib
 import json
+import os
 import re
 import time
 from datetime import datetime, timezone
@@ -26,19 +27,54 @@ class PoliteHTTP:
         self.last = {}
         self.calls = 0
 
-    def get(self, url, params=None, cache=True, binary=False):
+    def interval(self, host):
+        return config.MIN_INTERVAL_BY_HOST.get(host, self.min_interval)
+
+    def get(self, url, params=None, cache=True, binary=False, headers=None, max_age_s=None,
+            cache_only=False, want_headers=False):
+        """Polite cached GET. Returns the body (text, or bytes with binary=True), or None when the server says
+        403/404/410 or, with cache_only, when nothing is cached. want_headers returns (body, meta) where meta
+        holds status, etag, last_modified, content_type and fetched_at from the sidecar written on each fetch.
+        max_age_s makes an older cached copy revalidate with If-None-Match / If-Modified-Since."""
         key = hashlib.sha1((url + "?" + json.dumps(params or {}, sort_keys=True)).encode()).hexdigest()
         host = urlparse(url).netloc
         path = config.HTTP_CACHE / host / (key + (".bin" if binary else ".txt"))
-        if cache and path.exists():
+        side = path.with_suffix(".meta.json")
+
+        def pack(body):
+            if not want_headers:
+                return body
+            try:
+                meta = json.loads(side.read_text(encoding="utf-8")) if side.exists() else {}
+            except (OSError, ValueError):
+                meta = {}
+            return body, meta
+
+        def cached_body():
             return path.read_bytes() if binary else path.read_text(encoding="utf-8")
+
+        send = dict(headers or {})
+        if cache and path.exists():
+            fresh = max_age_s is None or (time.time() - path.stat().st_mtime) <= max_age_s
+            if fresh or cache_only:
+                return pack(cached_body())
+            try:
+                old = json.loads(side.read_text(encoding="utf-8")) if side.exists() else {}
+            except (OSError, ValueError):
+                old = {}
+            if old.get("etag"):
+                send["If-None-Match"] = old["etag"]
+            if old.get("last_modified"):
+                send["If-Modified-Since"] = old["last_modified"]
+        elif cache_only:
+            return pack(None)
         delay = 2.0
         for _ in range(6):
-            wait = self.min_interval - (time.monotonic() - self.last.get(host, 0))
+            wait = self.interval(host) - (time.monotonic() - self.last.get(host, 0))
             if wait > 0:
                 time.sleep(wait)
             try:
-                r = self.s.get(url, params=params, timeout=120)
+                r = self.s.get(url, params=params, headers=send or None, timeout=120)
             except requests.RequestException as e:
                 self.last[host] = time.monotonic()
                 print(f"  [ext] {host}: {e}; retry in {delay:.0f}s")
@@ -47,20 +83,27 @@ class PoliteHTTP:
                 continue
             self.last[host] = time.monotonic()
             self.calls += 1
+            if r.status_code == 304 and path.exists():
+                os.utime(path, None)
+                return pack(cached_body())
             if r.status_code == 429 or r.status_code >= 500:
                 ra = r.headers.get("Retry-After")
                 time.sleep(float(ra) if ra and ra.isdigit() else delay)
                 delay *= 2
                 continue
             if r.status_code in (403, 404, 410):
-                return None
+                return pack(None)
             r.raise_for_status()
             path.parent.mkdir(parents=True, exist_ok=True)
             if binary:
                 path.write_bytes(r.content)
-                return r.content
-            path.write_text(r.text, encoding="utf-8")
-            return r.text
+            else:
+                path.write_text(r.text, encoding="utf-8")
+            side.write_text(json.dumps({
+                "url": url, "status": r.status_code, "etag": r.headers.get("ETag"),
+                "last_modified": r.headers.get("Last-Modified"), "content_type": r.headers.get("Content-Type"),
+                "fetched_at": datetime.now(timezone.utc).isoformat(timespec="seconds")}), encoding="utf-8")
+            return pack(r.content if binary else r.text)
         raise RuntimeError(f"gave up: {url}")
 
 

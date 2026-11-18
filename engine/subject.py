@@ -1,4 +1,5 @@
 """A subject: its subject.yaml settings and the paths of everything it owns under subjects/<slug>/."""
+import copy
 from functools import cached_property
 
 import yaml
@@ -146,8 +147,12 @@ def all_slugs():
 
 
 def _merge(base, over):
-    out = dict(base)
+    """Overlay subject.yaml on the defaults. Never shares the defaults' objects, and a YAML null (a key left
+    empty) keeps a dict or list default instead of replacing it with None."""
+    out = copy.deepcopy(base)
     for k, v in (over or {}).items():
+        if v is None and isinstance(base.get(k), (dict, list)):
+            continue
         if isinstance(v, dict) and isinstance(base.get(k), dict):
             out[k] = _merge(base[k], v)
         else:

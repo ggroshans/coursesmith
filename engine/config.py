@@ -21,8 +21,13 @@ ALIASES_PATH = CACHE / "aliases.json"
 META_CACHE_PATH = CACHE / "link_meta.json"
 SENT_DB = CACHE / "sentences.sqlite"
 HTTP_CACHE = CACHE / "http"
+HUB_CACHE = CACHE / "hubs"
+AUTHORITY_TEXT_DIR = CACHE / "authority_text"
 WORKS_DIR = CACHE / "works"          # one JSON per DOI: metadata and abstract only
 IMAGES_DIR = CACHE / "images"
+
+# Vetted-source registry shared by every subject (domains and repos with default tiers and licenses).
+REGISTRY_PATH = ROOT / "sources" / "registry.yaml"
 
 BUILD = ROOT / "build"
 EPUB_DIR = BUILD / "epubs"
@@ -49,6 +54,12 @@ USER_AGENT = (
 
 # Anonymous requests at 1 req/1.2 s tripped HTTP 429 on 2026-11-14, so the budget is <= 0.5 req/s.
 MIN_INTERVAL_S = max(2.0, float(os.environ.get("WIKICOURSE_MIN_INTERVAL", "2.0")))
+# Seconds between requests per host for the non-Wikipedia sources; any other host waits MIN_INTERVAL_S.
+MIN_INTERVAL_BY_HOST = {
+    "api.github.com": 1.0,
+    "raw.githubusercontent.com": 1.0,
+    "export.arxiv.org": 3.0,  # arXiv's terms: no more than one request every three seconds
+}
 MAXLAG = 5
 MAX_RETRIES = 8
 TIMEOUT_S = 60
