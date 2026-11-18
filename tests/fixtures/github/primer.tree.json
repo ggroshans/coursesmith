@@ -1,0 +1,230 @@
+{
+"sha": "ae9bbd7b02d90b9866215de185217d33f39ab733",
+"truncated": false,
+"tree": [
+{
+"path": ".gitattributes",
+"mode": "100644",
+"type": "blob",
+"sha": "f4c7e5f018f631dc0da4de60c67faad93903dafe",
+"size": 33,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/f4c7e5f018f631dc0da4de60c67faad93903dafe"
+},
+{
+"path": ".github/PULL_REQUEST_TEMPLATE.md",
+"mode": "100644",
+"type": "blob",
+"sha": "ca9bd9795c8839d9e205671f1fff74c44a8245eb",
+"size": 560,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/ca9bd9795c8839d9e205671f1fff74c44a8245eb"
+},
+{
+"path": ".gitignore",
+"mode": "100644",
+"type": "blob",
+"sha": "5ca2fa242d43065db1067a78a3e6c7386e64ad9d",
+"size": 800,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/5ca2fa242d43065db1067a78a3e6c7386e64ad9d"
+},
+{
+"path": "CONTRIBUTING.md",
+"mode": "100644",
+"type": "blob",
+"sha": "c220a52db20fd33345dd4e3772f1bf539ee9609f",
+"size": 5377,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/c220a52db20fd33345dd4e3772f1bf539ee9609f"
+},
+{
+"path": "LICENSE.txt",
+"mode": "100644",
+"type": "blob",
+"sha": "5a04d642d61db37868f7485fa0fbcc96d8916919",
+"size": 365,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/5a04d642d61db37868f7485fa0fbcc96d8916919"
+},
+{
+"path": "README-ja.md",
+"mode": "100644",
+"type": "blob",
+"sha": "74400bdd702747015f1e24362a5598ce917d9359",
+"size": 137561,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/74400bdd702747015f1e24362a5598ce917d9359"
+},
+{
+"path": "README-zh-Hans.md",
+"mode": "100644",
+"type": "blob",
+"sha": "474fb4251a8298121172d372fd6c4e89abb5ad5b",
+"size": 101490,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/474fb4251a8298121172d372fd6c4e89abb5ad5b"
+},
+{
+"path": "README-zh-TW.md",
+"mode": "100644",
+"type": "blob",
+"sha": "b51b0e7be7ce5a18b31e067f5e46816a61645347",
+"size": 126363,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/b51b0e7be7ce5a18b31e067f5e46816a61645347"
+},
+{
+"path": "README.md",
+"mode": "100644",
+"type": "blob",
+"sha": "9e2cdb88dec86c34c9b49b657f5629a1866c6976",
+"size": 109830,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/9e2cdb88dec86c34c9b49b657f5629a1866c6976"
+},
+{
+"path": "TRANSLATIONS.md",
+"mode": "100644",
+"type": "blob",
+"sha": "584c3e2ebac6a7c7cacc5b8c16cad0ba76e36059",
+"size": 6700,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/584c3e2ebac6a7c7cacc5b8c16cad0ba76e36059"
+},
+{
+"path": "epub-metadata.yaml",
+"mode": "100644",
+"type": "blob",
+"sha": "f4b296baf92015e1b40676ec9e01913b81a04122",
+"size": 60,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/f4b296baf92015e1b40676ec9e01913b81a04122"
+},
+{
+"path": "generate-epub.sh",
+"mode": "100755",
+"type": "blob",
+"sha": "a6bfe05b50da634165286363c80931d1093c607b",
+"size": 1192,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/a6bfe05b50da634165286363c80931d1093c607b"
+},
+{
+"path": "solutions/system_design/mint/README-zh-Hans.md",
+"mode": "100644",
+"type": "blob",
+"sha": "58467bc6bf11e25cfe22aff28d10e2f991111ddb",
+"size": 20225,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/58467bc6bf11e25cfe22aff28d10e2f991111ddb"
+},
+{
+"path": "solutions/system_design/mint/README.md",
+"mode": "100644",
+"type": "blob",
+"sha": "1ec31674db097dc0352a3050674f6933b768b4e4",
+"size": 20615,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/1ec31674db097dc0352a3050674f6933b768b4e4"
+},
+{
+"path": "solutions/system_design/pastebin/README-zh-Hans.md",
+"mode": "100644",
+"type": "blob",
+"sha": "d2946e970903b381d30c1a2a264b1f37f297f327",
+"size": 16490,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/d2946e970903b381d30c1a2a264b1f37f297f327"
+},
+{
+"path": "solutions/system_design/pastebin/README.md",
+"mode": "100644",
+"type": "blob",
+"sha": "2d87ddcc7e344e08a696498b2a5823c1771483df",
+"size": 15782,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/2d87ddcc7e344e08a696498b2a5823c1771483df"
+},
+{
+"path": "solutions/system_design/query_cache/README-zh-Hans.md",
+"mode": "100644",
+"type": "blob",
+"sha": "c6f4be7519b49892a8175565e5b0906efce9efef",
+"size": 15060,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/c6f4be7519b49892a8175565e5b0906efce9efef"
+},
+{
+"path": "solutions/system_design/query_cache/README.md",
+"mode": "100644",
+"type": "blob",
+"sha": "032adf34abdb204c53f31fe5faf49c893b1aa1c8",
+"size": 14053,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/032adf34abdb204c53f31fe5faf49c893b1aa1c8"
+},
+{
+"path": "solutions/system_design/sales_rank/README-zh-Hans.md",
+"mode": "100644",
+"type": "blob",
+"sha": "960f9258f23a4e2306f703bfe279f77b8daa9d04",
+"size": 15832,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/960f9258f23a4e2306f703bfe279f77b8daa9d04"
+},
+{
+"path": "solutions/system_design/sales_rank/README.md",
+"mode": "100644",
+"type": "blob",
+"sha": "71ad1c7d202d5e12383c08ef9470e26cbd739664",
+"size": 14885,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/71ad1c7d202d5e12383c08ef9470e26cbd739664"
+},
+{
+"path": "solutions/system_design/scaling_aws/README-zh-Hans.md",
+"mode": "100644",
+"type": "blob",
+"sha": "c071c70eb0852da99a9547ac3a0597fc518b2665",
+"size": 18248,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/c071c70eb0852da99a9547ac3a0597fc518b2665"
+},
+{
+"path": "solutions/system_design/scaling_aws/README.md",
+"mode": "100644",
+"type": "blob",
+"sha": "99af0cfff8d46e7531fe70b27f3a79206047dbe2",
+"size": 19841,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/99af0cfff8d46e7531fe70b27f3a79206047dbe2"
+},
+{
+"path": "solutions/system_design/social_graph/README-zh-Hans.md",
+"mode": "100644",
+"type": "blob",
+"sha": "07b8e3e7886a53d30f36556d914f08cf3327d00e",
+"size": 14639,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/07b8e3e7886a53d30f36556d914f08cf3327d00e"
+},
+{
+"path": "solutions/system_design/social_graph/README.md",
+"mode": "100644",
+"type": "blob",
+"sha": "f7dfd4efe8d3b46edc367614f906f32d5c40cb54",
+"size": 15894,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/f7dfd4efe8d3b46edc367614f906f32d5c40cb54"
+},
+{
+"path": "solutions/system_design/twitter/README-zh-Hans.md",
+"mode": "100644",
+"type": "blob",
+"sha": "1853444dbc8ec367f7f203663b562acbc5a402a5",
+"size": 17135,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/1853444dbc8ec367f7f203663b562acbc5a402a5"
+},
+{
+"path": "solutions/system_design/twitter/README.md",
+"mode": "100644",
+"type": "blob",
+"sha": "d14996f1526cec8c3316d1414ec6f9a13c1f69a4",
+"size": 16643,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/d14996f1526cec8c3316d1414ec6f9a13c1f69a4"
+},
+{
+"path": "solutions/system_design/web_crawler/README-zh-Hans.md",
+"mode": "100644",
+"type": "blob",
+"sha": "2ad0938e5d9a42f5327e4d7be1903c2d1f9faad6",
+"size": 18077,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/2ad0938e5d9a42f5327e4d7be1903c2d1f9faad6"
+},
+{
+"path": "solutions/system_design/web_crawler/README.md",
+"mode": "100644",
+"type": "blob",
+"sha": "e6e79ad2245928567177051d2729b89a1deba16c",
+"size": 17048,
+"url": "https://api.github.com/repos/donnemartin/system-design-primer/git/blobs/e6e79ad2245928567177051d2729b89a1deba16c"
+}
+]
+}

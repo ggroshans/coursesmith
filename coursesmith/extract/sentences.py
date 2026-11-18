@@ -65,7 +65,9 @@ def index_page(db, store, rec, text):
     db.execute("DELETE FROM sentences WHERE title = ?", (title,))
     cits = {c["n"]: c for c in rec.get("citations", [])}
     pm = PageMentions(rec, store.canonical)
-    rows, definition = [], None
+    rows, definition, fallback = [], None, None
+    # other sources are technical text: AD/BP/CE and "Ma" readings are only for Wikipedia (or a source that asks)
+    use_dates = not rec.get("source") or bool((rec.get("meta") or {}).get("dates"))
     for i, (section, raw, is_row) in enumerate(iter_sentences(text)):
         plain, cites, tags = clean_sentence(raw)
         if len(plain) < 12:
@@ -75,12 +77,16 @@ def index_page(db, store, rec, text):
         # the definition is the first real lead sentence: infobox titles ("Granulometry") sit in the lead too
         if definition is None and is_lead and not is_row and len(plain.split()) >= 6 and plain.endswith((".", ":")):
             definition = sid
+        if fallback is None and not is_row and len(plain.split()) >= 6 and plain.endswith((".", ":")):
+            fallback = sid
         dois = sorted({w["doi"] for n in cites for w in cits.get(n, {}).get("works", []) if w.get("doi")})
         ds = [{k: d.get(k) for k in ("date_text", "date_ma", "young_ma", "kind")}
-              for d in dates.find_dates(plain)] if any(ch.isdigit() for ch in plain) else []
+              for d in dates.find_dates(plain)] if use_dates and any(ch.isdigit() for ch in plain) else []
         rows.append((sid, title, rec.get("revid"), section, i, plain, int(is_row), int(is_lead),
                      json.dumps(cites), json.dumps(dois), json.dumps(tags), json.dumps(pm(plain)),
                      json.dumps(cite_years(rec.get("citations"), cites)), json.dumps(ds) if ds else None))
+    if definition is None and rec.get("source"):
+        definition = fallback  # a README or spec has no encyclopedia lead; its first prose sentence defines it
     db.executemany("INSERT INTO sentences VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)", rows)
     qid = (store.meta.get(title) or {}).get("qid")
     lic = rec.get("license")

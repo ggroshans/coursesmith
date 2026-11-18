@@ -1,0 +1,25 @@
+{
+ "text": "# Soil\nSoil is a mixture of organic matter, minerals, gases and organisms that support plant life.[^1] It holds about 10^5.5 species per hectare. citation needed\nSee clay and soil pH; also a file.\n\n## Horizons\nA profile has layers. Each is a horizon.\n- O horizon\n  - litter\n  - humus\n- A horizon\n\n### Colour\nMunsell\n  a colour system\n> Soil is the skin of the earth.\nTable: Sizes\nName | mm\nSand | 2\nSand | 0.05\n\nInside a div.\ncode | like # text\n\n## Uses\nSoil grows food.\n",
+ "links": [
+  "Clay",
+  "Soil pH"
+ ],
+ "citations": [
+  {
+   "n": 1,
+   "note_id": "cite_note-a-1",
+   "text": "Smith (2010). \"Soil\". Journal .",
+   "works": [
+    {
+     "genre": "article",
+     "title": "Soil",
+     "container": "Journal",
+     "date": "2010",
+     "doi": "10.1234/soil.1",
+     "year": 2010
+    }
+   ],
+   "kind": "citation"
+  }
+ ]
+}

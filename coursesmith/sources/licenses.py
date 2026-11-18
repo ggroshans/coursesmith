@@ -60,6 +60,36 @@ def classify(name):
     return "unknown"
 
 
+# (phrase in a license text, class), most specific first
+_TEXT_PATTERNS = [
+    ("attribution-noncommercial-noderivatives", "cc-by-nc-nd"),
+    ("attribution-noncommercial-sharealike", "cc-by-nc-sa"),
+    ("attribution-noncommercial", "cc-by-nc"),
+    ("attribution-noderivatives", "cc-by-nd"),
+    ("attribution-sharealike", "cc-by-sa"),
+    ("creative commons attribution", "cc-by"),
+    ("cc0", "public-domain"),
+    ("public domain dedication", "public-domain"),
+    ("this is free and unencumbered software released into the public domain", "public-domain"),
+    ("gnu lesser general public license", "copyleft"),
+    ("gnu general public license", "copyleft"),
+    ("gnu affero general public license", "copyleft"),
+    ("apache license", "permissive"),
+    ("permission is hereby granted, free of charge", "permissive"),
+    ("redistribution and use in source and binary forms", "permissive"),
+    ("all rights reserved", "all-rights-reserved"),
+]
+
+
+def detect_from_text(text):
+    """License class from the text of a LICENSE file, for repositories GitHub cannot match to an SPDX id."""
+    s = re.sub(r"\s+", " ", str(text or "").lower())
+    for phrase, cls in _TEXT_PATTERNS:
+        if phrase in s:
+            return cls
+    return "unknown"
+
+
 def is_public(cls, overrides=None):
     table = {**PUBLIC, **(overrides or {})}
     v = table.get(cls, False)

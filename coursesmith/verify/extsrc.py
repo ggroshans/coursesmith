@@ -102,6 +102,7 @@ class PoliteHTTP:
             side.write_text(json.dumps({
                 "url": url, "status": r.status_code, "etag": r.headers.get("ETag"),
                 "last_modified": r.headers.get("Last-Modified"), "content_type": r.headers.get("Content-Type"),
+                "link": r.headers.get("Link"),
                 "fetched_at": datetime.now(timezone.utc).isoformat(timespec="seconds")}), encoding="utf-8")
             return pack(r.content if binary else r.text)
         raise RuntimeError(f"gave up: {url}")

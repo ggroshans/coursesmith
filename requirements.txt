@@ -3,3 +3,4 @@ beautifulsoup4>=4.12
 pyyaml>=6.0
 pillow>=10.0
 pypdf>=4.0
+markdown-it-py>=3.0

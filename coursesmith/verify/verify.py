@@ -151,15 +151,8 @@ def _authority_text(a, network=True):
 
 
 def _pdf_text(data):
-    import logging
-    logging.getLogger("pypdf").setLevel(logging.ERROR)  # font-encoding chatter, harmless for text extraction
-    try:
-        from pypdf import PdfReader
-    except ImportError:
-        raise SystemExit("an authority is a PDF: `pip install pypdf` to read it")
-    import io
-    reader = PdfReader(io.BytesIO(data))
-    return re.sub(r"\s+", " ", " ".join((pg.extract_text() or "") for pg in reader.pages))
+    from ..text.pdf import flat_text
+    return flat_text(data)
 
 
 def run(subject, network=True, log=print):

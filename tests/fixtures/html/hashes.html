@@ -1,0 +1,13 @@
+<!doctype html><html><head><title>Redis hashes | Docs</title><link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"></head>
+<body><header>Redis docs header</header><nav class="sidebar"><a href="/docs/latest/develop/">Develop</a></nav>
+<main><h1>Redis hashes</h1>
+<p>Redis hashes are record types structured as collections of field-value pairs. You can use hashes to represent basic objects and to store groupings of counters, among other things.</p>
+<p>See <a href="../lists/">lists</a>, <a href="/docs/latest/commands/hset/">HSET</a> and the <a href="https://en.wikipedia.org/wiki/Hash_table">hash table</a> article, or <a href="https://example.org/x">elsewhere</a>.</p>
+<h2>Basic commands</h2>
+<ul><li><code>HSET</code> sets the value of one or more fields on a hash.</li><li><code>HGET</code> returns the value at a given field.</li></ul>
+<pre><code>&gt; HSET bike:1 model Deimos
+(integer) 1</code></pre>
+<h2>Performance</h2>
+<p>Most hash commands are O(1). A few commands, such as HKEYS, HVALS and HGETALL, are O(n), where n is the number of field-value pairs.</p>
+<h2>Contributing</h2><p>Edit this page on GitHub.</p>
+</main><footer>Copyright Redis. Content available under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></footer></body></html>
