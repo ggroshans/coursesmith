@@ -39,6 +39,9 @@ def sent_id(title, plain):
     return hashlib.sha1(f"{title}\n{plain}".encode()).hexdigest()[:12]
 
 
+# openers a README or guide puts before it says what the thing is
+NOT_A_DEFINITION = ("note:", "notes:", "tip:", "warning:", "disclaimer", "> ", "refer to ", "see ", "click ",
+                    "this document ", "this repository ", "this repo ", "this guide links")
 NEW_PAGE_COLUMNS = (("source", "TEXT"), ("version", "TEXT"), ("license", "TEXT"), ("name", "TEXT"))
 
 
@@ -75,9 +78,12 @@ def index_page(db, store, rec, text):
         sid = sent_id(title, plain)
         is_lead = section == "(lead)"
         # the definition is the first real lead sentence: infobox titles ("Granulometry") sit in the lead too
-        if definition is None and is_lead and not is_row and len(plain.split()) >= 6 and plain.endswith((".", ":")):
+        boilerplate = bool(rec.get("source")) and plain.lower().startswith(NOT_A_DEFINITION)  # not for Wikipedia
+        if definition is None and is_lead and not is_row and len(plain.split()) >= 6 and plain.endswith((".", ":")) \
+                and not boilerplate:
             definition = sid
-        if fallback is None and not is_row and len(plain.split()) >= 6 and plain.endswith((".", ":")):
+        if fallback is None and not is_row and len(plain.split()) >= 6 and plain.endswith((".", ":")) \
+                and not plain.lower().startswith(NOT_A_DEFINITION):
             fallback = sid
         dois = sorted({w["doi"] for n in cites for w in cits.get(n, {}).get("works", []) if w.get("doi")})
         ds = [{k: d.get(k) for k in ("date_text", "date_ma", "young_ma", "kind")}

@@ -11,9 +11,12 @@ _Update after every step. `coursesmith status system-design` prints the live num
   Building blocks, Scaling and consistency, Messaging/APIs/architecture, Reliability/security/operations, and
   **Design interview questions** (18 chapters, each one question: the primer's eight solutions, Singh's five case
   studies, and ByteByteGo's Gmail, Google Maps, stock exchange, Google Docs, payment and notification designs).
-- **Crawled** the frame's pages only (`crawl --depth 0`). Singh's one-file course is split into 61 section pages
-  (`coursesmith sources parts system-design`).
-- Extract, graph and dossiers: see `coursesmith status system-design`.
+- **Crawled** the frame's pages only (`crawl --depth 0`): 347 pages, 27,922 sentences. Wikipedia 126 pages
+  (16,785 sentences), Singh's guide 57 sections (2,983; its one file is split into 61 section pages, see
+  `coursesmith sources parts system-design`), ByteByteGo 141 guides (2,033), the primer's 8 solutions (1,270), 4 RFCs
+  (4,802) and 11 paper abstracts (49).
+- **Extracted, graphed, dossiers built**: every page is in a chapter; 98 dossier chunks across the 48 chapters. A
+  question chapter's dossier opens with `QUESTION: ...` and the instruction to write one Worked example.
 
 ## Next steps (the usual coordinator workflow, as for nature-economy)
 1. `report coverage`, then read `reports/frame_report.md`; decide any gap-fill crawls (`crawl --depth 1` follows in-scope

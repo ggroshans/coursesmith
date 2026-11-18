@@ -53,3 +53,23 @@ class IndexSourcesTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class FallbackDefinitionTest(unittest.TestCase):
+    def definition(self, text):
+        with temp_root():
+            rec = {"title": "gh>o/r/doc.md", "url": "u", "revid": None, "version": "v1", "source": "x", "html": None,
+                   "citations": [], "meta": {}}
+            db = index(rec, text)
+            d = SN.definition(db, "gh>o/r/doc.md")
+            return d["text"] if d else None
+
+    def test_notes_and_disclaimers_are_not_definitions(self):
+        text = ("# Design Pastebin\nNote: This document links directly to relevant areas found in the system design topics.\n"
+                "Refer to the linked content for general talking points, tradeoffs, and alternatives.\n"
+                "A pastebin lets users store text and share it through a short link.\n")
+        self.assertEqual(self.definition(text), "A pastebin lets users store text and share it through a short link.")
+
+    def test_a_plain_first_sentence_is_still_used(self):
+        self.assertEqual(self.definition("# Cache\nA cache stores copies of data so that later requests are faster.\n"),
+                         "A cache stores copies of data so that later requests are faster.")

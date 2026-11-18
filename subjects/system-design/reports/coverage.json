@@ -1,0 +1,40 @@
+{
+ "summary": {
+  "navbox": "0% crawled, 0% in entries",
+  "index": "0% crawled, 0% in entries",
+  "vital": "0% crawled, 0% in entries",
+  "top/high": "0% crawled, 0% in entries"
+ },
+ "detail": {
+  "navbox": {
+   "total": 0,
+   "crawled": 0,
+   "in_entries": 0,
+   "crawled_pct": 0,
+   "entry_pct": 0
+  },
+  "index": {
+   "total": 0,
+   "crawled": 0,
+   "in_entries": 0,
+   "crawled_pct": 0,
+   "entry_pct": 0
+  },
+  "vital": {
+   "total": 0,
+   "crawled": 0,
+   "in_entries": 0,
+   "crawled_pct": 0,
+   "entry_pct": 0
+  },
+  "top/high": {
+   "total": 0,
+   "crawled": 0,
+   "in_entries": 0,
+   "crawled_pct": 0,
+   "entry_pct": 0
+  }
+ },
+ "thin": [],
+ "chapter": null
+}
