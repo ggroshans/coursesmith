@@ -200,6 +200,7 @@ def run(subject, network=True, log=print):
     pending = [a["name"] for a in auths if a not in live]
     auth_text = {a["name"]: _authority_text(a, network) for a in live}
 
+    registry = _registry(subject)
     verdicts = Counter()
     worklist = []
     for e in scope:
@@ -234,7 +235,7 @@ def run(subject, network=True, log=print):
         e["verification"] = [x for x in v_list if x["verdict"] in SUPPORTS + ("differs",) or x.get("reviewed_verdict")]
         e["external"] = external.get(e["id"]) or []
         supported = any((x.get("reviewed_verdict") or x["verdict"]) in SUPPORTS for x in v_list)
-        e["source_tier"] = "primary" if supported else "wikipedia"
+        e["source_tier"] = "primary" if supported else base_tier(e, registry)
         if not supported and any(x["verdict"] == "differs" and not x.get("reviewed_verdict") for x in v_list):
             worklist.append(e)
     # a run takes minutes to hours: write back only verify's own fields onto the records as they are now, so
@@ -253,6 +254,23 @@ def run(subject, network=True, log=print):
     log(f"[verify] {len(scope)} entries, {len(all_dois)} DOIs, {len(live)} authorities live "
         f"({len(pending)} pending); verdicts {dict(verdicts)}; tiers {dict(tiers)}; {len(worklist)} to review")
     return worklist
+
+
+def _registry(subject):
+    """The subject's source registry, or None for a subject that cites Wikipedia only."""
+    try:
+        from ..sources.registry import Registry
+        return Registry.from_subject(subject)
+    except Exception:
+        return None
+
+
+def base_tier(e, registry=None):
+    """The entry's trust tier before verification promotes it: `wikipedia` when it cites only Wikipedia, else the
+    best tier among the sources it cites. A `primary` left by an earlier run does not count: verification
+    decides that again every time."""
+    from ..consolidate.finalize import source_tier
+    return source_tier({**e, "source_tier": None}, registry)
 
 
 def _report(subject, scope, verdicts, worklist, pending, n_dois, live):

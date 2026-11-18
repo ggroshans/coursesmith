@@ -101,6 +101,19 @@ class MergeParts(unittest.TestCase):
 
 
 class Verify(unittest.TestCase):
+    def test_unsupported_entry_keeps_the_best_tier_of_its_sources(self):
+        from coursesmith.verify.verify import base_tier
+
+        class Reg:
+            def tier(self, key):
+                return {"rfc>9110": "standard", "gh>x/y/README.md": "curated"}.get(key, "reference")
+        wiki_only = {"sources": [{"title": "Clay", "key": "Clay"}], "source_tier": "primary"}
+        mixed = {"sources": [{"title": "Clay", "key": "Clay"}, {"title": "RFC 9110", "key": "rfc>9110"},
+                             {"title": "Guide", "key": "gh>x/y/README.md"}]}
+        self.assertEqual(base_tier(wiki_only, Reg()), "wikipedia")  # an old primary is decided again, not kept
+        self.assertEqual(base_tier(wiki_only), "wikipedia")
+        self.assertEqual(base_tier(mixed, Reg()), "standard")
+
     def test_quantities(self):
         q = quantities("Clay particles are smaller than 0.002 mm; sand ranges 0.05–2 mm; pH 5.5 to 6.5.")
         self.assertIn((0.002, 0.002, "mm"), q)
