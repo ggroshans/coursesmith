@@ -81,13 +81,40 @@ _TEXT_PATTERNS = [
 ]
 
 
+# short names a LICENSE file or README states on one line, matched on word boundaries
+_NAME_PATTERNS = [
+    (re.compile(r"\bmit license\b", re.I), "permissive"),
+    (re.compile(r"\bapache(?: license)?,? (?:version )?2\.0\b", re.I), "permissive"),
+    (re.compile(r"\bbsd[- ](?:[23]-clause )?license\b", re.I), "permissive"),
+    (re.compile(r"\bgnu (?:lesser |affero )?general public license\b|\b[la]?gpl[- ]?v?[23]\b", re.I), "copyleft"),
+]
+_CC_URL = re.compile(r"creativecommons\.org/(?:licenses/([a-z]+(?:-[a-z]+)*)|publicdomain/zero)/", re.I)
+_CC_ABBREV = re.compile(r"\bcc[ -]by(?:[ -](?:nc|nd|sa))*\b|\bcc0\b", re.I)
+
+
 def detect_from_text(text):
-    """License class from the text of a LICENSE file, for repositories GitHub cannot match to an SPDX id."""
-    s = re.sub(r"\s+", " ", str(text or "").lower())
+    """License class from the text of a LICENSE file, for repositories GitHub cannot match to an SPDX id.
+
+    The license a file grants is the first one it names: a Creative Commons legal text opens with its title and
+    ends with boilerplate that mentions CC0, which must not change the answer. So every sign (a Creative Commons
+    link, an abbreviation like "CC BY-NC-ND 4.0", the long legal phrasing, a software license) is located and the
+    earliest wins."""
+    raw = str(text or "")
+    found = []
+    for m in _CC_URL.finditer(raw):
+        found.append((m.start(), "public-domain" if m.group(1) is None else classify("cc-" + m.group(1))))
+    for m in _CC_ABBREV.finditer(raw):
+        found.append((m.start(), classify(m.group(0))))
+    low = re.sub(r"\s+", " ", raw.lower())
     for phrase, cls in _TEXT_PATTERNS:
-        if phrase in s:
-            return cls
-    return "unknown"
+        k = low.find(phrase)
+        if k >= 0:
+            found.append((k, cls))
+    for rx, cls in _NAME_PATTERNS:
+        m = rx.search(raw)
+        if m:
+            found.append((m.start(), cls))
+    return min(found, key=lambda f: f[0])[1] if found else "unknown"
 
 
 def is_public(cls, overrides=None):

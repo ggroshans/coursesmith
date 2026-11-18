@@ -297,3 +297,42 @@ class PartsCommandTest(unittest.TestCase):
         lines.clear()
         self.assertEqual(parts.run(None, "other", registry=reg, log=lines.append), 0)
         self.assertIn("no split sources named 'other'", lines[0])
+
+
+class LicenseFilesAsFoundTest(unittest.TestCase):
+    """The license texts of the three system design guides, as their repositories carry them."""
+
+    def test_html_snippet_with_a_cc_link_and_abbreviation(self):
+        bbg = ('## License\n\n<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under '
+               '<a href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a></p>')
+        self.assertEqual(licenses.detect_from_text(bbg), "cc-by-nc-nd")
+
+    def test_primer_license_txt(self):
+        txt = ("I am providing code and resources in this repository to you under an open source license.\n\n"
+               "Copyright 2017 Donne Martin\n\nCreative Commons Attribution 4.0 International License (CC BY 4.0)\n\n"
+               "http://creativecommons.org/licenses/by/4.0/\n")
+        self.assertEqual(licenses.detect_from_text(txt), "cc-by")
+
+    def test_full_legal_code(self):
+        self.assertEqual(licenses.detect_from_text("Attribution-NonCommercial-NoDerivatives 4.0 International\n=====\n"),
+                         "cc-by-nc-nd")
+
+    def test_cc_legal_text_ending_with_cc0_boilerplate_is_not_public_domain(self):
+        # the real LICENSE of karanpratapsingh/system-design: titled NC-ND, its last pages mention the CC0 dedication
+        text = (GH / "karan.license.txt").read_text()
+        self.assertIn("CC0", text)
+        self.assertEqual(licenses.detect_from_text(text), "cc-by-nc-nd")
+
+    def test_earliest_mention_decides(self):
+        self.assertEqual(licenses.detect_from_text("MIT License. Docs under CC BY 4.0."), "permissive")
+        self.assertEqual(licenses.detect_from_text("Docs under CC BY 4.0. Code: MIT License"), "cc-by")
+
+    def test_abbreviations_and_urls(self):
+        for text, cls in (("licensed under CC BY-SA 4.0", "cc-by-sa"), ("CC-BY-NC 3.0", "cc-by-nc"),
+                          ("see https://creativecommons.org/licenses/by-sa/4.0/", "cc-by-sa"),
+                          ("https://creativecommons.org/publicdomain/zero/1.0/", "public-domain"),
+                          ("CC0 1.0 Universal", "public-domain"), ("CC BY 4.0", "cc-by")):
+            self.assertEqual(licenses.detect_from_text(text), cls, text)
+
+    def test_the_cc_license_in_a_readme_is_not_confused_with_a_word_that_contains_cc(self):
+        self.assertEqual(licenses.detect_from_text("Tuned for acc by tuning; nothing about licensing."), "unknown")
