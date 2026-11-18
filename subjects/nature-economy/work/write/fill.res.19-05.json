@@ -1,0 +1,113 @@
+{
+ "entries": {
+  "nature-res-029": {
+   "title": "Biological versus economic overfishing",
+   "text": "Whether a fishery is overfished depends on what counts as an acceptable level of fishing. Biological overfishing means fishing so hard that the stock's growth slows. Economic overfishing means catching more than the maximum economic yield, where resource rent is highest. That second test adds the cost of fishing to the judgment: an economically overfished fishery is simply less profitable than it could be. A dynamic version uses a discount rate to maximize the present value of resource rent over all future catches."
+  },
+  "nature-res-037": {
+   "title": "Territorial use rights: giving fishers their own patch",
+   "text": "Chile has over 700 territorial fishing areas, covering around 1100 square kilometres of sea. Territorial use rights for fishing (TURFs) give communities or individuals exclusive fishing privileges over a defined area to prevent overexploitation. They usually go to communities with long traditions of sustainable fishing and are run by local fishers, under conservation rules the government sets. Because fishers depend on their own areas, they have a reason to look after them. Chile and Japan offer the most successful examples, and Chile's TURFs for small-scale fishers helped rebuild seabed fish stocks and raised compliance."
+  },
+  "nature-res-056": {
+   "title": "Farming up the food web",
+   "text": "Mediterranean bluefin tuna farming grew from almost zero in 1986 to 30,000 tonnes by 2005. Yet it breeds no tuna: it only fattens juveniles caught from the wild. Farming up the food web is the rise in the average trophic level of farmed fish while that of wild catches falls. Feeding high-level fish takes fishmeal from sardines and anchovies that people could eat directly, so such farming consumes more fish than it produces."
+  },
+  "nature-res-055": {
+   "title": "The Marine Trophic Index: a thermometer for the sea",
+   "text": "In 2000 the {{ref:nature-gov-015}} chose the Marine Trophic Index as one of eight indicators of ecosystem health, and asked members to report changes. The index is the average trophic level of a fishery's catch. A falling index generally means large predators are being depleted and more small forage fish are caught. A steady or rising one signals a stable or improving fishery. One quirk: lucrative crustacean and mollusc fisheries sit at low trophic levels, so they pull the index down."
+  },
+  "nature-res-076": {
+   "title": "Annual sustainable yield: resetting the catch each year",
+   "text": "Carrying capacity is not fixed; it moves from year to year, so the safe catch moves too. Annual sustainable yield is the biomass that can be harvested from a fish population each year without causing it to decline. Managers adjust it every year according to population levels and how previous seasons went, so that it tracks a maximum sustainable yield that varies with conditions."
+  },
+  "nature-res-073": {
+   "title": "Seafood ecolabels: certifying the catch",
+   "text": "In 1996 the MSC, a marine certification council, launched the first seafood certification program. Seafood ecolabeling has an independent third party check a fishery's or farm's production against environmental standards, and license a label for products that pass. The label tells consumers the product was produced sustainably and can bring producers a financial benefit. MSC certification requires healthy fish stocks, minimal ecosystem impact and effective management. Critics say the MSC has certified troubled or data-poor fisheries, and one study found 31% of MSC-certified stocks were overfished."
+  },
+  "nature-res-074": {
+   "title": "Seafood guides: red, yellow, green",
+   "text": "Many seafood guides borrow the traffic light: red, yellow and green. They tell shoppers which species are fine to eat and which to avoid, based on environmental impact. Rankings reflect how a species copes with fishing pressure, its abundance, the impact of the gear, bycatch and management. The guides let consumers 'vote with their wallets'."
+  },
+  "nature-res-048": {
+   "title": "Fish mortality: counting the deaths",
+   "text": "Every fish that leaves a stock dies either by nature or by net. Fish mortality is the measure population models use for that loss. Natural mortality, M, covers disease, predation, old age or pollution; fishing mortality, F, covers deaths from fishing gear. The two add up to total mortality, Z = M + F, usually figured per year. Fishing mortality can be estimated by dividing the catch, including landings and dead discards, by the average stock size. Comparing deaths with births or recruits shows whether a population is growing or shrinking, which helps managers set harvest limits."
+  },
+  "nature-res-070": {
+   "title": "Stock assessment: taking a fish population's pulse",
+   "text": "Before managers can set a catch limit, someone has to estimate how many fish there are. A stock assessment gathers biological and fishery data to give managers the information they use to regulate a stock. Biological data include age structure, fecundity, natural and fishing mortality, growth and an estimate of total population or biomass. Data come from the fishery itself, such as recorded landings, and from independent surveys using trawls, seines or acoustic and video methods. Common models range from {{ref:nature-res-085}}, which need the least data, to statistical age- or length-structured models and {{ref:nature-res-063}}. Modern methods statistically combine several sources to estimate key quantities and their uncertainty. Managers then predict how stocks will respond to different fishing pressures. Two words matter: a stock is 'overfished' when its biomass is below the level that supports maximum sustainable yield, while 'overfishing' means removing fish too fast."
+  },
+  "nature-res-030": {
+   "title": "Harvest control rules: deciding the catch in advance",
+   "text": "The rules are agreed before anyone sees the next stock estimate. A harvest control rule is a set of pre-agreed tools that ties how much may be caught to the estimated state of the stock. Constant catch and constant fishing mortality are two simple types. The traffic-light convention sets rules around critical values that are adjusted as more is learned. Major fisheries worldwide now use such rules with a precautionary approach."
+  },
+  "nature-res-018": {
+   "title": "Individual fishing quotas: shares in the catch",
+   "text": "Before quotas came in 1995, Alaska's halibut season had shrunk to two or three days. Now it lasts nearly eight months. Individual fishing quotas, also called individual transferable quotas (ITQs), are catch shares. A regulator sets a total allowable catch for each species, usually by weight and for a given period, and hands portions of it to individual fishers. Quotas can usually be bought, sold and leased. The Netherlands, Iceland and Canada adopted them first in the late 1970s, and New Zealand made ITQs national policy in 1986. Like pollution permits, they are a cap-and-trade approach, but they regulate the industry's actual product rather than a by-product. By 2008, 148 major fisheries used some form of them, managing about 10% of the marine harvest. A 2008 study of 11,000 fisheries found catch share fisheries only half as likely to fail as open-access ones, nearly a third of which had collapsed. Compared with other modern schemes, though, they show no long-term ecological advantage. Studies still disagree on whether they improve stock health, and critics fault their social effects on small-scale fishers."
+  },
+  "nature-res-036": {
+   "title": "Fisheries law: a young legal field",
+   "text": "The 1982 UN Convention on the oceans, in force from 1994, was one of the first international fisheries laws. Fisheries law is an emerging specialist field that studies management approaches such as catch shares and territorial use rights. It also covers international treaties, seafood safety, the regulation of fish farming and feed, and access to justice for small-scale and aboriginal fishers. Few law schools teach it, which leaves a gap in advocacy and research."
+  },
+  "nature-res-063": {
+   "title": "Virtual population analysis: counting fish backward",
+   "text": "No one ever counts the fish directly. Virtual population analysis reconstructs past numbers of fish at each age from the yearly deaths in each cohort, the fish born in the same year. Deaths are split into fishery catch and natural mortality. The method is 'virtual' because population size is back-calculated from observed catches and an assumed natural death rate."
+  },
+  "nature-res-022": {
+   "title": "The case against individual fishing quotas",
+   "text": "About eight companies control 80% of New Zealand's fisheries through quota purchases. Critics say individual fishing quotas privatize a public resource, concentrate it in few hands and hurt fishing communities. First recipients get windfall profits, while later entrants must buy or lease the right to fish. Leasing breeds 'armchair fishermen' who hold quota but do not fish. In the Bering Sea crab fishery, lease fees can reach 80% of landed value, leaving active fishers 20% of revenue. Supporters credit the quotas with preventing collapses, so the argument continues."
+  },
+  "nature-res-023": {
+   "title": "Highgrading: dumping fish to fill the quota with the best",
+   "text": "Under a quota, a fisher earns more by landing only the most valuable fish. Highgrading is catching more than the quota allows and dumping the less valuable fish, so the quota is filled with the best. Many of the dumped fish are already dead or die soon, adding to the drain on stocks. Tradable quotas can change the criteria fishers use to decide which fish to keep."
+  },
+  "nature-res-021": {
+   "title": "Grant or auction: who gets the first quotas?",
+   "text": "In 2019 Russia auctioned crab quotas and raised about 2 billion euro. Fishing quotas can first be handed out free, usually according to past catch, or sold at auction, and the choice decides who captures the resource's value. Grants by catch history hand individuals a valuable right at no cost and are inherently political. Auctions repay the public for access, much as US radio spectrum auctions raised tens of billions of dollars. In Iceland the dispute is live, with critics arguing quotas should return to the state and be auctioned so the public gets a fair share of profits."
+  },
+  "nature-res-020": {
+   "title": "The race to fish",
+   "text": "When a season opens for only a few days, boats head out whatever the weather. The race to fish is that scramble to catch as much as possible during short open seasons. Early management set a season whose length tracked how abundant the stock was, which made the race worse as stocks fell. Catch shares were designed to end it. With them, fishers schedule trips as they like, boom-and-bust market cycles fade, and fishing in hazardous weather becomes unnecessary."
+  },
+  "nature-res-071": {
+   "title": "Biological reference points: the red lines of a fishery",
+   "text": "Biomass at maximum sustainable yield is typically around 40-50% of unfished biomass, though Australia often targets a more cautious 60%. Biological reference points are benchmarks, produced by stock assessments, against which fishing rules are set. If current fishing mortality divided by the mortality giving maximum sustainable yield exceeds one, overfishing is happening. When fishing mortality passes its limit or the spawning stock falls below its threshold, the fishery is shut. Maximum sustainable yield considers only biology; optimum yield also weighs the economics of the harvest."
+  },
+  "nature-res-046": {
+   "title": "Discard bans: landing everything caught",
+   "text": "In 1987 Norway banned throwing back some commercial species, and closed areas when bycatch got too high. A discard ban requires fishers to land what they catch, so dead discards are counted in the fishing mortality managers use. Quota rules can work against this. In New Zealand discarding rose right after ITQs began, until the government raised payment for over-quota landings from 10 to 50 per cent of market price. Older EU quota rules forced fishers to discard over-quota fish, and the reformed Common Fisheries Policy added a Landing Obligation."
+  },
+  "nature-res-086": {
+   "title": "Too many boats chasing too few fish",
+   "text": "Global landings peaked in the late 1980s and have declined even as fishing effort kept rising. Fishing effort is the human work put into catching fish. A good measure tracks the catch, for example a trawl fleet's engine power times days at sea, kW × days. Excess effort and overcapacity in fleets threaten the sustainability of stocks. Schaefer assumed that in an unregulated fishery effort rises until no more profit can be made. Some subsidies push effort higher, and WTO members agreed to ban certain of them."
+  },
+  "nature-res-087": {
+   "title": "Optimal harvesting: when and how much to take",
+   "text": "Fish and forests both pose the same question: harvest now, or wait for more growth? Optimal harvesting theory answers it with optimization methods from economics and operations research, and fisheries use it widely. Population dynamics supplies the biology. The economic aim is to maximize the present value of all future profits from the resource. If crowding limits survival only among larvae, the best plan is to harvest a single most valuable life stage at maximum sustainable yield. In forests, {{ref:nature-res-106}} applies the same logic, setting the best harvest age from growth, timber prices and a discount rate."
+  },
+  "nature-res-085": {
+   "title": "Surplus production models: the simplest stock assessment",
+   "text": "Of the three common kinds of stock assessment model, surplus production models need the least data. Schaefer's version, built on Verhulst's logistic growth, uses the catch equation H = qEX, linking catch to fishing effort and stock biomass. Setting catch equal to natural growth gives an equilibrium catch for each long-run level of effort. Because these models estimate maximum sustainable yield directly, they made MSY popular in the 1950s."
+  },
+  "nature-res-044": {
+   "title": "Density dependence: why thinning a stock can help it grow",
+   "text": "Fish can be harvested sustainably for one reason: thinning a population makes it grow faster. Density dependence is when a population's growth rate is controlled by how crowded it is. In negative density dependence, crowding, predators and competition slow growth, and each individual leaves fewer offspring. In positive density dependence, the Allee effect, growth speeds up as density rises."
+  },
+  "nature-res-014": {
+   "title": "The logistic harvesting model: a knife-edge at MSY",
+   "text": "Take a constant catch H out of a population growing logistically, and ask where catch equals growth. That is the simplest harvest model. The population is at equilibrium when it stops changing, when dN/dt = 0 and growth equals harvest. The maximum harvest equals one-fourth of the carrying capacity K times the intrinsic growth rate r, reached at half of K. Below that maximum there are two equilibria. The higher one is stable; the lower one collapses toward extinction after any shock. The MSY point itself is semi-stable, a knife-edge where a small drop in numbers spirals to extinction unless the catch is cut. Harvesting a fixed percentage, or a constant effort, instead of a fixed number avoids some of these instabilities. Any harvest pulls a population below its original carrying capacity, and sustainable harvest is possible only because of density dependence."
+  },
+  "nature-res-053": {
+   "title": "Fisheries-induced evolution: nets that reshape a species",
+   "text": "Over 500 years of catching the largest Atlantic cod shifted the species toward maturing earlier at smaller sizes. Fisheries-induced evolution is genetic change in a fished population caused by fishing selectively removing individuals with certain traits. It often brings earlier maturation, smaller adults and lower fecundity. Even unselective gear can select: fast-growing, active rainbow trout were 60% more likely to be caught in gill nets. Reduced genetic diversity is predicted to weaken populations' ability to adapt to environmental change."
+  },
+  "nature-res-059": {
+   "title": "The whaling convention: from open hunt to strict limits",
+   "text": "On 3 December 1946, 15 countries met in Washington and signed the International Convention for the Regulation of Whaling. Whales had been overexploited after World War I, and the agreement aimed to conserve stocks so the whaling industry could develop in an orderly way. Its International Whaling Commission meets yearly and sets binding catch limits, methods and protected zones. It moved whaling from open hunting to highly restricted hunting, though Japan withdrew in 2019 to resume commercial whaling. Members still disagree on whether it covers only great whales or all cetaceans."
+  }
+ },
+ "openers": {},
+ "reviews": {
+  "fisheries": "Fish stocks regrow, but only when the catch stays within what breeding and growth add, and the share of stocks fished within sustainable levels has fallen from 90% in 1974. Open access is the root problem: under the rule of capture each boat races to land fish before others do, fleets overbuild, and the resource rent is wiped out. Science supplies the yardsticks, from logistic models and maximum sustainable yield to stock assessments, though critics warn that MSY itself has helped empty the sea. Managers answer with input and output controls, exclusive economic zones, marine protected areas, quotas that fishers can own and trade, and community fishing rights. Each tool trades off biology, profit and fairness, which is why fights over bycatch, subsidies and quota auctions never quite end."
+ },
+ "glossary": {}
+}

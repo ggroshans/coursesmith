@@ -1,0 +1,97 @@
+{
+ "entries": {
+  "nature-clim-235": {
+   "title": "Cost-effectiveness: the cheapest route to a set goal",
+   "text": "When benefits are hard to price, analysts can skip that step. Cost-effectiveness analysis in climate policy ranks options by their cost per unit of a set goal. For mitigation the goal is usually tonnes of greenhouse gas cut, giving a cost such as dollars per tonne of CO2. Adaptation has no common goal, so the measure might be hectares of land at risk from sea level rise. The method can find the cheapest way to meet a fixed target, such as a sector's emissions cut."
+  },
+  "nature-clim-237": {
+   "title": "Who should pay for climate change?",
+   "text": "Industrialized countries contributed over two-thirds of the human-made greenhouse gas stock, a stock some call an environmental debt. Who should bear the costs of adaptation and mitigation is fiercely debated, and there is no consensus. One approach charges those who benefit most from the public good of a stable climate. On a utilitarian basis, a case can be made for richer countries carrying most of the mitigation burden. A 2019 study found climate change had already widened global economic inequality, with poor hot countries growing less. Economics alone cannot settle these questions of equity."
+  },
+  "nature-clim-236": {
+   "title": "Deciding now, revising later",
+   "text": "Climate policy need not be settled once and for all. Sequential decision making handles uncertainty through a series of decisions, each revised as better information arrives. It is closely related to iterative risk management. Its central trade-off weighs the irreversibility of climate damages against the irreversibility of investments to cut emissions. Stringent near-term cuts keep open the option of a low target, such as 450 ppm, or parts per million, of CO2. Weaker cuts may close that option."
+  },
+  "nature-clim-231": {
+   "title": "Dividing up the work of cutting emissions",
+   "text": "Two-thirds of today's atmospheric greenhouse gas stock comes from developed countries. That fact anchors one of several competing proposals for sharing the job of cutting emissions. The historical responsibility view bases emission rights on past emissions. The most widely cited approach, drawn from egalitarianism, gives every person an equal entitlement. Other proposals rest on basic needs, ability to pay, willingness to pay, or current emissions. The choice matters. Allocating permits by current emissions leaves developing countries worse off, while per-person convergence leaves them better off. No consensus exists."
+  },
+  "nature-clim-229": {
+   "title": "Are climate damage estimates far too low?",
+   "text": "Leave tipping points out, and global economic impact is underestimated by a factor of two to eight, a 2018 study found. Tipping points are thresholds beyond which large, accelerating and often irreversible changes in the climate system follow. Many models also leave out some climate risks. They do not fully trace how damage in one industry or region spreads to others. Hence the argument that standard estimates are too low, though economists still disagree over whether figures such as the Stern Review's capture the full damages."
+  },
+  "nature-clim-224": {
+   "title": "How climate change threatens ecosystems",
+   "text": "Across North America, wildfires and pest outbreaks driven by climate change caused much of the recent death of trees. That is one face of the risk climate change poses to ecosystems and the services they provide. The main threats are biodiversity loss, changes in ecosystem structure, more tree deaths, more wildfire and losses of ecosystem carbon. The risks compound, because losing species can raise the risks to ecosystem health."
+  },
+  "nature-clim-256": {
+   "title": "The moral questions climate change forces",
+   "text": "Half the world's carbon is emitted by its richest 500 million people. Developed countries have gained most from burning fossil fuels, yet most climate impacts will fall on the developing world. The ethics of climate change studies the moral questions such gaps raise. One concerns income. Emissions rise with income wherever one lives, and poorer people are more exposed because they have fewer means to adapt. Another concerns time. Climate change plays out over many generations, setting today's economic and political interests against those of future people. Economics can predict how policies affect the economy, but it cannot say which path to choose. That depends on society's values. Moral theories reach different answers. Utilitarianism, which seeks the greatest total welfare, favors a low or zero discount rate. Prioritarianism, which gives extra weight to the worst off, can justify a high rate. A rights-based view holds that climate change threatens rights to life, health, food, water, security and shelter. Disagreement runs deep, over whether and how far society should act, and over the ethical basis for discounting the future."
+  },
+  "nature-clim-250": {
+   "title": "The carbon bubble: fossil fuel wealth that cannot be burned",
+   "text": "In 2011 the Carbon Tracker Initiative found that the world could burn only 20% of its fossil fuel reserves to stay below 2 °C. The rest would become stranded assets, though investors treated them as low-risk. Carbon Tracker coined the term carbon bubble, in reports from 2011 and 2013, for the suspected overvaluation that results. The limit behind it is a carbon budget, the upper limit on CO2 emissions that keeps warming below a given level. A 2021 analysis tightened the squeeze. For even a 50% chance of staying below 1.5 °C, 90% of coal and 60% of oil and gas reserves could not be extracted. Quarterly results and accounting standards push investors to ignore such long-term risks. An orderly transition away from fossil fuels could prevent a disruptive bursting of the bubble."
+  },
+  "nature-clim-242": {
+   "title": "Five steps to a social cost of carbon",
+   "text": "Estimating the social cost of carbon takes five steps. Analysts project future emissions, model the climate response, assess impacts, put a money value on damages, and discount them. The discount rate shapes the result. A low rate of 1–2% values future welfare nearly equal to today's, while a high rate of 4–5% discounts future damages heavily. Recent literature supports declining rates that start higher and fall over time. Some versions add a catastrophic risk premium for possible disasters and society's dislike of risk."
+  },
+  "nature-clim-243": {
+   "title": "DICE, FUND and PAGE: three models, three answers",
+   "text": "For years, three integrated assessment models underpinned estimates of the social cost of carbon. DICE finds a single global optimal path and assumes damages grow with the square of temperature, with no tipping points. FUND models impacts by region and sector, and lets some regions gain from warming. PAGE is probabilistic, using Monte Carlo simulations, repeated random trials, of thousands of futures, catastrophes included. Their methods can give dramatically different values, so the Obama-era estimate averaged runs of all three."
+  },
+  "nature-clim-244": {
+   "title": "Adding tipping points to the social cost of carbon",
+   "text": "Standard climate-economy models assume damages rise smoothly and continuously. That may underestimate the risk. Some extensions add abrupt, irreversible damages when warming crosses critical thresholds. One method multiplies the probability of a tipping event by its expected catastrophic damages. Modeling studies suggest that including tipping points can double the social cost of carbon. The smooth curve they replace is the subject of {{ref:nature-clim-234}}."
+  },
+  "nature-clim-253": {
+   "title": "Mitigation scenarios: futures where warming is curbed",
+   "text": "A 550 ppm target, roughly double pre-industrial CO2, implies about three degrees of warming by conventional estimates. Targets like that drive climate change mitigation scenarios: possible futures in which deliberate action, such as a broad switch away from fossil fuels, reduces warming. A typical one picks a long-range target, such as a CO2 concentration, then fits actions to it, for example a cap on emissions. Analysts use them to test how different carbon prices affect an economy. Reaching 450 ppm depends heavily on bioenergy with carbon capture, according to the IEA and OECD."
+  },
+  "nature-clim-254": {
+   "title": "Representative Concentration Pathways: futures named by forcing",
+   "text": "Some IPCC scenarios start from the atmosphere rather than the economy. Representative Concentration Pathways project future greenhouse gas concentrations, not emissions. The original four, RCP2.6, RCP4.5, RCP6 and RCP8.5, are named for their radiative forcing in 2100, in watts per square meter (W/m2). Higher values mean more emissions, higher temperatures and stronger climate effects. The IPCC's Fifth Assessment Report began using them in 2014, and the Sixth pairs them with the Shared Socioeconomic Pathways. A study published in 2026 found RCP8.5 no longer plausible."
+  },
+  "nature-clim-249": {
+   "title": "Process-based models: mapping the road sector by sector",
+   "text": "How exactly could the world meet the Paris Agreement's 1.5 °C goal? Process-based integrated assessment models map detailed sector-by-sector pathways to such targets, and the IPCC uses them to quantify mitigation scenarios. They underpin energy policy assessment and simulate the Shared Socioeconomic Pathways. Well-known frameworks include IMAGE, MESSAGEix, AIM/GCE, GCAM, REMIND-MAgPIE and WITCH-GLOBIOM. One pattern recurs: beyond 2050, bioenergy with carbon capture forms a large part of meeting climate targets in their pathways."
+  },
+  "nature-clim-258": {
+   "title": "Fat tails: when disaster is likelier than it looks",
+   "text": "The market crashes of 1929, 1987 and 2008 were not mathematically well-behaved events. They show why fat-tailed distributions matter. In such a distribution, extreme outcomes are much more likely than in a normal, bell-shaped, or exponential one. The most extreme case has a tail that decays like a power law. Fitting a normal distribution to fat-tailed data understates the true risk. Martin Weitzman argued that the economy-climate system may have fat tails, which standard climate economics handles poorly."
+  },
+  "nature-clim-255": {
+   "title": "Fast and slow: two measures of climate sensitivity",
+   "text": "The oceans buy time by buffering warming in the short term. So climate scientists use two measures of sensitivity. The transient climate response is the warming around the time CO2 doubles, in a simulation where CO2 rises 1% a year. Equilibrium climate sensitivity is the long-term rise once feedbacks have played out, which can take centuries or millennia. Because of the ocean buffer, the equilibrium figure is the higher of the two."
+  },
+  "nature-clim-257": {
+   "title": "Duties to people not yet born",
+   "text": "Democracies work on election cycles of a few years. Climate change unfolds over hundreds to thousands of years. That mismatch sits at the heart of intergenerational climate ethics: the duty of people alive now to use resources sustainably and protect the interests of future generations. Emissions today affect future generations more than the people who cause them. Pushing impacts onto future people weakens the felt link between cause and effect, and can sap the will to act."
+  },
+  "nature-clim-273": {
+   "title": "Deep uncertainty: when even the odds are unknown",
+   "text": "Ordinary risk comes with known odds. Deep uncertainty does not: decision-makers do not know, or cannot agree on, how actions lead to outcomes or the probabilities of key inputs. One response, {{ref:nature-clim-266}}, describes it with ranges or sets of plausible probability distributions rather than one best estimate. Decision-making under deep uncertainty may also test actions across many climate scenarios. The DICE model has been criticized for ignoring deep uncertainty, which tends to lower its social cost of carbon."
+  },
+  "nature-clim-266": {
+   "title": "Robust decision-making: plans that survive being wrong",
+   "text": "Most planning predicts the future, then acts. Robust decision-making reverses the order. Built for deep uncertainty, it asks which uncertainties would make a strategy fail, using scenario discovery on large sets of simulations. It judges policies by robustness rather than optimality, often accepting slightly worse best-case results for less sensitivity to wrong assumptions. The process repeats, exposing weak points and trade-offs. Researchers at the RAND Corporation developed most of it, and an early 1996 study applied it to adaptive strategies for cutting emissions."
+  },
+  "nature-clim-272": {
+   "title": "FUND: Richard Tol's region-by-region model",
+   "text": "FUND, Richard Tol's integrated assessment model, estimates climate damages region by region and sector by sector. It covers impacts such as agriculture, health and sea level rise, and includes some adaptation over time. Unusually, it allows negative damages, meaning some regions or sectors gain from warming. Its assumptions about adaptation and warming benefits can understate damages. It is used for the social cost of carbon, though a reviewer of the Copenhagen Consensus said relying on it alone was not reasonable."
+  },
+  "nature-clim-271": {
+   "title": "PAGE: modeling thousands of possible futures",
+   "text": "Chris Hope of Cambridge University designed the PAGE2002 version of this model, used in the Stern Review. PAGE is a probabilistic integrated assessment model, one of the three main models behind social cost of carbon estimates. It uses Monte Carlo simulations to model thousands of possible futures, treating catastrophes and tipping points as matters of probability. It tends to give higher estimates, with wide uncertainty bands."
+  },
+  "nature-clim-269": {
+   "title": "The green paradox: when climate policy speeds extraction",
+   "text": "Could tougher climate policy make warming worse? Hans-Werner Sinn argues it can. Policies that will get greener lower future fuel prices more than current ones. So fossil fuel owners extract more now and invest the proceeds in capital markets. Countries that do not cut demand then burn both the carbon freed by greener countries and the extra carbon extracted early. Sinn wants policy aimed at supply, such as taxing owners' capital gains or a global emissions trading cap. His book is controversial. Critics note that he overlooks fossil fuel support of US$160–200 billion a year in OECD and key emerging economies."
+  }
+ },
+ "openers": {},
+ "reviews": {
+  "the-economics-of-climate-change": "Climate economics starts by putting a money value on harm, from the social cost of one more ton of carbon dioxide to damages that could cut global GDP by 10–23% by 2100. Integrated assessment models such as DICE, FUND and PAGE produce those values, but their answers swing with a few assumptions, above all the discount rate. Critics add that they miss tipping points, fat tails and deep uncertainty. Scenarios frame the futures these models explore, while carbon accounting, the Kaya identity and marginal abatement cost curves show where cuts can come from and what they cost. Running through it all is fairness: the rich caused most emissions, the poor face most harm, and economics cannot say which path to choose."
+ },
+ "glossary": {}
+}

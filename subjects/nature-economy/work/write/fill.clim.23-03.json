@@ -1,0 +1,139 @@
+{
+ "entries": {
+  "nature-clim-108": {
+   "title": "Efficiency: the first fuel",
+   "text": "Between 1974 and 2010, efficiency measures avoided more energy use in the IEA's member states than any single fuel supplied. That is why energy policy increasingly calls efficient energy use the 'first fuel'. It means reducing the energy needed to provide the same products and services. An insulated building, for example, stays comfortable while using less energy for heating and cooling. The two main motives are saving operating costs and cutting greenhouse gas emissions, and it can also reduce dependence on imported energy. Efficient technology usually carries an upfront capital cost, and life-cycle assessment can compare the costs over time. The potential is large. Better efficiency in buildings, industry and transport could cut the world's energy needs in 2050 by one third. The IEA estimates it could deliver 40% of the emission cuts the Paris goals need. Its extra benefits, such as cleaner air, better health and energy security, have sometimes been valued above the energy savings themselves. California shows what policy can do. Its efficiency standards from the mid-1970s kept per-capita energy use about flat while US consumption doubled. Tools include carbon taxes, efficiency standards for appliances, buildings and vehicles, and subsidies for efficient equipment."
+  },
+  "nature-clim-133": {
+   "title": "Energy economics: how societies supply and use power",
+   "text": "In 1865 W.S. Jevons worried that Britain would run short of coal. Energy has been prominent in economics since the 1973 oil crisis, but the worry is old. Energy economics studies how societies supply and use energy, and the costs and value of energy services. Those services are the end uses energy provides, such as lighting, heating and fuel, and the aim is to deliver them with the least energy input. It is an applied branch of economics, drawing on engineering, geology, political science and ecology rather than standing alone. Its topics include how strongly supply and demand respond to price in energy markets, and the liberalization and regulation of electricity markets. Harold Hotelling's rule gave an early price path for exhaustible resources such as fossil fuels. Its theory has grown around three themes: the rebound effect, the energy efficiency gap and, more recently, green nudges. Vaclav Smil goes further. He argues that every economic activity is at root a conversion of energy, with money only a rough proxy for valuing energy flows."
+  },
+  "nature-clim-114": {
+   "title": "Energy security: when supply becomes a matter of state",
+   "text": "Modern economies run on affordable energy, and supplies are spread unevenly among countries. That creates serious vulnerabilities, which is why energy security links a nation's security to the reliable availability of energy. Threats include instability in producing countries, supply manipulation, and attacks on pipelines and grids. The 1973 oil crisis and the rise of the OPEC cartel pushed countries such as Japan to diversify into gas, nuclear power, mass transit and conservation. Imported natural gas carries sharper short-term risks than oil, as the Russia–Ukraine gas disputes of 2006 and 2009 showed. Wind, solar and efficiency are spread across many countries, unlike fossil fuels. Deploying them and diversifying sources therefore raises security. Russia's 2022 invasion of Ukraine made energy security a stronger driver of Europe's energy transition. Carefully phasing out fossil fuel subsidies would also help, according to the International Institute for Sustainable Development."
+  },
+  "nature-clim-127": {
+   "title": "The price of oil: one number the world watches",
+   "text": "In July 2008 oil peaked at US$147 a barrel. By December it had fallen to US$34 as the financial crisis took hold. The price of oil is the spot price of a barrel of benchmark crude, such as Brent or West Texas Intermediate, that buyers and sellers use as a reference. It is set by global supply and demand rather than any one country's output, though the OPEC cartel pushes prices up. Prices were fairly steady from 1861 until the 1970s, when the 1973 and 1979 crises drove a significant rise. The main drivers have been shocks to supply, demand, storage and global growth. In 2014, after a supply glut, prices began a 70% drop lasting to 2016, one of the three biggest declines since World War II. High prices generally hurt growth and raise the cost of many products, including food. Costs differ widely: in 2019 Middle Eastern oil broke even at about US$42 a barrel and oil sands at US$83."
+  },
+  "nature-clim-111": {
+   "title": "Energy intensity: how much energy each dollar takes",
+   "text": "Using 2003–2004 figures, the United States used 8,553 BTU of energy per dollar of GDP. Bangladesh used about a quarter of that, and Russia more than double. Energy intensity is the amount of energy an economy uses per unit of GDP or other output. It is not the same as efficiency. Climate, economic structure such as services versus manufacturing, and trade all affect it. Cold or hot climates raise it through heating and cooling, and higher living standards bring more energy-using goods. Its inverse, economic energy efficiency, counts GDP per unit of energy. The change in energy use needed to raise GDP over time is called energy elasticity. It is one of the four factors in the Kaya identity, and it has generally fallen worldwide with better efficiency, technology and structural shifts. Official statistics count only marketed energy, so firewood, charcoal and similar sources are left out."
+  },
+  "nature-clim-109": {
+   "title": "The rebound effect: why efficiency saves less than expected",
+   "text": "A fuel-efficient car makes driving cheaper, so its owner may drive farther and give back part of the savings. That is the rebound effect: efficiency gains make energy services cheaper, so people use more of them. Estimates range from roughly 5% to 40%, likely under 30% for households and nearer 10% for transport. A 30% rebound means an efficiency gain delivers only 70% of the savings engineering models predict. The long view is sobering. Historical analysis shows efficiency gains were almost always outpaced by economic growth, so total resource use and pollution still rose."
+  },
+  "nature-clim-105": {
+   "title": "Demand response: bending use to fit supply",
+   "text": "A 1% shift in peak electricity demand would save 3.9%, one study found. A 5% cut in demand might have halved peak prices in California's 2000–2001 electricity crisis. Demand response changes how much electricity customers use to better match demand to supply. Instead of adjusting power plants, it adjusts demand in real time, a technology-enabled rationing system. Most consumers pay a fixed average price, so their use ignores the real cost of production. Utilities instead signal through cheaper off-peak rates or smart meters that send price changes, and customers delay power-hungry tasks or pay more. It can be cheaper than building extra capacity for rare spikes. Flexible loads such as heat pumps also help smooth swings from wind and solar. There is a limit: consumers lose the value of electricity they do not use."
+  },
+  "nature-clim-112": {
+   "title": "Energy poverty: life without modern energy",
+   "text": "In 2024 an estimated 655 million people had no electricity, and about two billion cooked with polluting fuels and technologies. Energy poverty is this lack of modern energy services, such as electricity and clean cooking fuel, at home. Causes include missing power plants, lines and pipelines, and prices poorer households cannot afford. It harms health, education and women's opportunities. Household air pollution caused about 2.9 million deaths in 2021, by the WHO's estimate. Women and children in homes burning wood, charcoal or dung do most of the cooking and fuel collection, so they bear most of the harm. Ninety percent of children in Sub-Saharan Africa attend primary schools without electricity. In the Global North it is usually called fuel poverty: homes that cannot afford heating, cooling and power. No single measure is accepted internationally. Clean cook stoves running on LPG or electricity are a recommended low-cost remedy."
+  },
+  "nature-clim-117": {
+   "title": "The experience curve: cheaper with every doubling",
+   "text": "In 1936 the engineer Theodore Paul Wright noticed that each doubling of total aircraft production cut the labor needed for a new plane by 20%. The pattern, now called Wright's law, is the experience curve effect: costs fall by a steady share each time cumulative production doubles. Other industries show cuts from a couple of percent up to 30% per doubling, usually constant within each industry. Bruce Henderson of the Boston Consulting Group coined the term in the 1960s. Causes include growing worker skill, standardization, specialization, new technology, fuller use of equipment and redesign. Firms therefore gain by expanding early, winning lower costs and larger market share. Storage shows the effect: lithium-ion battery prices fall 19% with each doubling of capacity, while pumped hydro has barely fallen. Critics note the effect is tangled with economies of scale."
+  },
+  "nature-clim-103": {
+   "title": "Capacity factor: how hard a power plant really works",
+   "text": "A plant that runs at full power from 8 am to 8 pm every day, and sits idle otherwise, has a 50% capacity factor. The measure compares the electricity a plant actually produces with what it would make running at full rated power the whole time. It is usually calculated over a year, to average out fluctuations, and it lets different kinds of generation be compared. Nuclear plants sit near the top, about 88.7% on average for US plants over 2006–2012. Typical wind farms run between 25 and 45%. Photovoltaic solar ranges from 29.1% in Arizona to 12.0% in Bavaria, because output depends on daylight and latitude. For wind, sun and water the limit is whether the 'fuel' is available. Peaking plants run rarely, so their few hours of output must cover fixed costs, making their power expensive."
+  },
+  "nature-clim-130": {
+   "title": "Variable renewables: power that follows the weather",
+   "text": "In 2024 wind and solar supplied 15% of the world's electricity and together overtook hydropower for the first time. They are variable renewable energy: their output rises and falls with the weather and cannot be adjusted on demand. Their traits, unpredictability, variability and low operating costs, make matching supply and demand harder. Small amounts barely affect the grid, but large amounts may require redesigning it. Options include storage, demand response, overcapacity, interconnected grids and linking power with heat, transport and industry. Spreading wind farms widely helps, because distant turbines' outputs are imperfectly correlated. Combined wind and solar could reach 70% to 90% of supply without such help, and up to 94% with 12 hours of storage. How much variability adds to costs is debated. The extra costs are small at low shares and expected to rise as shares grow."
+  },
+  "nature-clim-119": {
+   "title": "Grid storage: saving electricity for later",
+   "text": "Battery costs fell by 90% between 2010 and 2023. Grid energy storage, technologies connected to the grid that store electricity for later use, has grown with them. It stores surplus power from variable sources such as solar and inflexible ones such as nuclear, then releases it when needed. It is one of three main ways to replace the flexibility fossil fuels gave the grid. As of 2023 pumped hydro was the largest form, at 181 GW, ahead of about 88 GW of batteries. Different jobs need different tools. Lithium-ion batteries suit under 8 hours, flow batteries and compressed air medium durations, and hydrogen and heat seasonal storage. Below 40% variable renewables, storage under 4 hours suffices. At 80% medium-duration storage is needed, and above 90% long-duration storage. Storage can also help restart a grid after a blackout."
+  },
+  "nature-clim-122": {
+   "title": "Levelized cost of electricity: comparing power plants fairly",
+   "text": "Since 2013, power from new wind has been cheaper over its lifetime than power from any fossil fuel, and solar followed in 2015. The yardstick is the levelized cost of electricity (LCOE): the average lifetime cost of a generator's electricity, in today's money per unit of energy. It divides the discounted sum of investment, maintenance and fuel costs by the discounted sum of electricity produced. Equivalently, it is the constant price that would give the project a net present value of zero. It measures production cost, not the price, which also reflects markups and price controls. The discount rate is hotly contested. Public comparisons tend to use about 3%, private banks 7–15%, and low rates favor nuclear and renewables with high upfront costs. LCOE ignores when power is produced, so wind and solar may generate when electricity is worth little. It often leaves out the social cost of greenhouse gases and air pollution, and co-benefits."
+  },
+  "nature-clim-124": {
+   "title": "The merit order: cheapest power first",
+   "text": "Every moment, a grid must decide which plants to run. The merit order ranks power sources from cheapest to most expensive to run, and plants switch on in that order. Those with the lowest short-run marginal costs come online first, which minimizes the cost of producing electricity. The last generator needed to meet demand sets the system price for one more megawatt-hour (MWh). Because the wholesale price usually equals the costliest running plant's marginal cost, prices often vary two- to fivefold over a day. Plants sometimes run out of order because of transmission congestion or reliability needs. Environmental dispatch adds the goal of minimizing pollutant emissions to that of minimizing fuel costs. Marginal abatement cost curves work the same way, as merit order curves of emission-cutting options."
+  },
+  "nature-clim-151": {
+   "title": "Energy conservation: simply using less",
+   "text": "Heating a room less, driving less and air-drying clothes save energy without any gain in efficiency. Energy conservation means actively using less energy, through changes in behavior as well as better technology. The line between conservation and efficiency can be fuzzy, but both matter environmentally and economically. Conservation sits at the top of the sustainable energy hierarchy. There is plenty to save: burning fossil fuels for transport and electricity is less than 50% efficient, with much heat wasted."
+  },
+  "nature-clim-115": {
+   "title": "Energy resilience: bending without breaking",
+   "text": "Some argue that energy independence is unrealistic and that resilience is a more practical goal. Energy resilience is the ability of an energy system to adjust to and withstand interruptions in supply. A diverse supply is less affected when any one source is disrupted. The 1982 book Brittle Power argued that the real weakness is centralized, interdependent infrastructure. It recommended decentralized efficiency and renewables instead."
+  },
+  "nature-clim-116": {
+   "title": "Strategic petroleum reserves: oil in the bank",
+   "text": "All 31 members of the International Energy Agency hold at least 90 days of their oil imports in reserve. A strategic petroleum reserve is such a government stockpile, held as a buffer against the economic and political shocks of an energy crisis. The same countries have also committed to emergency response plans for oil supply shocks."
+  },
+  "nature-clim-131": {
+   "title": "Operating reserve: the grid's spare capacity",
+   "text": "A grid must cope when a plant suddenly fails. An operating reserve is spare generating capacity kept ready to follow changes in demand or replace lost generation. Capacity that can step in within about 30 seconds to 30 minutes is called spinning reserve. Wind does not need 100% back-up, because reserves are calculated for the whole system rather than each plant. Reserve has a cost: thermal plants running as reserve or peakers are less efficient than when run as base load."
+  },
+  "nature-clim-132": {
+   "title": "Sector coupling: linking power, heat and transport",
+   "text": "Electric vehicles are expected to become the largest source of storage capacity, charging when production is high and sometimes feeding power back. That is sector coupling: linking the power system with transport, heating and gas so demand and generation match better. The International Energy Agency says it is needed to handle the mismatch between seasonal demand and supply. It may cost more than other flexibility options, and it suits grids with high shares of variable renewables."
+  },
+  "nature-clim-128": {
+   "title": "The 1970s oil crises",
+   "text": "In 1973 Arab oil producers embargoed shipments to Western Europe and the United States over their support for Israel. In 1979 the Iranian Revolution constrained supply and the oil price more than doubled. These two shocks sharply raised world oil prices and reshaped energy policy. The US, Germany, Japan and Canada responded with national energy programs focused on secure oil supply. The crises also gave rise to speculative trading and crude oil futures markets."
+  },
+  "nature-clim-129": {
+   "title": "Oil futures: betting on tomorrow's price",
+   "text": "NYMEX launched crude oil futures in 1983 and the IPE followed in 1988. Futures are contracts to buy or sell oil at a set future date. Investors use them to bet on prices and firms to hedge against swings, and world crude prices came to be published through these markets. Futures reduced the hazards of spot-price swings. Did speculators drive the 2003–2008 price rise? A 2008 US task force said no, blaming mainly supply and demand. In the contango trade, companies buy cheap oil, store it and wait for prices to rise."
+  },
+  "nature-clim-135": {
+   "title": "Green nudges: steering energy choices gently",
+   "text": "Energy users do not behave fully rationally, and older economic ideas about wasted efficiency left that out. Green nudges respond. They are government interventions, such as feedback on energy bills, that steer users toward greener choices without forcing them. Thaler and Sunstein coined the term in 2008. Energy economics research now focuses on influencing decisions like these to close the gap between cost-effective and actual efficiency, described in {{ref:nature-clim-134}}."
+  },
+  "nature-clim-106": {
+   "title": "Peak demand: building for the busiest hours",
+   "text": "One coalition estimated that 10%–20% of US electricity costs come from peak demand in only 100 hours of the year. Peak demand is the highest level of electricity use on a grid. Because supply and demand must balance at every moment, total capacity is sized to the peak plus a safety margin. Peaks occur only a few times a year, so the plants and lines built for them sit mostly idle. Customers pay for that idle capacity."
+  },
+  "nature-clim-107": {
+   "title": "Load shedding: switching some users off",
+   "text": "When generating capacity falls below demand, utilities deliberately cut power to some users. This load shedding can take the form of targeted or rolling blackouts, or agreements with big industrial users to switch off at system-wide peaks. Industrial plants suit this well, with large loads and existing control systems. Users may be rewarded for firm commitments to cut use at peak times. Amory Lovins named such saved power negawatts in 1985."
+  },
+  "nature-clim-113": {
+   "title": "Measuring energy poverty in seven dimensions",
+   "text": "Energy poverty has many faces, and the Multidimensional Energy Poverty Index counts them. It classes people as energy poor by how many kinds of deprivation they face. Its seven indicators are access to light, modern cooking fuel, fresh air, refrigeration, recreation, communication and space cooling. It multiplies the share of people who are energy poor by the average intensity of their deprivation, capturing breadth and depth. Other measures include the IEA's Energy Development Index and the household-level Energy Poverty Index."
+  },
+  "nature-clim-121": {
+   "title": "How energy storage makes money",
+   "text": "Storage earns money by buying cheap power and selling it dear, an arbitrage with the largest potential of all its services. It also earns from power quality, reliability and better use of grid assets. Its cost is measured as the levelized cost of storage: lifetime cost per MWh discharged, including investment, operation and charging. Success breeds trouble. More storage shrinks price gaps, so it 'cannibalizes' its own income even more than renewables do. Because storage loses some energy, small price differences may not justify it, and demand response or grid expansion may be cheaper."
+  },
+  "nature-clim-120": {
+   "title": "Pumped hydro: storing power as water uphill",
+   "text": "With 181 GW installed worldwide in 2023, pumped-storage hydroelectricity was the largest form of grid storage. It pumps water uphill to a reservoir when demand is low and releases it through turbines when demand peaks. It is 75% to 85% efficient and responds within seconds to minutes, which suits daily swings. It expanded fast during the 1960s–1980s nuclear boom, because nuclear plants cannot quickly follow demand."
+  },
+  "nature-clim-118": {
+   "title": "Wright's law: the math of learning",
+   "text": "Wright's law turns the experience curve into a formula. Unit cost falls by a fixed proportion, the learning rate, with each doubling of cumulative production. The progress ratio b is the share of cost left after each doubling, and one minus b is the learning rate. Across many industries b ranges from 0.75 to 0.9, so costs fall 10% to 25% per doubling. A 15% cut per doubling is called an '85% experience curve'. The exponent is a statistical estimate, so it cannot exactly predict any future unit's cost."
+  },
+  "nature-clim-123": {
+   "title": "Levelized avoided cost: what a new plant is worth",
+   "text": "Cost is only half the story; value is the other half. The levelized avoided cost of energy divides the discounted costs a new generator would avoid by its discounted lifetime output. In 2014 the US Energy Information Administration recommended judging wind and solar by this measure rather than fossil plants' LCOE. Its ratio to the LCOE is the value-cost ratio, and above 1 a project counts as economically feasible. System LCOE takes another route, adding the cost of storage or backup for when wind and solar are unavailable."
+  },
+  "nature-clim-104": {
+   "title": "Base load and peaking plants",
+   "text": "Some power plants run nearly all the time; others wait for the busiest hours. Base load plants are designed for maximum efficiency and run continuously, so their cost per unit is usually low. Geothermal, nuclear, coal and solid-fuel bioenergy plants almost always run as base load, because their output is hard to adjust. Peaking plants switch on only when demand is high and prices justify it. Some run only a few hours a year, others several hours a day."
+  },
+  "nature-clim-126": {
+   "title": "Economic dispatch: running the grid at least cost",
+   "text": "Economic dispatch decides, moment to moment, how much each plant should produce to meet load at the lowest cost within grid and operating limits. It can be framed as maximizing a network's economic welfare subject to power balance and line capacity, solved with Lagrange multipliers. Transmission limits make the cost of one more MWh differ by place, giving locational marginal prices. The full equations are nonlinear and hard, so a simplified linear 'DC power flow' model is often used."
+  },
+  "nature-clim-125": {
+   "title": "The merit order effect: how wind and sun cut prices",
+   "text": "Wind and solar pay nothing for fuel, so their marginal costs are very low. They are bought first and push expensive plants out of the merit order, lowering wholesale prices. A Fraunhofer ISI study found solar cut prices on the German exchange by 10% on average and up to 40% in the early afternoon. In Germany in 2008–2012, each extra GWh of renewables cut day-ahead prices by 0.11–0.13 ¢/kWh. Timing still matters. Solar peaks at noon while demand in warm climates peaks in late afternoon, producing the so-called duck curve."
+  }
+ },
+ "openers": {
+  "energy-economics": "Every economy runs on energy, and this chapter studies how societies supply and use it and what it is worth. One benchmark, the spot price of a barrel of crude oil, is watched around the world, and a nation's security hangs on reliable supplies. Using less energy for the same services sounds simple, yet efficiency gains can make energy cheaper and so invite more use. Meanwhile wind and solar power rise and fall with the weather, so grids need storage and customers who shift their demand. Not everyone shares the benefits: many homes still lack electricity and clean cooking fuel."
+ },
+ "reviews": {
+  "energy-economics": "Energy economics weighs the cost and value of energy services, from a barrel of oil to a megawatt-hour on the grid. Efficiency is called the first fuel, but the rebound effect shows that cheaper energy services invite more use. Experience curves cut the cost of wind, solar and batteries, so new wind and solar now beat fossil fuels on levelized cost and push expensive plants out of the merit order. Their variability, though, makes storage, demand response and reserves central to running a grid. Security and fairness frame it all, from the oil crises of the 1970s to the millions of people still living in energy poverty."
+ },
+ "glossary": {}
+}

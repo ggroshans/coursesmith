@@ -1,0 +1,143 @@
+{
+ "entries": {
+  "nature-res-081": {
+   "title": "Plant genetic resources: the raw material of every crop",
+   "text": "Only about 120 crop species provide around 90% of the world's food needs. Plant genetic resources are the variety within plants, built up by human and natural selection over millennia, that can be used for food and agriculture now or later. Farmers first drew on them more than 10,000 years ago, selecting wild plants to develop crops. They are conserved on farms, in gene banks, or in the wild. They were once treated as belonging to all humanity, until the {{ref:nature-gov-015}} gave countries sovereignty over them. Whether genetic data separated from the organism fall under the rules on access and benefit-sharing is disputed."
+  },
+  "nature-res-082": {
+   "title": "The Plant Treaty: sharing the world's crop genes",
+   "text": "Every week, crop genetic material changes hands about 8500 times under one standard contract. The International Treaty on Plant Genetic Resources for Food and Agriculture, or Plant Treaty, aims to secure food security. It does so by conserving, exchanging and sustainably using crop genes and sharing their benefits fairly. The FAO adopted it in November 2001, and it came into force in 2004. Its Multilateral System gives free access to 64 of the world's most important crops for research, breeding and training, using a mandatory Standard Material Transfer Agreement. It also recognizes farmers' rights, though critics argue these are weakly and unevenly realized."
+  },
+  "nature-res-072": {
+   "title": "Sustainable seafood: fish with a future",
+   "text": "A modified catfish trap cut turtle bycatch by 84% without losing any catfish. Small fixes like that are the heart of sustainable seafood. It means fish and shellfish caught or farmed in ways that protect the long-term health of the species, the oceans and fishing communities. Such seafood comes from sources that can keep up or increase production without harming the ecosystems it is taken from. The movement began in the 1990s, driven by ecolabels and awareness campaigns that let consumers make informed choices. Research suggests fisheries can recover or stabilize when responsible management and regulation are in place. Seasonal limits, for example, let fish spawn and protect vulnerable life stages. Certified production of wild seafood has passed 10% of the global share."
+  },
+  "nature-res-069": {
+   "title": "Shifting baselines: forgetting what was lost",
+   "text": "Each generation of fisheries experts judged badly depleted fisheries against how they looked when their own careers began. Daniel Pauly saw the trap. A shifting baseline is when a system is judged against a reference point that itself already reflects large, forgotten changes from an earlier state. As each generation redefines what is 'natural', large long-term declines vanish from view. The idea first arose in Ian McHarg's 1969 book Design With Nature. Most modern assessments of fish stocks now include past catches or reconstruct earlier depletion to correct for it. Ongoing change such as climate change keeps moving the baseline, which complicates restoring ecosystems to a past reference state."
+  },
+  "nature-res-067": {
+   "title": "Regional fishery bodies: sharing fish across borders",
+   "text": "Fish do not respect borders, so countries form clubs to manage them. A regional fishery body is an international organization set up under a fishery agreement so that countries can cooperate on conserving and sustainably using marine living resources. Advisory bodies issue only non-binding, science-led recommendations. Regional fishery management organizations (RFMOs) are more political, but their decisions bind members. RFMOs manage stocks in a region, or highly migratory species, using catch limits, technical measures, closed areas or seasons, and monitoring. Some focus on species such as tuna; others cover all living marine resources in a region. Members include coastal states and distant-water fishing nations whose fleets travel to the stock. The International Pacific Halibut Commission of 1924 is seen as an early example. The main treaty is the 1995 UN Fish Stocks Agreement, which opens the fishery only to members or states that follow the organization's rules."
+  },
+  "nature-res-015": {
+   "title": "The case against maximum sustainable yield",
+   "text": "New Zealand's early quotas for orange roughy assumed the fish bred fast. It turned out to be long-lived and slow, and the stocks were depleted. Maximum sustainable yield is widely used by agencies managing fish, forests and wildlife, yet ecologists have criticized it heavily on theoretical and practical grounds. In 1977 Peter Larkin argued that it put populations at risk, ignored spatial variation and other species, counted benefits but not costs, and bent to political pressure. Its estimates suffer from poor model assumptions, unreliable data and treating all fish as identical whatever their age or size. A fixed yearly MSY catch also ignores natural swings in abundance and usually depletes stocks, so scientists now speak of maximum average yield. Many conservation biologists regard MSY as dangerous and misused, and blame it for the collapse of many fisheries. Agencies nonetheless still rely on it widely, and the two camps remain divided."
+  },
+  "nature-res-034": {
+   "title": "Kinds of fisheries",
+   "text": "About 85% of marine fisheries production is finfish, mainly anchoveta, Alaska pollock and skipjack tuna. Fisheries are divided into commercial, recreational and subsistence sectors. They can be saltwater or freshwater, wild or farmed. Capture fisheries are broadly industrial, small-scale or artisanal, and recreational. Reduction fisheries, which process the catch into products, are counted separately."
+  },
+  "nature-res-031": {
+   "title": "Fishing capacity: how much a fleet could catch",
+   "text": "Half the world's fishing fleet could be scrapped with no change in catch, according to a World Bank and FAO report. Fishing capacity is the most a fishery's boats and gear could catch. It can be measured by the capital fully used, the input view, or by the maximum catch, the output view. Output capacity assumes inputs are fully used, given the stock's biomass and age structure and current technology. Capacity utilization compares a fleet's actual catch or inputs with that potential."
+  },
+  "nature-res-007": {
+   "title": "The BIDE model: counting a population in and out",
+   "text": "Population counting has a simple rule: N1 = N0 + B − D + I − E. Next period's numbers equal current numbers plus births and immigrants, minus deaths and emigrants. In wild fisheries, fish do move in and out, but those flows are usually not measured. Simplicity has a cost. Models that ignored fish size, age, bycatch and habitat damage have sped the collapse of key stocks."
+  },
+  "nature-res-004": {
+   "title": "Big old fecund female fish",
+   "text": "Traditional management thinned out old, slow-growing fish to make room for younger, faster-growing ones. That turned out to be backwards. Large, old females matter far more than young ones for keeping fisheries productive. Larvae from older mothers grow faster, resist starvation better and are much more likely to survive. Ignoring older fish may help explain recent collapses of some major US West Coast fisheries. Marine reserves let populations age naturally."
+  },
+  "nature-res-006": {
+   "title": "Ecopath: modeling a whole sea in software",
+   "text": "In 2007 NOAA, the US agency for oceans and the atmosphere, named Ecopath one of the ten biggest scientific breakthroughs in its 200-year history. Ecopath with Ecosim is a software suite for modeling marine ecosystems, widely used in fisheries management. It began as a NOAA initiative and was later developed mainly at the University of British Columbia's Fisheries Centre. As of 2010 it had 6000 registered users in 155 countries."
+  },
+  "nature-res-039": {
+   "title": "Integrated multi-trophic aquaculture: one farm's waste, another's food",
+   "text": "On some fish farms, the waste of one species feeds another. Integrated multi-trophic aquaculture combines fed species, such as fish or shrimp, with extractive species, such as shellfish, to balance the system environmentally and economically. Bivalves like oysters and mussels feed on the surrounding natural production rather than added feed, so shellfish farming is usually seen as benign."
+  },
+  "nature-res-026": {
+   "title": "Displaced fishing effort: does a reserve just move the boats?",
+   "text": "Close one patch of sea to fishing and the boats may simply fish next door. Displaced fishing effort is the worry that this cancels a reserve's benefits. Studies that account for displacement suggest reserves can still yield a net biodiversity gain when sensitive species are present. Displacement can still raise costs for fishers. Fisheries scientists continue to dispute whether no-take areas benefit biodiversity once displaced effort is counted."
+  },
+  "nature-res-025": {
+   "title": "The spillover effect: reserves that feed nearby fisheries",
+   "text": "Near the edges of fully protected reserves, fish biomass was 54% higher than farther away, according to a 2020 meta-analysis of 23 such areas. Inside, commercial species were up to 80% more abundant. Spillover is the net movement of fish, eggs and larvae from a recovering marine protected area into the fishing grounds around it. It sustains nearby fishing without taking anything from inside the reserve, and such benefits are well documented worldwide. Scientists and small-scale fishers increasingly agree that coastal MPAs raise the density and size of commercial species in local waters."
+  },
+  "nature-res-009": {
+   "title": "Three meanings of a sustainable fishery",
+   "text": "A sustainable fishery can mean three different things. The first, long-term constant yield, is called naive, because marine stocks swing naturally. The second, widely accepted, preserves fairness between generations: only damage that takes more than one generation to rebuild counts as unsustainable. The third maintains a whole biological, social and economic system. It may accept losing some species, so long as the ecosystem keeps its integrity and keeps delivering useful products."
+  },
+  "nature-res-012": {
+   "title": "Huxley's claim that the sea could not be emptied",
+   "text": "In 1883 the scientist Thomas Huxley declared overfishing scientifically impossible and the great sea fisheries inexhaustible. He was already wrong. The Atlantic halibut fishery had collapsed and never recovered. The United States Fish Commission had been set up 12 years earlier precisely to find out why New England fisheries were declining."
+  },
+  "nature-res-010": {
+   "title": "Overfished is not always unsustainable",
+   "text": "A salmon run kept at half its optimal spawning numbers can be fished forever, just at a lower yield. In the traditional sense that is overfishing, catching so much that yield falls below what lighter fishing would give, but it is not automatically unsustainable. Ray Hilborn calls it a misallocation of society's resources rather than a conservation threat, though it can come before a collapse. When fishing persists while stocks collapse, he says, the cause is largely institutional failure."
+  },
+  "nature-res-050": {
+   "title": "Straddling and transboundary stocks",
+   "text": "Herring and mackerel roam open water and ignore lines on maps. A straddling stock ranges both inside a country's exclusive economic zone and on the high seas. A transboundary stock ranges across the zones of at least two countries. Straddling stocks are usually such mobile open-water species rather than bottom-dwellers. Neighboring states must work out who is responsible for them, usually through an intergovernmental regional organization."
+  },
+  "nature-res-064": {
+   "title": "Measuring fishing effort",
+   "text": "How hard is a fleet fishing? Fishing effort measures the human work put into catching fish, ideally in rough proportion to the amount caught. For a trawl fleet it may be engine power times days at sea, written kW × days. For a gill-net fishery it may be net length times soak time, how long the net stays in the water."
+  },
+  "nature-res-062": {
+   "title": "Recruitment: the new fish entering each year",
+   "text": "Fish populations can swing by orders of magnitude, and five to 10-fold changes in abundance are usual. Recruitment is the number of new young fish entering a population in a given year, usually counted from the age at which nets can catch them. Swings in breeding and recruitment success appear to be prime drivers of those fluctuations. Yet yearly recruitment often looks random, and often relates poorly to adult stock levels and fishing effort."
+  },
+  "nature-res-065": {
+   "title": "The von Bertalanffy growth model: how fish lengthen",
+   "text": "Young fish grow fast and old fish barely grow at all. The von Bertalanffy growth model, published in 1934, describes how individual fish grow in length toward a maximum. In its simplest form, growth is proportional to the gap between current length and the ultimate length, L∞. Pauly's method uses the model's growth parameters and water temperature to estimate natural mortality."
+  },
+  "nature-res-040": {
+   "title": "The Beverton–Holt model",
+   "text": "In 1957 Ray Beverton and Sidney Holt published work on North Sea fisheries that became the theoretical basis of North European management in the 1960s. Their Beverton–Holt model is a classic discrete-time population model: it predicts the next generation's numbers from this generation's, leveling off at carrying capacity. It is the step-by-step counterpart of the logistic growth equation, and it can be solved exactly. {{ref:nature-res-068}} generalizes it to include scramble competition."
+  },
+  "nature-res-043": {
+   "title": "Catch per unit effort: reading a stock from the catch",
+   "text": "If boats keep fishing just as hard but bring home less, the fish are probably running out. Catch per unit effort (CPUE) is an indirect measure of how abundant a target species is, based on how much is caught for a given amount of fishing. A falling CPUE signals overexploitation; a steady one signals sustainable harvesting. It does not disrupt normal harvesting and is easy to collect, so fishers themselves can use it. The main difficulty is defining the unit of effort, and CPUE often does not rise and fall in step with abundance."
+  },
+  "nature-res-068": {
+   "title": "The Ricker model",
+   "text": "In 1954 Bill Ricker introduced a model linking fish stocks to recruitment, and it can predict how many fish a fishery will hold. The Ricker model predicts the number of individuals in the next generation from the number in the current one. Its parameters are an intrinsic growth rate r and a carrying capacity k. Unlike simpler logistic models, its carrying capacity is not a hard ceiling but only sets the overall scale of the population. It and the Beverton–Holt model are both special cases of the Hassell model."
+  },
+  "nature-res-051": {
+   "title": "Watching the fleet: monitoring, control and surveillance",
+   "text": "Success in fisheries enforcement is measured by compliance, not by the number of arrests. Fisheries monitoring, control and surveillance (MCS) widens enforcement of national fishing rules into support for management as a whole. Monitoring measures fishing effort and yields. Control is the set of rules under which fishing may happen. Surveillance is the observation needed to keep fishers complying. Tools range from fishers' own logbooks and onboard observers to satellite vessel monitoring, patrol vessels and aircraft."
+  },
+  "nature-res-042": {
+   "title": "Bycatch reduction devices: letting the wrong animals escape",
+   "text": "Streamer lines cut seabird deaths in Alaskan longline fisheries by about 70%. Bycatch reduction devices and other gear changes let unwanted animals escape. Turtle excluder devices use a grid that deflects turtles out of a trawl net through an opening. Approved US devices cut finfish bycatch by 30%, though surveys suggest they work less well than thought. Designing more selective gear is called conservation engineering; bigger mesh openings, for instance, let small fish slip through."
+  },
+  "nature-res-019": {
+   "title": "The rule of capture: a fish belongs to whoever lands it",
+   "text": "Any fish one boat leaves in the sea will likely be caught by another. That zero-sum logic flows from the rule of capture: a fisher owns a fish only once it is caught. Economists see it as the main driver of overfishing. It encourages competitive racing and over-investment in boats and gear. Without a long-term right to the stock, no one has a reason to conserve fish for the future."
+  },
+  "nature-res-058": {
+   "title": "Fisheries crime: beyond illegal fishing",
+   "text": "Some fishing boats carry more than illegal fish. Fisheries crime is a wider idea than IUU fishing, taking in all criminal activity along the fishing sector's value chain. IUU fishing is closely tied to other organized crimes such as human and drug trafficking, corruption and document fraud. Human trafficking for forced labor on IUU operations is an increasingly serious problem."
+  },
+  "nature-res-079": {
+   "title": "Ghost nets: fishing gear that never stops",
+   "text": "A lost net keeps fishing. Ghost nets are fishing nets left or lost in the ocean that go on entangling fish, turtles, seabirds and other sea life. Trapped animals suffer starvation, injury, infection and suffocation."
+  },
+  "nature-res-078": {
+   "title": "Trawling: dragging a net through the sea",
+   "text": "Most fish sold commercially are caught by trawling. Trawling is an industrial fishing method that drags a net, called a trawl, through the water behind one or more boats. Its environmental problems are twofold: it is not selective about what it catches, and it physically damages the seabed."
+  },
+  "nature-res-011": {
+   "title": "How bottom trawls flatten the seabed",
+   "text": "Nearly all the world's continental shelves, and large areas of slopes, ridges and seamounts, have been trawled again and again. Repeatedly dragging heavy bottom trawls and dredges over the seabed flattens its habitats and radically changes the communities living there. For fifty years, governments and bodies such as the Asian Development Bank encouraged building trawler fleets. Coastal nurseries suffer too: mangrove loss of about 0.5 percent a year since the 2000s shrinks habitat that over four million mangrove fishers rely on."
+  },
+  "nature-res-045": {
+   "title": "Discards: the catch thrown back",
+   "text": "North Sea fishers were estimated to throw back 800,000–950,000 tonnes of fish a year, about one-third of the weight they landed. Discards are the part of a catch that is not kept but thrown back into the sea, often dead or dying. Fish are discarded for economic and political reasons: they are unmarketable, below minimum landing size, or over quota. Discards are part of bycatch. Dumping marketable fish to make room for more valuable ones adds to them. Survival varies by species and gear, from 88 to 98 per cent for some flatfish and sharks to much lower for roundfish."
+  },
+  "nature-res-017": {
+   "title": "The Gordon-Schaefer model: biology meets the balance sheet",
+   "text": "What happens to a fishery under a single owner, under a biologist's ideal, and under a free-for-all? The Gordon-Schaefer model answers all three. It is a bioeconomic model that combines the growth of fish populations with the costs and revenues of fishing. It accounts for biological growth rates, carrying capacity, and total and marginal costs and revenues, and it can compute maximum sustainable yield. A profit-maximizing sole owner fishes until marginal revenue equals marginal cost; like any monopoly, it produces less at higher prices than a competitive market. Under open access, each year's catch is set by demand and costs, ignoring effects on future years. Gordon's 1954 analysis showed that entry then continues until total value minus costs is zero."
+  },
+  "nature-res-084": {
+   "title": "Maximum economic yield: the catch that pays best",
+   "text": "The biggest catch is not the most profitable one. Maximum economic yield (MEY) is the level of catch that gives society the largest net economic benefit, or profit, from a fishery. Like optimum sustainable yield, it is a harvest rate below maximum sustainable yield. At MEY the resource rent is at its maximum. The condition is the one the Gordon-Schaefer model uses: a profit-maximizing owner fishes until marginal revenue equals marginal cost. In bioeconomic terms, a fishery is overfished whenever catches exceed MEY."
+  }
+ },
+ "openers": {},
+ "reviews": {},
+ "glossary": {}
+}

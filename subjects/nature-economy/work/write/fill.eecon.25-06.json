@@ -1,0 +1,101 @@
+{
+ "entries": {
+  "nature-eecon-167": {
+   "title": "Agrowth: stop caring whether GDP grows",
+   "text": "Agrowth is the stance of being indifferent to GDP growth when designing policy. Its reasoning: GDP growth does not track real progress closely. In environmental policy it stands against both {{ref:nature-eecon-152}} and {{ref:nature-eecon-143}}. Economist Jeroen van den Bergh argues policy should neither chase nor avoid growth. Instead it should directly price each {{ref:nature-found-031}}, using effective tools such as environmental taxes or emission rights. Whether the economy then grows, stagnates or shrinks is of secondary importance."
+  },
+  "nature-eecon-156": {
+   "title": "The Bariloche Model: the limits are social, not physical",
+   "text": "Latin American scientists answered {{ref:nature-eecon-154}} with a world model of their own. They criticized the MIT World3 model for reflecting the developed world's concerns while ignoring the realities of the Global South. The Bariloche Model, published in English in 1976, argued that the real limits to development were social and political, not physical. It challenged the premise that population growth and resource depletion must lead to global collapse."
+  },
+  "nature-eecon-155": {
+   "title": "The exponential reserve index: how long resources really last",
+   "text": "In 1972 the world had 775 million metric tons of chromium reserves and mined 1.85 million a year. Divide one by the other and the reserves last 418 years, the static index. But use was growing 2.6% a year, and at that rate the same reserves last about 95 years. The exponential reserve index captures this with y = ln(rs + 1)/r, where r is the growth rate and s the static reserve. The indexes were widely read as dates when the world would \"run out\", but Ugo Bardi argued the book never presented them as predictions."
+  },
+  "nature-eecon-157": {
+   "title": "Checking The Limits to Growth against reality",
+   "text": "In 2008 Graham Turner at CSIRO compared thirty years of data on industrial production, food production and pollution with the book's scenarios. They matched \"business as usual\", the run that leads to collapse in the 21st century. A 2020 study by Gaya Herrington found data broadly consistent with the 1972 projections, with growth peaking and then falling fast by around 2040 unless resource use changes. A 2023 recalibration of {{ref:nature-eecon-198}} with data up to 2022 showed the same pattern, with peaks a few years later. Brian Hayes called it \"more a polemical tool than a scientific instrument\". Analysts still disagree."
+  },
+  "nature-eecon-153": {
+   "title": "The limits to green growth",
+   "text": "The European Environmental Bureau lists reasons {{ref:nature-eecon-152}} may be wishful thinking. The more natural resources are needed, the more expensive they become to extract. Efficiency gains often come with the same or higher consumption, and every technological fix brings its own side effects. The service economy rests on the material economy, adding a footprint rather than replacing it. And apparent decoupling often comes from shifting environmental impact from high-consumption to low-consumption countries."
+  },
+  "nature-eecon-162": {
+   "title": "Policies to stop the rebound",
+   "text": "Efficiency savings can be protected by holding the cost of use steady or higher. Wackernagel and Rees suggested that savings from efficiency be \"taxed away\" and preferably reinvested in restoring natural capital. Tools include green taxes, cap and trade, higher fuel taxes, or targeting a system's yearly energy use rather than device efficiency. The logic is simple: fuel use falls unambiguously if efficiency gains come paired with a fuel tax that keeps fuel costs the same or higher, defeating the {{ref:nature-eecon-159}}."
+  },
+  "nature-eecon-161": {
+   "title": "The time rebound: saving time, spending energy",
+   "text": "Some technologies save time rather than money, and people spend that time on more of the service or other activities. Faster transport lowers the real cost of commuting but encourages longer commutes, which raise energy use. This time rebound is almost impossible to measure, because people value time subjectively."
+  },
+  "nature-eecon-197": {
+   "title": "Strong and weak sustainable consumption",
+   "text": "Not all green consumption is equal. Strong sustainable consumption actively cuts impact: choosing renewable, efficient goods and services such as cycling or renewable energy, and reducing living space and consumption rates. Weak sustainable consumption fails to, and includes polluting habits such as frequent car use and buying non-biodegradable goods. Research found that people asked to cut energy use make only minimal sacrifices, falling short of the strong kind."
+  },
+  "nature-eecon-166": {
+   "title": "The material Kuznets curve: steel rises, then falls",
+   "text": "A country's use of steel and other metals rises and then falls as it develops, like the {{ref:nature-eecon-165}}. Steel production follows this curve in economies including the United States, Japan, South Korea and China. Huw McKay first used the terms \"Kuznets Curve for Steel\" and \"Metal intensity Kuznets Curve\" in 2008."
+  },
+  "nature-eecon-170": {
+   "title": "Conviviality: tools that serve people",
+   "text": "A bicycle extends what its rider can do; a road network shapes what people must do. Ivan Illich drew that line in his 1973 book Tools for Conviviality. Conviviality is the ability of people to act creatively and independently with others and their environment to meet their own needs. It is the opposite of industrial productivity that turns people into \"mere consumers\". Convivial tools, such as most hand tools, bicycles and telephones, extend autonomy, unlike open-pit mines. They resemble Schumacher's \"intermediate technology\". The concept is core to {{ref:nature-eecon-143}}."
+  },
+  "nature-eecon-168": {
+   "title": "Bright green environmentalism: design our way out",
+   "text": "Writer Alex Steffen coined \"bright green\" in 2003 for an environmentalism that relies on advanced technology, social innovation, eco-innovation and sustainable design. It contrasts with environmentalism that calls for less consumption or simpler lifestyles. Its core idea is that good communities, new technologies and sustainable living can raise quality of life while ecological footprints shrink. Dark greens cite the {{ref:nature-eecon-163}} to argue that technological approaches have limited benefits."
+  },
+  "nature-eecon-149": {
+   "title": "Five tests for real decoupling",
+   "text": "A claimed case of decoupling can be judged along at least five axes. Overall decoupling covers all environmental indicators; partial decoupling only some, which matters when cutting emissions increases mining. Local decoupling may simply move stress to other countries by outsourcing production, unlike global decoupling. Decoupling can be temporary if growth and pressures re-couple later. And to be sufficient, it must be large and fast enough to stay clear of critical tipping points."
+  },
+  "nature-eecon-150": {
+   "title": "Resource decoupling and impact decoupling",
+   "text": "Decoupling comes in two kinds. Resource decoupling, also called {{ref:nature-eecon-007}}, means using less material, energy, water and land for the same economic activity. Impact decoupling means cutting the environmental harm caused while output grows. The two are linked, since the harms targeted by impact decoupling arise from extracting resources in the first place."
+  },
+  "nature-eecon-145": {
+   "title": "Growth versus environment: where the researchers stand",
+   "text": "Ask academics who publish on growth and the environment, and under 1% favor growth at all costs. In one survey, 42% chose green growth, 31% agrowth and 17% degrowth. Another survey, of nearly 800 climate policy researchers, found 28% support degrowth.\n\nThe positions form a spectrum. {{ref:nature-eecon-152}} holds growth and sustainability compatible. Agrowth is agnostic about growth and focuses on cutting environmental harm with effective tools, whether the economy grows or shrinks. {{ref:nature-eecon-143}} calls for deliberately shrinking it.\n\nCritics of green growth point to other frameworks: the {{ref:nature-eecon-001}}, the steady-state economy, degrowth and doughnut economics. A 2020 paper argued that changing economic paradigms is essential to prevent environmental destruction. Its list of options ran from reformist agrowth to radical degrowth, eco-socialism and eco-anarchism.\n\nNo position commands a majority. Researchers remain split on whether growth can continue while environmental pressures fall fast enough."
+  },
+  "nature-eecon-190": {
+   "title": "Perceived obsolescence: out of style, not out of order",
+   "text": "Some products are discarded while they still work, because they look out of date. That is perceived obsolescence, and it comes from consumer perception rather than a designer's plan. Fashion goods such as clothing go through a \"fashion cycle\" that manufacturers ride with new designs while old ones still function."
+  },
+  "nature-eecon-189": {
+   "title": "Three ways to make a product obsolete",
+   "text": "{{ref:nature-eecon-188}} comes in several forms. Contrived durability designs a product to wear out quickly, for example with inferior materials in critical parts. Prevention of repairs makes goods hard or uneconomic to fix, with glued-in components or overpriced spare parts. Programmed obsolescence deliberately disables a working product, like ink cartridge chips that stop printing while ink remains."
+  },
+  "nature-eecon-195": {
+   "title": "Hartmann's ten sustainability strategies",
+   "text": "Eric Hartmann expands the classic triad into ten strategies, five for future generations and five for people today. The intergenerational five add population reduction and regeneration expansion, such as reforestation, to sufficiency, efficiency and consistency. The intragenerational five are capability empowerment, equalization, {{ref:nature-eecon-027}} increase, impact expansion and population reduction. In this framework, sustainability is achieved when everyone can meet fundamental needs while environmental impacts stay within safe limits."
+  },
+  "nature-eecon-179": {
+   "title": "Does debt-based money force growth?",
+   "text": "Some argue that money created as interest-bearing debt forces the economy to keep growing. Hans Christoph Binswanger estimated a minimum necessary growth rate of 1.8%, Mathias Binswanger one of 0.45%. Critics using stock-flow consistent models disagree. Repaid interest flows back into the economy, so debt can be serviced without growth if money is not hoarded. On this view, the savings rate, not the interest rate, decides whether a non-growing economy is stable. The question is unresolved."
+  },
+  "nature-eecon-175": {
+   "title": "Environmental space: a fair share of each resource",
+   "text": "Environmental space is the amount of a resource a country can use without endangering its continued availability, assuming everyone in the world gets an equal share. It requires knowing the maximum sustainable use of every resource, set by {{ref:nature-res-244}} or the environment's capacity to absorb waste, both hard to estimate. Each resource has its own units, so the spaces cannot be added into one national total. Friends of the Earth Europe promoted it in the mid-1990s, but the ecological footprint, which converts all resource use into land area, has largely replaced it."
+  },
+  "nature-eecon-184": {
+   "title": "The Khazzoom–Brookes postulate: efficiency raises total energy use",
+   "text": "After the oil crises of 1973 and 1979, cars became more fuel-efficient on average, yet total fuel consumption kept rising. The Khazzoom–Brookes postulate explains why: efficiency improvements that make sense for individual users lead to higher total energy use. Efficiency makes energy cheaper, speeds growth, and unlocks activities a scarce resource had held back. Daniel Khazzoom and Leonard Brookes proposed it independently in the 1980s; Harry Saunders named it in 1992. It is a modern version of the {{ref:nature-eecon-163}}, and economists still debate it."
+  },
+  "nature-eecon-176": {
+   "title": "Factor 10: a tenfold cut in resource use",
+   "text": "Factor 10 is a goal of cutting resource use per unit of output tenfold, so economies stay within the planet's carrying capacity. Friedrich Schmidt-Bleek of the Wuppertal Institute proposed it, along with {{ref:nature-eecon-007}}, in the early 1990s. It grew from Factor 4, which aims to cut resource and energy use by 75% by doubling output while halving inputs. It answers a UNEP call for a tenfold cut in industrialized countries' resource use, leaving enough for developing countries. It has been pursued through {{ref:nature-eecon-027}}, design for environment and environmental taxes."
+  },
+  "nature-eecon-169": {
+   "title": "Dark, light and bright greens",
+   "text": "Alex Steffen splits environmentalists three ways. Light greens treat protecting the environment mainly as a personal responsibility and lifestyle choice. Dark greens see environmental problems as built into industrial, capitalist civilization and its emphasis on growth, and seek radical change. Bright greens also want radical change, but believe better design, new technology and social innovation are the way to get it."
+  },
+  "nature-eecon-171": {
+   "title": "Degrowth and the Global South",
+   "text": "Should poor countries degrow too? Many Southern countries still have unmet basic needs and may need some material growth, so applying degrowth there is debated. Yet many of degrowth's roots lie in the South, in traditions such as Buen Vivir in the Andes and Ubuntu in Southern Africa. Some frame Northern degrowth as decolonization: shrinking the North's footprint to leave room for the South, tied to {{ref:nature-gov-199}}. Critics warn it could destabilize export-dependent Southern economies. Scholars still disagree."
+  }
+ },
+ "openers": {},
+ "reviews": {
+  "growth-decoupling-and-limits": "Since {{ref:nature-eecon-154}} warned of overshoot, the evidence has gathered on both sides. Ecological footprint accounts show humanity in overshoot every year since 1970, while some local pollutants have fallen as incomes rose. Efficiency alone keeps disappointing, because the {{ref:nature-eecon-159}} hands part of every saving back to consumption. That leaves a menu of strategies, from green growth and ecomodernism through agrowth to sufficiency and degrowth. Researchers remain split on whether decoupling can be fast and deep enough, which is why the choice among them is still argued."
+ },
+ "glossary": {}
+}

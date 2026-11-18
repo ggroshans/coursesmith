@@ -1,0 +1,90 @@
+{
+ "entries": {
+  "nature-val-037": {
+   "title": "Environmental ethics: arguments for protecting nature",
+   "text": "Should a forest be clear-cut for human consumption? Which species should be valued for their own sake? Environmental ethics asks such questions. It is the branch of practical philosophy that sets out arguments for protecting nature and using resources sustainably. Its main competing views are anthropocentrism, ecocentrism, also called physiocentrism, and theocentrism, which centers value on God. The field grew in response to Rachel Carson, Murray Bookchin and the first {{ref:nature-hist-016}} in 1970. Two papers had a crucial impact: Lynn White's 1967 paper on the roots of the ecological crisis, and {{ref:nature-hist-052}}'s 1968 'Tragedy of the Commons'. Alan Marshall sorts its approaches into three: libertarian extension, {{ref:nature-val-039}} and {{ref:nature-val-040}}. Today it influences law, sociology, ecotheology, ecology and geography. It also has an internal quarrel. Animal ethics and environmental ethics clash over duties to wild animals; some see them as incompatible, others as reconcilable."
+  },
+  "nature-val-029": {
+   "title": "Commodification of nature: making nature tradable",
+   "text": "{{ref:nature-pol-253}} turns emissions into units that are bought and sold within an overall cap. It is a prominent example of commodification: turning goods and services that were not produced for sale into things that can be exchanged. The commodification of nature is a critical field of research on how natural things and processes become tradable, and what follows. It draws on Marx, Polanyi, O'Connor and Harvey, and is rooted in Marxist geography and {{ref:nature-gov-227}}. It is openly normative and critical. At root, it argues, commodification makes qualitatively different things equivalent and exchangeable through money. Its origins lie in the rise of capitalism and the fencing off of shared land in England. Scholars use it to challenge {{ref:nature-res-117}}, which sees putting nature into markets as a fix for environmental damage. {{ref:nature-gov-162}} movements explicitly oppose the commodification of nature and its resources. Market environmentalists see pricing nature as a solution to degradation, while critics argue commodification itself drives degradation and inequality."
+  },
+  "nature-val-045": {
+   "title": "Animal rights: moral worth beyond human use",
+   "text": "If infants and cognitively disabled people have moral status, runs the argument from marginal cases, then so must animals that lack no relevant trait. Animal rights is the philosophy that many or all sentient animals, those able to feel, have moral worth apart from their usefulness to people. Their basic interests, such as avoiding suffering, deserve the same consideration as similar human interests. In its narrow sense, animals have rights to life, liberty and freedom from torture that appeals to total welfare cannot override. The two main approaches are utilitarian, led by Peter Singer, and rights-based, led by Tom Regan and Gary Francione. Regan calls animals 'subjects-of-a-life' and so bearers of rights. Francione argues they need only one right: not to be owned. Animal welfare advocates aim to reduce suffering. Animal rights supporters often seek to abolish factory-style farming, animal testing and hunting. Philosophers such as Frey, Cohen, Posner and Scruton reject the claim that animals hold rights. Carl Cohen argues that rights holders must understand duties, which animals cannot."
+  },
+  "nature-val-051": {
+   "title": "Lexicographic preferences: values that refuse to trade",
+   "text": "A dictionary orders words by their first letter, and looks at the next letter only to break ties. Lexicographic preferences work the same way. A person prefers any amount of one good to any amount of another, and looks at the second good only to break ties. Such preferences are rational, yet they are the classic example of preferences no utility function can represent. They are not continuous, which is why no real-valued utility function can capture them. If everyone shared the same lexicographic preferences, ordinary general equilibrium could not exist, because no one would sell. Clive Spash used them to study ethically motivated refusals to trade species and ecosystems for money."
+  },
+  "nature-val-049": {
+   "title": "The land ethic: citizens, not conquerors",
+   "text": "In {{ref:nature-hist-005}}, published in 1949, {{ref:nature-hist-051}} called for an ethic covering humans' relation to land, animals and plants. A land ethic is a framework for how, ethically, people should regard the land. Leopold's basic principle: a thing is right when it tends to preserve the integrity, stability and beauty of the biotic community. Humans become plain members and citizens of the land community, not its conquerors. Leopold saw two flaws in an ethic based on economic self-interest. Most members of an ecosystem have no economic worth, and conservation gets left to government. Other land ethics rest on economics, utilitarianism, libertarianism, egalitarianism or ecology. Leopold's is popular as a moderate view, balancing human interests with a healthy, diverse environment. Critics call it vague, and say it does not clearly explain why it should be adopted. Scholars still debate what it asserts, and whether it rests on human interests or on nature's intrinsic value."
+  },
+  "nature-val-031": {
+   "title": "Three objections to commodifying nature",
+   "text": "Critics of turning nature into commodities sort their objections into three kinds: practical, moral and consequential. The practical problem is that natural things resist. Fish ecology shapes how fisheries can be privatized, and water's physical properties make it hard to commodify. The moral problem is that a single money value denies nature's many cultural and social values. Livelihoods, territorial rights and sacredness translate poorly into prices. The consequential problem is what markets do once in charge. They handle fairness and equitable distribution poorly, and critics say commodification deepens inequality. Efficiency and profit override other concerns, and market exchange is 'reason-blind' to ecological importance. David Harvey argues there is something 'inherently anti-ecological' about capitalist commodification. These critiques are aimed at {{ref:nature-res-117}}, whose proponents defend pricing nature."
+  },
+  "nature-res-117": {
+   "title": "Market environmentalism: selling nature to save it",
+   "text": "Sell nature to save it: that is the logic of market environmentalism, prominent in {{ref:nature-pol-018}} since the late 1980s. It holds that environmental damage comes from nature lacking prices, and that markets can fix it. It spread with neoliberalism, which gives priority to the free market and money-based relations. The approach needs economic valuation, either indirectly through cost–benefit analysis and contingent valuation, or by direct commodification. It assumes private actors act rationally on the best information, and that markets pool knowledge better than regulation. It appeals to policymakers and private interests because it seeks solutions within the capitalist system. Critics say it reduces species survival to a price that rises with rarity and extinction risk. They see ecotourism and bioprospecting as forcing nature to earn its right to survive in the global market. Selling nature to save it is also called {{ref:nature-gov-165}}. Supporters treat markets as a conservation tool, while critics argue the approach subordinates nature to profit."
+  },
+  "nature-val-044": {
+   "title": "Value pluralism: many goods, no single scale",
+   "text": "Isaiah Berlin first popularized a substantial account of value pluralism: the idea that several basic values can all be right and yet conflict. Conflicting values are often held to be incommensurable, with no objective ranking of their importance. Pluralism opposes value monism, which says all values can be measured on, or reduced to, a single scale. Unlike relativism, it accepts limits, such as when vital human needs are violated. Critics such as Alan Brown and Ronald Dworkin reject the claim that conflicting values cannot be compared. Brown argues they can be compared by their contribution to human good. The idea matters for nature: {{ref:nature-val-036}} builds value pluralism into its approach."
+  },
+  "nature-val-046": {
+   "title": "Commensurability: can values share a measure?",
+   "text": "If no amount of security would make up for a loss of freedom, the two values are incommensurable. Commensurability asks whether two values share a common measure. Incommensurable values have no common standard, or cannot be compared in a certain way. A related idea is incomparability: two options are incomparable when neither is better and they are not exactly equally good. Philosophers disagree over whether that really happens. Joseph Raz holds that genuine incomparability exists. Ruth Chang proposes a fourth relation, 'parity'. John Broome treats it as vagueness, and others suspect mere ignorance. The stakes are real. If outcomes cannot be compared, consequentialism cannot say either action is better. Commodification cuts through the problem by giving different things a common exchange value in money."
+  },
+  "nature-val-048": {
+   "title": "Fictitious commodities: land, labor and money",
+   "text": "Land, labor and money are traded in markets, yet none was made for sale. Karl Polanyi called them fictitious commodities in his 1944 book The Great Transformation. Before markets ordered society, these three were embedded in social relations and governed by morals, religion and community. Treating public goods and social necessities as commodities rather than protected rights may destabilize social systems. Nature poses a special problem. Because it originates outside capitalist production, its value cannot be fully counted in money, which tends toward overexploitation. Resistance to treating the environment as a market good is seen as Polanyi's 'double movement' of forces for and against markets."
+  },
+  "nature-val-043": {
+   "title": "What is the whole Earth worth?",
+   "text": "A 1997 estimate put the world's ecosystem services at $33 trillion a year, within a range of $16 trillion to $54 trillion. The value of Earth, the planet's net worth, is usually equated with that kind of total. Both halves of the idea are disputed: what 'value' means, and what counts as 'Earth'. The 1997 estimate came with a striking comparison. Against a combined world GNP of about $18 trillion, ecosystems seemed to provide 1.8 times as much value as people create. Critics questioned the figures, especially that comparison, though they accepted the basic approach. Other sources put world GNP closer to $28 trillion, making ecosystem services only 1.2 times as valuable. The World Bank's total GDP for 1997, $31 trillion, would make the two about equal. A later estimate gave $125 trillion a year for 2011, twice world GDP, with yearly losses of $4.3–20.2 trillion."
+  },
+  "nature-val-040": {
+   "title": "Conservation ethics: protecting nature for people's sake",
+   "text": "Protect nature because people need it: that is conservation ethics. It values the environment only for its usefulness to people, and protects it as a means to human welfare. Because it rejects the intrinsic value that deep ecology gives nature, it is often called 'shallow ecology'. It may underlie government positions at the 1992 Rio {{ref:nature-hist-003}} and the 1997 Kyoto summit."
+  },
+  "nature-val-039": {
+   "title": "Ecologic extension: value for whole ecosystems",
+   "text": "Ecologic extension is an approach to environmental ethics that stresses the interdependence and diversity of living things, and gives intrinsic value to whole ecosystems. It is a scientific reflection on nature, where libertarian extension is a political one. James Lovelock's Gaia hypothesis, which treats Earth as one whole with its own ethical value, may belong here. In this it stands close to ecocentrism."
+  },
+  "nature-val-041": {
+   "title": "Three ethical theories applied to nature",
+   "text": "The three main theories of right action reason about nature in different ways. Consequentialism judges actions by their results, such as whether they maximize well-being. That treats nature instrumentally. Deontology says intrinsically valuable things must be protected as ends in themselves, so damaging nature is wrong in itself, not just a net loss. Virtue ethics asks which character traits to cultivate. It avoids defining intrinsic value, but it is arguably anthropocentric."
+  },
+  "nature-val-050": {
+   "title": "Utilitarian and libertarian land ethics",
+   "text": "Industrial farming is defended on utilitarian grounds, for raising yields and lowering food prices. A utilitarian land ethic judges how land is used by the greatest good for people. Unlike a purely economic ethic, it can limit a farmer's profit if soil runoff damages neighbors' property. A libertarian land ethic puts individual property rights and freedom first. Hardin argued in 1968 that the only solution to the tragedy of the commons was to give soil and water to private citizens. Egalitarian land ethics arose in response, favoring equal access to land or food."
+  },
+  "nature-val-033": {
+   "title": "Accumulation by dispossession: a new enclosure",
+   "text": "Alongside mining and agriculture, bioprospecting and ecotourism are now 'commodity frontiers'. David Harvey calls this accumulation by dispossession. It is a new wave of enclosing shared resources, releasing nature's wealth to capital at very low or no cost. In this view commodification 'stretches' across space and time, and 'deepens' into more kinds of goods and services."
+  },
+  "nature-val-032": {
+   "title": "The second contradiction of capitalism",
+   "text": "James O'Connor argued that capitalism degrades the environmental 'conditions of production' it depends on but cannot produce itself. He called this the second contradiction of capitalism. Because nature's value cannot be fully counted in money, there is a tendency to overexploit it and to 'underproduce' it. In this view capitalism is 'ecologically irrational', with a built-in tendency to overexploit the resources from nature it rests on."
+  },
+  "nature-val-035": {
+   "title": "Deliberative monetary valuation: valuing together",
+   "text": "Social values are qualitatively different from the sum of individual values, and standard valuation surveys miss that. Deliberative monetary valuation grew from evidence of fundamental failures in contingent valuation research used for public policy. It combines individual willingness-to-pay valuation of environmental damage or protection with group discussion. A 'discourse based' alternative treats the valuation as a mutual agreement reached by contesting views."
+  },
+  "nature-val-036": {
+   "title": "Social ecological economics: economies inside society and nature",
+   "text": "Economies emerge from society and ecology, and depend on how both are structured and function. That is the starting point of social ecological economics, a proposed paradigm shift in {{ref:nature-eecon-059}} that integrates social, ecological and economic knowledge. It rejects reductionism and builds in value incommensurability and value pluralism. Clive Spash divides the field into social ecological economists, new environmental pragmatists and new resource economists."
+  },
+  "nature-val-047": {
+   "title": "The small-improvement argument",
+   "text": "Compare a banking job with a professor's job. Add 5 cents a year to the banking salary. If that tiny gain should not tip the choice, the two jobs were never exactly equal. This is the small-improvement argument that two options can be incomparable. The three ordinary comparisons, in Ruth Chang's terms, are better, worse and equally good. When a small improvement leaves none of them true, the options are too different to compare."
+  }
+ },
+ "openers": {
+  "debates-about-pricing-nature": "This chapter takes on the arguments over whether nature should have a price at all. One side holds that environmental damage comes from nature lacking prices, and that markets can fix it. Critics answer that turning nature into commodities raises practical, moral and consequential problems, and that some values share no common measure. Karl Polanyi pointed out that land, labor and money are treated as commodities though none was made for sale. Philosophy asks what arguments can be made for protecting nature, whether animals have moral worth of their own, and how people should regard the land."
+ },
+ "reviews": {
+  "debates-about-pricing-nature": "The chapter circles one question: can everything that matters about nature be put into money? Market environmentalism says yes, and that pricing nature is how to save it. Critics, drawing on Polanyi's fictitious commodities and O'Connor's second contradiction, answer that commodification makes different things commensurable and misses cultural, moral and ecological worth. Value pluralism, lexicographic preferences and the small-improvement argument all suggest some values cannot be traded against others. Environmental ethics, from Leopold's land ethic to animal rights, offers reasons to protect nature that do not rest on price."
+ }
+}

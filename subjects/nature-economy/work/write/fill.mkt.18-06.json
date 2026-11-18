@@ -1,0 +1,50 @@
+{
+"openers": {
+"economics-of-conservation": "Conservation is also a set of economic choices about trade, land and limited budgets. CITES, a treaty, tries to protect endangered plants and animals from the threats of international trade, and the long fight over the ivory trade shows how hard that is. Closer to the ground, people and wild animals clash over crops, livestock and space, and projects try to make protecting nature pay for local people. Planners must decide where reserves go and how big they are, sometimes with software that finds networks of sites at low cost. Some protected areas exist only on paper, and conservationists must face the hard idea that not every species can be saved."
+},
+"entries": {
+"nature-mkt-001": {
+"title": "CITES: a treaty to police the wildlife trade",
+"text": "On 3 March 1973, 80 countries agreed in Washington, D.C. on the text of a treaty to protect wildlife from international trade. The Convention on International Trade in Endangered Species of Wild Fauna and Flora, or CITES, entered into force on 1 July 1975. It controls trade in listed species as they cross borders, including products made from them, such as traditional medicines. Over 40,900 species, subspecies and populations are protected. It is legally binding, but each member must pass its own laws to apply it. It works as a negative list: trade in any species is unregulated unless it is listed, so many species are traded with no review. Critics say it ignores habitat loss and poverty and does not tackle market demand, and that listings can even feed speculation in valuable species. As of 2002, 50% of members lacked one or more of its four main implementation requirements."
+},
+"nature-mkt-010": {
+"title": "Integrated conservation and development: making protection pay locally",
+"text": "In the mid-1980s WWF set out to fix the problems of 'fines and fences', a style of conservation that gave local people no say. Its answer was the integrated conservation and development project: a biodiversity project that also invests in rural development, so local people gain from protecting nature. Such projects are usually tied to a park or reserve and funded from outside by conservation and development agencies. They assume that more varied livelihoods will ease human pressure on biodiversity. Critics say many were designed with little local input and rarely shared costs and benefits with women and minority groups. They can also overlook outside pressures such as market demand and unlawful tree felling, and may collapse when outside funding ends. WWF says its projects work with local organizations, so the record remains disputed."
+},
+"nature-mkt-005": {
+"title": "The ivory trade and the fight over elephants",
+"text": "Between 1979 and 1989, African elephants fell from about 1.3 million to 600,000. Around 75,000 were killed each year for ivory worth about 1 billion dollars. The ivory trade, the commercial and often illegal trade in tusks of elephants and animals such as hippos, walruses and narwhals, is ancient. At its colonial-era peak, 800 to 1,000 tonnes a year went to Europe alone. The crash showed that the international ivory trade, more than habitat loss, was the main threat, and a ban followed in 1990. Southern African states opposed it. They said their herds were well managed and ivory revenue funded conservation, and Zimbabwe argued that wildlife needs economic value to survive. In 1997 {{ref:nature-mkt-001}} let Botswana, Namibia and Zimbabwe sell 49 tonnes of stockpiled ivory to Japan as an 'experiment'. Whether a total ban or regulated sales best protect elephants is still disputed. Demand can shift: the piano industry dropped ivory keys for plastic in the 1980s."
+},
+"nature-mkt-008": {
+"title": "Reserve design: where to put a park and how big",
+"text": "Bolivia expanded Amboró park into land people depended on for their living, and later had to shrink it again. Reserve design is the planning of a reserve's size, shape, location and links so that it actually protects biodiversity. Planners must weigh habitat needs, migration, climate change and public support. Size matters: reserves that are too small bring carnivores into contact with people, raising their death rate. Networks linked by wildlife corridors protect species that migrate and can raise movement between patches by up to 50%. For value for money, reserves should sit in species-rich places such as biodiversity hotspots. They must also allow for future ranges, since 80% of observed range shifts have moved toward the poles or uphill, at an average of 6.1 km per decade."
+},
+"nature-mkt-003": {
+"title": "Human–wildlife conflict: when people and animals collide",
+"text": "In Sri Lanka, up to 80 people and over 230 elephants die each year in clashes between the two. Elephants raid crops, and farmers kill them in revenge. Human–wildlife conflict covers such harmful encounters, which hurt both people and their property and wildlife and its habitat. It comes from competition for land, water and food and has grown with population and changing land use. The damage includes destroyed crops, livestock killed by predators, injury and death, damaged infrastructure and the spread of disease. There are hidden costs too, in health, opportunity costs and transaction costs. Fear itself matters: fear of predators can worsen conflict more than the damage they actually do."
+},
+"nature-mkt-002": {
+"title": "The three CITES lists",
+"text": "CITES sorts protected species into three lists, or appendices, by how much international trade threatens them. Appendix I species face extinction: commercial trade in wild specimens is banned, and other trade needs both import and export permits. Appendix II holds most listed species; they are not necessarily threatened but need controlled trade and an export permit. Appendix III species are protected in at least one country that has asked other members to help control trade. Captive-bred specimens of Appendix I species may be traded as if they were Appendix II."
+},
+"nature-mkt-004": {
+"title": "Fences, dogs and compensation: easing conflict with wildlife",
+"text": "Livestock-guarding dogs cut animal losses to, on average, 60 times lower than the norm. They are one of many methods for reducing harmful encounters between people and wildlife, from fences to paying people for their losses. The most successful solutions involve local communities in planning, running and maintaining them. Some governments pay compensation to discourage revenge killing, with mixed results because payments come late or fall short. Moving problem animals elsewhere is largely ineffective and can harm the species."
+},
+"nature-mkt-011": {
+"title": "Conservation triage: choosing which species to save",
+"text": "Extinction threats are estimated at 15 to 37 percent of all species by 2050. Faced with that, some conservationists argue for triage: since not every species can be saved, limited effort must go to chosen ones. Supporters see this as realistic priority-setting. Critics who defend the rights of nature say 'endangered species triage' decides which species to let go, instead of re-examining the economics driving the decline."
+},
+"nature-mkt-006": {
+"title": "Marxan: software that designs reserves",
+"text": "Marxan is the most widely used conservation planning software, behind systems covering about 5% of Earth's surface, including the Great Barrier Reef reserve network. It finds networks of sites that meet biodiversity targets at low cost. It uses simulated annealing, a trial-and-error search, to minimize a reserve system's total cost while covering a set share of each feature. In computing terms it solves a conservation version of the 0-1 knapsack problem: picking items of the most value within a budget. Exact tools such as prioritizr guarantee the best solution and can find cheaper ones faster."
+},
+"nature-mkt-007": {
+"title": "Paper parks: protected in name only",
+"text": "A 2020 study of 3,449 protected sea areas in Europe found that 70% faced at least one significant threat, and damaging fishing gear hit 86% of the network. That is the mark of a paper park: a reserve that exists on paper but have little real management or protection on the ground. They result from weak governance, weak regulations or lack of enforcement."
+}
+},
+"reviews": {
+"economics-of-conservation": "Every entry in this chapter turns on a conflict between protecting nature and the economic forces pressing on it. CITES controls trade across borders, yet the ivory fight showed states split over whether a total ban or regulated sales best protect elephants. On the ground, crop-raiding elephants and livestock-killing predators make conservation costly for local people, which is why integrated projects, guard dogs and compensation try to share the gains and losses. Planners must place reserves where they protect most for the money, with tools like Marxan, and avoid parks that exist only on paper. With extinction threats estimated at 15 to 37 percent of species by 2050, the idea of triage forces the hardest choice of all."
+}
+}

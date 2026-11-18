@@ -1,0 +1,186 @@
+{
+ "openers": {
+  "pollution-taxes-and-charges": "Rules tell polluters what they may not do; a tax tells them what it will cost. This chapter turns to prices as a tool for nature. A Pigouvian tax charges a market activity for the costs it imposes on third parties, and environmental taxes, from carbon and fuel taxes to charges on crowded roads, apply that idea in practice. Behind them sits the principle that whoever causes pollution should pay for the damage. The chapter also asks who bears these taxes, since some fall hardest on poorer people, and how border charges on imports try to keep the playing field level."
+ },
+ "reviews": {
+  "pollution-taxes-and-charges": "One idea runs through this chapter: make the price of an activity include the harm it does to others. Pigou's tax, the polluter pays principle and environmental taxes on energy, transport, pollution and resources all put that idea into practice, from carbon and fuel taxes to landfill taxes, deposit-refund systems and congestion charges. The hard parts are measuring the true social cost, deciding whether to fix the price or the quantity of pollution, and choosing what to do with the revenue. Returning the money through tax cuts or dividends can ease the burden on poorer households, as British Columbia's revenue-neutral carbon tax tried to do. Whether such swaps yield a second dividend, a more efficient tax system, remains disputed."
+ },
+ "entries": {
+  "nature-pol-088": {
+   "title": "Pigouvian taxes: charging for harm done to others",
+   "text": "In 1920 the English economist {{ref:nature-hist-038}} made a simple argument in his book {{ref:nature-hist-024}}. When a producer's private costs differ from the costs to society, tax the producer. A Pigouvian tax is a tax on a market activity that imposes costs on third parties, the costs economists call {{ref:nature-found-032}}s. The logic runs like this. When outsiders bear part of the cost, the private cost understates the total, and the market produces too much of the activity. Ideally the tax equals the external {{ref:nature-econ-347}} of the harm. It shifts the producer's marginal private cost up by the size of the externality, so output falls toward the socially best level and a {{ref:nature-found-045}} is corrected. What gets taxed matters. Taxing emissions themselves can reach the long-run social optimum, while taxing stand-ins such as output may fail to. For benefits that spill over to others, the mirror policy is a Pigouvian payment that rewards the activity, such as payments that support flu vaccines or research ({{ref:nature-pol-205}}). Governments like the tool partly because its transaction costs are relatively low compared with regulation or such payments. Taxes on environmental harm, including {{ref:nature-pol-081}}es and taxes on fuel, are the classic example."
+  },
+  "nature-pol-084": {
+   "title": "Environmental taxes: making harm cost more",
+   "text": "Ireland put a €0.22 tax on plastic bags. Over 14 years, the bags' share of litter fell from 5% to 0.13%, and the tax raised over €200 million. An environmental tax, also called an ecotax or green tax, is a tax on activities that harm the environment, meant to steer people toward cleaner alternatives. Ecotaxes are a kind of {{ref:nature-pol-088}}. They can address the failure of free markets to limit environmental harm, and can complement or replace {{ref:nature-pol-147}}. Germany enacted an ecotax through laws in 1998, 1999 and 2002, cutting income taxes so the total tax burden stayed the same. In 2018 China replaced its 1979 Pollutant Discharge Fee with an environmental protection tax. Economists critical of {{ref:nature-eecon-143}} argue that price incentives through environmental taxes or tradable permits work much better. There is a catch. Because the poor spend more of their income on consumption, taxes on consumption can fall harder on them. Some green tax proposals have been criticized for exactly that."
+  },
+  "nature-pol-081": {
+   "title": "The carbon tax: a price on emissions",
+   "text": "In 1973 David Gordon Wilson first proposed taxing carbon. A carbon tax is a tax charged on the carbon released when goods and services are produced. It aims to make the hidden social costs of carbon emissions visible by raising the price of fossil fuels. Higher prices cut demand for high-emission goods and push producers to make them less carbon-intensive. Unlike {{ref:nature-pol-147}}, which caps each polluter, a carbon tax lets market forces find the cheapest way to cut pollution. Its design turns on two choices: how high to set it, usually based on the {{ref:nature-clim-241}}, and what to do with the revenue. In its simplest form it covers only CO2, but it can also tax methane or nitrous oxide by their warming power relative to CO2. It works. Research shows carbon taxes often reduce emissions; a 2015 British Columbia study found cuts of 5–15% with negligible overall economic effects. As of 2019, 25 countries had implemented or scheduled carbon taxes, and 46 priced carbon in some form. Fairness is disputed. Studies find the tax can hit poor households harder than rich ones, but Gilbert Metcalf disputed that it would be regressive in the US."
+  },
+  "nature-pol-095": {
+   "title": "The polluter pays principle",
+   "text": "Whoever makes the mess should pay to clean it up. The polluter pays principle says that whoever causes pollution should pay for the damage it does to the environment. It has also been used to make polluters bear the cost of preventing pollution. Economics backs it. Assigning all the costs of a decision, including pollution harm, to the decision-maker removes {{ref:nature-found-031}}s. That is a condition for Pareto efficiency, a state where no one can gain without someone else losing. The principle underpins ecotaxes, and cap-and-trade schemes apply it by making polluters buy allowances to cover their emissions. It is principle 16 of the 1992 Rio Declaration, though not binding in every area of international environmental law. In the United States, all the major pollution laws use it, including the Clean Air Act, the Clean Water Act and Superfund. It has critics and complications. The historian Jean-Baptiste Fressoz notes that paying compensation for pollution was already the rule favored by 19th-century industrialists. And it has been doubted where nobody knew a pollutant was dangerous when it was released, as with early industrial carbon dioxide."
+  },
+  "nature-pol-114": {
+   "title": "Excise: the tax on particular goods",
+   "text": "Tobacco, alcohol and fuel are the three main targets of excise in most countries. An excise is a tax on a particular category of goods, usually charged when they are made for sale at home. A sales tax or VAT is charged as a share of the price. An excise is usually a fixed amount per unit, falls on few products and is heavier. It is an indirect tax: the producer pays it but is expected to pass it on to buyers through higher prices. That makes it useful against {{ref:nature-found-031}}s. An excise can charge for costs that buyers or sellers impose on society but that prices leave out. Excises are increasingly placed on polluting transport and on products that create hard-to-recycle waste."
+  },
+  "nature-pol-110": {
+   "title": "Congestion pricing: charging for crowded roads",
+   "text": "In 1975 Singapore became the first city to charge drivers for using crowded urban roads. It built on William Vickrey's 1963 call to price traffic on Pigou's welfare principle. Congestion pricing charges users of crowded public goods, such as busy roads, higher prices at peak times to reduce overuse. It manages crowding by regulating demand rather than adding supply. The theory is simple. Drivers in a jam impose costs on one another that they do not pay, and a price makes them cover this social cost. People respond by shifting trips to other times, other places or substitutes such as public transport. Road schemes take four forms: a cordon around a city center, area-wide pricing, a toll ring, or pricing of a single corridor. A 2019 study found that without its charge, Stockholm's air would have been 5 to 15 percent more polluted between 2006 and 2010. New York City became the first US city to adopt it, in 2025. It remains highly controversial, over fairness, effects on businesses and fears it is just another tax."
+  },
+  "nature-pol-112": {
+   "title": "Eco-tariffs: taxing trade to cut pollution",
+   "text": "Should a country tax imports made with dirty processes? An eco-tariff, or environmental tariff, is a trade barrier such as an import or export tax used to reduce pollution. It targets goods with a large carbon footprint, or goods from countries with lax environmental rules; a {{ref:nature-pol-265}} is one type. Supporters say it could stop foreign countries gaining an advantage from weak rules and bring partners' standards into line. Critics argue it reduces trade without reaching the main sources of pollution, much of which arises within a country's own borders. Developing countries fear green protectionism: environmental goals used as cover for shielding domestic industry. Import tariffs alone can also weaken export competitiveness and contribute to deindustrialization. Underneath lies an open question: does freer trade increase pollution, or, by raising incomes, end up reducing it?"
+  },
+  "nature-pol-124": {
+   "title": "Regressive taxes: when the poor pay a bigger share",
+   "text": "A tax can take the same amount from everyone and still be unfair. A regressive tax is one whose rate falls as the amount being taxed rises, so poorer people pay a larger share of what they have. A tax can also count as regressive when the taxed activity is done more by the poor than by the rich. Its opposite, a progressive tax, takes a higher percentage from those with higher incomes. Taxes on essentials such as food, fuel, energy and housing are often regressive, because spending on necessities barely rises with income. Carbon taxes are among them: a number of studies find a carbon tax without extra benefits or tax credits hits poor households harder than rich ones. Some governments give rebates to lower-income households to soften the effect."
+  },
+  "nature-pol-087": {
+   "title": "Fuel taxes: the most common price on carbon",
+   "text": "In 2021 the OECD found that 67 of 71 countries it assessed had some kind of fuel tax. A fuel tax, also called a gas tax or fuel duty, is an {{ref:nature-pol-114}} charged on the sale of fuel, usually transport fuel. Its revenue is often earmarked for transport projects, making it a kind of {{ref:nature-pol-130}}; elsewhere it goes into general revenue. It can also work as an ecotax and as an indirect price on carbon, and such indirect prices are far more common than carbon taxes. The IPCC, the International Energy Agency, the IMF and the World Bank have all urged higher gasoline taxes. The aim is to cover the social and environmental costs of its use. Agencies such as the US Internal Revenue Service often regard fuel taxes as regressive. A quirk: between 2003 and 2015 more countries raised gasoline taxes than cut them, yet the global average fell, because low-tax countries consumed more. And under the EU's 2003 Energy Taxation Directive, jet fuel for commercial flights within the EU cannot be taxed."
+  },
+  "nature-pol-265": {
+   "title": "Carbon tariffs: pricing the carbon in imports",
+   "text": "If one country prices carbon and its neighbor does not, factories may simply move. A carbon tariff, or border carbon adjustment, is a charge on imports according to the carbon emitted in making them ({{ref:nature-acct-061}}). Its usual aim is to prevent {{ref:nature-pol-252}}, the shift of emissions to states that have no carbon price. Likely targets include electricity from coal-fired power stations, iron and steel from blast furnaces, and fertilizer from the Haber process. California has applied one to imported electricity since 2011, and the EU and UK apply them from 2026 and 2027. Border adjustment is considered an economically efficient fix for leakage, but it might disguise trade protectionism. Current WTO rules may prohibit some types, and the WTO has reached no conclusion."
+  },
+  "nature-pol-085": {
+   "title": "Four kinds of environmental tax",
+   "text": "Environmental taxes come in four broad kinds: energy, transport, pollution and resource taxes. Taxes on energy ({{ref:nature-pol-106}}) are the most common worldwide. They are levied on producing, distributing or using fuels such as coal, oil and gas. Transport taxes are the second most notable kind. They fall on owning and using vehicles, for example registration taxes based on weight, fuel efficiency or emissions. Pollution taxes cover measured emissions to air and water, and the management of waste and noise. Resource taxes, on extracting water, forests or wildlife, are the least common. Governments usually handle the depletion of these resources with fees instead. The sorting shows where the money mostly comes from: the fuels that power the economy, rather than the resources it draws down."
+  },
+  "nature-pol-106": {
+   "title": "Energy taxes: raising the price of fuel and power",
+   "text": "Energy taxes are the most commonly used environmental taxes in the world. An energy tax raises the price of energy, usually by charging the fuels themselves. It can be levied on producing, distributing or using energy, mainly fossil fuels and sometimes electricity. Supporters argue it can cut government deficits as well as pollution. A weakness is the cost in lost economic output and jobs. Because energy taxes change fossil fuel prices, they can be seen as pricing carbon indirectly ({{ref:nature-pol-025}}), as can removing support payments that cheapen fossil fuels. Politics can stop them. In 1993 the US proposed a BTU tax on fuels by their heat content. It passed the House but was rejected by the Senate after heavy pressure from interest groups."
+  },
+  "nature-pol-118": {
+   "title": "Optimal taxation: raising money with the least damage",
+   "text": "Every tax changes behavior, and most do it in ways nobody wants. Taxes are needed to fund public goods and redistribution, but most of them distort choices by making the taxed activity less attractive. Optimal tax theory studies how to design taxes that do the most for overall social welfare within economic limits. The task is to raise the needed revenue while causing as little distortion as possible. Lump-sum taxes and Pigouvian taxes are thought to distort less; a Pigouvian tax actually moves consumption toward the efficient level. In 1927 Frank Ramsey proposed that each good's tax should depend on how sensitive its supply and demand are to price. Optimal taxes should also be fair: equal tax for equal ability to pay, and more tax for those with more."
+  },
+  "nature-pol-113": {
+   "title": "Effluent: the wastewater that reaches rivers",
+   "text": "Effluent is wastewater from sewers or industrial outlets that flows into rivers, lakes or the sea, treated or untreated. It can carry fats and oils, solvents, detergents, heavy metals and food waste from many industries. Even clean-looking water can harm. Warm cooling water from power stations causes thermal pollution. In the United States, the Clean Water Act requires a permit for every direct discharge of effluent into surface waters."
+  },
+  "nature-pol-086": {
+   "title": "Emissions taxes versus taxes on fuel",
+   "text": "Two taxes sit close to the {{ref:nature-pol-081}}. An emissions tax makes each emitter pay a charge for every tonne of greenhouse gas it releases. An energy tax is charged on the fuels themselves. The difference matters. A carbon tax encourages using less fuel, but it does not reward cutting emissions by other means, such as capturing the carbon and storing it underground. So it is not a perfect substitute for an emissions tax."
+  },
+  "nature-pol-098": {
+   "title": "Environmental pricing reform: getting prices right",
+   "text": "When prices leave out environmental costs, self-interested choices can harm the environment and distort the economy. Environmental pricing reform, or ecological fiscal reform, adjusts market prices through taxes or subsidies so they reflect environmental costs and benefits. Every market-based tool, from ecotaxes to tradable pollution permits to paying for ecological services, is one instance of it. Reform can cover the whole economy or focus on one sector or problem, such as climate change. It began in the Nordic countries in the early 1990s and spread to the Netherlands, Germany and the United Kingdom. Precision matters less than reach. IMF economists found that a tax 50% above or below the marginal damage still captures about three quarters of the welfare gain. The money is growing. The World Bank reported that revenue from putting a price on carbon rose from under $30 billion in 2016 to more than $107 billion in 2025."
+  },
+  "nature-pol-129": {
+   "title": "Tax shifts: swapping one tax for another",
+   "text": "A government can change what it taxes without changing how much it collects. A tax shift, or tax swap, cuts some taxes and raises others while keeping total revenue the same. It can mean a move toward socially efficient taxes such as ecotaxes and {{ref:nature-pol-126}}es. A green tax shift raises taxes on pollution while lowering others, such as income, payroll or property taxes. The aim is often 'full cost accounting', using tax policy to fold {{ref:nature-found-031}}s into prices. Tax shifts usually aim to stay revenue-neutral and keep the system progressive, protecting the most vulnerable. British Columbia's carbon tax shift gave it one of Canada's lowest income tax rates as of 2012."
+  },
+  "nature-pol-089": {
+   "title": "The double dividend: two benefits from one tax swap?",
+   "text": "Every $1 raised in taxes puts a $1.35 burden on the economy, according to Fullerton and Metcalf. What if a new tax could cut that waste and clean the air at once? The double dividend hypothesis holds that swapping environmental taxes for other taxes, without changing total revenue, could deliver two benefits. The first dividend is a cleaner environment. The second is a more efficient tax system, from cutting distorting taxes such as income tax. Tullock first advanced the idea in 1967, and {{ref:nature-hist-057}} popularized the term in 1991. Doubts followed. Bovenberg and de Mooij proposed an effect ({{ref:nature-pol-090}}) that could make the second dividend negative. In 1994 Goulder split the idea in two. The weak form says cutting distorting taxes beats handing the money back as lump sums. The strong form says the whole reform lowers the economy's overall cost, and it needs special conditions. Fullerton and Metcalf concluded that the hypothesis cannot be established as a whole: each case depends on existing taxes and where the revenue goes. Economists still disagree on whether the second dividend is positive or negative."
+  },
+  "nature-pol-126": {
+   "title": "Sin taxes: pricing vice",
+   "text": "Raising a sin tax is often more popular than raising other taxes. A sin tax is an excise on goods and services seen as harmful, such as alcohol, tobacco, sugar, gambling or polluting vehicles. Unlike a Pigouvian tax, which charges for damage done to others, a sin tax raises the price mainly to cut use. Critics call sin taxes regressive and say they encourage smuggling and black markets. There is an odd trap too. A government may come to depend on the revenue, and so need the 'sinful' behavior to continue."
+  },
+  "nature-pol-092": {
+   "title": "Can anyone measure the right Pigouvian tax?",
+   "text": "A perfect Pigouvian tax needs a number nobody may know. The measurement problem is the criticism that governments cannot know the true social cost of an externality, so they cannot set the right tax. Pigou himself, and later Friedrich Hayek, saw that assumption as a weakness. {{ref:nature-hist-074}} argued that social costs are extraordinarily hard to measure, partly because many are psychological and individual. Politics adds noise: pressure from polluters or their opponents can push the tax below or above the best level. Critics from Pigou to Baumol doubt the ideal level can ever be measured."
+  },
+  "nature-pol-093": {
+   "title": "Noise taxes: charging for the din",
+   "text": "France taxes commercial and non-commercial aircraft landing at its 10 busiest airports. That is a noise tax: a charge meant to limit noise pollution that disturbs nearby communities or wildlife. It is a {{ref:nature-pol-088}} aimed at sound. Most noise taxes concern aviation and urban infrastructure such as highway building."
+  },
+  "nature-pol-094": {
+   "title": "Plastic taxes",
+   "text": "A plastic tax charges for plastic use or plastic waste, to cut waste and encourage recycling. Ireland's €0.22 tax on plastic bags, paid at the till, moved shoppers toward other bags and cut plastic bags' share of litter. The idea now works at the scale of a continent. Since 2021 the EU budget has collected a contribution from member states based on their non-recycled plastic packaging waste."
+  },
+  "nature-pol-091": {
+   "title": "Second-best taxes: taxing gasoline instead of exhaust",
+   "text": "Sometimes the harm itself cannot be taxed, so governments tax something linked to it. That is second-best Pigouvian taxation. Policymakers may tax gasoline, for example, instead of vehicle emissions. The fit is loose. People buy different amounts and drive vehicles in different states of repair, so the tax falls unevenly relative to the harm each causes. Knittel and Sandler found such taxes an inefficient way to reduce vehicle emissions."
+  },
+  "nature-pol-090": {
+   "title": "The tax interaction effect",
+   "text": "A green tax does not land on a blank slate. The tax interaction effect is the idea that an environmental tax, by raising prices, worsens the distortions already caused by income taxes ({{ref:nature-econ-345}}). Bovenberg and Mooij argue that where an income tax already distorts how much people work, the best environmental tax is below the full Pigouvian level. As consumers switch from the taxed dirty good to a clean one, the tax base and its revenue shrink, so income taxes cannot stay low. Goulder, Parry and Burtraw agree that the net welfare effect of an environmental tax depends on the existing tax rate."
+  },
+  "nature-pol-102": {
+   "title": "Deposit-refund: pay now, get it back on return",
+   "text": "Pay a little extra for a bottle, get it back when you return it. A deposit-refund system adds a surcharge when a product is bought and pays it back when the product or its packaging is returned. It works like a {{ref:nature-pol-088}} that is refunded once the product comes back, rewarding proper disposal. Beverage containers are the usual case, but it is also used for batteries, tires, motor oil, electronics and shipping pallets. It discourages illegal dumping, eases monitoring and is hard to evade. It is said to rest on the principles of {{ref:nature-pol-194}}. It has a quirk: it can end up favoring single-use packaging over refillable systems, as in Germany."
+  },
+  "nature-pol-152": {
+   "title": "Meat taxes: pricing livestock's footprint",
+   "text": "In June 2024 Denmark announced a tax on carbon dioxide emissions from livestock, starting in 2030, the first country to do so. A meat tax is a tax on meat or other animal products meant to cover the health and environmental costs of using animals for food. Livestock contributes significantly to global warming and harms global nitrogen cycles and biodiversity. Researchers and groups such as Chatham House have called for taxes on red meat or high-emission foods, citing climate and health benefits. Opponents call the idea regressive and authoritarian, or doubt its health and economic claims."
+  },
+  "nature-pol-256": {
+   "title": "Prices or quantities: fix the cost or fix the amount?",
+   "text": "There are two ways to put a market to work on pollution. A tax sets a unit price and lets the market decide how much pollution results. Cap and trade does the reverse: authorities set the quantity, and the market sets the price of permits traded among emitters. In theory the two give the same result when pollution and costs match expectations, but they diverge when they do not. Each has a weak spot. With a cap, uncertain supply and demand make permit prices uncertain, and industry bears the cost of that volatility. A tax's main drawback is that the environmental outcome, such as a limit on emissions, is not guaranteed. A uniform tax leaves an agency less room to pick winners and losers, and so less room for corruption. A cap, for its part, adjusts to inflation automatically and its price falls in recessions, steadying the economy. A 2018 survey found 58% of leading economists agreed carbon taxes are better than cap and trade, and none disagreed. Still, economists have long argued over which approach is better."
+  },
+  "nature-pol-100": {
+   "title": "Revenue recycling: what to do with green tax money",
+   "text": "How a government spends the money from a green tax can matter as much as the tax itself. Revenue recycling means using that money to cut other taxes or return it to people, rather than adding it to general spending. It makes a carbon tax revenue-neutral, for example by lowering income tax or paying citizens a dividend. Using the money to reduce other distorting taxes is what opens the possibility of a {{ref:nature-pol-089}}. If revenue is not used that way, or is badly spent, the overall benefits fall quickly. IMF authors warn that dedicated funds can lead governments to set rates by the fund's needs instead of by actual damage. Policies change: the UK Climate Change Levy dropped revenue recycling in 2010, sending the money to the treasury."
+  },
+  "nature-pol-097": {
+   "title": "Carbon fee and dividend: tax carbon, pay everyone back",
+   "text": "Switzerland returns about two-thirds of its carbon tax revenue through health insurance bills. Yet in a 2019 survey, only 11.8% of residents knew most of the money came back. Carbon fee and dividend taxes fossil fuels for their carbon and pays the money back to everyone in equal per-person payments. The fee is charged where fuels enter the economy, such as the well, mine or port, and rises over time to give a predictable price signal. A border adjustment charges imports from countries without a similar fee. Returning all net fees keeps the scheme revenue-neutral, which appeals to people who do not want government to grow. The payout largely offsets the higher prices the tax causes. As of July 2022, eight jurisdictions used a form of it, including Switzerland, Austria and several Canadian provinces. But a 2021 study of Canada and Switzerland found that returning the money did little to make carbon taxes more popular."
+  },
+  "nature-pol-109": {
+   "title": "British Columbia's carbon tax",
+   "text": "On 1 July 2008, British Columbia began charging $10 per tonne of CO2e, carbon dioxide and other gases counted by their warming effect. It was the first such tax in North America, and it was designed to be revenue-neutral, with income and corporate taxes cut by about the same amount. It was collected at the point of retail sale, such as the gas pump, with a tax credit to protect low-income families. The rate reached $40 per tonne in 2019 and $80 in 2024. The results drew attention. A 2013 review reported per-person fossil fuel use down 17.4% while GDP growth kept pace with the rest of Canada. A 2017 paper found a small but significant 0.74 percent annual rise in employment over 2007–2013. A 2021 study found no significant harm to GDP, and complete pass-through of the tax into energy prices. Critics argued that falling fuel use reflected cross-border shopping and a Vancouver gas levy rather than the tax. The tax was repealed on 1 April 2025."
+  },
+  "nature-pol-116": {
+   "title": "Earmarked taxes: money with a destination",
+   "text": "Most government money goes into one big pot. A hypothecated, or earmarked, tax is different: its revenue is set aside for a particular kind of spending. In strong hypothecation the tax funds only that service, and the service is funded only by that tax; anything looser is weak hypothecation. Supporters cite transparency and trust, and say people accept higher taxes when they see where the money goes. Critics say spending should follow policy rather than revenue, and that earmarking reduces a government's flexibility."
+  },
+  "nature-pol-117": {
+   "title": "Landfill taxes: making dumping dearer",
+   "text": "The UK's first environmental tax, introduced in 1996, was a landfill tax. Such a tax is a charge per tonne or per unit of volume that raises the cost of dumping waste in {{ref:nature-pol-058}}. It can raise revenue, pay to offset environmental harm, or deter landfilling by making better alternatives cheaper by comparison. Landfilling is discouraged because of gas from biodegradable waste, scarce sites, lost recyclable materials and local opposition. By making landfill dearer, the tax also creates an incentive to recycle plastics."
+  },
+  "nature-pol-121": {
+   "title": "Per unit taxes: a fixed charge on each item",
+   "text": "A per unit, or specific, tax is a fixed amount charged on each unit of a good sold, such as cents per kilogram, whatever its price. Excise taxes fall into this group. By contrast, an ad valorem tax is a fixed percentage of the product's value. On a supply-and-demand graph, a per unit tax shifts the supply curve up by exactly the amount of the tax, parallel to the original curve. The choice matters for behavior. For tobacco, specific taxes cut consumption well, while ad valorem taxes can push smokers to cheaper brands."
+  },
+  "nature-pol-108": {
+   "title": "Steering taxes: taxes meant to change behavior",
+   "text": "Some taxes succeed by raising less money. A steering tax, or ecological incentive tax, is meant to change behavior rather than to raise revenue. A Pigouvian tax is a special case, aimed at a harm done to others. If it works, its revenue falls, so the steering aim and the revenue aim pull against each other. Some steering taxes, such as the Swiss tax on volatile organic compounds, are fully paid back to the population, rewarding people who pollute less. A Swiss study found that an equal refund per person is the most progressive way to return such revenue."
+  },
+  "nature-pol-127": {
+   "title": "Stormwater fees: paying for paved-over ground",
+   "text": "A stormwater fee charges property owners for polluted rainwater running off their hard, waterproof surfaces ({{ref:nature-eco-275}}). The charge grows with the area of roofs, driveways and paving that stop rain soaking into the ground. Owners respond. In Germany, builders install rain storage tanks and soakaways to lower the fee, which raises rainwater reuse and cuts tap water use. A 2023 study counted at least 2,100 stormwater utilities in 42 US states and the District of Columbia. Politics can bite: Maryland's 2012 fee, dubbed a 'rain tax', funded runoff controls for the Chesapeake Bay but was made optional in 2015."
+  },
+  "nature-pol-120": {
+   "title": "Cost pass-through: who ends up paying",
+   "text": "When a tax raises a firm's costs, how much reaches the shopper? Cost pass-through is the extent to which a business changes its prices when its own costs change. It is measured as a rate. Firms may absorb part of a cost change (a rate below 1.0) or amplify it (above 1.0). When buyers must have a good whatever the price, the whole increase reaches consumers; when buyers would leave at any price rise, producers absorb it all. Pass-through is higher when demand is less sensitive to price ({{ref:nature-econ-358}}) and supply more sensitive. A 2021 study found British Columbia's carbon tax was passed fully into energy prices."
+  },
+  "nature-pol-125": {
+   "title": "Road pricing: paying for the roads you use",
+   "text": "In the 1950s William Vickrey, building on Pigou, made the theoretical case for charging drivers and proposed electronic charging for busy roads. Road pricing means charging drivers directly for road use, through tolls, distance or time fees, congestion charges or charges on more polluting vehicles. Austria (2004) and Germany (2005) charge lorries by distance, varying by emissions level and axles. A Stockholm study found that without its {{ref:nature-pol-110}}, the city's air would have been five to ten percent more polluted in 2006–2010. Young children would have had 45 percent more asthma attacks."
+  },
+  "nature-pol-115": {
+   "title": "Feebates: fees on the dirty, rebates on the clean",
+   "text": "Car buyers heavily discount future fuel costs. A feebate puts that cost into the purchase price, where it is noticed. It charges a fee on products with harmful side effects and uses the money for rebates on cleaner alternatives, so the fees usually pay for the rebates. Arthur H. Rosenfeld coined the idea in the 1970s, and it has mostly been used in transport and energy."
+  },
+  "nature-pol-130": {
+   "title": "User fees: paying for what you use",
+   "text": "A user fee is a payment charged for using a facility or service, such as a park, a toll road or a parking space. Unlike broad taxes, it falls only on those who use the service. Fuel taxes that fund highways act as user fees: people who drive more pay more for roads. Critics argue that fees for basic services in developing countries hurt the poorest most."
+  },
+  "nature-pol-123": {
+   "title": "Pricing pollution you can measure",
+   "text": "Some pollution can be measured day by day, and priced accordingly. Pollution pricing reform adjusts market prices to include directly measurable pollution, such as dust and exhaust from road vehicles. It differs from general ecotaxes, which are not tied to a short-term measurement of the impact. Options include extra taxes on dirtier fuels, annual taxes on more polluting engine types, and daily traffic limits set by measured pollution."
+  },
+  "nature-pol-122": {
+   "title": "Plastic bag charges and bans",
+   "text": "In 2002 Ireland put a €0.15 levy on plastic bags, and bag use fell by 90% within weeks. Plastic bag charges and bans are laws that restrict or price the lightweight bags handed out by shops. They are the two most popular ways to phase bags out: as of 2018, 30 countries charged consumers and 27 had banned the bags. A 2018 study found a five-cent tax on disposable bags cut their use by 40 percentage points. Bans have side effects. They can raise use of unregulated paper or thicker plastic bags and feed black markets."
+  },
+  "nature-pol-199": {
+   "title": "Reforming fossil fuel subsidies",
+   "text": "Fossil fuel subsidy reform removes subsidies that keep fossil fuel prices below their supply cost or below their full environmental cost. The IMF separates explicit subsidies, where consumer prices are below supply cost, from implicit ones, where prices leave out environmental damage. Explicit subsidies reached 1.3% of global GDP in 2022 and fell to 0.6% in 2024, the IMF estimated. Removing them counts as pricing carbon indirectly ({{ref:nature-pol-025}}). Phasing them out is politically difficult."
+  },
+  "nature-pol-103": {
+   "title": "Putting a carbon price on shipping",
+   "text": "Ships carry 3% of global greenhouse gas emissions. Carbon pricing on shipping charges ships for the gases they emit. The price is meant to close the cost gap between heavy fuel oil and low-carbon fuels. That could break a stand-off in which fuel suppliers and shipowners each wait for the other. In 2023 the EU extended its carbon market ({{ref:nature-pol-253}}) to shipping, and the International Maritime Organization set a goal of net-zero shipping emissions by around 2050. An IMO scheme would be the first global system of its kind, but China, Brazil, South Africa and others oppose it as unfair to developing countries. Stakeholders also disagree over whether the revenue should stay in shipping or fund climate action generally."
+  },
+  "nature-pol-151": {
+   "title": "Global warming taxes",
+   "text": "Taxes against global warming have two possible jobs: to discourage the activities that cause it, or to raise money for dealing with it. Their roots go back to the British economist Arthur Pigou, who advocated corrective taxes for pollution in the early 20th century. As far back as 1992, the economist Martin Feldstein proposed using such a tax against global warming. Not every climate charge aims to deter. A San Francisco Bay Area fee on carbon dioxide emissions was meant to pay for monitoring greenhouse gases instead."
+  }
+ }
+}

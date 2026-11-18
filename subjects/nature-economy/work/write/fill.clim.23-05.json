@@ -1,0 +1,119 @@
+{
+ "entries": {
+  "nature-clim-210": {
+   "title": "Does decarbonization need nuclear power?",
+   "text": "The IEA, the IAEA and the UN Economic Commission for Europe hold that decarbonization is not possible without some expansion of nuclear power. Nuclear is low-carbon, but it carries risks and rising costs. Critics argue that its environmental and security risks could outweigh its benefits. So whether a low-carbon economy needs more nuclear power remains disputed, with agencies on one side and those stressing risk and cost on the other."
+  },
+  "nature-clim-189": {
+   "title": "Carbon capture and utilization: CO2 as a raw material",
+   "text": "Captured carbon dioxide need not be buried. Carbon capture and utilization uses it as a raw material for products instead. In urea fertilizer production, for example, CO2 from the process is often recycled. The scale is still tiny. As of 2022, products used only around 1% of the CO2 captured each year."
+  },
+  "nature-clim-187": {
+   "title": "The energy penalty: capture eats power",
+   "text": "Capturing, compressing and storing CO2 takes energy, and that extra demand is the energy penalty of CCS. Early studies found a coal plant needs 14–40% more coal, and a gas plant 11–22% more gas, for the same electricity. Burning more fuel raises upstream harms such as mining and methane leaks, and can increase local air pollution. Coal plants with CCS may also need 50% more water."
+  },
+  "nature-clim-186": {
+   "title": "Enhanced oil recovery: climate help or harm?",
+   "text": "Most captured CO2 is injected into old oil fields to push out more oil. Does that help the climate? The answer depends on what is counted. Including emissions from burning the extra oil, capture with enhanced oil recovery usually increases total emissions. Leaving them out, it reduces them. The IEA estimates that 80% of such oil displaces other oil, giving 0.13 tonnes of CO2 from burning per tonne stored. A 2020 review found scientific papers roughly evenly split."
+  },
+  "nature-clim-179": {
+   "title": "Slash-and-char: a better way to clear land",
+   "text": "Slash-and-burn farming leaves only 3% of the plant carbon in the soil. Slash-and-char, which chars cleared vegetation into biochar instead of burning it, can keep up to 50%. Switching worldwide could sequester 0.22 to 0.42 Gt C per year. The soil benefits too. Biochar soils stay productive, while depleted slash-and-burn fields push farmers to clear more land."
+  },
+  "nature-clim-183": {
+   "title": "Three ways to capture carbon from fuel",
+   "text": "Carbon can be caught before, during or after fuel is burned. Post-combustion capture separates CO2 from flue gas after burning, and it can be retrofitted to existing plants. Pre-combustion capture turns fuel into syngas and removes CO2 before power is made. Oxy-fuel combustion burns fuel in oxygen and recycled flue gas, giving a CO2-rich exhaust. Expected capture efficiencies are 95% for post-combustion, 85% for pre-combustion and 87.5% for oxy-combustion."
+  },
+  "nature-clim-204": {
+   "title": "Emissions embodied in trade",
+   "text": "In 2008, traded goods carried 7.8 Gt of emissions, with a net 1.6 Gt of CO2 flowing from developing to developed countries. These are emissions released making goods in one country that are consumed in another. They change the picture. From 1990 to 2008, developed countries seemed to stabilize their domestic emissions, but rising imports from developing countries make that misleading. Production-based accounting shows lower emissions for EU and OECD countries, and consumption-based accounting shows the reverse."
+  },
+  "nature-clim-205": {
+   "title": "Splitting emissions between buyer and seller",
+   "text": "Who is responsible for the emissions in a traded product? Shared responsibility splits them between importing and exporting countries at each stage of the supply chain. The consumer starts production, the argument runs, but the producing country also gains GDP from it. Lenzen and colleagues propose shares proportional to value added, the worth each stage adds. Researchers have not agreed on the criteria."
+  },
+  "nature-clim-177": {
+   "title": "Supply-side climate policy: keeping fuels in the ground",
+   "text": "Most climate policy targets the burning of fossil fuels. Supply-side environmental policy targets their extraction instead, limiting or discouraging it. It can replace or complement demand-side policy, which alone typically causes carbon leakage. Bohm (1993) first showed that taking fossil fuel reserves off the market can be a beneficial climate policy. Hoel (1994) showed the best policy combines both tools, weighted by where leakage is larger, which depends on how sensitive demand and supply are to price. Harstad (2012) showed a coalition can gain by buying and retiring reserves in other countries. Supply-side treaties may be cheaper and easier to monitor. But major emitters are also major producers, so participation is still hard. The Fossil Fuel Non-Proliferation Treaty Initiative builds on this idea."
+  },
+  "nature-clim-221": {
+   "title": "The emissions gap: pledges versus need",
+   "text": "Each year, UNEP's Emissions Gap Report measures the difference between the cuts countries pledge and the cuts needed to meet a temperature goal. UNEP first assessed the gap in November 2010, against the Copenhagen Accord pledges and a likely chance of meeting 2 °C. The 2020 report said 1.5 °C needs a 57% global cut from 2019 levels by 2030. In 2022 it said emissions needed to be almost halved. The 2024 report found current policies would likely lead to 3.1 °C of warming, and full pledges to 1.9 °C."
+  },
+  "nature-clim-162": {
+   "title": "Net zero: balancing what goes up with what comes down",
+   "text": "As of November 2023, about 145 countries had announced or were considering net zero targets, covering close to 90% of global emissions. Net-zero emissions is the state in which greenhouse gases released by human activity are balanced by human removals. The idea grew from late-2000s research showing that warming slows only when CO2 emissions reach net zero. It underlies the Paris Agreement. Reaching it is needed to slow warming, though gases already in the air keep causing some. Net zero is not a license to offset. It needs deep emission cuts first, and only a small remaining share can be balanced by carbon dioxide removal. Net zero standards require cutting emissions by more than 90% and offsetting only the remaining 10% or less. The economics look favorable. The IMF estimates that net zero by 2050 would leave global GDP 7 percent higher than current policies. Net zero, carbon neutrality and climate neutrality are often used as synonyms, though some standards give them different meanings."
+  },
+  "nature-clim-138": {
+   "title": "Carbon dioxide removal: taking CO2 back out of the air",
+   "text": "As of 2023, about 2 gigatons of CO2 a year were removed from the air, almost all by planting forests. That equals 4% of yearly human greenhouse gas emissions. Carbon dioxide removal is deliberate human activity that takes CO2 out of the air and stores it durably on land, underground, in the ocean or in products. It is also called carbon removal, greenhouse gas removal or negative emissions. Net zero needs deep emission cuts first, then removal as well. Removal counterbalances emissions that are hard to eliminate, such as some from farming and aviation. Methods include afforestation, reforestation, carbon farming, bioenergy with carbon capture and storage, and direct air capture with storage. They can be grouped by their place in the carbon cycle or by how long they store carbon, from decades to thousands of years. A 2019 NASEM report estimated that current safe and economic methods could remove up to 10 gigatons a year if fully deployed. Removal differs from carbon capture and storage at a power plant, which cuts new emissions but does not lower the CO2 already in the air."
+  },
+  "nature-clim-192": {
+   "title": "Direct air capture: scrubbing CO2 from the sky",
+   "text": "In 2025, pulling a tonne of carbon dioxide straight out of the air cost over $1000, many times the carbon price. That is the price of direct air capture, which uses chemical or physical processes to extract CO2 from the surrounding air. With long-term storage it is called DACCS. Unlike CCS, which captures CO2 at a source such as a factory, it lowers the concentration of the atmosphere as a whole. Fans push air past liquid solvents or solid sorbents that bind CO2. Heat then releases a concentrated stream and regenerates the material. It uses about 1 to 2.5 MWh of electricity per tonne. Its own emissions range from 0.01 tCO2 per tonne captured with renewable power to 0.65 with grid power and gas heat. Economies of scale could bring costs to $94–232 per tonne for a 1 Mtpa plant, though some dispute that costs can fall below $200. Campaigners call it a costly distraction that helps keep the fossil fuel industry going."
+  },
+  "nature-clim-182": {
+   "title": "BECCS: energy from plants, carbon into the ground",
+   "text": "Growing plants absorb CO2. Burn them for energy, capture some of the CO2 and store it underground, and the net result can be removal from the air, under some conditions. This is bioenergy with carbon capture and storage, or BECCS. Its negative emissions potential has been estimated at anywhere from zero to 22 gigatonnes a year. Cost estimates range from $60 to $250 per ton of CO2. Yet as of 2024 only 3 large-scale BECCS projects operated worldwide. Growing biomass at large scale risks breaching planetary boundaries through land and water scarcity, biodiversity loss, competition with food and deforestation. Using farm and forestry residues instead of energy crops avoids many of these problems."
+  },
+  "nature-clim-199": {
+   "title": "Geoengineering: deliberately reshaping the climate",
+   "text": "Geoengineering, or climate engineering, is deliberate large-scale intervention in Earth's climate system to counteract human-caused climate change. It usually covers two categories. Large-scale carbon dioxide removal is generally counted as mitigation. Solar radiation modification reflects some sunlight back to space. The two differ greatly in mechanisms, timelines and risks, and are now usually discussed separately. A common objection is that focusing on these technologies could undermine efforts to cut emissions. Effective governance and international oversight are widely seen as essential."
+  },
+  "nature-clim-211": {
+   "title": "Solar radiation modification: dimming the sun",
+   "text": "Solar radiation modification is the only known way to lower global temperatures within months. Also called solar geoengineering, it limits warming by reflecting more sunlight from Earth back to space. It is meant to complement, not replace, emission cuts. Models consistently show it could reduce warming and many climate effects, though effects would vary by region and season. Direct costs could be billions to tens of billions of US dollars per degree Celsius of cooling, low compared with climate damages. But it does not lower CO2, so it does nothing about ocean acidification. Some fear a 'moral hazard', weakening the will to cut emissions, though experts dispute its size. Because it is cheap and feasible, one country could deploy it alone, and no comprehensive global framework regulates it. Scientists, NGOs and governments disagree on whether it should be researched or deployed at all."
+  },
+  "nature-clim-166": {
+   "title": "Can net-zero pledges be trusted?",
+   "text": "As of 2023, only 5% of companies with a net zero commitment had a credible plan. Credible targets covered only 7% of emissions. Most such pledges are voluntary and lack enforcement, so their trustworthiness is hotly debated. Heavy reliance on carbon credits is a main reason many claims lack credibility. The UN has condemned the net zero pledges of fossil fuel companies, made while they expand production, as greenwashing. Some climate scientists go further. They argue that net zero lets actors put off cuts today by relying on unproven future technologies. Standards bodies, meanwhile, are trying to make pledges robust, so the debate is about how to fix the idea as much as whether to keep it."
+  },
+  "nature-clim-140": {
+   "title": "What carbon removal costs",
+   "text": "Removing a tonne of CO2 costs less than $50 through nature-based solutions such as reforestation. Biochar costs $200 to $584, and direct air capture $94 to $600. Costs vary with how mature each method is and with the markets for removals and by-products. Price also reflects durability. Biochar sells for more than nature-based removals because it stores carbon for hundreds or thousands of years, while forests are a more volatile store. Land differs too. A direct air capture plant taking 1 MtCO2 a year uses 0.4–1.5 km2, while roughly 46 million trees would need about 3,098–4,647 km2. As of early 2023, financing fell short of what high-tech removal would need. Most new money came from voluntary private initiatives, a concern because voluntary markets have historically been far smaller than those created by government policy."
+  },
+  "nature-clim-196": {
+   "title": "Enhanced weathering: grinding rock to capture carbon",
+   "text": "Over geological time, rainwater and CO2 form carbonic acid that slowly dissolves minerals, which helps stabilize Earth's climate. Enhanced weathering speeds this up by spreading finely ground silicate rock, such as basalt, so it reacts with water and air. The CO2 ends up in solid carbonate minerals or as ocean alkalinity, which also slows ocean acidification. It could remove 2–4 Gt of CO2 per year. A 2020 analysis put the cost on cropland at US$80–180 per tonne, comparable to BECCS and large-scale direct air capture. Uncertain dissolution rates make its cost and speed uncertain. Mine tailings and steel slag can be used first, though more basalt mining might eventually be needed."
+  },
+  "nature-clim-180": {
+   "title": "Biochar carbon removal: the leader in delivered removals",
+   "text": "In 2022/2023, biochar carbon removal accounted for 87–92% of all carbon removals actually delivered. The method turns leftover biomass into biochar by pyrolysis and stores it in soil or durable materials. It is also called pyrogenic carbon capture and storage. Plants take CO2 from the air as they grow. Heating them to 350–900 °C with little oxygen locks that carbon into a stable form that can last centuries to millennia, with bio-oil and pyrogas as by-products. Its potential is put at 0.3 to 4.9 billion tonnes of CO2 per year. It is quick to deploy and capital-efficient, suiting farmers and rural diversification in developing countries. How fast biochar decays is disputed. Some studies report fast decay or more soil emissions, while a 2025 re-analysis says common decay models overestimate decay."
+  },
+  "nature-clim-165": {
+   "title": "Net zero for short-lived gases like methane",
+   "text": "Methane does not have to reach zero to stop adding warming. Because it is short-lived, cutting its emissions lowers its warming effect at once. That is one reason net zero for CO2 alone can come sooner than for all gases, along with the difficulty of phasing out farm methane. Short-lived gases still push temperatures up in the short term and could breach 1.5 °C earlier. Robust net zero standards therefore cover all greenhouse gases, not only CO2."
+  },
+  "nature-clim-141": {
+   "title": "Could carbon removal become an excuse?",
+   "text": "Removal plans in countries' 2023 climate pledges would need 1.2 billion hectares, as much land as all the world's cropland. That points to a worry: promises of future removal could weaken efforts to cut emissions now. In 2018, relying on large-scale removal was seen as a major risk to the 1.5 °C goal, given uncertainty about how fast it can grow. A 2019 NASEM report said that delaying mitigation on the promise of a removal backstop misrepresents removal's real capacity. Critics insist it is no substitute for cuts, while others see it as a needed complement for hard-to-abate sectors."
+  },
+  "nature-clim-142": {
+   "title": "Removing carbon through the ocean",
+   "text": "The ocean's dissolved carbon stays in balance with the CO2 in the air, so drawing carbon down in the sea pulls it from the sky. Ocean alkalinity enhancement dissolves minerals such as olivine or limestone so that carbonate settles on the sea floor, at an estimated US$100 to $150 per tonne. Electrochemical methods strip carbonate from seawater and are much cheaper when combined with desalination. Ocean fertilization would store carbon for only 10–100 years."
+  },
+  "nature-clim-139": {
+   "title": "How long does removed carbon stay put?",
+   "text": "Removing carbon helps only while it stays stored. Forests, kelp beds and other plants store carbon as they grow, but these stores are volatile, because long-term storage cannot be guaranteed. Wildfires, disease, economic pressure and changing politics can release the carbon again. Injecting CO2 underground, or locking it into insoluble carbonate salts, stores it more securely."
+  },
+  "nature-clim-163": {
+   "title": "Residual emissions and removals that match",
+   "text": "Methane lasts around 12 years in the air, carbon dioxide between 300 and 1,000 years. That gap shapes net zero rules. Residual emissions are those not practical to cut for technical reasons. Robust rules say they must be balanced by removals that store carbon as long as the gas would last, so removals balancing CO2 must last far longer. Weaker carbon neutrality standards also allow avoided-emissions offsets, which cut emissions against a baseline but remove nothing from the air. Critics worry such offsets delay real cuts and aid greenwashing."
+  },
+  "nature-clim-200": {
+   "title": "Glacial geoengineering: holding back the ice",
+   "text": "Melting ice reflects less sunlight, a feedback that could trigger climate tipping points. Fear of that drives glacial geoengineering: proposed interventions to slow the loss of glaciers, ice sheets and sea ice. Methods include regional sunlight reflection, reflective surfaces, draining water from under glaciers and curtains on the seabed. The research is early, and effectiveness is highly uncertain."
+  },
+  "nature-clim-201": {
+   "title": "Who governs geoengineering?",
+   "text": "No single treaty governs geoengineering. The rules are mostly specific to each method. In 2010 the Convention on Biological Diversity set a non-binding framework requiring scientific justification, environmental assessment and oversight. A 2013 amendment to the London Protocol created a binding framework for marine geoengineering, starting with ocean fertilization. It has not entered into force."
+  },
+  "nature-clim-213": {
+   "title": "Marine cloud brightening",
+   "text": "Spraying tiny sea-water droplets into low ocean clouds could make them reflect more sunlight. The cooling from such marine cloud brightening would be felt quickly, and it could be reversed on fairly short time scales. But technical barriers remain, it could not offset all current warming, and its risks are unclear."
+  }
+ },
+ "openers": {},
+ "reviews": {},
+ "glossary": {}
+}

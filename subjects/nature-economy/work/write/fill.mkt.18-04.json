@@ -1,0 +1,139 @@
+{
+"openers": {
+"finance-for-conservation": "Protecting land, water and wildlife costs money, and conservation finance is the business of raising and managing it. This chapter starts with the basic tools of finance: bonds, which are loans in tradable form, shares of company stock, and return on investment, the profit an investment earns against its cost. It then follows how those tools, along with foreign aid, are bent toward nature. Debt-for-nature swaps cancel part of a poor country's foreign debt in return for local conservation. Blended finance uses public and charitable money to draw private investors in, and every investor is told to spread money across many assets so that no single loss does too much harm."
+},
+"entries": {
+"nature-mkt-065": {
+"title": "Bonds: lending money in a form that can be sold",
+"text": "Governments, banks, companies and international institutions all borrow by selling bonds. A bond is a loan in the form of a tradable security. The issuer borrows money and promises to pay the holder {{ref:nature-econ-811}} and repay the principal, the sum borrowed. Interest is usually paid at fixed intervals, often every six months or every year. The interest rate the issuer pays is the coupon, which can be fixed or float with a reference rate. Bonds fund borrowers' long-term investments or, for governments, current spending. Unlike shares, bonds usually have a fixed term, or maturity, and most last less than 30 years. Bondholders are lenders, while stockholders are owners, so bondholders are repaid first if a company goes bankrupt. Most bonds are bought by institutions such as pension funds and insurers."
+},
+"nature-mkt-069": {
+"title": "Return on investment: what you get back for what you put in",
+"text": "Return on investment, or ROI, is the ratio of the profit an investment earns to what it cost. A simple form takes the gain from the investment, subtracts its cost, and divides by the cost. Suppose $10,000 is invested plus $200 in fees, and after a year it is worth $12,500 with $300 in dividends: those figures give the year's return. A high ROI means the gains compare well with the cost. It is used to judge one investment or to compare several, and the highest is usually chosen first. It has two blind spots. It is not adjusted for time, so long-term investments need a discounted version based on {{ref:nature-val-014}}. Traditional ROI also ignores the value and risks of natural and social capital, because it leaves out environmental, social and governance performance."
+},
+"nature-mkt-076": {
+"title": "Stock: owning a slice of a company",
+"text": "Buy one share and you own a fraction of a company. Stock is all the shares into which a company's ownership is divided. A share usually entitles its holder to part of the company's earnings, a vote, and part of what is left after debts if the company is wound up. Common stock usually carries votes; preferred stock usually does not, but gets dividends first. A company selling shares to the public on a stock exchange for the first time makes an initial public offering, or IPO. Raising money this way is equity financing. Issuing bonds is debt financing, which avoids giving up ownership. A share's price at any moment is set by supply and demand. Shareholders stand behind creditors in any claim on the company's assets."
+},
+"nature-mkt-055": {
+"title": "Environmental finance: making investment less harmful to nature",
+"text": "In 1992 Richard Sandor proposed a course on emission markets at the University of Chicago, later called Environmental Finance. The field it named is a branch of finance that uses market-based environmental policy tools, such as pricing and trading schemes, to make investment less harmful to nature. It seeks to move business resources toward sustainable investments while keeping profits. Inspired by the idea of social cost, Sandor focused on cap-and-trade along with taxes and subsidies. Under cap-and-trade, a total emissions cap is set, and firms receive permits they can buy or sell, rewarding cuts and penalizing excess. Investors gained new yardsticks too: the Dow Jones Sustainability Index, launched in 1999, rates the ecological and social impact of stocks. Money for climate is one part of the field. It splits into finance for cutting emissions, which takes over 90% of climate spending, and finance for adapting to change."
+},
+"nature-mkt-056": {
+"title": "Official development assistance: the measure of foreign aid",
+"text": "In 2019 rich countries gave US$168 billion in official development assistance, or ODA, of which US$152 billion came from donors in the OECD's Development Assistance Committee. ODA is the OECD's measure of foreign aid: money that rich countries' governments give to promote poorer countries' development and welfare. The committee adopted the concept in 1969. Most of it is grants, but loans on easy terms count if at least 25% of their value is effectively a gift. In 2019, 28% was pooled through bodies such as the EU, the World Bank's IDA and UN agencies. It is also a channel for public conservation money, through grants, cheap loans and technical help. Critics call it an untidy, somewhat arbitrary category that counts spending mainly benefiting donors, such as refugee costs at home. In 2025 aid from committee donors fell 23% after inflation, the biggest yearly drop on record."
+},
+"nature-hist-027": {
+"title": "The economics of biodiversity: how life props up the economy",
+"text": "The WWF's 2018 Living Planet Report argued that the whole global economy, worth US$125 trillion, ultimately relies on nature. The economics of biodiversity studies that dependence, and the harm economic activity does in return. Biodiversity underpins ecosystem services and affects how productive ecosystems are. It supplies food, medicines and industrial materials such as wood, cotton, wool and silk, and it supports recreation and tourism. It inspires design too. Biomimetics copies natural models, as when the ridges on humpback whale fins inspired wind turbine blades. Yet most species have never been assessed for their present or future economic importance. Economists still debate whether biodiversity should be valued mainly for its benefits to people, and what its value in itself might be."
+},
+"nature-mkt-012": {
+"title": "Conservation finance: raising money to protect nature",
+"text": "Conservation has traditionally been paid for by donations, foundation grants and government money, from tax incentives and ballot measures to bonds and agency budgets. Supporters of conservation finance argue that this falls far short. One widely cited estimate put yearly needs in the hundreds of billions of dollars, far above actual flows. Conservation finance is the raising and managing of money to protect land, water and other resources nature provides. It draws on public, private and nonprofit money at local to national scales, using tools from loans and grants to tax breaks and market-based mechanisms. It is sometimes set apart from fundraising. Fundraising gathers money that is never paid back, while conservation finance uses a wider set of tools to put capital to work for conservation results. To close the gap it tries to tap financial markets, through debt, tax benefits, private equity and project finance. Deals are usually built around a clear source of cash flow or budget that can pay for conservation over time. The early tools were {{ref:nature-mkt-037}} in the 1980s, followed by approaches such as payments for ecosystem services. By the mid-2000s it was described as a distinct field. Recent analyses stress drawing in private capital through labeled bonds and {{ref:nature-mkt-049}}."
+},
+"nature-mkt-037": {
+"title": "Debt-for-nature swaps: trading debt for conservation",
+"text": "In 1987 Conservation International bought US$650,000 of Bolivian debt for just US$100,000, in return for conservation commitments. It was the first debt-for-nature swap. Such a swap forgives part of a developing country's foreign debt, and in exchange the country invests locally in conservation. Thomas Lovejoy of WWF proposed the idea that same year, after the Latin American debt crisis had cut indebted countries' ability to fund conservation. Swaps work where the risk of default is high, so funders can buy debt well below its face value. The government then pays for conservation in its own currency. Most swaps happen in tropical, species-rich countries with rapid deforestation and fairly stable politics. Since 1987 they have generated over US$1 billion for conservation. They have grown rarer, falling from about five a year around 1990 to about two a year after 2000, partly because commercial debt became pricier. Their experience shaped later tools such as {{ref:nature-mkt-014}}."
+},
+"nature-mkt-049": {
+"title": "Blended finance: using public money to draw in private investors",
+"text": "A $2 million layer of public or charitable money that draws in $10 million of private money multiplies it 5x. That is blended finance: using development and charitable funds strategically to attract private investment into developing countries. Public and private funds are mixed in one deal, each party using its expertise. The concessional money takes the first losses, which reassures private investors that their principal is protected. Each concessional dollar often attracts 3x to 10x as much private money. The target is the UN's {{ref:nature-gov-010}}, which in 2017 estimates needed an extra $2.5 trillion a year. The OECD's aid committee adopted blended finance principles in 2018. It found 180 funds and facilities with $60.2 billion invested across 111 developing countries. In conservation, the approach helps overcome risk, small deal sizes and transaction costs that deter private investors. Critics, including scholars and NGOs, say it shifts profits to private, mostly Northern, investors while leaving risks with Southern governments. They add that its complexity weakens transparency."
+},
+"nature-mkt-073": {
+"title": "Diversification: not putting all your eggs in one basket",
+"text": "'Don't put all your eggs in one basket' sums up diversification: more risk of losing one egg, less of losing them all. It means spreading money across different investments so that no single asset or risk can do too much harm. A single stock can fall 50% in a year. If prices do not move in perfect step, a diversified portfolio varies less than the average of its parts. It narrows the range of outcomes: returns never beat the best single asset nor fall below the worst. A little goes a long way. A 1977 study found that 30 stocks gave almost the same risk reduction as 1,000, and even four gave most of it. The protection has a weak spot. Prices tend to move together in crises, just when investors need diversification most."
+},
+"nature-mkt-064": {
+"title": "Trophy hunting: can killing animals save them?",
+"text": "After South Africa legalized white rhino hunting, landowners reintroduced the species, and numbers rose from under one hundred to more than 11,000. Trophy hunting is hunting for sport in which parts of the animal, such as the head, horns or hide, are kept and displayed. Supporters say it gives economic reasons to conserve wildlife areas: 'if it pays it stays'. Poorly managed, it can upset age and sex structures, disrupt social groups and cause declines. Opponents call it immoral and say little money reaches local people."
+},
+"nature-mkt-071": {
+"title": "Fiduciaries: managing money in someone else's interest",
+"text": "Trustees, financial advisers and the managers of pension funds and endowments are all fiduciaries. A fiduciary is a person trusted to look after money or other assets for someone else and to act only in that person's interest. A fiduciary must not let personal interest conflict with duty, nor profit from the position without informed consent. Under Delaware law, which governs most large US firms, company directors owe duties of care, loyalty and good faith."
+},
+"nature-mkt-029": {
+"title": "Why the economy keeps eating into biodiversity",
+"text": "Failing to halt the loss of biodiversity on land between 2000 and 2010 was estimated to cost the global economy $500 billion. Economic activities often harm biodiversity, and because they make profits, they are usually favored over conservation and restoration. The main causes are habitat loss, changes in land use, pollution and overexploitation, meaning taking too much. BCG estimates that over 90% of human drivers of the loss come from agriculture, infrastructure, fashion and energy. The IUCN estimates that 79% of threatened species are affected by agriculture, infrastructure, energy and mining. Continued loss raises long-term risks such as pandemics, floods and droughts."
+},
+"nature-mkt-067": {
+"title": "Bond credit quality: will the borrower pay?",
+"text": "A bond is only as good as the borrower behind it. Credit quality is how likely the borrower is to pay the promised amounts on time rather than default. Credit rating agencies grade bonds, and high-yield bonds are rated below investment grade. Because they are riskier, investors expect a higher yield from them."
+},
+"nature-mkt-066": {
+"title": "Bond yield: the return a bond pays",
+"text": "When market interest rates rise, bond prices fall. Yield explains why. A bond's yield is the rate of return an investor earns from it. Current yield is the yearly interest divided by the bond's market price. Yield to maturity estimates the total return from buying at today's price and holding to the end, counting the present value of all payments. Because the payments are fixed, yield and price move in opposite directions."
+},
+"nature-mkt-068": {
+"title": "Types of bonds",
+"text": "Bonds are grouped by who issues them, their currency, their term and the conditions attached. Government or treasury bonds are issued by national governments; the safest, risk-free bonds pay the lowest interest. Bonds under five years are often called short, 5 to 15 years medium, and over 15 years long. Fixed-rate bonds pay a constant coupon, while floating rate notes pay a coupon linked to a reference rate. Convertible bonds can be swapped for the issuer's shares, mixing debt and ownership."
+},
+"nature-mkt-015": {
+"title": "Additionality, leakage and permanence: three tests of paid conservation",
+"text": "Paying for conservation raises three awkward questions. Would the result have happened anyway? Did the harm simply move? Will the gain last? The first is additionality: whether a financed action achieves conservation that would not have happened without the payment. The second is leakage, or spillover, when protecting one place pushes damaging activity to another and cuts the net benefit. The third is permanence. Worries arise wherever results depend on people keeping agreements over long periods. Durability then depends on contract length, enforcement, pressure on the land, and whether behavior persists after payments stop. All three rest on baselines and counterfactuals, which are hard to set in practice, and that weakens claims of impact."
+},
+"nature-mkt-070": {
+"title": "Return on integration: counting nature in the bottom line",
+"text": "Return on integration widens return on investment to count an investment's long-term environmental and social returns alongside its financial ones. The {{ref:nature-clim-241}} can be built in to capture the damage an investment's emissions do to society. The method supports Integrated Bottom Line decisions, which combine financial, environmental and social results in one balance sheet. A related method, social return on investment, measures environmental and social value that ordinary accounts do not show."
+},
+"nature-mkt-035": {
+"title": "Tax breaks for giving up development rights",
+"text": "In the United States, a landowner who donates a qualifying {{ref:nature-mkt-126}} can earn federal income tax deductions and other tax breaks. The donation's value is the drop in the property's market value that the easement causes, set by a qualified appraiser. To qualify, the easement must be perpetual, held by a qualified public or nonprofit body, and serve a real conservation purpose. Easements can also cut estate taxes, since heirs pay on farmland value rather than development value. Some states give tax credits, and Colorado and Virginia let landowners sell them to others."
+},
+"nature-mkt-036": {
+"title": "Buying conservation easements outright",
+"text": "Not every easement is a gift. Governments, nonprofits and donors often buy conservation easements outright, paying landowners directly. The US Farm Bill is a key funder; in 2014 it created the Agricultural Conservation Easement Program for farmland and wetlands. States commonly pay for conservation through real estate transfer taxes, bonds and lottery proceeds. Many states and counties also run programs to buy farm easements that keep farmland from development."
+},
+"nature-mkt-057": {
+"title": "The 0.7% aid target that few countries meet",
+"text": "The best-known aid target says rich countries should give 0.7% of their national income as official development assistance. The UN General Assembly formalized it on 24 October 1970. Sweden and the Netherlands first met it in 1974, and few others have since. Donors in the OECD aid committee have given around 0.3-0.35% of their income as a group since the 1970s. In 2019 six countries met the target, and the UK cut its aid from 0.7% to 0.5% of income in 2021."
+},
+"nature-mkt-058": {
+"title": "Tied aid: help that must be spent at home",
+"text": "Tied aid is aid given on condition that the money is spent on goods from the donor country or a small group of countries. Its legitimacy has long been disputed within the OECD's aid committee, which has set targets to reduce it. The official figures may understate it. A review found that in 2009, 51% of contract value was spent in donor countries, though donors reported only 14% of aid as tied."
+},
+"nature-mkt-039": {
+"title": "The case against debt-for-nature swaps",
+"text": "Supporters describe debt-for-nature swaps as deals in which every party wins. Critics disagree. The debt relieved is under 1% of total foreign debt, even in countries that use swaps often. Early on, nearly three-quarters of swap money went to Costa Rica, while Brazil, despite rapid deforestation, took little part. Early swaps also often overlooked the people living on the land set aside, and some were labeled eco-colonialism."
+},
+"nature-mkt-038": {
+"title": "Three kinds of debt-for-nature swap",
+"text": "Debt-for-nature swaps come in three kinds. In a commercial three-party swap, an NGO buys debt from commercial banks on the secondary market and hands it to the debtor in return for conservation commitments. In a bilateral swap, a creditor country forgives part of another government's debt in exchange for environmental commitments. Multilateral swaps involve several parties. From 1987-2010, recorded three-party swaps raised nearly US$140 million for conservation, and bilateral and multilateral swaps nearly US$900 million."
+},
+"nature-mkt-024": {
+"title": "Farm biodiversity: the root of every crop",
+"text": "Every crop and farm animal began in biodiversity. Agricultural biodiversity is all the parts of biodiversity that matter for food and farming. It earns income through food and raw materials, and through services farms need, such as pollination, pest control, nutrient cycling and climate regulation. Around 25% of the world's people are estimated to work in agriculture, and by 2006 over 3 billion people depended on marine and coastal biodiversity for their livelihoods. Putting a money value on biodiversity in farming and wild food is both hard and controversial."
+},
+"nature-mkt-026": {
+"title": "Medicines from nature",
+"text": "Over 40% of pharmaceutical products come from nature, and 70% of all cancer drugs are natural products or inspired by them. Biodiversity is a source of medicines and of ecosystem services that protect health. Two drugs against malaria show the link: quinine comes from Cinchona bark and artemisinin from sweet wormwood. For many people the connection is direct. Over 60% of the world's population still relies on herbal medicine as its main health care."
+},
+"nature-mkt-027": {
+"title": "Nature tourism: wildlife as a money earner",
+"text": "The global ecotourism market was estimated at US$216.49 billion in 2023. Biodiversity earns money through recreation and tourism, such as hiking, fishing and wildlife watching, a cultural ecosystem service. Tourism as a whole accounts for 10% of the global job market. It also harms biodiversity, through habitat destruction and pollution, which led to the rise of sustainable tourism."
+},
+"nature-mkt-025": {
+"title": "Natural pest control and the cane toad warning",
+"text": "Biological pest control uses natural enemies to keep pests down, an ecosystem function that depends on biodiversity. Control species can cut crop losses without the harms of chemical pesticides, which brings economic benefits. Done carelessly, it backfires. Cane toads brought to Queensland in 1935 to eat cane beetles became an invasive species."
+},
+"nature-mkt-050": {
+"title": "How blended finance lowers investors' risk",
+"text": "Development funders support private investors in blended deals in three main ways. Technical assistance uses grants to build investees' skills and lower transaction costs. Guarantees, insurance and concessional tranches, slices of a deal on generous terms, reduce risks such as currency swings, political instability and default. Market incentives make up the third. Because concessional money is meant to spark investment rather than keep flowing, it can be recycled into new projects once investors gain confidence."
+},
+"nature-mkt-028": {
+"title": "The illegal wildlife trade: a $23 billion business",
+"text": "The Zoological Society of London estimates the illegal wildlife trade is worth $23 billion a year. The trade profits by selling products from wild animals and plants, including endangered species. Demand comes partly from culture, such as bushmeat and traditional medicine, while criminal and terrorist groups use trafficking to raise money. It drives population declines, extinctions, loss of genetic diversity, and the spread of disease and alien species."
+},
+"nature-mkt-074": {
+"title": "Risks you can spread away, and risks you cannot",
+"text": "Some risk can be spread away and some cannot. Diversifiable risk comes from a single company. Systematic, or market, risk affects all assets. Holding one stock carries both company-specific risk and market risk. Buying all S&P 500 stocks leaves only the risk of the index moving. The company-specific part shrinks as more stocks are held, which is why it is called diversifiable."
+},
+"nature-mkt-075": {
+"title": "The math of diversification",
+"text": "Mixing assets can bring a portfolio's variance, a measure of risk, below that of even its least risky asset. Markowitz's 1952 mean-variance framework showed that portfolio risk depends on how returns move together, not just on each asset's own variance. Take a fraction q in asset X and 1-q in an unrelated asset Y. The portfolio's variance is q²σx² + (1-q)²σy². It is lowest at q = σy²/(σx²+σy²), giving σx²σy²/(σx²+σy²), which is below either asset held alone."
+},
+"nature-mkt-051": {
+"title": "Land trusts: holding land for a purpose",
+"text": "Land trusts date back at least to Roman times, but their clearest history begins in Henry VIII's England. They are nonprofit or fiduciary arrangements that own and manage land, and sometimes water. The three common types are real estate investment trusts, community land trusts for affordable housing, and trusts that protect nature. In Australia, Aboriginal land trusts hold freehold title to land on behalf of Aboriginal and Torres Strait Islander communities."
+}
+}
+}

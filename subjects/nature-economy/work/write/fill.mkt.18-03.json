@@ -1,0 +1,150 @@
+{
+"openers": {
+"forest-carbon-and-redd": "A carbon credit is a tradable certificate claiming that greenhouse gases were kept out of the air or taken back out of it. Forests sit at the center of that trade. A UN framework called REDD+ pays developing countries to cut emissions from losing and degrading their forests, and private standards such as Verra's certify forest credits for companies that buy them voluntarily. This chapter follows how such credits are made, counted and checked, and why that is hard. Protecting one forest can push clearing somewhere else, and critics argue that offsets let polluters carry on instead of cutting their own emissions."
+},
+"entries": {
+"nature-mkt-081": {
+"title": "Carbon credits: buying a tonne of avoided emissions",
+"text": "One carbon credit stands for one metric ton of carbon dioxide kept out of the air or removed from it. Other greenhouse gases count by their equivalent warming effect. It is a tradable certificate making that claim. Using credits to counter an organization's own reported emissions is called carbon offsetting. Crediting programs let project developers earn credits for emission-cutting projects and sell them to buyers who want to claim an offset. The projects vary widely: forest protection and planting trees, wind farms, biogas digesters, energy efficiency, carbon capture and trapping methane from landfills. The economic idea is simple. Cutting emissions costs different amounts in different places, so trading credits can lower the total cost of meeting targets. Credits are one form of {{ref:nature-pol-239}}, alongside carbon taxes and carbon border adjustments. Most of the trade happens in compliance markets, where buyers must cut emissions by law. About 12 GtCO2e changed hands there, against 300 MtCO2e on voluntary markets in 2021. The roots run back to wetland offsetting under the US Clean Water Act in the 1990s. The {{ref:nature-clim-056}} created the first international offset markets in 1997."
+},
+"nature-mkt-104": {
+"title": "The Clean Development Mechanism: Kyoto's offset market",
+"text": "From 2001 to 7 September 2012, a UN scheme issued 1 billion offset credits. The Clean Development Mechanism, set up under the {{ref:nature-clim-056}}, let rich countries fund emission-cutting projects in developing countries and count the savings toward their own targets. Projects earned Certified Emission Reduction units, or CERs. Industrialized countries bought them because cuts were cheapest in developing ones. The scheme aimed both to aid development in poorer countries and to help rich ones meet their commitments. The IPCC projected it would cut OECD Europe's GDP losses to 0.13–0.81%, against 0.31–1.50% with domestic action alone. Its revenues became the largest source of money for cutting emissions in developing countries. A 2% levy funded a separate fund for adapting to climate change. Yet by June 2013, 57% of credits came from destroying two industrial gases, HFC-23 and N2O. Weak demand after the 2008 financial crisis drove prices from 20 USD in 2008 to 5 USD in 2012, and below 1 USD the next year. Avoided deforestation was excluded in Kyoto's first commitment period."
+},
+"nature-res-095": {
+"title": "Forest degradation: decline without disappearance",
+"text": "A forest can lose much of its value while still looking like a forest on the map. Forest degradation is a lasting decline in a forest's biological richness: the forest remains but is in worse condition. It has fewer trees, fewer species, or species hit by pests and disease, without losing area. That lowers its value and can lead on to outright deforestation. It is one kind of the wider problem of {{ref:nature-eco-060}}. Causes include over-harvesting of timber and charcoal, roads, mining, urban sprawl, grazing and the breaking up of forest into fragments. Unlike visible clearing, degradation can proceed without clear signs, which makes it hard to measure. Even the term is disputed. In 2009 more than 50 definitions were counted, many of them subjective. One Bolivian mapping study, for instance, treated 30–70% remaining forest cover as degraded, under 30% as deforested and over 70% as intact. Measuring degradation remains a weak point of {{ref:nature-mkt-092}} monitoring."
+},
+"nature-mkt-092": {
+"title": "REDD+: paying countries to keep their forests",
+"text": "In 2019 the IPCC put net emissions from land at about 13 GtCO2-eq a year, about 22% of global net human emissions. Roughly half came from changes in land use, mainly deforestation. REDD+ is the UN's answer. The name stands for reducing emissions from deforestation and forest degradation in developing countries; the plus adds conserving and enhancing forests. This voluntary framework pays and supports developing countries to cut those emissions and build up forest carbon. The idea is to reward reduced deforestation by giving forest carbon a value. Cutting deforestation and degradation is estimated to be one of the cheapest ways to slow climate change. Papua New Guinea and Costa Rica first proposed REDD in 2005, for the Coalition for Rainforest Nations. To take part, a country needs a national strategy, a benchmark of past forest emissions, a forest monitoring system and a system for reporting on safeguards. Most drivers of deforestation lie outside the timber business, in farming, roads and mining. Strategies therefore combine forest measures with land-use and farming reforms. Alongside the UN track, many voluntary-market forest projects calling themselves REDD+ issue credits under private standards, mostly the {{ref:nature-mkt-102}}."
+},
+"nature-mkt-082": {
+"title": "Carbon credit quality: is this tonne real?",
+"text": "A carbon credit is meant to substitute for cuts the buyer could have made itself. Credit quality is how confident one can be that using it leaves the world at least as well off as that cut would have. High-quality credits come from reductions that are additional, robustly measured, not claimed by anyone else, and free of serious social or environmental harm. Checks usually cover the baseline, additionality, permanence, double counting and side benefits. Reviews have found the opposite too often: overestimated carbon storage, double-counted credits and projects that added nothing beyond what would have happened anyway. From around 2020, credit-rating initiatives and labels such as the {{ref:nature-hist-034}} appeared to help buyers tell good credits from bad."
+},
+"nature-mkt-090": {
+"title": "The case against carbon offsets",
+"text": "A 2016 study by the Öko-Institut found that 85% of the Clean Development Mechanism projects it analyzed were unlikely to be truly additional or likely overstated their reductions. That finding sits at the center of a broader charge. Critics argue that offsets let polluters carry on with business as usual instead of cutting emissions at the source. Research from the Australia Institute suggested at least 25% of offsets may lack integrity. The design itself can backfire. Offsets can create perverse incentives to emit more, so that cuts are measured from an inflated baseline. Standards also measure baselines and additionality differently, and no single standard governs the industry. The evidence does not all point one way, though. Companies that buy offsets tend to make more ambitious emission cuts than those that do not. Whether offsets delay real cuts or accompany bolder ones remains in dispute."
+},
+"nature-mkt-083": {
+"title": "The voluntary carbon market: offsets nobody is required to buy",
+"text": "The voluntary carbon market covers less than 1% of the reductions countries have pledged for 2030. In it, companies, people and organizations with no legal duty to cut emissions buy offsets to meet goals they set themselves. The market is largely unregulated. Credits are issued under independent standards such as Verra's {{ref:nature-mkt-102}}, the {{ref:nature-mkt-091}}, the Climate Action Reserve, the American Carbon Registry and Plan Vivo. These programs set accounting rules, project eligibility, and procedures for monitoring, reporting and verification. In 2022 prices for common project types ranged from $8 to $30 per tonne of CO2e. Credits that store carbon, bring extra social and environmental benefits, or have recent vintages fetch more. Oversupply keeps prices low; without the surplus, prices could be at least $10/tCO2e higher. Even so, issuing and retiring of voluntary offsets more than tripled between 2017 and 2021."
+},
+"nature-mkt-099": {
+"title": "The case against REDD+",
+"text": "In 2007 an Indigenous forum opposed REDD outright. Its objection is one of several that researchers, Indigenous organizations and civil-society groups raise about the effectiveness, governance and fairness of REDD+. Land ownership is the first problem. Unclear land tenure and carbon rights make consent and benefit-sharing harder, and they open the door to elite capture, where powerful insiders take the gains. Indigenous groups warn that forest-carbon schemes can restrict traditional uses of their land. Definitions matter too. Broad definitions of forest can include plantations, which may reward tree cover regardless of biodiversity. Outcomes also depend on domestic politics, tenure arrangements and the capacity of government offices. Supporters and critics, including Indigenous organizations, still disagree over whether REDD+ is fair and whether it works."
+},
+"nature-mkt-096": {
+"title": "Leakage: when saving one forest dooms another",
+"text": "Protecting one patch of forest can simply push the chainsaws elsewhere. That displacement of forest loss is called leakage: deforestation or degradation moves to another area and cancels the gain. It is the forest version of {{ref:nature-pol-252}}. The {{ref:nature-mkt-108}} for REDD+ call for action to reduce such displacement, and many crediting standards include leakage accounting. The choice matters, because the outcomes reported and the credits issued are sensitive to how leakage is handled."
+},
+"nature-mkt-098": {
+"title": "Has REDD+ actually saved forests?",
+"text": "Brazil submitted the first quantified REDD+ results to the UN climate convention on 31 December 2014, for the Amazon. Since then, the central question has been how much REDD+ and other forest-carbon schemes actually reduced forest loss. The answers are mixed and depend on context. A 2024 multi-country evaluation found modest average gains in forest, limited effects on welfare, and impacts that did not always last. A study of 40 REDD+ projects in nine countries, all certified under Verra's standard, found less deforestation than in matched comparison areas over the first five years. Yet an analysis in the Brazilian Amazon concluded that many project baselines assumed more deforestation than comparison methods suggested. Results hinge on the baseline chosen, on proving additionality, and on measuring degradation and carbon below ground. UN-reported results and voluntary-market credits are not directly comparable either. One uses national reference levels; the other uses project baselines. Some argue that project baselines are inflated, and the debate is not settled."
+},
+"nature-mkt-108": {
+"title": "The Cancún safeguards: rules to protect people and forests",
+"text": "Paying to save forest carbon could, in the wrong hands, harm the people who live in forests or the forests themselves. The Cancún safeguards, seven principles adopted at the 2010 UN climate conference, arose from exactly those concerns about insecure land tenure and the conversion of natural forest. They cover forest governance and the rights and participation of Indigenous and local communities. They also cover conservation of natural forests and biodiversity, and the risks of emissions being reversed or displaced. They bar REDD+ actions from being used to convert natural forests. Countries must report how the safeguards are respected before receiving results-based payments. Because they are broad principles, countries apply them very differently, and how reported information should be checked is still debated."
+},
+"nature-mkt-102": {
+"title": "The Verified Carbon Standard: Verra's forest credit rulebook",
+"text": "By 2024 more than 2,300 projects were registered under the Verified Carbon Standard, issuing over 1.3 billion credits. More than 776 million of them had been retired. The standard, run by the nonprofit Verra, certifies carbon credits used to offset emissions. It began in 2005 as a quality standard for credits outside the {{ref:nature-clim-056}}, such as projects in rich countries that the Clean Development Mechanism could not credit. It is now the main program for forest credits in the voluntary market and covers almost all REDD+ projects. The {{ref:nature-hist-033}} lists it as eligible for its quality label."
+},
+"nature-mkt-084": {
+"title": "Carbon credit registries: tracking every tonne",
+"text": "A credit sold twice is worth nothing, so someone has to keep the books. A carbon credit registry is a database, usually public, run by a crediting program to track who owns each credit and when it is retired. Registries may also hold project status, documents, credits generated, sales and retirements. A credit's vintage is the year it was issued, usually the year an auditor reviewed the project. Retiring a credit is the buyer's choice of how to use it, for example to offset emissions."
+},
+"nature-mkt-086": {
+"title": "From project idea to issued credit",
+"text": "Every carbon credit passes through a project cycle. An offset project is designed, financed, checked by an independent verifier and registered with a crediting program. Programs keep libraries of approved methods for different project types. Once running, a project is usually verified about once a year to measure its emission reductions. After verification is approved, credits are issued into the developer's registry account."
+},
+"nature-mkt-087": {
+"title": "What kinds of projects earn carbon credits",
+"text": "Carbon credits come from many kinds of projects, from land use and methane capture to renewable energy and energy efficiency. Others include replanting forests and switching to fuels that add no net carbon or remove it. Methane, mostly from landfills, livestock and coal mines, can be captured and burned for energy. Industrial gases such as HFCs and PFCs warm far more than carbon dioxide and are easy to destroy at source. Renewable energy projects, by contrast, may not qualify as offsets."
+},
+"nature-mkt-088": {
+"title": "Forest and soil offsets: paying to keep carbon in the land",
+"text": "Deforestation, notably in Brazil, Indonesia and parts of Africa, accounts for about 20 percent of greenhouse gas emissions. Offsets from land use and forests, known by the acronym LULUCF, try to turn that around by protecting or building natural carbon sinks such as forests and soil. Forest projects protect existing forests, restore forests on once-forested land, and plant forests on land that had none. Soil projects try to keep or raise the carbon stored in soil. The appeal is direct. Offsets let firms pay for forest preservation instead of forest clearing."
+},
+"nature-mkt-089": {
+"title": "Phantom credits: doubts over forest offsets",
+"text": "One estimate held that around 90% of rainforest credits under the Verified Carbon Standard are likely 'phantom credits', with no real cut behind them. From 2021 to 2023, news stories criticized nature-based offsets, REDD+ and the bodies that certify them. The worry is that forest credits often fail to deliver the climate benefits they claim. Forests make awkward carbon stores. Trees take decades to mature, and no one can guarantee a forest will escape clearing, burning or mismanagement. Some projects do harm. Planting fast-growing invasive species can damage native forest and biodiversity. In high latitudes, planting trees may even warm the climate, because dark tree cover absorbs sunlight. Projects can also clash with local and Indigenous communities whose use of the forest they restrict. Critics and investigative reports dispute whether many forest credits represent real reductions, and certifiers contest those claims."
+},
+"nature-clim-238": {
+"title": "Emissions baselines: the yardstick for every claimed cut",
+"text": "Every claimed emission cut is a subtraction. Reductions equal the emissions there would have been without the project minus the project's actual emissions. The first number, the emissions baseline, can never be measured directly. It often rests on hypothetical scenarios, emissions from similar activities, or emissions before the project began. That creates a temptation. Offsets can reward inflating the baseline so that larger cuts can be claimed, and in REDD+ choices of reference period and data can strongly change credited results. In policy, the baseline sets the potential for cuts and their cost. A business-as-usual baseline assumes past trends continue with no new policy and often implies high emissions. An efficient baseline assumes all resources are used efficiently, so the cost per unit cut can be high while the total cost stays low."
+},
+"nature-mkt-113": {
+"title": "Forest reference levels: the benchmark for REDD+ results",
+"text": "A country claiming REDD+ results must first say what its forests would have emitted anyway. Its forest reference emission level is that benchmark, measured in tonnes of CO2e per year. Emissions and removals in the results period are compared with the reference period to measure performance. Reference levels usually combine historical data on changes in forest area with emission estimates. Each one submitted for results-based payments gets a UN technical assessment, and countries may improve them step by step. Choices of reference period, data, activities and carbon pools change how many results are counted. A simple projection of past forest loss has a perverse edge: it could tempt countries to clear more during the reference period to earn more credits later. Nesting links project baselines with these national levels to avoid counting the same cut twice."
+},
+"nature-mkt-085": {
+"title": "Forward crediting: selling cuts that have not happened yet",
+"text": "Forward crediting issues carbon credits for emission cuts or removals that are only projected, so buyers can claim them before the work is done. The practice is generally seen as risky and as producing lower-quality credits."
+},
+"nature-mkt-091": {
+"title": "The Gold Standard: credits with development benefits",
+"text": "In 2003 WWF and partners created the Gold Standard to make sure carbon credits are real, verifiable and help development that lasts. It is a certification label for emission-reduction projects in the Clean Development Mechanism and the voluntary carbon market. Projects must prove additionality, avoid double certification and contribute to at least three of the UN's {{ref:nature-gov-010}}. Eligible types are renewable energy, energy efficiency, planting and replanting forests, and agriculture. The {{ref:nature-hist-033}} lists it as eligible for its quality label."
+},
+"nature-mkt-100": {
+"title": "Markets or funds: the early fight over paying for REDD+",
+"text": "Should forests be saved by selling credits or by public money? Early in REDD+, countries and observers split over offset-based versus fund-based designs. Critics of the market route argued that floods of forest credits could depress carbon prices and weaken incentives to cut emissions at home. The UN settled on a compromise. Since the COP 17 climate conference, its decisions allow REDD+ to be financed by both market and non-market sources."
+},
+"nature-mkt-093": {
+"title": "The five activities REDD+ counts",
+"text": "REDD+ counts five kinds of action: reducing deforestation, reducing forest degradation, conserving forest carbon, managing forests sustainably, and enhancing the carbon forests hold. Together they cover avoiding forest loss, avoiding decline in forest condition, keeping the carbon already stored, and managing forests to sustain them. Enhancement means raising the carbon stored in forests over time, through replanting or natural regrowth. Logging done with less damage to the remaining forest can count as sustainable management."
+},
+"nature-mkt-094": {
+"title": "REDD+ in phases: getting ready before getting paid",
+"text": "REDD+ moves in stages: readiness, then national policies and measures, then fully measured actions paid by results. Readiness covers national strategies, monitoring capacity, reference levels, safeguards and the participation of stakeholders. It has been funded by bodies such as the UN-REDD Programme, set up by UNDP, UNEP and FAO, and the World Bank's {{ref:nature-mkt-101}}. Sources date UN-REDD to 2007 or 2008. Norway's International Climate and Forest Initiative, announced in 2007, has funded forest programs including Brazil's Amazon Fund."
+},
+"nature-mkt-111": {
+"title": "Forest inventories: counting the trees",
+"text": "In late 18th-century Europe, fear that wood, the main fuel, would run out drove people to start counting trees systematically. A forest inventory collects data about a forest, such as its trees, timber and wildlife, for assessment or analysis. Measurements include species, trunk diameter at breast height, height, site quality, age and defects. From these come trees per acre, basal area, timber volume and value. Today ground inventories are combined with satellite images in national forest monitoring for REDD+."
+},
+"nature-mkt-114": {
+"title": "National forest monitoring: watching forests from space and ground",
+"text": "Between 2005 and 2020, the number of countries with good satellite monitoring of their forests rose from 55 to 99. Those with good national forest inventories rose from 48 to 102. A national forest monitoring system is a country's institutions and techniques for tracking its forests and producing information for decisions and reporting. REDD+ countries are encouraged to build transparent systems that combine {{ref:nature-es-057}} with ground inventories. The outputs include time series of forest area and change, maps, and estimates of biomass or stored carbon with their uncertainty. Having such a system, along with an assessed reference level, is a condition for results-based payments. Steady funding, coordination across agencies and consistent methods over time remain challenges."
+},
+"nature-mkt-107": {
+"title": "HFC-23: the offset that paid to make pollution",
+"text": "HFC-23, a by-product of making refrigerants, warms the climate 11,000 times more than CO2. Under the Clean Development Mechanism, destroying one tonne earned 11,000 credits. Destruction cost only 0.2–0.5 €/tCO2, while buyers paid around 20 €/tCO2. By June 2013, 23 such projects had received 38% of all credits issued. The EU banned HFC-23 credits from its trading system from 1 May 2013, citing perverse incentives and a lack of additionality. Critics condemned the windfall profits. The Carbon Trust argued that criticizing the scheme for finding cheap reductions was itself perverse."
+},
+"nature-mkt-101": {
+"title": "The Forest Carbon Partnership Facility: the World Bank's REDD+ fund",
+"text": "The Forest Carbon Partnership Facility is a World Bank fund that helps developing countries prepare for and carry out REDD+. Approved in 2007 and working from 2008, it reached roughly US$650 million after new pledges in January 2013. A Readiness Fund pays for preparation. A Carbon Fund pilots payments for verified cuts in forest emissions, made only after independent validation and verification. Early reviews found readiness grants slow and private investment in the Carbon Fund lower than hoped."
+},
+"nature-mkt-112": {
+"title": "Timber cruises: sampling a forest's wood",
+"text": "Nobody measures every tree in a stand. A timber cruise is a sample survey that estimates how much standing timber a forest stand holds. Measurements are taken in sample plots, usually laid out at random along survey lines. The most common design first groups the stand by age, soil or slope, then samples within each group. The number and size of plots set how certain the estimate for the whole stand is."
+},
+"nature-mkt-109": {
+"title": "Safeguards information systems: proving the rules are kept",
+"text": "A promise to respect safeguards means little without evidence. A safeguards information system is how a country reports that the Cancún safeguards are addressed and respected while REDD+ is carried out. It should give transparent, consistent and regularly updated information, run nationally and build on existing systems. Countries send periodic summaries on all the safeguards, which they need when seeking results-based payments. Indonesia's reporting separates safeguards being addressed, with policies in place, from being respected, with evidence that they work."
+},
+"nature-mkt-103": {
+"title": "The investigations into Verra's rainforest credits",
+"text": "On January 18, 2023, an investigation reported that about 94% of Verra rainforest credits did not represent a real tonne of CO2e. It found deforestation threats overstated by 400% on average. Earlier, a 2021 study had found that 11 of 12 projects examined showed no difference in emissions from control areas. The 2023 investigation drew on one peer-reviewed study and one not yet published or peer-reviewed, so how far its findings reach across the whole standard is disputed. Verra's chief executive resigned in May 2023 after months of criticism."
+},
+"nature-mkt-115": {
+"title": "The New York Declaration on Forests",
+"text": "In 2014, 37 governments, 53 multinational companies, 16 Indigenous groups and 63 NGOs signed the New York Declaration on Forests. The voluntary, non-binding pledge aimed to halve deforestation by 2020 and end it by 2030. It also pledged to restore hundreds of millions of acres of degraded land. A 2019 five-year assessment described large commitments but limited progress."
+},
+"nature-mkt-116": {
+"title": "The time value of carbon: why sooner cuts count more",
+"text": "Two paths can reach zero emissions on the same date yet put very different totals into the air: early deep cuts emit least, delayed cuts most. The time value of carbon holds that cutting a tonne now is worth more than cutting it later. Emissions are discounted over time, like money in {{ref:nature-econ-745}}. This rate applies to the physical carbon itself, not to the money discount rate used to appraise projects. A high carbon discount rate rewards early cuts; a low one weakens the push to act now. If the time value is positive, even temporary storage in trees or soil has real value, because it delays warming."
+},
+"nature-mkt-118": {
+"title": "Corresponding adjustments: stopping two countries claiming one cut",
+"text": "When one country sells an emission cut to another, both might be tempted to count it. An accounting step under the {{ref:nature-clim-074}} prevents that double claiming. It subtracts the transferred cut from the seller's tally so that only the buyer counts it toward its national target. Each transfer is recorded as a gain for one party and a reduction for the other. Rules adopted at the COP26 conference set out how this works in practice. If a host government authorizes voluntary-market credits for use under Article 6, this adjustment may be required."
+},
+"nature-mkt-117": {
+"title": "Over-crediting: more credits than cuts",
+"text": "Over-crediting means issuing more carbon credits than the real cuts or removals a project achieved, sometimes producing so-called phantom credits. One estimate held that about 90% of rainforest credits under the Verified Carbon Standard were likely phantom. Perverse incentives can reward it when buyers focus on headline tonnes rather than real impact. Critics note it persisted even where programs already applied rules on additionality, cautious measurement and permanence, often through inflated baselines. The risk is a central worry for trading under Article 6 of the Paris climate treaty, though commentators dispute how much it undermines those markets."
+}
+},
+"reviews": {
+"forest-carbon-and-redd": "Every idea in this chapter grows from one claim: that a tonne of carbon kept out of the air in one place can stand in for a tonne cut somewhere else. The Clean Development Mechanism, REDD+ and the voluntary market all turned that claim into credits, and forests became their largest source. Each credit rests on a baseline that cannot be observed, which is why reference levels, monitoring systems, inventories and safeguards matter so much. The weak points recur, from HFC-23 windfalls to leakage, inflated baselines and phantom rainforest credits. Evaluations of REDD+ find real but modest gains, and the dispute over whether offsets delay or accompany real cuts remains open."
+}
+}

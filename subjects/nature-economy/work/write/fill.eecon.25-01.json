@@ -1,0 +1,226 @@
+{
+ "entries": {
+  "nature-eecon-059": {
+   "title": "Ecological economics: the economy inside the ecosystem",
+   "text": "Mainstream economics usually draws the economy as the whole picture, with nature as one input among many. Ecological economics flips that drawing. It is a field drawing on many disciplines that studies how human economies and natural ecosystems depend on each other and change together over time and space. Here the economy is a subsystem of Earth's larger ecosystem, which sets it apart from {{ref:nature-found-030}} (see also {{ref:nature-found-039}}).\n\nTwo commitments follow. Ecological economists stress keeping {{ref:nature-found-010}} intact, and they favor strong {{ref:nature-eecon-208}}: human-made capital cannot stand in for nature. They also try to ground economic thinking in physical reality, especially the {{ref:nature-eecon-118}}, the physics of energy, and knowledge of living systems.\n\nEfficient allocation is not enough. The field adds two more problems: fair distribution, and the size of the economy relative to the ecosystems it relies on. Where mainstream economists tend to be technological optimists, ecological economists lean towards skepticism and precaution, since destroying key environmental resources may be irreversible. Economist Malte Faber sums the field up by its focus on nature, justice and time. Its topics range from weak versus {{ref:nature-eecon-218}} to {{ref:nature-eecon-071}}, {{ref:nature-eecon-063}}, modeling and monetary policy. It was founded as a modern discipline in the 1980s by European and American academics."
+  },
+  "nature-eecon-115": {
+   "title": "Heterodox economics: the schools outside the mainstream",
+   "text": "Somewhere between 5 and 10 percent of American economists were heterodox, Frederic S. Lee estimated in 2007. Heterodox economics is a broad term for schools of economic thought not generally seen as part of the mainstream. It has no fixed definition, because it is defined by contrast with whichever schools dominate at a given time and place. The usual list includes Austrian, ecological, Marxist-historical, post-Keynesian and modern monetary approaches. Four frames are central to them: history, natural systems, uncertainty and power. These schools often see {{ref:nature-hist-023}} as flawed. Defenders disagree: economist Marcos Lisboa argues that the assumptions critics attack are often not essential to it. Student movements such as Rethinking Economics campaign for more pluralism in economics degrees."
+  },
+  "nature-eecon-130": {
+   "title": "Systems ecology: ecosystems as complex systems",
+   "text": "An ecosystem, in systems ecology, is more than the sum of its species. This holistic branch of ecology studies ecosystems as complex systems with emergent properties, features that appear only in the whole. It applies general systems theory to ecology, and its central tool is energetics, the principles of energy applied to systems at every scale. {{ref:nature-hist-063}} was its most notable proponent. Ecological work deals almost entirely with open systems, which exchange with their surroundings across their boundaries. Because the field cares about how human interventions affect ecosystems, it brings economics into the study of ecological-economic systems. Combined with engineering design, it becomes ecological engineering."
+  },
+  "nature-eecon-063": {
+   "title": "Cost shifting: when harm is the business model",
+   "text": "Mainstream economics calls pollution an {{ref:nature-found-031}}, a side effect that falls on people outside a deal. {{ref:nature-hist-065}} thought the word was a misnomer. In his account, modern business makes profit by shifting costs onto others as normal practice, not by accident.\n\nClive Spash makes the same point from the other side. Externality theory, he notes, wrongly treats environmental and social problems as small exceptions in an otherwise efficient system. Suppose the harm is structural. Then internalizing an odd externality, making one polluter pay for one harm, does nothing about the underlying problem.\n\n{{ref:nature-hist-064}} adds a twist about who pays. Most affected consumers are future generations, who cannot influence today's prices. Paul Hawken frames it as a hidden subsidy: unsustainable goods are cheaper only because the environment, communities or future generations quietly cover part of the bill.\n\nThis is a live dispute. {{ref:nature-eecon-059}} rejects the mainstream view that such harms can be fixed by internalizing externalities one at a time. Mainstream economists continue to defend that view."
+  },
+  "nature-eecon-064": {
+   "title": "The case against putting a price on nature",
+   "text": "Bee pollination near a Costa Rican farm was valued at over US$60,000 a year. Then coffee prices fell, the fields were replanted with pineapple, which needs no bees, and the bees' value vanished. For Douglas McCauley and others, that story shows how putting money values on nature can harm conservation.\n\nThe critique, aimed at {{ref:nature-val-087}}, has several strands. Not every {{ref:nature-found-004}} pays: mangroves protect coasts, but wolves hunt cattle. Money values tie conservation to fluctuating markets. Human ingenuity can replace some services by artificial means, which lowers their value further. And conserving an ecosystem is not always more profitable than changing it, as the local fish trade after the Nile perch was introduced to Lake Victoria shows.\n\nMcCauley concludes that campaigns should appeal to morality rather than money. The question remains contested. Monetary valuation of nature is widely accepted among ecologists and conservationists, while some critics argue it is inherently false."
+  },
+  "nature-eecon-062": {
+   "title": "Growth versus development: more is not the same as better",
+   "text": "An economy can get bigger without people's lives getting better. Ecological economics draws a line between growth, a quantitative rise in economic output, and development, a qualitative improvement in quality of life. Its practitioners argue that neoclassical economics confuses the two, treating {{ref:nature-econ-478}} as progress in itself. Beyond modest levels, higher consumption per person may not raise well-being, and may harm the environment and society. Growth of that harmful kind is sometimes called {{ref:nature-eecon-090}}. Well-being here also means something different from the welfare concept used in mainstream and environmental economics."
+  },
+  "nature-eecon-065": {
+   "title": "From Malthus to a journal: how ecological economics began",
+   "text": "The roots run back to the 19th century: the Romantics, Malthus's worries about population and Mill's hope for an economy that stops growing. In 1926 Frederick Soddy attacked the idea of the economy as a perpetual motion machine able to create infinite wealth. A 1971 book by Georgescu-Roegen gave the field a framework built on flows of materials and energy. Organized meetings began in Sweden in 1982, and after a series of conferences the field was formally founded in 1988. In 1989 the {{ref:nature-hist-029}} was born, along with the journal Ecological Economics, with {{ref:nature-hist-048}} as first president and editor. The main founders were {{ref:nature-hist-040}} and Costanza from the US, {{ref:nature-hist-055}} from Sweden and Juan Martínez-Alier from Spain."
+  },
+  "nature-eecon-118": {
+   "title": "The laws of thermodynamics: why no machine runs forever",
+   "text": "No inventor has ever built a perpetual motion machine, and the laws of thermodynamics explain why none ever will. These basic physical laws govern energy, heat, work and temperature. There are traditionally three, plus a more basic \"zeroth law\" defining temperature, added later. The first says energy cannot be created or destroyed. The second says the total {{ref:nature-eecon-109}} of interacting systems never decreases. Together they rule out machines that make work from nothing and machines that turn heat spontaneously into work. Rudolf Clausius and William Thomson had established both by 1860. Ecological economics uses them to build models that respect physical limits. By these laws, a perpetual motion economy is impossible."
+  },
+  "nature-eecon-109": {
+   "title": "Entropy: the measure of energy spreading out",
+   "text": "Entropy is the only physical quantity that seems to give time a direction, sometimes called the arrow of time. It is often described as a measure of how spread out, or dispersed, energy is in a system; loosely, its degree of disorder. By the second of the {{ref:nature-eecon-118}}, the entropy of an isolated system tends not to decrease. Lower entropy marks more useful energy: heat supplied at a high temperature does more than the same amount at a low one. Rudolf Clausius named the concept in 1865, from the Greek word for \"transformation\". {{ref:nature-hist-044}} brought it into economics, coining {{ref:nature-eecon-076}}, which {{ref:nature-hist-040}} continued to promote. The practical sting: recovering materials scattered as pollution and waste takes energy and resources that rise steeply as the recycled share grows."
+  },
+  "nature-eecon-090": {
+   "title": "Uneconomic growth: when getting bigger makes life worse",
+   "text": "Growth is supposed to make people better off. Uneconomic growth is the kind that reflects or causes a fall in quality of life. Economist {{ref:nature-hist-040}} says it happens when extra production costs more in resources and well-being than the goods made are worth. The costs come from the social and environmental sacrifices of an economy encroaching on its ecosystem. In the 1990s David Suzuki argued that ecosystems can sustain only about 1.5–3% new growth per year, so demanding more from farms or forests eats into {{ref:nature-found-010}}. In a \"full-world economy\", the ecological costs of growth may exceed its benefits. The idea is usually credited to Daly, though some credit Marilyn Waring, who developed it studying the UN System of National Accounts."
+  },
+  "nature-eecon-127": {
+   "title": "Spaceship Earth: one ship, limited supplies, one crew",
+   "text": "Earth, in this picture, is a spaceship: limited supplies, no resupply, and passengers who must act as one crew for the common good. The phrase first appears in Henry George's Progress and Poverty (1879). Kenneth Boulding's 1966 essay gave it economic force. He contrasted the past \"cowboy economy\" of seemingly endless resources with a coming \"spaceman economy\". The spaceman economy has no unlimited reservoirs for extraction or pollution. Boulding argued that the economy must fit itself to an ecosystem with limited pools of resources. Buckminster Fuller popularized the phrase in his 1968 Operating Manual for Spaceship Earth. UN Secretary-General U Thant used it on {{ref:nature-hist-016}} 1971. Not everyone finds the image comforting: sociologist Steffen Roth argues a realized Spaceship Earth would be the most total institution in human history."
+  },
+  "nature-eecon-114": {
+   "title": "The first law of thermodynamics: energy is never made or lost",
+   "text": "Energy cannot be created or destroyed, only changed from one form to another. That is the first law of thermodynamics, the conservation of energy applied to heat and work. In an isolated system, the total of all forms of energy stays constant. Energy moves into or out of a system in two main ways: as heat and as work. The law has been precisely supported, and never violated, in many careful experiments. Kenneth Boulding drew an economic lesson from it. Because matter and energy are conserved, the flow of resources through the economy roughly measures GNP, the yearly value of a nation's output. GNP, he argued, should therefore be treated as a cost to minimize."
+  },
+  "nature-eecon-095": {
+   "title": "Embodied energy: the energy hidden inside things",
+   "text": "Every product carries an invisible energy bill. Embodied energy is the total energy needed to produce a good or service, counted as if it were stored inside the product. It aims to add up a product's whole life cycle, from extracting raw materials through transport, manufacture and installation to disposal, much as {{ref:nature-acct-050}} does. Since energy use usually brings greenhouse gas emissions, it helps judge whether a product adds to or reduces global warming. A key use is comparing the energy a product produces or saves with the energy used to make it. Common units are MJ/kg and tonnes of CO2. Values vary widely, because there is no international agreement on data and methods, but products can still be ranked. The main methods grew out of Wassily Leontief's input-output model, adapted by Hannon to ecosystem energy flows."
+  },
+  "nature-eecon-110": {
+   "title": "Exergy: the part of energy that can do work",
+   "text": "Energy is never lost, yet it gets used up. Exergy resolves that puzzle. It is the maximum useful work that can be obtained from a system as it comes into balance with its surroundings, often called \"available energy\". It depends on both the system and its environment, arising from the difference between them. By the {{ref:nature-eecon-114}}, energy in and out always balance. But in real processes some exergy is always destroyed, as the {{ref:nature-eecon-119}} requires. Solar radiation provides most of the exergy for processes on Earth, including those that sustain life. Zoran Rant proposed the concept in 1956, building on Gibbs and Helmholtz. It has spread from engineering into ecological economics and systems ecology, where some see it as nature's equivalent of money."
+  },
+  "nature-eecon-102": {
+   "title": "Energy return on investment: it takes energy to get energy",
+   "text": "In 1919, finding US fossil fuel returned about 1000 units of energy for every unit spent. By the 2010s the ratio was only 5:1. That ratio, usable energy delivered divided by the energy spent to obtain it, is the energy return on investment, or EROI. If it falls to one or less, a source becomes a net energy sink. A major source needs at least 3:1 to be viable. Only human-applied energy counts as invested: sunlight driving biofuel crops is left out. When EROI falls, energy gets harder to obtain and its relative price may rise. Charles A. S. Hall popularized the idea, and his 1984 paper on the cover of Science gave it its greatest exposure. Measurement is disputed. Researchers disagree on how far back into the supply chain to count, and an IEA-endorsed method gives more favorable values for solar panels."
+  },
+  "nature-eecon-073": {
+   "title": "The stationary state: the classical end of growth",
+   "text": "The classical economists expected growth to stop. Farmland was scarce, while population and {{ref:nature-econ-083}} kept growing. Once the rate of profit fell to a minimum or zero, capital accumulation would end. The economy would then settle into a stationary state, with constant population and capital. Adam Smith believed every national economy would sooner or later get there, and he and Ricardo saw it gloomily. John Stuart Mill did not. He welcomed the stationary state, making what has been called a quality-of-life argument for it."
+  },
+  "nature-eecon-093": {
+   "title": "Buddhist economics: the most well-being from the least stuff",
+   "text": "In 1955, advising Burma's government, {{ref:nature-hist-060}} coined the term \"Buddhist economics\". It is a spiritual and philosophical approach that aims for the most well-being with the least use of resources. Its starting point is that people are interdependent with one another and with nature. Where traditional economics seeks profit and individual gain, it seeks to reduce suffering and simplify desires. Drawing on \"Right Livelihood\", Schumacher held that work should develop a person's abilities, connect them with others and produce what a decent life needs. Using non-renewable resources, in this view, means living on capital rather than income. It also counts \"primordial stakeholders\", such as future generations and the natural world, who have no purchasing power. Since 1972 Bhutan has promoted gross national happiness, built on Buddhist values, instead of judging development by GDP."
+  },
+  "nature-eecon-089": {
+   "title": "Thermoeconomics: an economy run on physics",
+   "text": "Thermoeconomics, also called biophysical economics, is a {{ref:nature-eecon-115}} school that applies the {{ref:nature-eecon-118}} to economic theory. It studies how societies get and use energy and resources to produce, distribute and consume goods, while generating waste and environmental impacts. Its practitioners model economies as thermodynamic systems involving matter, energy, {{ref:nature-eecon-109}} and information. The global economy is an open system, and economic activity a dissipative system, one that thrives by consuming free energy. The school develops economic versions of the first and second laws. A 2020 analysis drew a sobering conclusion: GDP in advanced economies is likely to fall. That happens once credit can no longer prop up consumption, and energy becomes lower in quality and more costly."
+  },
+  "nature-eecon-086": {
+   "title": "Social metabolism: the material flows that keep a society alive",
+   "text": "A body takes in food and air and gives off waste. Social metabolism extends that idea to society: the flows of materials and energy between nature and society, between societies, and within them. People take materials and energy from nature, transform, circulate and consume them, and finally return them as waste. These flows also build and maintain in-use stocks, such as buildings, vehicles and infrastructure, that provide shelter, transport and communication (see {{ref:nature-econ-594}}). Every society has such flows, but their size and variety depend on its culture, or \"sociometabolic regime\". Each process's impact depends on how it is done, how much, where, and nature's capacity to regenerate. John Bellamy Foster built on Marx's ideas here to develop {{ref:nature-eecon-120}}."
+  },
+  "nature-eecon-061": {
+   "title": "Costanza's $33 trillion price tag for nature",
+   "text": "In 1997 a team led by {{ref:nature-hist-048}} published in Nature a total money value for the world's ecosystem services. It came to $33 trillion a year, within a range of $16 trillion to $54 trillion. Global GDP that year was $27 trillion. Half the value came from nutrient cycling. Estuaries, swamps, floodplains, seagrass and algae beds had the highest values per hectare. The study averaged values from very specific local studies and transferred them without regard to setting. Even critics in Ecological Economics granted that valuing the global ecosystem had positive potential."
+  },
+  "nature-eecon-069": {
+   "title": "Ecological-economic modeling: equations for economy and nature",
+   "text": "Ecological-economic modeling uses mathematical models to analyze how economies and ecosystems interact. The toolbox is wide: evolutionary, input-output, entropy and thermodynamic, multi-criteria and agent-based models, the {{ref:nature-eecon-165}}, and stock-flow consistent frameworks. For changing landscapes, system dynamics and GIS, digital mapping, are used to simulate change across space."
+  },
+  "nature-eecon-071": {
+   "title": "Energy accounting: following every joule",
+   "text": "Energy accounting tracks energy into and out of a system, the useful work done and the energy lost, to judge resource use and environmental impact. An energy balance uses the first and second laws of thermodynamics to show how much energy each point in a system needs, and in what form. A key idea is net energy gain. Every source needs an initial energy investment, so its return must exceed one to be useful. For coal, oil and gas, that gain has fallen over time, because the easiest sources were used first."
+  },
+  "nature-eecon-140": {
+   "title": "The green economy: low-carbon, efficient and fair",
+   "text": "A green economy is low-carbon, efficient in its use of resources and socially inclusive. The idea grew in policy circles, first as a response to financial crisis and then as a vehicle for growth and development. In 2011 UNEP developed its definition to stress a fair shift to such an economy. It looks to cleaner, resource-saving technologies. {{ref:nature-eecon-141}} is close to {{ref:nature-eecon-059}} but more politically applied. Critics dispute whether market-based green policies can reach the real causes of environmental crisis."
+  },
+  "nature-eecon-070": {
+   "title": "Money and ecological economics",
+   "text": "Ecological economists also study money itself, aiming for monetary policy that serves sustainable scale, just distribution and efficient allocation. The work traces back to Frederick Soddy's writing on money. It asks what money is, whether interest-bearing debt forces an economy to grow, and whether alternatives such as alternative currencies and public banking would help."
+  },
+  "nature-eecon-067": {
+   "title": "Buen Vivir and Ecological Swaraj: non-western roots",
+   "text": "Some ecological economic thinking comes from outside the West. Buen Vivir, \"Good Life\", is a South American movement that rejects the western development model and does not value piling up material wealth. Ecological Swaraj, from India, respects physical limits and non-human species and pursues equity through direct democracy. Both stress {{ref:nature-gov-213}}. Schumacher's {{ref:nature-hist-019}} brought such ideas, including {{ref:nature-eecon-093}}, into mainstream thought."
+  },
+  "nature-eecon-066": {
+   "title": "Schools of ecological economics: from pragmatists to radicals",
+   "text": "Ecological economics is not one camp. Clive Spash sorts environmental work into three groups: new resource economists, new environmental pragmatists and radical social ecological economists. At the radical end, {{ref:nature-eecon-143}} is a growing strand that tackles biophysical limits and global inequality. New resource economists who criticize it point instead to the momentum of {{ref:nature-eecon-209}} and the {{ref:nature-eecon-140}}."
+  },
+  "nature-eecon-119": {
+   "title": "The second law of thermodynamics: why heat never flows uphill",
+   "text": "A cup of hot coffee always cools in a cold room; a cold room never heats the coffee. That is the second law of thermodynamics in its simplest form, the Clausius statement: heat does not spontaneously pass from a colder body to a hotter one. More generally, the total {{ref:nature-eecon-109}} of interacting systems never decreases, so all natural processes are irreversible. Reversible processes are only a theoretical limit. Sadi Carnot first formulated the law in 1824, studying the motive power of fire. Georgescu-Roegen called it the \"entropy law\" and put it at the center of his economics."
+  },
+  "nature-eecon-094": {
+   "title": "Conservation of mass: matter is only rearranged",
+   "text": "Burn a log and its matter does not vanish; it is rearranged. In a system closed to matter flowing in or out, total mass stays constant. In a chemical reaction, the starting materials weigh the same as the products. Antoine Lavoisier confirmed this in the late 18th century, building on Jean Rey's 1630 demonstration. Tracking how mass moves through a system over time is the engineering method of mass balance. Hydrologists use it as a water balance to estimate how long water stays in a reservoir. The law holds only in the classical limit: Einstein's E=mc2 merged it with conservation of energy."
+  },
+  "nature-eecon-120": {
+   "title": "Metabolic rift: the broken loop between city and soil",
+   "text": "Between 1815 and 1880, England's soils grew so exhausted that Britain imported bone and guano for fertilizer. Karl Marx wrote during this \"second\" agricultural revolution. Drawing on Justus von Liebig's 1840 account of how soil nutrients feed plants, he saw a one-way \"robbing of the soil\". Nutrients went to cities as food and never returned to the land, linking urban pollution with {{ref:nature-eco-398}} loss. Sociologist John Bellamy Foster, not Marx, coined the term metabolic rift, starting with his book Marx's Ecology. It names capitalism's break in the {{ref:nature-eecon-086}} between society and nature. Foster sees it as proof Marx held an ecological outlook. The idea now extends to marine ecology and a \"carbon rift\" from carbon dioxide emissions. Its reading is disputed: historical materialists such as Jason W. Moore see the rift's origins very differently."
+  },
+  "nature-eecon-076": {
+   "title": "Entropy pessimism: can technology beat physics?",
+   "text": "Every technology turns valuable resources into waste and so raises {{ref:nature-eecon-109}}. Entropy pessimism holds that technology therefore cannot escape the laws of physics. Neoclassical production functions treat technology as a factor of production with no mention of natural resource inputs. In ecological economics, technology is simply the way natural resources are transformed. Robert Solow replied in 1997 that \"elementary physics\" had not by itself prevented growth in industrialized countries. Economists still disagree on whether technology can overcome resource limits."
+  },
+  "nature-eecon-081": {
+   "title": "Resource decoupling: growing on less",
+   "text": "Can an economy grow while using less of nature? Resource decoupling means needing fewer natural resources per unit of output, measured by the ratio of resource consumption to GDP. Relative decoupling is a fall in resource use per unit, all else equal; absolute decoupling is a fall in total resource use while GDP keeps growing. The record is poor. A 2019 review found that attempts to grow without environmental destruction had not succeeded."
+  },
+  "nature-eecon-077": {
+   "title": "Four books, six years: the founding works",
+   "text": "Between 1966 and 1972, four works put natural resources at the heart of economics. Boulding's 1966 essay on {{ref:nature-eecon-127}} argued the economy must fit a closed, cyclical system. Georgescu-Roegen's 1971 book argued that all natural resources are irreversibly degraded when used. In Environment, Power and Society, also from 1971, {{ref:nature-hist-063}} proposed the {{ref:nature-eecon-131}}. A 1972 report, {{ref:nature-eecon-154}}, projected that output, food per person and population would peak and then decline."
+  },
+  "nature-eecon-083": {
+   "title": "Escaping to space: a way out of limits to growth?",
+   "text": "If Earth is full, why not build new worlds? Some proposed that settling outer space could ease {{ref:nature-eecon-187}} and resource limits. In the 1970s Gerard K. O'Neill planned space settlements to solve the problems of too many people and finite resources without political repression. The idea answers worries about {{ref:nature-eco-596}} by moving the boundary rather than living within it."
+  },
+  "nature-eecon-129": {
+   "title": "Sustainability science: a field built around problems",
+   "text": "Most fields are defined by their methods. Sustainability science, says William C. Clark, is defined by the problems it tackles. This applied discipline, emerging in the 1980s, studies sustainability and {{ref:nature-eecon-209}} and links knowledge to action. It grew from publications such as the World Conservation Strategy (1980) and the Brundtland report of 1987, {{ref:nature-hist-004}}. It was launched as an international field at a 2001 world congress in Amsterdam. At its core is the recognition of humanity's epochal impact in the Anthropocene."
+  },
+  "nature-eecon-085": {
+   "title": "Ecologically unequal exchange: trade that drains the South",
+   "text": "Half of all materials consumed by high-income countries are extracted from poorer countries, Dorninger and colleagues found, while the rich countries still run trade surpluses. Ecologically unequal exchange is the idea that world trade hides an unfair flow of materials, energy and environmental damage, not just labor, from poorer to richer countries. It builds on world-systems theory, which splits the world economy into a rich core and a poorer periphery. Southern countries serve as sources of raw materials, sinks for waste and places written off as a {{ref:nature-gov-224}}. A study of EU consumption from 1995 to 2019 found much of its environmental impact outsourced abroad, while more than 80% of the economic benefits stayed home. The logical result is an {{ref:nature-gov-199}} owed by North to South. Jason Hickel proposes {{ref:nature-eecon-143}} in the North to end it. Most cited studies support the theory, but Peter Somerville calls it confused and internally inconsistent."
+  },
+  "nature-eecon-133": {
+   "title": "Unequal exchange: the hidden transfer from poor to rich",
+   "text": "From 1990 to 2015, Hickel and colleagues calculated, the drain from the Global South equaled 242 trillion in 2010 US dollars. Unequal exchange is the hidden transfer of labor and ecological value from poor countries to rich ones through structurally unequal trade. Because the terms of trade are biased, poor countries must export far more labor and resources than they import to keep trade balanced in money. The theory rejects the claim that free trade based on {{ref:nature-econ-106}} benefits everyone. Arghiri Emmanuel and Samir Amin traced it mainly to wage gaps between core and periphery. Northern power rests partly on patents: 97% of all patents are held by corporations in high-income countries. Critics say wage gaps reflect higher productivity in the North. Supporters reply that productivity itself is measured by prices, so the dispute continues."
+  },
+  "nature-eecon-128": {
+   "title": "Stock-flow consistent models: macroeconomics that adds up",
+   "text": "Stock-flow consistent models are macroeconomic models built on strict accounting: one party's asset is another's liability, and no money appears from or vanishes into nowhere. Unlike mainstream DSGE models, they do not assume equilibrium, and they are popular with post-Keynesians. Wynne Godley used them to warn from 2000 that the US housing market would weaken and cause a recession. Ecological macroeconomics now adds resource, energy and ecosystem stocks and flows, drawing on Georgescu-Roegen's flow-fund models."
+  },
+  "nature-eecon-116": {
+   "title": "Do people really maximize? The heterodox objection",
+   "text": "Neoclassical economics pictures people as rational agents maximizing their own utility or profit, and for many economists that is simply what economic behavior means. Heterodox critics object. Social constraints, coercion or poor judgment may stop people from maximizing. Shiozawa argues that in a complex world agents cannot reach maximum utility and instead pick from a repertoire of ready-made rules. The two sides still disagree over whether rational maximization describes real behavior."
+  },
+  "nature-eecon-117": {
+   "title": "Do markets really settle? The heterodox objection",
+   "text": "In microeconomic theory, many cost-minimizing buyers and sellers produce prices that clear the market, and under certain assumptions the result is efficient. Mainstream microeconomics is built on this optimization and {{ref:nature-econ-335}}. Heterodox economics centers instead on institutions, history and social structure. Austrians, post-Keynesians and others dispute that equilibrium models capture real markets, while the mainstream still relies on them."
+  },
+  "nature-eecon-132": {
+   "title": "Ecological energetics: following energy through food webs",
+   "text": "Ecological energetics is the quantitative study of how energy flows through ecological systems. It looks for the principles that govern how energy passes through trophic levels, the feeding steps of ecological networks. In {{ref:nature-eecon-130}}, these \"ecosystem laws\" count as formally analogous to the principles of energetics."
+  },
+  "nature-eecon-096": {
+   "title": "Counting embodied energy: three ways to fill the database",
+   "text": "Databases estimate {{ref:nature-eecon-095}} in three ways. Bottom-up process data from manufacturers is more reliable and specific, but usually leaves out much of a product's energy. Top-down environmentally-extended input-output (EEIO) data from national statistics fills the gaps but is much less reliable for any one product. Hybrid methods use process data and fill its gaps with EEIO data."
+  },
+  "nature-eecon-098": {
+   "title": "Embodied energy in transport: more than the fuel",
+   "text": "Driving uses more energy than the fuel tank shows. Embodied energy in transport covers making, maintaining and recycling vehicles and building transport networks. One French institute notes that people use more embodied energy in transport spending than direct energy. France's ADEME puts a car's embodied energy at 20 800 kWh and an electric vehicle's at 34 700 kWh, the gap coming from battery and electronics. With a fuel EROEI of 8, fuel use should be raised by 14.3% to cover the fuel's own embodied energy."
+  },
+  "nature-eecon-097": {
+   "title": "Embodied energy in buildings: the energy in the walls",
+   "text": "About 30% of all energy used over a building's lifetime can be embodied energy, depending on its age, climate and materials. That is the energy to extract, process, transport, assemble, maintain and finally dispose of its materials. Its share has risen as efforts focused on cutting operating energy such as heating and cooling. Rating schemes such as USA LEED now include it when judging a building's impact."
+  },
+  "nature-eecon-111": {
+   "title": "Energy quality: not all joules are equal",
+   "text": "A unit of electricity can do more than a unit of warm water. Energy quality measures how much of a form of energy can become useful work: the ratio of its {{ref:nature-eecon-110}} to its energy. Electrical, kinetic and chemical energy are fully recoverable as work. Heat and radiation are not; for heat the upper limit is the Carnot efficiency, found by Sadi Carnot in 1824. High-quality carriers can do more kinds of work, so they can be held to have more economic value."
+  },
+  "nature-eecon-099": {
+   "title": "Emergy: pricing everything in sunlight",
+   "text": "How do you add a liter of fuel to an hour of human labor? Ecologist {{ref:nature-hist-063}} studied energy flow in ecosystems from the 1950s. He argued that different energy sources cannot be added until they share a common measure of quality. His answer was emergy: the total energy of one kind, usually sunlight, used directly and indirectly to make a product or service. Sunlight, fuel, electricity and human services are each expressed as the solar energy needed to produce them, in solar emjoules (seJ). Odum's first formal statement came in 1973; David Scienceman proposed the name in 1986. In practice, an analyst draws a system diagram, tables the flows of resources, labor and energy, converts each to emergy and sums them. The goal is an \"ecocentric\" valuation that adds to economic values rather than replacing them. Emergy remains controversial. Critics call it an energy theory of value, say the sunlight behind oil cannot be measured objectively, and fault it for ignoring market values."
+  },
+  "nature-eecon-113": {
+   "title": "Exergy destruction: the work potential thrown away",
+   "text": "Every real process wastes some of its potential to do work. That loss is exergy destruction, also called irreversibility, the lost part of {{ref:nature-eecon-110}}. Highly efficient systems destroy little; inefficient ones destroy a lot. In a cycle, the total destroyed is the sum of what each process in it destroys."
+  },
+  "nature-eecon-112": {
+   "title": "Exergy as a tool for environmental policy",
+   "text": "Some propose using {{ref:nature-eecon-110}} analysis to make environmental policy fairer and more effective. It has already exposed a gap: national greenhouse gas balances often leave out emissions from international transport, and so ignore the impacts of imports and exports. Early cases also suggest that exergy-based taxation could reduce the tax burden on citizens."
+  },
+  "nature-eecon-103": {
+   "title": "EROI by source: from oil shale to hydropower",
+   "text": "Hydropower plants run for about 100 years return about 110 units of energy for each unit invested. Nuclear plants range from 20 to 81, and refined fuel from conventional oil from around 18 to 43. Oil shale is typically around 1.4–1.5, barely above break-even. Wind turbines average around 16 unbuffered and 4 buffered in the literature, and operating turbines averaged 19.8 in 2018 data. A 2015 review found mean values between 8.7 and 34.2 for solar panels, with payback times of 1.0 to 4.1 years."
+  },
+  "nature-eecon-108": {
+   "title": "Energy cannibalism: growth that eats its own power",
+   "text": "Building a new power plant takes energy, and in a fast-growing energy industry that energy comes from the existing plants. This is energy cannibalism, and it limits how fast an energy technology can grow when climate neutrality is demanded. A solar breeder, a panel factory powered by its own panels, overcomes some of the problem."
+  },
+  "nature-eecon-107": {
+   "title": "Energy stored on energy invested: is storage worth building?",
+   "text": "For a storage device, the key ratio is electricity stored over its lifetime against the embodied electricity needed to build it. Reported values include 10 for a vanadium redox battery, 704 for pumped hydro and 792 for compressed-air storage. A Stanford team found that without pumped storage, pairing wind with today's batteries would not be worth the investment."
+  },
+  "nature-eecon-106": {
+   "title": "Point of use, extended, societal: widening the EROI count",
+   "text": "Basic {{ref:nature-eecon-102}} stops at the wellhead. Point-of-use EROI adds the cost of refining and transporting the fuel, which lowers the result. Extended EROI also adds the infrastructure needed to deliver the refined energy. Societal EROI sums the EROIs of all fuels a nation uses; it has never been fully calculated."
+  },
+  "nature-eecon-105": {
+   "title": "Falling EROI and the collapse of civilizations",
+   "text": "Thomas Homer-Dixon argues that falling energy returns were one reason the Western Roman Empire collapsed in the fifth century CE. Joseph Tainter goes further, suggesting a diminishing {{ref:nature-eecon-102}} is a chief cause of the collapse of complex societies. Some historians link humanity's growing use of outside energy to sources that were easy to exploit and gave high returns."
+  },
+  "nature-eecon-163": {
+   "title": "The Jevons paradox: why efficiency can raise consumption",
+   "text": "Make a resource cheaper to use and people may use more of it. The Jevons paradox holds that technology which makes resource use more efficient tends to increase total use. Efficiency lowers the effective cost; if demand responds strongly to price, use rises enough to outweigh the saving. Energy-saving bulbs lower bills but free money for spending elsewhere, an example of the {{ref:nature-eecon-159}}. Faster computers lead to more computers being bought. Mainstream economists argue growth from knowledge may not be uneconomic. Economists still debate how often the paradox occurs."
+  },
+  "nature-eecon-104": {
+   "title": "Net energy and payback time",
+   "text": "Net energy is what a source yields after subtracting the energy invested; {{ref:nature-eecon-102}} expresses the same thing as a ratio. A process with an EROI of 5 yields a net gain of 4 units for each unit spent. Break-even is an EROI of 1, a net gain of 0. The time a source takes to reach it is its energy payback time."
+  }
+ },
+ "openers": {
+  "eecon": "What if the economy is not the whole picture, but one part of a larger living system? Ecological economics starts from that question, studying how human economies and natural ecosystems depend on each other and change together. It sits among the heterodox schools, the economic traditions outside the mainstream, and borrows from ecology and physics alike. The laws of energy and of entropy, the measure of how spread out energy is, set hard limits on what any economy can do. From there come sharp arguments: that growth can make life worse, that businesses shift their costs onto others, and that Earth is a spaceship with limited supplies.",
+  "ecological-economics": "This chapter builds a way of seeing the economy as a subsystem of nature. It starts with the field of ecological economics, its history since the 19th century, and its place among schools outside the mainstream. Then it turns to physics: energy cannot be created or destroyed, and entropy, the spreading out of energy, always tends to rise. Those laws rule out a perpetual motion economy. They also give ecological economists their sharpest claims, from the gap between growth and real development to the idea of Earth as a spaceship whose crew must share limited supplies."
+ },
+ "reviews": {},
+ "glossary": {}
+}

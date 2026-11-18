@@ -1,0 +1,147 @@
+{
+ "entries": {
+  "nature-acct-075": {
+   "title": "Happy Planet Index: long, happy lives on a small footprint",
+   "text": "The United States has high life satisfaction, yet on the Happy Planet Index it ranked 108th. The index, introduced by the New Economics Foundation in 2006, is not a ranking of the happiest countries. It measures how efficiently countries turn environmental impact into long, satisfied lives. Roughly, it multiplies life satisfaction by life expectancy and divides by the ecological footprint per person. It was designed to challenge GDP and the Human Development Index, which are seen as ignoring sustainability. Costa Rica led the 2009, 2012 and 2016 rankings, and the 2019 ranking with a score of 62.1. Critics say it weights the footprint so heavily that the US would have needed a life expectancy of 439 years to match Vanuatu in 2006. Data gaps also forced estimates of footprint and life satisfaction for several countries."
+  },
+  "nature-acct-069": {
+   "title": "Environmental Performance Index: ranking countries' green policies",
+   "text": "In 2024 Estonia, Luxembourg, Germany, Finland and the United Kingdom ranked top of the Environmental Performance Index. India, Myanmar, Laos, Pakistan and Vietnam ranked last. The index scores countries on the environmental performance of their policies. The World Economic Forum started it in 2002 with Yale and Columbia University centres, and the report appears every two years. The 2024 report uses 58 indicators to rank 180 countries on cutting climate-warming emissions, ecosystem vitality and environmental health. Scores rise with national wealth, but with diminishing returns. Rule of law and regulatory quality predict performance better than wealth. Wealth cuts both ways: it funds clean water and waste management but also raises consumption, waste and emissions. Critics fault its arbitrary choice of metrics and its bias against data-poor countries. India rejected its 176th place in 2024. The index has since added and reweighted indicators."
+  },
+  "nature-acct-059": {
+   "title": "DPSIR: from drivers to responses",
+   "text": "Population grows, people do more, emissions and waste rise, the environment changes, well-being suffers, and governments act. The DPSIR framework sorts that chain into five links: drivers, pressures, state, impacts and responses. Drivers are social, demographic and economic developments, such as population growth, that lead to human activities affecting the environment. Pressures, such as emissions or waste, change the state of the environment, which in turn has impacts on human well-being. Responses are actions, mostly policy, that adjust drivers, reduce pressures, restore the state or soften impacts. The European Environment Agency developed it in 1999, building on the OECD's 1993 Pressure-State-Response framework. Critics say its categories are ill-defined. A wastewater plant is a response to pollution, but a pressure when its outflow causes eutrophication ({{ref:nature-eco-216}}). It is also criticized for oversimplifying and for sidelining local and indigenous knowledge."
+  },
+  "nature-acct-029": {
+   "title": "Ecological footprints by country: an unequal planet",
+   "text": "In 2022 China had the largest total ecological footprint, 5.54 billion standard hectares, followed by the United States with 2.66 billion. A nation's total footprint is its footprint per person multiplied by its population. Plotting footprints against the Human Development Index shows that higher living standards generally tend to be less sustainable. Footprints also vary widely within a country, with individual lifestyles and wealth."
+  },
+  "nature-acct-030": {
+   "title": "Is the ecological footprint fair? The critics' case",
+   "text": "Replace an old forest with a high-yield plantation, and measured biocapacity can rise, lowering the footprint. Critics call that a perverse result. For years researchers have published critiques, replies and rejoinders on whether the footprint is a reliable and fair measure of human demand on nature. Some argue it has an anti-urban bias, making dense cities look \"parasitic\". Yet government agencies that repeated the calculations largely confirmed the results, getting near-identical numbers. Critics and Global Footprint Network researchers wrote a joint paper setting out the terms of the controversy."
+  },
+  "nature-acct-035": {
+   "title": "Peas versus beef: the carbon footprint of food",
+   "text": "Getting 100 grams of protein from peas emits 0.4 kg of CO2-equivalent. Getting it from beef emits 35 kg, nearly 90 times more. That gap defines the carbon footprint of food. The emissions caused by producing a food differ greatly between plant-based foods and meat or dairy. Most of a food's footprint comes from the farm or from land clearing ({{ref:nature-res-108}}), and little from transport and packaging. So what people eat matters more than how far it travelled."
+  },
+  "nature-acct-034": {
+   "title": "Whose carbon? The personal footprint debate",
+   "text": "BP ran a large advertising campaign that helped popularize the personal carbon footprint. That history fuels a dispute over whether promoting personal footprints shifts responsibility for climate change from fossil fuel companies to individuals. Critics say many fossil fuel companies used this strategy to blame individual choices for their industries' harms. The concept still remains widely used to guide personal choices. Yet the IPCC notes that individual behaviour changes alone cannot deliver deep emission cuts."
+  },
+  "nature-acct-053": {
+   "title": "Economic input–output LCA: life cycles at industry scale",
+   "text": "Cars need energy, and making energy needs vehicles. Chains like that run on and on, and an assessment built process by process must cut them off somewhere. Economic input–output life-cycle assessment eases that problem by using sector-level data on each industry's environmental impact and its purchases from other industries. That way it captures long supply chains. But it relies on sector averages that may not fit a specific product, and its translation of money into impacts is not validated."
+  },
+  "nature-acct-052": {
+   "title": "Cradle to grave, cradle to gate: LCA boundaries",
+   "text": "Not every life-cycle assessment covers a product's whole life. Cradle-to-grave covers the full life, from resource extraction to disposal. Cradle-to-gate stops at the factory gate and leaves out use and disposal. Gate-to-gate is a narrower variant still. Cradle-to-cradle is a cradle-to-grave assessment whose final step is recycling into new products. For transport fuels and vehicles, the variant used is well-to-wheel."
+  },
+  "nature-acct-054": {
+   "title": "Life cycle energy analysis: counting every joule",
+   "text": "Does a solar cell recover the energy it took to make? One controversial early result claimed it did not. Questions like that belong to life cycle energy analysis, which counts all the energy a product needs, including the energy used to make its components, materials and services. A key figure is net energy content: a product's energy minus the energy used to extract and convert it. Energy is not the whole story. Counting it alone ignores whether flows are renewable and whether wastes are toxic."
+  },
+  "nature-acct-038": {
+   "title": "Daly's three rules for living within nature's means",
+   "text": "{{ref:nature-hist-040}} set out three operating rules for ecological sustainability. First, renewable resources such as fish, soil and groundwater must be used no faster than they regenerate. Second, nonrenewable resources such as minerals and fossil fuels must be used no faster than renewable substitutes can be put in place. Third, pollution and wastes must be released no faster than natural systems can absorb, recycle or neutralize them ({{ref:nature-found-020}}). Daly built on theory from a 1971 book by {{ref:nature-hist-044}} on the economic process. Some see the rules as the physical counterpart of the definition from {{ref:nature-eecon-222}}, which supplies the ethical goal of not depleting natural capital."
+  },
+  "nature-acct-040": {
+   "title": "Circles of Sustainability: choosing the right indicators",
+   "text": "Circles of Sustainability does not prescribe indicators. It is a framework for deciding which are most useful, organized around four domains: economics, ecology, politics and culture. Each domain has seven sub-domains, each linked to indicators. Agencies including the UN Global Compact Cities Programme have used it since 2010."
+  },
+  "nature-acct-065": {
+   "title": "Emission factors: activity times a rate",
+   "text": "Know which fuel was burned and how much, and its carbon dioxide can be estimated very precisely. An emission factor is a fixed rate linking an activity to the emissions it causes, so that emissions equal activity multiplied by the factor. CO2 and SO2 from burning fuel are precise because they depend almost entirely on the fuel's known carbon and sulphur content. Other pollutants depend on combustion technology, so their factors are less certain. A major use is in national greenhouse gas counts reported under the UN climate convention, with IPCC Guidelines as the main source of default factors."
+  },
+  "nature-acct-067": {
+   "title": "Emission inventories: tallying a year of pollution",
+   "text": "Every pollution problem starts with emissions, so understanding a problem, and tracking progress on it, starts with counting them. An emission inventory is an account of how much of a pollutant or greenhouse gases all sources in an area release over a set period, usually a year. Each pollutant's emissions are usually estimated by multiplying each activity's level by an emission factor. Countries report annual national inventories under the UN climate convention for greenhouse gases and to the LRTAP convention for air pollutants. Facility-level registers of pollutant releases ({{ref:nature-pol-232}}) help the public take part in decisions. Scientists use inventories as inputs to air quality models, often needing finer detail in space and time than national totals. Unlike some other air emission inventories, greenhouse gas inventories also count removals by carbon sinks, which take carbon out of the air."
+  },
+  "nature-acct-066": {
+   "title": "Lifecycle emissions of electricity: coal against the rest",
+   "text": "Over its whole life, a coal power plant releases a median 1001 grams of CO2-equivalent per kilowatt-hour. Natural gas combined cycle without scrubbing emits 469 grams. Solar PV emits 46, nuclear 16 and a hydroelectric reservoir 4. These are IPCC medians compiled in 2011. They count the total greenhouse gases released per unit of electricity over a plant's whole life."
+  },
+  "nature-acct-046": {
+   "title": "National water footprints: relying on foreign water",
+   "text": "Much of the water a nation consumes may be used far away. A national water footprint counts the water used to produce the goods and services a nation's inhabitants consume, wherever that water is used. The internal footprint uses domestic water; the external footprint is water used abroad to make imported goods. It is calculated from domestic water use by subtracting the water embodied in exports and adding the water embodied in imports ({{ref:nature-res-111}}). It shows that several countries rely heavily on foreign water, and such dependencies are likely to grow as trade is liberalised."
+  },
+  "nature-acct-058": {
+   "title": "Hubbert's peak as a measure of depletion",
+   "text": "Hubbert's production curve ({{ref:nature-res-232}}) traces production that rises to a peak and then declines. Used as a metric, it shows how far a resource that cannot be replaced has been depleted. A modified curve applies to any resource harvested faster than it is replaced, such as over-pumped groundwater. Fisheries such as whaling and North Sea cod show human pressure pushing many resources through a Hubbert-like cycle of depletion. Phosphorus, essential to farming, is estimated to run out in 60 to 130 years."
+  },
+  "nature-acct-081": {
+   "title": "Leontief inverse: the coal behind the steel",
+   "text": "To deliver 7 units of coal to consumers, a simple two-sector economy of coal and steel must produce 19.19 units. The gap is indirect demand: coal to make steel and more coal, round after round. The Leontief inverse is the matrix, written (I−A)^−1, that sums all those rounds, turning final demand into the total output every sector must produce. It is built from technical coefficients: the amount of one good needed to make one unit of another."
+  },
+  "nature-acct-082": {
+   "title": "Physical input–output tables: counting materials, not dollars",
+   "text": "A $200 bottle of wine is unlikely to cause twenty times the impact of a $10 one. Yet input–output tables kept in money treat spending as a guide to damage. A physical input–output table is measured in physical units instead, to estimate environmental impacts more faithfully. Monetary tables must also assume one price per good for the whole year and constant returns to scale."
+  },
+  "nature-acct-062": {
+   "title": "Embodied carbon: why the greenest building already exists",
+   "text": "\"The greenest building is the building that is already built.\" The saying rests on embodied carbon in buildings. It counts the emissions from extracting, making, transporting and installing a building's materials, and from repair and end-of-life treatment. Running the building is counted separately. Studies put it at 30% to 40% of global carbon emissions in the construction sector. As buildings run more efficiently, its share of a building's life-cycle emissions has risen from about 20% to 50%. Re-use avoids large construction emissions. Otherwise it can be cut by using less material and lower-carbon materials such as timber, bamboo or cement alternatives."
+  },
+  "nature-acct-063": {
+   "title": "Top-down, bottom-up and hybrid carbon accounting",
+   "text": "There are three main ways to quantify embodied carbon. Bottom-up, process-based life-cycle assessment can assess specific products, but it suffers truncation: no study can follow the whole supply chain. Top-down environmentally extended input–output models multiply greenhouse gas intensity, such as tonnes of CO2-equivalent per dollar, by the final demand for each product. Their grouping by sector makes specific products hard to assess. Hybrid methods combine both to reduce each one's weakness."
+  },
+  "nature-acct-083": {
+   "title": "MIPS: material used per unit of service",
+   "text": "What a car delivers is not the car but passenger kilometres over its life. Material input per unit of service, or MIPS, divides a product's total material input over its life by the units of service it provides. Developed at the Wuppertal Institute in the 1990s, it measures {{ref:nature-eecon-027}}. Less material per passenger kilometre means a better car by this yardstick. MIPS falls if less material is used or more service is delivered, for example by sharing a newspaper or a car, or making products last longer. Its main weakness is that it ignores the toxicity of materials, so it should be used alongside other methods."
+  },
+  "nature-acct-048": {
+   "title": "Biocapacity deficit: living beyond local means",
+   "text": "Using 1.7 Earths means a year's resource use takes one year and eight months to regenerate. When a population's ecological footprint is larger than the biocapacity of the area it lives in, it runs a biocapacity deficit. The gap comes from overusing one's own ecosystems, from net imports, or from use of the {{ref:nature-res-187}}. A region whose biocapacity exceeds its footprint has a biocapacity reserve instead. Carbon dioxide from burning fossil fuels is the dominant cause of global overshoot ({{ref:nature-eco-642}})."
+  },
+  "nature-acct-079": {
+   "title": "Red List of Ecosystems categories and criteria",
+   "text": "Only two ecosystems are listed as Collapsed: the Aral Sea and the Central Ayeyarwady palm savanna. Collapsed means an ecosystem's defining features and native biota are virtually certainly lost. It is one of eight risk categories in the IUCN Red List of Ecosystems, which rates risk with five criteria, A to E. Unlike species extinction, collapse is in theory reversible. Formally, Critically Endangered means a 50% chance of collapse within 50 years, Endangered 20% within 50 years, and Vulnerable 10% within 100 years. Criteria A and B measure spatial symptoms, a declining or restricted distribution; C and D measure functional ones; E models overall collapse risk."
+  },
+  "nature-acct-068": {
+   "title": "Five tests of a good emission inventory",
+   "text": "A national emission inventory must pass five tests under the UN climate convention and the LRTAP convention. It must be transparent, consistent, comparable, complete and accurate. Transparent means assumptions and methods are explained clearly enough for others to replicate it. Consistent means the same methods and data sets are used for the base year and all later years. Accurate means estimates are systematically neither above nor below true emissions, with uncertainties reduced as far as practicable."
+  },
+  "nature-acct-041": {
+   "title": "Emergy sustainability index: yield against environmental load",
+   "text": "In 1956 {{ref:nature-hist-063}} coined the term {{ref:nature-eecon-099}}, energy counted back through everything used to make a thing, along with its accounting system. In 1997 M.T. Brown and S. Ulgiati proposed an index built on it. The index divides the yield ratio of that energy by the environmental loading ratio. It accounts for yield, renewability and environmental load. Leone notes that it calculates supply constraints that reporting schemes like the Global Reporting Initiative do not."
+  },
+  "nature-acct-042": {
+   "title": "Environmental Sustainability Index: Davos, 2005",
+   "text": "On 28 January 2005, at the World Economic Forum in Davos, the Environmental Sustainability Index was formally released. Yale and Columbia University centres built the country index with the Forum. Its report compared it with other indicators such as the ecological footprint."
+  },
+  "nature-acct-039": {
+   "title": "Natural Step framework: conditions for a sustainable society",
+   "text": "After the report of {{ref:nature-eecon-222}}, Swedish cancer scientist Karl-Henrik Robèrt coordinated a consensus process to define sustainability scientifically. The result was the Natural Step framework, which sets out system conditions a sustainable society must meet. Such a society does not keep raising concentrations of substances taken from the Earth's crust or made by society. It does not degrade the environment. And it lets people meet their needs."
+  },
+  "nature-acct-073": {
+   "title": "Consumer or producer: who answers for embodied impacts?",
+   "text": "The importer gets the product; the exporter gets the income. So who should answer for the pollution released in making it? Input–output accounts can assign environmental impacts to final consumers, to producers, or share them. Allocating all impacts to final consumers is consumer-based responsibility. Allocating direct impacts to producers is production-based responsibility. Hybrid schemes have been proposed, including income-based ones and an approach called sharedness. How to share responsibility for impacts embodied in exports between importing and exporting economies has yet to be settled."
+  },
+  "nature-acct-072": {
+   "title": "Material footprint: the ore behind the phone",
+   "text": "A phone's metal starts as ore in a mine, and refining it burns coal. A material footprint counts both: all the raw materials needed along the supply chain to make the goods a country consumes, also called raw material equivalents. It is a consumption-based indicator, comparable to carbon and water footprints, and is calculated with environmentally extended input–output analysis. The total sums biomass, fossil fuels, metal ores and non-metal ores. It is an indicator for goals 8 and 12 of the {{ref:nature-gov-010}}. Material footprint per person rose 39 per cent from 2000 to 2017, reaching 12.18 tonnes."
+  },
+  "nature-acct-074": {
+   "title": "Waste input–output model: following waste to its end",
+   "text": "Waste is usually treated into a less harmful form before recycling or disposal, a step a simple waste footprint ignores. The waste input–output model, built by Nakamura and Kondo as an extension of environmentally extended input–output analysis, accounts for it. It tracks physical waste flows and their treatment alongside money flows. It follows waste as treatment turns it into secondary waste and residues, through to recycling and final disposal."
+  },
+  "nature-acct-084": {
+   "title": "Ecological backpacks: the hidden weight behind products",
+   "text": "Every product carries an unseen load: the materials moved to make it that never end up in it. That load is its ecological backpack, its total material input minus its own weight. Backpacks are often many times heavier than the product itself. Much of this material is moved in developing countries where raw materials are produced, while consumption happens mostly in the developed world."
+  },
+  "nature-acct-085": {
+   "title": "Factor X: targets for using far less material",
+   "text": "It has been proposed that industrialized countries cut their material flows by a factor of 10 to reach sustainable levels. That target is one version of Friedrich Schmidt-Bleek's Factor X idea. It sets targets, such as Factor Four or a tenfold cut ({{ref:nature-eecon-176}}), for using less material ({{ref:nature-eecon-007}}) by getting more output from each resource. The Factor Ten Club, founded in 1994, and a Factor Ten institute, founded in 1997, back the target."
+  },
+  "nature-acct-049": {
+   "title": "Global hectares: a common currency for land",
+   "text": "Not every hectare produces the same amount of ecosystem services. So footprint accounting uses an adjusted unit, the global hectare: a hectare with the world's average biological productivity in a given year. Footprint studies turn the use of energy, food, fibre, building materials and water into global hectares. The adjustment matters. Wackernagel and Rees's early estimate of about 1.3 hectares per person was lower partly because those studies did not yet use global hectares."
+  },
+  "nature-acct-087": {
+   "title": "HANPP: humanity's share of the planet's plant growth",
+   "text": "Land clearing and conversion have cut plant growth across the world's land by 9.6%. Add what people harvest and consume, and humans take or prevent 23.8% of what natural vegetation would produce. That share is human appropriation of net primary production, or HANPP ({{ref:nature-eco-302}}). It measures the plant growth taken or prevented by human use each year. It serves as a proxy for human impact on nature. The share it measures reduces the energy left for other species, affecting biodiversity, carbon and water flows, and ecosystem services. Josep Garí coined HANPP in 1996. The planetary boundaries framework uses HANPP to measure biosphere integrity."
+  }
+ },
+ "openers": {},
+ "reviews": {},
+ "glossary": {}
+}

@@ -1,0 +1,79 @@
+{
+ "entries": {
+  "nature-gov-087": {
+   "title": "Science-based targets: emission cuts that match the climate goal",
+   "text": "As of 2025, over 10,000 companies had set or committed to setting emission targets checked by one organization. Science-based targets are company goals for cutting greenhouse gas emissions, set in line with climate science and the {{ref:nature-clim-074}}. The Science Based Targets initiative, or SBTi, set up in 2015, helps firms set them and validates them. In October 2021 it launched the first net zero standard, for targets consistent with limiting warming to 1.5 °C. It says leftover emissions in most sectors should fall below 10% of an organization's baseline by 2050. Best practice includes transition plans covering scope 1, 2 and 3 emissions, short-term milestones, board oversight and executive pay linked to those milestones. Offsets remain disputed, even inside the SBTi. A 2024 plan to let firms count environmental attribute certificates against {{ref:nature-gov-085}} targets drew protest from its own staff, who argued offsets are incompatible with the Paris Agreement."
+  },
+  "nature-gov-064": {
+   "title": "Does going green pay? The evidence is split",
+   "text": "Do a company's environmental and social efforts raise its profits or lower them? The evidence points both ways. A positive link between environmental performance and economic performance has been reported. A 2026 study of Indian firms found that steady improvement in environmental performance went with better financial results. Other studies link sustainability practices to financial success and customer satisfaction. Gains can include attracting staff, tax breaks and new markets. There is a catch. Those positive links show up mostly at larger firms, which have more money to spend on such efforts. And not every study finds a win-win. A 2023 study of European listed firms found the opposite: stronger sustainability practices went with lower profitability, at least for a time. So the question remains open. The answer may depend on the firm, its size and how long one waits for results. For {{ref:nature-gov-059}}, that uncertainty matters, because the case for change often rests on the promise that it will pay."
+  },
+  "nature-gov-088": {
+   "title": "Insetting: meeting targets without cutting your own emissions",
+   "text": "Insetting is a business-coined way for a company to claim it has met emission targets by means other than cutting its own emissions. The private sector created the term, and international standards such as ISO 14050 and the IWA 42 Net Zero Guidelines do not define it. Still, the SBTi's forestry, land and agriculture guidance of September 2022 allows it. That broke with the initiative's long-held view that {{ref:nature-gov-087}} be met only by emission cuts."
+  },
+  "nature-gov-093": {
+   "title": "Eco-efficiency and socio-efficiency: value per unit of impact",
+   "text": "Eco-efficiency compares the economic value a firm adds with its total ecological impact. Socio-efficiency compares that value with its social impact. Most corporate effects on the environment are assumed to be negative. Social effects can go either way: job creation is positive, work accidents negative. Both measures mainly aim at economic sustainability, treating natural and social capital as tools for win-win gains. Some authors argue sustainable development needs more: eco-effectiveness, socio-effectiveness, sufficiency and eco-equity."
+  },
+  "nature-gov-097": {
+   "title": "Do no significant harm: green in one way, harmful in none",
+   "text": "Helping one environmental goal is not enough. Under the {{ref:nature-gov-096}}, an activity counts as sustainable only if it contributes substantially to one objective without seriously harming any of the other five. It must meet four requirements: that substantial contribution, no significant harm to the others, minimum social safeguards, and the technical screening criteria. The rule bites. The Technical Expert Group held back from including nuclear energy because it could not settle whether nuclear passed this test."
+  },
+  "nature-gov-098": {
+   "title": "Gas and nuclear: the EU taxonomy's hardest fight",
+   "text": "Should fossil gas and nuclear power be labelled sustainable investments? The Complementary Climate Delegated Act, the most controversial part of the EU taxonomy, said certain gas and nuclear activities were transitional ones that help mitigate climate change. Expert advice split. The Technical Expert Group did not recommend nuclear, while the Joint Research Centre found its impact would stay below harmful levels. Some countries see gas as a bridge from coal to renewables; the Netherlands, Austria, Sweden and Denmark opposed it. On 6 July 2022 a resolution to reject the act failed: 278 MEPs backed it when 353 votes were needed."
+  },
+  "nature-eecon-021": {
+   "title": "Material flow cost accounting: pricing what goes to waste",
+   "text": "Material flow cost accounting traces the physical flows of materials and energy through a company or supply chain and puts a cost on each. The point is to reveal hidden environmental and financial costs, and to cut both through better use of materials and energy. It was developed in Germany in the 1980s and became a huge success in Japan in the 2000s, where up to 300 companies had used it by 2010. In 2011 the International Organization for Standardization published a standard for it, ISO 14051."
+  },
+  "nature-gov-095": {
+   "title": "The bottom of the pyramid: doing business with the poor",
+   "text": "Hindustan Unilever sold hygiene products in smaller package sizes that poor customers could afford. It is a classic inclusive business model. Such models create value by selling to the poor or buying from them, bringing poor people directly into companies' value chains. Prahalad and Hart wrote 'The Fortune at the Bottom of the Pyramid'. Their paper argued that serving poor consumers offers commercial and social opportunities. {{ref:nature-gov-094}} has focused on this group for the same reasons. Money is the snag: in an IFC survey, around 90% of 167 applicants named access to finance as a main obstacle."
+  },
+  "nature-gov-083": {
+   "title": "Supplier audits: checking the factory floor",
+   "text": "A supplier audit is a visit to a supplier's site to check that it meets social and environmental standards. The standard may be an outside one, such as SA8000 or ISO 14001, or the buyer's own supplier code of conduct. Buyers may audit suppliers themselves or send third-party auditors. The limit is reach. Buyers often deal with only one tier of suppliers, while their supply chain stretches through many tiers upstream."
+  },
+  "nature-gov-091": {
+   "title": "Carbon bombs: the projects that could blow the budget",
+   "text": "A carbon bomb is a new fossil fuel extraction project whose potential emissions exceed 1 billion tonnes of CO2. A 2022 study counted 425 such coal, oil and gas projects worldwide. Together their potential emissions are twice the Paris Agreement's 1.5 °C {{ref:nature-clim-136}}, the total that can still be emitted. Studies say large amounts of fossil fuel must stay in the ground for a 50% chance of limiting warming to 1.5 °C. The researchers argue 'defusing' carbon bombs should be a priority for climate policy."
+  },
+  "nature-gov-065": {
+   "title": "Why some firms lobby for tougher green rules",
+   "text": "Some firms back new environmental rules because the rules will hurt their competitors more than themselves. Many find it pays to argue for such rules and prepare for them before they become law. One study found firms support climate laws to gain power over competitors. They accept short-term costs to come out ahead in the long run."
+  },
+  "nature-gov-105": {
+   "title": "Voluntary sustainability standards: labels in place of laws",
+   "text": "As regulation of global business shifted from governments to private actors, a new kind of rulebook appeared. Voluntary sustainability standards set requirements on human rights, worker safety and environmental impact that producers, traders and retailers may be asked to meet. Governments lead some, such as the USDA Organic label. Campaign groups create others, such as FairTrade and Rainforest Alliance. The FairTrade label aims to empower small producers mainly through a minimum price paid to them. Many companies write their own instead, such as Starbucks' C.A.F.E. Practices."
+  },
+  "nature-gov-106": {
+   "title": "Roundtables and councils: many parties, one product",
+   "text": "The Roundtable on Sustainable Palm Oil awards a certified label to companies meeting criteria meant to limit palm oil's harm to people and the environment. It is a multi-stakeholder sustainability initiative: a partnership of campaign groups, companies, suppliers and governments using voluntary, market-based approaches to make one product or sector more sustainable. Others include the Forest Stewardship Council and the Better Cotton Initiative. They develop standards, issue certifications and can act as learning platforms."
+  },
+  "nature-gov-086": {
+   "title": "Double materiality: looking both ways",
+   "text": "Something is material when it matters enough to report. Double materiality says a company should report both how sustainability issues affect its finances and how the company affects society and the environment. Some supply chain impacts are doubly material: the firm harms the environment, and the same issues bring risks or opportunities for the firm. The EU's {{ref:nature-gov-103}} uses this test. The Global Reporting Initiative's standards focus only on impact materiality, the firm's effects on the world."
+  },
+  "nature-gov-103": {
+   "title": "The CSRD: Europe's sustainability reporting law",
+   "text": "The Corporate Sustainability Reporting Directive is the EU law that sets uniform sustainability reporting rules, replacing the older Non-Financial Reporting Directive. It was adopted in December 2022, came into force on 5 January 2023 and applies in stages from 1 January 2024. It widens reporting to about 50.000 organizations, against roughly 11,600 companies under the older law by 2021. Firms exceeding two of three thresholds must report: 250 employees, a €25 million balance sheet, or €50 million net turnover. In February 2025 the Commission proposed an 'Omnibus' simplification and a two-year delay, to 2028, for later waves."
+  },
+  "nature-gov-081": {
+   "title": "Mainstreaming nature: from site ecologists to the boardroom",
+   "text": "Mainstreaming nature means building it into a company's decision-making, governance, strategy and risk management, rather than leaving it to site ecologists. This sets {{ref:nature-gov-079}} apart from older approaches such as no net loss and net positive impact, where ecological managers handle biodiversity at project sites. Since the Kunming-Montreal framework began, nature-positive has helped carry nature into businesses and governance systems."
+  },
+  "nature-gov-108": {
+   "title": "Physical and transition risk: two ways climate hits balance sheets",
+   "text": "In 2015 Bank of England governor Mark Carney gave a warning. Meeting the 2 °C limit could leave most fossil fuel reserves as stranded assets, worth little because they can never be used. That is transition risk: the costs of moving to a lower-carbon society, from changes in policy, technology and consumer behaviour, including carbon pricing. Physical risk comes from climate impacts such as extreme weather, which damage property, infrastructure and land. Physical risks top the list of business concerns for US and EU firms."
+  },
+  "nature-gov-084": {
+   "title": "Supply chain transparency: seeing where goods come from",
+   "text": "Forced labour often happens upstream, where buyers and end users can see little. Supply chain transparency means making it possible to see and trace where goods come from and how they were made. Consumers increasingly demand it, especially where forced or child labour may be involved. It shapes how they view and support companies. It also matters for global goals such as ending net deforestation."
+  }
+ },
+ "reviews": {
+  "business-and-nature": "This chapter traced how a business can answer for more than profit. Ideas like corporate social responsibility and stakeholder theory widened a firm's duties to workers, communities and nature, while Friedman held that profit within the law is enough. Tools turned those duties into practice: management systems and audits, the Greenhouse Gas Protocol with its hard-to-measure Scope 3, science-based targets and reporting rules from the TCFD to the EU's CSRD. Much stays contested, from whether going green pays to whether CSR is window-dressing and whether gas and nuclear belong in the EU taxonomy. The newest goal, nature-positive, asks firms to halt and reverse the loss of nature by 2030 across their whole value chains."
+ }
+}
