@@ -78,6 +78,11 @@ class SourceAdapter:
         self.defaults = dict(defaults or {})  # shared registry entry: {tier, license, ...}
         self._http = http
 
+    @classmethod
+    def for_discovery(cls, http=None):
+        """An instance that can only search (`discover`), for adapters whose config names one repo or site."""
+        return cls({"name": cls.adapter}, http=http)
+
     # -- identity and policy -----------------------------------------------------
     @property
     def label(self):

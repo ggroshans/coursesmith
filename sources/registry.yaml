@@ -1,0 +1,76 @@
+# Sources vetted once, for every subject. A subject lists the ones it uses under `sources:` in subject.yaml;
+# what is written here is only the default tier and license for them, so the subject can say less.
+#
+# Add an entry only after reading the license from the source itself (the repository's LICENSE file, the site's
+# terms or footer) and writing the date and what you read under `verified` and `evidence`. `coursesmith sources
+# check` repeats that reading for every source a subject uses and fails when it disagrees with what is declared
+# here or in subject.yaml. A source that is not listed is not forbidden: it just has no defaults.
+#
+# tier (the trust ranking used when sources disagree):
+#   official > standard > primary > reference > curated > commentary
+# class (what the discovery score uses to read a candidate): official, standards, academic, community, personal
+
+version: 1
+
+domains:
+  - host: "*.wikipedia.org"
+    class: official
+    tier: reference
+    license: {name: "CC BY-SA 4.0", url: "https://creativecommons.org/licenses/by-sa/4.0/", class: cc-by-sa}
+  - host: "*.wikibooks.org"
+    class: community
+    tier: reference
+    license: {name: "CC BY-SA 4.0", url: "https://creativecommons.org/licenses/by-sa/4.0/", class: cc-by-sa}
+  - host: rfc-editor.org
+    class: standards
+    tier: standard
+    license: {name: "IETF Trust (BCP 78)", url: "https://trustee.ietf.org/license-info/", class: ietf-trust}
+  - host: datatracker.ietf.org
+    class: standards
+    tier: standard
+    license: {name: "IETF Trust (BCP 78)", url: "https://trustee.ietf.org/license-info/", class: ietf-trust}
+  - host: sre.google
+    class: official
+    tier: curated
+    license: {name: "CC BY-NC-ND 4.0", url: "https://creativecommons.org/licenses/by-nc-nd/4.0/", class: cc-by-nc-nd,
+              verified: 2026-11-18, evidence: "footer of sre.google/sre-book/table-of-contents/: Licensed under CC BY-NC-ND 4.0"}
+    note: "The Google SRE books. NonCommercial and NoDerivatives: personal reading only."
+
+repos:
+  - repo: donnemartin/system-design-primer
+    tier: curated
+    class: community
+    topics: [system design, interview, scalability, caching, load balancing, database, architecture]
+    license:
+      name: "CC BY 4.0"
+      url: "http://creativecommons.org/licenses/by/4.0/"
+      class: cc-by
+      verified: 2026-11-18
+      evidence: "LICENSE.txt at ae9bbd7: 'Creative Commons Attribution 4.0 International License (CC BY 4.0)'. GitHub's own detection reports NOASSERTION, so the file must be read."
+    note: "Worked solutions to the classic interview questions (pastebin, twitter, web crawler, ...)."
+  - repo: ByteByteGoHq/system-design-101
+    tier: curated
+    class: community
+    topics: [system design, interview, architecture, api, database, caching]
+    license:
+      name: "CC BY-NC-ND 4.0"
+      url: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      class: cc-by-nc-nd
+      verified: 2026-11-18
+      evidence: "LICENSE.md: 'This work is licensed under CC BY-NC-ND 4.0'"
+    note: "NonCommercial and NoDerivatives: personal reading only."
+  - repo: karanpratapsingh/system-design
+    tier: curated
+    class: community
+    topics: [system design, interview, architecture, scalability]
+    license:
+      name: "CC BY-NC-ND 4.0"
+      url: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      class: cc-by-nc-nd
+      verified: 2026-11-18
+      evidence: "LICENSE: 'Attribution-NonCommercial-NoDerivatives 4.0 International'"
+    note: "NonCommercial and NoDerivatives: personal reading only."
+
+# Whether a course meant for the public (`distribution: public`) may cite a source in each license class.
+# Override a class here only with a reason; the defaults are in coursesmith/sources/licenses.py.
+license_classes: {}

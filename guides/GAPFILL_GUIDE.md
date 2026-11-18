@@ -6,8 +6,10 @@ Read `CONSOLIDATION_GUIDE.md` first: its rules all apply. This addendum covers a
 ## The loop
 1. **Pick the gaps.** From `reports/coverage.md` (hub articles not crawled, crawled but in no entry, thin
    chapters) and `entries/draft/<chapter key>.gaps.md`.
-2. **Crawl them.** Add the page titles to the chapter's `seeds` in `frame.yaml` (or `candidates` if they are only
-   context), then run `coursesmith crawl <subject> --chapter <key> --depth 0` to fetch just those pages, followed by
+2. **Crawl them.** Add the page titles (or, for another source, its keys such as `gh>owner/repo/path.md`) to the
+   chapter's `seeds` in `frame.yaml` (or `candidates` if they are only context). A key must be inside a source's
+   allowlist in `subject.yaml`; if it is not, the crawl skips it and says so, and widening the allowlist is the
+   owner's decision after `coursesmith sources check`. Then run `coursesmith crawl <subject> --chapter <key> --depth 0` to fetch just those pages, followed by
    `extract`, `graph build` and `dossier <subject> <key>`.
 3. **Consolidate the new material** into the chapter's existing draft, `entries/draft/<chapter key>.jsonl`:
    - **a new entry**: append it, in the usual schema;

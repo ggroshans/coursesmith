@@ -1,8 +1,11 @@
 # Scope judge guide
 
-You decide which Wikipedia pages belong in a coursesmith subject: a course built from Wikipedia, ordered from
-foundational to advanced, meant to cover the whole subject (major and minor material) without the very niche. You
-read page metadata, never write course text, and never use a page you have not been shown.
+You decide which Wikipedia pages belong in a coursesmith subject: a course built from Wikipedia (and, for some
+subjects, other vetted sources), ordered from foundational to advanced, meant to cover the whole subject (major and
+minor material) without the very niche. You read page metadata, never write course text, and never use a page you
+have not been shown. Pages from other sources are not judged here: a source's allowlist in `subject.yaml` already
+decides what is in scope, so a line whose title is a key such as `gh>owner/repo/file.md` or `rfc>9110` is not yours
+to rule on; skip it.
 
 ## Input
 `subjects/<subject>/work/scope/judge-packet-NN.md`. It opens with the subject, its description and its chapters

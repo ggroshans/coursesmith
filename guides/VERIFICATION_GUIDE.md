@@ -1,20 +1,25 @@
 # Verification guide
 
-Verification gives two things: the context Wikipedia itself provides, drilled link by link, and
+Verification gives two things: the context the sources themselves provide, drilled link by link, and
 confirmation or added context from verified external sources. The rule never changes: **no fact from general
 knowledge.** Design: `docs/DESIGN.md`, section 2.
+
+An entry whose cited sources are already `official` or `standard` (an RFC, the vendor's own documentation) has
+the best backing a course can have: it needs tier C only when flagged (contested, a conflict, a citation-needed
+tag). Entries resting on Wikipedia, a curated community list or commentary are the ones to check.
 
 ## The four tiers
 | Tier | What | Command | Your part |
 |---|---|---|---|
-| A | Wikipedia in depth: every page linked from each selected entry's lead | `coursesmith crawl <subject> --context`, then `extract`, `graph build`, `dossier` | Use the new sentences when you extend entries (see `GAPFILL_GUIDE.md`) |
+| A | The source in depth: every page linked from each selected entry's lead (Wikipedia's links; another source's lead links) | `coursesmith crawl <subject> --context`, then `extract`, `graph build`, `dossier` | Use the new sentences when you extend entries (see `GAPFILL_GUIDE.md`) |
 | B | Cited works: the DOIs behind each entry's sentences, title and abstract via OpenAlex (Crossref fallback) | `coursesmith verify <subject>` | Read every `differs` |
 | C | Authorities registered in `subject.yaml` (`verification.authorities`) | same | Add fetchers one at a time; read every `differs` |
-| D | Added context: a fact an authority or a peer-reviewed abstract has and Wikipedia lacks | `verify/external.json` | Write it, cite it |
+| D | Added context: a fact an authority or a peer-reviewed abstract has and the sources lack | `verify/external.json` | Write it, cite it |
 
 `verify` writes each entry's `verification` list and its `source_tier`: **primary** when a cited paper or an
 authority supports its key claim (`supports`, or `refines` = inside a stated range, or a hand-reviewed
-`supports`); otherwise **wikipedia**. Verdicts: `supports`, `refines`, `differs`, `no comparable claim`,
+`supports`); otherwise the entry keeps the best trust tier among the sources it cites (**wikipedia** when it cites
+only Wikipedia). Verdicts: `supports`, `refines`, `differs`, `no comparable claim`,
 `no abstract`, `not found`. The comparison reads numbers with units, pH values, dates, and, for Classification
 entries checked against an authority, whether the authority lists the class.
 
@@ -53,7 +58,7 @@ Authorities without `fetcher` and `urls` stay listed as pending in `reports/veri
 authority's own pages, never a summary of it.
 
 ## Added context (tier D)
-Where an authority page or a peer-reviewed abstract carries a fact the entry needs and Wikipedia lacks, add it to
+Where an authority page or a peer-reviewed abstract carries a fact the entry needs and the sources lack, add it to
 `verify/external.json`:
 
 ```json

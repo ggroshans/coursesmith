@@ -79,6 +79,10 @@ class GithubAdapter(SourceAdapter):
         self.exclude = self.cfg.get("exclude") or []
         self._sha = None
 
+    @classmethod
+    def for_discovery(cls, http=None):
+        return cls({"name": "github", "repo": "search/search"}, http=http)
+
     def hosts(self):
         return ["github.com", "raw.githubusercontent.com", "api.github.com"]
 

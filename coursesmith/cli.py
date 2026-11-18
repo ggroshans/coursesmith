@@ -45,17 +45,51 @@ def cmd_init(a):
         raise SystemExit(f"init: {e}")
 
 
+# --------------------------------------------------------------------- sources
+@command("sources discover", "find candidate sources for the subject (writes scope/sources.candidates.yaml)",
+         arg("--query", action="append", default=[], help="a search phrase (repeatable; default: the title and seeds)"),
+         arg("--limit", type=int, default=20), arg("--offline", action="store_true", help="registry only, no network"))
+def cmd_sources_discover(a):
+    from .sources import discover
+    discover.run(a.subject, a.query, a.limit, network=not a.offline)
+
+
+@command("sources packet", "write the brief for a web-search session (guides/SOURCES_GUIDE.md)")
+def cmd_sources_packet(a):
+    from .sources import discover
+    discover.packet(a.subject)
+
+
+@command("sources merge", "fold a search session's work/sources/found.yaml into the candidates")
+def cmd_sources_merge(a):
+    from .sources import discover
+    discover.merge(a.subject)
+
+
+@command("sources check", "verify subject.yaml's sources (licenses, allowlists, pins) before crawling",
+         arg("--fix-refs", action="store_true", help="pin a branch or tag ref to the commit it points at now"))
+def cmd_sources_check(a):
+    from .sources import check
+    if check.run(a.subject, fix_refs=a.fix_refs):
+        raise SystemExit(1)
+
+
 # --------------------------------------------------------------------- crawl + extract
-@command("fetch", "fetch one page into the shared cache", arg("title"), arg("--force", action="store_true"),
+@command("fetch", "fetch one page into the shared cache (a Wikipedia title, or a source key with --subject)",
+         arg("title"), arg("--force", action="store_true"),
+         arg("--subject", default=None, help="the subject whose sources own a qualified key such as rfc>9110"),
          subject=False)
 def cmd_fetch(a):
     from .crawl.api import WikiClient
     from .crawl.fetch import fetch_page
     from .crawl.store import Store
-    store = Store()
-    rec, text, status = fetch_page(WikiClient(), store, a.title, force=a.force)
+    from .sources.registry import Registry
+    store, client = Store(), WikiClient()
+    registry = Registry.from_subject(load(a.subject), wiki_client=client) if a.subject else None
+    rec, text, status = fetch_page(client, store, a.title, force=a.force, adapters=registry)
     store.flush_caches()
-    print(f"{rec['title']} revid={rec['revid']} ({status}); {len(text):,} chars, {len(rec['lead_links'])} lead links")
+    print(f"{rec['title']} {rec.get('revid') or rec.get('version')} ({status}); {len(text):,} chars, "
+          f"{len(rec.get('lead_links') or [])} lead links")
 
 
 @command("frame plan-packet", "packet for the syllabus planner pass (guides/PLANNER_GUIDE.md)")
@@ -130,6 +164,8 @@ def cmd_crawl(a):
     from .crawl import crawl
     if not config.CONTACT:
         raise SystemExit("set COURSESMITH_CONTACT (email or URL) or write cache/contact.txt before crawling")
+    from .sources import check as sources_check
+    sources_check.require_ok(a.subject)
     if a.context:
         crawl.context(a.subject, a.max_pages)
     else:
@@ -230,6 +266,9 @@ def cmd_dossier(a):
          arg("--merge", action="store_true", help="join a split chapter's part files into one draft file"))
 def cmd_finalize(a):
     from .consolidate import finalize
+    if not a.merge and not a.check:
+        from .sources import check as sources_check
+        sources_check.require_ok(a.subject)
     if a.merge:
         if a.chapter == "all":
             raise SystemExit("--merge needs a chapter")
@@ -361,7 +400,7 @@ def cmd_export(a):
 
 # --------------------------------------------------------------------- main
 def build_parser():
-    p = argparse.ArgumentParser(prog="coursesmith", description="Wikipedia subjects as sourced courses.")
+    p = argparse.ArgumentParser(prog="coursesmith", description="Sourced courses from Wikipedia and vetted sources.")
     sub = p.add_subparsers(dest="command", metavar="<command>")
     groups = {}
     for name, help_, args_spec, needs_subject, fn in COMMANDS:

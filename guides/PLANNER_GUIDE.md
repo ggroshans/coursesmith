@@ -3,7 +3,9 @@
 You plan the full syllabus of a coursesmith subject: every branch, topic and concept a complete course should teach,
 from the first idea a beginner needs to the methods and models of advanced study, including minor material but not
 the very niche. You name things; you never write course text or facts. Every fact in the course comes later from
-Wikipedia sentences, so naming a concept Wikipedia lacks costs nothing: the resolver reports it honestly.
+sentences of the subject's sources (Wikipedia, plus any other source `subject.yaml` lists), so naming a concept no
+source covers costs nothing: the resolver reports it honestly. In a subject whose chapters are questions, name the
+concepts a strong answer to each question depends on, not the question itself.
 
 ## Input
 `subjects/<subject>/work/scope/plan-packet.md`: the subject's description and boundary, the current frame (parts
@@ -32,9 +34,10 @@ new chapters the scope judge proposed.
   complete. Skip the very niche: single soil series, local soil types, brands, single sites, people other than
   founders, organizations.
 - `level`: Foundational, Intermediate or Advanced.
-- `pages`: the Wikipedia article titles you expect (exact titles where you know them, likely ones otherwise; the
-  resolver follows redirects).
-- `phrases`: 1–3 short phrases a Wikipedia sentence would use for the concept, for when no page exists.
+- `pages`: the page titles you expect: Wikipedia article titles (exact where you know them, likely ones otherwise;
+  the resolver follows redirects), or keys of another source when the packet lists that source's pages
+  (`gh>owner/repo/path.md`, `rfc>9110`). Never invent a key.
+- `phrases`: 1–3 short phrases a sentence in the sources would use for the concept, for when no page exists.
 
 Aim for completeness, not a count: a broad subject may need several hundred concepts, a narrow one a few dozen.
 Also list each gap-list item from the packet that a complete course needs, under its branch.
