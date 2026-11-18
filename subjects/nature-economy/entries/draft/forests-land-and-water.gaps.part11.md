@@ -1,0 +1,10 @@
+# forests-land-and-water gaps (chunks 11-19)
+
+- Selective logging (Selective logging)
+- Desalination (Desalination)
+- Water grabbing (Water grabbing)
+- Transhumance (Transhumance)
+- Green belt (Green belt)
+- Hydropolitics (Hydropolitics)
+- Public trust doctrine (Public trust doctrine)
+- Sustained yield (Sustained yield)

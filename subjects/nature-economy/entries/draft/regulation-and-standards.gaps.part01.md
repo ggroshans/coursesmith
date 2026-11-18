@@ -1,0 +1,12 @@
+# regulation-and-standards gaps (batch 02)
+- Regulatory impact analysis (US) / regulatory cost-benefit review — suggested page: "Regulatory impact analysis"
+- Technology-forcing regulation — suggested page: "Technology forcing"
+- New Source Review — suggested page: "New Source Review"
+- EU Industrial Emissions Directive / IPPC — suggested pages: "Industrial Emissions Directive", "Integrated Pollution Prevention and Control"
+- US effluent guidelines — suggested page: "Effluent guidelines"
+- Habitats Directive — suggested page: "Habitats Directive"
+- Resource Conservation and Recovery Act (hazardous waste cradle-to-grave) — suggested page: "Resource Conservation and Recovery Act"
+- WHO air quality guidelines — suggested page: "Air quality guideline"
+- Building energy codes — suggested page: "Building energy code"
+- Feebate — suggested page: "Feebate"
+- Eco-tariff and Game law (frame candidates) were not in this dossier — suggested pages: "Eco-tariff", "Game law"
