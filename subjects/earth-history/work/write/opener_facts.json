@@ -1,0 +1,3891 @@
+{
+ "hadean-eon": [
+  {
+   "text": "The eon is named after Hades, the Greek underworld, for hellish conditions: a newly accreted planet whose surface was probably molten.",
+   "sent_ids": [
+    "9a6d992c509a"
+   ]
+  },
+  {
+   "text": "Hadean rocks are very rare; almost all that survives is zircon grains, mostly from the Jack Hills of Western Australia.",
+   "sent_ids": [
+    "2f3951c35f60",
+    "c254959bbec6"
+   ]
+  },
+  {
+   "text": "Other records of Hadean time come from the Moon and from meteorites.",
+   "sent_ids": [
+    "2e96e37d049e"
+   ]
+  },
+  {
+   "text": "Heavy bombardment dominated the eon, and impacts periodically disrupted the ocean.",
+   "sent_ids": [
+    "d53bedf89dc0",
+    "49e0707742fe"
+   ]
+  },
+  {
+   "text": "A thick early atmosphere gave way to a superocean that covered nearly the whole planet.",
+   "sent_ids": [
+    "c828d52328b9",
+    "2439d6a4d36d"
+   ]
+  },
+  {
+   "text": "Land was scarce: continents may have risen in the mid-Hadean and then drowned, which matters for the origin of life.",
+   "sent_ids": [
+    "5b992aeb4e40",
+    "b25719ecb779"
+   ]
+  },
+  {
+   "text": "The mantle churned vigorously, but whether plates moved or a rigid lid covered Earth is still debated.",
+   "sent_ids": [
+    "3ef2b40bd104",
+    "35b81e46e980"
+   ]
+  },
+  {
+   "text": "With oceans in place, life was possible but vulnerable to large impacts.",
+   "sent_ids": [
+    "5b832483072b"
+   ]
+  }
+ ],
+ "archean-eon": [
+  {
+   "text": "Earth was mostly a water world: continental crust existed, but much of it lay beneath a superocean deeper than today's oceans.",
+   "sent_ids": [
+    "1ccef0b028e3"
+   ]
+  },
+  {
+   "text": "The atmosphere almost entirely lacked free oxygen, holding less than 0.001% of today's level.",
+   "sent_ids": [
+    "02dc48b0282f"
+   ]
+  },
+  {
+   "text": "The Sun gave only about 75–80% of its present light, yet surface temperatures were near modern levels: the faint young Sun paradox.",
+   "sent_ids": [
+    "77f746ff7107"
+   ]
+  },
+  {
+   "text": "More greenhouse gas, including nitrous oxide from abiotic denitrification, or a darker Earth with less land and cloud may explain the warmth.",
+   "sent_ids": [
+    "e25188bfa83f",
+    "1e1258466a27",
+    "c5bfbbd0af6d"
+   ]
+  },
+  {
+   "text": "Earth's heat flow was nearly three times today's when the eon began and still twice today's at its end.",
+   "sent_ids": [
+    "ecfbb5b7d5ea"
+   ]
+  },
+  {
+   "text": "The ocean was broadly reducing, poor in sulfate, and lacked a lasting boundary between oxygenated and oxygen-free water.",
+   "sent_ids": [
+    "2320c19255d1",
+    "47d053687754"
+   ]
+  },
+  {
+   "text": "Life stayed simple: prokaryotes, both archaea and bacteria, living largely in shallow-water microbial mats and stromatolites.",
+   "sent_ids": [
+    "075e85d7f552",
+    "db6577891fa3",
+    "1a21d5dc3bd5"
+   ]
+  },
+  {
+   "text": "The first cratons, old and stable blocks of continental lithosphere, formed during this eon.",
+   "sent_ids": [
+    "2f5cfe3fdc1b",
+    "b221bc508cd4",
+    "e9a1926e5d3e"
+   ]
+  }
+ ],
+ "eoarchean-era": [
+  {
+   "text": "The era opens with the Acasta Gneiss of Canada, dated to 4,031 Ma, the oldest preserved rock formation.",
+   "sent_ids": [
+    "3fa4dfe39780"
+   ]
+  },
+  {
+   "text": "Earth had cooled significantly by the start of the Archean, and oceans already covered much of the planet.",
+   "sent_ids": [
+    "a539f7b2acf6",
+    "ad1b0dcbd279"
+   ]
+  },
+  {
+   "text": "Heavy asteroid bombardment marked its beginning, and impacts periodically disrupted the oceans.",
+   "sent_ids": [
+    "54a199c8f5f3",
+    "49e0707742fe"
+   ]
+  },
+  {
+   "text": "Oxygen isotopes show the water cycle was already running in the early Eoarchean.",
+   "sent_ids": [
+    "4b667bdb1134"
+   ]
+  },
+  {
+   "text": "The earliest record of weathering and the oldest water-laid sediments date to about 3.8 Ga.",
+   "sent_ids": [
+    "fd1372a2eb31",
+    "fa2c055e023e"
+   ]
+  },
+  {
+   "text": "The Sun shone at about 70% of its modern brightness, yet liquid water existed.",
+   "sent_ids": [
+    "aed88a2c989c"
+   ]
+  },
+  {
+   "text": "Continental crust formed at a growing pace, and anaerobic microbes, including early photosynthesisers, appeared from about 3.7 Ga.",
+   "sent_ids": [
+    "f03e144e940c"
+   ]
+  }
+ ],
+ "paleoarchean-era": [
+  {
+   "text": "The Paleoarchean rock record is very limited, and deformation and metamorphism have wiped most of it clean.",
+   "sent_ids": [
+    "aef5687fbdf0",
+    "51dc634c499f"
+   ]
+  },
+  {
+   "text": "Much continental crust existed but was still underwater; it is unclear whether any land stood exposed.",
+   "sent_ids": [
+    "e124c88fee5a",
+    "3b994255807b"
+   ]
+  },
+  {
+   "text": "A hotter mantle and a steeper ocean-floor heat gradient ruled out plate tectonics in its modern form.",
+   "sent_ids": [
+    "e565de993009"
+   ]
+  },
+  {
+   "text": "Cratons grew by accreting terranes; the Kaapvaal and Pilbara cratons formed at the start of the era.",
+   "sent_ids": [
+    "126b6d2696cb",
+    "7e191fabc927"
+   ]
+  },
+  {
+   "text": "By about 3.4 Ga nitrogen made up most of a stable 'second atmosphere'.",
+   "sent_ids": [
+    "c597cf97f605"
+   ]
+  },
+  {
+   "text": "Microbial mats and biofilms became common in shallow water, and anaerobic microbes lived around hot vents and inside buried sediments.",
+   "sent_ids": [
+    "126b6d2696cb"
+   ]
+  },
+  {
+   "text": "Asteroid impacts were frequent in the early Archean.",
+   "sent_ids": [
+    "182ffd71b739"
+   ]
+  }
+ ],
+ "mesoarchean-era": [
+  {
+   "text": "The Mesoarchean holds the first evidence of modern-style subduction and an expansion of microbial life.",
+   "sent_ids": [
+    "9b978b0b8219"
+   ]
+  },
+  {
+   "text": "Cratons had low relief and broad shallow seas, and weathering fed nutrients into the oceans.",
+   "sent_ids": [
+    "91cbcf32e1d0"
+   ]
+  },
+  {
+   "text": "Microbes with diverse metabolisms spread and released gases that changed the atmosphere's makeup.",
+   "sent_ids": [
+    "f0b85264a9fc"
+   ]
+  },
+  {
+   "text": "Atmospheric nitrogen was probably close to today's level.",
+   "sent_ids": [
+    "2cbe69010645"
+   ]
+  },
+  {
+   "text": "The climate was warm or temperate thanks to methane and carbon dioxide, yet the era saw the oldest known glaciation.",
+   "sent_ids": [
+    "cb567d1b1517",
+    "43f276e6560e"
+   ]
+  },
+  {
+   "text": "Oases of relatively high oxygen formed in some nearshore shallow seas.",
+   "sent_ids": [
+    "93ddc7307cb5"
+   ]
+  },
+  {
+   "text": "A supercontinent, Vaalbara, may have existed.",
+   "sent_ids": [
+    "b0947b68810d"
+   ]
+  }
+ ],
+ "neoarchean-era": [
+  {
+   "text": "Plate tectonics may have resembled today's, though sinking slabs broke off more often in the hotter mantle.",
+   "sent_ids": [
+    "1e152daedeb7"
+   ]
+  },
+  {
+   "text": "Changing air and soils pushed microbial metabolisms to diversify; more copper in the environment favoured organisms that use oxygen.",
+   "sent_ids": [
+    "b77d77a7ff3c",
+    "5a1af9936f67"
+   ]
+  },
+  {
+   "text": "Phosphorus from magmatic rocks, organic burial and more oxidized volcanic gases helped build up oxygen, leading toward the Great Oxidation.",
+   "sent_ids": [
+    "0919053a46ae"
+   ]
+  },
+  {
+   "text": "Raindrop prints in 2.7 Ga volcanic ash show the air was less than twice as dense as today's.",
+   "sent_ids": [
+    "e9874e1f4ce5",
+    "8b4880595958"
+   ]
+  },
+  {
+   "text": "Gas bubbles in lavas of the same age suggest a pressure near 0.23 bar, at odds with very high carbon dioxide or nitrogen.",
+   "sent_ids": [
+    "632d4c3f3224",
+    "f01681f47b12",
+    "ffecb0650b8b"
+   ]
+  },
+  {
+   "text": "The geomagnetic field was closer to a simple dipole than after the era.",
+   "sent_ids": [
+    "e00cad2e8269"
+   ]
+  },
+  {
+   "text": "Much of the mantle lithosphere beneath today's continents may have formed in this era.",
+   "sent_ids": [
+    "eae42b76e721"
+   ]
+  }
+ ],
+ "proterozoic-eon": [
+  {
+   "text": "The Proterozoic, the longest eon, ran from 2500 to 538.8 Ma; its rock record is far more complete than the Archean's.",
+   "sent_ids": [
+    "4a55ec64f9ee",
+    "1cb431f64d78"
+   ]
+  },
+  {
+   "text": "About 43% of today's continental crust formed in the Proterozoic, against 39% in the Archean and 18% since.",
+   "sent_ids": [
+    "efbe369b3b9f"
+   ]
+  },
+  {
+   "text": "At the eon's start Earth's internal heat flow was still about twice today's.",
+   "sent_ids": [
+    "ecfbb5b7d5ea"
+   ]
+  },
+  {
+   "text": "The Sun shone 5–18% more weakly than it does now.",
+   "sent_ids": [
+    "56f2fa01fa66"
+   ]
+  },
+  {
+   "text": "Subduction reached levels the Archean, which lacks eclogites, never did.",
+   "sent_ids": [
+    "e171a45ff528"
+   ]
+  },
+  {
+   "text": "Sulfidic, oxygen-free (euxinic) waters, rare in the Archean, became more common.",
+   "sent_ids": [
+    "0e0c77bf1dbb"
+   ]
+  },
+  {
+   "text": "Plankton mass reached roughly modern levels early in the eon.",
+   "sent_ids": [
+    "5ff90d4f97e7"
+   ]
+  },
+  {
+   "text": "Its headline events are the Great Oxidation and Huronian glaciation, the first eukaryotes, Snowball Earth and the Ediacaran biota.",
+   "sent_ids": [
+    "f39be9c4b6cf"
+   ]
+  }
+ ],
+ "paleoproterozoic-era": [
+  {
+   "text": "The first and longest era of Earth history, 2500–1600 Ma, split into the Siderian, Rhyacian, Orosirian and Statherian.",
+   "sent_ids": [
+    "b46e45c3709b",
+    "5e2a24b7210e"
+   ]
+  },
+  {
+   "text": "The continents first stabilized during this era.",
+   "sent_ids": [
+    "085cdd3ed36c"
+   ]
+  },
+  {
+   "text": "Cyanobacteria are credited with raising atmospheric oxygen from almost none to as much as 10% of today's level.",
+   "sent_ids": [
+    "ed6a7ac67fe2",
+    "13ee5b272f17"
+   ]
+  },
+  {
+   "text": "Ultra-high-temperature metamorphic rocks of this era are taken to mark the start of modern-style tectonics.",
+   "sent_ids": [
+    "82d0c95dd171"
+   ]
+  },
+  {
+   "text": "Around 1.8 Ga a day lasted about 20 hours, giving roughly 450 days a year.",
+   "sent_ids": [
+    "83ac63e7b5ba"
+   ]
+  }
+ ],
+ "siderian-period": [
+  {
+   "text": "The first Proterozoic period, 2500–2300 Ma, is named from the Greek for iron, after its banded iron formations.",
+   "sent_ids": [
+    "6f729c0eeb6b",
+    "c4c61cec7e10"
+   ]
+  },
+  {
+   "text": "Earth spun faster than today: the day had lengthened to about 21 hours by 2.4 Ga.",
+   "sent_ids": [
+    "1e0da4967af8"
+   ]
+  },
+  {
+   "text": "Continental plates grew in the early Siderian, and dike swarms cut cratons in North America, South Africa and Australia.",
+   "sent_ids": [
+    "f17397c028a7",
+    "91efa74fe358"
+   ]
+  },
+  {
+   "text": "From the period's start, oxygen rose irreversibly in the atmosphere.",
+   "sent_ids": [
+    "77683261756a"
+   ]
+  },
+  {
+   "text": "As oxygen destroyed methane, from 300 to 4 ppmv, Earth slid into the Huronian glaciation from the mid-Siderian.",
+   "sent_ids": [
+    "2c3b37fa439c",
+    "5506353022cd"
+   ]
+  },
+  {
+   "text": "Weathering in air raised the sulfur isotope ratio of seawater sulfate, which settled out as gypsum and anhydrite.",
+   "sent_ids": [
+    "3a2484a527ae"
+   ]
+  },
+  {
+   "text": "Microfossils in Australian black chert and bacterial remains in South African iron formation record the period's life.",
+   "sent_ids": [
+    "59a363965d71"
+   ]
+  },
+  {
+   "text": "Siberia and the Canadian Shield were joined in a continent called Arctica.",
+   "sent_ids": [
+    "e7facd44be33"
+   ]
+  }
+ ],
+ "rhyacian-period": [
+  {
+   "text": "Spanning 2300–2050 Ma, the period takes its name from the Greek for lava flow, for the lava that flowed.",
+   "sent_ids": [
+    "5d8f295fddf2",
+    "14da71862dc5"
+   ]
+  },
+  {
+   "text": "The Huronian glaciation lasted through about the first 40% of the period.",
+   "sent_ids": [
+    "15b5281cb97e"
+   ]
+  },
+  {
+   "text": "A massive rise in oxygen, expanding life and organic burial drove the Lomagundi carbon isotope excursion; the first red beds formed.",
+   "sent_ids": [
+    "cd8be5f4caab"
+   ]
+  },
+  {
+   "text": "The Bushveld Igneous Complex and similar intrusions formed.",
+   "sent_ids": [
+    "cc0554e810d6"
+   ]
+  },
+  {
+   "text": "Orogenies in South America and West Africa began building the supercontinent Columbia.",
+   "sent_ids": [
+    "cd8be5f4caab"
+   ]
+  },
+  {
+   "text": "Eukaryotes and sexual reproduction are thought to have originated in this period.",
+   "sent_ids": [
+    "af8efb483458"
+   ]
+  },
+  {
+   "text": "Possible signs of macroscopic life in 2.1 Ga rocks are heavily disputed.",
+   "sent_ids": [
+    "3f397678cc30"
+   ]
+  }
+ ],
+ "orosirian-period": [
+  {
+   "text": "Spanning 2050–1800 Ma, the period is named from the Greek for mountain range, after intense orogeny on virtually all continents in its later half.",
+   "sent_ids": [
+    "24e88bef93a7",
+    "03e36a5fa031",
+    "f4c7df5a1cea"
+   ]
+  },
+  {
+   "text": "Two of Earth's largest known impacts struck: Vredefort early in the period and Sudbury near its end.",
+   "sent_ids": [
+    "199c49b7f4e9",
+    "c95cebda4ba0",
+    "df801a7339f6"
+   ]
+  },
+  {
+   "text": "Global collisions from 2.1 to 1.8 Ga, such as the Trans-Hudson, Limpopo, Capricorn and Trans-North China orogenies, assembled the supercontinent Columbia.",
+   "sent_ids": [
+    "822d32526791",
+    "a99da59289b1",
+    "66ea9778b7fb"
+   ]
+  },
+  {
+   "text": "Atmospheric oxygen fell as increased volcanism released carbon dioxide.",
+   "sent_ids": [
+    "a99da59289b1"
+   ]
+  },
+  {
+   "text": "Banded iron formations largely ceased after 1.85 Ga.",
+   "sent_ids": [
+    "00785356c6b6"
+   ]
+  },
+  {
+   "text": "Gunflint microfossils show photosynthesis in an atmosphere with enough oxygen for microbial life.",
+   "sent_ids": [
+    "6bb6dba27ec4"
+   ]
+  }
+ ],
+ "statherian-period": [
+  {
+   "text": "The last Paleoproterozoic period, 1800–1600 Ma, is named from the Greek for stable: on most continents new platforms formed or fold belts became cratons.",
+   "sent_ids": [
+    "ad90c803e88a",
+    "e6d70ecddb04",
+    "bdb3cce29ff4"
+   ]
+  },
+  {
+   "text": "Columbia had assembled by the start of the period.",
+   "sent_ids": [
+    "ec7591395886"
+   ]
+  },
+  {
+   "text": "Columbia kept growing along its margins through subduction-related magmatism and terrane accretion.",
+   "sent_ids": [
+    "0e5bd5325f32"
+   ]
+  },
+  {
+   "text": "Oxygen stood at 10–20% of today's level.",
+   "sent_ids": [
+    "20e4783cee95"
+   ]
+  },
+  {
+   "text": "Fossils from North China's Changcheng Group show eukaryotes were already diverse.",
+   "sent_ids": [
+    "fa74813a64e7"
+   ]
+  },
+  {
+   "text": "Natural nuclear fission reactors ran at Oklo, Gabon, about 1.7 Ga.",
+   "sent_ids": [
+    "6c1521cd5fd0"
+   ]
+  }
+ ],
+ "mesoproterozoic-era": [
+  {
+   "text": "The Mesoproterozoic Era ran from 1,600 to 1,000 Ma and is divided into the Calymmian, Ectasian and Stenian periods.",
+   "sent_ids": [
+    "a3439ce2d782",
+    "f377dc211212"
+   ]
+  },
+  {
+   "text": "The supercontinent Columbia broke up between 1500 and 1350 Ma; its fragments regathered as Rodinia around 1100–900 Ma.",
+   "sent_ids": [
+    "bae75b1e499f"
+   ]
+  },
+  {
+   "text": "Life in this era was once thought purely microbial, but multicellular organisms did exist.",
+   "sent_ids": [
+    "7649e5bb2180"
+   ]
+  },
+  {
+   "text": "Equatorial temperatures may have been 22–27 °C and the global average about 19 °C, some 4 °C warmer than today.",
+   "sent_ids": [
+    "2f914e14d333"
+   ]
+  },
+  {
+   "text": "Ocean water was about 27 °C, while atmospheric oxygen may have stayed below 0.1–1% of modern levels.",
+   "sent_ids": [
+    "2ee8ba34562a",
+    "8aa95027790a"
+   ]
+  },
+  {
+   "text": "Old cratons such as the Yilgarn and the Baltic Shield had already been worn down into flattish, subdued terrain.",
+   "sent_ids": [
+    "3e403fbb36f1"
+   ]
+  }
+ ],
+ "calymmian-period": [
+  {
+   "text": "The Calymmian, first period of the Mesoproterozoic, lasted from 1600 to 1400 Ma; its name means 'cover'.",
+   "sent_ids": [
+    "39955896abfb"
+   ]
+  },
+  {
+   "text": "Sedimentary platform covers spread and expanded over the continents.",
+   "sent_ids": [
+    "126378923b1b",
+    "9de6b15c0359"
+   ]
+  },
+  {
+   "text": "Oxygen rose transiently to about 4% of present levels at times between 1.59 and 1.36 Ga.",
+   "sent_ids": [
+    "6cc2221f8bcc"
+   ]
+  },
+  {
+   "text": "Some of the first algae, such as Tuanshanzia, and possible fungi lived in North China seas about 1,589 Ma.",
+   "sent_ids": [
+    "0665b89c27e0"
+   ]
+  },
+  {
+   "text": "The exceptionally preserved microbes of the Volyn biota date to about 1500 Ma.",
+   "sent_ids": [
+    "b5a99374dcd9"
+   ]
+  }
+ ],
+ "ectasian-period": [
+  {
+   "text": "The Ectasian, meaning 'extension', ran from 1400 to 1200 Ma, the second Mesoproterozoic period.",
+   "sent_ids": [
+    "edaa9e079387"
+   ]
+  },
+  {
+   "text": "A day lasted about 17 hours 32 minutes early in the period and 18 hours 28 minutes by its end.",
+   "sent_ids": [
+    "d8104e9e2f15",
+    "1ec836249e4f"
+   ]
+  },
+  {
+   "text": "The seafloor was about 50–80% oxidized at the start, a share that declined afterwards.",
+   "sent_ids": [
+    "19584f073218"
+   ]
+  },
+  {
+   "text": "Columbia stayed intact until at least 1.35 Ga, then fully broke apart around 1.3–1.2 Ga amid dyke swarms.",
+   "sent_ids": [
+    "75bc4738f64a",
+    "758f796b2605"
+   ]
+  },
+  {
+   "text": "Rodinia began to assemble in the Ectasian.",
+   "sent_ids": [
+    "2138bfd8f4d3"
+   ]
+  },
+  {
+   "text": "Acritarchs continued to appear, alongside a moderate number of other eukaryotes.",
+   "sent_ids": [
+    "6acabeeaf189"
+   ]
+  },
+  {
+   "text": "Stromatolite colonies and reefs dominated the tidal zones of oceans and seas.",
+   "sent_ids": [
+    "4acf72b06e19"
+   ]
+  }
+ ],
+ "stenian-period": [
+  {
+   "text": "The Stenian, last Mesoproterozoic period, ran from 1200 to 1000 Ma; 'narrow' refers to the narrow metamorphic belts left by many orogenies.",
+   "sent_ids": [
+    "abcd3a74bd13",
+    "e7cb10422f74"
+   ]
+  },
+  {
+   "text": "Rodinia finished assembling during the Stenian.",
+   "sent_ids": [
+    "2138bfd8f4d3"
+   ]
+  },
+  {
+   "text": "Most of the Grenville orogeny took place in this period.",
+   "sent_ids": [
+    "7d18a7974c74"
+   ]
+  },
+  {
+   "text": "Oxygen was still low, about 0.5–5% of present atmospheric levels.",
+   "sent_ids": [
+    "9a4b79f1904d"
+   ]
+  },
+  {
+   "text": "The Keweenawan Rift, the deepest failed rift on Earth, formed around 1100 Ma.",
+   "sent_ids": [
+    "ee8e919eff24"
+   ]
+  },
+  {
+   "text": "The red alga Bangiomorpha, the oldest known sexually reproducing organism, appeared around 1.047 Ga.",
+   "sent_ids": [
+    "1ebeef71cb89"
+   ]
+  },
+  {
+   "text": "Stromatolites peaked and then declined swiftly around 1 Ga, while eukaryotes came to dominate non-marine habitats.",
+   "sent_ids": [
+    "6a5f6e138277",
+    "f1d05890ac81"
+   ]
+  }
+ ],
+ "neoproterozoic-era": [
+  {
+   "text": "The Neoproterozoic, last era of the Proterozoic, spans 1000 to 538.8 Ma and holds the Tonian, Cryogenian and Ediacaran periods.",
+   "sent_ids": [
+    "dc6d8aca9fc7",
+    "53913bdb4743"
+   ]
+  },
+  {
+   "text": "At its start the supercontinent Rodinia, holding most of Earth's land, straddled the equator.",
+   "sent_ids": [
+    "78469c82b29a",
+    "f26601f95a9d"
+   ]
+  },
+  {
+   "text": "A second surge of oxygen, the Neoproterozoic Oxygenation Event, drove rapid evolution of multicellular life late in the era.",
+   "sent_ids": [
+    "c3d6f80ee33e"
+   ]
+  },
+  {
+   "text": "Marine algae proliferated widely, feeding the seafloor and spurring the evolution of microbial eukaryotic predators.",
+   "sent_ids": [
+    "0c4a89ecce00"
+   ]
+  },
+  {
+   "text": "Complex life appears: the primitive sponge Otavia in the Tonian, then the Ediacaran biota with the oldest definite cnidarians and bilaterians.",
+   "sent_ids": [
+    "26ba90942df2"
+   ]
+  }
+ ],
+ "tonian-period": [
+  {
+   "text": "The Tonian ran from 1000 to about 720 Ma; its name, 'stretch', recalls continental crust stretching as Rodinia broke up.",
+   "sent_ids": [
+    "1fcdebbb802a",
+    "bd0c1604a616"
+   ]
+  },
+  {
+   "text": "Rodinia and the Mirovian superocean stayed stable through the early Tonian; Rodinia reached its greatest extent around 900 Ma.",
+   "sent_ids": [
+    "c782fff09737",
+    "c3b7a34bee7f"
+   ]
+  },
+  {
+   "text": "Atmospheric oxygen rose to over 13% of present levels between 900 and 815 Ma.",
+   "sent_ids": [
+    "e9f404874c0a"
+   ]
+  },
+  {
+   "text": "Carbon isotope values climbed from Mesoproterozoic levels to high values late in the period, with deep excursions after 740 Ma.",
+   "sent_ids": [
+    "03a460d7cb63",
+    "51af4613175c"
+   ]
+  },
+  {
+   "text": "Acritarchs underwent their first large evolutionary radiation.",
+   "sent_ids": [
+    "0491b54e610b"
+   ]
+  },
+  {
+   "text": "Early multicellular organisms may have diversified in deep-ocean oxygen oases, but widespread anoxia kept eukaryotic diversity low.",
+   "sent_ids": [
+    "f7eb043cce30",
+    "93a2a3c070df"
+   ]
+  },
+  {
+   "text": "Molecular studies place the base of the animal family tree in the Tonian.",
+   "sent_ids": [
+    "27efbb9c3dad"
+   ]
+  }
+ ],
+ "cryogenian-period": [
+  {
+   "text": "The Cryogenian, from 720 to 635 Ma, was a time of drastic climate change; its name means 'cold-making'.",
+   "sent_ids": [
+    "bcf6f6415605",
+    "6f7c18435d13",
+    "4823b21221a9"
+   ]
+  },
+  {
+   "text": "Rodinia was rifting apart, and the proto-Pacific Panthalassa grew by subduction as the superocean Mirovia closed.",
+   "sent_ids": [
+    "77fcf7581fec",
+    "9054bf83b212",
+    "4638d777425d"
+   ]
+  },
+  {
+   "text": "The continents all sat at tropical latitudes, so rock weathering kept drawing down carbon dioxide even as Earth cooled.",
+   "sent_ids": [
+    "c0b5130e3171",
+    "0ce13259b86a"
+   ]
+  },
+  {
+   "text": "Two worldwide glaciations, the Sturtian and Marinoan, were the most severe ice ages in Earth's history, with glaciers reaching sea level near the equator.",
+   "sent_ids": [
+    "c926b0532afd",
+    "457c221620ce",
+    "fb21e161257a"
+   ]
+  },
+  {
+   "text": "Average surface temperature was about 5 °C, with carbon dioxide near 1300 ppm and oxygen about 12% of the air.",
+   "sent_ids": [
+    "d3e7d6588259",
+    "5e310403966f",
+    "cec5809691cd"
+   ]
+  },
+  {
+   "text": "Between the glaciations came a warmer interval with anoxic oceans and rising seas.",
+   "sent_ids": [
+    "933da3586aa9"
+   ]
+  },
+  {
+   "text": "Global biodiversity was very low, though testate amoebae appeared and single-celled algae multiplied a hundred- to thousand-fold.",
+   "sent_ids": [
+    "080006f38235",
+    "c0821f86eb68",
+    "8630d615c436"
+   ]
+  },
+  {
+   "text": "Some researchers argue the oldest sponge fossils, and so the first animals, date from this period.",
+   "sent_ids": [
+    "a669274f713d"
+   ]
+  }
+ ],
+ "ediacaran-period": [
+  {
+   "text": "The Ediacaran, from 635 to 538.8 Ma, is the last period of the Proterozoic, named after South Australia's Ediacara Hills.",
+   "sent_ids": [
+    "a478d072d9be",
+    "862aa90e4079",
+    "a980c8afe7cd"
+   ]
+  },
+  {
+   "text": "As Rodinia broke up, Gondwana began assembling through the Pan-African, East African and Kuungan orogenies.",
+   "sent_ids": [
+    "8a9a071bda02"
+   ]
+  },
+  {
+   "text": "By the end of the Proterozoic most continental mass lay united around the south pole.",
+   "sent_ids": [
+    "427d68c4d350"
+   ]
+  },
+  {
+   "text": "It opened as the Cryogenian snowball ended and saw the first widespread complex multicellular life.",
+   "sent_ids": [
+    "013446239f26"
+   ]
+  },
+  {
+   "text": "Oxygen rose, though the deep ocean stayed anoxic until about 580 Ma and anoxic episodes recurred.",
+   "sent_ids": [
+    "57d6d7bd4f96",
+    "04f0816edeec",
+    "30771aeb457c"
+   ]
+  },
+  {
+   "text": "Microbial mats carpeted the sea floor, and Ediacaran fossils are almost always found in mat-bearing beds.",
+   "sent_ids": [
+    "97b8600ddad1",
+    "9ca06026683e"
+   ]
+  },
+  {
+   "text": "The Ediacaran biota resembled segmented worms, fronds, discs or immobile bags; hard-shelled animals appeared only at the very end.",
+   "sent_ids": [
+    "96f593892af7",
+    "436c2a596ec1"
+   ]
+  },
+  {
+   "text": "Seas favoured aragonite and high-magnesium carbonate, and phosphorus levels were well below those of later oceans.",
+   "sent_ids": [
+    "c47ea1a9d43e",
+    "3f8606f20c72"
+   ]
+  }
+ ],
+ "cambrian-period": [
+  {
+   "text": "The Cambrian lasted 51.95 million years, from 538.8 to 486.85 Ma, and is the first period of the Paleozoic.",
+   "sent_ids": [
+    "da4798bdcfd2"
+   ]
+  },
+  {
+   "text": "As Gondwana rotated anticlockwise, the south pole moved from off western South America to northwest Africa by the mid-Cambrian.",
+   "sent_ids": [
+    "51a5e9261752"
+   ]
+  },
+  {
+   "text": "Laurentia straddled the equator, bordered by the Panthalassa, Iapetus and Khanty oceans; wide oceans separated all the major continents.",
+   "sent_ids": [
+    "6eca294b12e2",
+    "1c6506e978b9"
+   ]
+  },
+  {
+   "text": "The climate was warm and mild, with most continental crust near the equator; models give global averages of about 20–25 °C.",
+   "sent_ids": [
+    "30203fa2b791",
+    "4b697dd3a2a6"
+   ]
+  },
+  {
+   "text": "Sea level rose gradually through the period, flooding continental interiors with shallow seas.",
+   "sent_ids": [
+    "525e7afc7359",
+    "6e53f66550e2"
+   ]
+  },
+  {
+   "text": "Ocean chemistry swung often: at least ten carbon isotope excursions are recognised, more than later in the Phanerozoic.",
+   "sent_ids": [
+    "ce343eec7e90"
+   ]
+  },
+  {
+   "text": "Land had no plants; microbial mats and biofilms covered tidal flats and beaches and helped form early soils.",
+   "sent_ids": [
+    "f6d4e7577bb0",
+    "39390f631a7a"
+   ]
+  },
+  {
+   "text": "Life was in the sea, and unusual preservation makes Cambrian soft-tissue Lagerstätten unusually abundant.",
+   "sent_ids": [
+    "3db58e7fe4dd",
+    "2b6d7009a9bc"
+   ]
+  }
+ ],
+ "terreneuvian-epoch": [
+  {
+   "text": "The Terreneuvian, the first Cambrian epoch, ran from 538.8 to about 521 Ma and holds the Fortunian and the unnamed Stage 2.",
+   "sent_ids": [
+    "19a6aa5105e0",
+    "32e7eabedd4c"
+   ]
+  },
+  {
+   "text": "Its base is the first Treptichnus pedum burrow; its top is the first appearance of trilobites.",
+   "sent_ids": [
+    "96a848872bb8",
+    "94d1ff14493e"
+   ]
+  },
+  {
+   "text": "It is the only Cambrian series with no trilobite fossils.",
+   "sent_ids": [
+    "87ad47ef5448"
+   ]
+  },
+  {
+   "text": "Global average temperatures were about 20–22 °C, cooler than the rest of the Cambrian.",
+   "sent_ids": [
+    "4b697dd3a2a6"
+   ]
+  },
+  {
+   "text": "The second phase of the Cambrian explosion played out, yet deuterostomes were absent apart from the possible Yanjiahella.",
+   "sent_ids": [
+    "a04500e2196b",
+    "f101701b2d51"
+   ]
+  },
+  {
+   "text": "Avalonia, Ganderia and other peri-Gondwanan terranes lay in polar regions, while North China sat at equatorial to tropical latitudes.",
+   "sent_ids": [
+    "2d1fcbd07201",
+    "11592246f2c8"
+   ]
+  }
+ ],
+ "cambrian-series-2-epoch": [
+  {
+   "text": "Series 2 lasted from about 521 to 506.5 Ma and is split into the unnamed Stages 3 and 4.",
+   "sent_ids": [
+    "fca8350946e6",
+    "3c35d5662de3"
+   ]
+  },
+  {
+   "text": "Its base has no GSSP yet; it is expected to be the first appearance of trilobites in Gondwana.",
+   "sent_ids": [
+    "45a9e031f240"
+   ]
+  },
+  {
+   "text": "Animals diversified rapidly, but trilobites and archaeocyaths were regionally restricted, making global correlation hard.",
+   "sent_ids": [
+    "3b5b2c3ab29c"
+   ]
+  },
+  {
+   "text": "About 514 Ma, Laurentia lay on the equator, Siberia just south of it, and Gondwana mostly in the Southern Hemisphere.",
+   "sent_ids": [
+    "b24eab82627e"
+   ]
+  },
+  {
+   "text": "Archaeocyath reefs diversified rapidly in Stage 3, then declined sharply in Stage 4.",
+   "sent_ids": [
+    "dfbea6156e51"
+   ]
+  },
+  {
+   "text": "Nektaspid arthropods were most diverse in this epoch.",
+   "sent_ids": [
+    "b703cfe982da"
+   ]
+  }
+ ],
+ "miaolingian-epoch": [
+  {
+   "text": "The Miaolingian, roughly the old middle Cambrian, lasted from about 506.5 to 497 Ma and holds the Wuliuan, Drumian and Guzhangian.",
+   "sent_ids": [
+    "324949522a9e",
+    "83b730ce8da3"
+   ]
+  },
+  {
+   "text": "Laurentia drifted south and rotated about 20° anticlockwise, before drifting north again in the late Cambrian.",
+   "sent_ids": [
+    "f2e97e5387a5"
+   ]
+  },
+  {
+   "text": "Mountain building on Gondwana's Australian–Antarctic margin increased weathering and nutrient supply, raising ocean productivity.",
+   "sent_ids": [
+    "2e45b87975ee"
+   ]
+  },
+  {
+   "text": "Peri-Gondwanan terranes such as Avalonia had moved to high-to-mid southern latitudes.",
+   "sent_ids": [
+    "2d1fcbd07201"
+   ]
+  },
+  {
+   "text": "Most modern mollusc groups, including gastropods, bivalves, cephalopods and monoplacophorans, were present.",
+   "sent_ids": [
+    "9dce73b1a238"
+   ]
+  },
+  {
+   "text": "Benthic graptolites became widespread on the sea floor.",
+   "sent_ids": [
+    "9e369601de2e"
+   ]
+  },
+  {
+   "text": "Paradoxides, large to very large trilobites, lived worldwide.",
+   "sent_ids": [
+    "3b1e79e4dda8"
+   ]
+  }
+ ],
+ "furongian-epoch": [
+  {
+   "text": "The Furongian, the last Cambrian epoch, ran from about 497 to 486.85 Ma, with the Paibian, Jiangshanian and unnamed Stage 10.",
+   "sent_ids": [
+    "2997562f2df0",
+    "0aaa46847807"
+   ]
+  },
+  {
+   "text": "Gondwana stretched from the south pole in northwest Africa to subtropical latitudes, with East Antarctica near the equator.",
+   "sent_ids": [
+    "b87f9e1d7cdd"
+   ]
+  },
+  {
+   "text": "Trilobite provinces show only a moderate pole-to-equator temperature gradient.",
+   "sent_ids": [
+    "073ce496f61b"
+   ]
+  },
+  {
+   "text": "Sea level fluctuated with ice-cap melt from the late Cambrian through the Ordovician.",
+   "sent_ids": [
+    "95d7681c2787"
+   ]
+  },
+  {
+   "text": "Subduction began along Gondwana's proto-Andean margin and on northern North China, where the Bainaimiao arc developed.",
+   "sent_ids": [
+    "1bd2dcd5db85",
+    "fbdb993ea642"
+   ]
+  },
+  {
+   "text": "Trilobites reached their greatest diversity and dominated nearly all fossil assemblages; green algae were common.",
+   "sent_ids": [
+    "2c1e235abd2c",
+    "4828bbf8d01d"
+   ]
+  },
+  {
+   "text": "Seawater 87Sr/86Sr fell sharply late in the epoch as Gondwana's mountains were worn down and weathering slowed.",
+   "sent_ids": [
+    "b0e25b3537fb"
+   ]
+  }
+ ],
+ "ordovician-period": [
+  {
+   "text": "Gondwana, holding the southern continents, stretched from north of the equator to the South Pole.",
+   "sent_ids": [
+    "73e763f3cf93",
+    "beb93e32dd48"
+   ]
+  },
+  {
+   "text": "Laurentia, Siberia and Baltica were separate continents, and the Panthalassic Ocean covered much of the Northern Hemisphere.",
+   "sent_ids": [
+    "510f339fbac2",
+    "346a11b9dbc6"
+   ]
+  },
+  {
+   "text": "Most continents lay near the equator, and very high sea levels spread shallow seas across North America, Europe and Gondwana.",
+   "sent_ids": [
+    "4d7b426a6704",
+    "b419ddf46631"
+   ]
+  },
+  {
+   "text": "Sea level stood about 180 m above today's, rising to 220 m before falling sharply in the end-Ordovician glaciations.",
+   "sent_ids": [
+    "39a69c9ba8d4"
+   ]
+  },
+  {
+   "text": "The climate moved from an early greenhouse to icehouse conditions in the Hirnantian, and atmospheric oxygen rose.",
+   "sent_ids": [
+    "4d7b426a6704"
+   ]
+  },
+  {
+   "text": "The Sun was fainter: 450 million years ago Earth received about 1,312 W per square metre, against about 1,361 today.",
+   "sent_ids": [
+    "d92f1c4dc765"
+   ]
+  },
+  {
+   "text": "Life was dominated by marine animals: trilobites, brachiopods, nautiloids, graptolites, corals and echinoderms filled the seas.",
+   "sent_ids": [
+    "a989453689ce",
+    "4d7b426a6704"
+   ]
+  },
+  {
+   "text": "Green algae were common, and the first land plants were simple forms similar to mosses and liverworts.",
+   "sent_ids": [
+    "4828bbf8d01d",
+    "6ad806e95e61"
+   ]
+  }
+ ],
+ "early-ordovician-epoch": [
+  {
+   "text": "The Iapetus Ocean between Gondwana, Laurentia and Baltica was over 4,000 km wide.",
+   "sent_ids": [
+    "fbb96cbf0e8a"
+   ]
+  },
+  {
+   "text": "The South Pole lay in what is now northern Africa, and Baltica sat near Gondwana in southern latitudes.",
+   "sent_ids": [
+    "f55c85a93213",
+    "ae763b22176a"
+   ]
+  },
+  {
+   "text": "Laurentia lay in the southern tropics; today's central Nevada and western Utah were under the sea.",
+   "sent_ids": [
+    "7f2ed65c6db1"
+   ]
+  },
+  {
+   "text": "The climate was a hot greenhouse, with sea surface temperatures like those of the Early Eocene, and very high CO2.",
+   "sent_ids": [
+    "822420f089c6",
+    "3c830f3fd53d"
+   ]
+  },
+  {
+   "text": "Sea level rose more or less continuously, flooding continental shelves.",
+   "sent_ids": [
+    "37879dcfec8f"
+   ]
+  },
+  {
+   "text": "Trilobites shared the seas with new corals, brachiopods, bryozoans, planktonic graptolites, conodonts and the first true starfish.",
+   "sent_ids": [
+    "bdcb736208e0"
+   ]
+  }
+ ],
+ "middle-ordovician-epoch": [
+  {
+   "text": "The climate cooled to a more temperate state; by the epoch's end low-latitude seas matched today's equatorial temperatures.",
+   "sent_ids": [
+    "d2bea8ea5650",
+    "6a91e6697b6e"
+   ]
+  },
+  {
+   "text": "Trilobite-dominated shelves gave way to mixed communities of brachiopods, bryozoans, molluscs and echinoderms.",
+   "sent_ids": [
+    "8af963d1001b"
+   ]
+  },
+  {
+   "text": "Marine animals dispersed widely across narrowing oceans such as the Iapetus.",
+   "sent_ids": [
+    "d1d8b5bed2df"
+   ]
+  },
+  {
+   "text": "Acritarchs, mostly marine algae, peaked in diversity.",
+   "sent_ids": [
+    "43c4696e98c8"
+   ]
+  },
+  {
+   "text": "Labechiid stromatoporoids spread worldwide, building reefs from South China to eastern North America.",
+   "sent_ids": [
+    "785a0e69b22c",
+    "7d4660bd155b"
+   ]
+  },
+  {
+   "text": "Baltica already had a diverse flora of early land plants by the Darriwilian.",
+   "sent_ids": [
+    "b5a455e9250b"
+   ]
+  },
+  {
+   "text": "After an asteroid broke up in space, meteorites fell on Earth far more often than today.",
+   "sent_ids": [
+    "b8d5fa2fcdaf",
+    "9770bbf8a362"
+   ]
+  }
+ ],
+ "late-ordovician-epoch": [
+  {
+   "text": "Gondwana lay over the South Pole, and the centre of glaciation sat in what is now the Sahara.",
+   "sent_ids": [
+    "b09822e6c910",
+    "2c4213ed9ac3"
+   ]
+  },
+  {
+   "text": "Tropical oceans were about 5 °C cooler than today.",
+   "sent_ids": [
+    "a7dcc8d54f08"
+   ]
+  },
+  {
+   "text": "Avalonia slowed as it neared Baltica and collided with it; brachiopods and trilobites could now spread between converging continents.",
+   "sent_ids": [
+    "abcccae92e23",
+    "74008998a546",
+    "7eac45da491a"
+   ]
+  },
+  {
+   "text": "Sea level kept rising at the start of the epoch, then fell for about 3 million years before the Hirnantian glaciation.",
+   "sent_ids": [
+    "a5283245e860",
+    "38810ab45bc5"
+   ]
+  },
+  {
+   "text": "The Kazakh terranes formed an archipelago of island arcs and microcontinents on the Equator, and the Proto-Tethys Ocean reached its widest.",
+   "sent_ids": [
+    "6dd1524757dd",
+    "24074c42f7fe"
+   ]
+  },
+  {
+   "text": "Armoured jawless fish such as Arandaspis swam the seas, and the first jawed vertebrates may have appeared.",
+   "sent_ids": [
+    "4f6d70d4c3a0"
+   ]
+  },
+  {
+   "text": "Planktonic graptolites thrived, and volcanic ash beds are common in rocks of this age.",
+   "sent_ids": [
+    "7a62b1191131",
+    "ca43a1633517"
+   ]
+  }
+ ],
+ "silurian-period": [
+  {
+   "text": "Gondwana covered the equator and much of the southern hemisphere, while the vast Panthalassa Ocean filled most of the northern hemisphere.",
+   "sent_ids": [
+    "e16d18f40c99",
+    "e88598614fd9"
+   ]
+  },
+  {
+   "text": "Gondwana kept drifting slowly toward high southern latitudes; the South Pole moved from northern Africa to west of southern Chile.",
+   "sent_ids": [
+    "fa340f6d4a89",
+    "f55c85a93213"
+   ]
+  },
+  {
+   "text": "Smaller oceans included the Proto- and Paleo-Tethys, the Rheic, the narrowing Iapetus and the newly formed Ural Ocean.",
+   "sent_ids": [
+    "f1d99d5a1e55"
+   ]
+  },
+  {
+   "text": "Earth was in a warm greenhouse state, with CO2 around 4,500 ppm and warm shallow seas over much of the equatorial land.",
+   "sent_ids": [
+    "760d4d07b5cc"
+   ]
+  },
+  {
+   "text": "High seas over flat land made many island chains; sea level rose through the first half of the period and fell through the second.",
+   "sent_ids": [
+    "6c426af0f2f1",
+    "68688b16cd48"
+   ]
+  },
+  {
+   "text": "Far from stable, the climate swung often: the Silurian has more isotope excursions than any other period.",
+   "sent_ids": [
+    "e329e51a1ce5",
+    "6163d6c94799"
+   ]
+  },
+  {
+   "text": "Warm seas fed violent storms that left beds of broken shells.",
+   "sent_ids": [
+    "de918a920588"
+   ]
+  },
+  {
+   "text": "Life was still mainly marine, though land life was more prominent than ever; the period was partly a long recovery from the end-Ordovician extinction.",
+   "sent_ids": [
+    "5d02b4a8879d",
+    "768e4945bcde"
+   ]
+  }
+ ],
+ "llandovery-epoch": [
+  {
+   "text": "The Llandovery, or Early Silurian, ran from 443.1 to 432.9 million years ago.",
+   "sent_ids": [
+    "87450ff43779"
+   ]
+  },
+  {
+   "text": "It opened just after the Ordovician–Silurian extinctions, which had sharply cut biodiversity and opened up ecosystems.",
+   "sent_ids": [
+    "478b4e2b6717"
+   ]
+  },
+  {
+   "text": "Melting ice raised sea level, and after the glacial end of the Ordovician the Rhuddanian climate was much warmer.",
+   "sent_ids": [
+    "3092d5b23b24",
+    "6e4d12d507de"
+   ]
+  },
+  {
+   "text": "Glaciers retreated toward the South Pole early in the Silurian.",
+   "sent_ids": [
+    "5bc9053e2047"
+   ]
+  },
+  {
+   "text": "Faunas became some of the most cosmopolitan of the Phanerozoic, a pattern that lasted through most of the Silurian.",
+   "sent_ids": [
+    "ca11167415d1"
+   ]
+  },
+  {
+   "text": "Widespread reef building began; tentaculitoids radiated in Baltoscandia and camerate crinoids diversified.",
+   "sent_ids": [
+    "4da2fb65245f",
+    "6ec8c7e710fa",
+    "1ad903c0015d"
+   ]
+  },
+  {
+   "text": "Black graptolite shales show oxygen-poor seafloors lasting into the earliest Rhuddanian.",
+   "sent_ids": [
+    "b867334d076b"
+   ]
+  },
+  {
+   "text": "The epoch ended with the Ireviken event, which killed half of trilobite species and 80% of conodont species.",
+   "sent_ids": [
+    "2aa5905b9e7d"
+   ]
+  }
+ ],
+ "wenlock-epoch": [
+  {
+   "text": "Radiometric dates place the Wenlock between 432.9 and 426.7 million years ago; it has two stages, the Sheinwoodian and the Homerian.",
+   "sent_ids": [
+    "cca359168587",
+    "7ddc03c1005e",
+    "cfc36bb6c423"
+   ]
+  },
+  {
+   "text": "The oldest known vascular plants, Cooksonia, appear in the Wenlock.",
+   "sent_ids": [
+    "e1b2f3db2042",
+    "8856b8c092cf"
+   ]
+  },
+  {
+   "text": "Air-breathing millipedes from Scotland have been placed in the Wenlock, though their age is disputed.",
+   "sent_ids": [
+    "e1b2f3db2042",
+    "b074878fbf1e"
+   ]
+  },
+  {
+   "text": "Laurentia stopped being an independent continent in the middle Silurian as Baltica closed in.",
+   "sent_ids": [
+    "41d91bfee823",
+    "9deb48624349"
+   ]
+  },
+  {
+   "text": "Glaciers had almost vanished by mid-Silurian, yet glacial phases still came from the late Telychian to mid-Sheinwoodian and through the Homerian.",
+   "sent_ids": [
+    "5bc9053e2047",
+    "2c9d70544c8a",
+    "a92da911219a"
+   ]
+  },
+  {
+   "text": "Wenlock limestones of Britain are rich in brachiopods, corals and trilobites such as Calymene.",
+   "sent_ids": [
+    "ac36f5c86a15",
+    "1beb2894a839"
+   ]
+  },
+  {
+   "text": "Eugaleaspid jawless fish diversified, and osteostracans appear, probably in central Euramerica.",
+   "sent_ids": [
+    "6447f4406a4c",
+    "9802f3da0143"
+   ]
+  }
+ ],
+ "ludlow-epoch": [
+  {
+   "text": "The Ludlow, or Mid–Late Silurian, ran from 426.7 to 422.7 million years ago, after the Homerian.",
+   "sent_ids": [
+    "b4e1023bbd9c"
+   ]
+  },
+  {
+   "text": "The Aymestry Limestone formed in a warm shallow sea near the eastern edge of the Iapetus Ocean.",
+   "sent_ids": [
+    "c912e18ac15b"
+   ]
+  },
+  {
+   "text": "Scotland–Greenland met Norway around 425 Ma, closing the Iapetus in the Scandian orogeny.",
+   "sent_ids": [
+    "c7d1150e9c71"
+   ]
+  },
+  {
+   "text": "The Ludfordian brought the last major glaciation of the Early Palaeozoic Ice Age and a large fall in sea level.",
+   "sent_ids": [
+    "a159d436601a",
+    "8efa2e2f5050"
+   ]
+  },
+  {
+   "text": "Lycophytes and zosterophylls joined Cooksonia on land.",
+   "sent_ids": [
+    "b56c1975df47",
+    "545bc1fe8180",
+    "455276cba7ab"
+   ]
+  },
+  {
+   "text": "Millipedes lived at Kerrera, Scotland, about 425 Ma.",
+   "sent_ids": [
+    "d67b17206e6b",
+    "7c5cdd519c65"
+   ]
+  },
+  {
+   "text": "Acanthodians rose in diversity in the Late Silurian, and placoderms such as Silurolepis lived in what is now Yunnan.",
+   "sent_ids": [
+    "1686636b425f",
+    "7f31c25763cd"
+   ]
+  }
+ ],
+ "pridoli-epoch": [
+  {
+   "text": "The Přídolí, the last Silurian epoch, lasted from 422.7 to 419.62 million years ago and was followed by the Lochkovian, first age of the Devonian.",
+   "sent_ids": [
+    "01200cd185af",
+    "04bf6ba3a6b8"
+   ]
+  },
+  {
+   "text": "It is named after a locality near Slivenec, a suburb of Prague.",
+   "sent_ids": [
+    "73cc9728a7ba"
+   ]
+  },
+  {
+   "text": "The late Silurian climate was warm and arid, and evaporites filled shallow basins from Michigan to West Virginia.",
+   "sent_ids": [
+    "8fe963fdd1fc",
+    "5c46ddf67004"
+   ]
+  },
+  {
+   "text": "Warming in the Pridoli ended the Andean-Saharan glaciation and let land plants spread further.",
+   "sent_ids": [
+    "087866679914"
+   ]
+  },
+  {
+   "text": "Eurypterids reached their peak diversity.",
+   "sent_ids": [
+    "d2b5ef475f65"
+   ]
+  },
+  {
+   "text": "Oxygen rose high enough for the first wildfires, which left the oldest charcoal.",
+   "sent_ids": [
+    "da4590e94c06"
+   ]
+  },
+  {
+   "text": "Trilobite diversity dropped sharply and stromatoporoid sponges suffered a second round of extinction.",
+   "sent_ids": [
+    "4030602b901d",
+    "e4f02c76d2b4"
+   ]
+  },
+  {
+   "text": "Scyphocrinoid loboliths appeared suddenly in the terminal Silurian and vanished just as abruptly.",
+   "sent_ids": [
+    "60764afddb44"
+   ]
+  }
+ ],
+ "devonian-period": [
+  {
+   "text": "The Devonian spans 419.62 to 358.86 Ma, about 60.7 million years, from the end of the Silurian to the start of the Carboniferous.",
+   "sent_ids": [
+    "5bc02c484e28"
+   ]
+  },
+  {
+   "text": "Laurussia (Euramerica) lay mostly south of the equator and drifted north, while Gondwana covered much of the Southern Hemisphere.",
+   "sent_ids": [
+    "cc1d47d8b6eb",
+    "0f0043cacca3"
+   ]
+  },
+  {
+   "text": "The South Pole lay within Gondwana, moving back to central Africa during the Devonian.",
+   "sent_ids": [
+    "f55c85a93213"
+   ]
+  },
+  {
+   "text": "The Rheic Ocean, wide at the start, separated Laurussia from Gondwana; Siberia began the period upside down relative to today.",
+   "sent_ids": [
+    "7c673bb86346",
+    "cef1e97c6277"
+   ]
+  },
+  {
+   "text": "Sea levels were generally high and fell gradually through the period.",
+   "sent_ids": [
+    "7c026b71c81a",
+    "3e51609a6309"
+   ]
+  },
+  {
+   "text": "It was a relatively warm period, probably without glaciers for most of it, though climate varied greatly between epochs and regions.",
+   "sent_ids": [
+    "60b58d1b01a2",
+    "003e213136b6"
+   ]
+  },
+  {
+   "text": "Trilobites, brachiopods and great reefs were still common, and fishes diversified so much that it is called the 'Age of Fishes'.",
+   "sent_ids": [
+    "eef3eb3390b0",
+    "33f24c1abf1c"
+   ]
+  },
+  {
+   "text": "Silurian moss forests and microbial mats were joined by rooted plants, and by the period's end by trees up to 30 m tall.",
+   "sent_ids": [
+    "ec3a1855814c",
+    "6a528e975229"
+   ]
+  }
+ ],
+ "early-devonian-epoch": [
+  {
+   "text": "The Early Devonian lasted from 419.62 to 393.47 Ma and comprises the Lochkovian, Pragian and Emsian stages.",
+   "sent_ids": [
+    "270a8afca45a",
+    "2d2a711353a6"
+   ]
+  },
+  {
+   "text": "Arid conditions prevailed in Siberia, Australia, North America and China, while Africa and South America had a warm temperate climate.",
+   "sent_ids": [
+    "3a2c0d427551"
+   ]
+  },
+  {
+   "text": "Tropical sea surfaces averaged about 30 °C, judging from conodont apatite.",
+   "sent_ids": [
+    "b6a3a582f1dc"
+   ]
+  },
+  {
+   "text": "Atmospheric oxygen was relatively low, possibly about half of modern values.",
+   "sent_ids": [
+    "199e10477167"
+   ]
+  },
+  {
+   "text": "Low sea levels split Laurussia's seafloor fauna into separate provinces.",
+   "sent_ids": [
+    "0b71f9f83bfd"
+   ]
+  },
+  {
+   "text": "Lichens such as Spongiophyton were unusually prominent on land just before forests developed.",
+   "sent_ids": [
+    "d8a7d356db22"
+   ]
+  },
+  {
+   "text": "Armoured jawless fishes, thelodonts and petalichthyid placoderms reached their peak diversity.",
+   "sent_ids": [
+    "1467030b795e",
+    "560953858e67",
+    "63fb8e3482c6"
+   ]
+  }
+ ],
+ "middle-devonian-epoch": [
+  {
+   "text": "The Middle Devonian ran from 393.47 to 382.31 Ma: the Eifelian, then from 387.95 Ma the Givetian.",
+   "sent_ids": [
+    "8aef8e64cc40",
+    "c2a62961b6c4"
+   ]
+  },
+  {
+   "text": "Laurentia lay in the Southern Hemisphere between the equator and 30°S.",
+   "sent_ids": [
+    "161100938133"
+   ]
+  },
+  {
+   "text": "New forests drew carbon from the air and buried it, perhaps cooling the climate by around 5 °C.",
+   "sent_ids": [
+    "7fa84b7e47ac",
+    "4a3bef59c485"
+   ]
+  },
+  {
+   "text": "Shrub-like forests of lycophytes, horsetails, ferns and progymnosperms spread, and the earliest trees appeared.",
+   "sent_ids": [
+    "1e27559f1378",
+    "ecb8d57270a6"
+   ]
+  },
+  {
+   "text": "Armoured jawless fishes declined while jawed fishes thrived in both oceans and fresh water.",
+   "sent_ids": [
+    "1ae6a698a777"
+   ]
+  },
+  {
+   "text": "Stromatoporoid reef sponges reached their greatest diversity in the Eifelian.",
+   "sent_ids": [
+    "fc681002d074"
+   ]
+  },
+  {
+   "text": "Shallow, warm, oxygen-poor inland lakes ringed by early plants favoured fishes with lungs that could crawl briefly onto land.",
+   "sent_ids": [
+    "bebd8745f9fa"
+   ]
+  }
+ ],
+ "late-devonian-epoch": [
+  {
+   "text": "The Late Devonian began with the Frasnian (382.31-372.15 Ma), when the first forests took shape, followed by the Famennian until 358.86 Ma.",
+   "sent_ids": [
+    "5a274a5ffdc6",
+    "0b8b598d8d16"
+   ]
+  },
+  {
+   "text": "Gondwana covered much of the Southern Hemisphere, and much of South America lay under shallow seas.",
+   "sent_ids": [
+    "0f0043cacca3",
+    "31813e18821b"
+   ]
+  },
+  {
+   "text": "Climate warmed back to Early Devonian levels, and temperate climates became more common than arid ones.",
+   "sent_ids": [
+    "61cfb64a8b28",
+    "dd9c5309f87e"
+   ]
+  },
+  {
+   "text": "Extensive oxidized sediments in Euramerica record severe droughts.",
+   "sent_ids": [
+    "3e956247f532"
+   ]
+  },
+  {
+   "text": "Plants and insects had colonized the land, and Archaeopteris forests spread rapidly.",
+   "sent_ids": [
+    "1a7d458f1680",
+    "a2e7e0dd8c71"
+   ]
+  },
+  {
+   "text": "Lycophytes became a dominant part of the flora.",
+   "sent_ids": [
+    "1d40b9ec5c82"
+   ]
+  },
+  {
+   "text": "Rifting and mantle plumes brought flood basalts to Siberia.",
+   "sent_ids": [
+    "c5af3ff73907"
+   ]
+  },
+  {
+   "text": "Temperatures began to drop late in the epoch, with a short-lived glaciation in the late Famennian.",
+   "sent_ids": [
+    "dee444b6b0f6"
+   ]
+  }
+ ],
+ "carboniferous-period": [
+  {
+   "text": "The Carboniferous lasted about 60 million years, from 358.86 to 298.9 Ma; its name, from the Latin for coal, marks the coal beds laid down worldwide.",
+   "sent_ids": [
+    "243b5f7232e8",
+    "d764905a4f60"
+   ]
+  },
+  {
+   "text": "Gondwana covered the south polar region with Laurussia to its northwest; the continents ringed the opening Paleo-Tethys Ocean, with vast Panthalassa beyond.",
+   "sent_ids": [
+    "f53796083886",
+    "eb5e0e84efb3",
+    "0a4bbffa4b26",
+    "9024261e9cd9"
+   ]
+  },
+  {
+   "text": "Plate motions quickened as Gondwana and Laurussia fused into the supercontinent Pangaea.",
+   "sent_ids": [
+    "c535038299d0",
+    "9aa97ddef093"
+   ]
+  },
+  {
+   "text": "The climate was dominated by the Late Paleozoic Ice Age, the longest and most extensive icehouse of the Phanerozoic.",
+   "sent_ids": [
+    "fd087e8938f9"
+   ]
+  },
+  {
+   "text": "Atmospheric oxygen rose from 15–20% at the start of the period to highs of 25–30%.",
+   "sent_ids": [
+    "64450222b444"
+   ]
+  },
+  {
+   "text": "Towering lycopsid rainforests dominated the tropical belt of Euramerica, the high point of Paleozoic land plants.",
+   "sent_ids": [
+    "f5f7011d0843"
+   ]
+  },
+  {
+   "text": "Sometimes called the Age of Amphibians, it saw temnospondyls become the dominant land vertebrates and the first amniotes appear.",
+   "sent_ids": [
+    "40d702a1bf73"
+   ]
+  },
+  {
+   "text": "Air-breathing insects, myriapods and arachnids lived on land, some at giant sizes; at sea, crinoids, sharks and ray-finned fish flourished.",
+   "sent_ids": [
+    "bb5b60a8a8a8",
+    "4c4716a47b95",
+    "cfaa1a7b7f91",
+    "e3123f0fea10"
+   ]
+  }
+ ],
+ "mississippian-subperiod": [
+  {
+   "text": "The Mississippian, the earlier of the two Carboniferous subperiods, lasted from 358.86 to 323.4 Ma.",
+   "sent_ids": [
+    "0109434085f6"
+   ]
+  },
+  {
+   "text": "A sea-level drop at the end of the Devonian reversed early on, spreading shallow epicontinental seas and widespread carbonate deposition.",
+   "sent_ids": [
+    "f74c70d9dfa6"
+   ]
+  },
+  {
+   "text": "Sea level then fell from about 120 m above today's level to present-day levels by the subperiod's end.",
+   "sent_ids": [
+    "97ac09d748ed",
+    "3e51609a6309"
+   ]
+  },
+  {
+   "text": "A seaway through the Rheic Ocean linked the Paleo-Tethys and Panthalassa, so marine animals spread almost worldwide.",
+   "sent_ids": [
+    "146f59cec082"
+   ]
+  },
+  {
+   "text": "South America lay at south polar latitudes as Gondwana's westernmost part; the South Pole sat in southern Africa.",
+   "sent_ids": [
+    "ec403b6f635c",
+    "ef6786ae93fc"
+   ]
+  },
+  {
+   "text": "The Early Tournaisian Warm Interval had a global average temperature near 22 °C, before short glaciations returned.",
+   "sent_ids": [
+    "69d0688fe5ca",
+    "a0db1d614ed0"
+   ]
+  },
+  {
+   "text": "Early forests were sparse and coal scarce, though some trees reached 40 m; shallow seas covered much of Siberia.",
+   "sent_ids": [
+    "d0b16d68eb79",
+    "6527f2436c93"
+   ]
+  },
+  {
+   "text": "Crinoids carpeted the sea floor, and sharks and ray-finned fish took over the oceans after the end-Devonian crisis.",
+   "sent_ids": [
+    "cfaa1a7b7f91",
+    "b41193c5afef",
+    "e3123f0fea10"
+   ]
+  }
+ ],
+ "pennsylvanian-subperiod": [
+  {
+   "text": "The Pennsylvanian, the later Carboniferous subperiod, lasted from 323.4 to 298.9 Ma.",
+   "sent_ids": [
+    "d0744919abc5"
+   ]
+  },
+  {
+   "text": "Laurussia straddled the Equator, covered in coal forests; peat mires filled basins beside the Central Pangean Mountains and fringed the China cratons.",
+   "sent_ids": [
+    "3a09605c0e3a",
+    "d8e211b98661"
+   ]
+  },
+  {
+   "text": "Gondwana's ice sheets waxed and waned, swinging sea level and laying cyclothems in shallow tropical seas.",
+   "sent_ids": [
+    "e86b1b5b50a6",
+    "e8a72502dc16"
+   ]
+  },
+  {
+   "text": "Rheic closure, Pangaea's formation and glaciation confined many marine animals to particular regions.",
+   "sent_ids": [
+    "51db0bac125b"
+   ]
+  },
+  {
+   "text": "Oxygen rose above 25% before falling again toward the end of the period.",
+   "sent_ids": [
+    "e8a72502dc16",
+    "4502139d300a"
+   ]
+  },
+  {
+   "text": "Lepidodendron and Sigillaria trees dominated the swamps, with horsetails and seed ferns between; conifers and cycads grew on drier ground.",
+   "sent_ids": [
+    "e8a72502dc16"
+   ]
+  },
+  {
+   "text": "Amniotes appeared and split into sauropsids and synapsids; cockroach relatives were the most successful insects.",
+   "sent_ids": [
+    "e8a72502dc16",
+    "92c81b26c08a"
+   ]
+  },
+  {
+   "text": "By the period's end the South Pole had drifted to eastern Antarctica and equatorial Pangaea was drying out.",
+   "sent_ids": [
+    "ef6786ae93fc",
+    "05898941d9fd"
+   ]
+  }
+ ],
+ "permian-period": [
+  {
+   "text": "The Permian, the last period of the Paleozoic, lasted about 47 million years, from 298.9 to 251.902 Ma; it is named after Russia's Perm region.",
+   "sent_ids": [
+    "1cdbab9b5d5c",
+    "8c0e653b8108",
+    "767fd54528e5"
+   ]
+  },
+  {
+   "text": "Nearly all land formed one supercontinent, Pangaea, reaching from the equator to both poles, with the microcontinents of Cathaysia lying to the east.",
+   "sent_ids": [
+    "a16d8bbca783",
+    "4701f3b4bde5"
+   ]
+  },
+  {
+   "text": "Pangaea's vast interior had a continental climate of extreme heat and cold, megamonsoon rains and widespread deserts.",
+   "sent_ids": [
+    "ec5e7c4b316f",
+    "464daf58dc86",
+    "5248a93b6326"
+   ]
+  },
+  {
+   "text": "The world swung from icehouse to greenhouse, with global average temperatures rising from about 12° to over 30° by the Permian–Triassic boundary.",
+   "sent_ids": [
+    "4cb28362a314"
+   ]
+  },
+  {
+   "text": "Four floral provinces are recognised: Angaran, Euramerican, Gondwanan and Cathaysian.",
+   "sent_ids": [
+    "b4ab3f7213c6"
+   ]
+  },
+  {
+   "text": "Synapsids and sauropsids diversified, and synapsids, the ancestors of mammals, dominated the land.",
+   "sent_ids": [
+    "259bf71073eb",
+    "2fe6b4ef19c6"
+   ]
+  },
+  {
+   "text": "In the seas brachiopods were highly diverse and helped build reefs, while fish diversity stayed relatively low.",
+   "sent_ids": [
+    "ae5644007ed9",
+    "4f6b29c361fb",
+    "470d8bc8271a"
+   ]
+  },
+  {
+   "text": "Three or possibly four major extinctions struck, ending with the Great Dying, the largest in Earth's history.",
+   "sent_ids": [
+    "878c8bbfdd8e",
+    "e3ff7b61866a"
+   ]
+  }
+ ],
+ "cisuralian-epoch": [
+  {
+   "text": "The Cisuralian, or Early Permian, ran from 298.9 to 274.4 Ma and is named after the western slopes of the Ural Mountains.",
+   "sent_ids": [
+    "ad237b306df2"
+   ]
+  },
+  {
+   "text": "It opened with the Late Paleozoic Ice Age at its peak; glaciers then receded as the climate warmed, drying the continental interiors.",
+   "sent_ids": [
+    "a32c80e422ae",
+    "1b64dedbc606"
+   ]
+  },
+  {
+   "text": "Sea level stood several tens of metres above today's.",
+   "sent_ids": [
+    "fd774e3ddb4a"
+   ]
+  },
+  {
+   "text": "Pelycosaurs, diadectids and temnospondyls dominated life on land, and temnospondyls reached their peak diversity.",
+   "sent_ids": [
+    "dfd30e0e52ed",
+    "2529807dc1c8"
+   ]
+  },
+  {
+   "text": "Insects diversified dramatically, while marine diversity, origination and extinction rates stayed low.",
+   "sent_ids": [
+    "3ba5805c0528",
+    "fecc67f868a3"
+   ]
+  },
+  {
+   "text": "In tropical Cathaysia a wet, frost-free climate kept coal swamps of lycopsids and tree ferns alive, while glossopterid trees spread across southern Gondwana.",
+   "sent_ids": [
+    "cbf78b1d824f",
+    "f150ce692955"
+   ]
+  },
+  {
+   "text": "North of the Central Pangean Mountains, coal-swamp plants gave way to seasonally dry vegetation in the range's rain shadow.",
+   "sent_ids": [
+    "c965924080be"
+   ]
+  }
+ ],
+ "guadalupian-epoch": [
+  {
+   "text": "The Guadalupian, or Middle Permian, is named after the Guadalupe Mountains of New Mexico and Texas; it began 274.4 Ma and ended 259.857 Ma.",
+   "sent_ids": [
+    "ad671ea4c658",
+    "9c0555fb853d"
+   ]
+  },
+  {
+   "text": "It saw the rise of the therapsids, Olson's Extinction and the end-Capitanian mass extinction.",
+   "sent_ids": [
+    "a0bdea4e98a2"
+   ]
+  },
+  {
+   "text": "Reefs were abundant worldwide, from Texas to the Zechstein Basin and the Tethys, the high point of Permian reef building.",
+   "sent_ids": [
+    "2c9563cd1a7c",
+    "f37f210462f3"
+   ]
+  },
+  {
+   "text": "Equatorial forests had switched to a seasonal wet–dry pattern, with coastal swamps along East Pangaea linking the temperate zones.",
+   "sent_ids": [
+    "ce7245c3e4e8"
+   ]
+  },
+  {
+   "text": "Giant dinocephalian therapsids dominated land ecosystems, and Glossopteris floras flourished in Gondwana as glaciation waned.",
+   "sent_ids": [
+    "6d68d05ea297",
+    "20725340a231"
+   ]
+  },
+  {
+   "text": "Sea level fell sharply from the Roadian onward.",
+   "sent_ids": [
+    "fd774e3ddb4a"
+   ]
+  },
+  {
+   "text": "Trilobites reached a final peak of diversity.",
+   "sent_ids": [
+    "67635bf062b4"
+   ]
+  }
+ ],
+ "lopingian-epoch": [
+  {
+   "text": "Near the end of the Permian, Pangaea grew drier, a trend driven by the supercontinent's coalescence.",
+   "sent_ids": [
+    "d03c995617af",
+    "a4fdbb518246"
+   ]
+  },
+  {
+   "text": "By the end of the Permian, the North China Craton, South China Block and Indochina had fused with each other and with Pangaea.",
+   "sent_ids": [
+    "42193fa5277a",
+    "4fc4a434f33e"
+   ]
+  },
+  {
+   "text": "Continents clustered in the tropics, and a large mountain barrier stood in Pangaea's interior.",
+   "sent_ids": [
+    "228b357a1ec7",
+    "8ad957c16ea4"
+   ]
+  },
+  {
+   "text": "Carboniferous-style lycopod and horsetail swamps survived only in Cathaysia, while glossopterid trees dominated southern Gondwana.",
+   "sent_ids": [
+    "8a58d1711142",
+    "f150ce692955"
+   ]
+  },
+  {
+   "text": "Therapsids ruled the land, from sabre-toothed gorgonopsian predators to beaked dicynodont herbivores; dicynodonts and cynodonts may have evolved warm-bloodedness near the period's close.",
+   "sent_ids": [
+    "4c2903da7a73",
+    "67efc4b512db",
+    "9934fd97df89"
+   ]
+  },
+  {
+   "text": "Insect origination and extinction rates both dropped markedly toward the end of the Permian.",
+   "sent_ids": [
+    "7c1592d8d463"
+   ]
+  },
+  {
+   "text": "The late Permian was already hard on marine life; Bowen Basin rocks record repeated marine stress in the middle to late Lopingian.",
+   "sent_ids": [
+    "4dbb5b0a91a0",
+    "c3ccac0f430e"
+   ]
+  }
+ ],
+ "triassic-period": [
+  {
+   "text": "Almost all land formed one supercontinent, Pangaea, centred near the equator and covering about a quarter of Earth's surface.",
+   "sent_ids": [
+    "df6d301615cf",
+    "04a5c1f4964a"
+   ]
+  },
+  {
+   "text": "The world ocean, Panthalassa, covered almost 70% of the globe; nearly all its Triassic deep-sea floor has since been subducted.",
+   "sent_ids": [
+    "625afc25d688",
+    "3d5b91ce33e1"
+   ]
+  },
+  {
+   "text": "The climate was mostly hot and dry, with deserts across Pangaea's interior and red sandstones and evaporites as typical deposits.",
+   "sent_ids": [
+    "b7edf6a1d33f",
+    "1446956dc9cd"
+   ]
+  },
+  {
+   "text": "A greenhouse climate left even the poles ice-free, while the Pangean megamonsoon reached its peak strength.",
+   "sent_ids": [
+    "4785f9ec7039",
+    "1b1f472707e4"
+   ]
+  },
+  {
+   "text": "Sea level stayed low compared with other periods.",
+   "sent_ids": [
+    "22ec65c99134"
+   ]
+  },
+  {
+   "text": "Life mixed extinction survivors, short-lived Triassic experiments and newcomers, such as dinosaurs and early mammal relatives, that would shape the Mesozoic.",
+   "sent_ids": [
+    "97b60f412867",
+    "aedade115e91"
+   ]
+  },
+  {
+   "text": "On land, pseudosuchian and dinosauromorph archosaurs shared dominance, while Dicroidium seed ferns ruled Gondwana's forests.",
+   "sent_ids": [
+    "9bf777dc7015",
+    "ac9df2dfce3d"
+   ]
+  },
+  {
+   "text": "In the seas, algae with secondary plastids became the most important plankton.",
+   "sent_ids": [
+    "058204bb7b9f"
+   ]
+  }
+ ],
+ "early-triassic-epoch": [
+  {
+   "text": "The epoch, 251.902–247 Ma, was the hottest stretch of the Phanerozoic, following the Siberian Traps eruptions.",
+   "sent_ids": [
+    "0396edc161c4",
+    "8907e71c624b"
+   ]
+  },
+  {
+   "text": "The poles had a temperate climate, and the flat pole-to-equator temperature gradient may have let tropical species spread poleward.",
+   "sent_ids": [
+    "b36cebed24d9",
+    "82e2e1c36b67"
+   ]
+  },
+  {
+   "text": "Life was slowly recovering from the end-Permian extinction; faunas were poor in species and much the same worldwide.",
+   "sent_ids": [
+    "47d9f6fa5558",
+    "30cdda192971"
+   ]
+  },
+  {
+   "text": "Lystrosaurus was the commonest land vertebrate, and lycopsids such as Pleuromeia dominated sparse floras.",
+   "sent_ids": [
+    "29d2fe5ce88d",
+    "380ef4cf80c6",
+    "7a937ee108b4"
+   ]
+  },
+  {
+   "text": "Microbial reefs and mats spread across shallow seas, where ammonoids boomed and crashed.",
+   "sent_ids": [
+    "67ab4ed8ee63",
+    "7cff88035293"
+   ]
+  },
+  {
+   "text": "The first marine reptiles, among them ichthyosaurs, entered the oceans.",
+   "sent_ids": [
+    "825325088b35"
+   ]
+  },
+  {
+   "text": "In Europe, most Lower Triassic rocks are the continental red beds of the Buntsandstein.",
+   "sent_ids": [
+    "143ad351a0f3"
+   ]
+  }
+ ],
+ "middle-triassic-epoch": [
+  {
+   "text": "The Middle Triassic, 247–237 Ma, saw early stages of Pangaea's breakup and the opening of the Tethys Ocean.",
+   "sent_ids": [
+    "2d52ebcf9cee",
+    "094133553b5b"
+   ]
+  },
+  {
+   "text": "It was cooler than the Early Triassic, with temperatures falling through most of the Anisian.",
+   "sent_ids": [
+    "20686905d983"
+   ]
+  },
+  {
+   "text": "A shallow sea, the Muschelkalk Sea, covered much of central Europe.",
+   "sent_ids": [
+    "f277594255ff"
+   ]
+  },
+  {
+   "text": "Complex ecosystems re-formed 4–6 million years after the extinction, and many groups regained high diversity.",
+   "sent_ids": [
+    "d7311a77d378",
+    "8f5a0ef0463e"
+   ]
+  },
+  {
+   "text": "Archosaurs displaced therapsids to become the dominant land vertebrates.",
+   "sent_ids": [
+    "213c8259570a",
+    "b62e03948b2e"
+   ]
+  },
+  {
+   "text": "Seed ferns and gymnosperms made up the vegetation; there were still no flowering plants.",
+   "sent_ids": [
+    "a6db212172e9"
+   ]
+  },
+  {
+   "text": "Ichthyosaurs, nothosaurs, pachypleurosaurs, placodonts and other marine reptiles thrived, especially around the Tethys.",
+   "sent_ids": [
+    "6e387421cdbf",
+    "8f5a0ef0463e"
+   ]
+  }
+ ],
+ "late-triassic-epoch": [
+  {
+   "text": "The Late Triassic opened with the Carnian pluvial episode, a long wet spell that turned the arid interior into lush alluvial forests.",
+   "sent_ids": [
+    "11d9f5b26b51",
+    "fa5a9313aeab",
+    "4f78863bd8ab"
+   ]
+  },
+  {
+   "text": "Pangaea formed an arc reaching almost from pole to pole; East Asian blocks joining it in the Late Triassic gave the supercontinent its greatest land area.",
+   "sent_ids": [
+    "8c21527df8be",
+    "f83467fe9c20"
+   ]
+  },
+  {
+   "text": "Rift valleys with large lakes opened along the future Central Atlantic, from Florida to Newfoundland and across Morocco and Iberia.",
+   "sent_ids": [
+    "4dc0827e330a",
+    "b227d33d669f"
+   ]
+  },
+  {
+   "text": "The hothouse climate continued, alternating between cooler and warmer spells through the Norian and a cooler Rhaetian, before an extreme warming ended the period.",
+   "sent_ids": [
+    "8c21527df8be",
+    "173e1f267b03",
+    "220be155e236",
+    "5d812670af86"
+   ]
+  },
+  {
+   "text": "Sea level, up to 50 m above today's in the Carnian, fell through the Norian to about 50 m below present in the mid-Rhaetian.",
+   "sent_ids": [
+    "e21f821721f8",
+    "4fe2ef1f0668"
+   ]
+  },
+  {
+   "text": "Seed-producing gymnosperm forests covered the land, and plant-eaters grew large to digest the tough, nutrient-poor plants.",
+   "sent_ids": [
+    "b50f8566b6bc"
+   ]
+  },
+  {
+   "text": "Crurotarsan archosaurs such as phytosaurs, aetosaurs and rauisuchians ruled the land, filling more niches than the young dinosaurs.",
+   "sent_ids": [
+    "1befbec6adb2",
+    "dcdbda0571a7"
+   ]
+  },
+  {
+   "text": "In the seas, neopterygian fishes spread at the expense of ceratitid ammonites, and shastasaurian ichthyosaurs grew to huge sizes.",
+   "sent_ids": [
+    "7c638ed61d7f",
+    "b2b00afa22ad"
+   ]
+  }
+ ],
+ "jurassic-period": [
+  {
+   "text": "The Jurassic lasted about 58.3 million years, from 201.4 to 143.1 million years ago, between the Triassic and the Cretaceous.",
+   "sent_ids": [
+    "1e7883206584"
+   ]
+  },
+  {
+   "text": "It was 5–10 °C warmer than today, with roughly four times today's carbon dioxide and no polar ice caps.",
+   "sent_ids": [
+    "d25fb8657bdd",
+    "fb682ce04f61",
+    "243dd8619de5"
+   ]
+  },
+  {
+   "text": "Forests grew close to the poles, while deserts and scrubland spread across low latitudes between about 40° north and south.",
+   "sent_ids": [
+    "becfd6e4b28a",
+    "43aff854e493"
+   ]
+  },
+  {
+   "text": "Both poles lay in open ocean, and the young North Atlantic stayed narrow through the period.",
+   "sent_ids": [
+    "1431c060fe80",
+    "788c705c0175"
+   ]
+  },
+  {
+   "text": "Ichthyosaurs and plesiosaurs ruled the seas, and pterosaurs were the dominant flying vertebrates.",
+   "sent_ids": [
+    "27d1977bd9d0"
+   ]
+  },
+  {
+   "text": "Land plants were ferns and gymnosperms: conifers, cycads, ginkgos and the extinct Bennettitales. There were no widely accepted flowering plants.",
+   "sent_ids": [
+    "8deae1eb8a34",
+    "2433482c9b55",
+    "63133ce825cb",
+    "bedbf46c7421"
+   ]
+  },
+  {
+   "text": "Sea level rose and fell cyclically, with 64 fluctuations, 15 of them larger than 75 metres.",
+   "sent_ids": [
+    "9f14d6977783"
+   ]
+  }
+ ],
+ "early-jurassic-epoch": [
+  {
+   "text": "The Early Jurassic, 201.4 to 174.7 million years ago, was tropical and much more humid than the Triassic as new seas opened between landmasses.",
+   "sent_ids": [
+    "9588e0eadb9e"
+   ]
+  },
+  {
+   "text": "Pangaea still held all the major landmasses at its start but began splitting into Laurasia and Gondwana.",
+   "sent_ids": [
+    "19dc872a9af0"
+   ]
+  },
+  {
+   "text": "A cool interval lasted from about 199 to 183 million years ago, ended by a sharp Toarcian warming.",
+   "sent_ids": [
+    "4ab0420fbe4c",
+    "3a92851c9eba"
+   ]
+  },
+  {
+   "text": "Tropical seas covered parts of Europe, such as England's Jurassic Coast, laying down the marine rocks called the Lias.",
+   "sent_ids": [
+    "fb5cb0c463ff",
+    "3ae327df135c",
+    "827c9c03783e"
+   ]
+  },
+  {
+   "text": "Laurasian and Gondwanan faunas differed considerably.",
+   "sent_ids": [
+    "368aa3f2c1d9"
+   ]
+  },
+  {
+   "text": "Dinosaurs spread to every continent, while ichthyosaurs reached their peak species diversity in the seas.",
+   "sent_ids": [
+    "a3f9aa33519b",
+    "9eb46a44946c"
+   ]
+  },
+  {
+   "text": "In East Asia's mid-latitudes, forests were dominated by the deciduous broad-leaved conifer Podozamites.",
+   "sent_ids": [
+    "8ed89ff20391"
+   ]
+  }
+ ],
+ "middle-jurassic-epoch": [
+  {
+   "text": "The Middle Jurassic spanned 174.7 to 161.5 million years ago.",
+   "sent_ids": [
+    "5e1e317aed56"
+   ]
+  },
+  {
+   "text": "Pangaea was separating into Laurasia and Gondwana: the young Central Atlantic was widening, and seafloor spreading began in the Gulf of Mexico about 165 Ma.",
+   "sent_ids": [
+    "b007092767d7",
+    "0074de56709c",
+    "622bf09a2ab9",
+    "4b7e7be34941"
+   ]
+  },
+  {
+   "text": "The seas swarmed with ammonites, ichthyosaurs, sharks, rays and ray-finned fish.",
+   "sent_ids": [
+    "2887cb0fed66"
+   ]
+  },
+  {
+   "text": "On land, dinosaurs flourished in forests of cycads and conifers; conifers were the dominant plants.",
+   "sent_ids": [
+    "2887cb0fed66",
+    "27b15ced2ebd"
+   ]
+  },
+  {
+   "text": "Middle Jurassic land-animal fossils are relatively rare; key sites include England's Forest Marble and China's Daohugou Beds.",
+   "sent_ids": [
+    "c0cf15e6f7be"
+   ]
+  },
+  {
+   "text": "Sea level rose from the Aalenian onward, and in northeast China the climate was warm, humid and subtropical to temperate.",
+   "sent_ids": [
+    "72f2135e83a3",
+    "108662bec333"
+   ]
+  },
+  {
+   "text": "The Middle Jurassic opened as the Toarcian Warm Interval gave way to the Middle Jurassic Cool Interval, possibly broken by brief ice ages.",
+   "sent_ids": [
+    "1c2934bfc9e5",
+    "d3921854f14b"
+   ]
+  },
+  {
+   "text": "In the Callovian the shallow Turgai Sea formed a marine barrier between Europe and Asia.",
+   "sent_ids": [
+    "e6535d12798c"
+   ]
+  },
+  {
+   "text": "Europe turned more humid at the start of the Bajocian, then drier during the middle Bajocian.",
+   "sent_ids": [
+    "f024c9e1184f"
+   ]
+  },
+  {
+   "text": "Sauropods diversified, and megalosaurids, the oldest radiation of tetanuran predators, appeared in Europe.",
+   "sent_ids": [
+    "c441d65c74ab",
+    "bd361358f5d8"
+   ]
+  },
+  {
+   "text": "Mammals branched out: the first crown-group mammals, early multituberculates, furred Castorocauda and the gliding Volaticotherium.",
+   "sent_ids": [
+    "d3b4823c98bf",
+    "6c8696be8e17",
+    "313c514942c6",
+    "25a067fb68ca"
+   ]
+  },
+  {
+   "text": "The first unambiguous squamates, including early lizards, appear in Bathonian rocks of the Northern Hemisphere.",
+   "sent_ids": [
+    "df246f1330a9",
+    "204eafb4d835"
+   ]
+  },
+  {
+   "text": "In northeastern China, layers of volcanic tuff buried the Yanliao Biota, with dinosaurs, mammals, salamanders, insects and plants.",
+   "sent_ids": [
+    "475667a779d9",
+    "8a05e2d30cce"
+   ]
+  }
+ ],
+ "late-jurassic-epoch": [
+  {
+   "text": "The Late Jurassic spans about 161.5 to 143.1 million years ago.",
+   "sent_ids": [
+    "703f4b4c86c6",
+    "fd58e0a30e4c"
+   ]
+  },
+  {
+   "text": "Pangaea had split into Laurasia in the north and Gondwana in the south, divided by the wide Tethys Ocean.",
+   "sent_ids": [
+    "c128cbbd77a5",
+    "e2aca9a24f42"
+   ]
+  },
+  {
+   "text": "Narrow new ocean basins were opening between East Gondwana, West Gondwana and Laurasia, and a still-narrow Atlantic separated Europe from North America.",
+   "sent_ids": [
+    "b016ff1518ca",
+    "d9c165f108aa"
+   ]
+  },
+  {
+   "text": "Very high carbon dioxide kept the world hot; the Kimmeridgian Warm Interval was among the Jurassic's wettest times, though Europe grew more arid.",
+   "sent_ids": [
+    "2ebda7503dfe",
+    "adb7a3196716",
+    "6c786b24cdb6",
+    "20b6fb594f88"
+   ]
+  },
+  {
+   "text": "Europe was an archipelago in a shallow, warm tropical sea at the edge of the Tethys, much nearer the equator than today.",
+   "sent_ids": [
+    "dd904bb6eebc",
+    "abeef6a6db52"
+   ]
+  },
+  {
+   "text": "Sponge and coral reefs spread widely, and a carbonate platform nearly 7,000 km long fringed eastern North America.",
+   "sent_ids": [
+    "d222034264f0",
+    "7960f66dff97"
+   ]
+  },
+  {
+   "text": "In western North America, rivers built the Morrison floodplains, home to giant sauropods such as Apatosaurus, Brachiosaurus and Diplodocus alongside Allosaurus.",
+   "sent_ids": [
+    "1dd69dee8bb6",
+    "eddd835eef72",
+    "526b7634e739",
+    "aee3694689a6"
+   ]
+  },
+  {
+   "text": "Small predatory theropods gave rise to the first birds such as Archaeopteryx, while pterosaurs neared their greatest diversity.",
+   "sent_ids": [
+    "ab19628c6537",
+    "a8dd9e798107",
+    "4855aab7ed7c"
+   ]
+  }
+ ],
+ "cretaceous-period": [
+  {
+   "text": "The Cretaceous ran from about 143.1 to 66 Ma and is named for its chalk; more chalk formed then than in any other Phanerozoic period.",
+   "sent_ids": [
+    "a3c7729bd977",
+    "194426e63359",
+    "90bfb8a66de3"
+   ]
+  },
+  {
+   "text": "Pangaea finished breaking into today's continents, though they sat in different places; North America was cut off from the rest.",
+   "sent_ids": [
+    "3ab21efc0f11",
+    "7ef933f45856"
+   ]
+  },
+  {
+   "text": "The climate was hot and humid, with lush forests at the poles, no permanent ice and seas around 300 metres higher than today.",
+   "sent_ids": [
+    "9c31deffc13f"
+   ]
+  },
+  {
+   "text": "At the peak of the Cretaceous flooding, a third of today's land lay under shallow, warm seas that laid down limestone.",
+   "sent_ids": [
+    "b0211a77985b",
+    "27355fc80f29"
+   ]
+  },
+  {
+   "text": "Pollen records show three broad climate phases: warm and dry (Berriasian–Barremian), warm and wet (Aptian–Santonian), then cool and dry (Campanian–Maastrichtian).",
+   "sent_ids": [
+    "1113be111d5f",
+    "d7053889db59",
+    "00afd68f2075",
+    "818ecce0ecc5"
+   ]
+  },
+  {
+   "text": "Coccolithophore algae thrived in the seas, and rudist bivalves built the reefs of the Tethys.",
+   "sent_ids": [
+    "75cbce537d52",
+    "7ffbd9a8a7a5"
+   ]
+  },
+  {
+   "text": "The Alps did not yet exist; Europe's southern continental shelf faced the Tethys Ocean.",
+   "sent_ids": [
+    "2767e8ff5e1b"
+   ]
+  },
+  {
+   "text": "Many of today's dominant groups trace their origins to the Cretaceous, as flowering plants spread and insects diversified.",
+   "sent_ids": [
+    "152cacb70855",
+    "500e2a9d5f84",
+    "594ca876236e"
+   ]
+  }
+ ],
+ "early-cretaceous-epoch": [
+  {
+   "text": "The Early Cretaceous spans 143.1 to 100.5 Ma.",
+   "sent_ids": [
+    "94a03286980c",
+    "dba2a28e1a6e"
+   ]
+  },
+  {
+   "text": "The cooling of the latest Jurassic carried into the Berriasian, with common snowfall at high latitudes and wetter tropics than before.",
+   "sent_ids": [
+    "0405cfd6ef73",
+    "7c656ad4b883"
+   ]
+  },
+  {
+   "text": "Gondwana began the period whole; South America, Antarctica and Australia then rifted from Africa, opening the South Atlantic and Indian Oceans.",
+   "sent_ids": [
+    "a5a903c83dc7"
+   ]
+  },
+  {
+   "text": "Seaways expanded while sauropods, stegosaurs and other high-browsing plant-eaters declined.",
+   "sent_ids": [
+    "7a6549e92599"
+   ]
+  },
+  {
+   "text": "Archaic mammals such as eutriconodonts were common, and dinosaurs became distinct from one landmass to the next.",
+   "sent_ids": [
+    "5d502bdb9d5c",
+    "38f33c27e7c2"
+   ]
+  },
+  {
+   "text": "Forests were dominated by conifers such as podocarps, pines, araucarias and cypresses, with ginkgos, bennettitaleans and ferns.",
+   "sent_ids": [
+    "d62824c1739f",
+    "743b28814b65"
+   ]
+  },
+  {
+   "text": "The inland Eromanga Sea covered much of Australia, while a proto-Amazon–Congo river flowed west across western Gondwana.",
+   "sent_ids": [
+    "3a0899c0e443",
+    "65ca89e9e2e1"
+   ]
+  },
+  {
+   "text": "By the late Albian, tropical seas averaged about 30 °C.",
+   "sent_ids": [
+    "ec4e09f2f9d3"
+   ]
+  }
+ ],
+ "late-cretaceous-epoch": [
+  {
+   "text": "The Late Cretaceous spans 100.5 to 66 Ma.",
+   "sent_ids": [
+    "c291f9d5acb5",
+    "7df45fde2317"
+   ]
+  },
+  {
+   "text": "It stayed warmer than today but cooled over time, a trend that continued into the Cenozoic; the tropics shrank toward the equator and northern seasons sharpened.",
+   "sent_ids": [
+    "0d496f87d6e3",
+    "fc4728ab6348",
+    "eeea5b5f3cbd"
+   ]
+  },
+  {
+   "text": "The Western Interior Seaway joined the Gulf of Mexico to the Arctic Ocean, splitting North America into Laramidia in the west and Appalachia in the east.",
+   "sent_ids": [
+    "00f623a65262",
+    "0c156b03eed2"
+   ]
+  },
+  {
+   "text": "Hadrosaurs, ankylosaurs and ceratopsians thrived in Asiamerica, western North America plus eastern Asia, and tyrannosaurs were North America's top predators.",
+   "sent_ids": [
+    "d28b6f622c6b",
+    "d36dc17cb933"
+   ]
+  },
+  {
+   "text": "Flowering plants grew ever more diverse, though in many places ferns and conifers were still more common.",
+   "sent_ids": [
+    "86adb5abbb1d"
+   ]
+  },
+  {
+   "text": "Tethys seas held marine reptiles, bony and cartilaginous fish and cephalopods; mosasaurs appeared and, once the ichthyosaurs vanished, ruled the seas while plesiosaurs persisted.",
+   "sent_ids": [
+    "b9a5277fe209",
+    "7b40ffb19e38",
+    "96a0440cb324"
+   ]
+  },
+  {
+   "text": "The Arctic was warm enough for choristodere reptiles to colonise it.",
+   "sent_ids": [
+    "5d09b45e9cc6"
+   ]
+  },
+  {
+   "text": "The Americas drifted west and the Atlantic widened; India headed north toward Asia, and Europe was a chain of islands.",
+   "sent_ids": [
+    "1708ee8ae3b4",
+    "1f2db55bd376",
+    "042b5adc8650"
+   ]
+  },
+  {
+   "text": "Australia and Antarctica stayed joined and began drifting away from Africa and South America, while a shallow sea at times cut Africa in two.",
+   "sent_ids": [
+    "873f2fbe31d2",
+    "65523f21fa30"
+   ]
+  },
+  {
+   "text": "The epoch opened in one of the Phanerozoic's hottest spells, with the highest carbon dioxide of the Cretaceous.",
+   "sent_ids": [
+    "fa8c3e88a1ad"
+   ]
+  },
+  {
+   "text": "Near its end, Antarctica still had a tropical to subtropical climate, temperate rainforest and marsupials.",
+   "sent_ids": [
+    "719af4e3c4f3"
+   ]
+  }
+ ],
+ "paleogene-period": [
+  {
+   "text": "The Paleogene, first period of the Cenozoic, spans about 43 million years, from the end of the Cretaceous at 66 Ma to the Neogene at 23.04 Ma.",
+   "sent_ids": [
+    "0b8a26333fb9",
+    "5b275ef94241"
+   ]
+  },
+  {
+   "text": "It begins with the extinction of the non-avian dinosaurs and is divided into the Paleocene, Eocene and Oligocene epochs.",
+   "sent_ids": [
+    "4df8f968a6d1",
+    "5b275ef94241"
+   ]
+  },
+  {
+   "text": "Its climate swung from the heat of the PETM through Eocene cooling to the first permanent Antarctic ice sheets at the start of the Oligocene.",
+   "sent_ids": [
+    "0ee079d1b331"
+   ]
+  },
+  {
+   "text": "At its start, the Pacific Ocean floor was made of the Pacific, Farallon, Kula and Izanagi plates.",
+   "sent_ids": [
+    "8f8e6115f5af"
+   ]
+  },
+  {
+   "text": "The last pieces of Gondwana came apart as Antarctica separated from South America and Australia, opening the Drake and Tasmanian Passages.",
+   "sent_ids": [
+    "153b2e423288"
+   ]
+  },
+  {
+   "text": "From the Late Cretaceous into the early Paleocene, Africa began converging on Eurasia.",
+   "sent_ids": [
+    "77a52af4e619"
+   ]
+  },
+  {
+   "text": "Mammals reached their modern diversity in the Paleogene and Neogene and have been the dominant land animals since 66 Ma.",
+   "sent_ids": [
+    "62cfffac4cfd"
+   ]
+  }
+ ],
+ "paleocene-epoch": [
+  {
+   "text": "The Paleocene lasted from 66 to 56 Ma and is divided into the Danian, Selandian and Thanetian ages.",
+   "sent_ids": [
+    "a2ce08c749d4",
+    "c40d209b33d9"
+   ]
+  },
+  {
+   "text": "Earth was a greenhouse world averaging about 24–25 °C, against about 14 °C in recent times, with no permanent ice at the poles.",
+   "sent_ids": [
+    "e67563526a72",
+    "8416d4fcff61"
+   ]
+  },
+  {
+   "text": "The deep ocean was 8–12 °C, compared with 0–3 °C today, and sinking water formed in the North Pacific rather than the North Atlantic.",
+   "sent_ids": [
+    "d286eeb458c6",
+    "f6a8cf65ef3a"
+   ]
+  },
+  {
+   "text": "Northern continents were still joined by land bridges, while South America, Antarctica and Australia had not fully separated.",
+   "sent_ids": [
+    "940961cd8690"
+   ]
+  },
+  {
+   "text": "The Rockies were rising, the Americas were not yet joined, India had begun colliding with Asia, and the North Atlantic Igneous Province was forming.",
+   "sent_ids": [
+    "84b5ae1bc766"
+   ]
+  },
+  {
+   "text": "Forests grew worldwide, even at the poles; they were dense for lack of large plant-eaters but poor in plant species. Australia was warm, wet and rainforested.",
+   "sent_ids": [
+    "9cbc0d29bc4a",
+    "86cd793824c1",
+    "05985bfbc97a"
+   ]
+  },
+  {
+   "text": "Mostly small, fast-evolving animals filled the emptied world; the largest land carnivores were reptiles such as crocodyliforms, choristoderes and snakes.",
+   "sent_ids": [
+    "9cbc0d29bc4a",
+    "cdc48b057f70"
+   ]
+  },
+  {
+   "text": "In the seas, ray-finned fish rose to dominate the open ocean and recovering reefs.",
+   "sent_ids": [
+    "a297e592e94e"
+   ]
+  }
+ ],
+ "eocene-epoch": [
+  {
+   "text": "Through the Eocene the continents kept drifting toward their present positions; early on, Australia and South America were still joined to Antarctica.",
+   "sent_ids": [
+    "94e6951e3a1f",
+    "1a9d0f474baf",
+    "84d5abe5f464"
+   ]
+  },
+  {
+   "text": "Around 50 million years ago Eurasia was split into Western Europe, Balkanatolia and Asia, while South America stayed linked to an ice-free Antarctica.",
+   "sent_ids": [
+    "50fc0c037d36",
+    "4be3c42b99de"
+   ]
+  },
+  {
+   "text": "Earth averaged about 27 °C at the start of the Eocene, and greenhouse gases, chiefly carbon dioxide and methane, controlled surface temperatures.",
+   "sent_ids": [
+    "e83ed70aea40",
+    "339edf173367"
+   ]
+  },
+  {
+   "text": "Climate warmed from the PETM to a peak around 49 million years ago, then cooled through the rest of the epoch until ice sheets appeared on Antarctica.",
+   "sent_ids": [
+    "83d0ad04ee2f",
+    "0ee079d1b331"
+   ]
+  },
+  {
+   "text": "Eocene oceans were warm and teeming with fish, and plants and sea life took on a quite modern look.",
+   "sent_ids": [
+    "5b71514f5a95",
+    "88ea85e88376"
+   ]
+  },
+  {
+   "text": "Early Eocene mammals were mostly small, living in cramped jungles; members of the new orders weighed under 10 kg.",
+   "sent_ids": [
+    "ea59f021ce09",
+    "690002d7cace"
+   ]
+  },
+  {
+   "text": "In western North America, huge lakes filled the high, flat basins between rising mountains.",
+   "sent_ids": [
+    "a631b20b85a3"
+   ]
+  },
+  {
+   "text": "By the epoch's end, continental interiors were drying, forests had thinned and open, arid habitats were spreading.",
+   "sent_ids": [
+    "b70452990724",
+    "5e6f31c84cb7"
+   ]
+  }
+ ],
+ "oligocene-epoch": [
+  {
+   "text": "The Oligocene links the archaic, tropical world of the Eocene with the more modern ecosystems of the Miocene.",
+   "sent_ids": [
+    "25075132b1fc"
+   ]
+  },
+  {
+   "text": "Its base is fixed at Massignano, near Ancona in Italy, at the last appearance of the foraminifer Hantkenina.",
+   "sent_ids": [
+    "7acbc3c098c1",
+    "e206f8b33a52"
+   ]
+  },
+  {
+   "text": "The continents kept drifting toward their present positions, and Antarctica grew more isolated as deep ocean channels opened toward Australia and South America.",
+   "sent_ids": [
+    "68e856dd9a04",
+    "73470d72ba7f",
+    "f839313c48ca"
+   ]
+  },
+  {
+   "text": "Sea levels were lower than in the early Eocene, exposing wide coastal plains in Europe and along North America's Gulf and Atlantic coasts.",
+   "sent_ids": [
+    "6749b565917d"
+   ]
+  },
+  {
+   "text": "The epoch opened with a massive spread of Antarctic ice, and both poles fell well below freezing for the first time in the Phanerozoic.",
+   "sent_ids": [
+    "feceb7221fa8",
+    "fca0190ac5cc"
+   ]
+  },
+  {
+   "text": "Climate cooled overall after the Early Eocene Climatic Optimum; land temperatures in North America fell 7–11 °C in the earliest Oligocene.",
+   "sent_ids": [
+    "a686cae6b5d8",
+    "46f28839cae2"
+   ]
+  },
+  {
+   "text": "Open plains and grasses spread as forests retreated, and land and sea life reached a Phanerozoic low in diversity by the late Oligocene.",
+   "sent_ids": [
+    "2c17f07daab6",
+    "9f6af00d930e"
+   ]
+  },
+  {
+   "text": "Isolated South America and Australia kept their own native animals; in South America, terror birds and carnivorous marsupial relatives remained top predators.",
+   "sent_ids": [
+    "bf42a290b2bc",
+    "40c7ae421151"
+   ]
+  }
+ ],
+ "neogene-period": [
+  {
+   "text": "Through the Neogene the continents sat very close to their present positions.",
+   "sent_ids": [
+    "087cdc5d0746"
+   ]
+  },
+  {
+   "text": "India kept pushing into Asia, raising the Himalayas.",
+   "sent_ids": [
+    "d1f4a8a0a9c3"
+   ]
+  },
+  {
+   "text": "Late in the period the Isthmus of Panama formed, joining North and South America.",
+   "sent_ids": [
+    "06c94b1afc33"
+   ]
+  },
+  {
+   "text": "Global climate cooled markedly through the Neogene, leading into the continental glaciations of the Quaternary.",
+   "sent_ids": [
+    "faae00c4ff47"
+   ]
+  },
+  {
+   "text": "Mammals and birds remained the dominant land animals, spreading into many habitats.",
+   "sent_ids": [
+    "66e6d760bb89"
+   ]
+  },
+  {
+   "text": "Huge predators such as megalodon and the sperm whale Livyatan ruled the oceans.",
+   "sent_ids": [
+    "84e4ecb64a42"
+   ]
+  },
+  {
+   "text": "The first humans, Homo habilis, appeared in Africa near the end of the period.",
+   "sent_ids": [
+    "8462677dc3eb"
+   ]
+  }
+ ],
+ "miocene-epoch": [
+  {
+   "text": "The long cooling was broken by relatively short warmer spells; in one, the global climate rivalled the Oligocene's.",
+   "sent_ids": [
+    "5025eb3198b7",
+    "9d0afe53a0bd",
+    "575d4378509e"
+   ]
+  },
+  {
+   "text": "In the Early Miocene, temperature differences between mid-latitude lands and seas were much like today's.",
+   "sent_ids": [
+    "4a7830f9895c"
+   ]
+  },
+  {
+   "text": "Grasslands kept spreading and forests kept shrinking, as in the Oligocene.",
+   "sent_ids": [
+    "630003e138e3"
+   ]
+  },
+  {
+   "text": "Plants and animals were recognisably modern, and many of today's mammal groups first appeared.",
+   "sent_ids": [
+    "11f8d05c4ad1",
+    "929ac824ebdf"
+   ]
+  },
+  {
+   "text": "Far northern Australia had monsoons, and central Australia held rainforest pockets that a drier climate later shrank.",
+   "sent_ids": [
+    "3b7403c82e45",
+    "cd15a631c582"
+   ]
+  }
+ ],
+ "late-miocene": [
+  {
+   "text": "The Late Miocene, made up of the Tortonian and Messinian stages, lasted from 11.63 to 5.333 Ma.",
+   "sent_ids": [
+    "67bd6339ce86",
+    "72ce68f8d09e"
+   ]
+  },
+  {
+   "text": "About 11 Ma the warm Middle Miocene gave way to the cooler Late Miocene, and the climate grew increasingly like today's.",
+   "sent_ids": [
+    "81a5015730a7",
+    "5d21234b41ab",
+    "42bae21dc5f7"
+   ]
+  },
+  {
+   "text": "Of today's major geographic features only a land bridge between the Americas was missing, though islands began forming between them.",
+   "sent_ids": [
+    "f747a3974b89",
+    "1cb670ccd028"
+   ]
+  },
+  {
+   "text": "The Andes kept rising, lifting the future Altiplano from low ground to over 3,000 m.",
+   "sent_ids": [
+    "f747a3974b89",
+    "0111b38cef86"
+   ]
+  },
+  {
+   "text": "Cut off from the oceans, the Paratethys had become a vast brackish megalake reaching from the eastern Alps to Kazakhstan.",
+   "sent_ids": [
+    "7e7d24df550a",
+    "440105b893c3"
+   ]
+  },
+  {
+   "text": "Grasslands and savannas were established by about 10 Ma; global cooling dried the world, especially after 8–7 Ma, and C4 grasses became significant 7–6 Ma.",
+   "sent_ids": [
+    "8086d2102b66",
+    "8f9338d3da3c",
+    "086d7bc3a0ad"
+   ]
+  },
+  {
+   "text": "Recognisable canids, bears, deer, camels and whales lived alongside now-extinct three-toed horses, gomphotheres and hornless rhinos.",
+   "sent_ids": [
+    "7da5d7465946"
+   ]
+  },
+  {
+   "text": "Late in the epoch the Mediterranean was cut off from the Atlantic and almost completely evaporated.",
+   "sent_ids": [
+    "e74e2e1ed00d",
+    "9e0806b03802"
+   ]
+  }
+ ],
+ "pliocene-epoch": [
+  {
+   "text": "Through the Pliocene the continents kept drifting toward their present positions, ending up within about 70 km of where they are today.",
+   "sent_ids": [
+    "3b05be1095c4"
+   ]
+  },
+  {
+   "text": "The climate grew cooler, drier and more seasonal, a bridge between the warm Miocene and the icy Pleistocene.",
+   "sent_ids": [
+    "db0a282cb4da",
+    "00b78eb5bc84"
+   ]
+  },
+  {
+   "text": "Cooling may have thinned forests and spread grasslands and savannas; Central Asia became more seasonal and C4 plants grew more common.",
+   "sent_ids": [
+    "1ee3c8ca8a15",
+    "e9d81be869fa"
+   ]
+  },
+  {
+   "text": "The oceans stayed fairly warm though slowly cooling, and Pliocene seas were full of sea cows, seals, sea lions, sharks and whales.",
+   "sent_ids": [
+    "63a3ba0e49f7",
+    "9bb559f9135e"
+   ]
+  },
+  {
+   "text": "Wet 'Green Sahara' phases returned to North Africa about every 21,000 years, strongest when Earth's orbit was most eccentric.",
+   "sent_ids": [
+    "afdee1a9322e"
+   ]
+  },
+  {
+   "text": "Hoofed animals dominated Africa, where australopithecines and baboon-like monkeys such as Dinopithecus appeared.",
+   "sent_ids": [
+    "54d4aaefa797"
+   ]
+  },
+  {
+   "text": "Elephants, gomphotheres and stegodonts thrived in Asia; the largest land mammals were proboscideans such as Deinotherium, Anancus and Mammut borsoni.",
+   "sent_ids": [
+    "a29178ac1530"
+   ]
+  },
+  {
+   "text": "In Australia, meat-eating marsupials still hunted, including dasyurids, the dog-like thylacine and the cat-like Thylacoleo.",
+   "sent_ids": [
+    "3e1eede51f75"
+   ]
+  }
+ ],
+ "quaternary-period": [
+  {
+   "text": "The Pleistocene lasted from about 2.58 million to 11,700 years ago, spanning the world's most recent period of repeated glaciations.",
+   "sent_ids": [
+    "906e8a9cf39f",
+    "78339e6d62e4"
+   ]
+  },
+  {
+   "text": "It is the first epoch of the Quaternary, the shortest geological period of the Phanerozoic.",
+   "sent_ids": [
+    "765e3282abd1",
+    "1e116234cec0"
+   ]
+  },
+  {
+   "text": "Since 2009 its start has been set at 2.58 Ma, so that all the recent repeated glaciations fall within it.",
+   "sent_ids": [
+    "46ae37b43b0c",
+    "70a9d9e1aedb"
+   ]
+  },
+  {
+   "text": "Perhaps as many as 44 glacial–interglacial cycles have passed since it began, while the Antarctic ice sheet has persisted throughout.",
+   "sent_ids": [
+    "d2a643f298b3",
+    "31d70922fbb3"
+   ]
+  }
+ ],
+ "pleistocene-epoch": [
+  {
+   "text": "The Pleistocene lasted from about 2.58 million to 11,700 years ago, spanning the world's most recent period of repeated glaciations.",
+   "sent_ids": [
+    "906e8a9cf39f",
+    "78339e6d62e4"
+   ]
+  },
+  {
+   "text": "It is the first epoch of the Quaternary, the shortest geological period of the Phanerozoic.",
+   "sent_ids": [
+    "765e3282abd1",
+    "1e116234cec0"
+   ]
+  },
+  {
+   "text": "Since 2009 its start has been set at 2.58 Ma, so that all the recent repeated glaciations fall within it.",
+   "sent_ids": [
+    "46ae37b43b0c",
+    "70a9d9e1aedb"
+   ]
+  },
+  {
+   "text": "Perhaps as many as 44 glacial–interglacial cycles have passed since it began, while the Antarctic ice sheet has persisted throughout.",
+   "sent_ids": [
+    "d2a643f298b3",
+    "31d70922fbb3"
+   ]
+  },
+  {
+   "text": "Its first part, the Early Pleistocene (2.58–0.774 Ma), comprises the Gelasian and Calabrian ages.",
+   "sent_ids": [
+    "81d82e297224",
+    "f936b63ebbd3",
+    "6b884f61b50f"
+   ]
+  },
+  {
+   "text": "In the Early Pleistocene archaic Homo arose in Africa and spread across Afro-Eurasia; Homo erectus was the only hominin for much of the epoch.",
+   "sent_ids": [
+    "5f49bbb971af",
+    "520d7e07d4f0"
+   ]
+  },
+  {
+   "text": "Great Britain was then a peninsula of Europe, joined by a chalk ridge across the Strait of Dover, and the Rhine flowed through today's North Sea.",
+   "sent_ids": [
+    "5f2c08878a69",
+    "262d9df6c9f0"
+   ]
+  },
+  {
+   "text": "In North America, the early and middle Pleistocene glacials and interglacials, about 2.5–0.2 Ma, are grouped as the Pre-Illinoian.",
+   "sent_ids": [
+    "69fd35fd1820"
+   ]
+  }
+ ],
+ "gelasian-age": [
+  {
+   "text": "The Gelasian spans 2.58–1.80 Ma, following the Pliocene's Piacenzian Age and preceding the Calabrian.",
+   "sent_ids": [
+    "42b71c8c6acd"
+   ]
+  },
+  {
+   "text": "It was moved from the Pliocene to the Pleistocene in 2009 to match key changes in Earth's climate, oceans and life at 2.58 Ma.",
+   "sent_ids": [
+    "aabde313420f"
+   ]
+  },
+  {
+   "text": "Its base is the Gauss–Matuyama reversal, marked at Monte San Nicola in Sicily; its top is the end of the Olduvai subchron.",
+   "sent_ids": [
+    "85e645802a24",
+    "5ae7c4925b4e",
+    "9048ca3d02ce"
+   ]
+  },
+  {
+   "text": "Northern Hemisphere ice sheets began to grow; deep-sea cores record about 40 marine isotope stages, MIS 103 to 64, within the age.",
+   "sent_ids": [
+    "d9b76f55f6d6",
+    "bde624d703fe"
+   ]
+  },
+  {
+   "text": "In the Alps the Gelasian corresponds to the Biber glacial complex, with about 20 glacial cycles of varying intensity.",
+   "sent_ids": [
+    "0bdb2fc07069",
+    "b922e010b58b"
+   ]
+  },
+  {
+   "text": "In East Anglia the Red, Norwich and Weybourne Crag formations were laid down, recording early Pleistocene environments.",
+   "sent_ids": [
+    "ae4515fb3520",
+    "29e1e28fde88"
+   ]
+  }
+ ],
+ "calabrian-age": [
+  {
+   "text": "The Calabrian runs from 1.80 Ma to 774,000 years ago, about a million years, as the second age of the Early Pleistocene.",
+   "sent_ids": [
+    "dbdf2039bdd3",
+    "f936b63ebbd3"
+   ]
+  },
+  {
+   "text": "Its base lies just above the Olduvai subchron at Vrica in Calabria, Italy; it ends with the Brunhes–Matuyama reversal.",
+   "sent_ids": [
+    "0dedff0908a2",
+    "627b57f8da5b",
+    "563dd139fded"
+   ]
+  },
+  {
+   "text": "Glacial cycles were paced mainly by the 41,000-year obliquity cycle, until the Mid-Pleistocene Transition near the end of the age.",
+   "sent_ids": [
+    "a6d872f73e7e",
+    "863ba3bc7c71"
+   ]
+  },
+  {
+   "text": "In the Alps the Danube glacial stage, about 1.8–1 Ma, falls within the Calabrian.",
+   "sent_ids": [
+    "82691ef5238f"
+   ]
+  },
+  {
+   "text": "The ICS chart places the Waalian interglacial of northern Europe at about 1.6–1.4 Ma.",
+   "sent_ids": [
+    "9754d9940806"
+   ]
+  },
+  {
+   "text": "Homo erectus colonised Eurasia between about 1.8 and 0.8 Ma.",
+   "sent_ids": [
+    "087433fbd96e"
+   ]
+  },
+  {
+   "text": "The oldest ice known in Greenland is about 1 million years old.",
+   "sent_ids": [
+    "13d1761e9dcd"
+   ]
+  }
+ ],
+ "chibanian-age": [
+  {
+   "text": "The Chibanian, or Middle Pleistocene, runs from the Brunhes–Matuyama magnetic reversal to roughly the end of the Penultimate Glacial Period.",
+   "sent_ids": [
+    "4fbff1791cea",
+    "4ff89df7aab9"
+   ]
+  },
+  {
+   "text": "The continents sat essentially where they are now, having moved no more than about 100 km since the Pleistocene began.",
+   "sent_ids": [
+    "f92762a80c0a"
+   ]
+  },
+  {
+   "text": "Glacial cycles now came about every 100,000 years: long glacial periods broken by short, warm interglacials.",
+   "sent_ids": [
+    "2dc36ef0d945"
+   ]
+  },
+  {
+   "text": "At peak glaciation sea level fell by up to 120 m, exposing continental shelves as dry land and linking landmasses.",
+   "sent_ids": [
+    "07b38ef6b77e",
+    "33279bbdab70"
+   ]
+  },
+  {
+   "text": "Ice sheets 1,500–3,000 m thick spread over North America and northern Europe, pushing to the 40th parallel in places.",
+   "sent_ids": [
+    "8067dbb3f491",
+    "1aa88e241e17",
+    "dd3b2df78001",
+    "194d419f9290"
+   ]
+  },
+  {
+   "text": "Faunas were essentially modern but rich in large mammals such as mammoths, mastodons, sabre-toothed cats, giant sloths and Gigantopithecus.",
+   "sent_ids": [
+    "bad286ab255b"
+   ]
+  },
+  {
+   "text": "Archaic humans such as Homo heidelbergensis spread through Africa and Eurasia, and the age closes with Neanderthals, Denisovans and early Homo sapiens.",
+   "sent_ids": [
+    "0d8920335c4a",
+    "a3048e7f404e",
+    "95574916d4b2"
+   ]
+  }
+ ],
+ "late-pleistocene-age": [
+  {
+   "text": "After the brief, warm Last Interglacial, the Late Pleistocene was dominated by the cool Last Glacial Period, coldest at the Last Glacial Maximum.",
+   "sent_ids": [
+    "b21076d40a16"
+   ]
+  },
+  {
+   "text": "Eurasia was mostly cold, with glaciations in northern Europe, northwest Siberia and the Alps between temperate interglacial phases.",
+   "sent_ids": [
+    "dd636db79f40"
+   ]
+  },
+  {
+   "text": "At its height the Laurentide ice sheet reached from the Rockies through the Great Lakes into New England, covering nearly all of Canada.",
+   "sent_ids": [
+    "4ac06dacefaf"
+   ]
+  },
+  {
+   "text": "A vast mammoth steppe stretched from Spain across Eurasia and Beringia into Alaska and the Yukon.",
+   "sent_ids": [
+    "2cea4d2a2bb9"
+   ]
+  },
+  {
+   "text": "As the epoch began, proboscideans numbered about 23 species, and over 30 species of ground sloths lived across the Americas.",
+   "sent_ids": [
+    "9484176f2f85",
+    "6be8cc2b4bf4"
+   ]
+  },
+  {
+   "text": "In Africa, glacial cycles and sea-level swings shaped vertebrate communities more than tectonics or volcanoes did.",
+   "sent_ids": [
+    "3a564888eb1b"
+   ]
+  },
+  {
+   "text": "Lakes swelled in closed basins of the Great Basin, such as Lake Lahontan, and in the high Andes.",
+   "sent_ids": [
+    "ba9d1d072774",
+    "296d322df4fe"
+   ]
+  },
+  {
+   "text": "Modern humans spread across the ice-free world, interbreeding with archaic humans they met outside Africa.",
+   "sent_ids": [
+    "650168055157",
+    "524690c42b1a"
+   ]
+  },
+  {
+   "text": "Around 18,000 years ago, near the end of the Last Glacial Maximum, global sea level stood 120–130 m below today's.",
+   "sent_ids": [
+    "11b6ef5e577c"
+   ]
+  },
+  {
+   "text": "Low seas joined Maui, Lānaʻi and Molokaʻi into one island and linked Mayor Island to the rest of New Zealand.",
+   "sent_ids": [
+    "401271a27374",
+    "d3045cd5099f"
+   ]
+  },
+  {
+   "text": "Ice blocked the Beringia land bridge around 18,000 BP, and massive ice sheets covered most of Canada and the northwest coast.",
+   "sent_ids": [
+    "d8189a5da11f",
+    "c7dcd9dddfc5"
+   ]
+  },
+  {
+   "text": "From about 16,000 years ago until the Pleistocene's end, climate swung between cold stadials and warmer interstadials.",
+   "sent_ids": [
+    "38770b544c71"
+   ]
+  },
+  {
+   "text": "Global mean annual temperature rose about 6 °C between 15,000 and 10,000 years ago.",
+   "sent_ids": [
+    "6edb63e1e2aa"
+   ]
+  },
+  {
+   "text": "By around 13,000 years ago sea level was only 60 m below present; on the Great Barrier Reef's coastal plain, corals began ringing hills turned into islands.",
+   "sent_ids": [
+    "63c9165c1a36"
+   ]
+  },
+  {
+   "text": "Around 12,000 BCE, Great Britain, much of the North Sea and the English Channel formed one expanse of low-lying tundra.",
+   "sent_ids": [
+    "7699562b0397"
+   ]
+  },
+  {
+   "text": "The mammoth steppe, which had covered much of the north for about 100,000 years, shrank to small patches around 12,000 years ago.",
+   "sent_ids": [
+    "b7325c2fb7f6"
+   ]
+  }
+ ],
+ "holocene-epoch": [
+  {
+   "text": "The Holocene, the current epoch, began about 11,700 years ago, at the end of the Younger Dryas cold spell; its GSSP lies in Greenland's NGRIP2 ice core.",
+   "sent_ids": [
+    "fd8dfe500b40",
+    "d2f2b7ab63c3",
+    "11786877da70"
+   ]
+  },
+  {
+   "text": "It is an interglacial within the ongoing Quaternary glacial cycles, equivalent to Marine Isotope Stage 1.",
+   "sent_ids": [
+    "d2e87d3d815c"
+   ]
+  },
+  {
+   "text": "Continents moved less than a kilometre over 10,000 years, so the map was essentially today's.",
+   "sent_ids": [
+    "b4c636219e92"
+   ]
+  },
+  {
+   "text": "Melting ice raised world sea level about 35 m in the early Holocene and another 30 m later, while land once under glaciers rebounded as much as 180 m.",
+   "sent_ids": [
+    "29f3a953e43b",
+    "f5d716d488bb"
+   ]
+  },
+  {
+   "text": "In 2018 the epoch was split by climate into three ages: Greenlandian, Northgrippian and Meghalayan.",
+   "sent_ids": [
+    "f484a2dc38b0"
+   ]
+  },
+  {
+   "text": "Its ecosystems kept losing species after the Late Pleistocene die-off of most large land mammals outside Africa.",
+   "sent_ids": [
+    "8a3752252a73"
+   ]
+  },
+  {
+   "text": "It is often called the Age of Humans, spanning farming, the rapid spread of people and all of written history.",
+   "sent_ids": [
+    "a37eac9567f6"
+   ]
+  }
+ ],
+ "greenlandian-age": [
+  {
+   "text": "The Greenlandian, the earliest age of the Holocene, runs from about 11,700 to 8,200 years ago and ends with the 8.2-kiloyear cooling event.",
+   "sent_ids": [
+    "ff50f1934649",
+    "f484a2dc38b0",
+    "5e07772d4c2e"
+   ]
+  },
+  {
+   "text": "After the abrupt warming that ended the ice age, global warming continued at a somewhat gentler pace.",
+   "sent_ids": [
+    "868358941788",
+    "3aed3cd84afe"
+   ]
+  },
+  {
+   "text": "Rising seas drowned vast lowlands, cutting off the British Isles, Indonesia, New Guinea and Tasmania.",
+   "sent_ids": [
+    "26e2a2b22655",
+    "c1662b3a3693"
+   ]
+  },
+  {
+   "text": "The Bering land bridge went under, opening the Bering Strait between Asia and the Americas.",
+   "sent_ids": [
+    "e40f4d4d9668"
+   ]
+  },
+  {
+   "text": "A stronger African monsoon turned much of the Sahara into grassland, woodland and lakes.",
+   "sent_ids": [
+    "76ae039971c9",
+    "ddf2cb8a47b8"
+   ]
+  },
+  {
+   "text": "Many megafauna species died out, continuing the Late Pleistocene extinctions.",
+   "sent_ids": [
+    "29703480ff6a",
+    "6fe3ab6c24f8"
+   ]
+  },
+  {
+   "text": "Eurasia entered the Mesolithic, while in the Near East farming and herding began the Neolithic.",
+   "sent_ids": [
+    "f53337bbdbdd",
+    "5b09c3fa672b"
+   ]
+  }
+ ],
+ "northgrippian-age": [
+  {
+   "text": "The age opened with the 8.2 ka cold spell; then a warming climate and melting ice raised sea levels, flooding Doggerland and Sundaland.",
+   "sent_ids": [
+    "5322fa8ca119"
+   ]
+  },
+  {
+   "text": "After the cold spell, temperatures climbed to the Holocene's highest, so the age's first part was the Holocene Climatic Optimum.",
+   "sent_ids": [
+    "f2ece0385dfe",
+    "b1cdd1a8c1ed"
+   ]
+  },
+  {
+   "text": "Polar ice caps shrank to their smallest extent of the Holocene, and air masses and rain belts shifted from today's pattern.",
+   "sent_ids": [
+    "012b482f1b3d",
+    "20fe95b2808b"
+   ]
+  },
+  {
+   "text": "Six thousand years ago the Sahara was about half today's size, and Lake Mega-Chad once spread over some 350,000 km².",
+   "sent_ids": [
+    "54113f90ed65",
+    "aaf66cfe4372"
+   ]
+  },
+  {
+   "text": "A stronger East African monsoon raised lake levels, while western North America was drier than today.",
+   "sent_ids": [
+    "1e2153079d3e",
+    "39fd7a3502fc"
+   ]
+  },
+  {
+   "text": "The El Niño–Southern Oscillation was much weaker than in the later Holocene.",
+   "sent_ids": [
+    "fa72a1add5b3"
+   ]
+  },
+  {
+   "text": "Across much of the world, people moved from foraging to farming and herding, entering the Neolithic.",
+   "sent_ids": [
+    "b714512c0115"
+   ]
+  }
+ ],
+ "meghalayan-age": [
+  {
+   "text": "The Meghalayan, the latest age of the Holocene, began 4,250 years before 2000 with the 4.2-kiloyear drought and runs to the present day.",
+   "sent_ids": [
+    "c614377f3e0b",
+    "fe0a91dea624",
+    "1978a22d2951"
+   ]
+  },
+  {
+   "text": "It is named after the Indian state of Meghalaya, where a stalagmite in Mawmluh Cave marks its base; it was ratified in June 2018.",
+   "sent_ids": [
+    "eafd9418c5ef",
+    "0b6969a2361c",
+    "3806ce7ad6ea"
+   ]
+  },
+  {
+   "text": "After the rapid post-glacial rise, sea level stayed nearly stable from about 4,200 years ago until its rise sped up between 1850 and 1900.",
+   "sent_ids": [
+    "6c3c80ad4807",
+    "91c718eac201"
+   ]
+  },
+  {
+   "text": "Africa has been relatively cool since 4,000 BP, and Late Holocene cold snaps in East Asia tracked solar minima.",
+   "sent_ids": [
+    "84f39a416efa",
+    "563d19393ec3"
+   ]
+  },
+  {
+   "text": "Monsoonal China grew more arid, while north-western Patagonia turned more humid once the Holocene Climatic Optimum ended.",
+   "sent_ids": [
+    "5c46dc25de5a",
+    "7841c15f2313"
+   ]
+  },
+  {
+   "text": "El Niño, weak in the Middle Holocene, strengthened to moderate or high levels over the Late Holocene.",
+   "sent_ids": [
+    "fa72a1add5b3"
+   ]
+  },
+  {
+   "text": "Fire activity in Siberia fell again, and a 1,500-year North Atlantic circulation cycle may have been felt worldwide.",
+   "sent_ids": [
+    "d08b35b87486",
+    "31d5af2ee75a"
+   ]
+  },
+  {
+   "text": "Moa, New Zealand's giant flightless birds, were still thriving in the Late Holocene, before human settlers arrived.",
+   "sent_ids": [
+    "d238c39eacdf"
+   ]
+  },
+  {
+   "text": "Iceland's eruptions, such as Laki in 1783, come from the North American and Eurasian plates pulling apart at a divergent boundary.",
+   "sent_ids": [
+    "7eb83394c98f"
+   ]
+  },
+  {
+   "text": "Orbital cycles drove a slow Northern Hemisphere cooling over the last 2,000 years, through the Middle Ages and Little Ice Age, about 0.02 °C per century in the Arctic.",
+   "sent_ids": [
+    "073b30ac3581",
+    "ec554e047ccb"
+   ]
+  },
+  {
+   "text": "Warmth in the eleventh and early fifteenth centuries gave way to cool seventeenth and early nineteenth centuries; the twentieth century was warmest.",
+   "sent_ids": [
+    "eb4f978a69f6"
+   ]
+  },
+  {
+   "text": "Large eruptions repeatedly chilled the climate, with three big volcanic cooling periods in 1641–1642, 1667–1694 and 1809–1831.",
+   "sent_ids": [
+    "0dbbb5192e13"
+   ]
+  },
+  {
+   "text": "Humans lived on every continent but Antarctica, first sighted in 1820; East Polynesia, including New Zealand, was among the last habitable land settled.",
+   "sent_ids": [
+    "998fa4f49ea8",
+    "d14b49990ce8"
+   ]
+  },
+  {
+   "text": "By the Middle Ages, clearing and farming made humans the strongest force shaping Europe's land surface.",
+   "sent_ids": [
+    "32ecc595bffe"
+   ]
+  },
+  {
+   "text": "Extinctions followed people to islands: Polynesian expansion wiped out many species, and 95% of bird extinctions since the late 15th century were island natives.",
+   "sent_ids": [
+    "99398b78adcf",
+    "a3af170ce469"
+   ]
+  },
+  {
+   "text": "By the 2010s the global average temperature was about 15 °C, and year-round ice covered about 3.1% of Earth's surface and 10.7% of its land.",
+   "sent_ids": [
+    "e98e65b94019"
+   ]
+  },
+  {
+   "text": "Atmospheric carbon dioxide reached 432 ppm in 2026, 54% above the 280 ppm that held for 10,000 years before the mid-18th century.",
+   "sent_ids": [
+    "c34a53209003",
+    "64a6308701a1"
+   ]
+  },
+  {
+   "text": "Global sea level has risen faster since 1900 than in any century for at least 4,000 years, reaching 4.62 mm a year in 2013–2022.",
+   "sent_ids": [
+    "00df2c2c369c",
+    "ae8a78368719"
+   ]
+  },
+  {
+   "text": "About 90% of the world's earthquakes, including most of the largest, strike along the Pacific Ring of Fire.",
+   "sent_ids": [
+    "226e4e6d82ca"
+   ]
+  },
+  {
+   "text": "Farming dominates the land: by 2012 about 13% of ice-free land was cropland, 26% pasture and 4% urban or industrial.",
+   "sent_ids": [
+    "7ddfe30dc874"
+   ]
+  },
+  {
+   "text": "Human-made materials now outweigh all of Earth's biomass, and wild mammal biomass has fallen 83% since the dawn of civilization.",
+   "sent_ids": [
+    "2bfe0948eec4",
+    "162e125d216a"
+   ]
+  },
+  {
+   "text": "Only about 3% of the land surface remains ecologically and faunally intact, with healthy native species and little human footprint.",
+   "sent_ids": [
+    "36b761fd8a87"
+   ]
+  }
+ ]
+}
