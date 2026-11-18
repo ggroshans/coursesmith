@@ -267,6 +267,12 @@ parts:
     - Moral hazard
     - Principal–agent problem
     - Vickrey–Clarke–Groves mechanism
+    - Information asymmetry
+    - The Market for Lemons
+    - Signalling (economics)
+    - Screening (economics)
+    - Mechanism design
+    - Contract theory
   - key: time-risk-and-discounting
     title: Time, risk and discounting
     seeds:
@@ -586,6 +592,13 @@ parts:
     seeds:
     - Extreme weather
     - Radiative forcing
+    - Greenhouse effect
+    - Greenhouse gas
+    - Global warming potential
+    - Climate sensitivity
+    - Carbon dioxide in the atmosphere of Earth
+    - Climate change
+    - Effects of climate change
   - key: biodiversity-and-its-loss
     title: Biodiversity and its loss
     seeds:
@@ -1131,6 +1144,10 @@ parts:
     seeds:
     - International trade
     - Non-tariff barriers to trade
+    - Pollution haven hypothesis
+    - World Trade Organization
+    - Global waste trade
+    - Carbon leakage
 - key: mkt
   title: Paying for nature
   chapters:
@@ -1929,6 +1946,9 @@ parts:
     seeds:
     - Cycle of poverty
     - Sustainable livelihood
+    - Energy poverty
+    - Land degradation
+    - Poverty
   - key: business-and-nature
     title: Business and nature
     seeds:
@@ -1973,6 +1993,8 @@ parts:
     - Small Is Beautiful
     - The Population Bomb
     - History of economic thought
+    - Club of Rome
+    - Economics of biodiversity
     candidates:
     - Brazilian disease
     - Earth Summit 2002
