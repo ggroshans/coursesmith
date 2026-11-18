@@ -1,0 +1,22 @@
+# http-https-and-tls gaps (pass b4)
+
+- HTTP/2 own page or RFC 9113 (only a guide and Wikipedia HTTP sentences): suggested "HTTP/2" or rfc>9113
+- HTTP/3 and QUIC pages (RFC 9114, RFC 9000): suggested "HTTP/3", "QUIC"
+- HPACK header compression (only named in guides): suggested rfc>7541 or "HPACK"
+- HTTP cookie (sessions are only mentioned in one sentence): suggested "HTTP cookie"
+- Head-of-line blocking and HTTP pipelining as concepts: suggested "Head-of-line blocking", "HTTP pipelining"
+- Individual status codes (301/302, 304, 401/403, 404, 429, 500/502/503): the ByteByteGo status guide lists only the five classes
+- Public-key cryptography, symmetric-key algorithm, Diffie-Hellman key exchange (used as prerequisites, no page crawled): suggested "Public-key cryptography", "Diffie-Hellman key exchange"
+- Public key certificate and Certificate authority as their own pages: suggested "Public key certificate", "Certificate authority", "X.509"
+- Man-in-the-middle attack (HTTPS and TLS both turn on it; no page crawled): suggested "Man-in-the-middle attack"
+- HTTP Strict Transport Security and SSL stripping (one paragraph in HTTPS): suggested "HTTP Strict Transport Security"
+- TLS termination at a load balancer or reverse proxy (not in any sentence): suggested a Singh or ByteByteGo page on TLS termination
+- Online Certificate Status Protocol: suggested "Online Certificate Status Protocol"
+- Status 429 Too Many Requests, 101 Switching Protocols details, 100-continue/Expect: 429 is not in RFC 9110; suggested rfc>6585
+- HTTP Upgrade header and the WebSocket handshake (RFC 9110 section 7.8 is cut here): covered by the WebSocket chapter, suggested rfc>6455
+- Content codings (gzip, deflate, compress) and compression: suggested "HTTP compression"
+- Cookies and state management: suggested rfc>6265
+- Idempotency keys for POST (practice used by payment APIs): not in any sentence; suggested a payment-system guide
+- Host header and name-based virtual hosting (one sentence in RFC 9110 section 7.2): suggested "Virtual hosting"
+- Cache-Control directives stale-while-revalidate and stale-if-error, immutable (RFC 5861, RFC 8246): not in RFC 9111; suggested rfc>5861
+- CDN edge caching and cache purging as practice (RFC 9111 describes only the protocol rules): suggested a CDN chapter page

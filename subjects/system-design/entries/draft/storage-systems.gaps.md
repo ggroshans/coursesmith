@@ -1,0 +1,13 @@
+# storage-systems gaps (pass b10)
+- RAM and ROM, USB drive, SD card: the ByteByteGo guide "types-of-memory-and-storage" is only a two-bullet list of names and gets no entry; suggested page: Random-access memory, Read-only memory.
+- Volatile versus non-volatile memory has no page of its own in the crawl; suggested page: Volatile memory, Non-volatile memory.
+- Hard disk drive versus solid-state drive trade-offs (seek time, wear, cost): suggested page: Solid-state drive (Hard disk drive is crawled but belongs to another chapter).
+- Network file protocols (NFS, SMB) and iSCSI/Fibre Channel are named but not explained: suggested pages: Network File System, Server Message Block, iSCSI, Fibre Channel.
+- Distributed file systems in general (GFS, HDFS design with NameNode/DataNode): suggested page: Distributed file system, Google File System.
+- Amazon S3 (buckets, keys, the S3 API) as a product interviews name: suggested page: Amazon S3.
+- Reed-Solomon error correction (the code behind most storage erasure coding): suggested page: Reed-Solomon error correction.
+- Hot, warm and cold data and storage tiering: suggested page: Data tiering, Hot data.
+- Data durability and "nines" of durability (11 nines vs 6 nines is cited but not explained): suggested page: Durability (computer science), Data integrity.
+- Block-level storage and logical volumes as their own concepts: suggested pages: Block (data storage), Logical volume management.
+- Cloud storage gateways and unified file-and-object storage: suggested page: Cloud storage gateway.
+- Object-based storage device (OSD) standards and object-based file systems (metadata servers plus object servers): suggested pages: Object-based storage device, Ceph (software), Lustre (file system).

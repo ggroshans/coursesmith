@@ -1,0 +1,10 @@
+- Load shedding (named only in the resiliency-patterns guide; no explanatory sentences)
+- Back pressure (named only in the resiliency-patterns guide; the message-queues chapter has one sentence)
+- Let it crash (named only in the resiliency-patterns guide; no sentences)
+- Bulkhead pattern, Timeout pattern, Retry pattern (the guide says "8 cloud design patterns" but names only five; suggest Wikipedia "Bulkhead (computing)" or a cloud design patterns doc)
+- Cascading failure (Wikipedia page, linked from Circuit breaker design pattern)
+- Throttling (Wikipedia "Bandwidth throttling"; Rate limiting page says to use it with rate limiting)
+- HTTP 429 Too Many Requests (RFC 6585 or an HTTP status code page; only one Wikipedia sentence)
+- Sliding window rate limiter detail, Redis-based rate limiter (only Singh's brief section; an interview-sized treatment with counters in Redis is missing)
+- Thundering herd / retry storm (only one phrase in the retry guide)
+- Wikipedia Circuit breaker design pattern "Challenges" section is vandalised with logic-gate text (sentences c60227dfb363 to 47c7d0ffd468); report so the page is re-crawled or ignored
