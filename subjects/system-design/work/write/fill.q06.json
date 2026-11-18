@@ -1,0 +1,378 @@
+{
+ "questions": {
+  "sysd-msg-079": {
+   "q": "Why should each microservice keep its own data private instead of sharing a database schema?",
+   "a": "Private data lowers coupling, so services can evolve independently, while shared database schemas are a cause of coupling.",
+   "sent_ids": [
+    "11390c926a92",
+    "bf1c062ed611",
+    "65a72dc133f9",
+    "dba927142151"
+   ]
+  },
+  "sysd-msg-085": {
+   "q": "When might one bounded context be split into several microservices, or several contexts merged into one?",
+   "a": "A context may be split for varying scalability needs, and several contexts may be consolidated into one microservice for simplicity or lower operational overhead.",
+   "sent_ids": [
+    "5d9c2ca1df07"
+   ]
+  },
+  "sysd-msg-088": {
+   "q": "What is the reach-in reporting antipattern, and what is the alternative?",
+   "a": "Pulling data for a reporting service, whether directly from databases, over HTTP or in batches, can break bounded contexts or reduce the timeliness of the data. Having the databases push the data asynchronously needs a separate contract and can be complex, but it preserves bounded contexts while keeping data timely.",
+   "sent_ids": [
+    "3bff1a010299",
+    "cdd0debedf0f",
+    "79fcca63cb9d",
+    "4ce8cd9c40d3",
+    "bf2e73c1bd22"
+   ]
+  },
+  "sysd-msg-075": {
+   "q": "When moving from a monolith to microservices, which should be migrated first, the code or the data?",
+   "a": "The code: new microservices temporarily rely on the existing monolithic database, and data is decoupled later so each service has its own database. Prioritizing data migration first is the data-driven migration antipattern.",
+   "sent_ids": [
+    "f544d00fa930",
+    "1e2a9c84ed5e",
+    "92630b3ee9c3",
+    "0e73e2465c5f"
+   ]
+  },
+  "sysd-msg-001": {
+   "q": "Why must callers treat a remote procedure call differently from a local one, even though it is written like a local call?",
+   "a": "Remote calls are usually orders of magnitude slower and less reliable than local calls, and they can fail from unpredictable network problems without the caller knowing whether the remote procedure was actually invoked.",
+   "sent_ids": [
+    "1b7a8edea17d",
+    "a77ec0ddf03d",
+    "c5102002edf5",
+    "868ed83b3b40"
+   ]
+  },
+  "sysd-msg-004": {
+   "q": "Why can a data structure not be serialized by copying its memory layout directly?",
+   "a": "The serialization format must be architecture-independent, and a raw memory layout cannot work reliably across architectures because of byte ordering, memory layout and per-language data representation.",
+   "sent_ids": [
+    "431aff1ed523",
+    "72231cdce01f",
+    "c76bef7464f5"
+   ]
+  },
+  "sysd-msg-123": {
+   "q": "How does a Protocol Buffers message save bandwidth compared with sending field names?",
+   "a": "A schema identifies each field by an integer, and the data carries only those numbers, not the field names, which saves bandwidth and storage.",
+   "sent_ids": [
+    "5caf32e50ce3",
+    "28e13235351d"
+   ]
+  },
+  "sysd-msg-122": {
+   "q": "Why did services move from SOAP towards using HTTP more directly, as REST does?",
+   "a": "Being protocol-agnostic, SOAP cannot use REST's uniform interface or caching and must reimplement them. Its verbosity, slow XML parsing and lack of a standard interaction model led services to use HTTP more directly.",
+   "sent_ids": [
+    "223a929cf5a4",
+    "c2b7cb0afb12",
+    "bc3f0cb55c9d"
+   ]
+  },
+  "sysd-msg-013": {
+   "q": "How does cursor-based pagination avoid the cost of offset-based pagination on large datasets?",
+   "a": "Offset-based pagination must scan and skip rows, which is inefficient for large offsets, while cursor-based pagination marks a position with a cursor so skipped records are not scanned. The price is slightly more complexity.",
+   "sent_ids": [
+    "b0b41daeeb7f",
+    "c04cd15385f5",
+    "db64b58b6108"
+   ]
+  },
+  "sysd-msg-019": {
+   "q": "Which should you pick for an API: REST, GraphQL or gRPC?",
+   "a": "None is better: there is no silver bullet, and the best choice depends on the application's requirements and team, so focus on the domain and requirements rather than the technology.",
+   "sent_ids": [
+    "cddeded57bdf",
+    "cda80e7523bd",
+    "f08c1861d9a0",
+    "8cd12d8ac5bd"
+   ]
+  },
+  "sysd-msg-016": {
+   "q": "What does agreeing an API contract before writing any code let downstream developers do?",
+   "a": "They can mock the server and start testing right away, which is a shift-left testing practice.",
+   "sent_ids": [
+    "001482f76c9b",
+    "c4df41183178",
+    "6e6582d5ce10"
+   ]
+  },
+  "sysd-msg-101": {
+   "q": "Why does long polling remove the response latency of normal polling, yet usually not scale?",
+   "a": "The server holds the request open until information is available or a timeout is reached, so it can respond as soon as there is news. But it creates a new connection each time, which is intensive on the server.",
+   "sent_ids": [
+    "dc43c8605c25",
+    "a2921102ed74",
+    "18a18d4cb058",
+    "ff1b2d20aa72",
+    "65b0772ac99f",
+    "2d043f38d3f7"
+   ]
+  },
+  "sysd-msg-107": {
+   "q": "Which of SSE and WebSocket lets the browser keep sending new requests to the server, and why?",
+   "a": "WebSocket, because it is full-duplex, whereas SSE is uni-directional so the browser cannot send a new request to the server.",
+   "sent_ids": [
+    "d2c6e0cb29b2"
+   ]
+  },
+  "sysd-msg-110": {
+   "q": "What does fragmentation let a WebSocket sender avoid?",
+   "a": "Buffering a whole message: it lets the sender start a message of unknown length, whereas without fragmentation the complete length is needed before the first byte can be sent, which requires a buffer.",
+   "sent_ids": [
+    "95385bcc42fc",
+    "76bbe0e5b610",
+    "6215d90e254b"
+   ]
+  },
+  "sysd-msg-106": {
+   "q": "How does a webhook differ from polling an external service?",
+   "a": "Instead of continuously asking, you give the external service an endpoint as a callback, and it calls that endpoint every time something interesting happens, so data is pushed as soon as it is available.",
+   "sent_ids": [
+    "1fdf8b878c64",
+    "2c89577e98a5",
+    "08e4cccc5033",
+    "a1682cdf28c2"
+   ]
+  },
+  "sysd-msg-103": {
+   "q": "How does a message get from a user on one XMPP server to a user on another?",
+   "a": "The client sends it to its own server, which delivers it instantly if the recipient is online and otherwise holds it. For a user on another server, the first server connects to that server over XMPP.",
+   "sent_ids": [
+    "7615fe223c37",
+    "40291c73d529",
+    "8d68553c2725"
+   ]
+  },
+  "sysd-msg-150": {
+   "q": "Why should WebSocket clients wait a random, growing time before reconnecting after an abnormal closure?",
+   "a": "Clients that all reconnect immediately and persistently after a nontransient failure amount to a denial-of-service attack that can keep the service from recovering. So the first attempt is delayed by a random time, and later attempts wait increasingly longer.",
+   "sent_ids": [
+    "98d49b086939",
+    "d20e560797c9",
+    "f16842ee5cd7",
+    "0c2486787895",
+    "c7942b52e2c0"
+   ]
+  },
+  "sysd-msg-118": {
+   "q": "What attack does masking the frames a WebSocket client sends prevent?",
+   "a": "In an experiment, attackers poisoned caching proxies by sending data on an upgraded connection that looked like an HTTP GET. Masking client data stops a script from making a message that an intermediary misreads as HTTP.",
+   "sent_ids": [
+    "a76dc9cf3d34",
+    "39fef8a0863e",
+    "0ff134b95602"
+   ]
+  },
+  "sysd-msg-120": {
+   "q": "How does handling many concurrent connections differ from handling many requests per second?",
+   "a": "Many requests per second needs high throughput, whereas many concurrent connections needs efficient scheduling of connections to sockets or other stateful endpoints.",
+   "sent_ids": [
+    "dadbec3f4e56"
+   ]
+  },
+  "sysd-reliab-075": {
+   "q": "What happens when one part of a system fails and the other parts must compensate for it?",
+   "a": "That overloads the other parts so they fail too, which prompts more nodes to fail one after another: a cascading failure.",
+   "sent_ids": [
+    "2a559757916e",
+    "444086b0dcc5",
+    "73984e1f7828"
+   ]
+  },
+  "sysd-reliab-176": {
+   "q": "Why should a deadline be propagated down the call stack?",
+   "a": "With propagation, every RPC in the tree shares the same absolute deadline, so each call knows how much time remains. Without it, a server keeps working on doomed requests, such as one that believes it has time left after the caller's deadline has already passed.",
+   "sent_ids": [
+    "a7a11621eafd",
+    "c34e43cf42af",
+    "0301f547a9cd",
+    "c36c88ab4e60",
+    "2d8495ba1b77"
+   ]
+  },
+  "sysd-reliab-171": {
+   "q": "How does adaptive throttling decide when a client should reject its own requests?",
+   "a": "Each client task tracks, for the last two minutes, the requests its application attempted and the requests the backend accepted. It keeps sending until requests reach K times accepts, then rejects new requests locally with a probability that rises as the application's request rate grows relative to the accepted rate.",
+   "sent_ids": [
+    "d994de9bb8a3",
+    "c41f7b8a36f2",
+    "5f9b3100f2f4",
+    "27c98bc7bf8f",
+    "f8d08ec28365",
+    "424a07953a18",
+    "cf53e115424e",
+    "35a705d0b6d5",
+    "da6900ef20d4"
+   ]
+  },
+  "sysd-reliab-086": {
+   "q": "How does graceful degradation go further than load shedding?",
+   "a": "Load shedding drops some proportion of traffic as a server approaches overload. Graceful degradation takes it a step further by reducing the work each request needs, for example by returning lower-quality results.",
+   "sent_ids": [
+    "2a1ed9be9fec",
+    "36941f91da58",
+    "3d0a479c1994"
+   ]
+  },
+  "sysd-reliab-181": {
+   "q": "Why is a rate limit tracked separately on each node not enough for a cluster-wide limit?",
+   "a": "A consumer can exceed the global limit by sending requests to different nodes, and the more nodes there are, the likelier that becomes.",
+   "sent_ids": [
+    "823d86354d6a",
+    "002b57fa6efe",
+    "af3dff4eb141"
+   ]
+  },
+  "sysd-reliab-172": {
+   "q": "When a service is globally overloaded, who should receive the errors, and how do owners arrange this?",
+   "a": "Only the misbehaving customers should get errors, while other customers remain unaffected. Owners provision capacity from negotiated usage and set per-customer quotas.",
+   "sent_ids": [
+    "f786cd2c17aa",
+    "0e09f037849b",
+    "a73dd0e8930a",
+    "88e8712aa126"
+   ]
+  },
+  "sysd-reliab-180": {
+   "q": "What is the difference between a latency cache and a capacity cache?",
+   "a": "A latency cache lets a service sustain its expected load with an empty cache, while a capacity cache does not; caches added for performance can become hard dependencies.",
+   "sent_ids": [
+    "e093fc451f03",
+    "ef9036af9f94"
+   ]
+  },
+  "sysd-reliab-182": {
+   "q": "Why can retrying a timed-out payment request charge the customer twice?",
+   "a": "The client cannot tell whether the server missed the request, processed it with the response lost, or is still processing it. Retrying without idempotency can therefore charge the customer twice.",
+   "sent_ids": [
+    "aeefac622ea1",
+    "222f28f884a5",
+    "762b89ff61fe"
+   ]
+  },
+  "sysd-reliab-079": {
+   "q": "How can a payment system get exactly-once execution from retries and an idempotency check?",
+   "a": "It splits the problem in two: retry provides at-least-once delivery, since a client retries after an error or timeout, and an idempotency key lets the server discard duplicates, providing at-most-once.",
+   "sent_ids": [
+    "b48506126ba3",
+    "cd3b35ba27e6",
+    "7b87872ba5c6",
+    "369b50c044ee",
+    "502671bc4698",
+    "f13eb66d4892",
+    "e96718fd9a4a",
+    "f674ecc9e3e9",
+    "cd6e364dbe55"
+   ]
+  },
+  "sysd-reliab-068": {
+   "q": "What happens in a circuit breaker's half-open state?",
+   "a": "A limited number of requests pass through; if they succeed the breaker returns to closed, and if they keep failing it goes back to open.",
+   "sent_ids": [
+    "40ffe04bf4c2",
+    "a10b6a00ea89",
+    "0b2d70b6a584"
+   ]
+  },
+  "sysd-reliab-089": {
+   "q": "How does the token bucket relate to the leaky bucket used as a meter?",
+   "a": "They are mirror images: implemented correctly with the same parameters, they see exactly the same packets as conforming and nonconforming. The leaky bucket as a queue is different, a special case of the meter version that applies only to traffic shaping and gives jitter-free output.",
+   "sent_ids": [
+    "1bc4a99cea42",
+    "2306e244da43",
+    "5cd4ac1082a3",
+    "52c6714179ee",
+    "37981d4fae0d",
+    "a6c0f1ec273c",
+    "38c6db26e399"
+   ]
+  },
+  "sysd-reliab-091": {
+   "q": "Why can a 99.99% uptime SLO still hide a catastrophic integrity failure?",
+   "a": "Each service has independent uptime and integrity requirements: 99.99% uptime allows about an hour of downtime a year, but 99.99% good bytes in a 2 GB artifact means up to 200 KB garbled, which is catastrophic.",
+   "sent_ids": [
+    "47eb2b56f8d2",
+    "16a46eef9980",
+    "dfda0f15c8ad",
+    "84f60cd9cc6d"
+   ]
+  },
+  "sysd-reliab-099": {
+   "q": "How do SLIs, SLOs and SLAs build on one another?",
+   "a": "SLIs form the basis of service level objectives, which in turn form the basis of service level agreements. An SLI is the measured value of the metric an SLO describes, and it must always meet or exceed the SLO's value to stay in compliance with the SLA.",
+   "sent_ids": [
+    "7094abb9049b",
+    "b44d15195b0b",
+    "ea379e683e90"
+   ]
+  },
+  "sysd-reliab-190": {
+   "q": "How does a differential backup differ from an incremental one?",
+   "a": "An incremental copies changes since the most recent backup of any type, while a differential copies changes since the last full backup. A restore from differentials needs at most two backups, but each differential takes longer as changes accumulate.",
+   "sent_ids": [
+    "70bce1b87036",
+    "c9afd521bf8b",
+    "7c1fbf8609b8",
+    "7594f7c42a6a",
+    "798aef36a0c9"
+   ]
+  },
+  "sysd-reliab-210": {
+   "q": "Why is replication a flawed answer to the question of whether you have a backup?",
+   "a": "Replication gives data locality and protection from a site-specific disaster, but it cannot protect against many sources of data loss.",
+   "sent_ids": [
+    "b0af4ccef9fb"
+   ]
+  },
+  "sysd-reliab-224": {
+   "q": "How does an error budget resolve the tension between developers and SREs?",
+   "a": "Developers are judged on velocity and SREs on reliability, so they pull in opposite directions. The error budget is an objective, agreed metric that removes politics and gives both a common incentive.",
+   "sent_ids": [
+    "f4414756f2fd",
+    "8afb7feea987",
+    "f23a186ba24f",
+    "4c3063b49c57"
+   ]
+  },
+  "sysd-reliab-197": {
+   "q": "Why is a 99.99% availability target both a minimum and a maximum?",
+   "a": "The goal is reliable enough but no more: exceeding the target by much wastes chances to add features, clean up technical debt or cut costs.",
+   "sent_ids": [
+    "a126b32ea0a0",
+    "16d65fc53230",
+    "b6400eb1ce3a"
+   ]
+  },
+  "sysd-reliab-194": {
+   "q": "What goes wrong if you pick an SLO target simply from current performance?",
+   "a": "Adopting values without reflection can lock you into a system that needs heroic efforts to meet its targets and cannot improve without redesign.",
+   "sent_ids": [
+    "5d2a70108480",
+    "478dafa50caa"
+   ]
+  },
+  "sysd-reliab-097": {
+   "q": "What is the difference between monitoring and observability?",
+   "a": "Monitoring watches predefined sets of telemetry, whereas observability is based on exploring properties and patterns that were not defined in advance.",
+   "sent_ids": [
+    "c8ab11236f93",
+    "db5549266251"
+   ]
+  },
+  "sysd-reliab-209": {
+   "q": "What is a fuzzy backup, and why is it dangerous?",
+   "a": "It comes from snapshotting a file while it changes, or across interrelated files such as a database, which yields a corrupted file. It looks successful but does not show the data at a single point in time.",
+   "sent_ids": [
+    "3206266493b8",
+    "95a0bc6bc792",
+    "c4fcbf94f458"
+   ]
+  }
+ }
+}

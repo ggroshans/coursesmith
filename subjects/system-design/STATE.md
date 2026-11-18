@@ -3,54 +3,39 @@
 _Update after every step. `coursesmith status system-design` prints the live numbers._
 
 ## Where it stands
-- **Sources vetted and checked** (`reports/sources.md`, stamp in `scope/sources.ok`): Wikipedia, three openly licensed
-  guides (System Design Primer, CC BY 4.0; Singh's System Design and ByteByteGo System Design 101, both CC BY-NC-ND 4.0,
-  so this course is `distribution: personal`), four RFCs (9110, 9111, 6455, 1034) and eleven foundational papers
-  (abstracts only). Licenses were read from each repository's LICENSE file; commits are pinned in `subject.yaml`.
-- **Frame written by hand** (`subject.yaml` `frame:`, built into `frame.yaml`): 6 parts and 48 chapters. Foundations,
-  Building blocks, Scaling and consistency, Messaging/APIs/architecture, Reliability/security/operations, and
-  **Design interview questions** (19 chapters, each one question: the primer's eight solutions, Singh's five case
-  studies, and ByteByteGo's Gmail, Google Maps, stock exchange, Google Docs, payment and notification designs).
-- **Crawled** the frame's pages only (`crawl --depth 0`): 347 pages, 27,922 sentences. Wikipedia 126 pages
-  (16,785 sentences), Singh's guide 57 sections (2,983; its one file is split into 61 section pages, see
-  `coursesmith sources parts system-design`), ByteByteGo 141 guides (2,033), the primer's 8 solutions (1,270), 4 RFCs
-  (4,802) and 11 paper abstracts (49).
-- **Extracted, graphed, dossiers built**: every page is in a chapter; 98 dossier chunks across the 48 chapters. A
-  question chapter's dossier opens with `QUESTION: ...` and the instruction to write one Worked example.
-- **Consolidated** (28 batches of passes, merged per chapter, full `finalize`): 701 entries in 48 chapters, 0 validation
-  problems, 0 possible duplicates. 62 Landmark, 306 Major, 333 Minor; 110 Foundational, 491 Intermediate, 100 Advanced.
-  Kinds: 373 Concept, 103 Method, 103 Classification, 43 Process, 43 Practice, 19 Worked example (exactly one in each
-  of the 19 question chapters, none elsewhere), 11 Case study, 5 Debate, 1 Event. Prerequisite/related names that only
-  differed in wording were aliased to existing titles.
+**Finished and published:** 1,091 entries in 48 chapters, 312 units (3 or 4 entries each), 312 questions, 312 EPUBs plus
+the complete edition (`build/epubs/system-design/`) and `output/course.json` (all 312 units render through the
+xteink-daily `Course` loader). `write check` and `publish check` report 0 problems.
 
-## Next steps
-1. **Gap-fill** (`guides/GAPFILL_GUIDE.md`): 32 prerequisite/related names resolve to no entry (`finalize` lists them).
-   The real concept gaps are: Hash function, Hash table, Quorum, Public-key cryptography, Inverted index, Data
-   warehouse, Canary release, Schema registry, Database per service, Write-ahead log, ACID, Serialization, Connection
-   pooling, Client-server model, Distributed hash table, Distributed tracing, Domain-driven design, Feature toggle,
-   Rolling update, DDoS, Edge computing, Peer-to-peer, Zero trust security model, TCP three-way handshake. Add seeds
-   to `subject.yaml`, `crawl --chapter <key> --depth 0`, `extract`, `graph build`, `dossier`, consolidate the new chunk.
-   The per-chapter `entries/draft/<chapter>.gaps.md` files list smaller omissions.
-2. `select` (weights skew Major; trim to the per-unit target and drop the thin tech-stack Case studies), an ordering
-   pass (`order packet`, ordering agents, `order build`, `order lock`), `verify`.
-3. Writing passes (`guides/WRITING_GUIDE.md`: worked examples are 300-700 words in paragraphs; declare capacity math
-   under `derived`), `write render`, `units build`, a question pass, `write render`, `units build` again, `publish check`,
-   `export`, `publish build`.
+- **Sources** (`reports/sources.md`, stamp in `scope/sources.ok`): Wikipedia; three openly licensed guides (System
+  Design Primer, CC BY 4.0; Singh's System Design and ByteByteGo System Design 101, CC BY-NC-ND 4.0); fourteen RFCs;
+  twenty-two paper abstracts; the Google SRE book (CC BY-NC-ND 4.0, ten chapters); the Kubernetes documentation (CC BY
+  4.0) and the PostgreSQL documentation (PostgreSQL License). Licenses were read from the sources, commits pinned.
+  Two NonCommercial guides and the SRE book make the course `distribution: personal`.
+- **Frame** (hand-written in `subject.yaml`, built into `frame.yaml`): 6 parts. Foundations, Building blocks (starting
+  with "Algorithms behind the systems", moved up because hashing and Bloom filters are needed by the chapters after
+  it), Scaling and consistency, Messaging/APIs/architecture, Reliability/security/operations, and **Design interview
+  questions** (19 chapters, each one question with a worked answer).
+- **Consolidation and gap-fill:** the first round gave 701 entries; the gap-fill round (332 more pages, 124 chunks)
+  brought it to 1,102 (1,091 selected; 10 Gmail protocol details and one more are excluded). `reports/gaps.md` lists
+  nothing open. Accepted gaps, with reasons, are under `gaps: accepted:` in `subject.yaml`.
+- **Order locked** (ids frozen). 124 prerequisite edges point to a later chapter and were moved to `related`
+  (`reports/order.md`); 35 cycles were broken.
+- **Verification:** tier B ran (547 DOIs); tiers: 498 Wikipedia, 224 reference, 180 curated, 132 standard, 35 official,
+  22 primary. No authorities are registered, so tiers C and D are empty. Tier A (`crawl --context`) was skipped.
+- **Prose:** all entries written with figures (176, in `work/write/figures.*.json`) and 48 chapter reviews;
+  `edition.paragraphs: true`. Term-before-definition waivers are in `waivers.json` (API, SQL and similar, with reasons).
 
-## Known limits of the sources
-- Wikipedia superscripts and root signs are lost in extraction, so formulas such as HyperLogLog's and UUID's are
-  thin; the consolidation avoided stating them.
-- The GFS paper page holds only publisher chrome, so the GFS entry cites Wikipedia alone.
-- Singh's key-generation estimate contradicts itself (300 GB against about 390 GB); the entry leaves it out.
-- ByteByteGo guides are often a diagram caption plus a few sentences. Thirteen entries are marked `thin:` in their
-  notes: Resilience patterns, Map tiles, Secure system design checklist, API security practices, Reducing latency,
-  Choosing a message queue and the Worked examples for Gmail, Google Maps, Google Docs, stock exchange, notification
-  system, payment system and permission system.
+## Known limits
+- Seven worked answers are thin because no vetted source gives scale, a data model or an API: Gmail, Google Maps,
+  Google Docs, a stock exchange, a payment system, a notification system and a permission system. They rest on standards,
+  papers and concept pages and say what the sources say; none was padded.
+- Wikipedia superscripts and root signs are lost in extraction, so formulas (UUID, k-d tree, HyperLogLog's error
+  bound beyond the paper's abstract) are stated only where a sentence carries them.
+- The Google File System paper page holds only publisher chrome; its entry cites Wikipedia alone.
+- Wikipedia has no page for event sourcing or differential synchronization; the entries rest on the other sources.
+- Not included: the Redis docs (CC BY-NC-SA) and Kafka docs (one monolithic page).
 
-## Notes
-- Chapters whose answer is built from a concept page (a rate limiter, a key-value store, an ID generator) were left
-  out: the sources have the concepts but no worked solution to cite. Add one as a question chapter with `also:` pages
-  if a source with a worked answer turns up (`coursesmith sources discover system-design --query "..."`).
-- Not included yet: official documentation sites (Redis, PostgreSQL, Kafka) and the Google SRE books. Both need their
-  licenses read first (`sources check` does it) and an `html` source with an allowlist; the SRE books are CC BY-NC-ND.
-- A ByteByteGo guide is often a diagram plus a paragraph, so its entries will be short.
+## If you change entries
+`finalize` -> `report gaps` -> `select` -> `order build` (ids stay) -> `verify` -> `write render` and `check` -> `units build`
+(then `write questions`, a question pass, `write render`, `units build` again) -> `publish check`, `export`, `publish build`.

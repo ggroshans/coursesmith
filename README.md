@@ -25,9 +25,10 @@ Each has `output/course.json` (the whole course), `output/course.md` (readable i
 `output/curriculum.md` (the table of contents with every entry's level, kind and prerequisites).
 
 [`system-design`](subjects/system-design) is the first course built from more than Wikipedia: system design
-interview questions, beginner to advanced, from Wikipedia, three openly licensed guides, four RFCs and eleven
-foundational papers. Its sources are vetted and checked, its frame (48 chapters, 19 of them design questions) is
-written and its pages are crawled; the consolidation and writing passes are next (see its `STATE.md`).
+interview questions, beginner to advanced, from Wikipedia, three openly licensed guides, fourteen RFCs, twenty-two
+paper abstracts, the Google SRE book and the Kubernetes and PostgreSQL documentation. It has 48 chapters (19 of them
+design questions with worked answers), 1,091 entries and 312 daily units, built and published (see its `STATE.md`).
+It is `distribution: personal`, because two of its guides and the SRE book are NonCommercial.
 
 ## Setup
 

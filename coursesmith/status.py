@@ -62,7 +62,7 @@ def subject_status(s):
         from .frame import gaps
         st["gaps"] = gaps.summary(s)
     cov = read_json(s.reports_dir / "coverage.json")
-    if cov:
+    if cov and (s.cfg.get("hubs") or (s.cfg.get("categories") or {}).get("roots")):  # no hubs: nothing to cover
         st["coverage"] = cov.get("summary")
     units = s.units()
     st["units"] = units.get("n_units") or 0

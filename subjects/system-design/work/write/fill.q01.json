@@ -1,0 +1,371 @@
+{
+ "questions": {
+  "sysd-found-130": {
+   "q": "Why does system design have to be thought through at a high level so early in a project?",
+   "a": "It is one of the earliest decisions made when building a system, and high-level design decisions are very difficult to correct later.",
+   "sent_ids": [
+    "99031a27275e",
+    "9c3826a783ef"
+   ]
+  },
+  "sysd-found-207": {
+   "q": "How do functional and non-functional requirements differ, and which kind drives the technical architecture?",
+   "a": "Functional requirements define what a system is supposed to do, while non-functional requirements define how it is supposed to be, an overall property rather than a specific function. Non-functional requirements drive the technical architecture.",
+   "sent_ids": [
+    "f0bb63399664",
+    "8ae8e4c0e14b",
+    "378e64cadc3c"
+   ]
+  },
+  "sysd-found-137": {
+   "q": "Why do architects record each decision in a single Architecture Decision Record instead of leaving it in email?",
+   "a": "Forgotten, undocumented or misunderstood decisions, often those communicated by email, cause repeated discussions without resolution. One record in an accessible repository such as a wiki gives a single updated source of truth.",
+   "sent_ids": [
+    "6224c57a4454",
+    "ef9915939b3b",
+    "06915d1793ce"
+   ]
+  },
+  "sysd-found-143": {
+   "q": "Which of requirements engineering and software architecture addresses the 'what', and which the 'how'?",
+   "a": "Requirements engineering addresses the problem space, the 'what', while software architecture targets the solution space, the 'how'; the two are complementary approaches.",
+   "sent_ids": [
+    "e107a06a9105"
+   ]
+  },
+  "sysd-found-140": {
+   "q": "What should you do first in a system design interview, and why?",
+   "a": "Ask about the exact scope and clarify the functional and non-functional requirements early, because interview questions are vague. Ask about the core features and about aspects such as data volume, availability and scale.",
+   "sent_ids": [
+    "2a94f943b740",
+    "16ee99c4d077",
+    "76f07f710d8c",
+    "2dde533d5e0b"
+   ]
+  },
+  "sysd-found-135": {
+   "q": "Why does the technical structure of a product tend to mirror the organization that built it?",
+   "a": "The authors of a product's parts must communicate to keep them compatible, so organizations that design systems produce designs that copy their own communication structures and the technical structure reflects the organization's social boundaries.",
+   "sent_ids": [
+    "1ebf13a40134",
+    "ea9d0842ecfa",
+    "68db1333e8cb"
+   ]
+  },
+  "sysd-found-087": {
+   "q": "Why can no system with distance between cause and effect have zero latency?",
+   "a": "Latency is physically a consequence of the limited speed at which any interaction can propagate, which never exceeds the speed of light, so any system with distance between cause and effect has some latency.",
+   "sent_ids": [
+    "2c27156dd64e",
+    "a97b5400d377",
+    "6cd3ed222914"
+   ]
+  },
+  "sysd-found-192": {
+   "q": "A web service averages 100 ms latency. Why can that number still hide a problem?",
+   "a": "Average and median latency can mislead because a few outliers distort them, so such a service may have 1% of requests taking 5 seconds. Tail latency is therefore measured at high percentiles, not the average.",
+   "sent_ids": [
+    "b16945424132",
+    "8395e0c67c7b",
+    "9546920f6504",
+    "d4b02d2776da"
+   ]
+  },
+  "sysd-found-094": {
+   "q": "Why does adding more bandwidth not remove the delay of a long-distance request?",
+   "a": "Propagation time depends on distance, and more bandwidth shrinks only transmission time, so the remaining delay is increasingly propagation.",
+   "sent_ids": [
+    "41f84aef6857",
+    "ea981a2cc66a",
+    "9a49b17cc05e"
+   ]
+  },
+  "sysd-found-098": {
+   "q": "What is the difference between bandwidth and throughput?",
+   "a": "Bandwidth is the maximum achievable speed or capacity, while throughput is the speed actually achieved and is always less than bandwidth.",
+   "sent_ids": [
+    "5334446cadfb",
+    "48fae5b709bc",
+    "77a0ea129be0"
+   ]
+  },
+  "sysd-found-092": {
+   "q": "Why does TCP lose throughput when the bandwidth-delay product is larger than the TCP window?",
+   "a": "The sender must wait for acknowledgements before sending more packets, so TCP flow control lowers throughput.",
+   "sent_ids": [
+    "da01a1b45f68",
+    "be4dfbbb6fe1"
+   ]
+  },
+  "sysd-found-096": {
+   "q": "How does a back-of-the-envelope calculation differ from a guess and from an accurate calculation?",
+   "a": "It is more than a guess but less than an accurate calculation or proof, and its defining characteristic is the use of simplified assumptions.",
+   "sent_ids": [
+    "855b8abb5f80",
+    "12a7f7fe5a73"
+   ]
+  },
+  "sysd-found-029": {
+   "q": "Why does the original end-to-end principle no longer hold fully in real networks?",
+   "a": "The original principle kept state and intelligence at the edges and a simple network between them, but real-world firewalls, network address translators and web caches have since forced changes.",
+   "sent_ids": [
+    "72afa33c73e9",
+    "415e4176b8af"
+   ]
+  },
+  "sysd-found-030": {
+   "q": "Why is TCP not particularly suitable for real-time applications such as voice over IP?",
+   "a": "Handshaking, retransmission and error detection add reliability but lengthen latency. TCP is optimized for accurate rather than timely delivery, with delays on the order of seconds.",
+   "sent_ids": [
+    "2ac158f3b150",
+    "9a50add4371d",
+    "bc5f3600ee99"
+   ]
+  },
+  "sysd-found-006": {
+   "q": "What do the three messages of TCP's opening handshake establish, and what does the handshake cost?",
+   "a": "The client sends a SYN, the server replies with a SYN-ACK and the client answers with an ACK, after which both sides have received acknowledgments and full-duplex communication is established. It adds one round trip of latency before data can be sent.",
+   "sent_ids": [
+    "565e2f3faab2",
+    "3e0c5881deab",
+    "fd4fc55c868c",
+    "58a79804f0a0",
+    "239fb3ad908c",
+    "b489d4b42597",
+    "d42226e04053"
+   ]
+  },
+  "sysd-found-021": {
+   "q": "If an application sends data over UDP but needs reliable delivery, who has to provide it?",
+   "a": "The application itself, for example by adding its own handshaking such as confirmation that a message was received, because UDP does not guarantee delivery and gives the sender no feedback.",
+   "sent_ids": [
+    "ce4dc471892f",
+    "645e50a93fd2",
+    "3daab7a311ab",
+    "89fcb5e36829"
+   ]
+  },
+  "sysd-found-152": {
+   "q": "Why was IPv6 created, and how does dual stack ease the move to it?",
+   "a": "The rapid exhaustion of IPv4 address space led the IETF to redesign the Internet Protocol, which became IPv6. Dual stack runs IPv4 and IPv6 at the same time on the same devices, using whichever fits the destination address.",
+   "sent_ids": [
+    "27dc675c025e",
+    "0d2fcf4a1836",
+    "b59a8a0ce330",
+    "ee157852b586"
+   ]
+  },
+  "sysd-found-017": {
+   "q": "Why does TCP wait for three duplicate acknowledgments before retransmitting?",
+   "a": "After three duplicate acknowledgments the sender retransmits the last unacknowledged packet; the threshold is three because the network may reorder segments.",
+   "sent_ids": [
+    "bad2494515f3",
+    "775a304c2494"
+   ]
+  },
+  "sysd-found-009": {
+   "q": "What does a TCP sender do when the receiver advertises a window of 0, and why does it start a persist timer?",
+   "a": "The sender stops and starts a persist timer, which protects against deadlock if the window update is lost. On expiry the sender sends a small packet to get a fresh window size.",
+   "sent_ids": [
+    "03d99f569fc8",
+    "55c542694eaf",
+    "201bea5983db"
+   ]
+  },
+  "sysd-found-010": {
+   "q": "How does TCP's congestion window differ from the receive window?",
+   "a": "The congestion window limits unacknowledged data in flight to protect the network, while the receive window protects the receiver, and the sender stays within both.",
+   "sent_ids": [
+    "c2b0bd101b32",
+    "d42f744a1b30",
+    "822cdc8eef53",
+    "d5f8107b49e0"
+   ]
+  },
+  "sysd-found-149": {
+   "q": "Why does one lost packet stall several HTTP/2 streams over TCP but not over QUIC?",
+   "a": "TCP treats any error as blocking, so a single lost packet stalls every stream sharing the connection, which is head-of-line blocking. QUIC flow-controls each stream separately and retransmits lost data at the QUIC level, so an error in one stream does not block the others.",
+   "sent_ids": [
+    "2e12704807e8",
+    "306260fc2527",
+    "83431807a18b",
+    "ac2d30de8cab",
+    "124c5dc8b45e",
+    "3fd77a5ca2cc"
+   ]
+  },
+  "sysd-found-146": {
+   "q": "Why does a network need DHCP relay agents on its routers?",
+   "a": "A client's broadcast stays on its own subnet, so relay agents on routers forward it by unicast to configured DHCP servers, and the GIADDR field tells the server which subnet's address pool to use.",
+   "sent_ids": [
+    "f8b614afd8f9",
+    "6298342437b4",
+    "a53e535d9e36",
+    "c40a2844cc23",
+    "1416988334ab"
+   ]
+  },
+  "sysd-found-162": {
+   "q": "Why must a TCP initial sequence number not be computable from outside the connection?",
+   "a": "Otherwise an attacker could guess sequence numbers. Implementations should set it to a timer value plus a pseudorandom function of the addresses, ports and a secret key.",
+   "sent_ids": [
+    "900716aad99a",
+    "0e62b4bd1d82",
+    "91f9228447be",
+    "0494689780fb"
+   ]
+  },
+  "sysd-found-008": {
+   "q": "Why does TCP need a three-way handshake rather than a simpler exchange?",
+   "a": "Sequence numbers are not tied to a global clock, so the receiver of a first SYN cannot know whether it is an old one and asks the sender to verify it. The principal reason is to prevent old duplicate connection initiations from causing confusion.",
+   "sent_ids": [
+    "cf9f8adc26f3",
+    "4438ee45eadf",
+    "48e4980d9d82"
+   ]
+  },
+  "sysd-found-013": {
+   "q": "How does a SYN flood overload a server?",
+   "a": "An attacker uses a spoofed IP address and repeatedly sends crafted SYN packets, so the server spends large amounts of resources tracking bogus connections.",
+   "sent_ids": [
+    "14e52737c01a",
+    "8f90d2e757ee"
+   ]
+  },
+  "sysd-found-145": {
+   "q": "Why do many applications switch off Nagle's algorithm?",
+   "a": "Nagle's algorithm combined with delayed ACKs, both on by default in common operating systems, can badly hurt request-response applications, so many applications simply disable Nagle with a socket option.",
+   "sent_ids": [
+    "e5037ac08f60",
+    "c8e3a52a88c2",
+    "ecc38d1d8fe0"
+   ]
+  },
+  "sysd-found-163": {
+   "q": "Why must a keep-alive not treat one unanswered probe as proof that the connection is dead?",
+   "a": "ACK segments without data are not reliably transmitted, so a single missing answer does not prove the connection is dead.",
+   "sent_ids": [
+    "071be1b0ddc4",
+    "6eab8710b870"
+   ]
+  },
+  "sysd-found-166": {
+   "q": "How does Path MTU Discovery find the largest packet a path can carry?",
+   "a": "The sender sets the DF (don't fragment) bit. A device with a smaller MTU drops the packet and returns an ICMP Datagram Too Big message giving its MTU, and the sender lowers its estimate and repeats until packets fit.",
+   "sent_ids": [
+    "26ba1b5f8bac",
+    "600c2edeb82b",
+    "50fa179bc419",
+    "09775a175cb1"
+   ]
+  },
+  "sysd-found-201": {
+   "q": "What is the most serious failure mode of an anycast service, and what normally prevents it?",
+   "a": "If a failed server keeps announcing its route, it becomes a black hole for nearby clients. Anycast normally gives automatic failover, usually with external heartbeat monitoring that withdraws a failed server's route announcement.",
+   "sent_ids": [
+    "7667d4096985",
+    "9a00bde9c2f4",
+    "2c18f9a8993b"
+   ]
+  },
+  "sysd-found-202": {
+   "q": "Why is it risky to use a made-up top-level domain for an internal network?",
+   "a": "New TLDs can collide with the made-up names: ICANN rejected .home and .corp over conflicts with networks using them, and local domains such as test.dev collided with the .dev gTLD created in 2019.",
+   "sent_ids": [
+    "a0299bb49bc9",
+    "fcac02583dc2"
+   ]
+  },
+  "sysd-found-117": {
+   "q": "Why did the single HOSTS.TXT file stop working as the network grew, leading to DNS?",
+   "a": "The bandwidth consumed distributing each new version was proportional to the square of the number of hosts, and local organizations had to wait for the central host table to change before their changes became visible. A single centralized host table had become slow and unwieldy.",
+   "sent_ids": [
+    "c08edbfecda1",
+    "e88f29d94db8",
+    "f9ac2b86c7c3"
+   ]
+  },
+  "sysd-found-111": {
+   "q": "Why should a node with a CNAME record hold no other data?",
+   "a": "Then an alias and its canonical name cannot differ, so a cached CNAME can be used without asking an authoritative server about other types.",
+   "sent_ids": [
+    "a961616aae3e",
+    "8b1a0d9bbbc2"
+   ]
+  },
+  "sysd-found-121": {
+   "q": "What is the difference between a DNS name server and a resolver?",
+   "a": "A name server has complete information about a subset of the name space, for which it is the authority, plus pointers to other servers. Resolvers extract information from name servers for client requests, answering directly or following referrals.",
+   "sent_ids": [
+    "8200e70c2a0b",
+    "3acdb7f6cd8d",
+    "bf268bfa4469",
+    "6133443d477d"
+   ]
+  },
+  "sysd-found-129": {
+   "q": "What are the three levels of DNS servers a lookup passes through, and what does each hold?",
+   "a": "The root name servers hold the addresses of TLD name servers, the TLD servers hold the addresses of authoritative servers, and the authoritative servers give the actual answer.",
+   "sent_ids": [
+    "0c2447dcb0a9",
+    "889c9eaa0c03",
+    "eb4d9309ba51",
+    "94e5f5ef6850"
+   ]
+  },
+  "sysd-found-108": {
+   "q": "Why does a changed DNS record not take effect everywhere at once?",
+   "a": "Because caching is distributed, record changes do not propagate immediately but only after all caches expire and refresh after the TTL. TTLs can be lowered before a change, at the cost of more network traffic.",
+   "sent_ids": [
+    "f343e633fa52",
+    "559c04d2ae83"
+   ]
+  },
+  "sysd-found-107": {
+   "q": "How does a recursive DNS query differ from an iterative one?",
+   "a": "In a recursive query the client asks one server, which answers completely by querying other name servers as needed, or returns an error. In an iterative query the resolver asks a chain of servers, each referring it to the next until one can fully resolve the request.",
+   "sent_ids": [
+    "a9b0ef2892af",
+    "c0104f93dbc8",
+    "d6c5846d754c",
+    "3e5fea9082e4"
+   ]
+  },
+  "sysd-found-116": {
+   "q": "Why are there only thirteen root server addresses, yet far more than thirteen root server machines?",
+   "a": "The original DNS limits UDP packets to 512 bytes, which leaves room for only thirteen root server addresses. But each operator runs redundant equipment in many locations using anycast addressing, so there are about 1954 instances for better performance and fault tolerance.",
+   "sent_ids": [
+    "bbcdf1a7a801",
+    "2ef94022a015",
+    "784548ae85c6",
+    "89692bbb1f7e",
+    "eb8181e717d4",
+    "6b1f8a1215fb",
+    "3d4556a37dac",
+    "1efa0dae3899",
+    "3cce14804eac"
+   ]
+  },
+  "sysd-found-103": {
+   "q": "Why does a delegation sometimes need glue records?",
+   "a": "Name servers in a delegation are identified by name, so if the delegated name server is a subdomain of the domain it serves there is a circular dependency, and the delegating server must supply the server's IP addresses as glue.",
+   "sent_ids": [
+    "25f406a9cd3e",
+    "7a1ec4273899",
+    "698982ccd250",
+    "bb390121755c",
+    "be2d659f2520"
+   ]
+  },
+  "sysd-found-120": {
+   "q": "How can a DNSSEC resolver prove an answer is correct, and where does the proof start?",
+   "a": "An answer can be proved correct only if at least one key or DS record is known to be correct from a source other than DNS; these starting points are trust anchors. An authentication chain of linked DS and DNSKEY records then runs from a trust anchor to the domain's authoritative server.",
+   "sent_ids": [
+    "9537fb9d3c65",
+    "c83c2262118b",
+    "91644176ce2d",
+    "6065ee13a0f5"
+   ]
+  }
+ }
+}

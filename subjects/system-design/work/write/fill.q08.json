@@ -1,0 +1,411 @@
+{
+ "questions": {
+  "sysd-q-069": {
+   "q": "Why does a store-and-forward switching center hold a message when the destination is unreachable?",
+   "a": "It keeps the message and retries later, which raises the chance of delivery; if the destination is available, the message is sent at once.",
+   "sent_ids": [
+    "6856ef21f343",
+    "f0cf6ed59857",
+    "f488ba0f337c"
+   ]
+  },
+  "sysd-q-073": {
+   "q": "Why do chat designs push messages over WebSockets instead of polling?",
+   "a": "Pulling by periodic HTTP requests or long polling is not scalable because most responses are empty, while push over WebSockets delivers data without delay.",
+   "sent_ids": [
+    "794472584d70",
+    "5413df855354",
+    "96e350e02c5c",
+    "ee46379ea671",
+    "cb857d5a32d2",
+    "c5ce972d4995",
+    "554d48336e30"
+   ]
+  },
+  "sysd-q-093": {
+   "q": "Why does a hybrid feed use pull for users with millions of followers and push for users with fewer?",
+   "a": "Publishing a post to every follower's feed is heavy when a user has millions of followers, so those users use pull, while users with fewer followers use push.",
+   "sent_ids": [
+    "859337feae77",
+    "c9c4c4df2d29",
+    "3b2d2fb156f4",
+    "9be312171f28",
+    "8fc4a11cad73",
+    "f538deb82e17",
+    "4518be8b2c03"
+   ]
+  },
+  "sysd-q-022": {
+   "q": "What does each of the three terms in Facebook's EdgeRank score capture?",
+   "a": "Affinity is the closeness of the user to the creator, weight is a value per kind of edge so a comment can count more than a like, and decay lowers the rank of older edges.",
+   "sent_ids": [
+    "0f5ae117a738",
+    "bc03ef20352c",
+    "0dca80debc3f",
+    "1e48ee591c52",
+    "9a4885f67994",
+    "37a4785bb02d",
+    "e05d743d735e",
+    "c9920bf23861",
+    "4670a3fe32ce"
+   ]
+  },
+  "sysd-q-020": {
+   "q": "Why does a Twitter-style design skip fanning out tweets from highly followed users?",
+   "a": "Fan-out for users with millions of followers can take several minutes and races with @replies, so the design skips them and merges their tweets in at read time.",
+   "sent_ids": [
+    "21fa2f0aa98c",
+    "d6a796a52309",
+    "140ef5a1cc3d",
+    "df0b5dd59b2a",
+    "d84c61c15e68"
+   ]
+  },
+  "sysd-q-047": {
+   "q": "Why is content-based filtering easier to start than collaborative filtering?",
+   "a": "Collaborative filtering needs a lot of data about a user, the cold start problem, while content-based filtering needs very little to start, though it recommends only items similar to the seed.",
+   "sent_ids": [
+    "c0031a610473",
+    "1c45b5fb5161",
+    "23d187b0886c"
+   ]
+  },
+  "sysd-q-043": {
+   "q": "How does an adaptive streaming client avoid stalls as network conditions change?",
+   "a": "Content is offered at several bit rates as short segments, and the client's adaptation algorithm picks the highest-bit-rate segment that can be downloaded in time to avoid stalls or re-buffering.",
+   "sent_ids": [
+    "afea159854a7",
+    "c173415f3282",
+    "0f8ddb2de8ef",
+    "95d4e5bd1abd",
+    "860a4cad2916"
+   ]
+  },
+  "sysd-q-036": {
+   "q": "What happens to server bandwidth when 1,000 people watch a 300 kbit/s stream over unicast instead of multicast?",
+   "a": "Unicast needs 300 Mbit/s, while multicast sends one common stream using only 300 kbit/s.",
+   "sent_ids": [
+    "ba258a247862",
+    "36fabd65ac8b",
+    "ff0178183216"
+   ]
+  },
+  "sysd-q-106": {
+   "q": "What does AV1 trade for its bandwidth savings over VP9?",
+   "a": "It saves bandwidth, with Netflix's 2017 tests finding it about 25% more efficient than VP9, but it costs compute: 2017 decoding ran at about half the speed of VP9.",
+   "sent_ids": [
+    "905f6a6731de",
+    "7bda88f4897b",
+    "4b86558f4494",
+    "fad76d5c36cd"
+   ]
+  },
+  "sysd-q-035": {
+   "q": "Why does a video platform put a message queue between upload and processing?",
+   "a": "Processing is a long-running task, so the queue decouples it from uploading.",
+   "sent_ids": [
+    "d4f71ea4bcdf",
+    "6885c2598c0b",
+    "a35b5c9d3079",
+    "45cbdc95d7c6",
+    "f39f28ef3f98"
+   ]
+  },
+  "sysd-q-090": {
+   "q": "Why does a proximity service use geohash instead of computing the distance to every place?",
+   "a": "Computing the distance to every place makes the query very inefficient, while geohash divides the planet into ever smaller grids so nearby places are found by a prefix match on the geohash column.",
+   "sent_ids": [
+    "5fd230c08570",
+    "f7aa5beb2d16",
+    "7dd1082fcee9",
+    "35a6e0eaeecf",
+    "8308c0a0a739",
+    "a696c197d30d",
+    "f4bd928262d7",
+    "a54b8e68dce0"
+   ]
+  },
+  "sysd-q-016": {
+   "q": "Why is the ride matching logic wrapped in a mutex?",
+   "a": "Race conditions arise when many customers request rides at once, so the matching logic is wrapped in a mutex and every action is transactional.",
+   "sent_ids": [
+    "7f8b67e464a4",
+    "6679d7cbb7bd",
+    "200804fe4724"
+   ]
+  },
+  "sysd-q-054": {
+   "q": "Why does a proportional re-visit policy lose to a uniform one on average freshness?",
+   "a": "A proportional policy spends crawls on rapidly changing pages whose freshness lasts only briefly.",
+   "sent_ids": [
+    "7b0840e8de03",
+    "d076374a22fe",
+    "99d2a45eef0e"
+   ]
+  },
+  "sysd-q-108": {
+   "q": "Why does a page linked from many high-PageRank pages get a high rank itself?",
+   "a": "A hyperlink counts as a vote of support, and a page's rank is defined recursively from the pages that link to it.",
+   "sent_ids": [
+    "f0540ab984ce",
+    "e03207eaa47d",
+    "fce22dd37d21"
+   ]
+  },
+  "sysd-q-112": {
+   "q": "How does a sitemap differ from robots.txt in what it tells crawlers?",
+   "a": "A sitemap is a URL inclusion protocol that complements robots.txt, which is a URL exclusion protocol.",
+   "sent_ids": [
+    "734c00e55932",
+    "284310cda294"
+   ]
+  },
+  "sysd-q-113": {
+   "q": "What happens when the crawler service takes the top ranked link and finds a similar page signature already in crawled_links?",
+   "a": "It lowers the link's priority, which prevents a cycle.",
+   "sent_ids": [
+    "f9bccd82c5cc",
+    "f869ed5991d7",
+    "2b7fa98e823b",
+    "de65f613aa44",
+    "e07a836436ac"
+   ]
+  },
+  "sysd-q-087": {
+   "q": "Why can a heap deliver the highest-priority item immediately even though it is not sorted?",
+   "a": "The top-priority element sits at the root, and a heap gives access to the smallest or largest element in constant time; it is only partially ordered, with no implied ordering between siblings or cousins.",
+   "sent_ids": [
+    "f744ed6f1ca1",
+    "210b8e5f1c5c",
+    "1f67d8fb6ea6",
+    "1a4e49793b63",
+    "eb350f001ca0",
+    "4df22c279b54"
+   ]
+  },
+  "sysd-q-068": {
+   "q": "Why does the LRU search cache pair a doubly-linked list with a hash table?",
+   "a": "The doubly-linked list adds new items at the head and removes items to expire from the tail, while the hash table gives fast lookup of each list node.",
+   "sent_ids": [
+    "b6d9c89e7955",
+    "4272482d57bd"
+   ]
+  },
+  "sysd-q-159": {
+   "q": "What is the trade-off between an adjacency matrix and an adjacency list for testing adjacency versus listing neighbours?",
+   "a": "The matrix tests in constant time whether two vertices are adjacent, but listing a vertex's neighbours means scanning a whole row; an adjacency list lists neighbours in constant time per neighbour but tests whether an edge exists more slowly.",
+   "sent_ids": [
+    "192d041f6115",
+    "ec38e7af04d1",
+    "0bb2e06ee77e",
+    "c75876fe2953",
+    "bfbf89ee87e8",
+    "9a33e72e96be",
+    "1c72e5656705",
+    "d43f24cb515a",
+    "7cdc84ce7fb8"
+   ]
+  },
+  "sysd-q-154": {
+   "q": "Why is a bidirectional search often faster than a single search from start to goal?",
+   "a": "With branching factor b and start-to-goal distance d, each of the two searches costs O(b^(d/2)), and their sum is much less than the O(b^d) of a single search from start to goal.",
+   "sent_ids": [
+    "e6aa6ca8931b"
+   ]
+  },
+  "sysd-q-066": {
+   "q": "Why does a growing service move MySQL off the web server's box and static content to an object store?",
+   "a": "Vertical scaling gets expensive and blocks scaling MySQL and the web server independently, so static content goes to a managed object store and MySQL to a separate box.",
+   "sent_ids": [
+    "3790b9444edc",
+    "9e771e552837",
+    "6c027e5f4aab",
+    "36f07c83b8da",
+    "b6ebd35d96f7",
+    "ff23892f1c7a",
+    "54ea30bcd3e8"
+   ]
+  },
+  "sysd-q-136": {
+   "q": "What does a mail server take on by replying 250 after the end of the message data?",
+   "a": "By returning a 2yz reply it accepts responsibility to deliver the message, retry transient failures and notify the sender of permanent ones.",
+   "sent_ids": [
+    "ce60eb1e47c8",
+    "da1629c72292",
+    "129360edeeeb",
+    "3d01440dd417",
+    "79fb7a9d1f7a",
+    "826d90a164ea"
+   ]
+  },
+  "sysd-q-134": {
+   "q": "Why can the To field of an email differ from the addresses it is actually delivered to?",
+   "a": "Delivery follows the envelope, not the header, so To may be unrelated to the delivery addresses, and Bcc recipients are normally given only in the SMTP envelope.",
+   "sent_ids": [
+    "a8ed12942fca",
+    "a63f52a6053e",
+    "d915390ecb05",
+    "12ff49e21016",
+    "cfbee634a847"
+   ]
+  },
+  "sysd-q-133": {
+   "q": "Why must a notification about a failed delivery use a null reverse-path?",
+   "a": "Servers must not send notifications about problems with notifications, and the null reverse-path prevents error-report loops.",
+   "sent_ids": [
+    "1e4a40581113",
+    "ba9a1534e555"
+   ]
+  },
+  "sysd-q-120": {
+   "q": "How does IMAP differ from POP3 in where a user's messages live?",
+   "a": "POP3 clients typically retrieve all messages, store them on the client computer and delete them from the server, while IMAP clients generally leave messages on the server until the user deletes them.",
+   "sent_ids": [
+    "e7d59d5087c8",
+    "ec3ea5d2b1e7",
+    "18643e7e315f",
+    "1535bdd696d6",
+    "73c3316c8125"
+   ]
+  },
+  "sysd-q-121": {
+   "q": "What does UIDVALIDITY let an IMAP client detect?",
+   "a": "It lets a client detect changed UIDs: if UIDs fail to persist, the new value must be greater than the old.",
+   "sent_ids": [
+    "20c6942cbfc0",
+    "edaf546c07e4",
+    "2b08bb5b37cf",
+    "b8dff5be4628"
+   ]
+  },
+  "sysd-q-118": {
+   "q": "Why does STARTTLS protect only against passive observation?",
+   "a": "Its negotiation is in plain text, so an active attacker can strip the STARTTLS commands, a downgrade known as STRIPTLS.",
+   "sent_ids": [
+    "d7302740700c",
+    "b81c96ac9450"
+   ]
+  },
+  "sysd-q-148": {
+   "q": "Why does Dijkstra's algorithm give incorrect results when edges have negative weights?",
+   "a": "Its greedy strategy finalizes a vertex's distance before a cheaper path through a negative edge is seen.",
+   "sent_ids": [
+    "2798e9250275",
+    "191a60df1777",
+    "476f20f4018b"
+   ]
+  },
+  "sysd-q-150": {
+   "q": "How does a contraction-hierarchy query stay fast on a huge road network?",
+   "a": "It runs a bidirectional search from the start and target over the graph plus shortcuts, and both searches only follow edges to more important vertices, which keeps the search space small.",
+   "sent_ids": [
+    "4b30b89993bf",
+    "c5791cc667b7"
+   ]
+  },
+  "sysd-q-100": {
+   "q": "Why can a lock-free data structure outperform a lock-based one on a multi-core processor?",
+   "a": "It spends more time in parallel rather than serial execution, because access to shared data need not be serialized.",
+   "sent_ids": [
+    "e0152159f207",
+    "8e0d37352d5b"
+   ]
+  },
+  "sysd-q-097": {
+   "q": "Why does a low-latency exchange pin its single-threaded matching engine to a CPU?",
+   "a": "The engine is single-threaded and pinned, so there is no context switch and no locks, and a thread resuming on its previous CPU may find its data still in that CPU's cache and take fewer cache misses.",
+   "sent_ids": [
+    "f6b65b664163",
+    "b8d51959abfb",
+    "51ca9b9bd0e1",
+    "3e0f55702463"
+   ]
+  },
+  "sysd-q-028": {
+   "q": "How does a modern stock exchange reach microsecond latency?",
+   "a": "By doing less on the critical path: fewer tasks, less time on each task, fewer network hops and less disk usage.",
+   "sent_ids": [
+    "0e3e20beee94",
+    "0feeb98a1195",
+    "b2d837f95e01",
+    "6d2ad4ef07b7",
+    "d477363056e9",
+    "d9f316523423"
+   ]
+  },
+  "sysd-q-147": {
+   "q": "What goes wrong if an operational transformation system skips transforming a delete after a concurrent insert at the start of the text abc?",
+   "a": "After inserting x at position 0 of abc, deleting position 2 must become position 3; untransformed, it deletes b instead of c.",
+   "sent_ids": [
+    "540c013b4dec",
+    "0c321cd33273",
+    "c0c304a2a40f",
+    "e6642bad52e1",
+    "a1a13d7b430a"
+   ]
+  },
+  "sysd-q-077": {
+   "q": "How does real-time gross settlement differ from an automated clearing house?",
+   "a": "An automated clearing house processes transactions in batches and nets them, so settlement may be delayed; real-time gross settlement settles each transaction as soon as it is processed, one to one without netting, and payments are final and irrevocable.",
+   "sent_ids": [
+    "25defeca0f76",
+    "fb004a5e1284",
+    "42c4cc05385e",
+    "d97419b7cd0b",
+    "545880944911",
+    "b318a88d7aea",
+    "277a77f8d27c",
+    "06904db0caa8"
+   ]
+  },
+  "sysd-q-079": {
+   "q": "Why does a payment system send an idempotency key when it retries a payment after a PSP timeout?",
+   "a": "The retry may succeed at a later attempt, and the idempotency key stops it from charging the customer twice.",
+   "sent_ids": [
+    "7b87872ba5c6",
+    "369b50c044ee",
+    "502671bc4698",
+    "cd6e364dbe55"
+   ]
+  },
+  "sysd-q-076": {
+   "q": "Why does a web push message carry a topic?",
+   "a": "A message with a topic replaces any outstanding message with the same topic, so a device that was offline gets only the latest update, not outdated or redundant ones.",
+   "sent_ids": [
+    "3ac867a36502",
+    "7e3273b5009d",
+    "8a9a7a4981e5",
+    "63c574b41ef0"
+   ]
+  },
+  "sysd-q-010": {
+   "q": "How does RBAC change the way users receive permissions compared with listing individual users in an ACL?",
+   "a": "Roles are created for job functions and permissions are assigned to roles, so users get permissions only through their roles, and adding a user or changing a department means assigning the right roles.",
+   "sent_ids": [
+    "fa1e9aef791f",
+    "4c42df437a48",
+    "85c412f0a842"
+   ]
+  },
+  "sysd-q-013": {
+   "q": "In the recommended ABAC architecture, which component evaluates an authorization request and which one protects the app?",
+   "a": "The Policy Decision Point evaluates requests against policies, while the Policy Enforcement Point protects the app and sends the authorization requests; Policy Information Points supply attributes.",
+   "sent_ids": [
+    "7881fb865750",
+    "e6860ee287f0",
+    "c43e46854f84",
+    "cd8e6a554c51",
+    "02b29803bdc2"
+   ]
+  },
+  "sysd-q-012": {
+   "q": "How does mandatory access control differ from DAC in who sets the access policy?",
+   "a": "In MAC the policy is centrally controlled by a policy administrator and enforced for all users, who cannot override it or grant access to files that would otherwise be restricted, unlike DAC where users set policy.",
+   "sent_ids": [
+    "bd992879c641",
+    "9769d5e526c3",
+    "3a4166fdfe6f"
+   ]
+  }
+ }
+}

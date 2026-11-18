@@ -1,0 +1,396 @@
+{
+ "questions": {
+  "sysd-reliab-096": {
+   "q": "Why should recovery be tested continuously rather than only after a disaster?",
+   "a": "Components not continually exercised fail when you need them most, so regular tests make failures happen before a real catastrophe, when problems can be fixed without harm.",
+   "sent_ids": [
+    "9a7dd551249a",
+    "3ffdb71ea936",
+    "1a52ba55c70b"
+   ]
+  },
+  "sysd-reliab-213": {
+   "q": "Why must a data validator be neither too strict nor too lax?",
+   "a": "Too strict and engineers abandon it, too lax and corruption slips through, so it should validate only invariants whose failure devastates users, such as file contents matching folder listings.",
+   "sent_ids": [
+    "e80a6ea6d4a0",
+    "dabaa2abc9d1",
+    "b9f3cf8ca5e1",
+    "97034fd2b469",
+    "47af5f675c4f"
+   ]
+  },
+  "sysd-reliab-221": {
+   "q": "How does packet encapsulation free a load balancer from the limits of layer 2 forwarding, and what does it cost?",
+   "a": "It wraps the packet in a GRE-encapsulated IP packet addressed to the backend, so balancer and backend can be on separate continents, at the price of 24 bytes of overhead that may exceed the MTU; layer 2 forwarding instead needs every balancer and backend in one broadcast domain.",
+   "sent_ids": [
+    "a841092ebc41",
+    "b9125f0afca9",
+    "ad0885d4f535",
+    "408cc87a46ab",
+    "a5d1d2188592",
+    "be0644e21f90",
+    "1fb7f4ba8c63"
+   ]
+  },
+  "sysd-reliab-200": {
+   "q": "Why can a throughput cluster cost far less than a low-latency cluster for the same storage system?",
+   "a": "Low-latency clusters carry substantial slack capacity for short queues and isolation, while throughput clusters run hot with less redundancy, perhaps at as little as 10-50% of the cost.",
+   "sent_ids": [
+    "982696af8759",
+    "211781727856",
+    "90845c0911d5",
+    "ab6920667e56"
+   ]
+  },
+  "sysd-reliab-218": {
+   "q": "A service expects a peak of about 3,470 QPS and each task handles about 100 QPS. How many tasks does it need with N+2?",
+   "a": "At least 35 tasks are needed for the peak, and N+2 raises this to 37, since an update plus a machine failure could otherwise leave only 35.",
+   "sent_ids": [
+    "4c8380909bc8",
+    "38b2983c4a6f",
+    "53838d4ac941",
+    "d816d7817726",
+    "69fa6eaa1d53"
+   ]
+  },
+  "sysd-reliab-204": {
+   "q": "Why should a frequently firing alert be removed or automated instead of left to page a human?",
+   "a": "Pages with rote responses are a red flag: when an alert becomes frequent, remove its root cause or fully automate the response, since every page distracts a human from improving the system.",
+   "sent_ids": [
+    "ff78a811a0fb",
+    "8507a00f1173",
+    "6f157e59d0f6",
+    "47998cfbd18a"
+   ]
+  },
+  "sysd-reliab-185": {
+   "q": "Why did Gmail still need an offline tape layer despite large disk and network resources for replication?",
+   "a": "Multiple layers guard against breakdown or compromise of any single protection mechanism, so large disk and network resources for replication did not remove the need for a tape layer.",
+   "sent_ids": [
+    "0ba87a256c17",
+    "8edc0cccb259"
+   ]
+  },
+  "sysd-reliab-146": {
+   "q": "Why are containers cheaper than full virtualization, and what do they give up?",
+   "a": "Programs use the operating system's normal system call interface and need no emulation or intermediate virtual machine, so containers are lightweight; the trade-off is that a container cannot host a guest operating system different from the host's, or a different guest kernel.",
+   "sent_ids": [
+    "514cd318515d",
+    "c3d477a45dc1",
+    "7f830e9d0af7",
+    "879c9cc4fe8c"
+   ]
+  },
+  "sysd-reliab-145": {
+   "q": "What is the difference between what cgroups and namespaces control?",
+   "a": "Cgroups dictate how much of the system a process can use, such as CPU, memory and disk I/O limits, while namespaces dictate what it may see; together they underpin Docker, Kubernetes, LXC and Podman.",
+   "sent_ids": [
+    "d9db25084461",
+    "beff41c4d66c",
+    "6797f303ba72"
+   ]
+  },
+  "sysd-reliab-161": {
+   "q": "What happens when a liveness probe keeps failing, compared with a failing readiness probe?",
+   "a": "After more failures than the configured tolerance, a failing liveness probe makes the kubelet restart the container; a failing readiness probe instead gets the Pod's IP removed from the EndpointSlices of every matching Service.",
+   "sent_ids": [
+    "1aa99ff514c5",
+    "42df6122a3b1",
+    "b001db75c663",
+    "ce7f2ef3e36e",
+    "8cee5fe94e81",
+    "80c38f2999de",
+    "163fd83083b7",
+    "e5e2462e3ba3",
+    "969c39104e21",
+    "0906265b7800",
+    "23d6c6e38400"
+   ]
+  },
+  "sysd-reliab-148": {
+   "q": "Why are Pods rarely created directly?",
+   "a": "Pods are relatively ephemeral and disposable, so a workload resource such as a Deployment creates them, replicates them for scale, and replaces them when a node fails.",
+   "sent_ids": [
+    "0d9e6885db2a",
+    "f261ec1fa7b7",
+    "120e620a1002",
+    "1c6990954b88",
+    "b2efba48aa36"
+   ]
+  },
+  "sysd-reliab-228": {
+   "q": "What happens to the restart delay of a container that keeps crashing, and why?",
+   "a": "After the first crash it restarts immediately, but repeated crashes get an exponential backoff delay, which stops a faulty container from overwhelming the system with failed start attempts; the delay starts at 10s and doubles up to a default cap of 300s.",
+   "sent_ids": [
+    "3158cd0bbf49",
+    "e462de96b077",
+    "d83fdb26688c",
+    "21342ce0ba63",
+    "51b55d308e17",
+    "8ea206a5a645",
+    "4c39abf4a6ea",
+    "cc2e50013ac7"
+   ]
+  },
+  "sysd-reliab-159": {
+   "q": "Why does a Service give frontends one stable endpoint instead of letting them track backend Pod IPs?",
+   "a": "Pods are ephemeral and the set of healthy Pods changes from moment to moment, so frontends cannot track backend IPs; a Service decouples them by giving the group one stable endpoint.",
+   "sent_ids": [
+    "d2209054b579",
+    "b4dec46b39a9",
+    "935a348f3af3",
+    "ac51f7395b3f"
+   ]
+  },
+  "sysd-reliab-151": {
+   "q": "What happens if you create an Ingress resource in a cluster that has no Ingress controller?",
+   "a": "It has no effect, because an Ingress controller fulfils the Ingress, usually with a load balancer.",
+   "sent_ids": [
+    "182493b9da2c",
+    "fd1a31eb930d",
+    "1ebab6ff1e7f"
+   ]
+  },
+  "sysd-reliab-047": {
+   "q": "How does a hypervisor guest differ from an emulator and from OS-level virtualization?",
+   "a": "Unlike an emulator, the guest executes most instructions on native hardware; this contrasts with OS-level virtualization, where containers must share a single kernel.",
+   "sent_ids": [
+    "0a0ffc34b299",
+    "698dfbcc95d1",
+    "5bdc2e2c1266"
+   ]
+  },
+  "sysd-reliab-043": {
+   "q": "Why are containers much more lightweight than virtual machines?",
+   "a": "Containers virtualize the operating system instead of the hardware, so each contains only the application and its dependencies; they share the OS kernel and use a fraction of the memory VMs require.",
+   "sent_ids": [
+    "2cc55f1bdb72",
+    "468a2b0272c0"
+   ]
+  },
+  "sysd-reliab-144": {
+   "q": "Why do frequent releases make testing and troubleshooting easier?",
+   "a": "Frequent releases mean fewer changes between versions, which makes testing and troubleshooting easier.",
+   "sent_ids": [
+    "0223a4ef2ee4",
+    "9e832d6fd704",
+    "b723c9d914d4",
+    "cb86382fe558"
+   ]
+  },
+  "sysd-reliab-059": {
+   "q": "How is a bug fixed in an older release without picking up unrelated mainline changes?",
+   "a": "The fix goes to the mainline first and is then cherry picked into the release branch, rebuilt at the same revision as the original build with the specific later changes included, so unrelated mainline changes are avoided and the exact contents of each release are known.",
+   "sent_ids": [
+    "dc23e75f6bd1",
+    "82c4612722a2",
+    "4cc73de01412",
+    "dd36351fc8cf",
+    "ebaaa1b73b25",
+    "887a376e7fac"
+   ]
+  },
+  "sysd-reliab-163": {
+   "q": "Why does the autoscaler use the highest desired count from a stabilization window when scaling down?",
+   "a": "So that it does not remove Pods only to recreate them moments later; replica counts that fluctuate frequently as metrics change are called thrashing or flapping, and the default window is 300 seconds.",
+   "sent_ids": [
+    "66311a94cf31",
+    "eca9e14d0500",
+    "dc09f6a8d0b2",
+    "91bcf69ae208",
+    "8328901bd6df",
+    "d93d5926ff32"
+   ]
+  },
+  "sysd-reliab-157": {
+   "q": "Why can't maxUnavailable and maxSurge both be 0 in a rolling update?",
+   "a": "At least one of the two must allow change, so maxUnavailable cannot be 0 when maxSurge is 0, and maxSurge cannot be 0 when maxUnavailable is 0.",
+   "sent_ids": [
+    "c8b451cc7186",
+    "faf17cdf4eed"
+   ]
+  },
+  "sysd-reliab-057": {
+   "q": "How does Kubernetes act on the gap between desired and current state?",
+   "a": "Objects record the desired state in a spec field while the controller keeps a status field describing the current state; if an operator declares three instances of a pod and the Deployment controller finds only two running, it schedules the creation of another instance.",
+   "sent_ids": [
+    "f05726327f7a",
+    "327a4e6888af",
+    "95d1c5df80bf",
+    "56911f4ea614",
+    "34933a17bcb4"
+   ]
+  },
+  "sysd-reliab-158": {
+   "q": "What happens to running Pods when you change a Pod template?",
+   "a": "A change has no direct effect on existing Pods: the controller creates replacement Pods from the new template instead of patching the old ones, until all old Pods are replaced.",
+   "sent_ids": [
+    "573606f297a0",
+    "8a085ec71837",
+    "572fe1bd1342",
+    "2f75c375b51a"
+   ]
+  },
+  "sysd-reliab-141": {
+   "q": "What is toggle debt, and why does it cost something?",
+   "a": "It arises when a feature is toggled on permanently and dead code remains; it adds overhead, and the code must be removed carefully so other parts are not disturbed.",
+   "sent_ids": [
+    "5975eca289ef",
+    "ca4d13d9623c"
+   ]
+  },
+  "sysd-reliab-142": {
+   "q": "How does a canary release limit the damage from a bad new version?",
+   "a": "It turns the feature on for a sampled cohort, such as 1% of users, while everyone else stays off, and if the feature's performance is not satisfactory it can be rolled back without adverse effects.",
+   "sent_ids": [
+    "30e88d802634",
+    "e5c8486f2415"
+   ]
+  },
+  "sysd-reliab-016": {
+   "q": "Why is reusing one salt for all passwords dangerous?",
+   "a": "A precomputed table that accounts for the salt becomes viable, and cracking one hash also exposes others with the same password.",
+   "sent_ids": [
+    "68ae28cd162b",
+    "8d15fe1249c2",
+    "1afede319a66"
+   ]
+  },
+  "sysd-reliab-126": {
+   "q": "Why is treating a successful OAuth token request as proof of who the user is risky?",
+   "a": "OAuth tells the application nothing about the user or whether they are present, and it was not designed for authentication, so the assumption can cause major security flaws.",
+   "sent_ids": [
+    "bb037819f7f6",
+    "9f449123d4c3",
+    "89c2d211a743",
+    "e8deb7d41aff",
+    "b2c6fe4f5552"
+   ]
+  },
+  "sysd-reliab-019": {
+   "q": "How does tracking a logged-in user with a session differ from tracking with a token?",
+   "a": "With a session the server stores the user's identity and gives the browser a session ID cookie; with a token the identity is encoded into a token the browser sends on later requests, so no server session storage is needed.",
+   "sent_ids": [
+    "3525ea0ad201",
+    "3786af0641b6",
+    "958e1fbe1648",
+    "61b145904ec8",
+    "61e5950be1c7",
+    "cd567855220f",
+    "4d29278d3d0f"
+   ]
+  },
+  "sysd-reliab-129": {
+   "q": "Why does a forged request from another page look genuine to the server in a CSRF attack?",
+   "a": "Browsers automatically and invisibly include a domain's cookies, session cookies among them, in any request to that domain, so a forged request from another page looks genuine to the server.",
+   "sent_ids": [
+    "5af057aef19a",
+    "3e1739686fe6",
+    "7cfd048139b0"
+   ]
+  },
+  "sysd-reliab-024": {
+   "q": "What does OpenID Connect add to OAuth 2.0?",
+   "a": "OAuth 2.0 only grants access to data and features from one application to another; OpenID Connect lets clients verify an end user's identity from the authorization server's authentication and fetch basic profile information.",
+   "sent_ids": [
+    "71537768660f",
+    "36856b3afb70"
+   ]
+  },
+  "sysd-reliab-130": {
+   "q": "How does the synchronizer token pattern stop a CSRF attack?",
+   "a": "It embeds a secret, unique token in every HTML form and verifies it on the server, so the attacker cannot put a correct token in forged requests.",
+   "sent_ids": [
+    "582cf4a3ee4d",
+    "25d14bf40660"
+   ]
+  },
+  "sysd-reliab-023": {
+   "q": "In OAuth 2.0's authorization code grant, what happens if a code is used more than once?",
+   "a": "The server must deny the request and should revoke tokens previously issued from it; the code is bound to the client identifier and redirection URI.",
+   "sent_ids": [
+    "84ae5797890f",
+    "c75dd9b3cf4b"
+   ]
+  },
+  "sysd-reliab-035": {
+   "q": "How does PKCE stop an attacker who intercepts an authorization code from redeeming it?",
+   "a": "The client sends only a code challenge derived from a random secret, the code verifier, and later sends the verifier with the code; the server compares the transformed verifier with the stored challenge and denies access if they differ, and the attacker never saw the verifier because it was never sent over any channel the attacker can observe.",
+   "sent_ids": [
+    "d06df496f21a",
+    "c662e9449a8f",
+    "2e25ff54719c",
+    "e247e988cf4e",
+    "90b21eaf3206",
+    "3742d347e4fe",
+    "bfb0318a14a4",
+    "16057dc5fbac",
+    "b322b76e1511"
+   ]
+  },
+  "sysd-reliab-029": {
+   "q": "Why is trusting users and devices inside a corporate perimeter or behind a VPN commonly not sufficient?",
+   "a": "Networks have many zones, cloud services, remote and mobile environments and IoT devices, so zero trust instead checks the identity and integrity of users and devices regardless of location.",
+   "sent_ids": [
+    "c2e6a4405cb5",
+    "c80930a20360",
+    "b1ed6e58323a"
+   ]
+  },
+  "sysd-reliab-033": {
+   "q": "Why does invalidating a session before a JWT expires undo the main advantage of JWTs?",
+   "a": "The service can no longer trust the token alone and must check a data store, which removes the statelessness that is the main advantage of JWTs.",
+   "sent_ids": [
+    "3453de33d585",
+    "ea90bb96ac4a",
+    "63fdff3414c8"
+   ]
+  },
+  "sysd-reliab-119": {
+   "q": "How does an MFA fatigue attack work, and what is advised instead of push notifications?",
+   "a": "It floods a user with push login requests until one is accepted by mistake; number matching is an interim mitigation, and phishing-resistant MFA is advised instead of push notifications.",
+   "sent_ids": [
+    "c3c14ac66a18",
+    "2e00ee4c546c",
+    "4e4aeaa76ab8",
+    "1a7f48cddf2a"
+   ]
+  },
+  "sysd-reliab-125": {
+   "q": "What happens in Kerberos if the clocks of hosts drift too far apart?",
+   "a": "Authentication fails: tickets have a lifetime, so hosts' clocks must be synchronized within configured limits (five minutes apart by default in MIT's setup).",
+   "sent_ids": [
+    "d13dc859206b",
+    "0c61ffe68ae7",
+    "64d13a1e108b",
+    "2a3989e0c284"
+   ]
+  },
+  "sysd-reliab-027": {
+   "q": "What extra cost does every access through a short URL carry?",
+   "a": "Every access needs at least one more DNS lookup (possibly cached) and one more HTTP/HTTPS request, which adds latency and the risk of failure if the shortening service becomes unavailable.",
+   "sent_ids": [
+    "87d519a1c4ce"
+   ]
+  },
+  "sysd-q-033": {
+   "q": "How does a standalone Key Generation Service keep concurrent servers from getting the same key?",
+   "a": "It creates unique keys ahead of time in a separate database, and used keys move to another table under locking, so concurrent servers never share one.",
+   "sent_ids": [
+    "6f69cd688c9d",
+    "330107721f6d",
+    "27029c21be8b",
+    "4d9867eff8d4",
+    "74ee82389b9f"
+   ]
+  },
+  "sysd-q-063": {
+   "q": "How does designing a pastebin differ from designing a URL shortener?",
+   "a": "It is like designing a URL shortener, except that the service stores the paste contents instead of the original unshortened URL.",
+   "sent_ids": [
+    "35f198afc040"
+   ]
+  }
+ }
+}

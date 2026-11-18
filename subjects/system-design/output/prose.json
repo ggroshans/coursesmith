@@ -4597,7 +4597,3180 @@
    }
   ]
  },
- "questions": {},
+ "questions": {
+  "sysd-found-130": {
+   "q": "Why does system design have to be thought through at a high level so early in a project?",
+   "a": "It is one of the earliest decisions made when building a system, and high-level design decisions are very difficult to correct later.",
+   "sent_ids": [
+    "99031a27275e",
+    "9c3826a783ef"
+   ]
+  },
+  "sysd-found-207": {
+   "q": "How do functional and non-functional requirements differ, and which kind drives the technical architecture?",
+   "a": "Functional requirements define what a system is supposed to do, while non-functional requirements define how it is supposed to be, an overall property rather than a specific function. Non-functional requirements drive the technical architecture.",
+   "sent_ids": [
+    "f0bb63399664",
+    "8ae8e4c0e14b",
+    "378e64cadc3c"
+   ]
+  },
+  "sysd-found-137": {
+   "q": "Why do architects record each decision in a single Architecture Decision Record instead of leaving it in email?",
+   "a": "Forgotten, undocumented or misunderstood decisions, often those communicated by email, cause repeated discussions without resolution. One record in an accessible repository such as a wiki gives a single updated source of truth.",
+   "sent_ids": [
+    "6224c57a4454",
+    "ef9915939b3b",
+    "06915d1793ce"
+   ]
+  },
+  "sysd-found-143": {
+   "q": "Which of requirements engineering and software architecture addresses the 'what', and which the 'how'?",
+   "a": "Requirements engineering addresses the problem space, the 'what', while software architecture targets the solution space, the 'how'; the two are complementary approaches.",
+   "sent_ids": [
+    "e107a06a9105"
+   ]
+  },
+  "sysd-found-140": {
+   "q": "What should you do first in a system design interview, and why?",
+   "a": "Ask about the exact scope and clarify the functional and non-functional requirements early, because interview questions are vague. Ask about the core features and about aspects such as data volume, availability and scale.",
+   "sent_ids": [
+    "2a94f943b740",
+    "16ee99c4d077",
+    "76f07f710d8c",
+    "2dde533d5e0b"
+   ]
+  },
+  "sysd-found-135": {
+   "q": "Why does the technical structure of a product tend to mirror the organization that built it?",
+   "a": "The authors of a product's parts must communicate to keep them compatible, so organizations that design systems produce designs that copy their own communication structures and the technical structure reflects the organization's social boundaries.",
+   "sent_ids": [
+    "1ebf13a40134",
+    "ea9d0842ecfa",
+    "68db1333e8cb"
+   ]
+  },
+  "sysd-found-087": {
+   "q": "Why can no system with distance between cause and effect have zero latency?",
+   "a": "Latency is physically a consequence of the limited speed at which any interaction can propagate, which never exceeds the speed of light, so any system with distance between cause and effect has some latency.",
+   "sent_ids": [
+    "2c27156dd64e",
+    "a97b5400d377",
+    "6cd3ed222914"
+   ]
+  },
+  "sysd-found-192": {
+   "q": "A web service averages 100 ms latency. Why can that number still hide a problem?",
+   "a": "Average and median latency can mislead because a few outliers distort them, so such a service may have 1% of requests taking 5 seconds. Tail latency is therefore measured at high percentiles, not the average.",
+   "sent_ids": [
+    "b16945424132",
+    "8395e0c67c7b",
+    "9546920f6504",
+    "d4b02d2776da"
+   ]
+  },
+  "sysd-found-094": {
+   "q": "Why does adding more bandwidth not remove the delay of a long-distance request?",
+   "a": "Propagation time depends on distance, and more bandwidth shrinks only transmission time, so the remaining delay is increasingly propagation.",
+   "sent_ids": [
+    "41f84aef6857",
+    "ea981a2cc66a",
+    "9a49b17cc05e"
+   ]
+  },
+  "sysd-found-098": {
+   "q": "What is the difference between bandwidth and throughput?",
+   "a": "Bandwidth is the maximum achievable speed or capacity, while throughput is the speed actually achieved and is always less than bandwidth.",
+   "sent_ids": [
+    "5334446cadfb",
+    "48fae5b709bc",
+    "77a0ea129be0"
+   ]
+  },
+  "sysd-found-092": {
+   "q": "Why does TCP lose throughput when the bandwidth-delay product is larger than the TCP window?",
+   "a": "The sender must wait for acknowledgements before sending more packets, so TCP flow control lowers throughput.",
+   "sent_ids": [
+    "da01a1b45f68",
+    "be4dfbbb6fe1"
+   ]
+  },
+  "sysd-found-096": {
+   "q": "How does a back-of-the-envelope calculation differ from a guess and from an accurate calculation?",
+   "a": "It is more than a guess but less than an accurate calculation or proof, and its defining characteristic is the use of simplified assumptions.",
+   "sent_ids": [
+    "855b8abb5f80",
+    "12a7f7fe5a73"
+   ]
+  },
+  "sysd-found-029": {
+   "q": "Why does the original end-to-end principle no longer hold fully in real networks?",
+   "a": "The original principle kept state and intelligence at the edges and a simple network between them, but real-world firewalls, network address translators and web caches have since forced changes.",
+   "sent_ids": [
+    "72afa33c73e9",
+    "415e4176b8af"
+   ]
+  },
+  "sysd-found-030": {
+   "q": "Why is TCP not particularly suitable for real-time applications such as voice over IP?",
+   "a": "Handshaking, retransmission and error detection add reliability but lengthen latency. TCP is optimized for accurate rather than timely delivery, with delays on the order of seconds.",
+   "sent_ids": [
+    "2ac158f3b150",
+    "9a50add4371d",
+    "bc5f3600ee99"
+   ]
+  },
+  "sysd-found-006": {
+   "q": "What do the three messages of TCP's opening handshake establish, and what does the handshake cost?",
+   "a": "The client sends a SYN, the server replies with a SYN-ACK and the client answers with an ACK, after which both sides have received acknowledgments and full-duplex communication is established. It adds one round trip of latency before data can be sent.",
+   "sent_ids": [
+    "565e2f3faab2",
+    "3e0c5881deab",
+    "fd4fc55c868c",
+    "58a79804f0a0",
+    "239fb3ad908c",
+    "b489d4b42597",
+    "d42226e04053"
+   ]
+  },
+  "sysd-found-021": {
+   "q": "If an application sends data over UDP but needs reliable delivery, who has to provide it?",
+   "a": "The application itself, for example by adding its own handshaking such as confirmation that a message was received, because UDP does not guarantee delivery and gives the sender no feedback.",
+   "sent_ids": [
+    "ce4dc471892f",
+    "645e50a93fd2",
+    "3daab7a311ab",
+    "89fcb5e36829"
+   ]
+  },
+  "sysd-found-152": {
+   "q": "Why was IPv6 created, and how does dual stack ease the move to it?",
+   "a": "The rapid exhaustion of IPv4 address space led the IETF to redesign the Internet Protocol, which became IPv6. Dual stack runs IPv4 and IPv6 at the same time on the same devices, using whichever fits the destination address.",
+   "sent_ids": [
+    "27dc675c025e",
+    "0d2fcf4a1836",
+    "b59a8a0ce330",
+    "ee157852b586"
+   ]
+  },
+  "sysd-found-017": {
+   "q": "Why does TCP wait for three duplicate acknowledgments before retransmitting?",
+   "a": "After three duplicate acknowledgments the sender retransmits the last unacknowledged packet; the threshold is three because the network may reorder segments.",
+   "sent_ids": [
+    "bad2494515f3",
+    "775a304c2494"
+   ]
+  },
+  "sysd-found-009": {
+   "q": "What does a TCP sender do when the receiver advertises a window of 0, and why does it start a persist timer?",
+   "a": "The sender stops and starts a persist timer, which protects against deadlock if the window update is lost. On expiry the sender sends a small packet to get a fresh window size.",
+   "sent_ids": [
+    "03d99f569fc8",
+    "55c542694eaf",
+    "201bea5983db"
+   ]
+  },
+  "sysd-found-010": {
+   "q": "How does TCP's congestion window differ from the receive window?",
+   "a": "The congestion window limits unacknowledged data in flight to protect the network, while the receive window protects the receiver, and the sender stays within both.",
+   "sent_ids": [
+    "c2b0bd101b32",
+    "d42f744a1b30",
+    "822cdc8eef53",
+    "d5f8107b49e0"
+   ]
+  },
+  "sysd-found-149": {
+   "q": "Why does one lost packet stall several HTTP/2 streams over TCP but not over QUIC?",
+   "a": "TCP treats any error as blocking, so a single lost packet stalls every stream sharing the connection, which is head-of-line blocking. QUIC flow-controls each stream separately and retransmits lost data at the QUIC level, so an error in one stream does not block the others.",
+   "sent_ids": [
+    "2e12704807e8",
+    "306260fc2527",
+    "83431807a18b",
+    "ac2d30de8cab",
+    "124c5dc8b45e",
+    "3fd77a5ca2cc"
+   ]
+  },
+  "sysd-found-146": {
+   "q": "Why does a network need DHCP relay agents on its routers?",
+   "a": "A client's broadcast stays on its own subnet, so relay agents on routers forward it by unicast to configured DHCP servers, and the GIADDR field tells the server which subnet's address pool to use.",
+   "sent_ids": [
+    "f8b614afd8f9",
+    "6298342437b4",
+    "a53e535d9e36",
+    "c40a2844cc23",
+    "1416988334ab"
+   ]
+  },
+  "sysd-found-162": {
+   "q": "Why must a TCP initial sequence number not be computable from outside the connection?",
+   "a": "Otherwise an attacker could guess sequence numbers. Implementations should set it to a timer value plus a pseudorandom function of the addresses, ports and a secret key.",
+   "sent_ids": [
+    "900716aad99a",
+    "0e62b4bd1d82",
+    "91f9228447be",
+    "0494689780fb"
+   ]
+  },
+  "sysd-found-008": {
+   "q": "Why does TCP need a three-way handshake rather than a simpler exchange?",
+   "a": "Sequence numbers are not tied to a global clock, so the receiver of a first SYN cannot know whether it is an old one and asks the sender to verify it. The principal reason is to prevent old duplicate connection initiations from causing confusion.",
+   "sent_ids": [
+    "cf9f8adc26f3",
+    "4438ee45eadf",
+    "48e4980d9d82"
+   ]
+  },
+  "sysd-found-013": {
+   "q": "How does a SYN flood overload a server?",
+   "a": "An attacker uses a spoofed IP address and repeatedly sends crafted SYN packets, so the server spends large amounts of resources tracking bogus connections.",
+   "sent_ids": [
+    "14e52737c01a",
+    "8f90d2e757ee"
+   ]
+  },
+  "sysd-found-145": {
+   "q": "Why do many applications switch off Nagle's algorithm?",
+   "a": "Nagle's algorithm combined with delayed ACKs, both on by default in common operating systems, can badly hurt request-response applications, so many applications simply disable Nagle with a socket option.",
+   "sent_ids": [
+    "e5037ac08f60",
+    "c8e3a52a88c2",
+    "ecc38d1d8fe0"
+   ]
+  },
+  "sysd-found-163": {
+   "q": "Why must a keep-alive not treat one unanswered probe as proof that the connection is dead?",
+   "a": "ACK segments without data are not reliably transmitted, so a single missing answer does not prove the connection is dead.",
+   "sent_ids": [
+    "071be1b0ddc4",
+    "6eab8710b870"
+   ]
+  },
+  "sysd-found-166": {
+   "q": "How does Path MTU Discovery find the largest packet a path can carry?",
+   "a": "The sender sets the DF (don't fragment) bit. A device with a smaller MTU drops the packet and returns an ICMP Datagram Too Big message giving its MTU, and the sender lowers its estimate and repeats until packets fit.",
+   "sent_ids": [
+    "26ba1b5f8bac",
+    "600c2edeb82b",
+    "50fa179bc419",
+    "09775a175cb1"
+   ]
+  },
+  "sysd-found-201": {
+   "q": "What is the most serious failure mode of an anycast service, and what normally prevents it?",
+   "a": "If a failed server keeps announcing its route, it becomes a black hole for nearby clients. Anycast normally gives automatic failover, usually with external heartbeat monitoring that withdraws a failed server's route announcement.",
+   "sent_ids": [
+    "7667d4096985",
+    "9a00bde9c2f4",
+    "2c18f9a8993b"
+   ]
+  },
+  "sysd-found-202": {
+   "q": "Why is it risky to use a made-up top-level domain for an internal network?",
+   "a": "New TLDs can collide with the made-up names: ICANN rejected .home and .corp over conflicts with networks using them, and local domains such as test.dev collided with the .dev gTLD created in 2019.",
+   "sent_ids": [
+    "a0299bb49bc9",
+    "fcac02583dc2"
+   ]
+  },
+  "sysd-found-117": {
+   "q": "Why did the single HOSTS.TXT file stop working as the network grew, leading to DNS?",
+   "a": "The bandwidth consumed distributing each new version was proportional to the square of the number of hosts, and local organizations had to wait for the central host table to change before their changes became visible. A single centralized host table had become slow and unwieldy.",
+   "sent_ids": [
+    "c08edbfecda1",
+    "e88f29d94db8",
+    "f9ac2b86c7c3"
+   ]
+  },
+  "sysd-found-111": {
+   "q": "Why should a node with a CNAME record hold no other data?",
+   "a": "Then an alias and its canonical name cannot differ, so a cached CNAME can be used without asking an authoritative server about other types.",
+   "sent_ids": [
+    "a961616aae3e",
+    "8b1a0d9bbbc2"
+   ]
+  },
+  "sysd-found-121": {
+   "q": "What is the difference between a DNS name server and a resolver?",
+   "a": "A name server has complete information about a subset of the name space, for which it is the authority, plus pointers to other servers. Resolvers extract information from name servers for client requests, answering directly or following referrals.",
+   "sent_ids": [
+    "8200e70c2a0b",
+    "3acdb7f6cd8d",
+    "bf268bfa4469",
+    "6133443d477d"
+   ]
+  },
+  "sysd-found-129": {
+   "q": "What are the three levels of DNS servers a lookup passes through, and what does each hold?",
+   "a": "The root name servers hold the addresses of TLD name servers, the TLD servers hold the addresses of authoritative servers, and the authoritative servers give the actual answer.",
+   "sent_ids": [
+    "0c2447dcb0a9",
+    "889c9eaa0c03",
+    "eb4d9309ba51",
+    "94e5f5ef6850"
+   ]
+  },
+  "sysd-found-108": {
+   "q": "Why does a changed DNS record not take effect everywhere at once?",
+   "a": "Because caching is distributed, record changes do not propagate immediately but only after all caches expire and refresh after the TTL. TTLs can be lowered before a change, at the cost of more network traffic.",
+   "sent_ids": [
+    "f343e633fa52",
+    "559c04d2ae83"
+   ]
+  },
+  "sysd-found-107": {
+   "q": "How does a recursive DNS query differ from an iterative one?",
+   "a": "In a recursive query the client asks one server, which answers completely by querying other name servers as needed, or returns an error. In an iterative query the resolver asks a chain of servers, each referring it to the next until one can fully resolve the request.",
+   "sent_ids": [
+    "a9b0ef2892af",
+    "c0104f93dbc8",
+    "d6c5846d754c",
+    "3e5fea9082e4"
+   ]
+  },
+  "sysd-found-116": {
+   "q": "Why are there only thirteen root server addresses, yet far more than thirteen root server machines?",
+   "a": "The original DNS limits UDP packets to 512 bytes, which leaves room for only thirteen root server addresses. But each operator runs redundant equipment in many locations using anycast addressing, so there are about 1954 instances for better performance and fault tolerance.",
+   "sent_ids": [
+    "bbcdf1a7a801",
+    "2ef94022a015",
+    "784548ae85c6",
+    "89692bbb1f7e",
+    "eb8181e717d4",
+    "6b1f8a1215fb",
+    "3d4556a37dac",
+    "1efa0dae3899",
+    "3cce14804eac"
+   ]
+  },
+  "sysd-found-103": {
+   "q": "Why does a delegation sometimes need glue records?",
+   "a": "Name servers in a delegation are identified by name, so if the delegated name server is a subdomain of the domain it serves there is a circular dependency, and the delegating server must supply the server's IP addresses as glue.",
+   "sent_ids": [
+    "25f406a9cd3e",
+    "7a1ec4273899",
+    "698982ccd250",
+    "bb390121755c",
+    "be2d659f2520"
+   ]
+  },
+  "sysd-found-120": {
+   "q": "How can a DNSSEC resolver prove an answer is correct, and where does the proof start?",
+   "a": "An answer can be proved correct only if at least one key or DS record is known to be correct from a source other than DNS; these starting points are trust anchors. An authentication chain of linked DS and DNSKEY records then runs from a trust anchor to the domain's authoritative server.",
+   "sent_ids": [
+    "9537fb9d3c65",
+    "c83c2262118b",
+    "91644176ce2d",
+    "6065ee13a0f5"
+   ]
+  },
+  "sysd-found-205": {
+   "q": "Why can one DNS name lead a local client and a distant client to different addresses?",
+   "a": "With split-horizon DNS, a server that has both a private LAN address and a public one resolves to either, depending on the client. Local clients then reach it directly with lower latency, while internal DNS information stays separate from access over an unsecure public network such as the Internet.",
+   "sent_ids": [
+    "794b0b74f445",
+    "7566f52c6825",
+    "839d72ce6b9b",
+    "09e40eccb48e",
+    "90ac9f97c6de",
+    "4e8050c5f143"
+   ]
+  },
+  "sysd-found-032": {
+   "q": "Why do TLS, SSH and PGP use public-key cryptography only to share a key, then switch to symmetric encryption?",
+   "a": "Public-key algorithms are far more computationally intensive than symmetric ones. So a public-key exchange shares a symmetric key, which then encrypts the data at higher throughput without pre-sharing a key.",
+   "sent_ids": [
+    "3200d502fccc",
+    "a55ed06bc8fb",
+    "a5a1b54b6f88",
+    "6d579aedf3e4"
+   ]
+  },
+  "sysd-found-038": {
+   "q": "Which HTTP method lets the client choose the target URI, and what happens if the same request is sent twice?",
+   "a": "PUT creates or replaces the target resource's state with the state in the request, and unlike POST the client chooses the target URI. Repeating the same PUT updates the same resource.",
+   "sent_ids": [
+    "00bb84ebb2b4",
+    "48488271d58a",
+    "5ac76ea9c700",
+    "3546b2fca962"
+   ]
+  },
+  "sysd-found-168": {
+   "q": "What can a client safely do if the connection closes after it sent a PUT but before it read the response?",
+   "a": "It can reconnect and retry, because PUT is idempotent and the effect is the same. It should not automatically retry a non-idempotent request such as POST unless it knows the request is really idempotent or can detect the original was never applied.",
+   "sent_ids": [
+    "9fdb927e8cd7",
+    "27f95355068a",
+    "d75bc154cf7f",
+    "8d0d7a9c1662",
+    "d08f38c397c5",
+    "d37bbd2d2662",
+    "244cc819662e",
+    "854be00bd2fc",
+    "878742ecaf60",
+    "2dbdf3a199e7"
+   ]
+  },
+  "sysd-found-035": {
+   "q": "Why does HTTP separate safe methods from unsafe ones?",
+   "a": "It lets automated retrieval by spiders and cache prefetching work without fear of causing harm, and lets a user agent warn the user before an unsafe action.",
+   "sent_ids": [
+    "44e86bdef60e",
+    "6d850336d276",
+    "1efa3c7ab137"
+   ]
+  },
+  "sysd-found-174": {
+   "q": "How can two parties who have never met agree on a shared secret key over an insecure channel?",
+   "a": "Both publicly agree on a prime modulus p and base g, each picks a secret number and sends g raised to it mod p, then raises the received value to its own secret to reach the same shared value. An eavesdropper sees only the public values and must solve the discrete logarithm problem, which is hard for large groups.",
+   "sent_ids": [
+    "344e03f2d53a",
+    "897eed586256",
+    "acab540c10b0",
+    "188003110adb",
+    "1455a593c3d5",
+    "3f36c81859da",
+    "5da82c5d4b75",
+    "7b7fdcc68de1",
+    "79481a9dc8f4",
+    "4954c509475a",
+    "2ce760b9a23d"
+   ]
+  },
+  "sysd-found-191": {
+   "q": "How do 401 and 403 responses differ?",
+   "a": "A 401 (Unauthorized) says the request lacks valid authentication credentials and must carry a WWW-Authenticate challenge. A 403 (Forbidden) says the server understood the request but refuses it, even with credentials that are insufficient.",
+   "sent_ids": [
+    "fed277e717f1",
+    "5e953b27f52f",
+    "0410a7ad223e",
+    "2ffcfe70bf24"
+   ]
+  },
+  "sysd-found-062": {
+   "q": "Why were 307 and 308 added alongside 302 and 301?",
+   "a": "For historical reasons a client may turn a POST into a GET after a 301 or 302. A 308 (Permanent Redirect) and a 307 (Temporary Redirect) avoid this, and 307 forbids changing the method on automatic redirection.",
+   "sent_ids": [
+    "168bef3053cd",
+    "1f91a4033ccf",
+    "084363ed4c16",
+    "c66cfb4c419d"
+   ]
+  },
+  "sysd-found-190": {
+   "q": "How does a cache work out a response's freshness lifetime?",
+   "a": "It takes it from the first matching rule: s-maxage for a shared cache, then max-age, then the Expires value minus the Date value. If none applies, no explicit expiration exists.",
+   "sent_ids": [
+    "be8fb02da1f3",
+    "5b040124247f",
+    "1ca12510b1e1",
+    "6e6e2dfcec42",
+    "2cdbc5d5c898"
+   ]
+  },
+  "sysd-found-054": {
+   "q": "Why did HTTP/1 clients open several connections to one server, and what does HTTP/2 need instead?",
+   "a": "HTTP/1.0 allowed one outstanding request per TCP connection and HTTP/1.1 pipelining only partly helped, so clients opened several connections. HTTP/2 needs one connection per server domain instead of 2 to 8.",
+   "sent_ids": [
+    "5cdfe0064788",
+    "ff914ed615fa",
+    "375ada4c3080",
+    "9663e9fb30b9",
+    "9d8992d604e0"
+   ]
+  },
+  "sysd-found-041": {
+   "q": "Why does QUIC fix the head-of-line blocking that HTTP/2 still has over TCP?",
+   "a": "TCP cannot see HTTP/2's parallel streams, so one lost packet stalls every transaction. QUIC's native multiplexing makes a lost packet affect only the streams that lost data.",
+   "sent_ids": [
+    "5afcdd930ed2",
+    "58ed15b65995",
+    "34c5cabb334b"
+   ]
+  },
+  "sysd-found-172": {
+   "q": "How does Expect: 100-continue save a client from wasting an upload?",
+   "a": "A 100 (Continue) response says the initial part of a request was received and not rejected. A client waits for it before sending a large body, so a request rejected on its headers wastes no upload.",
+   "sent_ids": [
+    "dd9c0a8c7472",
+    "cfe117bbd234",
+    "298f8ab3242f",
+    "beeca7b6d573"
+   ]
+  },
+  "sysd-found-066": {
+   "q": "What does proactive content negotiation gain, and what does it cost?",
+   "a": "The server picks from the client's stated preferences and can send its best guess with the first response, saving a round trip. The cost is that describing capabilities in every request is inefficient and a privacy risk, and it limits reuse of responses by shared caches.",
+   "sent_ids": [
+    "430510e709a9",
+    "d81fc6a9e0c9",
+    "0fd3ed15316c",
+    "afd55bb1d998",
+    "8b641b7e0110",
+    "db64d4aa3078",
+    "2709d1ffe9e7",
+    "b46579815575",
+    "92dd639e4b90",
+    "700d19428670"
+   ]
+  },
+  "sysd-found-187": {
+   "q": "What happens if an HTTP/2 receiver's flow-control window is smaller than the bandwidth * delay product?",
+   "a": "Receive throughput is limited and performance degrades. Timely WINDOW_UPDATE frames help.",
+   "sent_ids": [
+    "8f61b2908341",
+    "743d1ffffc46",
+    "4bff669eb35c",
+    "78bd9abc20bc",
+    "caf4a0145e32"
+   ]
+  },
+  "sysd-found-075": {
+   "q": "What does the Vary header tell a cache?",
+   "a": "Its value lists the selecting header field names, such as accept-encoding and accept-language. A cache may reuse the response only for a later request with the same values in those fields, unless the origin validates it, so Vary expands the cache key.",
+   "sent_ids": [
+    "0ccd42540f7a",
+    "6a52c3284836",
+    "0ba42dc91b5e",
+    "236934670433",
+    "a14eeaa0549e"
+   ]
+  },
+  "sysd-found-084": {
+   "q": "What does cache timing leak, and how does double keying mitigate it?",
+   "a": "Cache timing leaks which resources were previously requested, since a fast load shows a site was visited. Adding the referring site to the cache key, called double keying, mitigates it.",
+   "sent_ids": [
+    "31d3ef3b49b3",
+    "64a1382a58a5",
+    "931f62c3818c",
+    "fa6dbb8847e9",
+    "8ce744714c7d"
+   ]
+  },
+  "sysd-found-048": {
+   "q": "How does SameSite=Strict help against cross-site request forgery?",
+   "a": "CSRF abuses the fact that browsers attach a domain's cookies to any request to it, so a forged request from another page looks real to a server that trusts the cookie. SameSite=Strict sends cookies only when the target domain matches the origin, which mitigates CSRF.",
+   "sent_ids": [
+    "5af057aef19a",
+    "0e83b26b1f99",
+    "9c358e9e318b",
+    "7ad588b79ac4",
+    "8386d37e70ea",
+    "15cadb0235f2",
+    "ed90bfe0b562"
+   ]
+  },
+  "sysd-found-180": {
+   "q": "Why is the first visit to an HSTS site still unprotected, and what closes that gap?",
+   "a": "HSTS relies on trust on first use, so the first visit, and the first request after max-age expires, are unprotected. Browsers ship a preload list of known HSTS sites so that even the first request uses HTTPS, though such a list cannot scale to cover every website.",
+   "sent_ids": [
+    "c14345a0e7b1",
+    "7eb0844b9588",
+    "9cf8f789c7c4",
+    "27b68a5294f2",
+    "8ba772d9065d",
+    "23e42bce3ee6",
+    "d5c8190542dc",
+    "f1e7bedc0ecd",
+    "c6bd9d784736",
+    "1e3acef44c15"
+   ]
+  },
+  "sysd-found-055": {
+   "q": "Why does the TLS 1.3 handshake take only one round trip?",
+   "a": "The client guesses the key exchange algorithm and sends public keys for its guesses in the ClientHello. That takes one round trip instead of the two earlier versions need.",
+   "sent_ids": [
+    "2a7347c2e371",
+    "26a38480bbb8",
+    "240f174ee881"
+   ]
+  },
+  "sysd-found-056": {
+   "q": "What happens in TLS 1.3 if the client's key_share is unacceptable?",
+   "a": "The server sends a HelloRetryRequest and the client restarts with a suitable one. If no common parameters can be negotiated, the server must abort the handshake.",
+   "sent_ids": [
+    "d656ba225661",
+    "e8ac451fdd42"
+   ]
+  },
+  "sysd-found-186": {
+   "q": "Which names does a wildcard certificate for *.example.com cover?",
+   "a": "It covers only one level of subdomain: *.example.com matches sub1.example.com, but not example.com or deeper names.",
+   "sent_ids": [
+    "d3deeb20df53",
+    "bba27146c7b2",
+    "78c8772027f0",
+    "a6fb8aca3a24",
+    "d2c695caed39"
+   ]
+  },
+  "sysd-found-051": {
+   "q": "How does If-Match prevent the lost update problem?",
+   "a": "If-Match makes a method conditional on the current entity tag matching, and a failure gets 412 (Precondition Failed). Used with POST, PUT and DELETE, it stops one client from overwriting another's work.",
+   "sent_ids": [
+    "a2b039b3e1d2",
+    "75ad7b74b30a",
+    "52fe1e884662",
+    "caac178c7ede",
+    "e5c39fdcdbed",
+    "f3e39f8fbe30",
+    "63e495802c92"
+   ]
+  },
+  "sysd-found-069": {
+   "q": "How can a cache revalidate a stale response without downloading it again?",
+   "a": "It forwards a request with preconditions built from the stored response's validators: the Last-Modified timestamp in If-Modified-Since and the entity tags in If-None-Match. A 304 (Not Modified) answer means the stored response can be updated and reused, so no content is transferred.",
+   "sent_ids": [
+    "3ae837023b08",
+    "9a0423fbc145",
+    "4254d5e4b977",
+    "49bab0b76fc0",
+    "2c41595380c8",
+    "e83a6de2ace4",
+    "95bf706f57d3",
+    "723b85e5ff43",
+    "14de0c811ae4",
+    "6657767a9095"
+   ]
+  },
+  "sysd-found-083": {
+   "q": "How is no-cache different from no-store?",
+   "a": "No-cache means the response must not be used for another request without forwarding it for successful validation. No-store means a cache must not store any part of the request or response.",
+   "sent_ids": [
+    "303a47e48495",
+    "1efb1d2a4721",
+    "db56bb6581bd"
+   ]
+  },
+  "sysd-reliab-106": {
+   "q": "Why can't a hash function avoid collisions, and how do hash tables cope?",
+   "a": "Hash functions are many-to-one, with far more possible inputs than output values, so by the pigeonhole principle a collision is guaranteed once there are more objects than hash values. Hash tables handle collisions with a collision-resolution strategy, most commonly open addressing or separate chaining.",
+   "sent_ids": [
+    "b96bbaea79c8",
+    "33b11f622c6a",
+    "44506a458e0b",
+    "74c2738255e7"
+   ]
+  },
+  "sysd-reliab-001": {
+   "q": "Can a Bloom filter give a false negative or a false positive, and why?",
+   "a": "It can give false positives but never false negatives. A 0 among an element's positions means it is definitely not in the set, while all 1s mean it is in the set or other elements set those bits by chance.",
+   "sent_ids": [
+    "d70c51287b8d",
+    "ce3202ed13b3",
+    "588185527186",
+    "e5a49f493159",
+    "6ca5f01ba4e7",
+    "8581ec4a43d7"
+   ]
+  },
+  "sysd-reliab-116": {
+   "q": "Why can nearest-neighbor search in a k-d tree skip an entire branch?",
+   "a": "At each node it checks whether a hypersphere around the query, with the current best distance as radius, crosses the splitting plane. If it does not, that whole branch is eliminated.",
+   "sent_ids": [
+    "c35544c16de1",
+    "ba20816a83ed",
+    "c901fea71a4c",
+    "95d4c8158b71"
+   ]
+  },
+  "sysd-reliab-115": {
+   "q": "Why would a ride-hailing design map locations along a Hilbert curve?",
+   "a": "Mapping along the Hilbert curve keeps points that are close in one dimension close after folding, a locality property used to index geospatial location data. One Uber design applies it to run range queries that find nearby drivers.",
+   "sent_ids": [
+    "8be468150d62",
+    "4fc586608525",
+    "bc9d4f86e98f",
+    "18c9defae1a7",
+    "814b4cf90f36"
+   ]
+  },
+  "sysd-reliab-013": {
+   "q": "Why prefer version 7 UUIDs over random version 4 as database keys?",
+   "a": "Version 7 puts a 48-bit Unix millisecond timestamp in the most significant bits, so its keys are creation-time-ordered and new records land at the end of the key sequence. Random version 4 keys scatter across the sequence and hurt performance.",
+   "sent_ids": [
+    "6d6529c061f3",
+    "b4c82b1add1e",
+    "9bfa2869e45d",
+    "ce8d3894d668",
+    "09b0b35bc1ae",
+    "219a87831ea9",
+    "3901920618e7"
+   ]
+  },
+  "sysd-reliab-118": {
+   "q": "How can a peer verify a file from an untrusted source using a hash tree?",
+   "a": "It gets the root hash from a trusted source, while the tree itself can come from any untrusted peer. A tree that does not match the root hash is damaged or fake, and another source is tried.",
+   "sent_ids": [
+    "240ccb80d5ba",
+    "eee4b3a030e5",
+    "c7413ca97fff",
+    "e4b2d0482658"
+   ]
+  },
+  "sysd-reliab-010": {
+   "q": "Why does HyperLogLog split the hashed values into many subsets instead of using one maximum?",
+   "a": "A single estimate from the maximum number of leading zeros has a large variance. So the hashed values are split into many subsets, the maximum is found in each, and a harmonic mean combines the estimates.",
+   "sent_ids": [
+    "ba39b85d2071",
+    "3b2afba93ab5",
+    "a9daa41b0418",
+    "0cc2b20c5084",
+    "cb627ac94cb0"
+   ]
+  },
+  "sysd-reliab-003": {
+   "q": "Why can two nearby points have very different geohashes?",
+   "a": "Geohashes that share a long prefix are close, but the reverse is not guaranteed. Close points on opposite sides of the 180 degree meridian, near the poles, or either side of the Equator or Greenwich meridian lie in different halves of the world, so their geohashes differ greatly.",
+   "sent_ids": [
+    "ee3fee733a0d",
+    "cc72468ef672",
+    "be5b11ae0a45",
+    "6ebe54c916c2",
+    "4b10a513ac99",
+    "c8cd3e7b76c2"
+   ]
+  },
+  "sysd-blocks-112": {
+   "q": "Why is round-robin DNS a weak way to balance load?",
+   "a": "DNS does not check for server and network outages, so it keeps returning the same IP addresses even when servers are down or unreachable.",
+   "sent_ids": [
+    "1e846d3a77b2",
+    "6a1aa2f484f1",
+    "ecb187795e91"
+   ]
+  },
+  "sysd-blocks-120": {
+   "q": "What happens to a user's session under sticky sessions if the pinned backend goes down?",
+   "a": "There is no automatic failover: the backend's per-session information becomes inaccessible, and sessions depending on it are lost.",
+   "sent_ids": [
+    "529f5295f72c"
+   ]
+  },
+  "sysd-blocks-127": {
+   "q": "Why does the master-worker scheme scale badly to many processors?",
+   "a": "It needs a high amount of communication, and the master acts as a bottleneck. Replacing the master with a task list shared by the processors helps, but is still insufficient for very large computing centers.",
+   "sent_ids": [
+    "55041ab22a05",
+    "4c1d0a3e430e",
+    "128d682f971f",
+    "9d00184113be",
+    "ffde4e73efa5"
+   ]
+  },
+  "sysd-blocks-116": {
+   "q": "Why can a layer 4 balancer not route on content when a layer 7 balancer can?",
+   "a": "A layer 4 balancer works at the transport layer and routes on network information such as IP addresses and TCP/UDP ports. A layer 7 balancer works at the application layer and reads requests in their entirety, so it can route on content.",
+   "sent_ids": [
+    "93b2c0059c73",
+    "805619a06f48",
+    "85fbc7d96f2a",
+    "2de19789c49f",
+    "e35073324e5a",
+    "1dffc076a6f1"
+   ]
+  },
+  "sysd-blocks-123": {
+   "q": "Why do load balancers use N+1 redundancy for failover instead of backing up every component?",
+   "a": "Failover needs at least one component in excess of the service's capacity (N+1 redundancy). That is much cheaper and more flexible than pairing every live component with a backup that takes over on failure (dual modular redundancy).",
+   "sent_ids": [
+    "ae7be3096821",
+    "6ddf4dddf137"
+   ]
+  },
+  "sysd-blocks-129": {
+   "q": "Which proxy hides origin servers from clients, a forward or a reverse proxy?",
+   "a": "A reverse proxy: it sits in front of the origin servers so no client communicates with them directly, and the client never learns of the original server. A forward proxy instead sits in front of the client, so no origin server communicates directly with that client.",
+   "sent_ids": [
+    "659734bcba37",
+    "328dcbe57fe7",
+    "6dfbade61083",
+    "12806f4a141e",
+    "94fc1b6f247c"
+   ]
+  },
+  "sysd-blocks-191": {
+   "q": "Why do microservices call for an API gateway?",
+   "a": "Microservices typically expose fine-grained APIs unlike what a client needs, so clients would have to talk to multiple services. A gateway gives all clients a single entry point.",
+   "sent_ids": [
+    "7a0e62d7be57",
+    "0afc47a48245",
+    "c7209b9a9033"
+   ]
+  },
+  "sysd-blocks-190": {
+   "q": "Why does putting a reverse proxy in front of back ends create both an availability risk and a security risk?",
+   "a": "It is a single point of failure: misconfiguration, a denial-of-service attack or a software fault can make every frontend service unreachable. To filter, cache or compress encrypted traffic it must decrypt and re-encrypt it, which needs the TLS certificate and private key and makes it a more valuable attack target.",
+   "sent_ids": [
+    "8b85c7991bc5",
+    "1c9d9676a6e7",
+    "509fe9d4606d",
+    "7437bc8d05bb"
+   ]
+  },
+  "sysd-blocks-136": {
+   "q": "Which is still useful with only one server, a reverse proxy or a load balancer, and which can stand in for the other?",
+   "a": "A reverse proxy is useful even with one server and can also act as a load balancer, but not the other way around. A load balancer is useful when multiple servers serve the same function.",
+   "sent_ids": [
+    "15d7b8be2187",
+    "191267113c23",
+    "38fff8a0b239"
+   ]
+  },
+  "sysd-blocks-002": {
+   "q": "Why does video and audio streaming usually have a hit ratio near zero, and what does that do to an LRU cache?",
+   "a": "Each bit of the stream is read once (a compulsory miss), used, and never read or written again. LRU in particular lets streaming data fill the cache and push out information that will soon be used again, which is called cache pollution.",
+   "sent_ids": [
+    "ced9e82d4d18",
+    "20367c12415b"
+   ]
+  },
+  "sysd-blocks-005": {
+   "q": "What happens in an LFU cache to an object that was accessed often in the past and then becomes unpopular, and how does LFUDA fix it?",
+   "a": "It stays in an LFU cache for a long time, blocking newer or less-popular objects from replacing it. LFU with dynamic aging adds a cache-age factor to the reference count so such objects become eligible for replacement.",
+   "sent_ids": [
+    "8fde091595ce",
+    "11cf672fbf1a",
+    "cbff2f18ed2d"
+   ]
+  },
+  "sysd-blocks-007": {
+   "q": "Why do CPU caches with large associativity often use pseudo-LRU instead of true LRU?",
+   "a": "LRU must track what was used and when, and for caches with large associativity (generally more than four ways) that cost becomes prohibitive. Pseudo-LRU needs only one bit per cache item.",
+   "sent_ids": [
+    "3b7338961cb7",
+    "1770cebd7f9d",
+    "70f571d68b85"
+   ]
+  },
+  "sysd-blocks-015": {
+   "q": "What does a write-back cache risk if the caching layer crashes, and how can that risk be reduced?",
+   "a": "It confirms the write as soon as it completes in the caching layer and syncs it to the database asynchronously, so it risks data loss if the caching layer crashes. Having more than one replica acknowledge the write in the cache reduces that risk.",
+   "sent_ids": [
+    "312702b1cb6d",
+    "07228e830081",
+    "98e0f2a9fd4d",
+    "5d4fa9735176",
+    "8d7627a17798"
+   ]
+  },
+  "sysd-blocks-029": {
+   "q": "How does a Memcached client decide which server holds a key, and why does that make the design scale?",
+   "a": "Each client knows all the servers, and the client library hashes the key to pick one, a simple form of sharding. Because the servers never talk to each other, it is a scalable shared-nothing architecture.",
+   "sent_ids": [
+    "ba6198c54616",
+    "750ddab81021",
+    "bf60e7deca9c"
+   ]
+  },
+  "sysd-blocks-014": {
+   "q": "Why can't a general-purpose operating system implement the optimal replacement policy, and what is it still good for?",
+   "a": "It needs knowledge of the future to evict the lines that will be reused farthest ahead, and it is generally impossible to predict how far ahead information will be needed. Its practical minimum can still be calculated after experimentation, so it gives a yardstick for comparing the effectiveness of a chosen cache algorithm.",
+   "sent_ids": [
+    "7bbf9de10db9",
+    "5a988fc97dfb",
+    "125ca2f6ccb1",
+    "6565dea62e07"
+   ]
+  },
+  "sysd-blocks-009": {
+   "q": "Which access pattern makes MRU beat LRU, and why?",
+   "a": "For random access patterns and repeated scans over large datasets, called cyclic access patterns, MRU gets more hits than LRU because it tends to retain older data. It is most useful where the older an item is, the more likely it is to be accessed.",
+   "sent_ids": [
+    "f0d231d83f53",
+    "d56ffcf8256e"
+   ]
+  },
+  "sysd-blocks-161": {
+   "q": "How does ARC adapt to changing usage without keeping the data of recently evicted entries?",
+   "a": "Each of its lists gets a ghost list holding only the keys of entries recently evicted from it, never their data. A hit in B1 grows the target size of T1 and a hit in B2 shrinks it, which also decides whether T1 or T2 gives up an entry when the cache is full.",
+   "sent_ids": [
+    "c4dc2f4401e4",
+    "3d32a94c90bf",
+    "ee1ee12d3e57",
+    "61a4b098ca5a",
+    "13cc136b4b62",
+    "622bb2e7a9ce"
+   ]
+  },
+  "sysd-blocks-024": {
+   "q": "Why can the expiry of a heavily requested cached page bring a system down?",
+   "a": "When the cached page expires under very heavy load, many threads across the server farm all try to render it at the same time, and none of them knows the others are doing so. That concurrent load can exhaust shared resources and cause congestion collapse, so every attempt to re-render times out and the cache hit rate drops to zero.",
+   "sent_ids": [
+    "d8ac05e43950",
+    "07f3bc3219a3",
+    "4de690f51e52",
+    "6bec829c8202"
+   ]
+  },
+  "sysd-blocks-018": {
+   "q": "What happens if a malicious user floods the system with queries for keys that exist in neither the cache nor the database, and how can the cache help?",
+   "a": "Because the database has nothing to return, the application cannot populate the cache, which puts heavy pressure on both the cache and the database, so the database can easily be overloaded. One fix is to cache a null value for such keys with a short TTL; another is a Bloom filter, which stops queries for keys it says do not exist from reaching the cache or the database.",
+   "sent_ids": [
+    "e2e5924bc6cc",
+    "4bc6f5b28661",
+    "4ef37ab45518",
+    "1b5292fbf197",
+    "fcdcbf32d24f",
+    "034fa8f7e26a",
+    "a0c9af9f2708",
+    "7f708497e452",
+    "4428c77423d0"
+   ]
+  },
+  "sysd-blocks-026": {
+   "q": "When is caching not helpful?",
+   "a": "It does not help when accessing the cache takes as long as accessing the primary data store, or when requests have low repetition, because caching performance comes from repeated access patterns. It also does not help when data changes frequently, because the cached version gets out of sync and the primary data store must be accessed every time.",
+   "sent_ids": [
+    "1baf0b392ff2",
+    "c9da1394c401",
+    "fa5d973b26f0"
+   ]
+  },
+  "sysd-blocks-033": {
+   "q": "How does banning cached content differ from purging it?",
+   "a": "Purge removes content, including all its variants, from the caching proxy immediately. Ban adds a reference to the cached content to a ban list that requests are checked against, and on a match new content is fetched, returned and cached, so unlike purge it removes nothing at once.",
+   "sent_ids": [
+    "eb9fe97ab8eb",
+    "0faf04b4ac7f",
+    "25dd196bf756",
+    "8dffb7e6a44a",
+    "a0aa218f501e",
+    "b6ddd32eaa3f"
+   ]
+  },
+  "sysd-blocks-069": {
+   "q": "Why is blocking a single source not enough to stop a distributed denial-of-service attack?",
+   "a": "In a DDoS the flood comes from many sources, often thousands of malware-infected hosts in a botnet, so blocking one source does not stop it and more sophisticated mitigation is needed.",
+   "sent_ids": [
+    "34ee936855f7",
+    "dc0b2809452b",
+    "efa2248dc1fa",
+    "c5bba6c6b90e"
+   ]
+  },
+  "sysd-blocks-070": {
+   "q": "Why does a peer-to-peer content network keep the original distributor's setup and running costs very small?",
+   "a": "Unlike client-server systems, it can perform better as more users access the content, especially with protocols such as BitTorrent that require users to share. That property makes the setup and running costs very small for the original content distributor.",
+   "sent_ids": [
+    "0ee2a4ab18ea",
+    "26a1a638aad3"
+   ]
+  },
+  "sysd-blocks-077": {
+   "q": "Why do telco CDNs have a built-in cost advantage over traditional CDNs?",
+   "a": "Traditional CDNs must lease bandwidth from telcos and build the operator's margin into their own costs, while telco CDNs own the last mile and operate their own delivery infrastructure.",
+   "sent_ids": [
+    "e0dd26fc0ec1",
+    "2bb69af0148c",
+    "7b67758ac37c"
+   ]
+  },
+  "sysd-blocks-072": {
+   "q": "Which kind of site suits a pull CDN rather than a push CDN, and why?",
+   "a": "Heavy-traffic sites suit a pull CDN, since traffic is spread more evenly and only recently requested content remains on the CDN. Push CDNs suit sites with little traffic or with content that is not often updated.",
+   "sent_ids": [
+    "ab7080fa8e46",
+    "3b1b32af059e"
+   ]
+  },
+  "sysd-blocks-081": {
+   "q": "Why can locating a client by its resolver's IP route it badly, and what does the edns-client-subnet option change?",
+   "a": "A client that uses a non-local resolver that is far away gets poor performance when the CDN locates it by the resolver's IP. With the edns-client-subnet EDNS0 option, CDNs use the IP address of the requesting client's subnet instead, which drastically reduces round-trip latencies for clients on non-local resolvers.",
+   "sent_ids": [
+    "5ea6a0991507",
+    "29bab4bcc602",
+    "a7e6c8a77f68",
+    "5e6319fe38ca"
+   ]
+  },
+  "sysd-blocks-178": {
+   "q": "How does Subresource Integrity keep a tampered CDN-hosted script from running in a page?",
+   "a": "The page author gives a cryptographic hash of the resource along with its location, and the browser compares that hash with one computed from the fetched resource and discards the resource if they do not match. A page therefore loads only a script whose content matches the hash the site author references.",
+   "sent_ids": [
+    "39fcb495b1df",
+    "be4b75e4dcf5",
+    "65aad332b877",
+    "b62dd655181f",
+    "b13a7ad05bd1"
+   ]
+  },
+  "sysd-blocks-035": {
+   "q": "What do many NoSQL systems trade away to gain speed and availability?",
+   "a": "Many follow the BASE model, prioritizing speed and availability over strict consistency through eventual consistency: updates reach all nodes eventually, but reads may be stale. Most also lack full ACID transaction support, sacrificing it for performance and scalability.",
+   "sent_ids": [
+    "b1befdd0744d",
+    "d118ae464504",
+    "800b161c3fe2",
+    "0e184e23325e",
+    "90e40dfd026c"
+   ]
+  },
+  "sysd-blocks-061": {
+   "q": "Why does a graph database pull ahead of a relational one as relationships get deeper?",
+   "a": "Relational databases need many joins over several tables for complex relationships, while a graph database follows stored links and avoids costly joins. Its advantage grows with query depth and complexity.",
+   "sent_ids": [
+    "a2b125d11ac8",
+    "c8ba5ba8744a",
+    "3698a6310910",
+    "3218c80fd8b4",
+    "13b29ccd728c"
+   ]
+  },
+  "sysd-blocks-060": {
+   "q": "Why must a bank transfer be handled as a single transaction?",
+   "a": "It requires subtracting the amount from one account and adding the same amount to the other, and a transaction must be atomic, meaning it completes or has no effect.",
+   "sent_ids": [
+    "026c697e15b8",
+    "064f942300f5",
+    "395ffd257b5b"
+   ]
+  },
+  "sysd-blocks-055": {
+   "q": "What do you gain and what do you lose by choosing a higher isolation level?",
+   "a": "A higher isolation level reduces the concurrency effects users may meet, but it needs more system resources and raises the chance that one transaction blocks another. A lower level lets more users access the same data at once but increases effects such as dirty reads or lost updates.",
+   "sent_ids": [
+    "ccb680cf95df",
+    "df91a099827e"
+   ]
+  },
+  "sysd-blocks-045": {
+   "q": "Why do analytics databases favor column-oriented storage while operational databases favor row-oriented storage?",
+   "a": "Analytic access usually selects specific fields rather than whole rows, so analytics databases benefit from column-oriented DBMSs, while operational databases benefit from row-oriented ones.",
+   "sent_ids": [
+    "703dcb96da55",
+    "e5fcd599acaf"
+   ]
+  },
+  "sysd-blocks-052": {
+   "q": "Why do star schemas deliberately relax normalization?",
+   "a": "Relaxing normalization gives simpler join logic and reporting, faster read-only queries and aggregations, fewer joins per query, and an efficient source for OLAP cubes.",
+   "sent_ids": [
+    "e23116bfeccf",
+    "ca201edb6655",
+    "f6d2bf75061c",
+    "ef63fdf3add5",
+    "1afe1565f4db",
+    "545c73a2c101",
+    "c200cf253122"
+   ]
+  },
+  "sysd-blocks-066": {
+   "q": "Why is an ordinary index a poor fit for spatial queries, and what do spatial databases use instead?",
+   "a": "Ordinary indexes sort values in a linear order, which is not optimal for queries in two or three dimensions. Spatial databases use a spatial index designed for multi-dimensional ordering, and the R-tree is typically the preferred one.",
+   "sent_ids": [
+    "2cf0f5503534",
+    "3ae623a1635b",
+    "e3461b16dc57",
+    "c8c78c5970b7"
+   ]
+  },
+  "sysd-blocks-169": {
+   "q": "What does ROLAP gain and what does it give up compared with MOLAP?",
+   "a": "ROLAP scales better to large volumes and very high-cardinality dimensions and works with any SQL reporting tool. It is generally slower than MOLAP, and its aggregate tables need custom ETL code.",
+   "sent_ids": [
+    "43deda24a1cb",
+    "0719729f0849",
+    "68289e572c0a",
+    "b21aa154c3ac"
+   ]
+  },
+  "sysd-blocks-067": {
+   "q": "Why does copying values such as a username into each record only suit workloads where reads are much more common than writes?",
+   "a": "Instead of storing only foreign keys, this approach stores the actual foreign values with the data so no further lookup is needed. But copied values must be changed in many places when they change, so it works better when reads are much more common than writes.",
+   "sent_ids": [
+    "924fc14b4208",
+    "cd477d7dfb06",
+    "14aa627a1e88",
+    "f57c31e596fe"
+   ]
+  },
+  "sysd-blocks-053": {
+   "q": "Why can forcing one database to satisfy every requirement backfire, and what does using several databases cost?",
+   "a": "Forcing one database to satisfy every requirement can yield a non-performant jack-of-all-trades, master-of-none solution, because different databases solve different problems. Knitting several database products together has two major drawbacks: a significant increase in operational complexity, and no support for keeping data consistent across the separate stores.",
+   "sent_ids": [
+    "38a372164965",
+    "22efce8a12e1",
+    "5723aae0ca09",
+    "0057027c555a"
+   ]
+  },
+  "sysd-blocks-057": {
+   "q": "What happens when a step errors in an ACID database compared with a BASE database?",
+   "a": "An ACID database fails the whole transaction if any step errors. A BASE database lets users read inconsistent data temporarily and reaches consistency later.",
+   "sent_ids": [
+    "ac365f9e8343",
+    "15b3bbfdc3c3"
+   ]
+  },
+  "sysd-blocks-171": {
+   "q": "Why did financial and order-processing systems turn to NewSQL?",
+   "a": "They outgrew conventional relational databases but needed transactional guarantees that NoSQL could not give. The old options were bigger computers or custom distribution middleware, both costly, and NewSQL tries to reconcile this.",
+   "sent_ids": [
+    "2541abce49be",
+    "e77fe3556ee3",
+    "a4ee78f19359",
+    "c5380592f286"
+   ]
+  },
+  "sysd-blocks-063": {
+   "q": "How does multiversion concurrency control keep readers from waiting for writers?",
+   "a": "An update creates a newer version instead of overwriting, so each user sees a snapshot of the database at one instant and a writer's changes stay invisible to others until it commits. Readers pick the version by timestamp or transaction ID, so reads and writes are isolated without locks and writers do not block readers.",
+   "sent_ids": [
+    "5acef5779bac",
+    "16750ebae1e7",
+    "023bc4a5baee",
+    "2c55a435e79e",
+    "5828855b3360",
+    "61651808c566",
+    "79c5d30441f2"
+   ]
+  },
+  "sysd-blocks-165": {
+   "q": "What rule must a transaction follow under two-phase locking, and what does obeying it guarantee?",
+   "a": "Locks are acquired in an expanding phase with none released, then released in a shrinking phase with none acquired, so a transaction never acquires a lock after releasing one. Schedules that obey this rule are serializable.",
+   "sent_ids": [
+    "82f475a50d11",
+    "c73c0dfc733b",
+    "1daceabf75fb",
+    "45b1f5f76f13",
+    "612fa9a0f1d4"
+   ]
+  },
+  "sysd-blocks-042": {
+   "q": "Under snapshot isolation, how can two concurrent withdrawals each pass a balance check and still leave the accounts in deficit?",
+   "a": "Each transaction checks the rule against its own snapshot, so with two concurrent $200 withdrawals both commit and the total ends at -$200; this is write skew, which snapshot isolation permits. Under serializability it is impossible, because one of the two transactions would have to occur first and be visible to the other.",
+   "sent_ids": [
+    "b2c3fc4e3bb6",
+    "f4caa1577b4a",
+    "b285bb7dae07",
+    "05803aa24d5b",
+    "a28f265f4db0",
+    "d7151ebb0345"
+   ]
+  },
+  "sysd-blocks-182": {
+   "q": "Why does a write-ahead log let a database avoid flushing its data pages at every commit?",
+   "a": "The central rule is that changes to data files may be written only after the WAL records describing them have been flushed to permanent storage. So after a crash, changes not yet applied to the data pages are redone from the WAL, which is roll-forward recovery, also called REDO.",
+   "sent_ids": [
+    "47617d086181",
+    "ab0c67a8479b",
+    "b91799b43a40"
+   ]
+  },
+  "sysd-blocks-186": {
+   "q": "How does an inverted index differ from a forward index, and why does that make full-text search practical?",
+   "a": "A forward index stores the list of words per document, and inverting it gives the inverted index, which lists the documents per word. Without it a query would iterate through every word of every document, which is often not technically realistic; with it, the query jumps to the word by random access.",
+   "sent_ids": [
+    "0dc6706c9d06",
+    "0447704a71d5",
+    "24b6ea38088e",
+    "e8d6983f61fa",
+    "45bf1fb22d91"
+   ]
+  },
+  "sysd-blocks-105": {
+   "q": "Why can a B+ tree handle range queries and ordered iteration better than a B-tree?",
+   "a": "Its leaves are often linked in a list, which makes range queries and ordered iteration simpler and more efficient. A B-tree cannot build such a list because not all its keys are in the leaves.",
+   "sent_ids": [
+    "df9aa604e022",
+    "dc9905cf157c",
+    "baa834b328e4"
+   ]
+  },
+  "sysd-blocks-107": {
+   "q": "Why might denormalizing a design by hand perform worse than the normalized design?",
+   "a": "Denormalizing by hand can match the query speed, but the designer must keep the copies consistent with constraints, which slow writes. Under heavy write load it may therefore perform worse than the normalized design.",
+   "sent_ids": [
+    "a8ebdeec3200",
+    "01c22151e115",
+    "14e9bad4d553",
+    "2e94de128066"
+   ]
+  },
+  "sysd-blocks-188": {
+   "q": "What happens in a B-tree when a key is inserted into a leaf that is already full, and what if the split reaches the root?",
+   "a": "The leaf is split into two around a median key, which moves up to the parent as a separation value; a split that reaches the root creates a new root and increases the tree's height.",
+   "sent_ids": [
+    "26b561ea4198",
+    "1088c251778b",
+    "29c36748afb7",
+    "94d22386053c",
+    "d11ab7356f5b",
+    "9a47f7c95d6d",
+    "105f16fcd61f",
+    "00a75f69bcc9"
+   ]
+  },
+  "sysd-blocks-091": {
+   "q": "Why does an index on (ID, Name) let a query for a record's Name skip the table lookup, and what does that cost?",
+   "a": "A covering index holds the needed fields itself, so the index alone answers the query and the record lookup disappears; the cost is a larger index, because the extra keys slow down inserts and updates.",
+   "sent_ids": [
+    "86b05374ba8b",
+    "649774b1ee0d",
+    "95b5234a9766",
+    "2f649f1504da",
+    "8b2a55e3e6fb",
+    "5be0feaddcdb"
+   ]
+  },
+  "sysd-blocks-092": {
+   "q": "How do pessimistic and optimistic locking differ in handling conflicts, and which favors data integrity?",
+   "a": "Pessimistic locking locks the data before any change and blocks other users, which is better for data integrity but can hurt performance; optimistic locking lets many users in, checks for conflicts at commit and rolls back if one is found, which is better for efficiency and performance.",
+   "sent_ids": [
+    "e3ee49d5a350",
+    "17365c5775c4",
+    "c17dda80c51f",
+    "90fcba804d0d",
+    "0ea87fde050b",
+    "437bca27eba5",
+    "fac7548c3aaf"
+   ]
+  },
+  "sysd-blocks-086": {
+   "q": "Why does a search on city and first_name use only the city part of an index on (city, last_name, first_name)?",
+   "a": "Only the first indexed column can be used on its own, so the search uses city and then checks first_name sequentially; creating the index in the order of the search columns avoids this.",
+   "sent_ids": [
+    "2cca4912a069",
+    "8d3335a932dd",
+    "6a57355cdb14",
+    "f4b2a3e09c11",
+    "ca378031f521"
+   ]
+  },
+  "sysd-blocks-096": {
+   "q": "Why is 6NF unsuitable for databases serving online transaction processing?",
+   "a": "Its drawback is a proliferation of tables: a 5NF table with one key column and N attributes needs N tables, so multi-field updates, inserts and deletes touch several tables.",
+   "sent_ids": [
+    "b12795defebe",
+    "0674ad9b39dd",
+    "ea122469a323"
+   ]
+  },
+  "sysd-blocks-199": {
+   "q": "Why can't SRAM, though much faster than DRAM, match DRAM's storage capacity?",
+   "a": "Each SRAM bit takes a cell of six transistors, whereas DRAM needs only one capacitor and one transistor per bit, which makes DRAM space-efficient and inexpensive.",
+   "sent_ids": [
+    "d5cfcf4e6e55",
+    "3c66b36ee16a",
+    "059ed3875368",
+    "d9bc2bbfc8c0",
+    "333a38fadd89",
+    "8c00be2416dc",
+    "5b0ebc35bb4e",
+    "0bffac11fc7f"
+   ]
+  },
+  "sysd-blocks-210": {
+   "q": "Why must a database flush its log to non-volatile storage before acknowledging a commit?",
+   "a": "So that the effects of committed transactions survive the loss of volatile memory: because changes are logged before they modify database state, committed transactions can be redone from the log after a crash and incomplete ones undone, recreating the state right before the failure.",
+   "sent_ids": [
+    "ca3f5ee6a831",
+    "46a021516721",
+    "c9ca47c11217",
+    "c3e133075b64",
+    "5d6842049b77",
+    "28d837b2b2fb"
+   ]
+  },
+  "sysd-blocks-200": {
+   "q": "Which kind of storage is fully owned by a single server, and why do databases and virtual machine engines still want it?",
+   "a": "Block storage: it is the most flexible and versatile form, so databases and virtual machine engines manage blocks directly to squeeze out the most performance, but it is fully owned by a single server and is not a shared resource.",
+   "sent_ids": [
+    "845f8324bf25",
+    "19d29e1d9aef",
+    "c91fa9c8fd6b",
+    "72aac725a139",
+    "696620a2ed47",
+    "56b6c454884b"
+   ]
+  },
+  "sysd-blocks-149": {
+   "q": "What does data scrubbing do in a RAID array, and why does it reduce risk during a rebuild?",
+   "a": "The controller periodically reads and checks all blocks, including those not otherwise accessed, and uses the array's redundancy to recover a bad block and reassign it to spare blocks; this catches unrecoverable read errors early, reducing the risk of double-drive failures during a rebuild.",
+   "sent_ids": [
+    "13e06960592c",
+    "29e2ea1c4d14",
+    "45bbf70eb759",
+    "b4adf8d1fc5f",
+    "404e192679c7"
+   ]
+  },
+  "sysd-blocks-156": {
+   "q": "Why is object storage not suited to transactional data?",
+   "a": "It lacks the locking and sharing mechanisms that keep a single, accurately updated version of a file; it deliberately trades performance for high durability, vast scale and low cost, and targets relatively cold data such as archives and backups.",
+   "sent_ids": [
+    "1bf06f9e911d",
+    "6542d688a306",
+    "b9b25652f2a1",
+    "c8a0425e51a1",
+    "58e7f6295076"
+   ]
+  },
+  "sysd-blocks-147": {
+   "q": "How does network-attached storage differ from direct-attached storage?",
+   "a": "Direct-attached storage is traditional mass storage that uses no network, while network-attached storage is accessed by another computer at file level over a local or wide area network or the Internet, commonly using the Network File System and Server Message Block protocols.",
+   "sent_ids": [
+    "b6d02aaf8d33",
+    "29dcad62dcd7",
+    "985a619ae9b9",
+    "cbe40dc20851",
+    "b8ed067d5512"
+   ]
+  },
+  "sysd-blocks-207": {
+   "q": "Why does SMB2 perform better than SMB 1.0 over high-latency links?",
+   "a": "SMB 1.0 is chatty, block-level and limited to a 64K block size; SMB2 cuts the commands from over a hundred to nineteen, pipelines requests before earlier responses arrive, and compounds multiple actions into one request to save round trips.",
+   "sent_ids": [
+    "5638a2c06d2b",
+    "0d7accede287",
+    "5ad98372bc17",
+    "a061715a5ad1",
+    "c87686055b57",
+    "ca32067cdfbb"
+   ]
+  },
+  "sysd-blocks-198": {
+   "q": "Why does an SSD controller do wear leveling, and what does it cost?",
+   "a": "Without it, specific blocks would wear out early from repeated use and shorten the life of the whole drive; the controller moves cold data off heavily used blocks so hot data can be written there, and the extra writes, called write amplification, must be balanced against performance and durability.",
+   "sent_ids": [
+    "226e4b1a9ffc",
+    "2c0a58e43db5",
+    "fd67b8c459f6",
+    "479f3fcdcdce"
+   ]
+  },
+  "sysd-blocks-203": {
+   "q": "How do object stores differ from key-value stores?",
+   "a": "Object stores associate a limited set of attributes (metadata) with each piece of data, are optimized for hundreds of megabytes or even gigabytes and usually offer weaker consistency such as eventual consistency; key-value stores expect small values (kilobytes) and offer strong consistency.",
+   "sent_ids": [
+    "60fe64c0adbd",
+    "4cb03e13d07b",
+    "1d4996d28f32",
+    "f5f4736bb778"
+   ]
+  },
+  "sysd-blocks-148": {
+   "q": "How does 4 + 2 erasure coding compare with 3-copy replication on storage overhead and durability?",
+   "a": "In 4 + 2 erasure coding every two chunks of data need one parity block, so the storage overhead is 50% against 200% for 3-copy replication; Backblaze's calculation, assuming a 0.81% annual node failure rate, gives 11 nines of durability against 6 nines.",
+   "sent_ids": [
+    "0da6e34e0945",
+    "84b3b82e559e",
+    "786bf890792d",
+    "20fe37a6f705",
+    "c91f175b6520",
+    "016ae2468d53",
+    "bfe33e56b1cf",
+    "ddcb9b10a6e1",
+    "a31dde91ae3d"
+   ]
+  },
+  "sysd-blocks-153": {
+   "q": "A highly available design adds redundant components. Why must it also provide reliable crossover?",
+   "a": "In redundant systems the crossover point itself tends to become a single point of failure, so reliable systems must provide for reliable crossover.",
+   "sent_ids": [
+    "c6aeb3223487",
+    "d5c62ddaf19e",
+    "2263072706e5",
+    "c46bc93206c7",
+    "34e181be99be",
+    "5c5d65a199d8",
+    "61235f700ff2"
+   ]
+  },
+  "sysd-scale-073": {
+   "q": "What is the chance that a system survives to its MTBF, and why does it matter?",
+   "a": "About 37% (1/e), not the 50% many engineers assume, and that misreading can lead to bad design decisions.",
+   "sent_ids": [
+    "33c4f6c08786",
+    "e8b831c0aad4",
+    "7b88f75ecf02",
+    "cd8be9ac06f3",
+    "89394895f0bf",
+    "200932de8a73",
+    "390871fd920a"
+   ]
+  },
+  "sysd-scale-136": {
+   "q": "Why does speeding up one part of a system by a huge factor often barely help overall?",
+   "a": "The overall gain is limited by the fraction of time that part is actually used: speeding up a part that takes 10% of execution time by a factor of 10,000 gives an overall speedup of only 1.11, an 11% improvement.",
+   "sent_ids": [
+    "651f4fbeb756",
+    "9f81ad4b6bd9",
+    "492c260beefd",
+    "59446a533ff7"
+   ]
+  },
+  "sysd-scale-066": {
+   "q": "What do contention and coherency mean in the Universal Scalability Law, and what does high contention suggest?",
+   "a": "Contention is delay from waiting or queueing for shared resources, and coherence is delay for data to become consistent; high contention indicates sequential processing that could be parallelized, while high coherency suggests excessive dependencies among processes.",
+   "sent_ids": [
+    "d5bfb997a374",
+    "c7a824872352",
+    "a16b3bb39a61"
+   ]
+  },
+  "sysd-scale-067": {
+   "q": "How can a site claim very high availability while its service goes down for maintenance?",
+   "a": "Many sites exclude scheduled downtime from their availability calculations, but for true high availability downtime is downtime whether or not it is scheduled.",
+   "sent_ids": [
+    "5fe7b006627f",
+    "1d533627aa1d",
+    "bf1f823e2dba",
+    "4b65494369fa",
+    "6cb5044f834e",
+    "341b77531440"
+   ]
+  },
+  "sysd-scale-134": {
+   "q": "A system stays up all year but suffers a 9-hour network failure at peak usage. Is it 100% available?",
+   "a": "No: users see it as unavailable even though the administrator claims 100% uptime. By the true definition it is approximately 99.9% available, three nines: 8751 hours of available time out of 8760 hours.",
+   "sent_ids": [
+    "9ee8e48329b3",
+    "cf5c86d2c0e6"
+   ]
+  },
+  "sysd-scale-076": {
+   "q": "Why does chaining two 99.9%-available components lower availability, while running them in parallel raises it?",
+   "a": "In sequence, total availability is the product of the components' availabilities, so two at 99.9% each give 99.8%; in parallel it is 1 minus the product of their unavailabilities, so two at 99.9% each give 99.9999%.",
+   "sent_ids": [
+    "fa3f7e18e407",
+    "c502b6b0aca9",
+    "ba69023fafb5",
+    "d1cdc4541568",
+    "bd6d43782215",
+    "7f386140cda4"
+   ]
+  },
+  "sysd-scale-063": {
+   "q": "Why can't replication stand in for a backup?",
+   "a": "A backup copy stays unchanged for a long period, while replicas are updated frequently and quickly lose any historical state.",
+   "sent_ids": [
+    "b9ba07ef403d",
+    "e56c2ece4eaf"
+   ]
+  },
+  "sysd-scale-058": {
+   "q": "Why does a gossip protocol keep spreading information even when some messages are lost?",
+   "a": "Each node periodically picks another node at random and shares what it knows, so a rumor roughly doubles its reach each round, and that doubling keeps the protocol robust even when some messages are lost.",
+   "sent_ids": [
+    "8773ee54864a",
+    "89470182bc4e",
+    "737ebfd33fb5"
+   ]
+  },
+  "sysd-scale-131": {
+   "q": "Why can no deterministic algorithm elect a leader in an anonymous ring?",
+   "a": "All the processes are identical and run at the same speed, so symmetry cannot be broken; randomized algorithms can pick a leader with high probability.",
+   "sent_ids": [
+    "bb385231223d",
+    "328d54d2d174",
+    "d736bc53982c",
+    "f10532ba91e2",
+    "486710f40fa8",
+    "e4c2e78f290a"
+   ]
+  },
+  "sysd-scale-046": {
+   "q": "What happens if one record is changed on two nodes at once under eager versus lazy multi-master replication?",
+   "a": "An eager system detects the conflict before confirming the commit and aborts one transaction; a lazy system lets both commit and resolves the conflict during re-synchronization.",
+   "sent_ids": [
+    "d3edd376e5eb",
+    "ddbecf213585",
+    "f87a8098a6c4"
+   ]
+  },
+  "sysd-scale-122": {
+   "q": "Why does requiring Vr + Vw > V guarantee that a read sees the newest version?",
+   "a": "Because the read and write quorum votes together must exceed the total votes, every read quorum overlaps every write quorum and so includes the newest version, with version numbers showing which copies are current.",
+   "sent_ids": [
+    "377c9ca72635",
+    "75c4890c4256",
+    "483231451a6b",
+    "604d69bdb9d1",
+    "afc60cdc45fe",
+    "0075fe22bb62",
+    "1b677c75b5f4",
+    "8be30c858fce",
+    "94bca34d967a"
+   ]
+  },
+  "sysd-scale-048": {
+   "q": "How can a system keep a user from missing an order they just placed when a replica lags behind the primary?",
+   "a": "Send latency-sensitive reads, and reads that immediately follow writes, to the primary database; or check whether the replica has caught up with the primary and, if not, fail the read or read from the primary.",
+   "sent_ids": [
+    "a69975b36040",
+    "f90991a8bd59",
+    "0a777e1b4e72",
+    "d1878ffeb6c6",
+    "66edf5548473",
+    "d51197ab4e51",
+    "15034364c77b"
+   ]
+  },
+  "sysd-scale-132": {
+   "q": "How does PostgreSQL logical replication start replicating a table and keep its changes consistent?",
+   "a": "A snapshot of the table is copied to the subscriber first, then changes made since the copy are sent continually and applied in the publisher's order, so transactional consistency holds within one subscription.",
+   "sent_ids": [
+    "a4108a9b48da",
+    "6275ec68855c",
+    "95e3291769fb"
+   ]
+  },
+  "sysd-scale-130": {
+   "q": "What happens if every heartbeat link between cluster nodes fails while the nodes keep running?",
+   "a": "Each node believes it is the only one running, so each serves clients from its own data set with no coordination, which can corrupt data or cause inconsistencies that need operator cleanup.",
+   "sent_ids": [
+    "062ba30329fa",
+    "1350f768c538",
+    "bf7b96726269",
+    "e78f55d9c833"
+   ]
+  },
+  "sysd-scale-126": {
+   "q": "A G-Counter can only increment. How does a PN-Counter support decrements?",
+   "a": "It combines two G-Counters, one counting increments and one counting decrements, and its value is the increment total minus the decrement total.",
+   "sent_ids": [
+    "9ddcd85bfc10",
+    "c3aa517754ce",
+    "76b3e786e76e",
+    "6c962c999372",
+    "5a00922bd793",
+    "f3d593883b8e",
+    "adda9697134d",
+    "cc72569d3970"
+   ]
+  },
+  "sysd-scale-082": {
+   "q": "How does round-robin partitioning place rows, and what is its drawback?",
+   "a": "It sends the ith tuple in insertion order to partition (i mod n), giving uniform distribution and parallel sequential access, but reaching tuples by a predicate means accessing the entire relation.",
+   "sent_ids": [
+    "aca51c66e9d3",
+    "acc631bca886",
+    "63e4abb7701f",
+    "86eb8ffff5fb"
+   ]
+  },
+  "sysd-scale-087": {
+   "q": "Why do timestamp keys pile writes onto one partition in a sensor network, and how does a compound key help?",
+   "a": "With timestamp keys, writes concentrate in the partition of the current time period; prefixing the timestamp with the sensor identifier in a compound key spreads that load.",
+   "sent_ids": [
+    "7ba2df23f840",
+    "f46b59fe0573"
+   ]
+  },
+  "sysd-scale-088": {
+   "q": "Why does shard_id = hash(user_id) % num_shards make adding database servers expensive, and what fixes it?",
+   "a": "Changing the number of slots remaps nearly all keys, so adding or removing servers is expensive; consistent hashing, which hashes keys and servers onto a circle, fixes this by moving only the keys next to the changed server, a 1/n fraction when adding the nth server.",
+   "sent_ids": [
+    "ff4ec8e73003",
+    "9a3e826751b1",
+    "37e4cd3994a3",
+    "34cb2ddf2945",
+    "cca5dff5e29a",
+    "29149e141f73",
+    "3d5e70d02c60",
+    "c66d08c61bd1",
+    "f016d7772e81",
+    "4860a09b62a6",
+    "bf9713e4fcb2",
+    "5db4af5acccf"
+   ]
+  },
+  "sysd-scale-139": {
+   "q": "Why do virtual nodes spread load more evenly after a server fails?",
+   "a": "Without them a failed server's keys all move to the next server clockwise, potentially doubling its load; with several positions per server, its keys are reassigned to different servers, spreading them more evenly.",
+   "sent_ids": [
+    "e931b3b5d3e0",
+    "f90de17f3c53",
+    "3e72c62523c5",
+    "066b668c36c8",
+    "24b462393762",
+    "49e776f7f44a"
+   ]
+  },
+  "sysd-scale-140": {
+   "q": "Why should a table be optimized locally before it is sharded?",
+   "a": "Sharding is generally recommended only when other optimization strategies have proven insufficient, and sharding a table before it has been optimized locally adds needless complexity.",
+   "sent_ids": [
+    "57dabedd1b66",
+    "0ebd6e33a405"
+   ]
+  },
+  "sysd-scale-092": {
+   "q": "Why is eventual consistency only a liveness guarantee and not a safety one?",
+   "a": "It promises only that reads eventually return the same value, with no safety guarantee, so any intermediate value is allowed before convergence.",
+   "sent_ids": [
+    "b5025cf666cb"
+   ]
+  },
+  "sysd-scale-107": {
+   "q": "What trade-off does PACELC add to CAP that applies even when there is no partition?",
+   "a": "Latency versus consistency: consistent operations need a full network round trip on reads and writes, so low-latency systems relax consistency to reduce delay. CAP matters only during a partition, but this trade-off is present at all times.",
+   "sent_ids": [
+    "d015b24751b0",
+    "77c5ca870087",
+    "f1de73a6d11d",
+    "0dc25c7e7d94",
+    "a656eb7a91de",
+    "97cd198c34e2"
+   ]
+  },
+  "sysd-scale-099": {
+   "q": "What part of the design space does CAP actually rule out?",
+   "a": "Only a tiny part: perfect availability and consistency in the presence of partitions, which are rare. Designers need to sacrifice consistency or availability only when a partition is present.",
+   "sent_ids": [
+    "8e5c9555a0d1",
+    "391c37f109f3",
+    "3daa3150fb46"
+   ]
+  },
+  "sysd-scale-106": {
+   "q": "Why is a counter that reads its value, adds one and writes it back not linearizable, and how can it be fixed?",
+   "a": "Two processes can both read 0 and both write 1, so one increment is lost. An atomic compare-and-swap retried on failure, an atomic fetch-and-increment, or a lock around the critical section makes it linearizable.",
+   "sent_ids": [
+    "aa4116ae6b39",
+    "19ca385ad2dc",
+    "9467e33d7c8b",
+    "7b7fdfe33c43",
+    "9f3f9dcd6ea9",
+    "e5d179d8d948"
+   ]
+  },
+  "sysd-scale-095": {
+   "q": "Under causal consistency, which writes must every process see in the same order, and which may be seen in different orders?",
+   "a": "Writes that are potentially causally related must be seen by all processes in the same order, while concurrent writes may be seen in a different order on different machines. Two writes are causally related when the processor doing the second write has just read the first.",
+   "sent_ids": [
+    "b4a5a043d389",
+    "b88b1e72aee9",
+    "afec8c76dcaa",
+    "1140a22a2499"
+   ]
+  },
+  "sysd-scale-001": {
+   "q": "Why is two-phase commit called a blocking protocol?",
+   "a": "A participant that has voted Yes blocks until it receives commit or rollback, so if the coordinator fails permanently some participants never resolve their transactions.",
+   "sent_ids": [
+    "02c8d910c4df",
+    "11cb8f98cd70"
+   ]
+  },
+  "sysd-scale-112": {
+   "q": "What makes one vector clock less than another, and what does that guarantee for events that happened before one another?",
+   "a": "VC(x) is less than VC(y) when every component of VC(x) is at most that of VC(y) and at least one is strictly smaller. If x happened before y, then VC(x) < VC(y).",
+   "sent_ids": [
+    "ee24a2a5e527",
+    "258b939690f4"
+   ]
+  },
+  "sysd-scale-007": {
+   "q": "Why does the Google SRE book recommend renewable leases with timeouts rather than indefinite locks?",
+   "a": "Because they stop a crashed process from holding a lock forever.",
+   "sent_ids": [
+    "f3124e84da6a"
+   ]
+  },
+  "sysd-scale-004": {
+   "q": "How does the pre-commit step of three-phase commit fix the ambiguity left by two-phase commit?",
+   "a": "The coordinator sends doCommit only after all participants have acknowledged they are prepared, so no participant can have committed before all know the decision.",
+   "sent_ids": [
+    "1bdfc7b25c8b",
+    "af57c9de77f1"
+   ]
+  },
+  "sysd-scale-113": {
+   "q": "Why are atomic broadcast and consensus equivalent when processes can crash?",
+   "a": "Consensus reduces to atomic broadcast by proposing a value as a broadcast and deciding the first message received; the reverse runs consensus repeatedly on the next message.",
+   "sent_ids": [
+    "e0f77dea7213",
+    "7fb9a20dec37",
+    "887c198e9c6f",
+    "37ae07955735",
+    "497d3a5de7ad"
+   ]
+  },
+  "sysd-scale-109": {
+   "q": "How many participants does it take to tolerate F Byzantine failures, compared with crash-only majority consensus?",
+   "a": "Tolerating F Byzantine failures needs at least 3F+1 participants, while majority-quorum consensus that tolerates only crashes needs just 2f+1 replicas for f failures.",
+   "sent_ids": [
+    "fe7499abf82c",
+    "7fe88b0dad5c",
+    "5b4429cd2371"
+   ]
+  },
+  "sysd-scale-118": {
+   "q": "In Paxos, which value does the Proposer put in its Accept message once a quorum has promised?",
+   "a": "The value of the highest-numbered accepted proposal reported by the Acceptors, or the Proposer's own value if none was reported.",
+   "sent_ids": [
+    "69e5a77d54ba",
+    "209390d5fc44",
+    "775d90dbac5a",
+    "a26b2f866ebc"
+   ]
+  },
+  "sysd-scale-119": {
+   "q": "In a consensus group, what does it signal when the term or view number rises fast, and what if it decreases?",
+   "a": "A fast increase signals a flapping leader, perhaps from network problems, and a decrease signals a serious bug.",
+   "sent_ids": [
+    "7a1d95e58201",
+    "63c1bb6982bc",
+    "a9abe5170ea4",
+    "954d34262adf"
+   ]
+  },
+  "sysd-scale-022": {
+   "q": "What happens in a leader election when a follower hears no heartbeat from the leader before its election timeout?",
+   "a": "It becomes a candidate: it increases the term counter, votes for itself and requests votes from all other servers, and a majority of votes makes it leader.",
+   "sent_ids": [
+    "4ef9239bcdaa",
+    "9d7a42b3100d",
+    "045ff850312e",
+    "8a76942ab8e9",
+    "b101421f5cee",
+    "d32bc1a78d12"
+   ]
+  },
+  "sysd-scale-026": {
+   "q": "What does Spanner's time API expose, and why does that matter?",
+   "a": "It exposes clock uncertainty, which is critical to external consistency, nonblocking reads in the past, lock-free snapshot transactions and atomic schema changes.",
+   "sent_ids": [
+    "b5126af4a719",
+    "a7ddcac3bcc9"
+   ]
+  },
+  "sysd-scale-028": {
+   "q": "How does a DynamoDB table keyed by a partition key plus a sort key differ from one keyed by a partition key alone?",
+   "a": "With a partition key alone, no two items can have the same partition key. With a sort key added, the partition key picks the physical location and the sort key orders items inside it, so items may share a partition key but not a sort key.",
+   "sent_ids": [
+    "be81b792fffb",
+    "af2c3dee25ad",
+    "00f3d5fa7f52",
+    "100dfd9d4a74",
+    "35576c771435",
+    "47f8b8eb295b"
+   ]
+  },
+  "sysd-scale-031": {
+   "q": "Why does Cassandra not support multi-table JOINs, ad hoc aggregations or complex queries?",
+   "a": "Its distributed architecture optimizes for scalability and availability instead.",
+   "sent_ids": [
+    "58fb1ddf4b2d",
+    "6c112fff72e0"
+   ]
+  },
+  "sysd-scale-120": {
+   "q": "What do the commit log and the Memtable each do when Cassandra takes a write?",
+   "a": "The commit log is a write-ahead log that ensures durability, and the Memtable is an in-memory structure sorted by primary key.",
+   "sent_ids": [
+    "974858bd137c",
+    "7f72e5d3746a",
+    "5d9366297a91"
+   ]
+  },
+  "sysd-scale-121": {
+   "q": "How does ScyllaDB use a node's CPU cores differently from a design built on threads and shared memory?",
+   "a": "Each node is sharded per CPU core: each core handles a different subset of data, and the cores share nothing and communicate explicitly.",
+   "sent_ids": [
+    "0f871806ead6",
+    "227377aa0db2",
+    "4b4ce7a3c3e4",
+    "c2d4303b6d60"
+   ]
+  },
+  "sysd-scale-041": {
+   "q": "Why should a MapReduce partition function spread keys roughly uniformly across reducers?",
+   "a": "A partition function sends each map output to a reducer, typically by hashing the key modulo the number of reducers; if the data is not spread roughly uniformly, the job waits on slow reducers.",
+   "sent_ids": [
+    "2c2233e4a712",
+    "f973c58c2b6b",
+    "15b0905cac95"
+   ]
+  },
+  "sysd-msg-056": {
+   "q": "What happens to senders when the receiver of a message queue fails?",
+   "a": "Senders continue unaffected, because sender and receiver need not be online together; messages accumulate in the queue until the receiver restarts.",
+   "sent_ids": [
+    "d7761a01d763",
+    "e5998738f57a"
+   ]
+  },
+  "sysd-msg-050": {
+   "q": "When is at-least-once delivery good enough even though it can deliver the same message several times?",
+   "a": "When duplication is not a big issue or the consumer can deduplicate, for example by rejecting a duplicate write on a message's unique key.",
+   "sent_ids": [
+    "ac3839dca2e4",
+    "43f0b170927e",
+    "a655eaaa7979",
+    "41c5f2057660"
+   ]
+  },
+  "sysd-msg-136": {
+   "q": "What does it mean that AMQP is a wire-level protocol, and why does that matter?",
+   "a": "It describes the format of the bytes sent across the network, so any compliant tool can interoperate with any other regardless of language, unlike API-level standards such as JMS.",
+   "sent_ids": [
+    "c48d74c5ab3b",
+    "c2908fe9983a",
+    "6728398a3260",
+    "875e0dc7afa1"
+   ]
+  },
+  "sysd-msg-058": {
+   "q": "How does a dead letter queue keep the main queue moving?",
+   "a": "It sets aside messages that cannot be processed, so they can be inspected later without blocking processing or spending CPU cycles on a message that may never be consumed successfully.",
+   "sent_ids": [
+    "dbd5b6c6772d",
+    "071ad4b8bc08"
+   ]
+  },
+  "sysd-msg-059": {
+   "q": "What do event streaming platforms give up in return for more scalability than message brokers?",
+   "a": "They cannot guarantee message delivery or track which consumers have received messages, and they offer fewer fault-tolerance features such as message resending and more limited routing and queueing.",
+   "sent_ids": [
+    "66744d42a6b2",
+    "70c97c1ea444",
+    "fedd8a74816b"
+   ]
+  },
+  "sysd-msg-071": {
+   "q": "What does backpressure do for a queue, and what do clients see once the queue is full?",
+   "a": "Backpressure limits the queue size, which maintains a high throughput rate and good response times for jobs already in the queue. Once it fills up, clients get a server-busy or HTTP 503 status code to try again later.",
+   "sent_ids": [
+    "7912bf39b25c",
+    "c904fa03e11d"
+   ]
+  },
+  "sysd-msg-054": {
+   "q": "How does the claim check pattern handle large messages?",
+   "a": "It stores the whole payload in a database and transmits only a reference, which is later used to retrieve the payload.",
+   "sent_ids": [
+    "71e97d69315d",
+    "073d63cbb352"
+   ]
+  },
+  "sysd-msg-064": {
+   "q": "What does publish-subscribe add to the observer pattern?",
+   "a": "A broker, so publishers and subscribers are unaware of each other; it scales to distributed systems, filters by topic and isolates failures, whereas observer failures can affect the subject.",
+   "sent_ids": [
+    "83e1e72b992b",
+    "e91d4a77f65f",
+    "18a853e01202",
+    "87dea0533e33",
+    "3b16f832aff4",
+    "1454710b0e92"
+   ]
+  },
+  "sysd-msg-065": {
+   "q": "How do topic-based and content-based filtering differ in pub/sub?",
+   "a": "With topic-based filtering, subscribers who register for a topic receive all messages published to it. With content-based filtering, subscribers define constraints on message attributes or content, and messages are delivered only if they match.",
+   "sent_ids": [
+    "743e1986c7ff",
+    "9c46fce033ab",
+    "a1a37762548b",
+    "b19900644210"
+   ]
+  },
+  "sysd-msg-066": {
+   "q": "Who receives each message in a pub/sub topic, and how does that differ from a message queue?",
+   "a": "In pub/sub all subscribers to the topic receive every message broadcast, while in a message queue each message is processed only once by a single consumer.",
+   "sent_ids": [
+    "0d334fc52875",
+    "6ac2fa3fe42f"
+   ]
+  },
+  "sysd-msg-043": {
+   "q": "How does Spark rebuild data that is lost?",
+   "a": "Its resilient distributed datasets are immutable and operations are lazy, so lost data is rebuilt from each RDD's lineage.",
+   "sent_ids": [
+    "2a8b9366f839",
+    "97bb9f31228a"
+   ]
+  },
+  "sysd-msg-038": {
+   "q": "What can go wrong if a Kafka consumer relies on auto-committing offsets?",
+   "a": "Auto-committing might acknowledge records before they are processed, so if the consumer goes down mid-processing, some records may never be processed.",
+   "sent_ids": [
+    "0373127d4ca0",
+    "4e50af788bc9"
+   ]
+  },
+  "sysd-msg-042": {
+   "q": "Why is transaction-log based change data capture attractive, and what makes it hard?",
+   "a": "It has minimal impact on the database, needs no application changes, and can replay the original transactions in the order they were committed. But no standard exists for log formats, most databases do not document them, and uncommitted changes later rolled back must be eliminated.",
+   "sent_ids": [
+    "999a036401a0",
+    "0fcb30acff1e",
+    "31a4de893e49",
+    "17fbec30f1e0",
+    "9731d3fe81b7",
+    "bf9ba0fa06f3",
+    "a586db35635a"
+   ]
+  },
+  "sysd-msg-020": {
+   "q": "How is a mistaken event corrected in an event-sourced system?",
+   "a": "Stored events are never changed, even erroneous ones; the only way to correct one is to add a new event with the new values.",
+   "sent_ids": [
+    "64bebe36a50b",
+    "7714e61d3b81",
+    "7a3a1262615b"
+   ]
+  },
+  "sysd-msg-021": {
+   "q": "What is the difference between event sourcing and event-driven architecture?",
+   "a": "Event sourcing uses events as state, a different approach to storing data, whereas event-driven architecture uses events to communicate between service boundaries.",
+   "sent_ids": [
+    "83ecbd80b177",
+    "de6de2859207",
+    "9a7a3ea1b908"
+   ]
+  },
+  "sysd-msg-030": {
+   "q": "How can an event-driven system avoid losing an event when a component crashes before handing it on?",
+   "a": "It persists in-transit events and dequeues them only after the next component acknowledges receipt, features known as client acknowledge mode and last participant support.",
+   "sent_ids": [
+    "560530fe137d",
+    "0d8a95fd42dc",
+    "ca9152067590",
+    "405d4043ffd6"
+   ]
+  },
+  "sysd-msg-024": {
+   "q": "What does CQRS separate, and why?",
+   "a": "It separates commands, which change the system and return only success or failure, from queries, which request information without changing state. The two play different roles, so each can be optimized as needed.",
+   "sent_ids": [
+    "deb46cae62d4",
+    "8a1741577819",
+    "c92e7e17c6af",
+    "e9c55b17feb2",
+    "0c287c6957d6",
+    "030e937da31b"
+   ]
+  },
+  "sysd-msg-034": {
+   "q": "Why do both short and long timeouts cause trouble in distributed systems, and which pattern helps?",
+   "a": "Short timeouts may fail legitimate requests prematurely, while long timeouts give slow error responses and a poor user experience. The circuit breaker pattern helps by monitoring service health, enabling faster failure detection.",
+   "sent_ids": [
+    "be84fabbad11",
+    "485aa48d8140",
+    "18ec121a436a",
+    "dcb3a6f3f32a",
+    "22c6d46d6b54",
+    "142496121c8a"
+   ]
+  },
+  "sysd-msg-032": {
+   "q": "How can an event-driven system cope with event schemas that change across services?",
+   "a": "By versioning events, such as semantic versioning or schema evolution, to maintain backward and forward compatibility, and by using adapters that translate events between old and new formats.",
+   "sent_ids": [
+    "5f81a76a2e40",
+    "fd393973cc89",
+    "1b51087d0a5d",
+    "e4a6714e274b"
+   ]
+  },
+  "sysd-msg-083": {
+   "q": "How does scaling differ between a monolith and microservices when only one function is constrained?",
+   "a": "A monolith supporting three functions must be scaled in its entirety even if only one is constrained, whereas with microservices only that function's service is scaled out.",
+   "sent_ids": [
+    "32747b44f35a",
+    "432a3ce7e9dc",
+    "5016fe55a789"
+   ]
+  },
+  "sysd-msg-093": {
+   "q": "What are the data plane and the control plane of a service mesh?",
+   "a": "The data plane is the network proxies paired with each service, which intercept and process calls between services. The control plane is the set of management processes that coordinates the proxies and provides APIs to manipulate and observe the whole network.",
+   "sent_ids": [
+    "92667945c5ca",
+    "2a1c2268f0ea",
+    "aed6e91953ab"
+   ]
+  },
+  "sysd-msg-097": {
+   "q": "What is the main distinction between SOA and microservices?",
+   "a": "Scope: SOA defines how to make software components reusable through service interfaces and common communication standards, whereas microservices are many smallest independent service units aimed at team autonomy and decoupling.",
+   "sent_ids": [
+    "da7dc9beb333",
+    "b2445df12182",
+    "a88244e01724"
+   ]
+  },
+  "sysd-msg-079": {
+   "q": "Why should each microservice keep its own data private instead of sharing a database schema?",
+   "a": "Private data lowers coupling, so services can evolve independently, while shared database schemas are a cause of coupling.",
+   "sent_ids": [
+    "11390c926a92",
+    "bf1c062ed611",
+    "65a72dc133f9",
+    "dba927142151"
+   ]
+  },
+  "sysd-msg-085": {
+   "q": "When might one bounded context be split into several microservices, or several contexts merged into one?",
+   "a": "A context may be split for varying scalability needs, and several contexts may be consolidated into one microservice for simplicity or lower operational overhead.",
+   "sent_ids": [
+    "5d9c2ca1df07"
+   ]
+  },
+  "sysd-msg-088": {
+   "q": "What is the reach-in reporting antipattern, and what is the alternative?",
+   "a": "Pulling data for a reporting service, whether directly from databases, over HTTP or in batches, can break bounded contexts or reduce the timeliness of the data. Having the databases push the data asynchronously needs a separate contract and can be complex, but it preserves bounded contexts while keeping data timely.",
+   "sent_ids": [
+    "3bff1a010299",
+    "cdd0debedf0f",
+    "79fcca63cb9d",
+    "4ce8cd9c40d3",
+    "bf2e73c1bd22"
+   ]
+  },
+  "sysd-msg-075": {
+   "q": "When moving from a monolith to microservices, which should be migrated first, the code or the data?",
+   "a": "The code: new microservices temporarily rely on the existing monolithic database, and data is decoupled later so each service has its own database. Prioritizing data migration first is the data-driven migration antipattern.",
+   "sent_ids": [
+    "f544d00fa930",
+    "1e2a9c84ed5e",
+    "92630b3ee9c3",
+    "0e73e2465c5f"
+   ]
+  },
+  "sysd-msg-001": {
+   "q": "Why must callers treat a remote procedure call differently from a local one, even though it is written like a local call?",
+   "a": "Remote calls are usually orders of magnitude slower and less reliable than local calls, and they can fail from unpredictable network problems without the caller knowing whether the remote procedure was actually invoked.",
+   "sent_ids": [
+    "1b7a8edea17d",
+    "a77ec0ddf03d",
+    "c5102002edf5",
+    "868ed83b3b40"
+   ]
+  },
+  "sysd-msg-004": {
+   "q": "Why can a data structure not be serialized by copying its memory layout directly?",
+   "a": "The serialization format must be architecture-independent, and a raw memory layout cannot work reliably across architectures because of byte ordering, memory layout and per-language data representation.",
+   "sent_ids": [
+    "431aff1ed523",
+    "72231cdce01f",
+    "c76bef7464f5"
+   ]
+  },
+  "sysd-msg-123": {
+   "q": "How does a Protocol Buffers message save bandwidth compared with sending field names?",
+   "a": "A schema identifies each field by an integer, and the data carries only those numbers, not the field names, which saves bandwidth and storage.",
+   "sent_ids": [
+    "5caf32e50ce3",
+    "28e13235351d"
+   ]
+  },
+  "sysd-msg-122": {
+   "q": "Why did services move from SOAP towards using HTTP more directly, as REST does?",
+   "a": "Being protocol-agnostic, SOAP cannot use REST's uniform interface or caching and must reimplement them. Its verbosity, slow XML parsing and lack of a standard interaction model led services to use HTTP more directly.",
+   "sent_ids": [
+    "223a929cf5a4",
+    "c2b7cb0afb12",
+    "bc3f0cb55c9d"
+   ]
+  },
+  "sysd-msg-013": {
+   "q": "How does cursor-based pagination avoid the cost of offset-based pagination on large datasets?",
+   "a": "Offset-based pagination must scan and skip rows, which is inefficient for large offsets, while cursor-based pagination marks a position with a cursor so skipped records are not scanned. The price is slightly more complexity.",
+   "sent_ids": [
+    "b0b41daeeb7f",
+    "c04cd15385f5",
+    "db64b58b6108"
+   ]
+  },
+  "sysd-msg-019": {
+   "q": "Which should you pick for an API: REST, GraphQL or gRPC?",
+   "a": "None is better: there is no silver bullet, and the best choice depends on the application's requirements and team, so focus on the domain and requirements rather than the technology.",
+   "sent_ids": [
+    "cddeded57bdf",
+    "cda80e7523bd",
+    "f08c1861d9a0",
+    "8cd12d8ac5bd"
+   ]
+  },
+  "sysd-msg-016": {
+   "q": "What does agreeing an API contract before writing any code let downstream developers do?",
+   "a": "They can mock the server and start testing right away, which is a shift-left testing practice.",
+   "sent_ids": [
+    "001482f76c9b",
+    "c4df41183178",
+    "6e6582d5ce10"
+   ]
+  },
+  "sysd-msg-101": {
+   "q": "Why does long polling remove the response latency of normal polling, yet usually not scale?",
+   "a": "The server holds the request open until information is available or a timeout is reached, so it can respond as soon as there is news. But it creates a new connection each time, which is intensive on the server.",
+   "sent_ids": [
+    "dc43c8605c25",
+    "a2921102ed74",
+    "18a18d4cb058",
+    "ff1b2d20aa72",
+    "65b0772ac99f",
+    "2d043f38d3f7"
+   ]
+  },
+  "sysd-msg-107": {
+   "q": "Which of SSE and WebSocket lets the browser keep sending new requests to the server, and why?",
+   "a": "WebSocket, because it is full-duplex, whereas SSE is uni-directional so the browser cannot send a new request to the server.",
+   "sent_ids": [
+    "d2c6e0cb29b2"
+   ]
+  },
+  "sysd-msg-110": {
+   "q": "What does fragmentation let a WebSocket sender avoid?",
+   "a": "Buffering a whole message: it lets the sender start a message of unknown length, whereas without fragmentation the complete length is needed before the first byte can be sent, which requires a buffer.",
+   "sent_ids": [
+    "95385bcc42fc",
+    "76bbe0e5b610",
+    "6215d90e254b"
+   ]
+  },
+  "sysd-msg-106": {
+   "q": "How does a webhook differ from polling an external service?",
+   "a": "Instead of continuously asking, you give the external service an endpoint as a callback, and it calls that endpoint every time something interesting happens, so data is pushed as soon as it is available.",
+   "sent_ids": [
+    "1fdf8b878c64",
+    "2c89577e98a5",
+    "08e4cccc5033",
+    "a1682cdf28c2"
+   ]
+  },
+  "sysd-msg-103": {
+   "q": "How does a message get from a user on one XMPP server to a user on another?",
+   "a": "The client sends it to its own server, which delivers it instantly if the recipient is online and otherwise holds it. For a user on another server, the first server connects to that server over XMPP.",
+   "sent_ids": [
+    "7615fe223c37",
+    "40291c73d529",
+    "8d68553c2725"
+   ]
+  },
+  "sysd-msg-150": {
+   "q": "Why should WebSocket clients wait a random, growing time before reconnecting after an abnormal closure?",
+   "a": "Clients that all reconnect immediately and persistently after a nontransient failure amount to a denial-of-service attack that can keep the service from recovering. So the first attempt is delayed by a random time, and later attempts wait increasingly longer.",
+   "sent_ids": [
+    "98d49b086939",
+    "d20e560797c9",
+    "f16842ee5cd7",
+    "0c2486787895",
+    "c7942b52e2c0"
+   ]
+  },
+  "sysd-msg-118": {
+   "q": "What attack does masking the frames a WebSocket client sends prevent?",
+   "a": "In an experiment, attackers poisoned caching proxies by sending data on an upgraded connection that looked like an HTTP GET. Masking client data stops a script from making a message that an intermediary misreads as HTTP.",
+   "sent_ids": [
+    "a76dc9cf3d34",
+    "39fef8a0863e",
+    "0ff134b95602"
+   ]
+  },
+  "sysd-msg-120": {
+   "q": "How does handling many concurrent connections differ from handling many requests per second?",
+   "a": "Many requests per second needs high throughput, whereas many concurrent connections needs efficient scheduling of connections to sockets or other stateful endpoints.",
+   "sent_ids": [
+    "dadbec3f4e56"
+   ]
+  },
+  "sysd-reliab-075": {
+   "q": "What happens when one part of a system fails and the other parts must compensate for it?",
+   "a": "That overloads the other parts so they fail too, which prompts more nodes to fail one after another: a cascading failure.",
+   "sent_ids": [
+    "2a559757916e",
+    "444086b0dcc5",
+    "73984e1f7828"
+   ]
+  },
+  "sysd-reliab-176": {
+   "q": "Why should a deadline be propagated down the call stack?",
+   "a": "With propagation, every RPC in the tree shares the same absolute deadline, so each call knows how much time remains. Without it, a server keeps working on doomed requests, such as one that believes it has time left after the caller's deadline has already passed.",
+   "sent_ids": [
+    "a7a11621eafd",
+    "c34e43cf42af",
+    "0301f547a9cd",
+    "c36c88ab4e60",
+    "2d8495ba1b77"
+   ]
+  },
+  "sysd-reliab-171": {
+   "q": "How does adaptive throttling decide when a client should reject its own requests?",
+   "a": "Each client task tracks, for the last two minutes, the requests its application attempted and the requests the backend accepted. It keeps sending until requests reach K times accepts, then rejects new requests locally with a probability that rises as the application's request rate grows relative to the accepted rate.",
+   "sent_ids": [
+    "d994de9bb8a3",
+    "c41f7b8a36f2",
+    "5f9b3100f2f4",
+    "27c98bc7bf8f",
+    "f8d08ec28365",
+    "424a07953a18",
+    "cf53e115424e",
+    "35a705d0b6d5",
+    "da6900ef20d4"
+   ]
+  },
+  "sysd-reliab-086": {
+   "q": "How does graceful degradation go further than load shedding?",
+   "a": "Load shedding drops some proportion of traffic as a server approaches overload. Graceful degradation takes it a step further by reducing the work each request needs, for example by returning lower-quality results.",
+   "sent_ids": [
+    "2a1ed9be9fec",
+    "36941f91da58",
+    "3d0a479c1994"
+   ]
+  },
+  "sysd-reliab-181": {
+   "q": "Why is a rate limit tracked separately on each node not enough for a cluster-wide limit?",
+   "a": "A consumer can exceed the global limit by sending requests to different nodes, and the more nodes there are, the likelier that becomes.",
+   "sent_ids": [
+    "823d86354d6a",
+    "002b57fa6efe",
+    "af3dff4eb141"
+   ]
+  },
+  "sysd-reliab-172": {
+   "q": "When a service is globally overloaded, who should receive the errors, and how do owners arrange this?",
+   "a": "Only the misbehaving customers should get errors, while other customers remain unaffected. Owners provision capacity from negotiated usage and set per-customer quotas.",
+   "sent_ids": [
+    "f786cd2c17aa",
+    "0e09f037849b",
+    "a73dd0e8930a",
+    "88e8712aa126"
+   ]
+  },
+  "sysd-reliab-180": {
+   "q": "What is the difference between a latency cache and a capacity cache?",
+   "a": "A latency cache lets a service sustain its expected load with an empty cache, while a capacity cache does not; caches added for performance can become hard dependencies.",
+   "sent_ids": [
+    "e093fc451f03",
+    "ef9036af9f94"
+   ]
+  },
+  "sysd-reliab-182": {
+   "q": "Why can retrying a timed-out payment request charge the customer twice?",
+   "a": "The client cannot tell whether the server missed the request, processed it with the response lost, or is still processing it. Retrying without idempotency can therefore charge the customer twice.",
+   "sent_ids": [
+    "aeefac622ea1",
+    "222f28f884a5",
+    "762b89ff61fe"
+   ]
+  },
+  "sysd-reliab-079": {
+   "q": "How can a payment system get exactly-once execution from retries and an idempotency check?",
+   "a": "It splits the problem in two: retry provides at-least-once delivery, since a client retries after an error or timeout, and an idempotency key lets the server discard duplicates, providing at-most-once.",
+   "sent_ids": [
+    "b48506126ba3",
+    "cd3b35ba27e6",
+    "7b87872ba5c6",
+    "369b50c044ee",
+    "502671bc4698",
+    "f13eb66d4892",
+    "e96718fd9a4a",
+    "f674ecc9e3e9",
+    "cd6e364dbe55"
+   ]
+  },
+  "sysd-reliab-068": {
+   "q": "What happens in a circuit breaker's half-open state?",
+   "a": "A limited number of requests pass through; if they succeed the breaker returns to closed, and if they keep failing it goes back to open.",
+   "sent_ids": [
+    "40ffe04bf4c2",
+    "a10b6a00ea89",
+    "0b2d70b6a584"
+   ]
+  },
+  "sysd-reliab-089": {
+   "q": "How does the token bucket relate to the leaky bucket used as a meter?",
+   "a": "They are mirror images: implemented correctly with the same parameters, they see exactly the same packets as conforming and nonconforming. The leaky bucket as a queue is different, a special case of the meter version that applies only to traffic shaping and gives jitter-free output.",
+   "sent_ids": [
+    "1bc4a99cea42",
+    "2306e244da43",
+    "5cd4ac1082a3",
+    "52c6714179ee",
+    "37981d4fae0d",
+    "a6c0f1ec273c",
+    "38c6db26e399"
+   ]
+  },
+  "sysd-reliab-091": {
+   "q": "Why can a 99.99% uptime SLO still hide a catastrophic integrity failure?",
+   "a": "Each service has independent uptime and integrity requirements: 99.99% uptime allows about an hour of downtime a year, but 99.99% good bytes in a 2 GB artifact means up to 200 KB garbled, which is catastrophic.",
+   "sent_ids": [
+    "47eb2b56f8d2",
+    "16a46eef9980",
+    "dfda0f15c8ad",
+    "84f60cd9cc6d"
+   ]
+  },
+  "sysd-reliab-099": {
+   "q": "How do SLIs, SLOs and SLAs build on one another?",
+   "a": "SLIs form the basis of service level objectives, which in turn form the basis of service level agreements. An SLI is the measured value of the metric an SLO describes, and it must always meet or exceed the SLO's value to stay in compliance with the SLA.",
+   "sent_ids": [
+    "7094abb9049b",
+    "b44d15195b0b",
+    "ea379e683e90"
+   ]
+  },
+  "sysd-reliab-190": {
+   "q": "How does a differential backup differ from an incremental one?",
+   "a": "An incremental copies changes since the most recent backup of any type, while a differential copies changes since the last full backup. A restore from differentials needs at most two backups, but each differential takes longer as changes accumulate.",
+   "sent_ids": [
+    "70bce1b87036",
+    "c9afd521bf8b",
+    "7c1fbf8609b8",
+    "7594f7c42a6a",
+    "798aef36a0c9"
+   ]
+  },
+  "sysd-reliab-210": {
+   "q": "Why is replication a flawed answer to the question of whether you have a backup?",
+   "a": "Replication gives data locality and protection from a site-specific disaster, but it cannot protect against many sources of data loss.",
+   "sent_ids": [
+    "b0af4ccef9fb"
+   ]
+  },
+  "sysd-reliab-224": {
+   "q": "How does an error budget resolve the tension between developers and SREs?",
+   "a": "Developers are judged on velocity and SREs on reliability, so they pull in opposite directions. The error budget is an objective, agreed metric that removes politics and gives both a common incentive.",
+   "sent_ids": [
+    "f4414756f2fd",
+    "8afb7feea987",
+    "f23a186ba24f",
+    "4c3063b49c57"
+   ]
+  },
+  "sysd-reliab-197": {
+   "q": "Why is a 99.99% availability target both a minimum and a maximum?",
+   "a": "The goal is reliable enough but no more: exceeding the target by much wastes chances to add features, clean up technical debt or cut costs.",
+   "sent_ids": [
+    "a126b32ea0a0",
+    "16d65fc53230",
+    "b6400eb1ce3a"
+   ]
+  },
+  "sysd-reliab-194": {
+   "q": "What goes wrong if you pick an SLO target simply from current performance?",
+   "a": "Adopting values without reflection can lock you into a system that needs heroic efforts to meet its targets and cannot improve without redesign.",
+   "sent_ids": [
+    "5d2a70108480",
+    "478dafa50caa"
+   ]
+  },
+  "sysd-reliab-097": {
+   "q": "What is the difference between monitoring and observability?",
+   "a": "Monitoring watches predefined sets of telemetry, whereas observability is based on exploring properties and patterns that were not defined in advance.",
+   "sent_ids": [
+    "c8ab11236f93",
+    "db5549266251"
+   ]
+  },
+  "sysd-reliab-209": {
+   "q": "What is a fuzzy backup, and why is it dangerous?",
+   "a": "It comes from snapshotting a file while it changes, or across interrelated files such as a database, which yields a corrupted file. It looks successful but does not show the data at a single point in time.",
+   "sent_ids": [
+    "3206266493b8",
+    "95a0bc6bc792",
+    "c4fcbf94f458"
+   ]
+  },
+  "sysd-reliab-096": {
+   "q": "Why should recovery be tested continuously rather than only after a disaster?",
+   "a": "Components not continually exercised fail when you need them most, so regular tests make failures happen before a real catastrophe, when problems can be fixed without harm.",
+   "sent_ids": [
+    "9a7dd551249a",
+    "3ffdb71ea936",
+    "1a52ba55c70b"
+   ]
+  },
+  "sysd-reliab-213": {
+   "q": "Why must a data validator be neither too strict nor too lax?",
+   "a": "Too strict and engineers abandon it, too lax and corruption slips through, so it should validate only invariants whose failure devastates users, such as file contents matching folder listings.",
+   "sent_ids": [
+    "e80a6ea6d4a0",
+    "dabaa2abc9d1",
+    "b9f3cf8ca5e1",
+    "97034fd2b469",
+    "47af5f675c4f"
+   ]
+  },
+  "sysd-reliab-221": {
+   "q": "How does packet encapsulation free a load balancer from the limits of layer 2 forwarding, and what does it cost?",
+   "a": "It wraps the packet in a GRE-encapsulated IP packet addressed to the backend, so balancer and backend can be on separate continents, at the price of 24 bytes of overhead that may exceed the MTU; layer 2 forwarding instead needs every balancer and backend in one broadcast domain.",
+   "sent_ids": [
+    "a841092ebc41",
+    "b9125f0afca9",
+    "ad0885d4f535",
+    "408cc87a46ab",
+    "a5d1d2188592",
+    "be0644e21f90",
+    "1fb7f4ba8c63"
+   ]
+  },
+  "sysd-reliab-200": {
+   "q": "Why can a throughput cluster cost far less than a low-latency cluster for the same storage system?",
+   "a": "Low-latency clusters carry substantial slack capacity for short queues and isolation, while throughput clusters run hot with less redundancy, perhaps at as little as 10-50% of the cost.",
+   "sent_ids": [
+    "982696af8759",
+    "211781727856",
+    "90845c0911d5",
+    "ab6920667e56"
+   ]
+  },
+  "sysd-reliab-218": {
+   "q": "A service expects a peak of about 3,470 QPS and each task handles about 100 QPS. How many tasks does it need with N+2?",
+   "a": "At least 35 tasks are needed for the peak, and N+2 raises this to 37, since an update plus a machine failure could otherwise leave only 35.",
+   "sent_ids": [
+    "4c8380909bc8",
+    "38b2983c4a6f",
+    "53838d4ac941",
+    "d816d7817726",
+    "69fa6eaa1d53"
+   ]
+  },
+  "sysd-reliab-204": {
+   "q": "Why should a frequently firing alert be removed or automated instead of left to page a human?",
+   "a": "Pages with rote responses are a red flag: when an alert becomes frequent, remove its root cause or fully automate the response, since every page distracts a human from improving the system.",
+   "sent_ids": [
+    "ff78a811a0fb",
+    "8507a00f1173",
+    "6f157e59d0f6",
+    "47998cfbd18a"
+   ]
+  },
+  "sysd-reliab-185": {
+   "q": "Why did Gmail still need an offline tape layer despite large disk and network resources for replication?",
+   "a": "Multiple layers guard against breakdown or compromise of any single protection mechanism, so large disk and network resources for replication did not remove the need for a tape layer.",
+   "sent_ids": [
+    "0ba87a256c17",
+    "8edc0cccb259"
+   ]
+  },
+  "sysd-reliab-146": {
+   "q": "Why are containers cheaper than full virtualization, and what do they give up?",
+   "a": "Programs use the operating system's normal system call interface and need no emulation or intermediate virtual machine, so containers are lightweight; the trade-off is that a container cannot host a guest operating system different from the host's, or a different guest kernel.",
+   "sent_ids": [
+    "514cd318515d",
+    "c3d477a45dc1",
+    "7f830e9d0af7",
+    "879c9cc4fe8c"
+   ]
+  },
+  "sysd-reliab-145": {
+   "q": "What is the difference between what cgroups and namespaces control?",
+   "a": "Cgroups dictate how much of the system a process can use, such as CPU, memory and disk I/O limits, while namespaces dictate what it may see; together they underpin Docker, Kubernetes, LXC and Podman.",
+   "sent_ids": [
+    "d9db25084461",
+    "beff41c4d66c",
+    "6797f303ba72"
+   ]
+  },
+  "sysd-reliab-161": {
+   "q": "What happens when a liveness probe keeps failing, compared with a failing readiness probe?",
+   "a": "After more failures than the configured tolerance, a failing liveness probe makes the kubelet restart the container; a failing readiness probe instead gets the Pod's IP removed from the EndpointSlices of every matching Service.",
+   "sent_ids": [
+    "1aa99ff514c5",
+    "42df6122a3b1",
+    "b001db75c663",
+    "ce7f2ef3e36e",
+    "8cee5fe94e81",
+    "80c38f2999de",
+    "163fd83083b7",
+    "e5e2462e3ba3",
+    "969c39104e21",
+    "0906265b7800",
+    "23d6c6e38400"
+   ]
+  },
+  "sysd-reliab-148": {
+   "q": "Why are Pods rarely created directly?",
+   "a": "Pods are relatively ephemeral and disposable, so a workload resource such as a Deployment creates them, replicates them for scale, and replaces them when a node fails.",
+   "sent_ids": [
+    "0d9e6885db2a",
+    "f261ec1fa7b7",
+    "120e620a1002",
+    "1c6990954b88",
+    "b2efba48aa36"
+   ]
+  },
+  "sysd-reliab-228": {
+   "q": "What happens to the restart delay of a container that keeps crashing, and why?",
+   "a": "After the first crash it restarts immediately, but repeated crashes get an exponential backoff delay, which stops a faulty container from overwhelming the system with failed start attempts; the delay starts at 10s and doubles up to a default cap of 300s.",
+   "sent_ids": [
+    "3158cd0bbf49",
+    "e462de96b077",
+    "d83fdb26688c",
+    "21342ce0ba63",
+    "51b55d308e17",
+    "8ea206a5a645",
+    "4c39abf4a6ea",
+    "cc2e50013ac7"
+   ]
+  },
+  "sysd-reliab-159": {
+   "q": "Why does a Service give frontends one stable endpoint instead of letting them track backend Pod IPs?",
+   "a": "Pods are ephemeral and the set of healthy Pods changes from moment to moment, so frontends cannot track backend IPs; a Service decouples them by giving the group one stable endpoint.",
+   "sent_ids": [
+    "d2209054b579",
+    "b4dec46b39a9",
+    "935a348f3af3",
+    "ac51f7395b3f"
+   ]
+  },
+  "sysd-reliab-151": {
+   "q": "What happens if you create an Ingress resource in a cluster that has no Ingress controller?",
+   "a": "It has no effect, because an Ingress controller fulfils the Ingress, usually with a load balancer.",
+   "sent_ids": [
+    "182493b9da2c",
+    "fd1a31eb930d",
+    "1ebab6ff1e7f"
+   ]
+  },
+  "sysd-reliab-047": {
+   "q": "How does a hypervisor guest differ from an emulator and from OS-level virtualization?",
+   "a": "Unlike an emulator, the guest executes most instructions on native hardware; this contrasts with OS-level virtualization, where containers must share a single kernel.",
+   "sent_ids": [
+    "0a0ffc34b299",
+    "698dfbcc95d1",
+    "5bdc2e2c1266"
+   ]
+  },
+  "sysd-reliab-043": {
+   "q": "Why are containers much more lightweight than virtual machines?",
+   "a": "Containers virtualize the operating system instead of the hardware, so each contains only the application and its dependencies; they share the OS kernel and use a fraction of the memory VMs require.",
+   "sent_ids": [
+    "2cc55f1bdb72",
+    "468a2b0272c0"
+   ]
+  },
+  "sysd-reliab-144": {
+   "q": "Why do frequent releases make testing and troubleshooting easier?",
+   "a": "Frequent releases mean fewer changes between versions, which makes testing and troubleshooting easier.",
+   "sent_ids": [
+    "0223a4ef2ee4",
+    "9e832d6fd704",
+    "b723c9d914d4",
+    "cb86382fe558"
+   ]
+  },
+  "sysd-reliab-059": {
+   "q": "How is a bug fixed in an older release without picking up unrelated mainline changes?",
+   "a": "The fix goes to the mainline first and is then cherry picked into the release branch, rebuilt at the same revision as the original build with the specific later changes included, so unrelated mainline changes are avoided and the exact contents of each release are known.",
+   "sent_ids": [
+    "dc23e75f6bd1",
+    "82c4612722a2",
+    "4cc73de01412",
+    "dd36351fc8cf",
+    "ebaaa1b73b25",
+    "887a376e7fac"
+   ]
+  },
+  "sysd-reliab-163": {
+   "q": "Why does the autoscaler use the highest desired count from a stabilization window when scaling down?",
+   "a": "So that it does not remove Pods only to recreate them moments later; replica counts that fluctuate frequently as metrics change are called thrashing or flapping, and the default window is 300 seconds.",
+   "sent_ids": [
+    "66311a94cf31",
+    "eca9e14d0500",
+    "dc09f6a8d0b2",
+    "91bcf69ae208",
+    "8328901bd6df",
+    "d93d5926ff32"
+   ]
+  },
+  "sysd-reliab-157": {
+   "q": "Why can't maxUnavailable and maxSurge both be 0 in a rolling update?",
+   "a": "At least one of the two must allow change, so maxUnavailable cannot be 0 when maxSurge is 0, and maxSurge cannot be 0 when maxUnavailable is 0.",
+   "sent_ids": [
+    "c8b451cc7186",
+    "faf17cdf4eed"
+   ]
+  },
+  "sysd-reliab-057": {
+   "q": "How does Kubernetes act on the gap between desired and current state?",
+   "a": "Objects record the desired state in a spec field while the controller keeps a status field describing the current state; if an operator declares three instances of a pod and the Deployment controller finds only two running, it schedules the creation of another instance.",
+   "sent_ids": [
+    "f05726327f7a",
+    "327a4e6888af",
+    "95d1c5df80bf",
+    "56911f4ea614",
+    "34933a17bcb4"
+   ]
+  },
+  "sysd-reliab-158": {
+   "q": "What happens to running Pods when you change a Pod template?",
+   "a": "A change has no direct effect on existing Pods: the controller creates replacement Pods from the new template instead of patching the old ones, until all old Pods are replaced.",
+   "sent_ids": [
+    "573606f297a0",
+    "8a085ec71837",
+    "572fe1bd1342",
+    "2f75c375b51a"
+   ]
+  },
+  "sysd-reliab-141": {
+   "q": "What is toggle debt, and why does it cost something?",
+   "a": "It arises when a feature is toggled on permanently and dead code remains; it adds overhead, and the code must be removed carefully so other parts are not disturbed.",
+   "sent_ids": [
+    "5975eca289ef",
+    "ca4d13d9623c"
+   ]
+  },
+  "sysd-reliab-142": {
+   "q": "How does a canary release limit the damage from a bad new version?",
+   "a": "It turns the feature on for a sampled cohort, such as 1% of users, while everyone else stays off, and if the feature's performance is not satisfactory it can be rolled back without adverse effects.",
+   "sent_ids": [
+    "30e88d802634",
+    "e5c8486f2415"
+   ]
+  },
+  "sysd-reliab-016": {
+   "q": "Why is reusing one salt for all passwords dangerous?",
+   "a": "A precomputed table that accounts for the salt becomes viable, and cracking one hash also exposes others with the same password.",
+   "sent_ids": [
+    "68ae28cd162b",
+    "8d15fe1249c2",
+    "1afede319a66"
+   ]
+  },
+  "sysd-reliab-126": {
+   "q": "Why is treating a successful OAuth token request as proof of who the user is risky?",
+   "a": "OAuth tells the application nothing about the user or whether they are present, and it was not designed for authentication, so the assumption can cause major security flaws.",
+   "sent_ids": [
+    "bb037819f7f6",
+    "9f449123d4c3",
+    "89c2d211a743",
+    "e8deb7d41aff",
+    "b2c6fe4f5552"
+   ]
+  },
+  "sysd-reliab-019": {
+   "q": "How does tracking a logged-in user with a session differ from tracking with a token?",
+   "a": "With a session the server stores the user's identity and gives the browser a session ID cookie; with a token the identity is encoded into a token the browser sends on later requests, so no server session storage is needed.",
+   "sent_ids": [
+    "3525ea0ad201",
+    "3786af0641b6",
+    "958e1fbe1648",
+    "61b145904ec8",
+    "61e5950be1c7",
+    "cd567855220f",
+    "4d29278d3d0f"
+   ]
+  },
+  "sysd-reliab-129": {
+   "q": "Why does a forged request from another page look genuine to the server in a CSRF attack?",
+   "a": "Browsers automatically and invisibly include a domain's cookies, session cookies among them, in any request to that domain, so a forged request from another page looks genuine to the server.",
+   "sent_ids": [
+    "5af057aef19a",
+    "3e1739686fe6",
+    "7cfd048139b0"
+   ]
+  },
+  "sysd-reliab-024": {
+   "q": "What does OpenID Connect add to OAuth 2.0?",
+   "a": "OAuth 2.0 only grants access to data and features from one application to another; OpenID Connect lets clients verify an end user's identity from the authorization server's authentication and fetch basic profile information.",
+   "sent_ids": [
+    "71537768660f",
+    "36856b3afb70"
+   ]
+  },
+  "sysd-reliab-130": {
+   "q": "How does the synchronizer token pattern stop a CSRF attack?",
+   "a": "It embeds a secret, unique token in every HTML form and verifies it on the server, so the attacker cannot put a correct token in forged requests.",
+   "sent_ids": [
+    "582cf4a3ee4d",
+    "25d14bf40660"
+   ]
+  },
+  "sysd-reliab-023": {
+   "q": "In OAuth 2.0's authorization code grant, what happens if a code is used more than once?",
+   "a": "The server must deny the request and should revoke tokens previously issued from it; the code is bound to the client identifier and redirection URI.",
+   "sent_ids": [
+    "84ae5797890f",
+    "c75dd9b3cf4b"
+   ]
+  },
+  "sysd-reliab-035": {
+   "q": "How does PKCE stop an attacker who intercepts an authorization code from redeeming it?",
+   "a": "The client sends only a code challenge derived from a random secret, the code verifier, and later sends the verifier with the code; the server compares the transformed verifier with the stored challenge and denies access if they differ, and the attacker never saw the verifier because it was never sent over any channel the attacker can observe.",
+   "sent_ids": [
+    "d06df496f21a",
+    "c662e9449a8f",
+    "2e25ff54719c",
+    "e247e988cf4e",
+    "90b21eaf3206",
+    "3742d347e4fe",
+    "bfb0318a14a4",
+    "16057dc5fbac",
+    "b322b76e1511"
+   ]
+  },
+  "sysd-reliab-029": {
+   "q": "Why is trusting users and devices inside a corporate perimeter or behind a VPN commonly not sufficient?",
+   "a": "Networks have many zones, cloud services, remote and mobile environments and IoT devices, so zero trust instead checks the identity and integrity of users and devices regardless of location.",
+   "sent_ids": [
+    "c2e6a4405cb5",
+    "c80930a20360",
+    "b1ed6e58323a"
+   ]
+  },
+  "sysd-reliab-033": {
+   "q": "Why does invalidating a session before a JWT expires undo the main advantage of JWTs?",
+   "a": "The service can no longer trust the token alone and must check a data store, which removes the statelessness that is the main advantage of JWTs.",
+   "sent_ids": [
+    "3453de33d585",
+    "ea90bb96ac4a",
+    "63fdff3414c8"
+   ]
+  },
+  "sysd-reliab-119": {
+   "q": "How does an MFA fatigue attack work, and what is advised instead of push notifications?",
+   "a": "It floods a user with push login requests until one is accepted by mistake; number matching is an interim mitigation, and phishing-resistant MFA is advised instead of push notifications.",
+   "sent_ids": [
+    "c3c14ac66a18",
+    "2e00ee4c546c",
+    "4e4aeaa76ab8",
+    "1a7f48cddf2a"
+   ]
+  },
+  "sysd-reliab-125": {
+   "q": "What happens in Kerberos if the clocks of hosts drift too far apart?",
+   "a": "Authentication fails: tickets have a lifetime, so hosts' clocks must be synchronized within configured limits (five minutes apart by default in MIT's setup).",
+   "sent_ids": [
+    "d13dc859206b",
+    "0c61ffe68ae7",
+    "64d13a1e108b",
+    "2a3989e0c284"
+   ]
+  },
+  "sysd-reliab-027": {
+   "q": "What extra cost does every access through a short URL carry?",
+   "a": "Every access needs at least one more DNS lookup (possibly cached) and one more HTTP/HTTPS request, which adds latency and the risk of failure if the shortening service becomes unavailable.",
+   "sent_ids": [
+    "87d519a1c4ce"
+   ]
+  },
+  "sysd-q-033": {
+   "q": "How does a standalone Key Generation Service keep concurrent servers from getting the same key?",
+   "a": "It creates unique keys ahead of time in a separate database, and used keys move to another table under locking, so concurrent servers never share one.",
+   "sent_ids": [
+    "6f69cd688c9d",
+    "330107721f6d",
+    "27029c21be8b",
+    "4d9867eff8d4",
+    "74ee82389b9f"
+   ]
+  },
+  "sysd-q-063": {
+   "q": "How does designing a pastebin differ from designing a URL shortener?",
+   "a": "It is like designing a URL shortener, except that the service stores the paste contents instead of the original unshortened URL.",
+   "sent_ids": [
+    "35f198afc040"
+   ]
+  },
+  "sysd-q-069": {
+   "q": "Why does a store-and-forward switching center hold a message when the destination is unreachable?",
+   "a": "It keeps the message and retries later, which raises the chance of delivery; if the destination is available, the message is sent at once.",
+   "sent_ids": [
+    "6856ef21f343",
+    "f0cf6ed59857",
+    "f488ba0f337c"
+   ]
+  },
+  "sysd-q-073": {
+   "q": "Why do chat designs push messages over WebSockets instead of polling?",
+   "a": "Pulling by periodic HTTP requests or long polling is not scalable because most responses are empty, while push over WebSockets delivers data without delay.",
+   "sent_ids": [
+    "794472584d70",
+    "5413df855354",
+    "96e350e02c5c",
+    "ee46379ea671",
+    "cb857d5a32d2",
+    "c5ce972d4995",
+    "554d48336e30"
+   ]
+  },
+  "sysd-q-093": {
+   "q": "Why does a hybrid feed use pull for users with millions of followers and push for users with fewer?",
+   "a": "Publishing a post to every follower's feed is heavy when a user has millions of followers, so those users use pull, while users with fewer followers use push.",
+   "sent_ids": [
+    "859337feae77",
+    "c9c4c4df2d29",
+    "3b2d2fb156f4",
+    "9be312171f28",
+    "8fc4a11cad73",
+    "f538deb82e17",
+    "4518be8b2c03"
+   ]
+  },
+  "sysd-q-022": {
+   "q": "What does each of the three terms in Facebook's EdgeRank score capture?",
+   "a": "Affinity is the closeness of the user to the creator, weight is a value per kind of edge so a comment can count more than a like, and decay lowers the rank of older edges.",
+   "sent_ids": [
+    "0f5ae117a738",
+    "bc03ef20352c",
+    "0dca80debc3f",
+    "1e48ee591c52",
+    "9a4885f67994",
+    "37a4785bb02d",
+    "e05d743d735e",
+    "c9920bf23861",
+    "4670a3fe32ce"
+   ]
+  },
+  "sysd-q-020": {
+   "q": "Why does a Twitter-style design skip fanning out tweets from highly followed users?",
+   "a": "Fan-out for users with millions of followers can take several minutes and races with @replies, so the design skips them and merges their tweets in at read time.",
+   "sent_ids": [
+    "21fa2f0aa98c",
+    "d6a796a52309",
+    "140ef5a1cc3d",
+    "df0b5dd59b2a",
+    "d84c61c15e68"
+   ]
+  },
+  "sysd-q-047": {
+   "q": "Why is content-based filtering easier to start than collaborative filtering?",
+   "a": "Collaborative filtering needs a lot of data about a user, the cold start problem, while content-based filtering needs very little to start, though it recommends only items similar to the seed.",
+   "sent_ids": [
+    "c0031a610473",
+    "1c45b5fb5161",
+    "23d187b0886c"
+   ]
+  },
+  "sysd-q-043": {
+   "q": "How does an adaptive streaming client avoid stalls as network conditions change?",
+   "a": "Content is offered at several bit rates as short segments, and the client's adaptation algorithm picks the highest-bit-rate segment that can be downloaded in time to avoid stalls or re-buffering.",
+   "sent_ids": [
+    "afea159854a7",
+    "c173415f3282",
+    "0f8ddb2de8ef",
+    "95d4e5bd1abd",
+    "860a4cad2916"
+   ]
+  },
+  "sysd-q-036": {
+   "q": "What happens to server bandwidth when 1,000 people watch a 300 kbit/s stream over unicast instead of multicast?",
+   "a": "Unicast needs 300 Mbit/s, while multicast sends one common stream using only 300 kbit/s.",
+   "sent_ids": [
+    "ba258a247862",
+    "36fabd65ac8b",
+    "ff0178183216"
+   ]
+  },
+  "sysd-q-106": {
+   "q": "What does AV1 trade for its bandwidth savings over VP9?",
+   "a": "It saves bandwidth, with Netflix's 2017 tests finding it about 25% more efficient than VP9, but it costs compute: 2017 decoding ran at about half the speed of VP9.",
+   "sent_ids": [
+    "905f6a6731de",
+    "7bda88f4897b",
+    "4b86558f4494",
+    "fad76d5c36cd"
+   ]
+  },
+  "sysd-q-035": {
+   "q": "Why does a video platform put a message queue between upload and processing?",
+   "a": "Processing is a long-running task, so the queue decouples it from uploading.",
+   "sent_ids": [
+    "d4f71ea4bcdf",
+    "6885c2598c0b",
+    "a35b5c9d3079",
+    "45cbdc95d7c6",
+    "f39f28ef3f98"
+   ]
+  },
+  "sysd-q-090": {
+   "q": "Why does a proximity service use geohash instead of computing the distance to every place?",
+   "a": "Computing the distance to every place makes the query very inefficient, while geohash divides the planet into ever smaller grids so nearby places are found by a prefix match on the geohash column.",
+   "sent_ids": [
+    "5fd230c08570",
+    "f7aa5beb2d16",
+    "7dd1082fcee9",
+    "35a6e0eaeecf",
+    "8308c0a0a739",
+    "a696c197d30d",
+    "f4bd928262d7",
+    "a54b8e68dce0"
+   ]
+  },
+  "sysd-q-016": {
+   "q": "Why is the ride matching logic wrapped in a mutex?",
+   "a": "Race conditions arise when many customers request rides at once, so the matching logic is wrapped in a mutex and every action is transactional.",
+   "sent_ids": [
+    "7f8b67e464a4",
+    "6679d7cbb7bd",
+    "200804fe4724"
+   ]
+  },
+  "sysd-q-054": {
+   "q": "Why does a proportional re-visit policy lose to a uniform one on average freshness?",
+   "a": "A proportional policy spends crawls on rapidly changing pages whose freshness lasts only briefly.",
+   "sent_ids": [
+    "7b0840e8de03",
+    "d076374a22fe",
+    "99d2a45eef0e"
+   ]
+  },
+  "sysd-q-108": {
+   "q": "Why does a page linked from many high-PageRank pages get a high rank itself?",
+   "a": "A hyperlink counts as a vote of support, and a page's rank is defined recursively from the pages that link to it.",
+   "sent_ids": [
+    "f0540ab984ce",
+    "e03207eaa47d",
+    "fce22dd37d21"
+   ]
+  },
+  "sysd-q-112": {
+   "q": "How does a sitemap differ from robots.txt in what it tells crawlers?",
+   "a": "A sitemap is a URL inclusion protocol that complements robots.txt, which is a URL exclusion protocol.",
+   "sent_ids": [
+    "734c00e55932",
+    "284310cda294"
+   ]
+  },
+  "sysd-q-113": {
+   "q": "What happens when the crawler service takes the top ranked link and finds a similar page signature already in crawled_links?",
+   "a": "It lowers the link's priority, which prevents a cycle.",
+   "sent_ids": [
+    "f9bccd82c5cc",
+    "f869ed5991d7",
+    "2b7fa98e823b",
+    "de65f613aa44",
+    "e07a836436ac"
+   ]
+  },
+  "sysd-q-087": {
+   "q": "Why can a heap deliver the highest-priority item immediately even though it is not sorted?",
+   "a": "The top-priority element sits at the root, and a heap gives access to the smallest or largest element in constant time; it is only partially ordered, with no implied ordering between siblings or cousins.",
+   "sent_ids": [
+    "f744ed6f1ca1",
+    "210b8e5f1c5c",
+    "1f67d8fb6ea6",
+    "1a4e49793b63",
+    "eb350f001ca0",
+    "4df22c279b54"
+   ]
+  },
+  "sysd-q-068": {
+   "q": "Why does the LRU search cache pair a doubly-linked list with a hash table?",
+   "a": "The doubly-linked list adds new items at the head and removes items to expire from the tail, while the hash table gives fast lookup of each list node.",
+   "sent_ids": [
+    "b6d9c89e7955",
+    "4272482d57bd"
+   ]
+  },
+  "sysd-q-159": {
+   "q": "What is the trade-off between an adjacency matrix and an adjacency list for testing adjacency versus listing neighbours?",
+   "a": "The matrix tests in constant time whether two vertices are adjacent, but listing a vertex's neighbours means scanning a whole row; an adjacency list lists neighbours in constant time per neighbour but tests whether an edge exists more slowly.",
+   "sent_ids": [
+    "192d041f6115",
+    "ec38e7af04d1",
+    "0bb2e06ee77e",
+    "c75876fe2953",
+    "bfbf89ee87e8",
+    "9a33e72e96be",
+    "1c72e5656705",
+    "d43f24cb515a",
+    "7cdc84ce7fb8"
+   ]
+  },
+  "sysd-q-154": {
+   "q": "Why is a bidirectional search often faster than a single search from start to goal?",
+   "a": "With branching factor b and start-to-goal distance d, each of the two searches costs O(b^(d/2)), and their sum is much less than the O(b^d) of a single search from start to goal.",
+   "sent_ids": [
+    "e6aa6ca8931b"
+   ]
+  },
+  "sysd-q-066": {
+   "q": "Why does a growing service move MySQL off the web server's box and static content to an object store?",
+   "a": "Vertical scaling gets expensive and blocks scaling MySQL and the web server independently, so static content goes to a managed object store and MySQL to a separate box.",
+   "sent_ids": [
+    "3790b9444edc",
+    "9e771e552837",
+    "6c027e5f4aab",
+    "36f07c83b8da",
+    "b6ebd35d96f7",
+    "ff23892f1c7a",
+    "54ea30bcd3e8"
+   ]
+  },
+  "sysd-q-136": {
+   "q": "What does a mail server take on by replying 250 after the end of the message data?",
+   "a": "By returning a 2yz reply it accepts responsibility to deliver the message, retry transient failures and notify the sender of permanent ones.",
+   "sent_ids": [
+    "ce60eb1e47c8",
+    "da1629c72292",
+    "129360edeeeb",
+    "3d01440dd417",
+    "79fb7a9d1f7a",
+    "826d90a164ea"
+   ]
+  },
+  "sysd-q-134": {
+   "q": "Why can the To field of an email differ from the addresses it is actually delivered to?",
+   "a": "Delivery follows the envelope, not the header, so To may be unrelated to the delivery addresses, and Bcc recipients are normally given only in the SMTP envelope.",
+   "sent_ids": [
+    "a8ed12942fca",
+    "a63f52a6053e",
+    "d915390ecb05",
+    "12ff49e21016",
+    "cfbee634a847"
+   ]
+  },
+  "sysd-q-133": {
+   "q": "Why must a notification about a failed delivery use a null reverse-path?",
+   "a": "Servers must not send notifications about problems with notifications, and the null reverse-path prevents error-report loops.",
+   "sent_ids": [
+    "1e4a40581113",
+    "ba9a1534e555"
+   ]
+  },
+  "sysd-q-120": {
+   "q": "How does IMAP differ from POP3 in where a user's messages live?",
+   "a": "POP3 clients typically retrieve all messages, store them on the client computer and delete them from the server, while IMAP clients generally leave messages on the server until the user deletes them.",
+   "sent_ids": [
+    "e7d59d5087c8",
+    "ec3ea5d2b1e7",
+    "18643e7e315f",
+    "1535bdd696d6",
+    "73c3316c8125"
+   ]
+  },
+  "sysd-q-121": {
+   "q": "What does UIDVALIDITY let an IMAP client detect?",
+   "a": "It lets a client detect changed UIDs: if UIDs fail to persist, the new value must be greater than the old.",
+   "sent_ids": [
+    "20c6942cbfc0",
+    "edaf546c07e4",
+    "2b08bb5b37cf",
+    "b8dff5be4628"
+   ]
+  },
+  "sysd-q-118": {
+   "q": "Why does STARTTLS protect only against passive observation?",
+   "a": "Its negotiation is in plain text, so an active attacker can strip the STARTTLS commands, a downgrade known as STRIPTLS.",
+   "sent_ids": [
+    "d7302740700c",
+    "b81c96ac9450"
+   ]
+  },
+  "sysd-q-148": {
+   "q": "Why does Dijkstra's algorithm give incorrect results when edges have negative weights?",
+   "a": "Its greedy strategy finalizes a vertex's distance before a cheaper path through a negative edge is seen.",
+   "sent_ids": [
+    "2798e9250275",
+    "191a60df1777",
+    "476f20f4018b"
+   ]
+  },
+  "sysd-q-150": {
+   "q": "How does a contraction-hierarchy query stay fast on a huge road network?",
+   "a": "It runs a bidirectional search from the start and target over the graph plus shortcuts, and both searches only follow edges to more important vertices, which keeps the search space small.",
+   "sent_ids": [
+    "4b30b89993bf",
+    "c5791cc667b7"
+   ]
+  },
+  "sysd-q-100": {
+   "q": "Why can a lock-free data structure outperform a lock-based one on a multi-core processor?",
+   "a": "It spends more time in parallel rather than serial execution, because access to shared data need not be serialized.",
+   "sent_ids": [
+    "e0152159f207",
+    "8e0d37352d5b"
+   ]
+  },
+  "sysd-q-097": {
+   "q": "Why does a low-latency exchange pin its single-threaded matching engine to a CPU?",
+   "a": "The engine is single-threaded and pinned, so there is no context switch and no locks, and a thread resuming on its previous CPU may find its data still in that CPU's cache and take fewer cache misses.",
+   "sent_ids": [
+    "f6b65b664163",
+    "b8d51959abfb",
+    "51ca9b9bd0e1",
+    "3e0f55702463"
+   ]
+  },
+  "sysd-q-028": {
+   "q": "How does a modern stock exchange reach microsecond latency?",
+   "a": "By doing less on the critical path: fewer tasks, less time on each task, fewer network hops and less disk usage.",
+   "sent_ids": [
+    "0e3e20beee94",
+    "0feeb98a1195",
+    "b2d837f95e01",
+    "6d2ad4ef07b7",
+    "d477363056e9",
+    "d9f316523423"
+   ]
+  },
+  "sysd-q-147": {
+   "q": "What goes wrong if an operational transformation system skips transforming a delete after a concurrent insert at the start of the text abc?",
+   "a": "After inserting x at position 0 of abc, deleting position 2 must become position 3; untransformed, it deletes b instead of c.",
+   "sent_ids": [
+    "540c013b4dec",
+    "0c321cd33273",
+    "c0c304a2a40f",
+    "e6642bad52e1",
+    "a1a13d7b430a"
+   ]
+  },
+  "sysd-q-077": {
+   "q": "How does real-time gross settlement differ from an automated clearing house?",
+   "a": "An automated clearing house processes transactions in batches and nets them, so settlement may be delayed; real-time gross settlement settles each transaction as soon as it is processed, one to one without netting, and payments are final and irrevocable.",
+   "sent_ids": [
+    "25defeca0f76",
+    "fb004a5e1284",
+    "42c4cc05385e",
+    "d97419b7cd0b",
+    "545880944911",
+    "b318a88d7aea",
+    "277a77f8d27c",
+    "06904db0caa8"
+   ]
+  },
+  "sysd-q-079": {
+   "q": "Why does a payment system send an idempotency key when it retries a payment after a PSP timeout?",
+   "a": "The retry may succeed at a later attempt, and the idempotency key stops it from charging the customer twice.",
+   "sent_ids": [
+    "7b87872ba5c6",
+    "369b50c044ee",
+    "502671bc4698",
+    "cd6e364dbe55"
+   ]
+  },
+  "sysd-q-076": {
+   "q": "Why does a web push message carry a topic?",
+   "a": "A message with a topic replaces any outstanding message with the same topic, so a device that was offline gets only the latest update, not outdated or redundant ones.",
+   "sent_ids": [
+    "3ac867a36502",
+    "7e3273b5009d",
+    "8a9a7a4981e5",
+    "63c574b41ef0"
+   ]
+  },
+  "sysd-q-010": {
+   "q": "How does RBAC change the way users receive permissions compared with listing individual users in an ACL?",
+   "a": "Roles are created for job functions and permissions are assigned to roles, so users get permissions only through their roles, and adding a user or changing a department means assigning the right roles.",
+   "sent_ids": [
+    "fa1e9aef791f",
+    "4c42df437a48",
+    "85c412f0a842"
+   ]
+  },
+  "sysd-q-013": {
+   "q": "In the recommended ABAC architecture, which component evaluates an authorization request and which one protects the app?",
+   "a": "The Policy Decision Point evaluates requests against policies, while the Policy Enforcement Point protects the app and sends the authorization requests; Policy Information Points supply attributes.",
+   "sent_ids": [
+    "7881fb865750",
+    "e6860ee287f0",
+    "c43e46854f84",
+    "cd8e6a554c51",
+    "02b29803bdc2"
+   ]
+  },
+  "sysd-q-012": {
+   "q": "How does mandatory access control differ from DAC in who sets the access policy?",
+   "a": "In MAC the policy is centrally controlled by a policy administrator and enforced for all users, who cannot override it or grant access to files that would otherwise be restricted, unlike DAC where users set policy.",
+   "sent_ids": [
+    "bd992879c641",
+    "9769d5e526c3",
+    "3a4166fdfe6f"
+   ]
+  }
+ },
  "derived": {},
  "closing": null
 }
