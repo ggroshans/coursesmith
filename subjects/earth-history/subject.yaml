@@ -8,7 +8,7 @@ ordering: chronological
 targets: {per_unit: [4, 5], units: 365}  # the chronicle's chosen length, one unit a day for a year
 edition:
   images: true
-  questions: false
+  questions: true
   proportional_clock: true
   # Base of the Hadean on the ICS chart v2026/06: midnight on January 1 of the proportional calendar.
   clock_origin_ma: 4567.0
