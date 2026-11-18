@@ -11,10 +11,12 @@ import uuid
 from html import escape
 
 from .. import config
+from ..crawl.store import Store
 from ..outline import Outline
 from ..util import read_json
 from ..write.render import REF_RE
 from ..write.render import load as load_prose
+from . import attribution as A
 from . import clock, cover, figures
 from .epub import Epub
 
@@ -82,6 +84,18 @@ class Edition:
         self.width = max(3, len(str(self.total)))
         self.origin_ma = subject.edition.get("clock_origin_ma")
         self.figs = figures.load(subject)
+        self.registry = A.course_registry(subject)
+        used = [e for e in self.entries.values() if e.get("selected")]
+        self.rows = A.source_rows(used, self.registry, Store())
+        self.rowmap = {r["key"]: r for r in self.rows}
+        self.license = A.summarize(self.rows, self.registry, subject.cfg.get("distribution") or "personal")
+        self.wiki_only = self.license["wikipedia_only"]
+        wiki = ["Wikipedia contributors"] if any(r["adapter"] == "wikipedia" for r in self.rows) else []
+        others = sorted({r["source_label"] for r in self.rows if r["adapter"] != "wikipedia"})
+        self.creator = "Wikipedia contributors" if self.wiki_only else ", ".join(wiki + others)[:200]
+        self.rights = "CC BY-SA 4.0" if self.wiki_only else self.license["name"]
+        self.tagline = (subject.edition.get("tagline")
+                        or "Wikipedia subjects as sourced courses, one unit at a time.")
 
     # -- pieces --------------------------------------------------------------
     def text(self, eid):
@@ -101,11 +115,12 @@ class Edition:
             cited |= set(ev.get("sent_ids") or [])
         if (e.get("definition") or {}).get("sent_ids"):
             cited |= set(e["definition"]["sent_ids"])
-        pages = [(s["title"], len(set(s.get("sent_ids") or []) & cited)) for s in e.get("sources") or []]
-        pages = [p for p in pages if p[1]] or [(s["title"], 0) for s in e.get("sources") or []]
+        srcs = [A.norm_source(s) for s in e.get("sources") or []]
+        pages = [(s["key"], s["title"], len(set(s.get("sent_ids") or []) & cited)) for s in srcs]
+        pages = [p for p in pages if p[2]] or [(s["key"], s["title"], 0) for s in srcs]
         art = e.get("article")
-        pages.sort(key=lambda p: (p[0] != art, -p[1], p[0]))
-        names = list(dict.fromkeys(p[0] for p in pages))
+        pages.sort(key=lambda p: (p[0] != art, -p[2], p[1]))
+        names = list(dict.fromkeys(p[1] for p in pages))
         if len(names) > limit:
             return "; ".join(names[:limit]) + f"; and {len(names) - limit} more"
         return "; ".join(names)
@@ -158,17 +173,30 @@ class Edition:
         return n
 
     def attribution_html(self, ids, heading="h1"):
-        out = [f'<div class="attribution"><{heading}>Sources and license</{heading}>',
-               "<p>The text of this edition is adapted from Wikipedia articles, which are available under the "
-               f'<a href="{LICENSE_URL}">Creative Commons Attribution-ShareAlike 4.0 License</a>. Facts were '
-               "extracted from the revisions listed below, consolidated and rewritten; the full list of authors "
-               "of each article is in its page history. This edition is shared under the same license.</p>"]
+        out = [f'<div class="attribution"><{heading}>Sources and license</{heading}>']
+        if self.wiki_only:
+            out.append("<p>The text of this edition is adapted from Wikipedia articles, which are available under the "
+                       f'<a href="{LICENSE_URL}">Creative Commons Attribution-ShareAlike 4.0 License</a>. Facts were '
+                       "extracted from the revisions listed below, consolidated and rewritten; the full list of authors "
+                       "of each article is in its page history. This edition is shared under the same license.</p>")
+        else:
+            out.append("<p>The text of this edition is adapted from the sources listed below, consolidated and "
+                       "rewritten. Facts were extracted from the versions named; each source's authors are credited "
+                       "at the link given.</p>")
+            for lname, labels in sorted(self.license["by_license"].items()):
+                out.append(f"<p><b>{escape(lname)}</b>: {escape(', '.join(labels))}.</p>")
+            if any(r["adapter"] == "wikipedia" for r in self.rows):
+                out.append("<p>Wikipedia articles are available under the "
+                           f'<a href="{LICENSE_URL}">Creative Commons Attribution-ShareAlike 4.0 License</a>; the '
+                           "full list of authors of each article is in its page history.</p>")
+            if self.license["restricted"]:
+                out.append("<p>Some sources do not allow redistribution or derivative works, so this edition is "
+                           "for personal reading only.</p>")
         credits, checked = [], []
         for i in ids:
             e = self.entries[i]
-            pages = "; ".join(f'<a href="{escape(s["url"])}">{escape(s["title"])}</a> (revision {s.get("revid")})'
-                              for s in e.get("sources") or [])
-            out.append(f"<p><b>{_inline(self.titles[i])}</b>: {pages or 'no Wikipedia source recorded'}</p>")
+            pages = "; ".join(self._source_ref(s) for s in e.get("sources") or [])
+            out.append(f"<p><b>{_inline(self.titles[i])}</b>: {pages or 'no source recorded'}</p>")
             img = e.get("image")
             if img and img.get("file") and self.s.edition.get("images"):
                 credits.append(f"<p><b>{escape(img['file'])}</b> ({_inline(self.titles[i])}): "
@@ -198,6 +226,14 @@ class Edition:
             out += [f"<{h}>External sources checked</{h}>"] + checked
         out.append("</div>")
         return "".join(out)
+
+    def _source_ref(self, s):
+        ns = A.norm_source(s)
+        r = self.rowmap.get(ns["key"]) or {}
+        label = r.get("version_label") or (f"revision {ns['revid']}" if ns.get("revid") else "")
+        if r.get("retrieved") and r.get("adapter") != "wikipedia":
+            label = (label + ", " if label else "") + f"retrieved {str(r['retrieved'])[:10]}"
+        return f'<a href="{escape(ns["url"] or "")}">{escape(ns["title"])}</a> ({escape(label)})'
 
     # -- unit edition ----------------------------------------------------------
     def unit_body(self, u, pass_no=1, images=None):
@@ -284,7 +320,7 @@ class Edition:
         out_dir = out_dir or config.EPUB_DIR / self.s.slug
         n = u["n"]
         book = Epub(self.identifier("unit", n, pass_no), self.unit_title(u, pass_no), self.modified,
-                    description=f"Unit {n} of {self.total}: " + "; ".join(self.titles[i] for i in u["entries"]),
+                    creator=self.creator, rights=self.rights, description=f"Unit {n} of {self.total}: " + "; ".join(self.titles[i] for i in u["entries"]),
                     series=self.s.title, series_index=n)
         book.add("css", "style.css", "text/css", CSS)
         leaf = self.outline.title(u["leaf"]) if u.get("leaf") else ""
@@ -303,11 +339,11 @@ class Edition:
         out_dir = out_dir or config.EPUB_DIR / self.s.slug
         order = [i for u in self.units for i in u["entries"]]
         book = Epub(self.identifier("complete"), f"{self.s.title} — the complete course", self.modified,
+                    creator=self.creator, rights=self.rights,
                     description=(self.s.cfg.get("description") or "").strip() or None, series=self.s.title,
                     series_index=0)
         book.add("css", "style.css", "text/css", CSS)
-        book.set_cover(cover.course_cover(self.s.title, self.total, len(order),
-                                          "Wikipedia subjects as sourced courses, one unit at a time."),
+        book.set_cover(cover.course_cover(self.s.title, self.total, len(order), self.tagline),
                        title=self.s.title)
         book.add_page("about", "about.xhtml", "About this course", self._about_html(len(order)))
         imgs = _ImageSink(book)
@@ -372,11 +408,18 @@ class Edition:
             if e.get("selected"):
                 tiers[e.get("source_tier", "wikipedia")] = tiers.get(e.get("source_tier", "wikipedia"), 0) + 1
         tier_txt = ", ".join(f"{v:,} {k}" for k, v in sorted(tiers.items(), key=lambda kv: -kv[1]))
+        if self.wiki_only:
+            trace = ("Every fact traces to a "
+                     "Wikipedia revision listed under Sources and license at the end of this book, or to a verified "
+                     "external source named in the entry's tag line. Nothing comes from general knowledge.</p>")
+        else:
+            trace = ("Every fact traces to a source version listed under Sources and license at the end of this book "
+                     "(a Wikipedia revision, a repository commit, an RFC, a documentation snapshot or a paper), or to "
+                     "a verified external source named in the entry's tag line. Nothing comes from general "
+                     "knowledge.</p>")
         return (f"<h1>About this course</h1>{_paras(desc)}"
                 f"<p>{n_entries:,} entries in {self.total} units of {self._unit_sizes()} entries each. "
-                "Every fact traces to a "
-                "Wikipedia revision listed under Sources and license at the end of this book, or to a verified "
-                "external source named in the entry's tag line. Nothing comes from general knowledge.</p>"
+                + trace +
                 f"<p>Source tiers: {escape(tier_txt)}. An entry is <i>primary</i> when a cited paper or an "
                 "authority confirms its key claim.</p>"
                 "<p>Built with coursesmith.</p>")

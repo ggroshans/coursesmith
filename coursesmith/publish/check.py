@@ -64,6 +64,11 @@ def run(subject, log=print):
     if not units:
         return [f"{subject.slug}: no units.json"], []
     lo, hi = size_bounds(sum(len(u["entries"]) for u in units), *_per_unit(subject))
+    # a course meant for the public may only cite sources whose licenses allow it
+    from . import attribution
+    problems += attribution.distribution_problems(
+        [entries[i] for u in units for i in u["entries"] if i in entries], attribution.course_registry(subject),
+        subject.cfg.get("distribution") or "personal")
 
     unit_of, seq = {}, []
     for u in units:

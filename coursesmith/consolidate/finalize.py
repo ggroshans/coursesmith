@@ -28,10 +28,15 @@ from collections import defaultdict
 
 from ..extract import sentences as SN
 from ..graph.build import load as load_graph
+from ..sources.base import best_tier
+from ..sources.keys import is_qualified
+from ..sources.registry import Registry
 from ..util import atomic_write, read_json, read_jsonl, write_jsonl
 
 KINDS = ["Concept", "Process", "Classification", "Method", "Material", "Practice", "Event", "Person/Institution",
-         "Debate"]
+         "Debate", "Worked example", "Case study"]
+QUESTION_KINDS = ("Worked example", "Case study")
+VETTED_TIERS = ("official", "standard", "primary")
 WEIGHTS = ["Landmark", "Major", "Minor"]
 LEVELS = ["Foundational", "Intermediate", "Advanced"]
 MAX_FACT_WORDS = 40
@@ -62,11 +67,15 @@ def load_drafts(subject, chapter="all"):
     return out
 
 
-def _fact_cap(e):
+def _fact_cap(e, caps=None):
+    """Most facts an entry may keep. subject.yaml `targets.fact_caps` sets it per kind (a worked answer needs
+    more than a concept)."""
+    if caps and e.get("kind") in caps:
+        return int(caps[e["kind"]])
     return 4 if e.get("weight") == "Minor" else 8
 
 
-def _merge_into(a, b):
+def _merge_into(a, b, caps=None):
     """Fold draft entry b into a (same concept drafted by two passes)."""
     seen = {re.sub(r"\W+", " ", f.get("text", "").lower()).strip() for f in a.get("facts") or []}
     facts = list(a.get("facts") or [])
@@ -75,7 +84,7 @@ def _merge_into(a, b):
         if k and k not in seen:
             seen.add(k)
             facts.append(f)
-    cap = _fact_cap(a)
+    cap = _fact_cap(a, caps)
     if len(facts) > cap:
         spill = [s for f in facts[cap:] for s in f.get("sent_ids") or []]
         a["mention_sent_ids"] = list(dict.fromkeys((a.get("mention_sent_ids") or []) + spill))
@@ -114,7 +123,7 @@ def merge_parts(subject, chapter, log=print):
             page = art if art and "#" not in art else None
             old = by_title.get(t) or (by_page.get(page) if page else None)
             if old is not None and e["title"] not in (old.get("distinct_from") or []):
-                _merge_into(old, e)
+                _merge_into(old, e, (getattr(subject, "targets", None) or {}).get("fact_caps"))
                 n_dup += 1
                 continue
             merged.append(e)
@@ -151,7 +160,9 @@ def _tokens(t, stop=STOP):
     return {w for w in re.findall(r"[a-z0-9]+", (t or "").lower()) if w not in stop}
 
 
-def validate(e, known, crawled):
+def validate(e, known, crawled, caps=None, allowed=None):
+    """`caps`: per-kind fact limits (targets.fact_caps). `allowed`: callable key -> bool for pages of other
+    sources (the subject's source registry)."""
     problems = []
     t = e.get("title") or "(untitled)"
     if not e.get("title"):
@@ -164,8 +175,9 @@ def validate(e, known, crawled):
         problems.append(f"{t}: level {e.get('level')!r}")
     facts = e.get("facts") or []
     lo = 2 if e.get("weight") in ("Landmark", "Major") else 1
-    if not lo <= len(facts) <= 8:
-        problems.append(f"{t}: {len(facts)} facts (want {lo}-8)")
+    hi = int(caps[e["kind"]]) if caps and e.get("kind") in caps else 8
+    if not lo <= len(facts) <= hi:
+        problems.append(f"{t}: {len(facts)} facts (want {lo}-{hi})")
     for f in facts:
         if len((f.get("text") or "").split()) > MAX_FACT_WORDS:
             problems.append(f"{t}: fact over {MAX_FACT_WORDS} words: {f['text'][:60]}...")
@@ -180,6 +192,8 @@ def validate(e, known, crawled):
     art = (e.get("article") or "").split("#")[0]
     if art and art not in crawled:
         problems.append(f"{t}: article {art!r} was not crawled")
+    elif art and is_qualified(art) and allowed is not None and not allowed(art):
+        problems.append(f"{t}: article {art!r} is outside the sources subject.yaml allows")
     return problems
 
 
@@ -207,6 +221,8 @@ def finalize(subject, chapter="all", check_file=None, log=print):
         drafts = {"check": read_jsonl(check_file)}
     else:
         drafts = load_drafts(subject, chapter)
+    registry = Registry.from_subject(subject)
+    caps = subject.targets.get("fact_caps") or {}
     every = [e for es in drafts.values() for e in es]
     sids = {s for e in every for s in _all_sids(e)}
     found = SN.lookup(db, sids)
@@ -214,7 +230,7 @@ def finalize(subject, chapter="all", check_file=None, log=print):
 
     problems = []
     for e in every:
-        problems += validate(e, known, crawled)
+        problems += validate(e, known, crawled, caps, registry.allowed)
     if check_file:
         log(f"[finalize] {check_file}: {len(every)} entries, {len(problems)} problems")
         for p in problems:
@@ -275,7 +291,7 @@ def finalize(subject, chapter="all", check_file=None, log=print):
                 elif not pid:
                     unresolved.append(f"{e['id']} {key}: {p}")
             e[key] = list(dict.fromkeys(ids))
-        _derive(e, found, nodes, db)
+        _derive(e, found, nodes, db, registry)
 
     dups = possible_duplicates(finals, stop_words(subject))
     _write_dups(subject, dups)
@@ -297,7 +313,7 @@ def finalize(subject, chapter="all", check_file=None, log=print):
     return problems
 
 
-def _derive(e, found, nodes, db):
+def _derive(e, found, nodes, db, registry=None):
     by_page = defaultdict(list)
     tags = set()
     events = list(e.get("events") or [])
@@ -313,7 +329,7 @@ def _derive(e, found, nodes, db):
             if row[1] and not e.get("events") and any(sid in (f.get("sent_ids") or []) for f in e.get("facts") or []):
                 for d in json.loads(row[1])[:1]:
                     events.append({"date_text": d.get("date_text"), "date_ma": d.get("date_ma"), "sent_ids": [sid]})
-    e["sources"] = [{"title": t, "url": found[s[0]]["url"], "revid": found[s[0]]["revid"], "sent_ids": s}
+    e["sources"] = [_source(t, s, found[s[0]])
                     for t, s in sorted(by_page.items(), key=lambda kv: (kv[0] != (e.get("article") or "").split("#")[0],
                                                                         -len(kv[1]), kv[0]))]
     e["events"] = events[:3]
@@ -330,7 +346,7 @@ def _derive(e, found, nodes, db):
     e.setdefault("related", [])
     e.setdefault("verification", [])
     e.setdefault("external", [])
-    e["source_tier"] = e.get("source_tier") or "wikipedia"
+    e["source_tier"] = source_tier(e, registry)
     art = (e.get("article") or "").split("#")[0]
     n = nodes.get(art) or {}
     # a section entry is not the page's Wikidata item
@@ -344,7 +360,32 @@ def _derive(e, found, nodes, db):
         tests.append("Top/High importance")
     if len(by_page) >= 2:
         tests.append("mentioned on 2+ pages")
+    if n.get("tier") in VETTED_TIERS and n.get("source", "wikipedia") != "wikipedia":
+        tests.append("vetted source")
+    if e.get("kind") in QUESTION_KINDS:
+        tests.append("question entry")
     e["curriculum"] = tests
+
+
+def _source(key, sent_ids, row):
+    """One `sources[]` item. `title` is the page's human name (for Wikipedia, the article title, which is also
+    its key); `key` is what the store and the sentence index know it by."""
+    s = {"title": row.get("name") or key, "url": row["url"], "revid": row["revid"], "sent_ids": sent_ids}
+    s.update({"key": key, "source": row.get("source") or "wikipedia", "version": row.get("version")})
+    if row.get("license"):
+        s["license"] = row["license"]
+    return s
+
+
+def source_tier(e, registry=None):
+    """`primary` once verification has confirmed a key claim, else `wikipedia` for an entry that cites only
+    Wikipedia, else the best trust tier among the sources it cites."""
+    if e.get("source_tier") == "primary":
+        return "primary"
+    keys = [s.get("key") or s["title"] for s in e.get("sources") or []]
+    if registry is not None and any(is_qualified(k) for k in keys):
+        return best_tier(registry.tier(k) for k in keys) or "reference"
+    return "wikipedia"
 
 
 def possible_duplicates(entries, stop=STOP):
