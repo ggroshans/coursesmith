@@ -5,7 +5,7 @@ from pathlib import Path
 
 from coursesmith import config
 
-PATHS = ["CACHE", "RAW_DIR", "TEXT_DIR", "PAGES_INDEX", "ALIASES_PATH", "META_CACHE_PATH", "SENT_DB",
+PATHS = ["ROOT", "CACHE", "RAW_DIR", "TEXT_DIR", "PAGES_INDEX", "ALIASES_PATH", "META_CACHE_PATH", "SENT_DB",
          "HTTP_CACHE", "HUB_CACHE", "AUTHORITY_TEXT_DIR", "WORKS_DIR", "IMAGES_DIR", "SUBJECTS", "REGISTRY_PATH",
          "BUILD", "EPUB_DIR"]
 
@@ -16,6 +16,7 @@ def temp_root():
     with tempfile.TemporaryDirectory() as d:
         root = Path(d)
         old = {k: getattr(config, k) for k in PATHS}
+        config.ROOT = root
         config.CACHE = root / "cache"
         config.RAW_DIR = config.CACHE / "raw"
         config.TEXT_DIR = config.CACHE / "text"

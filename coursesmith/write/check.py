@@ -127,7 +127,6 @@ def run(subject, part=None, log=print):
         for nid in outline.entry_path(entries[i]):
             facts_under.setdefault(nid, set()).update(allowed_numbers(entries[i]))
     # facts written for openers (the chronicle's scene facts) count for their node
-    from ..util import read_json
     for nid, fs in (read_json(subject.write_dir / "opener_facts.json", {}) or {}).items():
         for f in fs:
             facts_under.setdefault(nid, set()).update(nums(f.get("text")))

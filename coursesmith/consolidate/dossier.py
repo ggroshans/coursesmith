@@ -50,13 +50,18 @@ def _line(sid, section, text, links, years, flags, page=None):
             f"cites: {','.join(map(str, years[:4])) or '-'}" + (f" | {' '.join(flags)}" if flags else ""))
 
 
-def _informative(row):
+MIN_LEN, MIN_LEN_OTHER = 40, 20  # a README bullet is a whole fact in a few words ("10 million writes per month")
+
+
+def _informative(row, min_len=MIN_LEN):
     sid, section, idx, text, is_row, is_lead, links, dates = row
     if SKIP_SECTIONS.search(section or ""):
         return False
     if is_row and section != "infobox":
         return len(text) > 25 and bool(re.search(r"[A-Za-z]{4}", text))
-    return 40 <= len(text) <= 600
+    if min_len < MIN_LEN and len(text.split()) < 3:
+        return False
+    return min_len <= len(text) <= 600
 
 
 def is_question_chapter(subject, chapter_key):
@@ -148,7 +153,8 @@ def build(subject, chapter="all", log=print):
             if d:
                 lines.append(f"Definition: S:{d['sent_id']} | {d['text']}")
             cap = MAX_SEED if t in seeds else MAX_OTHER
-            pool = [r for r in rows if _informative(r) and (not d or r[0] != d["sent_id"])]
+            floor = MIN_LEN if n.get("source", "wikipedia") == "wikipedia" else MIN_LEN_OTHER
+            pool = [r for r in rows if _informative(r, floor) and (not d or r[0] != d["sent_id"])]
             kept, cut = _spread(pool, cap)
             prev_section = None
             for sid, section, idx, text, is_row, is_lead, links, dates in kept:
