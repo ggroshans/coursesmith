@@ -1,0 +1,552 @@
+subject: system-design
+status: 'draft: review before the main crawl'
+note: 'Edit freely: reorder parts and chapters, move seeds, rename. Seeds are forced into the crawl; candidates
+  are crawled only if they pass the scope threshold. `share` is the chapter''s share of the entry target.'
+parts:
+- key: found
+  title: Foundations
+  chapters:
+  - key: what-system-design-is-and-how-interviews
+    title: What system design is and how interviews work
+    seeds:
+    - Systems design
+    - gh>ByteByteGoHq/system-design-101/data/guides/8-common-system-design-problems-and-solutions.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/a-cheat-sheet-for-system-designs.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-to-ace-system-design-interviews-like-a-boss.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/must-know-system-design-building-blocks.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/system-design-blueprint-the-ultimate-guide.md
+    - gh>karanpratapsingh/system-design/README.md::system-design-interviews
+    - gh>karanpratapsingh/system-design/README.md::what-is-system-design
+    - Software architecture
+    share: 0.0272
+  - key: latency-throughput-and-back-of-the-envel
+    title: Latency, throughput and back-of-the-envelope numbers
+    seeds:
+    - Latency (engineering)
+    - gh>ByteByteGoHq/system-design-101/data/guides/10-system-design-tradeoffs-you-cannot-ignore.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/top-5-strategies-to-reduce-latency.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/top-5-trade-offs-in-system-designs.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/top-9-website-performance-metrics-you-cannot-ignore.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/which-latency-numbers-should-you-know.md
+    - Bandwidth (computing)
+    - Orders of magnitude (data)
+    share: 0.0239
+  - key: how-computers-talk-ip-tcp-and-udp
+    title: 'How computers talk: IP, TCP and UDP'
+    seeds:
+    - Internet Protocol
+    - Transmission Control Protocol
+    - User Datagram Protocol
+    - gh>ByteByteGoHq/system-design-101/data/guides/explaining-8-popular-network-protocols-in-1-diagram.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/ipv4-vs-ipv6.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/top-4-most-popular-use-cases-for-udp.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/unicast-vs-broadcast-vs-multicast-vs-anycast.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/what-is-osi-model.md
+    - gh>karanpratapsingh/system-design/README.md::ip
+    - gh>karanpratapsingh/system-design/README.md::osi-model
+    - gh>karanpratapsingh/system-design/README.md::tcp-and-udp
+    - IP address
+    - OSI model
+    share: 0.0392
+  - key: the-domain-name-system
+    title: The Domain Name System
+    seeds:
+    - Domain Name System
+    - gh>ByteByteGoHq/system-design-101/data/guides/dns-record-types-you-should-know.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-does-the-domain-name-system-dns-lookup-work.md
+    - gh>karanpratapsingh/system-design/README.md::domain-name-system-dns
+    - rfc>1034
+    share: 0.015
+  - key: http-https-and-tls
+    title: HTTP, HTTPS and TLS
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-does-https-work.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/http-status-code-you-should-know.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/http1-http2-http3.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/top-9-http-request-methods.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/what-happens-when-you-type-a-url-into-your-browser.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/what-makes-http2-faster-than-http1.md
+    - gh>karanpratapsingh/system-design/README.md::ssl-tls-mtls
+    - HTTP
+    - HTTPS
+    - Transport Layer Security
+    - rfc>9110
+    share: 0.0325
+- key: blocks
+  title: Building blocks
+  chapters:
+  - key: load-balancing
+    title: Load balancing
+    seeds:
+    - Load balancing (computing)
+    - gh>ByteByteGoHq/system-design-101/data/guides/key-use-cases-for-load-balancers.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/load-balancer-realistic-use-cases-you-may-not-know.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/top-6-load-balancing-algorithms.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/what-is-a-load-balancer.md
+    - gh>karanpratapsingh/system-design/README.md::load-balancing
+    share: 0.0183
+  - key: proxies-and-api-gateways
+    title: Proxies and API gateways
+    seeds:
+    - Proxy server
+    - gh>ByteByteGoHq/system-design-101/data/guides/api-gateway-101.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/proxy-vs-reverse-proxy.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/reverse-proxy-vs-api-gateway-vs-load-balancer.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/what-does-api-gateway-do.md
+    - gh>karanpratapsingh/system-design/README.md::api-gateway
+    - gh>karanpratapsingh/system-design/README.md::proxy
+    - Reverse proxy
+    share: 0.0242
+  - key: caching
+    title: Caching
+    seeds:
+    - Cache (computing)
+    - Cache replacement policies
+    - Cache stampede
+    - gh>ByteByteGoHq/system-design-101/data/guides/cache-miss-attack.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/cache-systems-every-developer-should-know.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-can-cache-systems-go-wrong.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/memcached-vs-redis.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/the-ultimate-redis-101.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/top-5-caching-strategies.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/top-8-cache-eviction-strategies.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/why-is-redis-so-fast.md
+    - gh>karanpratapsingh/system-design/README.md::caching
+    - Memcached
+    - Redis
+    share: 0.0422
+  - key: content-delivery-networks
+    title: Content delivery networks
+    seeds:
+    - Content delivery network
+    - gh>ByteByteGoHq/system-design-101/data/guides/a-beginner's-guide-to-cdn-content-delivery-network.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/what-is-cdn-content-delivery-network.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/why-are-content-delivery-networks-cdn-so-popular.md
+    - gh>karanpratapsingh/system-design/README.md::content-delivery-network-cdn
+    share: 0.0153
+  - key: choosing-a-database
+    title: Choosing a database
+    seeds:
+    - Database
+    - Database transaction
+    - Isolation (database systems)
+    - Relational database
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-to-choose-the-right-database.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/top-6-database-models.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/types-of-databases.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/what-are-database-isolation-levels.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/what-does-acid-mean.md
+    - gh>karanpratapsingh/system-design/README.md::acid-and-base-consistency-models
+    - gh>karanpratapsingh/system-design/README.md::databases-and-dbms
+    - gh>karanpratapsingh/system-design/README.md::nosql-databases
+    - gh>karanpratapsingh/system-design/README.md::sql-databases
+    - gh>karanpratapsingh/system-design/README.md::sql-vs-nosql-databases
+    - gh>karanpratapsingh/system-design/README.md::transactions
+    - ACID
+    - NoSQL
+    - SQL
+    share: 0.0542
+  - key: indexes-normalization-and-storage-engine
+    title: Indexes, normalization and storage engines
+    seeds:
+    - Database index
+    - Database normalization
+    - gh>ByteByteGoHq/system-design-101/data/guides/8-data-structures-that-power-your-databases.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/b-tree-vs.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/pessimistic-vs-optimistic-locking.md
+    - gh>karanpratapsingh/system-design/README.md::indexes
+    - gh>karanpratapsingh/system-design/README.md::normalization-and-denormalization
+    - B-tree
+    - Denormalization
+    - Log-structured merge-tree
+    share: 0.0297
+  - key: storage-systems
+    title: Storage systems
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/erasure-coding.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/explain-the-top-6-use-cases-of-object-stores.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/storage-systems-overview.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/types-of-memory-and-storage.md
+    - gh>karanpratapsingh/system-design/README.md::storage
+    - Computer data storage
+    - Erasure code
+    - Object storage
+    - RAID
+    share: 0.0264
+- key: scale
+  title: Scaling and consistency
+  chapters:
+  - key: scalability-and-availability
+    title: Scalability and availability
+    seeds:
+    - High availability
+    - Scalability
+    - gh>ByteByteGoHq/system-design-101/data/guides/7-must-know-strategies-to-scale-your-database.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/8-must-know-scalability-strategies.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/a-crash-course-on-architectural-scalability.md
+    - gh>karanpratapsingh/system-design/README.md::availability
+    - gh>karanpratapsingh/system-design/README.md::clustering
+    - gh>karanpratapsingh/system-design/README.md::scalability
+    share: 0.0244
+  - key: replication
+    title: Replication
+    seeds:
+    - Multi-master replication
+    - Replication (computing)
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-to-implement-read-replica-pattern.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/read-replica-pattern.md
+    - gh>karanpratapsingh/system-design/README.md::database-replication
+    - Single point of failure
+    share: 0.0181
+  - key: sharding-and-partitioning
+    title: Sharding and partitioning
+    seeds:
+    - Consistent hashing
+    - Partition (database)
+    - Shard (database architecture)
+    - gh>ByteByteGoHq/system-design-101/data/guides/a-crash-course-in-database-sharding.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/consistent-hashing.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/key-concepts-to-understand-database-sharding.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/top-4-data-sharding-algorithms-explained.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/vertical-partitioning-vs-horizontal-partitioning.md
+    - gh>karanpratapsingh/system-design/README.md::consistent-hashing
+    - gh>karanpratapsingh/system-design/README.md::database-federation
+    - gh>karanpratapsingh/system-design/README.md::sharding
+    - paper>10.1145/258533.258660
+    share: 0.0364
+  - key: the-cap-theorem-and-consistency
+    title: The CAP theorem and consistency
+    seeds:
+    - Consistency model
+    - Eventual consistency
+    - gh>ByteByteGoHq/system-design-101/data/guides/cap-theorem-one-of-the-most-misunderstood-terms.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/top-eventual-consistency-patterns-you-must-know.md
+    - gh>karanpratapsingh/system-design/README.md::cap-theorem
+    - gh>karanpratapsingh/system-design/README.md::pacelc-theorem
+    - CAP theorem
+    - paper>10.1145/564585.564601
+    share: 0.0239
+  - key: consensus-ordering-and-distributed-trans
+    title: Consensus, ordering and distributed transactions
+    seeds:
+    - Distributed transaction
+    - Three-phase commit protocol
+    - Two-phase commit protocol
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-do-we-detect-node-failures-in-distributed-systems.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/top-7-most-used-distributed-system-patterns.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/why-do-we-need-to-use-a-distributed-lock.md
+    - gh>karanpratapsingh/system-design/README.md::distributed-transactions
+    - Consensus (computer science)
+    - Lamport timestamp
+    - Paxos (computer science)
+    - Raft (algorithm)
+    - Vector clock
+    - paper>10.1145/279227.279229
+    - paper>10.1145/359545.359563
+    share: 0.0408
+  - key: how-the-big-distributed-data-systems-wor
+    title: How the big distributed data systems work
+    seeds:
+    - Google File System
+    - Spanner (database)
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-discord-stores-trillions-of-messages.md
+    - Amazon DynamoDB
+    - Apache Cassandra
+    - Apache Hadoop
+    - Bigtable
+    - MapReduce
+    - paper>10.1145/1294261.1294281
+    - paper>10.1145/1327452.1327492
+    - paper>10.1145/1365815.1365816
+    - paper>10.1145/1773912.1773922
+    - paper>10.1145/2491245
+    - paper>10.1145/945445.945450
+    share: 0.0397
+- key: msg
+  title: Messaging, APIs and architecture
+  chapters:
+  - key: message-queues-and-brokers
+    title: Message queues and brokers
+    seeds:
+    - Message queue
+    - gh>ByteByteGoHq/system-design-101/data/guides/blocking-vs-non-blocking-queue.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/delivery-semantics.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/explaining-the-4-most-commonly-used-types-of-queues-in-a-single-diagram.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/top-6-cloud-messaging-patterns.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/types-of-message-queue.md
+    - gh>karanpratapsingh/system-design/README.md::enterprise-service-bus-esb
+    - gh>karanpratapsingh/system-design/README.md::message-brokers
+    - gh>karanpratapsingh/system-design/README.md::message-queues
+    - gh>karanpratapsingh/system-design/README.md::publish-subscribe
+    - Message broker
+    - Publish–subscribe pattern
+    - RabbitMQ
+    share: 0.0389
+  - key: event-streaming-and-kafka
+    title: Event streaming and Kafka
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/can-kafka-lose-messages.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/change-data-capture-key-to-leverage-real-time-data.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/the-ultimate-kafka-101-you-cannot-miss.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/top-5-kafka-use-cases.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/why-is-kafka-fast.md
+    - Apache Kafka
+    - Change data capture
+    - Stream processing
+    share: 0.0236
+  - key: event-driven-architecture-event-sourcing
+    title: Event-driven architecture, event sourcing and CQRS
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/differences-in-event-sourcing-system-design.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-do-we-incorporate-event-sourcing-into-the-systems.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/mcdonald's-event-driven-architecture.md
+    - gh>karanpratapsingh/system-design/README.md::command-and-query-responsibility-segregation-cqrs
+    - gh>karanpratapsingh/system-design/README.md::event-driven-architecture-eda
+    - gh>karanpratapsingh/system-design/README.md::event-sourcing
+    - Command Query Responsibility Segregation
+    - Event-driven architecture
+    share: 0.0239
+  - key: monoliths-microservices-and-service-disc
+    title: Monoliths, microservices and service discovery
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/9-best-practices-for-building-microservices.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/is-microservice-architecture-the-silver-bullet.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/orchestration-vs-choreography-microservices.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/what-does-a-typical-microservice-architecture-look-like.md
+    - gh>karanpratapsingh/system-design/README.md::monoliths-and-microservices
+    - gh>karanpratapsingh/system-design/README.md::n-tier-architecture
+    - gh>karanpratapsingh/system-design/README.md::service-discovery
+    - Microservices
+    - Monolithic application
+    - Service discovery
+    - Service mesh
+    - Service-oriented architecture
+    share: 0.0353
+  - key: apis-rest-graphql-and-grpc
+    title: 'APIs: REST, GraphQL and gRPC'
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/8-tips-for-efficient-api-design.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-do-we-design-effective-and-safe-apis.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-do-we-perform-pagination-in-api-design.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-does-grpc-work.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-does-rest-api-work.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/rest-api-vs-graphql.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/soap-vs-rest-vs-graphql-vs-rpc.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/top-5-common-ways-to-improve-api-performance.md
+    - gh>karanpratapsingh/system-design/README.md::rest-graphql-grpc
+    - GraphQL
+    - Remote procedure call
+    share: 0.033
+  - key: real-time-communication
+    title: Real-time communication
+    seeds:
+    - Server-sent events
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-does-a-typical-push-notification-system-work.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/polling-vs-webhooks.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/shortlong-polling-sse-websocket.md
+    - gh>karanpratapsingh/system-design/README.md::long-polling-websockets-server-sent-events-sse
+    - Push technology
+    - WebSocket
+    - rfc>6455
+    share: 0.0236
+- key: reliab
+  title: Reliability, security and operations
+  chapters:
+  - key: resilience-circuit-breakers-rate-limitin
+    title: 'Resilience: circuit breakers, rate limiting and idempotency'
+    seeds:
+    - Circuit breaker design pattern
+    - gh>ByteByteGoHq/system-design-101/data/guides/a-cheat-sheet-for-designing-fault-tolerant-systems.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-do-we-retry-on-failures.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-to-avoid-double-payment.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/resiliency-patterns.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/top-6-cases-to-apply-idempotency.md
+    - gh>karanpratapsingh/system-design/README.md::circuit-breaker
+    - gh>karanpratapsingh/system-design/README.md::idempotency
+    - gh>karanpratapsingh/system-design/README.md::rate-limiting
+    - Exponential backoff
+    - Fault tolerance
+    - Idempotence
+    - Leaky bucket
+    - Rate limiting
+    - Token bucket
+    share: 0.0442
+  - key: service-levels-and-disaster-recovery
+    title: Service levels and disaster recovery
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/cloud-disaster-recovery-strategies.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-do-we-design-for-high-availability.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/logging-tracing-metrics.md
+    - gh>karanpratapsingh/system-design/README.md::disaster-recovery
+    - gh>karanpratapsingh/system-design/README.md::sla-slo-sli
+    - Service-level agreement
+    - Service-level objective
+    - Site reliability engineering
+    share: 0.0236
+  - key: containers-orchestration-and-deployment
+    title: Containers, orchestration and deployment
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-does-docker-work.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/kubernetes-deployment-strategies.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/the-12-factor-app.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/top-5-most-used-deployment-strategies.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/what-is-k8s-kubernetes.md
+    - gh>karanpratapsingh/system-design/README.md::virtual-machines-vms-and-containers
+    - Containerization
+    - Docker (software)
+    - Kubernetes
+    - Virtual machine
+    share: 0.0294
+  - key: authentication-and-security
+    title: Authentication and security
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-do-we-design-a-secure-system.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-to-store-passwords-in-the-database.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/oauth-2-explained-with-siple-terms.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/session-cookie-jwt-token-sso-and-oauth-2.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/top-12-tips-for-api-security.md
+    - gh>karanpratapsingh/system-design/README.md::oauth-20-and-openid-connect-oidc
+    - gh>karanpratapsingh/system-design/README.md::single-sign-on-sso
+    - Authentication
+    - Authorization
+    - JSON Web Token
+    - OAuth
+    - Single sign-on
+    share: 0.0353
+  - key: algorithms-behind-the-systems
+    title: Algorithms behind the systems
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/algorithms-you-should-know-before-taking-system-design-interviews.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/explaining-5-unique-id-generators-in-distributed-systems.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/quadtree.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/unique-id-generator.md
+    - gh>karanpratapsingh/system-design/README.md::geohashing-and-quadtrees
+    - Bloom filter
+    - Geohash
+    - HyperLogLog
+    - Quadtree
+    - Snowflake ID
+    - Universally unique identifier
+    - paper>10.1145/362686.362692
+    share: 0.0347
+- key: q
+  title: Design interview questions
+  chapters:
+  - key: design-a-url-shortener
+    title: Design a URL shortener
+    seeds:
+    - gh>karanpratapsingh/system-design/README.md::url-shortener
+    - URL shortening
+    share: 0.0058
+  - key: design-pastebin
+    title: Design Pastebin
+    seeds:
+    - gh>donnemartin/system-design-primer/solutions/system_design/pastebin/README.md
+    - Pastebin
+    share: 0.0058
+  - key: design-a-chat-service-like-whatsapp
+    title: Design a chat service like WhatsApp
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/build-a-simple-chat-application.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-do-we-design-a-chat-application-like-whatsapp-facebook-messenger-or-discord.md
+    - gh>karanpratapsingh/system-design/README.md::whatsapp
+    - Instant messaging
+    - WhatsApp
+    share: 0.0147
+  - key: design-a-social-feed-like-twitter
+    title: Design a social feed like Twitter
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-does-twitter-recommend-tweets.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/twitter-10-tech-stack.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/twitter-architecture-2022-vs-2012.md
+    - gh>donnemartin/system-design-primer/solutions/system_design/twitter/README.md
+    - gh>karanpratapsingh/system-design/README.md::twitter
+    share: 0.0153
+  - key: design-a-video-streaming-service-like-ne
+    title: Design a video streaming service like Netflix
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-does-youtube-handle-massive-video-content-upload.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/live-streaming-explained.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/netflixs-overall-architecture.md
+    - gh>karanpratapsingh/system-design/README.md::netflix
+    - Adaptive bitrate streaming
+    - Streaming media
+    share: 0.0178
+  - key: design-a-ride-hailing-service-like-uber
+    title: Design a ride-hailing service like Uber
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/proximity-service.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/uber-tech-stack.md
+    - gh>karanpratapsingh/system-design/README.md::uber
+    share: 0.0092
+  - key: design-a-web-crawler
+    title: Design a web crawler
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-do-search-engines-work.md
+    - gh>donnemartin/system-design-primer/solutions/system_design/web_crawler/README.md
+    - Web crawler
+    share: 0.0089
+  - key: design-a-personal-finance-app-like-mint
+    title: Design a personal finance app like Mint
+    seeds:
+    - gh>donnemartin/system-design-primer/solutions/system_design/mint/README.md
+    share: 0.0031
+  - key: design-a-cache-for-the-most-recent-searc
+    title: Design a cache for the most recent search queries
+    seeds:
+    - gh>donnemartin/system-design-primer/solutions/system_design/query_cache/README.md
+    share: 0.0031
+  - key: design-a-sales-rank-by-category
+    title: Design a sales rank by category
+    seeds:
+    - gh>donnemartin/system-design-primer/solutions/system_design/sales_rank/README.md
+    share: 0.0031
+  - key: design-the-data-structures-for-a-social
+    title: Design the data structures for a social network
+    seeds:
+    - gh>donnemartin/system-design-primer/solutions/system_design/social_graph/README.md
+    share: 0.0031
+  - key: scale-a-system-to-millions-of-users-on-a
+    title: Scale a system to millions of users on AWS
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-to-scale-a-website-to-support-millions-of-users.md
+    - gh>donnemartin/system-design-primer/solutions/system_design/scaling_aws/README.md
+    share: 0.0061
+  - key: design-gmail
+    title: Design Gmail
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/design-gmail.md
+    share: 0.0031
+  - key: design-google-maps
+    title: Design Google Maps
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/design-google-maps.md
+    share: 0.0031
+  - key: design-a-stock-exchange
+    title: Design a stock exchange
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/design-stock-exchange.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/low-latency-stock-exchange.md
+    share: 0.0061
+  - key: design-google-docs
+    title: Design Google Docs
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-to-design-google-docs.md
+    share: 0.0031
+  - key: design-a-payment-system
+    title: Design a payment system
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/payment-system.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/reconciliation-in-payment.md
+    share: 0.0061
+  - key: design-a-notification-system
+    title: Design a notification system
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-are-notifications-pushed-to-our-phones-or-pcs.md
+    share: 0.0031
+  - key: design-a-permission-system
+    title: Design a permission system
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/how-do-we-design-a-permission-system.md
+    share: 0.0031
+  question: true

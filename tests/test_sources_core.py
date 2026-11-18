@@ -195,3 +195,33 @@ class GlobTest(unittest.TestCase):
         self.assertTrue(glob_match("b.md", ["*.md"]))
         self.assertTrue(glob_match("docs/x.md", ["docs/**"]))
         self.assertFalse(glob_match("x.md", []))
+
+
+class YamlDatesTest(unittest.TestCase):
+    """sources/registry.yaml writes `verified: 2026-11-18`, which YAML reads as a date; a record carries the license
+    and must stay JSON-serializable."""
+
+    def test_normalize_turns_dates_into_text(self):
+        import datetime
+        lic = licenses.normalize({"name": "CC BY 4.0", "verified": datetime.date(2026, 11, 18)})
+        self.assertEqual(lic["verified"], "2026-11-18")
+
+    def test_a_registry_license_survives_a_store_write(self):
+        import json
+        from coursesmith.crawl.store import Store
+        from coursesmith import config
+        from .helpers import temp_root
+        with temp_root() as root:
+            (root / "sources").mkdir()
+            config.REGISTRY_PATH.write_text("repos:\n  - {repo: o/r, tier: curated, license: {name: CC BY 4.0, "
+                                            "class: cc-by, verified: 2026-11-18}}\n")
+            from coursesmith.sources.registry import Registry
+            from .fakes import FakeHTTP
+            reg = Registry([{"name": "p", "adapter": "github", "repo": "o/r", "ref": "a" * 40}],
+                           http=FakeHTTP({f"https://raw.githubusercontent.com/o/r/{'a' * 40}/README.md":
+                                          "# R\n\nA readable sentence about a system design topic follows here."}))
+            rec = reg.for_key("gh>o/r/README.md").fetch("gh>o/r/README.md")
+            self.assertEqual(rec["license"]["verified"], "2026-11-18")
+            json.dumps(rec)  # would raise on a date object
+            text = rec.pop("text")
+            Store().save_page(rec, text)

@@ -102,4 +102,123 @@ verification:
 # The frame: parts and chapters, hand-written (`coursesmith frame build system-design` checks every page title, fetches a
 # first sample and writes frame.yaml). A page of another source is named by its key; `coursesmith sources parts
 # system-design` lists the section keys of the one-file guide.
-frame: {}
+frame:
+  parts:
+    - key: found
+      title: "Foundations"
+      foundations: true
+      chapters:
+        - title: "What system design is and how interviews work"
+          seeds: ["Systems design", "Software architecture", "gh>karanpratapsingh/system-design/README.md::what-is-system-design", "gh>karanpratapsingh/system-design/README.md::system-design-interviews", "gh>ByteByteGoHq/system-design-101/data/guides/how-to-ace-system-design-interviews-like-a-boss.md", "gh>ByteByteGoHq/system-design-101/data/guides/system-design-blueprint-the-ultimate-guide.md", "gh>ByteByteGoHq/system-design-101/data/guides/must-know-system-design-building-blocks.md", "gh>ByteByteGoHq/system-design-101/data/guides/8-common-system-design-problems-and-solutions.md", "gh>ByteByteGoHq/system-design-101/data/guides/a-cheat-sheet-for-system-designs.md"]
+        - title: "Latency, throughput and back-of-the-envelope numbers"
+          seeds: ["Latency (engineering)", "Throughput", "Bandwidth (computing)", "Orders of magnitude (data)", "gh>ByteByteGoHq/system-design-101/data/guides/which-latency-numbers-should-you-know.md", "gh>ByteByteGoHq/system-design-101/data/guides/top-5-strategies-to-reduce-latency.md", "gh>ByteByteGoHq/system-design-101/data/guides/top-9-website-performance-metrics-you-cannot-ignore.md", "gh>ByteByteGoHq/system-design-101/data/guides/10-system-design-tradeoffs-you-cannot-ignore.md", "gh>ByteByteGoHq/system-design-101/data/guides/top-5-trade-offs-in-system-designs.md"]
+        - title: "How computers talk: IP, TCP and UDP"
+          seeds: ["Internet Protocol", "IP address", "OSI model", "Transmission Control Protocol", "User Datagram Protocol", "gh>karanpratapsingh/system-design/README.md::ip", "gh>karanpratapsingh/system-design/README.md::osi-model", "gh>karanpratapsingh/system-design/README.md::tcp-and-udp", "gh>ByteByteGoHq/system-design-101/data/guides/what-is-osi-model.md", "gh>ByteByteGoHq/system-design-101/data/guides/top-4-most-popular-use-cases-for-udp.md", "gh>ByteByteGoHq/system-design-101/data/guides/ipv4-vs-ipv6.md", "gh>ByteByteGoHq/system-design-101/data/guides/unicast-vs-broadcast-vs-multicast-vs-anycast.md", "gh>ByteByteGoHq/system-design-101/data/guides/explaining-8-popular-network-protocols-in-1-diagram.md"]
+        - title: "The Domain Name System"
+          seeds: ["Domain Name System", "gh>karanpratapsingh/system-design/README.md::domain-name-system-dns", "rfc>1034", "gh>ByteByteGoHq/system-design-101/data/guides/how-does-the-domain-name-system-dns-lookup-work.md", "gh>ByteByteGoHq/system-design-101/data/guides/dns-record-types-you-should-know.md"]
+        - title: "HTTP, HTTPS and TLS"
+          seeds: ["HTTP", "HTTPS", "Transport Layer Security", "rfc>9110", "gh>karanpratapsingh/system-design/README.md::ssl-tls-mtls", "gh>ByteByteGoHq/system-design-101/data/guides/how-does-https-work.md", "gh>ByteByteGoHq/system-design-101/data/guides/http1-http2-http3.md", "gh>ByteByteGoHq/system-design-101/data/guides/top-9-http-request-methods.md", "gh>ByteByteGoHq/system-design-101/data/guides/http-status-code-you-should-know.md", "gh>ByteByteGoHq/system-design-101/data/guides/what-happens-when-you-type-a-url-into-your-browser.md", "gh>ByteByteGoHq/system-design-101/data/guides/what-makes-http2-faster-than-http1.md"]
+    - key: blocks
+      title: "Building blocks"
+      chapters:
+        - title: "Load balancing"
+          seeds: ["Load balancing (computing)", "gh>karanpratapsingh/system-design/README.md::load-balancing", "gh>ByteByteGoHq/system-design-101/data/guides/what-is-a-load-balancer.md", "gh>ByteByteGoHq/system-design-101/data/guides/top-6-load-balancing-algorithms.md", "gh>ByteByteGoHq/system-design-101/data/guides/key-use-cases-for-load-balancers.md", "gh>ByteByteGoHq/system-design-101/data/guides/load-balancer-realistic-use-cases-you-may-not-know.md"]
+        - title: "Proxies and API gateways"
+          seeds: ["Proxy server", "Reverse proxy", "gh>karanpratapsingh/system-design/README.md::proxy", "gh>karanpratapsingh/system-design/README.md::api-gateway", "gh>ByteByteGoHq/system-design-101/data/guides/proxy-vs-reverse-proxy.md", "gh>ByteByteGoHq/system-design-101/data/guides/reverse-proxy-vs-api-gateway-vs-load-balancer.md", "gh>ByteByteGoHq/system-design-101/data/guides/api-gateway-101.md", "gh>ByteByteGoHq/system-design-101/data/guides/what-does-api-gateway-do.md"]
+        - title: "Caching"
+          seeds: ["Cache (computing)", "Cache replacement policies", "Memcached", "Redis", "Cache stampede", "gh>karanpratapsingh/system-design/README.md::caching", "gh>ByteByteGoHq/system-design-101/data/guides/top-5-caching-strategies.md", "gh>ByteByteGoHq/system-design-101/data/guides/top-8-cache-eviction-strategies.md", "gh>ByteByteGoHq/system-design-101/data/guides/how-can-cache-systems-go-wrong.md", "gh>ByteByteGoHq/system-design-101/data/guides/memcached-vs-redis.md", "gh>ByteByteGoHq/system-design-101/data/guides/the-ultimate-redis-101.md", "gh>ByteByteGoHq/system-design-101/data/guides/why-is-redis-so-fast.md", "gh>ByteByteGoHq/system-design-101/data/guides/cache-systems-every-developer-should-know.md", "gh>ByteByteGoHq/system-design-101/data/guides/cache-miss-attack.md"]
+        - title: "Content delivery networks"
+          seeds: ["Content delivery network", "gh>karanpratapsingh/system-design/README.md::content-delivery-network-cdn", "gh>ByteByteGoHq/system-design-101/data/guides/what-is-cdn-content-delivery-network.md", "gh>ByteByteGoHq/system-design-101/data/guides/why-are-content-delivery-networks-cdn-so-popular.md", "gh>ByteByteGoHq/system-design-101/data/guides/a-beginner's-guide-to-cdn-content-delivery-network.md"]
+        - title: "Choosing a database"
+          seeds: ["Database", "Relational database", "SQL", "NoSQL", "ACID", "Database transaction", "Isolation (database systems)", "gh>karanpratapsingh/system-design/README.md::databases-and-dbms", "gh>karanpratapsingh/system-design/README.md::sql-databases", "gh>karanpratapsingh/system-design/README.md::nosql-databases", "gh>karanpratapsingh/system-design/README.md::sql-vs-nosql-databases", "gh>karanpratapsingh/system-design/README.md::transactions", "gh>karanpratapsingh/system-design/README.md::acid-and-base-consistency-models", "gh>ByteByteGoHq/system-design-101/data/guides/how-to-choose-the-right-database.md", "gh>ByteByteGoHq/system-design-101/data/guides/types-of-databases.md", "gh>ByteByteGoHq/system-design-101/data/guides/top-6-database-models.md", "gh>ByteByteGoHq/system-design-101/data/guides/what-does-acid-mean.md", "gh>ByteByteGoHq/system-design-101/data/guides/what-are-database-isolation-levels.md"]
+        - title: "Indexes, normalization and storage engines"
+          seeds: ["Database index", "B-tree", "Log-structured merge-tree", "Database normalization", "Denormalization", "gh>karanpratapsingh/system-design/README.md::indexes", "gh>karanpratapsingh/system-design/README.md::normalization-and-denormalization", "gh>ByteByteGoHq/system-design-101/data/guides/8-data-structures-that-power-your-databases.md", "gh>ByteByteGoHq/system-design-101/data/guides/b-tree-vs.md", "gh>ByteByteGoHq/system-design-101/data/guides/pessimistic-vs-optimistic-locking.md"]
+        - title: "Storage systems"
+          seeds: ["Computer data storage", "RAID", "Object storage", "Erasure code", "gh>karanpratapsingh/system-design/README.md::storage", "gh>ByteByteGoHq/system-design-101/data/guides/storage-systems-overview.md", "gh>ByteByteGoHq/system-design-101/data/guides/types-of-memory-and-storage.md", "gh>ByteByteGoHq/system-design-101/data/guides/erasure-coding.md", "gh>ByteByteGoHq/system-design-101/data/guides/explain-the-top-6-use-cases-of-object-stores.md"]
+    - key: scale
+      title: "Scaling and consistency"
+      chapters:
+        - title: "Scalability and availability"
+          seeds: ["Scalability", "High availability", "gh>karanpratapsingh/system-design/README.md::scalability", "gh>karanpratapsingh/system-design/README.md::availability", "gh>karanpratapsingh/system-design/README.md::clustering", "gh>ByteByteGoHq/system-design-101/data/guides/8-must-know-scalability-strategies.md", "gh>ByteByteGoHq/system-design-101/data/guides/a-crash-course-on-architectural-scalability.md", "gh>ByteByteGoHq/system-design-101/data/guides/7-must-know-strategies-to-scale-your-database.md"]
+        - title: "Replication"
+          seeds: ["Replication (computing)", "Multi-master replication", "Single point of failure", "gh>karanpratapsingh/system-design/README.md::database-replication", "gh>ByteByteGoHq/system-design-101/data/guides/how-to-implement-read-replica-pattern.md", "gh>ByteByteGoHq/system-design-101/data/guides/read-replica-pattern.md"]
+        - title: "Sharding and partitioning"
+          seeds: ["Shard (database architecture)", "Partition (database)", "Consistent hashing", "gh>karanpratapsingh/system-design/README.md::sharding", "gh>karanpratapsingh/system-design/README.md::consistent-hashing", "gh>karanpratapsingh/system-design/README.md::database-federation", "gh>ByteByteGoHq/system-design-101/data/guides/a-crash-course-in-database-sharding.md", "gh>ByteByteGoHq/system-design-101/data/guides/key-concepts-to-understand-database-sharding.md", "gh>ByteByteGoHq/system-design-101/data/guides/top-4-data-sharding-algorithms-explained.md", "gh>ByteByteGoHq/system-design-101/data/guides/vertical-partitioning-vs-horizontal-partitioning.md", "gh>ByteByteGoHq/system-design-101/data/guides/consistent-hashing.md", "paper>10.1145/258533.258660"]
+        - title: "The CAP theorem and consistency"
+          seeds: ["CAP theorem", "PACELC theorem", "Eventual consistency", "Consistency model", "gh>karanpratapsingh/system-design/README.md::cap-theorem", "gh>karanpratapsingh/system-design/README.md::pacelc-theorem", "gh>ByteByteGoHq/system-design-101/data/guides/cap-theorem-one-of-the-most-misunderstood-terms.md", "gh>ByteByteGoHq/system-design-101/data/guides/top-eventual-consistency-patterns-you-must-know.md", "paper>10.1145/564585.564601"]
+        - title: "Consensus, ordering and distributed transactions"
+          seeds: ["Consensus (computer science)", "Paxos (computer science)", "Raft (algorithm)", "Lamport timestamp", "Vector clock", "Two-phase commit protocol", "Three-phase commit protocol", "Distributed transaction", "gh>karanpratapsingh/system-design/README.md::distributed-transactions", "gh>ByteByteGoHq/system-design-101/data/guides/why-do-we-need-to-use-a-distributed-lock.md", "gh>ByteByteGoHq/system-design-101/data/guides/how-do-we-detect-node-failures-in-distributed-systems.md", "gh>ByteByteGoHq/system-design-101/data/guides/top-7-most-used-distributed-system-patterns.md", "paper>10.1145/359545.359563", "paper>10.1145/279227.279229"]
+        - title: "How the big distributed data systems work"
+          seeds: ["Apache Cassandra", "Bigtable", "Amazon DynamoDB", "Google File System", "MapReduce", "Spanner (database)", "Apache Hadoop", "paper>10.1145/1294261.1294281", "paper>10.1145/1365815.1365816", "paper>10.1145/945445.945450", "paper>10.1145/1327452.1327492", "paper>10.1145/2491245", "paper>10.1145/1773912.1773922", "gh>ByteByteGoHq/system-design-101/data/guides/how-discord-stores-trillions-of-messages.md"]
+    - key: msg
+      title: "Messaging, APIs and architecture"
+      chapters:
+        - title: "Message queues and brokers"
+          seeds: ["Message queue", "Message broker", "Publish–subscribe pattern", "RabbitMQ", "gh>karanpratapsingh/system-design/README.md::message-brokers", "gh>karanpratapsingh/system-design/README.md::message-queues", "gh>karanpratapsingh/system-design/README.md::publish-subscribe", "gh>karanpratapsingh/system-design/README.md::enterprise-service-bus-esb", "gh>ByteByteGoHq/system-design-101/data/guides/types-of-message-queue.md", "gh>ByteByteGoHq/system-design-101/data/guides/explaining-the-4-most-commonly-used-types-of-queues-in-a-single-diagram.md", "gh>ByteByteGoHq/system-design-101/data/guides/blocking-vs-non-blocking-queue.md", "gh>ByteByteGoHq/system-design-101/data/guides/top-6-cloud-messaging-patterns.md", "gh>ByteByteGoHq/system-design-101/data/guides/delivery-semantics.md"]
+        - title: "Event streaming and Kafka"
+          seeds: ["Apache Kafka", "Stream processing", "Change data capture", "gh>ByteByteGoHq/system-design-101/data/guides/the-ultimate-kafka-101-you-cannot-miss.md", "gh>ByteByteGoHq/system-design-101/data/guides/why-is-kafka-fast.md", "gh>ByteByteGoHq/system-design-101/data/guides/can-kafka-lose-messages.md", "gh>ByteByteGoHq/system-design-101/data/guides/top-5-kafka-use-cases.md", "gh>ByteByteGoHq/system-design-101/data/guides/change-data-capture-key-to-leverage-real-time-data.md"]
+        - title: "Event-driven architecture, event sourcing and CQRS"
+          seeds: ["Event-driven architecture", "Event sourcing", "Command Query Responsibility Segregation", "gh>karanpratapsingh/system-design/README.md::event-driven-architecture-eda", "gh>karanpratapsingh/system-design/README.md::event-sourcing", "gh>karanpratapsingh/system-design/README.md::command-and-query-responsibility-segregation-cqrs", "gh>ByteByteGoHq/system-design-101/data/guides/differences-in-event-sourcing-system-design.md", "gh>ByteByteGoHq/system-design-101/data/guides/how-do-we-incorporate-event-sourcing-into-the-systems.md", "gh>ByteByteGoHq/system-design-101/data/guides/mcdonald's-event-driven-architecture.md"]
+        - title: "Monoliths, microservices and service discovery"
+          seeds: ["Microservices", "Monolithic application", "Service-oriented architecture", "Service mesh", "Service discovery", "gh>karanpratapsingh/system-design/README.md::monoliths-and-microservices", "gh>karanpratapsingh/system-design/README.md::n-tier-architecture", "gh>karanpratapsingh/system-design/README.md::service-discovery", "gh>ByteByteGoHq/system-design-101/data/guides/9-best-practices-for-building-microservices.md", "gh>ByteByteGoHq/system-design-101/data/guides/orchestration-vs-choreography-microservices.md", "gh>ByteByteGoHq/system-design-101/data/guides/what-does-a-typical-microservice-architecture-look-like.md", "gh>ByteByteGoHq/system-design-101/data/guides/is-microservice-architecture-the-silver-bullet.md"]
+        - title: "APIs: REST, GraphQL and gRPC"
+          seeds: ["Representational state transfer", "GraphQL", "gRPC", "Remote procedure call", "Application programming interface", "gh>karanpratapsingh/system-design/README.md::rest-graphql-grpc", "gh>ByteByteGoHq/system-design-101/data/guides/rest-api-vs-graphql.md", "gh>ByteByteGoHq/system-design-101/data/guides/soap-vs-rest-vs-graphql-vs-rpc.md", "gh>ByteByteGoHq/system-design-101/data/guides/how-does-rest-api-work.md", "gh>ByteByteGoHq/system-design-101/data/guides/how-does-grpc-work.md", "gh>ByteByteGoHq/system-design-101/data/guides/top-5-common-ways-to-improve-api-performance.md", "gh>ByteByteGoHq/system-design-101/data/guides/how-do-we-perform-pagination-in-api-design.md", "gh>ByteByteGoHq/system-design-101/data/guides/8-tips-for-efficient-api-design.md", "gh>ByteByteGoHq/system-design-101/data/guides/how-do-we-design-effective-and-safe-apis.md"]
+        - title: "Real-time communication"
+          seeds: ["WebSocket", "Server-sent events", "Push technology", "gh>karanpratapsingh/system-design/README.md::long-polling-websockets-server-sent-events-sse", "rfc>6455", "gh>ByteByteGoHq/system-design-101/data/guides/shortlong-polling-sse-websocket.md", "gh>ByteByteGoHq/system-design-101/data/guides/polling-vs-webhooks.md", "gh>ByteByteGoHq/system-design-101/data/guides/how-does-a-typical-push-notification-system-work.md"]
+    - key: reliab
+      title: "Reliability, security and operations"
+      chapters:
+        - title: "Resilience: circuit breakers, rate limiting and idempotency"
+          seeds: ["Circuit breaker design pattern", "Rate limiting", "Token bucket", "Leaky bucket", "Idempotence", "Exponential backoff", "Fault tolerance", "gh>karanpratapsingh/system-design/README.md::circuit-breaker", "gh>karanpratapsingh/system-design/README.md::rate-limiting", "gh>karanpratapsingh/system-design/README.md::idempotency", "gh>ByteByteGoHq/system-design-101/data/guides/resiliency-patterns.md", "gh>ByteByteGoHq/system-design-101/data/guides/top-6-cases-to-apply-idempotency.md", "gh>ByteByteGoHq/system-design-101/data/guides/how-do-we-retry-on-failures.md", "gh>ByteByteGoHq/system-design-101/data/guides/a-cheat-sheet-for-designing-fault-tolerant-systems.md", "gh>ByteByteGoHq/system-design-101/data/guides/how-to-avoid-double-payment.md"]
+        - title: "Service levels and disaster recovery"
+          seeds: ["Service-level agreement", "Service-level objective", "Service-level indicator", "Disaster recovery", "Site reliability engineering", "gh>karanpratapsingh/system-design/README.md::sla-slo-sli", "gh>karanpratapsingh/system-design/README.md::disaster-recovery", "gh>ByteByteGoHq/system-design-101/data/guides/how-do-we-design-for-high-availability.md", "gh>ByteByteGoHq/system-design-101/data/guides/cloud-disaster-recovery-strategies.md", "gh>ByteByteGoHq/system-design-101/data/guides/logging-tracing-metrics.md"]
+        - title: "Containers, orchestration and deployment"
+          seeds: ["Virtual machine", "Docker (software)", "Kubernetes", "Containerization", "Blue-green deployment", "gh>karanpratapsingh/system-design/README.md::virtual-machines-vms-and-containers", "gh>ByteByteGoHq/system-design-101/data/guides/what-is-k8s-kubernetes.md", "gh>ByteByteGoHq/system-design-101/data/guides/how-does-docker-work.md", "gh>ByteByteGoHq/system-design-101/data/guides/top-5-most-used-deployment-strategies.md", "gh>ByteByteGoHq/system-design-101/data/guides/kubernetes-deployment-strategies.md", "gh>ByteByteGoHq/system-design-101/data/guides/the-12-factor-app.md"]
+        - title: "Authentication and security"
+          seeds: ["OAuth", "OpenID Connect", "Single sign-on", "JSON Web Token", "Authentication", "Authorization", "gh>karanpratapsingh/system-design/README.md::oauth-20-and-openid-connect-oidc", "gh>karanpratapsingh/system-design/README.md::single-sign-on-sso", "gh>ByteByteGoHq/system-design-101/data/guides/oauth-2-explained-with-siple-terms.md", "gh>ByteByteGoHq/system-design-101/data/guides/session-cookie-jwt-token-sso-and-oauth-2.md", "gh>ByteByteGoHq/system-design-101/data/guides/how-to-store-passwords-in-the-database.md", "gh>ByteByteGoHq/system-design-101/data/guides/top-12-tips-for-api-security.md", "gh>ByteByteGoHq/system-design-101/data/guides/how-do-we-design-a-secure-system.md"]
+        - title: "Algorithms behind the systems"
+          seeds: ["Bloom filter", "HyperLogLog", "Geohash", "Quadtree", "Snowflake ID", "Universally unique identifier", "gh>karanpratapsingh/system-design/README.md::geohashing-and-quadtrees", "gh>ByteByteGoHq/system-design-101/data/guides/quadtree.md", "gh>ByteByteGoHq/system-design-101/data/guides/unique-id-generator.md", "gh>ByteByteGoHq/system-design-101/data/guides/explaining-5-unique-id-generators-in-distributed-systems.md", "gh>ByteByteGoHq/system-design-101/data/guides/algorithms-you-should-know-before-taking-system-design-interviews.md", "paper>10.1145/362686.362692"]
+    - key: q
+      title: "Design interview questions"
+      question: true
+      chapters:
+        - title: "Design a URL shortener"
+          seeds: ["gh>karanpratapsingh/system-design/README.md::url-shortener", "URL shortening"]
+          also: ["gh>ByteByteGoHq/system-design-101/data/guides/how-to-avoid-crawling-duplicate-urls-at-google-scale.md"]
+        - title: "Design Pastebin"
+          seeds: ["gh>donnemartin/system-design-primer/solutions/system_design/pastebin/README.md", "Pastebin"]
+        - title: "Design a chat service like WhatsApp"
+          seeds: ["gh>karanpratapsingh/system-design/README.md::whatsapp", "WhatsApp", "Instant messaging", "gh>ByteByteGoHq/system-design-101/data/guides/how-do-we-design-a-chat-application-like-whatsapp-facebook-messenger-or-discord.md", "gh>ByteByteGoHq/system-design-101/data/guides/build-a-simple-chat-application.md"]
+        - title: "Design a social feed like Twitter"
+          seeds: ["gh>karanpratapsingh/system-design/README.md::twitter", "gh>donnemartin/system-design-primer/solutions/system_design/twitter/README.md", "gh>ByteByteGoHq/system-design-101/data/guides/twitter-architecture-2022-vs-2012.md", "gh>ByteByteGoHq/system-design-101/data/guides/how-does-twitter-recommend-tweets.md", "gh>ByteByteGoHq/system-design-101/data/guides/twitter-10-tech-stack.md"]
+        - title: "Design a video streaming service like Netflix"
+          seeds: ["gh>karanpratapsingh/system-design/README.md::netflix", "Streaming media", "Adaptive bitrate streaming", "gh>ByteByteGoHq/system-design-101/data/guides/netflixs-overall-architecture.md", "gh>ByteByteGoHq/system-design-101/data/guides/how-does-youtube-handle-massive-video-content-upload.md", "gh>ByteByteGoHq/system-design-101/data/guides/live-streaming-explained.md"]
+        - title: "Design a ride-hailing service like Uber"
+          seeds: ["gh>karanpratapsingh/system-design/README.md::uber", "gh>ByteByteGoHq/system-design-101/data/guides/proximity-service.md", "gh>ByteByteGoHq/system-design-101/data/guides/uber-tech-stack.md"]
+          also: ["gh>karanpratapsingh/system-design/README.md::geohashing-and-quadtrees"]
+        - title: "Design a web crawler"
+          seeds: ["gh>donnemartin/system-design-primer/solutions/system_design/web_crawler/README.md", "Web crawler", "gh>ByteByteGoHq/system-design-101/data/guides/how-do-search-engines-work.md"]
+        - title: "Design a personal finance app like Mint"
+          seeds: ["gh>donnemartin/system-design-primer/solutions/system_design/mint/README.md"]
+        - title: "Design a cache for the most recent search queries"
+          seeds: ["gh>donnemartin/system-design-primer/solutions/system_design/query_cache/README.md"]
+        - title: "Design a sales rank by category"
+          seeds: ["gh>donnemartin/system-design-primer/solutions/system_design/sales_rank/README.md"]
+        - title: "Design the data structures for a social network"
+          seeds: ["gh>donnemartin/system-design-primer/solutions/system_design/social_graph/README.md"]
+        - title: "Scale a system to millions of users on AWS"
+          seeds: ["gh>donnemartin/system-design-primer/solutions/system_design/scaling_aws/README.md", "gh>ByteByteGoHq/system-design-101/data/guides/how-to-scale-a-website-to-support-millions-of-users.md"]
+        - title: "Design Gmail"
+          seeds: ["gh>ByteByteGoHq/system-design-101/data/guides/design-gmail.md"]
+        - title: "Design Google Maps"
+          seeds: ["gh>ByteByteGoHq/system-design-101/data/guides/design-google-maps.md"]
+        - title: "Design a stock exchange"
+          seeds: ["gh>ByteByteGoHq/system-design-101/data/guides/design-stock-exchange.md", "gh>ByteByteGoHq/system-design-101/data/guides/low-latency-stock-exchange.md"]
+        - title: "Design Google Docs"
+          seeds: ["gh>ByteByteGoHq/system-design-101/data/guides/how-to-design-google-docs.md"]
+        - title: "Design a payment system"
+          seeds: ["gh>ByteByteGoHq/system-design-101/data/guides/payment-system.md", "gh>ByteByteGoHq/system-design-101/data/guides/reconciliation-in-payment.md"]
+        - title: "Design a notification system"
+          seeds: ["gh>ByteByteGoHq/system-design-101/data/guides/how-are-notifications-pushed-to-our-phones-or-pcs.md"]
+        - title: "Design a permission system"
+          seeds: ["gh>ByteByteGoHq/system-design-101/data/guides/how-do-we-design-a-permission-system.md"]

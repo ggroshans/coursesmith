@@ -129,7 +129,7 @@ def normalize(raw, fallback=None):
         return dict(fallback) if fallback else None
     if isinstance(raw, str):
         raw = {"name": raw}
-    out = dict(raw)
+    out = {k: (v.isoformat() if hasattr(v, "isoformat") else v) for k, v in dict(raw).items()}  # YAML dates
     out.setdefault("name", out.get("spdx") or "")
     if not out.get("class"):
         out["class"] = classify(out.get("spdx") or out.get("name"))
