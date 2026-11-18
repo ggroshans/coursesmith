@@ -196,3 +196,104 @@ class RegistryTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class SplitTest(unittest.TestCase):
+    COURSE = (GH / "course.md")
+
+    def adapter(self, **cfg):
+        http = FakeHTTP({f"{RAW}/course.md": self.COURSE, f"{RAW}/README.md": GH / "primer.README.md",
+                         f"{API}/repos/donnemartin/system-design-primer/commits/master": GH / "primer.commit.json"})
+        c = {"name": "course", "adapter": "github", "repo": "donnemartin/system-design-primer", "ref": SHA,
+             "include": ["course.md", "README.md"], "split": {"course.md": 1}, **cfg}
+        return GithubAdapter(c, http=http)
+
+    def test_slugs_match_githubs_anchors(self):
+        from coursesmith.sources.github import slug_of
+        self.assertEqual(slug_of("Load Balancing"), "load-balancing")
+        self.assertEqual(slug_of("Content Delivery Network (CDN)"), "content-delivery-network-cdn")
+        self.assertEqual(slug_of("SSL, TLS, mTLS"), "ssl-tls-mtls")
+        self.assertEqual(slug_of("What's an API?"), "whats-an-api")
+        self.assertEqual(slug_of("`code` and *emphasis*"), "code-and-emphasis")
+
+    def test_split_markdown(self):
+        from coursesmith.sources.github import split_markdown
+        parts = split_markdown(self.COURSE.read_text(), 1)
+        self.assertEqual([p[0] for p in parts], ["system-design-course", "load-balancing", "caching", "caching-1",
+                                                 "content-delivery-network-cdn"])
+        lb = dict((p[0], p) for p in parts)["load-balancing"]
+        self.assertTrue(lb[2].startswith("# Load Balancing\n"))
+        self.assertIn("## Types", lb[2])  # its own subsections stay, one level down from the chapter
+        self.assertNotIn("A cache stores copies", lb[2])  # the next chapter is not part of it
+        self.assertIn("# not a heading", lb[2])  # a comment inside a code fence is not a heading
+
+    def test_split_level_two_shifts_headings_up(self):
+        from coursesmith.sources.github import split_markdown
+        parts = split_markdown("# T\n\n## A\n\ntext a\n\n### A1\n\nmore\n\n## B\n\ntext b\n", 2)
+        self.assertEqual([p[0] for p in parts], ["a", "b"])
+        self.assertEqual(parts[0][2].split("\n")[0], "# A")
+        self.assertIn("\n## A1\n", parts[0][2])
+
+    def test_keys_and_allowlist(self):
+        a = self.adapter()
+        pre = "gh>donnemartin/system-design-primer/"
+        self.assertEqual(a.key("course.md", "caching"), pre + "course.md::caching")
+        self.assertEqual((a.path_of(pre + "course.md::caching"), a.part_of(pre + "course.md::caching")), ("course.md", "caching"))
+        self.assertTrue(a.allowed(pre + "course.md::caching"))
+        self.assertFalse(a.allowed(pre + "course.md"))  # the whole split file would count its text twice
+        self.assertTrue(a.allowed(pre + "README.md"))  # an unsplit file is a page as before
+        self.assertFalse(a.allowed(pre + "README.md::intro"))  # only a split file has sections
+        self.assertFalse(a.allowed(pre + "other.md::x"))
+
+    def test_fetch_a_section(self):
+        rec = self.adapter().fetch("gh>donnemartin/system-design-primer/course.md::caching")
+        self.assertEqual(rec["name"], "Caching (system-design-primer)")
+        self.assertTrue(rec["text"].startswith("# Caching\n"))
+        self.assertIn("A cache stores copies of data", rec["text"])
+        self.assertIn("## Eviction policies", rec["text"])
+        self.assertNotIn("A load balancer spreads", rec["text"])
+        self.assertEqual(rec["url"], f"https://github.com/donnemartin/system-design-primer/blob/{SHA}/course.md#caching")
+        self.assertEqual((rec["meta"]["part"], rec["meta"]["path"]), ("caching", "course.md"))
+        self.assertEqual(rec["source_id"], "donnemartin/system-design-primer/course.md::caching")
+
+    def test_anchor_links_become_section_keys(self):
+        rec = self.adapter().fetch("gh>donnemartin/system-design-primer/course.md::load-balancing")
+        pre = "gh>donnemartin/system-design-primer/course.md::"
+        self.assertEqual(rec["body_links"], [pre + "caching", pre + "content-delivery-network-cdn"])
+        self.assertEqual(rec["anchors"]["caching"], pre + "caching")
+
+    def test_repeated_title_has_a_numbered_section(self):
+        rec = self.adapter().fetch("gh>donnemartin/system-design-primer/course.md::caching-1")
+        self.assertIn("second chapter with the same title", rec["text"])
+
+    def test_missing_section(self):
+        with self.assertRaises(MissingSource):
+            self.adapter().fetch("gh>donnemartin/system-design-primer/course.md::nope")
+
+    def test_links_from_other_files_to_a_split_file(self):
+        a = self.adapter()
+        base = "gh>donnemartin/system-design-primer/README.md"
+        pre = "gh>donnemartin/system-design-primer/"
+        self.assertEqual(a.key_for_url("course.md#Caching", base), pre + "course.md::caching")
+        self.assertIsNone(a.key_for_url("course.md", base))  # which section? the link does not say
+        self.assertEqual(a.key_for_url("#anything", base), None)  # README.md is not split
+
+    def test_parts_listing(self):
+        slugs = [p[0] for p in self.adapter().parts("course.md")]
+        self.assertEqual(slugs[:3], ["system-design-course", "load-balancing", "caching"])
+
+
+class PartsCommandTest(unittest.TestCase):
+    def test_lists_section_keys(self):
+        from coursesmith.sources import parts
+        from coursesmith.sources.registry import Registry
+        h = FakeHTTP({f"{RAW}/course.md": GH / "course.md"})
+        reg = Registry([{"name": "course", "adapter": "github", "repo": "donnemartin/system-design-primer", "ref": SHA,
+                         "include": ["course.md"], "split": {"course.md": 1}}], http=h)
+        lines = []
+        self.assertEqual(parts.run(None, registry=reg, log=lines.append), 5)
+        self.assertIn("gh>donnemartin/system-design-primer/course.md::load-balancing | Load Balancing |", "\n".join(lines))
+        self.assertTrue(lines[0].startswith("# course: course.md at ae9bbd7, 5 sections split at level 1"))
+        lines.clear()
+        self.assertEqual(parts.run(None, "other", registry=reg, log=lines.append), 0)
+        self.assertIn("no split sources named 'other'", lines[0])

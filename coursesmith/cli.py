@@ -69,6 +69,13 @@ def cmd_sources_merge(a):
     discover.merge(a.subject)
 
 
+@command("sources parts", "list the page keys of a split one-file source, to paste into frame.yaml",
+         arg("source", nargs="?", default=None, help="a source's name (default: every split source)"))
+def cmd_sources_parts(a):
+    from .sources import parts
+    parts.run(a.subject, a.source)
+
+
 @command("sources check", "verify subject.yaml's sources (licenses, allowlists, pins) before crawling",
          arg("--fix-refs", action="store_true", help="pin a branch or tag ref to the commit it points at now"))
 def cmd_sources_check(a):

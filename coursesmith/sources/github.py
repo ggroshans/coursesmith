@@ -11,9 +11,14 @@ Set COURSESMITH_GITHUB_TOKEN (or GITHUB_TOKEN) to lift the 60 requests per hour 
       include: ["README.md", "solutions/**/README.md"]
       exclude: ["**/README-*.md"]                      # translations
       seeds: ["README.md"]                             # crawled without listing them under `seeds:`
+      split: {"README.md": 1}                          # a one-file course: each `# Chapter` becomes its own page
       depth: 1
       tier: curated
       license: {name: "CC BY 4.0"}
+
+A split file is a page per section: `gh>owner/repo/README.md::load-balancing`. The slug is GitHub's own anchor
+(so `[x](#load-balancing)` links resolve), the file's other sections are not part of a page, and the whole file
+is not a page itself (its text would be counted twice). `coursesmith sources parts <subject>` lists the keys.
 """
 import base64
 import hashlib
@@ -36,6 +41,47 @@ SHA_RE = re.compile(r"^[0-9a-f]{40}$")
 
 def token():
     return os.environ.get("COURSESMITH_GITHUB_TOKEN") or os.environ.get("GITHUB_TOKEN") or ""
+
+
+PART = "::"
+
+
+def slug_of(heading):
+    """GitHub's anchor for a heading: lowercase, punctuation dropped, spaces to hyphens."""
+    s = re.sub(r"[^\w\- ]", "", re.sub(r"`|\*|_(?=\w)|\[|\]", "", str(heading)).strip().lower())
+    return re.sub(r"\s", "-", s).strip("-")
+
+
+def split_markdown(md, level=1):
+    """[(slug, title, markdown)] for each heading of `level` in the file, in order. A section runs to the next
+    heading of the same or a shallower level, and its headings are shifted up so its own heading is a `#`. Text
+    before the first such heading, and headings inside code fences, are not sections. A repeated heading gets
+    `-1`, `-2` like GitHub's anchors."""
+    from ..text.markdown import strip_front_matter
+    lines, fence, marks = strip_front_matter(md).split("\n"), False, []
+    for i, l in enumerate(lines):
+        if re.match(r"^\s*(```|~~~)", l):
+            fence = not fence
+            continue
+        m = None if fence else re.match(r"^(#{1,6})\s+(.+?)\s*#*\s*$", l)
+        if m:
+            marks.append((i, len(m.group(1)), m.group(2).strip()))
+    out, seen = [], {}
+    for k, (i, lvl, title) in enumerate(marks):
+        if lvl != level:
+            continue
+        end = next((j for j, l2, _ in marks[k + 1:] if l2 <= level), len(lines))
+        body, fence2 = [], False
+        for l in lines[i:end]:
+            if re.match(r"^\s*(```|~~~)", l):
+                fence2 = not fence2
+            m = None if fence2 else re.match(r"^(#{1,6})(\s.*)$", l)
+            body.append("#" * max(1, len(m.group(1)) - level + 1) + m.group(2) if m else l)
+        slug = slug_of(title) or "section"
+        n = seen.get(slug, 0)
+        seen[slug] = n + 1
+        out.append((slug if n == 0 else f"{slug}-{n}", title, "\n".join(body)))
+    return out
 
 
 def plain_to_doc(text, name=""):
@@ -77,7 +123,9 @@ class GithubAdapter(SourceAdapter):
         self.owner, self.name = repo.split("/")
         self.include = self.cfg.get("include") or ["README.md", "**/*.md"]
         self.exclude = self.cfg.get("exclude") or []
+        self.split = {str(p): int(l) for p, l in (self.cfg.get("split") or {}).items()}
         self._sha = None
+        self._parts = {}
 
     @classmethod
     def for_discovery(cls, http=None):
@@ -91,10 +139,15 @@ class GithubAdapter(SourceAdapter):
         return f"gh{SEP}{self.repo}/"
 
     def path_of(self, key):
-        return key[len(self._root()):]
+        """The file's path in the repository (a split section's key carries `::slug` after it)."""
+        return key[len(self._root()):].split(PART, 1)[0]
 
-    def key(self, path):
-        return make_key("gh", f"{self.repo}/{path.lstrip('/')}")
+    def part_of(self, key):
+        rest = key[len(self._root()):]
+        return rest.split(PART, 1)[1] if PART in rest else None
+
+    def key(self, path, part=None):
+        return make_key("gh", f"{self.repo}/{path.lstrip('/')}" + (f"{PART}{part}" if part else ""))
 
     def owns(self, key):
         return key.lower().startswith(self._root().lower())
@@ -102,7 +155,11 @@ class GithubAdapter(SourceAdapter):
     def allowed(self, key):
         if not self.owns(key):
             return False
-        p = self.path_of(key)
+        p, part = self.path_of(key), self.part_of(key)
+        if p in self.split and not part:
+            return False  # a split file is its sections; the whole file would count its text twice
+        if part and p not in self.split:
+            return False
         return p.lower().endswith(TEXT_EXT) and glob_match(p, self.include) and not glob_match(p, self.exclude)
 
     def seeds(self):
@@ -111,7 +168,11 @@ class GithubAdapter(SourceAdapter):
     def key_for_url(self, url, base_key=None):
         """A link in a markdown file: relative path, GitHub blob/tree URL of this repo, or a Wikipedia article."""
         href = url.strip()
-        if not href or href.startswith(("#", "mailto:", "javascript:")):
+        if href.startswith("#"):  # an anchor inside a split file points at that section
+            here = self.path_of(base_key) if base_key and self.owns(base_key) else None
+            slug = href[1:].strip().lower()
+            return self.key(here, slug) if here in self.split and slug else None
+        if not href or href.startswith(("mailto:", "javascript:")):
             return None
         u = urlparse(href)
         if u.scheme in ("http", "https"):
@@ -128,9 +189,9 @@ class GithubAdapter(SourceAdapter):
         base_dir = posixpath.dirname(self.path_of(base_key)) if base_key and self.owns(base_key) else ""
         target = unquote(u.path)
         joined = posixpath.normpath(posixpath.join(base_dir, target)) if not target.startswith("/") else target.lstrip("/")
-        return self._path_key(joined)
+        return self._path_key(joined, u.fragment)
 
-    def _path_key(self, path):
+    def _path_key(self, path, fragment=""):
         path = path.strip("/")
         if not path or path.startswith(".."):
             return None
@@ -139,6 +200,8 @@ class GithubAdapter(SourceAdapter):
             path = f"{path}/README.md"
         elif not path.lower().endswith(TEXT_EXT):
             return None
+        if path in self.split:  # only a link to a section of a split file names a page
+            return self.key(path, fragment.lower()) if fragment else None
         return self.key(path)
 
     # -- GitHub API ------------------------------------------------------------------
@@ -190,13 +253,28 @@ class GithubAdapter(SourceAdapter):
         return p.lower().endswith(TEXT_EXT) and glob_match(p, self.include) and not glob_match(p, self.exclude)
 
     # -- fetching --------------------------------------------------------------------
+    def parts(self, path):
+        """[(slug, title, markdown)] of a split file at the pinned commit (cached for this run)."""
+        if path not in self._parts:
+            raw = self.http.get(f"{RAW}/{self.repo}/{self.sha()}/{quote(path)}")
+            if raw is None:
+                raise MissingSource(f"{self.repo}@{self.sha()[:7]}: no file {path}")
+            self._parts[path] = split_markdown(raw, self.split[path])
+        return self._parts[path]
+
     def fetch(self, key):
-        path = self.path_of(key)
+        path, part = self.path_of(key), self.part_of(key)
         sha = self.sha()
-        raw = self.http.get(f"{RAW}/{self.repo}/{sha}/{quote(path)}")
-        if raw is None:
-            raise MissingSource(f"{self.repo}@{sha[:7]}: no file {path}")
-        fallback = path.rsplit("/", 1)[-1]
+        if part:
+            hit = next((p for p in self.parts(path) if p[0] == part), None)
+            if hit is None:
+                raise MissingSource(f"{self.repo}@{sha[:7]}: {path} has no section '{part}'")
+            raw, fallback = hit[2], hit[1]
+        else:
+            raw = self.http.get(f"{RAW}/{self.repo}/{sha}/{quote(path)}")
+            if raw is None:
+                raise MissingSource(f"{self.repo}@{sha[:7]}: no file {path}")
+            fallback = path.rsplit("/", 1)[-1]
         if path.lower().endswith((".md", ".markdown")):
             doc = markdown_to_doc(raw, resolve_link=lambda a: self.key_for_url(a.get("href", ""), key))
             text, dname, links, anchors, code = doc.text, doc.name, doc.links, doc.anchors, doc.code_blocks
@@ -206,13 +284,14 @@ class GithubAdapter(SourceAdapter):
             text, links, anchors, code, lead_links = plain_to_doc(raw, fallback), [], {}, 0, []
         title = self.cfg.get("title") or self.repo.split("/")[1]
         name = dname or fallback
-        if path != "README.md" and name != title:
+        if (path != "README.md" or part) and name != title:
             name = f"{name} ({title})"
         links = [l for l in links if l != key]
-        rec = self.record(key, name, f"https://github.com/{self.repo}/blob/{sha}/{quote(path)}", text, sha,
-                          source_id=f"{self.repo}/{path}")
+        url = f"https://github.com/{self.repo}/blob/{sha}/{quote(path)}" + (f"#{part}" if part else "")
+        rec = self.record(key, name, url, text, sha,
+                          source_id=f"{self.repo}/{path}" + (f"{PART}{part}" if part else ""))
         rec.update({"body_links": links, "lead_links": [l for l in lead_links if l != key], "anchors": anchors})
-        rec["meta"] = {"description": dname, "tags": [], "path": path, "repo": self.repo, "ref": sha,
+        rec["meta"] = {"description": dname, "tags": [], "path": path, "part": part, "repo": self.repo, "ref": sha,
                        "code_blocks": code, "dates": bool(self.cfg.get("dates")), "hash": hashlib.sha256(raw.encode()).hexdigest()[:16]}
         return rec
 
