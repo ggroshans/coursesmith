@@ -16,7 +16,7 @@ Life on Earth fills a thin zone, the biosphere, built from countless ecosystems.
 
 - **Biodiversity: the variety of life, and where it crowds**
 
-  Tropical forests cover less than one-fifth of Earth's land, yet they hold about 50% of the world's species. Life, in other words, is not spread evenly. Biodiversity is the variety of life on Earth. Biologists most often describe it as the totality of genes, species and ecosystems of a region, and it can be measured at each of those levels. The tropics are richest, helped by the warm climate and high plant growth near the equator. How much life is there? Estimates by Mora and colleagues in 2011 put the count at about 8.7 million species on land and 2.2 million in the ocean. That variety does useful work. Many studies link more plant species to higher fodder and crop yields. It is also shrinking. Human activities are causing ongoing biodiversity loss, often called the Holocene or sixth mass extinction, and clearing habitat for farming is a key cause. In 2019 a global assessment by an intergovernmental science panel, described in IPBES, stated that the state of nature had deteriorated at an unprecedented and accelerating rate.
+  Tropical forests cover less than one-fifth of Earth's land, yet they hold about 50% of the world's species. Life, in other words, is not spread evenly. Biodiversity is the variety of life on Earth. Biologists most often describe it as the totality of genes, species and ecosystems of a region, and it can be measured at each of those levels. The tropics are richest, helped by the warm climate and high plant growth near the equator. How much life is there? Estimates by Mora and colleagues in 2011 put the count at about 8.7 million species on land and 2.2 million in the ocean. That variety does useful work. Many studies link more plant species to higher fodder and crop yields. It is also shrinking. Human activities are causing ongoing biodiversity loss, often called the Holocene or sixth mass extinction, and clearing habitat for farming is a key cause. In 2019 a global assessment by an intergovernmental science panel, described in IPBES: the scientists' voice for biodiversity, stated that the state of nature had deteriorated at an unprecedented and accelerating rate.
 
   <!-- nature-found-001 -->
 
@@ -392,7 +392,7 @@ Economics studies how goods and services are produced, shared out and used, agai
 
 - **Pollution: nine million deaths and an unpaid bill**
 
-  In 2019 pollution killed about nine million people, about one in six of all deaths. Roughly three-quarters of them died from air pollution. Pollution is the release into the natural environment of contaminants that cause harm. It can be any substance, solid, liquid or gas, or energy such as heat, sound, light or radioactivity. The word usually means contaminants from human sources such as manufacturing, mining, poor waste management, transport or farming. Pollution can come from a point source, one concentrated site such as a factory, or a nonpoint source, spread out like farm runoff. Economists treat pollution from manufacturing as a negative production externality, imposing health and clean-up costs on all of society. Goods that pollute tend to be overproduced and underpriced, because the harm is not priced into the market. Polluting industries and waste sites are often placed near vulnerable and marginalized communities, a core reason for the movement for environmental fairness explored in Environmental justice. Many sources went unregulated during industrialization, until environmental regulation emerged in the later 20th century.
+  In 2019 pollution killed about nine million people, about one in six of all deaths. Roughly three-quarters of them died from air pollution. Pollution is the release into the natural environment of contaminants that cause harm. It can be any substance, solid, liquid or gas, or energy such as heat, sound, light or radioactivity. The word usually means contaminants from human sources such as manufacturing, mining, poor waste management, transport or farming. Pollution can come from a point source, one concentrated site such as a factory, or a nonpoint source, spread out like farm runoff. Economists treat pollution from manufacturing as a negative production externality, imposing health and clean-up costs on all of society. Goods that pollute tend to be overproduced and underpriced, because the harm is not priced into the market. Polluting industries and waste sites are often placed near vulnerable and marginalized communities, a core reason for the movement for environmental fairness explored in Environmental justice: who lives next to the dump?. Many sources went unregulated during industrialization, until environmental regulation emerged in the later 20th century.
 
   <!-- nature-found-079 -->
 
@@ -2202,7 +2202,7 @@ Some goods can be fenced off and get used up; others can be kept from no one and
 
 - **Digital public goods: open code and data for all**
 
-  Open-source software, data sets, AI models, standards and content that anyone can use are increasingly treated as public goods: digital public goods. The UN Secretary-General's Roadmap for Digital Cooperation defines them as open resources that follow privacy laws, do no harm and help reach the Sustainable Development Goals. Their weakness is an old one. A small group of maintainers often keeps such projects going while many more users benefit, raising worries about burnout and underfunding.
+  Open-source software, data sets, AI models, standards and content that anyone can use are increasingly treated as public goods: digital public goods. The UN Secretary-General's Roadmap for Digital Cooperation defines them as open resources that follow privacy laws, do no harm and help reach the The Sustainable Development Goals: 17 goals for 2030. Their weakness is an old one. A small group of maintainers often keeps such projects going while many more users benefit, raising worries about burnout and underfunding.
 
   <!-- nature-econ-636 -->
 
@@ -2286,7 +2286,7 @@ Some goods can be fenced off and get used up; others can be kept from no one and
 
 - **Traditional land tenure: holding land through care**
 
-  European ownership centered on control. Indigenous ways of holding land in North America rested instead on care and responsibility for the land. European settlers sometimes ignored this traditional tenure and seized land, and sometimes recognized it in law, the idea explored in Aboriginal title. Communal use of land survives elsewhere too. Traditional communities in Brazil, such as fundos de pasto and faxinais, still practice it.
+  European ownership centered on control. Indigenous ways of holding land in North America rested instead on care and responsibility for the land. European settlers sometimes ignored this traditional tenure and seized land, and sometimes recognized it in law, the idea explored in Aboriginal title: land rights that outlive conquest. Communal use of land survives elsewhere too. Traditional communities in Brazil, such as fundos de pasto and faxinais, still practice it.
 
   <!-- nature-econ-653 -->
 
@@ -3402,7 +3402,7 @@ Before anyone can say whether an economy is doing well, someone has to decide wh
 
 - **Can growth and a healthy planet coexist?**
 
-  In 2019, 11,000 scientists signed a warning that named economic growth as the driving force behind the overuse of ecosystems. Can an economy keep growing without wrecking the natural systems it rests on? The sources do not agree. Critics such as those in The Club of Rome and The Limits to Growth argue that a narrow focus on growth, together with globalization, risks a systemic collapse of the resources nature provides. A 2019 Global Assessment by IPBES warned that, given heavy losses of biodiversity, society should not focus solely on economic growth. A 2021 review for the British Treasury by Partha Dasgupta: the economy embedded in nature argued that human demands far exceed nature's capacity, and called for abandoning GDP as the measure of success. Academics have proposed responses from eco-taxes and green investment to the ideas in Uneconomic growth: when getting bigger makes life worse, The steady-state economy: prosperity without growth and Degrowth: shrinking production on purpose. Optimists see it differently. Julian Simon argued in 1981 that the large-scale ecological effects of growth are minor, and that human ingenuity would adapt to any that exist. Growth-oriented environmental economists instead propose government action to shift energy production toward wind, solar, hydroelectric and nuclear power. Whether growth's ecological effects are minor and manageable or are driving ecosystems toward collapse remains disputed.
+  In 2019, 11,000 scientists signed a warning that named economic growth as the driving force behind the overuse of ecosystems. Can an economy keep growing without wrecking the natural systems it rests on? The sources do not agree. Critics such as those in The Club of Rome and The Limits to Growth argue that a narrow focus on growth, together with globalization, risks a systemic collapse of the resources nature provides. A 2019 Global Assessment by IPBES: the scientists' voice for biodiversity warned that, given heavy losses of biodiversity, society should not focus solely on economic growth. A 2021 review for the British Treasury by Partha Dasgupta: the economy embedded in nature argued that human demands far exceed nature's capacity, and called for abandoning GDP as the measure of success. Academics have proposed responses from eco-taxes and green investment to the ideas in Uneconomic growth: when getting bigger makes life worse, The steady-state economy: prosperity without growth and Degrowth: shrinking production on purpose. Optimists see it differently. Julian Simon argued in 1981 that the large-scale ecological effects of growth are minor, and that human ingenuity would adapt to any that exist. Growth-oriented environmental economists instead propose government action to shift energy production toward wind, solar, hydroelectric and nuclear power. Whether growth's ecological effects are minor and manageable or are driving ecosystems toward collapse remains disputed.
 
   <!-- nature-econ-480 -->
 
@@ -5646,7 +5646,7 @@ An ecosystem has parts, and it does work. Some parts are alive: plants and algae
 
 - **Terrestrial ecosystems: life on land**
 
-  Terrestrial ecosystems cover 144,150,000 km², or 28.26% of Earth's surface. A terrestrial ecosystem is one found on land, such as Tundra: the land too cold for trees, The taiga: Earth's great northern forest, forest, grassland or desert. It differs from water ecosystems in having soil, not water, at the surface, with plants reaching above it. Water is plentiful in some places and scarce in others. Temperatures also swing more by day and by season than they do in water. The UN goal described in Sustainable Development Goal 15 targets the conservation, restoration and sustainable use of these ecosystems.
+  Terrestrial ecosystems cover 144,150,000 km², or 28.26% of Earth's surface. A terrestrial ecosystem is one found on land, such as Tundra: the land too cold for trees, The taiga: Earth's great northern forest, forest, grassland or desert. It differs from water ecosystems in having soil, not water, at the surface, with plants reaching above it. Water is plentiful in some places and scarce in others. Temperatures also swing more by day and by season than they do in water. The UN goal described in SDG 15: life on land targets the conservation, restoration and sustainable use of these ecosystems.
 
   <!-- nature-eco-406 -->
 
@@ -6770,7 +6770,7 @@ Nothing in the living world is ever truly used up. The carbon, water and nitroge
 
 - **Preventing eutrophication at the source**
 
-  The surest way to stop a lake being overfed is to stop feeding it. Eutrophication is prevented mainly by cutting nutrient pollution from sewage and from farming. Sewage treatment plants can be upgraded for biological nutrient removal, so they discharge much less nitrogen and phosphorus. That matters because even good standard treatment leaves substantial nitrogen in the treated water most sewage plants release. Farmers are advised to apply fertilizer in the right amount, at the right time, with the right method and placement. The UN's goal for the oceans, described in Sustainable Development Goal 14, targets a significant cut in marine nutrient pollution from land by 2025.
+  The surest way to stop a lake being overfed is to stop feeding it. Eutrophication is prevented mainly by cutting nutrient pollution from sewage and from farming. Sewage treatment plants can be upgraded for biological nutrient removal, so they discharge much less nitrogen and phosphorus. That matters because even good standard treatment leaves substantial nitrogen in the treated water most sewage plants release. Farmers are advised to apply fertilizer in the right amount, at the right time, with the right method and placement. The UN's goal for the oceans, described in SDG 14: life below water, targets a significant cut in marine nutrient pollution from land by 2025.
 
   <!-- nature-eco-223 -->
 
@@ -7306,7 +7306,7 @@ Every change people make to land and water reaches the living things that depend
 
 - **Cattle outweigh wild mammals: measuring the human footprint**
 
-  Domesticated cattle and pigs now outweigh all the world's wild mammals by 14 to 1. The world's chickens weigh three times as much as all wild birds. Numbers like these measure human impact on the environment: the changes people cause, directly or indirectly, to physical surroundings, ecosystems, biodiversity and natural resources. People have changed their surroundings ever since they first spread across the Earth. The impacts grew sharply after the Industrial Revolution of the 1700s. A 2018 study found 87% of the oceans altered by people, along with 77% of land outside Antarctica. Only 23% of the land was left as wilderness. Global Footprint Network estimates put humanity's demand 70% above what all the planet's ecosystems can regenerate. The damage is linked to growing populations, rapid economic growth, heavy consumption, pollution and forest clearing. It is also linked to harvesting resources faster than they renew, the subject of Overexploitation: taking more than nature can replace. The results include global warming, ocean acidification, the mass loss of species and the collapse of whole ecological systems, a form of Environmental degradation: 70% of the land, already altered. At sea, a 2019 report by the panel described in IPBES blames one driver above all. Catching fish faster than they can breed is the main cause of the mass loss of ocean species.
+  Domesticated cattle and pigs now outweigh all the world's wild mammals by 14 to 1. The world's chickens weigh three times as much as all wild birds. Numbers like these measure human impact on the environment: the changes people cause, directly or indirectly, to physical surroundings, ecosystems, biodiversity and natural resources. People have changed their surroundings ever since they first spread across the Earth. The impacts grew sharply after the Industrial Revolution of the 1700s. A 2018 study found 87% of the oceans altered by people, along with 77% of land outside Antarctica. Only 23% of the land was left as wilderness. Global Footprint Network estimates put humanity's demand 70% above what all the planet's ecosystems can regenerate. The damage is linked to growing populations, rapid economic growth, heavy consumption, pollution and forest clearing. It is also linked to harvesting resources faster than they renew, the subject of Overexploitation: taking more than nature can replace. The results include global warming, ocean acidification, the mass loss of species and the collapse of whole ecological systems, a form of Environmental degradation: 70% of the land, already altered. At sea, a 2019 report by the panel described in IPBES: the scientists' voice for biodiversity blames one driver above all. Catching fish faster than they can breed is the main cause of the mass loss of ocean species.
 
   <!-- nature-eco-129 -->
 
@@ -7330,7 +7330,7 @@ Every change people make to land and water reaches the living things that depend
 
 - **Biodiversity loss: a decline far faster than nature's pace**
 
-  Between 1970 and 2016, monitored animal populations fell by an average of 68%, the WWF reported. The figure covered 4,400 animal species and nearly 21,000 populations. Biodiversity loss is the decline of living variety. It happens when species vanish from Earth entirely, as Extinction: when the last of a species dies describes, or when they shrink or disappear from a particular area. To measure it at a site, scientists record the number of species present, a count explained in Species richness: counting how many kinds live here, and how it changes over time. The current global rate is estimated at 100 to 1000 times the natural background rate at which species die out, set out in The background extinction rate: nature's normal pace. All of today's loss has been attributed to human activities. Habitat destruction, often for farming, is currently a bigger driver than climate change. The loss is temporary if the damage can be reversed, for example by repairing ecosystems as Ecological restoration: repairing ecosystems already damaged describes, and permanent if it cannot. Damaged ecosystems provide poorer ecosystem services, such as pollinating crops, cleaning air and water, decomposing waste and supplying goods from forests. Governments have struggled to respond. Of 20 worldwide targets for biodiversity set in 2010, covered in Aichi Biodiversity Targets, only six were partially achieved by 2020.
+  Between 1970 and 2016, monitored animal populations fell by an average of 68%, the WWF reported. The figure covered 4,400 animal species and nearly 21,000 populations. Biodiversity loss is the decline of living variety. It happens when species vanish from Earth entirely, as Extinction: when the last of a species dies describes, or when they shrink or disappear from a particular area. To measure it at a site, scientists record the number of species present, a count explained in Species richness: counting how many kinds live here, and how it changes over time. The current global rate is estimated at 100 to 1000 times the natural background rate at which species die out, set out in The background extinction rate: nature's normal pace. All of today's loss has been attributed to human activities. Habitat destruction, often for farming, is currently a bigger driver than climate change. The loss is temporary if the damage can be reversed, for example by repairing ecosystems as Ecological restoration: repairing ecosystems already damaged describes, and permanent if it cannot. Damaged ecosystems provide poorer ecosystem services, such as pollinating crops, cleaning air and water, decomposing waste and supplying goods from forests. Governments have struggled to respond. Of 20 worldwide targets for biodiversity set in 2010, covered in The Aichi Targets: twenty goals that were missed, only six were partially achieved by 2020.
 
   <!-- nature-eco-035 -->
 
@@ -7408,13 +7408,13 @@ Every change people make to land and water reaches the living things that depend
 
 - **Poaching: illegal hunting and its ripple effects**
 
-  As many as 35,000 African elephants are killed each year for their ivory. Poaching is the illegal hunting or capture of wild animals, and since the 1980s also the illegal harvesting of wild plants. It is an unlawful form of Overexploitation: taking more than nature can replace. In rural Africa the main motives are a lack of jobs and limited farming potential, and selling wild meat to cities brings cash. International markets draw organized gangs, and crime syndicates traffic body parts abroad. Poachers treat the edges of reserves as open-access resources, free for anyone to take. That shrinks the reserves' effective size, and wildlife tourism loses income. Removing large animals also changes how seeds are spread, so large-seeded trees come to dominate and small-seeded plants vanish locally. A UN goal, Sustainable Development Goal 15, calls for action against the poaching and trafficking of protected species. The label is contested: critics argue it has been used to criminalize Indigenous peoples' traditional subsistence hunting.
+  As many as 35,000 African elephants are killed each year for their ivory. Poaching is the illegal hunting or capture of wild animals, and since the 1980s also the illegal harvesting of wild plants. It is an unlawful form of Overexploitation: taking more than nature can replace. In rural Africa the main motives are a lack of jobs and limited farming potential, and selling wild meat to cities brings cash. International markets draw organized gangs, and crime syndicates traffic body parts abroad. Poachers treat the edges of reserves as open-access resources, free for anyone to take. That shrinks the reserves' effective size, and wildlife tourism loses income. Removing large animals also changes how seeds are spread, so large-seeded trees come to dominate and small-seeded plants vanish locally. A UN goal, SDG 15: life on land, calls for action against the poaching and trafficking of protected species. The label is contested: critics argue it has been used to criminalize Indigenous peoples' traditional subsistence hunting.
 
   <!-- nature-eco-144 -->
 
 - **The 2019 global assessment: a million species at risk**
 
-  Of an estimated 8 million animal and plant species, 1 million are threatened with extinction. That was the headline of the Global Assessment Report, whose summary for policymakers came out on 6 May 2019. It was produced by the panel described in IPBES. It reviews 50 years of change, drawing on over 15,000 scientific publications and Indigenous knowledge. It was the UN's first worldwide assessment of biodiversity since the 2005 review covered in The Millennium Ecosystem Assessment: a health check for the planet. The threatened include 40% of amphibians and more than a third of marine mammals. Wild mammal biomass has fallen by 82%, while humans and their farm animals now make up 96% of all mammal biomass. Over the same 50 years the human population doubled and GDP per person quadrupled. The report ranked the drivers: changes in land and sea use, direct exploitation, climate change, pollution and invasive alien species. Pollinator loss threatens food worth $235 to $577 billion a year. The report urged countries not to fixate on economic growth and to shift government support away from industries that harm nature.
+  Of an estimated 8 million animal and plant species, 1 million are threatened with extinction. That was the headline of the Global Assessment Report, whose summary for policymakers came out on 6 May 2019. It was produced by the panel described in IPBES: the scientists' voice for biodiversity. It reviews 50 years of change, drawing on over 15,000 scientific publications and Indigenous knowledge. It was the UN's first worldwide assessment of biodiversity since the 2005 review covered in The Millennium Ecosystem Assessment: a health check for the planet. The threatened include 40% of amphibians and more than a third of marine mammals. Wild mammal biomass has fallen by 82%, while humans and their farm animals now make up 96% of all mammal biomass. Over the same 50 years the human population doubled and GDP per person quadrupled. The report ranked the drivers: changes in land and sea use, direct exploitation, climate change, pollution and invasive alien species. Pollinator loss threatens food worth $235 to $577 billion a year. The report urged countries not to fixate on economic growth and to shift government support away from industries that harm nature.
 
   <!-- nature-eco-123 -->
 
@@ -7456,7 +7456,7 @@ Every change people make to land and water reaches the living things that depend
 
 - **HIPPO and the Evil Quartet: naming the drivers of loss**
 
-  Edward O. Wilson boiled the problem down to one acronym, HIPPO: Habitat destruction, Invasive species, Pollution, human over-Population and Over-harvesting. Jared Diamond's version is an "Evil Quartet" of habitat destruction, overkill, introduced species and secondary extinctions. Both lists name the main human pressures behind Biodiversity loss: a decline far faster than nature's pace. Today's fuller list is habitat loss, land-use intensification, pollution, overexploitation, invasive species and climate change. Habitat destruction leads worldwide. At sea, a 2019 report by the panel described in IPBES found catching too many fish to be the main driver of mass extinction. Invasive species can drive natives extinct by outcompeting them, pushing them out of their role in the ecosystem, or interbreeding with them. The pressures also interact. In 2021 the same panel and the UN's climate science panel issued a joint report. It found that biodiversity loss and climate change must be tackled together, because they are inextricably linked.
+  Edward O. Wilson boiled the problem down to one acronym, HIPPO: Habitat destruction, Invasive species, Pollution, human over-Population and Over-harvesting. Jared Diamond's version is an "Evil Quartet" of habitat destruction, overkill, introduced species and secondary extinctions. Both lists name the main human pressures behind Biodiversity loss: a decline far faster than nature's pace. Today's fuller list is habitat loss, land-use intensification, pollution, overexploitation, invasive species and climate change. Habitat destruction leads worldwide. At sea, a 2019 report by the panel described in IPBES: the scientists' voice for biodiversity found catching too many fish to be the main driver of mass extinction. Invasive species can drive natives extinct by outcompeting them, pushing them out of their role in the ecosystem, or interbreeding with them. The pressures also interact. In 2021 the same panel and the UN's climate science panel issued a joint report. It found that biodiversity loss and climate change must be tackled together, because they are inextricably linked.
 
   <!-- nature-eco-036 -->
 
@@ -7558,7 +7558,7 @@ Every change people make to land and water reaches the living things that depend
 
 - **Global biodiversity: how many species share the Earth**
 
-  About 1.74 million species had been catalogued by 2018, yet over 80% of species have not been described at all. Global biodiversity is the total variety of life forms on Earth. Nobody knows its size. Estimates of the number of species alive today run from 2 million to 1 trillion. Most are around 11 million or fewer, and the highest figures are disputed. Insects dominate, with about 1,000,000 described and an estimated 5,000,000 in all. The total rises as new species form and falls with extinction, at a background rate of about one extinction per million species-years. Habitat destruction, often to expand farming, is currently a bigger driver of loss than climate change. The world has struggled to slow it. Of 20 global targets set in 2010, described in Aichi Biodiversity Targets, only six were 'partially achieved' by 2020.
+  About 1.74 million species had been catalogued by 2018, yet over 80% of species have not been described at all. Global biodiversity is the total variety of life forms on Earth. Nobody knows its size. Estimates of the number of species alive today run from 2 million to 1 trillion. Most are around 11 million or fewer, and the highest figures are disputed. Insects dominate, with about 1,000,000 described and an estimated 5,000,000 in all. The total rises as new species form and falls with extinction, at a background rate of about one extinction per million species-years. Habitat destruction, often to expand farming, is currently a bigger driver of loss than climate change. The world has struggled to slow it. Of 20 global targets set in 2010, described in The Aichi Targets: twenty goals that were missed, only six were 'partially achieved' by 2020.
 
   <!-- nature-eco-124 -->
 
@@ -7630,7 +7630,7 @@ Every change people make to land and water reaches the living things that depend
 
 - **Biosecurity: stopping pests at the border**
 
-  Borders are a first line of defense against pests. Biosecurity quarantine means inspection and quarantine rules on traded goods and ships that aim to stop pests and invasive species from crossing borders. The first global standards were agreed in 1994, including the WTO's Sanitary and Phytosanitary Agreement. They aimed to block agricultural pests while still allowing farm exports. At sea, the International Maritime Organization oversees the Ballast Water Management Convention. The agreement described in Convention on Biological Diversity is the most significant international agreement on invasive species, but most of its measures are voluntary and unspecific.
+  Borders are a first line of defense against pests. Biosecurity quarantine means inspection and quarantine rules on traded goods and ships that aim to stop pests and invasive species from crossing borders. The first global standards were agreed in 1994, including the WTO's Sanitary and Phytosanitary Agreement. They aimed to block agricultural pests while still allowing farm exports. At sea, the International Maritime Organization oversees the Ballast Water Management Convention. The agreement described in The Convention on Biological Diversity is the most significant international agreement on invasive species, but most of its measures are voluntary and unspecific.
 
   <!-- nature-eco-029 -->
 
@@ -7798,7 +7798,7 @@ Every change people make to land and water reaches the living things that depend
 
 - **Land degradation neutrality: a UN goal of no net loss**
 
-  Target 15.3 of the UN goals described in Sustainable Development Goals aims, by 2030, to combat desertification, restore degraded land and soil, and strive for a land degradation-neutral world. Land degradation neutrality is that goal: a world where degraded land is restored and degradation no longer advances. The UNCCD, the UN body against desertification, pursues it through its 2018-2030 Strategic Framework, alongside fighting desertification, land degradation and drought. The UN restoration decade described in The UN Decade on Ecosystem Restoration, 2021 to 2030 lists the target among the agreements restoration helps achieve. The economics are tricky. Restoring degraded land yields ecosystem services that benefit society at large, which makes it a collective-action problem of providing public goods.
+  Target 15.3 of the UN goals described in The Sustainable Development Goals: 17 goals for 2030 aims, by 2030, to combat desertification, restore degraded land and soil, and strive for a land degradation-neutral world. Land degradation neutrality is that goal: a world where degraded land is restored and degradation no longer advances. The UNCCD, the UN body against desertification, pursues it through its 2018-2030 Strategic Framework, alongside fighting desertification, land degradation and drought. The UN restoration decade described in The UN Decade on Ecosystem Restoration, 2021 to 2030 lists the target among the agreements restoration helps achieve. The economics are tricky. Restoring degraded land yields ecosystem services that benefit society at large, which makes it a collective-action problem of providing public goods.
 
   <!-- nature-nbs-156 -->
 
@@ -8544,7 +8544,7 @@ Forests, wetlands, grasslands and peatlands are not interchangeable patches of g
 
 - **What wetlands do for people, and what they are worth**
 
-  One analysis valued the storm protection wetlands provide against hurricanes at US$33,000/hectare/year. That is one of many ecosystem services, the benefits people get from nature, that wetlands supply by storing and cleaning water. The The Millennium Ecosystem Assessment: a health check for the planet and the Ramsar Convention list a long roster: flood control, refilling of underground water, storm protection, cleaning of water, biodiversity, products, culture, recreation and a steadier climate. Many wetlands are linked to water stored underground and help refill the porous rock layers that supply much of the world's drinking water. Coastal wetlands protect shores by reducing the speed and height of waves and floodwaters. In highly developed areas, wetlands may be the only habitat left for pollinating insects, birds and mammals. Replacing these services would take enormous sums for treatment plants, dams and levees, and many could not be replaced at all. According to the Ramsar treaty, intact wetlands are often worth much more to society than the gains people expect from converting them to intensive use.
+  One analysis valued the storm protection wetlands provide against hurricanes at US$33,000/hectare/year. That is one of many ecosystem services, the benefits people get from nature, that wetlands supply by storing and cleaning water. The The Millennium Ecosystem Assessment: a health check for the planet and the The Ramsar Convention: saving the world's wetlands list a long roster: flood control, refilling of underground water, storm protection, cleaning of water, biodiversity, products, culture, recreation and a steadier climate. Many wetlands are linked to water stored underground and help refill the porous rock layers that supply much of the world's drinking water. Coastal wetlands protect shores by reducing the speed and height of waves and floodwaters. In highly developed areas, wetlands may be the only habitat left for pollinating insects, birds and mammals. Replacing these services would take enormous sums for treatment plants, dams and levees, and many could not be replaced at all. According to the Ramsar treaty, intact wetlands are often worth much more to society than the gains people expect from converting them to intensive use.
 
   <!-- nature-eco-442 -->
 
@@ -8598,7 +8598,7 @@ Forests, wetlands, grasslands and peatlands are not interchangeable patches of g
 
 - **Wetland conservation: from wasteland to treasure**
 
-  More than three billion people, around half the world's population, get their basic water needs from inland freshwater wetlands. Wetland conservation aims to protect these places and their natural functions from draining, flooding and other damaging change. Since the 1970s, more attention has gone to preserving wetlands for what they do. The Ramsar Convention, a treaty at work since 1971, lists wetlands of international importance and promotes their wise use. Its methods include restricting access and teaching the public that wetlands are not wastelands. Wetlands cover at least six percent of Earth and became a conservation focus because of their services. Coastal wetlands are estimated to save a median of US$447 billion in damages and 4,620 lives each year from storms. Wetlands also hold around 700 billion tons of carbon, mainly in peat soils, and take up about 96 million tons more a year. Protection need not cost local people their living. Studies show wetlands can be conserved while improving local livelihoods, as with sustainably farmed dambos, seasonally wet valley grasslands, in Malawi and Zambia.
+  More than three billion people, around half the world's population, get their basic water needs from inland freshwater wetlands. Wetland conservation aims to protect these places and their natural functions from draining, flooding and other damaging change. Since the 1970s, more attention has gone to preserving wetlands for what they do. The The Ramsar Convention: saving the world's wetlands, a treaty at work since 1971, lists wetlands of international importance and promotes their wise use. Its methods include restricting access and teaching the public that wetlands are not wastelands. Wetlands cover at least six percent of Earth and became a conservation focus because of their services. Coastal wetlands are estimated to save a median of US$447 billion in damages and 4,620 lives each year from storms. Wetlands also hold around 700 billion tons of carbon, mainly in peat soils, and take up about 96 million tons more a year. Protection need not cost local people their living. Studies show wetlands can be conserved while improving local livelihoods, as with sustainably farmed dambos, seasonally wet valley grasslands, in Malawi and Zambia.
 
   <!-- nature-eco-448 -->
 
@@ -8634,7 +8634,7 @@ Forests, wetlands, grasslands and peatlands are not interchangeable patches of g
 
 - **Mangroves as a living sea wall**
 
-  Wave energy may fall by 75 per cent as a wave passes through 200 meters of mangroves. Mangrove swamps act as a natural barrier that protects coasts from erosion, tsunamis and the storm-driven rise in sea level called Storm surge: when the sea walks inland. Their huge root systems absorb wave energy. They also slow incoming tides, so sediment settles out, and the mangroves build up the very land they grow on. When waves are strong, shorelines covered by mangroves erode less, or much more slowly, than bare ones. Studies show mangroves give coastal communities measurable economic protection against tropical storms. Keeping mangroves healthy is cheaper than building concrete walls along the shore, which can increase erosion in front of the wall and on neighbouring land. This protection is why mangroves are often targeted by conservation programmes, including national plans to protect wildlife (Biodiversity action plan). Clearing them carries a hidden risk too. The sediments beneath trap heavy metals, and removing the trees can release that contamination into seawater.
+  Wave energy may fall by 75 per cent as a wave passes through 200 meters of mangroves. Mangrove swamps act as a natural barrier that protects coasts from erosion, tsunamis and the storm-driven rise in sea level called Storm surge: when the sea walks inland. Their huge root systems absorb wave energy. They also slow incoming tides, so sediment settles out, and the mangroves build up the very land they grow on. When waves are strong, shorelines covered by mangroves erode less, or much more slowly, than bare ones. Studies show mangroves give coastal communities measurable economic protection against tropical storms. Keeping mangroves healthy is cheaper than building concrete walls along the shore, which can increase erosion in front of the wall and on neighbouring land. This protection is why mangroves are often targeted by conservation programmes, including national plans to protect wildlife (Biodiversity action plans: a country's to-do list for nature). Clearing them carries a hidden risk too. The sediments beneath trap heavy metals, and removing the trees can release that contamination into seawater.
 
   <!-- nature-es-082 -->
 
@@ -8724,7 +8724,7 @@ Forests, wetlands, grasslands and peatlands are not interchangeable patches of g
 
 - **Peatland restoration: blocking the ditches**
 
-  Peatlands cover 400 million hectares, 3% of Earth's land surface, and many have been drained for peat cutting, farmland and timber. Drainage damaged their habitats, water flow, nutrient flows and carbon balance. Peatland restoration usually blocks drainage channels to rewet the peat and lets native vegetation recover. Rewetting cuts carbon release in the short term, and new plant growth eventually restarts peat formation. The payoff is large. Drained peatlands release large amounts of greenhouse gases, while an intact one stores carbon and purifies water, filtering and holding metals and other toxins for long periods. The IPCC, the UN's climate science panel, weighed in with its Sixth Assessment Report. It says conserving and restoring wetlands and peatlands has large economic potential to cut emissions, with benefits for adaptation and biodiversity. The Convention on Biological Diversity names peatlands as key ecosystems to protect, and wetlands are also covered by the 1971 Ramsar Convention. The Global Peatlands Initiative, formed in 2016, works to keep peatland carbon in the ground.
+  Peatlands cover 400 million hectares, 3% of Earth's land surface, and many have been drained for peat cutting, farmland and timber. Drainage damaged their habitats, water flow, nutrient flows and carbon balance. Peatland restoration usually blocks drainage channels to rewet the peat and lets native vegetation recover. Rewetting cuts carbon release in the short term, and new plant growth eventually restarts peat formation. The payoff is large. Drained peatlands release large amounts of greenhouse gases, while an intact one stores carbon and purifies water, filtering and holding metals and other toxins for long periods. The IPCC, the UN's climate science panel, weighed in with its Sixth Assessment Report. It says conserving and restoring wetlands and peatlands has large economic potential to cut emissions, with benefits for adaptation and biodiversity. The The Convention on Biological Diversity names peatlands as key ecosystems to protect, and wetlands are also covered by the 1971 The Ramsar Convention: saving the world's wetlands. The Global Peatlands Initiative, formed in 2016, works to keep peatland carbon in the ground.
 
   <!-- nature-nbs-127 -->
 
@@ -8946,7 +8946,7 @@ Forests, wetlands, grasslands and peatlands are not interchangeable patches of g
 
 - **What seagrass meadows do for coasts**
 
-  Near small Indonesian islands without sewage treatment, harmful bacteria such as Enterococcus were 50 percent lower where seagrass was present. Seagrass meadows give coastal areas cleaner water, oxygen, food and shelter. They improve water quality by locking up heavy metals and other toxins, removing excess nutrients and lowering acidity. They release large amounts of oxygen into the water, and their roots carry oxygen into the sediment for the animals living there. Turtles, parrotfish, surgeonfish and sea urchins eat the grass, while small invertebrates feed on films on the leaves. People once gathered seagrass to fertilize sandy soils and to stuff mattresses. Conserving the meadows supports 16 of the 17 UN Sustainable Development Goals.
+  Near small Indonesian islands without sewage treatment, harmful bacteria such as Enterococcus were 50 percent lower where seagrass was present. Seagrass meadows give coastal areas cleaner water, oxygen, food and shelter. They improve water quality by locking up heavy metals and other toxins, removing excess nutrients and lowering acidity. They release large amounts of oxygen into the water, and their roots carry oxygen into the sediment for the animals living there. Turtles, parrotfish, surgeonfish and sea urchins eat the grass, while small invertebrates feed on films on the leaves. People once gathered seagrass to fertilize sandy soils and to stuff mattresses. Conserving the meadows supports 16 of the 17 UN The Sustainable Development Goals: 17 goals for 2030.
 
   <!-- nature-eco-487 -->
 
@@ -9180,7 +9180,7 @@ Forests, wetlands, grasslands and peatlands are not interchangeable patches of g
 
 - **Bogs drying, draining and warming**
 
-  Many Arctic and sub-Arctic bogs are warming at 0.6 °C per decade, twice the global average, and releasing large amounts of greenhouse gases. Bogs take thousands of years to form and are very hard to recover, yet drying, drainage and warming are degrading them. Northern European sphagnum bogs were often cleared and drained for farming. European peatlands have dried quickly in recent centuries from drainage, peat cutting and burning. These changes have caused severe declines in peatland biodiversity across Northern Europe. Many agencies now treat bogs as priority habitats, including the UK's national plan for wildlife (Biodiversity action plan).
+  Many Arctic and sub-Arctic bogs are warming at 0.6 °C per decade, twice the global average, and releasing large amounts of greenhouse gases. Bogs take thousands of years to form and are very hard to recover, yet drying, drainage and warming are degrading them. Northern European sphagnum bogs were often cleared and drained for farming. European peatlands have dried quickly in recent centuries from drainage, peat cutting and burning. These changes have caused severe declines in peatland biodiversity across Northern Europe. Many agencies now treat bogs as priority habitats, including the UK's national plan for wildlife (Biodiversity action plans: a country's to-do list for nature).
 
   <!-- nature-eco-512 -->
 
@@ -9434,7 +9434,7 @@ The notion that ecosystems serve people began as ancient observation and became 
 
 - **The Millennium Ecosystem Assessment: a health check for the planet**
 
-  More than 1300 authors from 95 countries spent four years on one question: what are people doing to the ecosystems that keep them alive? Their answer was the Millennium Ecosystem Assessment, a United Nations-backed study called for in 2000, launched in 2001 and published in 2005. An earlier book, Nature's Services: the 1997 book that framed a field, was described as a catalyst for it. The assessment popularized the term ecosystem services, meaning the benefits people gain from ecosystems. It sorted them into four groups: provisioning, regulating, cultural and supporting, with supporting services underpinning the other three. Its findings were sobering. In the past 50 years humans had changed ecosystems faster and more widely than ever before, mainly to meet demand for food, fresh water, timber, fiber and fuel. Those changes made many lives better and fueled development. They also degraded many ecosystem services and made some groups poorer. The bottom line was blunt. Human actions were depleting Earth's natural capital so much that ecosystems' ability to sustain future generations could no longer be taken for granted. The next UN report on the state of biodiversity did not come until the global assessment of IPBES in 2019.
+  More than 1300 authors from 95 countries spent four years on one question: what are people doing to the ecosystems that keep them alive? Their answer was the Millennium Ecosystem Assessment, a United Nations-backed study called for in 2000, launched in 2001 and published in 2005. An earlier book, Nature's Services: the 1997 book that framed a field, was described as a catalyst for it. The assessment popularized the term ecosystem services, meaning the benefits people gain from ecosystems. It sorted them into four groups: provisioning, regulating, cultural and supporting, with supporting services underpinning the other three. Its findings were sobering. In the past 50 years humans had changed ecosystems faster and more widely than ever before, mainly to meet demand for food, fresh water, timber, fiber and fuel. Those changes made many lives better and fueled development. They also degraded many ecosystem services and made some groups poorer. The bottom line was blunt. Human actions were depleting Earth's natural capital so much that ecosystems' ability to sustain future generations could no longer be taken for granted. The next UN report on the state of biodiversity did not come until the global assessment of IPBES: the scientists' voice for biodiversity in 2019.
 
   <!-- nature-es-001 -->
 
@@ -9452,7 +9452,7 @@ The notion that ecosystems serve people began as ancient observation and became 
 
 - **Protecting services when a price tag is not enough**
 
-  Ecosystem services are estimated to add $125 trillion to $140 trillion to the economy each year. Even so, protecting them is hard. Decision-makers must balance present and future needs, often with valid but incomplete information. Existing laws are often seen as inadequate because they rest on human-health standards, which do not match what healthy ecosystems require. As of 2005, local to regional collective management was considered suitable for services such as pollinating crops and for resources like water. Since the 1990s, markets have grown that sell credits for protecting services, such as guarding carbon sinks or restoring service providers. These schemes need clearly defined rights to land, often missing in developing countries, and they raise worries about inconsistent compensation. Because protecting services often overlaps with protecting biodiversity, some suggest merging the two goals. Law lags behind. As of 2018 the concept was not properly built into international and regional law, though Sustainable Development Goal 15 targets conserving, restoring and sustainably using ecosystem services. The stakes keep rising: climate-driven shifts in biomes may cut services by 9% globally by 2100.
+  Ecosystem services are estimated to add $125 trillion to $140 trillion to the economy each year. Even so, protecting them is hard. Decision-makers must balance present and future needs, often with valid but incomplete information. Existing laws are often seen as inadequate because they rest on human-health standards, which do not match what healthy ecosystems require. As of 2005, local to regional collective management was considered suitable for services such as pollinating crops and for resources like water. Since the 1990s, markets have grown that sell credits for protecting services, such as guarding carbon sinks or restoring service providers. These schemes need clearly defined rights to land, often missing in developing countries, and they raise worries about inconsistent compensation. Because protecting services often overlaps with protecting biodiversity, some suggest merging the two goals. Law lags behind. As of 2018 the concept was not properly built into international and regional law, though SDG 15: life on land targets conserving, restoring and sustainably using ecosystem services. The stakes keep rising: climate-driven shifts in biomes may cut services by 9% globally by 2100.
 
   <!-- nature-es-009 -->
 
@@ -9464,7 +9464,7 @@ The notion that ecosystems serve people began as ancient observation and became 
 
 - **Nature's contributions to people: a broader name, or a new label?**
 
-  In 2017 the 5th plenary meeting of IPBES made a decision about words. Its assessments would now speak of nature's contributions to people: all the ways nature benefits people. The phrase replaced 'nature's benefits to people' from then on. The aim was to bring diverse worldviews, including indigenous and local knowledge, into biodiversity assessments. Not everyone was persuaded. Some scientists objected that the term was confusing and not significantly different from ecosystem services. Whether it adds anything beyond that older concept remains a genuine disagreement.
+  In 2017 the 5th plenary meeting of IPBES: the scientists' voice for biodiversity made a decision about words. Its assessments would now speak of nature's contributions to people: all the ways nature benefits people. The phrase replaced 'nature's benefits to people' from then on. The aim was to bring diverse worldviews, including indigenous and local knowledge, into biodiversity assessments. Not everyone was persuaded. Some scientists objected that the term was confusing and not significantly different from ecosystem services. Whether it adds anything beyond that older concept remains a genuine disagreement.
 
   <!-- nature-es-123 -->
 
@@ -9660,7 +9660,7 @@ Nature's recycling system moves matter from dead things back into new life, and 
 
 - **Bioprospecting contracts: who shares the profits**
 
-  Since 1993, when the Convention on Biological Diversity came into force, countries have had the right to control who may use their genetic material. That created a new branch of law. Bioprospecting contracts set the rules for sharing benefits between researchers and the countries whose genetic material they use. They rest on prior informed consent and compensation, and they can bring royalties to poorer countries. Biodiverse countries expect a share rather than letting the discoverer keep the gains privately. Still, not every holder of traditional knowledge is consulted or paid.
+  Since 1993, when the The Convention on Biological Diversity came into force, countries have had the right to control who may use their genetic material. That created a new branch of law. Bioprospecting contracts set the rules for sharing benefits between researchers and the countries whose genetic material they use. They rest on prior informed consent and compensation, and they can bring royalties to poorer countries. Biodiverse countries expect a share rather than letting the discoverer keep the gains privately. Still, not every holder of traditional knowledge is consulted or paid.
 
   <!-- nature-es-106 -->
 
@@ -9778,7 +9778,7 @@ Not every gift from nature can be eaten, drunk or burned. This chapter turns to 
 
 - **Ecotourism: travel that is supposed to help**
 
-  In South Africa, 70% of the money the National parks: protected land and its critics system makes comes straight from tourism. That is the promise of ecotourism: travel to natural places that aims to do little harm and to support conservation and environmental education. Some definitions add that it must pay its way for the host community or make conservation financially possible. It counts as one part of sustainable tourism. It differs from plain nature tourism by trying to build tourists' appreciation of habitats and local culture. The possible benefits are real: visitor spending and jobs, money to run and expand Protected area, and a reason to protect or restore natural land. So are the drawbacks. Visitors can still damage the places they protect, raise local rents and property values, and bring health risks to people and wildlife. Most ecotourism businesses belong to foreign investors, so most profits leave the area instead of returning to the local economy or conservation. The trips usually depend on flying, which adds to climate change, and few operators leave a net-positive mark on the environment. Weak regulation lets underwater hotels and helicopter tours call themselves ecotourism, a form of Greenwashing: selling a green image instead of green action. Environmentalists, interest groups and governments define the term differently, and where tourism stops being ecotourism is still disputed.
+  In South Africa, 70% of the money the National parks: protected land and its critics system makes comes straight from tourism. That is the promise of ecotourism: travel to natural places that aims to do little harm and to support conservation and environmental education. Some definitions add that it must pay its way for the host community or make conservation financially possible. It counts as one part of sustainable tourism. It differs from plain nature tourism by trying to build tourists' appreciation of habitats and local culture. The possible benefits are real: visitor spending and jobs, money to run and expand Protected areas: fencing off nature's value, and a reason to protect or restore natural land. So are the drawbacks. Visitors can still damage the places they protect, raise local rents and property values, and bring health risks to people and wildlife. Most ecotourism businesses belong to foreign investors, so most profits leave the area instead of returning to the local economy or conservation. The trips usually depend on flying, which adds to climate change, and few operators leave a net-positive mark on the environment. Weak regulation lets underwater hotels and helicopter tours call themselves ecotourism, a form of Greenwashing: selling a green image instead of green action. Environmentalists, interest groups and governments define the term differently, and where tourism stops being ecotourism is still disputed.
 
   <!-- nature-es-012 -->
 
@@ -9856,7 +9856,7 @@ Not every gift from nature can be eaten, drunk or burned. This chapter turns to 
 
 - **Sacred natural sites: groves the gods protected**
 
-  India alone has at least 13,720 reported sacred groves, with an estimated 100,000 to 150,000 in total. A sacred natural site is a natural feature or area of land or water with special spiritual meaning for a people or community. Such sites include mountains, forests, groves, trees, rivers, lakes, caves, islands and springs, from a single tree to whole mountain ranges. They exist on every continent except Antarctica. Many have been protected for long periods with little use, and some are notably rich in biodiversity. Beyond sheltering species, they can supply water, medicines and other ecosystem services and support pilgrimage and tourism. They should not be romanticized, though: some have been governed by taboos that exclude women or marginalized groups. The Convention on Biological Diversity recognized an urgent need to protect them and in 2004 issued the Akwe Kon guidelines for assessing developments that may affect them.
+  India alone has at least 13,720 reported sacred groves, with an estimated 100,000 to 150,000 in total. A sacred natural site is a natural feature or area of land or water with special spiritual meaning for a people or community. Such sites include mountains, forests, groves, trees, rivers, lakes, caves, islands and springs, from a single tree to whole mountain ranges. They exist on every continent except Antarctica. Many have been protected for long periods with little use, and some are notably rich in biodiversity. Beyond sheltering species, they can supply water, medicines and other ecosystem services and support pilgrimage and tourism. They should not be romanticized, though: some have been governed by taboos that exclude women or marginalized groups. The The Convention on Biological Diversity recognized an urgent need to protect them and in 2004 issued the Akwe Kon guidelines for assessing developments that may affect them.
 
   <!-- nature-es-035 -->
 
@@ -10150,7 +10150,7 @@ Some things are very useful and trade for little; others are nearly useless and 
 
 - **Environmental philosophy: do rivers have rights?**
 
-  Do rivers have rights? Questions like that belong to environmental philosophy, the branch of philosophy concerned with the natural environment and humans' place in it. It emerged as a branch of its own in the 1970s. Its early figures include Seyyed Hossein Nasr, Richard Routley, Arne Næss and J. Baird Callicott. A major debate of the 1970s and 80s asked whether nature has value in itself or only as a means to human ends. On one side stood nature-centered views, including Deep ecology: worth beyond usefulness; on the other stood human-centered ones. Another debate asks whether wilderness really exists, or whether, as William Cronon suggested, it is a cultural construct with colonial overtones. Today the field also takes up environmental activism, Environmental justice, climate change and the using up of finite resources.
+  Do rivers have rights? Questions like that belong to environmental philosophy, the branch of philosophy concerned with the natural environment and humans' place in it. It emerged as a branch of its own in the 1970s. Its early figures include Seyyed Hossein Nasr, Richard Routley, Arne Næss and J. Baird Callicott. A major debate of the 1970s and 80s asked whether nature has value in itself or only as a means to human ends. On one side stood nature-centered views, including Deep ecology: worth beyond usefulness; on the other stood human-centered ones. Another debate asks whether wilderness really exists, or whether, as William Cronon suggested, it is a cultural construct with colonial overtones. Today the field also takes up environmental activism, Environmental justice: who lives next to the dump?, climate change and the using up of finite resources.
 
   <!-- nature-val-065 -->
 
@@ -10198,7 +10198,7 @@ Some things are very useful and trade for little; others are nearly useless and 
 
 - **Three ways societies value nature**
 
-  Timber, clean water and air, carbon storage, pollination: these are the familiar ways nature serves people. They are only one of three kinds of value that societies see in the non-human world. The first kind is extrinsic, or instrumental, value: nature's usefulness to people, often called ecosystem services. Many extrinsic values can be given an economic value. That lets them enter impact assessments, Cost–benefit analysis: weighing gains against losses studies and national accounts. The second kind is intrinsic value. It holds that living things and natural systems have worth regardless of any use to humans. The third kind covers meaningful relationships, responsibilities and cultural ties between people and nature. These are Relational values: ties between people and nature. IPBES, building on the Millennium Ecosystem Assessment, promotes this broad account of nature's values to guide policy and restoration.
+  Timber, clean water and air, carbon storage, pollination: these are the familiar ways nature serves people. They are only one of three kinds of value that societies see in the non-human world. The first kind is extrinsic, or instrumental, value: nature's usefulness to people, often called ecosystem services. Many extrinsic values can be given an economic value. That lets them enter impact assessments, Cost–benefit analysis: weighing gains against losses studies and national accounts. The second kind is intrinsic value. It holds that living things and natural systems have worth regardless of any use to humans. The third kind covers meaningful relationships, responsibilities and cultural ties between people and nature. These are Relational values: ties between people and nature. IPBES: the scientists' voice for biodiversity, building on the Millennium Ecosystem Assessment, promotes this broad account of nature's values to guide policy and restoration.
 
   <!-- nature-val-066 -->
 
@@ -10616,7 +10616,7 @@ This chapter takes on the arguments over whether nature should have a price at a
 
 - **Commodification of nature: making nature tradable**
 
-  Emissions trading: a cap on pollution, a market in permits turns emissions into units that are bought and sold within an overall cap. It is a prominent example of commodification: turning goods and services that were not produced for sale into things that can be exchanged. The commodification of nature is a critical field of research on how natural things and processes become tradable, and what follows. It draws on Marx, Polanyi, O'Connor and Harvey, and is rooted in Marxist geography and Political ecology. It is openly normative and critical. At root, it argues, commodification makes qualitatively different things equivalent and exchangeable through money. Its origins lie in the rise of capitalism and the fencing off of shared land in England. Scholars use it to challenge Market environmentalism: selling nature to save it, which sees putting nature into markets as a fix for environmental damage. Climate justice movements explicitly oppose the commodification of nature and its resources. Market environmentalists see pricing nature as a solution to degradation, while critics argue commodification itself drives degradation and inequality.
+  Emissions trading: a cap on pollution, a market in permits turns emissions into units that are bought and sold within an overall cap. It is a prominent example of commodification: turning goods and services that were not produced for sale into things that can be exchanged. The commodification of nature is a critical field of research on how natural things and processes become tradable, and what follows. It draws on Marx, Polanyi, O'Connor and Harvey, and is rooted in Marxist geography and Political ecology: power and the environment. It is openly normative and critical. At root, it argues, commodification makes qualitatively different things equivalent and exchangeable through money. Its origins lie in the rise of capitalism and the fencing off of shared land in England. Scholars use it to challenge Market environmentalism: selling nature to save it, which sees putting nature into markets as a fix for environmental damage. Climate justice: those who suffer most did least movements explicitly oppose the commodification of nature and its resources. Market environmentalists see pricing nature as a solution to degradation, while critics argue commodification itself drives degradation and inequality.
 
   <!-- nature-val-029 -->
 
@@ -10646,7 +10646,7 @@ This chapter takes on the arguments over whether nature should have a price at a
 
 - **Market environmentalism: selling nature to save it**
 
-  Sell nature to save it: that is the logic of market environmentalism, prominent in Environmental policy: governments taking on environmental problems since the late 1980s. It holds that environmental damage comes from nature lacking prices, and that markets can fix it. It spread with neoliberalism, which gives priority to the free market and money-based relations. The approach needs economic valuation, either indirectly through cost–benefit analysis and contingent valuation, or by direct commodification. It assumes private actors act rationally on the best information, and that markets pool knowledge better than regulation. It appeals to policymakers and private interests because it seeks solutions within the capitalist system. Critics say it reduces species survival to a price that rises with rarity and extinction risk. They see ecotourism and bioprospecting as forcing nature to earn its right to survive in the global market. Selling nature to save it is also called Green grabbing. Supporters treat markets as a conservation tool, while critics argue the approach subordinates nature to profit.
+  Sell nature to save it: that is the logic of market environmentalism, prominent in Environmental policy: governments taking on environmental problems since the late 1980s. It holds that environmental damage comes from nature lacking prices, and that markets can fix it. It spread with neoliberalism, which gives priority to the free market and money-based relations. The approach needs economic valuation, either indirectly through cost–benefit analysis and contingent valuation, or by direct commodification. It assumes private actors act rationally on the best information, and that markets pool knowledge better than regulation. It appeals to policymakers and private interests because it seeks solutions within the capitalist system. Critics say it reduces species survival to a price that rises with rarity and extinction risk. They see ecotourism and bioprospecting as forcing nature to earn its right to survive in the global market. Selling nature to save it is also called Green grabbing: land seized in nature's name. Supporters treat markets as a conservation tool, while critics argue the approach subordinates nature to profit.
 
   <!-- nature-res-117 -->
 
@@ -11018,7 +11018,7 @@ A firm's books record what it owns or controls, its {{ref:nature-acct-105}}, yet
 
 - **WAVES: helping countries put nature in their accounts**
 
-  In October 2010 the World Bank launched a global partnership called Wealth Accounting and Valuation of Ecosystem Services, or WAVES. The launch came at the COP-10 meeting of the UN biodiversity treaty (Convention on Biological Diversity) in Japan. It helps countries put the value of natural capital into their national accounts. Its projects in countries such as Botswana, Colombia and Madagascar built the capacity to apply SEEA. The World Bank now runs a successor, the Global Program for Sustainability.
+  In October 2010 the World Bank launched a global partnership called Wealth Accounting and Valuation of Ecosystem Services, or WAVES. The launch came at the COP-10 meeting of the UN biodiversity treaty (The Convention on Biological Diversity) in Japan. It helps countries put the value of natural capital into their national accounts. Its projects in countries such as Botswana, Colombia and Madagascar built the capacity to apply SEEA. The World Bank now runs a successor, the Global Program for Sustainability.
 
   <!-- nature-acct-097 -->
 
@@ -11148,7 +11148,7 @@ Every product has a history of energy, water and emissions behind it, and every 
 
 - **Living Planet Index: tracking the world's wildlife**
 
-  Between 1970 and 2020, monitored wildlife populations fell by an average of 73%, the 2024 report showed. In Latin America and the Caribbean declines averaged 94%, with land-use change and habitat loss a key driver (Land use change: when forest becomes farm or city). The Living Planet Index tracks global biodiversity through the population trends of vertebrates, animals with backbones, around the world. WWF developed it in 1997 with UNEP-WCMC; since 2006 the Zoological Society of London has managed it with WWF. As of 2022 it drew on 31,821 populations of 5,230 species of mammals, birds, reptiles, amphibians and fish. It is limited to vertebrates because long-term data for invertebrates and plants are scarcer. It was used to measure progress toward a global biodiversity target for 2010 and the later Aichi Biodiversity Targets. Media often wrongly report it as showing that 69% of all animals or species were lost since 1970. Researchers also dispute whether it reflects true changes in abundance. Some studies find it sensitive to outliers and biased by its mathematics, possibly overstating declines; others contest those re-analyses.
+  Between 1970 and 2020, monitored wildlife populations fell by an average of 73%, the 2024 report showed. In Latin America and the Caribbean declines averaged 94%, with land-use change and habitat loss a key driver (Land use change: when forest becomes farm or city). The Living Planet Index tracks global biodiversity through the population trends of vertebrates, animals with backbones, around the world. WWF developed it in 1997 with UNEP-WCMC; since 2006 the Zoological Society of London has managed it with WWF. As of 2022 it drew on 31,821 populations of 5,230 species of mammals, birds, reptiles, amphibians and fish. It is limited to vertebrates because long-term data for invertebrates and plants are scarcer. It was used to measure progress toward a global biodiversity target for 2010 and the later The Aichi Targets: twenty goals that were missed. Media often wrongly report it as showing that 69% of all animals or species were lost since 1970. Researchers also dispute whether it reflects true changes in abundance. Some studies find it sensitive to outliers and biased by its mathematics, possibly overstating declines; others contest those re-analyses.
 
   <!-- nature-acct-055 -->
 
@@ -11160,7 +11160,7 @@ Every product has a history of energy, water and emissions behind it, and every 
 
 - **Red List Index: watching extinction risk change over time**
 
-  Australia's national bird index fell from 0.927 in 1990 to 0.896 in 2020, picking up both the 2019–2020 wildfires and conservation successes. That is a Red List Index, or RLI. Built from the IUCN Red List, it tracks how the extinction risk of whole groups of species changes over time. Repeating assessments at regular intervals lets changes in threat status reveal trends. The index can be broken down by taxonomic group, biogeographic realm, habitat type or main threat. Assessing every fungus, insect and plant is impractical, so a sampled version, the SRLI, assesses a representative sample. The shark and ray index has fallen 19% since the 1970s because of too much fishing. The RLI is the single indicator for target 15.5 of the Sustainable Development Goals, and was used for the 2010 global biodiversity target.
+  Australia's national bird index fell from 0.927 in 1990 to 0.896 in 2020, picking up both the 2019–2020 wildfires and conservation successes. That is a Red List Index, or RLI. Built from the IUCN Red List, it tracks how the extinction risk of whole groups of species changes over time. Repeating assessments at regular intervals lets changes in threat status reveal trends. The index can be broken down by taxonomic group, biogeographic realm, habitat type or main threat. Assessing every fungus, insect and plant is impractical, so a sampled version, the SRLI, assesses a representative sample. The shark and ray index has fallen 19% since the 1970s because of too much fishing. The RLI is the single indicator for target 15.5 of the The Sustainable Development Goals: 17 goals for 2030, and was used for the 2010 global biodiversity target.
 
   <!-- nature-acct-086 -->
 
@@ -11370,7 +11370,7 @@ Every product has a history of energy, water and emissions behind it, and every 
 
 - **Material footprint: the ore behind the phone**
 
-  A phone's metal starts as ore in a mine, and refining it burns coal. A material footprint counts both: all the raw materials needed along the supply chain to make the goods a country consumes, also called raw material equivalents. It is a consumption-based indicator, comparable to carbon and water footprints, and is calculated with environmentally extended input–output analysis. The total sums biomass, fossil fuels, metal ores and non-metal ores. It is an indicator for goals 8 and 12 of the Sustainable Development Goals. Material footprint per person rose 39 per cent from 2000 to 2017, reaching 12.18 tonnes.
+  A phone's metal starts as ore in a mine, and refining it burns coal. A material footprint counts both: all the raw materials needed along the supply chain to make the goods a country consumes, also called raw material equivalents. It is a consumption-based indicator, comparable to carbon and water footprints, and is calculated with environmentally extended input–output analysis. The total sums biomass, fossil fuels, metal ores and non-metal ores. It is an indicator for goals 8 and 12 of the The Sustainable Development Goals: 17 goals for 2030. Material footprint per person rose 39 per cent from 2000 to 2017, reaching 12.18 tonnes.
 
   <!-- nature-acct-072 -->
 
@@ -12314,7 +12314,7 @@ Since 2005, every ton of carbon dioxide released by a covered European power pla
 
 - **Carbon trading and the neighbors of polluters**
 
-  Carbon trading can move money from richer, higher-emitting countries to poorer, lower-emitting ones for climate action. That is its promise as a tool of Climate justice. The problem starts at the factory gate. Schemes cap only greenhouse gases, so a factory can buy permits instead of cutting its local air pollution. Low-income and minority communities living near emitters therefore keep facing an exposure gap. The sources record both sides: trading can advance that cause, yet it has also been linked to environmental injustice near emitters.
+  Carbon trading can move money from richer, higher-emitting countries to poorer, lower-emitting ones for climate action. That is its promise as a tool of Climate justice: those who suffer most did least. The problem starts at the factory gate. Schemes cap only greenhouse gases, so a factory can buy permits instead of cutting its local air pollution. Low-income and minority communities living near emitters therefore keep facing an exposure gap. The sources record both sides: trading can advance that cause, yet it has also been linked to environmental injustice near emitters.
 
   <!-- nature-pol-250 -->
 
@@ -12624,13 +12624,13 @@ Governments do not only tax polluters and cap their emissions; they also pay, in
 
 - **Rio Principle 15: the precautionary approach**
 
-  Principle 15 of the 1992 Rio Declaration says that where serious or irreversible damage threatens, lack of full scientific certainty is no reason to postpone cost-effective preventive measures. This precautionary approach is a softer form of the The precautionary principle: caution before proof, one that takes local capabilities and costs into account. Even the label is contested. The United States has opposed the word 'principle' in negotiations, because a principle of law is a source of law. The line between the two terms is described as diffuse and sometimes controversial. The Cartagena Protocol on Biosafety builds on the approach of Principle 15.
+  Principle 15 of the 1992 Rio Declaration says that where serious or irreversible damage threatens, lack of full scientific certainty is no reason to postpone cost-effective preventive measures. This precautionary approach is a softer form of the The precautionary principle: caution before proof, one that takes local capabilities and costs into account. Even the label is contested. The United States has opposed the word 'principle' in negotiations, because a principle of law is a source of law. The line between the two terms is described as diffuse and sometimes controversial. The The Cartagena Protocol: rules for moving modified organisms builds on the approach of Principle 15.
 
   <!-- nature-pol-203 -->
 
 - **Strong and weak precaution**
 
-  Buying a smoke detector or wearing a seatbelt is weak precaution, and people practice it daily. Weak versions of the precautionary principle only permit action without full proof. They allow benefits to be weighed against costs, and economic factors may justify delay. Strong precaution requires regulation whenever harm is possible, even if the evidence is speculative and the economic costs are high. This 'no-regrets' stance ignores cost. The 1982 UN World Charter for Nature gave the strong version its first international recognition.
+  Buying a smoke detector or wearing a seatbelt is weak precaution, and people practice it daily. Weak versions of the precautionary principle only permit action without full proof. They allow benefits to be weighed against costs, and economic factors may justify delay. Strong precaution requires regulation whenever harm is possible, even if the evidence is speculative and the economic costs are high. This 'no-regrets' stance ignores cost. The 1982 UN The World Charter for Nature, 1982 gave the strong version its first international recognition.
 
   <!-- nature-pol-202 -->
 
@@ -12996,7 +12996,7 @@ In 2025 world trade was worth 80,733 billion US dollars, and it carries environm
 
 - **Green exceptions in trade rules**
 
-  Trade rules do not forbid every limit on imports. WTO agreements let governments, in specific circumstances, restrict trade to protect the environment and public, animal and plant health. The condition is that members must not use such measures to disguise protectionist policies. The Agreement on the Application of Sanitary and Phytosanitary Measures governs quarantine rules for pests and diseases. The line is tested in disputes. In 2006 the WTO ruled that the European Union broke trade law between 1999 and 2003 with its moratorium on approving imports of genetically modified organisms. The Cartagena Protocol on Biosafety states that trade and environment agreements should be mutually supportive. In 2024 US Democrats argued that a carbon border adjustment is a fee permissible under WTO rules, not a carbon tax.
+  Trade rules do not forbid every limit on imports. WTO agreements let governments, in specific circumstances, restrict trade to protect the environment and public, animal and plant health. The condition is that members must not use such measures to disguise protectionist policies. The Agreement on the Application of Sanitary and Phytosanitary Measures governs quarantine rules for pests and diseases. The line is tested in disputes. In 2006 the WTO ruled that the European Union broke trade law between 1999 and 2003 with its moratorium on approving imports of genetically modified organisms. The The Cartagena Protocol: rules for moving modified organisms states that trade and environment agreements should be mutually supportive. In 2024 US Democrats argued that a carbon border adjustment is a fee permissible under WTO rules, not a carbon tax.
 
   <!-- nature-pol-008 -->
 
@@ -13408,7 +13408,7 @@ A carbon credit is a tradable certificate claiming that greenhouse gases were ke
 
 - **The Gold Standard: credits with development benefits**
 
-  In 2003 WWF and partners created the Gold Standard to make sure carbon credits are real, verifiable and help development that lasts. It is a certification label for emission-reduction projects in the Clean Development Mechanism and the voluntary carbon market. Projects must prove additionality, avoid double certification and contribute to at least three of the UN's Sustainable Development Goals. Eligible types are renewable energy, energy efficiency, planting and replanting forests, and agriculture. The The Integrity Council and the quality of carbon credits lists it as eligible for its quality label.
+  In 2003 WWF and partners created the Gold Standard to make sure carbon credits are real, verifiable and help development that lasts. It is a certification label for emission-reduction projects in the Clean Development Mechanism and the voluntary carbon market. Projects must prove additionality, avoid double certification and contribute to at least three of the UN's The Sustainable Development Goals: 17 goals for 2030. Eligible types are renewable energy, energy efficiency, planting and replanting forests, and agriculture. The The Integrity Council and the quality of carbon credits lists it as eligible for its quality label.
 
   <!-- nature-mkt-091 -->
 
@@ -13550,7 +13550,7 @@ Protecting land, water and wildlife costs money, and conservation finance is the
 
 - **Blended finance: using public money to draw in private investors**
 
-  A $2 million layer of public or charitable money that draws in $10 million of private money multiplies it 5x. That is blended finance: using development and charitable funds strategically to attract private investment into developing countries. Public and private funds are mixed in one deal, each party using its expertise. The concessional money takes the first losses, which reassures private investors that their principal is protected. Each concessional dollar often attracts 3x to 10x as much private money. The target is the UN's Sustainable Development Goals, which in 2017 estimates needed an extra $2.5 trillion a year. The OECD's aid committee adopted blended finance principles in 2018. It found 180 funds and facilities with $60.2 billion invested across 111 developing countries. In conservation, the approach helps overcome risk, small deal sizes and transaction costs that deter private investors. Critics, including scholars and NGOs, say it shifts profits to private, mostly Northern, investors while leaving risks with Southern governments. They add that its complexity weakens transparency.
+  A $2 million layer of public or charitable money that draws in $10 million of private money multiplies it 5x. That is blended finance: using development and charitable funds strategically to attract private investment into developing countries. Public and private funds are mixed in one deal, each party using its expertise. The concessional money takes the first losses, which reassures private investors that their principal is protected. Each concessional dollar often attracts 3x to 10x as much private money. The target is the UN's The Sustainable Development Goals: 17 goals for 2030, which in 2017 estimates needed an extra $2.5 trillion a year. The OECD's aid committee adopted blended finance principles in 2018. It found 180 funds and facilities with $60.2 billion invested across 111 developing countries. In conservation, the approach helps overcome risk, small deal sizes and transaction costs that deter private investors. Critics, including scholars and NGOs, say it shifts profits to private, mostly Northern, investors while leaving risks with Southern governments. They add that its complexity weakens transparency.
 
   <!-- nature-mkt-049 -->
 
@@ -13754,7 +13754,7 @@ Protecting land, water and wildlife costs money, and conservation finance is the
 
 - **Sustainable finance: seeking returns while weighing the planet**
 
-  Green and other sustainability-labeled bonds together reached $170 billion in 2018 and $653.5 billion in 2025. They are among the products of sustainable finance: the practices, standards, rules and products that seek financial returns while weighing environmental, social and governance concerns. The term is often used as a synonym for ESG investing. The wider field also includes Impact investing: profit with a measurable purpose, Social finance: private money for public needs and ethical investing. Its reach is global. The The Paris Agreement: every country pledges asks countries to make finance flows consistent with low greenhouse gas emissions and development that can withstand climate change. Sustainable finance is also described as a cornerstone for reaching the UN's Sustainable Development Goals, adopted in 2015 with 17 goals and 169 targets. Public money stays important. Much of the money for climate goals, though, is expected to come from the private sector. Over two decades, sustainable finance grew from a niche topic into a recognized field of research and university teaching.
+  Green and other sustainability-labeled bonds together reached $170 billion in 2018 and $653.5 billion in 2025. They are among the products of sustainable finance: the practices, standards, rules and products that seek financial returns while weighing environmental, social and governance concerns. The term is often used as a synonym for ESG investing. The wider field also includes Impact investing: profit with a measurable purpose, Social finance: private money for public needs and ethical investing. Its reach is global. The The Paris Agreement: every country pledges asks countries to make finance flows consistent with low greenhouse gas emissions and development that can withstand climate change. Sustainable finance is also described as a cornerstone for reaching the UN's The Sustainable Development Goals: 17 goals for 2030, adopted in 2015 with 17 goals and 169 targets. Public money stays important. Much of the money for climate goals, though, is expected to come from the private sector. Over two decades, sustainable finance grew from a niche topic into a recognized field of research and university teaching.
 
   <!-- nature-mkt-018 -->
 
@@ -13976,7 +13976,7 @@ Some resources come back and some do not. Forests, fish and other living things 
 
 - **Natural resources: where every product begins**
 
-  Trace any man-made product back far enough and it ends in nature. A natural resource is something drawn from nature and used with few changes: sunlight, air, water, land, minerals, plants and wildlife. Economists count these among the basic inputs to production, the Factors of production: land, labor and capital. Some resources are restored by natural processes. Many extractive industries, though, rely on materials that can be dug or pumped out only once. That difference shapes much of what follows. Who gets these resources sits at the center of many economic and political confrontations, and the fights sharpen as scarcity increases. Extraction is also a major source of human rights violations and environmental damage. In 1982 the United Nations' World Charter for Nature recognized the need to protect nature from further depletion by human activity. A whole field now asks how managing land, water, soil, plants and animals affects quality of life, for people alive today and for generations to come.
+  Trace any man-made product back far enough and it ends in nature. A natural resource is something drawn from nature and used with few changes: sunlight, air, water, land, minerals, plants and wildlife. Economists count these among the basic inputs to production, the Factors of production: land, labor and capital. Some resources are restored by natural processes. Many extractive industries, though, rely on materials that can be dug or pumped out only once. That difference shapes much of what follows. Who gets these resources sits at the center of many economic and political confrontations, and the fights sharpen as scarcity increases. Extraction is also a major source of human rights violations and environmental damage. In 1982 the United Nations' The World Charter for Nature, 1982 recognized the need to protect nature from further depletion by human activity. A whole field now asks how managing land, water, soil, plants and animals affects quality of life, for people alive today and for generations to come.
 
   <!-- nature-res-248 -->
 
@@ -14084,7 +14084,7 @@ Some resources come back and some do not. Forests, fish and other living things 
 
 - **Marine resources: what the oceans offer**
 
-  The oceans hold far more than fish. Marine resources are the physical and biological things in the oceans that are useful to people. They include marine biodiversity, ecosystem services from coasts and coral reefs, minerals from deep sea mining, and marine renewable energy. The term spread through the UN goal set in 2015 to conserve and sustainably use the oceans, seas and marine resources, Sustainable Development Goal 14. Sustainable fisheries contributed around 0.1% of global GDP per year.
+  The oceans hold far more than fish. Marine resources are the physical and biological things in the oceans that are useful to people. They include marine biodiversity, ecosystem services from coasts and coral reefs, minerals from deep sea mining, and marine renewable energy. The term spread through the UN goal set in 2015 to conserve and sustainably use the oceans, seas and marine resources, SDG 14: life below water. Sustainable fisheries contributed around 0.1% of global GDP per year.
 
   <!-- nature-res-237 -->
 
@@ -14310,7 +14310,7 @@ About 500 million people depend on fisheries for their living, and fish feed bil
 
 - **Fish stocks: the unit fisheries manage**
 
-  Fish tend to form partly separate populations that breed mostly among themselves, so fishing one may leave its neighbor untouched. A fish stock is such a subpopulation of one species. Its growth, arrival of young fish and deaths, including from fishing, are treated as the main drivers of its numbers. Fisheries scientists define it as a semi-discrete group of fish with attributes of interest to managers. The trend is worrying. The FAO found that stocks fished within biologically sustainable levels fell from 90% in 1974 to 62.3% in 2021. A 2020 FAO report classed 34% of the world's marine fish stocks as overfished. Stocks of different species can move together: as Atlantic blue marlin catches fell in the 1960s, sailfish catches rose. Their health is tracked under Sustainable Development Goal 14 by indicator 14.4.1.
+  Fish tend to form partly separate populations that breed mostly among themselves, so fishing one may leave its neighbor untouched. A fish stock is such a subpopulation of one species. Its growth, arrival of young fish and deaths, including from fishing, are treated as the main drivers of its numbers. Fisheries scientists define it as a semi-discrete group of fish with attributes of interest to managers. The trend is worrying. The FAO found that stocks fished within biologically sustainable levels fell from 90% in 1974 to 62.3% in 2021. A 2020 FAO report classed 34% of the world's marine fish stocks as overfished. Stocks of different species can move together: as Atlantic blue marlin catches fell in the 1960s, sailfish catches rose. Their health is tracked under SDG 14: life below water by indicator 14.4.1.
 
   <!-- nature-res-049 -->
 
@@ -14442,13 +14442,13 @@ About 500 million people depend on fisheries for their living, and fish feed bil
 
 - **Fisheries subsidies: paying fleets to fish**
 
-  Governments spend an estimated US$15–35 billion a year on fisheries subsidies. A fisheries subsidy gives fishers or fish consumers an advantage by topping up their income or lowering their costs. Forms include direct payments, price support, tax breaks, low-interest loans and preferential treatment. Some subsidies support conservation, but others threaten stocks by encouraging too many boats and too much fishing. They are estimated to leave the industry earning US$ 50 billion less per year than it could. In 2022 the WTO ordered an end to subsidies for illegal fishing, fishing in international waters and fishing of overfished stocks. Target 14.6 of Sustainable Development Goal 14 aims to prohibit subsidies that drive overcapacity and overfishing.
+  Governments spend an estimated US$15–35 billion a year on fisheries subsidies. A fisheries subsidy gives fishers or fish consumers an advantage by topping up their income or lowering their costs. Forms include direct payments, price support, tax breaks, low-interest loans and preferential treatment. Some subsidies support conservation, but others threaten stocks by encouraging too many boats and too much fishing. They are estimated to leave the industry earning US$ 50 billion less per year than it could. In 2022 the WTO ordered an end to subsidies for illegal fishing, fishing in international waters and fishing of overfished stocks. Target 14.6 of SDG 14: life below water aims to prohibit subsidies that drive overcapacity and overfishing.
 
   <!-- nature-res-052 -->
 
 - **Plant genetic resources: the raw material of every crop**
 
-  Only about 120 crop species provide around 90% of the world's food needs. Plant genetic resources are the variety within plants, built up by human and natural selection over millennia, that can be used for food and agriculture now or later. Farmers first drew on them more than 10,000 years ago, selecting wild plants to develop crops. They are conserved on farms, in gene banks, or in the wild. They were once treated as belonging to all humanity, until the Convention on Biological Diversity gave countries sovereignty over them. Whether genetic data separated from the organism fall under the rules on access and benefit-sharing is disputed.
+  Only about 120 crop species provide around 90% of the world's food needs. Plant genetic resources are the variety within plants, built up by human and natural selection over millennia, that can be used for food and agriculture now or later. Farmers first drew on them more than 10,000 years ago, selecting wild plants to develop crops. They are conserved on farms, in gene banks, or in the wild. They were once treated as belonging to all humanity, until the The Convention on Biological Diversity gave countries sovereignty over them. Whether genetic data separated from the organism fall under the rules on access and benefit-sharing is disputed.
 
   <!-- nature-res-081 -->
 
@@ -14670,7 +14670,7 @@ About 500 million people depend on fisheries for their living, and fish feed bil
 
 - **The Marine Trophic Index: a thermometer for the sea**
 
-  In 2000 the Convention on Biological Diversity chose the Marine Trophic Index as one of eight indicators of ecosystem health, and asked members to report changes. The index is the average trophic level of a fishery's catch. A falling index generally means large predators are being depleted and more small forage fish are caught. A steady or rising one signals a stable or improving fishery. One quirk: lucrative crustacean and mollusc fisheries sit at low trophic levels, so they pull the index down.
+  In 2000 the The Convention on Biological Diversity chose the Marine Trophic Index as one of eight indicators of ecosystem health, and asked members to report changes. The index is the average trophic level of a fishery's catch. A falling index generally means large predators are being depleted and more small forage fish are caught. A steady or rising one signals a stable or improving fishery. One quirk: lucrative crustacean and mollusc fisheries sit at low trophic levels, so they pull the index down.
 
   <!-- nature-res-055 -->
 
@@ -14824,7 +14824,7 @@ Every piece of land does a job, whether it grows timber, raises crops or catches
 
 - **Running a forest: the business side of forestry**
 
-  In 2025, 1.20 billion hectares of forest, 29% of all the world's forest, was managed mainly for wood and non-wood products. About 616 million hectares more was designated for multiple use. Forest management is the branch of forestry that runs these places. It handles the administrative, legal, economic and social side, along with technical work such as Silviculture: growing trees as a crop and forest protection. A forest can be managed for timber, recreation, water, wildlife, wood products or Genetic resources, aiming at conservation, use or a mix of both. The tools include extracting timber, planting and replanting, building roads and paths, and preventing fire. Intensity ranges from leaving a forest alone to intensive timber-growing regimes, chosen to meet economic or ecological goals. What forests give back is broad: water, slower climate change, shelter for pollinators, timber, fuelwood, food, medicine and rural livelihoods. Some forests are still run only for firewood, paper fiber and timber. Managing for several uses at once is becoming more common as environmental awareness grows. Modern scientific forestry arose from the 1750s in France and German-speaking countries. It rested on central management by professional foresters and on sustainable yield.
+  In 2025, 1.20 billion hectares of forest, 29% of all the world's forest, was managed mainly for wood and non-wood products. About 616 million hectares more was designated for multiple use. Forest management is the branch of forestry that runs these places. It handles the administrative, legal, economic and social side, along with technical work such as Silviculture: growing trees as a crop and forest protection. A forest can be managed for timber, recreation, water, wildlife, wood products or Genetic resources: who owns life's code?, aiming at conservation, use or a mix of both. The tools include extracting timber, planting and replanting, building roads and paths, and preventing fire. Intensity ranges from leaving a forest alone to intensive timber-growing regimes, chosen to meet economic or ecological goals. What forests give back is broad: water, slower climate change, shelter for pollinators, timber, fuelwood, food, medicine and rural livelihoods. Some forests are still run only for firewood, paper fiber and timber. Managing for several uses at once is becoming more common as environmental awareness grows. Modern scientific forestry arose from the 1750s in France and German-speaking countries. It rested on central management by professional foresters and on sustainable yield.
 
   <!-- nature-res-092 -->
 
@@ -14890,7 +14890,7 @@ Every piece of land does a job, whether it grows timber, raises crops or catches
 
 - **Food loss and waste: a third of the harvest, thrown away**
 
-  About one-third of the world's food is thrown away, wasting all the resources used to produce it. Food loss and waste is food lost or discarded without being eaten. It happens at every stage of the food system, but most food waste arises after consumers buy food. Global food waste comes to 931 million tonnes a year, about 121 kg per person. Households produce 61 percent, food service 26 percent and retail 13 percent. The climate bill is 3.3 billion tons of CO2-equivalent emissions a year, and landfilled food is a major methane source. Definitions vary. The FAO calls it a decrease in the quantity or quality of food along the supply chain, and bodies draw the line between loss and waste differently. Cutting waste brings social gains, such as productivity, food security and lower environmental impact, that individual actors may not take into account. The UN's Sustainable Development Goals aim to halve per capita retail and consumer food waste by 2030.
+  About one-third of the world's food is thrown away, wasting all the resources used to produce it. Food loss and waste is food lost or discarded without being eaten. It happens at every stage of the food system, but most food waste arises after consumers buy food. Global food waste comes to 931 million tonnes a year, about 121 kg per person. Households produce 61 percent, food service 26 percent and retail 13 percent. The climate bill is 3.3 billion tons of CO2-equivalent emissions a year, and landfilled food is a major methane source. Definitions vary. The FAO calls it a decrease in the quantity or quality of food along the supply chain, and bodies draw the line between loss and waste differently. Cutting waste brings social gains, such as productivity, food security and lower environmental impact, that individual actors may not take into account. The UN's The Sustainable Development Goals: 17 goals for 2030 aim to halve per capita retail and consumer food waste by 2030.
 
   <!-- nature-res-123 -->
 
@@ -14944,7 +14944,7 @@ Every piece of land does a job, whether it grows timber, raises crops or catches
 
 - **Illegal logging: timber taken outside the law**
 
-  More than half of global logging may be illegal. Illegal logging is harvesting, transporting, buying or selling timber in breach of the law. It includes cutting without permission, in Protected areas, of protected species or beyond agreed limits, often through corruption. In trade, fraudulent customs declarations, tax avoidance and fake certification are called wood laundering. Demand for raw materials, Land grabbing: the global rush for farmland and demand for cattle pasture drive it. Losses from public land alone exceed US$10 billion a year. Estimates need caution, though: governments tend to underestimate the problem while NGOs publish alarming figures. The damage spreads. Illegal logging drives deforestation and biodiversity loss, fosters corruption and tax evasion, and cuts producer countries' revenue. The EU's 2003 FLEGT Action Plan fights it mainly through Voluntary Partnership Agreements with timber-producing countries.
+  More than half of global logging may be illegal. Illegal logging is harvesting, transporting, buying or selling timber in breach of the law. It includes cutting without permission, in Protected areas: fencing off nature's values, of protected species or beyond agreed limits, often through corruption. In trade, fraudulent customs declarations, tax avoidance and fake certification are called wood laundering. Demand for raw materials, Land grabbing: the global rush for farmland and demand for cattle pasture drive it. Losses from public land alone exceed US$10 billion a year. Estimates need caution, though: governments tend to underestimate the problem while NGOs publish alarming figures. The damage spreads. Illegal logging drives deforestation and biodiversity loss, fosters corruption and tax evasion, and cuts producer countries' revenue. The EU's 2003 FLEGT Action Plan fights it mainly through Voluntary Partnership Agreements with timber-producing countries.
 
   <!-- nature-res-139 -->
 
@@ -15448,7 +15448,7 @@ Can a restored ecosystem do a job usually given to engineers? Nature-based solut
 
 - **Ecosystem-based adaptation: living defenses against a changing climate**
 
-  When a storm surge rolls toward a coast, a healthy reef, mangrove stand or marsh can take much of the blow. Using such living defenses on purpose is called ecosystem-based adaptation, or EbA. It uses biodiversity and ecosystem services to help people adapt to the harmful effects of climate change. In practice, EbA conserves, sustainably manages and restores forests, wetlands, mangroves and coral reefs. The goal is less harm from storms, shifting rainfall and temperature extremes. The examples are concrete. Restored reefs, mangroves and marshes soften storm surges. Trees grown among crops, a practice called Agroforestry: trees and crops on the same ground, help farms ride out drought. Well-managed forests hold slopes in place and prevent flash floods. EbA can work alone or alongside engineered works such as dykes, hybrid measures such as artificial reefs, and systems that warn people early. Supporters claim a long list of side benefits: better health, food and water security, fewer disasters, stored carbon and conserved biodiversity. The IUCN coined the term in 2008, and the Convention on Biological Diversity defined it officially in 2009. It sits inside the wider family of nature-based solutions. Many countries cite EbA in their climate pledges under the The Paris Agreement: every country pledges. It is increasingly seen as a way to tackle hardship and the climate crisis together in developing countries, where people depend on natural resources.
+  When a storm surge rolls toward a coast, a healthy reef, mangrove stand or marsh can take much of the blow. Using such living defenses on purpose is called ecosystem-based adaptation, or EbA. It uses biodiversity and ecosystem services to help people adapt to the harmful effects of climate change. In practice, EbA conserves, sustainably manages and restores forests, wetlands, mangroves and coral reefs. The goal is less harm from storms, shifting rainfall and temperature extremes. The examples are concrete. Restored reefs, mangroves and marshes soften storm surges. Trees grown among crops, a practice called Agroforestry: trees and crops on the same ground, help farms ride out drought. Well-managed forests hold slopes in place and prevent flash floods. EbA can work alone or alongside engineered works such as dykes, hybrid measures such as artificial reefs, and systems that warn people early. Supporters claim a long list of side benefits: better health, food and water security, fewer disasters, stored carbon and conserved biodiversity. The IUCN coined the term in 2008, and the The Convention on Biological Diversity defined it officially in 2009. It sits inside the wider family of nature-based solutions. Many countries cite EbA in their climate pledges under the The Paris Agreement: every country pledges. It is increasingly seen as a way to tackle hardship and the climate crisis together in developing countries, where people depend on natural resources.
 
   <!-- nature-nbs-218 -->
 
@@ -15602,7 +15602,7 @@ When rain falls on a city, it has to go somewhere. Stormwater, the water from ra
 
 - **Green gentrification: when a new park prices people out**
 
-  A new park can be bad news for the people who live beside it. Green gentrification is the displacement of lower-income residents when new green spaces raise property values and attract wealthier people. Green amenities include parks, gardens, planted roofs and green, energy-efficient building materials. They make neighborhoods more liveable, and that is the problem. Rising housing costs can push low-income households out. Long-time residents can also be displaced culturally and politically. Greening can push out homeless people and others with poor access to housing, undoing some of its own benefits. The pattern shows up in real cities. Greening projects in Chicago have raised social justice concerns such as gentrification. A study of Los Angeles housing prices linked green infrastructure to 'green climate gentrification'. The benefits are often unevenly shared, usually serving wealthier, whiter neighborhoods. Sieg and colleagues coined the term in 2004, blending older ideas of gentrification and Environmental justice. The exact definition of this kind of gentrification is still debated. Planners are urged to combine environmental goals with social equity and to work with community residents.
+  A new park can be bad news for the people who live beside it. Green gentrification is the displacement of lower-income residents when new green spaces raise property values and attract wealthier people. Green amenities include parks, gardens, planted roofs and green, energy-efficient building materials. They make neighborhoods more liveable, and that is the problem. Rising housing costs can push low-income households out. Long-time residents can also be displaced culturally and politically. Greening can push out homeless people and others with poor access to housing, undoing some of its own benefits. The pattern shows up in real cities. Greening projects in Chicago have raised social justice concerns such as gentrification. A study of Los Angeles housing prices linked green infrastructure to 'green climate gentrification'. The benefits are often unevenly shared, usually serving wealthier, whiter neighborhoods. Sieg and colleagues coined the term in 2004, blending older ideas of gentrification and Environmental justice: who lives next to the dump?. The exact definition of this kind of gentrification is still debated. Planners are urged to combine environmental goals with social equity and to work with community residents.
 
   <!-- nature-nbs-168 -->
 
@@ -16286,7 +16286,7 @@ Since 2021 the United Nations has run a campaign to repair the world's degraded 
 
 - **Rewilding: stepping back so nature can run itself**
 
-  In a Guyana forest, going from 5 to 35 mammal species raised the carbon in trees and soil four to five times. Results like that fuel interest in rewilding, a kind of ecological restoration that aims to raise biodiversity and restore natural processes while reducing human influence. Its key move is to replace human management with natural processes. Unlike other restoration, it accepts new mixes of species and interactions, the kind described in Novel ecosystems: nature in mixes never seen before. It often brings back large mammals to rebuild food webs, so that ecosystems regulate themselves. A group called Earth First coined the term in 1990. In 1998 Michael Soulé and Reed Noss gave it a scientific basis built on 'cores, corridors and carnivores': large reserves (see Protected area), links between them, and large predators. Supporters promote it as a natural climate solution through carbon storage, flood management and lower wildfire risk. It is also controversial. Critics question its evidence and its effect on farming and livelihoods.
+  In a Guyana forest, going from 5 to 35 mammal species raised the carbon in trees and soil four to five times. Results like that fuel interest in rewilding, a kind of ecological restoration that aims to raise biodiversity and restore natural processes while reducing human influence. Its key move is to replace human management with natural processes. Unlike other restoration, it accepts new mixes of species and interactions, the kind described in Novel ecosystems: nature in mixes never seen before. It often brings back large mammals to rebuild food webs, so that ecosystems regulate themselves. A group called Earth First coined the term in 1990. In 1998 Michael Soulé and Reed Noss gave it a scientific basis built on 'cores, corridors and carnivores': large reserves (see Protected areas: fencing off nature's value), links between them, and large predators. Supporters promote it as a natural climate solution through carbon storage, flood management and lower wildfire risk. It is also controversial. Critics question its evidence and its effect on farming and livelihoods.
 
   <!-- nature-nbs-131 -->
 
@@ -16436,7 +16436,7 @@ Since 2021 the United Nations has run a campaign to repair the world's degraded 
 
 - **Traditional ecological knowledge: restoration's long history**
 
-  Restoration is not a modern invention. Indigenous peoples have built up knowledge by observing and managing their environment, and it shows restoration practiced for thousands of years. These peoples shaped vegetation to meet their needs and sometimes increased populations and biodiversity. California Indians, for example, used concentrated forest burning. Because such knowledge is tied to place, restorers must take care not to appropriate it. Projects involving them should be led by them.
+  Restoration is not a modern invention. Indigenous peoples: who they are, and who decides have built up knowledge by observing and managing their environment, and it shows restoration practiced for thousands of years. These peoples shaped vegetation to meet their needs and sometimes increased populations and biodiversity. California Indians, for example, used concentrated forest burning. Because such knowledge is tied to place, restorers must take care not to appropriate it. Projects involving them should be led by them.
 
   <!-- nature-nbs-120 -->
 
@@ -16656,7 +16656,7 @@ Food systems cause one third of human greenhouse gas emissions, so how land is f
 
 - **Landscape-scale conservation: managing the whole picture**
 
-  A river basin supplies water, timber, crops and habitat, and each use affects the others. Landscape-scale conservation manages the whole landscape to balance nature against farming, forestry and other uses of the same land. It is an alternative to protecting single sites. Its backers argue that Poverty, food security, climate change, water scarcity and biodiversity loss are linked and need coordinated action. Rather than serve one land use, it tries to meet many stakeholders' interests. The IUCN applied it in 27 landscapes in 23 countries. In 2015 UNEP described this landscape approach as managing whole ecosystems rather than single resources. A review found five barriers, including confusing terms, long delays before action and sectors working in silos.
+  A river basin supplies water, timber, crops and habitat, and each use affects the others. Landscape-scale conservation manages the whole landscape to balance nature against farming, forestry and other uses of the same land. It is an alternative to protecting single sites. Its backers argue that Poverty: lacking the basics, food security, climate change, water scarcity and biodiversity loss are linked and need coordinated action. Rather than serve one land use, it tries to meet many stakeholders' interests. The IUCN applied it in 27 landscapes in 23 countries. In 2015 UNEP described this landscape approach as managing whole ecosystems rather than single resources. A review found five barriers, including confusing terms, long delays before action and sectors working in silos.
 
   <!-- nature-nbs-233 -->
 
@@ -17996,7 +17996,7 @@ Limiting the greenhouse gases that cause climate change, often called decarboniz
 
 - **Who governs geoengineering?**
 
-  No single treaty governs geoengineering. The rules are mostly specific to each method. In 2010 the treaty described in Convention on Biological Diversity set a non-binding framework requiring scientific justification, environmental assessment and oversight. A 2013 amendment to the London Protocol created a binding framework for marine geoengineering, starting with ocean fertilization. It has not entered into force.
+  No single treaty governs geoengineering. The rules are mostly specific to each method. In 2010 the treaty described in The Convention on Biological Diversity set a non-binding framework requiring scientific justification, environmental assessment and oversight. A 2013 amendment to the London Protocol created a binding framework for marine geoengineering, starting with ocean fertilization. It has not entered into force.
 
   <!-- nature-clim-201 -->
 
@@ -18062,7 +18062,7 @@ Limiting the greenhouse gases that cause climate change, often called decarboniz
 
 - **Energy justice: who gains and who pays**
 
-  Cities often gain from energy systems while rural areas bear the burdens. Energy justice aims for communities to gain affordable, safe and sustainable energy and to take part in decisions about it. It seeks to share benefits and burdens fairly across social groups, regions and generations. Its three main tenets are distributive justice, recognition justice and fair process. Distributive justice concerns how revenues, infrastructure sites and costs are shared. Recognition justice asks who is ignored. Fair process, explored in Procedural justice, requires transparent decisions and meaningful consultation. Some scholars add restorative and cosmopolitan justice to capture international inequalities and harms from fossil fuels. The energy justice cycle follows the system from extraction through production, supply and consumption to decommissioning and waste. The stakes are real, because transitions may worsen energy insecurity for low-income households.
+  Cities often gain from energy systems while rural areas bear the burdens. Energy justice aims for communities to gain affordable, safe and sustainable energy and to take part in decisions about it. It seeks to share benefits and burdens fairly across social groups, regions and generations. Its three main tenets are distributive justice, recognition justice and fair process. Distributive justice concerns how revenues, infrastructure sites and costs are shared. Recognition justice asks who is ignored. Fair process, explored in Procedural justice: fair process, not just fair results, requires transparent decisions and meaningful consultation. Some scholars add restorative and cosmopolitan justice to capture international inequalities and harms from fossil fuels. The energy justice cycle follows the system from extraction through production, supply and consumption to decommissioning and waste. The stakes are real, because transitions may worsen energy insecurity for low-income households.
 
   <!-- nature-clim-172 -->
 
@@ -18222,7 +18222,7 @@ Cutting emissions limits how much the climate changes, but some change is alread
 
 - **Climate change vulnerability: who stands to be hurt most**
 
-  About 3.3 to 3.6 billion people were estimated in 2021 to live in highly vulnerable contexts. Climate change vulnerability is how strongly people or ecosystems are likely to be harmed by climate change; formally, their propensity to be adversely affected. It includes their capacity to cope and adapt, and it is one component of climate risk. The definition has shifted. Earlier IPCC reports made vulnerability a function of exposure, sensitivity and adaptive capacity; the Fifth report moved exposure out as a separate element of risk. People with low incomes, Indigenous peoples, women, children and the elderly tend to be more vulnerable. Developing countries were judged more vulnerable, partly because adaptation costs are high relative to their GDP, the total value of what an economy produces. Vulnerability can be reduced by adaptation, by tackling poverty, inequality and conflict, and by mitigation that makes impacts less severe.
+  About 3.3 to 3.6 billion people were estimated in 2021 to live in highly vulnerable contexts. Climate change vulnerability is how strongly people or ecosystems are likely to be harmed by climate change; formally, their propensity to be adversely affected. It includes their capacity to cope and adapt, and it is one component of climate risk. The definition has shifted. Earlier IPCC reports made vulnerability a function of exposure, sensitivity and adaptive capacity; the Fifth report moved exposure out as a separate element of risk. People with low incomes, Indigenous peoples: who they are, and who decides, women, children and the elderly tend to be more vulnerable. Developing countries were judged more vulnerable, partly because adaptation costs are high relative to their GDP, the total value of what an economy produces. Vulnerability can be reduced by adaptation, by tackling poverty, inequality and conflict, and by mitigation that makes impacts less severe.
 
   <!-- nature-clim-027 -->
 
@@ -18312,7 +18312,7 @@ Cutting emissions limits how much the climate changes, but some change is alread
 
 - **Climate resilient development: three goals pursued together**
 
-  Climate resilient development pursues adaptation, mitigation and Sustainable development: meeting needs now and later together, using their synergies and reducing trade-offs, as described in When adapting and cutting emissions help or hinder each other. It has become a new paradigm for development, especially in the water sector, though the paradigm itself is contested. Governments on every continent are adopting policies for climate-resilient economies, pushed by The Paris Agreement: every country pledges and Sustainable Development Goals.
+  Climate resilient development pursues adaptation, mitigation and Sustainable development: meeting needs now and later together, using their synergies and reducing trade-offs, as described in When adapting and cutting emissions help or hinder each other. It has become a new paradigm for development, especially in the water sector, though the paradigm itself is contested. Governments on every continent are adopting policies for climate-resilient economies, pushed by The Paris Agreement: every country pledges and The Sustainable Development Goals: 17 goals for 2030.
 
   <!-- nature-clim-015 -->
 
@@ -18330,7 +18330,7 @@ Cutting emissions limits how much the climate changes, but some change is alread
 
 - **Ecological anthropology: how cultures fit their environments**
 
-  Ecological anthropology is the branch of anthropology that studies how human cultures adapt to and shape their environments. It emerged in the 1960s from Julian Steward's cultural ecology. Roy Rappaport's work with the Maring of Papua New Guinea examined how ritual shaped the relationship between culture and nature. Critics said the field assumed static equilibrium and oversimplified systems, prompting a shift toward Political ecology. Its practical legacy endures. Long-term Traditional ecological knowledge can inform adaptation strategies and community monitoring.
+  Ecological anthropology is the branch of anthropology that studies how human cultures adapt to and shape their environments. It emerged in the 1960s from Julian Steward's cultural ecology. Roy Rappaport's work with the Maring of Papua New Guinea examined how ritual shaped the relationship between culture and nature. Critics said the field assumed static equilibrium and oversimplified systems, prompting a shift toward Political ecology: power and the environment. Its practical legacy endures. Long-term Traditional ecological knowledge can inform adaptation strategies and community monitoring.
 
   <!-- nature-clim-030 -->
 
@@ -18508,7 +18508,7 @@ No country can stop climate change alone, so the world has tried to do it by tre
 
 - **Climate debt: who owes whom for a warming planet**
 
-  At the 2009 Copenhagen conference, developing countries led by Bolivia demanded repayment of a debt. Not a loan, but climate debt: what developed countries are said to owe developing ones for the damage caused by their far larger share of climate-changing emissions. The idea is part of the broader concept of Ecological debt and was first put forward by NGOs in the 1990s. It has two main parts. Adaptation debt: paying for harm others caused is the help owed for adapting to climate change. Emissions debt: overusing the atmosphere is owed for excessive past emissions. Views split along familiar lines. Support comes mainly from developing countries and environmental NGOs, and criticism mostly from developed nations. Critics argue that emissions made before their harm was understood, or by earlier generations, should not create guilt or debts. Others say that even if the idea is ethically sound, its adversarial framing may undermine climate negotiations.
+  At the 2009 Copenhagen conference, developing countries led by Bolivia demanded repayment of a debt. Not a loan, but climate debt: what developed countries are said to owe developing ones for the damage caused by their far larger share of climate-changing emissions. The idea is part of the broader concept of Ecological debt: what the North owes the South and was first put forward by NGOs in the 1990s. It has two main parts. Adaptation debt: paying for harm others caused is the help owed for adapting to climate change. Emissions debt: overusing the atmosphere is owed for excessive past emissions. Views split along familiar lines. Support comes mainly from developing countries and environmental NGOs, and criticism mostly from developed nations. Critics argue that emissions made before their harm was understood, or by earlier generations, should not create guilt or debts. Others say that even if the idea is ethically sound, its adversarial framing may undermine climate negotiations.
 
   <!-- nature-clim-079 -->
 
@@ -18972,7 +18972,7 @@ This chapter builds a way of seeing the economy as a subsystem of nature. It sta
 
 - **Ecologically unequal exchange: trade that drains the South**
 
-  Half of all materials consumed by high-income countries are extracted from poorer countries, Dorninger and colleagues found, while the rich countries still run trade surpluses. Ecologically unequal exchange is the idea that world trade hides an unfair flow of materials, energy and environmental damage, not just labor, from poorer to richer countries. It builds on world-systems theory, which splits the world economy into a rich core and a poorer periphery. Southern countries serve as sources of raw materials, sinks for waste and places written off as a Sacrifice zone. A study of EU consumption from 1995 to 2019 found much of its environmental impact outsourced abroad, while more than 80% of the economic benefits stayed home. The logical result is an Ecological debt owed by North to South. Jason Hickel proposes Degrowth: shrinking production on purpose in the North to end it. Most cited studies support the theory, but Peter Somerville calls it confused and internally inconsistent.
+  Half of all materials consumed by high-income countries are extracted from poorer countries, Dorninger and colleagues found, while the rich countries still run trade surpluses. Ecologically unequal exchange is the idea that world trade hides an unfair flow of materials, energy and environmental damage, not just labor, from poorer to richer countries. It builds on world-systems theory, which splits the world economy into a rich core and a poorer periphery. Southern countries serve as sources of raw materials, sinks for waste and places written off as a Sacrifice zones. A study of EU consumption from 1995 to 2019 found much of its environmental impact outsourced abroad, while more than 80% of the economic benefits stayed home. The logical result is an Ecological debt: what the North owes the South owed by North to South. Jason Hickel proposes Degrowth: shrinking production on purpose in the North to end it. Most cited studies support the theory, but Peter Somerville calls it confused and internally inconsistent.
 
   <!-- nature-eecon-085 -->
 
@@ -19306,7 +19306,7 @@ Can a factory make up for a lost forest? That question divides weak sustainabili
 
 - **Sustainable development: meeting needs now and later**
 
-  The most widely used definition is a single sentence from the 1987 Brundtland Report, Our Common Future: defining sustainable development. Sustainable development meets the needs of the present without compromising the ability of future generations to meet their own. The report stressed two things: the essential needs of the world's poor, and the limits that technology and social organization place on the environment. The approach tries to balance economic development, environmental protection and social well-being. Its roots are older than the phrase. They lie in 17th- and 18th-century European ideas of sustainable forest management, such as von Carlowitz's sustained-yield forestry. The 1992 Rio 1992: the Earth Summit and its treaties in Rio began the Rio Process, which put sustainable development on the international agenda. In 2015 it became the foundational concept of the 17 Sustainable Development Goals adopted by all UN members. Scholars understand it in many ways, and critics attack it from several angles. What, exactly, is to be sustained? Some argue that no use of a Non-renewable resources: the stock that does not come back can be sustainable, since any extraction eventually exhausts a finite stock. The debate also assumes that societies manage economic, social and natural capital, which may not substitute for one another and whose use may be irreversible.
+  The most widely used definition is a single sentence from the 1987 Brundtland Report, Our Common Future: defining sustainable development. Sustainable development meets the needs of the present without compromising the ability of future generations to meet their own. The report stressed two things: the essential needs of the world's poor, and the limits that technology and social organization place on the environment. The approach tries to balance economic development, environmental protection and social well-being. Its roots are older than the phrase. They lie in 17th- and 18th-century European ideas of sustainable forest management, such as von Carlowitz's sustained-yield forestry. The 1992 Rio 1992: the Earth Summit and its treaties in Rio began the Rio Process, which put sustainable development on the international agenda. In 2015 it became the foundational concept of the 17 The Sustainable Development Goals: 17 goals for 2030 adopted by all UN members. Scholars understand it in many ways, and critics attack it from several angles. What, exactly, is to be sustained? Some argue that no use of a Non-renewable resources: the stock that does not come back can be sustainable, since any extraction eventually exhausts a finite stock. The debate also assumes that societies manage economic, social and natural capital, which may not substitute for one another and whose use may be irreversible.
 
   <!-- nature-eecon-209 -->
 
@@ -19318,7 +19318,7 @@ Can a factory make up for a lost forest? That question divides weak sustainabili
 
 - **Intergenerational equity: fairness to those not yet born**
 
-  Children born in 2020 may face up to seven times as many extreme weather events as people born decades earlier. Intergenerational equity is fairness between generations, including between people alive now and those to come. It applies to Sustainable development: meeting needs now and later and climate change, since depleting natural resources will likely burden the future. The two sustainability camps read it differently. A weak-sustainability view is satisfied if environmental losses are offset by greater economic gains, and some of its adherents discount future outcomes. A strong-sustainability view holds that no economic progress justifies leaving a degraded environment. The Haudenosaunee Confederacy weighed decisions by Seven generation sustainability. In 1974 James Tobin applied the idea to endowments: spending must not exceed the after-inflation return.
+  Children born in 2020 may face up to seven times as many extreme weather events as people born decades earlier. Intergenerational equity is fairness between generations, including between people alive now and those to come. It applies to Sustainable development: meeting needs now and later and climate change, since depleting natural resources will likely burden the future. The two sustainability camps read it differently. A weak-sustainability view is satisfied if environmental losses are offset by greater economic gains, and some of its adherents discount future outcomes. A strong-sustainability view holds that no economic progress justifies leaving a degraded environment. The Haudenosaunee Confederacy weighed decisions by Thinking seven generations ahead. In 1974 James Tobin applied the idea to endowments: spending must not exceed the after-inflation return.
 
   <!-- nature-eecon-224 -->
 
@@ -19500,7 +19500,7 @@ Can the economy keep growing on a planet with finite resources? A 1972 report, T
 
 - **Doughnut economics: a safe and just space for humanity**
 
-  Picture a doughnut. The hole in the middle holds people lacking life's essentials, such as healthcare and education. The outer crust marks ecological ceilings that must not be overshot. Between them lies a "safe and just space for humanity". Economist Kate Raworth and doughnut economics developed the image in a 2012 Oxfam paper and expanded it in her 2017 book Doughnut Economics. An economy counts as prosperous when it meets all twelve social foundations, drawn from the UN Sustainable Development Goals. It must do so without overshooting any of the nine ceilings from the Planetary boundaries: nine limits for a livable Earth. A 2018 study of 150 countries found none that met basic needs at a globally sustainable level of resource use. Raworth says low- and middle-income countries still need significant GDP growth. Critics say the model lacks empirical support, and Branko Milanović notes that bringing everyone to rich countries' median income would require world GDP to triple. Economists continue to dispute it.
+  Picture a doughnut. The hole in the middle holds people lacking life's essentials, such as healthcare and education. The outer crust marks ecological ceilings that must not be overshot. Between them lies a "safe and just space for humanity". Economist Kate Raworth and doughnut economics developed the image in a 2012 Oxfam paper and expanded it in her 2017 book Doughnut Economics. An economy counts as prosperous when it meets all twelve social foundations, drawn from the UN The Sustainable Development Goals: 17 goals for 2030. It must do so without overshooting any of the nine ceilings from the Planetary boundaries: nine limits for a livable Earth. A 2018 study of 150 countries found none that met basic needs at a globally sustainable level of resource use. Raworth says low- and middle-income countries still need significant GDP growth. Critics say the model lacks empirical support, and Branko Milanović notes that bringing everyone to rich countries' median income would require world GDP to triple. Economists continue to dispute it.
 
   <!-- nature-eecon-146 -->
 
@@ -19548,7 +19548,7 @@ Can the economy keep growing on a planet with finite resources? A 1972 report, T
 
 - **The Green New Deal: climate policy as jobs policy**
 
-  The Green New Deal borrows from Roosevelt's New Deal the idea that a crisis needs a huge public initiative. It calls for policy that tackles climate change while creating jobs, supporting growth and reducing inequality. On 22 October 2008, UNEP launched a Global Green New Deal in response to the Great Recession. In the UK, the Green New Deal Group and New Economics Foundation proposed one too. The 2019 US resolution by Alexandria Ocasio-Cortez and Ed Markey called for 100% renewable, zero-emission energy within 10 years. It also called for Environmental justice for communities of color, Indigenous peoples and low-income communities. The 2019 The European Green Deal and its discontents is less ambitious on timing, aiming for carbon neutrality in 2050. Many supporters doubt parts of it are feasible; one former US science adviser called the 2030 goal too optimistic.
+  The Green New Deal borrows from Roosevelt's New Deal the idea that a crisis needs a huge public initiative. It calls for policy that tackles climate change while creating jobs, supporting growth and reducing inequality. On 22 October 2008, UNEP launched a Global Green New Deal in response to the Great Recession. In the UK, the Green New Deal Group and New Economics Foundation proposed one too. The 2019 US resolution by Alexandria Ocasio-Cortez and Ed Markey called for 100% renewable, zero-emission energy within 10 years. It also called for Environmental justice: who lives next to the dump? for communities of color, Indigenous peoples: who they are, and who decides and low-income communities. The 2019 The European Green Deal and its discontents is less ambitious on timing, aiming for carbon neutrality in 2050. Many supporters doubt parts of it are feasible; one former US science adviser called the 2030 goal too optimistic.
 
   <!-- nature-eecon-177 -->
 
@@ -19764,7 +19764,7 @@ Can the economy keep growing on a planet with finite resources? A 1972 report, T
 
 - **Degrowth and the Global South**
 
-  Should poor countries degrow too? Many Southern countries still have unmet basic needs and may need some material growth, so applying degrowth there is debated. Yet many of degrowth's roots lie in the South, in traditions such as Buen Vivir in the Andes and Ubuntu in Southern Africa. Some frame Northern degrowth as decolonization: shrinking the North's footprint to leave room for the South, tied to Ecological debt. Critics warn it could destabilize export-dependent Southern economies. Scholars still disagree.
+  Should poor countries degrow too? Many Southern countries still have unmet basic needs and may need some material growth, so applying degrowth there is debated. Yet many of degrowth's roots lie in the South, in traditions such as Buen Vivir in the Andes and Ubuntu in Southern Africa. Some frame Northern degrowth as decolonization: shrinking the North's footprint to leave room for the South, tied to Ecological debt: what the North owes the South. Critics warn it could destabilize export-dependent Southern economies. Scholars still disagree.
 
   <!-- nature-eecon-171 -->
 
@@ -20298,7 +20298,7 @@ Nobody manages a river or a forest directly. What gets managed is people: how th
 
 - **Managing the coast as one system**
 
-  Coastal margins cover 8% of the world's surface but provide 25% of global resources. About 70% of people live within a day's walk of a coast. Integrated coastal zone management tries to manage this crowded strip sustainably, across geographic and political boundaries, weighing nature, society and the economy together. It was developed at the 1992 summit in Rio and set out in Chapter 17 of Agenda 21. It runs in five steps: assess the situation, plan, embed the plan in institutions, implement, and keep evaluating. There is no end state. Its main obstacles are institutional, not technical. Because the coast is treated as common property, top-down control is hard.
+  Coastal margins cover 8% of the world's surface but provide 25% of global resources. About 70% of people live within a day's walk of a coast. Integrated coastal zone management tries to manage this crowded strip sustainably, across geographic and political boundaries, weighing nature, society and the economy together. It was developed at the 1992 summit in Rio and set out in Chapter 17 of Agenda 21. It runs in five steps: assess the situation, plan, embed the plan in institutions, implement, and keep evaluating. Its main obstacles are institutional, not technical. Because the coast is treated as common property, top-down control is hard.
 
   <!-- nature-gov-123 -->
 
@@ -20310,7 +20310,7 @@ Nobody manages a river or a forest directly. What gets managed is people: how th
 
 - **Polycentric governance: many centers, no single boss**
 
-  Must every shared resource be run either by a central government or by private owners? Vincent Ostrom said no. Polycentric governance means rule by many overlapping, independent decision-making centers at different scales, instead of one central authority. Ostrom argued that such systems can improve efficiency, accountability and problem-solving. The idea suggested that self-organizing systems often beat top-down solutions. His wife and colleague, Elinor, added that key management decisions should be made as close as possible to the events and people involved. The approach has limits. A resource that cannot be monitored as a whole, such as space debris, is less likely to be well managed in a polycentric network. Critics also question whether it works where institutions are weak or corruption is high.
+  Must every shared resource be run either by a central government or by private owners? Vincent Ostrom said no. Polycentric governance means rule by many overlapping, independent decision-making centers at different scales, instead of one central authority. Ostrom argued that such systems can improve efficiency, accountability and problem-solving. The idea suggested that self-organizing systems often beat top-down solutions. His fellow Bloomington scholar, Elinor, added that key management decisions should be made as close as possible to the events and people involved. The approach has limits. A resource that cannot be monitored as a whole, such as space debris, is less likely to be well managed in a polycentric network. Critics also question whether it works where institutions are weak or corruption is high.
 
   <!-- nature-res-198 -->
 
@@ -20406,733 +20406,739 @@ Nobody manages a river or a forest directly. What gets managed is people: how th
 
 ### Biodiversity agreements and targets
 
-- **Sustainable Development Goals**
+In 2015 every member of the United Nations signed up to 17 shared goals, three of them about climate, oceans and land. Behind those goals stands a web of treaties: one to conserve the variety of life, one to fight desertification, one for the oceans, one for places of outstanding value to humanity. Many of them work by protecting places, limiting what people may take from them. Others decide who may use the genes of plants, animals and microbes, and who gets paid when they do. This chapter follows those agreements and targets, and asks how well they have worked.
 
-  {{TEXT:nature-gov-010}}
+- **The Sustainable Development Goals: 17 goals for 2030**
+
+  On 25 September 2015, the 193 countries of the UN General Assembly adopted a plan with a bold title: "Transforming our world: the 2030 Agenda for Sustainable Development." At its heart sit the Sustainable Development Goals, or SDGs. There are 17 goals with 169 measurable targets, and they tie together the environmental, social and economic sides of sustainable development. Each goal usually has eight to 12 targets, and each target has one to four indicators, about 1.5 on average. The goals are universal and time-bound, but they bind no one legally. Three focus on the environment: SDG 13 on climate, SDG 14 on oceans and SDG 15 on land. There is no single goal for the planet as a whole. The SDGs replaced the Millennium Development Goals, which ended in 2015. Critics note the new list is much longer than the eight goals it replaced. Progress is slow. A 2024 UN report found only 17% of targets on track. The 2025 report said 35% were on track or making moderate progress, while 18% were going backward. Rising inequality, climate change and biodiversity loss threaten the rest, and the COVID-19 pandemic slowed things further.
 
   <!-- nature-gov-010 -->
 
-- **Convention on Biological Diversity**
+- **The Convention on Biological Diversity**
 
-  {{TEXT:nature-gov-015}}
+  Of all the UN's member states, only the United States has not ratified it, citing sovereignty and economic interests. The Convention on Biological Diversity, informally the Biodiversity Convention, is a treaty for conserving the variety of life on Earth. It has three main goals. Conserve biodiversity. Use its parts sustainably. Share fairly the benefits that come from the genes of living things, a topic covered in Genetic resources: who owns life's code?. The idea took shape at a UNEP expert working group in November 1988. The treaty opened for signature at the 1992 summit in Rio de Janeiro on 5 June 1992 and entered into force on 29 December 1993. As of 2016 it had 196 parties. Its secretariat sits in Montreal under UNEP. Two extra agreements hang from it, one on biosafety and one on sharing benefits, described in The Cartagena Protocol: rules for moving modified organisms and The Nagoya Protocol: paying for the genes you take. It regulates access to genes and traditional knowledge, which requires the prior informed consent of the country providing them. Its Strategic Plan for Biodiversity 2011–2020 held a set of targets, described in The Aichi Targets: twenty goals that were missed, later followed by the post-2020 Global Biodiversity Framework.
 
   <!-- nature-gov-015 -->
 
-- **Protected area**
+- **Protected areas: fencing off nature's value**
 
-  {{TEXT:nature-gov-038}}
+  Over 2000 years ago, royal decrees in India set certain areas apart. Protecting places is old. A protected area is a place guarded for its natural or cultural value, where human use of resources is limited. The IUCN, the world conservation body, defines it more precisely. It is a clearly bounded space managed, by law or other means, to conserve nature and its services long term. Those services are a big part of the point. Protecting biodiversity also protects water, fuel, carbon storage and climate regulation. Under Article 8 of the Biodiversity Convention, parties agreed to build systems of protected areas. As of 2016, over 161,000 of them covered about 17 percent of the world's land, not counting Antarctica. At sea, 14,688 marine protected areas cover about 10.2% of coastal and marine areas and 4.12% of the global ocean. Protection has a cost for some people. New restrictions can displace local communities. That sours relations with conservationists and sometimes drives poaching.
 
   <!-- nature-gov-038 -->
 
-- **Genetic resources**
+- **Genetic resources: who owns life's code?**
 
-  {{TEXT:nature-gov-046}}
+  A seed bank is a library of genes. Germplasm, genetic material kept for breeding, preservation and research, is one example. Genetic resources are genetic material from plants, animals, microbes or other sources with actual or potential value. The Biodiversity Convention in 1992 named them one of the three levels of biodiversity. Earlier agreements treated them as the common heritage of humankind, open to all. Developing countries objected. Their resources were taken without payment and turned into products in industrialized nations. The convention changed the rule, giving each state sovereign rights over the genetic resources on its territory.
 
   <!-- nature-gov-046 -->
 
-- **United Nations Convention on the Law of the Sea**
+- **UNCLOS: the treaty that governs the oceans**
 
-  {{TEXT:nature-gov-052}}
+  Negotiations ran from 1973 to 1982 at the third UN Conference on the Law of the Sea. The result, the UN Convention on the Law of the Sea, or UNCLOS, sets the legal framework for all marine and maritime activities. It entered into force on 16 November 1994. It replaced the 17th-century idea of freedom of the seas, under which waters beyond a narrow coastal belt belonged to no nation. It sets zones measured from a coastal baseline, including exclusive economic zones reaching 200 nautical miles. Part XI created the International Seabed Authority to license seabed mining and share royalties. Part XII obliges all states to cooperate in protecting the marine environment. It has 172 parties, and the United States has signed but not ratified it. It had a gap: no framework for biodiversity beyond national waters. A 2023 treaty, described in The High Seas Treaty: governing ocean no one owns, was added to fill it.
 
   <!-- nature-gov-052 -->
 
-- **Sustainable Development Goal 14**
+- **SDG 14: life below water**
 
-  {{TEXT:nature-gov-027}}
+  Oceans cover over 70% of Earth's surface. Yet from 2013 to 2021, only 1.1% of national research budgets went to ocean science. Sustainable Development Goal 14, "Life below water," aims to conserve and sustainably use the oceans, seas and marine resources. Its ten targets cover pollution, ecosystem protection, acidification, sustainable fishing and conserving coastal areas. Target 14.5 aimed to protect at least 10 per cent of coastal and marine areas by 2020. Target 14.4 is measured by the share of fish stocks within biologically sustainable levels. The water itself is changing. Ocean pH now averages 8.1, about 30% more acidic than before industrialization. Sustainable fisheries made up roughly 0.1 per cent of global GDP in 2017. The World Economic Forum estimates that reaching the goal needs US$175 billion a year in ocean-focused finance.
 
   <!-- nature-gov-027 -->
 
-- **Sustainable Development Goal 13**
+- **SDG 13: climate action**
 
-  {{TEXT:nature-gov-041}}
+  Under the 2015 Paris Agreement, nations agreed to keep warming well under 2 °C. Their pledges would still lead to about 2.7 °C by 2100. Sustainable Development Goal 13, "Climate action," calls for urgent action to limit climate change and adapt to its impacts. Its five targets for 2030 include making societies more resilient to climate disasters and building climate measures into national policy. Target 13.a refers to developed countries' promise to mobilize $100 billion a year by 2020 for developing countries. One indicator simply counts the countries with national climate pledges and adaptation plans. COVID-19 cut 2020 emissions about 6% below projections, but the fall was only temporary. Critics say the goal overlooks climate migration as a way people adapt.
 
   <!-- nature-gov-041 -->
 
-- **IPBES**
+- **IPBES: the scientists' voice for biodiversity**
 
-  {{TEXT:nature-gov-020}}
+  In 2019, representatives of 132 member countries met in Paris and adopted the largest study yet of biodiversity and ecosystem services. It came from IPBES, an independent intergovernmental body that governments set up in 2012 to link biodiversity science to policy. A 2010 UN General Assembly resolution had asked UNEP to convene the meeting that created it. Its role resembles that of the IPCC for climate. Besides assessments, it also builds knowledge, skills and tools for policy-makers. Its members meet in plenaries every one to two years. A 2020 report found that preventing pandemics through conservation costs less than responding after outbreaks. In October 2022, IPBES and the IPCC shared the Gulbenkian Prize for Humanity. In January 2026 the United States announced it would withdraw.
 
   <!-- nature-gov-020 -->
 
-- **United Nations Convention to Combat Desertification**
+- **The UN treaty against desertification**
 
-  {{TEXT:nature-gov-055}}
+  Desertification, in the treaty's words, is land degradation in arid, semi-arid and dry sub-humid regions, caused by climate swings and human activity. The UN Convention to Combat Desertification tackles it, and eases drought, through long-term national programs backed by international cooperation. It was adopted in Paris on 17 June 1994 and has been in force since December 1996. It is the only convention to grow directly out of Agenda 21, and the only binding international framework on desertification. It has 197 parties. Its key tools are National Action Programmes, drawn up with local communities. Its 2018–2030 framework aims for land degradation neutrality, no net loss of healthy land, and stronger drought resilience. At its COP16 meeting in Riyadh in December 2024, countries pledged more than US$12 billion.
 
   <!-- nature-gov-055 -->
 
-- **Biodiversity action plan**
+- **Biodiversity action plans: a country's to-do list for nature**
 
-  {{TEXT:nature-gov-043}}
+  A national plan to protect biodiversity may cost up to 100 million pounds sterling, plus about ten percent of that every year to maintain. For poorer countries, that is a strain. A biodiversity action plan is a national or local program to protect and restore threatened species and habitats. The idea came from the 1992 Biodiversity Convention, which asked nations to build conservation strategies. A typical plan lists species or habitats, rates how threatened they are, sets targets, and lays out budgets, timelines and partners. Plans can center on species, habitats or farming. As of 2009, 191 countries had ratified the convention, but only some had full plans. Critics say many are paperwork, and almost all ignore fungi, invertebrates and micro-organisms. Some developing countries object that the plans put wildlife above food and industry.
 
   <!-- nature-gov-043 -->
 
-- **Sustainable Development Goal 15**
+- **SDG 15: life on land**
 
-  {{TEXT:nature-gov-030}}
+  Forests cover roughly 4 billion hectares, or 30.7 per cent of the world's land. About 93 percent are natural and 7 percent planted. Sustainable Development Goal 15, "Life on land," aims to protect, restore and sustainably use land ecosystems, manage forests, fight desertification and halt biodiversity loss. It has 12 targets for 2030, tracked by 14 indicators. They include ending deforestation, restoring degraded land, protecting habitats and sharing gene-based benefits fairly. Target 15.5 on threatened species is measured by the Red List Index. Target 15.9 asks countries to count nature's value in national planning and accounts. The trends point the wrong way. Deforestation is estimated to have risen by 12% from 2019 to 2020. As of 2023, low-income countries faced a funding gap of about $700 billion for protecting biodiversity.
 
   <!-- nature-gov-030 -->
 
-- **World Heritage Site**
+- **World Heritage Sites: places that belong to everyone**
 
-  {{TEXT:nature-gov-057}}
+  World Heritage Sites cover less than 1% of the planet. Yet nearly three-quarters of bird species and two-thirds of mammals have been recorded in them. A World Heritage Site is a landmark or area protected under a UNESCO treaty for its outstanding cultural, historical or natural value to humanity. UNESCO adopted the World Heritage Convention on 16 November 1972. It took effect on 17 December 1975 and had 196 states as of November 2024. A site must have "outstanding universal value" and meet at least one of ten criteria, such as holding key habitats for biodiversity. Listing brings recognition, legal protection, possible money from the World Heritage Fund and often more tourists. Threatened sites can go on a danger list, and only three have ever been removed from the main list. Critics point to a lobbying industry chasing tourism returns, and costly bids that disadvantage poorer countries.
 
   <!-- nature-gov-057 -->
 
-- **Ramsar Convention**
+- **The Ramsar Convention: saving the world's wetlands**
 
-  {{TEXT:nature-gov-051}}
+  Every 2 February is World Wetlands Day. It marks the signing of a treaty at Ramsar, Iran, in 1971, for the conservation and wise use of wetlands of international importance. The Ramsar Convention, also called the Convention on Wetlands, took effect on 21 December 1975. To join, a country had to name at least one wetland and guarantee its protection. In February 2025 its list held 2,531 Ramsar sites covering over 2.6 million square kilometres. On paper that is a large estate. At home, though, countries often put the treaty into practice half-heartedly and inadequately.
 
   <!-- nature-gov-051 -->
 
-- **Aichi Biodiversity Targets**
+- **The Aichi Targets: twenty goals that were missed**
 
-  {{TEXT:nature-gov-017}}
+  In October 2010, at a meeting in Nagoya, Japan, the parties to the Biodiversity Convention agreed 20 targets for the decade to 2020. These were the Aichi Biodiversity Targets, part of a strategic plan with five broad goals. Goal A went after the root causes of biodiversity loss by building nature into every part of government and society. Others aimed to cut direct pressures on nature, safeguard ecosystems, species and genetic diversity, and increase the benefits of ecosystem services. The convention later mapped how they overlapped with the 17 SDGs. Countries failed to meet them. The targets lacked clarity, were hard to measure, went unreported and had too little funding.
 
   <!-- nature-gov-017 -->
 
-- **Nagoya Protocol**
+- **The Nagoya Protocol: paying for the genes you take**
 
-  {{TEXT:nature-gov-036}}
+  Taking a plant's genes from another country without permission is now illegal under the Nagoya Protocol. This 2010 add-on to the Biodiversity Convention carries out the treaty's third goal: fair sharing of the benefits from genetic resources. It was adopted on 29 October 2010 in Nagoya, Japan, and entered into force on 12 October 2014. By August 2025 it had 142 parties. Access needs prior informed consent and mutually agreed terms. Benefits may be money, such as royalties, or something else, such as shared research results. Traditional knowledge about genetic resources is covered too, and cannot be used without the holding communities' permission. Users must track resources after they leave a country, through checkpoints from research to sale. One gap remains. Genes from the high seas fall outside it, because it covers only national territory.
 
   <!-- nature-gov-036 -->
 
-- **High Seas Treaty**
+- **The High Seas Treaty: governing ocean no one owns**
 
-  {{TEXT:nature-gov-049}}
+  About two-thirds of the ocean lies beyond any nation's control, and until recently it was largely unregulated. The High Seas Treaty is a binding agreement under the Law of the Sea convention to conserve and sustainably use marine life in those areas. Its text was adopted on 19 June 2023. Morocco's ratification on 19 September 2025 brought the count to 60, and the treaty took effect on 17 January 2026. It covers four elements: marine genetic resources, tools such as marine protected areas, environmental impact assessments, and building countries' capacity. Benefits from marine genes, used in cosmetics and medicines, must be shared, though fish and fishing are excluded. High-seas protected areas can be adopted by consensus or a three-quarter majority and then bind all parties. Negotiators had to bridge two old ideas: freedom of the seas and the common heritage of humankind.
 
   <!-- nature-gov-049 -->
 
-- **Other effective area-based conservation measures**
+- **Conservation outside the fence: OECMs**
 
-  {{TEXT:nature-gov-026}}
+  Some of the best-kept nature on Earth sits outside any official reserve. Other effective area-based conservation measures, or OECMs, are such sites: governed and managed so that they conserve biodiversity in place over the long term. Unlike protected areas, they need not be set aside for conservation, but they must deliver it. The term first appeared in Aichi Target 11 in 2010. That target sought to conserve 17% of land and inland waters and 10% of coastal and marine areas by 2020. The convention formalized the definition in 2018, building on Canadian guidelines and IUCN advice. OECMs count toward Target 3 of the Global Biodiversity Framework. As of June 2026, 7,488 sites cover 1.31% of Earth's surface, about 1.1% on land and 0.21% at sea. They allow small-scale uses such as fishing and low-impact agroforestry. Locally managed marine areas are one form. They aim to be fairer than protected areas, which have displaced people.
 
   <!-- nature-gov-026 -->
 
-- **Financing the SDGs**
+- **What the SDGs would cost**
 
-  {{TEXT:nature-gov-014}}
+  In 2014, UNCTAD estimated that reaching the Sustainable Development Goals would cost US$2.5 trillion a year. A 2020 estimate put developing countries' financing gap at the same US$2.5 trillion a year before COVID-19, rising to US$4.2 trillion in 2020. The 2015 Addis Ababa Action Agenda is one UN process for raising the money. Private investment is seen as essential, and blended finance, which mixes public and private money, is designed to help.
 
   <!-- nature-gov-014 -->
 
-- **SDG targets and indicators**
+- **Measuring the goals: targets and indicators**
 
-  {{TEXT:nature-gov-011}}
+  A goal means little unless someone can tell whether it is being met. For the SDGs, indicators are the measures decision-makers use to track each target. Outcome targets carry numbers, like 6.1. Targets about the means of getting there carry letters, like 6.a. For each indicator, an expert group tried to name a custodian agency to handle methods, data and reporting. A UN forum monitors the whole effort, and countries may file voluntary reviews of their progress. Critics worry about the sheer number of indicators and the cost of tracking them, estimated in the billions of dollars.
 
   <!-- nature-gov-011 -->
 
-- **SDGs weak on environmental sustainability**
+- **Are the SDGs too soft on the planet?**
 
-  {{TEXT:nature-gov-013}}
+  The SDGs treat economic growth as a foundation. Critics say that is the problem. In their view the goals never make protecting the Earth system an end in itself, and environmental limits, including the planet's safe boundaries, are underrepresented. Even within the environmental goals, most indicators measure social or economic results. Some studies argue that real planetary integrity and justice would require limits to growth. A 2022 review of over 3,000 articles found the SDGs had only limited power to transform politics. Many environmentalists want sustainable development redefined, against the goals' growth-centered design.
 
   <!-- nature-gov-013 -->
 
-- **Trade-offs among the SDGs**
+- **When the goals pull against each other**
 
-  {{TEXT:nature-gov-012}}
+  Can the world end hunger, grow economies and narrow income gaps while also protecting the environment? Critics doubt that all 17 SDGs can be reached together, because some work against others. They say the goals lean on doubtful claims that growth can be decoupled from resource use, instead of facing the tension head-on. Synergies exist too. The IPCC sees strong links between climate action and the goals on health, clean energy, cities, consumption and oceans. In practice, countries favor social and economic goals, with SDGs 1 and 8 the most widely prioritized. Scholars still disagree on whether the goals are coherent or built on conflicting targets.
 
   <!-- nature-gov-012 -->
 
-- **CBD Conference of the Parties**
+- **The COP: the Biodiversity Convention's parliament**
 
-  {{TEXT:nature-gov-016}}
+  Every government that has ratified the Biodiversity Convention sits on its governing body, the Conference of the Parties, or COP. The COP reviews progress, sets priorities and work plans, and can amend the convention and create expert advisory bodies. One of these, the SBSTTA, advises it on science and technical matters. The first COP met in Nassau, Bahamas. Meetings ran yearly for three years after 1994, then every two years. COP 15, planned for Kunming in 2020, was delayed by the COVID-19 pandemic and split into two sessions.
 
   <!-- nature-gov-016 -->
 
-- **Kunming-Montreal Global Biodiversity Framework**
+- **The Kunming-Montreal framework: a Paris Agreement for nature**
 
-  {{TEXT:nature-gov-024}}
+  On 19 December 2022, nearly every country on Earth agreed a new plan for nature. The Kunming-Montreal Global Biodiversity Framework was adopted at the UN Biodiversity Conference, COP15, and promoted as a "Paris Agreement for Nature." It is the most significant agreement under the Biodiversity Convention so far. It replaced the plan that held the missed Aichi targets. It sets four global goals for 2050 and 23 targets for 2030. Goal A aims to cut the extinction rate and risk of all species tenfold by 2050 and halt human-caused extinctions of threatened species. Target 3, described in 30 by 30: protecting a third of the planet, asks governments to protect 30% of Earth's land and water by 2030. Countries are also to stop subsidizing activities that destroy wild places, such as mining and industrial fishing. Target 13 commits them to share fairly the benefits from genetic resources and their digital sequence data. The name tells a story. Kunming was the original host, but Montreal took over after China's COVID policy forced Kunming to withdraw. The framework is not legally binding. Critics, including the chair of IPBES, warn its vague targets may yield business as usual. By COP16, only 44 of 196 parties had new biodiversity plans.
 
   <!-- nature-gov-024 -->
 
-- **30 by 30**
+- **30 by 30: protecting a third of the planet**
 
-  {{TEXT:nature-gov-033}}
+  Protect 30% of Earth's land and ocean by 2030. The goal fits on a bumper sticker, and that is part of its power. It was proposed in a 2019 Science Advances article, "A Global Deal for Nature," partly to help slow climate change. The High Ambition Coalition launched it in 2020, and more than 100 countries backed it by October 2022. In December 2022 it became Target 3 of the global biodiversity framework. As of May 2026, 17.3% of land and inland waters and 9.8% of marine areas were protected. Counting conservation sites outside formal reserves, the shares were 18.4% and 10.0%. The number itself is disputed. Some conservationists say 30% lacks clear scientific backing, while others say it is too low and point to the Half-Earth idea of conserving about 50%. Critics warn loose definitions could count industrial areas and inflate progress. NGOs and Indigenous groups warn that without human-rights safeguards it could bring forced evictions and green colonialism, land seized in the name of nature.
 
   <!-- nature-gov-033 -->
 
-- **Criticism of the Biodiversity Convention**
+- **A hard treaty gone soft: criticism of the Biodiversity Convention**
 
-  {{TEXT:nature-gov-019}}
+  Countries face no penalty for ignoring the Biodiversity Convention, which is why critics call it a hard treaty gone soft. Brazil argued that wealthy countries benefit from access to nature's resources but give too little money and technology for conservation. Developing countries and their allies dispute whether richer nations have met their obligations at all. National strategies in practice neglect groups such as fungi, bacteria and protists. Some scientists also fear its Nagoya Protocol hampers disease prevention and conservation research.
 
   <!-- nature-gov-019 -->
 
-- **Ecologically or Biologically Significant Marine Areas**
+- **Mapping the ocean's most important places**
 
-  {{TEXT:nature-gov-018}}
+  Some patches of ocean matter far more to marine life than others. Under the Biodiversity Convention, scientists identify these Ecologically or Biologically Significant Marine Areas, or EBSAs, using scientific criteria. Expert workshops from 2018 to 2022 explored how to revise the descriptions and add new areas. The work feeds a binding instrument under the Law of the Sea for biodiversity beyond national waters: the High Seas Treaty.
 
   <!-- nature-gov-018 -->
 
-- **World Charter for Nature**
+- **The World Charter for Nature, 1982**
 
-  {{TEXT:nature-gov-056}}
+  On 28 October 1982 the UN adopted a declaration meant to guide all human conduct that affects nature. The vote was 111 for and 18 abstentions. The single vote against came from the United States. Prepared by the IUCN, the World Charter for Nature sets out five principles of conservation. They include respecting nature, protecting genetic viability and habitats, and managing resources for lasting productivity without endangering other species. It gave the first international recognition to a strong form of the precautionary principle.
 
   <!-- nature-gov-056 -->
 
-- **IUCN protected area categories**
+- **Six kinds of protected area**
 
-  {{TEXT:nature-gov-039}}
+  "Protected area" covers everything from untouched wilderness to working landscapes. The IUCN's World Commission on Protected Areas sorts them into six categories by management goal. They run from Category Ia, the strict nature reserve, through Category II, the national park, to Category VI, where natural resources are used sustainably. Many governments and the UN recognize these categories as the international standard.
 
   <!-- nature-gov-039 -->
 
-- **Protected area effectiveness**
+- **Do protected areas work?**
 
-  {{TEXT:nature-gov-040}}
+  Inside protected areas, vertebrate populations declined about 0.4% a year. At similar unprotected sites, they fell about 1.8% a year, roughly five times faster. Protected area effectiveness asks exactly this: how well reserves actually prevent biodiversity loss, judged for instance by comparing populations inside and outside. Small size, isolation, high costs and rising conflict over resources all limit what reserves achieve. And only 18% of the area under protection has been assessed, so most reserves' effectiveness is unclear.
 
   <!-- nature-gov-040 -->
 
-- **Digital sequence information**
+- **Digital sequence information: genes as data**
 
-  {{TEXT:nature-gov-048}}
+  Digital sequence information, or DSI, is the placeholder policy term for such data, like DNA sequences drawn from genetic resources. It is crucial to medical, biological and breeding research. Researchers share it freely online. That clashes with benefit-sharing rules, because anyone can use it without an agreement. At COP 15 in 2022, parties agreed a shared mechanism that separates access from benefit-sharing. At COP 16 in 2024 they created the Cali Fund. Industries using DSI, like cosmetics, should pay in part of their profits, half going to local and Indigenous groups.
 
   <!-- nature-gov-048 -->
 
-- **Harmful fisheries subsidies**
+- **Paying fleets to empty the sea**
 
-  {{TEXT:nature-gov-028}}
+  Some government money pushes fishing fleets to grow too big, catch too much or fish illegally. These harmful fisheries subsidies are what SDG Target 14.6 aims to end. Subsidies that add capacity can help developing countries compete with large fishing nations. But they bring no lasting benefit if they cause overfishing. Illegal fishing alone costs up to $36.4 billion a year, by the WWF's estimate. The global biodiversity framework likewise asks countries to stop subsidizing destructive activities such as industrial fishing.
 
   <!-- nature-gov-028 -->
 
-- **Large-scale marine protected areas**
+- **Giant marine reserves**
 
-  {{TEXT:nature-gov-029}}
+  Some marine protected areas are vast, at least 100,000 square km each. These large-scale reserves are set up to curb overfishing and human disturbance of ocean ecosystems. They raise hard questions about managing resources, rivalry between countries, and trade-offs between people's needs and nature. The biggest practical problem is policing them. Monitoring and enforcement of their protections are often inadequate.
 
   <!-- nature-gov-029 -->
 
-- **Cartagena Protocol on Biosafety**
+- **The Cartagena Protocol: rules for moving modified organisms**
 
-  {{TEXT:nature-gov-044}}
+  Exporters shipping genetically modified corn or cotton must now label it. That rule comes from the Cartagena Protocol on Biosafety, an add-on to the Biodiversity Convention that governs the movement of genetically modified organisms between countries. It was adopted on 29 January 2000 and entered into force on 11 September 2003. It rests on the precautionary principle from the 1992 Rio Declaration: lack of full scientific certainty is no reason to delay cost-effective protection. Countries may ban imports that lack evidence of safety. Importers can assess risks before the first shipment and weigh social and economic concerns.
 
   <!-- nature-gov-044 -->
 
-- **Convention on Migratory Species**
+- **The Bonn Convention: protecting animals that cross borders**
 
-  {{TEXT:nature-gov-045}}
+  A bird that breeds in one country and winters in another needs protection in both. The Convention on Migratory Species, also called the Bonn Convention, aims to conserve migratory animals across their whole range. It was signed in Bonn on 23 June 1979 and took effect on 1 November 1983, with a secretariat run by UNEP. Appendix I lists migratory species threatened with extinction, which range countries must strictly protect. Appendix II lists species that would gain from cooperation, the basis for regional deals. It has spawned seven agreements, including one covering 254 wetland bird species.
 
   <!-- nature-gov-045 -->
 
-- **Biodiversity and climate change nexus**
+- **Climate and biodiversity: one crisis, two faces**
 
-  {{TEXT:nature-gov-021}}
+  Climate change and biodiversity loss feed each other, and fixing one can worsen the other if their links are ignored. In June 2021, IPBES and the IPCC released a joint workshop report making exactly that case. The two problems, it argued, must be tackled together.
 
   <!-- nature-gov-021 -->
 
-- **IPBES Nexus Assessment**
+- **The IPBES Nexus Assessment**
 
-  {{TEXT:nature-gov-023}}
+  Biodiversity, water, food, health and climate change are tangled together, so a fix for one can help or hurt the others. An IPBES report approved on 17 December 2024 studied those links. It looks for ways to get the greatest benefit across all five at once.
 
   <!-- nature-gov-023 -->
 
-- **IPBES Transformative Change Assessment**
+- **The IPBES Transformative Change Assessment**
 
-  {{TEXT:nature-gov-022}}
+  The 2019 IPBES Global Assessment reached a blunt conclusion. Only transformative change, a deep shift in how societies work, can achieve global development goals. It also warned against focusing solely on economic growth while biodiversity disappears. A follow-up report, approved on 18 December 2024, examined the underlying causes of biodiversity loss and how such change can be brought about.
 
   <!-- nature-gov-022 -->
 
-- **Illegal wildlife trade targets**
+- **Ending the illegal wildlife trade**
 
-  {{TEXT:nature-gov-032}}
+  Illegal wildlife trade has become one of the world's largest black markets, worth tens of billions of dollars. SDG targets 15.7 and 15.c aim to end poaching and trafficking of protected species by tackling both demand and supply. Trafficking is usually run by organized crime and helped by corruption and weak governance. Outright bans are not always the fastest remedy. Trade policies that reward sustainable use typically help wildlife populations recover faster.
 
   <!-- nature-gov-032 -->
 
-- **GBF implications for business and finance**
+- **What the biodiversity framework means for business**
 
-  {{TEXT:nature-gov-025}}
+  The global biodiversity framework is aimed at governments, but money will feel it too. According to the UNEP Finance Initiative, companies should expect mandatory disclosure of their impacts on nature. Banks are expected to move money into projects that restore nature, and central banks to treat nature loss as a risk within their mandate. The goal of halting and reversing nature loss by 2030, described in Nature-positive: halt the loss by 2030, recover by 2050, has helped carry the framework into business. In May 2024, UNEP and China launched the Kunming Biodiversity Fund, with China committing $230 million USD.
 
   <!-- nature-gov-025 -->
 
-- **EU Biodiversity Strategy for 2030**
+- **The EU's biodiversity plan for 2030**
 
-  {{TEXT:nature-gov-035}}
+  On 20 May 2020 the European Commission set out its plan for nature, offered as Europe's contribution to the coming global framework. The EU Biodiversity Strategy for 2030 aims to protect 30% of EU territory by 2030, with 10% strictly protected. It proposed binding targets for restoring nature and is a core part of the European Green Deal. As of 2023, the EU was not on track to meet its targets.
 
   <!-- nature-gov-035 -->
 
-- **Paper parks**
+- **Paper parks: protected only on the map**
 
-  {{TEXT:nature-gov-034}}
+  A reserve can exist in law and still be logged, poached and built on. Such paper parks lack the money, staff or enforcement to stop damage inside them. Modeling suggests that for exploited species, better enforcement in existing reserves often helps more than adding area without more resources. Where over-harvesting is intense, spending on management can beat creating new, weak reserves. Where threats cluster at reserve edges, though, enlarging an area can create a safe core even without more staff. Chasing percentage targets without the capacity to govern risks spreading scarce money too thin.
 
   <!-- nature-gov-034 -->
 
-- **Criticism of the Nagoya Protocol**
+- **Red tape or fair play? Criticism of the Nagoya Protocol**
 
-  {{TEXT:nature-gov-037}}
+  Some developing countries have refused permits for basic biodiversity research, and some have even prosecuted scientists. Critics blame the Nagoya Protocol's bureaucracy for harming research, conservation and disease response. Its country-by-country permit system moves slowly. By contrast, the multilateral system of the treaty on plant genetic resources allows 8500 transfers every week. Weak national implementation is often blamed for the failure. Scientists and museums see red tape. Countries that supply genetic resources see protection against the theft of their genetic wealth.
 
   <!-- nature-gov-037 -->
 
-- **Nature Restoration Law**
+- **The EU Nature Restoration Law**
 
-  {{TEXT:nature-gov-050}}
+  More than 80% of Europe's habitats are in poor condition. A 2024 EU regulation set binding targets to fix that. Member states must restore at least 30% of damaged habitats by 2030, 60% by 2040 and 90% by 2050. The aims include protecting ecosystem services, slowing climate change and reducing risks to food security. The law split Europe. Farm groups and the center-right European People's Party called it a threat to livelihoods, while scientists and the IUCN backed it. Parliament passed it 329 to 275, and it took effect on 18 August 2024.
 
   <!-- nature-gov-050 -->
 
-- **National Biodiversity Strategy and Action Plan**
+- **National biodiversity strategies: the convention at home**
 
-  {{TEXT:nature-gov-058}}
+  Before COP16, countries were meant to present updated plans for meeting the Kunming-Montreal targets. Only 25 of 195 did. These plans are National Biodiversity Strategy and Action Plans, or NBSAPs: each country's main plan for carrying out the Biodiversity Convention at home. The convention requires each country to prepare one and build it into planning in every sector that affects nature. As of early 2012, 173 parties had developed one. The late updates are telling. Only five of the 17 megadiverse countries, the richest in species, and four G7 nations met the deadline. Japan's 2023 plan includes the aim of an economy that restores more nature than it destroys.
 
   <!-- nature-gov-058 -->
 
-- **Common heritage of mankind**
+- **The common heritage of humankind**
 
-  {{TEXT:nature-gov-054}}
+  Some resources, such as the deep seabed, are said to belong to all humanity rather than to any one nation. That is the common heritage principle. Before 1992, plant genetic resources were treated this way, freely exchanged for breeding and research. Developing countries objected that their resources were being exploited without payment. The Biodiversity Convention replaced the principle with national sovereignty. The tension returned in the High Seas Treaty talks, which turned on common heritage versus freedom of the seas. Rich and poor nations still disagree over which rule should apply.
 
   <!-- nature-gov-054 -->
 
-- **2010 Biodiversity Target**
+- **The 2010 Biodiversity Target: a promise unkept**
 
-  {{TEXT:nature-gov-042}}
+  In June 2001, EU leaders meeting at Gothenburg set a goal: halt, or significantly slow, the decline of biodiversity by the end of 2010. In 2002 the Biodiversity Convention's sixth COP committed to a significant cut in the rate of loss by 2010. A world summit in Johannesburg confirmed it. Even measuring the rate of loss proved hard. The world largely failed. In 2010, 110 national reports showed little progress.
 
   <!-- nature-gov-042 -->
 
 ### Justice, rights and Indigenous knowledge
 
-- **Indigenous peoples**
+Environmental harm rarely lands evenly. Poor and marginalized communities often live beside the waste dumps, mines and polluting plants whose benefits flow elsewhere, and that grievance grew into a movement for environmental justice. Indigenous peoples sit at the center of this story: their lands are often where resources are pulled out for export, their knowledge of nature has been taken without permission, and they feel climate change more than most. Yet the same peoples, when their hold on land is secure, care for it in ways that benefit everyone. This chapter looks at who bears environmental costs, who gains, and what rights and laws people have used to fight back.
 
-  {{TEXT:nature-gov-184}}
+- **Indigenous peoples: who they are, and who decides**
+
+  There are some 5,000 distinct Indigenous peoples, living on every inhabited continent and in every climate zone people live in. Yet no one agrees on exactly who counts. The UN has adopted no definition. Its Permanent Forum holds that any single definition would include too many or too few. Most accounts point to four marks. People identify themselves as Indigenous and differ culturally from others in their state. They have a special bond with their traditional territory and share a history of domination. Most are minorities where they live. Many states avoid the term altogether, using labels such as "scheduled tribes" in India or "national minorities" in China. Whether particular groups in Africa or Asia count as Indigenous is disputed. History explains much of their position. Europeans justified colonizing Indigenous lands partly by calling them terra nullius, "no one's land." Since 2002, Indigenous environmental rights have gained international recognition. Few countries respect them in practice.
 
   <!-- nature-gov-184 -->
 
-- **Environmental justice**
+- **Environmental justice: who lives next to the dump?**
 
-  {{TEXT:nature-gov-168}}
+  In 1982, residents of Warren County, North Carolina, protested a landfill for toxic PCB chemicals. Six weeks of protest led to over 500 arrests. That fight helped launch the environmental justice movement in the United States. Shaped by the civil rights movement, it opposes harm done to poor or marginalized communities by waste, mining and other land uses that bring them no benefit. Its early focus was race, covered in Environmental racism. A United Church of Christ study found that race was the most important factor predicting where US hazardous waste facilities were placed. Hundreds of studies from the movement argue that exposure to environmental harm is unequally distributed. The US Environmental Protection Agency now defines environmental justice as fair treatment and meaningful involvement of all people in environmental laws and policies. That covers every race, color, national origin and income. The movement went global in the 1980s and 1990s. Tighter waste rules in rich countries sent a surge of hazardous waste to the Global South. It has since spawned new ideas, among them the debt rich nations may owe poor ones and the unequal burden of climate change. It overlaps with campaigns for Indigenous rights to land and for a human right to a clean environment.
 
   <!-- nature-gov-168 -->
 
-- **Political ecology**
+- **Political ecology: power and the environment**
 
-  {{TEXT:nature-gov-227}}
+  Farmers eroding their soil looks like a local failure. Piers Blaikie dug deeper. His work on the social and political roots of soil erosion showed that problems blamed on local misuse often stem from the wider political and economic context. That insight is the heart of political ecology, the study of how political, economic and social forces shape environmental problems and climate change. Unlike conventional ecology, it puts power relations at the center. A core assumption is that environmental change does not hit society evenly. Political, social and economic differences shape who pays the costs and who reaps the benefits. The field joins ecological social science with political economy. It covers degradation and marginalization, fights over resources, conservation and control, and social movements. It traces today's uneven burdens back to policies and power rooted in colonialism. Frank Thone coined the English term in 1935, and the anthropologist Eric R. Wolf revived it in 1972. Not everyone is convinced. Critics such as Vayda and Walters argue it assumes politics matters before showing it, and propose "event ecology" instead.
 
   <!-- nature-gov-227 -->
 
 - **Traditional ecological knowledge**
 
-  {{TEXT:nature-gov-176}}
+  Long before weather forecasts, people read the wind, the blooming of plants and the arrival of birds. Traditional ecological knowledge, or TEK, is that kind of understanding. It is knowledge, practice and belief about how living things, people included, relate to each other and their surroundings. It builds up over generations and passes on through culture. It guides everyday needs such as weather reading, medicine, water management, farming, hunting, fishing and naming living things. It is not one universal system. It is a family of practices tied to particular places and worldviews. It rests on long observation and experience rather than standardized experiments, and that has fueled debate over its use in management. Combined with science, though, it can supply long-term records that would otherwise be missing. A 1987 UN report, described in Our Common Future: defining sustainable development, said Indigenous and tribal ways of life could teach modern societies how to manage forest, mountain and dryland ecosystems. TEK is usually oral, so it may lack the written records that legal claims require. Whether Indigenous peoples hold intellectual property rights over it is still debated in international law. Some critics call the term itself an appropriation. Climate change adds a threat, making the signs in nature that TEK relies on less dependable.
 
   <!-- nature-gov-176 -->
 
-- **Extractivism**
+- **Extractivism: digging up and shipping out**
 
-  {{TEXT:nature-gov-209}}
+  Gold, oil, lumber, water and food leave a region raw and get processed somewhere else. Extractivism is the removal of large amounts of natural resources, mainly for export, with little or no processing. The term was coined in Portuguese, "extractivismo," in 1996 to describe profit-driven exploitation of Brazil's forests. The practice is far older. For over 500 years, colonies in Africa, Asia and the Americas shipped resources to imperial centers. Today transnational corporations are the main actors, helped by weak governance in economies that depend on resources. It is common across the Global South and the Arctic, and in neglected, heavily polluted pockets of the Global North. Taken fast enough, even renewable resources become non-renewable, because nature cannot replace them in time. Local and especially Indigenous communities often resist, because it uproots them or degrades their lives.
 
   <!-- nature-gov-209 -->
 
-- **Land law**
+- **Land law: who may use, sell or fence the ground**
 
-  {{TEXT:nature-gov-217}}
+  Rights to land are so basic that they arise even without a government. In the American West, miners' claim clubs enforced their own rules. Land law is the branch of law covering the rights to use land, transfer it, or keep others off it. Land is often called real estate or real property, as distinct from personal belongings. One person's burden on land, such as a neighbor's right of way, may be another person's right. Squatting, living on land without owning it, happens all over the world. Land reform means government policies that take or redistribute land. Where customary law rules, customary land is the main form of ownership. In common-law countries, Indigenous peoples' claims to land have their own legal name, described in Aboriginal title: land rights that outlive conquest.
 
   <!-- nature-gov-217 -->
 
-- **Ecological debt**
+- **Ecological debt: what the North owes the South**
 
-  {{TEXT:nature-gov-199}}
+  At the 1992 summit in Rio, campaign groups drafted a Debt Treaty demanding compensation for 500 years of damage. No international institution ever recognized it. Their claim was ecological debt: the idea that the Global North owes the Global South for past environmental injustice, such as resource plunder, habitat damage and pollution. It has two parts. One is damage a country does to others or to shared ecosystems. The other is its use of ecosystems at the expense of other countries' fair share. The German ecofeminist Eva Quistorp first used the term in a 1985 booklet. Early reports split on approach: a Chilean one treated it in moral terms, a Swedish one tried to price it. At the 2009 Copenhagen talks, vulnerable countries demanded reparations for decades of excess pollution, and the US envoy flatly rejected the idea. Climate debt, the best-developed attempt to measure it, splits into adaptation debt and emissions debt. Proposals to settle it include canceling poor countries' financial debts. Almost everything about it is disputed, and some warn it risks putting a price on nature.
 
   <!-- nature-gov-199 -->
 
-- **Biopiracy**
+- **Biopiracy: patenting other people's knowledge**
 
-  {{TEXT:nature-es-105}}
+  Nearly one third of the small-molecule drugs the US FDA approved between 1981 and 2014 were natural products or derived from them. Nature's chemistry is valuable, and so is the local knowledge that points to it. Biopiracy is taking the genetic resources and knowledge of farming and Indigenous communities without permission, to win monopoly control through patents. Pat Mooney, founder of ETC Group, coined the term in the early 1990s. A company patent can bar anyone, even the Indigenous group itself, from using or selling the resource. Critics say the TRIPS trade agreement treats knowledge as private property and recognizes inventions only if they can make industrial profit. The 1992 Biodiversity Convention required host-country consent and fair sharing of benefits, and the 2010 Nagoya Protocol made this concrete. The unintended result was blocked research. Critics call both biopiracy and the search for useful compounds modern extractivism.
 
   <!-- nature-es-105 -->
 
 - **Indigenous land stewardship**
 
-  {{TEXT:nature-gov-185}}
+  At least 37% of the world's remaining natural lands lie within Indigenous territories. Where Indigenous peoples hold secure title, their care of the land benefits everyone. A report by the research group WRI says such lands generate billions, sometimes trillions, of dollars in benefits, such as carbon storage, cleaner air and clean water. Deforestation on them is low. They cut greenhouse gas emissions, and their rooted soils limit erosion and flooding. One popular claim does not hold up. The often-repeated figure that Indigenous peoples steward 80% of the world's biodiversity was found baseless by a 2024 study in Nature.
 
   <!-- nature-gov-185 -->
 
 - **Climate change and Indigenous peoples**
 
-  {{TEXT:nature-gov-186}}
+  The Arctic is warming at twice the global rate, and its Indigenous nations face challenges with no precedent. Pacific islands have already been lost to rising seas, displacing and killing Indigenous people. Climate change falls harder on Indigenous peoples than on others. There are over 370 million Indigenous people in more than 90 countries, and about 22% of the planet's land is Indigenous territory. Indigenous farmers have long timed crops by wind direction, flowering and bird migration, signs that a changing climate scrambles. Some Indigenous scholars see climate change as an intensification of settler colonialism's effects. Their knowledge is also an asset. It detects local impacts where scientific models often fail, and programs shaped with Indigenous input draw more participation. Yet Indigenous people in the Ecuadorian Amazon were left out of a 2005 forest-carbon project despite suffering deforestation's effects.
 
   <!-- nature-gov-186 -->
 
-- **Ecocide**
+- **Ecocide: killing the home**
 
-  {{TEXT:nature-gov-198}}
+  The word joins Greek oikos, "home," and Latin caedere, "to kill." Ecocide is the destruction of the environment by humans. Olof Palme popularized the term at the 1972 UN Conference on the Human Environment. He accused the United States of ecocide in Vietnam. There the US Air Force sprayed 20 million gallons of herbicides such as Agent Orange on 6 million acres of forest and crops. In 2021 an expert panel defined it as unlawful or wanton acts committed knowing they are substantially likely to cause severe and widespread or long-term damage. Common causes include war, pollution, reckless overexploitation and industrial disasters. The International Criminal Court covers environmental damage only in wartime. Ten countries have made peacetime ecocide a crime, and campaigners want the court to try it. Supporters see a deterrent to corporations driving climate change. Others doubt it would touch the crisis's root causes. Destroying a landscape can also be cultural genocide, ending a people's way of life.
 
   <!-- nature-gov-198 -->
 
-- **Environmental conflict**
+- **Environmental conflict: fighting over nature's spoils**
 
-  {{TEXT:nature-gov-202}}
+  As of April 2020, the Environmental Justice Atlas had documented 3,100 environmental conflicts worldwide, and many more go unrecorded. An environmental conflict is a social clash caused by environmental damage or by unequal sharing of environmental resources. Such conflicts are rooted in the industrial economy. With less than 10% of materials and energy recycled, extraction keeps pushing into new frontiers. A study of over 2743 conflicts found mining the most contested sector, at 21%. Fossil energy followed at 17%, biomass and land use at 15%, and water at 14%. Defenders were killed in 13% of cases. Poor countries see more fights over conservation, water and land. In rich countries almost half concern waste, tourism, nuclear power and infrastructure. Around 17% end in a justice "success," such as stopping a project. The best predictor of resolving one is proper consultation with every party.
 
   <!-- nature-gov-202 -->
 
-- **Procedural justice**
+- **Procedural justice: fair process, not just fair results**
 
-  {{TEXT:nature-gov-220}}
+  People often accept a decision they dislike if they feel they were heard. Research by Tom R. Tyler found that simply giving people a voice, even one that changes nothing, can make a process feel fair. Procedural justice is fairness in how disputes are settled and resources shared. It differs from distributive justice, which asks whether outcomes are fair, and retributive justice, which asks whether punishment is fair. In 1976 Gerald Leventhal proposed six tests for a fair procedure: consistency, lack of bias, accuracy, the chance to correct errors, representativeness and ethics. Hearing all parties before deciding is a basic step. In energy and environmental matters, it means access to information and real participation. In law it appears as due process in the US and natural justice elsewhere.
 
   <!-- nature-gov-220 -->
 
-- **Climate justice**
+- **Climate justice: those who suffer most did least**
 
-  {{TEXT:nature-gov-162}}
+  Pakistan produces less than 1% of global greenhouse gas emissions. Its 2022 floods affected over 33 million people. That mismatch is the core of climate justice, a branch of environmental justice concerned with how unequally climate change harms marginalized and vulnerable people. It seeks to share fairly both the burdens of climate change and the work of cutting emissions. The responsibility is lopsided. Those who gained most from industrialization, such as coal, oil and gas businesses, are seen as most responsible for the carbon dioxide in the air. The richest 1% of people cause twice the emissions of the poorest 50%. Many of the people hit hardest did least to cause the problem. When they are also hurt by the responses to climate change, the result is called the "triple injustice." Views of climate justice fall into two camps. One focuses on fair, inclusive decision-making. The other asks who bears the costs. Lawsuits are one tool: a 2017 UN Environment Programme report counted 894 climate legal actions worldwide. The term is used in many ways, and its meanings are disputed. So is the question of whether capitalism itself is a root cause.
 
   <!-- nature-gov-162 -->
 
 - **Climate change and poverty**
 
-  {{TEXT:nature-gov-193}}
+  For a poor household, one disaster, bad harvest or illness can be crippling. That fragility is why climate change hits poor people and developing countries hardest. The UN Development Programme says developing countries suffer 99% of the casualties attributable to climate change. Poor people are more exposed and less able to cope with extremes, and poorer countries have fewer assets to adapt. A 2020 World Bank paper estimated climate change will push 32 million to 132 million more people into extreme poverty by 2030. Climate extremes could raise food prices by 3–84% by 2050. Adaptation that ignores how poverty differs from person to person will be ineffective and unfair. Pro-poor adaptation ties coping with climate change to reducing poverty.
 
   <!-- nature-gov-193 -->
 
 - **Environmental racism**
 
-  {{TEXT:nature-gov-173}}
+  In 1982, protesting a PCB waste landfill in Warren County, North Carolina, Benjamin Chavis gave the problem a name: environmental racism. It means the heavier burden of pollution, hazards and ecological damage borne by marginalized communities and people of color. A US Government Accountability Office study after the protests was among the first to link the race and income of communities to hazardous waste sites. Causes include the hunt for cheap land, dismissive attitudes to harmful projects, and affected communities' lack of political power, mobility and money. It is built into policy at home and abroad, a form of structural racism that creates hierarchies of health. Some places, described in Sacrifice zones, absorb an outsized share of fossil fuel pollution. Some critics argue cost-benefit analysis feeds the problem, because it values resources by what people are willing to pay. The pattern crosses borders: between 1989 and 1994, an estimated 2,611 metric tons of hazardous waste went from OECD countries to poorer ones.
 
   <!-- nature-gov-173 -->
 
-- **Human rights and climate change**
+- **Climate change as a human rights issue**
 
-  {{TEXT:nature-gov-187}}
+  In 2005, Inuit activist Sheila Watt-Cloutier petitioned the Inter-American Commission on Human Rights over US contributions to global warming. The petition was rejected, but her testimony was later heard. Her case framed climate change as a human rights problem. Governments, UN bodies, advocates and scholars now use this framework to guide climate policy. Most statements stress threats to the rights to life, food, water, health, housing, development and self-determination. Human rights treaties rarely mention the environment, so protection is drawn from those rights. The UN Human Rights Council unanimously adopted Resolution 7/23, recognizing climate change as a threat to human rights. On 8 October 2021 it recognized a right to a safe, clean, healthy and sustainable environment. The stakes are large. The UN Development Programme estimates 600 million more people will face malnutrition because of climate change. Research suggests climate change may create some 50 to 200 million new displaced people by 2100.
 
   <!-- nature-gov-187 -->
 
-- **Right to a healthy environment**
+- **The right to a healthy environment**
 
-  {{TEXT:nature-gov-222}}
+  For the first time, in 2021, the UN Human Rights Council recognized a human right in a resolution. The vote was 43 in favor, none against and 4 abstentions. The right was to a clean, healthy and sustainable environment, seen as necessary for the rights to life, health, food and water. The Council acted on 18 October 2021 and the General Assembly followed on 28 July 2022. That vote was 161 in favor, none against and eight abstentions, though such resolutions are not binding. 165 countries recognize the right in their constitutions, laws or ratified treaties. It protects nature through its effects on people, unlike traditional rules aimed at states or at nature itself. It obliges states to regulate polluters and enforce environmental law. It has also helped build precedent for climate lawsuits. The 1972 Stockholm conference's declaration had recognized it in its first principle, without binding force.
 
   <!-- nature-gov-222 -->
 
-- **Access and Benefit Sharing Agreement**
+- **Access and benefit-sharing agreements**
 
-  {{TEXT:nature-gov-179}}
+  When a healer's knowledge leads a company to a valuable plant, who should be paid? An access and benefit-sharing agreement answers that, setting out how the benefits from using genetic resources are shared fairly. Such deals usually come from bioprospecting, the search for valuable compounds that Indigenous knowledge often guides. Before the Biodiversity Convention, plant genes were common heritage and freely exchanged. The convention gave each state sovereign rights over its own. The Nagoya Protocol, adopted in 2010 and in force from 2014, requires prior informed consent and mutually agreed terms. Benefits can be money, such as lump sums, milestone payments and royalties. They can also be shared research, joint patents, technology or training. Digital sequence data slips past this model, since no physical sample is needed. COP16 in Cali created a fund that gives half its resources to Indigenous peoples and local communities. Biodiversity-rich developing countries want stronger duties, while rich countries with big users of genetic resources prefer narrower ones.
 
   <!-- nature-gov-179 -->
 
-- **Fortress conservation**
+- **Fortress conservation: protecting nature by removing people**
 
-  {{TEXT:nature-gov-166}}
+  After the United States passed its 1872 national park law, army cavalry guarded the new parks, often expelling Native Americans. That pattern became known as the Yosemite model. Fortress conservation tries to protect nature by creating reserves cut off from people. Its toll is large and uncertain. A UN special rapporteur says up to 250,000 people have been forcibly evicted for conservation since 1990. Another estimate puts displacement between 10.8 million and 173 million. Conservation charities have increasingly militarized anti-poaching work, sometimes arming paramilitary groups. Money helps drive it, through ecotourism income and carbon credits from saved forests. Many Indigenous groups have lived in forests for centuries without formal title deeds, which leaves them open to eviction. The evidence cuts against exclusion. In the Brazilian Amazon, community land titles brought less forest clearing than state-run parks, and community concessions in the Congo show less deforestation. Evicted people may end up working for extractive companies, so exclusion can increase exploitation. Some conservation leaders still argue for removing people, while Indigenous rights advocates say giving residents legal title protects forests better.
 
   <!-- nature-gov-166 -->
 
 - **Indigenous land rights**
 
-  {{TEXT:nature-gov-215}}
+  In Brazil, only 14% of Indigenous lands ended up formally marked out under laws from 1983, and much was lost to mining companies. Indigenous land rights are the rights of Indigenous peoples, as individuals or groups, to land and the resources on it, mostly in colonized countries. Land carries religious meaning and underpins identity, self-determination and livelihoods. In some societies, the resources of land and sea are the household economy, so ownership secures access to food and income. Claims may rest on international law, treaties, common law, or national constitutions. Key international texts include a 1989 labor convention and a 2007 UN declaration, described in ILO Convention 169 and The UN Declaration on the Rights of Indigenous Peoples. The gap between land recognized on paper and land held by custom is a major source of underdevelopment, conflict and environmental damage.
 
   <!-- nature-gov-215 -->
 
-- **Green grabbing**
+- **Green grabbing: land seized in nature's name**
 
-  {{TEXT:nature-gov-165}}
+  In 2008, journalist John Vidal wrote a Guardian article titled "The great green land grab." He coined a term for taking land and resources, often by foreign actors, in the name of environmental goals in ways that produce unjust development. Green grabbing is also called green colonialism. Land may be taken for ecotourism, for protecting biodiversity or ecosystem services, for carbon trading, or for biofuels. Carbon-trading firms, for instance, may take land to plant trees and sell the resulting offsets. The International Land Coalition says 59% of land grabs between 2000 and 2010 were for biofuels. Green grabs can cover thousands or millions of hectares and drive Indigenous or peasant communities off their land. Indebted governments are especially exposed, since they may sell public assets to avoid bankruptcy. Critics worry the 30 by 30 target could bring a new wave.
 
   <!-- nature-gov-165 -->
 
-- **Environmental gentrification**
+- **Environmental gentrification: when greening pushes people out**
 
-  {{TEXT:nature-gov-204}}
+  Property prices near New York's High Line, an old rail line turned into a park, rose by 35%. Near Chicago's Bloomingdale Trail, the rise was 13.8% to 48.2%. Cleaner, greener neighborhoods become more desirable, and that can be a problem for the people who already live there. Environmental gentrification is the process by which cleaning up pollution or adding green amenities raises property values and draws wealthier residents into a formerly polluted or neglected area. The amenities include parks, green roofs, gardens and energy-efficient buildings. The mechanism is supply and demand. Green spaces tend to raise housing prices when there is too little housing to meet demand. Rising rents can push low-income households out physically. Long-time residents can also be displaced culturally, socially and politically, even if they stay. The same pattern follows cleanup of toxic Superfund sites. Wealthier, better-educated newcomers tend to move in while earlier residents are slowly priced out. Even measures against urban heat, such as green walls and roofs, can trigger it. Sieg and colleagues first named the process in 2004, joining two older topics: gentrification and environmental justice.
 
   <!-- nature-gov-204 -->
 
-- **Environmental defender**
+- **Environmental defenders: risking life for land**
 
-  {{TEXT:nature-gov-167}}
+  On average, three environmental defenders are killed every week. For each one killed, up to one hundred more are intimidated, arrested or harassed. Global Witness counted 1,922 murders in 57 countries between 2002 and 2019, about a third of them Indigenous people. An environmental defender is a person or group protecting the environment from harms such as mining, waste dumping, infrastructure projects or land seizure. In 2019 the UN Human Rights Council unanimously recognized their importance. The Environmental Justice Atlas documents over 3500 conflicts, and Indigenous people are involved in 41% of them. Successful campaigns usually combine many non-violent tactics, and 26.7% of reported campaigns ended with the project canceled. Many conflicts arise from renewable energy or conservation projects, with hydroelectric dams the most frequent cause. The 1998 Aarhus Convention gives individuals rights to information, participation and justice. The label itself is disputed. It lumps together very different groups, many of whom do not call themselves defenders.
 
   <!-- nature-gov-167 -->
 
 - **Free, prior and informed consent**
 
-  {{TEXT:nature-gov-180}}
+  A UN declaration, described in The UN Declaration on the Rights of Indigenous Peoples, states that no Indigenous people may be relocated without their free, prior and informed consent. The principle says an Indigenous people must be consulted, from the ground up, before development starts on its ancestral land or uses resources in its territory. Free means no coercion or bribery. Prior means consent is sought well before work begins. Informed means people learn the project's nature, size, pace and duration. The Philippines' Indigenous Peoples' Rights Act of 1997 was the first national law to include it. It has been widely applied in REDD+ forest projects, and UN-REDD issued mandatory guidelines in 2013. Definitions differ, though. Many treaties require only consultation, not consent, so Indigenous peoples cannot veto projects. Industry argues a veto could block projects that benefit the public. Others reply that extraction for profit repeats neocolonial patterns.
 
   <!-- nature-gov-180 -->
 
 - **Critical environmental justice**
 
-  {{TEXT:nature-gov-170}}
+  David Pellow created critical environmental justice to question the assumptions and blind spots of earlier studies. Its scholars hold that several forms of inequality work together to drive environmental injustice. It rests on four pillars. The first is intersectionality, the way inequalities of race, class and gender combine. The others are attention to scale in space and time, seeking justice outside the state, and treating all beings as indispensable.
 
   <!-- nature-gov-170 -->
 
-- **Dimensions of environmental justice**
+- **The three dimensions of environmental justice**
 
-  {{TEXT:nature-gov-169}}
+  Environmental justice asks for three kinds of fairness. Distributive justice shares benefits like clean water and green space, and burdens like pollution, evenly across communities. Procedural justice gives affected communities information, a voice in policy and access to the courts. Recognition justice respects the distinct cultures and histories of marginalized groups, including Indigenous peoples. Robert Bullard offers another split: procedural, geographic and social equity. Geographic equity asks how close communities live to hazards such as landfills and incinerators.
 
   <!-- nature-gov-169 -->
 
-- **Hazardous waste exports to the Global South**
+- **Shipping toxic waste to the Global South**
 
-  {{TEXT:nature-gov-172}}
+  Through the 1980s and 1990s, toxic waste exports from the United States escalated. Rich countries were shifting dangerous waste to the Global South, where weaker rules made disposal cheaper. Many receiving countries lack proper disposal systems, and local people are not told about the hazards. The Khian Sea incident, when Philadelphia incinerator ash was dumped on a Haitian beach, helped bring about the Basel Convention on moving toxic waste across borders.
 
   <!-- nature-gov-172 -->
 
 - **Indigenous environmental justice**
 
-  {{TEXT:nature-gov-171}}
+  For many Indigenous peoples, environmental justice starts from a colonial situation and may aim at decolonization. In the US, Native Americans fall under a separate legal regime. They are citizens of Indigenous nations whose sovereignty rests on treaties, not ethnic minorities. Scholars such as Dina Gilio-Whitaker argue that the usual focus on fair shares assumes land is a commodity. That clashes with many Indigenous worldviews.
 
   <!-- nature-gov-171 -->
 
-- **Green imperialism**
+- **Green imperialism: environmentalism as interference?**
 
-  {{TEXT:nature-gov-212}}
+  Green imperialism is a critical label for a perceived Western strategy of meddling in developing nations' affairs in the name of the environment. Helge Ole Bergesen used it in 1988 to sum up how Third World elites saw the Brundtland report. The label eco-colonialism first appeared around debt-for-nature swaps from 1989. Malaysia fought European timber boycotts on these grounds, and in 1994 Brazil, India and Singapore opposed linking trade to pollution controls as hidden protectionism. The term is an insult, and many disagree: a 1990s survey found 66% of respondents did not see the swaps as eco-colonialism.
 
   <!-- nature-gov-212 -->
 
-- **Burden-sharing principles in climate justice**
+- **Who should pay for climate change?**
 
-  {{TEXT:nature-gov-163}}
+  Three rules compete for deciding who bears the larger costs of climate change. Those who caused most of it should pay. Those most able to pay should pay. Those who benefited most should pay. A 2023 study estimated the top 21 fossil fuel companies would owe $5.4 trillion in climate reparations over 2025–2050. Some cities apply these ideas in adaptation policy. Barcelona, for example, requires 30% of new housing developments to be social housing.
 
   <!-- nature-gov-163 -->
 
-- **Intergenerational climate equity**
+- **Climate fairness across generations**
 
-  {{TEXT:nature-gov-164}}
+  Under current pledges, children born in 2020 will face 2–7 times as many heat waves in their lives as people born in 1960. The generations mainly responsible for climate change are not the ones who will bear most of its damage. One generation's emissions can lock in harm for those that follow. In April 2021, Germany's Federal Constitutional Court ruled on this point. One generation, it said, must not use up much of the carbon budget and leave later ones a drastic burden of cuts.
 
   <!-- nature-gov-164 -->
 
 - **Community-based conservation**
 
-  {{TEXT:nature-gov-196}}
+  More than 20 million people are estimated to have been displaced by fortress conservation. Community-based conservation grew in the 1980s as a reaction, involving local communities in protecting nature instead of pushing them out. In 1975 the IUCN first accepted that traditional ways of life could support conservation. The 2003 World Parks Congress and a 2004 Biodiversity Convention meeting recognized Indigenous peoples and local communities as governors of protected areas. Co-management splits responsibility between the state and communities, blending traditional knowledge with science. Livelihoods include ecotourism, rotational grazing, forest products other than timber, sustainable fisheries and carbon projects. Community-managed lands in parts of Kenya have shown richer soils and more plant growth. The benefits are not always shared fairly. In Madagascar, local elites captured the gains while poorer households lost access to land. Legal recognition of communal ownership of land is essential for lasting success.
 
   <!-- nature-gov-196 -->
 
-- **Indigenous and community conserved area**
+- **Territories of life: Indigenous and community conserved areas**
 
-  {{TEXT:nature-gov-214}}
+  Indigenous and community conserved areas are said to cover as much land as government protected areas. Yet tens of thousands of these sites lack official recognition. They are territories governed, managed and conserved in practice by Indigenous peoples or local communities, with clear benefits for biological and cultural diversity. Since about 2020 they are also called "territories of life." Three features mark one. A community has a strong bond with a place and leads its management. Conservation results follow even when conservation is not the aim. The 2003 IUCN World Parks Congress defined them as places with significant biodiversity that communities conserve voluntarily, through customary law or other means. They may or may not count as formal protected areas. At the 2010 Biodiversity Convention meeting in Nagoya, countries were invited to recognize them. Threats include mining, logging and state takeovers of community land for official reserves.
 
   <!-- nature-gov-214 -->
 
 - **Harmony with Nature**
 
-  {{TEXT:nature-gov-213}}
+  Ahead of a 2012 UN conference in Rio, Bolivia made a bold claim. Nature, it argued, has rights just as humans do, including the right to exist and renew itself. Harmony with Nature is the principle behind that claim: a friendly, holistic coexistence between people and the natural world. It appears mainly in debates on sustainable development and the rights of nature. The United Nations created a Harmony with Nature program in 2009, and Bolivian support led to further resolutions. Bolivia's proposal also called GDP an inadequate measure of well-being and asked for indicators of environmental destruction.
 
   <!-- nature-gov-213 -->
 
-- **WIPO treaty on genetic resources and traditional knowledge**
+- **A patent treaty for genes and traditional knowledge**
 
-  {{TEXT:nature-gov-226}}
+  After more than two decades of talks, WIPO members concluded a treaty in Geneva on 24 May 2024. Known as GRATK, it requires patent applicants to disclose when an invention is based on genetic resources or the traditional knowledge tied to them. That disclosure indirectly fights biopiracy and supports benefit-sharing rules. It is the first WIPO treaty with provisions written specifically for Indigenous peoples and local communities. It takes effect three months after 15 countries ratify or accede, and 44 countries had signed by May 2025.
 
   <!-- nature-gov-226 -->
 
-- **Facets of traditional ecological knowledge**
+- **Six facets of traditional ecological knowledge**
 
-  {{TEXT:nature-gov-177}}
+  Nicholas Houde broke traditional ecological knowledge into six parts. Factual observations are long-term general observations, checked against other knowledge holders' accounts. Management systems cover practices such as pest control, growing several crops together, and judging the state of resources. Then come past and current uses, and ethics and values, which keep exploitation in check. The last two are culture and identity, and cosmology, a people's view of how the world is ordered.
 
   <!-- nature-gov-177 -->
 
-- **Indigenous cultural burning**
+- **Cultural burning: fire as a tool and a practice**
 
-  {{TEXT:nature-gov-178}}
+  Colonists in California banned Indigenous burning in the late 1700s to early 1800s. Decades of fire exclusion followed. Cultural burning is traditional controlled burning that Indigenous peoples use to manage land and as a spiritual practice. The Karuk and Yurok Tribes of California have revived it on their ancestral lands, to cut wildfire risk and restore depleted resources. In Australia, an Indigenous nation that regained land brought back its traditional burning too.
 
   <!-- nature-gov-178 -->
 
-- **Neo-extractivism**
+- **Neo-extractivism: mining for social programs**
 
-  {{TEXT:nature-gov-210}}
+  Under Ecuador's Correa government, which expanded oil and mining, poverty fell by 37% and extreme poverty by 49%. That is the promise of neo-extractivism, a model in which governments take more control of resource extraction and its revenue to fund social programs. It spread mainly among Latin America's left-leaning "Pink Tide" governments during the commodity boom of the early 2000s. States rewrite contracts, raise export taxes and push state ownership, while the economy still runs on exports. Critics say tying welfare to commodity sales leaves it exposed to price drops and concentrates power in presidents' hands.
 
   <!-- nature-gov-210 -->
 
-- **Land rights**
+- **Land rights: security, not just access**
 
-  {{TEXT:nature-gov-218}}
+  Being allowed onto land is not the same as having rights to it. Someone with only access can be expelled whenever the owner chooses, which makes life financially insecure. Land rights are the ability to obtain, use and hold land freely, so long as others' rights are respected. Land law sets the rules on ownership. Land rights describe how far society accepts that ownership in practice. UN research finds that rural landlessness strongly predicts poverty and hunger. Customs often bar women from inheriting or buying land, leaving them dependent on male relatives even when they farm it.
 
   <!-- nature-gov-218 -->
 
-- **Measuring ecological debt**
+- **Putting a number on ecological debt**
 
-  {{TEXT:nature-gov-200}}
+  How much might rich countries owe? Most attempts compare each country's emissions with its fair share per person. In 2000, Neumayer calculated a "historical emissions debt": the gap between a country's actual past emissions and an equal per-person share. Matthews's 2015 method compares the warming each country has caused since 1960 with its share of world population. A "modified equal shares" approach weights shares by each country's basic needs. In principle, a money value could add up the outside costs of past extraction and the pollution poor countries bear from rich countries' consumption.
 
   <!-- nature-gov-200 -->
 
-- **Hoodia benefit-sharing case**
+- **The Hoodia case: the San people get a share**
 
-  {{TEXT:nature-gov-192}}
+  The San people of southern Africa long used the Hoodia plant. In 1996, South Africa's CSIR research council isolated a weight-loss molecule from it, P57, and the patent rights were sold to Pfizer and Phytopharm. The San demanded restitution. A confidential benefit-sharing deal gave them royalties, knowledge exchange and jobs.
 
   <!-- nature-gov-192 -->
 
-- **Neem patent dispute**
+- **The neem tree fights back**
 
-  {{TEXT:nature-gov-191}}
+  Indian farmers have used extracts of the neem tree for around 2,000 years, against pests and fungi. In 1994, the company W.R. Grace patented a neem oil antifungal spray anyway. The challenge to such US and European patents became a landmark. The European Patent Office overturned the patent in 2000. The neem tree became a symbol of resistance to corporate control of Indigenous knowledge.
 
   <!-- nature-gov-191 -->
 
-- **Conservation refugee**
+- **Conservation refugees**
 
-  {{TEXT:nature-gov-197}}
+  In Guinea, 663,000 people have been displaced from protected areas. Liberia claims over 120,000 conservation refugees, and Senegal has 65,000 displaced. A conservation refugee is a person, usually Indigenous, pushed from their homeland when a park or reserve is created. Many were already marginalized. They end up on the edges of towns with few opportunities and rarely have legal recourse. The idea behind it is old. John Muir's view that wilderness should be emptied of inhabitants became US policy with the 1964 Wilderness Act. The anthropologist Darrell Posey disagreed, arguing that landscapes that look natural may have been shaped by Indigenous peoples.
 
   <!-- nature-gov-197 -->
 
-- **Locally unwanted land use**
+- **Locally unwanted land uses**
 
-  {{TEXT:nature-gov-219}}
+  Nobody wants a landfill, power plant or prison next door. Planners call such a project a locally unwanted land use: a facility a community opposes because of the harms it expects. Those harms include health hazards, ugliness, lower home values and sometimes higher utility bills. Such facilities tend to land in poor, minority or politically weak places that cannot fight them off. They then keep wealthier buyers away, trapping low-income residents in cheap housing near dumps and highways. Of more than 1,000 US Superfund toxic sites, 25% lie on or near Native American reservations.
 
   <!-- nature-gov-219 -->
 
-- **Sacrifice zone**
+- **Sacrifice zones**
 
-  {{TEXT:nature-gov-224}}
+  Louisiana's "Cancer Alley" runs 85 miles along the Mississippi, lined with over 200 petrochemical plants. Its population is disproportionately Black and low-income. It is a sacrifice zone: an area permanently damaged by heavy environmental change or economic neglect, often through land uses no one else would accept. A 2022 UN report found that millions of people live in pollution sacrifice zones, mostly around heavy industry and mining, with marginalized groups hit hardest. The phrase has roots in a 1973 US National Academy of Sciences report on strip-mined coal lands in the American West, which spoke of a "national sacrifice area." Sacrifice zones have a mirror image, "abundance zones." Damage in some places sustains privilege elsewhere. Naomi Klein argued in 2014 that an economy run on fuels that release poisons when extracted has always needed sacrifice zones.
 
   <!-- nature-gov-224 -->
 
-- **Seven generation sustainability**
+- **Thinking seven generations ahead**
 
-  {{TEXT:nature-gov-225}}
+  Live and work for the good of the seventh generation to come. That principle is believed to come from the Great Law of the Haudenosaunee, which judges decisions by their effects seven generations ahead. The often-quoted line does not actually appear in written versions of the Haudenosaunee constitution. That text instead urges leaders to consider future generations. Some green economists advise judging a project's impacts from the viewpoint of the seventh generation.
 
   <!-- nature-gov-225 -->
 
-- **Ethnoecology**
+- **Ethnoecology: how cultures read their environment**
 
-  {{TEXT:nature-gov-208}}
+  According to the WHO, almost 80% of the world's people rely on traditional plant-based remedies as a main source of treatment. Ethnoecology studies how different groups of people understand the ecosystems around them and their own place in them. Harold Conklin coined the term in his 1954 dissertation on how the Hanunoo culture relates to plants. To learn how cultures classify their surroundings, it borrows methods from linguistics and anthropology. It treats humans as part of ecosystems. People can act as a keystone species, shaping soil formation, seed dispersal and biodiversity.
 
   <!-- nature-gov-208 -->
 
 - **Atmospheric colonization**
 
-  {{TEXT:nature-gov-194}}
+  Countries of the Global North hold 19% of the world's people but account for 92% of accumulated greenhouse gas emissions. The Global South accounts for 8%. Atmospheric colonization is the idea that rich countries have taken over most of the sky's capacity to absorb greenhouse gases, leaving poorer countries to bear the results. Countries such as Ecuador emit relatively little carbon dioxide but have far fewer resources to cope with local climate impacts.
 
   <!-- nature-gov-194 -->
 
-- **Climate apartheid**
+- **Climate apartheid: when only the rich escape**
 
-  {{TEXT:nature-gov-195}}
+  When Superstorm Sandy hit in 2012, most of New York lost power. Goldman Sachs's headquarters had its own generator and sandbags. UN Special Rapporteur Philip Alston cited that contrast in June 2019. He warned of climate apartheid, a world where only the rich can escape climate change. He said it could undermine human rights, democracy and the rule of law.
 
   <!-- nature-gov-195 -->
 
-- **Ecological distribution conflict**
+- **Ecological distribution conflicts**
 
-  {{TEXT:nature-gov-203}}
+  When a factory pollutes a river, the market usually puts no price on the harm, so the people downstream go uncompensated. In 1995, Joan Martínez-Alier and Martin O'Connor coined a term for such fights: ecological distribution conflicts. These are clashes over unfair access to natural resources and unequal pollution burdens. Mainstream economics treats such harms as externalities, costs to outsiders that could be priced. Ecological economists and political ecologists reject the idea that money can measure them. Movements may ask for money when weak, but argue from values money cannot measure when strong.
 
   <!-- nature-gov-203 -->
 
-- **Environmentalism of the poor**
+- **The environmentalism of the poor**
 
-  {{TEXT:nature-gov-206}}
+  Chipko villagers hugging trees in India, Indigenous groups resisting Brazilian agribusiness, Wangari Maathai's Green Belt Movement: all are examples of the environmentalism of the poor. These are movements that arise when poor people fight powerful state or private interests threatening their livelihood, health, sovereignty and culture. Mainstream environmentalism centers on conservation and efficiency. This kind puts social justice first. Martinez-Alier describes it as poor people's struggles in conflicts where an activity's harms fall unevenly and unjustly. Peruvian historian Alberto Flores Galindo suggested the term in 1988. In 1997 Martinez-Alier and Ramachandra Guha contrasted it with the "full-belly environmentalism" of the global North. Women often lead, because fetching water and growing crops bring them into direct contact with nature. The risks are mortal. Leaders such as Berta Cáceres and Chico Mendes were assassinated. International justice networks now help local defenders seek support against large corporations.
 
   <!-- nature-gov-206 -->
 
-- **Distributional effects of environmental policy**
+- **Who pays for green policy?**
 
-  {{TEXT:nature-gov-228}}
+  A carbon tax that keeps its revenue hits the poorest households hardest. That is because it is regressive: its burden falls, as a share of income, the richer people are. The distributional effects of an environmental policy describe how its costs and benefits fall on different groups, and whether it widens or narrows injustice. They are one of the standard tests for judging policy, alongside efficiency and cost-effectiveness. The pattern varies. One study found carbon pricing is on average progressive in countries with incomes below USD 15,000 a head, but tends to be regressive in richer ones. A 2019 study found energy efficiency standards more regressive than energy taxes. Because carbon pricing leans regressive, economists say poor people should be compensated. Not all agree on the premise: Gilbert Metcalf disputed that a US carbon tax would be regressive. Global estimates of climate damage usually leave these effects out.
 
   <!-- nature-gov-228 -->
 
-- **UN Declaration on the Rights of Indigenous Peoples**
+- **The UN Declaration on the Rights of Indigenous Peoples**
 
-  {{TEXT:nature-gov-183}}
+  In 2007 the United Nations adopted a declaration setting out the collective rights of Indigenous peoples. Those rights include self-determination and the protection of cultures, identities, languages, ceremonies and access to resources. The declaration does not define Indigenous peoples. It affirms instead their right to decide their own identity. It is the clearest statement of free, prior and informed consent in international development. It also offers benchmark standards on Indigenous land rights.
 
   <!-- nature-gov-183 -->
 
-- **Environmental personhood**
+- **Environmental personhood: when a river becomes a person**
 
-  {{TEXT:nature-gov-205}}
+  In 2017, New Zealand declared the Whanganui River a legal person. It is represented by two guardians, one from the Māori iwi and one from the Crown. Environmental personhood is a legal idea that gives natural features, such as rivers or forests, the status of a legal person. That brings rights and liabilities. A river cannot go to court, so a guardian acts for it. And a legal person cannot be owned. Christopher D. Stone first proposed the idea in the 1970s, in an article titled "Should trees have standing?" An Indian state court gave the Ganges and Yamuna rivers similar status in March 2017. Skeptics noted that words alone would not stop the pollution. In 2022 Spain made the Mar Menor lagoon the first ecosystem in Europe with its own rights. Supporters say people can then sue for nature without showing harm to humans. Critics ask who is liable if a river is sued over a flood. Even some environmentalists reject it.
 
   <!-- nature-gov-205 -->
 
-- **Rawls's kinds of procedural justice**
+- **Rawls's three kinds of procedural justice**
 
-  {{TEXT:nature-gov-221}}
+  In A Theory of Justice, John Rawls split procedural justice into three forms. Perfect procedural justice has an independent standard of a fair result and a procedure that guarantees reaching it. Imperfect procedural justice has the standard but no procedure that guarantees the fair result. Pure procedural justice has no standard of a just result apart from the procedure itself.
 
   <!-- nature-gov-221 -->
 
 - **Environmental reparations**
 
-  {{TEXT:nature-gov-174}}
+  Environmental reparations are payments or investments made to people judged to be harmed by industry. Recipients might be people living near industry, disaster victims or climate refugees. The forms vary widely: direct payouts, funds to clean waste sites, air monitors in low-income neighborhoods, or public transport.
 
   <!-- nature-gov-174 -->
 
-- **Climate refugees and human rights**
+- **Climate refugees and the gap in the law**
 
-  {{TEXT:nature-gov-188}}
+  Asian and African mega-deltas and small islands face high risks of floods and storms, and possibly displacement on a large scale. People forced to move by climate change fall into a legal gap, because international law does not yet cover such migration. The International Organization for Migration defines environmental migrants as people obliged or choosing to leave home because environmental change harms their lives. Climate migration is one of the most disputed effects of climate change. How many people will move, and who counts as a climate refugee, remain undefined in law.
 
   <!-- nature-gov-188 -->
 
-- **Aboriginal title**
+- **Aboriginal title: land rights that outlive conquest**
 
-  {{TEXT:nature-gov-216}}
+  In 1971, Meriam people in Australia began a case that would overturn a legal fiction. In the Mabo case, the High Court recognized native ownership and rejected terra nullius, the doctrine that the land had belonged to no one. Aboriginal title is the common-law rule that Indigenous peoples' customary land rights survive after a settler state takes sovereignty. It is called native title in Australia, customary title in New Zealand and original Indian title in the US. American law went the other way first. In Johnson v. McIntosh (1823), the doctrine of discovery was used to rule that Native Americans had only rights of occupancy.
 
   <!-- nature-gov-216 -->
 
-- **Varieties of environmentalism**
+- **Three kinds of environmentalism**
 
-  {{TEXT:nature-gov-207}}
+  Joan Martinez-Alier divides environmentalism into three currents. The cult of the wilderness, tied to older conservation campaigns, tries to keep economic activity away from nature, mainly through reserves. It has at times expelled poor and Indigenous people to create them. The gospel of eco-efficiency accepts growth but wants growth that uses fewer resources and makes less waste. Critics say physical laws limit efficiency gains, and that rich economies cut material use only by outsourcing heavy production to poorer countries. The third current is environmental justice, the environmentalism of the poor.
 
   <!-- nature-gov-207 -->
 
-- **Ancestral domain**
+- **Ancestral domain: more than a land title**
 
-  {{TEXT:nature-gov-189}}
+  Many Indigenous peoples would rather be called custodians of their lands than owners. Tradable private land was often a colonial import. Ancestral domain, a term used especially in the Asia-Pacific region, means the lands, territories and resources of Indigenous peoples. Unlike a land title, "domain" covers spiritual and cultural ties, not just ownership that can be sold. The Philippines' Indigenous People's Rights Act of 1997 defines it to include lands, inland waters, coasts and natural resources. International law shifted too. The ILO's 1957 Convention No. 107 assumed Indigenous peoples would be absorbed into wider society. Convention No. 169 replaced it in 1989.
 
   <!-- nature-gov-189 -->
 
 - **Feminist political ecology**
 
-  {{TEXT:nature-gov-211}}
+  Environmental policies that seem gender-neutral can overlook what women know about managing resources. Feminist political ecology studies how gender shapes people's access to, control over and knowledge of natural resources. It treats three areas as gendered: knowledge, environmental rights and grassroots activism. It explains differences in experience through social ideas about gender, not biology. A key founding text is the 1996 book Feminist Political Ecology by Dianne Rocheleau and colleagues.
 
   <!-- nature-gov-211 -->
 
-- **Rights of nature law**
+- **Writing the rights of nature into law**
 
-  {{TEXT:nature-gov-223}}
+  Ecuador's 2008 constitution gives nature, or Pachamama, the right to exist and to renew its vital cycles. Any person may demand those rights be respected. Rights of nature law writes this idea into constitutions, statutes, treaties, local laws and court rulings. It treats ecosystems and species as having inherent rights, much like human rights. As of 2022 such laws existed in 39 countries, and initiatives grew from 409 in June 2021 to 495 in May 2024. In 2019, Bangladesh's High Court declared the Turag River, and by extension all the country's rivers, living entities with legal rights.
 
   <!-- nature-gov-223 -->
 
-- **Gender and environment**
+- **Gender and the environment**
 
-  {{TEXT:nature-gov-229}}
+  Women do 80% of food production in sub-Saharan Africa, 60% in Asia and 50% in Latin America. Men generally own the land. The study of gender and environment examines how relations between women, men and nature shape resource use, divide responsibilities and affect well-being. Interest grew from Ester Boserup's 1960s book Woman's Role in Economic Development, and policymakers paid more attention from the 1980s. Improving women's access to farm resources could raise their yields by 20–30% and total farm output in poor countries by 2.5–4%. Some feminist economists argue that the focus on growth sustains gender and environmental injustice, and propose shorter, shared work.
 
   <!-- nature-gov-229 -->
 
 - **ILO Convention 169**
 
-  {{TEXT:nature-gov-181}}
+  In 1989 the International Labour Organization adopted a treaty on Indigenous and tribal peoples. ILO Convention 169 aims to end discrimination against them and give them a role in decisions, built on participation and consultation. The duty to consult falls on the state, not on companies. Its aim is agreement or consent to a proposed development.
 
   <!-- nature-gov-181 -->
 
-- **Indigenous FPIC protocols**
+- **Consent protocols written by Indigenous peoples**
 
-  {{TEXT:nature-gov-182}}
+  Since the early 2000s, Indigenous peoples have written their own rules for how consent processes must run. These are FPIC protocols. The first were tied to specific sectors. The second were bio-cultural protocols linked to the Biodiversity Convention's rules on access to genes. The third, mostly from Latin America, are autonomous protocols.
 
   <!-- nature-gov-182 -->
 
 ### Poverty, development and the environment
 
-- **Poverty**
+Most of the world's people live on less than $10 a day, and the poorest depend most directly on land, water and forests. When that land degrades, food and income fall, and families can sink into a cycle of poverty that later generations cannot escape. Whole countries can be stuck the same way, held back by degraded land, disease, war and poor infrastructure. This short chapter looks at how poverty and environmental damage reinforce each other, and at ways of thinking about livelihoods that last.
 
-  {{TEXT:nature-gov-005}}
+- **Poverty: lacking the basics**
+
+  As of 2019, measured in dollars adjusted for local prices, 85% of people lived on less than $30 a day. Two-thirds lived on less than $10, and 10% on less than $1.90. Poverty is lacking the money and essentials needed for a basic standard of living. Absolute poverty compares income with what basic needs cost, such as food, clothing and shelter. Relative poverty compares living standards with others in the same time and place. The famous "dollar a day" line, introduced in 1990, became US$1.90 a day in 2015. It is measured at purchasing power parity, meaning what money buys locally, rather than at exchange rates. Poverty and nature are closely tied. Poor people are more exposed to the environmental effects of industry, climate change, disasters and extreme weather. Economic pressure on poor communities often plays a part in deforestation and biodiversity loss. Growth does not always help: the poorest citizens of middle-income countries often fail to gain enough of the new wealth to escape. Sustainable Development Goal 1, "No Poverty," adopted in 2015, sums up the international framework for ending it.
 
   <!-- nature-gov-005 -->
 
-- **Poverty and environmental degradation**
+- **Does poverty damage nature, or protect it?**
 
-  {{TEXT:nature-gov-006}}
+  Developing countries suffer 99% of the casualties attributable to climate change. Yet about 92% of accumulated greenhouse gas emissions are attributed to the Global North. That lopsided split of burdens and benefits gave rise to the global movements for environmental justice and climate justice. The link between poverty and environmental damage runs both ways. The poor tend to suffer most when natural resources are exploited and ecosystems degrade. A 2016 UN report claimed that by 2030 climate change could push an additional 122 million people into extreme poverty. Does poverty also cause degradation? Here the experts split. The Brundtland Report concluded that it does. The environmentalism-of-the-poor view holds the opposite: the global poor may be the most important force for sustainability. Conservation itself can burden the poor too. Fortress conservation has evicted Indigenous people, and green colonialism grabs land in the name of environmentalism.
 
   <!-- nature-gov-006 -->
 
-- **Land degradation and poverty**
+- **Degraded land and deprivation: a vicious circle**
 
-  {{TEXT:nature-gov-007}}
+  In 2025, 47 million stunted children under five lived where stunting overlaps with large harvest losses from land degradation. Southern Asia and sub-Saharan Africa are where degraded land and deep poverty coincide. Land degradation and deprivation reinforce each other. Damaged land brings lower yields, less food, more exposure to floods and droughts, lost homes and economic trouble. It can also lose its natural ability to store and filter water, causing shortages. Most of sub-Saharan Africa shows fairly low losses from degradation. That is not because its soils are healthier. Poor access to fertilizer, machinery, credit and markets holds yields down even more. Of the world's 570 million farms, 85% are under 2 hectares and work just 9% of farmland, which limits what farmers can do. Degradation sharpens competition for land. All but 3 conflicts inside African states since the 1990s are linked to it. It can also drive people to migrate.
 
   <!-- nature-gov-007 -->
 
-- **Cycle of poverty**
+- **The cycle of poverty**
 
-  {{TEXT:nature-gov-001}}
+  Children born into poverty depend on their guardians and are too young to work their own way out. That makes them the most vulnerable part of the cycle of poverty, also called a poverty trap. In this situation, poverty seems to pass down, and later generations cannot escape it. Self-reinforcing forces keep it going unless someone from outside steps in. Lack of money, education and social connections all hold families in place. Applied to whole developing countries, the idea is called a development trap. The cycle has an environmental edge. People living in degraded ecosystems may want sustainable options but cannot afford to let land and resources regenerate. The cycle also makes climate harms worse. Conditional cash transfers, payments tied to steps such as schooling or health checks, aim to help families now and break the cycle for the next generation.
 
   <!-- nature-gov-001 -->
 
-- **Sustainable livelihood**
+- **Sustainable livelihoods**
 
-  {{TEXT:nature-gov-003}}
+  Poverty is not only a lack of money. The sustainable livelihoods idea widens the view to include vulnerability and social exclusion. It asks how people, especially vulnerable groups, can support themselves in ways that last and can bounce back from shocks. The Brundtland Commission introduced the idea. The 1992 UN Conference on Environment and Development made sustainable livelihoods a broad goal for ending poverty. The approach favors development centered on people and shaped by their participation, linking environmental and economic concerns. The 17 Sustainable Development Goals, adopted in 2015 for 2030, are one example. The COVID-19 pandemic set back goals such as SDG 1, No Poverty.
 
   <!-- nature-gov-003 -->
 
-- **Water subsidies and the poor**
+- **Cheap water that misses the poor**
 
-  {{TEXT:nature-gov-009}}
+  Poor families without a piped connection often buy water from vendors at about 5 to 16 times the metered price. Meanwhile, subsidies that make piped water cheap flow mainly to households already connected, typically richer urban ones outside informal settlements. With heavy subsidies, water prices in developing countries cover on average only 30% of supply costs. Utilities then have little reason to maintain or extend their networks. Leaks lose enough water for 200 million people a year, and many poor homes stay unconnected. Subsidizing new connections has shown more promise.
 
   <!-- nature-gov-009 -->
 
 - **Energy poverty and development**
 
-  {{TEXT:nature-gov-008}}
+  Businesses, schools, clinics and homes all run on energy, so lacking it holds development back. Poor energy access is linked to infant mortality, illiteracy and shorter lives, and can push people to move to cities. Energy use and economic growth have historically risen together, though it is unclear which drives the other. By the early 2000s, rich countries were growing without a matching rise in energy use. In developing countries the two stayed tightly linked. Energy-poor households often burn wood and dung, which release black carbon, a health hazard, when they burn incompletely.
 
   <!-- nature-gov-008 -->
 
-- **Poverty traps in developing countries**
+- **Why whole countries stay poor**
 
-  {{TEXT:nature-gov-002}}
+  Some countries stay stuck in poverty as a whole, held back by lack of credit, degraded land, corruption, disease, war and poor infrastructure. Extreme environmental degradation is one cause, because it cuts what farmland can produce. Jeffrey Sachs argues that the extreme poor lack six kinds of capital, natural capital among them. When population grows faster than savings, capital per person can shrink each generation. Sachs argues that large, lasting foreign aid can lift households above subsistence. He wants public money spent on health, education, infrastructure and natural capital, such as conserving ecosystems, leaving business investment to private firms.
 
   <!-- nature-gov-002 -->
 
-- **Livelihood capitals framework**
+- **Five kinds of capital for a livelihood**
 
-  {{TEXT:nature-gov-004}}
+  The United Nations Development Programme sizes up how people make a living by the five kinds of capital they can draw on. Human capital is skills and health. Social capital is relationships. Natural capital is land, water and other resources. Physical capital is tools and infrastructure, and financial capital is money. How much people can reach of each shapes how the UNDP designs its projects. The framework also asks how people use these assets to cope with shocks. The UK's Department for International Development and the charity CARE use similar frameworks instead of sector-by-sector approaches.
 
   <!-- nature-gov-004 -->
 
@@ -21148,7 +21154,7 @@ Firms make most of the goods people buy, and most of the harm that comes with th
 
 - **Nature-positive: halt the loss by 2030, recover by 2050**
 
-  Over 90 world leaders signed the Leaders' Pledge for Nature, and the G7 committed to the goal at its 2021 summit. Nature-positive is a goal to halt and reverse the loss of nature by 2030 and to achieve its full recovery by 2050. Progress is measured against a baseline of biodiversity in 2020. It was proposed as a single global goal for nature, to sit beside climate and development goals, aiming at an 'Equitable, Nature-Positive, Carbon Neutral world'. It matches the 2030 mission and 2050 vision of the Kunming-Montreal Global Biodiversity Framework, though that framework does not name it. What is new is its reach. Unlike earlier approaches, it covers a company's whole value chain, not just its direct impacts. It also aims for absolute gains, not merely doing less harm than before. The idea is contested. Critics call it vague and open to greenwashing, and warn of the 'financialization of nature', turning nature into something traded for money. Its 'net' approach is criticised for implying continued loss and for assuming that like-for-like compensation is possible. Supporters reply that business must be part of the solution. To keep the goal honest, the researcher Milner-Gulland proposed it needs a measured baseline, a timeframe, a target, clear actions, regular monitoring and disclosure.
+  Over 90 world leaders signed the Leaders' Pledge for Nature, and the G7 committed to the goal at its 2021 summit. Nature-positive is a goal to halt and reverse the loss of nature by 2030 and to achieve its full recovery by 2050. Progress is measured against a baseline of biodiversity in 2020. It was proposed as a single global goal for nature, to sit beside climate and development goals, aiming at an 'Equitable, Nature-Positive, Carbon Neutral world'. It matches the 2030 mission and 2050 vision of the The Kunming-Montreal framework: a Paris Agreement for nature, though that framework does not name it. What is new is its reach. Unlike earlier approaches, it covers a company's whole value chain, not just its direct impacts. It also aims for absolute gains, not merely doing less harm than before. The idea is contested. Critics call it vague and open to greenwashing, and warn of the 'financialization of nature', turning nature into something traded for money. Its 'net' approach is criticised for implying continued loss and for assuming that like-for-like compensation is possible. Supporters reply that business must be part of the solution. To keep the goal honest, the researcher Milner-Gulland proposed it needs a measured baseline, a timeframe, a target, clear actions, regular monitoring and disclosure.
 
   <!-- nature-gov-079 -->
 
@@ -21670,7 +21676,7 @@ Some were economists, like Arthur Cecil Pigou, who proposed taxing activities th
 
 - **Joan Martinez Alier and the environmentalism of the poor**
 
-  The economy is not a circle, says Joan Martinez Alier. Energy is not recycled, and materials only partly so. The Spanish economist, born in 1939, makes this case against neoclassical economists. His work in Ecological economics: the economy inside the ecosystem and Political ecology is summed up in the Environmentalism of the poor: the struggles poor people wage when conflicts over nature's costs and benefits threaten them. With Martin O'Connor he introduced 'ecological distribution conflicts' in 1995 as a way to document such struggles. He is a founding member and past president of the The International Society for Ecological Economics. In 2023 he won the Holberg Prize for research in ecological economics, political ecology and environmental justice.
+  The economy is not a circle, says Joan Martinez Alier. Energy is not recycled, and materials only partly so. The Spanish economist, born in 1939, makes this case against neoclassical economists. His work in Ecological economics: the economy inside the ecosystem and Political ecology: power and the environment is summed up in the The environmentalism of the poor: the struggles poor people wage when conflicts over nature's costs and benefits threaten them. With Martin O'Connor he introduced 'ecological distribution conflicts' in 1995 as a way to document such struggles. He is a founding member and past president of the The International Society for Ecological Economics. In 2023 he won the Holberg Prize for research in ecological economics, political ecology and environmental justice.
 
   <!-- nature-hist-064 -->
 
