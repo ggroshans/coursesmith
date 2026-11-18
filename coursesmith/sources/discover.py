@@ -11,6 +11,7 @@ ready-to-paste `sources:` snippet. A human sets `status: accept`, copies the sni
 not authority, so the score orders the list for reading and decides nothing.
 """
 import math
+import re
 from datetime import datetime, timedelta, timezone
 
 import yaml
@@ -24,7 +25,9 @@ CLASS_POINTS = {"official": 3, "standards": 3, "academic": 2, "community": 1, "p
 CLASS_TIER = {"official": "official", "standards": "standard", "academic": "primary", "community": "curated",
               "personal": "commentary"}
 ADAPTER_CLASS = {"rfc": "standards", "paper": "academic"}
-SEARCHERS = ("github", "rfc", "paper")
+SEARCHERS = ("github", "rfc")  # papers are known by name; a keyword search returns noise (opt in with --papers)
+RELEVANCE_WEIGHT = 3  # relevance (0-5) outweighs popularity and license points, which a famous unrelated repo has too
+STOPWORDS = {"the", "and", "for", "how", "with", "from", "what", "that", "this", "your", "into", "about"}
 REQUIRED_FOUND = ("url", "adapter", "title", "license_seen", "license_url", "why")
 
 
@@ -69,13 +72,37 @@ def domain_class(c, registry=None):
     return "community"
 
 
-def score(c, registry=None, now=None):
+def _words(s):
+    return re.findall(r"[a-z0-9]+", str(s or "").lower())
+
+
+def relevance(c, queries):
+    """0-5: how much of a search query a candidate's name, description and topics echo. Popularity alone puts an
+    unrelated but famous repository on top; this keeps the list about the subject."""
+    ev = c.get("evidence") or {}
+    text = " ".join(_words(" ".join([str(c.get("title") or ""), str(c.get("repo") or ""), str(c.get("snippet") or ""),
+                                     " ".join(ev.get("topics") or [])])))
+    have = set(text.split())
+    best = 0.0
+    for q in queries or []:
+        ws = [w for w in _words(q) if len(w) >= 3 and w not in STOPWORDS]
+        if not ws:
+            continue
+        share = sum(1 for w in ws if w in have) / len(ws)
+        phrase = 1 if " ".join(ws) in text else 0
+        best = max(best, 3 * share + 2 * phrase)
+    return round(best, 2)
+
+
+def score(c, registry=None, now=None, queries=None):
     """(score, parts). Higher reads first; nothing here approves a source."""
     ev = c.get("evidence") or {}
     seen = ev.get("license_spdx") or c.get("license_seen") or ""
     cls = licenses.classify(seen) if seen and seen != "NOASSERTION" else "unknown"
+    # NOASSERTION means a license file exists that GitHub could not match (the System Design Primer's CC BY text
+    # is one): worth reading, so it earns a point; `sources check` reads it
     parts = {
-        "license": 3 if cls != "unknown" and licenses.is_public(cls) else 1 if cls != "unknown" else 0,
+        "license": 3 if cls != "unknown" and licenses.is_public(cls) else 1 if cls != "unknown" or seen == "NOASSERTION" else 0,
         "domain": CLASS_POINTS.get(domain_class(c, registry), 0),
         "stars": round(min(math.log10((ev.get("stars") or 0) + 1), 5), 2),
         "contributors": round(min((ev.get("contributors") or 0) / 25, 2), 2),
@@ -83,6 +110,8 @@ def score(c, registry=None, now=None):
         "maintainer": 1 if (ev.get("owner_type") == "Organization" or c.get("maintainer")) else 0,
         "archived": -3 if ev.get("archived") else 0,
     }
+    if queries:
+        parts["relevance"] = round(RELEVANCE_WEIGHT * relevance(c, queries), 2)
     return round(sum(parts.values()), 2), parts
 
 
@@ -123,7 +152,9 @@ def from_registry(registry, queries, include_terms):
             out.append({"id": f"gh:{r['repo']}", "adapter": "github", "repo": r["repo"], "title": r["repo"].split("/")[1],
                         "url": f"https://github.com/{r['repo']}", "origin": "registry", "suggested_tier": r.get("tier"),
                         "license_seen": lic.get("name") or lic.get("spdx"), "domain_class": r.get("class"),
-                        "evidence": {"registry": True, "verified": str(lic.get("verified") or "")}})
+                        "snippet": str(r.get("note") or ""),
+                        "evidence": {"registry": True, "verified": str(lic.get("verified") or ""),
+                                     "topics": r.get("topics") or []}})
     return out
 
 
@@ -142,9 +173,9 @@ def merge_candidates(old, new):
     return list(by_id.values())
 
 
-def finish(cands, registry):
+def finish(cands, registry, queries=None):
     for c in cands:
-        s, parts = score(c, registry)
+        s, parts = score(c, registry, queries=queries)
         c["score"], c["score_parts"] = s, parts
         c["suggested_tier"] = c.get("suggested_tier") or CLASS_TIER[domain_class(c, registry)]
         c["subject_yaml"] = snippet(c, registry)
@@ -157,13 +188,13 @@ def write_candidates(subject, cands):
                  + yaml.safe_dump(cands, sort_keys=False, allow_unicode=True, width=110))
 
 
-def run(subject, queries=None, limit=20, network=True, registry=None, log=print):
+def run(subject, queries=None, limit=20, network=True, registry=None, log=print, papers=False):
     registry = registry or Registry.from_subject(subject)
     qs = list(queries or default_queries(subject))
     include = (subject.cfg.get("scope") or {}).get("include_terms") or []
     new = from_registry(registry, qs, include)
     if network:
-        for name in SEARCHERS:
+        for name in SEARCHERS + (("paper",) if papers else ()):
             try:
                 ad = adapter_class(name).for_discovery(http=registry.http)
                 for q in qs:
@@ -179,7 +210,7 @@ def run(subject, queries=None, limit=20, network=True, registry=None, log=print)
                             c["evidence"]["contributors"] = n
             except SourceError as e:
                 log(f"[sources] {name} search failed: {e}")
-    cands = finish(merge_candidates(load_candidates(subject), new), registry)
+    cands = finish(merge_candidates(load_candidates(subject), new), registry, qs)
     write_candidates(subject, cands)
     log(f"[sources] {len(cands)} candidates for {subject.slug} -> {candidates_path(subject).relative_to(subject.dir)}; "
         f"review them, set status, and paste accepted ones into subject.yaml")

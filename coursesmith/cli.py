@@ -50,10 +50,11 @@ def cmd_init(a):
 # --------------------------------------------------------------------- sources
 @command("sources discover", "find candidate sources for the subject (writes scope/sources.candidates.yaml)",
          arg("--query", action="append", default=[], help="a search phrase (repeatable; default: the title and seeds)"),
-         arg("--limit", type=int, default=20), arg("--offline", action="store_true", help="registry only, no network"))
+         arg("--limit", type=int, default=20), arg("--offline", action="store_true", help="registry only, no network"),
+         arg("--papers", action="store_true", help="also search papers (noisy: name the papers you want instead)"))
 def cmd_sources_discover(a):
     from .sources import discover
-    discover.run(a.subject, a.query, a.limit, network=not a.offline)
+    discover.run(a.subject, a.query, a.limit, network=not a.offline, papers=a.papers)
 
 
 @command("sources packet", "write the brief for a web-search session (guides/SOURCES_GUIDE.md)")

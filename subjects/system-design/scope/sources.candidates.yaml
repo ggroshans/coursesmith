@@ -1,0 +1,1113 @@
+# Candidate sources. Set `status: accept` (or reject), copy `subject_yaml` into
+# subject.yaml under `sources:`, then run `coursesmith sources check`.
+- id: gh:donnemartin/system-design-primer
+  adapter: github
+  repo: donnemartin/system-design-primer
+  title: system-design-primer
+  url: https://github.com/donnemartin/system-design-primer
+  origin: api
+  suggested_tier: curated
+  license_seen: CC BY 4.0
+  domain_class: community
+  evidence:
+    stars: 378396
+    forks: 59317
+    pushed_at: '2026-09-15T01:10:09Z'
+    license_spdx: NOASSERTION
+    topics:
+    - design
+    - design-patterns
+    - design-system
+    - development
+    - interview
+    - interview-practice
+    - interview-questions
+    - programming
+    - python
+    - system
+    - web
+    - web-application
+    - webapp
+    owner_type: User
+    default_branch: master
+    archived: false
+    contributors: 134
+  status: candidate
+  note: ''
+  snippet: Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+  score: 25.0
+  score_parts:
+    license: 1
+    domain: 1
+    stars: 5
+    contributors: 2
+    recent: 1
+    maintainer: 0
+    archived: 0
+    relevance: 15.0
+  subject_yaml:
+    name: system-design-primer
+    adapter: github
+    repo: donnemartin/system-design-primer
+    ref: <run `sources check --fix-refs`>
+    include:
+    - README.md
+    - '**/*.md'
+    depth: 1
+    tier: curated
+    license:
+      name: CC BY 4.0
+- id: gh:ByteByteGoHq/system-design-101
+  adapter: github
+  repo: ByteByteGoHq/system-design-101
+  title: system-design-101
+  url: https://github.com/ByteByteGoHq/system-design-101
+  origin: api
+  suggested_tier: curated
+  license_seen: CC BY-NC-ND 4.0
+  domain_class: community
+  evidence:
+    stars: 91295
+    forks: 10182
+    pushed_at: '2025-04-04T17:30:30Z'
+    license_spdx: NOASSERTION
+    topics:
+    - aws
+    - cloud-computing
+    - coding-interviews
+    - computer-science
+    - interview-questions
+    - software-architecture
+    - software-development
+    - software-engineering
+    - system-design
+    - system-design-interview
+    owner_type: Organization
+    default_branch: main
+    archived: false
+    contributors: 16
+  status: candidate
+  note: ''
+  snippet: Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+  score: 23.6
+  score_parts:
+    license: 1
+    domain: 1
+    stars: 4.96
+    contributors: 0.64
+    recent: 0
+    maintainer: 1
+    archived: 0
+    relevance: 15.0
+  subject_yaml:
+    name: system-design-101
+    adapter: github
+    repo: ByteByteGoHq/system-design-101
+    ref: <run `sources check --fix-refs`>
+    include:
+    - README.md
+    - '**/*.md'
+    depth: 1
+    tier: curated
+    license:
+      name: CC BY-NC-ND 4.0
+- id: gh:karanpratapsingh/system-design
+  adapter: github
+  repo: karanpratapsingh/system-design
+  title: system-design
+  url: https://github.com/karanpratapsingh/system-design
+  origin: api
+  suggested_tier: curated
+  license_seen: CC BY-NC-ND 4.0
+  domain_class: community
+  evidence:
+    stars: 46965
+    forks: 6108
+    pushed_at: '2026-10-18T23:21:28Z'
+    license_spdx: NOASSERTION
+    topics:
+    - architecture
+    - distributed-systems
+    - engineering
+    - interview
+    - interview-preparation
+    - microservices
+    - scalability
+    - system-design
+    - system-design-interview
+    - tech
+    owner_type: User
+    default_branch: main
+    archived: false
+    contributors: 13
+  status: candidate
+  note: ''
+  snippet: Learn how to design systems at scale and prepare for system design interviews
+  score: 23.19
+  score_parts:
+    license: 1
+    domain: 1
+    stars: 4.67
+    contributors: 0.52
+    recent: 1
+    maintainer: 0
+    archived: 0
+    relevance: 15.0
+  subject_yaml:
+    name: system-design
+    adapter: github
+    repo: karanpratapsingh/system-design
+    ref: <run `sources check --fix-refs`>
+    include:
+    - README.md
+    - '**/*.md'
+    depth: 1
+    tier: curated
+    license:
+      name: CC BY-NC-ND 4.0
+- id: gh:checkcheckzz/system-design-interview
+  adapter: github
+  repo: checkcheckzz/system-design-interview
+  title: system-design-interview
+  url: https://github.com/checkcheckzz/system-design-interview
+  snippet: System design interview for IT companies
+  evidence:
+    stars: 23894
+    forks: 5281
+    pushed_at: '2023-04-03T04:22:45Z'
+    license_spdx: null
+    topics:
+    - design-systems
+    - interview
+    - interview-preparation
+    - interview-questions
+    - system
+    - system-design
+    owner_type: User
+    default_branch: master
+    archived: false
+    contributors: 27
+  origin: api
+  status: candidate
+  note: ''
+  score: 21.46
+  score_parts:
+    license: 0
+    domain: 1
+    stars: 4.38
+    contributors: 1.08
+    recent: 0
+    maintainer: 0
+    archived: 0
+    relevance: 15.0
+  suggested_tier: curated
+  subject_yaml:
+    name: system-design-interview
+    adapter: github
+    repo: checkcheckzz/system-design-interview
+    ref: <run `sources check --fix-refs`>
+    include:
+    - README.md
+    - '**/*.md'
+    depth: 1
+    tier: curated
+    license:
+      name: ''
+- id: gh:primer/css
+  adapter: github
+  repo: primer/css
+  title: css
+  url: https://github.com/primer/css
+  snippet: Primer is GitHub's design system. This is the CSS implementation
+  evidence:
+    stars: 13060
+    forks: 1290
+    pushed_at: '2026-11-17T22:07:23Z'
+    license_spdx: MIT
+    topics:
+    - css
+    - design-system
+    - design-systems
+    - framework
+    - meta
+    - primer
+    - primer-css
+    - sass
+    - styleguide
+    - ui-components
+    owner_type: Organization
+    default_branch: main
+    archived: false
+    contributors: 205
+  origin: api
+  status: candidate
+  note: ''
+  score: 21.12
+  score_parts:
+    license: 3
+    domain: 1
+    stars: 4.12
+    contributors: 2
+    recent: 1
+    maintainer: 1
+    archived: 0
+    relevance: 9.0
+  suggested_tier: curated
+  subject_yaml:
+    name: css
+    adapter: github
+    repo: primer/css
+    ref: <run `sources check --fix-refs`>
+    include:
+    - README.md
+    - '**/*.md'
+    depth: 1
+    tier: curated
+    license:
+      name: MIT
+- id: gh:kevingo/system-design-primer-zh-tw
+  adapter: github
+  repo: kevingo/system-design-primer-zh-tw
+  title: system-design-primer-zh-tw
+  url: https://github.com/kevingo/system-design-primer-zh-tw
+  snippet: system-design-primer 繁體中文翻譯計畫。原作者：https://github.com/donnemartin/system-design-primer
+  evidence:
+    stars: 971
+    forks: 116
+    pushed_at: '2019-03-04T14:36:51Z'
+    license_spdx: NOASSERTION
+    topics:
+    - interview-questions
+    - system
+    - system-design
+    - traditional-chinese
+    - translation
+    owner_type: User
+    default_branch: master
+    archived: false
+  origin: api
+  status: candidate
+  note: ''
+  score: 19.99
+  score_parts:
+    license: 1
+    domain: 1
+    stars: 2.99
+    contributors: 0.0
+    recent: 0
+    maintainer: 0
+    archived: 0
+    relevance: 15.0
+  suggested_tier: curated
+  subject_yaml:
+    name: system-design-primer-zh-tw
+    adapter: github
+    repo: kevingo/system-design-primer-zh-tw
+    ref: <run `sources check --fix-refs`>
+    include:
+    - README.md
+    - '**/*.md'
+    depth: 1
+    tier: curated
+    license:
+      name: NOASSERTION
+- id: gh:prasadgujar/low-level-design-primer
+  adapter: github
+  repo: prasadgujar/low-level-design-primer
+  title: low-level-design-primer
+  url: https://github.com/prasadgujar/low-level-design-primer
+  snippet: Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems.
+    Prep for the system design interview.
+  evidence:
+    stars: 7985
+    forks: 2489
+    pushed_at: '2024-01-01T20:34:02Z'
+    license_spdx: null
+    topics:
+    - design
+    - design-patterns
+    - development
+    - interview
+    - interview-preparation
+    - interview-questions
+    - low-level-design
+    - machine-coding
+    - object-oriented-programming
+    - oop
+    - system-design
+    - system-design-interview
+    - system-design-primer
+    - system-design-questions
+    - web
+    - web-app
+    owner_type: User
+    default_branch: master
+    archived: false
+  origin: api
+  status: candidate
+  note: ''
+  score: 19.9
+  score_parts:
+    license: 0
+    domain: 1
+    stars: 3.9
+    contributors: 0.0
+    recent: 0
+    maintainer: 0
+    archived: 0
+    relevance: 15.0
+  suggested_tier: curated
+  subject_yaml:
+    name: low-level-design-primer
+    adapter: github
+    repo: prasadgujar/low-level-design-primer
+    ref: <run `sources check --fix-refs`>
+    include:
+    - README.md
+    - '**/*.md'
+    depth: 1
+    tier: curated
+    license:
+      name: ''
+- id: gh:apollostary/donnemartin-system-design-primer
+  adapter: github
+  repo: apollostary/donnemartin-system-design-primer
+  title: donnemartin-system-design-primer
+  url: https://github.com/apollostary/donnemartin-system-design-primer
+  snippet: ''
+  evidence:
+    stars: 413
+    forks: 63
+    pushed_at: '2023-06-06T03:49:46Z'
+    license_spdx: NOASSERTION
+    topics: []
+    owner_type: User
+    default_branch: master
+    archived: false
+  origin: api
+  status: candidate
+  note: ''
+  score: 19.62
+  score_parts:
+    license: 1
+    domain: 1
+    stars: 2.62
+    contributors: 0.0
+    recent: 0
+    maintainer: 0
+    archived: 0
+    relevance: 15.0
+  suggested_tier: curated
+  subject_yaml:
+    name: donnemartin-system-design-primer
+    adapter: github
+    repo: apollostary/donnemartin-system-design-primer
+    ref: <run `sources check --fix-refs`>
+    include:
+    - README.md
+    - '**/*.md'
+    depth: 1
+    tier: curated
+    license:
+      name: NOASSERTION
+- id: gh:ashishps1/awesome-system-design-resources
+  adapter: github
+  repo: ashishps1/awesome-system-design-resources
+  title: awesome-system-design-resources
+  url: https://github.com/ashishps1/awesome-system-design-resources
+  snippet: Learn System Design concepts and prepare for interviews using free resources.
+  evidence:
+    stars: 43479
+    forks: 8976
+    pushed_at: '2026-11-01T09:36:12Z'
+    license_spdx: GPL-3.0
+    topics:
+    - awesome
+    - backend
+    - computer-science
+    - distributed-systems
+    - high-level-design
+    - hld
+    - interview
+    - interview-questions
+    - scalability
+    - system-design
+    owner_type: User
+    default_branch: main
+    archived: false
+    contributors: 4
+  origin: api
+  status: candidate
+  note: ''
+  score: 18.8
+  score_parts:
+    license: 3
+    domain: 1
+    stars: 4.64
+    contributors: 0.16
+    recent: 1
+    maintainer: 0
+    archived: 0
+    relevance: 9.0
+  suggested_tier: curated
+  subject_yaml:
+    name: awesome-system-design-resources
+    adapter: github
+    repo: ashishps1/awesome-system-design-resources
+    ref: <run `sources check --fix-refs`>
+    include:
+    - README.md
+    - '**/*.md'
+    depth: 1
+    tier: curated
+    license:
+      name: GPL-3.0
+- id: gh:madd86/awesome-system-design
+  adapter: github
+  repo: madd86/awesome-system-design
+  title: awesome-system-design
+  url: https://github.com/madd86/awesome-system-design
+  snippet: 'A curated list of awesome System Design (A.K.A. Distributed Systems) resources. '
+  evidence:
+    stars: 12667
+    forks: 1370
+    pushed_at: '2026-02-27T13:35:34Z'
+    license_spdx: CC0-1.0
+    topics:
+    - distributed-systems
+    - hadoop-ecosystem
+    - interview
+    - message-broker
+    - microservices
+    - microservices-architecture
+    - nosql
+    - relational-database
+    - stream-processing
+    owner_type: User
+    default_branch: master
+    archived: false
+    contributors: 15
+  origin: api
+  status: candidate
+  note: ''
+  score: 18.7
+  score_parts:
+    license: 3
+    domain: 1
+    stars: 4.1
+    contributors: 0.6
+    recent: 1
+    maintainer: 0
+    archived: 0
+    relevance: 9.0
+  suggested_tier: curated
+  subject_yaml:
+    name: awesome-system-design
+    adapter: github
+    repo: madd86/awesome-system-design
+    ref: <run `sources check --fix-refs`>
+    include:
+    - README.md
+    - '**/*.md'
+    depth: 1
+    tier: curated
+    license:
+      name: CC0-1.0
+- id: gh:primer/react
+  adapter: github
+  repo: primer/react
+  title: react
+  url: https://github.com/primer/react
+  snippet: An implementation of GitHub's Primer Design System using React
+  evidence:
+    stars: 3938
+    forks: 735
+    pushed_at: '2026-11-18T18:15:04Z'
+    license_spdx: MIT
+    topics:
+    - component-library
+    - design-system
+    - primer
+    - react
+    owner_type: Organization
+    default_branch: main
+    archived: false
+  origin: api
+  status: candidate
+  note: ''
+  score: 18.6
+  score_parts:
+    license: 3
+    domain: 1
+    stars: 3.6
+    contributors: 0.0
+    recent: 1
+    maintainer: 1
+    archived: 0
+    relevance: 9.0
+  suggested_tier: curated
+  subject_yaml:
+    name: react
+    adapter: github
+    repo: primer/react
+    ref: <run `sources check --fix-refs`>
+    include:
+    - README.md
+    - '**/*.md'
+    depth: 1
+    tier: curated
+    license:
+      name: MIT
+- id: gh:primer/view_components
+  adapter: github
+  repo: primer/view_components
+  title: view_components
+  url: https://github.com/primer/view_components
+  snippet: ViewComponents for the Primer Design System
+  evidence:
+    stars: 584
+    forks: 146
+    pushed_at: '2026-11-16T21:07:24Z'
+    license_spdx: MIT
+    topics:
+    - design-system
+    - primer
+    - rails
+    - ruby
+    - viewcomponent
+    - viewcomponents
+    owner_type: Organization
+    default_branch: main
+    archived: false
+  origin: api
+  status: candidate
+  note: ''
+  score: 17.77
+  score_parts:
+    license: 3
+    domain: 1
+    stars: 2.77
+    contributors: 0.0
+    recent: 1
+    maintainer: 1
+    archived: 0
+    relevance: 9.0
+  suggested_tier: curated
+  subject_yaml:
+    name: view_components
+    adapter: github
+    repo: primer/view_components
+    ref: <run `sources check --fix-refs`>
+    include:
+    - README.md
+    - '**/*.md'
+    depth: 1
+    tier: curated
+    license:
+      name: MIT
+- id: paper:10.4324/9781315196817
+  adapter: paper
+  title: The Sound System Design Primer
+  url: https://doi.org/10.4324/9781315196817
+  key: paper>10.4324/9781315196817
+  tier: primary
+  snippet: The Sound System Design Primer is an introduction to the many topics, technologies, and sub-disciplines
+    that make up contemporary sound systems design. Written in clear, conversational language for those who do not
+    have an engineering background, or who think more in language than in numbers, The So
+  evidence:
+    year: 2019
+    venue: Routledge eBooks
+    cited_by: 1
+    has_abstract: true
+  origin: api
+  status: candidate
+  note: ''
+  score: 17.0
+  score_parts:
+    license: 0
+    domain: 2
+    stars: 0.0
+    contributors: 0.0
+    recent: 0
+    maintainer: 0
+    archived: 0
+    relevance: 15.0
+  suggested_tier: primary
+  subject_yaml:
+    name: papers
+    adapter: paper
+    dois:
+    - 10.4324/9781315196817
+    tier: primary
+- id: gh:liquidslr/system-design-notes
+  adapter: github
+  repo: liquidslr/system-design-notes
+  title: system-design-notes
+  url: https://github.com/liquidslr/system-design-notes
+  snippet: Notes of the book System Desgin Interview - An Insider's Guide
+  evidence:
+    stars: 28517
+    forks: 5367
+    pushed_at: '2026-08-12T22:22:21Z'
+    license_spdx: null
+    topics: []
+    owner_type: User
+    default_branch: main
+    archived: false
+    contributors: 4
+  origin: api
+  status: candidate
+  note: ''
+  score: 15.62
+  score_parts:
+    license: 0
+    domain: 1
+    stars: 4.46
+    contributors: 0.16
+    recent: 1
+    maintainer: 0
+    archived: 0
+    relevance: 9.0
+  suggested_tier: curated
+  subject_yaml:
+    name: system-design-notes
+    adapter: github
+    repo: liquidslr/system-design-notes
+    ref: <run `sources check --fix-refs`>
+    include:
+    - README.md
+    - '**/*.md'
+    depth: 1
+    tier: curated
+    license:
+      name: ''
+- id: gh:shashank88/system_design
+  adapter: github
+  repo: shashank88/system_design
+  title: system_design
+  url: https://github.com/shashank88/system_design
+  snippet: Preparation links and resources for system design questions
+  evidence:
+    stars: 9297
+    forks: 2487
+    pushed_at: '2024-05-10T19:49:11Z'
+    license_spdx: null
+    topics:
+    - architecture
+    - concurrency
+    - engineering
+    - facebook
+    - interview
+    - interview-preparation
+    - interview-preparation-resources
+    - interview-questions
+    - preparation
+    - scalability
+    - scale-systems
+    - system-design
+    owner_type: User
+    default_branch: master
+    archived: false
+    contributors: 9
+  origin: api
+  status: candidate
+  note: ''
+  score: 14.33
+  score_parts:
+    license: 0
+    domain: 1
+    stars: 3.97
+    contributors: 0.36
+    recent: 0
+    maintainer: 0
+    archived: 0
+    relevance: 9.0
+  suggested_tier: curated
+  subject_yaml:
+    name: system_design
+    adapter: github
+    repo: shashank88/system_design
+    ref: <run `sources check --fix-refs`>
+    include:
+    - README.md
+    - '**/*.md'
+    depth: 1
+    tier: curated
+    license:
+      name: ''
+- id: gh:ibragim-bad/machine-learning-design-primer
+  adapter: github
+  repo: ibragim-bad/machine-learning-design-primer
+  title: machine-learning-design-primer
+  url: https://github.com/ibragim-bad/machine-learning-design-primer
+  snippet: Learn how to design and implement effective Machine Learning systems from start to finish.
+  evidence:
+    stars: 284
+    forks: 26
+    pushed_at: '2024-11-15T13:41:26Z'
+    license_spdx: null
+    topics:
+    - design-system
+    - interview-questions
+    - machine-learning
+    - machine-learning-systems
+    owner_type: User
+    default_branch: main
+    archived: false
+  origin: api
+  status: candidate
+  note: ''
+  score: 12.45
+  score_parts:
+    license: 0
+    domain: 1
+    stars: 2.45
+    contributors: 0.0
+    recent: 0
+    maintainer: 0
+    archived: 0
+    relevance: 9.0
+  suggested_tier: curated
+  subject_yaml:
+    name: machine-learning-design-primer
+    adapter: github
+    repo: ibragim-bad/machine-learning-design-primer
+    ref: <run `sources check --fix-refs`>
+    include:
+    - README.md
+    - '**/*.md'
+    depth: 1
+    tier: curated
+    license:
+      name: ''
+- id: paper:10.1007/978-3-031-64576-1_23
+  adapter: paper
+  title: 'InterView: A System to Support Interaction-Driven Visualization Systems Design'
+  url: https://doi.org/10.1007/978-3-031-64576-1_23
+  key: paper>10.1007/978-3-031-64576-1_23
+  tier: primary
+  snippet: ''
+  evidence:
+    year: 2024
+    venue: Lecture notes in computer science
+    cited_by: 1
+    has_abstract: false
+  origin: api
+  status: candidate
+  note: ''
+  score: 11.0
+  score_parts:
+    license: 0
+    domain: 2
+    stars: 0.0
+    contributors: 0.0
+    recent: 0
+    maintainer: 0
+    archived: 0
+    relevance: 9.0
+  suggested_tier: primary
+  subject_yaml:
+    name: papers
+    adapter: paper
+    dois:
+    - 10.1007/978-3-031-64576-1_23
+    tier: primary
+- id: paper:10.1007/979-8-8688-2782-2
+  adapter: paper
+  title: 'System Design with AI Interview Guide: Designing Scalable, Agentic, and Defensible Systems'
+  url: https://doi.org/10.1007/979-8-8688-2782-2
+  key: paper>10.1007/979-8-8688-2782-2
+  tier: primary
+  snippet: Master system architecture with AI-driven decisions and modern design principles to confidently solve
+    complex interview scenarios.
+  evidence:
+    year: 2026
+    venue: Apress eBooks
+    cited_by: 0
+    has_abstract: true
+  origin: api
+  status: candidate
+  note: ''
+  score: 11.0
+  score_parts:
+    license: 0
+    domain: 2
+    stars: 0.0
+    contributors: 0.0
+    recent: 0
+    maintainer: 0
+    archived: 0
+    relevance: 9.0
+  suggested_tier: primary
+  subject_yaml:
+    name: papers
+    adapter: paper
+    dois:
+    - 10.1007/979-8-8688-2782-2
+    tier: primary
+- id: paper:10.1109/wcica.2018.8630704
+  adapter: paper
+  title: The Design of The Fuse Collinear Primer Set System
+  url: https://doi.org/10.1109/wcica.2018.8630704
+  key: paper>10.1109/wcica.2018.8630704
+  tier: primary
+  snippet: For the characteristics that the firing pin of ammunition fuse collinear primer setting system of large
+    caliber rocket is shared by setting and firing signals, the information setting security must be ensured in
+    the setting process to prevent misfire caused by for the excess current. Besides, inform
+  evidence:
+    year: 2018
+    venue: World Congress on Intelligent Control and Automation
+    cited_by: 0
+    has_abstract: true
+  origin: api
+  status: candidate
+  note: ''
+  score: 11.0
+  score_parts:
+    license: 0
+    domain: 2
+    stars: 0.0
+    contributors: 0.0
+    recent: 0
+    maintainer: 0
+    archived: 0
+    relevance: 9.0
+  suggested_tier: primary
+  subject_yaml:
+    name: papers
+    adapter: paper
+    dois:
+    - 10.1109/wcica.2018.8630704
+    tier: primary
+- id: paper:10.1111/jipb.12295
+  adapter: paper
+  title: 'CRISPR Primer Designer: Design primers for knockout and chromosome imaging CRISPR‐Cas system'
+  url: https://doi.org/10.1111/jipb.12295
+  key: paper>10.1111/jipb.12295
+  tier: primary
+  snippet: The clustered regularly interspaced short palindromic repeats (CRISPR)-associated system enables biologists
+    to edit genomes precisely and provides a powerful tool for perturbing endogenous gene regulation, modulation
+    of epigenetic markers, and genome architecture. However, there are concerns about t
+  evidence:
+    year: 2014
+    venue: Journal of Integrative Plant Biology
+    cited_by: 41
+    has_abstract: true
+  origin: api
+  status: candidate
+  note: ''
+  score: 11.0
+  score_parts:
+    license: 0
+    domain: 2
+    stars: 0.0
+    contributors: 0.0
+    recent: 0
+    maintainer: 0
+    archived: 0
+    relevance: 9.0
+  suggested_tier: primary
+  subject_yaml:
+    name: papers
+    adapter: paper
+    dois:
+    - 10.1111/jipb.12295
+    tier: primary
+- id: paper:10.62517/jbdc.202601119
+  adapter: paper
+  title: Design of the Intelligent Interview System
+  url: https://doi.org/10.62517/jbdc.202601119
+  key: paper>10.62517/jbdc.202601119
+  tier: primary
+  snippet: 'Intelligent interview systems have attracted increasing attention as an effective solution for improving
+    the efficiency and objectivity of interview evaluation. This study presents the design and implementation of
+    an intelligent interview system that integrates natural language processing, computer '
+  evidence:
+    year: 2026
+    venue: Journal of big data and computing.
+    cited_by: 0
+    has_abstract: true
+  origin: api
+  status: candidate
+  note: ''
+  score: 11.0
+  score_parts:
+    license: 0
+    domain: 2
+    stars: 0.0
+    contributors: 0.0
+    recent: 0
+    maintainer: 0
+    archived: 0
+    relevance: 9.0
+  suggested_tier: primary
+  subject_yaml:
+    name: papers
+    adapter: paper
+    dois:
+    - 10.62517/jbdc.202601119
+    tier: primary
+- id: paper:10.1007/978-981-95-7731-6_15
+  adapter: paper
+  title: The Design and Development of the AI Interviewer System
+  url: https://doi.org/10.1007/978-981-95-7731-6_15
+  key: paper>10.1007/978-981-95-7731-6_15
+  tier: primary
+  snippet: ''
+  evidence:
+    year: 2026
+    venue: Communications in computer and information science
+    cited_by: 0
+    has_abstract: false
+  origin: api
+  status: candidate
+  note: ''
+  score: 8.0
+  score_parts:
+    license: 0
+    domain: 2
+    stars: 0.0
+    contributors: 0.0
+    recent: 0
+    maintainer: 0
+    archived: 0
+    relevance: 6.0
+  suggested_tier: primary
+  subject_yaml:
+    name: papers
+    adapter: paper
+    dois:
+    - 10.1007/978-981-95-7731-6_15
+    tier: primary
+- id: paper:10.1007/s10676-023-09687-w
+  adapter: paper
+  title: Value Sensitive Design for autonomous weapon systems – a primer
+  url: https://doi.org/10.1007/s10676-023-09687-w
+  key: paper>10.1007/s10676-023-09687-w
+  tier: primary
+  snippet: Abstract Value Sensitive Design (VSD) is a design methodology developed by Batya Friedman and Peter Kahn
+    (2003) that brings in moral deliberations in an early stage of a design process. It assumes that neither technology
+    itself is value neutral, nor shifts the value-ladennes to the sole usage of tec
+  evidence:
+    year: 2023
+    venue: Ethics and Information Technology
+    cited_by: 19
+    has_abstract: true
+  origin: api
+  status: candidate
+  note: ''
+  score: 8.0
+  score_parts:
+    license: 0
+    domain: 2
+    stars: 0.0
+    contributors: 0.0
+    recent: 0
+    maintainer: 0
+    archived: 0
+    relevance: 6.0
+  suggested_tier: primary
+  subject_yaml:
+    name: papers
+    adapter: paper
+    dois:
+    - 10.1007/s10676-023-09687-w
+    tier: primary
+- id: paper:10.1016/j.cej.2026.183226
+  adapter: paper
+  title: Chemical design and mechanistic insights into primer exchange reaction systems
+  url: https://doi.org/10.1016/j.cej.2026.183226
+  key: paper>10.1016/j.cej.2026.183226
+  tier: primary
+  snippet: ''
+  evidence:
+    year: 2026
+    venue: Chemical Engineering Journal
+    cited_by: 0
+    has_abstract: false
+  origin: api
+  status: candidate
+  note: ''
+  score: 8.0
+  score_parts:
+    license: 0
+    domain: 2
+    stars: 0.0
+    contributors: 0.0
+    recent: 0
+    maintainer: 0
+    archived: 0
+    relevance: 6.0
+  suggested_tier: primary
+  subject_yaml:
+    name: papers
+    adapter: paper
+    dois:
+    - 10.1016/j.cej.2026.183226
+    tier: primary
+- id: paper:10.17863/cam.4503
+  adapter: paper
+  title: 'From modularity to emergence: a primer on the design and science of complex systems'
+  url: https://doi.org/10.17863/cam.4503
+  key: paper>10.17863/cam.4503
+  tier: primary
+  snippet: Electrical networks, flocking birds, transportation hubs, weather patterns, commercial organisations,
+    swarming robots... Increasingly, many of the systems that we want to engineer or understand are said to be ‘complex’.
+    These systems are often considered to be intractable because of their unpredicta
+  evidence:
+    year: 2016
+    venue: Apollo (University of Cambridge)
+    cited_by: 25
+    has_abstract: true
+  origin: api
+  status: candidate
+  note: ''
+  score: 8.0
+  score_parts:
+    license: 0
+    domain: 2
+    stars: 0.0
+    contributors: 0.0
+    recent: 0
+    maintainer: 0
+    archived: 0
+    relevance: 6.0
+  suggested_tier: primary
+  subject_yaml:
+    name: papers
+    adapter: paper
+    dois:
+    - 10.17863/cam.4503
+    tier: primary
+- id: paper:10.3758/bf03202052
+  adapter: paper
+  title: New approaches to the design of computerized interviewing and testing systems
+  url: https://doi.org/10.3758/bf03202052
+  key: paper>10.3758/bf03202052
+  tier: primary
+  snippet: ''
+  evidence:
+    year: 1981
+    venue: Behavior Research Methods
+    cited_by: 39
+    has_abstract: false
+  origin: api
+  status: candidate
+  note: ''
+  score: 5.0
+  score_parts:
+    license: 0
+    domain: 2
+    stars: 0.0
+    contributors: 0.0
+    recent: 0
+    maintainer: 0
+    archived: 0
+    relevance: 3.0
+  suggested_tier: primary
+  subject_yaml:
+    name: papers
+    adapter: paper
+    dois:
+    - 10.3758/bf03202052
+    tier: primary

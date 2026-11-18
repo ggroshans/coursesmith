@@ -66,10 +66,13 @@ class ScoreTest(unittest.TestCase):
         self.assertEqual((p["recent"], p["maintainer"], p["archived"]), (1, 1, 0))
         self.assertEqual(s, 13.0)
 
-    def test_restricted_license_scores_lower_and_unknown_zero(self):
-        self.assertEqual(D.score({"adapter": "github", "evidence": {"license_spdx": "CC-BY-NC-ND-4.0"}})[1]["license"], 1)
-        self.assertEqual(D.score({"adapter": "github", "evidence": {"license_spdx": "NOASSERTION"}})[1]["license"], 0)
-        self.assertEqual(D.score({"adapter": "github", "evidence": {}})[1]["license"], 0)
+    def test_restricted_license_scores_lower_and_no_license_zero(self):
+        lic = lambda ev: D.score({"adapter": "github", "evidence": ev})[1]["license"]
+        self.assertEqual(lic({"license_spdx": "CC-BY-4.0"}), 3)
+        self.assertEqual(lic({"license_spdx": "CC-BY-NC-ND-4.0"}), 1)
+        # a license file GitHub cannot match (the System Design Primer's) is worth reading, so it earns a point
+        self.assertEqual(lic({"license_spdx": "NOASSERTION"}), 1)
+        self.assertEqual(lic({}), 0)
 
     def test_domain_classes(self):
         self.assertEqual(D.domain_class({"adapter": "rfc"}), "standards")
@@ -330,3 +333,30 @@ class SetRefTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class RelevanceTest(unittest.TestCase):
+    PRIMER = {"title": "system-design-primer", "repo": "donnemartin/system-design-primer",
+              "snippet": "Learn how to design large-scale systems. Prep for the system design interview.",
+              "evidence": {"stars": 378396, "topics": ["interview"]}}
+    CSS = {"title": "css", "repo": "primer/css", "snippet": "The CSS implementation of GitHub's Primer Design System",
+           "evidence": {"stars": 13060, "owner_type": "Organization", "license_spdx": "MIT"}}
+
+    def test_relevant_beats_famous(self):
+        qs = ["system design interview", "system design primer"]
+        self.assertGreater(D.relevance(self.PRIMER, qs), D.relevance(self.CSS, qs) + 1)
+        sp, parts = D.score(self.PRIMER, queries=qs)
+        sc, _ = D.score(self.CSS, queries=qs)
+        self.assertGreater(sp, sc)
+        self.assertIn("relevance", parts)
+
+    def test_no_queries_means_no_relevance_part(self):
+        self.assertNotIn("relevance", D.score(self.PRIMER)[1])
+
+    def test_phrase_counts_and_stopwords_do_not(self):
+        c = {"title": "x", "snippet": "a design for the system"}
+        self.assertEqual(D.relevance(c, ["the for and"]), 0)
+        self.assertLess(D.relevance(c, ["system design"]), D.relevance({"title": "system design"}, ["system design"]))
+
+    def test_papers_are_opt_in(self):
+        self.assertNotIn("paper", D.SEARCHERS)
