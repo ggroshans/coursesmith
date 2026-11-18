@@ -14,11 +14,19 @@ The two example courses in `subjects/` ship with `course.json` already exported.
 
 ```jsonc
 {
-  "format": "wikicourse-course", "version": 1, "built": "2026-11-17T15:24Z", "coursesmith": "0.1.0",
+  "format": "wikicourse-course", "version": 2, "built": "2026-11-17T15:24Z", "wikicourse": "0.2.0",
   "subject": {"slug": "soil-science", "title": "Soil Science", "description": "...",
-              "ordering": "pedagogical", "per_unit": [4, 5]},
+              "ordering": "pedagogical", "per_unit": [4, 5],
+              "distribution": "personal", "course_type": "survey", "kinds": ["Concept", "Process", "..."]},
   "license": {"name": "CC BY-SA 4.0", "url": "...", "text": "...",
-              "pages":  {"Soil": {"url": "...", "revid": 1234, "permalink": "...&oldid=1234"}},
+              "pages":  {"Soil": {"url": "...", "revid": 1234, "permalink": "...&oldid=1234",
+                                   "name": "Soil", "source": "wikipedia", "version": "1234",
+                                   "version_label": "revision 1234", "license": "CC BY-SA 4.0",
+                                   "license_class": "cc-by-sa", "tier": "reference"}},
+              "sources": [{"key": "Soil", "name": "Soil", "source": "wikipedia", "url": "...", "revid": 1234,
+                           "permalink": "...", "version": "1234", "version_label": "revision 1234",
+                           "license": "CC BY-SA 4.0", "license_class": "cc-by-sa", "tier": "reference",
+                           "n_sentences": 14, "retrieved": null}],
               "images": {"soil-fert-099": {"file", "license", "license_url", "artist", "page_url"}}},
   "outline": [{"id": "found", "title": "Foundations", "level": 1, "parent": null},
               {"id": "what-soil-is", "title": "What soil is", "level": 2, "parent": "found"}],
@@ -33,7 +41,8 @@ The two example courses in `subjects/` ship with `course.json` already exported.
   "glossary":  {"pedology": {"term": "Pedology", "text": "...", "sent_ids": ["..."], "entry": "soil-found-090", "unit": 1}},
   "questions": {"<first entry id of a unit>": {"q": "...", "a": "...", "sent_ids": ["..."]}},
   "sentences": {"03e8d020acfc": {"title": "Soil science", "url": "...", "revid": 1234,
-                                  "section": "Fields of study", "sentence": "the cited Wikipedia sentence"}},
+                                  "section": "Fields of study", "sentence": "the cited sentence",
+                                  "key": "Soil science", "source": "wikipedia", "version": "1234"}},
   "missing_sentences": []
 }
 ```
@@ -51,9 +60,9 @@ The two example courses in `subjects/` ship with `course.json` already exported.
 | `part`, `chapter`, `level`, `kind`, `weight` | Foundational / Intermediate / Advanced; Concept, Process, Method...; Landmark / Major / Minor |
 | `definition`, `facts` | `{text, sent_ids}`: what the prose was written from, each fact citing sentences |
 | `prerequisites`, `related` | entry ids: what this builds on (always earlier), and see-also links |
-| `sources` | Wikipedia pages and revisions the entry cites |
+| `sources` | the pages the entry cites: `title` (human name), `key`, `url`, `revid`, `version`, `source`, `license`, `sent_ids` |
 | `unit`, `position` | which unit it falls in, and where |
-| `source_tier`, `verification`, `external` | `primary` when an outside source confirms the key claim; the checks; facts added from authorities |
+| `source_tier`, `verification`, `external` | `primary` when an outside source confirms the key claim, `wikipedia` for an entry citing only Wikipedia, else the best tier among its sources (`official`, `standard`, `reference`, `curated`, `commentary`); the checks; facts added from authorities |
 | `image` | Commons image record (`file`, `license`, `artist`, `caption`, `local`), when the subject uses images |
 | `events`, `date_display` | dated events (chronological subjects) |
 
@@ -76,7 +85,11 @@ permalink to the revision it was read in.
 
 ## License duty
 
-The code is MIT; the content is not. Everything in `course.json` is derived from Wikipedia and is
-**CC BY-SA 4.0**: anything you publish from it must credit Wikipedia (the `license.pages` list is that
-credit), link the license, and be shared under the same terms. Images carry their own Commons licenses in
+The code is MIT; the content is not. A course built only from Wikipedia is **CC BY-SA 4.0**: anything you
+publish from it must credit Wikipedia (the `license.pages` list is that credit), link the license, and be shared
+under the same terms. A course that cites other sources says so in `license.name`, and `license.sources` lists
+every page with its source, version and license; keep that credit and respect each license. If any cited source
+forbids redistribution or derivatives (a NonCommercial or NoDerivatives license), `license.name` reads "Personal
+use only (mixed sources)" and the course is for your own reading: set `distribution: public` in subject.yaml to
+make `publish check` refuse such a source in the first place. Images carry their own Commons licenses in
 `license.images`. See `NOTICE.md`.

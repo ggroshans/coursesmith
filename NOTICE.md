@@ -1,6 +1,6 @@
 # Notice: code and content licenses
 
-**Code.** Everything under `engine/`, `tests/` and the guides in `guides/` is MIT-licensed (see `LICENSE`).
+**Code.** Everything under `coursesmith/`, `tests/` and the guides in `guides/` is MIT-licensed (see `LICENSE`).
 
 **Course content.** Everything under `subjects/` and every export the engine writes (`output/course.json`,
 `output/course.md`, EPUBs) is derived from Wikipedia and is licensed under the
@@ -21,3 +21,12 @@ public domain) and author in the entry's `image` record. Image files are not sto
 
 **External sources.** Facts marked as external (`external`, `+ USDA NRCS` in a tag line) are short quotations from
 the named authority or a paper's abstract, cited by URL.
+
+**Other sources.** A subject may cite sources besides Wikipedia (a GitHub repository, an RFC, a documentation
+site, a PDF, a paper), listed under `sources:` in its `subject.yaml` after `coursesmith sources check` has read
+each one's license from the source itself. Content derived from such a subject carries those sources' licenses,
+not only CC BY-SA: its `course.json` `license.sources` and each EPUB's "Sources and license" page name every
+page, version and license. Some sources (those under NonCommercial or NoDerivatives licenses, such as several
+system-design guides and the Google SRE books) allow personal reading but not redistribution; a subject that cites
+one is for personal use, and `distribution: public` in `subject.yaml` makes `publish check` refuse it.
+`sources/registry.yaml` records, with the date and what was read, the licenses of the sources vetted so far.

@@ -33,14 +33,16 @@ def cmd_status(a):
 @command("init", "start a new subject: write subjects/<slug>/subject.yaml",
          arg("slug", help="lowercase-hyphenated name, e.g. frfr-speakers"),
          arg("--title", required=True, help="the course title or question"),
-         arg("--seed", action="append", default=[], help="a Wikipedia page the course must cover (repeatable)"),
+         arg("--seed", action="append", default=[], help="a page the course must cover: a Wikipedia title or a source key such as rfc>9110 (repeatable)"),
          arg("--category", action="append", default=[], help="a Wikipedia category root (repeatable)"),
          arg("--per-unit", type=int, nargs=2, default=[4, 5], metavar=("MIN", "MAX"), help="entries per unit"),
+         arg("--questions", action="store_true", help="a course of questions, each with a worked answer"),
          arg("--force", action="store_true", help="overwrite an existing subject.yaml"), subject=False)
 def cmd_init(a):
     from . import scaffold
     try:
-        scaffold.init(a.slug, a.title, a.seed, a.category, a.per_unit, a.force)
+        scaffold.init(a.slug, a.title, a.seed, a.category, a.per_unit, a.force,
+                      course_type="questions" if a.questions else "survey")
     except scaffold.InitError as e:
         raise SystemExit(f"init: {e}")
 

@@ -18,8 +18,30 @@ short: {short}   # prefix for entry ids: {short}-<chapter>-001
 description: >-
   {description}
 
-# Pages the crawl always fetches: the subject's main article and anything a course on it must cover.
+# survey: a course that covers a field. questions: each chapter of a part marked `question: true` is one question
+# (an interview question, say) answered by one Worked example entry, with the concepts a good answer needs.
+course_type: {course_type}
+# personal: a course you read yourself; sources with NonCommercial or NoDerivatives licenses are fine, and every
+# source is credited. public: every cited source's license must allow redistribution (`publish check` fails
+# otherwise).
+distribution: personal
+
+# Pages the crawl always fetches: the subject's main article and anything a course on it must cover. A page of
+# another source is named by its key: rfc>9110, gh>owner/repo/path/to/file.md, doc>host/path, paper>10.1145/...
 seeds: {seeds}
+
+# Sources besides Wikipedia (always on). Nothing is crawled from a source until it is listed here and
+# `coursesmith sources check {slug}` has read its license from the source itself. To find candidates:
+# `coursesmith sources discover {slug}` writes scope/sources.candidates.yaml; accept some and copy them here.
+sources: []
+#   - name: system-design-primer
+#     adapter: github                    # github | html | rfc | pdf | paper | wikipedia (another MediaWiki)
+#     repo: donnemartin/system-design-primer
+#     ref: <commit>                      # `sources check --fix-refs` pins a branch to its current commit
+#     include: ["README.md", "solutions/**/README.md"]
+#     depth: 1
+#     tier: curated                      # official > standard > primary > reference > curated > commentary
+#     license: {{name: "CC BY 4.0"}}
 
 # Wikipedia's own maps of the subject. A broad field usually has some of these; a niche topic often has none,
 # and that is fine: seeds, categories and the planner pass carry it.
@@ -43,11 +65,16 @@ scope:
 
 # per_unit: entries per unit; the course runs as many units as its entries need.
 targets: {{per_unit: {per_unit}}}
+#   word_ranges: {{"Worked example": [250, 600], Minor: [40, 90], default: [60, 150], long: [100, 250]}}
+#   fact_caps: {{"Worked example": 16}}
 ordering: pedagogical       # or chronological, for a history
 edition: {{images: false, questions: false, proportional_clock: false}}
+#   paragraphs: true        # let every entry keep blank-line paragraphs (worked examples always do)
+#   tagline: "Sourced answers, one unit at a time."
 verification:
   works: openalex           # cited DOIs checked against OpenAlex/Crossref abstracts
   authorities: []           # see guides/VERIFICATION_GUIDE.md
+  units: []                 # extra units to compare, e.g. [ms, QPS, GB] for a systems course
 
 # Hints for `frame build`. With no parts, the whole subject is one part and its chapters come from Wikipedia's
 # categories; the syllabus planner pass (`frame plan-packet`) then proposes the branches. For a large subject,
@@ -92,7 +119,7 @@ def _flow(xs):
     return json.dumps(list(xs or []), ensure_ascii=False)
 
 
-def init(slug, title, seeds=(), categories=(), per_unit=(4, 5), force=False, log=print):
+def init(slug, title, seeds=(), categories=(), per_unit=(4, 5), force=False, log=print, course_type="survey"):
     if slug != _slug(slug):
         raise InitError(f"slug must be lowercase words joined by hyphens, e.g. {_slug(slug)!r}")
     d = config.SUBJECTS / slug
@@ -104,7 +131,7 @@ def init(slug, title, seeds=(), categories=(), per_unit=(4, 5), force=False, log
     text = TEMPLATE.format(slug=slug, title=json.dumps(title, ensure_ascii=False), short=slug.split("-")[0],
                            description=f"{title}, from foundational to advanced, sourced from Wikipedia.",
                            seeds=_flow(seeds), categories=_flow(cats), include=_flow(words[:6]),
-                           per_unit=_flow(per_unit))
+                           per_unit=_flow(per_unit), course_type=course_type)
     d.mkdir(parents=True, exist_ok=True)
     (d / "subject.yaml").write_text(text, encoding="utf-8")
     if not (d / "STATE.md").exists():

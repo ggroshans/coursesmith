@@ -62,6 +62,42 @@ Verification aims at two things: context from drilling Wikipedia's own hierarchy
 Verification scope is every selected entry plus every flagged one. Every `contradicts` with no supporting source is read by a human and resolved in `verify/reviews.json`, re-applied on each run, as in the chronicle. Genuine conflicts are mentioned in the prose in one plain sentence.
 
 
+## 2b. Sources beyond Wikipedia
+
+The invariant never changes: every fact cites `sent_id`s from the sentence index, prose may only use numbers that
+are in an entry's facts, terms are defined before use. None of that cares where a sentence came from, so the
+front half of the pipeline (fetch, clean, store, scope) is the only part that knows about sources.
+
+- **Keys.** A page is named by a key. Wikipedia keeps its bare title, so no existing `sent_id`, cache file,
+  `article` or `sources` item changed; every other source is `<prefix>><id>` (`rfc>9110`, `gh>owner/repo/path`).
+  `>` is forbidden in MediaWiki titles (no collision with a real article such as "RFC 9110"), never starts a line
+  (so it is not read as a blockquote) and is none of `# | [ ] { }`. `sent_id` is unchanged:
+  sha1(key + newline + sentence).
+- **Adapters** (`coursesmith/sources/`) turn one kind of source into the page record the rest already reads:
+  `wikipedia` (any MediaWiki), `github` (a repo pinned to a commit), `html` (an allowlisted docs site, robots.txt
+  honored), `rfc`, `pdf`, `paper` (abstract and metadata; full text opt-in). A record carries `version` (a commit,
+  a date, a hash) beside Wikipedia's `revid`, a license and a tier. `text/emit.py` is the one DOM-to-text path;
+  Wikipedia's output through it is byte-identical to before (checked across every cached page).
+- **Vetting.** `subject.yaml` lists the sources with allowlists (`include` globs, `allow` path prefixes, listed
+  RFC numbers and DOIs); `sources/registry.yaml` holds what was vetted once for everyone. The crawl follows a
+  link only inside an allowlist and within the source's hop limit. `sources discover` proposes candidates with
+  machine-readable evidence (license, stars, contributors, recency, maintainer); a person accepts; `sources
+  check` reads each license from the source (a repository's LICENSE file, never a listing: GitHub reports the
+  System Design Primer as NOASSERTION while its LICENSE.txt says CC BY 4.0), compares it with what is declared,
+  pins branches to commits and stamps the result. `crawl` and `finalize` refuse to run on an unchecked `sources:`.
+- **Trust.** Tiers rank official > standard > primary > reference > curated > commentary. An entry's
+  `source_tier` is the best tier among the sources it cites (`wikipedia` for Wikipedia alone, `primary` once
+  verification confirms the key claim). When sources disagree the higher tier's value is the fact and the other
+  value goes to `conflicts`; a difference between versions is stated with each version, not a conflict.
+- **Licenses.** Each source has a license class. `distribution: personal` (default) allows any attributed
+  source; `public` refuses NonCommercial/NoDerivatives sources at `publish check`. The EPUB's Sources and license
+  page and `course.json` list every page, version and license, and the course license is derived from them.
+- **Questions.** A chapter flagged `question: true` is one question: a `Worked example` entry (up to 16 facts,
+  250-600 words, paragraphs, never a glossary term, sorted last in its chapter) and the concept entries it relies
+  on. A back-of-the-envelope number is a *derived number*: declared with the sentences it comes from and the
+  arithmetic, recomputed by `publish/derived.py`, never trusted. `verification.units` adds ms, QPS, GB and the
+  like to the quantity comparison.
+
 ## 3. Ordering: foundational to advanced
 
 No existing tool does this (checked 2026-11-14: Wikipedia's Book namespace was deleted in 2021; wikipedia2book, wiki2book and wikipedia-to-epub take hand-made lists; WikiToLearn and Metacademy are dead). Build it from three signals:

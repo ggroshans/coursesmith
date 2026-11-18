@@ -95,6 +95,7 @@ and `publish check` reject anything that breaks the rules, and every fact must c
 
 | Guide | Reads | Writes |
 |---|---|---|
+| `SOURCES_GUIDE.md` | `work/sources/packet.md` | `work/sources/found.yaml` |
 | `JUDGE_GUIDE.md` | `work/scope/judge-packet-NN.md` | `scope/judge/batch-NN.json` |
 | `PLANNER_GUIDE.md` | `work/scope/plan-packet.md` | `scope/syllabus.json` |
 | `CONSOLIDATION_GUIDE.md` | `work/dossiers/<chapter>/chunk_NN.md` | `entries/draft/<chapter>.partNN.jsonl` |
@@ -102,6 +103,36 @@ and `publish check` reject anything that breaks the rules, and every fact must c
 | `ORDERING_GUIDE.md` | `work/order/packet*.md` | `work/order/prereqs.NN.json` |
 | `VERIFICATION_GUIDE.md` | `verify/worklist.md` | `verify/reviews.json` |
 | `WRITING_GUIDE.md` | `work/write/packet-<part>.md`, `questions-packet*.md` | `work/write/fill.<part>.NN.json` |
+
+## Beyond Wikipedia
+
+Wikipedia is the default and needs no setup. A subject can also read other **vetted** sources: a GitHub
+repository, an IETF RFC, an official docs site, a PDF, a paper, another MediaWiki. "Vetted" means a person
+approved the list and the license was read from the source itself; the crawl never leaves it.
+
+```sh
+coursesmith init system-design --title "System design interview questions" --questions
+coursesmith sources discover system-design     # candidates + evidence -> scope/sources.candidates.yaml
+coursesmith sources packet system-design       # optional: a brief for a web-search session (guides/SOURCES_GUIDE.md)
+coursesmith sources merge system-design        #           ... and fold its found.yaml back in
+# accept candidates by copying them under `sources:` in subject.yaml, then:
+coursesmith sources check system-design --fix-refs   # reads each LICENSE, pins commits, checks allowlists
+```
+
+A page of another source is named by a **key** (`rfc>9110`, `gh>owner/repo/path.md`, `doc>host/path`,
+`paper>10.1145/...`); Wikipedia keeps bare titles, so nothing made before changed. List keys under `seeds:` or in
+`frame.yaml` like any page. Each source carries a **trust tier** (official, standard, primary, reference, curated,
+commentary): when sources disagree the higher tier's value is the fact and the other is recorded as a conflict.
+Every entry's tag line, every EPUB's "Sources and license" page and `course.json` name the pages, versions and
+licenses used. `distribution: public` makes `publish check` refuse any source whose license forbids
+redistribution (NonCommercial, NoDerivatives); the default, `personal`, allows them and says so.
+
+**A course of questions.** `course_type: questions`, with parts flagged `question: true`: each chapter is one
+interview-style question, answered by a **Worked example** entry (longer, in paragraphs, ordered last in its
+chapter) plus the concepts a good answer relies on. Capacity math ("about 4 writes a second") is declared as a
+derived number and recomputed by the checks, so it never slips past the sourced-numbers rule. Architecture
+diagrams use `flow` figures with database cylinders and tier boxes. Everything else about the course, the
+daily-unit layout and the `course.json` the e-reader reads, is the same.
 
 ## Subjects of every size
 
@@ -143,7 +174,9 @@ hash of page title and text, so unchanged sentences keep their ids. After a fix 
 ## Layout
 
 ```
-engine/       the `coursesmith` command
+coursesmith/  the `coursesmith` command
+  sources/      source adapters (wikipedia, github, html, rfc, pdf, paper), registry, keys, licenses, discover, check
+  text/         DOM, Markdown, PDF and bracketed-reference text for every source
   crawl/        API client, page store, cleaning, citations, scope, judge, crawl
   extract/      sentence splitting, the sentence index, mentions, dates
   frame/        hub readers, frame builder, syllabus planner and resolver, coverage
@@ -155,10 +188,11 @@ engine/       the `coursesmith` command
   publish/      units, EPUB, covers, images, checks, export
   port/         reclean
 guides/       briefs for the passes
+sources/      registry.yaml: domains and repos vetted once, with the license read and when
 subjects/     one folder per subject
 docs/         design (DESIGN.md), discovery (DISCOVERY_DESIGN.md), output format (OUTPUT.md)
 tests/        unit tests
-cache/        gitignored: shared page cache keyed by title and revision, sentence index, images
+cache/        gitignored: shared page cache keyed by page key and version, sentence index, images
 build/        gitignored: EPUBs
 ```
 
@@ -167,7 +201,8 @@ build/        gitignored: EPUBs
 ## License
 
 The code is MIT (`LICENSE`). Course content (everything under `subjects/` and everything the engine exports)
-is derived from Wikipedia and is CC BY-SA 4.0, attributed through the cited revisions; see `NOTICE.md`.
+is derived from Wikipedia (CC BY-SA 4.0) and, for a subject that lists them, other sources under their own
+licenses, attributed through the cited revisions and versions; see `NOTICE.md`.
 
 ## Renamed from wikicourse
 

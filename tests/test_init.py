@@ -42,3 +42,38 @@ class Init(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class InitSources(unittest.TestCase):
+    def test_template_documents_sources_and_loads_with_defaults(self):
+        from coursesmith import scaffold
+        from coursesmith.subject import load
+        from .helpers import temp_root
+        with temp_root():
+            scaffold.init("sd", "System design", ["rfc>9110"], [], (3, 4), log=lambda *a: None)
+            s = load("sd")
+            self.assertEqual((s.cfg["course_type"], s.cfg["distribution"], s.cfg["sources"]), ("survey", "personal", []))
+            self.assertEqual(s.cfg["seeds"], ["rfc>9110"])
+            self.assertEqual(s.targets["per_unit"], [3, 4])
+            self.assertEqual(s.cfg["verification"]["units"], [])
+            text = s.yaml_path.read_text()
+            for phrase in ("sources check sd", "sources discover sd", "distribution: personal", "word_ranges", "fact_caps",
+                           "paragraphs: true", "units: []", "rfc>9110"):
+                self.assertIn(phrase, text)
+
+    def test_questions_flag(self):
+        from coursesmith import scaffold
+        from coursesmith.subject import load
+        from .helpers import temp_root
+        with temp_root():
+            scaffold.init("sd", "System design", course_type="questions", log=lambda *a: None)
+            self.assertEqual(load("sd").cfg["course_type"], "questions")
+
+    def test_cli_flag_reaches_the_subject(self):
+        from coursesmith import cli
+        from coursesmith.subject import load
+        from .helpers import temp_root
+        with temp_root():
+            cli.main(["init", "qa", "--title", "Questions", "--questions", "--seed", "rfc>9110"])
+            s = load("qa")
+            self.assertEqual((s.cfg["course_type"], s.cfg["seeds"]), ("questions", ["rfc>9110"]))

@@ -1,5 +1,8 @@
 # Discovery design: covering a whole subject, at any size
 
+(Pages of sources other than Wikipedia are not discovered by hubs and categories: a source's allowlist and the
+subject's seeds decide what is in scope; see `docs/DESIGN.md`, section 2b, and `coursesmith sources discover`.)
+
 How the engine finds every page a course on a subject needs, from a broad field (soil science, world history) down
 to a niche (mycorrhizal fungi, kriging), and organizes it beginner to advanced. Steps 1–3 of the pipeline (frame,
 scope, crawl) change; everything from `dossier` on stays as it is. The sourcing rule is untouched: an LLM may name
