@@ -6,3 +6,6 @@
 - chunk 04 done: Water cycle; Water storage and residence times; Land use effects on the water cycle; Water cycle intensification; Discovery of the water cycle; Atmospheric methane; Methane sinks; Atmospheric methane removal
 - chunk 05 done: Biological pump; Carbonate pump; Continental shelf pump; Marine snow; Microbial loop; Viral shunt; Vertical migration and the lipid pump; Remineralisation; Cellular respiration; Anaerobic respiration
 - chunk 06 done: Dead zone; Economic effects of dead zones; Eutrophication; Cultural eutrophication; Natural eutrophication; Harmful algal blooms; Economic effects of eutrophication; Health effects of eutrophication; Coastal eutrophication; Preventing eutrophication; Nutrient bioextraction; Reversing eutrophication
+- chunk 07 done: Evapotranspiration; Vegetation and evapotranspiration; Potential evapotranspiration; Estimating evapotranspiration; Haber process; Economic and environmental effects of the Haber process
+- chunk 08 done: Human impact on the nitrogen cycle; Nitrogen deposition; Nitrogen cascade; Hypoxia (environmental); Seasonal fish kills
+- range 01-08 complete

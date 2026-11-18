@@ -7,3 +7,4 @@
 - chunk 05 done: Chinese national carbon trading scheme; Emission reduction unit; European Union Emissions Trading System; Market Stability Reserve; EU ETS2
 - chunk 06 done: Flexible mechanisms; Green certificate; Joint Implementation; Market design
 - chunk 07 done: Personal carbon trading; Transferable development rights; Monitoring, reporting and verification; Verification and validation (exclude); Voluntary Emission Reduction; White certificates; Windfall gain
+- phrase dossier done (part90): Pollution hot spots; Water quality trading. Skipped: California cap-and-trade (country scheme), Free allocation and grandfathering, Allowance auctions, Price collars and safety valves, Linking (already entries), Market power in permit markets (no usable sentences).
