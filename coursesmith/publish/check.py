@@ -13,7 +13,11 @@ Fails when:
 
 Known false alarms go in subjects/<slug>/waivers.json, each with a reason:
   {"numbers": {"<entry id>": {"values": [4.5], "reason": "..."}},
-   "terms": {"<term>": "reason"}, "questions": {"<first entry id>": "reason"}}
+   "terms": {"<term>": "reason"}, "questions": {"<first entry id>": "reason"},
+   "derived": {"<entry id>": [{"values": [11574], "from": ["<sent_id>"], "expr": "1000000000 / 86400",
+                               "reason": "..."}]}}
+A derived number is arithmetic on sourced numbers; publish/derived.py recomputes it. A writer may declare them in
+a batch file under "derived" instead.
 """
 import re
 
@@ -21,6 +25,7 @@ from .. import config
 from ..util import read_json
 from ..write.render import REF_RE
 from ..write.render import load as load_prose
+from . import derived
 
 NUM = re.compile(r"(?<![\w.])\d[\d,]*(?:\.\d+)?")
 from .units import _per_unit, size_bounds
@@ -110,6 +115,11 @@ def run(subject, log=print):
         body = REF_RE.sub("", p["text"]) + " " + (p.get("title") or "")
         allowed = allowed_numbers(e)
         waived = set(map(float, ((waivers.get("numbers") or {}).get(i) or {}).get("values") or []))
+        d_values, d_probs = derived.waived(
+            list((prose.get("derived") or {}).get(i) or []) + list((waivers.get("derived") or {}).get(i) or []),
+            e, allowed)
+        problems += [f"{i}: derived number: {m}" for m in d_probs]
+        waived |= d_values
         extra = sorted(x for x in nums(body) if x not in allowed and x not in waived and not (x <= 12 and x == int(x)))
         if extra:
             problems.append(f"{i}: numbers not in its facts: {extra[:6]}")
@@ -117,6 +127,15 @@ def run(subject, log=print):
         if img and subject.edition.get("images"):
             if not img.get("license") or not OK_LICENSES.search(img["license"]) or not img.get("file"):
                 problems.append(f"{i}: image without an acceptable license record ({img.get('license')})")
+
+    # every figure draws (a figure that cannot is left out of the EPUB, which is better said now than found later)
+    from . import figures as figmod
+    for eid, figs in figmod.load(subject).items():
+        if eid not in unit_of:
+            continue
+        for k, fig in enumerate(figs, 1):
+            for msg in figmod.validate(fig):
+                problems.append(f"{eid}: figure {k}: {msg}")
 
     # terms used before the unit that defines them
     glossary = (read_json(subject.glossary_path) or {}).get("terms", {})

@@ -17,6 +17,7 @@ the "Last time" / "Next" lines), glossary.json (term -> defining entry and unit)
 and `position`.
 """
 import math
+import re
 
 from ..outline import Outline
 from ..util import now_iso, write_json
@@ -27,6 +28,17 @@ SAME_UNIT_PREREQ = 2.0   # an entry and its prerequisite in one unit
 EXTRA_CHAPTER = 1.0      # each additional chapter mixed into a unit
 END_AT_CHAPTER = -3.0    # a unit ending exactly where a chapter ends
 MAX_TERMS = 6
+
+
+QUESTION_TITLE = re.compile(r"^(how|what|why|when|which|design|build|explain|compare)\b|\?$", re.I)
+
+
+def is_question_entry(e, question_course=False):
+    """A worked answer or case study is titled for a question or a system, not for a term it defines, so it is
+    never a glossary term. In a course of questions, an entry titled like one is exempt too."""
+    if e.get("kind") in ("Worked example", "Case study"):
+        return True
+    return bool(question_course and QUESTION_TITLE.search(e.get("title") or ""))
 
 
 class UnitError(RuntimeError):
@@ -141,6 +153,7 @@ def build(subject, n_units=None, log=print):
     for i in order:
         last_entry_of_leaf[leaf_of[i]] = i
 
+    question_course = (getattr(subject, "cfg", None) or {}).get("course_type") == "questions"
     units, glossary, seen_nodes = [], {}, set()
     for k, (a, b) in enumerate(spans, start=1):
         ids = order[a:b]
@@ -157,7 +170,7 @@ def build(subject, n_units=None, log=print):
                         if entries[x].get("weight") in ("Landmark", "Major", "Minor") else 3):
             cands = []
             d = entries[i].get("definition") or {}
-            if d.get("text"):
+            if d.get("text") and not is_question_entry(entries[i], question_course):
                 cands.append({"term": entries[i]["title"], "text": d["text"], "sent_ids": d.get("sent_ids") or []})
             cands += prose["glossary"].get(i) or []
             for c in cands:

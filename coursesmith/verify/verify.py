@@ -33,22 +33,45 @@ from . import extsrc
 
 UNITS = r"(mm|µm|μm|nm|cm|m|km|ha|%|percent|g/cm3|g/cm³|mg/kg|g/kg|kg|t|°C|°F|cmol\(?\+?\)?/kg|cmolc/kg|meq/100 ?g|" \
         r"ppm|years?|kPa|MPa|bar)"
-QTY = re.compile(rf"(?<![\w.])(\d+(?:[.,]\d+)?)(?:\s*(?:–|-|to)\s*(\d+(?:[.,]\d+)?))?\s*{UNITS}(?![\w/])")
+QTY_TAIL = r"(?![\w/])"
+QTY_HEAD = r"(?<![\w.])(\d+(?:[.,]\d+)?)(?:\s*(?:–|-|to)\s*(\d+(?:[.,]\d+)?))?\s*"
+QTY = re.compile(QTY_HEAD + UNITS + QTY_TAIL)
 PH = re.compile(r"\bpH\s*(?:of\s*)?(\d+(?:\.\d+)?)(?:\s*(?:–|-|to)\s*(\d+(?:\.\d+)?))?")
 SUPPORTS = ("supports", "refines")
+# `verification.units` in subject.yaml adds units to compare. For systems subjects, for example:
+SYSTEMS_UNITS = ["ms", "µs", "s", "QPS", "req/s", "KB", "MB", "GB", "TB", "PB", "bytes", "nodes", "replicas"]
+KEEP_AS_IS = {"ms", "µs", "s", "qps", "req/s", "rps"}  # their trailing "s" is not a plural
+_UNIT_RX = {}
+
+
+def units_regex(extra=()):
+    """The quantity pattern with the subject's extra units added (longest first, so `ms` beats `m`)."""
+    key = tuple(extra or ())
+    if key not in _UNIT_RX:
+        if not key:
+            _UNIT_RX[key] = QTY
+        else:
+            more = "|".join(re.escape(u) for u in sorted(set(key), key=len, reverse=True))
+            _UNIT_RX[key] = re.compile(QTY_HEAD + "(" + more + "|" + UNITS[1:-1] + ")" + QTY_TAIL)
+    return _UNIT_RX[key]
+
+
+def _unit(raw):
+    u = raw.replace("percent", "%").replace("μ", "µ")
+    return u if u.lower() in KEEP_AS_IS else u.rstrip("s")
 
 
 def _num(s):
     return float(s.replace(",", "."))
 
 
-def quantities(text):
+def quantities(text, extra_units=()):
     """[(low, high, unit)] for numbers with units, and pH values."""
     out = []
-    for m in QTY.finditer(text or ""):
+    for m in units_regex(extra_units).finditer(text or ""):
         a = _num(m.group(1))
         b = _num(m.group(2)) if m.group(2) else a
-        unit = m.group(3).replace("percent", "%").replace("μ", "µ").rstrip("s") if m.group(3) else ""
+        unit = _unit(m.group(3)) if m.group(3) else ""
         out.append((min(a, b), max(a, b), unit))
     for m in PH.finditer(text or ""):
         a = float(m.group(1))
@@ -73,7 +96,7 @@ def _sentences(text):
     return re.split(r"(?<=[.!?])\s+", text or "")
 
 
-def compare(e, text, kind="paper"):
+def compare(e, text, kind="paper", extra_units=()):
     """Compare an entry's facts with a text (abstract or authority page)."""
     if not text:
         return {"verdict": "no abstract", "matched": None}
@@ -86,10 +109,10 @@ def compare(e, text, kind="paper"):
         if m:
             return {"verdict": "supports", "matched": f"lists {name}",
                     "evidence": text[max(0, m.start() - 120):m.end() + 180]}
-    fact_q = [q for f in e.get("facts") or [] for q in quantities(f.get("text"))]
+    fact_q = [q for f in e.get("facts") or [] for q in quantities(f.get("text"), extra_units)]
     if not mentions:
         return {"verdict": "no comparable claim", "matched": None}
-    text_q = [(q, s) for s in mentions for q in quantities(s)]
+    text_q = [(q, s) for s in mentions for q in quantities(s, extra_units)]
     if fact_q and text_q:
         for lo, hi, u in fact_q:
             same = [(a, b, s) for (a, b, uu), s in text_q if uu == u]
@@ -162,6 +185,7 @@ def run(subject, network=True, log=print):
     reviews = read_json(subject.verify_dir / "reviews.json", {}) or {}
     external = read_json(subject.verify_dir / "external.json", {}) or {}
     # tier B
+    extra_units = tuple((subject.cfg.get("verification") or {}).get("units") or ())
     dois_of = {}
     for e in scope:
         sids = [s for f in e.get("facts") or [] for s in f.get("sent_ids") or []]
@@ -185,9 +209,9 @@ def run(subject, network=True, log=print):
             if w.get("not_found") or not w:
                 v = {"verdict": "not found", "matched": None}
             else:
-                v = compare(e, w.get("abstract"), "paper")
+                v = compare(e, w.get("abstract"), "paper", extra_units)
                 if v["verdict"] in ("no abstract", "no comparable claim") and w.get("title"):
-                    t = compare(e, w["title"], "paper")
+                    t = compare(e, w["title"], "paper", extra_units)
                     if t["verdict"] in SUPPORTS:
                         v = dict(t, field="title")
             item = {"doi": d, "title": w.get("title"), "year": w.get("year"), "venue": w.get("venue"),
@@ -197,7 +221,7 @@ def run(subject, network=True, log=print):
             applies = a.get("kinds")
             if applies and e.get("kind") not in applies:
                 continue
-            v = compare(e, auth_text.get(a["name"]), "authority")
+            v = compare(e, auth_text.get(a["name"]), "authority", extra_units)
             if v["verdict"] == "no abstract":
                 continue
             v_list.append({"source": a["name"], "url": (a.get("urls") or [a.get("url")])[0], "kind": "authority", **v})

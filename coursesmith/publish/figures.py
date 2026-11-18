@@ -118,17 +118,23 @@ def _fmt(v):
 
 
 # -- flow (Mermaid subset) ---------------------------------------------------
-NODE = re.compile(r"([A-Za-z_][\w]*)\s*(\(\[.*?\]\)|\[\[.*?\]\]|\[.*?\]|\(\(.*?\)\)|\(.*?\)|\{.*?\})?")
+# node shapes: [box]  ([round])  [[box]]  [(database)]  ((round))  (round)  {decision}
+NODE = re.compile(r"([A-Za-z_][\w]*)\s*(\(\[.*?\]\)|\[\[.*?\]\]|\[\(.*?\)\]|\[.*?\]|\(\(.*?\)\)|\(.*?\)|\{.*?\})?")
 EDGE = re.compile(r"\s*(-->|---|-\.->|==>)\s*(?:\|([^|]*)\|\s*)?")
+EDGE_TEXT = re.compile(r"--\s+([^->|\s][^\n]*?)\s+-->")  # A -- text --> B  is  A -->|text| B
+SUBGRAPH = re.compile(r"subgraph\s+(?:([A-Za-z_]\w*)\s*\[(.*?)\]|(.+?))\s*$")
 
 
 def parse_mermaid(src):
+    """(horizontal?, nodes, edges). nodes[id] = {label, kind, group}; `subgraph ... end` blocks become a group
+    (one level: a subgraph inside another is flattened into the outer one)."""
     lines = [ln.strip() for ln in src.strip().splitlines() if ln.strip() and not ln.strip().startswith("%%")]
     head = lines[0].split() if lines else []
     if not head or head[0] not in ("flowchart", "graph"):
         raise ValueError("mermaid must start with 'flowchart TD' or 'flowchart LR'")
     direction = (head[1] if len(head) > 1 else "TD").upper()
     nodes, edges = {}, []
+    depth, group = 0, None
 
     def node(tok):
         m = NODE.fullmatch(tok.strip())
@@ -138,18 +144,32 @@ def parse_mermaid(src):
         if shape:
             if shape.startswith("{"):
                 kind, label = "decision", shape[1:-1]
+            elif shape.startswith("[("):
+                kind, label = "db", shape[2:-2]
             elif shape.startswith(("([", "((", "(")):
                 kind, label = "round", shape.strip("()[]")
             else:
                 kind, label = "box", shape.strip("[]")
-            nodes[nid] = {"label": label.strip().strip('"'), "kind": kind}
+            nodes.setdefault(nid, {"group": group}).update({"label": label.strip().strip('"'), "kind": kind})
         else:
-            nodes.setdefault(nid, {"label": nid, "kind": "box"})
+            nodes.setdefault(nid, {"label": nid, "kind": "box", "group": group})
         return nid
 
     for ln in lines[1:]:
-        if ln.startswith(("classDef", "class ", "style ", "linkStyle", "subgraph", "end", "direction")):
+        if ln.startswith("subgraph"):
+            depth += 1
+            if depth == 1:
+                m = SUBGRAPH.match(ln)
+                group = ((m.group(2) or m.group(3) or m.group(1)) if m else "").strip().strip('"') or "group"
             continue
+        if ln == "end":
+            depth = max(0, depth - 1)
+            if depth == 0:
+                group = None
+            continue
+        if ln.startswith(("classDef", "class ", "style ", "linkStyle", "direction")):
+            continue
+        ln = EDGE_TEXT.sub(lambda m: f"-->|{m.group(1)}|", ln)
         parts = EDGE.split(ln)
         # parts: node, op, label, node, op, label, node ...
         prev = node(parts[0])
@@ -188,12 +208,14 @@ def draw_flow(fig):
                 layer[e["b"]] = layer[e["a"]] + 1
     n_layers = max(layer.values()) + 1
     rows = [[i for i in ids if layer[i] == k] for k in range(n_layers)]
-    for k in range(1, n_layers):   # order each layer by its parents' mean position
+    groups = list(dict.fromkeys(nodes[i]["group"] for i in ids if nodes[i].get("group")))
+    grank = {g: k for k, g in enumerate(groups)}
+    for k in range(1, n_layers):   # order each layer by its parents' mean position (group members stay together)
         prev = {i: p for p, i in enumerate(rows[k - 1])}
         def bary(i):
             ps = [prev[e["a"]] for e in edges if e["b"] == i and e["a"] in prev]
             return sum(ps) / len(ps) if ps else 1e9
-        rows[k].sort(key=bary)
+        rows[k].sort(key=lambda i: (grank.get(nodes[i].get("group"), 0) if groups else 0, bary(i)))
     f = font(24)
     widest = max(len(r) for r in rows)
     if horiz:
@@ -206,20 +228,20 @@ def draw_flow(fig):
         label = nodes[i]["label"]
         bw = box_w if nodes[i]["kind"] != "decision" else box_w
         th = text_h(label, f, bw - 28)
-        size[i] = (bw, th + 28 + (24 if nodes[i]["kind"] == "decision" else 0))
+        size[i] = (bw, th + 28 + (24 if nodes[i]["kind"] in ("decision", "db") else 0))
     if horiz:
         y_gap = 40
         col_h = [sum(size[i][1] for i in r) + y_gap * (len(r) - 1) for r in rows]
-        H = max(col_h) + 2 * PAD
+        H = max(col_h) + 2 * PAD + (44 if groups else 0)
         for k, r in enumerate(rows):
             y = PAD + (H - 2 * PAD - col_h[k]) / 2
             for i in r:
                 pos[i] = (PAD + col_w * (k + 0.5), y + size[i][1] / 2)
                 y += size[i][1] + y_gap
     else:
-        y_gap = 70 if any(e["label"] for e in edges) else 56
+        y_gap = (70 if any(e["label"] for e in edges) else 56) + (30 if groups else 0)
         row_h = [max(size[i][1] for i in r) for r in rows]
-        H = sum(row_h) + y_gap * (n_layers - 1) + 2 * PAD
+        H = sum(row_h) + y_gap * (n_layers - 1) + 2 * PAD + (44 if groups else 0)
         y = PAD
         for k, r in enumerate(rows):
             cw = (W - 2 * PAD) / len(r)
@@ -239,6 +261,14 @@ def draw_flow(fig):
         return cx + dx * s, cy + dy * s
 
     fl = font(20)
+    for g in groups:  # group boxes go behind everything else
+        mem = [i for i in ids if nodes[i].get("group") == g]
+        x0 = max(6, min(pos[i][0] - size[i][0] / 2 for i in mem) - 16)
+        y0 = max(6, min(pos[i][1] - size[i][1] / 2 for i in mem) - 16)
+        x1 = min(W - 6, max(pos[i][0] + size[i][0] / 2 for i in mem) + 16)
+        y1 = min(H - 6, max(pos[i][1] + size[i][1] / 2 for i in mem) + 38)
+        dashed_box(d, [x0, y0, x1, y1])
+        d.text((x0 + 12, y1 - 32), g[:48], font=fl, fill=INK)  # bottom-left: arrows arrive from above
     for e in edges:
         a, b = pos[e["a"]], pos[e["b"]]
         if (e["a"], e["b"]) in back or e["a"] == e["b"]:
@@ -272,15 +302,42 @@ def draw_flow(fig):
         (cx, cy), (bw, bh) = pos[i], size[i]
         box = [cx - bw / 2, cy - bh / 2, cx + bw / 2, cy + bh / 2]
         k = nodes[i]["kind"]
-        if k == "decision":
+        if k == "db":
+            draw_cylinder(d, box)
+        elif k == "decision":
             d.polygon([(cx, box[1]), (box[2], cy), (cx, box[3]), (box[0], cy)], fill=PALE + 25, outline=INK, width=3)
         elif k == "round":
             d.rounded_rectangle(box, radius=bh / 2, fill=PALE, outline=INK, width=3)
         else:
             d.rounded_rectangle(box, radius=10, fill=PAPER, outline=INK, width=3)
         th = text_h(nodes[i]["label"], f, bw - 28)
-        text_block(d, cx, cy - th / 2, nodes[i]["label"], f, bw - 28)
+        text_block(d, cx, cy - th / 2 + (10 if k == "db" else 0), nodes[i]["label"], f, bw - 28)
     return img
+
+
+def draw_cylinder(d, box, cap=22):
+    """A database: a body with an elliptical top and bottom."""
+    x0, y0, x1, y1 = box
+    d.ellipse([x0, y1 - cap, x1, y1], fill=PALE, outline=INK, width=3)
+    d.rectangle([x0 + 1, y0 + cap / 2, x1 - 1, y1 - cap / 2], fill=PALE)
+    d.line([(x0, y0 + cap / 2), (x0, y1 - cap / 2)], fill=INK, width=3)
+    d.line([(x1, y0 + cap / 2), (x1, y1 - cap / 2)], fill=INK, width=3)
+    d.ellipse([x0, y0, x1, y0 + cap], fill=PAPER, outline=INK, width=3)
+
+
+def dashed_box(d, box, dash=14, gap=9, width=3):
+    """A dashed rectangle (a group of components)."""
+    x0, y0, x1, y1 = box
+    for (ax, ay, bx, by) in ((x0, y0, x1, y0), (x0, y1, x1, y1), (x0, y0, x0, y1), (x1, y0, x1, y1)):
+        length = math.hypot(bx - ax, by - ay)
+        if length == 0:
+            continue
+        ux, uy = (bx - ax) / length, (by - ay) / length
+        t = 0.0
+        while t < length:
+            e = min(t + dash, length)
+            d.line([(ax + ux * t, ay + uy * t), (ax + ux * e, ay + uy * e)], fill=MID, width=width)
+            t = e + gap
 
 
 # -- cycle -------------------------------------------------------------------
@@ -599,8 +656,12 @@ def figures_html(figs, sink, eid):
     return "".join(out)
 
 
+ERRORS = []  # (entry id, figure number, message) for figures that failed to draw during a build
+
+
 class Sink:
-    """Draws figures into a book on demand and returns their hrefs."""
+    """Draws figures into a book on demand and returns their hrefs. A figure that fails to draw is left out of
+    the book and recorded in ERRORS, so one bad diagram never stops a build of hundreds of units."""
 
     def __init__(self, book):
         self.book, self.added = book, {}
@@ -608,8 +669,13 @@ class Sink:
     def __call__(self, fig, eid, k):
         h = key(fig)
         if h not in self.added:
+            try:
+                data = png(fig)
+            except Exception as ex:  # noqa: BLE001
+                ERRORS.append((eid, k + 1, str(ex)))
+                return None
             href = f"figures/{eid}-{k + 1}.png"
-            self.book.add(f"fig{len(self.added) + 1}", href, "image/png", png(fig))
+            self.book.add(f"fig{len(self.added) + 1}", href, "image/png", data)
             self.added[h] = href
         return self.added[h]
 

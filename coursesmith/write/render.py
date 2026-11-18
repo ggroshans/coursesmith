@@ -19,7 +19,7 @@ from ..outline import Outline
 from ..util import atomic_write, read_json, write_json
 
 REF_RE = re.compile(r"\{\{ref:([a-z0-9-]+)\}\}")
-KEYS = ("entries", "openers", "reviews", "glossary", "questions")
+KEYS = ("entries", "openers", "reviews", "glossary", "questions", "derived")
 
 
 def merge(subject):
@@ -33,11 +33,32 @@ def merge(subject):
         for k in KEYS[1:]:
             out[k].update(d.get(k) or {})
         out["closing"] = d.get("closing") or out["closing"]
-    for v in out["entries"].values():
-        for kk in ("title", "text"):
-            if isinstance(v.get(kk), str):
-                v[kk] = re.sub(r"\s*\n\s*", " ", v[kk].strip())
+    keep_paras = bool(((getattr(subject, "cfg", None) or {}).get("edition") or {}).get("paragraphs"))
+    kinds = None
+    for eid, v in out["entries"].items():
+        if isinstance(v.get("title"), str):
+            v["title"] = re.sub(r"\s*\n\s*", " ", v["title"].strip())
+        if isinstance(v.get("text"), str):
+            if not keep_paras and "\n\n" in v["text"] and kinds is None:
+                kinds = {e["id"]: e.get("kind") for e in subject.entries()}
+            paragraphs = keep_paras or (kinds or {}).get(eid) in PARAGRAPH_KINDS
+            v["text"] = tidy_text(v["text"], paragraphs)
     return out, files
+
+
+# A worked answer or case study is long enough to need paragraphs. Every other entry is one paragraph unless the
+# subject sets `edition.paragraphs: true`: courses written before paragraphs existed keep the look they were
+# published with, even where a writer left a blank line in a batch.
+PARAGRAPH_KINDS = ("Worked example", "Case study")
+
+
+def tidy_text(text, paragraphs=True):
+    """An entry's text. A single newline inside a block is only a wrapped line (it becomes a space). With
+    `paragraphs`, a blank line starts a new paragraph; without, the whole text is one paragraph."""
+    if not paragraphs:
+        return re.sub(r"\s*\n\s*", " ", text.strip())
+    paras = [re.sub(r"\s*\n\s*", " ", p.strip()) for p in re.split(r"\n\s*\n", text.strip())]
+    return "\n\n".join(p for p in paras if p)
 
 
 def resolve_refs(text, titles, units=None):
@@ -78,7 +99,7 @@ def render(subject, log=print):
         if not p.get("text"):
             missing += 1
         lines += [f"- **{titles.get(i, e['title'])}**" + (f" — {e['date_display']}" if e.get("date_display") else ""),
-                  "", f"  {resolve_refs(p.get('text') or '{{TEXT:' + i + '}}', titles)}", "",
+                  "", "  " + resolve_refs(p.get("text") or "{{TEXT:" + i + "}}", titles).replace("\n\n", "\n\n  "), "",
                   f"  <!-- {i} -->", ""]
         for fig in figs.get(i) or []:
             lines += _figure_md(fig)

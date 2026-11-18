@@ -4,11 +4,13 @@ import json
 
 from .. import config
 from ..util import now_iso, write_json
+from . import figures
 from .edition import Edition
 
 
 def build(subject, units=None, complete=True, log=print):
     ed = Edition(subject)
+    figures.ERRORS.clear()
     out_dir = config.EPUB_DIR / subject.slug
     out_dir.mkdir(parents=True, exist_ok=True)
     wanted = set(units or [])
@@ -29,6 +31,8 @@ def build(subject, units=None, complete=True, log=print):
         manifest["complete"] = {"file": path.name, "bytes": size, "title": f"{subject.title} — the complete course",
                                 "sha1": hashlib.sha1(path.read_bytes()).hexdigest()}
     write_json(old, manifest)
+    for eid, k, msg in dict.fromkeys(figures.ERRORS):
+        log(f"  [publish] {eid}: figure {k} did not draw and was left out: {msg}")
     if sizes:
         log(f"[publish] {len(sizes)} unit EPUBs in {out_dir.relative_to(config.ROOT)} "
             f"({min(sizes) // 1024}-{max(sizes) // 1024} KB)"

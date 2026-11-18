@@ -44,6 +44,10 @@ Write a batch every 50–80 entries. Make the JSON with Python (`json.dump`, `en
    listed in `reports/order.md`), so name one only when it is genuinely needed; the curriculum review then decides
    whether to move an entry.
 5. **No cycles.** If A needs B and B seems to need A, choose the one that is truly more basic.
+5a. **Question chapters.** In a chapter that answers a question, a **Worked example** or **Case study** entry
+   always comes last: the script sorts it after every other entry of its chapter, so you do not need to list the
+   chapter's concepts as its prerequisites. Name as its prerequisites only the 3-5 concepts it leans on hardest,
+   so the tag line says what to read first. The concept entries are ordered by what each one needs, as usual.
 6. **One line of reason each**, from the definitions and facts in the packet, never from outside knowledge.
 7. Use the suggestions as hints, not answers: RefD and lead links are often right about direction and often wrong
    about relevance.

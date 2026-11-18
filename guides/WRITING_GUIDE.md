@@ -49,7 +49,9 @@ for the same key, so a fix is a small new batch with just that key.
    source: no new numbers, names, places, dates or causes. You may join facts to show cause and effect, and refer to
    another entry when its facts support the link.
 2. **No new numbers.** Every number must appear in the entry's facts or definition. `write check` fails on others.
-   Small counts written as words ("two layers") are fine when the facts support them.
+   Small counts written as words ("two layers") are fine when the facts support them. The one exception is a
+   **derived number** (see "Derived numbers" below): arithmetic on the entry's own numbers that you declare, and
+   the checker recomputes.
 3. **Plain definitions are allowed**: "an aggregate, a crumb of soil particles stuck together". Define each
    technical term in plain words the first time it appears in your part. A definition explains a word; it is not a
    claim.
@@ -82,15 +84,45 @@ entry should do:
   When the facts are plain, write plainly and briefly rather than decorate.
 
 **Style:** American spelling, metric units as in the facts, no "we", no headings, lists or citations inside a
-text. **Banned phrases:** "paved the way", "set the stage", "a testament to", "it's important to note", "delve",
+text (a longer entry is written as paragraphs separated by a blank line, never as a list or with headings). **Banned phrases:** "paved the way", "set the stage", "a testament to", "it's important to note", "delve",
 "tapestry", "the dawn of", "ushered in", "in the annals of", "plays a crucial role", "plays a vital role",
 "in today's world", "it is worth noting", "game-changer", "unlock the secrets".
 
 ## Length: explain fully, then stop
 The word range in each entry's header is a guide: Minor 40–90 words, Major 60–150, Landmark (and Classification,
-Process and Debate entries with real moving parts) 100–250. Never cut a necessary step to hit a count; never pad
-to reach one. A plain fact still gets a plain two-sentence entry. `write check` flags entries over 300 words and
-sentences over 28 words.
+Process and Debate entries with real moving parts) 100–250, a Case study 150–400, a Worked example 250–600 (a
+subject may set its own ranges, and the header always shows the one that applies). Never cut a necessary step to
+hit a count; never pad to reach one. A plain fact still gets a plain two-sentence entry. `write check` flags
+entries well over their range and sentences over 28 words.
+
+**Entries over about 200 words are written as paragraphs**, separated by a blank line inside the JSON string
+(`\n\n`), each paragraph one move of the explanation. A reader on a small e-ink screen needs the breaks. Do not use
+a blank line inside shorter entries.
+
+## Worked examples and case studies
+A **Worked example** (the answer to a design question) and a **Case study** (how one real system did it) are
+written as an explanation a strong candidate or engineer could give, in the order of the facts:
+1. say in a sentence what is being built and for whom, using only the facts;
+2. state the requirements and scale the facts give, then walk the design component by component, saying what
+   each one does and why it is there, naming the trade-off the facts name and the alternative they name;
+3. end with how it fails or scales further, if the facts say, and the one thing to remember.
+The steps follow the facts' order. Never add a component, a number or a "best practice" the facts do not state.
+When the sources disagree, the fact you were given already prefers the higher-tier source; where the packet shows
+an `OTHER VALUE`, say plainly that a source differs. Do not write headings or bullet lists; use paragraphs.
+
+## Derived numbers
+Capacity math is the one place a worked answer may state a number the facts do not: "a billion writes a month is
+about 386 writes a second". Declare each such number in the same batch file, under `derived`, keyed by entry id:
+
+```json
+{"derived": {"sysd-url-009": [{"values": [386], "from": ["<sent_id of the fact with the billion>"],
+                                "expr": "1000000000 / (30 * 86400)", "reason": "per month to per second"}]}}
+```
+`write check` and `publish check` recompute it. It holds only if every sentence in `from` is cited by the entry,
+`expr` uses only numbers, `+ - * / **` and parentheses, every number in it is in the entry's facts (or a unit
+constant such as 60, 86400 or 1024, or a small integer), and each value is the result within 1% or its rounding.
+A declaration that fails is a problem; it waives nothing. Declare only arithmetic you actually use, and say in the
+text that it is a rough estimate ("roughly", "on the order of").
 
 ## Titles
 Short, vivid and specific, 3–10 words, no closing period: "Why clay and humus hold the nutrients plants need",
@@ -112,7 +144,11 @@ for one in every entry you write. Add one when the facts describe:
 - **quantities to compare** (stocks, rates, shares, sizes): a `bar` chart;
 - **a hierarchy** (a classification system, a taxonomy, an institution's structure): a `tree`;
 - **several things compared on the same properties** (soil orders, clay minerals, valuation methods): a `table`;
-- **a decision or identification key**: a `flow` with `{decision}` nodes.
+- **a decision or identification key**: a `flow` with `{decision}` nodes;
+- **an architecture** (clients, load balancers, services, caches, databases): a `flow` with `[(Database)]` nodes
+  and `subgraph` boxes for tiers, only the components and links the facts state;
+- **the steps of a request** (what calls what, in order): a numbered `table` of steps, since sequence diagrams are
+  not drawn.
 
 Skip a figure when it would only repeat a sentence, when the entry is a person or an event with no structure, or
 when the facts are too thin to fill it. Openers and reviews get no figures. A typical part ends up with a figure
@@ -136,7 +172,7 @@ after the entry's text):
 
 | type | fields |
 |---|---|
-| `flow` | `mermaid`: `flowchart TD` (top-down) or `LR`; lines `A[Box] --> B[Box]`, `A -->\|label\| B`, `A -.-> B` (dashed), `A{Decision}`, `A([Rounded])`. Chains (`A --> B --> C`) and loops back work. Keep it to 3-9 nodes, labels under 6 words. |
+| `flow` | `mermaid`: `flowchart TD` (top-down) or `LR`; lines `A[Box] --> B[Box]`, `A -->\|label\| B` or `A -- label --> B`, `A -.-> B` (dashed), `A{Decision}`, `A([Rounded])`, `A[(Database)]` (a cylinder). `subgraph Name` … `end` draws a dashed box around the nodes first written inside it (one level; use it for a tier or a zone). Chains (`A --> B --> C`) and loops back work. Keep it to 3-9 nodes (up to 12 for an architecture), labels under 6 words. Not supported: sequence, class and ER diagrams, `A & B`. |
 | `cycle` | `steps`: `["Step", ...]` or `[["Step", "label on the arrow out"], ...]`; optional `center`. 3-7 steps. |
 | `layers` | `layers`: `[["Name", "one-line note"], ...]` top to bottom; optional `top`, `bottom` labels. |
 | `scale` | `marks`: `[[value, "label"], ...]` and/or `ranges`: `[[from, to, "label"], ...]`; `axis`, `log`, optional `ends: ["low end", "high end"]`. |

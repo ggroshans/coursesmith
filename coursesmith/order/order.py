@@ -69,14 +69,17 @@ def prerequisites(subject, entries, graph):
 
 
 WEIGHT_BONUS = {"Landmark": 4.0, "Major": 2.0, "Minor": 0.0}
+QUESTION_KINDS = ("Worked example", "Case study")
 
 
 def _sort_key(e, nodes):
-    """Ties: importance (a section entry counts half its page's), weight, then difficulty ascending."""
+    """Ties: a worked answer after every other ready entry of its chapter, then importance (a section entry counts
+    half its page's), weight, then difficulty ascending. The first component is 0 for every other kind, so a
+    course with no question chapters orders exactly as before."""
     art = e.get("article") or ""
     n = nodes.get(art.split("#")[0]) or {}
     imp = (n.get("importance") or 0.0) * (0.5 if "#" in art else 1.0) + WEIGHT_BONUS.get(e.get("weight"), 0.0)
-    return (-imp, n.get("difficulty") or 0.5, e["title"])
+    return (1 if e.get("kind") in QUESTION_KINDS else 0, -imp, n.get("difficulty") or 0.5, e["title"])
 
 
 def build(subject, force=False, log=print):

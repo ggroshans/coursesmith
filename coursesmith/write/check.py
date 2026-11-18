@@ -15,10 +15,13 @@ write {{ref:<id>}} or say it in plain words), an opener or review outside 3-5 se
 import re
 
 from ..outline import Outline
+from ..publish import derived
 from ..publish.check import allowed_numbers, nums
+from ..util import read_json
+from ..publish.units import is_question_entry
 from .render import REF_RE
 from .render import load as load_prose
-from .skeleton import word_range
+from .skeleton import word_bounds
 
 BANNED = ["paved the way", "set the stage", "a testament to", "it's important to note", "it’s important to note",
           "delve", "tapestry", "the dawn of", "ushered in", "in the annals of", "plays a crucial role",
@@ -34,6 +37,7 @@ def sentences(t):
 
 def run(subject, part=None, log=print):
     prose = load_prose(subject)
+    waivers = read_json(subject.dir / "waivers.json", {}) or {}
     entries = subject.entries_by_id()
     order = (subject.order() or {}).get("order") or [i for i, e in entries.items() if e.get("selected")]
     outline = Outline.from_subject(subject)
@@ -55,14 +59,19 @@ def run(subject, part=None, log=print):
                 problems.append(f"{i}: banned phrase {b!r}")
         if "!" in body:
             problems.append(f"{i}: exclamation mark")
+        d_values, d_probs = derived.waived(
+            list((prose.get("derived") or {}).get(i) or []) + list((waivers.get("derived") or {}).get(i) or []),
+            e, allowed_numbers(e))
+        problems += [f"{i}: derived number: {m}" for m in d_probs]
         extra = sorted(x for x in nums(body + " " + (p.get("title") or "")) if x not in allowed_numbers(e)
-                       and not (x <= 12 and x == int(x)))
+                       and x not in d_values and not (x <= 12 and x == int(x)))
         if extra:
             problems.append(f"{i}: numbers not in its facts: {extra[:6]}")
         n = len(body.split())
-        lo, hi = map(int, word_range(e).split()[0].split("-"))
-        if n > 300:
-            warnings.append(f"{i}: {n} words (over 300: review)")
+        lo, hi = word_bounds(e, subject)
+        limit = max(int((getattr(subject, "targets", None) or {}).get("max_words") or 300), hi)
+        if n > limit:
+            warnings.append(f"{i}: {n} words (over {limit}: review)")
         elif not lo * 0.8 <= n <= hi * 1.2:
             warnings.append(f"{i}: {n} words (range {lo}-{hi})")
         for s in sentences(body):
@@ -79,8 +88,11 @@ def run(subject, part=None, log=print):
         for k, fig in enumerate(figs, 1):
             for msg in figmod.validate(fig):
                 problems.append(f"{i}: figure {k}: {msg}")
+            fig_derived, _ = derived.waived(
+                list((prose.get("derived") or {}).get(i) or []) + list((waivers.get("derived") or {}).get(i) or []),
+                entries[i], allowed_numbers(entries[i]))
             extra = sorted(x for x in figmod.numbers(fig) if x not in allowed_numbers(entries[i])
-                           and not (x <= 12 and x == int(x)))
+                           and x not in fig_derived and not (x <= 12 and x == int(x)))
             if extra:
                 problems.append(f"{i}: figure {k}: numbers not in its facts: {extra[:6]}")
     # imagine/picture per unit
@@ -93,8 +105,9 @@ def run(subject, part=None, log=print):
     # terms used before their defining entry, anywhere earlier in the course (one pass with a single regex)
     pos = {i: k for k, i in enumerate(order)}
     term_of = {}
+    question_course = (getattr(subject, "cfg", None) or {}).get("course_type") == "questions"
     for i in order:
-        if (entries[i].get("definition") or {}).get("text"):
+        if (entries[i].get("definition") or {}).get("text") and not is_question_entry(entries[i], question_course):
             term = re.sub(r"\s*\(.*?\)", "", entries[i]["title"]).strip()
             if len(term) >= 4:
                 term_of.setdefault(term.lower(), i)

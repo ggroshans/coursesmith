@@ -12,17 +12,38 @@ from ..outline import Outline
 from ..util import atomic_write, slug
 
 
-def word_range(e):
-    if e.get("weight") == "Minor":
-        return "40-90 words"
-    if e.get("weight") == "Landmark" or e.get("kind") in ("Classification", "Process", "Debate"):
-        return "100-250 words"
-    return "60-150 words"
+DEFAULT_RANGES = {"Minor": (40, 90), "long": (100, 250), "default": (60, 150),
+                  "Worked example": (250, 600), "Case study": (150, 400)}
+LONG_KINDS = ("Classification", "Process", "Debate")
 
 
-def _entry_block(e, by_id):
+def word_bounds(e, subject=None):
+    """(lo, hi) words for an entry. `targets.word_ranges` in subject.yaml overrides: a kind name wins over a
+    weight (Minor) or a class (`long` for Landmark and the long kinds, `default` for the rest)."""
+    cfg = ((getattr(subject, "targets", None) or {}).get("word_ranges") or {}) if subject is not None else {}
+
+    def pick(key):
+        return tuple(int(x) for x in cfg[key]) if cfg.get(key) else DEFAULT_RANGES[key]
+    kind, weight = e.get("kind"), e.get("weight")
+    if kind in cfg:
+        return tuple(int(x) for x in cfg[kind])
+    if kind in ("Worked example", "Case study"):
+        return DEFAULT_RANGES[kind]
+    if weight == "Minor":
+        return pick("Minor")
+    if weight == "Landmark" or kind in LONG_KINDS:
+        return pick("long")
+    return pick("default")
+
+
+def word_range(e, subject=None):
+    lo, hi = word_bounds(e, subject)
+    return f"{lo}-{hi} words"
+
+
+def _entry_block(e, by_id, subject=None):
     L = [f"### {e['id']} | {e['title']} | {e.get('kind')} | {e.get('level')} | {e.get('weight')} | "
-         f"{word_range(e)}"]
+         f"{word_range(e, subject)}"]
     d = e.get("definition") or {}
     if d.get("text"):
         L.append(f"- Definition: {d['text']}")
@@ -79,7 +100,7 @@ def build(subject, log=print):
                 if d or f0:
                     L.append(f"- [{j}] {d or f0}")
             L.append("")
-        L += _entry_block(e, by_id) + [""]
+        L += _entry_block(e, by_id, subject) + [""]
         leaf = path[-1] if path else None
         if leaf and last_in_leaf.get(leaf) == i and len(path) > 1:
             mem = [j for j in order if outline.leaf(entries[j]) == leaf]

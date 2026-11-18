@@ -13,7 +13,7 @@ DEFAULTS = {
     # count, else about 4.5 per unit; entries: only a guide for frame shares and the selection report
     "targets": {"entries": None, "per_unit": [4, 5], "units": None, "fact_caps": {}, "word_ranges": {},
                 "max_words": None},
-    "edition": {"images": False, "questions": False, "proportional_clock": False},
+    "edition": {"images": False, "questions": False, "proportional_clock": False, "paragraphs": False},
     "categories": {"roots": [], "depth": 1, "exclude": []},
     "scope": {"include_terms": [], "exclude_terms": [], "threshold": None, "person_terms": []},
     "hubs": {},
@@ -22,7 +22,7 @@ DEFAULTS = {
     "course_type": "survey",
     "sources": [],
     "seeds": [],
-    "verification": {"works": "openalex", "authorities": []},
+    "verification": {"works": "openalex", "authorities": [], "units": []},
 }
 
 
