@@ -25,11 +25,18 @@ from ..crawl.api import WikiClient
 from ..crawl.scope import Scope
 from ..crawl.store import Store, crawled_titles
 from ..frame import hubs as H
+from ..sources.keys import is_qualified
+from ..sources.registry import Registry
 from ..util import read_json, write_json
 
 THETA = 0.05
 IMP = {"Top": 8, "High": 6, "Mid": 4, "Low": 2}
 LONG_WORD = re.compile(r"\b[a-zA-Z]{10,}\b")
+# a vetted source is not buried under Wikipedia's inlink counts
+TIER_BONUS = {"official": 3, "standard": 3, "primary": 2, "curated": 1}
+MENTION_W, SAME_SOURCE_W, MAX_SOURCE_GROUP = 0.5, 0.5, 150
+TOKEN = re.compile(r"[a-z0-9][a-z0-9'+#.-]*")
+STOP_PHRASES = {"the system", "the user", "the server", "the client", "data structure", "use case"}
 
 
 def frame_index(subject):
@@ -51,6 +58,45 @@ def chapters(subject):
     return out
 
 
+def foundations_key(subject):
+    """The part that holds the foundations: the one subject.yaml flags `foundations: true`, else 'found'."""
+    for p in ((subject.cfg.get("frame") or {}).get("parts")) or []:
+        if p.get("foundations"):
+            return p.get("key")
+    return "found"
+
+
+def mention_phrases(nodes, in_scope):
+    """phrase -> key for pages a plain-text mention can name: titles of two or more words or eight or more
+    characters, without a trailing parenthetical, unique to one page."""
+    cand = defaultdict(set)
+    for t in in_scope:
+        n = nodes[t]
+        label = t if n.get("source") in (None, "wikipedia") else (n.get("name") or t)
+        parts = [label]
+        if ": " in label:
+            parts.append(label.split(": ", 1)[1])
+        for p in parts:
+            base = re.sub(r"\s*\([^)]*\)\s*$", "", p).strip().lower()
+            if (len(base.split()) >= 2 or len(base) >= 8) and base not in STOP_PHRASES and not is_qualified(base):
+                cand[base].add(t)
+    return {p: next(iter(ks)) for p, ks in cand.items() if len(ks) == 1}
+
+
+def find_mentions(text, phrases, own, max_words=5):
+    """{key: phrase} for every known page title that appears in the text (whole words, longest first)."""
+    toks = TOKEN.findall(text.lower())
+    found = {}
+    for i in range(len(toks)):
+        for n in range(min(max_words, len(toks) - i), 0, -1):
+            ph = " ".join(toks[i:i + n]).rstrip(".")
+            k = phrases.get(ph)
+            if k and k != own and k not in found:
+                found[k] = ph
+                break
+    return found
+
+
 def _lead_stats(text):
     lead = []
     for line in text.splitlines()[1:]:
@@ -70,7 +116,10 @@ def _lead_stats(text):
 
 def build(subject, pageviews=False, log=print):
     store = Store()
-    scope = Scope(subject)
+    registry = Registry.from_subject(subject)
+    scope = Scope(subject, registry=registry)
+    found_key = foundations_key(subject)
+    gcfg = subject.cfg.get("graph") or {}
     hubs = read_json(subject.scope_dir / "hubs.json", {}) or {}
     titles = [t for t in crawled_titles(subject) if store.has_page(t)]
     if not titles:
@@ -97,7 +146,11 @@ def build(subject, pageviews=False, log=print):
                     "qid": (store.meta.get(t) or {}).get("qid"), "importance_class": hubs.get("importance", {}).get(t),
                     "vital": t in set(hubs.get("vital") or []), "navbox": t in set(hubs.get("navbox") or []),
                     "difficulty_lex": _lead_stats(store.load_text(t)), "lead_links": lead[t],
-                    "url": rec["url"], "revid": rec.get("revid")}
+                    "url": rec["url"], "revid": rec.get("revid"),
+                    "source": rec.get("source") or "wikipedia", "tier": rec.get("tier") or "reference",
+                    "name": rec.get("name") or t,
+                    "version": rec.get("version") or (str(rec["revid"]) if rec.get("revid") is not None else None),
+                    "license": (rec.get("license") or {}).get("name")}
     inl = defaultdict(set)
     for a, ls in links.items():
         for b in ls:
@@ -132,6 +185,26 @@ def build(subject, pageviews=False, log=print):
                 for b in mem:
                     if a != b:
                         w[(a, b)] += 0.5
+    # other sources: pages of one source are related, and a page that names another page's title in its text
+    # points at it (README prose has far fewer links than a Wikipedia article)
+    foreign = [t for t in titles if nodes[t]["source"] != "wikipedia"]
+    by_source = defaultdict(list)
+    for t in foreign:
+        if nodes[t]["in_scope"]:
+            by_source[nodes[t]["source"]].append(t)
+    for mem in by_source.values():
+        if len(mem) <= MAX_SOURCE_GROUP:
+            for a in mem:
+                for b in mem:
+                    if a != b:
+                        w[(a, b)] += SAME_SOURCE_W
+    if gcfg.get("mention_fallback", True) and foreign:
+        phrases = mention_phrases(nodes, {t for t in titles if nodes[t]["in_scope"]})
+        for t in foreign:
+            ms = find_mentions(store.load_text(t), phrases, t)
+            nodes[t]["mentions"] = ms
+            for k in ms:
+                w[(t, k)] += MENTION_W
 
     # importance, difficulty
     # pageviews fetched by an earlier build are kept; --pageviews fetches only pages that have none yet
@@ -145,12 +218,13 @@ def build(subject, pageviews=False, log=print):
     for t, n in nodes.items():
         n_in = sum(1 for a in inl[t] if nodes[a]["in_scope"])
         imp = IMP.get(n["importance_class"], 0) + 2 * math.log1p(n_in) + 3 * n["vital"] + 1 * n["navbox"]
+        imp += TIER_BONUS.get(n["tier"], 0) if n["source"] != "wikipedia" else 0
         if t in views:
             imp += 0.5 * math.log10(views[t] + 1)
             n["pageviews"] = views[t]
         n["inlinks_in_scope"] = n_in
         n["importance"] = round(imp, 3)
-        depth = 0.0 if fidx.get(t, (None,))[0] == "found" else (0.5 if t in fidx else 1.0)
+        depth = 0.0 if fidx.get(t, (None,))[0] == found_key else (0.5 if t in fidx else 1.0)
         n["difficulty"] = round(0.7 * n["difficulty_lex"] + 0.3 * depth, 3)
 
     # chapter assignment
@@ -168,6 +242,11 @@ def build(subject, pageviews=False, log=print):
             if sc > best_s:
                 best, best_s = k, sc
         n["part"], n["chapter"] = best if best else (None, None)
+        if not best and n["source"] != "wikipedia":
+            hint = ((registry.source_entry(t) or {}).get("chapter_hint"))
+            hit = next(((pk, ck) for pk, ck, _, _ in chapters(subject) if ck == hint), None) if hint else None
+            if hit:
+                n["part"], n["chapter"] = hit
 
     # RefD for linked pairs of in-scope nodes
     refd = defaultdict(dict)

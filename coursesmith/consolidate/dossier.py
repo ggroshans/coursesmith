@@ -21,6 +21,7 @@ from collections import defaultdict
 
 from ..extract import sentences as SN
 from ..graph.build import chapters as frame_chapters
+from ..sources.registry import Registry
 from ..graph.build import load as load_graph
 from ..util import atomic_write
 
@@ -58,6 +59,23 @@ def _informative(row):
     return 40 <= len(text) <= 600
 
 
+def is_question_chapter(subject, chapter_key):
+    """A chapter (or its part) flagged `question: true` in frame.yaml: one interview question, one worked answer."""
+    for p in (subject.frame or {}).get("parts") or []:
+        for c in p.get("chapters") or []:
+            if c.get("key") == chapter_key:
+                return bool(c.get("question") or p.get("question"))
+    return False
+
+
+def source_header(registry, t, n):
+    """`source · tier · version · license` for a page that is not Wikipedia."""
+    ad = registry.maybe_for_key(t) if registry else None
+    label = ad.version_label(n.get("version")) if ad else f"version {str(n.get('version'))[:8]}"
+    bits = [n.get("source"), n.get("tier"), label, n.get("license")]
+    return " · ".join(str(b) for b in bits if b)
+
+
 def chapter_pages(subject, graph, chapter_key):
     nodes = graph["nodes"]
     seeds = []
@@ -77,6 +95,7 @@ def build(subject, chapter="all", log=print):
         raise SystemExit("no graph yet; run `coursesmith graph build` first")
     nodes = graph["nodes"]
     db = SN.connect()
+    registry = Registry.from_subject(subject)
     in_scope = {t for t, n in nodes.items() if n["in_scope"]}
     # mentions: page -> sentences on other in-scope pages linking to it
     also = defaultdict(list)
@@ -88,6 +107,16 @@ def build(subject, chapter="all", log=print):
         for l in json.loads(links):
             if l != title and l in nodes and len(also[l]) < 40:
                 also[l].append((sid, title, section, text))
+    # pages of other sources name concepts in plain text rather than with links: the first sentence that does
+    for t, n in nodes.items():
+        if t not in in_scope:
+            continue
+        for l, phrase in (n.get("mentions") or {}).items():
+            if l in nodes and len(also[l]) < 40:
+                row = db.execute("SELECT sent_id, section, sentence FROM sentences WHERE title = ? "
+                                 "AND sentence LIKE ? ORDER BY idx LIMIT 1", (t, f"%{phrase}%")).fetchone()
+                if row:
+                    also[l].append((row[0], t, row[1], row[2]))
     wanted = [c for c in frame_chapters(subject) if chapter in ("all", c[1], c[3])]
     if not wanted:
         raise SystemExit(f"no frame chapter '{chapter}'")
@@ -101,9 +130,14 @@ def build(subject, chapter="all", log=print):
             if not rows:
                 continue
             flags = [x for x, on in (("seed", t in seeds), ("vital", n["vital"]), ("navbox", n["navbox"])) if on]
-            head = (f"## {t} [{', '.join(flags) or 'assigned'}] importance {n['importance']}"
-                    f"{' · ' + n['importance_class'] if n.get('importance_class') else ''}"
-                    f"{' · ' + n['qid'] if n.get('qid') else ''} · in-scope inlinks {n['inlinks_in_scope']}")
+            if n.get("source", "wikipedia") == "wikipedia":
+                head = (f"## {t} [{', '.join(flags) or 'assigned'}] importance {n['importance']}"
+                        f"{' · ' + n['importance_class'] if n.get('importance_class') else ''}"
+                        f"{' · ' + n['qid'] if n.get('qid') else ''} · in-scope inlinks {n['inlinks_in_scope']}")
+            else:
+                head = (f"## {t} [{', '.join(flags) or 'assigned'}] \"{n.get('name') or t}\" importance "
+                        f"{n['importance']} · {source_header(registry, t, n)} · in-scope inlinks "
+                        f"{n['inlinks_in_scope']}")
             lines += ["", head]
             pre = [l for l in n.get("lead_links") or [] if l in in_scope][:8]
             rd = sorted((graph["refd"].get(t) or {}).items(), key=lambda kv: -kv[1])[:6]
@@ -140,6 +174,12 @@ def build(subject, chapter="all", log=print):
             hdr = [f"# Dossier: {ptitle} › {ctitle}, chunk {k}/{len(chunks)}", "",
                    "Format: `S:<sent_id>` | § section | sentence | links | cites | flags. Blocks are pages (concepts), "
                    "most important first; `also on:` lines are sentences on other pages that mention it.", ""]
+            if is_question_chapter(subject, ck):
+                hdr += [f"QUESTION: {ctitle}", "This chapter answers one question. Write exactly one entry of kind "
+                        "\"Worked example\" for it (the worked answer, built only from the sentences below, longer than "
+                        "a concept entry), plus the concept entries a good answer relies on. Where sources differ, "
+                        "prefer the higher tier (official, standard, primary, reference, curated, commentary) and put "
+                        "the other value in `conflicts`.", ""]
             atomic_write(out / f"chunk_{k:02d}.md", "\n".join(hdr + ch) + "\n")
         summary.append((ck, len(seeds), len(assigned), len(lines), len(chunks)))
         log(f"[dossier] {ck}: {len(seeds)} seeds + {len(assigned)} assigned pages, {len(lines)} lines, "

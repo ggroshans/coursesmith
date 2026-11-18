@@ -26,6 +26,8 @@ from ..crawl.api import WikiClient
 from ..crawl.fetch import fetch_page, prescreen
 from ..crawl.scope import Scope, save_hubs, write_calibration
 from ..crawl.store import Store
+from ..sources.keys import is_qualified
+from ..sources.registry import Registry
 from ..util import atomic_write, slug
 from . import hubs as H
 
@@ -136,8 +138,8 @@ def core(c, title, include_terms):
     return s
 
 
-def build(subject, scout=100, refresh=False, log=print):
-    client, store = WikiClient(), Store()
+def build(subject, scout=100, refresh=False, log=print, client=None, store=None, registry=None):
+    client, store = client or WikiClient(), store or Store()
     if refresh:
         hc = subject.cfg.get("hubs") or {}
         for tpl in hc.get("navboxes") or []:
@@ -179,9 +181,13 @@ def build(subject, scout=100, refresh=False, log=print):
     # scout crawl: seeds + the most central candidates
     ranked = sorted(kept, key=lambda t: (-kept[t]["core"], t))
     n_fetched = 0
+    registry = registry or Registry.from_subject(subject, wiki_client=client)
     for t in ranked[:scout]:
+        if is_qualified(t) and not registry.allowed(t):
+            log(f"  [scout] {t}: skipped, no source in subject.yaml allows it")
+            continue
         try:
-            _, _, status = fetch_page(client, store, t)
+            _, _, status = fetch_page(client, store, t, adapters=registry)
             n_fetched += status == "fetched"
         except Exception as e:  # a missing page never stops the scout
             log(f"  [scout] {t}: {e}")
@@ -229,7 +235,10 @@ def build(subject, scout=100, refresh=False, log=print):
     for p in parts_cfg:
         members = [t for t in kept if assign.get(t) == p["key"]]
         chapters = _chapters(p, members, kept)
-        frame_parts.append({"key": p["key"], "title": p["title"], "chapters": chapters})
+        fp = {"key": p["key"], "title": p["title"], "chapters": chapters}
+        if p.get("question"):
+            fp["question"] = True
+        frame_parts.append(fp)
         for ch in chapters:
             weights[(p["key"], ch["title"])] = sum(kept[t]["core"] for t in ch["seeds"] + ch.get("candidates", [])) or 1
     total_w = sum(weights.values()) or 1
@@ -263,7 +272,7 @@ def build(subject, scout=100, refresh=False, log=print):
     rows = []
     for t, c in cand.items():
         m = store.meta.get(t) or {}
-        if m.get("missing") or m.get("disambig") or t in hubs_doc["forced"]:
+        if m.get("missing") or m.get("disambig") or t in hubs_doc["forced"] or is_qualified(t):
             continue
         s, why = sc.score(t, m)
         rows.append({"title": t, "score": s, "reasons": why, "description": m.get("description") or ""})
@@ -315,7 +324,10 @@ def _chapters(p, members, kept):
             continue
         seeds = [t for t in mem if kept[t]["core"] >= SEED_MIN]
         cands = [t for t in mem if kept[t]["core"] < SEED_MIN]
-        ch = {"key": slug(title, 40), "title": title, "seeds": seeds}
+        cc = next((c for c in chs_cfg if c.get("title") == title), {})
+        ch = {"key": cc.get("key") or slug(title, 40), "title": title, "seeds": seeds}
+        if cc.get("question"):
+            ch["question"] = True
         if cands:
             ch["candidates"] = cands
         out.append(ch)

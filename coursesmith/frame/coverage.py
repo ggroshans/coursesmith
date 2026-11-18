@@ -9,6 +9,7 @@ target. Run after the crawl and again after consolidation; decide gap-fill crawl
 from collections import Counter
 
 from ..crawl.store import Store, crawled_titles
+from ..graph.build import load as load_graph
 from ..util import atomic_write, read_json, write_json
 
 
@@ -63,6 +64,14 @@ def run(subject, chapter=None, log=print):
     L += [f"- [{n}] {t}" for n, t, s in rows if s == "missing"] or ["None."]
     L += ["", "## Crawled but in no entry", ""]
     L += [f"- [{n}] {t}" for n, t, s in rows if s == "crawled"] or ["None."]
+    nodes = load_graph(subject).get("nodes") or {}
+    foreign = {t: n for t, n in nodes.items() if n.get("source", "wikipedia") != "wikipedia" and n.get("in_scope")}
+    L += ["", "## Pages of other sources in no chapter (no link or mention tied them to a seed; add a seed, a "
+              "`chapter_hint`, or drop the page)", ""]
+    L += [f"- {t} ({n.get('source')})" for t, n in sorted(foreign.items()) if not n.get("chapter")] or ["None."]
+    L += ["", "## Pages of other sources in no entry", ""]
+    L += [f"- {t} ({n.get('source')})" for t, n in sorted(foreign.items())
+          if t not in as_article and t not in as_source] or ["None."]
     subject.reports_dir.mkdir(parents=True, exist_ok=True)
     atomic_write(subject.reports_dir / "coverage.md", "\n".join(L) + "\n")
     short = {k: f"{v['crawled_pct']}% crawled, {v['entry_pct']}% in entries" for k, v in summary.items()}

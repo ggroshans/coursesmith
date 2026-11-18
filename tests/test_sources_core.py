@@ -180,3 +180,18 @@ class WikipediaAdapterTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class GlobTest(unittest.TestCase):
+    def test_double_star_means_zero_or_more_directories(self):
+        from coursesmith.sources.base import glob_match
+        self.assertTrue(glob_match("README.md", ["**/*.md"]))
+        self.assertTrue(glob_match("a/b/c.md", ["**/*.md"]))
+        self.assertTrue(glob_match("solutions/README.md", ["solutions/**/README.md"]))
+        self.assertTrue(glob_match("solutions/a/b/README.md", ["solutions/**/README.md"]))
+        self.assertFalse(glob_match("other/README.md", ["solutions/**/README.md"]))
+        self.assertTrue(glob_match("README-ja.md", ["**/README-*.md"]))
+        self.assertFalse(glob_match("a/b.md", ["*.md"]))  # a single star stays inside one directory
+        self.assertTrue(glob_match("b.md", ["*.md"]))
+        self.assertTrue(glob_match("docs/x.md", ["docs/**"]))
+        self.assertFalse(glob_match("x.md", []))

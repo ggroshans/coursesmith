@@ -9,8 +9,8 @@ A subject lists its sources in subject.yaml (`sources:`); `registry.Registry` bu
 layers the shared defaults from sources/registry.yaml underneath. The crawl never fetches a key that no adapter
 owns and allows.
 """
+import re
 from datetime import datetime, timezone
-from fnmatch import fnmatch
 from urllib.parse import urlparse
 
 from . import licenses
@@ -40,8 +40,30 @@ def now_iso():
     return datetime.now(timezone.utc).isoformat(timespec="seconds")
 
 
+def _glob_regex(pat):
+    """`**/` is zero or more directories, `**` anything, `*` anything but a slash, `?` one character."""
+    out, i = "", 0
+    while i < len(pat):
+        if pat.startswith("**/", i):
+            out += "(?:.*/)?"
+            i += 3
+        elif pat.startswith("**", i):
+            out += ".*"
+            i += 2
+        elif pat[i] == "*":
+            out += "[^/]*"
+            i += 1
+        elif pat[i] == "?":
+            out += "[^/]"
+            i += 1
+        else:
+            out += re.escape(pat[i])
+            i += 1
+    return re.compile(out + r"\Z")
+
+
 def glob_match(path, patterns):
-    return any(fnmatch(path, p) for p in patterns or [])
+    return any(_glob_regex(p).match(path) for p in patterns or [])
 
 
 class SourceAdapter:

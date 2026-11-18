@@ -16,6 +16,7 @@ DEFAULTS = {
     "categories": {"roots": [], "depth": 1, "exclude": []},
     "scope": {"include_terms": [], "exclude_terms": [], "threshold": None, "person_terms": []},
     "hubs": {},
+    "graph": {"mention_fallback": True},
     "seeds": [],
     "verification": {"works": "openalex", "authorities": []},
 }
