@@ -1,0 +1,385 @@
+{
+ "questions": {
+  "nature-found-015": {
+   "q": "In an ecosystem, what role do decomposers play?",
+   "a": "They break down dead matter and return its nutrients, while plants bring energy in and animals pass it on by eating.",
+   "sent_ids": [
+    "e7d75998df20",
+    "dcc1d5eb9ca5",
+    "d4616e5f5efd"
+   ]
+  },
+  "nature-eecon-208": {
+   "q": "Why is sustainability called a normative idea?",
+   "a": "Because it rests on what people value and want for the future.",
+   "sent_ids": [
+    "79619dee44d2",
+    "da573d7b0983"
+   ]
+  },
+  "nature-found-005": {
+   "q": "Which of the four kinds of ecosystem services is the base for the other three?",
+   "a": "Supporting services; the other three are regulating, provisioning and cultural services.",
+   "sent_ids": [
+    "399710d375a2"
+   ]
+  },
+  "nature-found-016": {
+   "q": "Besides physical goods, what less tangible things count as goods from nature?",
+   "a": "Things like tourism and recreation, and wild genes used to improve farm species.",
+   "sent_ids": [
+    "6a8450caea13"
+   ]
+  },
+  "nature-found-012": {
+   "q": "What does the Natural Capital Protocol help organisations do?",
+   "a": "It brings existing tools together so they can include nature in their strategic and day-to-day decisions.",
+   "sent_ids": [
+    "ed741e9c9500"
+   ]
+  },
+  "nature-found-027": {
+   "q": "What central problem does green economics aim to fix?",
+   "a": "Polluters not paying for the pollution they cause, for example by using tools such as a carbon tax.",
+   "sent_ids": [
+    "9afa388d0583",
+    "5b3d1ce22dcf"
+   ]
+  },
+  "nature-found-025": {
+   "q": "What is the leading environmental cause of disease and death?",
+   "a": "Pollution.",
+   "sent_ids": [
+    "2f0cd1e3bc25"
+   ]
+  },
+  "nature-found-045": {
+   "q": "Which cause of market failure does environmental economics mostly deal with?",
+   "a": "Externalities, also called 'public bads'.",
+   "sent_ids": [
+    "2c7be3ed64fb"
+   ]
+  },
+  "nature-found-084": {
+   "q": "What happens if social costs are higher than private costs and we leave things to markets alone?",
+   "a": "The result is inefficient.",
+   "sent_ids": [
+    "081ed358be62"
+   ]
+  },
+  "nature-found-039": {
+   "q": "What do ecological economists reject about human-made capital?",
+   "a": "The idea that it can stand in for natural capital; they favour 'strong' sustainability.",
+   "sent_ids": [
+    "2406361a6236"
+   ]
+  },
+  "nature-found-052": {
+   "q": "According to Malthus, why does more food raise well-being only for a while?",
+   "a": "Because population then grows to use it up.",
+   "sent_ids": [
+    "9bec59306b7d"
+   ]
+  },
+  "nature-found-035": {
+   "q": "Why does this kind of externality need no policy action?",
+   "a": "It acts only away from the point where the market settles, so it does not misallocate resources.",
+   "sent_ids": [
+    "486098a2d9af",
+    "39603c0c32c6"
+   ]
+  },
+  "nature-found-043": {
+   "q": "Would the world's largest industries still be very profitable if they paid for the nature they damage?",
+   "a": "Hardly: they would barely be profitable.",
+   "sent_ids": [
+    "31dbcec1efa9"
+   ]
+  },
+  "nature-found-054": {
+   "q": "What causes supply-induced scarcity?",
+   "a": "Supply becomes very low compared with demand, mostly because of damage to the environment such as deforestation and drought.",
+   "sent_ids": [
+    "77418ec1a993",
+    "23a9f9d827c2"
+   ]
+  },
+  "nature-found-088": {
+   "q": "Why was Ithaca's passenger railway withdrawn?",
+   "a": "Travellers' trip-by-trip choices did not cover its costs, even though many would have paid to keep it.",
+   "sent_ids": [
+    "46c1c0392289",
+    "d563cf93a4a5"
+   ]
+  },
+  "nature-found-075": {
+   "q": "When does a pollutant become a real pollution or health concern?",
+   "a": "Once its concentration is high enough to do significant harm.",
+   "sent_ids": [
+    "ed3143dc65d2"
+   ]
+  },
+  "nature-found-056": {
+   "q": "Name some illnesses that air pollution makes more likely.",
+   "a": "Stroke, heart disease, lung cancer, pneumonia and COPD.",
+   "sent_ids": [
+    "3ee5cbea7528"
+   ]
+  },
+  "nature-found-081": {
+   "q": "Why do firms cut pollution?",
+   "a": "Either by choice or because regulation forces them to.",
+   "sent_ids": [
+    "71eb5e882d5d"
+   ]
+  },
+  "nature-found-060": {
+   "q": "When does ground-level ozone usually peak?",
+   "a": "On hot summer afternoons; it is the main gas in photochemical smog.",
+   "sent_ids": [
+    "7b4dcbeda08f",
+    "da75847ebec1"
+   ]
+  },
+  "nature-found-077": {
+   "q": "How do local pollutants differ from regional ones?",
+   "a": "Local pollutants harm areas near the source; regional ones harm areas further away.",
+   "sent_ids": [
+    "364dbaefd734",
+    "2764d627ae3a"
+   ]
+  },
+  "nature-found-069": {
+   "q": "How have whales responded to human-made noise?",
+   "a": "They have changed their migration routes and calls to avoid it.",
+   "sent_ids": [
+    "da9ae3889e68"
+   ]
+  },
+  "nature-econ-156": {
+   "q": "How is value usually measured in money?",
+   "a": "As the most a person is willing and able to pay for a good or service.",
+   "sent_ids": [
+    "3fe164b3e09f"
+   ]
+  },
+  "nature-econ-125": {
+   "q": "On an indifference map, what do curves further out mean?",
+   "a": "More satisfaction.",
+   "sent_ids": [
+    "68d2b15bede2",
+    "35c422cfa55b",
+    "04969f476433"
+   ]
+  },
+  "nature-econ-095": {
+   "q": "What is opportunity cost?",
+   "a": "The benefit you would have had from your second-best choice.",
+   "sent_ids": [
+    "70c4495c74cf"
+   ]
+  },
+  "nature-econ-147": {
+   "q": "Into which two parts can any price change be split?",
+   "a": "A substitution effect and an income effect, which comes from the change in buying power.",
+   "sent_ids": [
+    "d2f49fe59bb3",
+    "6457e9899548"
+   ]
+  },
+  "nature-econ-091": {
+   "q": "What does marginal analysis compare?",
+   "a": "The extra benefits of an activity with its extra costs.",
+   "sent_ids": [
+    "2a47bd6ba18b"
+   ]
+  },
+  "nature-econ-155": {
+   "q": "What did Veblen mock about the mainstream view of a person?",
+   "a": "That it treats a person as 'a lightning calculator of pleasures and pains'.",
+   "sent_ids": [
+    "db5026098cb0"
+   ]
+  },
+  "nature-econ-411": {
+   "q": "What does a perfect substitute let you do?",
+   "a": "Use it in exactly the same way as the good it replaces.",
+   "sent_ids": [
+    "b5e2ba0efce7"
+   ]
+  },
+  "nature-econ-101": {
+   "q": "What can ordinal utility tell us, and what can it not?",
+   "a": "It can rank options, such as two ice creams beating one, but not say by how much.",
+   "sent_ids": [
+    "fe38a84340d2",
+    "ee6f104f10d1"
+   ]
+  },
+  "nature-econ-096": {
+   "q": "Give some examples of explicit costs.",
+   "a": "Wages, rent, overheads and materials.",
+   "sent_ids": [
+    "ecd77d805aaf"
+   ]
+  },
+  "nature-econ-123": {
+   "q": "What does compensated demand isolate?",
+   "a": "The substitution effect, by adjusting income so the person stays equally satisfied.",
+   "sent_ids": [
+    "1f4ee19981d3",
+    "42707c73e27b"
+   ]
+  },
+  "nature-econ-083": {
+   "q": "How does capital differ from raw materials or energy?",
+   "a": "It is not used up in one round of production but keeps giving services over many rounds.",
+   "sent_ids": [
+    "284e784d6c3f",
+    "3248d81999ea"
+   ]
+  },
+  "nature-econ-143": {
+   "q": "What does a point inside the production possibility frontier mean?",
+   "a": "Resources are wasted or sitting idle.",
+   "sent_ids": [
+    "84c4f7246291",
+    "256b7c738608"
+   ]
+  },
+  "nature-econ-146": {
+   "q": "Name a few things that can change a good's value after it is made.",
+   "a": "Age, personal attachment, cultural meaning or scarcity, as with collectable cars and comic books.",
+   "sent_ids": [
+    "b59e35dc79fc",
+    "2bcc4412f253",
+    "ef9a62486c34"
+   ]
+  },
+  "nature-econ-084": {
+   "q": "What does public capital cover?",
+   "a": "Government-owned infrastructure such as highways, water treatment, power grids, hospitals and schools.",
+   "sent_ids": [
+    "77a8a9b58705",
+    "70faee75e100"
+   ]
+  },
+  "nature-econ-144": {
+   "q": "What else is the marginal rate of transformation called?",
+   "a": "The marginal opportunity cost of one good in terms of the other.",
+   "sent_ids": [
+    "836c70f35bef"
+   ]
+  },
+  "nature-econ-135": {
+   "q": "Give typical examples of fixed and variable costs.",
+   "a": "Rent, salaries and utility bills are fixed; raw materials, delivery and production supplies are variable.",
+   "sent_ids": [
+    "4ff3ee5b8b0a",
+    "e715811e8e71"
+   ]
+  },
+  "nature-econ-111": {
+   "q": "What is the difference between a normal good and an inferior good?",
+   "a": "People buy more of a normal good as income rises, and less of an inferior good.",
+   "sent_ids": [
+    "2aeac9ca4d0c",
+    "7a15b832ba8f"
+   ]
+  },
+  "nature-econ-344": {
+   "q": "Why might someone pay more for a soft drink at a luxury resort than at a local shop?",
+   "a": "Because willingness to pay depends on context.",
+   "sent_ids": [
+    "a67508e71c83",
+    "bf472b3bb90c"
+   ]
+  },
+  "nature-econ-335": {
+   "q": "What happens at a market equilibrium?",
+   "a": "Competition sets a price at which the amount buyers want equals the amount sellers produce.",
+   "sent_ids": [
+    "8180b0cc0f32"
+   ]
+  },
+  "nature-econ-371": {
+   "q": "What is the difference between moving along a demand curve and shifting it?",
+   "a": "A price change moves buyers along the curve; a change in anything else, such as income or expectations, shifts the whole curve.",
+   "sent_ids": [
+    "1a4b199f2408",
+    "0671ba649938",
+    "506577331307"
+   ]
+  },
+  "nature-econ-385": {
+   "q": "What does Engel's law say about food?",
+   "a": "Spending on food grows more slowly than income.",
+   "sent_ids": [
+    "3d5663104d81",
+    "4fb8d2a1e09f"
+   ]
+  },
+  "nature-econ-402": {
+   "q": "What is the difference between a price ceiling and a price floor?",
+   "a": "A ceiling sets the most that may be charged, like rent control; a floor sets the least, like the minimum wage.",
+   "sent_ids": [
+    "3adb2577f242",
+    "280f4ef4f1b4",
+    "c58b9cbd06d9"
+   ]
+  },
+  "nature-econ-409": {
+   "q": "Why is economic profit smaller than accounting profit?",
+   "a": "Because it subtracts hidden (implicit) costs as well as the costs recorded on the books.",
+   "sent_ids": [
+    "3934144e4b86",
+    "6b8df9dcdaa6",
+    "aaa098d567ce"
+   ]
+  },
+  "nature-econ-364": {
+   "q": "Why are firms in an oligopoly called interdependent?",
+   "a": "Each firm's actions affect the others and provoke reactions.",
+   "sent_ids": [
+    "619bbba2c937"
+   ]
+  },
+  "nature-econ-367": {
+   "q": "What do profit-seeking firms use cost curves for?",
+   "a": "To decide how much to produce.",
+   "sent_ids": [
+    "8ec35fbadc91"
+   ]
+  },
+  "nature-econ-386": {
+   "q": "What does the inverse demand function tell you?",
+   "a": "The highest price that could be charged while still selling a given quantity.",
+   "sent_ids": [
+    "c2a9b9508868",
+    "a02402bb6178"
+   ]
+  },
+  "nature-econ-351": {
+   "q": "Name some indirect ways a state can grant a monopoly.",
+   "a": "Through patents, trademarks and copyright.",
+   "sent_ids": [
+    "b71792c1409a"
+   ]
+  },
+  "nature-econ-382": {
+   "q": "What does the first welfare theorem say about market equilibria?",
+   "a": "They are Pareto efficient: no one can be made better off without making someone else worse off.",
+   "sent_ids": [
+    "5b5188790d1a",
+    "22c4fa3bdaa2"
+   ]
+  },
+  "nature-econ-373": {
+   "q": "On which side of a market does most of a tax's burden fall?",
+   "a": "The side less able to change how much it buys or sells.",
+   "sent_ids": [
+    "2ce7c0981719"
+   ]
+  }
+ }
+}

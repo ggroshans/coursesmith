@@ -1,0 +1,374 @@
+{
+ "questions": {
+  "nature-mkt-026": {
+   "q": "What share of cancer drugs are natural or inspired by nature?",
+   "a": "70% of all cancer drugs are natural or bioinspired products, and over 40% of medicines come from nature.",
+   "sent_ids": [
+    "6acf53cceb59"
+   ]
+  },
+  "nature-mkt-028": {
+   "q": "Why do criminal and terrorist groups take part in wildlife trafficking?",
+   "a": "They use trafficking to raise money; other demand comes from culture, such as bushmeat and traditional medicine.",
+   "sent_ids": [
+    "7ae1d36b9364"
+   ]
+  },
+  "nature-mkt-054": {
+   "q": "How can a land trust protect land without owning it outright?",
+   "a": "It can buy an easement or development, mining or logging rights while the land stays private.",
+   "sent_ids": [
+    "8cafbdd9ef6e",
+    "9e1bf40b19cb"
+   ]
+  },
+  "nature-mkt-016": {
+   "q": "Where do these extra costs bite hardest?",
+   "a": "Where projects are small, varied or need a lot of monitoring and checking; the costs can make projects less attractive to investors.",
+   "sent_ids": [
+    "6d38b350202b",
+    "ec71c8aad8d7"
+   ]
+  },
+  "nature-mkt-040": {
+   "q": "Which report brought the term ESG to prominence?",
+   "a": "The 2004 UN-backed report 'Who Cares Wins'.",
+   "sent_ids": [
+    "72e84d336c69"
+   ]
+  },
+  "nature-mkt-042": {
+   "q": "What did Milton Friedman argue about social responsibility?",
+   "a": "That it harms a firm's financial performance.",
+   "sent_ids": [
+    "4945d808ddcf"
+   ]
+  },
+  "nature-mkt-021": {
+   "q": "How well do disclosure rules work when they stay voluntary?",
+   "a": "Research shows they have limited effect.",
+   "sent_ids": [
+    "ba7f17fb0feb"
+   ]
+  },
+  "nature-mkt-048": {
+   "q": "Why do green bonds tend to pay lower yields than ordinary bonds?",
+   "a": "Because high demand for them pushes their yields down, as studies find.",
+   "sent_ids": [
+    "493538a60bf2"
+   ]
+  },
+  "nature-mkt-061": {
+   "q": "How do these bonds differ from ordinary bonds?",
+   "a": "They have no fixed return; what they pay depends on social outcomes.",
+   "sent_ids": [
+    "3ba2f6645050",
+    "0ef9b59e3a2d"
+   ]
+  },
+  "nature-mkt-010": {
+   "q": "What problem were these projects introduced to fix?",
+   "a": "WWF brought them in during the mid-1980s to fix the problems of the 'fines and fences' approach, which left local people out.",
+   "sent_ids": [
+    "4a59efb06500"
+   ]
+  },
+  "nature-mkt-004": {
+   "q": "Which solutions to human-wildlife conflict tend to work best?",
+   "a": "Those that involve local communities in planning, carrying out and maintaining them.",
+   "sent_ids": [
+    "4ad3d82a4a03"
+   ]
+  },
+  "nature-res-204": {
+   "q": "Why do scarcer resources become more valuable?",
+   "a": "Value depends on how much exists in nature and how costly it is to extract; under supply and demand, scarcity raises value.",
+   "sent_ids": [
+    "3d78f6538f9d",
+    "c8a2c9c66c9d"
+   ]
+  },
+  "nature-res-220": {
+   "q": "When did resource extraction reach an industrial scale?",
+   "a": "In the 19th century, as mining, steam power and machinery pushed extraction far beyond earlier levels.",
+   "sent_ids": [
+    "aa6fe32fe8e0"
+   ]
+  },
+  "nature-res-244": {
+   "q": "Why does sustainable yield apply only to renewable resources?",
+   "a": "Because taking non-renewable resources always shrinks natural capital.",
+   "sent_ids": [
+    "210b8a1ca732"
+   ]
+  },
+  "nature-res-221": {
+   "q": "Under efficient extraction, how fast does a resource's net price rise?",
+   "a": "Each period by a percentage equal to the discount rate.",
+   "sent_ids": [
+    "14282d7392d9"
+   ]
+  },
+  "nature-res-245": {
+   "q": "How does the World Bank describe the blue economy?",
+   "a": "As sustainable use of ocean resources for growth, livelihoods and jobs while keeping ocean ecosystems healthy.",
+   "sent_ids": [
+    "a24ae30b6cec",
+    "1013f4dcd68d"
+   ]
+  },
+  "nature-res-242": {
+   "q": "In the famous bet, what did Simon expect raw material prices to do?",
+   "a": "Not rise in the long run, while Ehrlich expected population growth to outstrip resources.",
+   "sent_ids": [
+    "c5201d7c8b02",
+    "c64565c2ca16"
+   ]
+  },
+  "nature-res-238": {
+   "q": "What makes material in the Earth's crust a mineral resource?",
+   "a": "It has reasonable prospects of eventually being extracted at a profit.",
+   "sent_ids": [
+    "1f0bf090ea7b"
+   ]
+  },
+  "nature-res-224": {
+   "q": "How likely to be produced are proven (1P) reserves?",
+   "a": "At least 90% likely.",
+   "sent_ids": [
+    "722e5cb42ad5"
+   ]
+  },
+  "nature-res-202": {
+   "q": "Which book popularised the idea of petro-aggression?",
+   "a": "Jeff Colgan's 2013 book, which found petrostates far more likely to start international conflicts.",
+   "sent_ids": [
+    "1f49885c35fe"
+   ]
+  },
+  "nature-res-216": {
+   "q": "What is the classic example of a resource nobody needs any more?",
+   "a": "Arrowhead-grade flint, since sharpened scrap steel is simpler.",
+   "sent_ids": [
+    "4b75e47f8fef"
+   ]
+  },
+  "nature-res-230": {
+   "q": "In the resource movement effect, what does a boom do to workers?",
+   "a": "It pulls them into the booming sector, called direct deindustrialisation.",
+   "sent_ids": [
+    "94821ed767c2",
+    "0acfb2f15b2f"
+   ]
+  },
+  "nature-res-228": {
+   "q": "Is there an agreed definition of a critical raw material?",
+   "a": "No; criticality varies with time, country and context.",
+   "sent_ids": [
+    "434e2474cc3c"
+   ]
+  },
+  "nature-res-033": {
+   "q": "How does the FAO define a fishery?",
+   "a": "As an activity leading to harvesting fish, whether caught wild or farmed.",
+   "sent_ids": [
+    "f1774e0efe30",
+    "46c3074ce808"
+   ]
+  },
+  "nature-res-001": {
+   "q": "When do wild fish stocks count as renewable?",
+   "a": "When they produce a yearly surplus that careful management can harvest without lowering future productivity.",
+   "sent_ids": [
+    "1b82570334c6"
+   ]
+  },
+  "nature-res-080": {
+   "q": "Which fields does marine conservation draw on?",
+   "a": "Marine biology, ecology, oceanography and fisheries science, plus economics, maritime law and policy.",
+   "sent_ids": [
+    "c14627c62157"
+   ]
+  },
+  "nature-res-057": {
+   "q": "What mainly causes illegal and unreported fishing?",
+   "a": "Failure to enforce existing laws, often rooted in poor national governance.",
+   "sent_ids": [
+    "fa79372c7feb",
+    "1e581c8e4c63"
+   ]
+  },
+  "nature-res-028": {
+   "q": "What is recruitment overfishing?",
+   "a": "Depleting the spawning adults until too few remain to replenish the stock.",
+   "sent_ids": [
+    "c04dc03cbbf9"
+   ]
+  },
+  "nature-res-066": {
+   "q": "What is the most common form of recreational fishing?",
+   "a": "Angling with rod, reel, line, hooks and bait.",
+   "sent_ids": [
+    "b500e74b9b1b"
+   ]
+  },
+  "nature-res-082": {
+   "q": "What does the treaty's Multilateral System provide?",
+   "a": "Free access to 64 of the world's most important crops for research, breeding and training.",
+   "sent_ids": [
+    "20597c4c428f"
+   ]
+  },
+  "nature-res-015": {
+   "q": "Why do many conservation biologists distrust maximum sustainable yield?",
+   "a": "They see it as dangerous and misused, and blame it for the collapse of many fisheries.",
+   "sent_ids": [
+    "d6ac64848901",
+    "5832996859b0"
+   ]
+  },
+  "nature-res-006": {
+   "q": "How did NOAA honour this tool in 2007?",
+   "a": "It named it one of the ten biggest scientific breakthroughs in its 200-year history.",
+   "sent_ids": [
+    "6826fbab25ec"
+   ]
+  },
+  "nature-res-012": {
+   "q": "Why was the United States Fish Commission set up?",
+   "a": "To find out why New England fisheries were declining.",
+   "sent_ids": [
+    "56300273c17a"
+   ]
+  },
+  "nature-res-065": {
+   "q": "In the simplest growth model, what is a fish's growth in length proportional to?",
+   "a": "The gap between its current length and its ultimate length.",
+   "sent_ids": [
+    "459fee3ed669"
+   ]
+  },
+  "nature-res-042": {
+   "q": "How does a turtle excluder device work?",
+   "a": "A grid deflects turtles out of the trawl net through an opening.",
+   "sent_ids": [
+    "d9e309412976"
+   ]
+  },
+  "nature-res-011": {
+   "q": "Which parts of the sea floor have been trawled repeatedly?",
+   "a": "Nearly all continental shelves and large areas of slopes, ridges and seamounts.",
+   "sent_ids": [
+    "6c9a6ee0a0ca"
+   ]
+  },
+  "nature-res-029": {
+   "q": "What does economic overfishing add to the judgement?",
+   "a": "The cost of fishing, making the fishery less profitable than it could be.",
+   "sent_ids": [
+    "9ff105529f0a",
+    "86bfb76064d7"
+   ]
+  },
+  "nature-res-076": {
+   "q": "Who launched the first seafood certification program?",
+   "a": "The Marine Stewardship Council, in 1996.",
+   "sent_ids": [
+    "fb4513182dd9"
+   ]
+  },
+  "nature-res-070": {
+   "q": "Where do fisheries data come from?",
+   "a": "From the fishery itself, such as recorded landings, and from independent surveys using nets or acoustic and video methods.",
+   "sent_ids": [
+    "c2bb06ac4739",
+    "411f62a0d57f",
+    "d1980d34603f",
+    "98072baff3fd"
+   ]
+  },
+  "nature-res-063": {
+   "q": "Why is virtual population analysis called 'virtual'?",
+   "a": "Population size is never measured directly but worked backwards from catches and an assumed natural death rate.",
+   "sent_ids": [
+    "46b7863a0d54"
+   ]
+  },
+  "nature-res-020": {
+   "q": "How do catch shares change fishers' lives?",
+   "a": "They can schedule trips as they like, boom-and-bust cycles fade, and fishing in dangerous weather becomes unnecessary.",
+   "sent_ids": [
+    "4cf15c5528ee",
+    "b8609ee36414",
+    "f2b7452a91ab"
+   ]
+  },
+  "nature-res-085": {
+   "q": "How do you get the equilibrium catch for a level of fishing effort?",
+   "a": "Set the catch equal to the stock's natural growth.",
+   "sent_ids": [
+    "8088f3068164"
+   ]
+  },
+  "nature-res-107": {
+   "q": "Into which categories does the IPCC group land?",
+   "a": "Forest land, cropland, grassland, wetlands, settlements and other lands.",
+   "sent_ids": [
+    "3a1ac6304d6e"
+   ]
+  },
+  "nature-res-088": {
+   "q": "If the world has enough fresh water, where does scarcity come from?",
+   "a": "A mismatch between when and where people need water and when and where it is available.",
+   "sent_ids": [
+    "d8002eadbb90",
+    "fcef7d51ac00"
+   ]
+  },
+  "nature-res-169": {
+   "q": "What do people with high water security have?",
+   "a": "Always enough water of acceptable quality for health, livelihoods and production.",
+   "sent_ids": [
+    "ab6d872336de"
+   ]
+  },
+  "nature-res-123": {
+   "q": "At which stage does most food waste arise?",
+   "a": "After consumers buy food.",
+   "sent_ids": [
+    "c3baf8e6accc"
+   ]
+  },
+  "nature-res-160": {
+   "q": "In slash-and-burn farming, why do farmers eventually move on?",
+   "a": "After a few years nutrients run down and weeds and pests invade.",
+   "sent_ids": [
+    "b0ceb8f4a3fb",
+    "e6bd4f5bf879"
+   ]
+  },
+  "nature-res-174": {
+   "q": "Which products do non-wood forest products leave out?",
+   "a": "Woodfuel and charcoal.",
+   "sent_ids": [
+    "a5fa1c104b26",
+    "ec2b8cd8fe08"
+   ]
+  },
+  "nature-res-093": {
+   "q": "Which three pillars must sustainable forest management balance?",
+   "a": "Ecological, economic and sociocultural.",
+   "sent_ids": [
+    "7d39d782a39b"
+   ]
+  },
+  "nature-res-151": {
+   "q": "How is prior appropriation often summed up?",
+   "a": "'First in time, first in right': later users take only what is left without harming earlier ones.",
+   "sent_ids": [
+    "347c59836911",
+    "396e52060652"
+   ]
+  }
+ }
+}

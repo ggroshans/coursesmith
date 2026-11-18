@@ -326,7 +326,7 @@ Economics studies how goods and services are produced, shared out and used, agai
 
 - **Failure of competition: when one firm holds the cards**
 
-  In a failure of competition, a firm or small group gains enough power over a market to block trades that would benefit both sides. This kind of market failure takes several forms: a market with a single seller, one with a single buyer, and markets where sellers compete with slightly different products. Such power can last where barriers to entry keep other firms out. An extreme case is natural monopoly, sometimes caused by extreme economies of scale, the cost advantages that come with sheer size.
+  In a failure of market rivalry (Competition: the contest for customers), a firm or small group gains enough power over a market to block trades that would benefit both sides. This kind of market failure takes several forms: a market with a single seller, one with a single buyer, and markets where sellers compete with slightly different products. Such power can last where barriers to entry keep other firms out. An extreme case is a natural sole-seller market, a form of what Monopoly: the market with one seller describes, sometimes caused by extreme economies of scale, the cost advantages that come with sheer size.
 
   <!-- nature-found-047 -->
 
@@ -380,7 +380,7 @@ Economics studies how goods and services are produced, shared out and used, agai
 
 - **How taxes, subsidies and price controls bend markets**
 
-  Cap rents below the market price, and shortages follow. Set a wage floor above the market price, as a minimum wage does, and unemployment can follow. This is market distortion by government: the way taxes, subsidies and legal limits on prices change prices artificially and disturb how markets share out scarce resources. Subsidies can waste scarce resources by shielding inefficient firms from market forces. Taxes, meanwhile, give people a reason to evade them.
+  Cap rents below the market price, and shortages follow. Set a wage floor above the market price, as a minimum wage does, and unemployment can follow. This is government distortion of markets, described in Market distortions: when prices stop telling the truth: the way taxes, subsidies and legal limits on prices change prices artificially and disturb how markets share out scarce resources. Subsidies can waste scarce resources by shielding inefficient firms from market forces. Taxes, meanwhile, give people a reason to evade them.
 
   <!-- nature-found-066 -->
 
@@ -416,7 +416,7 @@ Economics studies how goods and services are produced, shared out and used, agai
 
 - **The economic bill for dirty air**
 
-  In 2019, fine-particle pollution, known as PM2.5, cost the world economy over $8 trillion in health welfare costs, a World Bank study found. In India and China the loss was over 10% of GDP. About 85% of it came from lives lost, priced using a standard money value for lives, explained in The value of a statistical life. These are the economic costs of air pollution: the losses it causes through ill health, lost work, lower crop yields and other damage. It also harms tourism, biodiversity, forestry and water quality. The OECD expects direct market costs from lost productivity, healthcare and crop losses to rise to 1% of GDP by 2060. Air pollution even cuts solar power, by blocking sunlight and dirtying panels.
+  In 2019, fine-particle pollution, known as PM2.5, cost the world economy over $8 trillion in health welfare costs, a World Bank study found. In India and China the loss was over 10% of GDP. About 85% of it came from lives lost, priced using a standard money value for lives, explained in The value of a statistical life. These are the costs that air pollution puts on the economy: the losses it causes through ill health, lost work, lower crop yields and other damage. It also harms tourism, biodiversity, forestry and water quality. The OECD expects direct market costs from lost productivity, healthcare and crop losses to rise to 1% of GDP by 2060. Air pollution even cuts solar power, by blocking sunlight and dirtying panels.
 
   <!-- nature-found-057 -->
 
@@ -700,7 +700,7 @@ Why does anyone choose one thing over another? Economists answer with the order 
 
 - **Criticisms of neoclassical economics: the case against the mainstream**
 
-  Thorstein Veblen mocked the neoclassical picture of a person as "a lightning calculator of pleasures and pains." He was far from alone. Marxist, behavioral, Austrian, post-Keynesian, institutionalist and other schools each break with neoclassical economics, and insiders such as Joseph Stiglitz criticize it too. The main target is its assumption of rational, self-interested, fully informed people. Behavioral economists study how real decisions differ from that picture. Hayek argued that by assuming full information, its equilibrium models assume away the real problem: discovering knowledge spread among many people. Critics also say it carries a normative bias while claiming to be value-free, and they call for more pluralistic teaching. Because it holds that market exchange usually allocates goods best, critics charge that it promotes commodification, turning things into goods for sale, and privatization. Defenders reply that it is also the main tool for judging how policies affect inequality. Schools still disagree over whether its assumptions and mathematical methods are sound, and whether modern mainstream models have moved beyond it.
+  Thorstein Veblen mocked the neoclassical view of a person as "a lightning calculator of pleasures and pains." He was far from alone. Marxist, behavioral, Austrian, post-Keynesian, institutionalist and other schools each break with neoclassical economics, and insiders such as Joseph Stiglitz criticize it too. The main target is its assumption of rational, self-interested, fully informed people. Behavioral economists study how real decisions differ from that picture. Hayek argued that by assuming full information, its equilibrium models assume away the real problem: discovering knowledge spread among many people. Critics also say it carries a normative bias while claiming to be value-free, and they call for more pluralistic teaching. Because it holds that market exchange usually allocates goods best, critics charge that it promotes commodification, turning things into goods for sale, and privatization. Defenders reply that it is also the main tool for judging how policies affect inequality. Schools still disagree over whether its assumptions and mathematical methods are sound, and whether modern mainstream models have moved beyond it.
 
   <!-- nature-econ-155 -->
 
@@ -1000,7 +1000,7 @@ Why does anyone choose one thing over another? Economists answer with the order 
 
 ### Markets, prices and surplus
 
-A market is any arrangement that lets buyers and sellers exchange goods, services and information, and a price is the sum both sides will accept. On one side stands demand, the quantity people are willing and able to buy at various prices. On the other stands supply, the amount sellers are willing and able to offer. The basic model of supply and demand says the price moves until those two amounts match, a balance economists call equilibrium. This chapter follows that model from the law of demand to elasticity, competition and the free market.
+A market is any arrangement that lets buyers and sellers exchange goods, services and information, and a price is the sum both sides will accept. On one side stands demand, the quantity people are willing and able to buy at various prices. On the other stands supply, the amount sellers are willing and able to offer. The basic model of supply and demand says the price moves until those two amounts match, a balance economists call equilibrium. This chapter follows that model from the law of demand to elasticity, rivalry among sellers and the free market.
 
 - **Markets: where buyers meet sellers**
 
@@ -1040,7 +1040,7 @@ A market is any arrangement that lets buyers and sellers exchange goods, service
 
 - **Equilibrium: when the market stops moving**
 
-  Economists borrowed equilibrium from the physical sciences, where balanced forces mean that nothing further changes. Economic equilibrium is a state in which the forces of supply and demand balance, so prices and quantities stop changing. In a market equilibrium, competition sets a price at which the amount buyers want equals the amount sellers produce. That price is called the competitive or market-clearing price, and it tends to stay put unless demand or supply changes. Pull the price away and forces push it back. A price above equilibrium creates a glut that pushes prices down. A price below it creates a shortage that pushes prices up. When the conditions of demand or supply change, the curves shift and the equilibrium moves. Huw Dixon proposed three properties: agents' behavior is consistent, no agent wants to change its behavior, and the outcome comes from a stable dynamic process. Balance is not the same as good. Paul Samuelson and others warn that a food market can be in equilibrium while people starve. During Ireland's Great Famine of 1845–52, food was exported while people starved, because the market price was above what Irish farmers could afford. Some economists also challenge the classical view that markets left alone always clear, pointing to lasting unemployment and credit rationing.
+  Economists borrowed equilibrium from the physical sciences, where balanced forces mean that nothing further changes. Economic equilibrium is a state in which the forces of supply and demand balance, so prices and quantities stop changing. In a market equilibrium, rivalry among sellers sets a price at which the amount buyers want equals the amount sellers produce. That price is called the competitive or market-clearing price, and it tends to stay put unless demand or supply changes. Pull the price away and forces push it back. A price above equilibrium creates a glut that pushes prices down. A price below it creates a shortage that pushes prices up. When the conditions of demand or supply change, the curves shift and the equilibrium moves. Huw Dixon proposed three properties: agents' behavior is consistent, no agent wants to change its behavior, and the outcome comes from a stable dynamic process. Balance is not the same as good. Paul Samuelson and others warn that a food market can be in equilibrium while people starve. During Ireland's Great Famine of 1845–52, food was exported while people starved, because the market price was above what Irish farmers could afford. Some economists also challenge the classical view that markets left alone always clear, pointing to lasting unemployment and credit rationing.
 
   <!-- nature-econ-335 -->
 
@@ -1052,7 +1052,7 @@ A market is any arrangement that lets buyers and sellers exchange goods, service
 
 - **Free markets: prices without government steering**
 
-  To classical economists such as Adam Smith, a free market meant one free of privilege, exclusive selling rights and artificial scarcities. Today the term means an economic system without government steering. Prices of goods and services are set by the supply and demand of buyers and sellers. Its supporters contrast it with a regulated market, where government steps into supply and demand through taxes or rules. A free market does not demand competition as such, but it does demand that new sellers be free to enter. Free markets are usually linked with capitalism, but they have also featured in some forms of market socialism. In practice governments usually step in to cut harms such as planet-warming emissions, sometimes by using markets, as in carbon trading. The arguments run both ways. Critics say real free markets drift toward price-fixing and dominant single sellers, and unequal bargaining power, which led to measures such as US antitrust law. Coase, Friedman, von Mises and Hayek replied that markets can absorb or adjust to supposed market failures.
+  To classical economists such as Adam Smith, a free market meant one free of privilege, exclusive selling rights and artificial scarcities. Today the term means an economic system without government steering. Prices of goods and services are set by the supply and demand of buyers and sellers. Its supporters contrast it with a regulated market, where government steps into supply and demand through taxes or rules. A free market does not demand rivalry among sellers as such, but it does demand that new sellers be free to enter. Free markets are usually linked with capitalism, but they have also featured in some forms of market socialism. In practice governments usually step in to cut harms such as planet-warming emissions, sometimes by using markets, as in carbon trading. The arguments run both ways. Critics say real free markets drift toward price-fixing and dominant single sellers, and unequal bargaining power, which led to measures such as US antitrust law. Coase, Friedman, von Mises and Hayek replied that markets can absorb or adjust to supposed market failures.
 
   <!-- nature-econ-378 -->
 
@@ -1136,7 +1136,7 @@ A market is any arrangement that lets buyers and sellers exchange goods, service
 
 - **Marginal cost: the price of one more unit**
 
-  To make one more car, a carmaker needs more labor and parts, but not a new factory building. Marginal cost is that extra total cost of producing one more unit of output. It counts only costs that change with output. It differs from the cost per unit on average, which is total cost divided by the number of units made. Because costs that do not vary with output stay put, doubling them leaves marginal cost, and the profit-maximizing price and quantity, unchanged. Textbooks expect marginal cost to rise in the short run, as more labor and materials press against a fixed building and machinery. A competitive firm keeps producing as long as the sale price exceeds marginal cost, stopping where the two are equal. On a graph, the marginal cost curve crosses the average-cost curves at their lowest points. Where growing bigger cuts unit costs (Economies of scale: why bigger can be cheaper), pricing at marginal cost fails to cover total costs and so needs a subsidy. The textbook picture is disputed. In a survey of 200 executives, 11% said their marginal costs rose with output, 48% said they were constant and 41% said they fell. Many empirical studies likewise find marginal cost constant or falling for most firms.
+  To make one more car, a carmaker needs more labor and parts, but not a new factory building. Marginal cost is that extra total cost of producing one more unit of output. It counts only costs that change with output. It differs from the cost per unit on average, which is total cost divided by the number of units made. Because costs that do not vary with output stay put, doubling them leaves marginal cost, and the profit-maximizing price and quantity, unchanged. Textbooks expect marginal cost to rise in the short run, as more labor and materials press against a fixed building and machinery. A competitive firm keeps producing as long as the sale price exceeds marginal cost, stopping where the two are equal. On a graph, the line for marginal cost crosses the lines for cost per unit at their lowest points. Where growing bigger cuts unit costs (Economies of scale: why bigger can be cheaper), pricing at marginal cost fails to cover total costs and so needs a subsidy. The textbook picture is disputed. In a survey of 200 executives, 11% said their marginal costs rose with output, 48% said they were constant and 41% said they fell. Many empirical studies likewise find marginal cost constant or falling for most firms.
 
   <!-- nature-econ-347 -->
 
@@ -1190,7 +1190,7 @@ A market is any arrangement that lets buyers and sellers exchange goods, service
 
 - **Cost curves: drawing what production costs**
 
-  A cost curve is a graph showing a firm's production costs against the total quantity it produces. Profit-maximizing firms use these curves to decide how much to produce. There are curves for total, average and marginal costs and for fixed and variable costs, some for the short run and some for the long run. Costs that do not vary with output draw a flat line, while the same cost spread per unit falls as output grows. Short-run marginal cost first falls and then rises, because of diminishing marginal returns. The long-run curve is shaped by Returns to scale: what happens when you double everything. One rule links the curves. When marginal cost is below the cost per unit, the cost per unit falls; when above, it rises; where they are equal, the cost per unit is lowest. That gives the textbook U-shape. Real firms may not follow it. In a 1952 survey of 334 companies, 95% of managers reported constant or falling costs rather than the textbook U-shape.
+  A cost curve is a graph showing a firm's production costs against the total quantity it produces. Profit-maximizing firms use these curves to decide how much to produce. There are curves for total, average and marginal costs and for costs that stay the same (Fixed costs: the bills that arrive regardless) and costs that change with output (Variable costs: the costs that grow with every unit), some for the short run and some for the long run. Costs that do not vary with output draw a flat line, while the same cost spread per unit falls as output grows. Short-run marginal cost first falls and then rises, because of diminishing marginal returns. The long-run curve is shaped by Returns to scale: what happens when you double everything. One rule links the curves. When marginal cost is below the cost per unit, the cost per unit falls; when above, it rises; where they are equal, the cost per unit is lowest. That gives the textbook U-shape. Real firms may not follow it. In a 1952 survey of 334 companies, 95% of managers reported constant or falling costs rather than the textbook U-shape.
 
   <!-- nature-econ-367 -->
 
@@ -1322,7 +1322,7 @@ A market is any arrangement that lets buyers and sellers exchange goods, service
 
 - **The Walrasian auction: finding prices by bidding**
 
-  A Walrasian auction finds a competitive equilibrium by steadily raising prices. The auctioneer starts all prices at zero, and at each round buyers name their favorite bundle. Any item wanted by more than one buyer has its price raised, until each item is wanted by at most one buyer. Such mechanisms are also called Walrasian tâtonnement, or English versions of Auctions: letting the highest bidder set the price.
+  This bidding process, named for Walras, finds a competitive equilibrium by steadily raising prices. The auctioneer starts all prices at zero, and at each round buyers name their favorite bundle. Any item wanted by more than one buyer has its price raised, until each item is wanted by at most one buyer. Such mechanisms are also called Walrasian tâtonnement, or English versions of the sales by bidding described in Auctions: letting the highest bidder set the price.
 
   <!-- nature-econ-366 -->
 
@@ -1572,7 +1572,7 @@ Every business faces the same puzzle: what price to charge, which inputs to use 
 
 - **Economies of scale: why bigger can be cheaper**
 
-  Make a vessel bigger and its surface grows with the square of its size, but its volume grows with the cube. That rule, the square–cube law, is one physical root of economies of scale. These are the cost advantages a business gains from operating on a larger scale, so that each unit of output costs less. Put simply, they occur when average costs fall as output increases. Most sources are not physical. Large firms buy in bulk, hire specialized managers, borrow more cheaply and spread advertising costs over more sales. Returns to scale in production add to the effect. Engineers even use a rough rule: capital cost changes with the 0.6 power of the capacity ratio, so a plant with more capacity costs proportionally less to build. The two ideas are easy to confuse. Economies of scale concern a firm's costs, while returns to scale describe how outputs respond to inputs in the production function. Adam Smith's Wealth of Nations (1776) gave the first systematic analysis, through the division of labor. Economies of scale help explain why firms grow large in some industries, and they shape patterns in international trade. They matter for the climate too. Together with learning by doing, they can lower the costs of climate technologies over time.
+  Make a vessel bigger and its surface grows with the square of its size, but its volume grows with the cube. That rule, the square–cube law, is one physical root of economies of scale. These are the cost advantages a business gains from operating on a larger scale, so that each unit of output costs less. Put simply, they occur when average costs fall as output increases. Most sources are not physical. Large firms buy in bulk, hire specialized managers, borrow more cheaply and spread advertising costs over more sales. Returns to scale in production add to the effect. Engineers even use a rough rule: capital cost changes with the 0.6 power of the capacity ratio, so a plant with more capacity costs proportionally less to build. The two ideas are easy to confuse. Economies of scale concern a firm's costs, while returns to scale describe how outputs respond to inputs in the production function. Adam Smith's Wealth of Nations (1776) gave the first systematic analysis, through the division of labor. Economies of scale help explain why firms grow large in some industries, and they shape patterns in trade between countries, described in International trade: goods, money and pollution across borders. They matter for the climate too. Together with learning by doing, they can lower the costs of climate technologies over time.
 
   <!-- nature-econ-303 -->
 
@@ -1660,7 +1660,7 @@ Is an economy doing well? Economists answer with two questions that sound alike 
 
 - **Economic efficiency: getting the most from what we have**
 
-  An economy can be efficient and still deeply unequal. Economic efficiency means getting the most of what people want, such as well-being, out of the resources available. Economists usually mean one of two things by it. The first asks whether any change could help one person without harming another; it is named after Vilfredo Pareto and explored in Allocative efficiency: making the goods people want. The second asks whether more of one good could be made without making less of another, at the lowest average cost, the subject of Productive efficiency: no waste on the production line. The two need not go together. A market can pass one test and fail the other. Both matter because productive resources are scarce. They must go to each industry in just the right amounts, or too much or too little gets made. Theory says a perfectly competitive equilibrium passes the first test, but only without market imperfections, and these are significant in real markets. Efficiency in this sense says nothing about equality or a society's overall well-being. Removing one distortion does not always help either: if another cannot be removed, efficiency may even fall. Economists also split over who distorts more. One school stresses the distortions governments create; another stresses those markets create and wants more government involvement to fix them. Many economists consider putting a price on carbon, explored in Carbon pricing: charging for the harm of greenhouse gases, the most efficient way to cut greenhouse gas emissions.
+  An economy can be efficient and still deeply unequal. Economic efficiency means getting the most of what people want, such as well-being, out of the resources available. Economists usually mean one of two things by it. The first asks whether any change could help one person without harming another; it is named after Vilfredo Pareto and explored in Allocative efficiency: making the goods people want. The second asks whether more of one good could be made without making less of another, at the lowest average cost, the subject of Productive efficiency: no waste on the production line. The two need not go together. A market can pass one test and fail the other. Both matter because productive resources are scarce. They must go to each industry in just the right amounts, or too much or too little gets made. Theory says a perfectly competitive equilibrium passes the first test, but only without market imperfections, and these are significant in real markets. Efficiency in this sense says nothing about equality or a society's overall well-being. Removing one distortion does not always help either: if another cannot be removed, efficiency may even fall. Economists also split over who distorts more. One school stresses the distortions governments create; another stresses those markets create and wants more government involvement to fix them. Many economists consider putting a price on carbon, explored in Carbon pricing: charging for the harm of greenhouse gases, the most efficient way to cut the release of heat-trapping gases, described in Greenhouse gas emissions: who emits, and how much.
 
   <!-- nature-econ-158 -->
 
@@ -1726,7 +1726,7 @@ Is an economy doing well? Economists answer with two questions that sound alike 
 
 - **Equity: fairness in economics**
 
-  Fair is not always the same as equal. In economics, equity means fairness: the idea of justice in how wealth, resources and taxes are shared within a society. Economic processes and outcomes should not unduly favor or disadvantage any group or person. Equity is judged separately from efficiency when assessing social welfare, and it is often measured with tools such as the Gini index. It is hard to define, because it depends on social values and would require comparing different people's utility. Peter Corning names three kinds of fairness, equality, equity and reciprocity, that must be balanced for a truly fair society. Economists who run experiments study equity as a dislike of unfair outcomes, explored in Inequity aversion: paying to punish unfairness. Climate policy has tested the idea. Under an early climate treaty, The Kyoto Protocol: binding cuts for rich countries, economists argued that equity could be separated from efficiency. It could be handled, for example, through how emission rights are allocated between countries.
+  Fair is not always the same as equal. In economics, equity means fairness: the idea of justice in how wealth, resources and taxes are shared within a society. Economic processes and outcomes should not unduly favor or disadvantage any group or person. Equity is judged separately from efficiency when assessing social welfare, and it is often measured with tools such as the Gini index. It is hard to define, because it depends on social values and would require comparing different people's utility. Peter Corning names three kinds of fairness, equality, equity and the return of like for like described in Reciprocity: kindness for kindness, that must be balanced for a truly fair society. Economists who run experiments study equity as a dislike of unfair outcomes, explored in Inequity aversion: paying to punish unfairness. Climate policy has tested the idea. Under an early climate treaty, The Kyoto Protocol: binding cuts for rich countries, economists argued that equity could be separated from efficiency. It could be handled, for example, through how emission rights are allocated between countries.
 
   <!-- nature-econ-188 -->
 
@@ -1756,7 +1756,7 @@ Is an economy doing well? Economists answer with two questions that sound alike 
 
 - **The second best: when fixing one flaw makes things worse**
 
-  Free trade is good, says the textbook. Yet liberalizing trade while ignoring an environmental externality can leave welfare lower than doing nothing. Richard Lipsey and Kelvin Lancaster showed why in 1956. Their theory of the second best starts when one condition for an ideal economy cannot be met. The best remaining option may then require moving other conditions away from their ideal values too. If one market distortion cannot be removed, adding another in a linked market may partly offset it and raise efficiency. Fixing a market failure in one sector while an uncorrectable failure remains in a related sector can lower overall efficiency. A common error, the 'fallacy of exhaustive effort', assumes that meeting as many remaining ideal conditions as possible gives the second-best result. Environmental policy uses the insight directly. When an externality itself cannot be taxed, taxing a related product can be the second-best correction.
+  Free trade is good, says the textbook. Yet liberalizing trade while ignoring an environmental externality can leave welfare lower than doing nothing. Richard Lipsey and Kelvin Lancaster showed why in 1956. Their theory of the second best starts when one condition for an ideal economy cannot be met. The best remaining option may then require moving other conditions away from their ideal values too. If one market distortion cannot be removed, adding another in a linked market may partly offset it and raise efficiency. Fixing a market failure in one sector while an uncorrectable failure remains in a related sector can lower overall efficiency. A common error, the 'fallacy of exhaustive effort', assumes that meeting as many remaining ideal conditions as possible gives the second-best result. Policy on the environment, described in Environmental policy: governments taking on environmental problems, uses the insight directly. When an externality itself cannot be taxed, taxing a related product can be the second-best correction.
 
   <!-- nature-econ-208 -->
 
@@ -2184,7 +2184,7 @@ Some goods can be fenced off and get used up; others can be kept from no one and
 
 - **Environmental goods: valuable, unpriced and hard to protect**
 
-  Nobody pays at a gate to breathe clean air or walk a beach, and that is part of the problem. An environmental good is a usually unpriced good from nature or from green spaces and systems built by people, explored in Green infrastructure: building with nature. Examples include clean air and water, landscapes, parks, rivers, forests and beaches. Environmental goods are a sub-category of public goods. They are hard to protect because users pay nothing up front and pollution can damage them indefinitely. There is no agreed method for putting an economic value on them. Obstacles include free riding, unclear ownership and the fact that they cannot be divided up. Economists try anyway, by asking about people's willingness to pay, sometimes with simulated markets and the survey method explored in Contingent valuation: putting a price on nature by survey. Critics point to biases, including the way a question's wording shapes its answer. Alternative measures of progress, such as Genuine progress indicator: counting pollution as a loss, count environmental damage and resource depletion.
+  Nobody pays at a gate to breathe clean air or walk a beach, and that is part of the problem. An environmental good is a usually unpriced good from nature or from green spaces and systems built by people, explored in Green infrastructure: building with nature. Examples include clean air and water, landscapes, parks, rivers, forests and beaches. Environmental goods are a sub-category of public goods. They are hard to protect because users pay nothing up front and pollution can damage them indefinitely. There is no agreed method for putting an economic value on them. Obstacles include free riding, unclear ownership and the fact that they cannot be divided up. Economists try anyway, by asking about people's willingness to pay, sometimes with simulated markets and the survey method explored in Contingent valuation: putting a price on nature by survey. Critics point to biases, including the way a question's wording shapes its answer. Alternative measures of progress, such as Genuine progress indicator: counting pollution as a loss, count environmental damage and the running down of natural resources.
 
   <!-- nature-econ-647 -->
 
@@ -2316,7 +2316,7 @@ Some goods can be fenced off and get used up; others can be kept from no one and
 
 - **Social traps: short-term gain, long-term loss**
 
-  Taking the car instead of public transport buys comfort now and more greenhouse gas emissions later. That is a social trap: people act for short-term personal gain in a way that, in the long run, leaves the whole group worse off. John Platt introduced the term in a 1973 paper, applying behavioral psychology to Hardin's tragedy of the commons. Social traps are blamed for overfishing, overgrazing in the Sahel, rainforest destruction and, above all, climate change. Platt proposed ways out: rewards for green behavior, and penalties such as pollution taxes.
+  Taking the car instead of public transport buys comfort now and more heat-trapping gas released later. That is a social trap: people act for short-term personal gain in a way that, in the long run, leaves the whole group worse off. John Platt introduced the term in a 1973 paper, applying behavioral psychology to Hardin's tragedy of the commons. Social traps are blamed for taking too many fish, overgrazing in the Sahel, rainforest destruction and, above all, climate change. Platt proposed ways out: rewards for green behavior, and penalties such as pollution taxes.
 
   <!-- nature-econ-666 -->
 
@@ -2328,7 +2328,7 @@ Some goods can be fenced off and get used up; others can be kept from no one and
 
 - **Georgism and the environment: pollution as a taking from the commons**
 
-  To a Georgist, pollution is a taking from the commons, so its value should be captured for the public through taxes or quotas. Henry George partly inspired early conservation efforts in the Progressive Era, explored in The conservation movement: saving resources for later. Georgists and ecological economists both favor market-based limits on pollution, but Georgists insist the income should not go to polluters. Their 'cap and share' would auction temporary pollution permits and give the proceeds to the public, instead of handing permits free to polluters. Some ecological economists also back a tax on land values, to free unused land for nature and curb urban sprawl.
+  To a Georgist, pollution is a taking from the commons, so its value should be captured for the public through taxes or quotas. Henry George partly inspired early conservation efforts in the Progressive Era, explored in The conservation movement: saving resources for later. Georgists and ecological economists both favor market-based limits on pollution, but Georgists insist the income should not go to polluters. Their 'cap and share' would sell temporary pollution permits by bidding and give the proceeds to the public, instead of handing permits free to polluters. Some ecological economists also back a tax on land values, to free unused land for nature and curb urban sprawl.
 
   <!-- nature-econ-650 -->
 
@@ -2566,7 +2566,7 @@ Every deal has two sides, and they rarely know the same things. A used-car selle
 
 - **The Vickrey auction: win with the top bid, pay the second**
 
-  In a Vickrey auction, bidders hand in sealed bids for a single item. The highest bidder wins but pays the second-highest bid, and losers pay nothing. That twist makes honesty the best policy. Second-price sales are a typical example of mechanisms in which telling the truth is dominant: it is the best move whatever anyone else does. The format is a special case of the The Vickrey-Clarke-Groves mechanism: making honesty pay.
+  In this sealed-bid sale, a kind of the bidding sales described in Auctions: letting the highest bidder set the price, bidders hand in sealed bids for a single item. The highest bidder wins but pays the second-highest bid, and losers pay nothing. That twist makes honesty the best policy. Second-price sales are a typical example of mechanisms in which telling the truth is dominant: it is the best move whatever anyone else does. The format is a special case of the The Vickrey-Clarke-Groves mechanism: making honesty pay.
 
   <!-- nature-econ-007 -->
 
@@ -3086,7 +3086,7 @@ A dollar today is not the same as a dollar next year. Rising prices make each un
 
 - **Integrated Future Value: discounting that counts nature**
 
-  Traditional discounted cash flow counts only financial costs and benefits. Integrated Future Value extends it, and Net present value: future money in today's terms, to count the long-term value and risks of natural capital and Social capital: the value of trust and networks. It lets companies value projects for their long-term environmental and social returns as well as financial ones. The The social cost of carbon: pricing one more ton can be included to capture the damage to society from a project's emissions of heat-trapping gases. The method supports Integrated Bottom Line decisions, which combine financial, environmental and social reporting in one balance sheet, going beyond the Triple bottom line: people, planet and profit.
+  Traditional discounted cash flow counts only financial costs and benefits. This method extends it, and Net present value: future money in today's terms, to count the long-term value and risks of natural capital and Social capital: the value of trust and networks. It lets companies value projects for their long-term environmental and social returns as well as financial ones. The The social cost of carbon: pricing one more ton can be included to capture the damage to society from a project's emissions of heat-trapping gases. The method supports Integrated Bottom Line decisions, which combine financial, environmental and social reporting in one balance sheet, going beyond the Triple bottom line: people, planet and profit.
 
   <!-- nature-econ-793 -->
 
@@ -3936,7 +3936,7 @@ Before anyone can say whether an economy is doing well, someone has to decide wh
 
 ### Behavior and decisions
 
-Economic models long pictured people as an 'economic man', always rational and narrowly self-interested, pursuing their goals in the best possible way. This chapter tests that picture against how people really decide. Their rationality is limited, so they lean on mental shortcuts, settle for an option that is good enough, and often grab a smaller reward now over a larger one later. Controlled experiments, from games of betrayal to a shared pot of tokens, show when people cooperate and when individual interest pulls against the group. Shared standards of behavior steer choices too, and that matters for every problem in which everyone would gain from acting together.
+Economic models long pictured people as an 'economic man', always rational and narrowly self-interested, pursuing their goals in the best possible way. This chapter tests that view against how people really decide. Their rationality is limited, so they lean on mental shortcuts, settle for an option that is good enough, and often grab a smaller reward now over a larger one later. Controlled experiments, from games of betrayal to a shared pot of tokens, show when people cooperate and when individual interest pulls against the group. Shared standards of behavior steer choices too, and that matters for every problem in which everyone would gain from acting together.
 
 - **Game theory: treating choices as moves in a game**
 
@@ -3946,7 +3946,7 @@ Economic models long pictured people as an 'economic man', always rational and n
 
 - **Homo economicus, the perfectly rational 'economic man'**
 
-  Adam Smith wrote that we expect our dinner not from the kindness of the butcher or the baker, but from their regard to their own interest. Economic models turned that remark into a character: homo economicus, or 'economic man'. This imagined person is always rational and narrowly self-interested. As a consumer he maximizes his satisfaction, or Utility: the economist's yardstick for satisfaction. As a producer he maximizes profit. And he can think through every possible outcome to pick the best. The name came from his critics, who used it in the late nineteenth century to attack John Stuart Mill's political economy. 'Rational' here has a narrow meaning. It only means reaching one's own goals at least cost, and says nothing about whether those goals are wise in an ethical or social sense. Nor must the goals be selfish: a person's utility can include the wellbeing of family members, which fits models that stress cooperation. Two later ideas push against the picture: Behavioral economics brings psychology back into economics, which studies biases, and Bounded rationality: why people settle for good enough, which stresses limits of mind and time. Advanced theory now often uses modified agents, with limited rationality or even envy, to depict real decisions more realistically.
+  Adam Smith wrote that we expect our dinner not from the kindness of the butcher or the baker, but from their regard to their own interest. Economic models turned that remark into a character: homo economicus, or 'economic man'. This imagined person is always rational and narrowly self-interested. As a consumer he maximizes his satisfaction, or Utility: the economist's yardstick for satisfaction. As a producer he maximizes profit. And he can think through every possible outcome to pick the best. The name came from his critics, who used it in the late nineteenth century to attack John Stuart Mill's political economy. 'Rational' here has a narrow meaning. It only means reaching one's own goals at least cost, and says nothing about whether those goals are wise in an ethical or social sense. Nor must the goals be selfish: a person's utility can include the wellbeing of family members, which fits models that stress cooperation. Two later ideas push against this view: Behavioral economics brings psychology back into economics, which studies biases, and Bounded rationality: why people settle for good enough, which stresses limits of mind and time. Advanced theory now often uses modified agents, with limited rationality or even envy, to depict real decisions more realistically.
 
   <!-- nature-econ-059 -->
 
@@ -4800,7 +4800,7 @@ Economics is the science of choosing well under limits, and mathematics gives th
 
 - **Partial derivatives: changing one thing at a time**
 
-  Many quantities depend on several inputs at once. A partial derivative isolates one of them. It is the derivative of a function of several variables with respect to one variable, holding the others fixed (The derivative: how fast things change right now). It can be read as the function's rate of change in the direction of that one variable. Partial derivatives therefore measure change only along the coordinate axes. Change in other directions is measured by directional derivatives. The total derivative gives the complete picture by considering all directions at once.
+  Many quantities depend on several inputs at once. A partial derivative isolates one of them. It is the derivative of a function of several variables with respect to one variable, holding the others fixed (The derivative: how fast things change right now). It can be read as the function's rate of change in the direction of that one variable. Partial derivatives therefore measure change only along the coordinate axes. Change in other directions is measured by directional derivatives. The total derivative gives the complete view by considering all directions at once.
 
   <!-- nature-econ-430 -->
 
@@ -5022,7 +5022,7 @@ Economics is the science of choosing well under limits, and mathematics gives th
 
 - **Phase portraits: mapping where a system can go**
 
-  One picture can show the possible paths of a simple system. A phase portrait draws a dynamical system's trajectories in the phase plane, whose axes are the system's variables, with each starting point giving its own curve. Arrows show typical trajectories. Stable steady states (Steady state: when everything flows but nothing changes) appear as dots and unstable ones as circles. The picture reveals whether an attractor (a stable point, or sink), a repeller (an unstable point, or source) or a limit cycle, a repeating loop, is present. For a system of ordinary differential equations, it shows whether the system is unstable, asymptotically stable or neutrally stable (Stability theory: does a disturbed system come back?). Its shape, such as a saddle, node or spiral, can be read off the system's eigenvalues, or its trace and determinant.
+  One drawing can show the possible paths of a simple system. A phase portrait draws a dynamical system's trajectories in the phase plane, whose axes are the system's variables, with each starting point giving its own curve. Arrows show typical trajectories. Stable steady states (Steady state: when everything flows but nothing changes) appear as dots and unstable ones as circles. The drawing reveals whether an attractor (a stable point, or sink), a repeller (an unstable point, or source) or a limit cycle, a repeating loop, is present. For a system of ordinary differential equations, it shows whether the system is unstable, asymptotically stable or neutrally stable (Stability theory: does a disturbed system come back?). Its shape, such as a saddle, node or spiral, can be read off the system's eigenvalues, or its trace and determinant.
 
   <!-- nature-econ-468 -->
 
@@ -5610,7 +5610,7 @@ An ecosystem has parts, and it does work. Some parts are alive: plants and algae
 
 - **Heterotrophs: life that must feed on other life**
 
-  Every mushroom is a heterotroph, and so are most animals. A heterotroph is an organism that cannot make its own food. It gets its carbon from other organisms or from their remains. The group includes most animals, all fungi, some bacteria and protists, and many parasitic plants. In the chain of who eats whom, heterotrophs are the consumers. Autotrophs, which make food from sunlight or inorganic chemicals, are the producers. Detritivores are heterotrophs that eat dead plants, dead animals and feces. Their work keeps the planet's materials moving. Respiration by heterotrophic microbes releases much of the carbon dioxide entering the atmosphere, which plants then reuse. Through mineralization, the release of nutrients locked in dead matter, heterotrophs turn organic nitrogen, sulfur and phosphorus into inorganic forms that plants can use. That step is critical to plant survival and to soil fertility.
+  Every mushroom is a heterotroph, and so are most animals. A heterotroph is an organism that cannot make its own food. It gets its carbon from other organisms or from their remains. The group includes most animals, all fungi, some bacteria and protists, and many parasitic plants. In the chain of who eats whom, heterotrophs are the consumers. Autotrophs, which make food from sunlight or inorganic chemicals, are the producers. Detritivores are heterotrophs that eat dead plants, dead animals and feces. Their work keeps the planet's materials moving. Respiration by heterotrophic microbes releases much of the carbon dioxide entering the atmosphere, which plants then take up again. Through mineralization, the release of nutrients locked in dead matter, heterotrophs turn organic nitrogen, sulfur and phosphorus into inorganic forms that plants can use. That step is critical to plant survival and to soil fertility.
 
   <!-- nature-eco-362 -->
 
@@ -5628,7 +5628,7 @@ An ecosystem has parts, and it does work. Some parts are alive: plants and algae
 
 - **Soil degradation: five ways soil loses its power**
 
-  Soil can wear out. Soil degradation is the decline of soil's ability to do its jobs, and it happens in five main ways. Soil can become more acidic. It can be contaminated or eroded. It can fill with salt. And dry land can turn to desert, the process covered in Desertification: how dry land turns to desert. That last one is widely misunderstood. Drought alone is a common misconception as its cause. It usually comes from poorly adapted human activities, such as overgrazing or harvesting too much firewood. Erosion, the wearing away of soil, is driven by water, wind, ice and gravity, and several kinds can strike at once. Salination is a build-up of salts that cuts the farming value of soils and the plants growing on them. Contamination has a partial natural remedy. At low levels, soil organisms can treat it, mainly through enzymes made by microbes.
+  Soil can wear out. Soil degradation is the decline of soil's ability to do its jobs, and it happens in five main ways. Soil can become more acidic. It can be contaminated or eroded. It can fill with salt. And dry land can turn to desert, the process covered in Desertification: how dry land turns to desert. That last one is widely misunderstood. Drought alone is a common misconception as its cause. It usually comes from poorly adapted human activities, such as overgrazing or harvesting too much wood for fuel. Erosion, the wearing away of soil, is driven by water, wind, ice and gravity, and several kinds can strike at once. Salination is a build-up of salts that cuts the farming value of soils and the plants growing on them. Contamination has a partial natural remedy. At low levels, soil organisms can treat it, mainly through enzymes made by microbes.
 
   <!-- nature-eco-391 -->
 
@@ -5682,7 +5682,7 @@ An ecosystem has parts, and it does work. Some parts are alive: plants and algae
 
 - **Anti-environmentalism: the organized opposition**
 
-  Environmentalism has organized opponents. Anti-environmentalism covers ideas and actions that oppose environmentalism as a whole or particular environmental policies. It can take the form of an organized countermovement that targets climate science and environmental regulation. Its actors may include workers in industries threatened by environmental policy. They may also include anti-environmentalist think tanks, research groups that promote these views.
+  Environmentalism has organized opponents. Anti-environmentalism covers ideas and actions that oppose environmentalism as a whole or particular environmental policies. It can take the form of an organized countermovement that targets climate science and environmental regulation. Its actors may include workers in industries threatened by rules to protect the environment. They may also include anti-environmentalist think tanks, research groups that promote these views.
 
   <!-- nature-eco-317 -->
 
@@ -5694,7 +5694,7 @@ An ecosystem has parts, and it does work. Some parts are alive: plants and algae
 
 - **Labor environmentalism: unions take on the environment**
 
-  Trade unions are caught between the economic growth model and the global ecological crisis. Labor environmentalism is their response. Unions work to shape environmental policy, campaign on environmental issues and partner with environmental groups. To promote green jobs, they developed the idea of a Just transition: leaving no one behind.
+  Trade unions are caught between the economic growth model and the global ecological crisis. Labor environmentalism is their response. Unions work to shape government action on the environment, campaign on environmental issues and partner with environmental groups. To promote green jobs, they developed the idea of a Just transition: leaving no one behind.
 
   <!-- nature-eco-316 -->
 
@@ -5766,7 +5766,7 @@ An ecosystem has parts, and it does work. Some parts are alive: plants and algae
 
 - **Habitat: the place a species can live**
 
-  The large blue butterfly lives only in chalk grassland, and only where certain ants live too. Its needs are narrow and exact. That set of needs is its habitat: the resources and the living and non-living conditions in a place that let a species survive and reproduce. Physical factors include soil, moisture, temperature range and light. Living factors include food supply and predators. A habitat can be seen as the physical form of a species' The ecological niche: a species' address and its job, its role in its surroundings. Species differ in how choosy they are. Generalists thrive in many conditions, while specialists like the large blue need a narrow set. Habitats on land include forests, grasslands, wetlands and deserts. Freshwater ones include rivers, lakes, marshes and bogs. Losing its habitat is the single greatest threat to any species. Habitat destruction, the leading cause of species loss is the leading cause of the loss of species and of extinction worldwide. Protecting habitats, through national parks, reserves or limits on human activity, is a necessary step in keeping biodiversity. Not all tree cover counts. Plantations of a single tree species add trees but fail to provide the varied habitat most woodland creatures need.
+  The large blue butterfly lives only in chalk grassland, and only where certain ants live too. Its needs are narrow and exact. That set of needs is its habitat: the resources and the living and non-living conditions in a place that let a species survive and reproduce. Physical factors include soil, moisture, temperature range and light. Living factors include food supply and predators. A habitat can be seen as the physical form of a species' The ecological niche: a species' address and its job, its role in its surroundings. Species differ in how choosy they are. Generalists thrive in many conditions, while specialists like the large blue need a narrow set. Habitats on land include forests, grasslands, wetlands and deserts. Freshwater ones include rivers, lakes, marshes and the peat wetlands described in Bogs: where decay runs slower than growth. Losing its habitat is the single greatest threat to any species. Habitat destruction, the leading cause of species loss is the leading cause of the loss of species and of extinction worldwide. Protecting habitats, through the parks described in National parks: protected land and its critics, reserves or limits on human activity, is a necessary step in keeping biodiversity. Not all tree cover counts. Plantations of a single tree species add trees but fail to provide the varied habitat most woodland creatures need.
 
   <!-- nature-eco-294 -->
 
@@ -5970,7 +5970,7 @@ An ecosystem has parts, and it does work. Some parts are alive: plants and algae
 
 - **Allogenic and autogenic engineers: two ways to build habitat**
 
-  A woodpecker carves a hole in a tree, and later other birds and mammals move in. That makes it an allogenic engineer, one that changes materials from one form to another. Autogenic engineers instead create habitat with their own bodies. Sphagnum moss builds peat bogs this way. Tree trunks likewise shelter lichens, mosses, squirrels, birds and insects. Jones and colleagues identified the two types in 1994. Later work proposed six specific cases, based on how species change materials and buffer physical forces.
+  A woodpecker carves a hole in a tree, and later other birds and mammals move in. That makes it an allogenic engineer, one that changes materials from one form to another. Autogenic engineers instead create habitat with their own bodies. Sphagnum moss builds peat wetlands this way. Tree trunks likewise shelter lichens, mosses, squirrels, birds and insects. Jones and colleagues identified the two types in 1994. Later work proposed six specific cases, based on how species change materials and buffer physical forces.
 
   <!-- nature-eco-290 -->
 
@@ -6180,7 +6180,7 @@ An ecosystem has parts, and it does work. Some parts are alive: plants and algae
 
 - **Foundation species: the builders of communities**
 
-  Corals, kelps, oysters, seagrasses, mangroves and forest trees build the places where other organisms live. They create habitat and ease physical stresses such as waves and drying. Each is a foundation species: a species that plays a strong role in shaping the structure of its community. Paul K. Dayton coined the term in 1972 for certain marine invertebrates and algae. Foundation species can sit at any trophic level, as producers, herbivores or predators. They do not always add variety. Studies removing creosote bush and eastern hemlock found that the number of species rose afterwards, suggesting foundation species can sometimes limit diversity.
+  Corals, kelps, oysters, the sea plants described in Seagrasses: flowering plants that went back to sea, mangroves and forest trees build the places where other organisms live. They create habitat and ease physical stresses such as waves and drying. Each is a foundation species: a species that plays a strong role in shaping the structure of its community. Paul K. Dayton coined the term in 1972 for certain marine invertebrates and algae. Foundation species can sit at any trophic level, as producers, herbivores or predators. They do not always add variety. Studies removing creosote bush and eastern hemlock found that the number of species rose afterwards, suggesting foundation species can sometimes limit diversity.
 
   <!-- nature-eco-355 -->
 
@@ -6258,7 +6258,7 @@ An ecosystem has parts, and it does work. Some parts are alive: plants and algae
 
 - **The soil carbon pool: Earth's biggest living-world carbon store**
 
-  The world's soils hold an estimated 2,500 gigatons of carbon. That is 3.3 times the 750 gigatons in the atmosphere and 4.5 times the 560 gigatons in living things. This soil carbon pool is a key part of the global The carbon cycle: life's main ingredient on the move. About 1,550 gigatons of it is organic carbon, mostly in soil organic matter. Carbonates, mineral forms of carbon, make up the rest. The pool can move either way. Depending on outside factors, soil can soak up and store carbon, or release it as heat-trapping gases.
+  The world's soils hold an estimated 2,500 gigatons of carbon. That is 3.3 times the 750 gigatons in the atmosphere and 4.5 times the 560 gigatons in living things. This pool is a key part of the global The carbon cycle: life's main ingredient on the move. About 1,550 gigatons of it is organic carbon, mostly in soil organic matter. Carbonates, mineral forms of carbon, make up the rest. The pool can move either way. Depending on outside factors, soil can soak up and store carbon, or release it as heat-trapping gases.
 
   <!-- nature-eco-404 -->
 
@@ -6388,7 +6388,7 @@ Populations rarely stand still. Their size and age make-up change as individuals
 
 - **The S-curve: how innovations spread**
 
-  Railroads, light bulbs, electrification, cars and air travel each went through rapid growth after early gains in cost and quality. Their spread can be drawn with the logistic curve: slow at first, then rapid, then leveling off near saturation. This use of the curve is the diffusion of innovations S-curve. Gabriel Tarde described its three stages in The Laws of Imitation (1890): a hard start, an exponential take-off and a slowing phase.
+  Railroads, light bulbs, the spread of electric power, cars and air travel each went through rapid growth after early gains in cost and quality. Their spread can be drawn with the logistic curve: slow at first, then rapid, then leveling off near saturation. This use of the curve is the diffusion of innovations S-curve. Gabriel Tarde described its three stages in The Laws of Imitation (1890): a hard start, an exponential take-off and a slowing phase.
 
   <!-- nature-eco-581 -->
 
@@ -7290,7 +7290,7 @@ Without the gases that trap heat in its air, Earth's surface would average −18
 
 - **Earth's albedo: the share of sunlight bounced back**
 
-  Earth reflects about 30% of incoming sunlight back to space, giving Earth's albedo a value of 0.30 on annual average. Clouds, aerosols, oceans, land, snow, ice and vegetation do the reflecting, and Earth absorbs the other 70%. Human changes push both ways. Deforestation typically raises reflectivity, while Arctic ice loss lowers it.
+  Earth reflects about 30% of incoming sunlight back to space, giving Earth a reflectivity, described in Albedo: how much sunlight a surface throws back, of 0.30 on annual average. Clouds, aerosols, oceans, land, snow, ice and vegetation do the reflecting, and Earth absorbs the other 70%. Human changes push both ways. Deforestation typically raises reflectivity, while Arctic ice loss lowers it.
 
   <!-- nature-eco-006 -->
 
@@ -7564,7 +7564,7 @@ Every change people make to land and water reaches the living things that depend
 
 - **Forest genetic resources: the variety inside trees**
 
-  In 2014 the FAO's first State of the World's Forest Genetic Resources found half the regularly used forest species threatened by land conversion, overexploitation and climate change. Forest genetic resources are the genetic material, of present or future value, of forest tree and shrub species. Forest communities depend on them for timber and for products such as fruits, gums and resins, and they underpin plantation wood. Their diversity lets tree species adapt to climate change. Not all can adapt fast enough, so moving seed and other forest reproductive material may be needed.
+  In 2014 the FAO's first global report on the genetic stock of forests found half the regularly used forest species threatened by land conversion, overexploitation and climate change. They are the genetic material, a forest case of Genetic resources: who owns life's code?, of present or future value, of forest tree and shrub species. Forest communities depend on them for timber and for products such as fruits, gums and resins, and they underpin plantation wood. Their diversity lets tree species adapt to climate change. Not all can adapt fast enough, so moving seed and other forest reproductive material may be needed.
 
   <!-- nature-eco-156 -->
 
@@ -8056,7 +8056,7 @@ Every change people make to land and water reaches the living things that depend
 
 - **Livestock genetic resources: 8,800 breeds**
 
-  About 8,800 breeds of birds and mammals, within 38 species, are used for food and agriculture. Livestock genetic resources are the genetic variety of these species, breeds and populations. The diversity can be held in live animals or in stored material such as frozen semen or embryos, a form of Ex situ conservation: seed banks and frozen backups.
+  About 8,800 breeds of birds and mammals, within 38 species, are used for food and agriculture. They are the genetic variety, a livestock case of Genetic resources: who owns life's code?, of these species, breeds and populations. The diversity can be held in live animals or in stored material such as frozen semen or embryos, a form of Ex situ conservation: seed banks and frozen backups.
 
   <!-- nature-eco-075 -->
 
@@ -8520,7 +8520,7 @@ Forests, wetlands, grasslands and peatlands are not interchangeable patches of g
 
 - **Wetlands: the ground between water and land**
 
-  In 2005 the The Millennium Ecosystem Assessment: a health check for the planet found wetlands more threatened by environmental degradation than any other ecosystem. A wetland is a semi-aquatic ecosystem whose ground is flooded or soaked with water, either permanently or for part of the year. It sits between open water and dry land, and its plants have roots adapted to oxygen-poor, waterlogged soils. The single most important factor in making one is hydrology: how long and how often an area floods. Wetlands exist on every continent except Antarctica, and their water may be fresh, brackish (slightly salty) or salt. They come in several forms. Marshes are dominated by reeds, cattails and sedges, swamps by trees and shrubs, while bogs and fens build up peat. The largest include the Amazon basin, the West Siberian Plain, the Pantanal and the Sundarbans. Wetlands are among the most biologically diverse ecosystems. Their plants improve water quality by removing excess nitrates and phosphorus, two nutrients that pollute rivers. They also purify water, stabilize shorelines, protect against storms and control floods, which makes their loss costly.
+  In 2005 the The Millennium Ecosystem Assessment: a health check for the planet found wetlands more threatened by environmental degradation than any other ecosystem. A wetland is a semi-aquatic ecosystem whose ground is flooded or soaked with water, either permanently or for part of the year. It sits between open water and dry land, and its plants have roots adapted to oxygen-poor, waterlogged soils. The single most important factor in making one is hydrology: how long and how often an area floods. Wetlands exist on every continent except Antarctica, and their water may be fresh, brackish (slightly salty) or salt. They come in several forms. Marshes are dominated by reeds, cattails and sedges, swamps by trees and shrubs, while peat wetlands, among them those described in Fens: peatlands fed by groundwater, build up peat. The largest include the Amazon basin, the West Siberian Plain, the Pantanal and the Sundarbans. Wetlands are among the most biologically diverse ecosystems. Their plants improve water quality by removing excess nitrates and phosphorus, two nutrients that pollute rivers. They also purify water, stabilize shorelines, protect against storms and control floods, which makes their loss costly.
 
   <!-- nature-eco-441 -->
 
@@ -8574,7 +8574,7 @@ Forests, wetlands, grasslands and peatlands are not interchangeable patches of g
 
 - **Bogs: where decay runs slower than growth**
 
-  The world's largest wetland is a bog: the peat bogs of the Western Siberian Lowlands, covering more than a million square kilometres. A bog is a wetland that builds up peat, a deposit of dead plant matter, usually sphagnum moss. It is one of the four main types of wetland. Bogs form where surface water is acidic and poor in nutrients, mostly in cooler northern climates. Most get their water and nutrients from rain rather than from ground or surface water. Plants grow slowly here, but decay is even slower in the oxygen-poor, waterlogged soil, so peat piles up, sometimes many meters deep and usually thicker than 30 centimetres. Specialized species cope with the scarcity, such as carnivorous sundews and pitcher plants that get nutrients from insects. Because plant material keeps accumulating, a bog is a carbon sink. Peat-forming mires that are alkaline rather than acidic are called fens instead.
+  The world's largest wetland is a bog: the peat bogs of the Western Siberian Lowlands, covering more than a million square kilometres. A bog is a wetland that builds up peat, a deposit of dead plant matter, usually sphagnum moss. It is one of the four main types of wetland. Bogs form where surface water is acidic and poor in nutrients, mostly in cooler northern climates. Most get their water and nutrients from rain rather than from ground or surface water. Plants grow slowly here, but decay is even slower in the oxygen-poor, waterlogged soil, so peat piles up, sometimes many meters deep and usually thicker than 30 centimetres. Specialized species cope with the scarcity, such as carnivorous sundews and pitcher plants that get nutrients from insects. Because plant material keeps accumulating, a bog is a carbon sink. Peat-forming mires that are alkaline rather than acidic are a different type, described in Fens: peatlands fed by groundwater.
 
   <!-- nature-eco-508 -->
 
@@ -9054,7 +9054,7 @@ Forests, wetlands, grasslands and peatlands are not interchangeable patches of g
 
 - **Leaving buffers when forests are logged**
 
-  Logging next to a stream can fill it with sediment, change its species and pollute its water. Riparian buffers in logging mean leaving the riverside strip undisturbed during timber harvesting so it keeps protecting the stream. The untouched soil and vegetation give shade, leaf litter and wood, and hold back soil eroding from the logged area. How well a buffer works depends on soil type, root structure, climate and plant cover.
+  Logging next to a stream can fill it with sediment, change its species and pollute its water. Leaving such buffers in logging means leaving the riverside strip undisturbed during timber harvesting so it keeps protecting the stream. The untouched soil and vegetation give shade, leaf litter and wood, and hold back soil eroding from the logged area. How well a buffer works depends on soil type, root structure, climate and plant cover.
 
   <!-- nature-eco-484 -->
 
@@ -9240,7 +9240,7 @@ Forests, wetlands, grasslands and peatlands are not interchangeable patches of g
 
 - **Seagrass blue carbon: burying carbon in the seabed**
 
-  Seagrass meadows cover only 0.1% of the ocean floor yet account for 10–18% of all carbon buried in the ocean. Seagrass blue carbon is the carbon dioxide these meadows pull from the air and bury in seabed sediment, part of the coastal carbon store called Blue carbon: the climate value of coastal mud. Per hectare, seagrass holds twice as much carbon dioxide as rain forests, and meadows can take up about 27 million tons of CO2 a year. Global meadows are estimated to store up to 19.9 Pg (billion tons) of organic carbon. The trick is in the mud. Carbon builds up in low-oxygen seabed sediments, where slow decomposition preserves it for decades to millennia. Land habitats lose carbon to decay, fire or deforestation; marine sinks can keep it far longer. Burial rates vary with species, sediment and depth, averaging about 140 g C m−2 yr−1. Restoration works on a human timescale too. Restored seagrass meadows began storing carbon in sediment within about four years.
+  Seagrass meadows cover only 0.1% of the ocean floor yet account for 10–18% of all carbon buried in the ocean. This is the carbon dioxide these meadows pull from the air and bury in seabed sediment, part of the coastal carbon store called Blue carbon: the climate value of coastal mud. Per hectare, seagrass holds twice as much carbon dioxide as rain forests, and meadows can take up about 27 million tons of CO2 a year. Global meadows are estimated to store up to 19.9 Pg (billion tons) of organic carbon. The trick is in the mud. Carbon builds up in low-oxygen seabed sediments, where slow decomposition preserves it for decades to millennia. Land habitats lose carbon to decay, fire or deforestation; marine sinks can keep it far longer. Burial rates vary with species, sediment and depth, averaging about 140 g C m−2 yr−1. Restoration works on a human timescale too. Restored seagrass meadows began storing carbon in sediment within about four years.
 
   <!-- nature-eco-488 -->
 
@@ -9414,7 +9414,7 @@ Forests, wetlands, grasslands and peatlands are not interchangeable patches of g
 
 - **Green and blue infrastructure: building nature into cities**
 
-  Buildings certified under LEED, a green building rating system, report using 30% less energy and gaining economic and mental benefits from natural light. Green and blue infrastructure means building in ways that weave natural systems such as vegetation and water into human-made structures. The green side includes nature preserves and added vegetation such as vertical gardens. The blue side includes ways of managing rainwater, such as planted channels that soak up runoff (Bioswales: planted ditches that clean the street).
+  Buildings certified under LEED, a green building rating system, report using 30% less energy and gaining economic and mental benefits from natural light. Infrastructure of this kind, described in Green infrastructure: building with nature and Blue infrastructure: the water in the city, means building in ways that weave natural systems such as vegetation and water into human-made structures. The green side includes nature preserves and added vegetation such as vertical gardens. The blue side includes ways of managing rainwater, such as planted channels that soak up runoff (Bioswales: planted ditches that clean the street).
 
   <!-- nature-eco-440 -->
 
@@ -9606,7 +9606,7 @@ Nature's recycling system moves matter from dead things back into new life, and 
 
 - **Managed aquifer recharge: putting water back**
 
-  A facility in Orange County, California cleans and injects 100 million gallons of water a day underground, or 90 billion gallons a year. That is managed aquifer recharge: deliberately putting water back into underground water stores through altered streambeds, bank filtration, water spreading or recharge wells. It answers a real need. In India, where farmers' over-pumping has drained underground water, the government funded dug-well recharge projects in 100 districts in 2007.
+  A facility in Orange County, California cleans and injects 100 million gallons of water a day underground, or 90 billion gallons a year. That is managed recharge: deliberately putting water back into the underground water stores described in Aquifers: not underground lakes, but soaked rock through altered streambeds, bank filtration, water spreading or recharge wells. It answers a real need. In India, where farmers' over-pumping has drained underground water, the government funded dug-well recharge projects in 100 districts in 2007.
 
   <!-- nature-es-111 -->
 
@@ -11640,7 +11640,7 @@ Before economists offered prices, governments wrote rules. This chapter covers t
 
 - **NEPA: the law that made agencies look first**
 
-  Silent Spring: the book that turned the US against DDT, the 1969 Santa Barbara oil spill and protests against highway building all fed the mood that produced it. The National Environmental Policy Act (NEPA), passed in 1969 and in force from January 1, 1970, requires federal agencies to weigh environmental effects before acting. It also created the Council on Environmental Quality. Agencies follow three levels of review. The lightest is a categorical exclusion. The middle is an environmental assessment ending in a finding of no significant impact. The heaviest is a full The environmental impact statement. A federal study of 2013-2018 found a full review took 4.5 years on average. The Council has no enforcement power, so violations go through the courts, where the usual remedy is ordering the review redone. NEPA shaped impact assessment in countries such as Australia, and it is the law most used in US climate litigation, with 322 cases filed. Evidence on its costs and benefits is limited. Defenders see a key safeguard that curbed some of the worst abuses; critics blame it for long delays.
+  Silent Spring: the book that turned the US against DDT, the 1969 Santa Barbara oil spill and protests against highway building all fed the mood that produced it. NEPA, the US national law on the environment passed in 1969 and in force from January 1, 1970, requires federal agencies to weigh environmental effects before acting. It also created the Council on Environmental Quality. Agencies follow three levels of review. The lightest is a categorical exclusion. The middle is an environmental assessment ending in a finding of no significant impact. The heaviest is a full The environmental impact statement. A federal study of 2013-2018 found a full review took 4.5 years on average. The Council has no enforcement power, so violations go through the courts, where the usual remedy is ordering the review redone. NEPA shaped impact assessment in countries such as Australia, and it is the law most used in US climate litigation, with 322 cases filed. Evidence on its costs and benefits is limited. Defenders see a key safeguard that curbed some of the worst abuses; critics blame it for long delays.
 
   <!-- nature-pol-168 -->
 
@@ -14294,7 +14294,7 @@ Some resources come back and some do not. Forests, fish and other living things 
 
 ### Fisheries
 
-About 500 million people depend on fisheries for their living, and fish feed billions more. Fish stocks are renewable, but only while they are caught no faster than they can breed, and many are not. This chapter follows the science and economics of fishing: how a stock grows, how much can be taken year after year, and why open access drives fleets to take too much. It then turns to the tools that answer that pressure, from catch limits and protected areas to exclusive zones at sea and quotas that fishers can own.
+About 500 million people depend on fisheries for their living, and fish feed billions more. Fish stocks are renewable, but only while they are caught no faster than they can breed, and many are not. This chapter follows the science and economics of fishing: how a stock grows, how much can be taken year after year, and why open access drives fleets to take too much. It then turns to the tools that answer that pressure, from catch limits and reserves at sea to exclusive zones at sea and quotas that fishers can own.
 
 - **Fisheries: where people meet wild fish**
 
@@ -14340,7 +14340,7 @@ About 500 million people depend on fisheries for their living, and fish feed bil
 
 - **Marine protected areas: parks in the sea**
 
-  Biodiversity in fully protected marine reserves rose by an average of 23% after designation. A marine protected area (MPA) is part of the seas, oceans or estuaries where human activity is restricted for conservation. Rules vary widely, covering development, fishing methods, seasons, catch limits and bans on disturbing marine life. Not all MPAs ban fishing: less than 1 percent of US waters are no-take zones. Meta-analyses show no-take reserves give the biggest ecological benefits, especially when well monitored, over ten years old and suitably sized. MPAs can also help fishing by letting stocks recover, and create jobs through ecotourism; a 2024 meta-analysis found no net cost to fisheries across 24 countries. Yet in 2020 only about 7.5 to 8% of the global ocean was under a conservation designation. Some MPAs are criticized by indigenous communities for impinging on their land-use rights.
+  Biodiversity in fully protected marine reserves rose by an average of 23% after designation. A marine reserve of this kind (MPA), a case of Protected areas: fencing off nature's value, is part of the seas, oceans or estuaries where human activity is restricted for conservation. Rules vary widely, covering development, fishing methods, seasons, catch limits and bans on disturbing marine life. Not all MPAs ban fishing: less than 1 percent of US waters are no-take zones. Meta-analyses show no-take reserves give the biggest ecological benefits, especially when well monitored, over ten years old and suitably sized. MPAs can also help fishing by letting stocks recover, and create jobs through ecotourism; a 2024 meta-analysis found no net cost to fisheries across 24 countries. Yet in 2020 only about 7.5 to 8% of the global ocean was under a conservation designation. Some MPAs are criticized by indigenous communities for impinging on their land-use rights.
 
   <!-- nature-res-024 -->
 
@@ -14448,13 +14448,13 @@ About 500 million people depend on fisheries for their living, and fish feed bil
 
 - **Plant genetic resources: the raw material of every crop**
 
-  Only about 120 crop species provide around 90% of the world's food needs. Plant genetic resources are the variety within plants, built up by human and natural selection over millennia, that can be used for food and agriculture now or later. Farmers first drew on them more than 10,000 years ago, selecting wild plants to develop crops. They are conserved on farms, in gene banks, or in the wild. They were once treated as belonging to all humanity, until the The Convention on Biological Diversity gave countries sovereignty over them. Whether genetic data separated from the organism fall under the rules on access and benefit-sharing is disputed.
+  Only about 120 crop species provide around 90% of the world's food needs. They are the variety within plants, a plant case of Genetic resources: who owns life's code?, built up by human and natural selection over millennia, that can be used for food and agriculture now or later. Farmers first drew on them more than 10,000 years ago, selecting wild plants to develop crops. They are conserved on farms, in gene banks, or in the wild. They were once treated as belonging to all humanity, until the The Convention on Biological Diversity gave countries sovereignty over them. Whether genetic data separated from the organism fall under the rules on access and benefit-sharing is disputed.
 
   <!-- nature-res-081 -->
 
 - **The Plant Treaty: sharing the world's crop genes**
 
-  Every week, crop genetic material changes hands about 8500 times under one standard contract. The International Treaty on Plant Genetic Resources for Food and Agriculture, or Plant Treaty, aims to secure food security. It does so by conserving, exchanging and sustainably using crop genes and sharing their benefits fairly. The FAO adopted it in November 2001, and it came into force in 2004. Its Multilateral System gives free access to 64 of the world's most important crops for research, breeding and training, using a mandatory Standard Material Transfer Agreement. It also recognizes farmers' rights, though critics argue these are weakly and unevenly realized.
+  Every week, crop genetic material changes hands about 8500 times under one standard contract. The Plant Treaty, an international treaty on crop genetic material for food and agriculture, aims to secure food security. It does so by conserving, exchanging and sustainably using crop genes and sharing their benefits fairly. The FAO adopted it in November 2001, and it came into force in 2004. Its Multilateral System gives free access to 64 of the world's most important crops for research, breeding and training, using a mandatory Standard Material Transfer Agreement. It also recognizes farmers' rights, though critics argue these are weakly and unevenly realized.
 
   <!-- nature-res-082 -->
 
@@ -14526,7 +14526,7 @@ About 500 million people depend on fisheries for their living, and fish feed bil
 
 - **The spillover effect: reserves that feed nearby fisheries**
 
-  Near the edges of fully protected reserves, fish biomass was 54% higher than farther away, according to a 2020 meta-analysis of 23 such areas. Inside, commercial species were up to 80% more abundant. Spillover is the net movement of fish, eggs and larvae from a recovering marine protected area into the fishing grounds around it. It sustains nearby fishing without taking anything from inside the reserve, and such benefits are well documented worldwide. Scientists and small-scale fishers increasingly agree that coastal MPAs raise the density and size of commercial species in local waters.
+  Near the edges of fully protected reserves, fish biomass was 54% higher than farther away, according to a 2020 meta-analysis of 23 such areas. Inside, commercial species were up to 80% more abundant. Spillover is the net movement of fish, eggs and larvae from a recovering marine reserve into the fishing grounds around it. It sustains nearby fishing without taking anything from inside the reserve, and such benefits are well documented worldwide. Scientists and small-scale fishers increasingly agree that coastal MPAs raise the density and size of commercial species in local waters.
 
   <!-- nature-res-025 -->
 
@@ -15438,7 +15438,7 @@ Some of the most useful infrastructure on Earth was never poured from concrete. 
 
 ### What nature-based solutions are
 
-Can a restored ecosystem do a job usually given to engineers? Nature-based solutions say yes: they protect, sustainably manage or restore ecosystems to tackle social challenges while helping both people and biodiversity. Around that idea sit several close cousins, from ecological engineering to ecosystem-based adaptation, disaster risk reduction and natural climate solutions. This chapter sorts them out and shows why living and built defenses work best together. It also weighs the critics, who see greenwashing and an uneven evidence base.
+Can a restored ecosystem do a job usually given to engineers? Nature-based solutions say yes: they protect, sustainably manage or restore ecosystems to tackle social challenges while helping both people and biodiversity. Around that idea sit several close cousins, from ecological engineering to ecosystem-based adaptation, reducing disaster risk and natural climate solutions. This chapter sorts them out and shows why living and built defenses work best together. It also weighs the critics, who see greenwashing and an uneven evidence base.
 
 - **Nature-based solutions: hiring ecosystems to do the work**
 
@@ -15466,13 +15466,13 @@ Can a restored ecosystem do a job usually given to engineers? Nature-based solut
 
 - **Green plus grey: why hybrids beat either alone**
 
-  Should a city trust concrete or nature? Research suggests the best answer is often both. Hybrid green–grey infrastructure combines nature-based solutions with conventional built, or 'grey', infrastructure. Studies find NBS improve flood resilience but cannot act alone; they must be coordinated with grey works. Used together, the benefits reach beyond flood control to better social conditions, more stored carbon and stronger resilience planning. Researchers urge looking for such synergies rather than treating NBS as a rival to engineering.
+  Should a city trust concrete or nature? Research suggests the best answer is often both. This hybrid approach combines nature-based solutions with conventional built infrastructure. Studies find NBS improve flood resilience but cannot act alone; they must be coordinated with grey works. Used together, the benefits reach beyond flood control to better social conditions, more stored carbon and stronger resilience planning. Researchers urge looking for such synergies rather than treating NBS as a rival to engineering.
 
   <!-- nature-nbs-222 -->
 
 - **Three types of nature-based solution, from hands-off to built**
 
-  Nature-based solutions come in three broad types, sorted by how much people engineer the ecosystem. Type 1 barely intervenes: protecting mangroves against storms, or creating marine protected areas that export fish to nearby fishing grounds. Type 2 manages landscapes to be sustainable and do several jobs, as in growing trees among crops (Agroforestry: trees and crops on the same ground) or mixing tree species so forests resist shocks. Type 3 manages ecosystems intensively or creates new ones, such as planted roofs and walls or wetlands built from scratch. The typology carries a trade-off. The more services and stakeholder groups a solution targets, the less it can maximize any single one.
+  Nature-based solutions come in three broad types, sorted by how much people engineer the ecosystem. Type 1 barely intervenes: protecting mangroves against storms, or creating marine reserves that export fish to nearby fishing grounds. Type 2 manages landscapes to be sustainable and do several jobs, as in growing trees among crops (Agroforestry: trees and crops on the same ground) or mixing tree species so forests resist shocks. Type 3 manages ecosystems intensively or creates new ones, such as planted roofs and walls or wetlands built from scratch. The typology carries a trade-off. The more services and stakeholder groups a solution targets, the less it can maximize any single one.
 
   <!-- nature-nbs-221 -->
 
@@ -15490,7 +15490,7 @@ Can a restored ecosystem do a job usually given to engineers? Nature-based solut
 
 - **Ecosystem-based disaster risk reduction: buffers that also feed people**
 
-  Some of the best disaster defenses also put food on the table. Ecosystem-based disaster risk reduction, or Eco-DRR, uses ecosystems to prevent and reduce disasters. It keeps ecosystems working as buffers against dangerous natural events while they go on supplying communities with food and water. Its measures are often closely linked to those of ecosystem-based adaptation, or much the same. Because rivers and coasts cross borders, the The Sendai Framework: seven targets for safer societies calls for countries to cooperate on ecosystem-based approaches in shared river basins and coastlines. Research so far has focused on cities in the Global North. Coastal, dryland and watershed areas of the Global South need much more.
+  Some of the best disaster defenses also put food on the table. This approach, a form of Disaster risk reduction: acting before the disaster known as Eco-DRR, uses ecosystems to prevent and reduce disasters. It keeps ecosystems working as buffers against dangerous natural events while they go on supplying communities with food and water. Its measures are often closely linked to those of ecosystem-based adaptation, or much the same. Because rivers and coasts cross borders, the The Sendai Framework: seven targets for safer societies calls for countries to cooperate on ecosystem-based approaches in shared river basins and coastlines. Research so far has focused on cities in the Global North. Coastal, dryland and watershed areas of the Global South need much more.
 
   <!-- nature-nbs-224 -->
 
@@ -15596,7 +15596,7 @@ When rain falls on a city, it has to go somewhere. Stormwater, the water from ra
 
 - **Green versus grey: what the ledgers show**
 
-  Philadelphia faced a choice: a green plan costing $1.2 billion over 25 years, or a grey plan costing $6 billion. Comparing the two is the economics of green versus grey infrastructure, weighing the costs and benefits of green infrastructure against concrete pipes and tunnels. Philadelphia's plan was also expected to raise property values by $390 million over 45 years, increasing the city's property tax income. New York City's green plan was expected to cost $1.5 billion less than a comparable grey one. Green does not always win. A 2012 study of 479 US projects found 44% reduced costs while 31% increased them. The biggest savings came from less stormwater runoff and lower heating and cooling bills. Quality matters: a 2016 UK study found residents willing to pay more for green infrastructure that was visibly greener, accessible and multifunctional. In fragile states, upfront building costs ran up to 8% higher than for other projects.
+  Philadelphia faced a choice: a green plan costing $1.2 billion over 25 years, or a grey plan costing $6 billion. Comparing the two is the economics of green infrastructure versus the conventional kind described in Grey infrastructure: fighting water with concrete, weighing the costs and benefits of green infrastructure against concrete pipes and tunnels. Philadelphia's plan was also expected to raise property values by $390 million over 45 years, increasing the city's property tax income. New York City's green plan was expected to cost $1.5 billion less than a comparable grey one. Green does not always win. A 2012 study of 479 US projects found 44% reduced costs while 31% increased them. The biggest savings came from less stormwater runoff and lower heating and cooling bills. Quality matters: a 2016 UK study found residents willing to pay more for green infrastructure that was visibly greener, accessible and multifunctional. In fragile states, upfront building costs ran up to 8% higher than for other projects.
 
   <!-- nature-nbs-167 -->
 
@@ -15632,7 +15632,7 @@ When rain falls on a city, it has to go somewhere. Stormwater, the water from ra
 
 - **Managed retreat from floodplains: giving land back to the river**
 
-  Sometimes the best flood defense is to leave. Managed retreat from floodplains means removing buildings from flood-prone areas and turning the land into parks or wilderness. Nothing is left to damage, and the floodplain is free to flood. Programs in which governments buy out floodplain homeowners (Buyout programs: when government buys the house) have run in New Jersey, in Charlotte in North Carolina, and in Missouri.
+  Sometimes the best flood defense is to leave. Planned withdrawal from floodplains, a case of what Managed retreat: moving out of harm's way describes, means removing buildings from flood-prone areas and turning the land into parks or wilderness. Nothing is left to damage, and the floodplain is free to flood. Programs in which governments buy out floodplain homeowners (Buyout programs: when government buys the house) have run in New Jersey, in Charlotte in North Carolina, and in Missouri.
 
   <!-- nature-nbs-180 -->
 
@@ -16074,7 +16074,7 @@ Where land meets sea, waves, currents, tides and storms carry sediment and rock 
 
 - **Sea rewilding: letting damaged seas heal**
 
-  More than 90% of the UK's historic seagrass meadows have been lost since the 1930s, and Europe's oyster stocks have fallen 95 per cent. Sea rewilding restores marine organisms and ecosystems so damaged seas can recover and thrive on their own. Methods include reintroducing or replenishing oysters, kelp and seagrass. It can capture carbon, support local economies through ecotourism and reverse biodiversity loss. Such projects are still less common at sea than on land.
+  More than 90% of the UK's historic seagrass meadows have been lost since the 1930s, and Europe's oyster stocks have fallen 95 per cent. This approach, a marine form of Rewilding: stepping back so nature can run itself, restores marine organisms and ecosystems so damaged seas can recover and thrive on their own. Methods include reintroducing or replenishing oysters, kelp and seagrass. It can capture carbon, support local economies through ecotourism and reverse biodiversity loss. Such projects are still less common at sea than on land.
 
   <!-- nature-nbs-070 -->
 
@@ -16240,7 +16240,7 @@ Cities run noticeably hotter than the countryside around them, and that heat fal
 
 - **Urban rewilding: letting wild nature into town**
 
-  Urban rewilding tries to bring working ecosystems, from plants to animals, into cities. It comes in four types: urban greening, corridors, small projects under 50 hectares and large projects over 50 hectares. Corridors such as restored waterways or green paths link habitats so city animals can move freely. The benefits include cleaner air, stored carbon, more pollination, fertile soil, clean water and lower stress. But projects are costly and carry an opportunity cost, since owners could use the land for more profitable purposes.
+  This approach, a city form of Rewilding: stepping back so nature can run itself, tries to bring working ecosystems, from plants to animals, into cities. It comes in four types: urban greening, corridors, small projects under 50 hectares and large projects over 50 hectares. Corridors such as restored waterways or green paths link habitats so city animals can move freely. The benefits include cleaner air, stored carbon, more pollination, fertile soil, clean water and lower stress. But projects are costly and carry an opportunity cost, since owners could use the land for more profitable purposes.
 
   <!-- nature-nbs-032 -->
 
@@ -16346,7 +16346,7 @@ Since 2021 the United Nations has run a campaign to repair the world's degraded 
 
 - **When new forests compete with farms and homes**
 
-  Government pledges to replant forests add up to 1.2bn hectares by 2060, a tenth of the world's land area. Reforestation can take land and water needed for food, grazing and housing, and may push out the people who use that land. Almost 300 million people live on land in the Global South identified as a tropical forest restoration opportunity. A WRI and IUCN map of 2 billion hectares for restoring forest is criticized for including 900 million hectares of grassland. Growing coffee under trees shows one way to blend forests with other uses.
+  Government pledges to replant forests add up to 1.2bn hectares by 2060, a tenth of the world's land area. Reforestation can take land and water needed for food, grazing and housing, and may push out the people who use that land. Almost 300 million people live on land in the Global South identified as an opportunity to restore tropical forest. A WRI and IUCN map of 2 billion hectares for restoring forest is criticized for including 900 million hectares of grassland. Growing coffee under trees shows one way to blend forests with other uses.
 
   <!-- nature-nbs-110 -->
 
@@ -17412,7 +17412,7 @@ In October 2006 the economist Nicholas Stern released a 700-page review of the e
 
 - **Mitigation scenarios: futures where warming is curbed**
 
-  A 550 ppm target, roughly double pre-industrial CO2, implies about three degrees of warming by conventional estimates. Targets like that drive climate change mitigation scenarios: possible futures in which deliberate action, such as a broad switch away from fossil fuels, reduces warming. A typical one picks a long-range target, such as a CO2 concentration, then fits actions to it, for example a cap on emissions. Analysts use them to test how different carbon prices affect an economy. Reaching 450 ppm depends heavily on bioenergy with carbon capture, according to the IEA and OECD.
+  A 550 ppm target, roughly double pre-industrial CO2, implies about three degrees of warming by conventional estimates. Targets like that drive scenarios for cutting climate change, described in Climate change mitigation: cutting the cause: possible futures in which deliberate action, such as a broad switch away from fossil fuels, reduces warming. A typical one picks a long-range target, such as a CO2 concentration, then fits actions to it, for example a cap on emissions. Analysts use them to test how different carbon prices affect an economy. Reaching 450 ppm depends heavily on bioenergy with carbon capture, according to the IEA and OECD.
 
   <!-- nature-clim-253 -->
 
@@ -18234,7 +18234,7 @@ Cutting emissions limits how much the climate changes, but some change is alread
 
 - **International adaptation finance: helping poorer countries adapt**
 
-  In 2009 rich nations pledged $100 billion a year by 2020 for mitigation and adaptation in developing countries. By December 2020 that money had not been fully delivered. International adaptation finance is money from richer countries and international funds that helps developing countries adapt. Several UNFCCC funds serve this purpose: the Special Climate Change Fund, the Least Developed Countries Fund and The Adaptation Fund: paying for adaptation through carbon credits. The Green Climate Fund: the largest pot, and its quarrels, created in 2010, is another channel. Adaptation still gets the smaller share. It received only 21% of public climate money provided in 2020. Multilateral development banks gave over €19 billion for adaptation in 2021. In 2022 nations agreed to set up a fund for harms beyond what adaptation can handle.
+  In 2009 rich nations pledged $100 billion a year by 2020 for mitigation and adaptation in developing countries. By December 2020 that money had not been fully delivered. It is money from richer countries and international funds that helps developing countries adapt. Several UNFCCC funds serve this purpose: the Special Climate Change Fund, the Least Developed Countries Fund and The Adaptation Fund: paying for adaptation through carbon credits. The Green Climate Fund: the largest pot, and its quarrels, created in 2010, is another channel. Adaptation still gets the smaller share. It received only 21% of public climate money provided in 2020. Multilateral development banks gave over €19 billion for adaptation in 2021. In 2022 nations agreed to set up a fund for harms beyond what adaptation can handle.
 
   <!-- nature-clim-005 -->
 
@@ -18768,7 +18768,7 @@ This chapter builds a way of seeing the economy as a subsystem of nature. It sta
 
 - **Ecological economics: the economy inside the ecosystem**
 
-  Mainstream economics usually draws the economy as the whole picture, with nature as one input among many. Ecological economics flips that drawing. It is a field drawing on many disciplines that studies how human economies and natural ecosystems depend on each other and change together over time and space. Here the economy is a subsystem of Earth's larger ecosystem, which sets it apart from Environmental economics: weighing what markets leave out (see also Two schools: environmental and ecological economics). Two commitments follow. Ecological economists stress keeping Natural capital: nature as the stock behind the economy intact, and they favor strong Sustainability and the hard question of what to keep: human-made capital cannot stand in for nature. They also try to ground economic thinking in physical reality, especially the The laws of thermodynamics: why no machine runs forever, the physics of energy, and knowledge of living systems. Efficient allocation is not enough. The field adds two more problems: fair distribution, and the size of the economy relative to the ecosystems it relies on. Where mainstream economists tend to be technological optimists, ecological economists lean towards skepticism and precaution, since destroying key environmental resources may be irreversible. Economist Malte Faber sums the field up by its focus on nature, justice and time. Its topics range from weak versus Strong sustainability: some nature cannot be replaced to Energy accounting: following every joule, Cost shifting: when harm is the business model, modeling and monetary policy. It was founded as a modern discipline in the 1980s by European and American academics.
+  Mainstream economics usually draws the economy as the whole, with nature as one input among many. Ecological economics flips that drawing. It is a field drawing on many disciplines that studies how human economies and natural ecosystems depend on each other and change together over time and space. Here the economy is a subsystem of Earth's larger ecosystem, which sets it apart from Environmental economics: weighing what markets leave out (see also Two schools: environmental and ecological economics). Two commitments follow. Ecological economists stress keeping Natural capital: nature as the stock behind the economy intact, and they favor strong Sustainability and the hard question of what to keep: human-made capital cannot stand in for nature. They also try to ground economic thinking in physical reality, especially the The laws of thermodynamics: why no machine runs forever, the physics of energy, and knowledge of living systems. Efficient allocation is not enough. The field adds two more problems: fair distribution, and the size of the economy relative to the ecosystems it relies on. Where mainstream economists tend to be technological optimists, ecological economists lean towards skepticism and precaution, since destroying key environmental resources may be irreversible. Economist Malte Faber sums the field up by its focus on nature, justice and time. Its topics range from weak versus Strong sustainability: some nature cannot be replaced to Energy accounting: following every joule, Cost shifting: when harm is the business model, modeling and monetary policy. It was founded as a modern discipline in the 1980s by European and American academics.
 
   <!-- nature-eecon-059 -->
 
@@ -19098,7 +19098,7 @@ This chapter builds a way of seeing the economy as a subsystem of nature. It sta
 
 - **The steady-state economy: prosperity without growth**
 
-  Can an economy be healthy without growing? The steady-state economy says yes. It keeps a constant stock of physical wealth, or capital, and a constant population, so that it does not grow over time. It can apply to a city, a region, a country or the whole world. The idea updates the classical The stationary state: the classical end of growth. Its main champion since the 1970s, Herman Daly and the economy that stops growing, added the ecological piece: both stocks are kept constant by a flow of natural resources, the Throughput: the river of matter running through the economy. Both stocks should be as durable as possible. Longer-lasting capital needs a smaller resource flow. A durable population means long lives with low birth and death rates. The reasoning starts from a picture of the economy as an open subsystem of a finite, non-growing ecosystem. A part cannot grow forever inside a whole that does not grow. That contrasts with the mainstream picture of a closed circular flow between firms and households, with no physical contact with nature. Daly admits the limits of his own idea. A steady state only postpones, and does not prevent, the eventual exhaustion of minerals. Even sympathetic reviewers in the early 2010s judged it beyond what is politically feasible for now.
+  Can an economy be healthy without growing? The steady-state economy says yes. It keeps a constant stock of physical wealth, or capital, and a constant population, so that it does not grow over time. It can apply to a city, a region, a country or the whole world. The idea updates the classical The stationary state: the classical end of growth. Its main champion since the 1970s, Herman Daly and the economy that stops growing, added the ecological piece: both stocks are kept constant by a flow of natural resources, the Throughput: the river of matter running through the economy. Both stocks should be as durable as possible. Longer-lasting capital needs a smaller resource flow. A durable population means long lives with low birth and death rates. The reasoning starts from a view of the economy as an open subsystem of a finite, non-growing ecosystem. A part cannot grow forever inside a whole that does not grow. That contrasts with the mainstream picture of a closed circular flow between firms and households, with no physical contact with nature. Daly admits the limits of his own idea. A steady state only postpones, and does not prevent, the eventual exhaustion of minerals. Even sympathetic reviewers in the early 2010s judged it beyond what is politically feasible for now.
 
   <!-- nature-eecon-072 -->
 
@@ -19440,7 +19440,7 @@ Can the economy keep growing on a planet with finite resources? A 1972 report, T
 
 - **Human overpopulation: too many people, or too much consumption?**
 
-  In 1804 the world held 1 billion people. Today it holds 8 billion, thanks to medical advances and higher farm productivity. The worry about human overpopulation is that populations may grow too large for their environment or resources to support over the long term. The worry is old. In the early 19th century Thomas Malthus predicted that population would outgrow the resources a finite amount of land can supply. Today's proponents say that too many people, population growth and overconsumption together are the main drivers of human-caused problems such as climate change. The IPCC found that GDP per person and population growth were the strongest drivers of fossil CO2 emissions in 2010–2019. They raised emissions about 2.3% and 1.2% a year respectively. The counter-evidence is substantial. Annual population growth peaked at 2.1% in 1968 and has dropped to 1.1%; the UN projects a peak of about 10.4 billion in the 2080s. Over 200 years of growth, poverty and infant mortality have declined, and the predicted "population explosion" never came. Critics also call the concept racist, because population control often targets the Global South rather than overconsumption in the Global North. Whether sheer numbers are a real cause of environmental problems, rather than consumption or technology, is strongly disputed.
+  In 1804 the world held 1 billion people. Today it holds 8 billion, thanks to medical advances and higher farm productivity. The worry described in Overpopulation in ecology is that populations may grow too large for their environment or resources to support over the long term. The worry is old. In the early 19th century Thomas Malthus predicted that population would outgrow the resources a finite amount of land can supply. Today's proponents say that too many people, population growth and overconsumption together are the main drivers of human-caused problems such as climate change. The IPCC found that GDP per person and population growth were the strongest drivers of fossil CO2 emissions in 2010–2019. They raised emissions about 2.3% and 1.2% a year respectively. The counter-evidence is substantial. Annual population growth peaked at 2.1% in 1968 and has dropped to 1.1%; the UN projects a peak of about 10.4 billion in the 2080s. Over 200 years of growth, poverty and infant mortality have declined, and the predicted "population explosion" never came. Critics also call the concept racist, because population control often targets the Global South rather than overconsumption in the Global North. Whether sheer numbers are a real cause of environmental problems, rather than consumption or technology, is strongly disputed.
 
   <!-- nature-eecon-180 -->
 
@@ -20810,7 +20810,7 @@ Environmental harm rarely lands evenly. Poor and marginalized communities often 
 
 - **Indigenous land rights**
 
-  In Brazil, only 14% of Indigenous lands ended up formally marked out under laws from 1983, and much was lost to mining companies. Indigenous land rights are the rights of Indigenous peoples, as individuals or groups, to land and the resources on it, mostly in colonized countries. Land carries religious meaning and underpins identity, self-determination and livelihoods. In some societies, the resources of land and sea are the household economy, so ownership secures access to food and income. Claims may rest on international law, treaties, common law, or national constitutions. Key international texts include a 1989 labor convention and a 2007 UN declaration, described in ILO Convention 169 and The UN Declaration on the Rights of Indigenous Peoples. The gap between land recognized on paper and land held by custom is a major source of underdevelopment, conflict and environmental damage.
+  In Brazil, only 14% of Indigenous lands ended up formally marked out under laws from 1983, and much was lost to mining companies. These are the rights, a case of Land rights: security, not just access of Indigenous peoples, as individuals or groups, to land and the resources on it, mostly in colonized countries. Land carries religious meaning and underpins identity, self-determination and livelihoods. In some societies, the resources of land and sea are the household economy, so ownership secures access to food and income. Claims may rest on international law, treaties, common law, or national constitutions. Key international texts include a 1989 labor convention and a 2007 UN declaration, described in ILO Convention 169 and The UN Declaration on the Rights of Indigenous Peoples. The gap between land recognized on paper and land held by custom is a major source of underdevelopment, conflict and environmental damage.
 
   <!-- nature-gov-215 -->
 
@@ -21184,7 +21184,7 @@ Firms make most of the goods people buy, and most of the harm that comes with th
 
 - **Corporate sustainability strategies: profit from going green**
 
-  A 2023 Swiss survey of 514 small and medium firms found 89% had never produced a sustainability report. Corporate sustainability strategies are plans to win new revenue from sustainability while guarding against rising energy, regulation and resource costs and shifting customer views. Common strategies are innovation, collaboration, process improvement, reporting and greening the supply chain. The Sustainability Balanced Scorecard measures performance by balancing financial and non-financial, short- and long-term goals.
+  A 2023 Swiss survey of 514 small and medium firms found 89% had never produced a sustainability report. These strategies, part of Corporate sustainability: the long game in strategy, are plans to win new revenue from sustainability while guarding against rising energy, regulation and resource costs and shifting customer views. Common strategies are innovation, collaboration, process improvement, reporting and greening the supply chain. The Sustainability Balanced Scorecard measures performance by balancing financial and non-financial, short- and long-term goals.
 
   <!-- nature-gov-062 -->
 

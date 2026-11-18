@@ -1,0 +1,374 @@
+{
+ "questions": {
+  "nature-gov-056": {
+   "q": "What did the World Charter for Nature first give international recognition to?",
+   "a": "A strong form of the precautionary principle.",
+   "sent_ids": [
+    "a19937f5a514"
+   ]
+  },
+  "nature-gov-029": {
+   "q": "What is the main management challenge for protected marine areas and shared waters?",
+   "a": "Inadequate monitoring and enforcement of protection measures.",
+   "sent_ids": [
+    "14e86a8cee60"
+   ]
+  },
+  "nature-gov-022": {
+   "q": "What did the 2019 IPBES Global Assessment find was needed to reach global development goals?",
+   "a": "Only transformative change can achieve them, and it warned that society should not focus solely on economic growth given the loss of biodiversity.",
+   "sent_ids": [
+    "62a0303e0ca2",
+    "a01658367ea6"
+   ]
+  },
+  "nature-gov-037": {
+   "q": "What is often blamed for the Nagoya Protocol's failure?",
+   "a": "Lack of national implementation.",
+   "sent_ids": [
+    "93ca70251126"
+   ]
+  },
+  "nature-gov-184": {
+   "q": "Why has the UN adopted no definition of Indigenous peoples?",
+   "a": "Its Permanent Forum holds that any single definition would include too many or too few groups.",
+   "sent_ids": [
+    "a2a6d674fda2",
+    "e9c80b3433bf"
+   ]
+  },
+  "nature-gov-209": {
+   "q": "How can extraction on a large scale turn renewable resources into non-renewable ones?",
+   "a": "By taking them faster than nature can replace them.",
+   "sent_ids": [
+    "523336942ea1",
+    "deaa527823e5"
+   ]
+  },
+  "nature-gov-186": {
+   "q": "How does climate change disrupt Indigenous farming?",
+   "a": "Indigenous farmers have long timed crops by signs such as wind direction, blooming and bird migration, and climate change disrupts these signs.",
+   "sent_ids": [
+    "ec6c9ca2e568"
+   ]
+  },
+  "nature-gov-193": {
+   "q": "Why are poor people hit harder by climate change?",
+   "a": "They face more exposure and vulnerability, so they are less able to cope with climate extremes; for a poor household a disaster, bad harvest or illness can be a crippling economic shock.",
+   "sent_ids": [
+    "668a218940f7",
+    "d5acee482e16",
+    "65907a2f7164"
+   ]
+  },
+  "nature-gov-179": {
+   "q": "What does the Nagoya Protocol require before someone accesses genetic resources?",
+   "a": "Access must take place with prior informed consent and on mutually agreed terms.",
+   "sent_ids": [
+    "9e62b3f7f475"
+   ]
+  },
+  "nature-gov-167": {
+   "q": "How did the UN Human Rights Council treat environmental defenders in 2019?",
+   "a": "It unanimously recognised their importance for environmental protection.",
+   "sent_ids": [
+    "f55ee52742e8"
+   ]
+  },
+  "nature-gov-171": {
+   "q": "Why do some scholars say distributive justice fits poorly with many Indigenous worldviews?",
+   "a": "Scholars such as Dina Gilio-Whitaker argue it assumes land is a commodity, which clashes with many Indigenous worldviews.",
+   "sent_ids": [
+    "91b184409e2d"
+   ]
+  },
+  "nature-gov-214": {
+   "q": "What marks an Indigenous and community conserved area (ICCA)?",
+   "a": "A strong bond between a community and a site, the community's leading role in managing it, and conservation results even when conservation is not the aim.",
+   "sent_ids": [
+    "f20561f19d77",
+    "e5919a1dc4f1",
+    "5e87c6cdd2db"
+   ]
+  },
+  "nature-gov-178": {
+   "q": "Why did the Karuk and Yurok Tribes of California organise controlled burns?",
+   "a": "To reduce wildfire risk and restore resources depleted by decades of keeping fire out of their ancestral lands.",
+   "sent_ids": [
+    "b05999a46cd5"
+   ]
+  },
+  "nature-gov-192": {
+   "q": "What did the San people receive after demanding restitution over the Hoodia patent?",
+   "a": "A confidential agreement gave them royalties, knowledge exchange and jobs.",
+   "sent_ids": [
+    "822993145b07",
+    "ea94d81cb56c"
+   ]
+  },
+  "nature-gov-224": {
+   "q": "How are sacrifice zones linked to 'abundance zones'?",
+   "a": "Damage in some places sustains privileges and lifestyles elsewhere.",
+   "sent_ids": [
+    "9847b193f087",
+    "e7c04fd23a7c"
+   ]
+  },
+  "nature-gov-195": {
+   "q": "What example did Philip Alston give of climate apartheid?",
+   "a": "During Superstorm Sandy in 2012, most of New York lost power while Goldman Sachs's headquarters had its own generator and sandbags.",
+   "sent_ids": [
+    "35fb4f775772"
+   ]
+  },
+  "nature-gov-183": {
+   "q": "How does the UN Declaration on the Rights of Indigenous Peoples handle the question of who is Indigenous?",
+   "a": "It does not define Indigenous peoples but affirms their right to decide their own identity.",
+   "sent_ids": [
+    "e239de5eaac8"
+   ]
+  },
+  "nature-gov-188": {
+   "q": "How does the International Organization for Migration define environmental migrants?",
+   "a": "As people obliged or choosing to leave home because environmental change harms their lives.",
+   "sent_ids": [
+    "f0f8f71215d0",
+    "92e00712a918"
+   ]
+  },
+  "nature-gov-223": {
+   "q": "What does Ecuador's 2008 constitution grant to nature?",
+   "a": "It gives nature, or Pachamama, the right to exist and regenerate its vital cycles, and lets any person demand that those rights be respected.",
+   "sent_ids": [
+    "73c1901de628",
+    "5c2c0d347747"
+   ]
+  },
+  "nature-gov-006": {
+   "q": "What gave rise to the global environmental justice and climate justice movements?",
+   "a": "The unfair split of environmental burdens and benefits, with the poor tending to suffer most from environmental damage caused by exploiting natural resources.",
+   "sent_ids": [
+    "16ea27179efd",
+    "b92916b21ff3"
+   ]
+  },
+  "nature-gov-009": {
+   "q": "Who mostly benefits from water consumption subsidies?",
+   "a": "Those connected to the supply grid, typically the richer, urban population outside informal housing.",
+   "sent_ids": [
+    "a613798f6d20"
+   ]
+  },
+  "nature-gov-059": {
+   "q": "What is the triple bottom line that green businesses aim for?",
+   "a": "Profit, people and planet, weighing economic, social and environmental factors in their decisions.",
+   "sent_ids": [
+    "232b2f264585"
+   ]
+  },
+  "nature-gov-066": {
+   "q": "What tool is used in green product design to compare design options?",
+   "a": "Life-cycle assessment, used to compare options and pick the least harmful.",
+   "sent_ids": [
+    "763cd273b3d9"
+   ]
+  },
+  "nature-gov-102": {
+   "q": "What issues does sustainability reporting cover, and what acronym groups them?",
+   "a": "Environmental, social, economic and governance issues; the criteria are grouped under ESG.",
+   "sent_ids": [
+    "07f21a31337e",
+    "c9ea2488b242"
+   ]
+  },
+  "nature-gov-092": {
+   "q": "What do scholars see as the key difference between corporate sustainability and corporate social responsibility?",
+   "a": "Time: sustainability asks firms to make trade-offs across time to protect future generations.",
+   "sent_ids": [
+    "afb07c2d9bba",
+    "e9b29da305ce",
+    "ab0a57c911c0"
+   ]
+  },
+  "nature-gov-075": {
+   "q": "Why do firms mainly engage in corporate social responsibility, according to a large review?",
+   "a": "Mainly for expected financial gain rather than a wish to serve society.",
+   "sent_ids": [
+    "9ec6089d98b0",
+    "340ad0e47058"
+   ]
+  },
+  "nature-gov-073": {
+   "q": "Is there a single fixed standard for social and environmental accounting?",
+   "a": "No. Frameworks include AA1000, the Global Reporting Initiative guidelines and ISO 14000.",
+   "sent_ids": [
+    "5f0fff13ef8c",
+    "1b18d86babe3",
+    "bb492d30e5dd",
+    "17d691eb5a67"
+   ]
+  },
+  "nature-gov-089": {
+   "q": "Why is regulation often needed to get businesses to invest in energy efficiency?",
+   "a": "Energy efficiency often pays off only in the medium to long term, while shareholders want short-term results.",
+   "sent_ids": [
+    "e1244699d4f3"
+   ]
+  },
+  "nature-gov-087": {
+   "q": "What does the Science Based Targets initiative do?",
+   "a": "Set up in 2015, it helps companies set emission-cutting targets and checks, or validates, them.",
+   "sent_ids": [
+    "3988e20a742e",
+    "b5c4fae0c34c"
+   ]
+  },
+  "nature-gov-098": {
+   "q": "What made the EU taxonomy's Complementary Climate Delegated Act controversial?",
+   "a": "It listed certain gas and nuclear activities as transitional activities that help mitigate climate change.",
+   "sent_ids": [
+    "e8132d189176",
+    "d7ba6c0f2184"
+   ]
+  },
+  "nature-gov-091": {
+   "q": "What do researchers argue should be done about 'carbon bombs'?",
+   "a": "Defusing them, the large coal, oil and gas projects, should be a priority for climate policy.",
+   "sent_ids": [
+    "485e227afb9a"
+   ]
+  },
+  "nature-gov-103": {
+   "q": "Which companies must report under the EU Corporate Sustainability Reporting Directive?",
+   "a": "Those exceeding two of three thresholds: 250 employees, a €25 million balance sheet, or €50 million net turnover.",
+   "sent_ids": [
+    "7539c27a83ff"
+   ]
+  },
+  "nature-hist-002": {
+   "q": "What UN agency did the 1972 Stockholm conference create, and where is it based?",
+   "a": "The United Nations Environment Programme (UNEP), the first UN agency headquartered in a developing country, in Nairobi.",
+   "sent_ids": [
+    "d5a6f0fdd9cd",
+    "f603d6bc9cf0"
+   ]
+  },
+  "nature-hist-006": {
+   "q": "Why did Rachel Carson say pesticides should be called 'biocides'?",
+   "a": "Because their effects rarely stop at the target pests; they harm the wider environment.",
+   "sent_ids": [
+    "c9317fbcdbf9",
+    "8ec68a2b1560"
+   ]
+  },
+  "nature-hist-001": {
+   "q": "Who launched TEEB, and in response to what?",
+   "a": "Germany and the European Commission launched it in 2007, answering a proposal by G8+5 environment ministers for a global study of the economics of biodiversity loss.",
+   "sent_ids": [
+    "56602eff16c8"
+   ]
+  },
+  "nature-hist-020": {
+   "q": "Why do critics say The Population Bomb's forecasts went wrong?",
+   "a": "Julian Simon and Hans Rosling argued they wrongly assumed exponential growth would continue with no technological or social progress; instead the global death rate kept falling and calories per person rose.",
+   "sent_ids": [
+    "b53f08c45e5d",
+    "07ac737f8f64",
+    "37a8b3b7b13e"
+   ]
+  },
+  "nature-hist-013": {
+   "q": "How did Adam Smith see the relationship between market prices and natural prices?",
+   "a": "Market prices are drawn toward natural prices, somewhat like gravity; the natural price is the sum of the natural rates of wages, profits and rent.",
+   "sent_ids": [
+    "2a01c8e9ac4c",
+    "43fbcd0c6568"
+   ]
+  },
+  "nature-hist-040": {
+   "q": "What measure did Herman Daly and John B. Cobb propose as a better gauge of progress than GDP?",
+   "a": "The Index of Sustainable Economic Welfare, in 1989.",
+   "sent_ids": [
+    "6124206a9eff"
+   ]
+  },
+  "nature-hist-077": {
+   "q": "What is the Jevons paradox?",
+   "a": "Jevons argued that improving energy efficiency lowers energy costs and so increases rather than decreases energy use.",
+   "sent_ids": [
+    "c9aeebf5f96e",
+    "ebb190ee1f5c"
+   ]
+  },
+  "nature-hist-050": {
+   "q": "What did William Nordhaus win the Nobel prize for, and what models did he build?",
+   "a": "He shared the 2018 prize for building climate change into long-run economic analysis, and developed the DICE and RICE models linking economics, energy use and climate change.",
+   "sent_ids": [
+    "d73a2dcbbcff",
+    "ac78e01e716f",
+    "7cc49c986f21"
+   ]
+  },
+  "nature-hist-060": {
+   "q": "Which term did E. F. Schumacher first coin in Small Is Beautiful?",
+   "a": "'Natural capital', in his 1973 book.",
+   "sent_ids": [
+    "0464a1ab4307"
+   ]
+  },
+  "nature-hist-076": {
+   "q": "Why, in William Forster Lloyd's example, do herders overuse a shared pasture?",
+   "a": "An extra animal on the common takes food shared among everyone's cattle, so only a small part of the cost falls on its owner.",
+   "sent_ids": [
+    "d3b5d40e0921",
+    "9689509f969a"
+   ]
+  },
+  "nature-hist-043": {
+   "q": "What did Kenneth Boulding's essay on 'Spaceship Earth' argue?",
+   "a": "That the economy must fit itself to an ecological system with limited resources.",
+   "sent_ids": [
+    "08c70e0b9fcc"
+   ]
+  },
+  "nature-hist-057": {
+   "q": "What did David Pearce argue about the price of the environment?",
+   "a": "That the environment is under-priced and that the benefits of environmental services can be calculated.",
+   "sent_ids": [
+    "61385893a14b"
+   ]
+  },
+  "nature-hist-054": {
+   "q": "What did Allen Kneese's research add to economic models?",
+   "a": "It built pollution into economic models and studied economic incentives for environmental improvement.",
+   "sent_ids": [
+    "72544a0dec35"
+   ]
+  },
+  "nature-hist-073": {
+   "q": "Where did Sergei Podolinsky say the resources available to people ultimately come from?",
+   "a": "He held that human labour only changes natural objects, and that available resources grow only through photosynthesis capturing the Sun's energy.",
+   "sent_ids": [
+    "5c1edc9e1dfe",
+    "f995497a8a35"
+   ]
+  },
+  "nature-hist-031": {
+   "q": "When and why was UNEP created, and where is it based?",
+   "a": "It was created in 1972 after the Stockholm Conference on the Human Environment and is based in Nairobi, Kenya.",
+   "sent_ids": [
+    "2ed344301594",
+    "b2d69ada59b0",
+    "827fdab94054"
+   ]
+  },
+  "nature-hist-033": {
+   "q": "What does the Integrity Council for the Voluntary Carbon Market do with carbon credits?",
+   "a": "It assesses carbon crediting programs and approves categories of credits, which may then carry a CCP-Approved label.",
+   "sent_ids": [
+    "2c2a3071bbc5",
+    "7b0784a8c3a8"
+   ]
+  }
+ }
+}

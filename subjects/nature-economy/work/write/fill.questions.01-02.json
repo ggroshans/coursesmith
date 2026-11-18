@@ -1,0 +1,380 @@
+{
+ "questions": {
+  "nature-econ-384": {
+   "q": "What does a higher value of this index mean?",
+   "a": "The market is more concentrated in a few firms.",
+   "sent_ids": [
+    "393fa5701255",
+    "c81acac35d9e"
+   ]
+  },
+  "nature-econ-377": {
+   "q": "How does a monopsonist differ from an ordinary buyer?",
+   "a": "It sets the price it pays for an input instead of taking the market price.",
+   "sent_ids": [
+    "4ad61558439d"
+   ]
+  },
+  "nature-econ-406": {
+   "q": "Why might a minimum wage set above the market wage cut jobs?",
+   "a": "Employers hire fewer workers, for example by switching to self-service or machines.",
+   "sent_ids": [
+    "b2dffaffe0a5",
+    "eb8d690f4644"
+   ]
+  },
+  "nature-econ-345": {
+   "q": "What makes deadweight loss different from most losses?",
+   "a": "Most losses are someone else's gain, but deadweight loss is regained by no one.",
+   "sent_ids": [
+    "bea4915f90ac"
+   ]
+  },
+  "nature-econ-340": {
+   "q": "Producer surplus is roughly equal to what?",
+   "a": "Profit, since producers will not normally sell at a loss.",
+   "sent_ids": [
+    "9a924058b8bb"
+   ]
+  },
+  "nature-econ-410": {
+   "q": "When does a shortage last instead of disappearing?",
+   "a": "Only when something stops the price from rising until demand matches supply.",
+   "sent_ids": [
+    "160a8a5b6198",
+    "babf2f20c1dd"
+   ]
+  },
+  "nature-econ-307": {
+   "q": "For a bakery, which costs are fixed and which are variable?",
+   "a": "Rent and the phone line are fixed; wages are variable, since more output needs more workers.",
+   "sent_ids": [
+    "47a58d0e984f"
+   ]
+  },
+  "nature-econ-310": {
+   "q": "As you add more of one input to a fixed amount of another, how does marginal product change?",
+   "a": "It first rises, then falls, and can finally turn negative.",
+   "sent_ids": [
+    "c0ac0414b541",
+    "d468dc6b96a5",
+    "55a78d388cd5"
+   ]
+  },
+  "nature-econ-299": {
+   "q": "Why is the short-run average cost curve usually U-shaped?",
+   "a": "Fixed costs are spread over more units at first, then rising marginal costs push it back up.",
+   "sent_ids": [
+    "9946fd3b8dcf"
+   ]
+  },
+  "nature-econ-308": {
+   "q": "What is an isoquant the producer's version of?",
+   "a": "An indifference curve, but its output can be measured exactly in physical units.",
+   "sent_ids": [
+    "f11f406c6ecc",
+    "7cbc6b26f6f4"
+   ]
+  },
+  "nature-econ-306": {
+   "q": "Do economies of scale always lead to monopoly, according to Morroni?",
+   "a": "No, not once knowledge and the organisation of deals are taken into account.",
+   "sent_ids": [
+    "045fc6b49505",
+    "9763bf223409"
+   ]
+  },
+  "nature-econ-314": {
+   "q": "Why does a price-taking firm always produce beyond stage 1?",
+   "a": "In stage 1 output per unit of the variable input is still rising toward its peak.",
+   "sent_ids": [
+    "aa84e9efa164",
+    "aac95bf821f1"
+   ]
+  },
+  "nature-econ-326": {
+   "q": "How did Edith Penrose describe a firm?",
+   "a": "As a collection of productive resources whose growth depends on managers finding new uses for idle ones.",
+   "sent_ids": [
+    "486d049fd54f"
+   ]
+  },
+  "nature-econ-158": {
+   "q": "Are allocative and productive efficiency the same thing?",
+   "a": "No: a market can have one without the other.",
+   "sent_ids": [
+    "7f937081e6d5"
+   ]
+  },
+  "nature-econ-160": {
+   "q": "What do economists use social welfare functions for?",
+   "a": "To decide which of two outcomes, such as two income distributions, is better for society as a whole.",
+   "sent_ids": [
+    "2253929b2385"
+   ]
+  },
+  "nature-econ-178": {
+   "q": "With no externalities, where is net social benefit largest?",
+   "a": "At the market equilibrium, where marginal social benefit equals marginal social cost.",
+   "sent_ids": [
+    "39b3d5c92740",
+    "f1933b8aa570",
+    "bac667e690ff"
+   ]
+  },
+  "nature-econ-200": {
+   "q": "When is an economy productively inefficient?",
+   "a": "When capital or labour sit idle or are put into the wrong industries.",
+   "sent_ids": [
+    "81bb448a73b7"
+   ]
+  },
+  "nature-econ-165": {
+   "q": "Why is there a trade-off between efficiency and equity?",
+   "a": "Because redistributing income is costly.",
+   "sent_ids": [
+    "f3ee24dd0801"
+   ]
+  },
+  "nature-econ-169": {
+   "q": "How does a strong Pareto improvement differ from an ordinary one?",
+   "a": "A strong one makes everyone strictly better off; an ordinary one needs only one person better off and nobody worse off.",
+   "sent_ids": [
+    "be6932a57eb1"
+   ]
+  },
+  "nature-econ-167": {
+   "q": "How does this approach judge efficiency and distribution?",
+   "a": "Separately: efficiency by the Pareto and Kaldor–Hicks tests, distribution by the choice of social welfare function.",
+   "sent_ids": [
+    "9164f2004dda",
+    "a5a34ed97ec9"
+   ]
+  },
+  "nature-econ-184": {
+   "q": "How long do the two people keep trading?",
+   "a": "As long as their marginal rates of substitution differ.",
+   "sent_ids": [
+    "78bba8fa3161",
+    "b2a5d688589d",
+    "8bc65ca6b08f"
+   ]
+  },
+  "nature-econ-204": {
+   "q": "How has diminishing marginal utility been used to justify transfers from rich to poor?",
+   "a": "The poor gain more from an extra unit of income than the rich do.",
+   "sent_ids": [
+    "7306da9e147a"
+   ]
+  },
+  "nature-econ-192": {
+   "q": "With unequal information, can a government with no better information still improve on the market?",
+   "a": "Yes: it can find policies that make someone better off and no one worse off.",
+   "sent_ids": [
+    "01d9ad452359"
+   ]
+  },
+  "nature-econ-180": {
+   "q": "For elections, what does this condition amount to?",
+   "a": "Being free of spoiler candidates.",
+   "sent_ids": [
+    "4bfe68380c25"
+   ]
+  },
+  "nature-econ-195": {
+   "q": "Who is generally credited with first stating this problem?",
+   "a": "Pigou, in 1947.",
+   "sent_ids": [
+    "37ce61b802df"
+   ]
+  },
+  "nature-econ-290": {
+   "q": "What did Coase argue would happen if making deals cost nothing?",
+   "a": "People would bargain their way to the most efficient use of resources, whatever the starting legal rights.",
+   "sent_ids": [
+    "8149eb67cdd0"
+   ]
+  },
+  "nature-econ-294": {
+   "q": "What tax did Pigou propose to correct an externality?",
+   "a": "A tax equal to the marginal damage per unit.",
+   "sent_ids": [
+    "3cf34354fa30",
+    "d29010e5f7a6"
+   ]
+  },
+  "nature-econ-641": {
+   "q": "What are the three groups of transaction costs?",
+   "a": "Search and information costs, bargaining and decision costs, and policing and enforcement costs.",
+   "sent_ids": [
+    "0a3a598dc35e",
+    "da4972dacfd9",
+    "a704e6148818",
+    "86a55c6748bf"
+   ]
+  },
+  "nature-econ-610": {
+   "q": "Why do fish stocks run down without management?",
+   "a": "Each fisher has a reason to catch as many fish as possible before someone else does.",
+   "sent_ids": [
+    "10d314eece25"
+   ]
+  },
+  "nature-econ-661": {
+   "q": "Which market failures does public economics focus on?",
+   "a": "Public goods, externalities and imperfect competition, along with taxes and government spending.",
+   "sent_ids": [
+    "821040497939",
+    "faf4b0a9f640"
+   ]
+  },
+  "nature-econ-652": {
+   "q": "What can land tenure rest on?",
+   "a": "Official laws and policies, or informal local customs.",
+   "sent_ids": [
+    "8be71ffdc404"
+   ]
+  },
+  "nature-econ-609": {
+   "q": "Why might turning a common resource into private property help?",
+   "a": "It gives the new owner a reason to keep the resource productive.",
+   "sent_ids": [
+    "bac2b3ee1cae"
+   ]
+  },
+  "nature-econ-629": {
+   "q": "What problem was Coase thinking about when he developed his theorem?",
+   "a": "Radio stations interfering with each other; the station that gained more would pay the other not to interfere.",
+   "sent_ids": [
+    "656b18083c1a",
+    "d5602dd1aa09"
+   ]
+  },
+  "nature-econ-636": {
+   "q": "Why do people worry about digital public goods like open projects?",
+   "a": "A small group of maintainers often keeps them going for many users, risking burnout and underfunding.",
+   "sent_ids": [
+    "274979d4101d",
+    "65fab027075a",
+    "17e4d73c2437"
+   ]
+  },
+  "nature-econ-634": {
+   "q": "How did Coase argue lighthouses could be paid for?",
+   "a": "By bundling their costs into port fees.",
+   "sent_ids": [
+    "0e4e2f7ea2ff",
+    "87e2da7779e5",
+    "9e02ef170400"
+   ]
+  },
+  "nature-econ-611": {
+   "q": "What happens if you take more than a renewable resource's flow?",
+   "a": "The stock shrinks, which shrinks future flows, and sometimes the loss cannot be undone.",
+   "sent_ids": [
+    "d0c3737db16e",
+    "1cb98826a074"
+   ]
+  },
+  "nature-econ-620": {
+   "q": "Why do groups often reward members who punish free riders?",
+   "a": "Because punishing costs the punisher.",
+   "sent_ids": [
+    "ce9d06b61052",
+    "11736b46411c"
+   ]
+  },
+  "nature-econ-608": {
+   "q": "According to Carol Rose, what is the bigger risk for 'comedic' public resources?",
+   "a": "Too little investment, rather than overuse.",
+   "sent_ids": [
+    "3520289ba94d"
+   ]
+  },
+  "nature-econ-662": {
+   "q": "What did this analysis add to Ramsey's study of taxation?",
+   "a": "It considered how income is shared out together with raising revenue.",
+   "sent_ids": [
+    "d4060b63c1b2"
+   ]
+  },
+  "nature-econ-607": {
+   "q": "How does being watched change how much people take from a common pool?",
+   "a": "They take less when others can see them than when they act anonymously.",
+   "sent_ids": [
+    "b906436daef7"
+   ]
+  },
+  "nature-econ-669": {
+   "q": "What did Jefferson mean by 'Earth belongs in usufruct to the living'?",
+   "a": "Each generation may use the earth but must not impoverish it for those to come.",
+   "sent_ids": [
+    "3cc2c2fec190"
+   ]
+  },
+  "nature-econ-648": {
+   "q": "What happened to the talks on trading environmental goods?",
+   "a": "They collapsed in 2016.",
+   "sent_ids": [
+    "4b9521268c8e"
+   ]
+  },
+  "nature-econ-005": {
+   "q": "What are agency costs?",
+   "a": "The losses from an agent straying from the interest of the person they act for.",
+   "sent_ids": [
+    "afd7f809cfda"
+   ]
+  },
+  "nature-econ-016": {
+   "q": "When is a signal believable?",
+   "a": "When it costs low-quality senders more to produce or copy than high-quality ones.",
+   "sent_ids": [
+    "1d2a3b107d94"
+   ]
+  },
+  "nature-econ-013": {
+   "q": "What would a complete contract do?",
+   "a": "Set the legal consequences of every possible situation.",
+   "sent_ids": [
+    "82469a82526b"
+   ]
+  },
+  "nature-econ-002": {
+   "q": "Who is credited with the idea of incentive compatibility?",
+   "a": "The economist Leonid Hurwicz.",
+   "sent_ids": [
+    "6b3565ada0cd"
+   ]
+  },
+  "nature-econ-015": {
+   "q": "How can pay get an agent to act in the principal's interest?",
+   "a": "By tying pay to output the principal can observe.",
+   "sent_ids": [
+    "2d9c55e5b890"
+   ]
+  },
+  "nature-econ-772": {
+   "q": "What is uncertainty?",
+   "a": "A state of limited knowledge where the possible futures, their chances or their values cannot all be fully described.",
+   "sent_ids": [
+    "67801bdc4e0c"
+   ]
+  },
+  "nature-econ-757": {
+   "q": "How are interest rates normally quoted?",
+   "a": "Per year.",
+   "sent_ids": [
+    "9b7ec7df18c2"
+   ]
+  },
+  "nature-econ-762": {
+   "q": "Why is a dollar today worth more than a dollar tomorrow?",
+   "a": "Today's dollar can be invested and earn interest.",
+   "sent_ids": [
+    "196d7f6a0184",
+    "6c22db81ecf4"
+   ]
+  }
+ }
+}

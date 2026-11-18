@@ -1,0 +1,375 @@
+{
+ "questions": {
+  "nature-pol-255": {
+   "q": "How did the 1977 offset mechanism work?",
+   "a": "A firm could emit more if it paid another firm to cut the same pollutant.",
+   "sent_ids": [
+    "b62f4c350181",
+    "37edf4097df3"
+   ]
+  },
+  "nature-pol-250": {
+   "q": "Why can carbon trading leave local air pollution in place?",
+   "a": "Schemes cap only greenhouse gases, so factories can buy permits instead of cutting local pollution.",
+   "sent_ids": [
+    "e11f36892b81"
+   ]
+  },
+  "nature-pol-241": {
+   "q": "Who gains when carbon money is returned per person?",
+   "a": "Richer people with bigger footprints pay more, and poorer people can come out ahead.",
+   "sent_ids": [
+    "76a5bf3f552b",
+    "cce36643f629"
+   ]
+  },
+  "nature-pol-273": {
+   "q": "How much discretion does this reserve mechanism allow?",
+   "a": "None: it runs on predefined rules with no discretion for the Commission or member states.",
+   "sent_ids": [
+    "e994f19e8679"
+   ]
+  },
+  "nature-pol-283": {
+   "q": "Why do companies and individuals buy these credits?",
+   "a": "To compensate voluntarily for their emissions; each one equals 1 tonne of CO2.",
+   "sent_ids": [
+    "65a1bacda466",
+    "d9ebb6c6308c"
+   ]
+  },
+  "nature-pol-260": {
+   "q": "What must a polluter affecting several monitoring points hold?",
+   "a": "A portfolio of licences covering all of them.",
+   "sent_ids": [
+    "8e2c82620335"
+   ]
+  },
+  "nature-pol-205": {
+   "q": "What forms can a subsidy take?",
+   "a": "Direct spending, tax incentives, cheap loans, price support and government-provided goods and services.",
+   "sent_ids": [
+    "7fa7024fdfa1"
+   ]
+  },
+  "nature-pol-221": {
+   "q": "What kinds of goods does fair trade focus on?",
+   "a": "Goods exported from poorer to richer countries, such as coffee, cocoa, handicrafts, fruit and gold.",
+   "sent_ids": [
+    "c52c53860af0"
+   ]
+  },
+  "nature-pol-194": {
+   "q": "How does making producers responsible push greener design?",
+   "a": "Producers who pay end-of-life costs have a money incentive to design greener products.",
+   "sent_ids": [
+    "3c459f0473a4"
+   ]
+  },
+  "nature-pol-208": {
+   "q": "How can a subsidy become perverse?",
+   "a": "By not being withdrawn after it has reached its goal.",
+   "sent_ids": [
+    "8c556e463e87"
+   ]
+  },
+  "nature-pol-229": {
+   "q": "Do these standards concern the product itself?",
+   "a": "No; like ISO 9000, they concern how a product or service is made.",
+   "sent_ids": [
+    "5b6e41aeb80a"
+   ]
+  },
+  "nature-pol-220": {
+   "q": "Who can join this EU scheme?",
+   "a": "Any type of organisation worldwide; it is voluntary.",
+   "sent_ids": [
+    "672f8cb098e4",
+    "9e76b60122b7"
+   ]
+  },
+  "nature-pol-198": {
+   "q": "Why are IMF subsidy estimates much larger than others?",
+   "a": "Because they count unpriced externalities, unlike the OECD and IEA definitions.",
+   "sent_ids": [
+    "d03b49975cdc"
+   ]
+  },
+  "nature-pol-185": {
+   "q": "How does ISO develop sustainability standards?",
+   "a": "Through a voluntary consensus process.",
+   "sent_ids": [
+    "5c750d1a923d"
+   ]
+  },
+  "nature-pol-217": {
+   "q": "What changed in 2011 for qualifying products?",
+   "a": "Instead of manufacturers' own data, which was open to fraud, independent labs and certifiers must test them.",
+   "sent_ids": [
+    "35db85e9aa17",
+    "7600377f7ba4"
+   ]
+  },
+  "nature-pol-193": {
+   "q": "What do critics say fossil fuel subsidies do?",
+   "a": "Raise consumption and waste, burden public finances and hold back cleaner technologies.",
+   "sent_ids": [
+    "dbfc63918462",
+    "1d9c0486aa8a"
+   ]
+  },
+  "nature-pol-214": {
+   "q": "What happens to farmers who fail cross compliance?",
+   "a": "Their subsidies are cut.",
+   "sent_ids": [
+    "aecbb1b2b814"
+   ]
+  },
+  "nature-pol-236": {
+   "q": "What does the Marine Stewardship Council do?",
+   "a": "It runs a certification program for consumer seafood products.",
+   "sent_ids": [
+    "65d31fe2298c"
+   ]
+  },
+  "nature-pol-018": {
+   "q": "What does environmental policy aim to do?",
+   "a": "Steer human activity to prevent harm to the environment and to people.",
+   "sent_ids": [
+    "f8235e1caee9"
+   ]
+  },
+  "nature-pol-020": {
+   "q": "Why are market instruments often promoted?",
+   "a": "As a more efficient, cost-effective alternative to regulation.",
+   "sent_ids": [
+    "9dcae3e0b822"
+   ]
+  },
+  "nature-pol-023": {
+   "q": "Give an example of integrating environment into other policy.",
+   "a": "Fuel taxes aimed at local pollution, or removing fossil fuel subsidies.",
+   "sent_ids": [
+    "4b79e3722b2b"
+   ]
+  },
+  "nature-pol-029": {
+   "q": "Why do market instruments give firms more flexibility?",
+   "a": "They do not dictate technology or equal cuts for every firm.",
+   "sent_ids": [
+    "82028200315a"
+   ]
+  },
+  "nature-pol-042": {
+   "q": "What is Robert Shiller's classic example of rent-seeking?",
+   "a": "A landowner who chains a river and charges boats to lower the chain, adding no value.",
+   "sent_ids": [
+    "ebf663886473",
+    "741b8b1660ac",
+    "1786c55da77f"
+   ]
+  },
+  "nature-pol-035": {
+   "q": "How has the fossil fuel lobby affected policy?",
+   "a": "It promotes climate change denial and obstructs environmental and climate policy.",
+   "sent_ids": [
+    "d3a3fd38ba79",
+    "a812ca1d1980"
+   ]
+  },
+  "nature-pol-041": {
+   "q": "Why do technical industries risk cultural capture?",
+   "a": "Regulators must hire experts who mostly come from the industry itself.",
+   "sent_ids": [
+    "189c91dfbf9e"
+   ]
+  },
+  "nature-pol-007": {
+   "q": "Which agreement officially set up the WTO?",
+   "a": "The Marrakesh Agreement, signed on 15 April 1994 at the end of the Uruguay Round.",
+   "sent_ids": [
+    "0b5a129baeff"
+   ]
+  },
+  "nature-pol-008": {
+   "q": "When may WTO members restrict trade?",
+   "a": "To protect the environment or public, animal and plant health, but not as disguised protectionism.",
+   "sent_ids": [
+    "c4a37b6bbebe",
+    "d757284a80c3",
+    "f231bc9a78ac"
+   ]
+  },
+  "nature-pol-004": {
+   "q": "How do tariffs differ in cost from testing or labelling rules?",
+   "a": "Tariffs raise costs that grow with volume; testing or labelling rules impose fixed costs.",
+   "sent_ids": [
+    "f773ea20ed06"
+   ]
+  },
+  "nature-pol-016": {
+   "q": "Why does the UN restrict trade in plastic waste?",
+   "a": "Importing countries often lack the capacity to process all of it.",
+   "sent_ids": [
+    "abd73935c7de",
+    "2cfda387645d"
+   ]
+  },
+  "nature-mkt-136": {
+   "q": "Which three services draw most PES money?",
+   "a": "Climate change mitigation, watershed services and biodiversity conservation.",
+   "sent_ids": [
+    "13ea43d13900"
+   ]
+  },
+  "nature-mkt-137": {
+   "q": "Which idea is PES rooted in, according to environmental economics?",
+   "a": "The Coase theorem: a voluntary, conditional deal between a service buyer and seller.",
+   "sent_ids": [
+    "89ab5f8b0989",
+    "0973d562c1be"
+   ]
+  },
+  "nature-mkt-140": {
+   "q": "Did paying forest owners reduce deforestation?",
+   "a": "Yes: 2 to 5% in participating villages against 7 to 10% in control villages.",
+   "sent_ids": [
+    "7fcc68cfc3d5"
+   ]
+  },
+  "nature-mkt-152": {
+   "q": "What do most PES programmes pay for?",
+   "a": "Management practices; only less commonly measured outcomes.",
+   "sent_ids": [
+    "73eee1d5f318"
+   ]
+  },
+  "nature-mkt-129": {
+   "q": "What are the steps of the mitigation hierarchy?",
+   "a": "Avoid, reduce, restore, and offset.",
+   "sent_ids": [
+    "e8edad30d79e",
+    "5667fa9e615b"
+   ]
+  },
+  "nature-mkt-124": {
+   "q": "What is a mitigation bank?",
+   "a": "A site where wetland projects are done before the damage they compensate for, producing credits developers can buy.",
+   "sent_ids": [
+    "2fe5cee7a040",
+    "80f79cb4263b"
+   ]
+  },
+  "nature-mkt-121": {
+   "q": "Does funding general research count as a biodiversity offset?",
+   "a": "No; activities without a measurable gain for biodiversity do not count.",
+   "sent_ids": [
+    "87d56d82ab18",
+    "395126f45b10"
+   ]
+  },
+  "nature-mkt-126": {
+   "q": "How is US mitigation-bank land protected?",
+   "a": "By a conservation easement that also binds future owners of the land.",
+   "sent_ids": [
+    "f93c1044ee51",
+    "2479e1b4f863"
+   ]
+  },
+  "nature-mkt-104": {
+   "q": "Why did industrialised countries buy CDM credits?",
+   "a": "Because cutting emissions was cheapest in developing countries.",
+   "sent_ids": [
+    "27ab9aa47a5b"
+   ]
+  },
+  "nature-mkt-090": {
+   "q": "What did the 2016 Öko-Institut study find about CDM projects?",
+   "a": "85% were unlikely to be truly additional or likely overestimated reductions.",
+   "sent_ids": [
+    "b95d53980c0c",
+    "6a02f64a25a1"
+   ]
+  },
+  "nature-mkt-108": {
+   "q": "What do the safeguards bar REDD+ actions from being used for?",
+   "a": "Converting natural forests.",
+   "sent_ids": [
+    "81b222136960"
+   ]
+  },
+  "nature-mkt-088": {
+   "q": "What do soil carbon projects try to do?",
+   "a": "Keep or raise the carbon stored in soil.",
+   "sent_ids": [
+    "7cbbec481df1"
+   ]
+  },
+  "nature-mkt-091": {
+   "q": "Who created the Gold Standard, and why?",
+   "a": "WWF and partners in 2003, to make sure credits are real, verifiable and help sustainable development.",
+   "sent_ids": [
+    "36dc8491bb90",
+    "7278bc688b6c"
+   ]
+  },
+  "nature-mkt-114": {
+   "q": "What monitoring systems are REDD+ countries encouraged to build?",
+   "a": "Transparent systems combining satellite remote sensing with ground forest inventories.",
+   "sent_ids": [
+    "aa2599cf1f86"
+   ]
+  },
+  "nature-mkt-103": {
+   "q": "What did the January 2023 investigation find about Verra rainforest credits?",
+   "a": "About 94% did not represent a real tonne of CO2e.",
+   "sent_ids": [
+    "4503ff53a52f",
+    "ac0e01be0608"
+   ]
+  },
+  "nature-mkt-065": {
+   "q": "What do bonds fund?",
+   "a": "Borrowers' long-term investments, or for governments, current spending.",
+   "sent_ids": [
+    "fb13ae61d5fe"
+   ]
+  },
+  "nature-mkt-056": {
+   "q": "Can loans count as official development assistance?",
+   "a": "Yes, soft loans count if their grant element is at least 25%; most aid is grants.",
+   "sent_ids": [
+    "8af39b7d4cc9",
+    "f669e4baa4a5"
+   ]
+  },
+  "nature-mkt-049": {
+   "q": "What does blended finance mix?",
+   "a": "Public and private funds in one deal, each party using its expertise.",
+   "sent_ids": [
+    "dc933ee2d77e"
+   ]
+  },
+  "nature-mkt-029": {
+   "q": "What are the main causes of biodiversity loss?",
+   "a": "Habitat loss, land-use change, pollution and overexploitation.",
+   "sent_ids": [
+    "49bdee584241"
+   ]
+  },
+  "nature-mkt-015": {
+   "q": "What is leakage?",
+   "a": "When protecting one place pushes damaging activity to another, cutting the net benefit.",
+   "sent_ids": [
+    "93d3ec889baa"
+   ]
+  },
+  "nature-mkt-057": {
+   "q": "Which countries first met the aid target, and when?",
+   "a": "Sweden and the Netherlands, in 1974.",
+   "sent_ids": [
+    "c6f294662848"
+   ]
+  }
+ }
+}

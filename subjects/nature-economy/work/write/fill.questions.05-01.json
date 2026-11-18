@@ -1,0 +1,378 @@
+{
+ "questions": {
+  "nature-acct-094": {
+   "q": "Why do backers of green accounting say policymakers need it?",
+   "a": "Because they argue GDP ignores the environment, so a model that includes green accounting is needed.",
+   "sent_ids": [
+    "4672a61165e8"
+   ]
+  },
+  "nature-acct-111": {
+   "q": "How does material flow accounting picture the economy?",
+   "a": "As a subsystem inside the environment that, like a living thing, needs a constant throughput of materials and energy, called industrial or societal metabolism.",
+   "sent_ids": [
+    "58c200f74e2f",
+    "76d8a3d066bd",
+    "c593ae9a3ab5"
+   ]
+  },
+  "nature-acct-109": {
+   "q": "What does GDP miss that this measure adds?",
+   "a": "GDP counts only market values, so it misses the non-market value of ecosystem services.",
+   "sent_ids": [
+    "bc3865aec19d",
+    "e6d667e8d45d"
+   ]
+  },
+  "nature-acct-095": {
+   "q": "What does green accounting measure, following SEEA?",
+   "a": "The depletion of scarce natural resources and the cost of environmental damage and of preventing it.",
+   "sent_ids": [
+    "c16bf93212cc"
+   ]
+  },
+  "nature-acct-097": {
+   "q": "When and where was this partnership launched?",
+   "a": "In October 2010, at the Convention on Biological Diversity's COP-10 meeting in Japan.",
+   "sent_ids": [
+    "bb98d00df020"
+   ]
+  },
+  "nature-acct-050": {
+   "q": "What do cradle and grave mean in a product's life cycle?",
+   "a": "Cradle is the extraction of raw materials; grave is recycling or disposal, with making, distributing and using in between.",
+   "sent_ids": [
+    "be67518e4278"
+   ]
+  },
+  "nature-acct-031": {
+   "q": "What does CO2-equivalent add up?",
+   "a": "All greenhouse gases, not only carbon dioxide, combined into one figure.",
+   "sent_ids": [
+    "632cbeff02d8",
+    "a7734be2af44"
+   ]
+  },
+  "nature-acct-070": {
+   "q": "Why use indicators to follow the environment?",
+   "a": "They are a practical, cheaper way to follow a complex environment than recording every variable.",
+   "sent_ids": [
+    "daf85caad27b"
+   ]
+  },
+  "nature-clim-164": {
+   "q": "What is the difference between Scope 1 and Scope 2 emissions?",
+   "a": "Scope 1 is emissions caused directly, such as burning fuel on site; Scope 2 is indirect emissions from bought electricity, heat, cooling or steam.",
+   "sent_ids": [
+    "193806bd68be",
+    "7201265ba758"
+   ]
+  },
+  "nature-acct-086": {
+   "q": "How can repeated assessments reveal trends in extinction risk?",
+   "a": "Repeating them at regular intervals shows changes in species' threat status over time.",
+   "sent_ids": [
+    "b87bdbad5fdb"
+   ]
+  },
+  "nature-acct-057": {
+   "q": "What is the main purpose of indicator sets?",
+   "a": "To inform public policy-making; they are scientific constructs that answer simple questions such as what is happening.",
+   "sent_ids": [
+    "1a4d451e852a",
+    "68994ea2ac8a"
+   ]
+  },
+  "nature-acct-029": {
+   "q": "How is a nation's total footprint worked out?",
+   "a": "Its footprint per person is multiplied by its population.",
+   "sent_ids": [
+    "6757e3f31893"
+   ]
+  },
+  "nature-acct-052": {
+   "q": "How does cradle-to-gate differ from cradle-to-grave?",
+   "a": "Cradle-to-grave runs from extraction to disposal; cradle-to-gate stops at the factory gate, leaving out use and disposal.",
+   "sent_ids": [
+    "52ca845a906c",
+    "81d84a03ed89",
+    "b8674e9f0c30"
+   ]
+  },
+  "nature-acct-067": {
+   "q": "How are a pollutant's emissions usually estimated?",
+   "a": "By multiplying each activity's level by an emission factor.",
+   "sent_ids": [
+    "a7a590f47cad"
+   ]
+  },
+  "nature-acct-081": {
+   "q": "What is a technical coefficient?",
+   "a": "The amount of one good needed to make one unit of another.",
+   "sent_ids": [
+    "5d9aa3241526"
+   ]
+  },
+  "nature-acct-083": {
+   "q": "What makes a car more eco-efficient under this measure?",
+   "a": "Using less material per passenger kilometre over its life.",
+   "sent_ids": [
+    "37f898b5db39",
+    "e9ed4b98f76d"
+   ]
+  },
+  "nature-acct-041": {
+   "q": "What does emergy mean, and who coined it?",
+   "a": "Embodied energy; Howard T. Odum coined the term.",
+   "sent_ids": [
+    "e16f767ed0b2",
+    "7849b3e0646f"
+   ]
+  },
+  "nature-acct-074": {
+   "q": "What does a simple waste footprint ignore?",
+   "a": "That waste is usually treated into a less harmful form before recycling or disposal.",
+   "sent_ids": [
+    "2f6761072135",
+    "08f65cff251b"
+   ]
+  },
+  "nature-pol-068": {
+   "q": "What is an aerosol?",
+   "a": "Particles mixed with air, coming from both natural and human sources.",
+   "sent_ids": [
+    "12da87d5f3e9",
+    "6034c696030f"
+   ]
+  },
+  "nature-pol-054": {
+   "q": "What can make waste hazardous?",
+   "a": "Being toxic, reactive, corrosive or ignitable.",
+   "sent_ids": [
+    "bac7a0ee3d66",
+    "1f70b40b0448"
+   ]
+  },
+  "nature-pol-048": {
+   "q": "At what acidity do fish eggs fail and adult fish die?",
+   "a": "Below pH 5 most fish eggs will not hatch; below pH 4 adult fish die.",
+   "sent_ids": [
+    "120f3cea0c55"
+   ]
+  },
+  "nature-pol-074": {
+   "q": "Which particle control device is most common in general industry?",
+   "a": "Fabric filters, also called baghouses.",
+   "sent_ids": [
+    "251d295c6d90"
+   ]
+  },
+  "nature-pol-049": {
+   "q": "How much SO2 does flue-gas desulfurization remove?",
+   "a": "95% or more of the SO2 in a typical coal-fired station's exhaust.",
+   "sent_ids": [
+    "aa02f3ecc3e8"
+   ]
+  },
+  "nature-pol-062": {
+   "q": "Why must landfill aftercare go on indefinitely?",
+   "a": "Sealed waste keeps its power to pollute, so liners must be replaced and leachate treated without end.",
+   "sent_ids": [
+    "2f8eafe6ce78"
+   ]
+  },
+  "nature-pol-055": {
+   "q": "What is a drawback of burning hazardous waste?",
+   "a": "Though burning shrinks it greatly, the leftover ash and gases can also be hazardous.",
+   "sent_ids": [
+    "1a4defacfc1d",
+    "a2d18584351c"
+   ]
+  },
+  "nature-pol-076": {
+   "q": "How does sediment harm life in water?",
+   "a": "It clouds the water, cutting light for underwater plants and the fish and shellfish that depend on them.",
+   "sent_ids": [
+    "3f13e8589d5e"
+   ]
+  },
+  "nature-pol-132": {
+   "q": "Does an environmental impact assessment demand a set outcome?",
+   "a": "No; it requires decision-makers to weigh environmental values and justify their choice using studies and public comments.",
+   "sent_ids": [
+    "3edd00e93627"
+   ]
+  },
+  "nature-pol-169": {
+   "q": "Which two kinds of protected site does this network join?",
+   "a": "Special Protection Areas for birds and Special Areas of Conservation under the Habitats Directive.",
+   "sent_ids": [
+    "cb813102c73b",
+    "813e67b9995b",
+    "52634c8d6dc7"
+   ]
+  },
+  "nature-pol-141": {
+   "q": "What is intergenerational equity?",
+   "a": "The right of future generations to a fair share of the common inheritance.",
+   "sent_ids": [
+    "8d386d467f7a"
+   ]
+  },
+  "nature-pol-155": {
+   "q": "What does the permit system require of point sources such as factories?",
+   "a": "They may not discharge into surface waters without a permit.",
+   "sent_ids": [
+    "bcfbaa327137",
+    "ff0cfd469290"
+   ]
+  },
+  "nature-pol-148": {
+   "q": "How does a carbon tax differ from classic command and control?",
+   "a": "It lets market forces find the cheapest way to cut pollution instead of limiting each polluter.",
+   "sent_ids": [
+    "d3aa216af56c"
+   ]
+  },
+  "nature-pol-133": {
+   "q": "What does an environmental impact statement describe?",
+   "a": "The good and bad environmental effects of a proposed action, usually with alternative actions.",
+   "sent_ids": [
+    "34c97b133542"
+   ]
+  },
+  "nature-pol-134": {
+   "q": "Which effects do almost all impact assessments cover in practice?",
+   "a": "Only direct, immediate on-site effects, though indirect effects can be much larger.",
+   "sent_ids": [
+    "6ffa9cd06bdd",
+    "2472e8e3f98c"
+   ]
+  },
+  "nature-pol-154": {
+   "q": "What do primary and secondary air standards protect?",
+   "a": "Primary standards protect health; secondary ones protect other public welfare, such as farm values.",
+   "sent_ids": [
+    "f51b7f69297d"
+   ]
+  },
+  "nature-pol-139": {
+   "q": "Which vehicles do these standards leave out?",
+   "a": "Seagoing ships and aircraft.",
+   "sent_ids": [
+    "ad0aea3a48ac",
+    "d4a0737840ce"
+   ]
+  },
+  "nature-pol-181": {
+   "q": "What did Becker apply economic reasoning to?",
+   "a": "Crime and other non-market behaviour, assuming people act rationally.",
+   "sent_ids": [
+    "cf9e479c5262"
+   ]
+  },
+  "nature-pol-183": {
+   "q": "Who carries out these assessments under Superfund?",
+   "a": "Federal, state or tribal natural resource trustees.",
+   "sent_ids": [
+    "8881ee7700a4"
+   ]
+  },
+  "nature-pol-088": {
+   "q": "Ideally, how large should this tax be?",
+   "a": "Equal to the external marginal cost of the harm, which corrects a market failure.",
+   "sent_ids": [
+    "f687b2b0d8e0"
+   ]
+  },
+  "nature-pol-114": {
+   "q": "Who pays an excise and who is expected to bear it?",
+   "a": "The producer pays it but is expected to pass it on to buyers through higher prices.",
+   "sent_ids": [
+    "b73ebe897928"
+   ]
+  },
+  "nature-pol-087": {
+   "q": "Where does fuel tax money often go?",
+   "a": "Often to transport projects, making it a kind of user fee; elsewhere to general revenue.",
+   "sent_ids": [
+    "b67bef39d261",
+    "8112d977ac42"
+   ]
+  },
+  "nature-pol-113": {
+   "q": "What causes thermal pollution from industry?",
+   "a": "Warm cooling water released by power stations.",
+   "sent_ids": [
+    "fc77202fe747"
+   ]
+  },
+  "nature-pol-126": {
+   "q": "How does a sin tax differ from a Pigouvian tax?",
+   "a": "A Pigouvian tax charges for damage done to others; a sin tax raises the price mainly to cut use.",
+   "sent_ids": [
+    "739521103a83"
+   ]
+  },
+  "nature-pol-090": {
+   "q": "Why should an environmental tax sit below the full Pigouvian level, say Bovenberg and Mooij?",
+   "a": "Because an income tax already distorts how much people choose to work.",
+   "sent_ids": [
+    "142d6d315b9e",
+    "546ad8624d54"
+   ]
+  },
+  "nature-pol-097": {
+   "q": "Where is this carbon fee charged?",
+   "a": "Where fuels enter the economy, such as the well, mine or port.",
+   "sent_ids": [
+    "00e6e1c973a7"
+   ]
+  },
+  "nature-pol-121": {
+   "q": "How does a per-unit tax shift the supply curve?",
+   "a": "Up by exactly the amount of the tax, parallel to the original curve.",
+   "sent_ids": [
+    "6f20f24dc5ff",
+    "47437f685516"
+   ]
+  },
+  "nature-pol-125": {
+   "q": "Who made the theoretical case for road pricing in the 1950s?",
+   "a": "William Vickrey, building on Pigou's ideas, proposing electronic charging for busy roads.",
+   "sent_ids": [
+    "b40ae77402c1"
+   ]
+  },
+  "nature-pol-199": {
+   "q": "How does the IMF tell explicit from implicit subsidies?",
+   "a": "Explicit: consumer prices below supply cost. Implicit: prices that leave out environmental damage.",
+   "sent_ids": [
+    "dbf14ba963b2"
+   ]
+  },
+  "nature-pol-244": {
+   "q": "What happens to a polluter emitting more than its quota?",
+   "a": "It must buy the right from emitters with fewer emissions.",
+   "sent_ids": [
+    "dce23e0c0a1a",
+    "4fbd389b93d4"
+   ]
+  },
+  "nature-pol-272": {
+   "q": "What was first about the EU's emissions trading scheme?",
+   "a": "It was the world's first large greenhouse gas trading scheme.",
+   "sent_ids": [
+    "b81244bd2e21"
+   ]
+  },
+  "nature-pol-262": {
+   "q": "Why is the US sulfur dioxide programme historically important?",
+   "a": "It was the first US cap-and-trade programme and a model for later greenhouse gas schemes.",
+   "sent_ids": [
+    "1c27d6cd7954",
+    "d376b15acf06"
+   ]
+  }
+ }
+}

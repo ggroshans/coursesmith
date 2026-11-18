@@ -1,0 +1,369 @@
+{
+ "questions": {
+  "nature-econ-844": {
+   "q": "What four rules about preferences did von Neumann and Morgenstern say lead a person to act as if maximising expected utility?",
+   "a": "Completeness, transitivity, continuity and independence.",
+   "sent_ids": [
+    "ef098500b8e5"
+   ]
+  },
+  "nature-econ-805": {
+   "q": "What is a deductible in insurance?",
+   "a": "The amount the insured person must pay out of pocket before the insurer pays a claim.",
+   "sent_ids": [
+    "d044d9e98c87"
+   ]
+  },
+  "nature-econ-792": {
+   "q": "When valuing future cash flows, what two parts make up the discount rate?",
+   "a": "The time value of money (the risk-free rate) plus a risk premium for the chance the cash flows never arrive.",
+   "sent_ids": [
+    "b682f860f023",
+    "b8bf99e0d48a"
+   ]
+  },
+  "nature-econ-779": {
+   "q": "What does a person get from an annuity sold by a life insurer?",
+   "a": "Regular income, often for retirement, in return for a lump sum or premiums.",
+   "sent_ids": [
+    "2db025806af0"
+   ]
+  },
+  "nature-econ-752": {
+   "q": "How does a higher social discount rate affect a social project's chance of being funded?",
+   "a": "It makes the project less likely to be funded.",
+   "sent_ids": [
+    "e9b4cb36082f"
+   ]
+  },
+  "nature-econ-755": {
+   "q": "Did the Stern Review use a zero discount rate?",
+   "a": "No. That is a common misconception: its projections used many positive rates, while taking time preference near zero.",
+   "sent_ids": [
+    "a11b0caf5c85",
+    "b00691b65db7"
+   ]
+  },
+  "nature-econ-804": {
+   "q": "What did Milton Friedman's monetarism hold about inflation?",
+   "a": "That inflation is always and everywhere a monetary phenomenon.",
+   "sent_ids": [
+    "bacb627aa65f",
+    "f1b97e31b3da"
+   ]
+  },
+  "nature-econ-748": {
+   "q": "How does hyperbolic discounting differ from exponential discounting?",
+   "a": "Under hyperbolic discounting, value falls quickly over short early delays and more slowly over longer ones; exponential discounting lowers value by a constant factor per unit of delay.",
+   "sent_ids": [
+    "77cf62f485f0",
+    "7f97c14af880"
+   ]
+  },
+  "nature-econ-761": {
+   "q": "Why do longer-lasting assets usually have to offer higher yields?",
+   "a": "Because of the effect that shows up as a yield gap between assets of different maturities and conversion costs.",
+   "sent_ids": [
+    "4cf685e0129e",
+    "e1b270fd8a73"
+   ]
+  },
+  "nature-econ-788": {
+   "q": "What is decision analysis?",
+   "a": "Applying the normative approach in practice: building tools and software to help people decide better.",
+   "sent_ids": [
+    "5bd48ae2fb27"
+   ]
+  },
+  "nature-econ-810": {
+   "q": "How does index-based crop insurance decide when to pay farmers?",
+   "a": "It pays when a modelled climate trigger, linked to a high chance of large crop loss, is exceeded and harvest losses occur.",
+   "sent_ids": [
+    "ef03270f8611",
+    "6610518a6209"
+   ]
+  },
+  "nature-econ-822": {
+   "q": "Under constant relative risk aversion, how does wealth affect the share put in a risky asset?",
+   "a": "It does not: the share does not depend on how rich one is.",
+   "sent_ids": [
+    "cac99f8b60bf"
+   ]
+  },
+  "nature-econ-798": {
+   "q": "In the St. Petersburg game, how does the prize grow and when does the game end?",
+   "a": "The prize doubles each time the coin lands heads, and the game ends at the first tails.",
+   "sent_ids": [
+    "7672bc5fb159"
+   ]
+  },
+  "nature-econ-815": {
+   "q": "Why did Aristotle and the Scholastics think charging interest was unjust?",
+   "a": "They held that money is by nature sterile, so it was unjust to charge for being parted from it.",
+   "sent_ids": [
+    "fbe29c44d1df"
+   ]
+  },
+  "nature-econ-843": {
+   "q": "How might feeling connected to one's future self affect choices over time?",
+   "a": "It may make it easier to delay gratification.",
+   "sent_ids": [
+    "a7f8d16f3e5d"
+   ]
+  },
+  "nature-econ-829": {
+   "q": "How does the Ramsey–Cass–Koopmans model treat saving differently from the Solow–Swan model?",
+   "a": "Solow–Swan fixes the saving rate; this model derives saving from a household's optimisation over time.",
+   "sent_ids": [
+    "246cd2f395bc",
+    "6ce999bacb71"
+   ]
+  },
+  "nature-econ-830": {
+   "q": "How is the elasticity of intertemporal substitution related to relative risk aversion?",
+   "a": "It is formally the inverse: high relative risk aversion means a low elasticity and a stronger wish to smooth consumption.",
+   "sent_ids": [
+    "4c00f5cb67b9",
+    "ba6536b4bbb4"
+   ]
+  },
+  "nature-econ-750": {
+   "q": "In quasi-hyperbolic discounting, how are rewards taken now treated?",
+   "a": "They are not discounted at all.",
+   "sent_ids": [
+    "25fba2570847"
+   ]
+  },
+  "nature-econ-785": {
+   "q": "What is a firm's cost of capital?",
+   "a": "The minimum return it must earn on its assets to satisfy its lenders, owners and other capital providers, or they will invest elsewhere.",
+   "sent_ids": [
+    "11287a987d1d"
+   ]
+  },
+  "nature-econ-826": {
+   "q": "Why did John Harsanyi use the original position to argue for utilitarianism?",
+   "a": "Because rational agents weigh expected outcomes rather than worst cases.",
+   "sent_ids": [
+    "cfee01c86fcd"
+   ]
+  },
+  "nature-econ-828": {
+   "q": "What does Kimball's measure of absolute prudence capture?",
+   "a": "The precautionary motive for saving, just as risk aversion measures the desire for insurance.",
+   "sent_ids": [
+    "9f69fc56675c",
+    "1b106c458319"
+   ]
+  },
+  "nature-econ-531": {
+   "q": "Which writer may have first used the term human capital?",
+   "a": "Irving Fisher, though Adam Smith earlier counted people's acquired and useful abilities as capital.",
+   "sent_ids": [
+    "35a22a82dbdf",
+    "c5045eae8176"
+   ]
+  },
+  "nature-econ-604": {
+   "q": "Where does a firm's financial capital come from?",
+   "a": "From its retained earnings or from lenders and investors; it is used to buy real capital equipment.",
+   "sent_ids": [
+    "66c2e9fea45c"
+   ]
+  },
+  "nature-econ-595": {
+   "q": "Why is climate change mitigation called a stock-and-flow problem?",
+   "a": "Because it means cutting the stock of greenhouse gases in the air by reducing emissions and increasing carbon dioxide removal.",
+   "sent_ids": [
+    "4cce6515415e"
+   ]
+  },
+  "nature-econ-592": {
+   "q": "What can happen to bonding groups without bridging ties?",
+   "a": "They can become isolated from the rest of society.",
+   "sent_ids": [
+    "539ca446db33"
+   ]
+  },
+  "nature-econ-601": {
+   "q": "What did Reiner Kümmel conclude about the Solow residual?",
+   "a": "That it can be explained very well by an economy's energy input.",
+   "sent_ids": [
+    "8f5027b6fc29"
+   ]
+  },
+  "nature-econ-576": {
+   "q": "Why does the Paasche index understate inflation?",
+   "a": "It assumes consumers adjust their purchases instantly to new prices.",
+   "sent_ids": [
+    "d0bf115f937d"
+   ]
+  },
+  "nature-econ-566": {
+   "q": "What do national accounts record?",
+   "a": "Output, spending and income of households, corporations and government, their links with other countries, and their net worth.",
+   "sent_ids": [
+    "74d1b6834ee7"
+   ]
+  },
+  "nature-econ-486": {
+   "q": "What is the factor used to convert GDP from current to constant values called?",
+   "a": "The GDP deflator.",
+   "sent_ids": [
+    "b12c49b818ea"
+   ]
+  },
+  "nature-econ-586": {
+   "q": "Why can nominal GDP rise even when physical output stays the same?",
+   "a": "Because of inflation.",
+   "sent_ids": [
+    "30f0ce9f1bfc"
+   ]
+  },
+  "nature-econ-526": {
+   "q": "How does the GDP deflator's basket differ from the CPI's?",
+   "a": "The CPI has a fixed basket; the deflator's changes each year with spending and investment patterns.",
+   "sent_ids": [
+    "f2f8bfd47a58"
+   ]
+  },
+  "nature-econ-554": {
+   "q": "When is stabilisation policy expansive and when contractive?",
+   "a": "Expansive in a recession, contractive when the economy overheats.",
+   "sent_ids": [
+    "7b2f6e0fe551"
+   ]
+  },
+  "nature-econ-564": {
+   "q": "Why is quantitative easing used?",
+   "a": "Because conventional policy can fail in a liquidity trap.",
+   "sent_ids": [
+    "13f4238e939d",
+    "f1a2526b784d"
+   ]
+  },
+  "nature-econ-524": {
+   "q": "What happens to interest-rate cuts in a liquidity trap?",
+   "a": "They fail to boost demand because banks will not lend and consumers will not spend.",
+   "sent_ids": [
+    "c2e436c0a180"
+   ]
+  },
+  "nature-econ-491": {
+   "q": "For a firm, how can gross income be defined?",
+   "a": "As all revenue minus the cost of goods sold.",
+   "sent_ids": [
+    "5c62cafc654d"
+   ]
+  },
+  "nature-econ-539": {
+   "q": "How is net investment calculated?",
+   "a": "Gross investment minus depreciation.",
+   "sent_ids": [
+    "11626f2f75ef"
+   ]
+  },
+  "nature-econ-510": {
+   "q": "What is autonomous consumption?",
+   "a": "The minimum a household always consumes, by drawing down savings or borrowing.",
+   "sent_ids": [
+    "0e987c4dfa9b"
+   ]
+  },
+  "nature-econ-517": {
+   "q": "How are net measures such as net domestic product found?",
+   "a": "By deducting consumption of fixed capital from GDP and GNI.",
+   "sent_ids": [
+    "7e2afbb024dd"
+   ]
+  },
+  "nature-econ-489": {
+   "q": "How can a traffic jam raise GDP while making life worse?",
+   "a": "Extra fuel use adds to GDP, while the resulting air pollution goes uncounted.",
+   "sent_ids": [
+    "ce651697d76f"
+   ]
+  },
+  "nature-econ-548": {
+   "q": "What did economists use before rational expectations?",
+   "a": "Adaptive expectations, where people look only at the recent past.",
+   "sent_ids": [
+    "ca859221f351"
+   ]
+  },
+  "nature-econ-513": {
+   "q": "In Friedman's theory, into what two parts is income split?",
+   "a": "Transitory and permanent parts, whose changes affect consumption differently.",
+   "sent_ids": [
+    "5057980d2b04",
+    "f4f11e59a12d"
+   ]
+  },
+  "nature-econ-482": {
+   "q": "What was the classical view, from Adam Smith, of how inequality affects growth?",
+   "a": "Inequality boosts saving by the wealthy, speeding capital accumulation and growth.",
+   "sent_ids": [
+    "0990435b9567",
+    "01b789dc9acc"
+   ]
+  },
+  "nature-econ-571": {
+   "q": "Whose income does national income cover?",
+   "a": "Households, businesses and government.",
+   "sent_ids": [
+    "2536056a59c7"
+   ]
+  },
+  "nature-econ-546": {
+   "q": "What did Keynes explain about a small fall in consumption or investment?",
+   "a": "It could be magnified into declines across the economy.",
+   "sent_ids": [
+    "9b688b08df4d"
+   ]
+  },
+  "nature-econ-498": {
+   "q": "Why does a parent's unpaid childcare not show up in GDP while a nanny's does?",
+   "a": "GDP counts only the paid nanny's income, not unpaid work at home.",
+   "sent_ids": [
+    "72121dc0c0ed"
+   ]
+  },
+  "nature-econ-503": {
+   "q": "What does the five-sector circular flow model add?",
+   "a": "Banks and other intermediaries that borrow household savings and lend for firms' investment.",
+   "sent_ids": [
+    "a8ac7099b14b",
+    "0ad705a97e79"
+   ]
+  },
+  "nature-econ-536": {
+   "q": "Why does the definition of intermediate consumption strongly affect GDP?",
+   "a": "Because it is subtracted from gross output to get GDP.",
+   "sent_ids": [
+    "0fbd536948ff"
+   ]
+  },
+  "nature-econ-567": {
+   "q": "What do national balance sheets record?",
+   "a": "The stock of financial and non-financial assets and liabilities at a point in time.",
+   "sent_ids": [
+    "fac8f5b47f07"
+   ]
+  },
+  "nature-econ-034": {
+   "q": "What makes a game cooperative rather than non-cooperative?",
+   "a": "Players can make binding, externally enforced commitments; in a non-cooperative game agreements must enforce themselves.",
+   "sent_ids": [
+    "898a2fece40a",
+    "a734477885a9"
+   ]
+  },
+  "nature-econ-039": {
+   "q": "What is the dilemma in the prisoner's dilemma?",
+   "a": "Betraying is rational for each player, yet both would get a higher payoff by cooperating.",
+   "sent_ids": [
+    "86420ad58db9"
+   ]
+  }
+ }
+}

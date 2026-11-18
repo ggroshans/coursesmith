@@ -1,0 +1,378 @@
+{
+ "questions": {
+  "nature-econ-071": {
+   "q": "How does a satisficer choose among options?",
+   "a": "They set an aspiration level, take the first option that meets it, and lower the level if nothing meets it in time.",
+   "sent_ids": [
+    "e3e3a366ec5c",
+    "f7f6cf0d1605",
+    "e772d54550a0"
+   ]
+  },
+  "nature-econ-024": {
+   "q": "How can a nudge make a complex decision easier?",
+   "a": "By presenting information clearly, reducing mental effort.",
+   "sent_ids": [
+    "d5d636284899"
+   ]
+  },
+  "nature-econ-036": {
+   "q": "In the trust game, what would a purely self-interested trustee return, and what do people actually do?",
+   "a": "Nothing; but in experiments people do place trust, expecting reciprocity.",
+   "sent_ids": [
+    "7c39f2700887",
+    "2e117e3534af"
+   ]
+  },
+  "nature-econ-029": {
+   "q": "How did behavioural economists respond to studies failing to reproduce?",
+   "a": "They turned from lab experiments to field studies.",
+   "sent_ids": [
+    "c9aac622c0ee",
+    "2a2ca522197d"
+   ]
+  },
+  "nature-econ-040": {
+   "q": "In a repeated prisoner's dilemma with a known, fixed number of rounds, what is the equilibrium?",
+   "a": "Defecting in every round.",
+   "sent_ids": [
+    "df0453ae5d3c"
+   ]
+  },
+  "nature-econ-076": {
+   "q": "Name some social preferences that pull people away from pure self-interest.",
+   "a": "Altruism, fairness, reciprocity and inequity aversion.",
+   "sent_ids": [
+    "7dafccbe7f79"
+   ]
+  },
+  "nature-econ-055": {
+   "q": "What error does the representativeness heuristic lead to by ignoring how common each category is?",
+   "a": "The base rate fallacy.",
+   "sent_ids": [
+    "376bce248a76",
+    "351a20e4642a"
+   ]
+  },
+  "nature-econ-072": {
+   "q": "How does survey satisficing show up in answers?",
+   "a": "As 'don't know' answers, the same rating for every item, agreeing with any statement, or picking the first reasonable option.",
+   "sent_ids": [
+    "9aa80ae50584",
+    "849be9d16ab1",
+    "f1b9534a23b6",
+    "5bfad77aa901"
+   ]
+  },
+  "nature-econ-077": {
+   "q": "Give an example of reciprocal altruism in the prisoner's dilemma.",
+   "a": "Tit-for-tat.",
+   "sent_ids": [
+    "a4d6ff6b10fd",
+    "8fae21486304"
+   ]
+  },
+  "nature-econ-069": {
+   "q": "How do people's choices change when the same options are worded as gains or as losses?",
+   "a": "As gains, most prefer a sure gain to a chance of gain; as losses, people tend to pick a gamble over a sure loss.",
+   "sent_ids": [
+    "345ba9c73661",
+    "b0e4472f0d7e"
+   ]
+  },
+  "nature-econ-078": {
+   "q": "What explains status quo bias?",
+   "a": "Loss aversion and the endowment effect: the possible losses of switching weigh more than the possible gains.",
+   "sent_ids": [
+    "d0ad4c164bcb",
+    "e191ffc26e7e"
+   ]
+  },
+  "nature-econ-068": {
+   "q": "What can myopic loss aversion lead people to do?",
+   "a": "Avoid immediate losses at the expense of long-term gains.",
+   "sent_ids": [
+    "fcf8297aa529"
+   ]
+  },
+  "nature-econ-731": {
+   "q": "How does a strategy differ from a move?",
+   "a": "A strategy is like a list of directions; a move is a single step on that list.",
+   "sent_ids": [
+    "5c5c0c90fc09"
+   ]
+  },
+  "nature-econ-718": {
+   "q": "What was Nash's key insight about decisions made by several people?",
+   "a": "Their choices cannot be predicted by analysing each one in isolation.",
+   "sent_ids": [
+    "6304528118a3"
+   ]
+  },
+  "nature-econ-728": {
+   "q": "How does the stag hunt differ from the prisoner's dilemma?",
+   "a": "In the stag hunt mutual cooperation is itself an equilibrium; what it needs is trust.",
+   "sent_ids": [
+    "dbf7dd55561a",
+    "2eac6558a3bb"
+   ]
+  },
+  "nature-econ-737": {
+   "q": "Who entered tit-for-tat in Axelrod's tournaments, and how did it do?",
+   "a": "Anatol Rapoport; it was both the simplest strategy and the most successful.",
+   "sent_ids": [
+    "f17989de6551",
+    "8cb0c801578f"
+   ]
+  },
+  "nature-econ-734": {
+   "q": "What does subgame perfect equilibrium rule out?",
+   "a": "Non-credible threats, so strategies stay rational throughout the game.",
+   "sent_ids": [
+    "6f6955c0be07"
+   ]
+  },
+  "nature-econ-721": {
+   "q": "When may a Nash equilibrium fail to exist?",
+   "a": "When choices are infinite and unbounded, as when two players name numbers and the larger wins.",
+   "sent_ids": [
+    "78be6ee923cf",
+    "385d84267ae8"
+   ]
+  },
+  "nature-econ-673": {
+   "q": "What is the trade-off of setting a reserve price at an auction?",
+   "a": "It protects the seller from a low bid but may lower the final price if it dampens interest.",
+   "sent_ids": [
+    "0da277d63994"
+   ]
+  },
+  "nature-econ-685": {
+   "q": "What does the war of attrition model in biology?",
+   "a": "How contests are settled when physical combat is not possible.",
+   "sent_ids": [
+    "a08039b8d161",
+    "4959f1aecee4"
+   ]
+  },
+  "nature-econ-703": {
+   "q": "What can make one equilibrium stand out over others?",
+   "a": "Paying more, or being more salient, fairer or safer.",
+   "sent_ids": [
+    "9529c2bc3a29"
+   ]
+  },
+  "nature-econ-693": {
+   "q": "Which thinker's ideas does Kalai say his bargaining solution is close to?",
+   "a": "The egalitarian ideas of John Rawls.",
+   "sent_ids": [
+    "c9a392ff0f75"
+   ]
+  },
+  "nature-econ-716": {
+   "q": "In a game, does Nature have payoffs?",
+   "a": "No; Nature has no payoffs, and its choice is drawn as an unfilled node.",
+   "sent_ids": [
+    "8e4dd533f1bf",
+    "58c1192443be"
+   ]
+  },
+  "nature-econ-678": {
+   "q": "What does occasional forgiveness achieve in a repeated game with mistakes?",
+   "a": "It breaks cycles of retaliation caused by mistakes or noise and restores mutual cooperation.",
+   "sent_ids": [
+    "0636ff4485bc",
+    "509946c08834"
+   ]
+  },
+  "nature-econ-712": {
+   "q": "Give examples of evolutionary games found in nature.",
+   "a": "Predator–prey competition, host–parasite co-evolution and mutualism.",
+   "sent_ids": [
+    "c98f24b4e20d"
+   ]
+  },
+  "nature-econ-706": {
+   "q": "When does a coalition block an allocation?",
+   "a": "When its members could create more value on their own than they are given.",
+   "sent_ids": [
+    "c4a036b7f545"
+   ]
+  },
+  "nature-econ-697": {
+   "q": "Where does the nucleolus lie when the core is non-empty?",
+   "a": "Inside the core.",
+   "sent_ids": [
+    "6ec699b2ae30"
+   ]
+  },
+  "nature-econ-684": {
+   "q": "When does a brinkmanship threat work?",
+   "a": "Only if the opponent believes there is enough risk of an irrational response, often because the threatener has given up control over it.",
+   "sent_ids": [
+    "4c58a4eb531e"
+   ]
+  },
+  "nature-econ-433": {
+   "q": "What can be done when a differential equation has no explicit formula for its solution?",
+   "a": "Its solutions can be approximated numerically on computers.",
+   "sent_ids": [
+    "d826e3a08865"
+   ]
+  },
+  "nature-econ-456": {
+   "q": "What does linear programming optimise, and under what constraints?",
+   "a": "A linear objective, subject to linear equality and inequality constraints.",
+   "sent_ids": [
+    "ac2a5e25fc38",
+    "df8886180a79"
+   ]
+  },
+  "nature-econ-430": {
+   "q": "What does a partial derivative measure?",
+   "a": "The function's rate of change in the direction of one variable.",
+   "sent_ids": [
+    "75b27ca1a33b"
+   ]
+  },
+  "nature-econ-465": {
+   "q": "Who mainly developed optimal control theory?",
+   "a": "Lev Pontryagin and Richard Bellman in the 1950s.",
+   "sent_ids": [
+    "010d0a852223",
+    "3c697b7a52bc"
+   ]
+  },
+  "nature-econ-431": {
+   "q": "Where do the optima of unconstrained problems lie?",
+   "a": "At stationary points, where the first derivative or gradient is zero.",
+   "sent_ids": [
+    "8aa0e01f04b9"
+   ]
+  },
+  "nature-econ-438": {
+   "q": "If the primal problem is a minimisation, what is the dual?",
+   "a": "A maximisation problem, and vice versa.",
+   "sent_ids": [
+    "68ebf3108344"
+   ]
+  },
+  "nature-econ-444": {
+   "q": "What does the water lily riddle show about exponential growth?",
+   "a": "A plant doubling daily covers half the pond on day 29, leaving only one day to save it.",
+   "sent_ids": [
+    "d7387fd4e483",
+    "67f8ae3c4045"
+   ]
+  },
+  "nature-econ-426": {
+   "q": "What is quadratic programming?",
+   "a": "A type of nonlinear programming with linear constraints and a quadratic objective.",
+   "sent_ids": [
+    "1e3469c7ec6b",
+    "46ba22a823fc"
+   ]
+  },
+  "nature-econ-469": {
+   "q": "What is the power of Pontryagin's maximum principle?",
+   "a": "Maximising the Hamiltonian at each moment is much easier than optimising over whole functions.",
+   "sent_ids": [
+    "b9974ea68d38"
+   ]
+  },
+  "nature-econ-476": {
+   "q": "Why must some variables in a CGE model be fixed outside the model?",
+   "a": "Because CGE models always have more variables than equations.",
+   "sent_ids": [
+    "6d9b01c47ea8"
+   ]
+  },
+  "nature-econ-419": {
+   "q": "What is a bifurcation?",
+   "a": "A sudden qualitative change in a dynamical system's behaviour caused by a small smooth change in a parameter.",
+   "sent_ids": [
+    "d055726622de"
+   ]
+  },
+  "nature-econ-454": {
+   "q": "What does Slater's condition require?",
+   "a": "For convex problems, some point must satisfy the inequality constraints strictly.",
+   "sent_ids": [
+    "78ecc8279ed5"
+   ]
+  },
+  "nature-econ-441": {
+   "q": "How does dynamic programming simplify the consumer's saving problem?",
+   "a": "It lets the consumer decide one step at a time, choosing only current consumption and saving given current capital.",
+   "sent_ids": [
+    "62f463c439e3",
+    "75203b7265df"
+   ]
+  },
+  "nature-econ-279": {
+   "q": "If data are not very unlikely under the null hypothesis, what can be concluded?",
+   "a": "Only that the evidence against it is insufficient.",
+   "sent_ids": [
+    "f097e42c553a",
+    "d94eab63aa9a"
+   ]
+  },
+  "nature-econ-218": {
+   "q": "What are independent and dependent variables in an experiment?",
+   "a": "The changed inputs are independent variables; the outcomes expected to change are dependent variables.",
+   "sent_ids": [
+    "dff9c1695e61"
+   ]
+  },
+  "nature-econ-281": {
+   "q": "When is the null hypothesis rejected using a p-value?",
+   "a": "When the p-value is at or below the test's significance level, alpha.",
+   "sent_ids": [
+    "baab4623f6ba"
+   ]
+  },
+  "nature-econ-243": {
+   "q": "Are natural experiments controlled studies?",
+   "a": "No; the exposure may resemble random assignment, but they are observational studies.",
+   "sent_ids": [
+    "03ae97fe94ae",
+    "4388731741ce"
+   ]
+  },
+  "nature-econ-249": {
+   "q": "Why do funders and voters want programs evaluated?",
+   "a": "To know whether the programs they support are producing the promised effect.",
+   "sent_ids": [
+    "ec388f446783"
+   ]
+  },
+  "nature-econ-275": {
+   "q": "In one-at-a-time sensitivity analysis, what happens after an input is changed?",
+   "a": "It is returned to its baseline value and the step is repeated for each other input.",
+   "sent_ids": [
+    "7029ebcabd24"
+   ]
+  },
+  "nature-econ-256": {
+   "q": "Why give the control group a placebo?",
+   "a": "So participants stay unaware of which treatment they got.",
+   "sent_ids": [
+    "7e3fede683f7"
+   ]
+  },
+  "nature-econ-272": {
+   "q": "Why does dropping everyone who quits a diet trial bias the results?",
+   "a": "Most quitters are those for whom the diet was not working.",
+   "sent_ids": [
+    "a6498e30c327"
+   ]
+  },
+  "nature-econ-251": {
+   "q": "How does a measure's reliability affect an evaluation?",
+   "a": "The more reliable it is, the greater its statistical power and the more credible its findings.",
+   "sent_ids": [
+    "a46676b4e4ea"
+   ]
+  }
+ }
+}
