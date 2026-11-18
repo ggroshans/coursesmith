@@ -39,10 +39,23 @@ def sent_id(title, plain):
     return hashlib.sha1(f"{title}\n{plain}".encode()).hexdigest()[:12]
 
 
+NEW_PAGE_COLUMNS = (("source", "TEXT"), ("version", "TEXT"), ("license", "TEXT"), ("name", "TEXT"))
+
+
+def _migrate(db):
+    """Add the columns other sources need to a database made before they existed. No rows change and no
+    sent_id changes: sqlite adds a nullable column without rewriting the table."""
+    have = {r[1] for r in db.execute("PRAGMA table_info(pages)")}
+    for col, typ in NEW_PAGE_COLUMNS:
+        if col not in have:
+            db.execute(f"ALTER TABLE pages ADD COLUMN {col} {typ}")
+
+
 def connect():
     config.SENT_DB.parent.mkdir(parents=True, exist_ok=True)
     db = sqlite3.connect(config.SENT_DB)
     db.executescript(SCHEMA)
+    _migrate(db)
     return db
 
 
@@ -70,15 +83,18 @@ def index_page(db, store, rec, text):
                      json.dumps(cite_years(rec.get("citations"), cites)), json.dumps(ds) if ds else None))
     db.executemany("INSERT INTO sentences VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)", rows)
     qid = (store.meta.get(title) or {}).get("qid")
-    db.execute("INSERT OR REPLACE INTO pages VALUES (?,?,?,?,?,?)",
-               (title, rec["url"], rec.get("revid"), qid, definition, len(rows)))
+    lic = rec.get("license")
+    db.execute("INSERT OR REPLACE INTO pages (title, url, revid, qid, definition_id, n_sentences, source, version, "
+               "license, name) VALUES (?,?,?,?,?,?,?,?,?,?)",
+               (title, rec["url"], rec.get("revid"), qid, definition, len(rows), rec.get("source"),
+                rec.get("version"), json.dumps(lic) if lic else None, rec.get("name")))
     return len(rows)
 
 
 def build(subject, store=None, force=False, log=print):
     store = store or Store()
     db = connect()
-    have = dict(db.execute("SELECT title, revid FROM pages").fetchall())
+    have = {t: (r, v) for t, r, v in db.execute("SELECT title, revid, version FROM pages")}
     titles = crawled_titles(subject)
     n_pages = n_sent = 0
     for t in titles:
@@ -86,7 +102,7 @@ def build(subject, store=None, force=False, log=print):
             continue
         rec = store.load_page(t)
         db.execute("INSERT OR IGNORE INTO subject_pages VALUES (?,?)", (subject.slug, rec["title"]))
-        if not force and have.get(rec["title"]) == rec.get("revid"):
+        if not force and have.get(rec["title"]) == (rec.get("revid"), rec.get("version")):
             continue
         n_sent += index_page(db, store, rec, store.load_text(t))
         n_pages += 1
@@ -100,15 +116,21 @@ def build(subject, store=None, force=False, log=print):
 
 
 def lookup(db, ids):
-    """sent_id -> dict(title, url, revid, section, sentence, dois, links)."""
+    """sent_id -> dict(title, url, revid, section, sentence, dois, links, idx, source, version, license, name).
+    `title` is the page key. Pages indexed before other sources existed read as source "wikipedia", version =
+    the revision id, license None (the registry knows Wikipedia's)."""
     out = {}
-    q = ("SELECT s.sent_id, s.title, p.url, s.revid, s.section, s.sentence, s.dois, s.links, s.idx FROM sentences s "
+    q = ("SELECT s.sent_id, s.title, p.url, s.revid, s.section, s.sentence, s.dois, s.links, s.idx, "
+         "p.source, p.version, p.license, p.name FROM sentences s "
          "JOIN pages p ON p.title = s.title WHERE s.sent_id = ?")
     for i in ids:
         row = db.execute(q, (i,)).fetchone()
         if row:
             out[row[0]] = {"title": row[1], "url": row[2], "revid": row[3], "section": row[4], "sentence": row[5],
-                           "dois": json.loads(row[6] or "[]"), "links": json.loads(row[7] or "[]"), "idx": row[8]}
+                           "dois": json.loads(row[6] or "[]"), "links": json.loads(row[7] or "[]"), "idx": row[8],
+                           "source": row[9] or "wikipedia",
+                           "version": row[10] or (str(row[3]) if row[3] is not None else None),
+                           "license": json.loads(row[11]) if row[11] else None, "name": row[12] or row[1]}
     return out
 
 

@@ -16,6 +16,9 @@ scope judge marked in or support (scope/judge.json), not expanded.
 import csv
 import heapq
 
+from ..sources.base import MissingSource, SourceError
+from ..sources.keys import is_qualified
+from ..sources.registry import Registry
 from ..util import read_json, write_json
 from .api import ApiError, MissingPage, WikiClient
 from .fetch import fetch_page, prescreen
@@ -40,10 +43,11 @@ def frame_articles(subject, chapter=None):
 
 class Crawler:
     def __init__(self, subject, chapter=None, max_pages=300, max_depth=2, client=None, store=None, log=print,
-                 hubs=False, judged=False):
+                 hubs=False, judged=False, registry=None):
         self.s, self.log, self.hubs, self.judged = subject, log, hubs, judged
         self.client, self.store = client or WikiClient(), store or Store()
-        self.scope = Scope(subject)
+        self.registry = registry or Registry.from_subject(subject, wiki_client=self.client)
+        self.scope = Scope(subject, registry=self.registry)
         self.max_pages, self.max_depth = max_pages, max_depth
         self.forced = frame_articles(subject, chapter) + ([] if chapter else list(subject.cfg.get("seeds") or []))
         self.scope.forced |= set(self.forced)
@@ -65,6 +69,9 @@ class Crawler:
     def seed(self):
         resolved = prescreen(self.client, self.store, self.forced)
         for t in self.forced:
+            if is_qualified(t) and not self.registry.allowed(t):
+                self.log(f"[crawl] skipped seed '{t}': no source in subject.yaml allows it")
+                continue
             self.push(resolved.get(t, t), 0, "", 100.0, "frame")
         if self.hubs:
             self.seed_hubs()
@@ -126,11 +133,11 @@ class Crawler:
             if title in self.visited:
                 continue
             try:
-                rec, text, status = fetch_page(self.client, self.store, title)
-            except MissingPage:
+                rec, text, status = fetch_page(self.client, self.store, title, adapters=self.registry)
+            except (MissingPage, MissingSource):
                 append_ledger(self.s, {"title": title, "depth": depth, "linked_from": parent, "status": "missing"})
                 continue
-            except ApiError as e:
+            except (ApiError, SourceError) as e:
                 append_ledger(self.s, {"title": title, "depth": depth, "linked_from": parent,
                                        "status": f"error: {e}"[:200]})
                 continue
@@ -138,7 +145,8 @@ class Crawler:
             self.n_done += 1
             score, why = self.scope.score(rec["title"], {"categories": rec.get("categories"),
                                                           "description": (self.store.meta.get(rec["title"]) or {}).get("description")})
-            append_ledger(self.s, {"title": rec["title"], "url": rec["url"], "revid": rec.get("revid"),
+            append_ledger(self.s, {"title": rec["title"], "url": rec["url"],
+                                   "revid": rec.get("revid") if rec.get("revid") is not None else rec.get("version"),
                                    "depth": depth, "linked_from": parent, "in_scope_reason": reason,
                                    "score": score, "status": status})
             for l in rec.get("body_links") or []:
@@ -155,6 +163,18 @@ class Crawler:
                  f"{self.client.requests_made} requests, queue {len(self.heap)} left")
         return self.n_done
 
+    def expand_qualified(self, key, rec, depth):
+        """A link into another source: followed only inside that source's allowlist and hop limit."""
+        ad = self.registry.maybe_for_key(key)
+        if ad is not None and ad.allowed(key) and depth + 1 <= ad.max_depth:
+            s, why = self.scope.score(key)
+            self.push(key, depth + 1, rec["title"], s - DEPTH_PENALTY * (depth + 1), f"allowlist:{ad.label}")
+        elif key not in self.rejected_seen:
+            self.rejected_seen.add(key)
+            why = "outside the sources allowlist" if ad is None or not ad.allowed(key) else "beyond the source's depth"
+            append_rejected(self.s, {"title": key, "linked_from": rec["title"], "depth": depth + 1,
+                                     "score": 0, "reasons": why})
+
     def expand(self, rec, depth):
         thr = self.scope.threshold
         links = [l for l in dict.fromkeys(rec.get("body_links") or []) if self.store.canonical(l) not in self.visited]
@@ -162,6 +182,9 @@ class Crawler:
         hopeful = []
         for l in links:
             c = self.store.canonical(l)
+            if is_qualified(c):
+                self.expand_qualified(c, rec, depth)
+                continue
             s0, _ = self.scope.score(c, self.store.meta.get(c))
             if c in self.store.meta or s0 + META_BONUS_MAX >= thr:
                 hopeful.append(l)

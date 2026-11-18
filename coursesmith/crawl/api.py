@@ -19,7 +19,8 @@ class MissingPage(ApiError):
 
 
 class WikiClient:
-    def __init__(self, min_interval=config.MIN_INTERVAL_S):
+    def __init__(self, min_interval=config.MIN_INTERVAL_S, api_url=None):
+        self.api_url = api_url or config.API_URL
         self.session = requests.Session()
         self.session.headers.update({"User-Agent": config.USER_AGENT, "Accept-Encoding": "gzip"})
         self.min_interval = max(2.0, min_interval)
@@ -39,7 +40,7 @@ class WikiClient:
         for _ in range(config.MAX_RETRIES):
             self._throttle()
             try:
-                r = self.session.get(url or config.API_URL, params=params, timeout=config.TIMEOUT_S)
+                r = self.session.get(url or self.api_url, params=params, timeout=config.TIMEOUT_S)
             except requests.RequestException as e:
                 self._last = time.monotonic()
                 self._backoff(delay, f"network error: {e}")

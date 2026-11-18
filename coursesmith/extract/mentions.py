@@ -42,7 +42,15 @@ class PageMentions:
     """Finds the articles a sentence links to, using one page's anchor map."""
 
     def __init__(self, rec, canonical, skip=None):
-        self.map = anchor_map(rec.get("html", ""), canonical, rec["title"], skip)
+        anchors = rec.get("anchors")
+        if anchors:  # another source's adapter supplied anchor text -> key directly
+            self.map = {}
+            for text, key in anchors.items():
+                can = canonical(key)
+                if can != rec["title"] and not (skip and skip(can)):
+                    self.map.setdefault(text, can)
+        else:
+            self.map = anchor_map(rec.get("html") or "", canonical, rec["title"], skip)
         texts = sorted(self.map, key=len, reverse=True)
         self.rx = re.compile(r"(?<![\w-])(" + "|".join(map(re.escape, texts)) + r")(?![\w-])") if texts else None
 

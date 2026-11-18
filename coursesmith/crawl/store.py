@@ -56,8 +56,13 @@ class Store:
             self.aliases[frm] = to
 
     # -- pages -------------------------------------------------------------
-    def _stem(self, title, revid):
-        return f"{slugify(title)}__{revid}"
+    @staticmethod
+    def _stem(rec):
+        """File stem: the slugged key plus the revision (Wikipedia) or a cleaned version string (other sources)."""
+        revid = rec.get("revid")
+        if revid is None and rec.get("version"):
+            revid = re.sub(r"[^A-Za-z0-9]+", "", str(rec["version"]))[:24] or "0"
+        return f"{slugify(rec['title'])}__{revid}"
 
     def has_page(self, title):
         p = self.pages.get(self.canonical(title))
@@ -67,11 +72,25 @@ class Store:
         p = self.pages.get(self.canonical(title))
         return p["revid"] if p else None
 
+    def version(self, title):
+        """The page's version as a string: the revision id for Wikipedia, a commit, hash or RFC id otherwise."""
+        p = self.pages.get(self.canonical(title))
+        if not p:
+            return None
+        return p.get("version") or (str(p["revid"]) if p.get("revid") is not None else None)
+
+    def source(self, title):
+        p = self.pages.get(self.canonical(title))
+        return (p or {}).get("source") or "wikipedia"
+
     def save_page(self, rec, text):
-        stem = self._stem(rec["title"], rec.get("revid"))
+        stem = self._stem(rec)
         atomic_write(config.RAW_DIR / f"{stem}.json", json.dumps(rec, ensure_ascii=False))
         atomic_write(config.TEXT_DIR / f"{stem}.txt", text)
-        self.pages[rec["title"]] = {"revid": rec.get("revid"), "stem": stem}
+        entry = {"revid": rec.get("revid"), "stem": stem}
+        if rec.get("source"):  # Wikipedia records predate sources and stay as they were
+            entry.update({"source": rec["source"], "version": rec.get("version")})
+        self.pages[rec["title"]] = entry
         atomic_write(config.PAGES_INDEX, json.dumps(self.pages, ensure_ascii=False))
 
     def load_page(self, title):

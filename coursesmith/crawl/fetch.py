@@ -1,14 +1,28 @@
 """Fetch one page (or load it from the shared cache) and pre-screen link metadata in batches."""
 from datetime import datetime, timezone
 
+from ..sources.base import SourceError
+from ..sources.keys import is_qualified
 from .clean import clean_html
 from .store import page_url
 
 
-def fetch_page(client, store, title, force=False):
-    """Fetch (or load from cache) one page. Returns (record, text, status)."""
+def fetch_page(client, store, title, force=False, adapters=None):
+    """Fetch (or load from cache) one page. Returns (record, text, status).
+
+    A bare title is a Wikipedia article, fetched through `client`. A qualified key (`rfc>9110`) goes to the
+    adapter in `adapters` (a sources.Registry) that owns it."""
     if not force and store.has_page(title):
         return store.load_page(title), store.load_text(title), "cached"
+    if is_qualified(title):
+        if adapters is None:
+            raise SourceError(f"'{title}' needs a source registry to fetch")
+        rec = adapters.for_key(title).fetch(title)
+        text = rec.pop("text")
+        for frm, to in (rec.pop("aliases", None) or {}).items():
+            store.add_alias(frm, to)
+        store.save_page(rec, text)
+        return rec, text, "fetched"
     p = client.parse_page(title)
     canonical = p["title"]
     for rd in p.get("redirects", []):
@@ -66,7 +80,8 @@ def lead_links(html, own_title=""):
 
 def prescreen(client, store, titles):
     """Fill the link-metadata cache (categories, description, disambig, QID), 50 titles per request."""
-    todo = list(dict.fromkeys(t for t in titles if store.canonical(t) not in store.meta))
+    # qualified keys (other sources) have no Wikipedia metadata to fetch
+    todo = list(dict.fromkeys(t for t in titles if not is_qualified(t) and store.canonical(t) not in store.meta))
     for i in range(0, len(todo), 50):
         resolved, meta = client.link_meta(todo[i:i + 50])
         for frm, to in resolved.items():

@@ -16,6 +16,7 @@ import csv
 import json
 import re
 
+from ..sources.keys import is_qualified
 from ..util import read_json, write_json
 
 DEFAULT_THRESHOLD = 5
@@ -24,7 +25,7 @@ IMP_POINTS = {"Top": 3, "High": 2, "Mid": 1, "Low": 0}
 
 
 class Scope:
-    def __init__(self, subject, hubs=None):
+    def __init__(self, subject, hubs=None, registry=None):
         self.s = subject
         cfg = subject.cfg
         self.include = [t.lower() for t in cfg["scope"].get("include_terms") or []]
@@ -42,6 +43,15 @@ class Scope:
         self.forced = set(h.get("forced") or [])
         self.inlinks = {}  # title -> set of in-scope pages linking to it (filled during the crawl)
         self.judge = read_json(subject.scope_dir / "judge.json", {}) or {}
+        self._registry = registry
+
+    @property
+    def registry(self):
+        """The subject's source registry, built on first use so Wikipedia-only code never loads it."""
+        if self._registry is None:
+            from ..sources.registry import Registry
+            self._registry = Registry.from_subject(self.s)
+        return self._registry
 
     @property
     def threshold(self):
@@ -57,6 +67,11 @@ class Scope:
     def score(self, title, meta=None):
         """(score, reasons) for a canonical title with optional link metadata."""
         meta = meta or {}
+        if is_qualified(title):
+            # a page of another source is in scope exactly when the subject's source list allows it
+            if self.registry.allowed(title):
+                return self.threshold + 1 + (10 if title in self.forced else 0), ["allowlist"]
+            return -99, ["not in the sources allowlist"]
         if meta.get("missing"):
             return -99, ["missing"]
         if meta.get("disambig"):
