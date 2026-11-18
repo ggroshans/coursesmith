@@ -31,7 +31,7 @@ Measured on the finished course (1,735 entries, 4,278 pages):
 
 ### 1. Crawl every hub candidate
 Every page in a hub list (navboxes, index, Vital sections, the WikiProject table, the category tree) that passes
-the scope threshold on its metadata is fetched, not only the frame seeds. `wikicourse crawl <subject> --hubs`
+the scope threshold on its metadata is fetched, not only the frame seeds. `coursesmith crawl <subject> --hubs`
 queues them; links from them are followed one hop. Cheapest and largest single gain.
 
 ### 2. Learned scope score, then an LLM judge on the uncertain band
@@ -51,7 +51,7 @@ queues them; links from them are followed one hop. Cheapest and largest single g
 - **`frame resolve`**: every node is mapped to pages or sections through the prescreen (redirects, canonical
   titles), Wikipedia search and section headings. A node with no page but scattered sentences becomes a **phrase
   dossier** (below). A node with neither is recorded as "Wikipedia has no coverage", never written from memory.
-- **`frame audit`**: per branch: entries, levels, unresolved nodes, and in-scope pages no node claims. Unplaced
+- **`frame audit`** (planned, not built; `report coverage` is the closest command today): per branch: entries, levels, unresolved nodes, and in-scope pages no node claims. Unplaced
   pages go back to the planner ("where does this go, or which branch is missing?"). The auditor names pages an
   advanced course in the branch would also cover; they are resolved and crawled. The loop stops when a round adds
   fewer than a handful of pages per branch.
@@ -77,7 +77,7 @@ feed the scorer and the judge.
 Every syllabus node is a mini-subject with its own seeds and scope. A node resolving to more than ~40 candidate
 pages splits; one resolving to fewer than ~3 becomes a leaf. A broad subject gets a 4–5 level tree with shallow
 crawls per branch; a niche topic gets a shallow tree whose leaves are sections of a few articles, crawled deep.
-Per-branch budgets replace the global depth. `frame estimate` reports entries, units and the thinnest branches
+Per-branch budgets replace the global depth. `frame estimate` (planned, not built) would report entries, units and the thinnest branches
 before the main crawl.
 
 ### 8. Levels and the ladder

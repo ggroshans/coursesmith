@@ -7,8 +7,8 @@ knowledge.** Design: `docs/DESIGN.md`, section 2.
 ## The four tiers
 | Tier | What | Command | Your part |
 |---|---|---|---|
-| A | Wikipedia in depth: every page linked from each selected entry's lead | `wikicourse crawl <subject> --context`, then `extract`, `graph build`, `dossier` | Use the new sentences when you extend entries (see `GAPFILL_GUIDE.md`) |
-| B | Cited works: the DOIs behind each entry's sentences, title and abstract via OpenAlex (Crossref fallback) | `wikicourse verify <subject>` | Read every `differs` |
+| A | Wikipedia in depth: every page linked from each selected entry's lead | `coursesmith crawl <subject> --context`, then `extract`, `graph build`, `dossier` | Use the new sentences when you extend entries (see `GAPFILL_GUIDE.md`) |
+| B | Cited works: the DOIs behind each entry's sentences, title and abstract via OpenAlex (Crossref fallback) | `coursesmith verify <subject>` | Read every `differs` |
 | C | Authorities registered in `subject.yaml` (`verification.authorities`) | same | Add fetchers one at a time; read every `differs` |
 | D | Added context: a fact an authority or a peer-reviewed abstract has and Wikipedia lacks | `verify/external.json` | Write it, cite it |
 
@@ -21,7 +21,7 @@ entries checked against an authority, whether the authority lists the class.
 ## Reading the worklist
 `verify` lists every entry with a `differs` and nothing supporting it in `subjects/<subject>/verify/worklist.md`.
 For each one:
-1. Look at the entry's facts and the sentences they cite (`wikicourse sent <subject> <id>`).
+1. Look at the entry's facts and the sentences they cite (`coursesmith sent <subject> <id>`).
 2. Read the abstract or authority text the verdict came from (the work's JSON is in `cache/works/`).
 3. Decide what the difference is, and record it in `verify/reviews.json`:
 
@@ -66,5 +66,5 @@ Where an authority page or a peer-reviewed abstract carries a fact the entry nee
 - The tag line shows it as `+ USDA NRCS`, and the attribution page lists the URL.
 
 ## Finishing
-Run `wikicourse verify <subject>` until the worklist holds only entries you have reviewed. Reply in at most 120
+Run `coursesmith verify <subject>` until the worklist holds only entries you have reviewed. Reply in at most 120
 words: entries checked, tier counts, conflicts found, authorities still pending.

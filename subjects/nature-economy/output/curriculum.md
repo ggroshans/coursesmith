@@ -1,6 +1,6 @@
 # Nature and the Economy: curriculum
 
-_Reorder by moving entry lines (keep each `<!-- id -->`), then run `wikicourse order lock`. Prerequisites must stay above the entries that build on them._
+_Reorder by moving entry lines (keep each `<!-- id -->`), then run `coursesmith order lock`. Prerequisites must stay above the entries that build on them._
 
 
 ## Foundations

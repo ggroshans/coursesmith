@@ -8,8 +8,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 
 SCRIPT = """
-from engine import scaffold
-from engine.subject import load
+from coursesmith import scaffold
+from coursesmith.subject import load
 scaffold.init("frfr-speakers", "How FRFR speakers work", ["Full-range speaker", "Loudspeaker"],
               ["Loudspeakers"], (4, 5), log=lambda *a: None)
 s = load("frfr-speakers")
@@ -29,7 +29,7 @@ except scaffold.InitError:
 class Init(unittest.TestCase):
     def test_init_writes_a_loadable_subject(self):
         with tempfile.TemporaryDirectory() as d:
-            env = dict(os.environ, WIKICOURSE_ROOT=d, PYTHONPATH=str(ROOT))
+            env = dict(os.environ, COURSESMITH_ROOT=d, PYTHONPATH=str(ROOT))
             out = subprocess.run([sys.executable, "-c", SCRIPT], env=env, capture_output=True, text=True,
                                  cwd=str(ROOT))
             self.assertEqual(out.returncode, 0, out.stderr)

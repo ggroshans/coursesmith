@@ -1,6 +1,6 @@
 # Consolidation guide
 
-You turn one chapter's **dossier** into **draft entries** for a wikicourse subject. A subject is a course built
+You turn one chapter's **dossier** into **draft entries** for a coursesmith subject. A subject is a course built
 from Wikipedia, ordered from foundational to advanced and read 4–5 entries at a time. The schema is in
 `SCHEMA.md`; the design is in `docs/DESIGN.md`.
 
@@ -10,11 +10,11 @@ from Wikipedia, ordered from foundational to advanced and read 4–5 entries at 
   (below) instead of writing it.
 - Paraphrase; don't copy sentences. Keep facts short and plain.
 - Work from the dossier files, never whole pages:
-  - a line cut off with "...": `.venv/bin/wikicourse sent <subject> <id>`;
-  - context around a sentence: `.venv/bin/wikicourse ctx <subject> "<Page title>" "<phrase>" -n 4`;
-  - a phrase across the subject: `.venv/bin/wikicourse search <subject> "<phrase>"`;
-  - a page's sections and sentence counts: `.venv/bin/wikicourse sections <subject> "<Page title>"`;
-  - one section in full: `.venv/bin/wikicourse page <subject> "<Page title>" --section "<Section>"`.
+  - a line cut off with "...": `.venv/bin/coursesmith sent <subject> <id>`;
+  - context around a sentence: `.venv/bin/coursesmith ctx <subject> "<Page title>" "<phrase>" -n 4`;
+  - a phrase across the subject: `.venv/bin/coursesmith search <subject> "<phrase>"`;
+  - a page's sections and sentence counts: `.venv/bin/coursesmith sections <subject> "<Page title>"`;
+  - one section in full: `.venv/bin/coursesmith page <subject> "<Page title>" --section "<Section>"`.
   The dossier keeps at most 80 sentences per seed page (25 per assigned page), spread across its sections; a line
   `(§ <Section>: N more sentences; ...)` marks each cut and gives the command that prints the rest.
   - **Facts may cite any sentence of any crawled page** by those ids, not only dossier lines.
@@ -121,7 +121,7 @@ whole chapter, concatenate the parts into `entries/draft/<chapter key>.jsonl` an
 A long chapter is shared among passes by chunk range. Each pass writes only its own files: one
 `entries/draft/<chapter key>.partNN.jsonl` per chunk it processes, and `<chapter key>.progress.partNN.md` and
 `<chapter key>.gaps.partNN.md` with NN = its first chunk. Check part files with `finalize --check`. Once every pass is
-done, `wikicourse finalize <subject> <chapter key> --merge` joins them into `<chapter key>.jsonl` and folds an entry
+done, `coursesmith finalize <subject> <chapter key> --merge` joins them into `<chapter key>.jsonl` and folds an entry
 drafted twice (same title, or same whole-page article) into one, so an entry that straddles two ranges is fine to
 draft twice. The full `finalize` runs after the merge.
 
@@ -130,8 +130,8 @@ Write `entries/draft/<chapter key>.gaps.md` (`.gaps.partNN.md` in a split chapte
 sentences for, one line each with a suggested Wikipedia page title. It drives gap-fill crawls; name things only.
 
 ## Checking and finishing
-1. Check each part file: `.venv/bin/wikicourse finalize <subject> --check entries/draft/<key>.partNN.jsonl`.
-2. When the chapter is merged: `.venv/bin/wikicourse finalize <subject> <chapter key>` until it reports 0 problems.
+1. Check each part file: `.venv/bin/coursesmith finalize <subject> --check entries/draft/<key>.partNN.jsonl`.
+2. When the chapter is merged: `.venv/bin/coursesmith finalize <subject> <chapter key>` until it reports 0 problems.
    Typical problems: an unknown `sent_id` (conflict sentence ids are checked too), a bad kind/weight/level, too
    many or too few facts, an `article` that was not crawled.
 3. Read `reports/duplicates.md`: merge each real duplicate, or list the pair in `distinct_from`. Section entries of

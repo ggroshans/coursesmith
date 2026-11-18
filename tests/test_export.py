@@ -10,11 +10,11 @@ ROOT = Path(__file__).resolve().parent.parent
 
 SCRIPT = r"""
 import json
-from engine import config
-from engine.extract import sentences as SN
-from engine.publish import export
-from engine.subject import load
-from engine.util import write_json, write_jsonl
+from coursesmith import config
+from coursesmith.extract import sentences as SN
+from coursesmith.publish import export
+from coursesmith.subject import load
+from coursesmith.util import write_json, write_jsonl
 
 d = config.SUBJECTS / "tiny"
 d.mkdir(parents=True)
@@ -48,7 +48,7 @@ print(json.dumps({"ids": [x["id"] for x in doc["entries"]], "plain": doc["entrie
 class Export(unittest.TestCase):
     def test_export_bundles_prose_and_sentences(self):
         with tempfile.TemporaryDirectory() as d:
-            env = dict(os.environ, WIKICOURSE_ROOT=d, PYTHONPATH=str(ROOT))
+            env = dict(os.environ, COURSESMITH_ROOT=d, PYTHONPATH=str(ROOT))
             out = subprocess.run([sys.executable, "-c", SCRIPT], env=env, capture_output=True, text=True,
                                  cwd=str(ROOT))
             self.assertEqual(out.returncode, 0, out.stderr)

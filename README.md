@@ -1,7 +1,7 @@
-# wikicourse
+# coursesmith
 
-Build a complete course on any subject from Wikipedia: every branch and subtopic, ordered from foundational to
-advanced, with every fact traced to the Wikipedia sentence it came from.
+Build a complete course on any subject from Wikipedia and other vetted sources: every branch and subtopic,
+ordered from foundational to advanced, with every fact traced to the source sentence it came from.
 
 Give it a whole field (soil science, world history), a medium topic (plate tectonics), or a narrow question
 (how full-range, flat-response speakers work). It finds the pages a course on that subject needs, extracts and
@@ -9,8 +9,8 @@ consolidates their facts into entries, orders the entries so each one builds on 
 up, and splits the result into short units. What you do with it is up to you: a web app, flashcards, daily
 lessons, a book. EPUB is built in; `course.json` carries everything for anything else.
 
-One rule is never relaxed: **every fact comes from a cited Wikipedia sentence (or a verified external
-source). Nothing comes from a model's general knowledge.** Language models help find pages, judge scope,
+One rule is never relaxed: **every fact comes from a cited source sentence (Wikipedia by default, or a
+source you approved). Nothing comes from a model's general knowledge.** Language models help find pages, judge scope,
 order prerequisites and write prose, but only from the cited facts they are handed.
 
 ## Examples
@@ -35,7 +35,7 @@ python3 -m venv .venv
 
 Python 3.9+. No other services: the page cache and the sentence index are local files under `cache/`.
 
-**Crawling politely.** Wikimedia's User-Agent policy asks crawlers to give a contact. Set `WIKICOURSE_CONTACT`
+**Crawling politely.** Wikimedia's User-Agent policy asks crawlers to give a contact. Set `COURSESMITH_CONTACT`
 to an email address or URL, or write it to `cache/contact.txt`; `crawl` refuses to run without one. Requests
 stay at or under 0.5 per second, 50 titles per metadata call, honoring `retry-after`. A large subject takes a
 few hours to crawl; a small one, minutes.
@@ -43,12 +43,12 @@ few hours to crawl; a small one, minutes.
 ## Start a subject
 
 ```sh
-wikicourse init frfr-speakers --title "How FRFR speakers work" \
+coursesmith init frfr-speakers --title "How FRFR speakers work" \
     --seed "Full-range speaker" --seed "Loudspeaker" --category Loudspeakers
 ```
 
 This writes `subjects/frfr-speakers/subject.yaml`, with every setting commented. Edit it, then follow the
-pipeline below. `wikicourse status` shows where each subject stands at any time.
+pipeline below. `coursesmith status` shows where each subject stands at any time.
 
 ## The pipeline
 
@@ -68,13 +68,14 @@ pipeline below. `wikicourse status` shows where each subject stands at any time.
 | Verify | `crawl --context`, `verify`, verification pass | read every genuine conflict |
 | Write | `write skeleton`, writing passes (prose and figures), `write render`, `write check` | spot-read |
 | Figures | `figures` draws `figures.json` (flowcharts in Mermaid, cycles, layers, scales, bar charts, trees, tables) to look at | look at every one |
-| Units | `units build`; `write questions` and a question pass if the subject has questions | |
+| Units | `units build`; if the subject has questions: `write questions`, a question pass, `write render`, then `units build` again (units copy their question only when built) | |
 | Images | `images` (subjects with `edition.images: true`) | |
 | Output | `export`; `publish build`, `publish check` for EPUBs | |
 
-Every command is `wikicourse <command> <subject> [args]`; `wikicourse <command> -h` explains one. After
+Every command is `coursesmith <command> <subject> [args]`; `coursesmith <command> -h` explains one. After
 changing entries, re-run `finalize → select → order build → verify → write skeleton → write render →
-units build → (question pass) → export / publish build`. Entry ids never change after `order lock`.
+units build → (question pass → write render → units build) → export / publish build`. Entry ids never change
+after `order lock`.
 
 Lookup commands for a pass or for you: `sections` and `page` (a page's sentences with ids), `search`
 (sentences containing a phrase across the subject), `sent` (sentences by id), `ctx` (sentences around a
@@ -122,15 +123,15 @@ whose chapters come from Wikipedia's categories. The planner pass then proposes 
   question about speakers needs acoustics and electronics pages that never mention speakers in their titles.
 
 Some floors are tuned for larger subjects and may need lowering for a very small one: `SEED_MIN` and the
-three-page category cluster in `engine/frame/build.py`, `MIN_PHRASE_SENTENCES` in `engine/frame/syllabus.py`,
-and `MIN_LINKS` in `engine/crawl/judge.py`. Units adapt on their own: a course of 7 entries gets two units.
+three-page category cluster in `coursesmith/frame/build.py`, `MIN_PHRASE_SENTENCES` in `coursesmith/frame/syllabus.py`,
+and `MIN_LINKS` in `coursesmith/crawl/judge.py`. Units adapt on their own: a course of 7 entries gets two units.
 
 ## Output
 
-- **`output/course.json`** (`wikicourse export`): the outline, every entry in order with its prose, facts and
+- **`output/course.json`** (`coursesmith export`): the outline, every entry in order with its prose, facts and
   citations, units, glossary, questions, and the text of every cited sentence with its page and revision.
   The format, with recipes for a web app, flashcards and search, is in [`docs/OUTPUT.md`](docs/OUTPUT.md).
-- **EPUBs** (`wikicourse publish build`): one per unit and one for the whole course, in `build/epubs/<slug>/`,
+- **EPUBs** (`coursesmith publish build`): one per unit and one for the whole course, in `build/epubs/<slug>/`,
   each with a sources and license page.
 - **The subject's files**: every file is documented in [`SCHEMA.md`](SCHEMA.md).
 
@@ -142,7 +143,7 @@ hash of page title and text, so unchanged sentences keep their ids. After a fix 
 ## Layout
 
 ```
-engine/       the `wikicourse` command
+engine/       the `coursesmith` command
   crawl/        API client, page store, cleaning, citations, scope, judge, crawl
   extract/      sentence splitting, the sentence index, mentions, dates
   frame/        hub readers, frame builder, syllabus planner and resolver, coverage
@@ -167,3 +168,10 @@ build/        gitignored: EPUBs
 
 The code is MIT (`LICENSE`). Course content (everything under `subjects/` and everything the engine exports)
 is derived from Wikipedia and is CC BY-SA 4.0, attributed through the cited revisions; see `NOTICE.md`.
+
+## Renamed from wikicourse
+
+The package and command were `wikicourse` before 0.2. `COURSESMITH_ROOT`, `COURSESMITH_CONTACT` and
+`COURSESMITH_MIN_INTERVAL` replace the `WIKICOURSE_*` variables, which are still read as a fallback. The
+`course.json` format id stays `wikicourse-course` because readers match on it. If you rename the repo folder,
+update the `course` path in the xteink-daily config, which points at `../wikicourse/subjects/<slug>/output/course.json`.

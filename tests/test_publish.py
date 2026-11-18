@@ -4,9 +4,9 @@ import xml.dom.minidom
 import zipfile
 from pathlib import Path
 
-from engine.publish import clock
-from engine.publish.check import nums
-from engine.publish.epub import Epub
+from coursesmith.publish import clock
+from coursesmith.publish.check import nums
+from coursesmith.publish.epub import Epub
 
 
 class Clock(unittest.TestCase):

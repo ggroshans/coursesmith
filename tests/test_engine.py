@@ -1,9 +1,9 @@
 import unittest
 
-from engine.consolidate.dossier import _chunk
-from engine.consolidate.finalize import possible_duplicates, validate
-from engine.extract.sentences import sent_id
-from engine.verify.verify import compare, quantities
+from coursesmith.consolidate.dossier import _chunk
+from coursesmith.consolidate.finalize import possible_duplicates, validate
+from coursesmith.extract.sentences import sent_id
+from coursesmith.verify.verify import compare, quantities
 
 
 class SentId(unittest.TestCase):
@@ -46,8 +46,8 @@ class MergeParts(unittest.TestCase):
         from pathlib import Path
         from types import SimpleNamespace
 
-        from engine.consolidate.finalize import merge_parts
-        from engine.util import read_jsonl, write_jsonl
+        from coursesmith.consolidate.finalize import merge_parts
+        from coursesmith.util import read_jsonl, write_jsonl
         with tempfile.TemporaryDirectory() as tmp:
             s = SimpleNamespace(dir=Path(tmp), draft_dir=Path(tmp) / "entries" / "draft")
             s.draft_dir.mkdir(parents=True)

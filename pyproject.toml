@@ -3,14 +3,14 @@ requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "wikicourse"
-version = "0.1.0"
-description = "Build a complete, sourced, logically ordered course on any subject from Wikipedia."
+name = "coursesmith"
+version = "0.2.0"
+description = "Build a complete, sourced, logically ordered course on any subject from Wikipedia and other vetted sources."
 readme = "README.md"
 requires-python = ">=3.9"
 license = {text = "MIT"}
 authors = [{name = "Garth Groshans Jr"}]
-keywords = ["wikipedia", "curriculum", "course", "education", "epub", "knowledge graph"]
+keywords = ["wikipedia", "curriculum", "course", "education", "epub", "knowledge graph", "sources"]
 classifiers = [
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
@@ -29,7 +29,7 @@ dependencies = [
 Homepage = "https://github.com/ggroshans/wiki-course"
 
 [project.scripts]
-wikicourse = "engine.cli:main"
+coursesmith = "coursesmith.cli:main"
 
 [tool.setuptools.packages.find]
-include = ["engine*"]
+include = ["coursesmith*"]

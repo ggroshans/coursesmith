@@ -2,9 +2,9 @@
 
 A finished subject can be used three ways:
 
-- **`output/course.json`** (`wikicourse export <subject>`): the whole course in one file, for any renderer.
+- **`output/course.json`** (`coursesmith export <subject>`): the whole course in one file, for any renderer.
   This is the file to build on.
-- **EPUBs** (`wikicourse publish build <subject>`): one per unit plus the complete course, in `build/epubs/<slug>/`.
+- **EPUBs** (`coursesmith publish build <subject>`): one per unit plus the complete course, in `build/epubs/<slug>/`.
 - **The subject's own files** (`entries/*.jsonl`, `order.json`, `units.json`, `glossary.json`,
   `output/prose.json`), documented in `SCHEMA.md`. Read these if you are changing the course, not just showing it.
 
@@ -14,7 +14,7 @@ The two example courses in `subjects/` ship with `course.json` already exported.
 
 ```jsonc
 {
-  "format": "wikicourse-course", "version": 1, "built": "2026-11-17T15:24Z", "wikicourse": "0.1.0",
+  "format": "wikicourse-course", "version": 1, "built": "2026-11-17T15:24Z", "coursesmith": "0.1.0",
   "subject": {"slug": "soil-science", "title": "Soil Science", "description": "...",
               "ordering": "pedagogical", "per_unit": [4, 5]},
   "license": {"name": "CC BY-SA 4.0", "url": "...", "text": "...",
@@ -71,7 +71,7 @@ permalink to the revision it was read in.
   back: `definition.text`), and one per unit `question` (`q` / `a`). Each card can cite its `sent_ids`.
 - **Search or retrieval.** Index `text_plain` per entry with `path` and `level` as filters; `sentences` gives
   the source passages behind every answer.
-- **Your own EPUB or print layout.** `wikicourse publish build` already makes one; `engine/publish/edition.py`
+- **Your own EPUB or print layout.** `coursesmith publish build` already makes one; `coursesmith/publish/edition.py`
   shows how units, openers, reviews and attribution are laid out.
 
 ## License duty

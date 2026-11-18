@@ -1,6 +1,6 @@
 # Ordering guide
 
-You name the **prerequisites** of every selected entry in a wikicourse subject, so the course can run from
+You name the **prerequisites** of every selected entry in a coursesmith subject, so the course can run from
 foundational to advanced the way a good textbook does. The script does the sorting; your judgment supplies the
 edges it sorts by.
 
@@ -15,7 +15,7 @@ Where you have covered an entry, your choice is authoritative. Where you have no
 links that RefD also supports.
 
 ## Input
-`subjects/<subject>/work/order/packet.md` (`wikicourse order packet <subject>`):
+`subjects/<subject>/work/order/packet.md` (`coursesmith order packet <subject>`):
 - the **entry list**: `id | title | part › chapter | level`;
 - one block per entry: definition, what the consolidation pass suggested, lead links, RefD, and the script's
   current choice.
@@ -49,7 +49,7 @@ Write a batch every 50–80 entries. Make the JSON with Python (`json.dump`, `en
    about relevance.
 
 ## Finishing
-1. Run `wikicourse order build <subject>`; read `reports/order.md` (dropped edges, broken cycles) and
+1. Run `coursesmith order build <subject>`; read `reports/order.md` (dropped edges, broken cycles) and
    `output/curriculum.md` (the full table of contents).
 2. Fix what reads wrong by editing your batch files and re-running, or leave a note for the owner's curriculum
    review. **Do not run `order lock`**: the owner locks the order after reading `curriculum.md`.

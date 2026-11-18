@@ -1,6 +1,6 @@
 import unittest
 
-from engine.publish.units import UnitError, choose_n, size_bounds, split
+from coursesmith.publish.units import UnitError, choose_n, size_bounds, split
 
 
 class ChooseN(unittest.TestCase):

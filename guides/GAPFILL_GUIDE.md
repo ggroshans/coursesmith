@@ -7,7 +7,7 @@ Read `CONSOLIDATION_GUIDE.md` first: its rules all apply. This addendum covers a
 1. **Pick the gaps.** From `reports/coverage.md` (hub articles not crawled, crawled but in no entry, thin
    chapters) and `entries/draft/<chapter key>.gaps.md`.
 2. **Crawl them.** Add the page titles to the chapter's `seeds` in `frame.yaml` (or `candidates` if they are only
-   context), then run `wikicourse crawl <subject> --chapter <key> --depth 0` to fetch just those pages, followed by
+   context), then run `coursesmith crawl <subject> --chapter <key> --depth 0` to fetch just those pages, followed by
    `extract`, `graph build` and `dossier <subject> <key>`.
 3. **Consolidate the new material** into the chapter's existing draft, `entries/draft/<chapter key>.jsonl`:
    - **a new entry**: append it, in the usual schema;
@@ -17,7 +17,7 @@ Read `CONSOLIDATION_GUIDE.md` first: its rules all apply. This addendum covers a
    - **neither**: skip it.
 4. Respect the fact limits (8 for Landmark and Major, 4 for Minor). When you trim, move the dropped facts'
    sent_ids into `mention_sent_ids` so their sources are kept.
-5. Run `wikicourse finalize <subject> <chapter key>` until it reports 0 problems, then `report coverage` again.
+5. Run `coursesmith finalize <subject> <chapter key>` until it reports 0 problems, then `report coverage` again.
 
 Never pad to reach a target. A chapter that stays short after a gap-fill is reported in the reply; the fix is a
 wider frame, not thinner entries.

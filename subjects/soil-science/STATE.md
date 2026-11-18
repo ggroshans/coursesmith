@@ -1,6 +1,6 @@
 # Soil Science — state
 
-_Update after every step. `wikicourse status soil-science` prints the live numbers._
+_Update after every step. `coursesmith status soil-science` prints the live numbers._
 
 ## Where it stands (2026-11-16)
 - **Build order:** steps 1–9 run, then a discovery round (`docs/DISCOVERY_DESIGN.md`) that widened the course to
@@ -25,7 +25,7 @@ _Update after every step. `wikicourse status soil-science` prints the live numbe
 - **Units:** 505 units of 4–5 entries, one question each.
 
 ## Next steps
-1. Read the first units (`build/epubs/soil-science/`, or `wikicourse export soil-science`).
+1. Read the first units (`build/epubs/soil-science/`, or `coursesmith export soil-science`).
 2. Decide the unit size (`targets.per_unit`), then `units build`, `write questions` + a question pass,
    `publish build`.
 3. Re-review the frame and the curriculum (`output/curriculum.md`), especially the new chapters; ids are frozen, so

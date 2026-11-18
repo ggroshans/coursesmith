@@ -3,7 +3,7 @@ import unittest
 from pathlib import Path
 from types import SimpleNamespace
 
-from engine.frame.build import _chapters, _report
+from coursesmith.frame.build import _chapters, _report
 
 
 def _kept(titles, cats):

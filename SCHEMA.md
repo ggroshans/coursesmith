@@ -42,7 +42,7 @@ and gitignored; `build/` (EPUBs) is gitignored and rebuildable.
 | `verify/reviews.json`, `verify/external.json` | verification pass | hand verdicts; tier D facts |
 | `work/write/packet-<part>.md`, `questions-packet.md` | `write skeleton`, `write questions` (gitignored) | writer input |
 | `work/write/fill.*.json` | writing passes | prose batches (see below) |
-| `output/prose.json`, `output/course.md` | `write render` | merged prose; the whole course as Markdown |
+| `output/prose.json`, `output/course.md` | `write render` | merged prose; the whole course as Markdown. `course.md` is a reading draft: headings, openers, entry text and figures only. The tag line, chapter reviews, questions and glossary appear in the EPUBs and in `course.json`. Re-run `write render` after `figures` changes to refresh it |
 | `units.json`, `glossary.json` | `units build` | units and the cumulative glossary |
 | `output/course.json` | `export` | the whole course in one file for any renderer (see `docs/OUTPUT.md`) |
 | `sentences.jsonl` | port | optional frozen copy of the cited sentences, for a subject not crawled by this engine (`export` falls back to it) |

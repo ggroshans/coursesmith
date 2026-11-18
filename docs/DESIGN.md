@@ -1,6 +1,6 @@
 # Design
 
-How wikicourse turns a subject into a course, and why. The pipeline and commands are in `README.md`, every file
+How coursesmith turns a subject into a course, and why. The pipeline and commands are in `README.md`, every file
 in `SCHEMA.md`, discovery (covering a whole subject) in `docs/DISCOVERY_DESIGN.md`. The engine grew out of the
 Deep Time Chronicle, an earlier Wikipedia-sourced history of Earth; "the chronicle" below means that project.
 

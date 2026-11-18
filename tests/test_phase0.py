@@ -4,8 +4,8 @@ import unittest
 from pathlib import Path
 from types import SimpleNamespace
 
-from engine.crawl.judge import _lead
-from engine.subject import DEFAULTS, _merge
+from coursesmith.crawl.judge import _lead
+from coursesmith.subject import DEFAULTS, _merge
 
 
 class FakeStore:
@@ -50,8 +50,8 @@ class MergeTest(unittest.TestCase):
 
 class HttpCacheTest(unittest.TestCase):
     def test_cache_only_never_touches_network(self):
-        from engine import config
-        from engine.verify import extsrc
+        from coursesmith import config
+        from coursesmith.verify import extsrc
         with tempfile.TemporaryDirectory() as d:
             old = config.HTTP_CACHE
             config.HTTP_CACHE = Path(d)

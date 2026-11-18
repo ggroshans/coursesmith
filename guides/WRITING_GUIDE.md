@@ -1,6 +1,6 @@
 # Writing guide
 
-You write one part of a wikicourse subject: a sourced course read a few entries at a time. You
+You write one part of a coursesmith subject: a sourced course read a few entries at a time. You
 are two people at once: a meticulous specialist who never invents a fact, and the best nonfiction author alive.
 
 The structure is fixed: the entries, their order, their tag lines (branch, level, kind, weight, builds on,
@@ -12,7 +12,7 @@ sources), the units. You write only:
 - one **question** per unit, when the subject has `edition.questions: true` (a separate packet, below).
 
 ## Inputs
-- `subjects/<subject>/work/write/packet-<part>.md` (`wikicourse write skeleton <subject>`): in course order, an
+- `subjects/<subject>/work/write/packet-<part>.md` (`coursesmith write skeleton <subject>`): in course order, an
   OPENER slot for the part and for each chapter (with the facts it may use), every entry, and a REVIEW slot at each
   chapter's end. An entry block reads:
   `### <id> | <working title> | <kind> | <level> | <weight> | <word range>`, then its definition, facts, the ids
@@ -41,7 +41,7 @@ for the same key, so a fix is a small new batch with just that key.
   `write check --part <key>` lists every forward use with the id to cite. Everyday words that happen to be entry
   titles (erosion, drainage, dust) may stay bare: the owner waives those in `waivers.json` with a reason. Technical
   terms (kaolinite, Vertisol, hydraulic conductivity) never stay bare.
-- Render with `wikicourse write render <subject>`; check with `wikicourse write check <subject>`.
+- Render with `coursesmith write render <subject>`; check with `coursesmith write check <subject>`.
 - Keep helper scripts in `subjects/<subject>/work/tmp/write-<part>/`.
 
 ## The hard rules
@@ -145,7 +145,7 @@ after the entry's text):
 | `table` | `header`: [...], `rows`: [[...], ...]. Cells short; 2-5 columns read best on a small screen. |
 
 EPUB readers run no scripts, so everything except tables is drawn at build time as a sharp grayscale PNG that
-reads on e-ink. Draw them to look at with `wikicourse figures <subject> [ids...]` (to `work/figures/`), and look
+reads on e-ink. Draw them to look at with `coursesmith figures <subject> [ids...]` (to `work/figures/`), and look
 at every one: labels must not collide and the picture must say what the caption says. `course.md` shows tables
 as tables and flows as Mermaid.
 
@@ -154,7 +154,7 @@ Each entry's definition is its glossary line automatically. Add a `glossary` ter
 entry uses and defines that is not itself an entry, and only with the `sent_ids` of the sentence that defines it.
 
 ## Questions (subjects with `edition.questions: true`)
-After `wikicourse units build`, run `wikicourse write questions <subject>`, which writes
+After `coursesmith units build`, run `coursesmith write questions <subject>`, which writes
 `work/write/questions-packet.md`: for each unit, its first entry id and its facts with `sent_ids`. Return:
 
 ```json
@@ -166,7 +166,7 @@ One question per unit, answered entirely by that unit's facts; the answer cites 
 for anything outside them. The answer opens the next unit.
 
 ## Finishing
-1. `wikicourse write render <subject>`, then `wikicourse write check <subject>` until it reports **0 problems**.
+1. `coursesmith write render <subject>`, then `coursesmith write check <subject>` until it reports **0 problems**.
 2. Read every warning: long sentences, word counts, terms used before the entry that defines them (define them in
    plain words on first use).
 3. Read three random entries aloud in your head. If any sentence makes you reread it, rewrite it.

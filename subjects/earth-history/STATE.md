@@ -1,6 +1,6 @@
 # Earth History — state
 
-_Update after every step. `wikicourse status earth-history` prints the live numbers._
+_Update after every step. `coursesmith status earth-history` prints the live numbers._
 
 ## Where it stands (2026-11-18)
 - **Stage:** published.
