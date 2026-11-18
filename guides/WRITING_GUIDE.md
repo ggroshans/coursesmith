@@ -8,6 +8,7 @@ sources), the units. You write only:
 - entry **titles** and **texts**;
 - chapter **openers** (`OPENER <node>`) and chapter **reviews** (`REVIEW <node>`);
 - optional extra **glossary** terms;
+- **figures** (diagrams, charts, flowcharts, tables) for the entries they help, in `figures.json`;
 - one **question** per unit, when the subject has `edition.questions: true` (a separate packet, below).
 
 ## Inputs
@@ -101,6 +102,53 @@ Short, vivid and specific, 3–10 words, no closing period: "Why clay and humus 
 - **Review** (last unit of a chapter): 3–5 sentences that tie the chapter's entries together, built only from their
   facts. No new information; show how the pieces connect.
 
+## Figures: diagrams, charts, flowcharts and tables
+The reader learns well from pictures, so add a figure wherever one makes an entry clearer than prose alone. Look
+for one in every entry you write. Add one when the facts describe:
+- **a process or causal chain** (how a soil forms, how a policy works, how a feedback runs): a `flow`;
+- **a loop** (the nitrogen, carbon, water or rock cycle): a `cycle`;
+- **a vertical sequence** (soil horizons, rock strata, atmosphere layers, a stack of eras): `layers`;
+- **positions on a range** (grain-size classes, the pH scale, a timeline, orders of magnitude): a `scale`;
+- **quantities to compare** (stocks, rates, shares, sizes): a `bar` chart;
+- **a hierarchy** (a classification system, a taxonomy, an institution's structure): a `tree`;
+- **several things compared on the same properties** (soil orders, clay minerals, valuation methods): a `table`;
+- **a decision or identification key**: a `flow` with `{decision}` nodes.
+
+Skip a figure when it would only repeat a sentence, when the entry is a person or an event with no structure, or
+when the facts are too thin to fill it. Openers and reviews get no figures. A typical part ends up with a figure
+on something like one entry in six to ten; Landmark, Process and Classification entries most often.
+
+**The hard rules apply to figures too.** Every label, value and arrow comes from that entry's facts (or its
+definition); `write check` fails a figure that states a number not in them. The caption is one plain sentence
+that says what to look at, with no new facts. An arrow claims a cause or a sequence: draw it only when the facts
+say so. `sent_ids` lists the sentences the figure draws on.
+
+Write figures to `subjects/<subject>/figures.json`, keyed by entry id (several per entry are drawn in order,
+after the entry's text):
+
+```json
+{"soil-phys-003": [{"type": "scale", "caption": "The size classes sit side by side on a log scale.",
+                    "sent_ids": ["..."], "log": true, "axis": "Particle diameter, mm",
+                    "ranges": [[0.0001, 0.002, "Clay"], [0.002, 0.05, "Silt"], [0.05, 2, "Sand"]]}],
+ "soil-form-010": [{"type": "flow", "caption": "...", "sent_ids": ["..."],
+                    "mermaid": "flowchart TD\nA[Bedrock] -->|weathering| B[Regolith]\nB --> C{Wet climate?}\nC -->|yes| D[Leached soil]"}]}
+```
+
+| type | fields |
+|---|---|
+| `flow` | `mermaid`: `flowchart TD` (top-down) or `LR`; lines `A[Box] --> B[Box]`, `A -->\|label\| B`, `A -.-> B` (dashed), `A{Decision}`, `A([Rounded])`. Chains (`A --> B --> C`) and loops back work. Keep it to 3-9 nodes, labels under 6 words. |
+| `cycle` | `steps`: `["Step", ...]` or `[["Step", "label on the arrow out"], ...]`; optional `center`. 3-7 steps. |
+| `layers` | `layers`: `[["Name", "one-line note"], ...]` top to bottom; optional `top`, `bottom` labels. |
+| `scale` | `marks`: `[[value, "label"], ...]` and/or `ranges`: `[[from, to, "label"], ...]`; `axis`, `log`, optional `ends: ["low end", "high end"]`. |
+| `bar` | `bars`: `[["Label", value], ...]`, `unit`. Only values the facts give, in the same units. |
+| `tree` | `root`, `children`: `{"Child": {"Grandchild": null}, ...}`. |
+| `table` | `header`: [...], `rows`: [[...], ...]. Cells short; 2-5 columns read best on a small screen. |
+
+EPUB readers run no scripts, so everything except tables is drawn at build time as a sharp grayscale PNG that
+reads on e-ink. Draw them to look at with `wikicourse figures <subject> [ids...]` (to `work/figures/`), and look
+at every one: labels must not collide and the picture must say what the caption says. `course.md` shows tables
+as tables and flows as Mermaid.
+
 ## Glossary
 Each entry's definition is its glossary line automatically. Add a `glossary` term only for a technical word an
 entry uses and defines that is not itself an entry, and only with the `sent_ids` of the sentence that defines it.
@@ -123,4 +171,4 @@ for anything outside them. The answer opens the next unit.
    plain words on first use).
 3. Read three random entries aloud in your head. If any sentence makes you reread it, rewrite it.
 4. Do not run `units build` or `publish`; do not edit entries, packets or other parts' batch files.
-5. Reply in at most 120 words: entries written, the check result, warnings left and why, anything odd in the facts.
+5. Reply in at most 120 words: entries written, figures added, the check result, warnings left and why, anything odd in the facts.

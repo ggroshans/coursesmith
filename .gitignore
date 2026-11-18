@@ -16,3 +16,4 @@ subjects/*/work/scope/
 # regenerable pass inputs: packets, dossiers and the link graph (pass outputs stay tracked)
 subjects/*/work/**/*.md
 subjects/*/work/graph.json
+subjects/*/work/figures/

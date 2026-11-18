@@ -57,6 +57,8 @@ def render(subject, log=print):
     entries = subject.entries_by_id()
     outline = Outline.from_subject(subject)
     titles = {i: (prose["entries"].get(i) or {}).get("title") or entries[i]["title"] for i in order if i in entries}
+    from ..publish.figures import load as load_figures
+    figs = load_figures(subject)
     lines = [f"# {subject.title}", ""]
     seen_nodes = set()
     missing = 0
@@ -78,6 +80,8 @@ def render(subject, log=print):
         lines += [f"- **{titles.get(i, e['title'])}**" + (f" — {e['date_display']}" if e.get("date_display") else ""),
                   "", f"  {resolve_refs(p.get('text') or '{{TEXT:' + i + '}}', titles)}", "",
                   f"  <!-- {i} -->", ""]
+        for fig in figs.get(i) or []:
+            lines += _figure_md(fig)
     if prose.get("closing"):
         lines += ["## Closing", "", prose["closing"], ""]
     subject.output_dir.mkdir(parents=True, exist_ok=True)
@@ -86,6 +90,19 @@ def render(subject, log=print):
         f"{len(order) - missing}/{len(order)} entries written, {len(prose['openers'])} openers, "
         f"{len(prose['reviews'])} reviews, {len(prose['questions'])} questions")
     return missing
+
+
+def _figure_md(fig):
+    """A figure in course.md: tables as tables, flows as Mermaid (GitHub draws it), the rest by caption."""
+    cap = f"  *Figure: {fig.get('caption') or ''}*"
+    if fig.get("type") == "table":
+        rows = [fig.get("header") or [""] * len(fig["rows"][0])] + fig["rows"]
+        md = ["  | " + " | ".join(str(c) for c in rows[0]) + " |", "  |" + "---|" * len(rows[0])]
+        md += ["  | " + " | ".join(str(c) for c in r) + " |" for r in rows[1:]]
+        return [cap, ""] + md + [""]
+    if fig.get("type") == "flow":
+        return [cap, "", "  ```mermaid"] + [f"  {ln}" for ln in fig["mermaid"].strip().splitlines()] + ["  ```", ""]
+    return [cap + f" ({fig.get('type')}; drawn in the EPUB)", ""]
 
 
 def load(subject):

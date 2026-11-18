@@ -66,7 +66,8 @@ pipeline below. `wikicourse status` shows where each subject stands at any time.
 | Select | `select` | |
 | Order | `order packet`, ordering pass, `order build` | **yes**: read `output/curriculum.md`, then `order lock` |
 | Verify | `crawl --context`, `verify`, verification pass | read every genuine conflict |
-| Write | `write skeleton`, writing passes, `write render`, `write check` | spot-read |
+| Write | `write skeleton`, writing passes (prose and figures), `write render`, `write check` | spot-read |
+| Figures | `figures` draws `figures.json` (flowcharts in Mermaid, cycles, layers, scales, bar charts, trees, tables) to look at | look at every one |
 | Units | `units build`; `write questions` and a question pass if the subject has questions | |
 | Images | `images` (subjects with `edition.images: true`) | |
 | Output | `export`; `publish build`, `publish check` for EPUBs | |

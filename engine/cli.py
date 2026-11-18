@@ -328,6 +328,15 @@ def cmd_images(a):
     images.fetch(a.subject, a.all_landmarks, a.force)
 
 
+@command("figures", "draw an entry's figures (figures.json) to PNG files to look at before publishing",
+         arg("ids", nargs="*", help="entry ids (default: all)"), arg("--out", default=None))
+def cmd_figures(a):
+    from pathlib import Path
+
+    from .publish import figures
+    figures.preview(a.subject, Path(a.out) if a.out else a.subject.dir / "work" / "figures", a.ids)
+
+
 @command("publish check", "fail if any unit edition breaks the course's rules")
 def cmd_publish_check(a):
     from .publish import check

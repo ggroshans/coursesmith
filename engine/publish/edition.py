@@ -15,7 +15,7 @@ from ..outline import Outline
 from ..util import read_json
 from ..write.render import REF_RE
 from ..write.render import load as load_prose
-from . import clock, cover
+from . import clock, cover, figures
 from .epub import Epub
 
 WPM = 230
@@ -39,6 +39,11 @@ dl { margin: 0.3em 0; } dt { font-weight: bold; } dd { margin: 0 0 0.45em 1em; }
 .attribution { font-size: 0.78em; } .attribution p { margin: 0 0 0.45em; }
 figure { margin: 0.6em 0; text-align: center; } figure img { max-width: 100%; }
 figcaption { font-size: 0.72em; }
+figure.fig { margin: 0.8em 0 1em; page-break-inside: avoid; } figure.fig figcaption { font-size: 0.8em; font-style: italic;
+  margin: 0.25em 0 0; text-align: left; }
+table.fig { border-collapse: collapse; width: 100%; font-size: 0.82em; margin: 0.3em 0; text-align: left; }
+table.fig th, table.fig td { border: 1px solid #000; padding: 0.2em 0.35em; vertical-align: top; }
+table.fig th { font-weight: bold; background: #ddd; }
 body.cover { margin: 0; padding: 0; text-align: center; } .cover img { max-width: 100%; max-height: 100%; }
 """
 
@@ -76,6 +81,7 @@ class Edition:
         self.modified = (self.units_doc.get("built") or "2026-01-01T00:00Z").replace("Z", ":00Z")
         self.width = max(3, len(str(self.total)))
         self.origin_ma = subject.edition.get("clock_origin_ma")
+        self.figs = figures.load(subject)
 
     # -- pieces --------------------------------------------------------------
     def text(self, eid):
@@ -134,6 +140,8 @@ class Edition:
                 out.append(f'<figure><img src="{href}" alt="{escape(img.get("alt") or self.titles[eid])}"/>'
                            f'<figcaption>{escape(img.get("caption") or "")}</figcaption></figure>')
         out.append(_paras(self.text(eid)))
+        if self.figs.get(eid) and images is not None:
+            out.append(figures.figures_html(self.figs[eid], images.figs, eid))
         out.append(f'<p class="tags">{self.tag_line(e)}</p></div>')
         return "".join(out)
 
@@ -379,6 +387,7 @@ class _ImageSink:
 
     def __init__(self, book):
         self.book, self.added = book, {}
+        self.figs = figures.Sink(book)
 
     def __call__(self, img):
         local = img.get("local")

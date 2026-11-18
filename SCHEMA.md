@@ -80,6 +80,10 @@ and gitignored; `build/` (EPUBs) is gitignored and rebuildable.
 - **external** (tier D): `{source, url, retrieved, text}`, shown as `+ <source>` in the tag line.
 - **source_tier**: `primary` (a cited paper or an authority supports the key claim), `wikipedia`.
 - **image**: `{file, license, license_url, artist, page_url, local, caption}`; only CC BY(-SA), CC0 or public domain.
+- **figures** (in `subjects/<s>/figures.json`, keyed by entry id, not in the entry record; `course.json` carries
+  them on each entry): a list of `{type, caption, sent_ids, ...}` with type `flow` (Mermaid flowchart subset),
+  `cycle`, `layers`, `scale`, `bar`, `tree` or `table`; see the WRITING_GUIDE for each type's fields. Drawn at
+  build time as grayscale PNG (tables as XHTML); every number in one must be in its entry's facts.
 - Chronological subjects add `date_display`, `date_ma`, `date_young_ma`, `uncertainty_ma`, `date_unit`,
   `date_qualifier`, a `path` of outline node ids, `branch` (the chronicle's type) and `origin`.
 

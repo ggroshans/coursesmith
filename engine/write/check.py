@@ -2,7 +2,8 @@
 
 Problems (must be fixed): an entry without text, a number not in the entry's facts, a banned phrase, an
 exclamation mark, more than one "imagine"/"picture" per unit, a {{ref:id}} to an unknown entry, a number in an
-opener or review that is not in its chapter's facts.
+opener or review that is not in its chapter's facts, a figure (figures.json) that does not draw or states a
+number not in its entry's facts.
 Warnings (read each): an entry over 300 words or outside its word range, a sentence over 28 words, a term used
 anywhere earlier in the course than the entry that defines it (publish check fails on these once units exist:
 write {{ref:<id>}} or say it in plain words), an opener or review outside 3-5 sentences, a long title.
@@ -69,6 +70,19 @@ def run(subject, part=None, log=print):
                 warnings.append(f"{i}: long sentence ({len(s.split())} words): {s[:70]}...")
         if len((p.get("title") or "").split()) > 12:
             warnings.append(f"{i}: long title")
+    # figures: they draw, and every number in one is in its entry's facts
+    from ..publish import figures as figmod
+    for i, figs in figmod.load(subject).items():
+        if i not in entries:
+            problems.append(f"{i}: figures.json names no entry")
+            continue
+        for k, fig in enumerate(figs, 1):
+            for msg in figmod.validate(fig):
+                problems.append(f"{i}: figure {k}: {msg}")
+            extra = sorted(x for x in figmod.numbers(fig) if x not in allowed_numbers(entries[i])
+                           and not (x <= 12 and x == int(x)))
+            if extra:
+                problems.append(f"{i}: figure {k}: numbers not in its facts: {extra[:6]}")
     # imagine/picture per unit
     for u in (subject.units() or {}).get("units") or []:
         txt = " ".join((prose["entries"].get(i) or {}).get("text") or "" for i in u["entries"])

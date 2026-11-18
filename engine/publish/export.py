@@ -57,6 +57,8 @@ def export(subject, out=None, images=False, strict=False, log=print):
     outline = Outline.from_subject(subject)
 
     entries, pages, cited = [], {}, []
+    from .figures import load as load_figures
+    figs = load_figures(subject)
     for i in order:
         e = by_id.get(i)
         if not e:
@@ -67,6 +69,7 @@ def export(subject, out=None, images=False, strict=False, log=print):
         rec["title"] = titles[i]
         rec["text"] = p.get("text") or None
         rec["text_plain"] = resolve_refs(p.get("text") or "", titles) or None
+        rec["figures"] = figs.get(i) or []
         entries.append(rec)
         cited += _cited(e)
         for s in e.get("sources") or []:
