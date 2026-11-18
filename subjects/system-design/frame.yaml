@@ -18,11 +18,12 @@ parts:
     - gh>karanpratapsingh/system-design/README.md::system-design-interviews
     - gh>karanpratapsingh/system-design/README.md::what-is-system-design
     - Software architecture
-    share: 0.0272
+    share: 0.0265
   - key: latency-throughput-and-back-of-the-envel
     title: Latency, throughput and back-of-the-envelope numbers
     seeds:
     - Latency (engineering)
+    - Network throughput
     - gh>ByteByteGoHq/system-design-101/data/guides/10-system-design-tradeoffs-you-cannot-ignore.md
     - gh>ByteByteGoHq/system-design-101/data/guides/top-5-strategies-to-reduce-latency.md
     - gh>ByteByteGoHq/system-design-101/data/guides/top-5-trade-offs-in-system-designs.md
@@ -30,7 +31,7 @@ parts:
     - gh>ByteByteGoHq/system-design-101/data/guides/which-latency-numbers-should-you-know.md
     - Bandwidth (computing)
     - Orders of magnitude (data)
-    share: 0.0239
+    share: 0.0262
   - key: how-computers-talk-ip-tcp-and-udp
     title: 'How computers talk: IP, TCP and UDP'
     seeds:
@@ -47,7 +48,7 @@ parts:
     - gh>karanpratapsingh/system-design/README.md::tcp-and-udp
     - IP address
     - OSI model
-    share: 0.0392
+    share: 0.0381
   - key: the-domain-name-system
     title: The Domain Name System
     seeds:
@@ -56,7 +57,7 @@ parts:
     - gh>ByteByteGoHq/system-design-101/data/guides/how-does-the-domain-name-system-dns-lookup-work.md
     - gh>karanpratapsingh/system-design/README.md::domain-name-system-dns
     - rfc>1034
-    share: 0.015
+    share: 0.0146
   - key: http-https-and-tls
     title: HTTP, HTTPS and TLS
     seeds:
@@ -71,7 +72,7 @@ parts:
     - HTTPS
     - Transport Layer Security
     - rfc>9110
-    share: 0.0325
+    share: 0.0316
 - key: blocks
   title: Building blocks
   chapters:
@@ -84,7 +85,7 @@ parts:
     - gh>ByteByteGoHq/system-design-101/data/guides/top-6-load-balancing-algorithms.md
     - gh>ByteByteGoHq/system-design-101/data/guides/what-is-a-load-balancer.md
     - gh>karanpratapsingh/system-design/README.md::load-balancing
-    share: 0.0183
+    share: 0.0178
   - key: proxies-and-api-gateways
     title: Proxies and API gateways
     seeds:
@@ -96,7 +97,7 @@ parts:
     - gh>karanpratapsingh/system-design/README.md::api-gateway
     - gh>karanpratapsingh/system-design/README.md::proxy
     - Reverse proxy
-    share: 0.0242
+    share: 0.0235
   - key: caching
     title: Caching
     seeds:
@@ -114,7 +115,7 @@ parts:
     - gh>karanpratapsingh/system-design/README.md::caching
     - Memcached
     - Redis
-    share: 0.0422
+    share: 0.041
   - key: content-delivery-networks
     title: Content delivery networks
     seeds:
@@ -123,7 +124,7 @@ parts:
     - gh>ByteByteGoHq/system-design-101/data/guides/what-is-cdn-content-delivery-network.md
     - gh>ByteByteGoHq/system-design-101/data/guides/why-are-content-delivery-networks-cdn-so-popular.md
     - gh>karanpratapsingh/system-design/README.md::content-delivery-network-cdn
-    share: 0.0153
+    share: 0.0149
   - key: choosing-a-database
     title: Choosing a database
     seeds:
@@ -145,7 +146,7 @@ parts:
     - ACID
     - NoSQL
     - SQL
-    share: 0.0542
+    share: 0.0527
   - key: indexes-normalization-and-storage-engine
     title: Indexes, normalization and storage engines
     seeds:
@@ -159,7 +160,7 @@ parts:
     - B-tree
     - Denormalization
     - Log-structured merge-tree
-    share: 0.0297
+    share: 0.0289
   - key: storage-systems
     title: Storage systems
     seeds:
@@ -172,7 +173,7 @@ parts:
     - Erasure code
     - Object storage
     - RAID
-    share: 0.0264
+    share: 0.0257
 - key: scale
   title: Scaling and consistency
   chapters:
@@ -187,7 +188,7 @@ parts:
     - gh>karanpratapsingh/system-design/README.md::availability
     - gh>karanpratapsingh/system-design/README.md::clustering
     - gh>karanpratapsingh/system-design/README.md::scalability
-    share: 0.0244
+    share: 0.0238
   - key: replication
     title: Replication
     seeds:
@@ -197,7 +198,7 @@ parts:
     - gh>ByteByteGoHq/system-design-101/data/guides/read-replica-pattern.md
     - gh>karanpratapsingh/system-design/README.md::database-replication
     - Single point of failure
-    share: 0.0181
+    share: 0.0176
   - key: sharding-and-partitioning
     title: Sharding and partitioning
     seeds:
@@ -213,19 +214,20 @@ parts:
     - gh>karanpratapsingh/system-design/README.md::database-federation
     - gh>karanpratapsingh/system-design/README.md::sharding
     - paper>10.1145/258533.258660
-    share: 0.0364
+    share: 0.0354
   - key: the-cap-theorem-and-consistency
     title: The CAP theorem and consistency
     seeds:
     - Consistency model
     - Eventual consistency
+    - PACELC design principle
     - gh>ByteByteGoHq/system-design-101/data/guides/cap-theorem-one-of-the-most-misunderstood-terms.md
     - gh>ByteByteGoHq/system-design-101/data/guides/top-eventual-consistency-patterns-you-must-know.md
     - gh>karanpratapsingh/system-design/README.md::cap-theorem
     - gh>karanpratapsingh/system-design/README.md::pacelc-theorem
     - CAP theorem
     - paper>10.1145/564585.564601
-    share: 0.0239
+    share: 0.0262
   - key: consensus-ordering-and-distributed-trans
     title: Consensus, ordering and distributed transactions
     seeds:
@@ -243,7 +245,7 @@ parts:
     - Vector clock
     - paper>10.1145/279227.279229
     - paper>10.1145/359545.359563
-    share: 0.0408
+    share: 0.0397
   - key: how-the-big-distributed-data-systems-wor
     title: How the big distributed data systems work
     seeds:
@@ -261,7 +263,7 @@ parts:
     - paper>10.1145/1773912.1773922
     - paper>10.1145/2491245
     - paper>10.1145/945445.945450
-    share: 0.0397
+    share: 0.0386
 - key: msg
   title: Messaging, APIs and architecture
   chapters:
@@ -281,7 +283,7 @@ parts:
     - Message broker
     - Publish–subscribe pattern
     - RabbitMQ
-    share: 0.0389
+    share: 0.0378
   - key: event-streaming-and-kafka
     title: Event streaming and Kafka
     seeds:
@@ -293,7 +295,7 @@ parts:
     - Apache Kafka
     - Change data capture
     - Stream processing
-    share: 0.0236
+    share: 0.023
   - key: event-driven-architecture-event-sourcing
     title: Event-driven architecture, event sourcing and CQRS
     seeds:
@@ -304,8 +306,9 @@ parts:
     - gh>karanpratapsingh/system-design/README.md::event-driven-architecture-eda
     - gh>karanpratapsingh/system-design/README.md::event-sourcing
     - Command Query Responsibility Segregation
+    - Event store
     - Event-driven architecture
-    share: 0.0239
+    share: 0.0259
   - key: monoliths-microservices-and-service-disc
     title: Monoliths, microservices and service discovery
     seeds:
@@ -321,7 +324,7 @@ parts:
     - Service discovery
     - Service mesh
     - Service-oriented architecture
-    share: 0.0353
+    share: 0.0343
   - key: apis-rest-graphql-and-grpc
     title: 'APIs: REST, GraphQL and gRPC'
     seeds:
@@ -334,9 +337,12 @@ parts:
     - gh>ByteByteGoHq/system-design-101/data/guides/soap-vs-rest-vs-graphql-vs-rpc.md
     - gh>ByteByteGoHq/system-design-101/data/guides/top-5-common-ways-to-improve-api-performance.md
     - gh>karanpratapsingh/system-design/README.md::rest-graphql-grpc
+    - API
+    - GRPC
     - GraphQL
+    - REST
     - Remote procedure call
-    share: 0.033
+    share: 0.0402
   - key: real-time-communication
     title: Real-time communication
     seeds:
@@ -348,7 +354,7 @@ parts:
     - Push technology
     - WebSocket
     - rfc>6455
-    share: 0.0236
+    share: 0.023
 - key: reliab
   title: Reliability, security and operations
   chapters:
@@ -370,7 +376,7 @@ parts:
     - Leaky bucket
     - Rate limiting
     - Token bucket
-    share: 0.0442
+    share: 0.0429
   - key: service-levels-and-disaster-recovery
     title: Service levels and disaster recovery
     seeds:
@@ -379,10 +385,12 @@ parts:
     - gh>ByteByteGoHq/system-design-101/data/guides/logging-tracing-metrics.md
     - gh>karanpratapsingh/system-design/README.md::disaster-recovery
     - gh>karanpratapsingh/system-design/README.md::sla-slo-sli
+    - IT disaster recovery
+    - Service level indicator
     - Service-level agreement
     - Service-level objective
     - Site reliability engineering
-    share: 0.0236
+    share: 0.0284
   - key: containers-orchestration-and-deployment
     title: Containers, orchestration and deployment
     seeds:
@@ -392,11 +400,12 @@ parts:
     - gh>ByteByteGoHq/system-design-101/data/guides/top-5-most-used-deployment-strategies.md
     - gh>ByteByteGoHq/system-design-101/data/guides/what-is-k8s-kubernetes.md
     - gh>karanpratapsingh/system-design/README.md::virtual-machines-vms-and-containers
-    - Containerization
+    - Blue–green deployment
     - Docker (software)
     - Kubernetes
+    - OS-level virtualization
     - Virtual machine
-    share: 0.0294
+    share: 0.0313
   - key: authentication-and-security
     title: Authentication and security
     seeds:
@@ -411,8 +420,9 @@ parts:
     - Authorization
     - JSON Web Token
     - OAuth
+    - OpenID
     - Single sign-on
-    share: 0.0353
+    share: 0.037
   - key: algorithms-behind-the-systems
     title: Algorithms behind the systems
     seeds:
@@ -428,7 +438,7 @@ parts:
     - Snowflake ID
     - Universally unique identifier
     - paper>10.1145/362686.362692
-    share: 0.0347
+    share: 0.0338
 - key: q
   title: Design interview questions
   chapters:
@@ -437,13 +447,13 @@ parts:
     seeds:
     - gh>karanpratapsingh/system-design/README.md::url-shortener
     - URL shortening
-    share: 0.0058
+    share: 0.0057
   - key: design-pastebin
     title: Design Pastebin
     seeds:
     - gh>donnemartin/system-design-primer/solutions/system_design/pastebin/README.md
     - Pastebin
-    share: 0.0058
+    share: 0.0057
   - key: design-a-chat-service-like-whatsapp
     title: Design a chat service like WhatsApp
     seeds:
@@ -452,7 +462,7 @@ parts:
     - gh>karanpratapsingh/system-design/README.md::whatsapp
     - Instant messaging
     - WhatsApp
-    share: 0.0147
+    share: 0.0143
   - key: design-a-social-feed-like-twitter
     title: Design a social feed like Twitter
     seeds:
@@ -461,7 +471,7 @@ parts:
     - gh>ByteByteGoHq/system-design-101/data/guides/twitter-architecture-2022-vs-2012.md
     - gh>donnemartin/system-design-primer/solutions/system_design/twitter/README.md
     - gh>karanpratapsingh/system-design/README.md::twitter
-    share: 0.0153
+    share: 0.0149
   - key: design-a-video-streaming-service-like-ne
     title: Design a video streaming service like Netflix
     seeds:
@@ -471,82 +481,82 @@ parts:
     - gh>karanpratapsingh/system-design/README.md::netflix
     - Adaptive bitrate streaming
     - Streaming media
-    share: 0.0178
+    share: 0.0173
   - key: design-a-ride-hailing-service-like-uber
     title: Design a ride-hailing service like Uber
     seeds:
     - gh>ByteByteGoHq/system-design-101/data/guides/proximity-service.md
     - gh>ByteByteGoHq/system-design-101/data/guides/uber-tech-stack.md
     - gh>karanpratapsingh/system-design/README.md::uber
-    share: 0.0092
+    share: 0.0089
   - key: design-a-web-crawler
     title: Design a web crawler
     seeds:
     - gh>ByteByteGoHq/system-design-101/data/guides/how-do-search-engines-work.md
     - gh>donnemartin/system-design-primer/solutions/system_design/web_crawler/README.md
     - Web crawler
-    share: 0.0089
+    share: 0.0086
   - key: design-a-personal-finance-app-like-mint
     title: Design a personal finance app like Mint
     seeds:
     - gh>donnemartin/system-design-primer/solutions/system_design/mint/README.md
-    share: 0.0031
+    share: 0.003
   - key: design-a-cache-for-the-most-recent-searc
     title: Design a cache for the most recent search queries
     seeds:
     - gh>donnemartin/system-design-primer/solutions/system_design/query_cache/README.md
-    share: 0.0031
+    share: 0.003
   - key: design-a-sales-rank-by-category
     title: Design a sales rank by category
     seeds:
     - gh>donnemartin/system-design-primer/solutions/system_design/sales_rank/README.md
-    share: 0.0031
+    share: 0.003
   - key: design-the-data-structures-for-a-social
     title: Design the data structures for a social network
     seeds:
     - gh>donnemartin/system-design-primer/solutions/system_design/social_graph/README.md
-    share: 0.0031
+    share: 0.003
   - key: scale-a-system-to-millions-of-users-on-a
     title: Scale a system to millions of users on AWS
     seeds:
     - gh>ByteByteGoHq/system-design-101/data/guides/how-to-scale-a-website-to-support-millions-of-users.md
     - gh>donnemartin/system-design-primer/solutions/system_design/scaling_aws/README.md
-    share: 0.0061
+    share: 0.0059
   - key: design-gmail
     title: Design Gmail
     seeds:
     - gh>ByteByteGoHq/system-design-101/data/guides/design-gmail.md
-    share: 0.0031
+    share: 0.003
   - key: design-google-maps
     title: Design Google Maps
     seeds:
     - gh>ByteByteGoHq/system-design-101/data/guides/design-google-maps.md
-    share: 0.0031
+    share: 0.003
   - key: design-a-stock-exchange
     title: Design a stock exchange
     seeds:
     - gh>ByteByteGoHq/system-design-101/data/guides/design-stock-exchange.md
     - gh>ByteByteGoHq/system-design-101/data/guides/low-latency-stock-exchange.md
-    share: 0.0061
+    share: 0.0059
   - key: design-google-docs
     title: Design Google Docs
     seeds:
     - gh>ByteByteGoHq/system-design-101/data/guides/how-to-design-google-docs.md
-    share: 0.0031
+    share: 0.003
   - key: design-a-payment-system
     title: Design a payment system
     seeds:
     - gh>ByteByteGoHq/system-design-101/data/guides/payment-system.md
     - gh>ByteByteGoHq/system-design-101/data/guides/reconciliation-in-payment.md
-    share: 0.0061
+    share: 0.0059
   - key: design-a-notification-system
     title: Design a notification system
     seeds:
     - gh>ByteByteGoHq/system-design-101/data/guides/how-are-notifications-pushed-to-our-phones-or-pcs.md
-    share: 0.0031
+    share: 0.003
   - key: design-a-permission-system
     title: Design a permission system
     seeds:
     - gh>ByteByteGoHq/system-design-101/data/guides/how-do-we-design-a-permission-system.md
-    share: 0.0031
+    share: 0.003
   question: true

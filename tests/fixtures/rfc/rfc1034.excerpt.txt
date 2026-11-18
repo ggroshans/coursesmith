@@ -1,0 +1,150 @@
+Network Working Group                                     P. Mockapetris
+Request for Comments: 1034                                           ISI
+Obsoletes: RFCs 882, 883, 973                              November 1987
+
+
+                 DOMAIN NAMES - CONCEPTS AND FACILITIES
+
+
+
+1. STATUS OF THIS MEMO
+
+This RFC is an introduction to the Domain Name System (DNS), and omits
+many details which can be found in a companion RFC, "Domain Names -
+Implementation and Specification" [RFC-1035].  That RFC assumes that the
+reader is familiar with the concepts discussed in this memo.
+
+A subset of DNS functions and data types constitute an official
+protocol.  The official protocol includes standard queries and their
+responses and most of the Internet class data formats (e.g., host
+addresses).
+
+However, the domain system is intentionally extensible.  Researchers are
+continuously proposing, implementing and experimenting with new data
+types, query types, classes, functions, etc.  Thus while the components
+of the official protocol are expected to stay essentially unchanged and
+operate as a production service, experimental behavior should always be
+expected in extensions beyond the official protocol.  Experimental or
+obsolete features are clearly marked in these RFCs, and such information
+should be used with caution.
+
+The reader is especially cautioned not to depend on the values which
+appear in examples to be current or complete, since their purpose is
+primarily pedagogical.  Distribution of this memo is unlimited.
+
+2. INTRODUCTION
+
+This RFC introduces domain style names, their use for Internet mail and
+host address support, and the protocols and servers used to implement
+domain name facilities.
+
+2.1. The history of domain names
+
+The impetus for the development of the domain system was growth in the
+Internet:
+
+   - Host name to address mappings were maintained by the Network
+     Information Center (NIC) in a single file (HOSTS.TXT) which
+     was FTPed by all hosts [RFC-952, RFC-953].  The total network
+
+
+
+Mockapetris                                                     [Page 1]
+
+RFC 1034             Domain Concepts and Facilities        November 1987
+
+
+     bandwidth consumed in distributing a new version by this
+     scheme is proportional to the square of the number of hosts in
+     the network, and even when multiple levels of FTP are used,
+     the outgoing FTP load on the NIC host is considerable.
+     Explosive growth in the number of hosts didn't bode well for
+     the future.
+
+   - The network population was also changing in character.  The
+     timeshared hosts that made up the original ARPANET were being
+     replaced with local networks of workstations.  Local
+     organizations were administering their own names and
+     addresses, but had to wait for the NIC to change HOSTS.TXT to
+     make changes visible to the Internet at large.  Organizations
+     also wanted some local structure on the name space.
+
+   - The applications on the Internet were getting more
+     sophisticated and creating a need for general purpose name
+     service.
+
+
+The result was several ideas about name spaces and their management
+[IEN-116, RFC-799, RFC-819, RFC-830].  The proposals varied, but a
+common thread was the idea of a hierarchical name space, with the
+hierarchy roughly corresponding to organizational structure, and names
+using "."  as the character to mark the boundary between hierarchy
+levels.  A design using a distributed database and generalized resources
+was described in [RFC-882, RFC-883].  Based on experience with several
+implementations, the system evolved into the scheme described in this
+memo.
+
+The terms "domain" or "domain name" are used in many contexts beyond the
+DNS described here.  Very often, the term domain name is used to refer
+to a name with structure indicated by dots, but no relation to the DNS.
+This is particularly true in mail addressing [Quarterman 86].
+
+2.2. DNS design goals
+
+The design goals of the DNS influence its structure.  They are:
+
+   - The primary goal is a consistent name space which will be used
+     for referring to resources.  In order to avoid the problems
+     caused by ad hoc encodings, names should not be required to
+     contain network identifiers, addresses, routes, or similar
+     information as part of the name.
+
+   - The sheer size of the database and frequency of updates
+     suggest that it must be maintained in a distributed manner,
+     with local caching to improve performance.  Approaches that
+
+
+
+Mockapetris                                                     [Page 2]
+
+RFC 1034             Domain Concepts and Facilities        November 1987
+
+
+     attempt to collect a consistent copy of the entire database
+     will become more and more expensive and difficult, and hence
+     should be avoided.  The same principle holds for the structure
+     of the name space, and in particular mechanisms for creating
+     and deleting names; these should also be distributed.
+
+   - Where there tradeoffs between the cost of acquiring data, the
+     speed of updates, and the accuracy of caches, the source of
+     the data should control the tradeoff.
+
+   - The costs of implementing such a facility dictate that it be
+     generally useful, and not restricted to a single application.
+     We should be able to use names to retrieve host addresses,
+     mailbox data, and other as yet undetermined information.  All
+     data associated with a name is tagged with a type, and queries
+     can be limited to a single type.
+
+   - Because we want the name space to be useful in dissimilar
+     networks and applications, we provide the ability to use the
+     same name space with different protocol families or
+     management.  For example, host address formats differ between
+     protocols, though all protocols have the notion of address.
+     The DNS tags all data with a class as well as the type, so
+     that we can allow parallel use of different formats for data
+     of type address.
+
+   - We want name server transactions to be independent of the
+     communications system that carries them.  Some systems may
+     wish to use datagrams for queries and responses, and only
+     establish virtual circuits for transactions that need the
+     reliability (e.g., database updates, long transactions); other
+     systems will use virtual circuits exclusively.
+
+   - The system should be useful across a wide spectrum of host
+     capabilities.  Both personal computers and large timeshared
+     hosts should be able to use the system, though perhaps in
+     different ways.
+

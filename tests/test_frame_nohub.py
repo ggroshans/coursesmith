@@ -88,3 +88,38 @@ class NoHubFrameTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class RedirectedSeedTest(unittest.TestCase):
+    """Wikipedia redirects some titles ("Representational state transfer" is the article "REST"); the seed named in
+    subject.yaml must still land in its chapter."""
+
+    YAML = """slug: tiny
+title: Tiny
+frame:
+  parts:
+    - key: api
+      title: APIs
+      chapters:
+        - {title: REST and friends, seeds: ["Representational state transfer", "GraphQL"]}
+        - {title: Other, seeds: ["Remote procedure call"]}
+"""
+
+    def test_redirected_seeds_are_assigned_not_left_unassigned(self):
+        with temp_root():
+            subj = make_subject("tiny", self.YAML)
+            st = Store()
+            class Client(FakeWikiClient):
+                def link_meta(self, titles):
+                    return {"Representational state transfer": "REST"}, {
+                        t if t != "Representational state transfer" else "REST": {"categories": [], "description": ""}
+                        for t in titles}
+
+                def parse_page(self, title):
+                    return wiki_page(title, "<div class='mw-parser-output'><p>Some text here about it.</p></div>", 1)
+            doc = FB.build(subj, scout=0, log=lambda *a: None, client=Client(), store=st, registry=FakeRegistry(FakeAdapter()))
+            chapters = {c["title"]: c["seeds"] for p in doc["parts"] for c in p["chapters"]}
+            self.assertIn("REST", chapters["REST and friends"])
+            self.assertEqual(sorted(chapters["REST and friends"]), ["GraphQL", "REST"])
+            report = (subj.reports_dir / "frame_report.md").read_text()
+            self.assertNotIn("REST (", report.split("## Unassigned")[1])  # it is not listed as unassigned

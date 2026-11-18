@@ -186,3 +186,34 @@ class RfcAdapterTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class OldRfcLayoutTest(unittest.TestCase):
+    """RFC 1034 (1987): paragraphs start at column 0, sections are numbered with one space and no 'Abstract' heading.
+    Its first plain heading in the file is the Index on the last page, which once made the whole body disappear."""
+
+    def setUp(self):
+        self.raw = (RFC / "rfc1034.excerpt.txt").read_text()
+        self.doc = parse_rfc_text(self.raw + "\n\nIndex\n\n   Acknowledgments\n", 1034, "Domain names - concepts and facilities")
+
+    def test_body_survives_a_back_matter_heading_later_in_the_file(self):
+        self.assertGreater(len(self.doc["text"]), 1500)
+        self.assertIn("This RFC introduces domain style names", self.doc["text"])
+
+    def test_numbered_sections_and_status_dropped(self):
+        t = self.doc["text"]
+        self.assertIn("\n## 2. INTRODUCTION\n", t)
+        self.assertIn("\n### 2.1. The history of domain names\n", t)
+        self.assertNotIn("STATUS OF THIS MEMO", t)
+        self.assertNotIn("official protocol includes standard queries", t)  # the status section is dropped with it
+
+    def test_page_breaks_inside_a_list_do_not_split_the_paragraph(self):
+        t = self.doc["text"]
+        self.assertNotIn("[Page 1]", t)
+        self.assertNotIn("RFC 1034             Domain Concepts", t)
+        self.assertIn("bandwidth consumed in distributing a new version", t)
+
+    def test_front_matter_style_is_still_found_first(self):
+        d = parse_rfc_text((RFC / "rfc2119.txt").read_text(), 2119, "T")
+        self.assertIn("## Abstract", d["text"])
+        self.assertNotIn("## Status of this Memo", d["text"])

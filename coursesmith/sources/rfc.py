@@ -41,6 +41,36 @@ RFC_DROP = DOC_DROP_SECTIONS | {"status of this memo", "copyright notice", "full
                                 "authors' addresses", "author's address", "authors addresses"}
 
 
+FRONT_HEAD = re.compile(r"^(Abstract|Status of This Memo|Copyright Notice|Table of Contents)\s*$", re.I)
+
+
+def _heading_at(lines, i, front_only=False):
+    """(number or None, title) when line i opens a section, else None. With front_only, a heading that can start
+    the body of the document: a front-matter title or any numbered section (never the back matter, such as
+    Acknowledgments or Index, which an old RFC may not reach until its last pages)."""
+    l = lines[i]
+    if not l.strip() or l.startswith(" "):
+        return None
+    head = None
+    m = NUM_HEAD.match(l) or APP_HEAD.match(l)
+    if m:
+        head = (m.group(1), m.group(2))
+    elif PLAIN_HEAD.match(l.strip()):
+        head = (None, l.strip())
+    else:
+        m = OLD_NUM_HEAD.match(l)
+        nxt_blank = i + 1 >= len(lines) or not lines[i + 1].strip()
+        if m and nxt_blank and m.group(2)[:1].isupper():
+            head = (m.group(1), m.group(2))
+    if head and head[0] is not None:
+        ttl = head[1]
+        if ttl.endswith((".", ",", ":")) or re.search(r"\.{3,}", ttl) or len(ttl.split()) > 14:
+            return None  # a sentence that starts with a number, or a table-of-contents dot leader
+    if head and front_only and head[0] is None and not FRONT_HEAD.match(head[1]):
+        return None
+    return head
+
+
 def _strip_num(title):
     """A heading's title without the `1.2.` / `A.1.` / `Appendix B.` number this module put in front of it."""
     return re.sub(r"^(?:Appendix\s+)?(?:\d+|[A-Z])(?:\.\d+)*\.\s+", "", title.strip())
@@ -108,7 +138,7 @@ def parse_rfc_text(raw, number, title=""):
     """Plain-text RFC -> {text, name, links, lead_links, anchors, citations, sections, code_blocks}."""
     lines = [l for l in raw.replace("\r\n", "\n").replace("\f", "\n").split("\n")
              if not FOOTER.match(l) and not HEADER.match(l)]
-    start = next((i for i, l in enumerate(lines) if PLAIN_HEAD.match(l.strip()) and not l.startswith(" ")), 0)
+    start = next((i for i in range(len(lines)) if _heading_at(lines, i, front_only=True)), 0)
     head_block, lines = lines[:start], lines[start:]
     if not title:
         centered = [l.strip() for l in head_block if l.startswith("      ") and l.strip()]
@@ -117,22 +147,7 @@ def parse_rfc_text(raw, number, title=""):
 
     sections, cur = [], {"level": 2, "title": "", "lines": []}
     for i, l in enumerate(lines):
-        head = None  # (number or None, title)
-        if l.strip() and not l.startswith(" "):
-            m = NUM_HEAD.match(l) or APP_HEAD.match(l)
-            if m:
-                head = (m.group(1), m.group(2))
-            elif PLAIN_HEAD.match(l.strip()):
-                head = (None, l.strip())
-            else:
-                m = OLD_NUM_HEAD.match(l)
-                nxt_blank = i + 1 >= len(lines) or not lines[i + 1].strip()
-                if m and nxt_blank and m.group(2)[:1].isupper():
-                    head = (m.group(1), m.group(2))
-        if head and head[0] is not None:
-            ttl = head[1]
-            if ttl.endswith((".", ",", ":")) or re.search(r"\.{3,}", ttl) or len(ttl.split()) > 14:
-                head = None  # a sentence that starts with a number, or a table-of-contents dot leader
+        head = _heading_at(lines, i)
         if head:
             num, ttl = head
             sections.append(cur)

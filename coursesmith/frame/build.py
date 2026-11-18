@@ -203,7 +203,10 @@ def build(subject, scout=100, refresh=False, log=print, client=None, store=None,
     hist_key = next((p["key"] for p in parts_cfg if p.get("history")), None)
     found_key = next((p["key"] for p in parts_cfg if p.get("foundations")), None)
     assign = {}
-    pinned_part = {t: p["key"] for p in parts_cfg for ch in p.get("chapters") or [] for t in ch.get("seeds") or []}
+    # a seed Wikipedia redirects ("Representational state transfer" -> "REST") is a candidate under its canonical
+    # title, so it is pinned under that title too
+    pinned_part = {store.canonical(t): p["key"] for p in parts_cfg for ch in p.get("chapters") or []
+                   for t in ch.get("seeds") or []}
     for t, c in kept.items():
         if t in pinned_part:
             assign[t] = pinned_part[t]
@@ -234,7 +237,7 @@ def build(subject, scout=100, refresh=False, log=print, client=None, store=None,
     weights = {}
     for p in parts_cfg:
         members = [t for t in kept if assign.get(t) == p["key"]]
-        chapters = _chapters(p, members, kept)
+        chapters = _chapters(p, members, kept, store.canonical)
         fp = {"key": p["key"], "title": p["title"], "chapters": chapters}
         if p.get("question"):
             fp["question"] = True
@@ -285,12 +288,12 @@ def build(subject, scout=100, refresh=False, log=print, client=None, store=None,
     return doc
 
 
-def _chapters(p, members, kept):
+def _chapters(p, members, kept, canon=lambda t: t):
     """Chapters of one part: by chapter hints if given, else by category clustering."""
     chs_cfg = p.get("chapters") or []
     groups = defaultdict(list)
     if chs_cfg:
-        pinned = {t: ch["title"] for ch in chs_cfg for t in ch.get("seeds") or []}
+        pinned = {canon(t): ch["title"] for ch in chs_cfg for t in ch.get("seeds") or []}
         for t in members:
             c = kept[t]
             if t in pinned:

@@ -1,9 +1,1 @@
 title,score,reasons,description,suggested,label
-API,0,,Connection between computers or programs,,
-Blue–green deployment,0,,Software deployment method,,
-GRPC,1,desc-term+1,Cross-platform binary RPC protocol,,
-Network throughput,2,title-term+2,Rate at which data is processed in communication networks,,
-OpenID,1,desc-term+1,Open and decentralized authentication protocol standard,,
-PACELC design principle,2,title-term+2,Theorem in theoretical computer science,,
-REST,1,desc-term+1,Architectural style for client-server applications,,
-Service level indicator,0,,Measure of service quality,,
