@@ -1,0 +1,55 @@
+{
+ "entries": {
+  "sysd-scale-067": {
+   "title": "Scale-out storage: how big a cluster can stay consistent",
+   "text": "How large can a cluster grow before its copies of the data disagree? In scale-out storage, scalability is the largest cluster size that still guarantees full consistency, meaning only one valid version of the stored data in the whole cluster. Clusters that update copies asynchronously give \"lazy\" redundancy and are called eventually consistent. Their writes invalidate other copies without always waiting for acknowledgements, and reads typically do not check every copy, so a read can miss the preceding write. This model, taken up in {{ref:sysd-scale-097}}, suits designs that rate availability above consistency, such as web caches. It should be avoided for classical transaction-oriented applications."
+  },
+  "sysd-scale-071": {
+   "title": "Scheduled downtime is still downtime",
+   "text": "A site can claim very high availability simply by not counting its maintenance. Many do exactly that, excluding scheduled downtime from their availability calculations. But downtime, any period when a system is unavailable, is downtime whether or not it is scheduled. Scheduled downtime typically comes from disruptive maintenance, such as patches or configuration changes that need a reboot. Unscheduled downtime typically arises from a physical event such as a hardware or software failure, power outage, over-temperature shutdown or severed network connection. Truly continuous availability is rare and costly."
+  },
+  "sysd-scale-069": {
+   "title": "Availability and the nines: a yearly budget of downtime",
+   "text": "Five nines sounds like a boast. It is really a budget of about 5.3 minutes of downtime in a whole year. Availability is the percentage of time a system is up, usually measured over a year and often quoted in nines. It equals uptime divided by the sum of uptime and downtime. 90% is one nine, 99% is two nines and 99.9% is three, and each added nine makes the target exponentially more stringent. Per year, 99.9% allows about 9 hours of downtime and 99.99% about 53 minutes. A mnemonic says five nines allows approximately 5 minutes. Multiply or divide by 10 for other levels: four nines is 50 minutes and six nines is 0.5 minutes. Service level agreements often state monthly downtime or availability, so service credits can match monthly billing cycles. Uptime and availability are not always the same, because a system can be up while its service is not available, as in a network outage."
+  },
+  "sysd-scale-134": {
+   "title": "Mean time to repair versus time to recovery",
+   "text": "A 24-hour repair promise with 6 days of added delays is no better than a 7-day recovery promise. The gap lies in what each clock measures. Mean time to repair (MTTR) is the average time needed to repair a failed component or device, a basic measure of how maintainable a repairable item is. It runs only from when repairs begin, and it generally excludes lead time for parts. Mean time to recovery runs from discovering a failure to resuming operation. With equal MTBF, a 24-hour MTTR gives higher operational availability than a 7-day one."
+  },
+  "sysd-scale-070": {
+   "title": "Measuring availability: what users see versus what the admin reports",
+   "text": "A system can be up all year and still be hit by a 9-hour network failure at peak usage. Users see it as unavailable, while the administrator claims 100% uptime. By the true definition, that system is approximately 99.9% available, or three nines: 8751 hours of available time out of 8760 hours. Measured availability depends on interpretation. Users often deem a system with performance problems partly or wholly unavailable even while it functions, and unavailable application functions may go unnoticed by administrators. A true measure is therefore holistic, and it needs comprehensive tools for watching the system that are themselves highly available."
+  },
+  "sysd-scale-072": {
+   "title": "Recovery time and recovery point: how long and how much",
+   "text": "Some outages end in minutes. Others never end: recovery time can be infinite, for example when a fire or flood destroys a data center and no secondary data center exists to recover to. Recovery time, also called {{ref:sysd-reliab-092}} (RTO) or estimated time of repair, is the time for a planned outage or for full recovery from an unplanned one. It is closely related to availability. A second target, the {{ref:sysd-reliab-093}}, sets the acceptable data loss for various failure events, a concern separate from data availability. Some users can tolerate service interruptions but not data loss, and a service level agreement formalizes an organization's availability objectives and requirements."
+  },
+  "sysd-scale-076": {
+   "title": "Active-active and active-passive clusters",
+   "text": "A cluster with two nodes can use them in two ways. The two most common high availability clustering configurations are active-active and active-passive. An active-active cluster has at least two nodes, all running the same kind of service at the same time. Its main purpose is load balancing: a load balancer spreads the work so that no node is overloaded. Because more nodes are available to serve, throughput and response times improve. An active-passive cluster also has at least two nodes, but not all of them are active. With two nodes, if the first is active, the second must be passive or on standby."
+  },
+  "sysd-scale-074": {
+   "title": "Sequence versus parallel: how availability adds up",
+   "text": "Chain two components that are each up 99.9% of the time, and the service is up less often than either. A service made of failure-prone components has an overall availability that depends on whether they sit in sequence or in parallel. In sequence, total availability is the product of the components' availabilities, so it decreases: two components at 99.9% each give 99.8%. In parallel, total availability is 1 minus the product of the components' unavailabilities, so it increases: the same two components at 99.9% each give 99.9999%. This is the arithmetic behind redundancy. A part added in series costs availability, and a copy added in parallel buys it."
+  },
+  "sysd-scale-135": {
+   "title": "Forms of redundancy: hardware, information, time and software",
+   "text": "Computing has four major forms of redundancy: hardware (dual or triple modular) and information (error detection and correction). The others are time (repeating an operation or sending several copies of data) and software (N-version programming). Dissimilar redundancy uses different things instead of copies of the same thing, because they are unlikely to share identical flaws. It is common for software, since identical software contains identical flaws. Geographic redundancy separates spare devices so power outages, floods, fires or storms are less likely to disable most or all of the system. Cloud providers use separations from over 621 miles (999 km) down to buildings over 300 feet (91 m) apart."
+  },
+  "sysd-scale-137": {
+   "title": "Capacity planning: matching resources to demand",
+   "text": "Too little capacity loses users, and too much sits idle. Capacity planning is the process of determining the capacity needed to meet changing demand. In IT it estimates the storage, hardware, software and connection resources required over a future period. A mismatch leaves resources under-utilized or demand unmet, and planning aims to minimize that gap. Four strategies exist: lead adds capacity as demand grows, lag adds only at full capacity, match adds small amounts as demand changes, and adjustment. Lead is risky when demand is unpredictable, and lag can lose users."
+  },
+  "sysd-scale-063": {
+   "title": "Three bottlenecks that stop a system from growing",
+   "text": "A system can stall on three kinds of weak spot. A scalability bottleneck is a part of the design, such as a centralized, slow or tightly coupled component, that stops a system from growing. A centralized component is the first, and it can also become a part whose failure stops everything, as {{ref:sysd-scale-056}} describes. High-latency components, which perform time-consuming operations, are the second. Tight coupling is the third, because it makes components difficult to scale. To build a scalable system, follow the principles of statelessness, {{ref:sysd-msg-143}} and asynchronous processing."
+  },
+  "sysd-scale-077": {
+   "title": "Clustering versus load balancing: servers that know each other",
+   "text": "Servers in a cluster are aware of each other. Servers behind a load balancer are not, and they simply react to the requests it sends them. That awareness is the line between the two ideas. Clustering links servers that work together toward a common purpose, and it provides redundancy and boosts capacity and availability. Load balancing shares traits with clustering but is a different process, since it spreads requests across servers. The two combine well. Load balancing can be used together with clustering, and also with independent servers that share a purpose such as running a website, business application or web service."
+  }
+ },
+ "reviews": {
+  "scalability-and-availability": "Scalability asks how a system grows, and high availability asks how it stays up. Growth comes from adding nodes or adding resources to a node, using strategies such as caching and sharding, and it meets limits that Amdahl's law and the Universal Scalability Law describe. Staying up rests on redundancy, whose benefit grows when components sit in parallel and shrinks when they sit in sequence. Availability is quoted in nines and judged by what users see, and it depends on how long parts last between failures and how fast they are repaired. Clusters, load balancers and capacity planning are the working tools that turn these ideas into designs."
+ }
+}

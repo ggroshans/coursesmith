@@ -144,7 +144,7 @@ targets:
   word_ranges: {"Worked example": [300, 700]}
   fact_caps: {"Worked example": 16, "Case study": 12}
 ordering: pedagogical
-edition: {images: false, questions: true, proportional_clock: false, paragraphs: false,
+edition: {images: false, questions: true, proportional_clock: false, paragraphs: true,
           tagline: "System design, one unit a day."}
 verification:
   works: openalex

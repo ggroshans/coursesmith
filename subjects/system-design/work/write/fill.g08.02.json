@@ -1,0 +1,78 @@
+{
+ "entries": {
+  "sysd-blocks-184": {
+   "title": "Skip list: a linked list with shortcuts",
+   "text": "A skip list gives O(log n) average search and insertion in an ordered sequence of n elements. It is a probabilistic data structure built as a linked hierarchy of subsequences, each skipping fewer elements than the one above. The bottom layer is an ordinary ordered list; each element appears one layer up with a fixed probability p. A search starts in the top list and moves right until the current element is greater than or equal to the target, then drops a level. Unlucky coin flips can unbalance it, so there is no absolute worst-case guarantee. Redis uses them for ordered sets, and RocksDB for its default memtable."
+  },
+  "sysd-blocks-109": {
+   "title": "LSM-tree writes and compaction: buffer, flush, merge",
+   "text": "An LSM tree does not edit data on disk. Every write lands first in an in-memory component, often a skip list or B+ tree. When that buffer is full, it is flushed sequentially to disk as an immutable sorted component, which avoids costly random writes. To keep data safe across a crash, the system may record every incoming write in a write-ahead log before adding it to the buffer.\n\nAs data accumulates on disk, a merge process, much like merge sort, consolidates entries across levels. Moving level 0 segments into level 1 is called compaction. Since components are immutable, an update is treated as a new write, and a delete is marked with a tombstone entry. Obsolete entries and tombstones are removed later, during merging.\n\nHow often to merge is a policy choice. Leveling keeps one component per level and merges often, which gives fewer components but more write amplification, meaning data is rewritten more often. Tiering allows several components per level and merges less often, which lowers write amplification but raises read costs."
+  },
+  "sysd-blocks-106": {
+   "title": "B-tree insertion and deletion: split and merge",
+   "text": "A B-tree grows from the top: when a split reaches the root, the tree gets taller. Inserting starts with a search for the right leaf. If the leaf has fewer than the maximum number of elements, the key goes in, in order. Otherwise the node splits into two around a median key, and the median moves up to the parent as a separation value. The parent may split in turn. In deletion, a node left below the minimum takes an element from a sibling that can spare one, which is called a rotation. Otherwise it merges with a sibling, and merging can continue up to the root."
+  },
+  "sysd-blocks-091": {
+   "title": "Bitmap index: bit arrays for values that repeat",
+   "text": "Common indexes such as B+ trees work best when the indexed values do not repeat, or repeat only a few times. A bitmap index is built for the opposite case: values that repeat very frequently, such as a field with at most three distinct values. It stores most of its data as bit arrays and answers queries by performing bitwise logical operations on them. For such variables, it can have a significant performance advantage over the commonly used trees."
+  },
+  "sysd-blocks-087": {
+   "title": "Covering index: answering from the index alone",
+   "text": "An index normally only points the way, and the database still has to read the row it points to. A covering index removes that last step: it contains all the fields a query needs, so the query is answered without reading the table record. To find the Name for ID 13, an index on (ID) still requires reading the record, but an index on (ID, Name) does not. The speedup can be dramatic, but the extra keys make the index large and slow down inserts and updates. Some systems, with an INCLUDE clause, keep non-key fields only at the leaf level for a smaller covering index."
+  },
+  "sysd-blocks-100": {
+   "title": "Dense and sparse indexes: every row or some rows",
+   "text": "Should an index have an entry for every row, or only for some? A dense index holds the search key and a pointer to the actual record for every row. It needs more write-time maintenance and more memory than a sparse one, but values are found with a binary search and the data need not be ordered. A sparse index has entries for only some records, such as one per data block. It needs less maintenance, makes inserts, updates and deletes faster and uses less memory. Finding data through it is slower, because a scan across the page typically follows the binary search."
+  },
+  "sysd-blocks-089": {
+   "title": "Indexes and database constraints: rules enforced by indexes",
+   "text": "Many of a database's rules are enforced by indexes. Databases use them for constraints such as UNIQUE, EXCLUSION, PRIMARY KEY and FOREIGN KEY. Declaring an index UNIQUE creates an implicit constraint on the underlying table. Databases usually create an index implicitly on columns declared PRIMARY KEY, and some can reuse an existing index to enforce that constraint. Many require both the referencing and the referenced columns of a FOREIGN KEY to be indexed, which improves inserts, updates and deletes on the tables involved. An EXCLUSION constraint ensures that a predicate holds for no other record; it can implement UNIQUE or rules such as no overlapping time ranges."
+  },
+  "sysd-blocks-092": {
+   "title": "Types of database indexes beyond trees and hashes",
+   "text": "Beyond the main tree and hash designs, databases use many other index types. A dense index holds a key-pointer pair for every record of the sorted data file, while a sparse index holds one only for every block. A reverse-key index reverses the key before entering it, so 24538 becomes 83542, which suits sequence numbers whose new values increase monotonically. A primary index holds the table's key fields with a pointer to the non-key fields and is created automatically with the table. A secondary index covers fields that are neither ordering nor key fields."
+  },
+  "sysd-blocks-098": {
+   "title": "Pessimistic and optimistic locking: assume the worst or the best",
+   "text": "Locks keep data consistent in a multi-user environment by preventing simultaneous modifications. Pessimistic locking assumes conflicts will occur, so it locks the data before any change and blocks other users until the lock is released. Optimistic locking assumes conflicts are rare. It lets multiple users access data at once, checks for conflicts when changes are committed and rolls the operation back if one is detected. Pessimistic locking is safer for the data but can hurt performance, while optimistic locking is better for efficiency. Good practice is to hold locks for the minimum time, lock rows rather than whole tables, and retry transactions that fail due to conflicts."
+  },
+  "sysd-blocks-110": {
+   "title": "LSM-tree lookups and range queries: checking newest first",
+   "text": "A point lookup in an LSM tree checks the in-memory component first, then the disk levels in order. Newer levels come before older ones because they hold the latest updates and deletions. It stops as soon as it finds the key. A Bloom filter kept for each on-disk component can show that a key is definitely absent, so the component is skipped unread. Without Bloom filters a point lookup costs O(L), because each level must be searched; with them, a lookup of an existing key costs O(1). A range query scans each component and merges the results in a priority queue to reconcile duplicates, updates and deletes."
+  },
+  "sysd-blocks-101": {
+   "title": "Database keys: primary, candidate, foreign and surrogate",
+   "text": "A key is a column or group of columns that identifies rows of a table. A primary key uniquely identifies every row, and a composite key is a primary key made up of multiple columns. A candidate key is a set of attributes that identifies rows uniquely. A super key is the set of all keys that can do so. Keys that are not the primary key are alternate keys. A foreign key is a reference to the primary key of another table. A surrogate key is a system-generated value that identifies each entry when no other column could hold the properties of a primary key."
+  },
+  "sysd-blocks-086": {
+   "title": "Composite index column order: why it matters",
+   "text": "Think of a phone book ordered by city, then last name, then first name. Listing one city's numbers is easy, but finding every entry for one last name is tedious. An index on several columns behaves the same way. Row identifiers can be retrieved using only the first indexed column. On most databases, it is not possible or efficient to use only the second or a later column. With an index on (city, last_name, first_name), a search on city and first_name uses only city, then checks first_name sequentially. To improve performance, create the index with its columns in the order of the search columns."
+  },
+  "sysd-blocks-088": {
+   "title": "Full table scans and the limits of indexes",
+   "text": "Without an index, a query on last_name must look at that column on every row, which is a full table scan. With an index, the database follows the index structure, which is much cheaper. But a leading wildcard such as LIKE '%@wikipedia.org' cannot use the index, which assumes words go from left to right, so the database performs a full index scan. An extra index on reverse(email_address), queried with the reversed pattern, puts the wildcard at the right-most part, where the index works. With wildcards on both sides, a sequential search takes O(N) time; trigrams, three-letter fragments of text, in a GIN index lower lookup to about O(logN)."
+  },
+  "sysd-blocks-102": {
+   "title": "Functional dependencies: which columns determine which",
+   "text": "Which columns depend on which? A functional dependency is a relationship between two attributes, typically between the primary key and a non-key attribute within a table. Second normal form requires that every non-candidate-key attribute depend on the whole candidate key, not just part of it, so the table must have no partial dependency. A transitive functional dependency occurs when a non-key attribute determines another attribute, such as Author Nationality depending on Author, which in turn depends on Title. Third normal form does not permit it. Both rules are part of a longer ladder (see {{ref:sysd-blocks-095}})."
+  },
+  "sysd-blocks-095": {
+   "title": "Normal forms: a ladder of stricter rules",
+   "text": "Normal forms are a ladder of increasingly strict rules for relations, from first normal form to sixth normal form. From least to most normalized they run UNF (unnormalized), 1NF, 2NF, 3NF, EKNF, BCNF, 4NF, ETNF, 5NF, DKNF and 6NF. Informally, a relation is called normalized if it meets third normal form. Normal forms beyond 4NF are mainly of academic interest, because the problems they solve rarely appear in practice.\n\n1NF requires scalar columns that cannot hold relations or composite values. 2NF requires every non-prime attribute, one that belongs to no candidate key, to depend on the whole of every candidate key. 3NF requires every non-trivial functional dependency to begin with a superkey, a set of columns that identifies rows uniquely, or to end with a prime attribute. BCNF is a slightly stronger version of 3NF, sometimes called 3.5NF. It addresses anomalies that 3NF as originally defined does not handle. It requires 3NF and that every functional dependency X to Y has a superkey X.\n\nReal-world designs cannot always comply perfectly. Singh advises that if one of the first three rules is violated, the application must anticipate problems such as redundant data and inconsistent dependencies. The history is short: Codd introduced 1NF in 1970, 2NF and 3NF in 1971, and, with Boyce, the Boyce-Codd normal form in 1974. Fagin added 4NF in 1977 and 5NF in 1979."
+  },
+  "sysd-blocks-096": {
+   "title": "Normalizing a table to third normal form, step by step",
+   "text": "Normalization is climbing a ladder, one rung at a time. A higher normal form cannot be reached until the previous levels are satisfied, although some steps can be skipped when the data is already partly normalized. The example follows a table of books.\n\nFirst normal form needs each field to hold a single value, so a Subject field holding a set of values is extracted into a separate Title-Subject table. Second normal form needs every non-candidate-key attribute to depend on the whole candidate key. Price depended on Format as well as Title, so Price moves to its own table keyed by Title and Format. Third normal form removes transitive dependencies: Author Nationality depends on Author, which depends on Title, so nationality, publisher country and genre name each move into their own tables. For fourth normal form, suppose every book is offered in each location. Title is then not bound to a Location, so the Franchisee-Book-Location table is split into Franchisee-Book and Franchisee-Location. Fixing a violation of one normal form often also fixes a violation of a higher one."
+  },
+  "sysd-blocks-097": {
+   "title": "Sixth normal form and columnar stores",
+   "text": "In sixth normal form, every row holds just the primary key and at most one other attribute. Its drawback is a proliferation of tables. A 5NF table with one key column and N attributes needs N tables, and multi-field updates, inserts and deletes touch several tables. So 6NF should not be used for online transaction processing. Data warehouses, which do not permit interactive updates, use an internal 6NF representation in some DBMSs, known as a columnar data store. Column-oriented storage can save significant space through compression when a column has far fewer unique values than the table has rows, and it speeds up range queries."
+  }
+ },
+ "openers": {
+  "indexes-normalization-and-storage-engine": "A database is only as fast as the structure it uses to find a row, and only as trustworthy as the way its tables are laid out. This chapter covers both. Normalization structures a relational database to reduce redundancy and improve integrity, and the anomalies it prevents are the side effects of getting that wrong. An index is a data structure that finds rows quickly at the cost of extra writes and storage, and it comes in many shapes: hash tables, B-trees, inverted indexes and R-trees. Underneath sits the storage engine, the part of the database responsible for putting data into permanent storage, with a write-ahead log recording changes before they reach the data."
+ },
+ "reviews": {
+  "indexes-normalization-and-storage-engine": "Two questions run through this chapter: where each fact lives, and how fast it can be found. Normalization stores each fact once and removes the anomalies that repeated data causes, while denormalization gives some of that back on purpose to make reads faster. Indexes buy fast reads with slower writes and extra storage, and the structure sets the terms: B-trees and their variants keep disk reads few, while LSM trees absorb writes in memory and merge them later. Hash tables and skip lists serve in-memory lookups, and inverted indexes, bitmap indexes and R-trees fit text, repeated values and space. Beneath all of them the storage engine does the writing, and a write-ahead log means a crash does not lose a committed change."
+ }
+}

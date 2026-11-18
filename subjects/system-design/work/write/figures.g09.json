@@ -1,0 +1,245 @@
+{
+ "sysd-blocks-140": [
+  {
+   "type": "layers",
+   "caption": "Each layer down from the CPU is slower and cheaper than the one above.",
+   "sent_ids": [
+    "ea692c4b99fc",
+    "89844db72bba",
+    "3073f717c874",
+    "29c6403586d9",
+    "f8204680fd9b",
+    "5534f01a4f21",
+    "5f240ba5a172",
+    "97fd9530fb11",
+    "dd4bc928be5f",
+    "6e03c85a5920",
+    "eeb389a4d798",
+    "c839e8700696",
+    "e84e222ebb8f"
+   ],
+   "layers": [
+    [
+     "Primary storage",
+     "Read directly by the CPU; nanoseconds"
+    ],
+    [
+     "Secondary storage",
+     "HDD or SSD; milliseconds per byte"
+    ],
+    [
+     "Tertiary storage",
+     "Robotic arm mounts media; 5-60 seconds"
+    ],
+    [
+     "Offline storage",
+     "Removed media; needs human interaction"
+    ]
+   ],
+   "top": "Faster",
+   "bottom": "Slower and cheaper"
+  }
+ ],
+ "sysd-blocks-193": [
+  {
+   "type": "tree",
+   "caption": "Non-volatile memory splits by how a location is reached.",
+   "sent_ids": [
+    "d34a448525ab"
+   ],
+   "root": "Non-volatile memory",
+   "children": {
+    "Electrically addressed": {
+     "Flash memory": null,
+     "Read-only memory": null
+    },
+    "Mechanically addressed": {
+     "Hard disks": null,
+     "Optical discs": null,
+     "Magnetic tape": null,
+     "Holographic memory": null
+    }
+   }
+  }
+ ],
+ "sysd-blocks-195": [
+  {
+   "type": "scale",
+   "caption": "On a log scale, the random access times of consumer NAND SSDs and hard disks sit far apart.",
+   "sent_ids": [
+    "7e7e11fef26c",
+    "b03d48999d6f"
+   ],
+   "log": true,
+   "axis": "Random access time, ms",
+   "ranges": [
+    [
+     0.05,
+     0.2,
+     "SSD"
+    ],
+    [
+     2.9,
+     12,
+     "HDD"
+    ]
+   ]
+  }
+ ],
+ "sysd-blocks-150": [
+  {
+   "type": "table",
+   "caption": "Compare how much of the raw capacity each level leaves for data.",
+   "sent_ids": [
+    "a02cd3646909",
+    "492b0d443c7a",
+    "45789202c6b3",
+    "ba77688698fc",
+    "3f6475554693",
+    "941ff6dd7cea",
+    "2a2743e6b1d9",
+    "57c8c5686636",
+    "ab1ac7d5fa2c",
+    "f186fc768635",
+    "c038553e4dbe"
+   ],
+   "header": [
+    "Level",
+    "Method",
+    "Capacity used"
+   ],
+   "rows": [
+    [
+     "RAID 0",
+     "Striping",
+     "100%"
+    ],
+    [
+     "RAID 1",
+     "Mirroring",
+     "50%"
+    ],
+    [
+     "RAID 5",
+     "Striping with parity",
+     "67%-94%"
+    ],
+    [
+     "RAID 6",
+     "Parity on two drives",
+     "50%-80%"
+    ],
+    [
+     "RAID 10",
+     "Striping across mirrors",
+     "50%"
+    ]
+   ]
+  }
+ ],
+ "sysd-blocks-151": [
+  {
+   "type": "bar",
+   "caption": "A 4 + 2 erasure code adds far less storage overhead than three full copies.",
+   "sent_ids": [
+    "0da6e34e0945",
+    "84b3b82e559e",
+    "786bf890792d",
+    "20fe37a6f705",
+    "c91f175b6520"
+   ],
+   "unit": "% overhead",
+   "bars": [
+    [
+     "Erasure coding, 4 + 2",
+     50
+    ],
+    [
+     "3-copy replication",
+     200
+    ]
+   ]
+  }
+ ],
+ "sysd-blocks-142": [
+  {
+   "type": "table",
+   "caption": "The three kinds differ in how the computer reaches its mass storage.",
+   "sent_ids": [
+    "b6d02aaf8d33",
+    "29dcad62dcd7",
+    "985a619ae9b9",
+    "cbe40dc20851",
+    "997f79b08690",
+    "b8ed067d5512",
+    "43e024bc8448",
+    "32883d71109f",
+    "4d58508cc580"
+   ],
+   "header": [
+    "Kind",
+    "How it connects"
+   ],
+   "rows": [
+    [
+     "DAS",
+     "Uses no network"
+    ],
+    [
+     "NAS",
+     "Local or wide area network, or the Internet; file level"
+    ],
+    [
+     "SAN",
+     "Specialized network; once block level"
+    ]
+   ]
+  }
+ ],
+ "sysd-blocks-202": [
+  {
+   "type": "table",
+   "caption": "Each NFS version added something that earlier ones lacked.",
+   "sent_ids": [
+    "6c4636040007",
+    "ec4a77caa290",
+    "a5a0d55f3a68",
+    "87e6693087af",
+    "f8a1c8347e56",
+    "fac3fa0a08f1",
+    "64e4756152b9",
+    "e3b2b30b8c9b",
+    "897b0e09940c",
+    "022f456def7e",
+    "41fc1a73e9ba",
+    "ad7d4aedbb96"
+   ],
+   "header": [
+    "Version",
+    "What it brought"
+   ],
+   "rows": [
+    [
+     "NFSv2 (RFC 1094)",
+     "UDP only; reads the first 2 GB of a file"
+    ],
+    [
+     "NFSv3",
+     "64-bit sizes, asynchronous writes, TCP"
+    ],
+    [
+     "NFSv4 (RFC 3010)",
+     "Stateful, strong security, port 2049"
+    ],
+    [
+     "NFSv4.1 (RFC 5661)",
+     "Parallel access to clustered servers"
+    ],
+    [
+     "NFSv4.2 (RFC 7862)",
+     "Server-side clone and copy, sparse files"
+    ]
+   ]
+  }
+ ]
+}

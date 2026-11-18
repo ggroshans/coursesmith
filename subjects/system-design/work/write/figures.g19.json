@@ -1,0 +1,291 @@
+{
+ "sysd-reliab-016": [
+  {
+   "type": "table",
+   "caption": "Each factor is a different kind of evidence, with examples from each.",
+   "sent_ids": [
+    "7abc238e3ba6",
+    "12f60f866556",
+    "ac283f71449c",
+    "0f9acb9f0af1"
+   ],
+   "header": [
+    "Factor",
+    "What it is",
+    "Examples"
+   ],
+   "rows": [
+    [
+     "Knowledge",
+     "Something the user knows",
+     "Password, PIN, security question"
+    ],
+    [
+     "Ownership",
+     "Something the user has",
+     "ID card, security token, cell phone"
+    ],
+    [
+     "Inherence",
+     "Something the user is",
+     "Fingerprint, face, voice"
+    ]
+   ]
+  }
+ ],
+ "sysd-reliab-020": [
+  {
+   "type": "flow",
+   "caption": "A login is checked by hashing the entered password with the stored salt and comparing hashes.",
+   "sent_ids": [
+    "8c07e01c2d3d",
+    "f7ac8023c278",
+    "cf4845ba8671",
+    "29a6451c290e",
+    "02149990d0f0"
+   ],
+   "mermaid": "flowchart TD\nA[User enters password] --> B[Fetch the user's salt]\nB --> C[Append salt, then hash]\nC --> D{Hashes match?}\nD -->|yes| E[Password is valid]\nD -->|no| F[Password is not valid]"
+  }
+ ],
+ "sysd-reliab-023": [
+  {
+   "type": "table",
+   "caption": "The flow runs from the client's request to the resource server's reply, in five steps.",
+   "sent_ids": [
+    "8100921daaa9",
+    "11552116343d",
+    "9b6ae88e241d",
+    "8d19fcb48cb9",
+    "becc6e5090ca",
+    "58c9601684c4",
+    "165bc7609783",
+    "5e2e28e77b6d"
+   ],
+   "header": [
+    "Step",
+    "Who acts",
+    "What happens"
+   ],
+   "rows": [
+    [
+     "1",
+     "Client",
+     "Asks the authorization server for authorization, naming the scopes it wants"
+    ],
+    [
+     "2",
+     "Authorization server",
+     "Authenticates the client; the resource owner grants access"
+    ],
+    [
+     "3",
+     "Authorization server",
+     "Redirects back with an authorization code or an access token"
+    ],
+    [
+     "4",
+     "Client",
+     "Presents the access token to the resource server"
+    ],
+    [
+     "5",
+     "Resource server",
+     "Validates the token and returns the resources"
+    ]
+   ]
+  }
+ ],
+ "sysd-reliab-132": [
+  {
+   "type": "table",
+   "caption": "Each grant type suits a different kind of client and carries its own trade-off.",
+   "sent_ids": [
+    "49625d6254ca",
+    "5b90305f514f",
+    "2343e0919c91",
+    "9fde1e056925",
+    "00737db4917b",
+    "875b38e2b744",
+    "7b6abd266f9f",
+    "cfbd60a8d9a1",
+    "7295bcd09fea",
+    "616b0b33e403",
+    "6666edebb660",
+    "c2982ae02be3",
+    "74aae49bacb2",
+    "ed27d1b19683",
+    "cd1291328722",
+    "e6b26083f719",
+    "e15aa9e20e56",
+    "dfeee6a6b855",
+    "f0c9e283e4ed",
+    "e0a4b9927df2"
+   ],
+   "header": [
+    "Grant",
+    "Who it suits",
+    "Key point"
+   ],
+   "rows": [
+    [
+     "Authorization code",
+     "Confidential clients",
+     "The owner's credentials never reach the client"
+    ],
+    [
+     "Implicit",
+     "In-browser JavaScript clients",
+     "Exposes the token; no refresh token"
+    ],
+    [
+     "Resource owner password",
+     "Highly trusted clients, such as the device OS",
+     "Keeps the password anti-pattern"
+    ],
+    [
+     "Client credentials",
+     "Confidential clients acting for themselves",
+     "No refresh token should be included"
+    ]
+   ]
+  }
+ ],
+ "sysd-reliab-032": [
+  {
+   "type": "layers",
+   "caption": "A JWT is three Base64url-encoded parts joined with periods.",
+   "sent_ids": [
+    "70627b01a988",
+    "d80900d520a5",
+    "74f350d71cf6",
+    "270895e0075a"
+   ],
+   "layers": [
+    [
+     "Header",
+     "Names the signing algorithm"
+    ],
+    [
+     "Payload",
+     "A set of claims"
+    ],
+    [
+     "Signature",
+     "Validates the token"
+    ]
+   ]
+  }
+ ],
+ "sysd-reliab-025": [
+  {
+   "type": "flow",
+   "caption": "In single sign-on the application sends the user to the identity provider and waits for its response.",
+   "sent_ids": [
+    "70f36fadfdc5",
+    "b47b0ed324d0",
+    "e9d92f34f51b",
+    "7977cf4bc795",
+    "97919d147dfa"
+   ],
+   "mermaid": "flowchart TD\nA[User requests a resource] --> B[Application redirects to identity provider]\nB --> C[User signs in]\nC --> D[Identity provider sends SSO response]\nD --> E[Application grants access]"
+  }
+ ],
+ "sysd-reliab-125": [
+  {
+   "type": "table",
+   "caption": "Kerberos trades tickets in four steps, and the password is never sent.",
+   "sent_ids": [
+    "c481746929ff",
+    "41fd17802150",
+    "b7f70278685b",
+    "41729137da35",
+    "12a5fe9b2c09",
+    "302900c58a9a",
+    "998295f812ab",
+    "b7dc672b98f3",
+    "32da03199dd5",
+    "bad27fa065c6",
+    "4de03db720e5"
+   ],
+   "header": [
+    "Step",
+    "Between",
+    "What happens"
+   ],
+   "rows": [
+    [
+     "1",
+     "Client and AS",
+     "The client authenticates and gets a ticket-granting ticket (TGT)"
+    ],
+    [
+     "2",
+     "Client and TGS",
+     "The client sends the TGT and gets a service ticket and session keys"
+    ],
+    [
+     "3",
+     "Client and service",
+     "The client presents the service ticket with its request"
+    ],
+    [
+     "4",
+     "Service and client",
+     "The service replies with the timestamp encrypted under the session key"
+    ]
+   ]
+  }
+ ],
+ "sysd-q-029": [
+  {
+   "type": "flow",
+   "caption": "The API server reads the cache and the database, and takes each new key from the Key Generation Service.",
+   "sent_ids": [
+    "6f69cd688c9d",
+    "330107721f6d",
+    "27029c21be8b",
+    "4d9867eff8d4",
+    "74ee82389b9f",
+    "c8f95e6000cc",
+    "10441e71cc16",
+    "793f77aeba97",
+    "2c34fbd33347",
+    "80f769ebafb8",
+    "990d5953f243",
+    "a5dba74d6de6",
+    "7dd6908fa0a3",
+    "ce2b021e9b2f",
+    "eb0ea46dd98e",
+    "9e8dd0876818",
+    "fe70edc02386"
+   ],
+   "mermaid": "flowchart TD\nV[Visitor] --> L[Load balancer]\nL --> A[API server]\nA -->|checks first| C[(Cache)]\nA -->|on a miss| D[(URL database)]\nA -->|gets a key| K[Key Generation Service]\nK --> E[(Key database)]"
+  }
+ ],
+ "sysd-q-062": [
+  {
+   "type": "flow",
+   "caption": "Writes and reads take separate paths through the Web Server, and the logs feed analytics.",
+   "sent_ids": [
+    "7d767a6cc5e0",
+    "61faf0623e06",
+    "258b8a18e534",
+    "8617028a86f7",
+    "6d4c70aa8fa9",
+    "f4ca15ead09f",
+    "d4c91d103341",
+    "e10884248b00",
+    "dd58ee80eb3f",
+    "308ba80c0f7f",
+    "71330f864003",
+    "e51bcc2ca596",
+    "64b7e9370cf1",
+    "d3452eee49cc",
+    "fb3e536abfe7",
+    "b9d15ce48047",
+    "adfd6477b30b"
+   ],
+   "mermaid": "flowchart TD\nC[Client] --> W[Web Server]\nW -->|create| WA[Write API server]\nW -->|view| RA[Read API server]\nWA --> S[(SQL Database)]\nWA --> O[(Object Store)]\nRA --> S\nRA --> O\nW -.->|logs, MapReduce| A[(Analytics Database)]"
+  }
+ ]
+}

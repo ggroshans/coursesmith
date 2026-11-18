@@ -1,0 +1,350 @@
+{
+ "sysd-q-015": [
+  {
+   "type": "flow",
+   "caption": "Follow an account from the client to the queue, the extraction service and the stores it fills.",
+   "sent_ids": [
+    "5bc1b3284d44",
+    "284b0d68d925",
+    "d8d8cd4d90d5",
+    "0a1c69c2e7fe",
+    "bb5806275833",
+    "e70f399ec4f3",
+    "d37146911ab5",
+    "9eb29b707fca",
+    "aafb04cec616",
+    "c29cc1d88a28",
+    "1df6df876f49",
+    "8b39f7ea1a72",
+    "ff3e0009049b",
+    "cb9e35eedef3",
+    "c3c3cf24d7f5",
+    "4042c5a2958e",
+    "bb62b8279731"
+   ],
+   "mermaid": "flowchart TD\nA[Client] --> B[Reverse proxy]\nB --> C[Accounts API server]\nC --> D[(SQL accounts table)]\nC -->|queues a job| E[Queue]\nE --> F[Transaction Extraction Service]\nF --> G[(Object store: raw logs)]\nF --> H[Category Service]\nF --> I[Budget Service]\nI --> J[Notification Service]\nF --> K[(SQL transactions)]"
+  }
+ ],
+ "sysd-q-066": [
+  {
+   "type": "flow",
+   "caption": "Each stage removes the bottleneck of the one before it.",
+   "sent_ids": [
+    "2cd2f89c74be",
+    "5ab9a4804d20",
+    "23fe7a19b812",
+    "1bbce292dbfb",
+    "d12396a3a6c5",
+    "00979e125893",
+    "6d0b3cd9e71f",
+    "6980f7069e4e",
+    "b1af26629b15",
+    "bfc2705876b8",
+    "d0f5d8fd7015",
+    "eae2c9c1db39",
+    "e85648f98c34",
+    "e95e6c35cc63",
+    "e696dc7a03db",
+    "2d64c249fc02",
+    "238cb560ba03",
+    "04b5d15922c7",
+    "0df422cdf7a8"
+   ],
+   "mermaid": "flowchart TD\nA[Monolith on one server] -->|user base grows| B[Application and database servers split]\nB -->|one application server not enough| C[Cluster behind a load balancer]\nC -->|database bottleneck| D[Read replicas serve reads]\nD -->|one database cannot carry all| E[Partition or add a cache]\nE --> F[Separate services]"
+  }
+ ],
+ "sysd-q-130": [
+  {
+   "type": "table",
+   "caption": "Read the steps of one transaction from top to bottom.",
+   "sent_ids": [
+    "82d9b0b8e7f5",
+    "25ce3ffc664d",
+    "69602d712799",
+    "d7a9ff4c71f5",
+    "267ded0bc160",
+    "52753358d7ca",
+    "4876face943d",
+    "67b39ad027ea",
+    "5bb020aad169",
+    "1ec777919b7e",
+    "b6483a098a97",
+    "43d61cfe47b0",
+    "04574fff34bb",
+    "cf54375e30c4",
+    "ce60eb1e47c8",
+    "da1629c72292",
+    "129360edeeeb",
+    "3d01440dd417",
+    "79fb7a9d1f7a",
+    "826d90a164ea",
+    "4a47629424e2",
+    "ca7caed3756e"
+   ],
+   "header": [
+    "Step",
+    "Client sends",
+    "Server answers"
+   ],
+   "rows": [
+    [
+     "1",
+     "Opens a connection, then EHLO",
+     "Sends a greeting"
+    ],
+    [
+     "2",
+     "MAIL",
+     "250 accepts the reverse-path"
+    ],
+    [
+     "3",
+     "RCPT, once per recipient",
+     "550 if undeliverable; 503 without MAIL"
+    ],
+    [
+     "4",
+     "DATA",
+     "354, then lines are the message"
+    ],
+    [
+     "5",
+     "Message lines, then a lone period",
+     "250 confirms and takes responsibility"
+    ],
+    [
+     "6",
+     "QUIT",
+     "221, then the channel closes"
+    ]
+   ]
+  }
+ ],
+ "sysd-q-137": [
+  {
+   "type": "table",
+   "caption": "Each group of header fields has its own job.",
+   "sent_ids": [
+    "7cd61a78aa1d",
+    "db35f18d4ab6",
+    "7d6df0a2d2ce",
+    "08e7a1c257ad",
+    "f8135dfbcc0b",
+    "4c4688f045b6",
+    "e512cfe2e89c",
+    "013932833f02",
+    "5b8dcd3d6ef6",
+    "70b99575dbf0",
+    "5660d87e8898",
+    "9aa8526ca6f1",
+    "0b9845fd60ea",
+    "6497527c5640",
+    "1711dc03efbd",
+    "ffc5889bbf76",
+    "cce5170cee5d",
+    "8c649af48107",
+    "12d7cfae70e7",
+    "4d612dbe1574",
+    "130583817f20",
+    "72264ebf069a",
+    "a6ced36e8728"
+   ],
+   "header": [
+    "Group",
+    "Fields",
+    "Job"
+   ],
+   "rows": [
+    [
+     "Originator",
+     "From, Sender, Reply-To",
+     "Who wrote and sent it"
+    ],
+    [
+     "Destination",
+     "To, Cc, Bcc",
+     "Who receives it"
+    ],
+    [
+     "Identification",
+     "Message-ID, In-Reply-To, References",
+     "Names a message and its parent"
+    ],
+    [
+     "Informational",
+     "Subject, Comments, Keywords",
+     "Notes for humans"
+    ],
+    [
+     "Trace",
+     "Received, Return-Path",
+     "Records the route taken"
+    ],
+    [
+     "Resent",
+     "Resent fields",
+     "Added when a message is reintroduced"
+    ]
+   ]
+  }
+ ],
+ "sysd-q-121": [
+  {
+   "type": "table",
+   "caption": "POP and IMAP differ on where the mailbox lives.",
+   "sent_ids": [
+    "e7d59d5087c8",
+    "ce5bb7f02cd1",
+    "445205dc5e32",
+    "3d806fd37fce",
+    "2a3070085d74",
+    "8a78d4966903",
+    "110df8e34dfc",
+    "b115707dc25d",
+    "baa4e5ac63fb",
+    "cc3ba5b19c69",
+    "345d51f18886",
+    "9cc01386e66e",
+    "8f9d2503b5fc",
+    "cf54d1cf2702",
+    "ad2ff3628c17",
+    "379956525ec6",
+    "ffb8b5f21bf8",
+    "386fe3d1de35",
+    "5816cb199a2c",
+    "ed22ad00c7c0"
+   ],
+   "header": [
+    "",
+    "POP",
+    "IMAP"
+   ],
+   "rows": [
+    [
+     "Messages",
+     "Downloaded to one device, then deleted",
+     "Stay on the server, shared by clients"
+    ],
+    [
+     "View of mailbox",
+     "Static",
+     "Dynamic"
+    ],
+    [
+     "Folders and read state",
+     "None on the server",
+     "Kept on the server"
+    ],
+    [
+     "New-mail alerts",
+     "None; reconnect to check",
+     "IDLE"
+    ],
+    [
+     "Server cost per mailbox",
+     "Lower",
+     "Far more"
+    ],
+    [
+     "Message identifier",
+     "UIDL, up to 70 characters",
+     "UID per folder, with UIDVALIDITY"
+    ]
+   ]
+  }
+ ],
+ "sysd-q-058": [
+  {
+   "type": "flow",
+   "caption": "Mail is pushed by SMTP between servers and pulled by Bob's client.",
+   "sent_ids": [
+    "6b51a906cf87",
+    "9897419966cc",
+    "acb93f376161",
+    "fbec635e8721",
+    "ee6255854fe8",
+    "ccacdf6ac2a5",
+    "7a555a19990d",
+    "78112708c84f",
+    "6f88253de5c9",
+    "197147d04e15",
+    "5e6915331a7e",
+    "d4798e81f186",
+    "8c9db2d8ff4e",
+    "5ecdbc12d8a4",
+    "129360edeeeb",
+    "ee02bdb325fc",
+    "54e3726a355e",
+    "b8c8effeb817",
+    "0c077aadf185",
+    "18643e7e315f",
+    "e7d59d5087c8",
+    "9cc01386e66e"
+   ],
+   "mermaid": "flowchart TD\nA[Alice's client] -->|submits by SMTP| B[Alice's mail server]\nB -->|asks for MX records| C[DNS]\nB -->|SMTP, port 25| D[Gmail SMTP server]\nD --> E[Delivery agent]\nE --> F[(Recipient's mailbox)]\nF -->|IMAP or POP| G[Bob's client]"
+  }
+ ],
+ "sysd-q-060": [
+  {
+   "type": "flow",
+   "caption": "The client reaches three services: location, a CDN for tiles, and navigation.",
+   "sent_ids": [
+    "ce9c485cca96",
+    "b925cc0cb8cd",
+    "1d73a019434e",
+    "f2dcfe2058c7",
+    "9d37628cac61",
+    "82b23ee6adff",
+    "f2dcfe2058c7",
+    "2878aad5e86b",
+    "282e7e7e1ba1",
+    "02c15823dd57",
+    "4dcc4bae3611",
+    "36d381ca7e96",
+    "82b23ee6adff",
+    "af4338d85ca6",
+    "412244bd2372",
+    "5e4eab83d5d9",
+    "661105aad215",
+    "b22fbf6f1bbf",
+    "74de0bdeea41",
+    "ebe58cf2761b",
+    "0ad20ad1c06b",
+    "bcd4187fdc2f"
+   ],
+   "mermaid": "flowchart TD\nA[Client] -->|location updates| B[Location service]\nA -->|tile requests| C[CDN]\nC --> D[(Cloud storage)]\nA -->|route request| E[Navigation service]\nE --> F[Geocoding Service]\nE --> G[Route Planner Service]"
+  }
+ ],
+ "sysd-q-027": [
+  {
+   "type": "flow",
+   "caption": "An order crosses the critical path in order, and the execution leaves through the order manager.",
+   "sent_ids": [
+    "eeefece10e47",
+    "f1d07076d273",
+    "a5ef066cfef5",
+    "cc9c415ef721",
+    "4096460ca214",
+    "42291ff61722",
+    "ac858a095b61",
+    "2fc145e1eb2c",
+    "7c5fb6936170"
+   ],
+   "mermaid": "flowchart TD\nA[Client] -->|order| B[Order manager]\nB --> C[Mandatory risk checks]\nC --> D[Matching engine]\nD -->|matched| E[Order manager sends execution out]"
+  }
+ ],
+ "sysd-q-059": [
+  {
+   "type": "flow",
+   "caption": "Editing operations pass through a queue before the file operation server transforms them.",
+   "sent_ids": [
+    "22e267f657a6",
+    "d5005a4a3af2",
+    "54321a1960d3",
+    "12a4f738cf3e",
+    "fecac0360d97"
+   ],
+   "mermaid": "flowchart TD\nA[Clients] -->|editing operations| B[WebSocket server]\nB --> C[Message queue]\nC --> D[File operation server]\nD --> E[(Metadata, content, operations)]"
+  }
+ ]
+}

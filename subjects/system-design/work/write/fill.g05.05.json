@@ -1,0 +1,105 @@
+{
+ "glossary": {
+  "sysd-reliab-113": [
+   {
+    "term": "radix tree",
+    "text": "A radix tree, or compressed trie, merges any node that has only one child into its parent.",
+    "sent_ids": [
+     "c17906acf23e",
+     "8b72f01dc24b"
+    ]
+   }
+  ],
+  "sysd-reliab-107": [
+   {
+    "term": "birthday attack",
+    "text": "A birthday attack finds any two inputs that collide, which is easier than finding one that matches a specific value.",
+    "sent_ids": [
+     "77f20d264a86",
+     "9b1b3920f2fe",
+     "a3b3dec92d1f",
+     "8b650fb146de"
+    ]
+   },
+   {
+    "term": "open addressing",
+    "text": "A way to handle collisions in which, on a collision, the table is probed for an alternate empty cell.",
+    "sent_ids": [
+     "61d4030affbc",
+     "2ec943019412",
+     "59b5a4fcbd4b"
+    ]
+   },
+   {
+    "term": "separate chaining",
+    "text": "A way to handle collisions in which records that hash to the same cell go into a linked list in that cell.",
+    "sent_ids": [
+     "7b4ab37b618f",
+     "ebbd06f74d5c",
+     "14bc1ab2188d"
+    ]
+   }
+  ],
+  "sysd-reliab-001": [
+   {
+    "term": "false positive",
+    "text": "A Bloom filter answer that says an element is in the set because other elements set its bits by chance.",
+    "sent_ids": [
+     "d70c51287b8d",
+     "ce3202ed13b3",
+     "588185527186"
+    ]
+   }
+  ],
+  "sysd-reliab-109": [
+   {
+    "term": "perceptual hash",
+    "text": "A fingerprint of multimedia that is a type of locality-sensitive hash, so similar features give similar hashes.",
+    "sent_ids": [
+     "b945e5ee6d1e",
+     "b0dee247a95c",
+     "4e2ee285a9d3"
+    ]
+   }
+  ],
+  "sysd-reliab-118": [
+   {
+    "term": "security capability",
+    "text": "An identifier whose mere possession grants access.",
+    "sent_ids": [
+     "56f4bb714fce",
+     "a43c20af81b8",
+     "6517f264e42d"
+    ]
+   }
+  ],
+  "sysd-blocks-114": [
+   {
+    "term": "power of two choices",
+    "text": "A method that picks two servers at random and chooses the better of the two.",
+    "sent_ids": [
+     "2efa3ca7682c"
+    ]
+   }
+  ],
+  "sysd-blocks-123": [
+   {
+    "term": "N+1",
+    "text": "At least one component in excess of the service's capacity.",
+    "sent_ids": [
+     "ae7be3096821"
+    ]
+   }
+  ],
+  "sysd-blocks-125": [
+   {
+    "term": "connection multiplexing",
+    "text": "Consolidating multiple HTTP requests from multiple clients into a single TCP socket to the backends.",
+    "sent_ids": [
+     "c320d7a6595a",
+     "7478bbc54914"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "entries": {
+  "sysd-scale-092": {
+   "title": "Consistency models: the contract between programmer and store",
+   "text": "Row X is replicated on nodes M and N. Client A writes to M, and then client B reads from N. Will B see the write? A consistency model is the contract that answers. It is a contract between the programmer and the system: if the programmer follows the rules for operations, reads, writes and updates behave predictably. The model decides whether B will definitely see the write, definitely not, or cannot count on it. Models define rules for the apparent order and visibility of updates, and they sit on a continuum with trade-offs. One model is stronger than another if it requires all the other's conditions and more, and a model with fewer constraints is weaker. Strict consistency is the strongest: every write must be seen instantaneously by all processors. It is only a thought experiment, because instantaneous message exchange is impossible. Replicas keep a system reliable and fast, but copies can drift. Synchronous replication, covered in {{ref:sysd-scale-047}}, gives tight consistency, yet global synchronization is costly. Weakening the consistency restrictions decreases that cost and improves performance."
+  },
+  "sysd-scale-097": {
+   "title": "Eventual consistency: every reader agrees, but not yet",
+   "text": "Until an update converges, different queries for the same record may see different values. That is the bargain of eventual consistency, a model used in distributed computing to achieve high availability. If no new updates are made to a data item, eventually all reads of that item return the last updated value. The model is also called optimistic replication, and a system that has reached that state is said to have converged. It is a weak guarantee. It promises only liveness, that reads eventually return the same value, with no safety guarantee, so any intermediate value is allowed before convergence. Services built this way are often described as BASE (basically available, soft state, eventual consistency), in contrast to traditional ACID. Asynchronous replication helps achieve it, but it can also leave data inconsistent. Many NoSQL databases use it to offer availability and partition tolerance at the price of reduced data consistency. Critics say it adds complexity: wrong assumptions about consistency levels cause subtle bugs that only appear during network failures or high concurrency."
+  },
+  "sysd-scale-142": {
+   "title": "Network partitions: the cluster splits but every node keeps running",
+   "text": "Nodes A and B sit on one side of a switch, and nodes C and D on the other. The switch fails. A and B can no longer reach C and D, yet every node works as before. That is a network partition: a division of a computer network into relatively independent subnets, either by design or because network devices fail. Distributed software must be designed to be partition-tolerant, meaning it still works correctly after the network is partitioned. Partitions are inevitable. Cables get cut, packets are lost or delayed by congestion, hardware breaks and network components are misconfigured. When nodes cannot communicate, the system either stops serving some or all requests, reducing availability, or serves as usual and gives nodes inconsistent views of the data. An apparent full partition may really be a very slow network, some but not all messages being dropped, or throttling in one direction only. That makes failures hard to reason about. Do not confuse it with {{ref:sysd-scale-080}}, which deliberately splits a database for scalability."
+  },
+  "sysd-scale-107": {
+   "title": "The CAP theorem: why no store can have everything",
+   "text": "A distributed data store can provide at most two of three guarantees: consistency, availability and partition tolerance. That is the CAP theorem, also called Brewer's theorem, and the three are the properties commonly desired when designing distributed web services. Consistency means every read receives the most recent write or an error, so all clients see the same data at the same time, whichever node they connect to. Availability means every request received by a non-failing node gets a response, with no guarantee that the response holds the most recent version of the data. Partition tolerance means the system keeps operating despite an arbitrary number of messages being dropped or delayed by the network between nodes.\n\nThe catch is that no distributed system is safe from network failures, so partitions generally have to be tolerated, as {{ref:sysd-scale-142}} explains. During a partition, one must choose between consistency and availability. Choosing consistency, the system returns an error or times out when it cannot guarantee fresh data. Choosing availability, it always answers with the most recent version it has, even if that may be stale. In the absence of a partition, both can be satisfied, and during normal operation a data store covers all three.\n\nGilbert and Lynch proved Brewer's conjecture in 2002 for the asynchronous network model. They then discussed solutions to the dilemma in the partially synchronous model."
+  },
+  "sysd-scale-098": {
+   "title": "Anti-entropy and reconciliation: how replicas converge",
+   "text": "To converge, an eventually consistent system exchanges updates between servers and reconciles concurrent updates by choosing a final state. Replicas converge through anti-entropy, which exchanges versions or updates of data between servers, and through reconciliation, which chooses a final state when concurrent updates have occurred. The most appropriate way to reconcile depends on the application. A widespread approach is last writer wins, and some systems use first writer wins where last writer wins is unacceptable. Another approach is to invoke a user-specified conflict handler. Timestamps are often used to detect concurrency between updates, and so is the technique in {{ref:sysd-scale-024}}. Reconciliation must happen before the next read. Read repair fixes an inconsistency when a read finds it. Write repair fixes it during a write and slows that write. Asynchronous repair runs outside reads and writes. In a database that stays available during a partition, nodes are typically re-synced to repair all inconsistencies once the partition is resolved."
+  },
+  "sysd-scale-101": {
+   "title": "PACELC: the trade-off CAP leaves out",
+   "text": "By CAP's own wording, a database counts as available if a query returns after 30 days. No real application accepts that latency. It is one limit of the {{ref:sysd-scale-107}}, which PACELC extends. If there is a partition (P), the trade-off is between availability (A) and consistency (C). Else (E), even in normal operation, it is between latency (L) and consistency (C). Consistent operations need a full network round trip on reads and writes, while low-latency systems relax consistency to reduce delay. Ignoring that trade-off is a major oversight, because it is present at all times, while CAP matters only during a partition. The four configurations are PA/EL, PA/EC, PC/EL and PC/EC. PC/EC gives firm ACID-style consistency, and PA/EL gives high availability and low latency with a more complex consistency model. PA/EC and PC/EL give only conditional guarantees, so the developer must still write code for the cases where a guarantee is not upheld. PC does not mean fully consistent: the system does not lower consistency below its baseline during a partition, and reduces availability instead."
+  },
+  "sysd-scale-099": {
+   "title": "Strong eventual consistency: same updates, same state",
+   "text": "Deliver the same updates to two nodes in different orders, and they still end up in the same state. That is the guarantee of strong eventual consistency. Plain eventual consistency is only a liveness guarantee: updates will be observed eventually, but nothing is promised about the values seen before convergence. Strong eventual consistency adds a safety guarantee. Any two nodes that have received the same set of updates, in any order, are in the same state. A common way to ensure it is {{ref:sysd-scale-125}}."
+  },
+  "sysd-scale-108": {
+   "title": "CP, AP and CA: sorting databases by what they sacrifice",
+   "text": "The physical network cannot be guaranteed stable, so a distributed database must choose partition tolerance. That leaves a trade-off between consistency and availability, and three labels follow from it. A database is classed as CP if it keeps consistency, AP if it keeps availability, and CA if it assumes no partitions.\n\nA CP database gives consistency and partition tolerance at the expense of availability. When a partition occurs, it shuts down the non-consistent node until the partition is resolved. MongoDB and {{ref:sysd-scale-120}} are CP examples, and {{ref:sysd-reliab-052}} also favors consistency over availability during a network partition. An AP database gives availability and partition tolerance at the expense of consistency. All nodes stay available during a partition, but those on the wrong side may return an older version of the data. Once the partition is resolved, an AP database typically re-syncs the nodes to repair inconsistencies. Cassandra, CouchDB and {{ref:sysd-scale-121}} are AP examples.\n\nA CA database gives consistency and availability across all nodes but cannot do so if any two nodes are partitioned, so it cannot tolerate faults. PostgreSQL and MariaDB are examples, and no NoSQL database is classed as CA. Databases built on ACID guarantees, such as relational ones, choose consistency over availability, while systems built on BASE, common in NoSQL, choose availability over consistency. Most modern distributed databases offer configuration options for both. The labels are not fixed, though: one source classifies MongoDB as a PA/EC system."
+  },
+  "sysd-scale-103": {
+   "title": "Common misreadings of CAP: what the theorem does not say",
+   "text": "The slogan of the CAP theorem, pick two of three, is useful, but as a simplification it misleads, and the theorem covers only a narrow case. Brewer's 2012 clarification says designers need to sacrifice consistency or availability only in the presence of partitions, and that partition management and recovery techniques exist. CAP prohibits only a tiny part of the design space: perfect availability and consistency in the presence of partitions, which are rare. The theorem is about 100% availability and consistency. A more realistic discussion weighs latency against consistency when there is no partition, as {{ref:sysd-scale-101}} does. Consistency in CAP is not consistency in ACID transactions, and availability in CAP is not the high availability of software architecture. Choosing a database purely on CAP is not enough. Companies do not pick Cassandra for chat just because it is an AP system, but for a list of other characteristics. The ByteByteGo guide still finds CAP useful because it opens a set of trade-off discussions, but says it is only part of the story."
+  },
+  "sysd-scale-104": {
+   "title": "Primary-backup replication: one server orders every write",
+   "text": "In the simplest primary-based protocol, every write goes to a single server, and reads can be local. Each data item has one primary that coordinates its writes, and the other replicas copy the updates. The primary sends each update to those replicas, waits for acknowledgements from all of them, and then acknowledges completion to the client. Because it orders all incoming writes, every process sees them in the same order. The price is that the client may wait long for the acknowledgement. A non-blocking variant updates locally first and asks the other replicas later. That is faster, but it does not guarantee the copies are consistent."
+  },
+  "sysd-scale-106": {
+   "title": "Active replication: every replica applies every operation in order",
+   "text": "In active replication, updates reach each replica as an operation to execute, and a process at each replica carries it out. Every replica must apply all updates in the same order. That requires a totally-ordered multicast, a way to deliver each operation to every replica in one agreed order. Implementing it in large distributed systems raises a scalability issue. An alternative sends each operation to a central coordinator, the sequencer, which assigns a sequence number and forwards the operation to all replicas. That does not solve the scalability problem either."
+  },
+  "sysd-scale-105": {
+   "title": "Quorum-based replication: ask enough servers before you act",
+   "text": "Before a client reads or writes replicated data in quorum-based replication, it must get permission from several servers. Unlike primary-based protocols, replicated-write protocols carry out all updates on all replicas, and voting is one way to do that. For a file replicated on N servers, an update needs agreement from at least N/2 + 1 servers. The change is then applied and a new version number is assigned. To read, a client asks N/2 + 1 servers for the file's version number. The read completes if all the version numbers it receives are the most recent version. See {{ref:sysd-scale-122}} for the quorum idea itself."
+  },
+  "sysd-scale-093": {
+   "title": "Sequential consistency: one order that everyone sees",
+   "text": "A write need not be seen instantly, but writes by different processors must be seen in the same order by all processors. That is the heart of sequential consistency. It requires that the result of any execution is as if all operations ran in one sequential order, with each process's operations in its program order. It has no notion of time or of the most recent write, and it is weaker than strict consistency. Lamport proposed it in 1979. It can produce non-deterministic results, because the interleaving of operations between processors can differ from run to run."
+  },
+  "sysd-scale-094": {
+   "title": "Linearizability: every operation appears to happen at one instant",
+   "text": "A counter reads a value, adds one and writes it back. Two processes can both read 0 and both write 1, so one increment is lost. That counter is not linearizable. In a linearizable system, although operations overlap on a shared object, each operation appears to take place instantaneously. The property is also called atomic consistency. It is sequential consistency with a real-time constraint. Each operation has a begin and an end time, and can be placed at one point between them while the order still gives sequential consistency. Equivalently, every call has a linearization point between its invocation and response, where it appears to occur instantly. This lets a programmer reason about the system: if every operation preserves an invariant, the whole linearizable system does. The counter becomes linearizable with an atomic compare-and-swap retried on failure, an atomic fetch-and-increment, or a lock around the critical section. Locks can suffer significant contention overhead. The price is latency: in an atomically consistent store, the sum of the read delay and the write delay is at least the message delay."
+  },
+  "sysd-scale-095": {
+   "title": "Causal consistency: only related writes need one order",
+   "text": "Two writes are causally related when the processor making the second has just read the first. This holds whether the writes came from the same processor or from different ones. Causal consistency builds on that idea. Hutto and Ahamad defined it in 1990 as a weakening of sequential consistency that splits events into causally related ones and unrelated ones. If event b takes effect from an earlier event a, every process sees b after a. Potentially related writes must be seen by all processes in the same order. Concurrent writes may be seen in a different order on different machines."
+  },
+  "sysd-scale-096": {
+   "title": "Session guarantees: four promises to a single client",
+   "text": "Session guarantees are four consistency models proposed in a 1994 paper for the case of a single user or application making the data modifications. Client-centric models cope with inconsistencies at lower cost when no updates are simultaneous. Monotonic reads ensure that after a process reads x, its later reads return the same or a more recent value. Monotonic writes ensure that a process's write to x completes before its next write to x. Read-your-writes ensures that what a process wrote to x is available to its next read. Writes-follow-reads ensures that a write after a read of x applies to the same or a more recent value."
+  },
+  "sysd-scale-102": {
+   "title": "Where real databases land on PACELC",
+   "text": "The default versions of early {{ref:sysd-scale-042}}, Cassandra and Riak are PA/EL: they give up consistency for availability during a partition and for lower latency in normal operation. Fully ACID systems such as VoltDB/H-Store, Megastore, MySQL Cluster and PostgreSQL are PC/EC, and so are {{ref:sysd-scale-038}} and HBase. MongoDB can be classified as PA/EC: in the baseline case the system guarantees reads and writes to be consistent. {{ref:sysd-scale-027}} follows a strong leader model with read-after-write consistency. Its SDKs read eventually consistently by default, while a consistent read returns a current view or an error. One source differs, saying MongoDB and Redis resolve network partitions by keeping consistency and compromising on availability."
+  },
+  "sysd-scale-100": {
+   "title": "Four patterns for living with eventual consistency",
+   "text": "Eventual consistency ensures that updates to a distributed database are eventually reflected across all nodes, and four patterns help applications achieve it. In the event-based pattern, services emit events and others listen to update their own databases. That keeps services loosely coupled but delays consistency. In background sync, a background job makes data across databases consistent, so consistency arrives more slowly because the job runs on a schedule. In a saga, described in {{ref:sysd-scale-005}}, a sequence of local transactions each updates data in a single service. In CQRS, described in {{ref:sysd-msg-024}}, reads and writes go to separate, eventually consistent databases that can each be tuned."
+  }
+ },
+ "openers": {
+  "the-cap-theorem-and-consistency": "A consistency model is a contract between the programmer and a system: follow the rules for operations, and reads, writes and updates behave predictably. This chapter asks how strong that contract can be when the network divides into relatively independent subnets, which is what a network partition is. The CAP theorem, also called Brewer's theorem, says a distributed data store can provide at most two of three guarantees: consistency, availability and partition tolerance. From there the chapter covers eventual consistency, PACELC, which adds latency to the choice, the CP, AP and CA labels for databases, and why the theorem is so often misunderstood. It ends with the replication protocols, primary-backup, active and quorum-based, that put these choices into practice."
+ },
+ "reviews": {
+  "the-cap-theorem-and-consistency": "A consistency model is a contract between programmer and system, and models sit on a continuum, from strict consistency, which is only a thought experiment, to eventual consistency, which promises only that reads eventually agree. The CAP theorem says that during a network partition, which no distributed system is safe from, a store must choose between consistency and availability, and PACELC adds the choice between latency and consistency the rest of the time. Databases are labeled CP or AP by that choice, but choosing a database on CAP alone is not enough. Primary-backup, active and quorum-based replication show how stores pay for stronger guarantees, by waiting for acknowledgements, ordering every update or collecting votes. Between the extremes sit sequential consistency, linearizability, causal consistency and the session guarantees."
+ },
+ "glossary": {
+  "sysd-scale-106": [
+   {
+    "term": "sequencer",
+    "text": "A central coordinator that assigns a sequence number to each operation and forwards it to all replicas.",
+    "sent_ids": [
+     "d4649bd7076e",
+     "5acf602d6a2f",
+     "5745c7f20de6"
+    ]
+   }
+  ],
+  "sysd-scale-094": [
+   {
+    "term": "linearization point",
+    "text": "The point between a call's invocation and its response at which the call appears to occur instantly.",
+    "sent_ids": [
+     "e204dd12124b",
+     "9d1995de1118",
+     "0f0d2365ac21",
+     "4758a38274f2"
+    ]
+   }
+  ]
+ }
+}

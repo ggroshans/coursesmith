@@ -1,0 +1,627 @@
+{
+ "sysd-found-037": [
+  {
+   "type": "scale",
+   "caption": "The five status-code classes sit side by side, and the first digit names the class.",
+   "sent_ids": [
+    "33ffdcccc273",
+    "2716d3551b62",
+    "e2240b1f7cbd",
+    "1f2d49e6491b",
+    "0fed113b9e22",
+    "0551926ad5b1",
+    "9acf3f31e872",
+    "04f7978aff39",
+    "475dc0fd52e1"
+   ],
+   "axis": "Status code",
+   "log": false,
+   "ranges": [
+    [
+     100,
+     199,
+     "Informational"
+    ],
+    [
+     200,
+     299,
+     "Success"
+    ],
+    [
+     300,
+     399,
+     "Redirection"
+    ],
+    [
+     400,
+     499,
+     "Client error"
+    ],
+    [
+     500,
+     599,
+     "Server error"
+    ]
+   ]
+  }
+ ],
+ "sysd-found-044": [
+  {
+   "type": "table",
+   "caption": "The browser works through these steps in order, from the typed URL to the rendered page.",
+   "sent_ids": [
+    "8b6cd659a1b6",
+    "88da65ca563d",
+    "c3029ca8b55e",
+    "453abe373048",
+    "a6b277cb7f19",
+    "d3cc8ca9add1",
+    "757f4f9ba429",
+    "444552b33778",
+    "c0c103377b4e",
+    "57a54e40454d",
+    "a6014e20e9f8",
+    "e47be29827d6",
+    "1c10a1b406ac",
+    "7481ae7731fa",
+    "42b584d98407",
+    "c528b04906fe",
+    "69247790a334"
+   ],
+   "header": [
+    "Step",
+    "What the browser does"
+   ],
+   "rows": [
+    [
+     "1",
+     "Reads the URL: scheme, domain and path"
+    ],
+    [
+     "2",
+     "Looks up the domain's IP address with a DNS lookup"
+    ],
+    [
+     "3",
+     "Establishes a TCP connection"
+    ],
+    [
+     "4",
+     "Sends an HTTP request such as GET /phone HTTP/1.1 with a Host header"
+    ],
+    [
+     "5",
+     "Receives the response, with status code 200 for success"
+    ],
+    [
+     "6",
+     "Renders the HTML content"
+    ]
+   ]
+  }
+ ],
+ "sysd-found-039": [
+  {
+   "type": "scale",
+   "caption": "The five HTTP versions fall in order on a timeline, with only the last three still standard.",
+   "sent_ids": [
+    "c6617be07060",
+    "f7cc7fdf7288",
+    "b243e88ce335",
+    "23cf00c443e4",
+    "1836cd6187af"
+   ],
+   "axis": "Year",
+   "log": false,
+   "marks": [
+    [
+     1991,
+     "HTTP/0.9"
+    ],
+    [
+     1996,
+     "HTTP/1.0"
+    ],
+    [
+     1997,
+     "HTTP/1.1"
+    ],
+    [
+     2015,
+     "HTTP/2"
+    ],
+    [
+     2022,
+     "HTTP/3"
+    ]
+   ]
+  }
+ ],
+ "sysd-found-034": [
+  {
+   "type": "table",
+   "caption": "Each method names a different action to apply to the target resource.",
+   "sent_ids": [
+    "178f9bda56c9",
+    "b38713d9b21a",
+    "e05e19350aa8",
+    "d01cf4f1b767",
+    "3549c0683399",
+    "8e0eea65913f",
+    "75e5243f045d",
+    "1177317f4e84",
+    "9487c1e60050",
+    "6fe4757cc44a",
+    "24db161274a8",
+    "43a5ae695fee",
+    "b89879539e05",
+    "ce4d9e63390a",
+    "00bb84ebb2b4",
+    "48488271d58a",
+    "5ac76ea9c700",
+    "3546b2fca962",
+    "6bc2cbb585cf",
+    "1b697b3dd374",
+    "f4aa417b549c",
+    "5cc18cad2ccd",
+    "3a5ebb15386c",
+    "75c42f539824",
+    "10821716a291",
+    "875782d99dba",
+    "ad7d74733dc5",
+    "aa2a6a244d24",
+    "c74fec2409ac",
+    "d62088d99a04",
+    "a2ac023d723c",
+    "e8360f2bdf9f",
+    "8806571e5d65"
+   ],
+   "header": [
+    "Method",
+    "What it asks for"
+   ],
+   "rows": [
+    [
+     "GET",
+     "A current representation of the resource"
+    ],
+    [
+     "HEAD",
+     "The same as GET, without the content"
+    ],
+    [
+     "POST",
+     "Process the enclosed representation"
+    ],
+    [
+     "PUT",
+     "Create or replace the resource's state"
+    ],
+    [
+     "DELETE",
+     "Remove the resource's association"
+    ],
+    [
+     "PATCH",
+     "Apply a partial modification"
+    ],
+    [
+     "CONNECT",
+     "Open a tunnel to the destination"
+    ],
+    [
+     "OPTIONS",
+     "The resource's communication options"
+    ],
+    [
+     "TRACE",
+     "Loop the request back for testing"
+    ]
+   ]
+  }
+ ],
+ "sysd-found-175": [
+  {
+   "type": "layers",
+   "caption": "A root certificate anchors the chain, intermediates sign other certificates, and a leaf signs none.",
+   "sent_ids": [
+    "6dc0b2f42ee1",
+    "9867eb40d7ab",
+    "6aad0d3ea9d6",
+    "7b9c847e003a",
+    "7bf963dbe0c7"
+   ],
+   "layers": [
+    [
+     "Root certificate",
+     "Self-signed trust anchor with no parent"
+    ],
+    [
+     "Intermediate certificate",
+     "Signed by a root or another intermediate"
+    ],
+    [
+     "Leaf certificate",
+     "Cannot sign other certificates"
+    ]
+   ]
+  }
+ ],
+ "sysd-found-050": [
+  {
+   "type": "table",
+   "caption": "The handshake runs in this order, ending with data encrypted under the session key.",
+   "sent_ids": [
+    "d26f9dc57e9d",
+    "682903e11175",
+    "0e37bb1ee13a",
+    "33497bd16f11",
+    "5f52bacbf164",
+    "1d907f5b68c8",
+    "a76ddd241ad0",
+    "99dd44ca50aa",
+    "f54356439091",
+    "67023a23068a",
+    "f6ccb1a109ee",
+    "883a292753ac",
+    "03e108215ff3",
+    "235c88a0776a",
+    "52114afe4766",
+    "1241e00f3c51",
+    "b75d3ac3ad9b",
+    "97c9bbc3cc15",
+    "4af813fb592a",
+    "9eb4863e7dc1",
+    "d9f56e365a7a",
+    "fba7c633c91a",
+    "b323859481e5",
+    "8d69c542922d",
+    "06d8a089e475",
+    "2a7347c2e371",
+    "26a38480bbb8",
+    "240f174ee881"
+   ],
+   "header": [
+    "Step",
+    "Who",
+    "What happens"
+   ],
+   "rows": [
+    [
+     "1",
+     "Client",
+     "Sends ClientHello: highest TLS version, random number, cipher suites"
+    ],
+    [
+     "2",
+     "Server",
+     "Answers with ServerHello, choosing from them"
+    ],
+    [
+     "3",
+     "Server",
+     "Sends its certificate"
+    ],
+    [
+     "4",
+     "Client",
+     "Confirms the certificate is valid"
+    ],
+    [
+     "5",
+     "Both",
+     "Derive the shared session key"
+    ],
+    [
+     "6",
+     "Both",
+     "Send and verify Finished messages"
+    ],
+    [
+     "7",
+     "Both",
+     "Exchange data encrypted with the session key"
+    ]
+   ]
+  }
+ ],
+ "sysd-found-071": [
+  {
+   "type": "table",
+   "caption": "Each 3xx code tells the client what to do next.",
+   "sent_ids": [
+    "fc661311cd99",
+    "c7a40b0be87b",
+    "a1fdc162a3e9",
+    "2269c6af7d0b",
+    "845bd4b87116",
+    "4611e3f2251b",
+    "21f901656efe",
+    "e5b84befb7c9",
+    "168bef3053cd",
+    "1f91a4033ccf",
+    "084363ed4c16",
+    "c66cfb4c419d",
+    "000ae06c3f5f",
+    "ae70883f5ee5",
+    "8dfe513bf72f",
+    "ba84fad7aef7",
+    "66ab3bfacd9a",
+    "6dd1bf453ff9"
+   ],
+   "header": [
+    "Code",
+    "Meaning"
+   ],
+   "rows": [
+    [
+     "300",
+     "A choice of representations"
+    ],
+    [
+     "301",
+     "Moved permanently"
+    ],
+    [
+     "302",
+     "Found: temporarily elsewhere"
+    ],
+    [
+     "303",
+     "See other: a different resource"
+    ],
+    [
+     "304",
+     "Not modified: the stored copy is still valid"
+    ],
+    [
+     "307",
+     "Temporary redirect, method unchanged"
+    ],
+    [
+     "308",
+     "Permanent redirect, method unchanged"
+    ]
+   ]
+  }
+ ],
+ "sysd-found-177": [
+  {
+   "type": "table",
+   "caption": "The three validation levels differ in how much the authority checks.",
+   "sent_ids": [
+    "881b4ee04fbd",
+    "9229883baf44",
+    "cc6693b61de5",
+    "ef23286331c0",
+    "23bd665b78e6",
+    "3a8c5f0af5c0",
+    "d3046b13f264",
+    "d4de5456b4b5",
+    "7af723692314"
+   ],
+   "header": [
+    "Level",
+    "What the authority checks"
+   ],
+   "rows": [
+    [
+     "Domain validated",
+     "Control of the domain name only"
+    ],
+    [
+     "Organization validated",
+     "Also the organization's existence as a legal entity"
+    ],
+    [
+     "Extended Validation",
+     "Manual human checks of legal identity"
+    ]
+   ]
+  }
+ ],
+ "sysd-found-083": [
+  {
+   "type": "table",
+   "caption": "Each response directive tells caches something different about storing and reusing the response.",
+   "sent_ids": [
+    "636e670048fc",
+    "298702968178",
+    "2a9ad813e411",
+    "303a47e48495",
+    "1efb1d2a4721",
+    "db56bb6581bd",
+    "0560857d070c",
+    "414075fd64ce",
+    "061bc45595a8",
+    "384497332044",
+    "c5ca3e770e8c",
+    "4b6f28e5238b",
+    "7f2d409f5278",
+    "edd647072999",
+    "5e3cbb293139",
+    "bbe9eec963ff"
+   ],
+   "header": [
+    "Directive",
+    "What it tells caches"
+   ],
+   "rows": [
+    [
+     "max-age",
+     "Stale once its age exceeds the given seconds"
+    ],
+    [
+     "s-maxage",
+     "Overrides max-age and Expires for shared caches"
+    ],
+    [
+     "no-cache",
+     "Validate before reusing the response"
+    ],
+    [
+     "no-store",
+     "Do not store any part of it"
+    ],
+    [
+     "private",
+     "Shared caches must not store it"
+    ],
+    [
+     "public",
+     "Explicitly cacheable"
+    ],
+    [
+     "must-revalidate",
+     "Once stale, do not reuse until validated"
+    ]
+   ]
+  }
+ ],
+ "sysd-found-080": [
+  {
+   "type": "flow",
+   "caption": "A stale stored response is checked with a conditional request, and the answer decides what the cache does.",
+   "sent_ids": [
+    "3ae837023b08",
+    "9a0423fbc145",
+    "4254d5e4b977",
+    "14de0c811ae4",
+    "6657767a9095",
+    "8a5161f7c629",
+    "b426758d8940",
+    "7b6e1b5a194c",
+    "0a6c10ac7c06",
+    "b87ad36d8917",
+    "949bc69241f5",
+    "f1a7664ec430",
+    "5f926df29caf"
+   ],
+   "mermaid": "flowchart TD\nA[Stored response is stale] --> B[Cache sends a conditional request]\nB --> C{Origin answers}\nC -->|304| D[Update and reuse the stored response]\nC -->|Full response| E[Use it and may store it]\nC -->|5xx error| F[Forward it, send a stored response, or retry]"
+  }
+ ],
+ "sysd-found-072": [
+  {
+   "type": "table",
+   "caption": "Each 4xx code names a different kind of client error.",
+   "sent_ids": [
+    "86e1268167eb",
+    "fed277e717f1",
+    "5e953b27f52f",
+    "0410a7ad223e",
+    "2ffcfe70bf24",
+    "4e97e9fd3c11",
+    "408598a35b64",
+    "2b838d564646",
+    "96e601a811d4",
+    "68de362cfe22",
+    "56e09178b006",
+    "67d9f2b55608",
+    "acc01eb7a35c",
+    "e1c91b26620d",
+    "4fc9ca8ab339",
+    "7466decdd312",
+    "e2d80b5585d7",
+    "a9d7d3e47556",
+    "dd8811b98e44",
+    "187db0a022e4",
+    "0f227655f29f"
+   ],
+   "header": [
+    "Code",
+    "Meaning"
+   ],
+   "rows": [
+    [
+     "400",
+     "Bad request: malformed syntax or framing"
+    ],
+    [
+     "401",
+     "Lacks valid credentials"
+    ],
+    [
+     "403",
+     "Understood but refused"
+    ],
+    [
+     "404",
+     "No current representation found"
+    ],
+    [
+     "405",
+     "Method not supported by the resource"
+    ],
+    [
+     "408",
+     "Complete request not received in time"
+    ],
+    [
+     "409",
+     "Conflicts with the resource's current state"
+    ],
+    [
+     "410",
+     "Gone: the condition is likely permanent"
+    ],
+    [
+     "412",
+     "A precondition evaluated to false"
+    ]
+   ]
+  }
+ ],
+ "sysd-found-176": [
+  {
+   "type": "table",
+   "caption": "Certificate types differ in what they identify.",
+   "sent_ids": [
+    "8473365e25ad",
+    "5cd4b06481e6",
+    "8b4626a612a6",
+    "188848791f53",
+    "272f28c0015e",
+    "d6ebdda31f05",
+    "3a14904d65fa",
+    "ceaafa3e7e6b",
+    "f1460ce2267c",
+    "715878424c57",
+    "d3deeb20df53",
+    "bba27146c7b2",
+    "78c8772027f0",
+    "a6fb8aca3a24",
+    "d2c695caed39",
+    "3f487df011bc",
+    "913bc7aa63b9",
+    "95927e1bdab2",
+    "edf2c48ff071"
+   ],
+   "header": [
+    "Type",
+    "What it identifies"
+   ],
+   "rows": [
+    [
+     "Server",
+     "The server as the intended destination"
+    ],
+    [
+     "Client",
+     "The client, for access control"
+    ],
+    [
+     "SAN",
+     "Several names, such as DNS names and IP addresses"
+    ],
+    [
+     "Wildcard",
+     "Many subdomains, but only one level"
+    ],
+    [
+     "Code-signing",
+     "Binaries that were not tampered with"
+    ]
+   ]
+  }
+ ]
+}

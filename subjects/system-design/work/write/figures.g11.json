@@ -1,0 +1,191 @@
+{
+ "sysd-scale-085": [
+  {
+   "type": "flow",
+   "caption": "Rows are routed by ZIP code, and a view with a union puts the two tables back together.",
+   "sent_ids": [
+    "14ecd76e1e34",
+    "7e9f50cecbfb",
+    "a0654d7a246b"
+   ],
+   "mermaid": "flowchart TD\nA[Customers] --> B{ZIP below 50000?}\nB -->|yes| C[CustomersEast]\nB -->|50000 or above| D[CustomersWest]\nC --> E[View: union of both tables]\nD --> E"
+  }
+ ],
+ "sysd-scale-082": [
+  {
+   "type": "table",
+   "caption": "Each rule maps a row's key to a partition or shard in a different way.",
+   "sent_ids": [
+    "ac41dd66986e",
+    "3c9cec68c9b8",
+    "f205d65f6d60",
+    "e94c373c65eb",
+    "a6d009145e1c",
+    "38b3e3ca2306",
+    "25f7722fcd35",
+    "aca51c66e9d3",
+    "acc631bca886",
+    "63e4abb7701f",
+    "86eb8ffff5fb",
+    "058cda1d73bf",
+    "a5101a248c4b",
+    "8dc5117d2b77",
+    "3d282f64a960",
+    "8bd088af17af",
+    "824a941d257f",
+    "7761e645a5db"
+   ],
+   "header": [
+    "Rule",
+    "How a row finds its partition"
+   ],
+   "rows": [
+    [
+     "List",
+     "Its key is in the partition's list of values"
+    ],
+    [
+     "Composite",
+     "Schemes are combined, such as range then hash"
+    ],
+    [
+     "Round-robin",
+     "The ith tuple goes to partition i mod n"
+    ],
+    [
+     "Directory-based",
+     "A lookup table maps keys to shard locations"
+    ],
+    [
+     "Virtual bucket",
+     "Keys map to buckets, buckets to physical shards"
+    ]
+   ]
+  }
+ ],
+ "sysd-scale-078": [
+  {
+   "type": "table",
+   "caption": "Adding a server moves nearly every key in an ordinary hash table and only a fraction on the circle.",
+   "sent_ids": [
+    "cca5dff5e29a",
+    "29149e141f73",
+    "3d5e70d02c60",
+    "c66d08c61bd1",
+    "f016d7772e81",
+    "4860a09b62a6",
+    "bf9713e4fcb2",
+    "5db4af5acccf"
+   ],
+   "header": [
+    "Question",
+    "Ordinary hash table",
+    "Consistent hashing"
+   ],
+   "rows": [
+    [
+     "A key goes to",
+     "A slot, by modulo",
+     "The next server clockwise on a circle"
+    ],
+    [
+     "After a server is added",
+     "Nearly all keys remap",
+     "Only a 1/n fraction of keys move"
+    ]
+   ]
+  }
+ ],
+ "sysd-scale-101": [
+  {
+   "type": "flow",
+   "caption": "PACELC asks one question during a partition and another in normal operation.",
+   "sent_ids": [
+    "d015b24751b0",
+    "77c5ca870087"
+   ],
+   "mermaid": "flowchart TD\nA{Is there a partition?}\nA -->|yes| B[Trade availability against consistency]\nA -->|no, else| C[Trade latency against consistency]"
+  }
+ ],
+ "sysd-scale-108": [
+  {
+   "type": "table",
+   "caption": "The three classes differ in which guarantee they give up.",
+   "sent_ids": [
+    "18df27f026fc",
+    "bb856b7d2a2b",
+    "907c6a3063d3",
+    "d1ccf0cd3b78",
+    "db65cf659ebf",
+    "67a33e85af92",
+    "3ba6a3d6d1fe",
+    "836dc1c85a6a",
+    "dbf9c9b1b276",
+    "ee3c12006172",
+    "00491068e1a7",
+    "1f2553eb7dd6",
+    "440a148eb9c7",
+    "1fe5a07fb886"
+   ],
+   "header": [
+    "Class",
+    "Keeps",
+    "Gives up",
+    "Examples"
+   ],
+   "rows": [
+    [
+     "CP",
+     "Consistency and partition tolerance",
+     "Availability",
+     "MongoDB, Apache HBase, etcd"
+    ],
+    [
+     "AP",
+     "Availability and partition tolerance",
+     "Consistency",
+     "Cassandra, CouchDB, ScyllaDB"
+    ],
+    [
+     "CA",
+     "Consistency and availability",
+     "Partition tolerance",
+     "PostgreSQL, MariaDB"
+    ]
+   ]
+  }
+ ],
+ "sysd-scale-104": [
+  {
+   "type": "table",
+   "caption": "The primary acknowledges the client only after every backup has acknowledged.",
+   "sent_ids": [
+    "637fc8d4c90c",
+    "6ef3b1363285",
+    "b8f31ea66c4b"
+   ],
+   "header": [
+    "Step",
+    "What happens"
+   ],
+   "rows": [
+    [
+     "1",
+     "The write is forwarded to the primary"
+    ],
+    [
+     "2",
+     "The primary sends the update to the backups"
+    ],
+    [
+     "3",
+     "The primary waits for acknowledgements from all of them"
+    ],
+    [
+     "4",
+     "The primary acknowledges completion to the client"
+    ]
+   ]
+  }
+ ]
+}

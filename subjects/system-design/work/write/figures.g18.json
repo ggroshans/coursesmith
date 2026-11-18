@@ -1,0 +1,357 @@
+{
+ "sysd-reliab-227": [
+  {
+   "type": "flow",
+   "caption": "A Pod moves from Pending to Running and ends in Succeeded or Failed.",
+   "sent_ids": [
+    "769a7bdd2911",
+    "60a9e8549298",
+    "86ff7489309f",
+    "482981b11a8c",
+    "dd607429384a",
+    "c9154903eb2b",
+    "8c3c98b6b35f",
+    "2bee4cb2fe07",
+    "6d252c8c0b80",
+    "56efde003f69",
+    "ecade6597de6"
+   ],
+   "mermaid": "flowchart TD\nA[Pending] -->|a container starts| B[Running]\nB -->|all succeed| C[Succeeded]\nB -->|one failed| D[Failed]"
+  }
+ ],
+ "sysd-reliab-161": [
+  {
+   "type": "table",
+   "caption": "Each probe asks a different question and has a different consequence when it fails.",
+   "sent_ids": [
+    "111b3a373e97",
+    "88f2b9546b70",
+    "b8cfddf900f0",
+    "1aa99ff514c5",
+    "42df6122a3b1",
+    "b001db75c663",
+    "ce7f2ef3e36e",
+    "8cee5fe94e81",
+    "80c38f2999de",
+    "163fd83083b7",
+    "e5e2462e3ba3",
+    "969c39104e21",
+    "0906265b7800",
+    "23d6c6e38400",
+    "438e42bf521c",
+    "545074fcca2f",
+    "32d665c6d853",
+    "a7ae30eebc11"
+   ],
+   "header": [
+    "Probe",
+    "Question it asks",
+    "If it fails"
+   ],
+   "rows": [
+    [
+     "Liveness",
+     "Is the container stuck?",
+     "The kubelet restarts it"
+    ],
+    [
+     "Readiness",
+     "Can it accept traffic?",
+     "Pod IP leaves the Service's EndpointSlices"
+    ],
+    [
+     "Startup",
+     "Has the application started?",
+     "The kubelet kills it and applies the restart policy"
+    ]
+   ]
+  }
+ ],
+ "sysd-reliab-151": [
+  {
+   "type": "table",
+   "caption": "Each Service type exposes the Service differently, and several build on ClusterIP.",
+   "sent_ids": [
+    "bf95bc7c41c2",
+    "92d5c513897a",
+    "b0853424736a",
+    "acc254b2d339",
+    "1249e696b379",
+    "9d1972bc7e3e",
+    "43cfca2d895c",
+    "0f73b3dc1afe",
+    "c22dff38fdfe",
+    "ee4109d4c9eb",
+    "556b1a11d50e",
+    "bc9d042faa8d",
+    "5dd1a61f7c74",
+    "0de1dd1811d2",
+    "f0909dbfa4f1",
+    "798ce0200f20",
+    "1dd1737c2297",
+    "5be41b52646a",
+    "41aebe528038",
+    "b8becea9d4ae",
+    "56fe9072aaca",
+    "a46818ff34a2",
+    "a29be08ca667"
+   ],
+   "header": [
+    "Type",
+    "Exposes the Service",
+    "Detail"
+   ],
+   "rows": [
+    [
+     "ClusterIP (default)",
+     "Inside the cluster only",
+     "A cluster-internal IP"
+    ],
+    [
+     "NodePort",
+     "On each node's IP",
+     "Static port, default 30000-32767"
+    ],
+    [
+     "LoadBalancer",
+     "Outside, through a load balancer",
+     "Starts as a NodePort Service"
+    ],
+    [
+     "ExternalName",
+     "As a DNS name",
+     "A CNAME record, no proxying"
+    ],
+    [
+     "Headless",
+     "As individual Pod IPs",
+     "Cluster IP None; kube-proxy ignores it"
+    ]
+   ]
+  }
+ ],
+ "sysd-reliab-043": [
+  {
+   "type": "table",
+   "caption": "A virtual machine carries a whole guest system, while a container shares the host's kernel.",
+   "sent_ids": [
+    "9d3deabca993",
+    "8da09d4a45ad",
+    "2cc55f1bdb72",
+    "468a2b0272c0",
+    "c3d477a45dc1",
+    "8855b5186c3c"
+   ],
+   "header": [
+    "Property",
+    "Virtual machine",
+    "Container"
+   ],
+   "rows": [
+    [
+     "Virtualizes",
+     "The hardware",
+     "The operating system"
+    ],
+    [
+     "Each instance carries",
+     "A guest OS, virtual hardware and the app",
+     "Only the app and its dependencies"
+    ],
+    [
+     "Memory use",
+     "Much more",
+     "A fraction of a VM's"
+    ]
+   ]
+  }
+ ],
+ "sysd-reliab-163": [
+  {
+   "type": "flow",
+   "caption": "A revision passes through branching, building, packaging and testing before its canary deployment.",
+   "sent_ids": [
+    "cadfa3e3eca7",
+    "aada38666a7e",
+    "d207271229f4",
+    "1b27e4829f70",
+    "8d773bbbc10c",
+    "894bfb97112f",
+    "3d28ca182f49",
+    "9fe794561fce",
+    "227687f4ca09",
+    "3110290dd6d5",
+    "d249ab1c2f7d",
+    "16ee5faca739",
+    "c7b230d3dd69",
+    "81182932ae44",
+    "89ced0f603e1",
+    "b221bc822119",
+    "22f98e1cfaf5",
+    "5901bd901a05"
+   ],
+   "mermaid": "flowchart TD\nA[Mainline passes tests] --> B[Release branch cut]\nB --> C[Build and unit tests]\nC --> D[Package named, hashed, signed]\nD --> E[System tests]\nE --> F[Canary deployment]"
+  }
+ ],
+ "sysd-reliab-150": [
+  {
+   "type": "table",
+   "caption": "Three settings control the pace of a rolling update.",
+   "sent_ids": [
+    "44639d72a183",
+    "7c4a63aa516d",
+    "3d335af0eb27",
+    "39a116c5dbd5",
+    "ad3a125330d4",
+    "255164a8d155",
+    "743df9c2d77d",
+    "f13eda293fbc",
+    "465a68026604",
+    "4d80764ed839"
+   ],
+   "header": [
+    "Setting",
+    "What it caps or sets",
+    "Default"
+   ],
+   "rows": [
+    [
+     "maxUnavailable",
+     "Pods unavailable during the update",
+     "25%, rounded down"
+    ],
+    [
+     "maxSurge",
+     "Pods created above the desired number",
+     "25%, rounded up"
+    ],
+    [
+     "minReadySeconds",
+     "How long a new Pod must be ready to count as available",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "sysd-reliab-051": [
+  {
+   "type": "table",
+   "caption": "The control plane's main components each have one job.",
+   "sent_ids": [
+    "2351f83ffa3b",
+    "e974c9e8ab4b",
+    "276ea01d2728",
+    "828edcadb999",
+    "dbf8e89d211a",
+    "36d58f5d1fac",
+    "981d40f1d8e3",
+    "2cb7eeacec68",
+    "6d71458ea5d2",
+    "c1b69ac37230"
+   ],
+   "header": [
+    "Component",
+    "What it does"
+   ],
+   "rows": [
+    [
+     "API server",
+     "Serves the Kubernetes API; every operation on pods goes through it"
+    ],
+    [
+     "etcd",
+     "Backing store for all cluster data"
+    ],
+    [
+     "Scheduler",
+     "Picks the node for an unscheduled pod"
+    ],
+    [
+     "Controller manager",
+     "Runs the controllers as a single process"
+    ]
+   ]
+  }
+ ],
+ "sysd-reliab-040": [
+  {
+   "type": "table",
+   "caption": "Each strategy replaces a running version in a different way.",
+   "sent_ids": [
+    "1c8f7bff8e20",
+    "d775236759f3",
+    "5bcd260de0f8",
+    "44639d72a183",
+    "488bc3af2169",
+    "d33d3c1e3dc0",
+    "1bf65fc04d4f",
+    "b1eb97e6e667",
+    "f7588ae2514c",
+    "7a63972fc9a4",
+    "efb410dd80e8",
+    "b5f9758c2125",
+    "9c34092e8c7a",
+    "c6d84b8961df",
+    "0a26d9f66d15",
+    "4b6caeddffed",
+    "296f69be8622",
+    "87b2ab87bad6",
+    "bf0c0a34f245",
+    "5b6198ef8c04"
+   ],
+   "header": [
+    "Strategy",
+    "How it works",
+    "Note"
+   ],
+   "rows": [
+    [
+     "Recreate",
+     "Terminates all instances, then creates new ones",
+     "Non-critical apps, early development"
+    ],
+    [
+     "Rolling update",
+     "Replaces instances one by one",
+     "Periodic releases"
+    ],
+    [
+     "Blue-green",
+     "Switches traffic from blue to the prepared green",
+     "Two identical environments"
+    ],
+    [
+     "Canary",
+     "New version goes to a subset of users or servers",
+     "Validates impact first"
+    ],
+    [
+     "Shadow",
+     "Copies live traffic to the new version",
+     "Most complex: needs mock services"
+    ],
+    [
+     "A/B testing",
+     "Runs several versions at once on different users",
+     "Optimizes user experience"
+    ]
+   ]
+  }
+ ],
+ "sysd-reliab-144": [
+  {
+   "type": "flow",
+   "caption": "A change flows from merge to end users through automated stages.",
+   "sent_ids": [
+    "91291bb1c448",
+    "6c535cc312f5",
+    "d9caddfaa918",
+    "690a1d0e0f22",
+    "619cae0c39ca",
+    "2555e89f5af1",
+    "fa01f43817d9"
+   ],
+   "mermaid": "flowchart TD\nA[Merge small changes] --> B[Compile, link, package]\nB --> C[Automated tests]\nC --> D[Automated deployment]\nD --> E[End users]"
+  }
+ ]
+}

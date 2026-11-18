@@ -1,0 +1,379 @@
+{
+ "sysd-found-025": [
+  {
+   "type": "layers",
+   "caption": "The seven OSI layers from top to bottom, each with the one job the entry gives it.",
+   "sent_ids": [
+    "8fed35975b42",
+    "ebd6d5ae87bc",
+    "89412755a2a3",
+    "95d6fd6acac4",
+    "bdf8383c3d67",
+    "4deddf502f5f",
+    "11ab8930cc1d",
+    "f08ae5fde212",
+    "7b14a846ab1e",
+    "bf2d4f8efeab",
+    "de249c66f5d0",
+    "22793c8137fb",
+    "8b3e7fdccc0d",
+    "46e7f034ffc6",
+    "8be9cc52a18a",
+    "26714f5bcd12",
+    "edeb7f112f75",
+    "d8b1766e7cb5",
+    "dfffdff5036f",
+    "0387e3720322",
+    "b89e45dfb33c"
+   ],
+   "layers": [
+    [
+     "Application",
+     "the only layer that touches user data"
+    ],
+    [
+     "Presentation",
+     "translation, encryption, compression"
+    ],
+    [
+     "Session",
+     "opens, keeps and closes the session"
+    ],
+    [
+     "Transport",
+     "end-to-end delivery in segments"
+    ],
+    [
+     "Network",
+     "routing packets between networks"
+    ],
+    [
+     "Data link",
+     "frames between devices on one network"
+    ],
+    [
+     "Physical",
+     "cables, switches and bits"
+    ]
+   ]
+  }
+ ],
+ "sysd-found-019": [
+  {
+   "type": "flow",
+   "caption": "Each layer wraps what it receives from the layer above, and the receiver strips the headers in reverse order.",
+   "sent_ids": [
+    "cd60b33d2d9e",
+    "6c14843f267c",
+    "e6d7a6a311a0",
+    "b8a90b034371",
+    "f3fe9d84697e",
+    "a56c838af05f",
+    "4c441acf68e9",
+    "0232322dafe6",
+    "431d7644cebd",
+    "734183b01093",
+    "54fe1bece6b6"
+   ],
+   "mermaid": "flowchart TD\nA[Application: HTTP header added] --> B[Transport: TCP segment]\nB --> C[Network: IP datagram]\nC --> D[Data link: frame with MAC header]\nD --> E[Physical: binary bits]"
+  }
+ ],
+ "sysd-found-006": [
+  {
+   "type": "table",
+   "caption": "The three-way handshake opens a connection, and a FIN and an ACK from each side close it.",
+   "sent_ids": [
+    "377b032a9301",
+    "72600a21d838",
+    "565e2f3faab2",
+    "3e0c5881deab",
+    "4f3e128df1bf",
+    "a60e906962f5",
+    "fd4fc55c868c",
+    "58a79804f0a0",
+    "239fb3ad908c",
+    "32e14e9eb648",
+    "d6211c86138e"
+   ],
+   "header": [
+    "Step",
+    "Who sends",
+    "What it carries"
+   ],
+   "rows": [
+    [
+     "1",
+     "Client: SYN",
+     "random sequence number x"
+    ],
+    [
+     "2",
+     "Server: SYN-ACK",
+     "acknowledges x + 1, own random number y"
+    ],
+    [
+     "3",
+     "Client: ACK",
+     "sequence x + 1, acknowledgment y + 1"
+    ],
+    [
+     "4",
+     "Either side: FIN",
+     "wants to stop its own half"
+    ],
+    [
+     "5",
+     "Other side: ACK",
+     "acknowledges the FIN; each side needs both"
+    ]
+   ]
+  }
+ ],
+ "sysd-found-016": [
+  {
+   "type": "table",
+   "caption": "TCP and UDP compared on the same five properties, as the entry describes them.",
+   "sent_ids": [
+    "ce73062cfa16",
+    "cbf4ddcf1330",
+    "6c60647fa126",
+    "7ebe9b8ece0d",
+    "15cb56554bfc",
+    "f728d435d3ac",
+    "c1d36add6f48",
+    "e5e8807e3266",
+    "92743fa111cd",
+    "47413d138296",
+    "19fec1a1d40e",
+    "a02ef2a0dd02",
+    "22afcf404af9",
+    "50f5bf588473",
+    "feff2700d612",
+    "98ef212dc501",
+    "91476688b164",
+    "2d8a0fa4ccc7",
+    "cb9d92ee5418",
+    "324ff08363e6",
+    "b1f2cd49bd32"
+   ],
+   "header": [
+    "Property",
+    "TCP",
+    "UDP"
+   ],
+   "rows": [
+    [
+     "Connection",
+     "handshake first",
+     "connectionless"
+    ],
+    [
+     "Delivery",
+     "acknowledged, retransmitted",
+     "no acknowledgment or retransmission"
+    ],
+    [
+     "Order",
+     "ordered byte stream",
+     "order not guaranteed"
+    ],
+    [
+     "Message boundaries",
+     "none",
+     "definite"
+    ],
+    [
+     "Weight",
+     "heavyweight",
+     "lightweight"
+    ]
+   ]
+  }
+ ],
+ "sysd-found-003": [
+  {
+   "type": "table",
+   "caption": "The four addressing methods differ in how many receivers a message reaches.",
+   "sent_ids": [
+    "970880d282bc",
+    "16e5922febb1",
+    "9e1ae3f8144f",
+    "77b43d2c790f",
+    "796a8b217790",
+    "35bde30ad31c",
+    "7243de6527f0",
+    "c7cd56636605",
+    "3a3383d83264",
+    "eca17c9b55d9",
+    "a1459422ce5a",
+    "9db0fecbc0a1"
+   ],
+   "header": [
+    "Method",
+    "Reaches",
+    "Used by"
+   ],
+   "rows": [
+    [
+     "Unicast",
+     "one specific node",
+     "HTTP, FTP, SMTP"
+    ],
+    [
+     "Broadcast",
+     "all nodes, generally a whole subnet",
+     "ARP, DHCP, NTP"
+    ],
+    [
+     "Multicast",
+     "a group that asked to receive",
+     "IPTV, video conferencing"
+    ],
+    [
+     "Anycast",
+     "one node of a group, typically the nearest",
+     "DNS querying, CDNs"
+    ]
+   ]
+  }
+ ],
+ "sysd-found-018": [
+  {
+   "type": "table",
+   "caption": "IPv6 widens the address and simplifies the header.",
+   "sent_ids": [
+    "42a9fa324fbf",
+    "aa32b60697ce",
+    "eab6d6fa6df7",
+    "0c1766f39656",
+    "f7c1b3bcb546",
+    "07b6137dca3c",
+    "5ff4622cea9b",
+    "f9ca1b60ce50",
+    "72eb91db1c5b",
+    "22a4fa76cc4e",
+    "41c7786a9cea",
+    "a8c953250cb3",
+    "1bc70405467c"
+   ],
+   "header": [
+    "Feature",
+    "IPv4",
+    "IPv6"
+   ],
+   "rows": [
+    [
+     "Address size",
+     "32 bits",
+     "128 bits"
+    ],
+    [
+     "Written as",
+     "four dotted decimal numbers",
+     "eight groups of four hexadecimal digits"
+    ],
+    [
+     "Addresses",
+     "about 4.3 billion",
+     "about 3.403×10^38"
+    ],
+    [
+     "Header",
+     "more complex, with options",
+     "simpler, a fixed 40 bytes"
+    ]
+   ]
+  }
+ ],
+ "sysd-found-156": [
+  {
+   "type": "table",
+   "caption": "The faster the link, the sooner the sequence number space is used up.",
+   "sent_ids": [
+    "4c7230e6a31b",
+    "721cf0789a8f",
+    "a1c46ab0face"
+   ],
+   "header": [
+    "Link speed",
+    "Time to use up 2^32 octets"
+   ],
+   "rows": [
+    [
+     "2 megabits/sec",
+     "4.5 hours"
+    ],
+    [
+     "100 megabits/sec",
+     "5.4 minutes"
+    ],
+    [
+     "1 Gbps",
+     "34 seconds"
+    ],
+    [
+     "10 Gbps",
+     "3 seconds"
+    ],
+    [
+     "100 Gbps",
+     "about a third of a second"
+    ]
+   ]
+  }
+ ],
+ "sysd-found-147": [
+  {
+   "type": "table",
+   "caption": "A DHCP client gets its address through four messages, alternating between client and server.",
+   "sent_ids": [
+    "820f993ea39a",
+    "fd2e1af30a5d",
+    "8a50247c1cfe",
+    "d5a0ab07cd52",
+    "174ea6d0a542",
+    "08937b0d5d6d",
+    "6703d731e2fe",
+    "3a9651477ee4",
+    "ac46bd2bb07d",
+    "3dca5920c7d6",
+    "2528d890b9f5",
+    "1528093e1726",
+    "82dbe3b45954",
+    "97f904d4a422"
+   ],
+   "header": [
+    "Step",
+    "Message",
+    "Sent by",
+    "What it does"
+   ],
+   "rows": [
+    [
+     "1",
+     "DHCPDISCOVER",
+     "Client",
+     "broadcasts to find a server"
+    ],
+    [
+     "2",
+     "DHCPOFFER",
+     "Server",
+     "offers an address, mask and lease"
+    ],
+    [
+     "3",
+     "DHCPREQUEST",
+     "Client",
+     "accepts one offer, naming that server"
+    ],
+    [
+     "4",
+     "DHCPACK",
+     "Server",
+     "confirms the lease and configuration"
+    ]
+   ]
+  }
+ ]
+}

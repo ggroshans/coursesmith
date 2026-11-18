@@ -1,0 +1,98 @@
+{
+ "entries": {
+  "sysd-blocks-014": {
+   "title": "Memoization: remembering what a function already computed",
+   "text": "A function that has already answered a question should not be asked twice. Memoization is an optimization technique that speeds up programs by storing the results of expensive function calls and returning them when the same inputs occur again. It is a type of caching. A memoized function stores its inputs together with the computed result the first time, then returns the remembered result on later calls. Only a referentially transparent function can be memoized, one whose call has exactly the same effect as its return value. Memoization is a typical space-time tradeoff: runtime falls as memory use rises."
+  },
+  "sysd-blocks-006": {
+   "title": "Belady's clairvoyant algorithm: the perfect eviction rule",
+   "text": "The perfect cache policy exists on paper, and nobody can run it. Bélády's optimal algorithm, also called the clairvoyant algorithm, discards the information that will not be needed for the longest time. That means it must know the future, so it is unfeasible in practice, and a general-purpose operating system cannot implement it. Its practical minimum can still be calculated after experimentation, which gives a yardstick for judging a chosen cache algorithm. Some of the best-performing policies attempt to imitate it by predicting future reuse from past access patterns."
+  },
+  "sysd-blocks-011": {
+   "title": "FIFO and random eviction: choosing without a memory",
+   "text": "The simplest eviction rules do not track recency or frequency at all. FIFO evicts the oldest entry, LIFO the newest, and random replacement an arbitrary one. With FIFO the cache behaves like a queue and evicts blocks in the order they were added, however often they were accessed before. With LIFO it behaves like a stack and evicts the block added most recently, again regardless of how often it was accessed. Random replacement picks an item and discards it to make space when necessary, and it needs no access history. It has been used in ARM processors because of its simplicity, and it allows efficient stochastic simulation."
+  },
+  "sysd-blocks-009": {
+   "title": "Most recently used: evicting what you just touched",
+   "text": "Throwing out what you just used sounds backwards, yet sometimes it wins. Most recently used (MRU) is the reverse of LRU: it discards the most recently used items first. Chou and DeWitt said that when a file is repeatedly scanned in a looping sequential reference pattern, MRU is the best replacement algorithm. For random access patterns and repeated scans over large datasets, called cyclic access patterns, MRU gets more hits than LRU because it tends to retain older data. It is most useful where the older an item is, the more likely it is to be accessed."
+  },
+  "sysd-blocks-012": {
+   "title": "SIEVE and S3-FIFO: evicting the one-hit wonders",
+   "text": "Two newer eviction algorithms are built on one observation: cache workloads show high one-hit-wonder ratios, meaning many objects are requested once and never again. SIEVE is designed for web caches, such as key-value caches and CDNs, a topic taken up in {{ref:sysd-blocks-069}}. It keeps a single FIFO queue and quickly evicts newly inserted objects. S3-FIFO, designed in 2023, uses three FIFO queues. A small queue takes 10% of cache space, a main queue takes 90%, and a ghost queue stores only object metadata. The small queue filters out one-hit wonders, and the main queue keeps popular objects through reinsertion."
+  },
+  "sysd-blocks-010": {
+   "title": "Segmented LRU: making an item earn its place",
+   "text": "A cache can make an item earn its place. A segmented LRU (SLRU) cache is divided into a probationary segment and a protected segment. Data from a miss enters the probationary segment. A hit moves the line to the most-recently-accessed end of the protected segment, so protected lines have been accessed at least twice. Promoting a line can push the protected segment's LRU line back to the probationary one for another chance. Discards come from the LRU end of the probationary segment. A refinement that uses recently evicted items to resize the two segments is the subject of {{ref:sysd-blocks-161}}."
+  },
+  "sysd-blocks-161": {
+   "title": "Adaptive replacement cache: learning from what it evicted",
+   "text": "A cache that remembers what it threw away can learn from it. The adaptive replacement cache (ARC) is a page replacement algorithm that outperforms LRU. It tracks both frequently used and recently used pages, plus a recent eviction history for both. It splits the usual single list into T1, entries seen once recently, and T2, frequent entries referenced at least twice. Each list gets a ghost list, B1 or B2, holding only the keys of entries evicted from it, never their data. A hit in B1 grows the target size of T1, and a hit in B2 shrinks it."
+  },
+  "sysd-blocks-021": {
+   "title": "Caching layers: caches from browser to storage",
+   "text": "Caches hide at nearly every layer of a system, from the client-facing side to the backend. Browsers cache HTTP responses, guided by directives in response headers. CDNs cache static content such as images and JavaScript closer to users, and some load balancers cache frequently requested data to answer without engaging backend servers. Services often check an in-memory cache before querying a data store, and distributed caches such as Redis hold key-value pairs across services. Even the data store caches. A bufferpool holds copies of data pages in memory, and materialized views store the results of expensive queries."
+  },
+  "sysd-blocks-028": {
+   "title": "Time to live: giving every cache entry an expiry date",
+   "text": "The simplest way to keep a cache fresh is to let every entry expire. Time to live (TTL) gives each cache item a specific lifespan after which it is dropped or refreshed. It is not strictly an eviction algorithm; each item is simply given a lifespan. Time-aware LRU (TLRU) is an LRU variant for caches whose contents have a valid lifetime, with a time-to-use timestamp on each item. One practical tip: avoid giving keys the same expiry time by adding a random number to the TTL. Give keys that do not exist only a short TTL."
+  },
+  "sysd-blocks-024": {
+   "title": "Cache invalidation: the famously hard problem",
+   "text": "Phil Karlton counted cache invalidation among the two hard things in computer science. Cache invalidation is the process by which a computer system declares cache entries out of date and replaces or removes them. Data goes stale when something other than the cache changes the backing store. It also goes stale when a client updates data in one cache while copies sit in other caches. If data is modified, it should be invalidated in the cache, or the application can behave inconsistently.\n\nExplicit invalidation marks what the client received as out of date, so a client that asks again is given the new version. It is hard when many objects must be invalidated, and invalidating several representations adds complexity to the application. The simplest rule is a TTL, the longest an entry may stay cached before refresh. Very low TTLs, validating on every request, or not caching volatile content also keep data fresh but raise load on the application. Protocols that keep cache managers consistent are called cache coherence protocols, and invalidation can be one of their steps."
+  },
+  "sysd-blocks-023": {
+   "title": "Cache-aside: the application does the fetching",
+   "text": "In cache-aside, the application, not the cache, does the work. On a read the service checks the cache and returns the cached contents if present. On a miss it reads the data from the data store and then updates the cache. A read-through cache, by contrast, loads data by itself, as {{ref:sysd-blocks-022}} describes.\n\nCached entries can go stale. The simplest rule is a maximum time an entry may stay in the cache before it is updated, usually called time to live (TTL). Write-around is often used together with cache-aside to make sure the cache is up to date. And because a cache has limited capacity, the query-cache design uses a least recently used approach to expire older entries."
+  },
+  "sysd-blocks-017": {
+   "title": "Cache stampede: when expiry sends everyone at once",
+   "text": "Suppose a page takes 3 seconds to render and traffic is 10 requests per second. The moment its cached copy expires, 30 processes are recomputing it at once. That is a cache stampede, also called dog-piling: a chain-reaction failure in which very heavy load makes many parallel processes recompute the same expired cached value at once.\n\nWhile a page stays cached, a heavily loaded system remains responsive, because requests are served from the cached copy and the expensive rendering stays to a minimum. At expiry, many threads across the server farm may try to render it together, and none of them knows the others are doing so. Recomputing usually queries a data store or other service, so at a high request rate that shared resource is overloaded. The concurrent load can exhaust shared resources and cause congestion collapse. Every attempt to re-render times out, the cache hit rate drops to zero, and the collapse lasts as long as the load stays heavy."
+  },
+  "sysd-blocks-018": {
+   "title": "Stopping a stampede: locks, early expiry and other fixes",
+   "text": "Every fix for a cache stampede answers one question: who recomputes the expired value? Cache stampede mitigation, also called dogpile prevention, covers the techniques that stop many processes recomputing it at the same moment. They fall into three groups: locking, external recomputation and probabilistic early expiration.\n\nWith locking, a process that misses on a key recomputes the value only if it acquires the key's lock. A process that fails to get the lock can return not-found or serve a stale item. Locking can prevent stampedes but doubles the writes. It is also hard to implement correctly: the lock holder may fail, the lock needs its own time-to-live, and race conditions arise.\n\nExternal recomputation moves the work to a separate process, triggered as the cached value nears expiration or on a miss. With probabilistic early expiration, each process decides whether to recompute before expiry, with a probability that rises as expiry nears. One implementation, based on an exponential distribution, was shown to be optimal. It needs extra cache memory to store the recompute time."
+  },
+  "sysd-blocks-019": {
+   "title": "Cache penetration: requests for data that does not exist",
+   "text": "Some requests can never be answered from a cache, because the answer does not exist. Cache penetration happens when the requested key exists in neither the cache nor the data store, so every such request ends up at the store. The store has nothing to return, so the application cannot populate the cache. A malicious user sending many such queries can easily overload the store. One fix is to cache a null value for missing keys, with a short TTL. Another is a Bloom filter, which tells whether an element is in a set. Queries for keys it rules out never reach the cache or the store."
+  },
+  "sysd-blocks-020": {
+   "title": "Cache failure modes: four ways a cache goes wrong",
+   "text": "Caches typically go wrong in four ways, and each one ends at the data store behind them. When many keys expire together, queries hit the store directly and overload it, so add a random number to the expiry times. A key that exists in neither the cache nor the store stresses both; cache a null value for it, or check a Bloom filter first. When a hot key expires, many requests hit the store; hot keys take up 80% of the queries, so they are given no expiration time. When the cache is down, all requests go to the store, and a cache cluster improves cache availability."
+  },
+  "sysd-blocks-026": {
+   "title": "Multi-level caching: falling through the levels",
+   "text": "A lookup can fall through several caches before it finds anything. Multi-level caching keeps data in a hierarchy of cache levels, labeled L1, L2, L3 and so on, with each level searched in turn. A lookup searches the tags in level one first. If the data is not there, it searches L2, then L3 and lower, until it is found and read. Most CPUs since the 1980s have used one or more caches, sometimes in cascaded levels. The same idea works in software: in two-tiered caching, an in-memory cache is the first layer and a distributed cache is the second."
+  },
+  "sysd-blocks-027": {
+   "title": "When to use a cache, and when not to",
+   "text": "Caches are not free, and they do not always pay. A cache pays off when data is read repeatedly, and it should be treated as transient storage rather than a permanent store. Done well, it improves performance, reduces load on the data store and network cost, and increases read throughput. It does not help when reading the cache takes as long as reading the primary store, or when requests rarely repeat. Nor does it help when data changes frequently, since the cached version gets out of sync. And because caches are almost always built on memory that is fast but volatile, they are transient."
+  },
+  "sysd-blocks-031": {
+   "title": "Redis persistence: snapshots and the append-only file",
+   "text": "On default settings, a complete Redis system failure loses only a few seconds of data. Redis persists its in-memory dataset to disk in two ways. Snapshotting asynchronously dumps the dataset to disk at regular intervals as a binary dump. Journaling adds a record of each modifying operation to an append-only file (AOF) in the background, and it is generally considered the safer approach. By default it writes data to a file system at least every two seconds. It forks the process that holds the data, so the parent keeps serving clients while the child writes to disk."
+  },
+  "sysd-blocks-033": {
+   "title": "Memcached or Redis: the interview question and its answer",
+   "text": "Memcached or Redis? It is a popular interview question, and the answer turns on the data structures, persistence and scaling each offers. On data structures, Memcached offers a distributed table of keys up to 250 bytes and values up to 1 megabyte. Redis supports strings, hashes, lists, sets, JSON and more. These suit counting clicks and comments per post (hash) and sorting and deduping commented users (sorted set). They also suit caching user behavior history and storing boolean flags, such as login or membership status, in small space.\n\nOn persistence, Memcached discards its oldest values when memory runs out and must be treated as transitory. Redis can persist data with snapshots or an append-only file. On scaling, Memcached clients hash keys across servers that do not talk to each other. Redis offers master-replica copying and a cluster mode that scales up to 1,000 nodes. The two systems are covered in {{ref:sysd-blocks-029}} and {{ref:sysd-blocks-030}}."
+  },
+  "sysd-blocks-157": {
+   "title": "Purge, refresh and ban: telling a caching proxy to forget",
+   "text": "Sometimes waiting for an entry to expire is too slow, and a caching proxy has to be told to forget. Purge, refresh and ban are three methods of explicitly invalidating content held in a caching proxy. Purge removes content, including all its variants, immediately. The next request fetches the data from the application and stores it again. Refresh fetches the content from the application even when a cached copy exists and replaces the stored copy. It affects only one variant. Ban adds a reference to the cached content to a ban list that requests are checked against. On a match, new content is fetched, returned and cached."
+  },
+  "sysd-blocks-162": {
+   "title": "The thundering herd: many wake, one wins",
+   "text": "Waking a crowd of processes to serve one of them wastes everyone else's effort. That is the thundering herd problem: many processes or threads are awakened at once but only one can use the resource. The others fail and go back to sleep. The needless awakenings consume CPU and other resources, and can slow the one process that succeeds. When it happens while accessing a cache, it is often called a cache stampede. Operating systems mitigate it by waking one waiter, as the Linux kernel, epoll's EPOLLEXCLUSIVE flag and Windows I/O completion ports do. Clients can add jitter, randomness in their retry waits, to break the synchronization."
+  },
+  "sysd-blocks-016": {
+   "title": "Caching weather forecasts: one answer for a whole neighborhood",
+   "text": "In 2011, smartphone weather features overloaded AccuWeather servers. Two requests from the same area generated separate requests, so the servers did the same work twice for what was, to the user, the same forecast.\n\nThe fix lived at the edge. Edge servers truncated the GPS coordinates to fewer decimal places. Many slightly different positions then became one position, and the cached result of a nearby query could be used for the next. Locality of reference was doing the work here: requests from the same area are alike, so one stored answer can serve many.\n\nThe result showed in the numbers. Every request answered at the edge was one the server never saw, and the number of lookups reaching the server per day dropped by half. The lesson is about the label a cache files an answer under. A cache can reuse an answer only when a new request looks identical to an old one. Loosening what counts as identical turned near misses into hits and raised the hit ratio."
+  }
+ },
+ "openers": {
+  "caching": "The fastest way to answer a request is to have answered it already, and that single trick runs through nearly every fast system. A cache is a hardware or software component that stores data so that future requests for it can be served faster. This chapter starts inside the processor and the operating system, then moves out to the caches between a web service and its data. It asks how often an item is found, what to discard when the cache is full and when a write reaches the data behind it."
+ },
+ "reviews": {
+  "caching": "Every idea in this chapter grows out of one bet, that recently used data will be used again, and locality of reference is why it usually pays. The hit ratio measures how often the bet wins, and eviction policies such as LRU and LFU decide what a full cache forgets. Write policies, time to live and invalidation decide how a cache and the data behind it stay in step. Distributed caches such as Redis and Memcached carry the idea across machines, and stampedes and penetration show what happens when the bet fails at scale. The weather case shows how much one well-chosen cache key can save."
+ }
+}

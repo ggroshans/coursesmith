@@ -1,0 +1,228 @@
+{
+ "sysd-blocks-104": [
+  {
+   "type": "bar",
+   "caption": "Disk reads to find one record in a million fall from 20 to 14 to 3 as the index is indexed again.",
+   "sent_ids": [
+    "8b6fde1b28c6",
+    "c5d2ee02a82f",
+    "5d0bcb4cd7a3",
+    "72c67c6de8fa",
+    "6d1ad20139bd",
+    "802fea1cf7b8",
+    "00f760e1a33a"
+   ],
+   "unit": "disk reads",
+   "bars": [
+    [
+     "One record in a million, no index",
+     20
+    ],
+    [
+     "With one auxiliary index",
+     14
+    ],
+    [
+     "With the index indexed again",
+     3
+    ]
+   ]
+  }
+ ],
+ "sysd-blocks-099": [
+  {
+   "type": "table",
+   "caption": "The two index structures side by side: what each is good at, how it stores data and who uses it.",
+   "sent_ids": [
+    "ee82b2af8dad",
+    "b260fc952b42",
+    "13735c3be6e7",
+    "558a8701189c",
+    "3eb83d16695d",
+    "0ce251532aa4",
+    "1c3be3de2767",
+    "25a14c74e7cc",
+    "95a33328cbc7",
+    "4619f5621695"
+   ],
+   "header": [
+    "",
+    "B-tree",
+    "LSM-tree"
+   ],
+   "rows": [
+    [
+     "Strength",
+     "Faster reads",
+     "Fast writes"
+    ],
+    [
+     "Stored as",
+     "Pages",
+     "Sorted Strings Tables"
+    ],
+    [
+     "Used by",
+     "Almost all relational databases",
+     "Cassandra, LevelDB, RocksDB"
+    ]
+   ]
+  }
+ ],
+ "sysd-blocks-109": [
+  {
+   "type": "flow",
+   "caption": "A write is buffered in memory, flushed to disk as a sorted component and later merged by compaction.",
+   "sent_ids": [
+    "151c5d478fcc",
+    "9e27ad3a143b",
+    "b67c65cae707",
+    "5d1de14d65e3",
+    "5713d33bb0a0",
+    "3a92a5945e68",
+    "bf064722ec6e",
+    "0ce251532aa4",
+    "1c3be3de2767"
+   ],
+   "mermaid": "flowchart TD\nA[Incoming write] --> C[In-memory buffer]\nA -.->|may log first| B[Write-ahead log]\nC -->|buffer full: flush| D[Immutable sorted component]\nD -->|merge: compaction| E[Next level on disk]"
+  }
+ ],
+ "sysd-blocks-096": [
+  {
+   "type": "table",
+   "caption": "Each step splits out the data that breaks one normal form.",
+   "sent_ids": [
+    "076e000b07a6",
+    "6b1e0367d8e1",
+    "3093cae0a803",
+    "db869ed80dd7",
+    "036226fc67c1",
+    "20c106b50f55",
+    "44b7c8befa3f",
+    "066cc1349801",
+    "5f926cecbe0a",
+    "e1654f27f11f",
+    "a589047a6c9f",
+    "48a23dc4a84d",
+    "6d296dd86414"
+   ],
+   "header": [
+    "Form",
+    "What breaks it",
+    "Fix"
+   ],
+   "rows": [
+    [
+     "1NF",
+     "Subject holds a set of values",
+     "Separate Title-Subject table"
+    ],
+    [
+     "2NF",
+     "Price depends on Format as well as Title",
+     "Price table keyed by Title and Format"
+    ],
+    [
+     "3NF",
+     "Nationality depends on Author, which depends on Title",
+     "Nationality, publisher country and genre name get their own tables"
+    ],
+    [
+     "4NF",
+     "Title is not bound to a Location",
+     "Franchisee-Book and Franchisee-Location tables"
+    ]
+   ]
+  }
+ ],
+ "sysd-blocks-090": [
+  {
+   "type": "table",
+   "caption": "Each index structure is matched with the job the facts name for it.",
+   "sent_ids": [
+    "d1491826e453",
+    "80a5973a5481",
+    "10c89bbdfd13",
+    "b2b38dde44fa",
+    "c0002dfa1d74",
+    "ad084aeace3c",
+    "0952d100f8d0",
+    "b6fddc021428",
+    "04e11de7846c",
+    "4b61d877e6b9"
+   ],
+   "header": [
+    "Structure",
+    "What it serves"
+   ],
+   "rows": [
+    [
+     "Skiplist",
+     "In-memory index"
+    ],
+    [
+     "Hash index",
+     "Implementing a map"
+    ],
+    [
+     "SSTable",
+     "Immutable on-disk map"
+    ],
+    [
+     "LSM tree",
+     "High write throughput"
+    ],
+    [
+     "B-tree",
+     "Consistent reads and writes on disk"
+    ],
+    [
+     "Inverted index",
+     "Document indexing"
+    ],
+    [
+     "Suffix tree",
+     "String pattern search"
+    ],
+    [
+     "R-tree",
+     "Multi-dimensional search, such as nearest neighbor"
+    ]
+   ]
+  }
+ ],
+ "sysd-blocks-095": [
+  {
+   "type": "scale",
+   "caption": "The normal forms were introduced one after another between 1970 and 1979.",
+   "sent_ids": [
+    "f1b951a302dd",
+    "ee83b17391ef",
+    "ef4952a98e5f"
+   ],
+   "axis": "Year introduced",
+   "marks": [
+    [
+     1970,
+     "1NF"
+    ],
+    [
+     1971,
+     "2NF, 3NF"
+    ],
+    [
+     1974,
+     "BCNF"
+    ],
+    [
+     1977,
+     "4NF"
+    ],
+    [
+     1979,
+     "5NF"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+CHAPTER design-a-payment-system | Design a payment system | part q (Design interview questions)
+sysd-q-007
+sysd-q-008
+sysd-q-077
+sysd-q-078
+sysd-q-079
+sysd-q-080
+sysd-q-081
+CHAPTER design-a-notification-system | Design a notification system | part q (Design interview questions)
+sysd-q-006
+sysd-q-074
+sysd-q-075
+sysd-q-076
+CHAPTER design-a-permission-system | Design a permission system | part q (Design interview questions)
+sysd-q-009
+sysd-q-010
+sysd-q-011
+sysd-q-012
+sysd-q-013
+sysd-q-014
+sysd-q-082
+sysd-q-083
+sysd-q-084
+sysd-q-085
+sysd-q-086

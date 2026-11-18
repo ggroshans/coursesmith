@@ -1,0 +1,226 @@
+{
+ "sysd-q-069": [
+  {
+   "type": "flow",
+   "caption": "A message waits in the station and is retried until the destination can be reached.",
+   "sent_ids": [
+    "c085000bd44e",
+    "b01e2942a70f",
+    "6856ef21f343",
+    "f0cf6ed59857",
+    "f488ba0f337c"
+   ],
+   "mermaid": "flowchart TD\nA[Sender] --> B[Station stores message]\nB --> C[Check integrity]\nC --> D{Reachable now?}\nD -->|yes| E[Send at once]\nD -->|no| F[Keep it and retry later]\nF -.-> D"
+  }
+ ],
+ "sysd-q-002": [
+  {
+   "type": "flow",
+   "caption": "Follow one message from the sender's chat service to an online or an offline recipient.",
+   "sent_ids": [
+    "ae72e8cc62fb",
+    "4b51f3a4b305",
+    "e2b46f1756fb",
+    "0790bce77e11",
+    "a450d88e7416",
+    "a54e75a8200c",
+    "1ebaed618877",
+    "1ddd514c3d96",
+    "3d6accc917c9",
+    "ce4b1400599f",
+    "2d84b7f84665",
+    "21a358329eb7"
+   ],
+   "mermaid": "flowchart TD\nA[Sender's chat service] --> B[Sequencing service adds ID]\nB --> C[Persist, queue for sync]\nC --> D{Recipient online?}\nD -->|yes| E[Push over web socket]\nD -->|no| F[Queue push event]\nF --> G[Notification service]\nG --> H[FCM or APNS]"
+  }
+ ],
+ "sysd-q-021": [
+  {
+   "type": "table",
+   "caption": "Push and pull trade writes against reads, and the hybrid splits users by follower count.",
+   "sent_ids": [
+    "4319b1c73394",
+    "28980f828361",
+    "947846c1b9db",
+    "78670f143252",
+    "18903ee4b38c",
+    "af737985d967",
+    "b8e959c8c622",
+    "9be312171f28",
+    "8fc4a11cad73",
+    "f538deb82e17",
+    "4518be8b2c03"
+   ],
+   "header": [
+    "Model",
+    "Feed built",
+    "Effect"
+   ],
+   "rows": [
+    [
+     "Push (fan-out on write)",
+     "Immediately, when a tweet is posted",
+     "More database writes"
+    ],
+    [
+     "Pull (fan-out on load)",
+     "When a follower reloads",
+     "Fewer writes, more reads"
+    ],
+    [
+     "Hybrid",
+     "Push for few followers, pull for many",
+     "Combines both"
+    ]
+   ]
+  }
+ ],
+ "sysd-q-023": [
+  {
+   "type": "flow",
+   "caption": "The five stages run in order, and the first big cut is from 500 million tweets to 1500 candidates.",
+   "sent_ids": [
+    "0c1927d598b0",
+    "1270ab73c705",
+    "fb807237e8f8",
+    "5334af70406a",
+    "083d13ec5e3f",
+    "46a94227174a",
+    "1270ab73c705",
+    "fb807237e8f8",
+    "5334af70406a",
+    "083d13ec5e3f",
+    "46a94227174a"
+   ],
+   "mermaid": "flowchart TD\nA[Candidate sourcing: 500 million tweets] --> B[Global filtering: 1500 candidates]\nB --> C[Scoring and ranking]\nC --> D[Filtering for diversity]\nD --> E[Mixing with ads and Who to Follow]"
+  }
+ ],
+ "sysd-q-035": [
+  {
+   "type": "flow",
+   "caption": "An upload passes through a queue, a chunker, a filter and a transcoder before the CDN serves it.",
+   "sent_ids": [
+    "d4f71ea4bcdf",
+    "6885c2598c0b",
+    "a35b5c9d3079",
+    "45cbdc95d7c6",
+    "f39f28ef3f98",
+    "e4d6b857c9e6",
+    "50eb15720eee",
+    "39fe92b5f812",
+    "8783fd65aa2b",
+    "9434888de1f9",
+    "4f86ccd0646c",
+    "6a117fb432ee",
+    "4469a1d4c76c",
+    "1eb58d62ae20",
+    "fc934892c848",
+    "34833100592a",
+    "daf7e9269478",
+    "6a66f369b383",
+    "8a7e25309231",
+    "d3a6f275bddc"
+   ],
+   "mermaid": "flowchart TD\nA[Content team uploads video] --> B[Message queue]\nB --> C[File chunker splits by scene]\nC --> D[Content filter]\nD -->|problems| E[Dead-letter queue]\nD --> F[Transcoder]\nF --> G[(HDFS or object store)]\nG --> H[CDN]\nH --> I[Viewers]"
+  }
+ ],
+ "sysd-q-016": [
+  {
+   "type": "flow",
+   "caption": "The ride service looks up nearby drivers in a location index, then broadcasts the request.",
+   "sent_ids": [
+    "f5849010517e",
+    "b5c354353d97",
+    "089ff88cebef",
+    "0f4460fe7a0e",
+    "a216f0a23f19",
+    "7490d876c58d",
+    "2b65d64fc027",
+    "32a4fa53e3a6",
+    "fee15bce3fc6",
+    "466e1453d95d",
+    "bff0b165d55a",
+    "4537fdab3bb8",
+    "b7bbb6a19c1e",
+    "df2f9efaeebe",
+    "eb5dfda13433",
+    "89d65d9dbb26"
+   ],
+   "mermaid": "flowchart TD\nA[Customer requests ride] --> B[Ride service finds nearby drivers]\nB --> G[(Geohash and quadtree index)]\nB --> C[Broadcasts request]\nC --> D[Driver accepts]\nD --> E[Customer sees live location]"
+  }
+ ],
+ "sysd-q-048": [
+  {
+   "type": "flow",
+   "caption": "The Crawler Service skips a link whose page looks like one it has already stored, which prevents a cycle.",
+   "sent_ids": [
+    "fec2d5a10623",
+    "fefd54f0a322",
+    "9794e60354aa",
+    "11818a31aca0",
+    "f9bccd82c5cc",
+    "f869ed5991d7",
+    "2b7fa98e823b",
+    "de65f613aa44",
+    "e07a836436ac",
+    "30efe887a207",
+    "c812662cf3a3",
+    "709ebbf31dae",
+    "ea553e3c0901",
+    "96c1d767b06a",
+    "16c6136f6693"
+   ],
+   "mermaid": "flowchart TD\nA[(links_to_crawl)] --> B[Crawler Service takes top link]\nB --> C{Similar signature?}\nC -->|yes| D[Lower link priority]\nD -.-> A\nC -->|no| E[Crawl the link]\nE --> F[Reverse Index job]\nE --> G[Document Service job]\nE --> H[(crawled_links)]"
+  }
+ ],
+ "sysd-q-056": [
+  {
+   "type": "flow",
+   "caption": "The three processes run in order: crawl, index, then serve ranked results.",
+   "sent_ids": [
+    "bf08d3210867",
+    "a8fac9b1fa0e",
+    "7d5dc56a95a0",
+    "d7996cffda0a",
+    "ca1240cd6593",
+    "e1dcaa6b2880",
+    "2048d56b8f1a",
+    "0ca5aa253b34",
+    "cdabd7457d90",
+    "f585cc62d96d"
+   ],
+   "mermaid": "flowchart TD\nA[Crawl: follow links from seeds] --> B[Index: analyze and organize]\nB --> C[Serve: analyze the query]\nC --> D[Retrieve from the index]\nD --> E[Rank by relevance]"
+  }
+ ],
+ "sysd-q-054": [
+  {
+   "type": "bar",
+   "caption": "Proposed waits between requests to one site range from 60 seconds down to 1 second.",
+   "sent_ids": [
+    "962e5474948a",
+    "a1d64ca4915b",
+    "b96a42bd04b3",
+    "5c4a9fde68e3"
+   ],
+   "bars": [
+    [
+     "First proposal",
+     60
+    ],
+    [
+     "WIRE",
+     15
+    ],
+    [
+     "Cho",
+     10
+    ],
+    [
+     "Dill et al.",
+     1
+    ]
+   ],
+   "unit": "seconds"
+  }
+ ]
+}

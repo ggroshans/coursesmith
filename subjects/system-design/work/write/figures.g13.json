@@ -1,0 +1,198 @@
+{
+ "sysd-msg-050": [
+  {
+   "type": "table",
+   "caption": "The three guarantees side by side: what each allows and where it fits.",
+   "sent_ids": [
+    "2fdad911fbff",
+    "bf005baa53ad",
+    "ac3839dca2e4",
+    "f72901a965ee",
+    "129d537dc6e3",
+    "43f0b170927e",
+    "a655eaaa7979",
+    "41c5f2057660",
+    "1472b0e2cb08",
+    "a9ee32009948",
+    "5dbede602b30",
+    "be5fb9ea5c2c",
+    "ebab98677163"
+   ],
+   "header": [
+    "Guarantee",
+    "What it means",
+    "Where it fits"
+   ],
+   "rows": [
+    [
+     "At most once",
+     "Messages may be lost, never redelivered",
+     "Monitoring metrics"
+    ],
+    [
+     "At least once",
+     "No message lost, but duplicates possible",
+     "Duplicates are no big issue, or the consumer can deduplicate"
+    ],
+    [
+     "Exactly once",
+     "Hardest to build; costs performance and complexity",
+     "Payment, trading, accounting"
+    ]
+   ]
+  }
+ ],
+ "sysd-msg-068": [
+  {
+   "type": "flow",
+   "caption": "A job goes from producer to queue to consumer, and the user is told its status.",
+   "sent_ids": [
+    "ebb140921d88",
+    "3fece68c2135",
+    "29340e38cf90",
+    "0d334fc52875"
+   ],
+   "mermaid": "flowchart TD\nA[Producer] -->|publishes job| B[(Queue)]\nB -->|consumer picks it up| C[Consumer]\nC -->|signals complete| D[Job done]\nA -.->|notifies status| E[User]"
+  }
+ ],
+ "sysd-msg-060": [
+  {
+   "type": "flow",
+   "caption": "One message published to a topic is pushed to every subscriber.",
+   "sent_ids": [
+    "8fabdb44f991",
+    "891fca8f29ad",
+    "2ce91fa76787",
+    "3000b0160c5d",
+    "254a4c5c2ff4"
+   ],
+   "mermaid": "flowchart TD\nA[Publisher] -->|publishes| T[Topic]\nT -->|pushed| S1[Subscriber A]\nT -->|pushed| S2[Subscriber B]\nT -->|pushed| S3[Subscriber C]"
+  }
+ ],
+ "sysd-msg-061": [
+  {
+   "type": "table",
+   "caption": "A queue serves one consumer per message; a topic serves every subscriber.",
+   "sent_ids": [
+    "0d334fc52875",
+    "6ac2fa3fe42f",
+    "254a4c5c2ff4",
+    "ceda84d477df",
+    "c2f1a33fbe4d",
+    "b95720fd1c7a"
+   ],
+   "header": [
+    "",
+    "Message queue",
+    "Publish–subscribe"
+   ],
+   "rows": [
+    [
+     "Who gets a message",
+     "One consumer",
+     "Every subscriber of the topic"
+    ],
+    [
+     "Holding",
+     "Held until retrieved",
+     "Pushed out at once, little or no queuing"
+    ],
+    [
+     "What the sender knows",
+     "Often the destination",
+     "Need not know who uses it"
+    ]
+   ]
+  }
+ ],
+ "sysd-msg-037": [
+  {
+   "type": "flow",
+   "caption": "Producers write to a topic whose partitions live on brokers, and a consumer group reads them.",
+   "sent_ids": [
+    "a87b8d172791",
+    "9dc11a848683",
+    "6416a413506d",
+    "0243353a1936",
+    "127fc8a03cb7",
+    "95608d77557f",
+    "88507eeb1d43"
+   ],
+   "mermaid": "flowchart TD\nA[Producers] -->|send to a topic| B[Topic split into partitions]\nB -->|replicated across| C[Cluster of brokers]\nC -->|read by| D[Consumer group]"
+  }
+ ],
+ "sysd-msg-041": [
+  {
+   "type": "flow",
+   "caption": "A CDC tool reads the transaction log and ships changes through a queue to the targets.",
+   "sent_ids": [
+    "6887950f86ef",
+    "6778ecf000b9",
+    "74999ba7bc6c",
+    "2e0a2a7822ca",
+    "0420d6f692e3",
+    "686bf4b08239",
+    "5df822cecd92",
+    "83ff3a3c49a7"
+   ],
+   "mermaid": "flowchart TD\nA[(Source database)] -->|transaction log| B[Source connector]\nB -->|changes published| C[Message queue]\nC --> D[Sink connector]\nD -->|updates in real time| E[(Targets)]"
+  }
+ ],
+ "sysd-msg-044": [
+  {
+   "type": "table",
+   "caption": "The three execution models and an example of each.",
+   "sent_ids": [
+    "9e9712126ccc",
+    "27de473847c8",
+    "bf4462e8bae7",
+    "9a823fb997ec",
+    "df39afb77251",
+    "4376edb8f138",
+    "33f589d11786",
+    "982f1befe064",
+    "827b875055e5",
+    "a123c3b119e9",
+    "331f8d481b29"
+   ],
+   "header": [
+    "Model",
+    "How it works",
+    "Examples"
+   ],
+   "rows": [
+    [
+     "Native continuous",
+     "Processes elements individually as they arrive",
+     "Apache Storm, Flink, Apache Samza"
+    ],
+    [
+     "Micro-batch",
+     "Collects elements into small time windows",
+     "Apache Spark Streaming"
+    ],
+    [
+     "Distributed logging fabric",
+     "Persistent, append-only transport layer",
+     "Apache Kafka"
+    ]
+   ]
+  }
+ ],
+ "sysd-msg-131": [
+  {
+   "type": "flow",
+   "caption": "A Flink dataflow runs from sources through transformations to sinks, with checkpoints of its state.",
+   "sent_ids": [
+    "670ba960ff5a",
+    "27d696cd7fbc",
+    "ef53c2cd1736",
+    "6ff504f3d6f7",
+    "f2c04578e6d7",
+    "4f55f31b8403",
+    "956970d31f6f"
+   ],
+   "mermaid": "flowchart TD\nA[Sources] --> B[Transformations]\nB --> C[Sinks]\nB -.->|snapshots state| D[Checkpoint]"
+  }
+ ]
+}

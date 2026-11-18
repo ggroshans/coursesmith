@@ -1,0 +1,280 @@
+{
+ "sysd-blocks-001": [
+  {
+   "type": "flow",
+   "caption": "A client checks the cache first, and only a miss sends it to the slower backing store.",
+   "sent_ids": [
+    "54cc9fc9ef14",
+    "924b76ed7e84",
+    "cd7fc4f1c42b",
+    "a10fbce0321f",
+    "9f34a364b705"
+   ],
+   "mermaid": "flowchart TD\nA[Client request] --> B{Tag matches?}\nB -->|hit| C[Answer from cache]\nB -->|miss| D[(Backing store)]\nD -->|more expensive| E[Answer]\nD -.->|typically| F[Copy into cache]"
+  }
+ ],
+ "sysd-blocks-159": [
+  {
+   "type": "layers",
+   "caption": "A lookup tries each level in turn, from the smallest and fastest down to main memory.",
+   "sent_ids": [
+    "4e2b5fbbe99d",
+    "c6d8187bf60a",
+    "c06fef790a28",
+    "962b46f575e4",
+    "d2bd190c9ec3",
+    "f0b7855498ab",
+    "3fb78586bb1a",
+    "327713859ff0"
+   ],
+   "top": "Processor core",
+   "layers": [
+    [
+     "L1 cache",
+     "smallest and fastest, checked first"
+    ],
+    [
+     "L2 cache",
+     "checked next"
+    ],
+    [
+     "L3 cache",
+     "often larger, shared among cores"
+    ],
+    [
+     "Main memory",
+     "tens to hundreds of times slower"
+    ]
+   ]
+  }
+ ],
+ "sysd-blocks-004": [
+  {
+   "type": "table",
+   "caption": "The two write policies differ in when the backing store is updated and in what usually happens on a write miss.",
+   "sent_ids": [
+    "cd87891a641b",
+    "397691ef3998",
+    "542f3969d753",
+    "fe08c1f04aca",
+    "38e52a4fa987",
+    "6ad31c45cc45",
+    "136f0fe432fe",
+    "8a1f8e86b1e6",
+    "79be6db51a4a",
+    "67d412fd8d26",
+    "66e3b29fddf6",
+    "9710339a87ec"
+   ],
+   "header": [
+    "Policy",
+    "A write goes to",
+    "Usual write-miss policy"
+   ],
+   "rows": [
+    [
+     "Write-through",
+     "Cache and backing store, synchronously",
+     "No-write allocate: write around, load only on read misses"
+    ],
+    [
+     "Write-back",
+     "Cache only; the store later, on eviction",
+     "Write allocate: load the location, then write"
+    ]
+   ]
+  }
+ ],
+ "sysd-blocks-023": [
+  {
+   "type": "flow",
+   "caption": "The application, not the cache, goes to the data store when a read misses.",
+   "sent_ids": [
+    "4d353d1f5cd2",
+    "d95a0719b38f",
+    "04392a9ae8c8",
+    "cd96d09390b5",
+    "6590204242c0"
+   ],
+   "mermaid": "flowchart TD\nA[Application reads] --> B{In cache?}\nB -->|hit| C[Return cached contents]\nB -->|miss| D[(Data store)]\nD -->|fetch contents| E[Update cache]"
+  }
+ ],
+ "sysd-blocks-018": [
+  {
+   "type": "table",
+   "caption": "Each of the three approaches to stopping a stampede carries a cost.",
+   "sent_ids": [
+    "a18db23dd5d4",
+    "4a41839c09f8",
+    "0dea756cf0cc",
+    "e9e8eb7e812d",
+    "0cf51fc30214",
+    "13ae345af03f",
+    "76f2995bff6f",
+    "f2f9b2de21b6",
+    "98c1a16e25dc",
+    "b1f12990a25d",
+    "c4c8bf1b7a81",
+    "080dae7ecbd5",
+    "bb12c925c534",
+    "34413f0cba82",
+    "8c036dc38f3d",
+    "524dd6512298",
+    "df05fb80cdd2",
+    "fa1bc8f9b913",
+    "9a77153f5c06"
+   ],
+   "header": [
+    "Approach",
+    "How it works",
+    "Cost"
+   ],
+   "rows": [
+    [
+     "Locking",
+     "The process that wins the key's lock recomputes it",
+     "Doubles the writes; hard to get right"
+    ],
+    [
+     "External recomputation",
+     "A separate process recomputes near expiry or on a miss",
+     "A moving part to maintain"
+    ],
+    [
+     "Probabilistic early expiration",
+     "Each process may recompute early, more likely as expiry nears",
+     "Extra cache memory for the recompute time"
+    ]
+   ]
+  }
+ ],
+ "sysd-blocks-020": [
+  {
+   "type": "table",
+   "caption": "Each failure mode ends at the data store, and each has its own remedy.",
+   "sent_ids": [
+    "190515b3bd52",
+    "83c2f2cf7599",
+    "96b1e585351b",
+    "0aa0d9b98984",
+    "03267cbf1937",
+    "7c5409550af0",
+    "4bc6f5b28661",
+    "034fa8f7e26a",
+    "4fa83b2472f9",
+    "ebe2c9dc0e63",
+    "c16581e79338",
+    "abe0e1b0e509",
+    "439d11a967be",
+    "1ebc650fe439"
+   ],
+   "header": [
+    "Failure",
+    "What happens",
+    "Remedy"
+   ],
+   "rows": [
+    [
+     "Many keys expire together",
+     "Queries hit the store directly and overload it",
+     "Add a random number to expiry times"
+    ],
+    [
+     "Key exists nowhere",
+     "Stresses cache and store",
+     "Cache a null value, or check a Bloom filter"
+    ],
+    [
+     "Hot key expires",
+     "Many requests hit the store",
+     "Give hot keys no expiration time"
+    ],
+    [
+     "Cache is down",
+     "All requests go to the store",
+     "Use a cache cluster"
+    ]
+   ]
+  }
+ ],
+ "sysd-blocks-071": [
+  {
+   "type": "table",
+   "caption": "One request, step by step, from the user's device to the edge and, on a miss, to the origin.",
+   "sent_ids": [
+    "574770cffcbf",
+    "5f658626f474",
+    "6a63e4168ef5",
+    "a05e32d65598",
+    "70e8c3b9ec9f"
+   ],
+   "header": [
+    "Step",
+    "What happens"
+   ],
+   "rows": [
+    [
+     "1",
+     "After DNS resolution, the device sends its request to the CDN edge server"
+    ],
+    [
+     "2",
+     "The edge checks its local cache and, on a hit, serves the content"
+    ],
+    [
+     "3",
+     "On a miss, the edge forwards the request to the origin server"
+    ],
+    [
+     "4",
+     "The edge stores a copy of what the origin returns and delivers it"
+    ]
+   ]
+  }
+ ],
+ "sysd-blocks-072": [
+  {
+   "type": "table",
+   "caption": "Push and pull CDNs compared on who fills the cache and where each fits.",
+   "sent_ids": [
+    "14db178bd654",
+    "e8f64644cea5",
+    "a625e85e19bc",
+    "446e47e10c8d",
+    "ba24dd7a1624",
+    "3b1b32af059e",
+    "94e970b861f1",
+    "2368e735ebd4",
+    "a8bb2d179e0a",
+    "ab7080fa8e46"
+   ],
+   "header": [
+    "",
+    "Push CDN",
+    "Pull CDN"
+   ],
+   "rows": [
+    [
+     "Who fills the cache",
+     "Owner uploads new or changed content",
+     "CDN fetches from the origin on first request"
+    ],
+    [
+     "Expiry",
+     "Owner configures it",
+     "Cache updates on request"
+    ],
+    [
+     "Trade-off",
+     "Minimal traffic, maximal storage",
+     "Less maintenance"
+    ],
+    [
+     "Suits",
+     "Little traffic or rarely updated content",
+     "Heavy-traffic sites"
+    ]
+   ]
+  }
+ ]
+}

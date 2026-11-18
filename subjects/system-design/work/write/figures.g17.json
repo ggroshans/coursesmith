@@ -1,0 +1,358 @@
+{
+ "sysd-reliab-095": [
+  {
+   "type": "table",
+   "caption": "Compare the typical recovery time (RTO) and recovery point (RPO) of the four standby tiers.",
+   "sent_ids": [
+    "2c9173d8ee69",
+    "30012f7542d3",
+    "eeb1f3784c6c",
+    "bf4bfef24c49",
+    "7f12996a103a",
+    "349550b58626",
+    "91d6c26fbb73",
+    "d5a1882af37e",
+    "db4ce4cac19a",
+    "6c0d6417cc1f",
+    "6c93b7220196",
+    "cf4157816e82"
+   ],
+   "header": [
+    "Standby tier",
+    "Typical RTO",
+    "Typical RPO"
+   ],
+   "rows": [
+    [
+     "Backup and restore",
+     "Several hours to a few days",
+     "A few hours, up to the last successful backup"
+    ],
+    [
+     "Pilot light",
+     "A few minutes to several hours",
+     "Depends on how often data is synchronized"
+    ],
+    [
+     "Warm standby",
+     "A few minutes to hours",
+     "Up to the last few minutes or hours"
+    ],
+    [
+     "Hot site or multi-site",
+     "Almost immediate, often a few minutes",
+     "Usually a few seconds"
+    ]
+   ]
+  }
+ ],
+ "sysd-reliab-097": [
+  {
+   "type": "table",
+   "caption": "Each pairing trades something away: manual switching, stale reads or unpredictable writes.",
+   "sent_ids": [
+    "9123f71088b4",
+    "ce32937b8fc1",
+    "6182987362ba",
+    "77bc2d2d38d8",
+    "f869595f58ce",
+    "a470aa7a29e5",
+    "79a734510924",
+    "13b046f2a7c9",
+    "346446186e14"
+   ],
+   "header": [
+    "Architecture",
+    "How the nodes work",
+    "The catch"
+   ],
+   "rows": [
+    [
+     "Primary-backup",
+     "The backup stands by and receives replicated data",
+     "Switching is manual and the idle backup may waste hardware"
+    ],
+    [
+     "Primary-secondary",
+     "The secondary can serve reads to balance load",
+     "Replication latency can make its reads inconsistent"
+    ],
+    [
+     "Primary-primary",
+     "Both nodes handle reads and writes and replicate to each other",
+     "The same product updated on both can end up in an unpredictable state"
+    ]
+   ]
+  }
+ ],
+ "sysd-reliab-209": [
+  {
+   "type": "table",
+   "caption": "Read down the tiers: restores get slower while retention gets longer and the storage more remote.",
+   "sent_ids": [
+    "cbc094d2f1dc",
+    "7b0a006579b9",
+    "31f8861e1694",
+    "95865368339c",
+    "862bd5f868b0",
+    "124b687df7fc",
+    "e0172c8c4963",
+    "c771fe461b6b",
+    "d5522c38c3bb",
+    "bae21737a1ad"
+   ],
+   "header": [
+    "Tier",
+    "Where backups live",
+    "Kept for",
+    "Restored in"
+   ],
+   "rows": [
+    [
+     "First",
+     "Near the live data",
+     "Hours to single-digit days",
+     "Minutes"
+    ],
+    [
+     "Second",
+     "Local distributed filesystems",
+     "Single-digit or low double-digit days",
+     "Hours"
+    ],
+    [
+     "Later",
+     "Nearline tape libraries and offsite media",
+     "Taken less often, kept longer",
+     ""
+    ]
+   ]
+  }
+ ],
+ "sysd-reliab-221": [
+  {
+   "type": "table",
+   "caption": "Three ways to forward a packet, and what each one costs.",
+   "sent_ids": [
+    "af099cc35881",
+    "e186303b0ee8",
+    "c0f02a380757",
+    "36f5eb138271",
+    "a0775eda4448",
+    "59fbaf231905",
+    "79e4cf5ca58a",
+    "a5d1d2188592",
+    "be0644e21f90",
+    "1fb7f4ba8c63",
+    "a841092ebc41",
+    "b9125f0afca9",
+    "ad0885d4f535",
+    "408cc87a46ab"
+   ],
+   "header": [
+    "Method",
+    "What happens",
+    "The catch"
+   ],
+   "rows": [
+    [
+     "Network address translation",
+     "The balancer rewrites addresses",
+     "A tracking-table entry per connection; no stateless fallback"
+    ],
+    [
+     "Change the MAC address",
+     "The backend sees the original IPs and replies directly",
+     "All balancers and backends in one broadcast domain"
+    ],
+    [
+     "Encapsulation",
+     "The packet is wrapped in a GRE-encapsulated IP packet",
+     "24 bytes of overhead that may exceed the MTU"
+    ]
+   ]
+  }
+ ],
+ "sysd-reliab-219": [
+  {
+   "type": "table",
+   "caption": "Follow the numbered steps from the DNS lookup to the assembled page.",
+   "sent_ids": [
+    "1f7843d0d70c",
+    "a87cd3f4a8af",
+    "1f21e08cc923",
+    "ac1efd1dba0d",
+    "b661bb9a8e65",
+    "b81d6a0a98f2",
+    "958b2f7d58c5",
+    "bd08fc46c7f5",
+    "8830e8d2f359",
+    "7226aa0a6571",
+    "cd4305761726",
+    "fc996e47179b"
+   ],
+   "header": [
+    "Step",
+    "Where",
+    "What happens"
+   ],
+   "rows": [
+    [
+     "1",
+     "DNS",
+     "Google's DNS server consults GSLB, which picks the frontend IP address returned to the user"
+    ],
+    [
+     "2",
+     "Google Frontend",
+     "A reverse proxy terminates the TCP connection and looks up the service"
+    ],
+    [
+     "3",
+     "GSLB",
+     "It finds an available service frontend, which receives an RPC with the HTTP request"
+    ],
+    [
+     "4",
+     "Service frontend",
+     "It builds a protobuf request and asks GSLB for an unloaded backend"
+    ],
+    [
+     "5",
+     "Backend",
+     "It reads Bigtable, and the reply travels back"
+    ],
+    [
+     "6",
+     "Service frontend",
+     "It assembles the HTML"
+    ]
+   ]
+  }
+ ],
+ "sysd-reliab-187": [
+  {
+   "type": "flow",
+   "caption": "Incident frameworks follow these six stages in order.",
+   "sent_ids": [
+    "7623539a9dd5"
+   ],
+   "mermaid": "flowchart TD\nA[Detection] --> B[Classification]\nB --> C[Response coordination]\nC --> D[Containment]\nD --> E[Recovery]\nE --> F[Post-incident review]"
+  }
+ ],
+ "sysd-reliab-186": [
+  {
+   "type": "table",
+   "caption": "Each tier up the table keeps data fresher and automates more of recovery.",
+   "sent_ids": [
+    "bdb3df21bb10",
+    "c37b0deb98ab",
+    "50c2847d0cd4",
+    "c2cab2c0f8e1",
+    "46f6bf0f8408",
+    "3e89f111ee56",
+    "90cc9e0fcef2",
+    "dd44c26a8f24",
+    "20866c9e2890",
+    "d80cc4d6d9a8",
+    "48d4eeda2547",
+    "bba35ddee615",
+    "2d3f19177d6e",
+    "bc3d2bc809f0",
+    "e612f30b54d7",
+    "f9f1970690ef",
+    "5f94b1791575",
+    "100c4aa4de95",
+    "a33edee055e5",
+    "429d7b589a35",
+    "e4e670a4fdee"
+   ],
+   "header": [
+    "Tier",
+    "What it adds"
+   ],
+   "rows": [
+    [
+     "0",
+     "No off-site data or recovery plan, so recovery may be impossible"
+    ],
+    [
+     "1",
+     "Off-site backups but no systems to restore them on; days to weeks of data lost"
+    ],
+    [
+     "2",
+     "A hot site to restore tape backups; hours to days of data recreated"
+    ],
+    [
+     "3",
+     "Electronic vaulting of mission-critical data, more current than shipped tapes"
+    ],
+    [
+     "4",
+     "Disk-based point-in-time copies for fresher data and faster recovery"
+    ],
+    [
+     "5",
+     "Data kept consistent between production and recovery data centers"
+    ],
+    [
+     "6",
+     "Data kept current with little or no loss, without relying on applications"
+    ],
+    [
+     "7",
+     "Automated application recovery, faster and more reliable than manual procedures"
+    ]
+   ]
+  }
+ ],
+ "sysd-reliab-218": [
+  {
+   "type": "bar",
+   "caption": "Backend tasks per region: three regions run N+2 and South America runs N+1.",
+   "sent_ids": [
+    "9657d66a5943",
+    "03e16d4bd9cd",
+    "0780f728fc76",
+    "f758d8856bef"
+   ],
+   "unit": "tasks",
+   "bars": [
+    [
+     "USA",
+     17
+    ],
+    [
+     "Europe",
+     16
+    ],
+    [
+     "Asia",
+     6
+    ],
+    [
+     "South America",
+     4
+    ]
+   ]
+  }
+ ],
+ "sysd-reliab-196": [
+  {
+   "type": "flow",
+   "caption": "The budget works as a control loop on releases.",
+   "sent_ids": [
+    "72769855766d",
+    "8b9189d5e466",
+    "493e60727f9c",
+    "86c9907467be",
+    "36d0e5cc8d55",
+    "e8343b24cf3e",
+    "8e4d56d2d786",
+    "794dff805f68"
+   ],
+   "mermaid": "flowchart TD\nA[Product management defines an SLO] --> B[Monitoring measures actual uptime]\nB --> C{Budget left?}\nC -->|yes| D[Releases continue]\nC -->|no| E[Releases halt]\nE --> F[Testing and resilience work added]"
+  }
+ ]
+}
