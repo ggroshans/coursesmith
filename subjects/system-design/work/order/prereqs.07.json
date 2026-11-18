@@ -1,0 +1,761 @@
+{
+ "entries": {
+  "sysd-blocks-084": [
+   {
+    "id": "sysd-blocks-044",
+    "reason": "an index speeds up finding rows in a table, so rows and tables come first"
+   },
+   {
+    "id": "sysd-blocks-035",
+    "reason": "an index is a structure a database keeps beside its data"
+   }
+  ],
+  "sysd-blocks-085": [
+   {
+    "id": "sysd-blocks-084",
+    "reason": "the definition contrasts two ways of organizing an index"
+   },
+   {
+    "id": "sysd-blocks-044",
+    "reason": "clustering decides the physical order of a table's rows"
+   }
+  ],
+  "sysd-blocks-086": [
+   {
+    "id": "sysd-blocks-084",
+    "reason": "the entry is about how a multi-column index is laid out"
+   },
+   {
+    "id": "sysd-blocks-101",
+    "reason": "composite keys are defined with the key kinds"
+   },
+   {
+    "id": "sysd-blocks-103",
+    "reason": "the sorted tree order is why column order decides which searches work"
+   }
+  ],
+  "sysd-blocks-087": [
+   {
+    "id": "sysd-blocks-084",
+    "reason": "a covering index is an index that holds the query fields"
+   },
+   {
+    "id": "sysd-blocks-085",
+    "reason": "a non-clustered index normally points back to the table record that the covering index avoids reading"
+   }
+  ],
+  "sysd-blocks-088": [
+   {
+    "id": "sysd-blocks-084",
+    "reason": "the scan happens when no index can be used"
+   },
+   {
+    "id": "sysd-blocks-066",
+    "reason": "the scan is a query plan for a query written in SQL"
+   },
+   {
+    "id": "sysd-blocks-086",
+    "reason": "a multi-column index that cannot serve a search is one case of falling back to a scan"
+   }
+  ],
+  "sysd-blocks-089": [
+   {
+    "id": "sysd-blocks-084",
+    "reason": "constraints are enforced through indexes"
+   },
+   {
+    "id": "sysd-blocks-046",
+    "reason": "UNIQUE, EXCLUSION, PRIMARY KEY and FOREIGN KEY are database constraints"
+   },
+   {
+    "id": "sysd-blocks-045",
+    "reason": "primary and foreign keys are two of the constraints named"
+   }
+  ],
+  "sysd-blocks-090": [
+   {
+    "id": "sysd-blocks-084",
+    "reason": "the entry classifies the structures an index can be built on"
+   }
+  ],
+  "sysd-blocks-091": [
+   {
+    "id": "sysd-blocks-084",
+    "reason": "a bitmap index is one kind of database index"
+   },
+   {
+    "id": "sysd-blocks-090",
+    "reason": "it is one of the data-structure choices an index can use"
+   }
+  ],
+  "sysd-blocks-092": [
+   {
+    "id": "sysd-blocks-090",
+    "reason": "this entry lists designs beyond the main tree and hash structures"
+   },
+   {
+    "id": "sysd-blocks-084",
+    "reason": "every listed type is a kind of database index"
+   }
+  ],
+  "sysd-blocks-093": [
+   {
+    "id": "sysd-blocks-044",
+    "reason": "normalization applies to relational tables"
+   },
+   {
+    "id": "sysd-blocks-049",
+    "reason": "normal forms are rules about how a schema is shaped"
+   },
+   {
+    "id": "sysd-blocks-045",
+    "reason": "keys link the tables that normalization splits apart"
+   }
+  ],
+  "sysd-blocks-094": [
+   {
+    "id": "sysd-blocks-093",
+    "reason": "anomalies are what a poorly normalized relation suffers"
+   },
+   {
+    "id": "sysd-blocks-044",
+    "reason": "anomalies arise when modifying rows of a relation"
+   }
+  ],
+  "sysd-blocks-095": [
+   {
+    "id": "sysd-blocks-093",
+    "reason": "normal forms are the rules that normalization follows"
+   },
+   {
+    "id": "sysd-blocks-102",
+    "reason": "higher normal forms are stated in terms of functional dependencies"
+   },
+   {
+    "id": "sysd-blocks-101",
+    "reason": "normal forms refer to keys and candidate keys"
+   },
+   {
+    "id": "sysd-blocks-094",
+    "reason": "each form removes anomalies of the one below"
+   }
+  ],
+  "sysd-blocks-096": [
+   {
+    "id": "sysd-blocks-095",
+    "reason": "the method climbs successive normal forms"
+   },
+   {
+    "id": "sysd-blocks-102",
+    "reason": "splitting out violating data means spotting dependencies on non-key attributes"
+   },
+   {
+    "id": "sysd-blocks-094",
+    "reason": "the anomalies motivate each split"
+   },
+   {
+    "id": "sysd-blocks-045",
+    "reason": "split tables stay linked by foreign keys"
+   }
+  ],
+  "sysd-blocks-097": [
+   {
+    "id": "sysd-blocks-095",
+    "reason": "sixth normal form is the top rung of the normal-form ladder"
+   },
+   {
+    "id": "sysd-blocks-045",
+    "reason": "each row holds the primary key plus at most one attribute"
+   },
+   {
+    "id": "sysd-blocks-102",
+    "reason": "the form is stated through dependencies between key and attributes"
+   }
+  ],
+  "sysd-blocks-098": [
+   {
+    "id": "sysd-blocks-039",
+    "reason": "locks protect transactions that run at the same time"
+   },
+   {
+    "id": "sysd-blocks-040",
+    "reason": "locking is how simultaneous changes are kept isolated"
+   },
+   {
+    "id": "sysd-blocks-043",
+    "reason": "locks are mechanisms of concurrency control"
+   }
+  ],
+  "sysd-blocks-099": [
+   {
+    "id": "sysd-blocks-103",
+    "reason": "the entry compares the B-tree with the LSM-tree"
+   },
+   {
+    "id": "sysd-blocks-108",
+    "reason": "the LSM-tree is the other half of the comparison"
+   }
+  ],
+  "sysd-blocks-100": [
+   {
+    "id": "sysd-blocks-084",
+    "reason": "dense and sparse are two ways to build an index"
+   },
+   {
+    "id": "sysd-blocks-085",
+    "reason": "a sparse index relies on rows stored in index-key order, as in a clustered index"
+   }
+  ],
+  "sysd-blocks-101": [
+   {
+    "id": "sysd-blocks-044",
+    "reason": "keys identify rows of a relational table"
+   },
+   {
+    "id": "sysd-blocks-045",
+    "reason": "primary and foreign keys are the first two kinds in the list"
+   }
+  ],
+  "sysd-blocks-102": [
+   {
+    "id": "sysd-blocks-101",
+    "reason": "a dependency runs between the primary key and a non-key attribute"
+   },
+   {
+    "id": "sysd-blocks-044",
+    "reason": "dependencies hold between attributes of a table"
+   }
+  ],
+  "sysd-blocks-103": [
+   {
+    "id": "sysd-blocks-084",
+    "reason": "the B-tree is introduced as the sorted structure behind database indexes"
+   }
+  ],
+  "sysd-blocks-104": [
+   {
+    "id": "sysd-blocks-103",
+    "reason": "the entry explains how a B-tree is laid out in pages"
+   },
+   {
+    "id": "sysd-blocks-084",
+    "reason": "the pages hold an index over a database"
+   },
+   {
+    "id": "sysd-found-097",
+    "reason": "the point is that a lookup needs few disk reads, which are slow compared with memory"
+   }
+  ],
+  "sysd-blocks-105": [
+   {
+    "id": "sysd-blocks-103",
+    "reason": "both are variants of the B-tree"
+   },
+   {
+    "id": "sysd-blocks-104",
+    "reason": "the page levels of root and leaf are what the variants rearrange"
+   }
+  ],
+  "sysd-blocks-106": [
+   {
+    "id": "sysd-blocks-103",
+    "reason": "insertion and deletion keep a B-tree balanced"
+   },
+   {
+    "id": "sysd-blocks-104",
+    "reason": "splits and rebalancing work on pages from root to leaf"
+   }
+  ],
+  "sysd-blocks-107": [
+   {
+    "id": "sysd-blocks-093",
+    "reason": "denormalization reverses an earlier normalization"
+   },
+   {
+    "id": "sysd-blocks-094",
+    "reason": "redundant copies bring back the anomalies normalization removed"
+   },
+   {
+    "id": "sysd-blocks-048",
+    "reason": "joins across normalized tables are what duplicated data avoids"
+   }
+  ],
+  "sysd-blocks-108": [
+   {
+    "id": "sysd-blocks-084",
+    "reason": "an LSM tree provides indexed access to files"
+   },
+   {
+    "id": "sysd-blocks-103",
+    "reason": "it is the write-optimized alternative to the B-tree"
+   }
+  ],
+  "sysd-blocks-109": [
+   {
+    "id": "sysd-blocks-108",
+    "reason": "this entry details how an LSM tree takes writes"
+   }
+  ],
+  "sysd-blocks-110": [
+   {
+    "id": "sysd-blocks-109",
+    "reason": "reads must check the disk components that writes produced"
+   },
+   {
+    "id": "sysd-reliab-001",
+    "reason": "Bloom filters let a read skip components"
+   }
+  ],
+  "sysd-blocks-111": [
+   {
+    "id": "sysd-blocks-036",
+    "reason": "the storage engine is the DBMS part that writes data to permanent storage"
+   }
+  ],
+  "sysd-blocks-182": [
+   {
+    "id": "sysd-reliab-106",
+    "reason": "a hash function computes the index into the bucket array"
+   },
+   {
+    "id": "sysd-blocks-060",
+    "reason": "a hash table implements the associative array that key-value stores expose"
+   }
+  ],
+  "sysd-blocks-183": [
+   {
+    "id": "sysd-blocks-182",
+    "reason": "collision resolution is how a hash table copes with shared indexes"
+   },
+   {
+    "id": "sysd-reliab-107",
+    "reason": "a collision is two keys with the same hash value"
+   }
+  ],
+  "sysd-blocks-184": [],
+  "sysd-blocks-185": [
+   {
+    "id": "sysd-blocks-055",
+    "reason": "the log gives the atomicity and durability parts of ACID"
+   },
+   {
+    "id": "sysd-blocks-039",
+    "reason": "changes are logged per transaction before reaching the database"
+   }
+  ],
+  "sysd-blocks-186": [
+   {
+    "id": "sysd-blocks-084",
+    "reason": "an inverted index is a kind of database index"
+   },
+   {
+    "id": "sysd-blocks-182",
+    "reason": "mapping a word to its locations is a key-to-value lookup"
+   }
+  ],
+  "sysd-blocks-187": [
+   {
+    "id": "sysd-blocks-103",
+    "reason": "an R-tree is a tree index like the B-tree but for multi-dimensional data"
+   },
+   {
+    "id": "sysd-blocks-175",
+    "reason": "R-trees index the spatial data that spatial databases hold"
+   },
+   {
+    "id": "sysd-blocks-084",
+    "reason": "an R-tree is a kind of database index"
+   }
+  ],
+  "sysd-blocks-188": [
+   {
+    "id": "sysd-blocks-090",
+    "reason": "the entry classifies PostgreSQL indexes by data structure"
+   },
+   {
+    "id": "sysd-blocks-103",
+    "reason": "B-tree is the default type listed"
+   },
+   {
+    "id": "sysd-blocks-182",
+    "reason": "Hash is one of the listed types"
+   },
+   {
+    "id": "sysd-blocks-186",
+    "reason": "GIN is built on the inverted-index idea"
+   },
+   {
+    "id": "sysd-blocks-187",
+    "reason": "GiST and SP-GiST cover tree indexes for spatial data like R-trees"
+   }
+  ],
+  "sysd-blocks-139": [],
+  "sysd-blocks-140": [
+   {
+    "id": "sysd-blocks-139",
+    "reason": "the hierarchy ranks kinds of data storage"
+   }
+  ],
+  "sysd-blocks-141": [
+   {
+    "id": "sysd-blocks-139",
+    "reason": "characteristics such as volatility tell storage technologies apart"
+   }
+  ],
+  "sysd-blocks-142": [
+   {
+    "id": "sysd-blocks-139",
+    "reason": "these are three ways of attaching storage to a computer"
+   },
+   {
+    "id": "sysd-blocks-143",
+    "reason": "SAN storage is accessed in blocks"
+   },
+   {
+    "id": "sysd-blocks-144",
+    "reason": "NAS storage is accessed as files"
+   }
+  ],
+  "sysd-blocks-143": [
+   {
+    "id": "sysd-blocks-139",
+    "reason": "block storage is one way to organize stored data"
+   }
+  ],
+  "sysd-blocks-144": [
+   {
+    "id": "sysd-blocks-143",
+    "reason": "files are presented on top of stored blocks"
+   },
+   {
+    "id": "sysd-blocks-139",
+    "reason": "file storage is one way to organize stored data"
+   }
+  ],
+  "sysd-blocks-145": [
+   {
+    "id": "sysd-blocks-143",
+    "reason": "objects are contrasted with blocks"
+   },
+   {
+    "id": "sysd-blocks-144",
+    "reason": "objects are contrasted with files in a hierarchy"
+   }
+  ],
+  "sysd-blocks-146": [
+   {
+    "id": "sysd-blocks-145",
+    "reason": "the use cases are those of object stores"
+   }
+  ],
+  "sysd-blocks-147": [
+   {
+    "id": "sysd-blocks-145",
+    "reason": "cloud storage offers object storage through cloud-native interfaces"
+   },
+   {
+    "id": "sysd-blocks-143",
+    "reason": "cloud storage is also offered as blocks"
+   },
+   {
+    "id": "sysd-blocks-144",
+    "reason": "cloud storage is also offered as files"
+   }
+  ],
+  "sysd-blocks-148": [
+   {
+    "id": "sysd-blocks-144",
+    "reason": "HDFS is a file system"
+   },
+   {
+    "id": "sysd-blocks-142",
+    "reason": "HDFS gives access to storage spread over networked machines"
+   }
+  ],
+  "sysd-blocks-149": [
+   {
+    "id": "sysd-blocks-199",
+    "reason": "RAID combines hard disks"
+   },
+   {
+    "id": "sysd-blocks-195",
+    "reason": "RAID combines SSDs"
+   },
+   {
+    "id": "sysd-blocks-200",
+    "reason": "RAID protects against the drive failures that disks suffer"
+   }
+  ],
+  "sysd-blocks-150": [
+   {
+    "id": "sysd-blocks-149",
+    "reason": "RAID levels are variants of RAID"
+   },
+   {
+    "id": "sysd-blocks-153",
+    "reason": "levels use parity to recover a lost drive"
+   }
+  ],
+  "sysd-blocks-151": [
+   {
+    "id": "sysd-blocks-153",
+    "reason": "parities are what rebuild lost chunks"
+   },
+   {
+    "id": "sysd-blocks-150",
+    "reason": "RAID levels already combine parity with striping and mirroring, which erasure coding extends across servers"
+   }
+  ],
+  "sysd-blocks-152": [
+   {
+    "id": "sysd-blocks-145",
+    "reason": "the entry compares object stores to something else"
+   },
+   {
+    "id": "sysd-blocks-060",
+    "reason": "key-value stores are the other side of the comparison"
+   }
+  ],
+  "sysd-blocks-153": [],
+  "sysd-blocks-154": [
+   {
+    "id": "sysd-blocks-150",
+    "reason": "the weaknesses are those of RAID arrays with parity"
+   },
+   {
+    "id": "sysd-blocks-153",
+    "reason": "a crash can leave parity inconsistent"
+   },
+   {
+    "id": "sysd-blocks-200",
+    "reason": "read errors and failing drives are what hit a rebuilding array"
+   }
+  ],
+  "sysd-blocks-155": [
+   {
+    "id": "sysd-blocks-149",
+    "reason": "scrubbing checks every block of a disk array"
+   },
+   {
+    "id": "sysd-blocks-200",
+    "reason": "it finds the bad blocks that disks develop"
+   }
+  ],
+  "sysd-blocks-156": [
+   {
+    "id": "sysd-blocks-149",
+    "reason": "these are ways of implementing RAID"
+   },
+   {
+    "id": "sysd-blocks-201",
+    "reason": "a standard drive controller is the hardware that the firmware option reuses"
+   }
+  ],
+  "sysd-blocks-192": [
+   {
+    "id": "sysd-blocks-139",
+    "reason": "volatile memory is one kind of storage"
+   }
+  ],
+  "sysd-blocks-193": [
+   {
+    "id": "sysd-blocks-192",
+    "reason": "non-volatile memory is defined against volatile memory"
+   },
+   {
+    "id": "sysd-blocks-139",
+    "reason": "it is one kind of storage"
+   }
+  ],
+  "sysd-blocks-194": [
+   {
+    "id": "sysd-blocks-193",
+    "reason": "flash retains data without power"
+   }
+  ],
+  "sysd-blocks-195": [
+   {
+    "id": "sysd-blocks-194",
+    "reason": "an SSD stores data in NAND flash"
+   },
+   {
+    "id": "sysd-blocks-193",
+    "reason": "an SSD keeps data persistently"
+   }
+  ],
+  "sysd-blocks-196": [
+   {
+    "id": "sysd-blocks-195",
+    "reason": "wear leveling spreads writes across an SSD"
+   },
+   {
+    "id": "sysd-blocks-194",
+    "reason": "it works on the blocks of flash memory"
+   }
+  ],
+  "sysd-blocks-197": [
+   {
+    "id": "sysd-blocks-195",
+    "reason": "endurance is a drive datasheet figure for SSDs"
+   },
+   {
+    "id": "sysd-blocks-194",
+    "reason": "flash blocks wear with writing"
+   }
+  ],
+  "sysd-blocks-198": [
+   {
+    "id": "sysd-blocks-195",
+    "reason": "the cache layer is made of SSDs"
+   },
+   {
+    "id": "sysd-blocks-199",
+    "reason": "the slower hard-disk storage sits behind it"
+   },
+   {
+    "id": "sysd-blocks-001",
+    "reason": "the SSD acts as a cache"
+   }
+  ],
+  "sysd-blocks-199": [
+   {
+    "id": "sysd-blocks-139",
+    "reason": "the drive is one kind of data storage device"
+   }
+  ],
+  "sysd-blocks-200": [
+   {
+    "id": "sysd-blocks-199",
+    "reason": "the entry covers failures of hard disks"
+   }
+  ],
+  "sysd-blocks-201": [
+   {
+    "id": "sysd-blocks-199",
+    "reason": "the interfaces connect hard drives"
+   },
+   {
+    "id": "sysd-blocks-195",
+    "reason": "the same interfaces connect SSDs"
+   }
+  ],
+  "sysd-blocks-202": [
+   {
+    "id": "sysd-blocks-144",
+    "reason": "NFS lets a client reach files"
+   },
+   {
+    "id": "sysd-blocks-142",
+    "reason": "NFS is a protocol for network-attached storage"
+   },
+   {
+    "id": "sysd-found-154",
+    "reason": "a client computer accesses files from a server over a network"
+   }
+  ],
+  "sysd-blocks-203": [
+   {
+    "id": "sysd-blocks-202",
+    "reason": "pNFS is part of NFSv4.1"
+   },
+   {
+    "id": "sysd-blocks-144",
+    "reason": "it separates file metadata from file data"
+   }
+  ],
+  "sysd-blocks-204": [
+   {
+    "id": "sysd-blocks-144",
+    "reason": "SMB shares files"
+   },
+   {
+    "id": "sysd-blocks-142",
+    "reason": "it serves network-attached storage"
+   },
+   {
+    "id": "sysd-found-154",
+    "reason": "nodes share resources as client and server"
+   }
+  ],
+  "sysd-blocks-205": [
+   {
+    "id": "sysd-blocks-204",
+    "reason": "an OpLock is a feature of SMB"
+   },
+   {
+    "id": "sysd-blocks-001",
+    "reason": "it lets a client cache a file locally"
+   },
+   {
+    "id": "sysd-blocks-098",
+    "reason": "the entry stresses it is not a true lock"
+   }
+  ],
+  "sysd-blocks-206": [
+   {
+    "id": "sysd-blocks-143",
+    "reason": "iSCSI gives block-level access"
+   },
+   {
+    "id": "sysd-blocks-201",
+    "reason": "it carries SCSI commands, a drive interface"
+   },
+   {
+    "id": "sysd-found-005",
+    "reason": "it runs over TCP"
+   },
+   {
+    "id": "sysd-found-001",
+    "reason": "it runs over IP"
+   }
+  ],
+  "sysd-blocks-207": [
+   {
+    "id": "sysd-blocks-143",
+    "reason": "Fibre Channel delivers raw block data"
+   },
+   {
+    "id": "sysd-blocks-142",
+    "reason": "it connects servers to storage in SANs"
+   },
+   {
+    "id": "sysd-blocks-201",
+    "reason": "it is listed among the drive interfaces"
+   }
+  ],
+  "sysd-blocks-208": [
+   {
+    "id": "sysd-blocks-145",
+    "reason": "S3 is object storage"
+   },
+   {
+    "id": "sysd-blocks-147",
+    "reason": "S3 is an AWS cloud storage service"
+   }
+  ],
+  "sysd-blocks-209": [
+   {
+    "id": "sysd-blocks-151",
+    "reason": "Reed-Solomon codes are a way to add parity-like check symbols to chunks"
+   },
+   {
+    "id": "sysd-blocks-153",
+    "reason": "a parity check is the simplest case of adding check values"
+   }
+  ],
+  "sysd-blocks-210": [
+   {
+    "id": "sysd-blocks-055",
+    "reason": "durability is one of the ACID properties"
+   },
+   {
+    "id": "sysd-blocks-039",
+    "reason": "it concerns the effects of committed transactions"
+   },
+   {
+    "id": "sysd-blocks-193",
+    "reason": "data survives failures only if held in non-volatile storage"
+   }
+  ]
+ }
+}

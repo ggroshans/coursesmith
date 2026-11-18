@@ -1,0 +1,790 @@
+{
+ "entries": {
+  "sysd-scale-059": [],
+  "sysd-scale-060": [
+   {
+    "id": "sysd-scale-059",
+    "reason": "the dimensions are different ways of measuring scalability itself"
+   }
+  ],
+  "sysd-scale-061": [
+   {
+    "id": "sysd-scale-059",
+    "reason": "scaling out versus up are two ways of growing a system's capacity to handle work"
+   }
+  ],
+  "sysd-scale-062": [
+   {
+    "id": "sysd-scale-061",
+    "reason": "horizontal scaling is the first of the eight strategies"
+   },
+   {
+    "id": "sysd-scale-138",
+    "reason": "stateless services are the strategy that makes the others workable"
+   },
+   {
+    "id": "sysd-blocks-112",
+    "reason": "load balancing spreads requests across the scaled-out servers"
+   },
+   {
+    "id": "sysd-blocks-001",
+    "reason": "caching is one of the listed strategies"
+   },
+   {
+    "id": "sysd-q-067",
+    "reason": "auto scaling is one of the listed strategies"
+   }
+  ],
+  "sysd-scale-063": [
+   {
+    "id": "sysd-scale-059",
+    "reason": "a bottleneck is defined by what stops a system from growing"
+   },
+   {
+    "id": "sysd-scale-057",
+    "reason": "a scalability bottleneck is a single component limiting the whole system's capacity"
+   }
+  ],
+  "sysd-scale-064": [
+   {
+    "id": "sysd-scale-061",
+    "reason": "database scalability means adding servers, processors and memory"
+   },
+   {
+    "id": "sysd-scale-062",
+    "reason": "database strategies are the general scaling strategies applied to a database"
+   },
+   {
+    "id": "sysd-blocks-035",
+    "reason": "the entry is about scaling a database"
+   },
+   {
+    "id": "sysd-blocks-084",
+    "reason": "indexes are one of the ways to make a database do more work"
+   },
+   {
+    "id": "sysd-blocks-001",
+    "reason": "caching is one of the ways to take load off a database"
+   }
+  ],
+  "sysd-scale-065": [
+   {
+    "id": "sysd-scale-061",
+    "reason": "adding processors is a form of scaling up or out"
+   },
+   {
+    "id": "sysd-scale-136",
+    "reason": "the diminishing returns are what Amdahl's law formalizes"
+   }
+  ],
+  "sysd-scale-066": [
+   {
+    "id": "sysd-scale-059",
+    "reason": "it models how well a system scales"
+   },
+   {
+    "id": "sysd-scale-136",
+    "reason": "the law extends Amdahl's law with a coherency term"
+   },
+   {
+    "id": "sysd-scale-065",
+    "reason": "contention is the sequential-work limit that gives diminishing returns"
+   }
+  ],
+  "sysd-scale-067": [
+   {
+    "id": "sysd-scale-059",
+    "reason": "the entry redefines scalability for storage"
+   },
+   {
+    "id": "sysd-scale-061",
+    "reason": "scale-out means growing the cluster by adding nodes"
+   },
+   {
+    "id": "sysd-scale-075",
+    "reason": "scalability is measured as the size of the cluster"
+   },
+   {
+    "id": "sysd-scale-043",
+    "reason": "one valid version of the data across the cluster presupposes multiple copies"
+   },
+   {
+    "id": "sysd-scale-092",
+    "reason": "full consistency is the guarantee being measured"
+   }
+  ],
+  "sysd-scale-068": [],
+  "sysd-scale-069": [
+   {
+    "id": "sysd-scale-068",
+    "reason": "availability is the measurable form of high availability"
+   },
+   {
+    "id": "sysd-scale-071",
+    "reason": "availability is the share of time left after downtime"
+   }
+  ],
+  "sysd-scale-070": [
+   {
+    "id": "sysd-scale-069",
+    "reason": "it is about how the availability percentage is read"
+   },
+   {
+    "id": "sysd-scale-071",
+    "reason": "what counts as downtime is the interpretation that changes the number"
+   }
+  ],
+  "sysd-scale-071": [
+   {
+    "id": "sysd-scale-068",
+    "reason": "downtime is the time a system fails its availability goal"
+   }
+  ],
+  "sysd-scale-072": [
+   {
+    "id": "sysd-scale-068",
+    "reason": "recovery time is closely related to availability"
+   },
+   {
+    "id": "sysd-scale-069",
+    "reason": "recovery time drives how many nines a system can reach"
+   },
+   {
+    "id": "sysd-scale-071",
+    "reason": "an outage is unscheduled downtime that must be recovered from"
+   }
+  ],
+  "sysd-scale-073": [
+   {
+    "id": "sysd-scale-068",
+    "reason": "redundancy is done to raise reliability and uptime"
+   },
+   {
+    "id": "sysd-scale-056",
+    "reason": "duplication targets the parts whose failure would stop the system"
+   }
+  ],
+  "sysd-scale-074": [
+   {
+    "id": "sysd-scale-069",
+    "reason": "the totals combined are availability percentages"
+   },
+   {
+    "id": "sysd-scale-073",
+    "reason": "parallel components are redundant copies"
+   }
+  ],
+  "sysd-scale-075": [
+   {
+    "id": "sysd-scale-061",
+    "reason": "a cluster is the scale-out arrangement of several nodes"
+   }
+  ],
+  "sysd-scale-076": [
+   {
+    "id": "sysd-scale-075",
+    "reason": "these are configurations of a cluster"
+   },
+   {
+    "id": "sysd-scale-068",
+    "reason": "they are the high availability clustering setups"
+   },
+   {
+    "id": "sysd-scale-073",
+    "reason": "the passive node is a redundant standby"
+   },
+   {
+    "id": "sysd-blocks-112",
+    "reason": "active-active spreads requests across nodes as a balancer does"
+   }
+  ],
+  "sysd-scale-077": [
+   {
+    "id": "sysd-scale-075",
+    "reason": "the entry contrasts clustering with load balancing"
+   },
+   {
+    "id": "sysd-blocks-112",
+    "reason": "the other side of the contrast is load balancing"
+   }
+  ],
+  "sysd-q-067": [
+   {
+    "id": "sysd-scale-061",
+    "reason": "autoscaling changes the number of servers, which is scaling out and in"
+   },
+   {
+    "id": "sysd-blocks-112",
+    "reason": "new servers receive traffic through a load balancer"
+   }
+  ],
+  "sysd-scale-133": [
+   {
+    "id": "sysd-scale-068",
+    "reason": "failure frequency is a measure of reliability and availability"
+   }
+  ],
+  "sysd-scale-134": [
+   {
+    "id": "sysd-scale-133",
+    "reason": "it is the repair-time counterpart of the time between failures"
+   },
+   {
+    "id": "sysd-scale-071",
+    "reason": "repair time is the length of unscheduled downtime"
+   }
+  ],
+  "sysd-scale-135": [
+   {
+    "id": "sysd-scale-073",
+    "reason": "it classifies the kinds of redundancy"
+   }
+  ],
+  "sysd-scale-136": [
+   {
+    "id": "sysd-scale-059",
+    "reason": "it bounds speedup as a system grows"
+   },
+   {
+    "id": "sysd-scale-061",
+    "reason": "the law applies to adding resources to a system"
+   }
+  ],
+  "sysd-scale-137": [
+   {
+    "id": "sysd-scale-059",
+    "reason": "capacity is planned for growing demand"
+   },
+   {
+    "id": "sysd-found-096",
+    "reason": "estimating the needed resources uses back-of-the-envelope estimation"
+   }
+  ],
+  "sysd-scale-138": [
+   {
+    "id": "sysd-found-154",
+    "reason": "services respond to client requests in the client-server model"
+   },
+   {
+    "id": "sysd-found-042",
+    "reason": "stateless versus stateful is the HTTP session-state question"
+   }
+  ],
+  "sysd-scale-043": [
+   {
+    "id": "sysd-scale-073",
+    "reason": "replication is redundancy applied to data"
+   }
+  ],
+  "sysd-scale-044": [
+   {
+    "id": "sysd-scale-043",
+    "reason": "leader and replicas are the simplest replication layout"
+   },
+   {
+    "id": "sysd-blocks-035",
+    "reason": "the leader is a database instance handling writes"
+   }
+  ],
+  "sysd-scale-045": [
+   {
+    "id": "sysd-scale-044",
+    "reason": "multi-master removes the single leader that handles all writes"
+   },
+   {
+    "id": "sysd-scale-043",
+    "reason": "any member updating means several writable copies"
+   }
+  ],
+  "sysd-scale-046": [
+   {
+    "id": "sysd-scale-045",
+    "reason": "conflicts occur when concurrent writes land on different leaders"
+   },
+   {
+    "id": "sysd-blocks-039",
+    "reason": "preventing the transactional conflict relies on transactions"
+   }
+  ],
+  "sysd-scale-047": [
+   {
+    "id": "sysd-scale-043",
+    "reason": "it classifies when a replica copy is acknowledged"
+   },
+   {
+    "id": "sysd-found-087",
+    "reason": "the wait for the remote acknowledgment adds write latency"
+   }
+  ],
+  "sysd-scale-048": [
+   {
+    "id": "sysd-scale-044",
+    "reason": "lag is delay from the leader to its replicas"
+   },
+   {
+    "id": "sysd-scale-047",
+    "reason": "asynchronous replication is what lets replicas fall behind"
+   }
+  ],
+  "sysd-scale-049": [
+   {
+    "id": "sysd-scale-044",
+    "reason": "writes go to the primary and reads to replicas"
+   },
+   {
+    "id": "sysd-blocks-112",
+    "reason": "reads are spread across the replicas like load balancing"
+   }
+  ],
+  "sysd-scale-050": [
+   {
+    "id": "sysd-scale-043",
+    "reason": "it classifies how replicas process requests"
+   },
+   {
+    "id": "sysd-scale-044",
+    "reason": "passive replication has one replica process and pass the result on"
+   }
+  ],
+  "sysd-scale-051": [
+   {
+    "id": "sysd-scale-043",
+    "reason": "it names models of data replication"
+   },
+   {
+    "id": "sysd-scale-050",
+    "reason": "state machine replication is the active model"
+   },
+   {
+    "id": "sysd-blocks-039",
+    "reason": "transactional replication replicates transactions"
+   }
+  ],
+  "sysd-scale-052": [
+   {
+    "id": "sysd-scale-044",
+    "reason": "each chain has a head that takes writes like a leader"
+   },
+   {
+    "id": "sysd-scale-047",
+    "reason": "writes flow down the chain and are acknowledged for strong consistency"
+   },
+   {
+    "id": "sysd-scale-045",
+    "reason": "it is described as a multi-primary protocol"
+   }
+  ],
+  "sysd-scale-053": [
+   {
+    "id": "sysd-scale-044",
+    "reason": "changes flow from a leader to other nodes"
+   },
+   {
+    "id": "sysd-blocks-185",
+    "reason": "one method ships the write-ahead log"
+   },
+   {
+    "id": "sysd-blocks-066",
+    "reason": "another method ships SQL statements"
+   }
+  ],
+  "sysd-scale-054": [
+   {
+    "id": "sysd-scale-043",
+    "reason": "it replicates at the storage level"
+   },
+   {
+    "id": "sysd-blocks-143",
+    "reason": "it copies updates to block devices"
+   }
+  ],
+  "sysd-scale-055": [
+   {
+    "id": "sysd-scale-054",
+    "reason": "it is defined against block-level replication"
+   },
+   {
+    "id": "sysd-blocks-144",
+    "reason": "it copies individual files"
+   }
+  ],
+  "sysd-scale-056": [
+   {
+    "id": "sysd-scale-068",
+    "reason": "a part whose failure stops the system defeats availability"
+   }
+  ],
+  "sysd-scale-057": [
+   {
+    "id": "sysd-found-087",
+    "reason": "capacity limits show up as latency"
+   },
+   {
+    "id": "sysd-found-093",
+    "reason": "a bottleneck limits throughput of the whole system"
+   }
+  ],
+  "sysd-scale-058": [
+   {
+    "id": "sysd-scale-043",
+    "reason": "the standby or replica holds a copy of the work"
+   },
+   {
+    "id": "sysd-scale-056",
+    "reason": "failover covers the failure of a single point"
+   },
+   {
+    "id": "sysd-scale-073",
+    "reason": "the standby is a redundant component"
+   }
+  ],
+  "sysd-scale-122": [
+   {
+    "id": "sysd-scale-043",
+    "reason": "votes are collected from replica nodes"
+   },
+   {
+    "id": "sysd-scale-047",
+    "reason": "a write waits for acknowledgments from a set of replicas"
+   }
+  ],
+  "sysd-scale-123": [
+   {
+    "id": "sysd-scale-043",
+    "reason": "two data sets diverge between copies"
+   },
+   {
+    "id": "sysd-scale-044",
+    "reason": "each side may elect itself leader"
+   },
+   {
+    "id": "sysd-scale-058",
+    "reason": "split-brain occurs when failover happens on both sides"
+   }
+  ],
+  "sysd-scale-124": [
+   {
+    "id": "sysd-scale-044",
+    "reason": "one node must be designated as the leader"
+   },
+   {
+    "id": "sysd-scale-058",
+    "reason": "electing a new leader is how failover proceeds"
+   }
+  ],
+  "sysd-scale-125": [
+   {
+    "id": "sysd-scale-043",
+    "reason": "CRDTs are replicated data structures"
+   },
+   {
+    "id": "sysd-scale-045",
+    "reason": "any replica updates independently and concurrently"
+   },
+   {
+    "id": "sysd-scale-046",
+    "reason": "CRDTs resolve concurrent-update conflicts by construction"
+   }
+  ],
+  "sysd-scale-126": [
+   {
+    "id": "sysd-scale-125",
+    "reason": "it classifies CRDT designs"
+   },
+   {
+    "id": "sysd-scale-045",
+    "reason": "state or operations are sent between writable replicas"
+   }
+  ],
+  "sysd-scale-127": [
+   {
+    "id": "sysd-scale-125",
+    "reason": "counters and sets are built as CRDTs"
+   },
+   {
+    "id": "sysd-scale-126",
+    "reason": "per-replica slots merged by max or union are state-based merging"
+   }
+  ],
+  "sysd-scale-128": [
+   {
+    "id": "sysd-blocks-181",
+    "reason": "gossip is a peer-to-peer communication procedure"
+   },
+   {
+    "id": "sysd-scale-043",
+    "reason": "gossip spreads updates among nodes"
+   }
+  ],
+  "sysd-scale-129": [
+   {
+    "id": "sysd-scale-045",
+    "reason": "any replica accepts writes"
+   },
+   {
+    "id": "sysd-scale-046",
+    "reason": "concurrent writes to different replicas must be reconciled"
+   },
+   {
+    "id": "sysd-scale-122",
+    "reason": "reads and writes need a quorum when there is no leader"
+   },
+   {
+    "id": "sysd-scale-128",
+    "reason": "Dynamo-style nodes spread membership and updates by gossip"
+   }
+  ],
+  "sysd-scale-130": [
+   {
+    "id": "sysd-scale-054",
+    "reason": "file-system replication is one of the options compared"
+   },
+   {
+    "id": "sysd-scale-131",
+    "reason": "log shipping is one of the options compared"
+   },
+   {
+    "id": "sysd-scale-132",
+    "reason": "logical replication is one of the options compared"
+   },
+   {
+    "id": "sysd-scale-047",
+    "reason": "the options differ by synchronous or asynchronous behaviour"
+   },
+   {
+    "id": "sysd-scale-058",
+    "reason": "high availability here means a second server taking over"
+   }
+  ],
+  "sysd-scale-131": [
+   {
+    "id": "sysd-scale-044",
+    "reason": "the standby follows the primary like a replica"
+   },
+   {
+    "id": "sysd-blocks-185",
+    "reason": "the standby replays the primary's write-ahead log"
+   },
+   {
+    "id": "sysd-scale-058",
+    "reason": "the standby is ready to take over"
+   }
+  ],
+  "sysd-scale-132": [
+   {
+    "id": "sysd-scale-044",
+    "reason": "changes flow from a publisher to subscribers"
+   },
+   {
+    "id": "sysd-scale-053",
+    "reason": "it ships row-level changes instead of statements or the log"
+   },
+   {
+    "id": "sysd-blocks-045",
+    "reason": "objects are matched by replication identity, usually a primary key"
+   }
+  ],
+  "sysd-scale-078": [
+   {
+    "id": "sysd-blocks-182",
+    "reason": "it is a hashing technique for resizing a hash table"
+   },
+   {
+    "id": "sysd-scale-084",
+    "reason": "it fixes the remapping of keys when partitions are added to hash partitioning"
+   }
+  ],
+  "sysd-scale-079": [
+   {
+    "id": "sysd-scale-078",
+    "reason": "it is an alternative to consistent hashing"
+   },
+   {
+    "id": "sysd-blocks-182",
+    "reason": "it assigns keys to options by hashing"
+   }
+  ],
+  "sysd-scale-080": [
+   {
+    "id": "sysd-blocks-035",
+    "reason": "a partition divides a logical database"
+   },
+   {
+    "id": "sysd-blocks-044",
+    "reason": "partitions divide the tables and rows"
+   }
+  ],
+  "sysd-scale-081": [
+   {
+    "id": "sysd-scale-080",
+    "reason": "skew is uneven distribution across partitions"
+   },
+   {
+    "id": "sysd-scale-082",
+    "reason": "the partitioning key and criteria decide how evenly data spreads"
+   }
+  ],
+  "sysd-scale-082": [
+   {
+    "id": "sysd-scale-080",
+    "reason": "the criteria assign rows to partitions"
+   }
+  ],
+  "sysd-scale-083": [
+   {
+    "id": "sysd-scale-082",
+    "reason": "range is one of the criteria"
+   }
+  ],
+  "sysd-scale-084": [
+   {
+    "id": "sysd-scale-082",
+    "reason": "hash is one of the criteria"
+   },
+   {
+    "id": "sysd-scale-081",
+    "reason": "hashing is used to remove skew in the data"
+   },
+   {
+    "id": "sysd-blocks-182",
+    "reason": "it applies a hash function to the key"
+   }
+  ],
+  "sysd-scale-085": [
+   {
+    "id": "sysd-scale-080",
+    "reason": "it is a way of partitioning"
+   },
+   {
+    "id": "sysd-blocks-044",
+    "reason": "it splits the rows of a table"
+   }
+  ],
+  "sysd-scale-086": [
+   {
+    "id": "sysd-scale-080",
+    "reason": "it is a way of partitioning"
+   },
+   {
+    "id": "sysd-blocks-044",
+    "reason": "it splits a table by columns"
+   },
+   {
+    "id": "sysd-scale-085",
+    "reason": "it splits by columns where horizontal splits by rows"
+   }
+  ],
+  "sysd-scale-087": [
+   {
+    "id": "sysd-scale-080",
+    "reason": "a shard is a partition of a database"
+   },
+   {
+    "id": "sysd-scale-085",
+    "reason": "a shard is a horizontal partition"
+   },
+   {
+    "id": "sysd-scale-082",
+    "reason": "rows are assigned to shards by the partitioning key"
+   }
+  ],
+  "sysd-scale-088": [
+   {
+    "id": "sysd-scale-087",
+    "reason": "the entry lists the costs of sharding"
+   },
+   {
+    "id": "sysd-blocks-048",
+    "reason": "harder queries mean joins across shards"
+   },
+   {
+    "id": "sysd-scale-058",
+    "reason": "sharded setups need more demanding failover"
+   },
+   {
+    "id": "sysd-scale-081",
+    "reason": "uneven shards lead to rebalancing work"
+   }
+  ],
+  "sysd-scale-089": [
+   {
+    "id": "sysd-scale-078",
+    "reason": "vnodes map a node several times onto the hash ring"
+   },
+   {
+    "id": "sysd-scale-081",
+    "reason": "small ranges even out the share of key space per node"
+   }
+  ],
+  "sysd-scale-090": [
+   {
+    "id": "sysd-scale-087",
+    "reason": "it is advice on when to adopt sharding"
+   },
+   {
+    "id": "sysd-scale-088",
+    "reason": "the costs are weighed against the benefit"
+   },
+   {
+    "id": "sysd-scale-061",
+    "reason": "scaling out is compared with scaling up"
+   },
+   {
+    "id": "sysd-scale-064",
+    "reason": "other optimizations are tried first"
+   }
+  ],
+  "sysd-scale-091": [
+   {
+    "id": "sysd-scale-080",
+    "reason": "federation is functional partitioning"
+   },
+   {
+    "id": "sysd-scale-086",
+    "reason": "it splits tables apart by function like vertical partitioning"
+   },
+   {
+    "id": "sysd-scale-087",
+    "reason": "it is contrasted with splitting rows into shards"
+   }
+  ],
+  "sysd-scale-139": [
+   {
+    "id": "sysd-blocks-182",
+    "reason": "a DHT offers a lookup like a hash table"
+   },
+   {
+    "id": "sysd-scale-078",
+    "reason": "keys are placed on nodes by consistent hashing"
+   },
+   {
+    "id": "sysd-blocks-181",
+    "reason": "the nodes are peers"
+   }
+  ],
+  "sysd-scale-140": [
+   {
+    "id": "sysd-scale-139",
+    "reason": "Chord is a DHT lookup protocol"
+   },
+   {
+    "id": "sysd-scale-078",
+    "reason": "it places keys and nodes on a hash ring"
+   }
+  ],
+  "sysd-scale-141": [
+   {
+    "id": "sysd-scale-075",
+    "reason": "each node in a cluster has its own processor, memory and storage"
+   },
+   {
+    "id": "sysd-scale-087",
+    "reason": "each update is satisfied by one node holding its partition of the data"
+   },
+   {
+    "id": "sysd-scale-056",
+    "reason": "with nothing shared there is no single point of contention"
+   }
+  ]
+ }
+}

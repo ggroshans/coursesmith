@@ -1,0 +1,767 @@
+{
+ "entries": {
+  "sysd-reliab-039": [
+   {
+    "id": "sysd-reliab-040",
+    "reason": "blue-green is one of the strategies for replacing a running version"
+   },
+   {
+    "id": "sysd-blocks-112",
+    "reason": "the swap works by routing live traffic from one environment to the other"
+   },
+   {
+    "id": "sysd-found-101",
+    "reason": "the live environment is chosen by what DNS points to"
+   }
+  ],
+  "sysd-reliab-040": [
+   {
+    "id": "sysd-scale-068",
+    "reason": "strategies differ in how much downtime and availability they keep during a version change"
+   },
+   {
+    "id": "sysd-blocks-112",
+    "reason": "replacing instances one by one or in subsets relies on steering traffic between versions"
+   }
+  ],
+  "sysd-reliab-041": [
+   {
+    "id": "sysd-scale-138",
+    "reason": "factors on processes and backing services assume stateless app instances"
+   },
+   {
+    "id": "sysd-scale-061",
+    "reason": "the principles aim at apps that scale out by adding instances"
+   },
+   {
+    "id": "sysd-reliab-143",
+    "reason": "separating build, release and run stages is a release practice"
+   }
+  ],
+  "sysd-reliab-042": [
+   {
+    "id": "sysd-reliab-045",
+    "reason": "the workflow is a Docker client, daemon and registry"
+   },
+   {
+    "id": "sysd-reliab-046",
+    "reason": "the run pulls an image and creates a container from it"
+   },
+   {
+    "id": "sysd-found-154",
+    "reason": "the client asks the daemon over an API, a client-server exchange"
+   }
+  ],
+  "sysd-reliab-043": [
+   {
+    "id": "sysd-reliab-065",
+    "reason": "the comparison is against virtual machines that carry a guest OS"
+   },
+   {
+    "id": "sysd-reliab-063",
+    "reason": "the other side of the comparison is OS-level containers"
+   },
+   {
+    "id": "sysd-reliab-044",
+    "reason": "traditional virtualization is done by a hypervisor virtualizing hardware"
+   }
+  ],
+  "sysd-reliab-044": [
+   {
+    "id": "sysd-reliab-065",
+    "reason": "a hypervisor exists to create and run virtual machines"
+   }
+  ],
+  "sysd-reliab-045": [
+   {
+    "id": "sysd-reliab-063",
+    "reason": "Docker packages software into containers"
+   },
+   {
+    "id": "sysd-reliab-043",
+    "reason": "Docker shares the host kernel, unlike VMs with guest operating systems"
+   }
+  ],
+  "sysd-reliab-046": [
+   {
+    "id": "sysd-reliab-045",
+    "reason": "images and registries are the Docker objects that containers are built from"
+   },
+   {
+    "id": "sysd-reliab-063",
+    "reason": "an image is a template from which containers are created"
+   }
+  ],
+  "sysd-reliab-047": [
+   {
+    "id": "sysd-reliab-045",
+    "reason": "Compose defines and runs multi-container Docker applications"
+   },
+   {
+    "id": "sysd-reliab-046",
+    "reason": "each service in a Compose file is built from or pulls an image"
+   },
+   {
+    "id": "sysd-reliab-042",
+    "reason": "Compose replaces many docker run commands with a single command"
+   }
+  ],
+  "sysd-reliab-048": [
+   {
+    "id": "sysd-reliab-045",
+    "reason": "Swarm clusters Docker engines into one virtual engine"
+   },
+   {
+    "id": "sysd-reliab-047",
+    "reason": "stack files are very like docker-compose.yml"
+   },
+   {
+    "id": "sysd-reliab-148",
+    "reason": "Swarm is a container orchestrator"
+   },
+   {
+    "id": "sysd-scale-075",
+    "reason": "Swarm turns a group of machines into one cluster"
+   },
+   {
+    "id": "sysd-scale-021",
+    "reason": "Swarm needs a majority of nodes to agree via Raft"
+   }
+  ],
+  "sysd-reliab-049": [
+   {
+    "id": "sysd-reliab-063",
+    "reason": "the runtime manages the lifecycle of containers"
+   },
+   {
+    "id": "sysd-reliab-045",
+    "reason": "Docker Engine is built on a runtime and Kubernetes once depended on it"
+   },
+   {
+    "id": "sysd-reliab-046",
+    "reason": "the runtime pulls images and creates containers from them"
+   }
+  ],
+  "sysd-reliab-050": [
+   {
+    "id": "sysd-reliab-148",
+    "reason": "Kubernetes is a container orchestration system"
+   },
+   {
+    "id": "sysd-reliab-063",
+    "reason": "it runs workloads in containers"
+   },
+   {
+    "id": "sysd-scale-075",
+    "reason": "it assembles machines into a cluster"
+   },
+   {
+    "id": "sysd-scale-061",
+    "reason": "its primitives scale applications on CPU, memory or custom metrics"
+   }
+  ],
+  "sysd-reliab-051": [
+   {
+    "id": "sysd-reliab-050",
+    "reason": "the control plane is the management half of a Kubernetes cluster"
+   },
+   {
+    "id": "sysd-reliab-054",
+    "reason": "it manages the worker nodes"
+   },
+   {
+    "id": "sysd-msg-002",
+    "reason": "the API server serves a REST-style Kubernetes API"
+   },
+   {
+    "id": "sysd-scale-068",
+    "reason": "in production it runs across several machines for fault tolerance and high availability"
+   }
+  ],
+  "sysd-reliab-052": [
+   {
+    "id": "sysd-reliab-051",
+    "reason": "etcd is the backing store the API server and control plane use for cluster state"
+   },
+   {
+    "id": "sysd-blocks-060",
+    "reason": "etcd is a key-value data store"
+   },
+   {
+    "id": "sysd-scale-107",
+    "reason": "during a partition etcd favors consistency over availability"
+   },
+   {
+    "id": "sysd-scale-043",
+    "reason": "it is a distributed store that keeps replicated copies of the data"
+   }
+  ],
+  "sysd-reliab-053": [
+   {
+    "id": "sysd-reliab-050",
+    "reason": "controllers are a core Kubernetes mechanism for desired state"
+   },
+   {
+    "id": "sysd-reliab-051",
+    "reason": "controllers run in the control plane and talk to the API server"
+   },
+   {
+    "id": "sysd-reliab-055",
+    "reason": "controllers create and replace pods"
+   }
+  ],
+  "sysd-reliab-054": [
+   {
+    "id": "sysd-reliab-050",
+    "reason": "nodes are the machines of a Kubernetes cluster"
+   },
+   {
+    "id": "sysd-reliab-049",
+    "reason": "every node runs a container runtime"
+   },
+   {
+    "id": "sysd-reliab-063",
+    "reason": "nodes host containers"
+   }
+  ],
+  "sysd-reliab-055": [
+   {
+    "id": "sysd-reliab-063",
+    "reason": "a pod is made of one or more containers"
+   },
+   {
+    "id": "sysd-reliab-054",
+    "reason": "a pod's containers are co-located on one node"
+   },
+   {
+    "id": "sysd-found-021",
+    "reason": "each pod has a cluster-unique IP address shared by its containers"
+   },
+   {
+    "id": "sysd-found-011",
+    "reason": "containers in a pod share one IP and so share the port space"
+   }
+  ],
+  "sysd-reliab-056": [
+   {
+    "id": "sysd-reliab-055",
+    "reason": "a ReplicaSet keeps a set of identical pods running"
+   },
+   {
+    "id": "sysd-reliab-053",
+    "reason": "the ReplicaSet and Deployment controllers do the reconciling"
+   },
+   {
+    "id": "sysd-reliab-060",
+    "reason": "a ReplicaSet uses a selector to identify its pods"
+   }
+  ],
+  "sysd-reliab-057": [
+   {
+    "id": "sysd-reliab-056",
+    "reason": "a StatefulSet is a controller in the same family as Deployments, with identity and ordering added"
+   },
+   {
+    "id": "sysd-scale-138",
+    "reason": "it exists to run stateful rather than stateless applications"
+   },
+   {
+    "id": "sysd-reliab-061",
+    "reason": "state must survive a pod restart, which needs persistent volumes"
+   }
+  ],
+  "sysd-reliab-058": [
+   {
+    "id": "sysd-reliab-055",
+    "reason": "a service is a set of pods behind a stable address"
+   },
+   {
+    "id": "sysd-reliab-060",
+    "reason": "the pods of a service are chosen by a label selector"
+   },
+   {
+    "id": "sysd-msg-092",
+    "reason": "services give discovery by stable IP and DNS name"
+   },
+   {
+    "id": "sysd-blocks-112",
+    "reason": "a service load balances traffic round-robin across its pods"
+   }
+  ],
+  "sysd-reliab-059": [
+   {
+    "id": "sysd-reliab-055",
+    "reason": "pods receive the data as environment variables or mounted files"
+   },
+   {
+    "id": "sysd-reliab-041",
+    "reason": "keeping config out of the code is the twelve-factor principle these objects implement"
+   },
+   {
+    "id": "sysd-reliab-061",
+    "reason": "config can be delivered as files in a mounted volume"
+   }
+  ],
+  "sysd-reliab-060": [
+   {
+    "id": "sysd-reliab-055",
+    "reason": "labels are attached to pods"
+   },
+   {
+    "id": "sysd-reliab-054",
+    "reason": "labels are attached to nodes as well"
+   }
+  ],
+  "sysd-reliab-061": [
+   {
+    "id": "sysd-reliab-063",
+    "reason": "a container's filesystem is wiped on restart"
+   },
+   {
+    "id": "sysd-reliab-055",
+    "reason": "Kubernetes volumes are shared across the containers of a pod"
+   },
+   {
+    "id": "sysd-scale-138",
+    "reason": "persistence is what stateful workloads need"
+   },
+   {
+    "id": "sysd-blocks-139",
+    "reason": "persistent storage is the data storage that outlives the process"
+   }
+  ],
+  "sysd-reliab-062": [
+   {
+    "id": "sysd-reliab-053",
+    "reason": "operators are custom controllers"
+   },
+   {
+    "id": "sysd-reliab-051",
+    "reason": "custom resources extend the Kubernetes API served by the control plane"
+   },
+   {
+    "id": "sysd-reliab-057",
+    "reason": "operators mostly automate stateful applications such as databases, backups and upgrades"
+   }
+  ],
+  "sysd-reliab-063": [
+   {
+    "id": "sysd-reliab-065",
+    "reason": "containers are defined against full virtual machines"
+   },
+   {
+    "id": "sysd-reliab-149",
+    "reason": "it explains why containers replaced physical and virtual deployment"
+   }
+  ],
+  "sysd-reliab-064": [
+   {
+    "id": "sysd-reliab-063",
+    "reason": "these are the kernel features that isolate containers"
+   },
+   {
+    "id": "sysd-reliab-145",
+    "reason": "cgroups cap CPU, memory and I/O"
+   },
+   {
+    "id": "sysd-reliab-146",
+    "reason": "chroot is the earlier mechanism for limiting what a process can see"
+   }
+  ],
+  "sysd-reliab-065": [
+   {
+    "id": "sysd-reliab-149",
+    "reason": "the overview shows why applications moved onto virtual machines"
+   }
+  ],
+  "sysd-reliab-066": [
+   {
+    "id": "sysd-reliab-065",
+    "reason": "snapshots capture virtual machine state"
+   },
+   {
+    "id": "sysd-reliab-044",
+    "reason": "the hypervisor takes and restores snapshots and moves VMs between hosts"
+   },
+   {
+    "id": "sysd-reliab-189",
+    "reason": "snapshots are used as a backup before risky changes"
+   },
+   {
+    "id": "sysd-scale-058",
+    "reason": "migration and failover both let a VM continue on another host"
+   }
+  ],
+  "sysd-reliab-141": [
+   {
+    "id": "sysd-reliab-143",
+    "reason": "toggles let unfinished work merge to main and support continuous delivery"
+   },
+   {
+    "id": "sysd-reliab-040",
+    "reason": "toggles make rollout strategies such as canary easier"
+   }
+  ],
+  "sysd-reliab-142": [
+   {
+    "id": "sysd-reliab-040",
+    "reason": "a canary is one deployment strategy"
+   },
+   {
+    "id": "sysd-blocks-112",
+    "reason": "sending a new version to a small share of traffic relies on routing requests"
+   }
+  ],
+  "sysd-reliab-143": [],
+  "sysd-reliab-144": [
+   {
+    "id": "sysd-reliab-143",
+    "reason": "CI/CD combines continuous integration with continuous delivery"
+   }
+  ],
+  "sysd-reliab-145": [
+   {
+    "id": "sysd-reliab-063",
+    "reason": "cgroups are how the kernel limits what a container may use"
+   }
+  ],
+  "sysd-reliab-146": [],
+  "sysd-reliab-147": [
+   {
+    "id": "sysd-reliab-065",
+    "reason": "the infrastructure being defined includes virtual machines"
+   },
+   {
+    "id": "sysd-reliab-143",
+    "reason": "definitions are versioned and deployed automatically like software"
+   }
+  ],
+  "sysd-reliab-148": [
+   {
+    "id": "sysd-reliab-063",
+    "reason": "orchestration manages containers"
+   },
+   {
+    "id": "sysd-reliab-046",
+    "reason": "it deploys containers from images"
+   },
+   {
+    "id": "sysd-scale-061",
+    "reason": "it scales containers up and down automatically"
+   },
+   {
+    "id": "sysd-scale-068",
+    "reason": "it replaces failed containers so the app stays up"
+   }
+  ],
+  "sysd-reliab-149": [],
+  "sysd-reliab-150": [
+   {
+    "id": "sysd-reliab-040",
+    "reason": "a rolling update is one of the deployment strategies"
+   },
+   {
+    "id": "sysd-reliab-056",
+    "reason": "a Deployment performs it by scaling old and new ReplicaSets"
+   }
+  ],
+  "sysd-reliab-151": [
+   {
+    "id": "sysd-reliab-058",
+    "reason": "a Service type says how a Service is exposed"
+   },
+   {
+    "id": "sysd-reliab-054",
+    "reason": "NodePort opens a port on every node's IP"
+   },
+   {
+    "id": "sysd-blocks-112",
+    "reason": "LoadBalancer exposes the Service through an external load balancer"
+   },
+   {
+    "id": "sysd-found-011",
+    "reason": "NodePort uses a static port from a range"
+   }
+  ],
+  "sysd-reliab-152": [
+   {
+    "id": "sysd-reliab-058",
+    "reason": "an Ingress routes to Services"
+   },
+   {
+    "id": "sysd-reliab-151",
+    "reason": "it is the alternative to NodePort and LoadBalancer exposure"
+   },
+   {
+    "id": "sysd-blocks-137",
+    "reason": "an Ingress is realised by a reverse proxy or load balancer"
+   },
+   {
+    "id": "sysd-blocks-124",
+    "reason": "an Ingress can terminate SSL/TLS"
+   }
+  ],
+  "sysd-reliab-153": [
+   {
+    "id": "sysd-reliab-152",
+    "reason": "these are the rules of an Ingress"
+   },
+   {
+    "id": "sysd-found-033",
+    "reason": "matching uses the request's host and URL path"
+   },
+   {
+    "id": "sysd-found-102",
+    "reason": "wildcard hosts cover a single DNS label of the domain hierarchy"
+   }
+  ],
+  "sysd-reliab-154": [
+   {
+    "id": "sysd-reliab-152",
+    "reason": "controllers and classes implement Ingress resources"
+   },
+   {
+    "id": "sysd-reliab-053",
+    "reason": "an Ingress controller is a Kubernetes controller"
+   },
+   {
+    "id": "sysd-blocks-137",
+    "reason": "it usually runs as a load balancer or reverse proxy"
+   }
+  ],
+  "sysd-reliab-155": [
+   {
+    "id": "sysd-reliab-056",
+    "reason": "it scales Deployments and similar workloads"
+   },
+   {
+    "id": "sysd-reliab-053",
+    "reason": "it is a controller running a control loop"
+   },
+   {
+    "id": "sysd-q-067",
+    "reason": "it automates adding and removing capacity to match demand"
+   },
+   {
+    "id": "sysd-reliab-160",
+    "reason": "utilization is measured against the pod's resource requests"
+   }
+  ],
+  "sysd-reliab-156": [
+   {
+    "id": "sysd-reliab-155",
+    "reason": "the controls tune the autoscaler's scaling behaviour"
+   },
+   {
+    "id": "sysd-q-067",
+    "reason": "flapping is a general autoscaling problem"
+   }
+  ],
+  "sysd-reliab-157": [
+   {
+    "id": "sysd-reliab-155",
+    "reason": "scaling to zero is the minReplicas 0 case of the autoscaler"
+   },
+   {
+    "id": "sysd-q-067",
+    "reason": "it is an autoscaling behaviour"
+   }
+  ],
+  "sysd-reliab-158": [
+   {
+    "id": "sysd-reliab-055",
+    "reason": "templates describe the Pods created"
+   },
+   {
+    "id": "sysd-reliab-056",
+    "reason": "Deployments and ReplicaSets create Pods from the template"
+   },
+   {
+    "id": "sysd-reliab-053",
+    "reason": "controllers replace Pods from the new template rather than patch them"
+   }
+  ],
+  "sysd-reliab-159": [
+   {
+    "id": "sysd-reliab-055",
+    "reason": "they are multiple containers inside a Pod"
+   },
+   {
+    "id": "sysd-reliab-063",
+    "reason": "each is a container"
+   },
+   {
+    "id": "sysd-reliab-061",
+    "reason": "cooperating containers share files through a volume"
+   }
+  ],
+  "sysd-reliab-160": [
+   {
+    "id": "sysd-reliab-055",
+    "reason": "requests and limits are set per container in a Pod"
+   },
+   {
+    "id": "sysd-reliab-054",
+    "reason": "the kubelet on the node enforces limits"
+   },
+   {
+    "id": "sysd-reliab-051",
+    "reason": "the scheduler places pods by their requests"
+   },
+   {
+    "id": "sysd-reliab-145",
+    "reason": "limits are enforced by kernel cgroups throttling and memory caps"
+   }
+  ],
+  "sysd-reliab-161": [
+   {
+    "id": "sysd-reliab-055",
+    "reason": "probes check containers of a Pod"
+   },
+   {
+    "id": "sysd-reliab-054",
+    "reason": "the kubelet runs the probes"
+   },
+   {
+    "id": "sysd-blocks-122",
+    "reason": "probes are health checks for restart and traffic eligibility"
+   },
+   {
+    "id": "sysd-reliab-058",
+    "reason": "a failed readiness probe removes the pod from service traffic"
+   }
+  ],
+  "sysd-reliab-162": [
+   {
+    "id": "sysd-reliab-143",
+    "reason": "release engineering builds on continuous delivery"
+   },
+   {
+    "id": "sysd-reliab-144",
+    "reason": "it relies on automated build, test and deployment pipelines"
+   }
+  ],
+  "sysd-reliab-163": [
+   {
+    "id": "sysd-reliab-162",
+    "reason": "the pipeline is the core release engineering process"
+   },
+   {
+    "id": "sysd-reliab-164",
+    "reason": "it cuts a release branch and cherry-picks fixes"
+   },
+   {
+    "id": "sysd-reliab-165",
+    "reason": "builds in the pipeline must be reproducible"
+   },
+   {
+    "id": "sysd-reliab-144",
+    "reason": "it extends the continuous test and build automation of CI/CD"
+   }
+  ],
+  "sysd-reliab-164": [
+   {
+    "id": "sysd-reliab-162",
+    "reason": "branching is one release engineering method"
+   },
+   {
+    "id": "sysd-reliab-144",
+    "reason": "it relies on a mainline with continuous integration"
+   }
+  ],
+  "sysd-reliab-165": [
+   {
+    "id": "sysd-reliab-162",
+    "reason": "hermetic builds are a release engineering practice"
+   },
+   {
+    "id": "sysd-reliab-144",
+    "reason": "they are the build step of CI/CD made reproducible"
+   }
+  ],
+  "sysd-reliab-166": [
+   {
+    "id": "sysd-reliab-162",
+    "reason": "configuration distribution is part of release engineering"
+   },
+   {
+    "id": "sysd-reliab-163",
+    "reason": "one model ships configuration in the binary's package"
+   },
+   {
+    "id": "sysd-reliab-141",
+    "reason": "separate config packages allow independently changing feature flags"
+   },
+   {
+    "id": "sysd-reliab-041",
+    "reason": "it applies the principle of keeping config separate from code"
+   }
+  ],
+  "sysd-reliab-167": [
+   {
+    "id": "sysd-reliab-162",
+    "reason": "rollouts are the final release engineering step"
+   },
+   {
+    "id": "sysd-reliab-163",
+    "reason": "the rollout deploys the packaged release"
+   },
+   {
+    "id": "sysd-reliab-040",
+    "reason": "it tunes which deployment strategy to use per risk level"
+   },
+   {
+    "id": "sysd-reliab-142",
+    "reason": "a push starting in one cluster is a canary-style expansion"
+   }
+  ],
+  "sysd-reliab-227": [
+   {
+    "id": "sysd-reliab-055",
+    "reason": "the lifecycle is that of a Pod"
+   },
+   {
+    "id": "sysd-reliab-054",
+    "reason": "a pod is bound to one node and stays there"
+   },
+   {
+    "id": "sysd-reliab-051",
+    "reason": "scheduling binds the pod to a node"
+   }
+  ],
+  "sysd-reliab-228": [
+   {
+    "id": "sysd-reliab-055",
+    "reason": "the policy is set in the Pod spec"
+   },
+   {
+    "id": "sysd-reliab-227",
+    "reason": "it governs what happens when containers terminate in the pod lifecycle"
+   }
+  ],
+  "sysd-reliab-229": [
+   {
+    "id": "sysd-reliab-228",
+    "reason": "the restart policy causes the repeated restarts"
+   },
+   {
+    "id": "sysd-reliab-079",
+    "reason": "the delay between restarts doubles each time"
+   }
+  ],
+  "sysd-reliab-230": [
+   {
+    "id": "sysd-reliab-227",
+    "reason": "termination is the end of the pod lifecycle"
+   },
+   {
+    "id": "sysd-reliab-054",
+    "reason": "the kubelet carries out termination"
+   },
+   {
+    "id": "sysd-reliab-049",
+    "reason": "the kubelet has the container runtime send TERM and KILL"
+   }
+  ]
+ }
+}

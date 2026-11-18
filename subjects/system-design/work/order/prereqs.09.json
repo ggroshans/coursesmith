@@ -1,0 +1,1194 @@
+{
+ "entries": {
+  "sysd-scale-001": [
+   {
+    "id": "sysd-blocks-039",
+    "reason": "a distributed transaction is a database transaction spread over several nodes"
+   },
+   {
+    "id": "sysd-blocks-055",
+    "reason": "it must stay atomic, and isolation is the hard ACID property across databases"
+   },
+   {
+    "id": "sysd-blocks-040",
+    "reason": "global serializability can break even when each database is serializable"
+   }
+  ],
+  "sysd-scale-002": [
+   {
+    "id": "sysd-scale-001",
+    "reason": "two-phase commit exists to complete a distributed transaction correctly"
+   },
+   {
+    "id": "sysd-blocks-185",
+    "reason": "it assumes each node keeps a write-ahead log on stable storage to recover after a crash"
+   },
+   {
+    "id": "sysd-blocks-055",
+    "reason": "its goal is atomic commit: all participants commit or all abort"
+   }
+  ],
+  "sysd-scale-003": [
+   {
+    "id": "sysd-scale-002",
+    "reason": "the variants optimise the base protocol by changing its messages and log writes"
+   },
+   {
+    "id": "sysd-blocks-185",
+    "reason": "presumed abort and presumed commit work by skipping log writes"
+   }
+  ],
+  "sysd-scale-004": [
+   {
+    "id": "sysd-scale-002",
+    "reason": "it splits the commit phase of two-phase commit to remove its blocking"
+   },
+   {
+    "id": "sysd-scale-011",
+    "reason": "its no-blocking guarantee assumes bounded network delay and response times, the synchronous model"
+   },
+   {
+    "id": "sysd-scale-122",
+    "reason": "its recovery coordinator and quorum behaviour rest on majorities of participants"
+   }
+  ],
+  "sysd-scale-005": [
+   {
+    "id": "sysd-scale-001",
+    "reason": "a saga replaces one distributed transaction with a sequence of local ones"
+   },
+   {
+    "id": "sysd-scale-110",
+    "reason": "failed steps are undone by compensating transactions"
+   },
+   {
+    "id": "sysd-scale-002",
+    "reason": "sagas are the alternative to two-phase commit, which holds locks for too long"
+   }
+  ],
+  "sysd-scale-006": [
+   {
+    "id": "sysd-scale-075",
+    "reason": "heartbeats monitor the nodes of a cluster and its cluster manager"
+   },
+   {
+    "id": "sysd-scale-058",
+    "reason": "a missed heartbeat triggers failover, so false alarms are costly"
+   },
+   {
+    "id": "sysd-found-088",
+    "reason": "intervals and timeouts are set against network delay and congestion"
+   }
+  ],
+  "sysd-scale-007": [
+   {
+    "id": "sysd-blocks-098",
+    "reason": "a distributed lock is mutual exclusion, which builds on the idea of locking data"
+   },
+   {
+    "id": "sysd-scale-075",
+    "reason": "it coordinates processes running on many machines in a cluster"
+   },
+   {
+    "id": "sysd-blocks-028",
+    "reason": "renewable leases with timeouts work like a time to live so a crashed holder cannot keep a lock forever"
+   }
+  ],
+  "sysd-scale-008": [
+   {
+    "id": "sysd-scale-001",
+    "reason": "consensus is used to agree on which transactions commit and in what order"
+   },
+   {
+    "id": "sysd-scale-043",
+    "reason": "consensus keeps replicated copies in agreement"
+   },
+   {
+    "id": "sysd-scale-114",
+    "reason": "the Two Generals problem shows why agreement over unreliable links is hard"
+   },
+   {
+    "id": "sysd-scale-122",
+    "reason": "one approach to consensus is agreeing on the majority value, which needs a quorum"
+   },
+   {
+    "id": "sysd-scale-142",
+    "reason": "processes must still agree when the network splits or messages are lost"
+   }
+  ],
+  "sysd-scale-009": [
+   {
+    "id": "sysd-scale-008",
+    "reason": "the failure types are defined by what they do to a consensus protocol"
+   },
+   {
+    "id": "sysd-scale-006",
+    "reason": "a crash is a failure that other nodes can only detect by missed heartbeats"
+   },
+   {
+    "id": "sysd-scale-114",
+    "reason": "arbitrary or contradictory messages generalise the unreliable communication of the Two Generals problem"
+   }
+  ],
+  "sysd-scale-010": [
+   {
+    "id": "sysd-scale-008",
+    "reason": "the result is a statement about when deterministic consensus is possible"
+   },
+   {
+    "id": "sysd-scale-011",
+    "reason": "it applies to the fully asynchronous model"
+   },
+   {
+    "id": "sysd-scale-009",
+    "reason": "it assumes at least one process may crash"
+   }
+  ],
+  "sysd-scale-011": [
+   {
+    "id": "sysd-scale-008",
+    "reason": "the models are defined by how consensus can be studied in each, such as in rounds"
+   },
+   {
+    "id": "sysd-found-088",
+    "reason": "the difference is whether message delay is bounded and ordered into rounds"
+   }
+  ],
+  "sysd-scale-012": [
+   {
+    "id": "sysd-scale-008",
+    "reason": "both kinds are forms of consensus"
+   },
+   {
+    "id": "sysd-scale-020",
+    "reason": "multi-valued consensus agrees on a growing history of values, like a replicated command log"
+   }
+  ],
+  "sysd-scale-013": [
+   {
+    "id": "sysd-scale-008",
+    "reason": "it classifies consensus protocols by who may participate"
+   },
+   {
+    "id": "sysd-scale-009",
+    "reason": "Sybil attacks defeat protocols built to tolerate a bounded number of faulty processes"
+   },
+   {
+    "id": "sysd-scale-109",
+    "reason": "permissionless protocols exist to protect Byzantine-tolerant agreement from a flood of fake participants"
+   }
+  ],
+  "sysd-scale-014": [
+   {
+    "id": "sysd-found-088",
+    "reason": "message delays vary, which is why clocks on different nodes cannot be perfectly synchronised"
+   }
+  ],
+  "sysd-scale-015": [
+   {
+    "id": "sysd-scale-008",
+    "reason": "Paxos is a family of consensus protocols"
+   },
+   {
+    "id": "sysd-scale-122",
+    "reason": "a value is chosen once a majority of acceptors accept it"
+   },
+   {
+    "id": "sysd-scale-009",
+    "reason": "Paxos tolerates crashes but not Byzantine failures"
+   },
+   {
+    "id": "sysd-scale-010",
+    "reason": "Paxos may not terminate, consistent with the FLP result"
+   }
+  ],
+  "sysd-scale-016": [
+   {
+    "id": "sysd-scale-015",
+    "reason": "it is the simplest protocol of the Paxos family"
+   },
+   {
+    "id": "sysd-scale-122",
+    "reason": "both phases depend on a quorum of acceptors"
+   },
+   {
+    "id": "sysd-scale-012",
+    "reason": "each instance decides exactly one value"
+   }
+  ],
+  "sysd-scale-017": [
+   {
+    "id": "sysd-scale-016",
+    "reason": "it runs a series of Basic Paxos instances"
+   },
+   {
+    "id": "sysd-scale-020",
+    "reason": "the agreed stream of commands drives a replicated state machine"
+   },
+   {
+    "id": "sysd-scale-012",
+    "reason": "it is the multi-valued form of consensus"
+   },
+   {
+    "id": "sysd-scale-124",
+    "reason": "it relies on a stable leader that skips the first phase"
+   }
+  ],
+  "sysd-scale-018": [
+   {
+    "id": "sysd-scale-016",
+    "reason": "it generalises Basic Paxos to cut message delays"
+   },
+   {
+    "id": "sysd-scale-122",
+    "reason": "it needs larger quorums of 3f+1 acceptors"
+   },
+   {
+    "id": "sysd-found-088",
+    "reason": "its gain is counted in message delays from client to learner"
+   }
+  ],
+  "sysd-scale-019": [
+   {
+    "id": "sysd-scale-016",
+    "reason": "it extends Basic Paxos"
+   },
+   {
+    "id": "sysd-scale-122",
+    "reason": "it keeps a quorum of main processors with auxiliary ones in reserve"
+   },
+   {
+    "id": "sysd-scale-009",
+    "reason": "it is designed around tolerating F crashes with fewer processors"
+   }
+  ],
+  "sysd-scale-020": [
+   {
+    "id": "sysd-scale-008",
+    "reason": "consensus orders the operations that every replica executes"
+   },
+   {
+    "id": "sysd-scale-043",
+    "reason": "it is a way of replicating a service so copies stay identical"
+   },
+   {
+    "id": "sysd-scale-050",
+    "reason": "it is the principled form of active replication, where every replica processes each request"
+   }
+  ],
+  "sysd-scale-021": [
+   {
+    "id": "sysd-scale-008",
+    "reason": "Raft is a consensus algorithm"
+   },
+   {
+    "id": "sysd-scale-015",
+    "reason": "it is defined as an alternative to the Paxos family"
+   },
+   {
+    "id": "sysd-scale-020",
+    "reason": "it distributes a replicated state machine across a cluster"
+   },
+   {
+    "id": "sysd-scale-122",
+    "reason": "entries commit once a majority of servers hold them"
+   },
+   {
+    "id": "sysd-scale-124",
+    "reason": "it reaches consensus through a single elected leader"
+   }
+  ],
+  "sysd-scale-022": [
+   {
+    "id": "sysd-scale-021",
+    "reason": "it is the election part of Raft, with its terms and followers"
+   },
+   {
+    "id": "sysd-scale-006",
+    "reason": "followers start an election when the leader heartbeat stops arriving"
+   },
+   {
+    "id": "sysd-scale-124",
+    "reason": "it is a leader election algorithm"
+   },
+   {
+    "id": "sysd-scale-122",
+    "reason": "a candidate needs a majority of votes to win"
+   }
+  ],
+  "sysd-scale-023": [
+   {
+    "id": "sysd-scale-021",
+    "reason": "it is the replication part of Raft"
+   },
+   {
+    "id": "sysd-scale-022",
+    "reason": "a new leader repairs follower logs, and only a candidate with all committed entries can win"
+   },
+   {
+    "id": "sysd-scale-020",
+    "reason": "the log holds the commands applied to each replica state machine"
+   }
+  ],
+  "sysd-scale-024": [
+   {
+    "id": "sysd-scale-014",
+    "reason": "vector clocks generalise Lamport timestamps from scalars to one counter per process"
+   },
+   {
+    "id": "sysd-scale-112",
+    "reason": "they detect the happened-before and concurrent relationships between events"
+   }
+  ],
+  "sysd-scale-109": [
+   {
+    "id": "sysd-scale-008",
+    "reason": "BFT is consensus under arbitrary faults"
+   },
+   {
+    "id": "sysd-scale-009",
+    "reason": "it builds on the Byzantine failure type"
+   },
+   {
+    "id": "sysd-scale-122",
+    "reason": "tolerating F faults needs quorums of 3F+1 participants"
+   }
+  ],
+  "sysd-scale-110": [
+   {
+    "id": "sysd-blocks-039",
+    "reason": "it reverses a previously committed transaction, so the reader must know what a transaction is"
+   },
+   {
+    "id": "sysd-scale-001",
+    "reason": "it is needed when a multi-step business process spans several services and fails part-way"
+   },
+   {
+    "id": "sysd-blocks-055",
+    "reason": "it is contrasted with rollback, which discards uncommitted atomic work"
+   }
+  ],
+  "sysd-scale-111": [
+   {
+    "id": "sysd-scale-008",
+    "reason": "ZooKeeper is a coordination service built on consensus"
+   },
+   {
+    "id": "sysd-scale-007",
+    "reason": "locks are one of its typical uses"
+   },
+   {
+    "id": "sysd-scale-124",
+    "reason": "leader election is another of its typical uses"
+   },
+   {
+    "id": "sysd-scale-113",
+    "reason": "its core is the ZAB atomic broadcast protocol"
+   },
+   {
+    "id": "sysd-blocks-060",
+    "reason": "it exposes a hierarchical key-value store"
+   }
+  ],
+  "sysd-scale-112": [
+   {
+    "id": "sysd-scale-014",
+    "reason": "the Lamport timestamp is the logical clock that makes the relation computable"
+   }
+  ],
+  "sysd-scale-113": [
+   {
+    "id": "sysd-scale-008",
+    "reason": "with crash failures atomic broadcast and consensus are equivalent"
+   },
+   {
+    "id": "sysd-scale-009",
+    "reason": "it is hard exactly when computers can fail, for example the leader at the wrong time"
+   },
+   {
+    "id": "sysd-scale-014",
+    "reason": "total order extends the Lamport partial order with a tie-breaker"
+   }
+  ],
+  "sysd-scale-114": [
+   {
+    "id": "sysd-found-005",
+    "reason": "the problem shows that even TCP cannot guarantee both ends agree on state"
+   },
+   {
+    "id": "sysd-found-007",
+    "reason": "an acknowledgement can be lost as easily as the message it confirms"
+   },
+   {
+    "id": "sysd-scale-142",
+    "reason": "it is a coordination problem over a link that may drop messages"
+   }
+  ],
+  "sysd-scale-115": [
+   {
+    "id": "sysd-scale-008",
+    "reason": "these patterns are uses of consensus inside larger components"
+   },
+   {
+    "id": "sysd-scale-020",
+    "reason": "replicated datastores are built as replicated state machines"
+   },
+   {
+    "id": "sysd-scale-007",
+    "reason": "a single leader gives coarse-grained mutual exclusion and locks"
+   },
+   {
+    "id": "sysd-scale-124",
+    "reason": "replicating a program and electing one leader makes it highly available"
+   },
+   {
+    "id": "sysd-scale-113",
+    "reason": "queues and publish-subscribe need messages delivered in the same order"
+   }
+  ],
+  "sysd-scale-116": [
+   {
+    "id": "sysd-scale-008",
+    "reason": "it is about how fast consensus can be"
+   },
+   {
+    "id": "sysd-scale-017",
+    "reason": "stable-leader protocols need one round trip to a quorum"
+   },
+   {
+    "id": "sysd-scale-018",
+    "reason": "Fast Paxos is compared against classic Paxos"
+   },
+   {
+    "id": "sysd-found-093",
+    "reason": "the claim is about high throughput versus low latency"
+   },
+   {
+    "id": "sysd-found-088",
+    "reason": "round-trip time is one of the two physical limits"
+   }
+  ],
+  "sysd-scale-117": [
+   {
+    "id": "sysd-scale-008",
+    "reason": "the group size is a deployment choice of a consensus system"
+   },
+   {
+    "id": "sysd-scale-122",
+    "reason": "groups use majority quorums, so 2f+1 replicas tolerate f failures"
+   },
+   {
+    "id": "sysd-scale-009",
+    "reason": "Byzantine tolerance changes the minimum to 3f+1"
+   },
+   {
+    "id": "sysd-scale-087",
+    "reason": "in a sharded system the cost grows with the number of consensus groups"
+   }
+  ],
+  "sysd-scale-118": [
+   {
+    "id": "sysd-scale-008",
+    "reason": "it is about where to put the replicas of a consensus cluster"
+   },
+   {
+    "id": "sysd-scale-117",
+    "reason": "placement follows from how many replicas are needed"
+   },
+   {
+    "id": "sysd-found-088",
+    "reason": "client round-trip time is the key latency measure"
+   },
+   {
+    "id": "sysd-scale-124",
+    "reason": "leaders use more outgoing bandwidth than other replicas"
+   }
+  ],
+  "sysd-scale-119": [
+   {
+    "id": "sysd-scale-008",
+    "reason": "it monitors the health of consensus systems"
+   },
+   {
+    "id": "sysd-scale-124",
+    "reason": "the existence of a leader and how often it changes are the key signals"
+   },
+   {
+    "id": "sysd-scale-006",
+    "reason": "member health and liveness are tracked by failure detection"
+   },
+   {
+    "id": "sysd-scale-117",
+    "reason": "the number of live members against the quorum is a main metric"
+   }
+  ],
+  "sysd-scale-025": [
+   {
+    "id": "sysd-blocks-144",
+    "reason": "GFS is a distributed file system, storing files in chunks"
+   },
+   {
+    "id": "sysd-scale-043",
+    "reason": "each chunk is replicated across chunkservers, three times by default"
+   },
+   {
+    "id": "sysd-scale-006",
+    "reason": "the master tracks chunkservers by periodic heartbeats"
+   },
+   {
+    "id": "sysd-scale-104",
+    "reason": "the primary chunk holder pushes changes to the backup chunkservers"
+   }
+  ],
+  "sysd-scale-026": [
+   {
+    "id": "sysd-scale-001",
+    "reason": "Spanner runs transactions across rows, tables and databases"
+   },
+   {
+    "id": "sysd-scale-015",
+    "reason": "it shards data over Paxos state machines"
+   },
+   {
+    "id": "sysd-scale-094",
+    "reason": "its externally consistent reads and writes are a linearizability guarantee"
+   },
+   {
+    "id": "sysd-scale-047",
+    "reason": "it is synchronously replicated"
+   },
+   {
+    "id": "sysd-scale-087",
+    "reason": "it distributes data over up to hundreds of servers"
+   }
+  ],
+  "sysd-scale-027": [
+   {
+    "id": "sysd-scale-042",
+    "reason": "DynamoDB automates the operation of the Dynamo key-value store"
+   },
+   {
+    "id": "sysd-blocks-060",
+    "reason": "it is a key-value store reached by primary key"
+   },
+   {
+    "id": "sysd-blocks-059",
+    "reason": "it also supports document data"
+   },
+   {
+    "id": "sysd-scale-087",
+    "reason": "it hashes the partition key to place items on partitions"
+   },
+   {
+    "id": "sysd-scale-097",
+    "reason": "reads are strongly or eventually consistent, trading consistency for availability"
+   }
+  ],
+  "sysd-scale-028": [
+   {
+    "id": "sysd-scale-027",
+    "reason": "the keys are part of the DynamoDB table model"
+   },
+   {
+    "id": "sysd-scale-084",
+    "reason": "the partition key is hashed to decide the physical location"
+   },
+   {
+    "id": "sysd-scale-083",
+    "reason": "the sort key orders items within a partition"
+   },
+   {
+    "id": "sysd-blocks-045",
+    "reason": "the primary key uniquely identifies each item"
+   },
+   {
+    "id": "sysd-blocks-084",
+    "reason": "local and global secondary indexes are built on alternative keys"
+   }
+  ],
+  "sysd-scale-029": [
+   {
+    "id": "sysd-scale-028",
+    "reason": "the patterns choose partition and sort keys to match access patterns"
+   },
+   {
+    "id": "sysd-blocks-067",
+    "reason": "Single Table Design is a way of handling related data without joins"
+   },
+   {
+    "id": "sysd-blocks-107",
+    "reason": "keeping related data together copies and groups data for read speed"
+   },
+   {
+    "id": "sysd-blocks-050",
+    "reason": "the Materialized Views pattern pre-aggregates data"
+   },
+   {
+    "id": "sysd-blocks-172",
+    "reason": "the Time-Series Design pattern lays out data by entity and timestamp"
+   }
+  ],
+  "sysd-scale-030": [
+   {
+    "id": "sysd-scale-031",
+    "reason": "the case moves messages onto Cassandra"
+   },
+   {
+    "id": "sysd-scale-033",
+    "reason": "its problems came from the LSM tree, compaction and the write and read path"
+   },
+   {
+    "id": "sysd-scale-121",
+    "reason": "the final step is the Cassandra-compatible ScyllaDB"
+   },
+   {
+    "id": "sysd-scale-081",
+    "reason": "read hotspots were a main Cassandra problem"
+   },
+   {
+    "id": "sysd-found-089",
+    "reason": "results are reported as p99 read and write latency"
+   }
+  ],
+  "sysd-scale-031": [
+   {
+    "id": "sysd-blocks-062",
+    "reason": "Cassandra is a wide-column store"
+   },
+   {
+    "id": "sysd-scale-042",
+    "reason": "it combines Dynamo storage and replication techniques"
+   },
+   {
+    "id": "sysd-scale-038",
+    "reason": "it combines them with the Bigtable storage engine model"
+   },
+   {
+    "id": "sysd-scale-129",
+    "reason": "it replicates asynchronously with no leader"
+   },
+   {
+    "id": "sysd-scale-108",
+    "reason": "it is classed as an AP system"
+   }
+  ],
+  "sysd-scale-032": [
+   {
+    "id": "sysd-scale-031",
+    "reason": "this is Cassandra data model"
+   },
+   {
+    "id": "sysd-blocks-062",
+    "reason": "rows in one table can have different columns"
+   },
+   {
+    "id": "sysd-scale-084",
+    "reason": "the partition key determines where a row lives"
+   },
+   {
+    "id": "sysd-blocks-107",
+    "reason": "the model is denormalized rather than joined"
+   },
+   {
+    "id": "sysd-scale-098",
+    "reason": "columns carry timestamps used for last-write-wins conflict resolution"
+   }
+  ],
+  "sysd-scale-033": [
+   {
+    "id": "sysd-scale-031",
+    "reason": "this is Cassandra internals"
+   },
+   {
+    "id": "sysd-blocks-108",
+    "reason": "it uses a log-structured merge tree index"
+   },
+   {
+    "id": "sysd-blocks-109",
+    "reason": "memtable flushes to SSTables, then compaction"
+   },
+   {
+    "id": "sysd-blocks-185",
+    "reason": "the commit log is a write-ahead log for durability"
+   },
+   {
+    "id": "sysd-blocks-110",
+    "reason": "reads search the memtable then SSTables newest to oldest"
+   }
+  ],
+  "sysd-scale-034": [
+   {
+    "id": "sysd-scale-031",
+    "reason": "this is Cassandra cluster behaviour"
+   },
+   {
+    "id": "sysd-scale-128",
+    "reason": "nodes spread cluster state by gossip"
+   },
+   {
+    "id": "sysd-scale-006",
+    "reason": "each node detects failed peers by failure detection"
+   },
+   {
+    "id": "sysd-scale-129",
+    "reason": "hinted handoff keeps writes available when a replica is down"
+   }
+  ],
+  "sysd-scale-035": [
+   {
+    "id": "sysd-scale-040",
+    "reason": "Hadoop processing is MapReduce"
+   },
+   {
+    "id": "sysd-blocks-148",
+    "reason": "Hadoop storage is HDFS"
+   },
+   {
+    "id": "sysd-scale-025",
+    "reason": "its HDFS and MapReduce were inspired by Google papers on GFS and MapReduce"
+   }
+  ],
+  "sysd-scale-036": [
+   {
+    "id": "sysd-blocks-148",
+    "reason": "this is the internal design of HDFS"
+   },
+   {
+    "id": "sysd-scale-035",
+    "reason": "HDFS is the storage layer of Hadoop"
+   },
+   {
+    "id": "sysd-scale-043",
+    "reason": "reliability comes from replicating blocks across hosts and racks"
+   },
+   {
+    "id": "sysd-scale-006",
+    "reason": "the NameNode treats a DataNode as dead after missed heartbeats"
+   },
+   {
+    "id": "sysd-scale-056",
+    "reason": "the single NameNode is a point of failure and a bottleneck"
+   }
+  ],
+  "sysd-scale-037": [
+   {
+    "id": "sysd-scale-035",
+    "reason": "this is the scheduling layer of Hadoop"
+   },
+   {
+    "id": "sysd-scale-040",
+    "reason": "the JobTracker hands MapReduce work to TaskTrackers"
+   },
+   {
+    "id": "sysd-scale-036",
+    "reason": "tasks are scheduled near the HDFS data and the rack"
+   },
+   {
+    "id": "sysd-scale-075",
+    "reason": "YARN allocates the resources of a cluster"
+   }
+  ],
+  "sysd-scale-038": [
+   {
+    "id": "sysd-blocks-062",
+    "reason": "Bigtable is the prototypical wide-column store"
+   },
+   {
+    "id": "sysd-scale-025",
+    "reason": "it is built on the Google File System"
+   },
+   {
+    "id": "sysd-scale-087",
+    "reason": "tables are split into tablets spread across servers"
+   },
+   {
+    "id": "sysd-blocks-108",
+    "reason": "it uses SSTable log-structured storage"
+   },
+   {
+    "id": "sysd-scale-007",
+    "reason": "it depends on the Chubby lock service"
+   }
+  ],
+  "sysd-scale-039": [
+   {
+    "id": "sysd-scale-038",
+    "reason": "this is the data model of Bigtable"
+   },
+   {
+    "id": "sysd-blocks-062",
+    "reason": "a sparse wide-column model with dynamic layout"
+   },
+   {
+    "id": "sysd-blocks-060",
+    "reason": "it is a sorted map from keys to values"
+   }
+  ],
+  "sysd-scale-040": [
+   {
+    "id": "sysd-scale-075",
+    "reason": "the runtime parallelizes work across a cluster"
+   },
+   {
+    "id": "sysd-scale-025",
+    "reason": "input and interim results live in a distributed file system"
+   },
+   {
+    "id": "sysd-scale-084",
+    "reason": "shuffle sends each key to one worker, like hash partitioning"
+   },
+   {
+    "id": "sysd-scale-006",
+    "reason": "the master marks silent workers dead and reschedules their work"
+   }
+  ],
+  "sysd-scale-041": [
+   {
+    "id": "sysd-scale-040",
+    "reason": "this is the detailed dataflow of MapReduce"
+   },
+   {
+    "id": "sysd-scale-084",
+    "reason": "the partition function hashes the key modulo the number of reducers"
+   },
+   {
+    "id": "sysd-scale-081",
+    "reason": "a poor partition function skews the load on reducers"
+   }
+  ],
+  "sysd-scale-042": [
+   {
+    "id": "sysd-blocks-060",
+    "reason": "Dynamo is a key-value store read by primary key"
+   },
+   {
+    "id": "sysd-blocks-058",
+    "reason": "it was built because relational joins were too costly at Amazon scale"
+   },
+   {
+    "id": "sysd-scale-068",
+    "reason": "its goal is high availability while components fail"
+   },
+   {
+    "id": "sysd-scale-043",
+    "reason": "it keeps state reliable by replicating it"
+   },
+   {
+    "id": "sysd-scale-097",
+    "reason": "it trades consistency for availability"
+   }
+  ],
+  "sysd-scale-120": [
+   {
+    "id": "sysd-scale-038",
+    "reason": "HBase is modeled after Bigtable"
+   },
+   {
+    "id": "sysd-scale-036",
+    "reason": "it runs on top of HDFS"
+   },
+   {
+    "id": "sysd-blocks-062",
+    "reason": "it is a wide-column store"
+   },
+   {
+    "id": "sysd-scale-108",
+    "reason": "it is a CP system"
+   },
+   {
+    "id": "sysd-scale-102",
+    "reason": "it is rated PC/EC under PACELC"
+   }
+  ],
+  "sysd-scale-121": [
+   {
+    "id": "sysd-scale-031",
+    "reason": "ScyllaDB is compatible with Cassandra and reads its SSTable files"
+   },
+   {
+    "id": "sysd-scale-033",
+    "reason": "it keeps Cassandra write and read path of commit log, memtable and SSTables"
+   },
+   {
+    "id": "sysd-scale-027",
+    "reason": "it also implements the DynamoDB API"
+   },
+   {
+    "id": "sysd-scale-141",
+    "reason": "each core handles its own data and shares nothing"
+   },
+   {
+    "id": "sysd-scale-108",
+    "reason": "it is an AP database like Cassandra"
+   }
+  ],
+  "sysd-scale-092": [
+   {
+    "id": "sysd-scale-043",
+    "reason": "a consistency model describes what readers of replicated data may see"
+   },
+   {
+    "id": "sysd-scale-047",
+    "reason": "synchronous replication gives tight consistency at a cost, and weaker models trade it for speed"
+   },
+   {
+    "id": "sysd-scale-048",
+    "reason": "replica lag shows why a reader on one node may miss a write on another"
+   }
+  ],
+  "sysd-scale-093": [
+   {
+    "id": "sysd-scale-092",
+    "reason": "it is one point on the consistency model continuum"
+   },
+   {
+    "id": "sysd-scale-048",
+    "reason": "it constrains the order in which replicas show writes"
+   }
+  ],
+  "sysd-scale-094": [
+   {
+    "id": "sysd-scale-093",
+    "reason": "it is sequential consistency plus a real-time constraint"
+   },
+   {
+    "id": "sysd-scale-092",
+    "reason": "it is a strong consistency model"
+   },
+   {
+    "id": "sysd-blocks-040",
+    "reason": "it is contrasted with serializability and isolation"
+   }
+  ],
+  "sysd-scale-095": [
+   {
+    "id": "sysd-scale-093",
+    "reason": "it weakens sequential consistency"
+   },
+   {
+    "id": "sysd-scale-092",
+    "reason": "it is a point on the consistency model continuum"
+   }
+  ],
+  "sysd-scale-096": [
+   {
+    "id": "sysd-scale-092",
+    "reason": "session guarantees are client-centric consistency models"
+   },
+   {
+    "id": "sysd-scale-097",
+    "reason": "they apply to stores with no simultaneous updates and eventual convergence"
+   },
+   {
+    "id": "sysd-scale-048",
+    "reason": "read-your-writes is the read-after-write guarantee against replica lag"
+   }
+  ],
+  "sysd-scale-097": [
+   {
+    "id": "sysd-scale-092",
+    "reason": "eventual consistency is a weak consistency model"
+   },
+   {
+    "id": "sysd-scale-047",
+    "reason": "asynchronous replication is how it is achieved"
+   },
+   {
+    "id": "sysd-scale-048",
+    "reason": "until convergence, replicas serve stale data"
+   },
+   {
+    "id": "sysd-blocks-056",
+    "reason": "it is the E in BASE, the alternative to ACID"
+   }
+  ],
+  "sysd-scale-098": [
+   {
+    "id": "sysd-scale-097",
+    "reason": "it is how an eventually consistent system converges"
+   },
+   {
+    "id": "sysd-scale-046",
+    "reason": "concurrent updates to different replicas have to be resolved"
+   },
+   {
+    "id": "sysd-scale-045",
+    "reason": "multi-master replication is where such concurrent updates arise"
+   }
+  ],
+  "sysd-scale-099": [
+   {
+    "id": "sysd-scale-097",
+    "reason": "it adds a safety guarantee to eventual consistency"
+   },
+   {
+    "id": "sysd-scale-098",
+    "reason": "it constrains how replicas reconcile after receiving the same updates"
+   }
+  ],
+  "sysd-scale-100": [
+   {
+    "id": "sysd-scale-097",
+    "reason": "these patterns are ways to achieve eventual consistency"
+   },
+   {
+    "id": "sysd-scale-098",
+    "reason": "they leave replicas to converge by reconciling changes later"
+   }
+  ],
+  "sysd-scale-101": [
+   {
+    "id": "sysd-scale-107",
+    "reason": "PACELC extends the CAP theorem"
+   },
+   {
+    "id": "sysd-scale-092",
+    "reason": "it trades consistency off against availability and latency"
+   },
+   {
+    "id": "sysd-found-087",
+    "reason": "the added trade-off is latency versus consistency"
+   },
+   {
+    "id": "sysd-scale-047",
+    "reason": "consistent operations need a full round trip, as with synchronous replication"
+   }
+  ],
+  "sysd-scale-102": [
+   {
+    "id": "sysd-scale-101",
+    "reason": "it applies PACELC classes to real databases"
+   },
+   {
+    "id": "sysd-scale-108",
+    "reason": "the first part is the CP or AP choice"
+   },
+   {
+    "id": "sysd-blocks-055",
+    "reason": "fully ACID systems are rated PC/EC"
+   },
+   {
+    "id": "sysd-blocks-058",
+    "reason": "several NoSQL databases are rated PA/EL"
+   }
+  ],
+  "sysd-scale-103": [
+   {
+    "id": "sysd-scale-107",
+    "reason": "it is about how CAP is misread"
+   },
+   {
+    "id": "sysd-scale-108",
+    "reason": "the 2 of 3 wording is the CP, AP, CA labelling"
+   },
+   {
+    "id": "sysd-scale-101",
+    "reason": "a more realistic discussion weighs latency, as PACELC does"
+   },
+   {
+    "id": "sysd-blocks-055",
+    "reason": "consistency in CAP differs from consistency in ACID"
+   },
+   {
+    "id": "sysd-scale-068",
+    "reason": "availability in CAP differs from high availability in architecture"
+   }
+  ],
+  "sysd-scale-104": [
+   {
+    "id": "sysd-scale-043",
+    "reason": "it is a replication protocol"
+   },
+   {
+    "id": "sysd-scale-044",
+    "reason": "one primary coordinates writes and backups copy the updates"
+   },
+   {
+    "id": "sysd-scale-047",
+    "reason": "it can wait for all backups or update locally first"
+   }
+  ],
+  "sysd-scale-105": [
+   {
+    "id": "sysd-scale-043",
+    "reason": "it is a replication protocol"
+   },
+   {
+    "id": "sysd-scale-122",
+    "reason": "reads and writes need permission from a majority of servers"
+   },
+   {
+    "id": "sysd-scale-104",
+    "reason": "it is contrasted with primary-based protocols"
+   }
+  ],
+  "sysd-scale-106": [
+   {
+    "id": "sysd-scale-043",
+    "reason": "it is a replication protocol"
+   },
+   {
+    "id": "sysd-scale-050",
+    "reason": "every replica applies each update as an operation"
+   },
+   {
+    "id": "sysd-scale-104",
+    "reason": "it is contrasted with primary-backup, where one primary coordinates"
+   }
+  ],
+  "sysd-scale-107": [
+   {
+    "id": "sysd-scale-092",
+    "reason": "the consistency in CAP is a consistency model"
+   },
+   {
+    "id": "sysd-scale-142",
+    "reason": "the theorem is about what happens during a network partition"
+   },
+   {
+    "id": "sysd-scale-043",
+    "reason": "it concerns replicated data stores"
+   },
+   {
+    "id": "sysd-scale-068",
+    "reason": "availability is the other guarantee in the trade-off"
+   }
+  ],
+  "sysd-scale-108": [
+   {
+    "id": "sysd-scale-107",
+    "reason": "it classes systems by their choice under CAP"
+   },
+   {
+    "id": "sysd-scale-142",
+    "reason": "the choice only arises under partitions"
+   },
+   {
+    "id": "sysd-blocks-055",
+    "reason": "ACID databases choose consistency"
+   },
+   {
+    "id": "sysd-blocks-056",
+    "reason": "BASE systems choose availability"
+   },
+   {
+    "id": "sysd-scale-097",
+    "reason": "AP systems re-sync nodes to repair inconsistency later"
+   }
+  ],
+  "sysd-scale-142": [
+   {
+    "id": "sysd-scale-075",
+    "reason": "a partition splits the nodes of a cluster into subnets"
+   },
+   {
+    "id": "sysd-found-002",
+    "reason": "packets can be lost or delayed, so nodes lose contact"
+   },
+   {
+    "id": "sysd-found-088",
+    "reason": "a very slow network can look like a partition"
+   }
+  ]
+ }
+}

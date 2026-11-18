@@ -1,0 +1,869 @@
+{
+ "entries": {
+  "sysd-q-002": [
+   {
+    "id": "sysd-msg-108",
+    "reason": "chat needs a bidirectional real-time channel between client and server"
+   },
+   {
+    "id": "sysd-q-069",
+    "reason": "messages for offline users are held and forwarded later"
+   },
+   {
+    "id": "sysd-msg-105",
+    "reason": "push notifications reach users who are not connected"
+   },
+   {
+    "id": "sysd-blocks-145",
+    "reason": "file sharing stores uploaded files as objects"
+   },
+   {
+    "id": "sysd-scale-087",
+    "reason": "chat history for many users is split across shards"
+   }
+  ],
+  "sysd-q-003": [
+   {
+    "id": "sysd-found-154",
+    "reason": "chat clients talk to a messaging server in the client-server model"
+   },
+   {
+    "id": "sysd-msg-047",
+    "reason": "instant messaging is the synchronous form of communication"
+   }
+  ],
+  "sysd-q-004": [
+   {
+    "id": "sysd-msg-060",
+    "reason": "each chat message is published to a topic that subscribers receive"
+   },
+   {
+    "id": "sysd-blocks-029",
+    "reason": "the chat runs on Redis publish-subscribe"
+   },
+   {
+    "id": "sysd-q-003",
+    "reason": "the app implements instant messaging"
+   },
+   {
+    "id": "sysd-msg-108",
+    "reason": "subscribers pick up messages over a live connection"
+   }
+  ],
+  "sysd-q-005": [
+   {
+    "id": "sysd-msg-148",
+    "reason": "WhatsApp runs a customized XMPP"
+   },
+   {
+    "id": "sysd-q-069",
+    "reason": "messages are delivered by store and forward"
+   },
+   {
+    "id": "sysd-q-003",
+    "reason": "builds on instant messaging"
+   }
+  ],
+  "sysd-q-069": [
+   {
+    "id": "sysd-msg-047",
+    "reason": "the intermediate station sends on later, so the sender does not wait"
+   },
+   {
+    "id": "sysd-msg-046",
+    "reason": "a queue is the storage the intermediate station keeps data in"
+   }
+  ],
+  "sysd-q-070": [
+   {
+    "id": "sysd-found-173",
+    "reason": "only recipients can read because messages are encrypted to their keys"
+   },
+   {
+    "id": "sysd-found-181",
+    "reason": "message content is encrypted with a shared symmetric key"
+   },
+   {
+    "id": "sysd-found-179",
+    "reason": "shows who could otherwise relay and read the communication"
+   },
+   {
+    "id": "sysd-q-003",
+    "reason": "the setting is communication between people over a network"
+   }
+  ],
+  "sysd-q-071": [
+   {
+    "id": "sysd-q-070",
+    "reason": "the debate is about what end-to-end encryption prevents providers from reading"
+   },
+   {
+    "id": "sysd-q-003",
+    "reason": "the debate concerns messaging services"
+   }
+  ],
+  "sysd-q-072": [
+   {
+    "id": "sysd-q-070",
+    "reason": "the protocol provides end-to-end encryption"
+   },
+   {
+    "id": "sysd-found-173",
+    "reason": "uses public and private keys"
+   },
+   {
+    "id": "sysd-found-052",
+    "reason": "protects past messages if a key is compromised later"
+   },
+   {
+    "id": "sysd-q-003",
+    "reason": "it secures instant messaging conversations"
+   }
+  ],
+  "sysd-q-073": [
+   {
+    "id": "sysd-q-070",
+    "reason": "metadata is what end-to-end encryption leaves visible"
+   },
+   {
+    "id": "sysd-q-072",
+    "reason": "sealed sender is used with the Signal Protocol"
+   },
+   {
+    "id": "sysd-q-003",
+    "reason": "metadata is who messages whom and when"
+   }
+  ],
+  "sysd-q-020": [
+   {
+    "id": "sysd-q-021",
+    "reason": "building each follower feed is the core design choice"
+   },
+   {
+    "id": "sysd-q-022",
+    "reason": "the newsfeed is ordered by relevance"
+   },
+   {
+    "id": "sysd-blocks-001",
+    "reason": "timelines are served from cache for low latency"
+   },
+   {
+    "id": "sysd-q-025",
+    "reason": "tweet search needs a search engine"
+   },
+   {
+    "id": "sysd-blocks-069",
+    "reason": "images and videos are delivered from a CDN"
+   }
+  ],
+  "sysd-q-021": [
+   {
+    "id": "sysd-q-092",
+    "reason": "push fan-out sends one post to many follower feeds"
+   },
+   {
+    "id": "sysd-blocks-001",
+    "reason": "feeds are precomputed and held in cache"
+   },
+   {
+    "id": "sysd-msg-046",
+    "reason": "pushing to followers is done asynchronously through a queue"
+   }
+  ],
+  "sysd-q-022": [
+   {
+    "id": "sysd-q-021",
+    "reason": "ranking orders the feed that the fan-out models build"
+   }
+  ],
+  "sysd-q-023": [
+   {
+    "id": "sysd-q-022",
+    "reason": "the pipeline ends in ranking and filtering of tweets"
+   },
+   {
+    "id": "sysd-q-021",
+    "reason": "it selects among the tweets reaching a user feed"
+   }
+  ],
+  "sysd-q-024": [
+   {
+    "id": "sysd-blocks-001",
+    "reason": "the stack includes caches"
+   },
+   {
+    "id": "sysd-blocks-035",
+    "reason": "the stack includes databases"
+   },
+   {
+    "id": "sysd-blocks-064",
+    "reason": "the SQL versus NoSQL choice behind its stores"
+   }
+  ],
+  "sysd-q-026": [
+   {
+    "id": "sysd-reliab-111",
+    "reason": "counting the most frequent items in a stream"
+   },
+   {
+    "id": "sysd-msg-043",
+    "reason": "counts are taken over a recent window of events"
+   },
+   {
+    "id": "sysd-blocks-001",
+    "reason": "results are served from cache"
+   }
+  ],
+  "sysd-q-091": [
+   {
+    "id": "sysd-q-022",
+    "reason": "EdgeRank is a feed ranking algorithm"
+   }
+  ],
+  "sysd-q-092": [
+   {
+    "id": "sysd-msg-046",
+    "reason": "fan-out delivers a message through messaging middleware"
+   },
+   {
+    "id": "sysd-msg-060",
+    "reason": "publish-subscribe delivers one message to many subscribers"
+   },
+   {
+    "id": "sysd-msg-138",
+    "reason": "defined in terms of message-oriented middleware"
+   }
+  ],
+  "sysd-q-093": [
+   {
+    "id": "sysd-blocks-186",
+    "reason": "a search library is built around an inverted index"
+   }
+  ],
+  "sysd-q-035": [
+   {
+    "id": "sysd-q-042",
+    "reason": "streams adapt bit rate to the viewer"
+   },
+   {
+    "id": "sysd-q-037",
+    "reason": "uploads are converted into several formats and qualities"
+   },
+   {
+    "id": "sysd-blocks-069",
+    "reason": "video is delivered from edge servers near users"
+   },
+   {
+    "id": "sysd-blocks-145",
+    "reason": "videos are stored as large objects"
+   },
+   {
+    "id": "sysd-msg-046",
+    "reason": "uploads are processed asynchronously via a queue so none are lost"
+   }
+  ],
+  "sysd-q-036": [
+   {
+    "id": "sysd-q-045",
+    "reason": "live streaming is streaming media in real time"
+   },
+   {
+    "id": "sysd-found-087",
+    "reason": "its defining property is low latency"
+   },
+   {
+    "id": "sysd-q-042",
+    "reason": "viewers adapt bit rate to network conditions"
+   }
+  ],
+  "sysd-q-037": [
+   {
+    "id": "sysd-q-102",
+    "reason": "transcoding decodes and re-encodes using video codecs"
+   }
+  ],
+  "sysd-q-038": [
+   {
+    "id": "sysd-found-021",
+    "reason": "location is inferred from the user IP address"
+   },
+   {
+    "id": "sysd-blocks-069",
+    "reason": "restrictions are enforced where content is served"
+   }
+  ],
+  "sysd-q-039": [
+   {
+    "id": "sysd-q-037",
+    "reason": "the VCU does transcoding"
+   },
+   {
+    "id": "sysd-q-102",
+    "reason": "transcoding encodes with video codecs"
+   }
+  ],
+  "sysd-q-040": [
+   {
+    "id": "sysd-blocks-069",
+    "reason": "Open Connect is a content delivery network"
+   },
+   {
+    "id": "sysd-blocks-070",
+    "reason": "appliances act as edge servers close to viewers"
+   },
+   {
+    "id": "sysd-blocks-077",
+    "reason": "it is a CDN built by the content owner"
+   }
+  ],
+  "sysd-q-041": [
+   {
+    "id": "sysd-blocks-035",
+    "reason": "the stack lists databases"
+   },
+   {
+    "id": "sysd-blocks-064",
+    "reason": "choice between relational and NoSQL stores"
+   },
+   {
+    "id": "sysd-msg-043",
+    "reason": "data tools process event streams"
+   }
+  ],
+  "sysd-q-042": [
+   {
+    "id": "sysd-q-045",
+    "reason": "adaptive bitrate is a way of delivering streaming media"
+   },
+   {
+    "id": "sysd-q-102",
+    "reason": "each bit rate is a separate encoding by a codec"
+   },
+   {
+    "id": "sysd-found-099",
+    "reason": "the player switches as bandwidth changes"
+   },
+   {
+    "id": "sysd-found-090",
+    "reason": "it measures delivered throughput to choose a rate"
+   }
+  ],
+  "sysd-q-043": [
+   {
+    "id": "sysd-found-032",
+    "reason": "HLS carries streams over HTTP"
+   },
+   {
+    "id": "sysd-q-042",
+    "reason": "HLS adapts bit rate to network conditions"
+   },
+   {
+    "id": "sysd-q-045",
+    "reason": "HLS delivers streaming media"
+   }
+  ],
+  "sysd-q-044": [
+   {
+    "id": "sysd-q-042",
+    "reason": "DASH is an adaptive bitrate technique"
+   },
+   {
+    "id": "sysd-found-032",
+    "reason": "streams from conventional HTTP servers"
+   },
+   {
+    "id": "sysd-q-045",
+    "reason": "DASH delivers streaming media"
+   }
+  ],
+  "sysd-q-045": [
+   {
+    "id": "sysd-found-001",
+    "reason": "media travels as packets over the Internet Protocol"
+   },
+   {
+    "id": "sysd-found-099",
+    "reason": "playback needs enough transfer rate"
+   },
+   {
+    "id": "sysd-found-026",
+    "reason": "real-time media trades loss for latency between TCP and UDP"
+   }
+  ],
+  "sysd-q-046": [
+   {
+    "id": "sysd-q-045",
+    "reason": "these are ways to deliver streaming media to many viewers"
+   },
+   {
+    "id": "sysd-blocks-069",
+    "reason": "CDN servers are one delivery method"
+   },
+   {
+    "id": "sysd-blocks-181",
+    "reason": "peer-to-peer transfer is another delivery method"
+   }
+  ],
+  "sysd-q-047": [],
+  "sysd-q-101": [
+   {
+    "id": "sysd-q-047",
+    "reason": "collaborative filtering is a recommendation technique"
+   }
+  ],
+  "sysd-q-102": [],
+  "sysd-q-103": [
+   {
+    "id": "sysd-q-045",
+    "reason": "RTMP streams audio and video"
+   },
+   {
+    "id": "sysd-found-005",
+    "reason": "RTMP runs over TCP"
+   }
+  ],
+  "sysd-q-104": [
+   {
+    "id": "sysd-q-045",
+    "reason": "video on demand delivers video as streaming media"
+   }
+  ],
+  "sysd-q-105": [
+   {
+    "id": "sysd-q-102",
+    "reason": "H.264 is a video compression standard used by codecs"
+   }
+  ],
+  "sysd-q-106": [
+   {
+    "id": "sysd-q-105",
+    "reason": "HEVC is the successor to H.264"
+   },
+   {
+    "id": "sysd-q-102",
+    "reason": "it is a codec standard"
+   }
+  ],
+  "sysd-q-107": [
+   {
+    "id": "sysd-q-102",
+    "reason": "AV1 is a video coding format"
+   },
+   {
+    "id": "sysd-q-106",
+    "reason": "positioned as a royalty-free alternative to patent-encumbered HEVC"
+   }
+  ],
+  "sysd-q-016": [
+   {
+    "id": "sysd-q-017",
+    "reason": "showing nearby cabs is a proximity service"
+   },
+   {
+    "id": "sysd-reliab-005",
+    "reason": "geohash indexes driver locations"
+   },
+   {
+    "id": "sysd-reliab-006",
+    "reason": "a quadtree partitions the map for nearby search"
+   },
+   {
+    "id": "sysd-msg-108",
+    "reason": "driver location is pushed live to riders"
+   },
+   {
+    "id": "sysd-scale-087",
+    "reason": "location and trip data is sharded"
+   }
+  ],
+  "sysd-q-017": [
+   {
+    "id": "sysd-q-090",
+    "reason": "finding places within a radius is nearest neighbor search"
+   },
+   {
+    "id": "sysd-reliab-005",
+    "reason": "geohash encodes locations for lookup"
+   },
+   {
+    "id": "sysd-reliab-006",
+    "reason": "a quadtree subdivides space to find nearby places"
+   },
+   {
+    "id": "sysd-blocks-175",
+    "reason": "locations are stored in a spatial database"
+   }
+  ],
+  "sysd-q-018": [
+   {
+    "id": "sysd-msg-005",
+    "reason": "the stack lists frameworks and protocols such as gRPC"
+   },
+   {
+    "id": "sysd-msg-036",
+    "reason": "data tools include Kafka event streaming"
+   },
+   {
+    "id": "sysd-blocks-035",
+    "reason": "the stack lists databases"
+   }
+  ],
+  "sysd-q-089": [],
+  "sysd-q-090": [],
+  "sysd-q-048": [
+   {
+    "id": "sysd-q-049",
+    "reason": "the system is a web crawler"
+   },
+   {
+    "id": "sysd-q-054",
+    "reason": "crawling must not overload sites"
+   },
+   {
+    "id": "sysd-blocks-186",
+    "reason": "the reverse index maps words to pages"
+   },
+   {
+    "id": "sysd-msg-046",
+    "reason": "URLs to fetch are held in a queue"
+   },
+   {
+    "id": "sysd-scale-087",
+    "reason": "crawled pages and index are sharded"
+   }
+  ],
+  "sysd-q-049": [
+   {
+    "id": "sysd-found-032",
+    "reason": "a crawler fetches pages over HTTP"
+   }
+  ],
+  "sysd-q-050": [
+   {
+    "id": "sysd-q-049",
+    "reason": "the policy decides what the crawler downloads"
+   }
+  ],
+  "sysd-q-051": [
+   {
+    "id": "sysd-found-061",
+    "reason": "a URL names a resource that should have one form"
+   },
+   {
+    "id": "sysd-q-049",
+    "reason": "crawlers normalize URLs to avoid duplicate fetches"
+   }
+  ],
+  "sysd-q-052": [
+   {
+    "id": "sysd-q-049",
+    "reason": "a focused crawler is a kind of crawler"
+   },
+   {
+    "id": "sysd-q-050",
+    "reason": "it restricts downloads to relevant pages by a selection rule"
+   }
+  ],
+  "sysd-q-053": [
+   {
+    "id": "sysd-q-049",
+    "reason": "the policy governs when a crawler re-fetches"
+   },
+   {
+    "id": "sysd-found-079",
+    "reason": "stale copies parallel cache freshness"
+   }
+  ],
+  "sysd-q-054": [
+   {
+    "id": "sysd-q-049",
+    "reason": "the rules govern a crawler"
+   },
+   {
+    "id": "sysd-q-055",
+    "reason": "robots.txt states what sites allow"
+   },
+   {
+    "id": "sysd-reliab-075",
+    "reason": "politeness limits the request rate per site"
+   }
+  ],
+  "sysd-q-055": [
+   {
+    "id": "sysd-q-049",
+    "reason": "robots.txt is read by web crawlers"
+   }
+  ],
+  "sysd-q-056": [
+   {
+    "id": "sysd-q-049",
+    "reason": "crawling is the first of the three processes"
+   }
+  ],
+  "sysd-q-057": [
+   {
+    "id": "sysd-q-049",
+    "reason": "deep web crawling extends normal crawling"
+   },
+   {
+    "id": "sysd-blocks-035",
+    "reason": "the hidden pages sit behind database queries"
+   }
+  ],
+  "sysd-q-108": [
+   {
+    "id": "sysd-q-056",
+    "reason": "indexing is the second process of a search engine"
+   },
+   {
+    "id": "sysd-blocks-186",
+    "reason": "an inverted index makes retrieval fast"
+   },
+   {
+    "id": "sysd-blocks-084",
+    "reason": "an index speeds lookups at storage cost"
+   }
+  ],
+  "sysd-q-109": [
+   {
+    "id": "sysd-q-056",
+    "reason": "PageRank ranks results in a search engine"
+   },
+   {
+    "id": "sysd-q-049",
+    "reason": "the link structure comes from crawled pages"
+   }
+  ],
+  "sysd-q-110": [],
+  "sysd-q-111": [],
+  "sysd-q-112": [
+   {
+    "id": "sysd-q-049",
+    "reason": "sitemaps tell crawlers what to crawl"
+   },
+   {
+    "id": "sysd-q-055",
+    "reason": "complements robots.txt"
+   }
+  ],
+  "sysd-q-113": [
+   {
+    "id": "sysd-q-049",
+    "reason": "spider traps catch crawlers"
+   }
+  ],
+  "sysd-q-114": [
+   {
+    "id": "sysd-q-110",
+    "reason": "shingle sets are compared by Jaccard similarity"
+   }
+  ],
+  "sysd-q-015": [
+   {
+    "id": "sysd-q-088",
+    "reason": "accounts are connected through open banking APIs"
+   },
+   {
+    "id": "sysd-msg-046",
+    "reason": "transaction extraction runs asynchronously via a queue"
+   },
+   {
+    "id": "sysd-blocks-044",
+    "reason": "transactions and categories fit relational tables"
+   },
+   {
+    "id": "sysd-blocks-145",
+    "reason": "raw extracted data is stored as objects"
+   },
+   {
+    "id": "sysd-blocks-001",
+    "reason": "monthly summaries are served from cache"
+   }
+  ],
+  "sysd-q-087": [],
+  "sysd-q-088": [
+   {
+    "id": "sysd-msg-001",
+    "reason": "banks share data through APIs"
+   },
+   {
+    "id": "sysd-reliab-030",
+    "reason": "third parties are authorized to access data"
+   },
+   {
+    "id": "sysd-reliab-022",
+    "reason": "OAuth delegates consented access without sharing credentials"
+   }
+  ],
+  "sysd-q-001": [
+   {
+    "id": "sysd-blocks-007",
+    "reason": "least recently used is the eviction rule for recent queries"
+   },
+   {
+    "id": "sysd-q-068",
+    "reason": "an LRU list moves entries by relinking nodes"
+   },
+   {
+    "id": "sysd-blocks-182",
+    "reason": "a hash table finds entries on a hit or miss"
+   },
+   {
+    "id": "sysd-blocks-025",
+    "reason": "the cache is spread over many machines"
+   },
+   {
+    "id": "sysd-scale-078",
+    "reason": "consistent hashing assigns queries to cache nodes"
+   }
+  ],
+  "sysd-q-068": [],
+  "sysd-q-019": [
+   {
+    "id": "sysd-scale-040",
+    "reason": "weekly sales are aggregated by MapReduce"
+   },
+   {
+    "id": "sysd-msg-133",
+    "reason": "the rank is computed as a batch job"
+   },
+   {
+    "id": "sysd-blocks-145",
+    "reason": "sales logs are kept as objects"
+   },
+   {
+    "id": "sysd-blocks-001",
+    "reason": "ranks are served from cache"
+   },
+   {
+    "id": "sysd-scale-043",
+    "reason": "rank data is replicated for availability"
+   }
+  ],
+  "sysd-q-064": [
+   {
+    "id": "sysd-q-155",
+    "reason": "the data is a social graph"
+   },
+   {
+    "id": "sysd-q-153",
+    "reason": "shortest path search uses breadth-first search"
+   },
+   {
+    "id": "sysd-q-157",
+    "reason": "bidirectional search speeds up the path query"
+   },
+   {
+    "id": "sysd-scale-087",
+    "reason": "the graph is too large for one machine"
+   },
+   {
+    "id": "sysd-blocks-061",
+    "reason": "graph storage alternative to tables"
+   }
+  ],
+  "sysd-q-153": [
+   {
+    "id": "sysd-q-155",
+    "reason": "search runs on a graph"
+   },
+   {
+    "id": "sysd-q-158",
+    "reason": "neighbors come from the adjacency list"
+   }
+  ],
+  "sysd-q-154": [
+   {
+    "id": "sysd-q-155",
+    "reason": "paths are defined on graphs"
+   },
+   {
+    "id": "sysd-q-153",
+    "reason": "breadth-first search solves the unweighted case"
+   }
+  ],
+  "sysd-q-155": [],
+  "sysd-q-156": [
+   {
+    "id": "sysd-q-155",
+    "reason": "the idea is stated over a social graph"
+   }
+  ],
+  "sysd-q-157": [
+   {
+    "id": "sysd-q-153",
+    "reason": "it runs breadth-first searches from both ends"
+   },
+   {
+    "id": "sysd-q-154",
+    "reason": "it finds shortest paths"
+   }
+  ],
+  "sysd-q-158": [
+   {
+    "id": "sysd-q-155",
+    "reason": "a graph of vertices and neighbors"
+   }
+  ],
+  "sysd-q-159": [
+   {
+    "id": "sysd-q-155",
+    "reason": "a graph of vertices and edges"
+   }
+  ],
+  "sysd-q-065": [
+   {
+    "id": "sysd-scale-061",
+    "reason": "scaling out or up is the basic choice"
+   },
+   {
+    "id": "sysd-scale-063",
+    "reason": "profiling finds the bottlenecks to fix"
+   },
+   {
+    "id": "sysd-blocks-112",
+    "reason": "load balancers spread traffic across servers"
+   },
+   {
+    "id": "sysd-scale-043",
+    "reason": "replicas scale reads and add availability"
+   },
+   {
+    "id": "sysd-blocks-001",
+    "reason": "caches relieve the database"
+   }
+  ],
+  "sysd-q-066": [
+   {
+    "id": "sysd-scale-061",
+    "reason": "each stage scales the system up or out"
+   },
+   {
+    "id": "sysd-msg-091",
+    "reason": "the starting point is a monolith"
+   },
+   {
+    "id": "sysd-blocks-112",
+    "reason": "load balancing is added as servers multiply"
+   },
+   {
+    "id": "sysd-msg-083",
+    "reason": "the end point is microservices"
+   }
+  ],
+  "sysd-q-160": [
+   {
+    "id": "sysd-found-022",
+    "reason": "a VPC uses private address space"
+   },
+   {
+    "id": "sysd-found-027",
+    "reason": "it is divided into subnets"
+   },
+   {
+    "id": "sysd-found-028",
+    "reason": "NAT connects private resources to the Internet"
+   }
+  ]
+ }
+}

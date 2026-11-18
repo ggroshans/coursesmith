@@ -1,0 +1,316 @@
+{
+ "entries": {
+  "sysd-found-130": [],
+  "sysd-found-131": [
+   {
+    "id": "sysd-found-130",
+    "reason": "an interview on abstract design problems presupposes knowing what system design is"
+   }
+  ],
+  "sysd-found-132": [
+   {
+    "id": "sysd-found-131",
+    "reason": "the framework is the sequence for working a system design interview"
+   },
+   {
+    "id": "sysd-found-133",
+    "reason": "its first step is clarifying and sorting requirements"
+   },
+   {
+    "id": "sysd-found-136",
+    "reason": "its high-level design step assembles the standard building blocks"
+   }
+  ],
+  "sysd-found-133": [
+   {
+    "id": "sysd-found-207",
+    "reason": "requirements are sorted into functional requirements, defined as behavior between inputs and outputs"
+   },
+   {
+    "id": "sysd-found-139",
+    "reason": "the non-functional category is the properties such as availability or performance"
+   },
+   {
+    "id": "sysd-found-131",
+    "reason": "the scoping questions are asked within an interview problem"
+   }
+  ],
+  "sysd-found-134": [
+   {
+    "id": "sysd-found-132",
+    "reason": "trade-offs are presented in the detailed design stage of the interview sequence"
+   },
+   {
+    "id": "sysd-found-094",
+    "reason": "every design is a compromise between competing goals, which is what gets weighed"
+   }
+  ],
+  "sysd-found-135": [
+   {
+    "id": "sysd-found-130",
+    "reason": "it applies system design to systems that integrate machine learning models"
+   },
+   {
+    "id": "sysd-found-139",
+    "reason": "scalable, reliable and efficient are non-functional properties it must meet"
+   }
+  ],
+  "sysd-found-136": [
+   {
+    "id": "sysd-found-130",
+    "reason": "building blocks are the standard components that designs are assembled from"
+   }
+  ],
+  "sysd-found-137": [
+   {
+    "id": "sysd-found-136",
+    "reason": "the eight remedies (cache, queue workers, load balancer, CDN, object store) are standard building blocks"
+   },
+   {
+    "id": "sysd-found-139",
+    "reason": "the recurring problems are failures of scale, availability and performance properties"
+   }
+  ],
+  "sysd-found-138": [
+   {
+    "id": "sysd-found-130",
+    "reason": "architecture is the structures created by the system design discipline"
+   },
+   {
+    "id": "sysd-found-139",
+    "reason": "structures are reasoned about against properties such as availability or performance"
+   }
+  ],
+  "sysd-found-139": [
+   {
+    "id": "sysd-found-130",
+    "reason": "it specifies how a system operates, so the reader must know what a system design is"
+   },
+   {
+    "id": "sysd-found-207",
+    "reason": "it is defined by contrast with a specific behavior, which is a functional requirement"
+   }
+  ],
+  "sysd-found-140": [
+   {
+    "id": "sysd-found-138",
+    "reason": "a style is a high-level structural organization of the architecture"
+   },
+   {
+    "id": "sysd-found-208",
+    "reason": "an architecture pattern is the system-level counterpart of a reusable design template"
+   }
+  ],
+  "sysd-found-141": [
+   {
+    "id": "sysd-found-138",
+    "reason": "the four activities are how an architecture is designed"
+   },
+   {
+    "id": "sysd-found-139",
+    "reason": "analysis and evaluation work against the system's non-functional requirements"
+   }
+  ],
+  "sysd-found-142": [
+   {
+    "id": "sysd-found-138",
+    "reason": "a record captures an architectural decision"
+   },
+   {
+    "id": "sysd-found-094",
+    "reason": "the recorded justification is the trade-off between competing goals"
+   },
+   {
+    "id": "sysd-found-139",
+    "reason": "business and technical justification refers back to the requirements driving the decision"
+   }
+  ],
+  "sysd-found-143": [
+   {
+    "id": "sysd-found-138",
+    "reason": "erosion is a gap between intended and implemented architecture"
+   },
+   {
+    "id": "sysd-found-141",
+    "reason": "it opens over time as the architecture evolves, the fourth activity"
+   }
+  ],
+  "sysd-found-144": [
+   {
+    "id": "sysd-found-130",
+    "reason": "it defines the what that system design answers"
+   },
+   {
+    "id": "sysd-found-207",
+    "reason": "eliciting and specifying what a system must do centers on functional requirements"
+   },
+   {
+    "id": "sysd-found-139",
+    "reason": "it also covers the non-functional criteria a system is judged by"
+   }
+  ],
+  "sysd-found-207": [
+   {
+    "id": "sysd-found-130",
+    "reason": "a functional requirement describes what a system is supposed to accomplish"
+   }
+  ],
+  "sysd-found-208": [],
+  "sysd-found-209": [
+   {
+    "id": "sysd-found-138",
+    "reason": "the law relates the structure of a system, its architecture, to the organization that designs it"
+   }
+  ],
+  "sysd-found-087": [],
+  "sysd-found-088": [
+   {
+    "id": "sysd-found-087",
+    "reason": "network latency is latency applied to data crossing a network"
+   }
+  ],
+  "sysd-found-089": [
+   {
+    "id": "sysd-found-087",
+    "reason": "it is the high-percentile response time, a latency measure"
+   },
+   {
+    "id": "sysd-found-192",
+    "reason": "it is read at the 95th, 99th or 99.9th percentile"
+   }
+  ],
+  "sysd-found-090": [
+   {
+    "id": "sysd-found-099",
+    "reason": "throughput is the achieved rate, bounded by the bandwidth of the channel"
+   },
+   {
+    "id": "sysd-found-100",
+    "reason": "rates are expressed in multiples of the bit and byte"
+   }
+  ],
+  "sysd-found-091": [
+   {
+    "id": "sysd-found-090",
+    "reason": "the four maxima are upper limits of throughput"
+   },
+   {
+    "id": "sysd-found-099",
+    "reason": "maximum theoretical throughput is tied to bandwidth, the maximum rate across a path"
+   }
+  ],
+  "sysd-found-092": [
+   {
+    "id": "sysd-found-090",
+    "reason": "goodput is the useful part of throughput"
+   },
+   {
+    "id": "sysd-found-019",
+    "reason": "headers wrap the payload at each layer, so not all bytes carried are useful data"
+   },
+   {
+    "id": "sysd-found-020",
+    "reason": "goodput is counted at the application-layer protocol"
+   }
+  ],
+  "sysd-found-093": [
+   {
+    "id": "sysd-found-087",
+    "reason": "latency is how long one operation takes"
+   },
+   {
+    "id": "sysd-found-090",
+    "reason": "throughput is operations completed per unit of time"
+   }
+  ],
+  "sysd-found-094": [
+   {
+    "id": "sysd-found-130",
+    "reason": "trade-offs are the compromises inherent in any system design"
+   }
+  ],
+  "sysd-found-095": [
+   {
+    "id": "sysd-found-087",
+    "reason": "it lists techniques for lowering latency"
+   },
+   {
+    "id": "sysd-found-088",
+    "reason": "indexing, CDN and compression act on network and response delay"
+   },
+   {
+    "id": "sysd-found-097",
+    "reason": "knowing which steps are slow tells you which technique to apply"
+   }
+  ],
+  "sysd-found-096": [
+   {
+    "id": "sysd-found-100",
+    "reason": "storage is sized in bytes using decimal or binary prefixes"
+   },
+   {
+    "id": "sysd-found-097",
+    "reason": "judging which steps are slow relies on the rough latency figures"
+   },
+   {
+    "id": "sysd-found-090",
+    "reason": "traffic is sized as a rate of operations per unit time"
+   },
+   {
+    "id": "sysd-found-093",
+    "reason": "estimates keep latency and throughput distinct"
+   }
+  ],
+  "sysd-found-097": [
+   {
+    "id": "sysd-found-087",
+    "reason": "the figures are latencies of common operations"
+   },
+   {
+    "id": "sysd-found-088",
+    "reason": "a transatlantic packet is a network latency figure"
+   }
+  ],
+  "sysd-found-098": [
+   {
+    "id": "sysd-found-087",
+    "reason": "load time and time to first byte are latency measures"
+   },
+   {
+    "id": "sysd-found-194",
+    "reason": "round trip time is one of the nine metrics"
+   },
+   {
+    "id": "sysd-found-044",
+    "reason": "load time, request count and render metrics follow the steps from URL to rendered response"
+   },
+   {
+    "id": "sysd-found-033",
+    "reason": "request count and time to first byte count HTTP request and response messages"
+   }
+  ],
+  "sysd-found-099": [],
+  "sysd-found-100": [],
+  "sysd-found-192": [],
+  "sysd-found-193": [
+   {
+    "id": "sysd-found-087",
+    "reason": "time in the system is latency"
+   },
+   {
+    "id": "sysd-found-090",
+    "reason": "arrival rate is throughput"
+   },
+   {
+    "id": "sysd-found-093",
+    "reason": "the law ties the two together"
+   }
+  ],
+  "sysd-found-194": [
+   {
+    "id": "sysd-found-088",
+    "reason": "round-trip time is the round-trip form of network latency"
+   }
+  ]
+ }
+}

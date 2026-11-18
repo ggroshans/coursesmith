@@ -124,6 +124,34 @@ parts:
 - key: blocks
   title: Building blocks
   chapters:
+  - key: algorithms-behind-the-systems
+    title: Algorithms behind the systems
+    seeds:
+    - gh>ByteByteGoHq/system-design-101/data/guides/algorithms-you-should-know-before-taking-system-design-interviews.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/explaining-5-unique-id-generators-in-distributed-systems.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/quadtree.md
+    - gh>ByteByteGoHq/system-design-101/data/guides/unique-id-generator.md
+    - gh>karanpratapsingh/system-design/README.md::geohashing-and-quadtrees
+    - Bloom filter
+    - Geohash
+    - HyperLogLog
+    - Quadtree
+    - Snowflake ID
+    - Universally unique identifier
+    - paper>10.1145/362686.362692
+    - Hash function
+    - Hash collision
+    - MD5
+    - Count–min sketch
+    - Merkle tree
+    - Trie
+    - Z-order curve
+    - Hilbert curve
+    - K-d tree
+    - Base64
+    - rfc>9562
+    - paper>10.46298/dmtcs.3545
+    share: 0.0338
   - key: load-balancing
     title: Load balancing
     seeds:
@@ -662,34 +690,6 @@ parts:
     - rfc>7519
     - rfc>7636
     share: 0.037
-  - key: algorithms-behind-the-systems
-    title: Algorithms behind the systems
-    seeds:
-    - gh>ByteByteGoHq/system-design-101/data/guides/algorithms-you-should-know-before-taking-system-design-interviews.md
-    - gh>ByteByteGoHq/system-design-101/data/guides/explaining-5-unique-id-generators-in-distributed-systems.md
-    - gh>ByteByteGoHq/system-design-101/data/guides/quadtree.md
-    - gh>ByteByteGoHq/system-design-101/data/guides/unique-id-generator.md
-    - gh>karanpratapsingh/system-design/README.md::geohashing-and-quadtrees
-    - Bloom filter
-    - Geohash
-    - HyperLogLog
-    - Quadtree
-    - Snowflake ID
-    - Universally unique identifier
-    - paper>10.1145/362686.362692
-    - Hash function
-    - Hash collision
-    - MD5
-    - Count–min sketch
-    - Merkle tree
-    - Trie
-    - Z-order curve
-    - Hilbert curve
-    - K-d tree
-    - Base64
-    - rfc>9562
-    - paper>10.46298/dmtcs.3545
-    share: 0.0338
 - key: q
   title: Design interview questions
   chapters:

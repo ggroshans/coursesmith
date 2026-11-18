@@ -1,0 +1,480 @@
+{
+ "entries": {
+  "sysd-reliab-067": [
+   {
+    "id": "sysd-reliab-168",
+    "reason": "the breaker exists to stop failures cascading"
+   },
+   {
+    "id": "sysd-reliab-082",
+    "reason": "it is a fault-tolerance technique for calls to a failing service"
+   },
+   {
+    "id": "sysd-reliab-069",
+    "reason": "it complements retries, which it stops once failures pass a threshold"
+   },
+   {
+    "id": "sysd-msg-018",
+    "reason": "it wraps calls to a remote service, i.e. remote procedure calls"
+   }
+  ],
+  "sysd-reliab-068": [
+   {
+    "id": "sysd-reliab-067",
+    "reason": "the states are those of a circuit breaker"
+   }
+  ],
+  "sysd-reliab-069": [
+   {
+    "id": "sysd-reliab-082",
+    "reason": "retries handle transient faults so the system keeps working"
+   },
+   {
+    "id": "sysd-msg-128",
+    "reason": "transient network errors come from unreliable-network assumptions"
+   },
+   {
+    "id": "sysd-msg-035",
+    "reason": "timeouts are the usual signal that triggers a retry"
+   }
+  ],
+  "sysd-reliab-070": [
+   {
+    "id": "sysd-reliab-071",
+    "reason": "exactly-once is built from at-least-once plus idempotent repeats"
+   },
+   {
+    "id": "sysd-reliab-069",
+    "reason": "at-least-once execution comes from retrying"
+   },
+   {
+    "id": "sysd-msg-050",
+    "reason": "exactly-once is one of the delivery semantics"
+   }
+  ],
+  "sysd-reliab-071": [
+   {
+    "id": "sysd-found-036",
+    "reason": "same idea already defined for HTTP methods"
+   },
+   {
+    "id": "sysd-reliab-069",
+    "reason": "idempotency matters because operations are retried"
+   }
+  ],
+  "sysd-reliab-072": [
+   {
+    "id": "sysd-reliab-071",
+    "reason": "the use cases apply idempotency"
+   },
+   {
+    "id": "sysd-reliab-069",
+    "reason": "retried operations are the main case"
+   },
+   {
+    "id": "sysd-msg-050",
+    "reason": "at-least-once delivery means an operation can run twice"
+   }
+  ],
+  "sysd-reliab-073": [
+   {
+    "id": "sysd-reliab-071",
+    "reason": "the key makes a non-idempotent request safe to repeat"
+   },
+   {
+    "id": "sysd-found-063",
+    "reason": "POST is not naturally idempotent, unlike PUT"
+   },
+   {
+    "id": "sysd-reliab-069",
+    "reason": "clients send the key so a retry is detected as a duplicate"
+   }
+  ],
+  "sysd-reliab-074": [
+   {
+    "id": "sysd-reliab-071",
+    "reason": "a repeated message must have no extra effect"
+   },
+   {
+    "id": "sysd-msg-050",
+    "reason": "duplicates arise under at-least-once delivery"
+   },
+   {
+    "id": "sysd-msg-046",
+    "reason": "the consumer reads messages from a queue"
+   }
+  ],
+  "sysd-reliab-075": [
+   {
+    "id": "sysd-blocks-180",
+    "reason": "floods of traffic are the abuse rate limiting guards against"
+   },
+   {
+    "id": "sysd-found-093",
+    "reason": "a rate is operations per unit of time"
+   }
+  ],
+  "sysd-reliab-076": [
+   {
+    "id": "sysd-reliab-075",
+    "reason": "the algorithms implement rate limiting"
+   }
+  ],
+  "sysd-reliab-077": [
+   {
+    "id": "sysd-reliab-076",
+    "reason": "the per-node counters follow these algorithms"
+   },
+   {
+    "id": "sysd-blocks-112",
+    "reason": "requests are spread across several nodes"
+   },
+   {
+    "id": "sysd-scale-092",
+    "reason": "per-node counters are inconsistent across replicas"
+   }
+  ],
+  "sysd-reliab-078": [
+   {
+    "id": "sysd-reliab-082",
+    "reason": "patterns limit damage so the system keeps operating"
+   },
+   {
+    "id": "sysd-reliab-168",
+    "reason": "the snowballing failure they guard against"
+   }
+  ],
+  "sysd-reliab-079": [
+   {
+    "id": "sysd-reliab-069",
+    "reason": "backoff sets the delay between retry attempts"
+   }
+  ],
+  "sysd-reliab-080": [
+   {
+    "id": "sysd-reliab-079",
+    "reason": "it caps plain exponential backoff"
+   }
+  ],
+  "sysd-reliab-081": [
+   {
+    "id": "sysd-reliab-079",
+    "reason": "jitter randomizes backoff delays"
+   },
+   {
+    "id": "sysd-blocks-162",
+    "reason": "clients retrying together is a thundering herd"
+   }
+  ],
+  "sysd-reliab-082": [
+   {
+    "id": "sysd-scale-056",
+    "reason": "a single point of failure is what fault tolerance removes"
+   }
+  ],
+  "sysd-reliab-083": [
+   {
+    "id": "sysd-reliab-082",
+    "reason": "these are techniques for fault tolerance"
+   },
+   {
+    "id": "sysd-scale-043",
+    "reason": "replicas are one technique"
+   },
+   {
+    "id": "sysd-scale-058",
+    "reason": "standbys taking over is failover"
+   },
+   {
+    "id": "sysd-blocks-112",
+    "reason": "load balancing sends requests only to online servers"
+   },
+   {
+    "id": "sysd-scale-073",
+    "reason": "spare components are redundancy"
+   }
+  ],
+  "sysd-reliab-084": [
+   {
+    "id": "sysd-reliab-082",
+    "reason": "degrading instead of failing is a form of fault tolerance"
+   }
+  ],
+  "sysd-reliab-085": [
+   {
+    "id": "sysd-reliab-082",
+    "reason": "fail-fast and fail-safe are fault-handling styles"
+   }
+  ],
+  "sysd-reliab-086": [
+   {
+    "id": "sysd-reliab-075",
+    "reason": "the bucket enforces a rate limit"
+   },
+   {
+    "id": "sysd-found-099",
+    "reason": "its leak rate is a data-transfer rate"
+   }
+  ],
+  "sysd-reliab-087": [
+   {
+    "id": "sysd-reliab-075",
+    "reason": "policing and shaping enforce limits on a rate"
+   },
+   {
+    "id": "sysd-found-099",
+    "reason": "traffic is limited to a bandwidth"
+   },
+   {
+    "id": "sysd-reliab-169",
+    "reason": "throttling is the simpler form of limiting transfer rate"
+   }
+  ],
+  "sysd-reliab-088": [
+   {
+    "id": "sysd-reliab-075",
+    "reason": "the bucket enforces a rate limit"
+   },
+   {
+    "id": "sysd-found-099",
+    "reason": "it checks conformance to a bandwidth limit"
+   }
+  ],
+  "sysd-reliab-089": [
+   {
+    "id": "sysd-reliab-088",
+    "reason": "it arranges token buckets in a hierarchy"
+   },
+   {
+    "id": "sysd-found-099",
+    "reason": "it stops any client saturating total bandwidth"
+   }
+  ],
+  "sysd-reliab-090": [
+   {
+    "id": "sysd-reliab-088",
+    "reason": "one of the two algorithms compared"
+   },
+   {
+    "id": "sysd-reliab-086",
+    "reason": "the other algorithm compared"
+   },
+   {
+    "id": "sysd-reliab-087",
+    "reason": "the shaping-only queue variant is explained by shaping versus policing"
+   }
+  ],
+  "sysd-reliab-168": [
+   {
+    "id": "sysd-reliab-082",
+    "reason": "a cascade is the failure of fault tolerance across parts"
+   },
+   {
+    "id": "sysd-scale-056",
+    "reason": "one failed part taking others down starts from a critical component"
+   },
+   {
+    "id": "sysd-scale-057",
+    "reason": "load shifting onto the limited component drives the feedback"
+   }
+  ],
+  "sysd-reliab-169": [
+   {
+    "id": "sysd-reliab-075",
+    "reason": "throttling is a way of limiting a rate"
+   },
+   {
+    "id": "sysd-found-099",
+    "reason": "it caps data-transfer bandwidth"
+   },
+   {
+    "id": "sysd-found-090",
+    "reason": "it limits the rate of data transfer"
+   }
+  ],
+  "sysd-reliab-170": [
+   {
+    "id": "sysd-reliab-168",
+    "reason": "shedding stops overload spreading"
+   },
+   {
+    "id": "sysd-reliab-075",
+    "reason": "dropping traffic builds on limiting request rate"
+   },
+   {
+    "id": "sysd-reliab-178",
+    "reason": "overload means resources run out"
+   }
+  ],
+  "sysd-reliab-171": [
+   {
+    "id": "sysd-reliab-075",
+    "reason": "the client limits its own request rate"
+   },
+   {
+    "id": "sysd-reliab-170",
+    "reason": "it reacts to the backend rejecting load"
+   }
+  ],
+  "sysd-reliab-172": [
+   {
+    "id": "sysd-reliab-075",
+    "reason": "quotas limit how much each customer may use"
+   },
+   {
+    "id": "sysd-reliab-173",
+    "reason": "quotas are in resources such as CPU, not just QPS"
+   },
+   {
+    "id": "sysd-reliab-170",
+    "reason": "quotas decide who is rejected under global overload"
+   }
+  ],
+  "sysd-reliab-173": [
+   {
+    "id": "sysd-scale-137",
+    "reason": "it is about measuring capacity to plan for demand"
+   },
+   {
+    "id": "sysd-found-093",
+    "reason": "QPS is a throughput measure"
+   }
+  ],
+  "sysd-reliab-174": [
+   {
+    "id": "sysd-reliab-170",
+    "reason": "rejects the least critical traffic when shedding load"
+   },
+   {
+    "id": "sysd-reliab-084",
+    "reason": "dropping low-priority work degrades service gracefully"
+   }
+  ],
+  "sysd-reliab-175": [
+   {
+    "id": "sysd-reliab-069",
+    "reason": "budgets limit retries"
+   },
+   {
+    "id": "sysd-reliab-168",
+    "reason": "retries can amplify overload into a cascade"
+   },
+   {
+    "id": "sysd-reliab-075",
+    "reason": "a budget caps a request rate"
+   }
+  ],
+  "sysd-reliab-176": [
+   {
+    "id": "sysd-msg-018",
+    "reason": "the deadline is on an RPC across the call tree"
+   },
+   {
+    "id": "sysd-msg-035",
+    "reason": "a deadline is a chosen timeout value"
+   }
+  ],
+  "sysd-reliab-177": [
+   {
+    "id": "sysd-msg-071",
+    "reason": "a bounded queue is backpressure"
+   },
+   {
+    "id": "sysd-reliab-170",
+    "reason": "rejecting early is load shedding"
+   },
+   {
+    "id": "sysd-reliab-178",
+    "reason": "a thread pool can run out of threads"
+   }
+  ],
+  "sysd-reliab-178": [
+   {
+    "id": "sysd-reliab-168",
+    "reason": "exhaustion is what starts a cascading failure"
+   },
+   {
+    "id": "sysd-scale-057",
+    "reason": "the limited resource is the bottleneck"
+   }
+  ],
+  "sysd-reliab-179": [
+   {
+    "id": "sysd-reliab-168",
+    "reason": "triggers start the cascade"
+   },
+   {
+    "id": "sysd-reliab-178",
+    "reason": "resource exhaustion is the mechanism the triggers act through"
+   }
+  ],
+  "sysd-reliab-180": [
+   {
+    "id": "sysd-blocks-001",
+    "reason": "an empty cache is the cold-cache case"
+   },
+   {
+    "id": "sysd-blocks-003",
+    "reason": "a cold cache has a low hit ratio"
+   },
+   {
+    "id": "sysd-reliab-168",
+    "reason": "the overload it causes can cascade"
+   }
+  ],
+  "sysd-reliab-181": [
+   {
+    "id": "sysd-reliab-168",
+    "reason": "what is being recovered from"
+   },
+   {
+    "id": "sysd-reliab-170",
+    "reason": "reducing load by shedding"
+   },
+   {
+    "id": "sysd-reliab-084",
+    "reason": "degrading service until stable"
+   },
+   {
+    "id": "sysd-reliab-178",
+    "reason": "wedged servers are often exhausted"
+   }
+  ],
+  "sysd-reliab-182": [
+   {
+    "id": "sysd-reliab-183",
+    "reason": "load testing is the first step"
+   },
+   {
+    "id": "sysd-reliab-170",
+    "reason": "rejecting excess requests is load shedding"
+   },
+   {
+    "id": "sysd-reliab-084",
+    "reason": "degraded responses are part of the mix"
+   },
+   {
+    "id": "sysd-scale-137",
+    "reason": "capacity planning is part of the mix"
+   },
+   {
+    "id": "sysd-reliab-177",
+    "reason": "early rejection happens at the server queue"
+   }
+  ],
+  "sysd-reliab-183": [
+   {
+    "id": "sysd-reliab-168",
+    "reason": "the overload being prepared for"
+   },
+   {
+    "id": "sysd-reliab-178",
+    "reason": "components break by running out of resources"
+   },
+   {
+    "id": "sysd-scale-137",
+    "reason": "the breaking point informs capacity"
+   }
+  ]
+ }
+}
