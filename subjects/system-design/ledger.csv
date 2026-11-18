@@ -347,3 +347,446 @@ gh>ByteByteGoHq/system-design-101/data/guides/how-are-notifications-pushed-to-ou
 gh>ByteByteGoHq/system-design-101/data/guides/how-do-we-design-a-permission-system.md,https://github.com/ByteByteGoHq/system-design-101/blob/b28380a4710c5ec9638ec037d4168e288f334cba/data/guides/how-do-we-design-a-permission-system.md,b28380a4710c5ec9638ec037d4168e288f334cba,0,,frame,16,fetched
 rfc>9111,https://www.rfc-editor.org/rfc/rfc9111,June 2022,0,,frame,16,fetched
 rfc>1034,https://www.rfc-editor.org/rfc/rfc1034,November 1987,0,,frame,16,fetched
+Non-functional requirement,https://en.wikipedia.org/wiki/Non-functional_requirement,1384206874,0,,frame,14,fetched
+Functional requirement,https://en.wikipedia.org/wiki/Functional_requirement,1375457561,0,,frame,13,fetched
+Requirements engineering,https://en.wikipedia.org/wiki/Requirements_engineering,1382064719,0,,frame,14,fetched
+Software design pattern,https://en.wikipedia.org/wiki/Software_design_pattern,1374508132,0,,frame,13,fetched
+Conway's law,https://en.wikipedia.org/wiki/Conway's_law,1383764499,0,,frame,12,fetched
+Back-of-the-envelope calculation,https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation,1376805115,0,,frame,10,fetched
+Percentile,https://en.wikipedia.org/wiki/Percentile,1386160720,0,,frame,11,fetched
+Little's law,https://en.wikipedia.org/wiki/Little's_law,1370351232,0,,frame,11,fetched
+Round-trip delay,https://en.wikipedia.org/wiki/Round-trip_delay,1338447390,0,,frame,12,fetched
+Software design pattern,https://en.wikipedia.org/wiki/Software_design_pattern,1374508132,0,,frame,13,fetched
+Internet protocol suite,https://en.wikipedia.org/wiki/Internet_protocol_suite,1385858607,0,,frame,15,fetched
+Conway's law,https://en.wikipedia.org/wiki/Conway's_law,1383764499,0,,frame,12,fetched
+Network address translation,https://en.wikipedia.org/wiki/Network_address_translation,1384959910,0,,frame,15,fetched
+Back-of-the-envelope calculation,https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation,1376805115,0,,frame,10,fetched
+Dynamic Host Configuration Protocol,https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol,1383701282,0,,frame,15,fetched
+Address Resolution Protocol,https://en.wikipedia.org/wiki/Address_Resolution_Protocol,1381161543,0,,frame,14,fetched
+Percentile,https://en.wikipedia.org/wiki/Percentile,1386160720,0,,frame,11,fetched
+Little's law,https://en.wikipedia.org/wiki/Little's_law,1370351232,0,,frame,11,fetched
+QUIC,https://en.wikipedia.org/wiki/QUIC,1386350290,0,,frame,14,fetched
+Round-trip delay,https://en.wikipedia.org/wiki/Round-trip_delay,1338447390,0,,frame,12,fetched
+Maximum transmission unit,https://en.wikipedia.org/wiki/Maximum_transmission_unit,1345679657,0,,frame,14,fetched
+Internet protocol suite,https://en.wikipedia.org/wiki/Internet_protocol_suite,1385858607,0,,frame,15,fetched
+TCP congestion control,https://en.wikipedia.org/wiki/TCP_congestion_control,1386438628,0,,frame,13,fetched
+Network address translation,https://en.wikipedia.org/wiki/Network_address_translation,1384959910,0,,frame,15,fetched
+Network socket,https://en.wikipedia.org/wiki/Network_socket,1368748259,0,,frame,15,fetched
+Internet Control Message Protocol,https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol,1376511679,0,,frame,15,fetched
+Dynamic Host Configuration Protocol,https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol,1383701282,0,,frame,15,fetched
+Address Resolution Protocol,https://en.wikipedia.org/wiki/Address_Resolution_Protocol,1381161543,0,,frame,14,fetched
+Client–server model,https://en.wikipedia.org/wiki/Client%E2%80%93server_model,1383759657,0,,frame,15,fetched
+rfc>9293,https://www.rfc-editor.org/rfc/rfc9293,August 2022,0,,frame,16,fetched
+QUIC,https://en.wikipedia.org/wiki/QUIC,1386350290,0,,frame,14,fetched
+Domain Name System Security Extensions,https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions,1383736790,0,,frame,13,fetched
+Maximum transmission unit,https://en.wikipedia.org/wiki/Maximum_transmission_unit,1345679657,0,,frame,14,fetched
+DNS spoofing,https://en.wikipedia.org/wiki/DNS_spoofing,1384214449,0,,frame,11,fetched
+Round-robin DNS,https://en.wikipedia.org/wiki/Round-robin_DNS,1334865412,0,,frame,14,fetched
+TCP congestion control,https://en.wikipedia.org/wiki/TCP_congestion_control,1386438628,0,,frame,13,fetched
+Anycast,https://en.wikipedia.org/wiki/Anycast,1384017898,0,,frame,14,fetched
+Network socket,https://en.wikipedia.org/wiki/Network_socket,1368748259,0,,frame,15,fetched
+Internet Control Message Protocol,https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol,1376511679,0,,frame,15,fetched
+Top-level domain,https://en.wikipedia.org/wiki/Top-level_domain,1384977981,0,,frame,13,fetched
+Client–server model,https://en.wikipedia.org/wiki/Client%E2%80%93server_model,1383759657,0,,frame,15,fetched
+rfc>9293,https://www.rfc-editor.org/rfc/rfc9293,August 2022,0,,frame,16,fetched
+Root name server,https://en.wikipedia.org/wiki/Root_name_server,1383181453,0,,frame,14,fetched
+Time to live,https://en.wikipedia.org/wiki/Time_to_live,1339733291,0,,frame,14,fetched
+Domain Name System Security Extensions,https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions,1383736790,0,,frame,13,fetched
+DNS spoofing,https://en.wikipedia.org/wiki/DNS_spoofing,1384214449,0,,frame,11,fetched
+List of DNS record types,https://en.wikipedia.org/wiki/List_of_DNS_record_types,1385909018,0,,frame,13,fetched
+Round-robin DNS,https://en.wikipedia.org/wiki/Round-robin_DNS,1334865412,0,,frame,14,fetched
+Split-horizon DNS,https://en.wikipedia.org/wiki/Split-horizon_DNS,1372555994,0,,frame,10,fetched
+Anycast,https://en.wikipedia.org/wiki/Anycast,1384017898,0,,frame,14,fetched
+Domain name registrar,https://en.wikipedia.org/wiki/Domain_name_registrar,1376056263,0,,frame,11,fetched
+Top-level domain,https://en.wikipedia.org/wiki/Top-level_domain,1384977981,0,,frame,13,fetched
+HTTP/2,https://en.wikipedia.org/wiki/HTTP%2F2,1385239271,0,,frame,14,fetched
+Root name server,https://en.wikipedia.org/wiki/Root_name_server,1383181453,0,,frame,14,fetched
+HTTP/3,https://en.wikipedia.org/wiki/HTTP%2F3,1383702347,0,,frame,14,fetched
+Time to live,https://en.wikipedia.org/wiki/Time_to_live,1339733291,0,,frame,14,fetched
+HTTP cookie,https://en.wikipedia.org/wiki/HTTP_cookie,1384646508,0,,frame,13,fetched
+List of DNS record types,https://en.wikipedia.org/wiki/List_of_DNS_record_types,1385909018,0,,frame,13,fetched
+Head-of-line blocking,https://en.wikipedia.org/wiki/Head-of-line_blocking,1303124275,0,,frame,14,fetched
+Split-horizon DNS,https://en.wikipedia.org/wiki/Split-horizon_DNS,1372555994,0,,frame,10,fetched
+HTTP pipelining,https://en.wikipedia.org/wiki/HTTP_pipelining,1379494913,0,,frame,13,fetched
+Domain name registrar,https://en.wikipedia.org/wiki/Domain_name_registrar,1376056263,0,,frame,11,fetched
+List of HTTP status codes,https://en.wikipedia.org/wiki/List_of_HTTP_status_codes,1379766284,0,,frame,12,fetched
+HTTP/2,https://en.wikipedia.org/wiki/HTTP%2F2,1385239271,0,,frame,14,fetched
+Public-key cryptography,https://en.wikipedia.org/wiki/Public-key_cryptography,1384895975,0,,frame,14,fetched
+HTTP/3,https://en.wikipedia.org/wiki/HTTP%2F3,1383702347,0,,frame,14,fetched
+Diffie–Hellman key exchange,https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange,1385452357,0,,frame,13,fetched
+HTTP cookie,https://en.wikipedia.org/wiki/HTTP_cookie,1384646508,0,,frame,13,fetched
+Public key certificate,https://en.wikipedia.org/wiki/Public_key_certificate,1386282154,0,,frame,13,fetched
+Head-of-line blocking,https://en.wikipedia.org/wiki/Head-of-line_blocking,1303124275,0,,frame,14,fetched
+Certificate authority,https://en.wikipedia.org/wiki/Certificate_authority,1386170375,0,,frame,13,fetched
+HTTP pipelining,https://en.wikipedia.org/wiki/HTTP_pipelining,1379494913,0,,frame,13,fetched
+Man-in-the-middle attack,https://en.wikipedia.org/wiki/Man-in-the-middle_attack,1384049664,0,,frame,13,fetched
+List of HTTP status codes,https://en.wikipedia.org/wiki/List_of_HTTP_status_codes,1379766284,0,,frame,12,fetched
+HTTP Strict Transport Security,https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security,1381781795,0,,frame,11,fetched
+Public-key cryptography,https://en.wikipedia.org/wiki/Public-key_cryptography,1384895975,0,,frame,14,fetched
+Symmetric-key algorithm,https://en.wikipedia.org/wiki/Symmetric-key_algorithm,1368149066,0,,frame,12,fetched
+rfc>9113,https://www.rfc-editor.org/rfc/rfc9113,June 2022,0,,frame,16,fetched
+Diffie–Hellman key exchange,https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange,1385452357,0,,frame,13,fetched
+rfc>8446,https://www.rfc-editor.org/rfc/rfc8446,August 2018,0,,frame,16,fetched
+Public key certificate,https://en.wikipedia.org/wiki/Public_key_certificate,1386282154,0,,frame,13,fetched
+rfc>6585,https://www.rfc-editor.org/rfc/rfc6585,April 2012,0,,frame,16,fetched
+paper>10.1145/359340.359342,https://doi.org/10.1145/359340.359342,1978-02-01,0,,frame,16,fetched
+Failover,https://en.wikipedia.org/wiki/Failover,1367992837,0,,frame,14,fetched
+Certificate authority,https://en.wikipedia.org/wiki/Certificate_authority,1386170375,0,,frame,13,fetched
+Round-robin scheduling,https://en.wikipedia.org/wiki/Round-robin_scheduling,1337539951,0,,frame,12,fetched
+Man-in-the-middle attack,https://en.wikipedia.org/wiki/Man-in-the-middle_attack,1384049664,0,,frame,13,fetched
+API management,https://en.wikipedia.org/wiki/API_management,1379737129,0,,frame,10,fetched
+HTTP Strict Transport Security,https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security,1381781795,0,,frame,11,fetched
+Nginx,https://en.wikipedia.org/wiki/Nginx,1386449065,0,,frame,14,fetched
+Symmetric-key algorithm,https://en.wikipedia.org/wiki/Symmetric-key_algorithm,1368149066,0,,frame,12,fetched
+rfc>9113,https://www.rfc-editor.org/rfc/rfc9113,June 2022,0,,frame,16,fetched
+rfc>8446,https://www.rfc-editor.org/rfc/rfc8446,August 2018,0,,frame,16,fetched
+rfc>6585,https://www.rfc-editor.org/rfc/rfc6585,April 2012,0,,frame,16,fetched
+paper>10.1145/359340.359342,https://doi.org/10.1145/359340.359342,1978-02-01,0,,frame,16,fetched
+HAProxy,https://en.wikipedia.org/wiki/HAProxy,1371626639,0,,frame,13,fetched
+Failover,https://en.wikipedia.org/wiki/Failover,1367992837,0,,frame,14,fetched
+Cloud Native Computing Foundation,https://en.wikipedia.org/wiki/Cloud_Native_Computing_Foundation,1386170728,0,,frame,3,fetched
+Round-robin scheduling,https://en.wikipedia.org/wiki/Round-robin_scheduling,1337539951,0,,frame,12,fetched
+Cache invalidation,https://en.wikipedia.org/wiki/Cache_invalidation,1188797099,0,,frame,12,fetched
+API management,https://en.wikipedia.org/wiki/API_management,1379737129,0,,frame,10,fetched
+Cache coherence,https://en.wikipedia.org/wiki/Cache_coherence,1353471089,0,,frame,15,fetched
+Nginx,https://en.wikipedia.org/wiki/Nginx,1386449065,0,,frame,14,fetched
+Locality of reference,https://en.wikipedia.org/wiki/Locality_of_reference,1359813246,0,,frame,13,fetched
+HAProxy,https://en.wikipedia.org/wiki/HAProxy,1371626639,0,,frame,13,fetched
+Memoization,https://en.wikipedia.org/wiki/Memoization,1385784074,0,,frame,11,fetched
+Cloud Native Computing Foundation,https://en.wikipedia.org/wiki/Cloud_Native_Computing_Foundation,1386170728,0,,frame,3,fetched
+CPU cache,https://en.wikipedia.org/wiki/CPU_cache,1385553409,0,,frame,15,fetched
+Cache invalidation,https://en.wikipedia.org/wiki/Cache_invalidation,1188797099,0,,frame,12,fetched
+Page cache,https://en.wikipedia.org/wiki/Page_cache,1384882179,0,,frame,15,fetched
+Cache coherence,https://en.wikipedia.org/wiki/Cache_coherence,1353471089,0,,frame,15,fetched
+Adaptive replacement cache,https://en.wikipedia.org/wiki/Adaptive_replacement_cache,1384555365,0,,frame,13,fetched
+Locality of reference,https://en.wikipedia.org/wiki/Locality_of_reference,1359813246,0,,frame,13,fetched
+Distributed cache,https://en.wikipedia.org/wiki/Distributed_cache,1384975034,0,,frame,15,fetched
+Memoization,https://en.wikipedia.org/wiki/Memoization,1385784074,0,,frame,11,fetched
+Thundering herd problem,https://en.wikipedia.org/wiki/Thundering_herd_problem,1385600464,0,,frame,10,fetched
+paper>10.14778/2757807.2757813,https://doi.org/10.14778/2757807.2757813,2015-04-01,0,,frame,16,fetched
+CPU cache,https://en.wikipedia.org/wiki/CPU_cache,1385553409,0,,frame,15,fetched
+Edge computing,https://en.wikipedia.org/wiki/Edge_computing,1386082909,0,,frame,12,fetched
+Page cache,https://en.wikipedia.org/wiki/Page_cache,1384882179,0,,frame,15,fetched
+Subresource Integrity,https://en.wikipedia.org/wiki/Subresource_Integrity,1379856151,0,,frame,12,fetched
+Adaptive replacement cache,https://en.wikipedia.org/wiki/Adaptive_replacement_cache,1384555365,0,,frame,13,fetched
+Distributed cache,https://en.wikipedia.org/wiki/Distributed_cache,1384975034,0,,frame,15,fetched
+Denial-of-service attack,https://en.wikipedia.org/wiki/Denial-of-service_attack,1386171950,0,,frame,13,fetched
+Content negotiation,https://en.wikipedia.org/wiki/Content_negotiation,1306197379,0,,frame,11,fetched
+Thundering herd problem,https://en.wikipedia.org/wiki/Thundering_herd_problem,1385600464,0,,frame,10,fetched
+paper>10.14778/2757807.2757813,https://doi.org/10.14778/2757807.2757813,2015-04-01,0,,frame,16,fetched
+Edge computing,https://en.wikipedia.org/wiki/Edge_computing,1386082909,0,,frame,12,fetched
+Peer-to-peer,https://en.wikipedia.org/wiki/Peer-to-peer,1384924534,0,,frame,14,fetched
+NewSQL,https://en.wikipedia.org/wiki/NewSQL,1376696713,0,,frame,12,fetched
+Subresource Integrity,https://en.wikipedia.org/wiki/Subresource_Integrity,1379856151,0,,frame,12,fetched
+Polyglot persistence,https://en.wikipedia.org/wiki/Polyglot_persistence,1357200021,0,,frame,12,fetched
+Denial-of-service attack,https://en.wikipedia.org/wiki/Denial-of-service_attack,1386171950,0,,frame,13,fetched
+Two-phase locking,https://en.wikipedia.org/wiki/Two-phase_locking,1352360262,0,,frame,13,fetched
+Content negotiation,https://en.wikipedia.org/wiki/Content_negotiation,1306197379,0,,frame,11,fetched
+Database transaction schedule,https://en.wikipedia.org/wiki/Database_transaction_schedule,1373785308,0,,frame,5,fetched
+Peer-to-peer,https://en.wikipedia.org/wiki/Peer-to-peer,1384924534,0,,frame,14,fetched
+Snapshot isolation,https://en.wikipedia.org/wiki/Snapshot_isolation,1265461945,0,,frame,14,fetched
+NewSQL,https://en.wikipedia.org/wiki/NewSQL,1376696713,0,,frame,12,fetched
+Multiversion concurrency control,https://en.wikipedia.org/wiki/Multiversion_concurrency_control,1381199953,0,,frame,14,fetched
+Polyglot persistence,https://en.wikipedia.org/wiki/Polyglot_persistence,1357200021,0,,frame,12,fetched
+Online analytical processing,https://en.wikipedia.org/wiki/Online_analytical_processing,1385914547,0,,frame,10,fetched
+Two-phase locking,https://en.wikipedia.org/wiki/Two-phase_locking,1352360262,0,,frame,13,fetched
+Online transaction processing,https://en.wikipedia.org/wiki/Online_transaction_processing,1356687155,0,,frame,14,fetched
+Database transaction schedule,https://en.wikipedia.org/wiki/Database_transaction_schedule,1373785308,0,,frame,5,fetched
+Data warehouse,https://en.wikipedia.org/wiki/Data_warehouse,1385787698,0,,frame,13,fetched
+Snapshot isolation,https://en.wikipedia.org/wiki/Snapshot_isolation,1265461945,0,,frame,14,fetched
+Star schema,https://en.wikipedia.org/wiki/Star_schema,1306074452,0,,frame,13,fetched
+Multiversion concurrency control,https://en.wikipedia.org/wiki/Multiversion_concurrency_control,1381199953,0,,frame,14,fetched
+Document-oriented database,https://en.wikipedia.org/wiki/Document-oriented_database,1374552421,0,,frame,15,fetched
+Online analytical processing,https://en.wikipedia.org/wiki/Online_analytical_processing,1385914547,0,,frame,10,fetched
+Key–value database,https://en.wikipedia.org/wiki/Key%E2%80%93value_database,1374632217,0,,frame,15,fetched
+Online transaction processing,https://en.wikipedia.org/wiki/Online_transaction_processing,1356687155,0,,frame,14,fetched
+Graph database,https://en.wikipedia.org/wiki/Graph_database,1384474101,0,,frame,15,fetched
+Data warehouse,https://en.wikipedia.org/wiki/Data_warehouse,1385787698,0,,frame,13,fetched
+Wide-column store,https://en.wikipedia.org/wiki/Wide-column_store,1379481309,0,,frame,13,fetched
+Star schema,https://en.wikipedia.org/wiki/Star_schema,1306074452,0,,frame,13,fetched
+Time series database,https://en.wikipedia.org/wiki/Time_series_database,1382815811,0,,frame,13,fetched
+Document-oriented database,https://en.wikipedia.org/wiki/Document-oriented_database,1374552421,0,,frame,15,fetched
+Multi-model database,https://en.wikipedia.org/wiki/Multi-model_database,1385947422,0,,frame,13,fetched
+Key–value database,https://en.wikipedia.org/wiki/Key%E2%80%93value_database,1374632217,0,,frame,15,fetched
+Vector database,https://en.wikipedia.org/wiki/Vector_database,1384354448,0,,frame,13,fetched
+Graph database,https://en.wikipedia.org/wiki/Graph_database,1384474101,0,,frame,15,fetched
+Elasticsearch,https://en.wikipedia.org/wiki/Elasticsearch,1383317635,0,,frame,13,fetched
+Spatial database,https://en.wikipedia.org/wiki/Spatial_database,1366674324,0,,frame,13,cached
+Wide-column store,https://en.wikipedia.org/wiki/Wide-column_store,1379481309,0,,frame,13,fetched
+Connection pool,https://en.wikipedia.org/wiki/Connection_pool,1383076532,0,,frame,13,fetched
+paper>10.1145/568271.223785,https://doi.org/10.1145/568271.223785,1995-05-22,0,,frame,16,fetched
+doc>www.postgresql.org/docs/current/mvcc-intro.html,https://www.postgresql.org/docs/current/mvcc-intro.html,94d973c8a831288d,0,,frame,16,fetched
+Time series database,https://en.wikipedia.org/wiki/Time_series_database,1382815811,0,,frame,13,fetched
+doc>www.postgresql.org/docs/current/transaction-iso.html,https://www.postgresql.org/docs/current/transaction-iso.html,9929d18aa87c0ee9,0,,frame,16,fetched
+Multi-model database,https://en.wikipedia.org/wiki/Multi-model_database,1385947422,0,,frame,13,fetched
+Hash table,https://en.wikipedia.org/wiki/Hash_table,1385956632,0,,frame,13,fetched
+Vector database,https://en.wikipedia.org/wiki/Vector_database,1384354448,0,,frame,13,fetched
+Skip list,https://en.wikipedia.org/wiki/Skip_list,1373738569,0,,frame,12,fetched
+Write-ahead logging,https://en.wikipedia.org/wiki/Write-ahead_logging,1383770856,0,,frame,13,fetched
+Elasticsearch,https://en.wikipedia.org/wiki/Elasticsearch,1383317635,0,,frame,13,fetched
+Spatial database,https://en.wikipedia.org/wiki/Spatial_database,1366674324,0,,frame,13,cached
+Connection pool,https://en.wikipedia.org/wiki/Connection_pool,1383076532,0,,frame,13,fetched
+paper>10.1145/568271.223785,https://doi.org/10.1145/568271.223785,1995-05-22,0,,frame,16,fetched
+doc>www.postgresql.org/docs/current/mvcc-intro.html,https://www.postgresql.org/docs/current/mvcc-intro.html,94d973c8a831288d,0,,frame,16,fetched
+doc>www.postgresql.org/docs/current/transaction-iso.html,https://www.postgresql.org/docs/current/transaction-iso.html,9929d18aa87c0ee9,0,,frame,16,fetched
+Inverted index,https://en.wikipedia.org/wiki/Inverted_index,1354610034,0,,frame,14,fetched
+R-tree,https://en.wikipedia.org/wiki/R-tree,1381542189,0,,frame,12,fetched
+Hash table,https://en.wikipedia.org/wiki/Hash_table,1385956632,0,,frame,13,fetched
+Skip list,https://en.wikipedia.org/wiki/Skip_list,1373738569,0,,frame,12,fetched
+B+ tree,https://en.wikipedia.org/wiki/B%2B_tree,1384015451,0,,frame,13,fetched
+Write-ahead logging,https://en.wikipedia.org/wiki/Write-ahead_logging,1383770856,0,,frame,13,fetched
+Materialized view,https://en.wikipedia.org/wiki/Materialized_view,1379780155,0,,frame,13,fetched
+Inverted index,https://en.wikipedia.org/wiki/Inverted_index,1354610034,0,,frame,14,fetched
+Data orientation,https://en.wikipedia.org/wiki/Data_orientation,1384656217,0,,frame,3,fetched
+paper>10.1145/356770.356776,https://doi.org/10.1145/356770.356776,1979-06-01,0,,frame,16,fetched
+paper>10.1145/128765.128770,https://doi.org/10.1145/128765.128770,1992-03-01,0,,frame,16,fetched
+doc>www.postgresql.org/docs/current/wal-intro.html,https://www.postgresql.org/docs/current/wal-intro.html,fa13ed5bc6d17569,0,,frame,16,cached
+doc>www.postgresql.org/docs/current/indexes-types.html,https://www.postgresql.org/docs/current/indexes-types.html,5ec98c685d1729eb,0,,frame,16,fetched
+Volatile memory,https://en.wikipedia.org/wiki/Volatile_memory,1370680185,0,,frame,11,fetched
+R-tree,https://en.wikipedia.org/wiki/R-tree,1381542189,0,,frame,12,fetched
+Non-volatile memory,https://en.wikipedia.org/wiki/Non-volatile_memory,1383929797,0,,frame,13,fetched
+B+ tree,https://en.wikipedia.org/wiki/B%2B_tree,1384015451,0,,frame,13,fetched
+Materialized view,https://en.wikipedia.org/wiki/Materialized_view,1379780155,0,,frame,13,fetched
+Solid-state drive,https://en.wikipedia.org/wiki/Solid-state_drive,1386334327,0,,frame,13,fetched
+Hard disk drive,https://en.wikipedia.org/wiki/Hard_disk_drive,1386174554,0,,frame,13,cached
+Data orientation,https://en.wikipedia.org/wiki/Data_orientation,1384656217,0,,frame,3,fetched
+paper>10.1145/356770.356776,https://doi.org/10.1145/356770.356776,1979-06-01,0,,frame,16,fetched
+paper>10.1145/128765.128770,https://doi.org/10.1145/128765.128770,1992-03-01,0,,frame,16,fetched
+doc>www.postgresql.org/docs/current/wal-intro.html,https://www.postgresql.org/docs/current/wal-intro.html,fa13ed5bc6d17569,0,,frame,16,cached
+doc>www.postgresql.org/docs/current/indexes-types.html,https://www.postgresql.org/docs/current/indexes-types.html,5ec98c685d1729eb,0,,frame,16,fetched
+Network File System,https://en.wikipedia.org/wiki/Network_File_System,1364964654,0,,frame,15,fetched
+Volatile memory,https://en.wikipedia.org/wiki/Volatile_memory,1370680185,0,,frame,11,fetched
+Server Message Block,https://en.wikipedia.org/wiki/Server_Message_Block,1385999562,0,,frame,15,fetched
+Non-volatile memory,https://en.wikipedia.org/wiki/Non-volatile_memory,1383929797,0,,frame,13,fetched
+ISCSI,https://en.wikipedia.org/wiki/ISCSI,1381887738,0,,frame,13,fetched
+Fibre Channel,https://en.wikipedia.org/wiki/Fibre_Channel,1385590746,0,,frame,14,fetched
+Solid-state drive,https://en.wikipedia.org/wiki/Solid-state_drive,1386334327,0,,frame,13,fetched
+Hard disk drive,https://en.wikipedia.org/wiki/Hard_disk_drive,1386174554,0,,frame,13,cached
+Amazon S3,https://en.wikipedia.org/wiki/Amazon_S3,1384056164,0,,frame,13,fetched
+Network File System,https://en.wikipedia.org/wiki/Network_File_System,1364964654,0,,frame,15,fetched
+Server Message Block,https://en.wikipedia.org/wiki/Server_Message_Block,1385999562,0,,frame,15,fetched
+Reed–Solomon error correction,https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction,1380216952,0,,frame,13,fetched
+ISCSI,https://en.wikipedia.org/wiki/ISCSI,1381887738,0,,frame,13,fetched
+Fibre Channel,https://en.wikipedia.org/wiki/Fibre_Channel,1385590746,0,,frame,14,fetched
+Amazon S3,https://en.wikipedia.org/wiki/Amazon_S3,1384056164,0,,frame,13,fetched
+Reed–Solomon error correction,https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction,1380216952,0,,frame,13,fetched
+Durability (database systems),https://en.wikipedia.org/wiki/Durability_(database_systems),1347487362,0,,frame,15,fetched
+Elasticity (computing),https://en.wikipedia.org/wiki/Elasticity_(computing),1347231136,0,,frame,2,fetched
+Autoscaling,https://en.wikipedia.org/wiki/Autoscaling,1384315884,0,,frame,11,fetched
+Mean time between failures,https://en.wikipedia.org/wiki/Mean_time_between_failures,1365344539,0,,frame,14,fetched
+Mean time to repair,https://en.wikipedia.org/wiki/Mean_time_to_repair,1334587485,0,,frame,13,fetched
+Redundancy (engineering),https://en.wikipedia.org/wiki/Redundancy_(engineering),1378346561,0,,frame,14,fetched
+Amdahl's law,https://en.wikipedia.org/wiki/Amdahl's_law,1385677198,0,,frame,11,fetched
+Capacity planning,https://en.wikipedia.org/wiki/Capacity_planning,1360765545,0,,frame,11,fetched
+Stateless protocol,https://en.wikipedia.org/wiki/Stateless_protocol,1382656567,0,,frame,15,fetched
+Quorum (distributed computing),https://en.wikipedia.org/wiki/Quorum_(distributed_computing),1382507090,0,,frame,12,fetched
+Split-brain (computing),https://en.wikipedia.org/wiki/Split-brain_(computing),1371632674,0,,frame,10,fetched
+Leader election,https://en.wikipedia.org/wiki/Leader_election,1341681953,0,,frame,14,fetched
+Conflict-free replicated data type,https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type,1384255120,0,,frame,14,fetched
+Gossip protocol,https://en.wikipedia.org/wiki/Gossip_protocol,1386027551,0,,frame,15,fetched
+Dynamo (storage system),https://en.wikipedia.org/wiki/Dynamo_(storage_system),1384558164,0,,frame,15,fetched
+paper>10.1145/800215.806583,https://doi.org/10.1145/800215.806583,1979-01-01,0,,frame,16,cached
+paper>10.1145/41840.41841,https://doi.org/10.1145/41840.41841,1987-01-01,0,,frame,16,fetched
+doc>www.postgresql.org/docs/current/high-availability.html,https://www.postgresql.org/docs/current/high-availability.html,fb1112debb04bf3c,0,,frame,16,fetched
+doc>www.postgresql.org/docs/current/warm-standby.html,https://www.postgresql.org/docs/current/warm-standby.html,c7df8e4fde110966,0,,frame,16,fetched
+doc>www.postgresql.org/docs/current/logical-replication.html,https://www.postgresql.org/docs/current/logical-replication.html,5677477d9ac8592d,0,,frame,16,fetched
+Rendezvous hashing,https://en.wikipedia.org/wiki/Rendezvous_hashing,1384056162,0,,frame,11,fetched
+Distributed hash table,https://en.wikipedia.org/wiki/Distributed_hash_table,1376764733,0,,frame,15,fetched
+Shared-nothing architecture,https://en.wikipedia.org/wiki/Shared-nothing_architecture,1316872119,0,,frame,14,fetched
+paper>10.1145/383059.383071,https://doi.org/10.1145/383059.383071,2001-08-27,0,,frame,16,fetched
+Linearizability,https://en.wikipedia.org/wiki/Linearizability,1366605625,0,,frame,13,fetched
+Network partition,https://en.wikipedia.org/wiki/Network_partition,1384377832,0,,frame,15,fetched
+Byzantine fault,https://en.wikipedia.org/wiki/Byzantine_fault,1386025150,0,,frame,12,fetched
+Compensating transaction,https://en.wikipedia.org/wiki/Compensating_transaction,1318840851,0,,frame,11,fetched
+Long-running transaction,https://en.wikipedia.org/wiki/Long-running_transaction,1333806578,0,,frame,1,fetched
+Apache ZooKeeper,https://en.wikipedia.org/wiki/Apache_ZooKeeper,1346340908,0,,frame,13,fetched
+Happened-before,https://en.wikipedia.org/wiki/Happened-before,1361840589,0,,frame,11,fetched
+Atomic broadcast,https://en.wikipedia.org/wiki/Atomic_broadcast,1346035046,0,,frame,14,fetched
+Two Generals' Problem,https://en.wikipedia.org/wiki/Two_Generals'_Problem,1376663237,0,,frame,10,fetched
+Distributed lock manager,https://en.wikipedia.org/wiki/Distributed_lock_manager,1305048094,0,,frame,15,fetched
+Etcd,https://en.wikipedia.org/wiki/Etcd,1336148745,0,,frame,14,fetched
+paper>10.1145/38713.38742,https://doi.org/10.1145/38713.38742,1987-01-01,0,,frame,16,fetched
+doc>sre.google/sre-book/managing-critical-state,https://sre.google/sre-book/managing-critical-state,146770f3e7f0ac8e,0,,frame,16,fetched
+Apache HBase,https://en.wikipedia.org/wiki/Apache_HBase,1386168775,0,,frame,14,fetched
+ScyllaDB,https://en.wikipedia.org/wiki/ScyllaDB,1347872169,0,,frame,14,fetched
+Dead letter queue,https://en.wikipedia.org/wiki/Dead_letter_queue,1339507037,0,,frame,12,fetched
+Amazon Simple Queue Service,https://en.wikipedia.org/wiki/Amazon_Simple_Queue_Service,1379384182,0,,frame,14,fetched
+Advanced Message Queuing Protocol,https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol,1350844408,0,,frame,14,fetched
+MQTT,https://en.wikipedia.org/wiki/MQTT,1381247084,0,,frame,14,fetched
+Message-oriented middleware,https://en.wikipedia.org/wiki/Message-oriented_middleware,1358986898,0,,frame,13,fetched
+Apache ActiveMQ,https://en.wikipedia.org/wiki/Apache_ActiveMQ,1289622198,0,,frame,13,fetched
+NATS Messaging,https://en.wikipedia.org/wiki/NATS_Messaging,1381563754,0,,frame,13,fetched
+Observer pattern,https://en.wikipedia.org/wiki/Observer_pattern,1383763907,0,,frame,14,fetched
+Job queue,https://en.wikipedia.org/wiki/Job_queue,1338406272,0,,frame,12,fetched
+Complex event processing,https://en.wikipedia.org/wiki/Complex_event_processing,1374818647,0,,frame,12,fetched
+Apache Flink,https://en.wikipedia.org/wiki/Apache_Flink,1382402510,0,,frame,13,fetched
+Apache Spark,https://en.wikipedia.org/wiki/Apache_Spark,1367681406,0,,frame,13,fetched
+Batch processing,https://en.wikipedia.org/wiki/Batch_processing,1386169359,0,,frame,13,fetched
+Event sourcing,,,0,,,,missing
+Domain-driven design,https://en.wikipedia.org/wiki/Domain-driven_design,1380351225,0,,frame,15,fetched
+Fallacies of distributed computing,https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing,1332248533,0,,frame,14,fetched
+Command–query separation,https://en.wikipedia.org/wiki/Command%E2%80%93query_separation,1374363377,0,,frame,12,fetched
+Apache Avro,https://en.wikipedia.org/wiki/Apache_Avro,1371118393,0,,frame,12,fetched
+Consul (software),https://en.wikipedia.org/wiki/Consul_(software),1383171176,0,,frame,13,fetched
+Strangler fig pattern,https://en.wikipedia.org/wiki/Strangler_fig_pattern,1330117837,0,,frame,10,fetched
+Loose coupling,https://en.wikipedia.org/wiki/Loose_coupling,1317280930,0,,frame,14,fetched
+Observability (software),https://en.wikipedia.org/wiki/Observability_(software),1386003814,0,,frame,13,fetched
+Tracing (software),https://en.wikipedia.org/wiki/Tracing_(software),1383788011,0,,frame,11,fetched
+SOAP,https://en.wikipedia.org/wiki/SOAP,1368816634,0,,frame,14,fetched
+HATEOAS,https://en.wikipedia.org/wiki/HATEOAS,1386408561,0,,frame,13,fetched
+OpenAPI Specification,https://en.wikipedia.org/wiki/OpenAPI_Specification,1359525921,0,,frame,11,fetched
+Protocol Buffers,https://en.wikipedia.org/wiki/Protocol_Buffers,1357670495,0,,frame,15,fetched
+Serialization,https://en.wikipedia.org/wiki/Serialization,1385934696,0,,frame,13,fetched
+Polling (computer science),https://en.wikipedia.org/wiki/Polling_(computer_science),1329389052,0,,frame,13,fetched
+Comet (programming),https://en.wikipedia.org/wiki/Comet_(programming),1384557028,0,,frame,11,fetched
+Webhook,https://en.wikipedia.org/wiki/Webhook,1383895385,0,,frame,11,fetched
+C10k problem,https://en.wikipedia.org/wiki/C10k_problem,1369667228,0,,frame,12,fetched
+XMPP,https://en.wikipedia.org/wiki/XMPP,1384680259,0,,frame,14,fetched
+Presence information,https://en.wikipedia.org/wiki/Presence_information,1353497450,0,,frame,12,fetched
+Heartbeat (computing),https://en.wikipedia.org/wiki/Heartbeat_(computing),1379094654,0,,frame,13,fetched
+rfc>8030,https://www.rfc-editor.org/rfc/rfc8030,December 2016,0,,frame,16,cached
+Cascading failure,https://en.wikipedia.org/wiki/Cascading_failure,1362425937,0,,frame,14,fetched
+Bandwidth throttling,https://en.wikipedia.org/wiki/Bandwidth_throttling,1384556138,0,,frame,13,fetched
+doc>sre.google/sre-book/handling-overload,https://sre.google/sre-book/handling-overload,42f22de32a38ed1d,0,,frame,16,cached
+doc>sre.google/sre-book/addressing-cascading-failures,https://sre.google/sre-book/addressing-cascading-failures,ffa0f85d0a7f62b6,0,,frame,16,fetched
+Business continuity planning,https://en.wikipedia.org/wiki/Business_continuity_planning,1384854733,0,,frame,6,fetched
+Incident management,https://en.wikipedia.org/wiki/Incident_management,1362622292,0,,frame,11,fetched
+Chaos engineering,https://en.wikipedia.org/wiki/Chaos_engineering,1376529272,0,,frame,12,fetched
+Backup,https://en.wikipedia.org/wiki/Backup,1383452388,0,,frame,14,fetched
+doc>sre.google/sre-book/service-level-objectives,https://sre.google/sre-book/service-level-objectives,f796f70817c3c195,0,,frame,16,fetched
+doc>sre.google/sre-book/embracing-risk,https://sre.google/sre-book/embracing-risk,73b7112180ecdd20,0,,frame,16,fetched
+doc>sre.google/sre-book/monitoring-distributed-systems,https://sre.google/sre-book/monitoring-distributed-systems,8483ba9d74a18c34,0,,frame,16,fetched
+doc>sre.google/sre-book/data-integrity,https://sre.google/sre-book/data-integrity,b52de9694e5ca721,0,,frame,16,fetched
+doc>sre.google/sre-book/production-environment,https://sre.google/sre-book/production-environment,6538f49f59184552,0,,frame,16,fetched
+Feature toggle,https://en.wikipedia.org/wiki/Feature_toggle,1384674242,0,,frame,11,fetched
+Continuous delivery,https://en.wikipedia.org/wiki/Continuous_delivery,1381309228,0,,frame,13,fetched
+CI/CD,https://en.wikipedia.org/wiki/CI%2FCD,1371721977,0,,frame,12,fetched
+Hypervisor,https://en.wikipedia.org/wiki/Hypervisor,1386032435,0,,frame,12,fetched
+Linux namespaces,https://en.wikipedia.org/wiki/Linux_namespaces,1371385787,0,,frame,13,fetched
+Cgroups,https://en.wikipedia.org/wiki/Cgroups,1362914898,0,,frame,13,fetched
+Chroot,https://en.wikipedia.org/wiki/Chroot,1382306146,0,,frame,13,fetched
+Orchestration (computing),https://en.wikipedia.org/wiki/Orchestration_(computing),1350762055,0,,frame,3,fetched
+Infrastructure as code,https://en.wikipedia.org/wiki/Infrastructure_as_code,1385662730,0,,frame,11,fetched
+doc>kubernetes.io/docs/concepts/overview,https://kubernetes.io/docs/concepts/overview,1e69bbf00d19efab,0,,frame,16,fetched
+doc>kubernetes.io/docs/concepts/workloads/controllers/deployment,https://kubernetes.io/docs/concepts/workloads/controllers/deployment,b7e32bf7fde977c9,0,,frame,16,cached
+doc>kubernetes.io/docs/concepts/services-networking/service,https://kubernetes.io/docs/concepts/services-networking/service,e448a14eb3d8ad63,0,,frame,16,fetched
+doc>kubernetes.io/docs/concepts/services-networking/ingress,https://kubernetes.io/docs/concepts/services-networking/ingress,dd23831da7bcdd46,0,,frame,16,fetched
+doc>kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale,https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale,843600def077c6a4,0,,frame,16,fetched
+doc>kubernetes.io/docs/concepts/workloads/pods,https://kubernetes.io/docs/concepts/workloads/pods,4d759d4a6bb86947,0,,frame,16,fetched
+doc>sre.google/sre-book/release-engineering,https://sre.google/sre-book/release-engineering,eb03c04681b29795,0,,frame,16,fetched
+SAML,https://en.wikipedia.org/wiki/SAML,1379904131,0,,frame,1,fetched
+Multi-factor authentication,https://en.wikipedia.org/wiki/Multi-factor_authentication,1386223067,0,,frame,12,fetched
+Salt (cryptography),https://en.wikipedia.org/wiki/Salt_(cryptography),1381592150,0,,frame,10,fetched
+Rainbow table,https://en.wikipedia.org/wiki/Rainbow_table,1384626774,0,,frame,11,fetched
+Bcrypt,https://en.wikipedia.org/wiki/Bcrypt,1380826333,0,,frame,10,fetched
+Argon2,https://en.wikipedia.org/wiki/Argon2,1338928621,0,,frame,11,fetched
+WebAuthn,https://en.wikipedia.org/wiki/WebAuthn,1386189558,0,,frame,10,fetched
+Kerberos (protocol),https://en.wikipedia.org/wiki/Kerberos_(protocol),1385364062,0,,frame,15,fetched
+Principle of least privilege,https://en.wikipedia.org/wiki/Principle_of_least_privilege,1378916966,0,,frame,13,fetched
+Cross-site scripting,https://en.wikipedia.org/wiki/Cross-site_scripting,1386171406,0,,frame,13,fetched
+Cross-site request forgery,https://en.wikipedia.org/wiki/Cross-site_request_forgery,1375458069,0,,frame,12,fetched
+Zero trust architecture,https://en.wikipedia.org/wiki/Zero_trust_architecture,1384984757,0,,frame,11,fetched
+rfc>6749,https://www.rfc-editor.org/rfc/rfc6749,October 2012,0,,frame,16,fetched
+rfc>7519,https://www.rfc-editor.org/rfc/rfc7519,May 2015,0,,frame,16,fetched
+rfc>7636,https://www.rfc-editor.org/rfc/rfc7636,September 2015,0,,frame,16,fetched
+Hash function,https://en.wikipedia.org/wiki/Hash_function,1384559204,0,,frame,13,fetched
+Hash collision,https://en.wikipedia.org/wiki/Hash_collision,1381966608,0,,frame,13,fetched
+MD5,https://en.wikipedia.org/wiki/MD5,1383609844,0,,frame,13,fetched
+Count–min sketch,https://en.wikipedia.org/wiki/Count%E2%80%93min_sketch,1368880919,0,,frame,10,fetched
+Merkle tree,https://en.wikipedia.org/wiki/Merkle_tree,1386451421,0,,frame,10,fetched
+Trie,https://en.wikipedia.org/wiki/Trie,1384638825,0,,frame,12,fetched
+Z-order curve,https://en.wikipedia.org/wiki/Z-order_curve,1370939300,0,,frame,12,fetched
+Hilbert curve,https://en.wikipedia.org/wiki/Hilbert_curve,1375618224,0,,frame,13,fetched
+K-d tree,https://en.wikipedia.org/wiki/K-d_tree,1383268151,0,,frame,12,fetched
+Base64,https://en.wikipedia.org/wiki/Base64,1382521149,0,,frame,13,fetched
+rfc>9562,https://www.rfc-editor.org/rfc/rfc9562,May 2024,0,,frame,16,fetched
+paper>10.46298/dmtcs.3545,https://doi.org/10.46298/dmtcs.3545,2007-01-01,0,,frame,16,fetched
+Store and forward,https://en.wikipedia.org/wiki/Store_and_forward,1379738444,0,,frame,13,fetched
+End-to-end encryption,https://en.wikipedia.org/wiki/End-to-end_encryption,1384558232,0,,frame,13,fetched
+Signal Protocol,https://en.wikipedia.org/wiki/Signal_Protocol,1386183537,0,,frame,15,fetched
+EdgeRank,https://en.wikipedia.org/wiki/EdgeRank,1358040019,0,,frame,11,fetched
+Fan-out (software),https://en.wikipedia.org/wiki/Fan-out_(software),1307790829,0,,frame,11,fetched
+Apache Lucene,https://en.wikipedia.org/wiki/Apache_Lucene,1378505144,0,,frame,12,fetched
+HTTP Live Streaming,https://en.wikipedia.org/wiki/HTTP_Live_Streaming,1385835602,0,,frame,14,fetched
+Dynamic Adaptive Streaming over HTTP,https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP,1374898019,0,,frame,11,fetched
+Geo-blocking,https://en.wikipedia.org/wiki/Geo-blocking,1384662541,0,,frame,12,fetched
+Collaborative filtering,https://en.wikipedia.org/wiki/Collaborative_filtering,1383232313,0,,frame,13,fetched
+Recommender system,https://en.wikipedia.org/wiki/Recommender_system,1386175489,0,,frame,15,fetched
+Video codec,https://en.wikipedia.org/wiki/Video_codec,1364629205,0,,frame,12,fetched
+Transcoding,https://en.wikipedia.org/wiki/Transcoding,1370882281,0,,frame,11,fetched
+Real-Time Messaging Protocol,https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol,1320331994,0,,frame,14,fetched
+Video on demand,https://en.wikipedia.org/wiki/Video_on_demand,1383616297,0,,frame,14,fetched
+Advanced Video Coding,https://en.wikipedia.org/wiki/Advanced_Video_Coding,1384596604,0,,frame,10,fetched
+High Efficiency Video Coding,https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding,1383331660,0,,frame,13,fetched
+AV1,https://en.wikipedia.org/wiki/AV1,1386169197,0,,frame,13,fetched
+rfc>8216,https://www.rfc-editor.org/rfc/rfc8216,August 2017,0,,frame,16,cached
+Dynamic pricing,https://en.wikipedia.org/wiki/Dynamic_pricing,1385749044,0,,frame,10,fetched
+Nearest neighbor search,https://en.wikipedia.org/wiki/Nearest_neighbor_search,1381028372,0,,frame,13,fetched
+Search engine indexing,https://en.wikipedia.org/wiki/Search_engine_indexing,1383251652,0,,frame,13,fetched
+PageRank,https://en.wikipedia.org/wiki/PageRank,1379164769,0,,frame,13,fetched
+Jaccard index,https://en.wikipedia.org/wiki/Jaccard_index,1381028171,0,,frame,11,fetched
+Cosine similarity,https://en.wikipedia.org/wiki/Cosine_similarity,1378075969,0,,frame,13,fetched
+Sitemaps,https://en.wikipedia.org/wiki/Sitemaps,1383561230,0,,frame,12,fetched
+Spider trap,https://en.wikipedia.org/wiki/Spider_trap,1385778613,0,,frame,11,fetched
+W-shingling,https://en.wikipedia.org/wiki/W-shingling,1354701706,0,,frame,10,fetched
+Robots.txt,https://en.wikipedia.org/wiki/Robots.txt,1386182762,0,,frame,12,fetched
+Heap (data structure),https://en.wikipedia.org/wiki/Heap_(data_structure),1377140311,0,,frame,10,fetched
+Open banking,https://en.wikipedia.org/wiki/Open_banking,1383578338,0,,frame,10,fetched
+Personal finance,https://en.wikipedia.org/wiki/Personal_finance,1384742715,0,,frame,10,fetched
+Doubly linked list,https://en.wikipedia.org/wiki/Doubly_linked_list,1376710206,0,,frame,10,fetched
+Breadth-first search,https://en.wikipedia.org/wiki/Breadth-first_search,1385241584,0,,frame,11,fetched
+Shortest path problem,https://en.wikipedia.org/wiki/Shortest_path_problem,1381885415,0,,frame,11,fetched
+Social graph,https://en.wikipedia.org/wiki/Social_graph,1381679153,0,,frame,11,fetched
+Six degrees of separation,https://en.wikipedia.org/wiki/Six_degrees_of_separation,1385353427,0,,frame,13,fetched
+Bidirectional search,https://en.wikipedia.org/wiki/Bidirectional_search,1294629505,0,,frame,10,fetched
+Adjacency list,https://en.wikipedia.org/wiki/Adjacency_list,1366823976,0,,frame,11,fetched
+Adjacency matrix,https://en.wikipedia.org/wiki/Adjacency_matrix,1384538875,0,,frame,14,fetched
+Virtual private cloud,https://en.wikipedia.org/wiki/Virtual_private_cloud,1384607174,0,,frame,11,fetched
+Simple Mail Transfer Protocol,https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol,1385842853,0,,frame,15,fetched
+Internet Message Access Protocol,https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol,1375356251,0,,frame,13,fetched
+Post Office Protocol,https://en.wikipedia.org/wiki/Post_Office_Protocol,1378927915,0,,frame,15,fetched
+Email,https://en.wikipedia.org/wiki/Email,1386172803,0,,frame,13,fetched
+MX record,https://en.wikipedia.org/wiki/MX_record,1318767086,0,,frame,14,fetched
+Email spam,https://en.wikipedia.org/wiki/Email_spam,1386299411,0,,frame,13,fetched
+rfc>5321,https://www.rfc-editor.org/rfc/rfc5321,October 2008,0,,frame,16,cached
+rfc>5322,https://www.rfc-editor.org/rfc/rfc5322,October 2008,0,,frame,16,fetched
+rfc>9051,https://www.rfc-editor.org/rfc/rfc9051,August 2021,0,,frame,16,cached
+Dijkstra's algorithm,https://en.wikipedia.org/wiki/Dijkstra's_algorithm,1386385117,0,,frame,13,fetched
+A* search algorithm,https://en.wikipedia.org/wiki/A*_search_algorithm,1374050155,0,,frame,13,fetched
+Contraction hierarchies,https://en.wikipedia.org/wiki/Contraction_hierarchies,1375063967,0,,frame,11,fetched
+Web Mercator projection,https://en.wikipedia.org/wiki/Web_Mercator_projection,1373441337,0,,frame,10,fetched
+Address geocoding,https://en.wikipedia.org/wiki/Address_geocoding,1383626740,0,,frame,12,fetched
+Tiled web map,https://en.wikipedia.org/wiki/Tiled_web_map,1385974669,0,,frame,11,fetched
+Web mapping,https://en.wikipedia.org/wiki/Web_mapping,1378811229,0,,frame,13,cached
+Order book,https://en.wikipedia.org/wiki/Order_book,1343328613,0,,frame,10,fetched
+Order matching system,https://en.wikipedia.org/wiki/Order_matching_system,1366186105,0,,frame,3,fetched
+Order (exchange),https://en.wikipedia.org/wiki/Order_(exchange),1384633835,0,,frame,12,fetched
+Event sourcing,,,0,,,,missing
+Market data,https://en.wikipedia.org/wiki/Market_data,1379308788,0,,frame,10,fetched
+Financial Information eXchange,https://en.wikipedia.org/wiki/Financial_Information_eXchange,1385185355,0,,frame,12,fetched
+Processor affinity,https://en.wikipedia.org/wiki/Processor_affinity,1361988637,0,,frame,10,fetched
+Non-blocking algorithm,https://en.wikipedia.org/wiki/Non-blocking_algorithm,1384872881,0,,frame,12,fetched
+Operational transformation,https://en.wikipedia.org/wiki/Operational_transformation,1373192703,0,,frame,11,fetched
+Differential synchronization,,,0,,,,missing
+Collaborative real-time editor,https://en.wikipedia.org/wiki/Collaborative_real-time_editor,1386203412,0,,frame,11,fetched
+paper>10.1145/67544.66963,https://doi.org/10.1145/67544.66963,1989-01-01,0,,frame,16,fetched
+Double-entry bookkeeping,https://en.wikipedia.org/wiki/Double-entry_bookkeeping,1386062490,0,,frame,10,fetched
+Payment service provider,https://en.wikipedia.org/wiki/Payment_service_provider,1382050006,0,,frame,5,fetched
+Payment gateway,https://en.wikipedia.org/wiki/Payment_gateway,1383716527,0,,frame,12,fetched
+Payment system,https://en.wikipedia.org/wiki/Payment_system,1380186627,0,,frame,12,fetched
+Firebase,https://en.wikipedia.org/wiki/Firebase,1386208488,0,,frame,6,fetched
+Apple Push Notification service,https://en.wikipedia.org/wiki/Apple_Push_Notification_service,1383391602,0,,frame,10,fetched
+SMS,https://en.wikipedia.org/wiki/SMS,1386309472,0,,frame,13,fetched
+Access-control list,https://en.wikipedia.org/wiki/Access-control_list,1382984560,0,,frame,11,fetched
+Discretionary access control,https://en.wikipedia.org/wiki/Discretionary_access_control,1358161364,0,,frame,12,fetched
+Mandatory access control,https://en.wikipedia.org/wiki/Mandatory_access_control,1381482475,0,,frame,11,fetched
+Attribute-based access control,https://en.wikipedia.org/wiki/Attribute-based_access_control,1367841407,0,,frame,13,fetched
+Role-based access control,https://en.wikipedia.org/wiki/Role-based_access_control,1378470119,0,,frame,14,fetched
+XACML,https://en.wikipedia.org/wiki/XACML,1382401021,0,,frame,13,fetched
+rfc>2904,https://www.rfc-editor.org/rfc/rfc2904,August 2000,0,,frame,16,cached
+doc>sre.google/sre-book/load-balancing-frontend,https://sre.google/sre-book/load-balancing-frontend,eeb27defa3aa52c7,0,,frame,16,fetched
+doc>sre.google/sre-book/load-balancing-datacenter,https://sre.google/sre-book/load-balancing-datacenter,81c04e00ab683e2f,0,,frame,16,fetched
+Event sourcing,,,0,,,,missing
+doc>kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle,https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle,b6122db1bda3e615,0,,frame,16,fetched
+doc>kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes,https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes,04ec6abda2af01c1,0,,frame,16,fetched
+Differential synchronization,,,0,,,,missing

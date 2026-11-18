@@ -8,3 +8,11 @@
 - Sliding window rate limiter detail, Redis-based rate limiter (only Singh's brief section; an interview-sized treatment with counters in Redis is missing)
 - Thundering herd / retry storm (only one phrase in the retry guide)
 - Wikipedia Circuit breaker design pattern "Challenges" section is vandalised with logic-gate text (sentences c60227dfb363 to 47c7d0ffd468); report so the page is re-crawled or ignored
+
+- Let it crash (still only named in the resiliency-patterns guide; suggest an Erlang/OTP supervision page or a cloud design patterns doc)
+- Bulkhead pattern and Timeout pattern (no page yet; suggest Wikipedia "Bulkhead (computing)" or a cloud design patterns doc)
+- Hedged requests (one SRE sentence only; suggest the paper "The Tail at Scale")
+- HTTP 429 Too Many Requests (suggest rfc>6585)
+- Sliding window rate limiter and Redis-based rate limiter (still only Singh's brief section)
+- Skipped on purpose: Bandwidth throttling's ISP, net neutrality, court-case and per-country sections (legal and business history); Cascading failure's power-grid, structural, biology and finance sections (not computing)
+- Skipped as narrow: SRE "Always Go Downward in the Stack" (avoid intra-layer calls, distributed deadlock), "Load from Connections" (batch proxy as a fuse), executor load average detail (ids kept in mention_sent_ids of Request criticality)

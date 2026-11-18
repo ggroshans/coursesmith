@@ -8,3 +8,8 @@
 - Rate limiting and circuit breaking as concepts (owned by resilience chapter; only named here)
 - Not drafted on purpose: Tor, I2P, CGI proxy, suffix proxy, DNS proxy, SOCKS proxy, translation proxy, geotargeted ad QA, secondary market brokers, censorship bypass, proxy detection methods, and Singh/ByteByteGo "Examples" product lists: anonymity or trivia, not system design
 - ByteByteGo reverse-proxy-vs-api-gateway-vs-load-balancer guide is mostly metaphor ("change identity", "postman", "traffic cop"); only its plain claims were used
+
+- Envoy (software): Wikipedia "Envoy (software)" (named as similar to HAProxy; a common modern proxy)
+- Kong API gateway / service mesh: Wikipedia "Kong (software)", "Service mesh"
+- C10k problem: Wikipedia "C10k problem" (why nginx is event-driven)
+- OpenAPI Specification: Wikipedia "OpenAPI Specification" (API definition format named in API management)

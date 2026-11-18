@@ -25,3 +25,10 @@ Odd things for verification:
 - Consensus page S:535feb8e8bd4 calls Paxos and Raft "typically synchronous"; not used, since Paxos is described elsewhere as safe in asynchronous systems.
 - Message-delay counts differ by measuring point: Multi-Paxos "4 delays to 2" proposal-to-learning (S:a9d37aae4cda) versus Basic Paxos 3 delays client-to-learner (S:fcf452f70cca). Both kept as stated.
 - "Lamport timestamp" and "Paxos" are drafted twice on purpose (chunks 2/4 and 3/4) so the paper abstracts merge into them at fold time.
+
+- Chubby (paper: Burrows, "The Chubby lock service for loosely-coupled distributed systems") is the model for ZooKeeper and etcd; only mentioned.
+- Practical Byzantine Fault Tolerance (paper: Castro and Liskov) is named as the Byzantine-tolerant protocol; no page crawled.
+- Mencius and Egalitarian Paxos (leaderless/rotating-leader consensus) are named in the SRE book; no pages crawled.
+- Zab (ZooKeeper Atomic Broadcast) paper would deepen the ZooKeeper entry; only named.
+- Lease (distributed leases) has no page or entry; the SRE book gives a few sentences, folded into Distributed lock.
+- BASE semantics: see the CAP chapter gaps.

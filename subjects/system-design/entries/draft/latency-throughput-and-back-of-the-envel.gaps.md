@@ -16,3 +16,13 @@ Skipped on purpose:
 - Bandwidth (computing): Edholm's law and MOSFET history (trivia), multimedia compression (DCT)
 - Orders of magnitude (data): the long list of historical device capacities, entropy section
 - ByteByteGo trade-off guides: read-through vs write-through cache pair left to the caching chapter
+
+# latency-throughput-and-back-of-the-envel: gaps (gap-fill gf01, chunk 03)
+
+Still missing: the primer's "Latency numbers every programmer should know" figures; a data-size table with per-item sizes for storage estimates; requests per second as a unit; utilization/headroom and peak-to-average traffic; Throughput (general, per server).
+
+Skipped on purpose:
+- Back-of-the-envelope calculation: history (Fermi, Wilkins radar, Weisskopf) and the napkin-design examples (BGP, UTF-8, Laffer curve, Bailey bridge)
+- Percentile: normal-distribution table, finance/medicine/road-speed uses, the CDF and linear-interpolation formulas, weighted percentile
+- Little's law: proof history, demography application, distributional form
+- Round-trip delay: TCP RTT smoothing formula and Jacobson/Karels, Wi-Fi positioning (mentions only)

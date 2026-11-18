@@ -10,3 +10,8 @@
 - Hot-key mitigation (key salting, splitting a hot key): only the generic "hot spot" remedies appear
 - Replication factor and quorum placement on the ring (Dynamo-style preference lists): only one Singh paragraph
 - ByteByteGo "key-concepts-to-understand-database-sharding" guide: analogies only (bookshelf, playing cards, phone book), no entry drafted; "Shard etymology", the sharding implementations list and blockchain sharding were skipped as trivia, product lists or out of scope
+
+- Hash table (Wikipedia: Hash table) is a prerequisite of Distributed hash table and has no entry.
+- Hash function (Wikipedia: Hash function) is a prerequisite of Rendezvous hashing and has no entry.
+- Peer-to-peer (Wikipedia: Peer-to-peer) is cited as related by Distributed hash table and Chord and has no entry.
+- Kademlia (Wikipedia: Kademlia) is named as the most popular optimized DHT; not crawled.

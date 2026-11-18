@@ -21,3 +21,21 @@ Notes for the merge and verification passes:
 - Singh's NoSQL page lists "Schemaless" under both advantages and disadvantages of document databases; stated as the source gives it.
 - The ByteByteGo isolation-levels guide expands MVCC as "Multi-Version Consistency Control"; Wikipedia calls it multiversion concurrency control (noted on that entry).
 - Singh's SQL-vs-NoSQL "for SQL" and "for NoSQL" reason lists lost their group labels in the dossier; grouping is taken from the page's list order (noted on that entry).
+
+# choosing-a-database gaps (gap-fill batch gf07, chunks 05-08)
+
+Still no page crawled (suggested Wikipedia titles):
+- Serializability, Isolation anomalies beyond write skew: Wikipedia "Serializability"
+- Vector database, Elasticsearch (full-text search engine), Spatial database: still one bullet each in the ByteByteGo how-to-choose guide
+- Extract, transform, load; Data mart; Data lake; OLAP cube: folded into Data warehouse and OLAP facts
+- Column-oriented DBMS: stated in one Data warehouse sentence only
+- Object-relational mapping: cited as a reason document databases avoid mapping; no page
+
+Skipped on purpose: history, market-share, vendor-list and product-table sections (OLAP market structure, graph and time series database lists, document store implementations), the MVCC Rust record layout, the CaseOLAP and healthcare data warehouse sections, Wikipedia's multimodal-versus-multi-model aside.
+
+# choosing-a-database gaps (gap-fill gf08, chunks 09-10)
+- Nearest neighbor search, Hierarchical Navigable Small World graphs, Locality-sensitive hashing: named by "Vector database"; Wikipedia pages of those names (algorithms chapter).
+- PostgreSQL Serializable Isolation Level (section 13.2.3) and predicate locking: the crawled transaction-iso page has no Serializable section; suggest re-extracting it or doc>www.postgresql.org/docs/current/transaction-iso.html in full, plus Wikipedia "Serializable snapshot isolation".
+- Write skew: used by the isolation entries, no page of its own crawled here; Wikipedia "Write skew".
+- Connection pooling: no source gives pool-size guidance or pgbouncer modes; suggest PostgreSQL wiki or HikariCP docs if wanted.
+- Skipped on purpose: Vector database and Spatial database implementation lists and tables, Elasticsearch company, licensing and funding history.

@@ -10,3 +10,10 @@
 - N+1 problem in GraphQL (resolver/data-loader batching): only a one-line bullet in Singh; suggest a page such as `Object-relational impedance mismatch` or a GraphQL docs page.
 - GraphQL query cost limiting / abusive queries: one sentence only (ByteByteGo); suggest GraphQL docs on depth and complexity limits.
 - Skipped as non-concepts or business trivia: the API copyright dispute (Oracle v. Google), API history of the term, gRPC adoption and Stubby history, GraphQL conference/foundation history.
+
+# gaps (apis-rest-graphql-and-grpc, gap-fill chunks 04-05)
+- Swagger/OpenAPI history, OpenAPI Initiative, version release dates: history, skipped
+- SOAP history (XML-RPC, Microsoft politics) and WS-* extensions: skipped; WSDL not in the dossier -> suggest Wikipedia "Web Services Description Language"
+- Serialization: language-by-language support sections (Java, Python, Ruby, ...) are per-language detail, not drafted; pointer swizzling and differential execution only mentioned in passing
+- Apache Thrift and Apache Avro as their own entries: no seed page here -> suggest "Apache Thrift", "Apache Avro"
+- JSON and XML as formats: only cited inside Serialization formats -> suggest Wikipedia "JSON"

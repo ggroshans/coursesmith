@@ -21,3 +21,9 @@ Concepts the chapter uses or names but no crawled page explains in its own right
 Skipped on purpose:
 - The multi-table "cluster" of Database index (an Oracle-style construct unrelated to clustered indexes).
 - ByteByteGo "Satisfying 5NF/ETNF/DKNF" worked tables: kept only the rules, not the sample data.
+
+# indexes-normalization-and-storage-engine gaps (gap-fill gf08, chunks 04-06)
+- Hash function: prerequisite of Hash table; owned by another chapter (Wikipedia "Hash function").
+- Distributed hash table: only a short section on the Hash table page here; Wikipedia "Distributed hash table" is in sharding-and-partitioning.
+- ARIES recovery: the paper has only an abstract with two usable sentences (no redo/undo, checkpoint or recovery-pass detail); suggest Wikipedia "Algorithms for Recovery and Isolation Exploiting Semantics".
+- PostgreSQL docs for GiST, GIN, BRIN internals (indexes pages 65.x) would deepen "PostgreSQL index types".

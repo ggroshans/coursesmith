@@ -12,3 +12,10 @@
 - Fallacies of distributed computing: linked from EDA Challenges -> suggest "Fallacies of distributed computing"
 - Event-driven architecture vs SOA: only one sentence (d7f7dd56e82b) in the dossier, not drafted
 - Event delivery guarantees (at-least-once, exactly-once, ordering): only named as challenges -> suggest a messaging chapter page
+
+# gaps (event-driven-architecture-event-sourcing, gap-fill chunk 03)
+- Aggregate, repository and Event storming as entries of their own: only a few sentences each, folded into Domain-driven design
+- DDD context mapping patterns (partnership, conformist, open-host service, published language): six sentences cut from the dossier, only three named in Domain-driven design
+- Schema registry: Avro page does not describe one; the name stays unresolved; suggest Confluent Schema Registry docs
+- Avro Object Container File layout, language APIs and code samples skipped
+- DDD notable tools (Actifsource, Context Mapper, CubicWeb) skipped

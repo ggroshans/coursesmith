@@ -11,3 +11,13 @@
 - Block-level storage and logical volumes as their own concepts: suggested pages: Block (data storage), Logical volume management.
 - Cloud storage gateways and unified file-and-object storage: suggested page: Cloud storage gateway.
 - Object-based storage device (OSD) standards and object-based file systems (metadata servers plus object servers): suggested pages: Object-based storage device, Ceph (software), Lustre (file system).
+
+# storage-systems gaps (gap-fill batch gf09, chunks 04-08)
+- Write-ahead log: the Durability entry names it and teaches it only in two facts; the page "Write-ahead logging" is crawled for another chapter and owns the title "Write-ahead log".
+- Data tiering, hot/warm/cold data and storage tiers: no page in the crawl; Amazon S3 storage classes and tape are the only hints. Suggested pages: Data tiering, Hierarchical storage management.
+- Magnetic tape data storage (archival and backup media): only Non-volatile memory and Backup mention tape; suggested page: Magnetic tape data storage.
+- Storage area network and Network-attached storage as their own pages (Fibre Channel, iSCSI, NFS and SMB entries cover the protocols; the architecture lives in "DAS, NAS and SAN"): suggested pages: Storage area network, Network-attached storage.
+- NVM Express, SCSI and TRIM have no pages of their own (they are covered by sentences of SSD, HDD and iSCSI): suggested pages: NVM Express, Trim (computing), Write amplification.
+- Distributed and parallel file systems (Ceph, Lustre, GPFS) are only named in the NFS and SMB pages: suggested pages: Ceph (software), Lustre (file system), Distributed file system.
+- Block (data storage), logical volume management and cloud storage gateway remain unexplained: suggested pages: Block (data storage), Logical volume management, Cloud storage gateway.
+- Erasure coding in systems (Cauchy and Vandermonde matrices, local reconstruction codes) is only named: suggested page: Locally repairable code.

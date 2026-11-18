@@ -1,7 +1,10 @@
 {
  "heap": [],
- "counter": 1,
+ "counter": 4,
  "queued": [
-  "rfc>1034"
+  "Differential synchronization",
+  "Event sourcing",
+  "doc>kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle",
+  "doc>kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes"
  ]
 }

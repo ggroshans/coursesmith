@@ -13,3 +13,12 @@ Skipped on purpose:
 - ByteByteGo "system-design-blueprint-the-ultimate-guide": a checklist of discussion topics only; folded in as one fact of "System design interview"
 - Systems design § Physical design / Product development framing (control-system input/output; off-topic for distributed systems)
 - Software architecture: Serverless and computer architecture ("Other types of architecture"), agile and big design up front, design strategies (Ford and Richards), the Mozilla erosion case (company history)
+
+# what-system-design-is-and-how-interviews: gaps (gap-fill gf01, chunk 03)
+
+Still not crawled: Architecture Tradeoff Analysis Method; Architecture decision record (Wikipedia); Architectural pattern (Wikipedia, only the Related section of Software design pattern covers it).
+
+Skipped on purpose:
+- Software design pattern: history (Alexander, GoF), the creational/structural/behavioral/concurrency catalogs beyond naming the groups, documentation formats, domain-specific patterns
+- Conway's law: coining date, humorous uses, the website-usability example
+- Non-functional requirement: the long examples list beyond the main qualities

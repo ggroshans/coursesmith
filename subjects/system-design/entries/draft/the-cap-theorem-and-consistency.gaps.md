@@ -13,3 +13,6 @@ Concepts expected but with no (or too few) sentences in the dossier:
 
 Sections skipped on purpose (hardware memory models, no system-design teaching value): Consistency model "Weak memory consistency models" (weak ordering, release, entry, local, general), "Relaxed memory consistency models", "Transactional memory models", processor, PRAM, cache and slow consistency, and the local-write and cache-coherence protocols. "Continuous consistency" (conits) was not drafted: sources give mostly diagram-dependent detail.
 Folded, not separate: Strict consistency (a fact in Consistency model), Partition tolerance (a fact in CAP theorem), BASE (a fact in Eventual consistency; another pass owns "BASE consistency model"), Singh's PACELC chapter (cited in PACELC), the Gilbert and Lynch paper (cited in CAP theorem).
+
+- The Linearizability Wikipedia page is about concurrent objects, not distributed stores; the distributed meaning (real-time order, cost of atomic reads and writes) rests on the Consistency model page. A page such as Herlihy and Wing, "Linearizability: a correctness condition for concurrent objects" (paper), would help if it is crawlable.
+- BASE semantics (Basically Available, Soft state, Eventual consistency) is explained in the SRE book chapter 23 CAP section but has no entry; suggested pages: BASE (Wikipedia).

@@ -7,3 +7,8 @@
 - how-does-twitter-recommend-tweets.md is a terse stage list (the diagram carries the detail): Case study of four facts only; the Twitter Blue boost and the Mem credit sentences are skipped.
 - Conflicts not raised: Singh's high-level table lists 100 million DAU against 200 million in its traffic derivation (b95d774fb8ad vs d76ce9f4a6a4); Singh (1 billion tweets/day) and the primer (500 million tweets/day) assume different scales and are attributed in the Worked example.
 - Cut from the Worked example for the 16-fact cap: data partitioning and consistent hashing (6b62e0d7728a, 6ece367ee9c1), retweets (65b5bb6bd5da), metrics with Kafka and Spark (80c3f5e15e39).
+
+# design-a-social-feed-like-twitter gaps (gf20, chunk 02)
+- Inverted index: Apache Lucene lists it as a prerequisite; the Wikipedia page "Inverted index" is crawled, so another chunk should teach it.
+- Feed fan-out on write versus on read: Fan-out (software) says nothing about feeds; the entry rests on Singh and the primer sentences in "Feed fan-out models".
+- Social graph / mutual friends: still left to design-the-data-structures-for-a-social.

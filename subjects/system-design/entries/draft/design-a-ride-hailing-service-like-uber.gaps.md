@@ -5,3 +5,8 @@
 - proximity-service.md is framed around Yelp and restaurants and ends with an offer of more detail: one Concept entry only; the geohash walk-through there is summarized, not duplicated as a Geohash entry.
 - uber-tech-stack.md is a list of products: drafted only as a low-priority Case study.
 - Cut from the Worked example for the 16-fact cap: Hilbert-curve range queries (814b4cf90f36), metrics and analytics with Spark (89b8dad3991c).
+
+# design-a-ride-hailing-service-like-uber gaps (gf22, chunk 02)
+- k-d tree and R-tree (Wikipedia "K-d tree", "R-tree"): only 'also on' lines here; nearest-neighbor search folds them into one fact. Pages would give each its own entry.
+- Locality-sensitive hashing (Wikipedia): two sentences inside the nearest-neighbor page, no entry.
+- Dynamic pricing page: per-industry, controversy and regulation sections skipped as business trivia; no source explains how a ride-hailing surge multiplier is computed from supply and demand per area.

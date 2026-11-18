@@ -9,3 +9,6 @@
 - No entry for Hadoop's release history, Cassandra's Facebook origin, DynamoDB's October 2025 outage (S:b1fc65278d2f), or Discord company facts: business history or incident trivia under the brief's scope rule.
 - Wikipedia's Bigtable lead and Spanner "History" sections describe the cloud products (Cloud Bigtable, Cloud Spanner), left out as product history.
 - Overlap to review at merge: "HDFS architecture" (Wikipedia Hadoop article) versus the storage-systems chapter's "Hadoop Distributed File System" (Singh); "Cassandra write and read path" versus the indexes chapter's "LSM-tree writes and compaction".
+
+- Apache HBase's architecture (regions, region servers, HMaster) is not on its Wikipedia page (lead and history only); a source such as the HBase reference guide (doc>hbase.apache.org) would fill it.
+- ScyllaDB's shard-per-core design is described only in the lead; the Seastar framework has no page.

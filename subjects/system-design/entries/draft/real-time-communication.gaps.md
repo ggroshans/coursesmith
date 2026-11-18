@@ -19,3 +19,11 @@ sections 6 (send/receive algorithms), 11 (IANA registries) and 12 (use by other 
 design mentions of WebSockets/SSE (cited inside the SSE entry).
 Note: the push-notification system guide is also adjacent to the question chapter "Design a notification system"; here it is a
 Concept/Process entry only (Notification system architecture), not a Worked example.
+
+# gaps (real-time-communication, gap-fill chunks 04-06)
+- Comet history (Java applets, Pushlets, Tango, State Software/JSON origin) and Bayeux/BOSH detail: history, kept only as mentions
+- Hardware-level polling algorithm (busy/command-ready bits), vectored interrupts, poll messages on multidrop lines: not drafted, not system-design material
+- Presence standardization (IMPP, SIMPLE over SIP, Wireless Village/OMA IMPS): skipped as standards history; suggest Wikipedia "Session Initiation Protocol" if SIP is wanted
+- XMPP gateways to other IM networks, deployments (Google Talk) and IoT extensions: skipped
+- RFC 8030 sections 9 (IANA registries) and header grammar details: skipped; RFC 8291 (Message Encryption for WebPush) and RFC 8292 (VAPID) still uncrawled -> suggest rfc>8291, rfc>8292
+- Scaling chat presence at WhatsApp scale: only a heartbeat sentence from Singh's guide exists

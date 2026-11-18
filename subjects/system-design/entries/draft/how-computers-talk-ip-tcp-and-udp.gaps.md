@@ -17,3 +17,22 @@ computation, TCP timestamps, TCP offload engines and accelerators, TCP veto and 
 SYN flood and hijacking summary, OSI cross-layer functions and OSI layers 1, 2, 5, 6 and 7 as separate entries
 (summarised inside "OSI model layers"), OSI TP0-TP4 transport classes.
 The ByteByteGo "explaining 8 network protocols" guide only lists protocols; HTTP, HTTPS and WebSocket belong to their own chapters.
+
+# how-computers-talk-ip-tcp-and-udp: gaps (gap-fill batch gf02, chunks 05-09)
+
+- End-to-end principle (Wikipedia page; only a few sentences on the Internet protocol suite page)
+- Robustness principle (Wikipedia page; only two sentences, not drafted)
+- Peer-to-peer (Wikipedia page; the Client-server model page only gives a comparison section)
+- STUN and hole punching in WebRTC (Wikipedia "STUN", "TCP hole punching"; the NAT page only names them)
+- Neighbor Discovery Protocol and ICMPv6 (Wikipedia pages; named in ARP and ICMP facts only)
+- Berkeley sockets / socket programming (Wikipedia "Berkeley sockets"; used in Network socket facts)
+
+Not drafted on purpose: Internet protocol suite and NAT history, DHCP options and message-type tables, ARP packet layout details, ARP stuffing, ICMP control-message tables (source quench, timestamp, address mask), QUIC adoption statistics and source-code table, TCP congestion control niche algorithms (Hybla, Agile-SD, C2TCP, Elastic-TCP, NATCP), Client-server early history and WebAssembly section.
+
+# how-computers-talk-ip-tcp-and-udp gaps (gap-fill gf03, chunk 10)
+
+Skipped on purpose from RFC 9293: user/TCP interface calls (OPEN, SEND, RECEIVE, CLOSE, ABORT, STATUS) and event
+processing tables, urgent mechanism (new applications SHOULD NOT use it), IP security compartment and precedence,
+TCP options catalogue, glossary, IANA and change-history sections, low watermark settings.
+Still wanted: QUIC (rfc>9000 or Wikipedia "QUIC"); TCP congestion control algorithms (Wikipedia "TCP congestion control");
+Explicit Congestion Notification; TCP Fast Open; SYN cookies.

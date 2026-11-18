@@ -16,3 +16,8 @@
 - Strangler fig pattern (incremental migration): see above
 - API gateway and Backend for frontend: not in these sources beyond a bullet
 - Service-oriented architectures for interactive applications, Web 2.0 vs SOA, SOA applications (caBIG, Virtual Observatory, Language Grid): skipped as niche
+
+# gaps (monoliths-microservices-and-service-disc, gap-fill chunk 04)
+- Event logging versus software tracing (Tracing (software)): low-level developer tracing vs administrator event logs; not drafted as its own entry, only the distributed-tracing parts were used
+- Observability of AI systems, self monitoring: skipped as niche
+- Consul license change (MPL to BUSL): business history, skipped

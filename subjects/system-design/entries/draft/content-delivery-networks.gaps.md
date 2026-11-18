@@ -15,3 +15,10 @@ Not drafted on purpose:
 - ByteByteGo "why-are-content-delivery-networks-cdn-so-popular": the market-size line is business trivia; "Best Practices" is a single pointer sentence.
 - Wikipedia provider lists (Commercial-as-a-Service, Telco CDNs, Commercial using P2P, free software vendors): lists of companies and products, no concept.
 - Singh "Examples" (CloudFront, Google Cloud CDN, Cloudflare): a list of products.
+
+# content-delivery-networks gap-fill gaps (chunks 02-03, gf06)
+
+- Content negotiation (Wikipedia page, chunk 03): not drafted. The http-https-and-tls chapter already has "HTTP content negotiation" from RFC 9110, which covers server-driven (proactive) and agent-driven (reactive) negotiation, Accept headers and q-values; the Wikipedia page adds only the Accept-Datetime and Accept-Profile extensions.
+- DDoS: the page is long (about 30 attack-technique sections); only the concept, main attack families, SYN flood, reflection/amplification, layer 7, yo-yo and the upstream-filtering defence were taught. Rate limiting, anycast and CDN absorption of attacks have no sentences here (see Rate limiting; Anycast is still an open gap).
+- Edge computing: the fog-computing contrast, IoT and edge-AI sections and the Akamai history were skipped as trivia or off-topic. No source for serverless at the edge (edge functions) beyond one ESI-era sentence.
+- Peer-to-peer: copyright law, network neutrality and cryptocurrency sections were skipped as non-engineering. "Distributed hash table" and "Client-server model" are named as prerequisites/related but no chunk of this pass teaches them.
