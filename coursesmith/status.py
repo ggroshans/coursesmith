@@ -38,6 +38,7 @@ def _sentences(s):
 def subject_status(s):
     st = {"slug": s.slug, "title": s.title, "ordering": s.ordering}
     st["frame"] = s.frame_path.exists()
+    st["sources"] = _sources(s)
     labels = s.scope_dir / "calibration.csv"
     if labels.exists():
         with labels.open(newline="", encoding="utf-8") as f:
@@ -65,6 +66,20 @@ def subject_status(s):
     st["epubs"] = len(list((config.EPUB_DIR / s.slug).glob(f"{s.slug}-unit-*.epub")))
     st["stage"] = _stage(st)
     return st
+
+
+def _sources(s):
+    """None for a Wikipedia-only subject, else (how many other sources, whether `sources check` is current)."""
+    from .sources import check
+    others = [c for c in s.cfg.get("sources") or [] if c.get("adapter", "wikipedia") != "wikipedia" or c.get("api_url")]
+    if not others:
+        return None
+    try:
+        check.require_ok(s)
+        ok = True
+    except SystemExit:
+        ok = False
+    return len(others), ok
 
 
 def _stage(st):
@@ -101,6 +116,10 @@ def show(slug=None, log=print):
         st = subject_status(load(sl))
         e, o = st["entries"], st["order"]
         log(f"{st['title']} ({sl}, {st['ordering']}): stage {st['stage']}")
+        if st.get("sources"):
+            n, ok = st["sources"]
+            log(f"  sources: Wikipedia + {n} other{'s' if n != 1 else ''}; "
+                + ("checked" if ok else f"NOT CHECKED: run `coursesmith sources check {sl}`"))
         cal = f", calibration labeled {st['calibration'][0]}/{st['calibration'][1]}" if st.get("calibration") else ""
         log(f"  frame {'yes' if st['frame'] else 'no'}{cal}; pages {st['pages']:,}; sentences {st['sentences']:,}; "
             f"graph {'yes' if st['graph'] else 'no'}; dossier chunks {st['dossiers']}")

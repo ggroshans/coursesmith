@@ -77,3 +77,21 @@ class InitSources(unittest.TestCase):
             cli.main(["init", "qa", "--title", "Questions", "--questions", "--seed", "rfc>9110"])
             s = load("qa")
             self.assertEqual((s.cfg["course_type"], s.cfg["seeds"]), ("questions", ["rfc>9110"]))
+
+
+class StatusSources(unittest.TestCase):
+    def test_status_flags_unchecked_sources(self):
+        from coursesmith import status
+        from .helpers import make_subject, temp_root
+        with temp_root():
+            wiki = make_subject("w", "slug: w\ntitle: W\n")
+            self.assertIsNone(status.subject_status(wiki)["sources"])
+            s = make_subject("m", "slug: m\ntitle: M\nsources:\n  - {name: r, adapter: rfc, ids: [2119]}\n")
+            self.assertEqual(status.subject_status(s)["sources"], (1, False))
+            lines = []
+            status.show("m", log=lines.append)
+            self.assertTrue(any("NOT CHECKED: run `coursesmith sources check m`" in l for l in lines))
+            from coursesmith.sources import check
+            from coursesmith.util import write_json
+            write_json(check.ok_path(s), {"hash": check.sources_hash(s)})
+            self.assertEqual(status.subject_status(s)["sources"], (1, True))
