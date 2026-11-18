@@ -1,0 +1,3034 @@
+{
+ "entries": {
+  "nature-pol-249": [
+   {
+    "id": "nature-pol-244",
+    "reason": "the criticisms are aimed at carbon emission trading"
+   },
+   {
+    "id": "nature-pol-253",
+    "reason": "assumes how cap-and-trade works"
+   },
+   {
+    "id": "nature-pol-239",
+    "reason": "carbon trading is one form of carbon pricing"
+   }
+  ],
+  "nature-pol-250": [
+   {
+    "id": "nature-pol-244",
+    "reason": "the question is about carbon trading's effects"
+   },
+   {
+    "id": "nature-pol-249",
+    "reason": "extends the general criticisms of carbon trading"
+   },
+   {
+    "id": "nature-found-079",
+    "reason": "concerns who bears more of the pollution"
+   }
+  ],
+  "nature-pol-251": [
+   {
+    "id": "nature-pol-244",
+    "reason": "a global carbon market extends carbon emission trading worldwide"
+   },
+   {
+    "id": "nature-pol-253",
+    "reason": "trades emission allowances"
+   },
+   {
+    "id": "nature-pol-259",
+    "reason": "a worldwide market joins separate trading systems"
+   }
+  ],
+  "nature-pol-252": [
+   {
+    "id": "nature-pol-239",
+    "reason": "leakage arises from carbon pricing in one country"
+   },
+   {
+    "id": "nature-eco-163",
+    "reason": "defined as a rise in greenhouse gas emissions"
+   },
+   {
+    "id": "nature-pol-081",
+    "reason": "stricter climate policies such as a carbon tax"
+   }
+  ],
+  "nature-pol-253": [
+   {
+    "id": "nature-found-031",
+    "reason": "trading is a way to correct pollution externalities"
+   },
+   {
+    "id": "nature-found-079",
+    "reason": "it controls pollution"
+   },
+   {
+    "id": "nature-econ-621",
+    "reason": "permits create tradable rights to emit"
+   },
+   {
+    "id": "nature-econ-342",
+    "reason": "permits are bought and sold in a market"
+   },
+   {
+    "id": "nature-pol-147",
+    "reason": "presented as the market alternative to regulation"
+   }
+  ],
+  "nature-pol-254": [
+   {
+    "id": "nature-pol-253",
+    "reason": "about how emissions trading allocates cuts"
+   },
+   {
+    "id": "nature-econ-347",
+    "reason": "cuts go where marginal cost is lowest"
+   },
+   {
+    "id": "nature-econ-158",
+    "reason": "the target is met at least total cost"
+   }
+  ],
+  "nature-pol-255": [
+   {
+    "id": "nature-pol-253",
+    "reason": "history of cap and trade"
+   },
+   {
+    "id": "nature-found-055",
+    "reason": "began with studies of air pollution costs"
+   }
+  ],
+  "nature-pol-257": [
+   {
+    "id": "nature-pol-253",
+    "reason": "modifies a cap-and-trade system"
+   },
+   {
+    "id": "nature-pol-256",
+    "reason": "a hybrid of a cap and a tax"
+   },
+   {
+    "id": "nature-pol-081",
+    "reason": "the tax side of the hybrid"
+   }
+  ],
+  "nature-pol-258": [
+   {
+    "id": "nature-pol-253",
+    "reason": "a variant of emissions trading"
+   },
+   {
+    "id": "nature-found-079",
+    "reason": "credits for cutting pollution below a baseline"
+   }
+  ],
+  "nature-pol-259": [
+   {
+    "id": "nature-pol-253",
+    "reason": "joins separate cap-and-trade systems"
+   },
+   {
+    "id": "nature-pol-244",
+    "reason": "linking is applied to carbon trading systems"
+   }
+  ],
+  "nature-pol-260": [
+   {
+    "id": "nature-pol-253",
+    "reason": "a variant of permit markets"
+   },
+   {
+    "id": "nature-pol-254",
+    "reason": "contrasted with emission permits traded for least cost"
+   },
+   {
+    "id": "nature-pol-286",
+    "reason": "addresses the location of pollution damage"
+   }
+  ],
+  "nature-pol-261": [
+   {
+    "id": "nature-pol-252",
+    "reason": "the tariff is meant to stop carbon leakage"
+   },
+   {
+    "id": "nature-pol-272",
+    "reason": "it complements the EU ETS"
+   },
+   {
+    "id": "nature-pol-265",
+    "reason": "it is a carbon tariff"
+   },
+   {
+    "id": "nature-pol-239",
+    "reason": "applies a carbon price to imports"
+   }
+  ],
+  "nature-pol-262": [
+   {
+    "id": "nature-pol-253",
+    "reason": "an emissions trading programme"
+   },
+   {
+    "id": "nature-pol-046",
+    "reason": "targets the gases that cause acid rain"
+   },
+   {
+    "id": "nature-pol-153",
+    "reason": "created under the Clean Air Act"
+   }
+  ],
+  "nature-pol-263": [
+   {
+    "id": "nature-pol-253",
+    "reason": "a cap-and-trade design"
+   },
+   {
+    "id": "nature-pol-247",
+    "reason": "all permits are sold at auction"
+   },
+   {
+    "id": "nature-pol-244",
+    "reason": "applied to carbon emissions and energy prices"
+   }
+  ],
+  "nature-pol-264": [
+   {
+    "id": "nature-econ-621",
+    "reason": "entitlements are tradable property rights"
+   },
+   {
+    "id": "nature-econ-610",
+    "reason": "water is a common-pool resource"
+   },
+   {
+    "id": "nature-econ-342",
+    "reason": "buying and selling in a market"
+   }
+  ],
+  "nature-pol-266": [
+   {
+    "id": "nature-pol-275",
+    "reason": "a unit of the Kyoto trading mechanisms"
+   },
+   {
+    "id": "nature-pol-253",
+    "reason": "a tradable emission unit"
+   },
+   {
+    "id": "nature-eco-159",
+    "reason": "measured in CO2 equivalent"
+   }
+  ],
+  "nature-pol-267": [
+   {
+    "id": "nature-pol-244",
+    "reason": "a carbon trading scheme for aviation"
+   },
+   {
+    "id": "nature-pol-258",
+    "reason": "airlines buy offsets for growth above a baseline"
+   },
+   {
+    "id": "nature-eco-163",
+    "reason": "targets emissions from flights"
+   }
+  ],
+  "nature-pol-268": [
+   {
+    "id": "nature-pol-253",
+    "reason": "removes emission allowances from circulation"
+   },
+   {
+    "id": "nature-pol-244",
+    "reason": "applies to carbon allowances and credits"
+   }
+  ],
+  "nature-pol-269": [
+   {
+    "id": "nature-pol-275",
+    "reason": "issued under the Clean Development Mechanism, a flexible mechanism"
+   },
+   {
+    "id": "nature-pol-258",
+    "reason": "credits for verified cuts relative to a baseline"
+   },
+   {
+    "id": "nature-eco-159",
+    "reason": "counted in CO2 equivalent"
+   }
+  ],
+  "nature-pol-270": [
+   {
+    "id": "nature-pol-244",
+    "reason": "a national carbon trading scheme"
+   },
+   {
+    "id": "nature-pol-253",
+    "reason": "an emissions trading system"
+   },
+   {
+    "id": "nature-clim-264",
+    "reason": "caps emissions per unit of output"
+   }
+  ],
+  "nature-pol-271": [
+   {
+    "id": "nature-pol-277",
+    "reason": "a credit from Joint Implementation projects"
+   },
+   {
+    "id": "nature-pol-275",
+    "reason": "part of the Kyoto flexible mechanisms"
+   },
+   {
+    "id": "nature-eco-159",
+    "reason": "one tonne of CO2 equivalent"
+   }
+  ],
+  "nature-pol-272": [
+   {
+    "id": "nature-pol-244",
+    "reason": "the EU's carbon trading scheme"
+   },
+   {
+    "id": "nature-pol-253",
+    "reason": "a cap-and-trade scheme"
+   },
+   {
+    "id": "nature-pol-245",
+    "reason": "allowances are allocated to firms"
+   },
+   {
+    "id": "nature-eco-163",
+    "reason": "covers greenhouse gas emissions"
+   }
+  ],
+  "nature-pol-273": [
+   {
+    "id": "nature-pol-272",
+    "reason": "an EU ETS mechanism"
+   },
+   {
+    "id": "nature-pol-248",
+    "reason": "responds to surplus permits"
+   },
+   {
+    "id": "nature-pol-247",
+    "reason": "changes how many permits are auctioned"
+   }
+  ],
+  "nature-pol-274": [
+   {
+    "id": "nature-pol-272",
+    "reason": "a second system beside the original EU ETS"
+   },
+   {
+    "id": "nature-pol-253",
+    "reason": "an emissions trading system"
+   }
+  ],
+  "nature-pol-275": [
+   {
+    "id": "nature-clim-056",
+    "reason": "the three Kyoto Protocol tools (later part; genuinely needed)"
+   },
+   {
+    "id": "nature-pol-253",
+    "reason": "emissions trading is one of the three"
+   },
+   {
+    "id": "nature-pol-254",
+    "reason": "they meet targets more cheaply by cutting where cheapest"
+   }
+  ],
+  "nature-pol-276": [
+   {
+    "id": "nature-pol-253",
+    "reason": "a tradable certificate scheme like permit trading"
+   },
+   {
+    "id": "nature-econ-342",
+    "reason": "certificates are traded"
+   }
+  ],
+  "nature-pol-277": [
+   {
+    "id": "nature-pol-275",
+    "reason": "one of the Kyoto flexible mechanisms"
+   },
+   {
+    "id": "nature-eco-163",
+    "reason": "counts emission cuts towards a target"
+   }
+  ],
+  "nature-pol-278": [
+   {
+    "id": "nature-econ-342",
+    "reason": "sets the rules of markets"
+   },
+   {
+    "id": "nature-econ-158",
+    "reason": "aims at efficient outcomes"
+   },
+   {
+    "id": "nature-econ-008",
+    "reason": "closely tied to mechanism design"
+   },
+   {
+    "id": "nature-econ-034",
+    "reason": "uses game-theoretic reasoning"
+   }
+  ],
+  "nature-pol-279": [
+   {
+    "id": "nature-pol-253",
+    "reason": "a form of emissions trading"
+   },
+   {
+    "id": "nature-pol-244",
+    "reason": "credits for carbon emissions"
+   },
+   {
+    "id": "nature-eco-163",
+    "reason": "credits are surrendered for emissions from fuel and electricity"
+   }
+  ],
+  "nature-pol-280": [
+   {
+    "id": "nature-econ-621",
+    "reason": "trades building rights"
+   },
+   {
+    "id": "nature-pol-177",
+    "reason": "works within zoning of sending and receiving areas"
+   },
+   {
+    "id": "nature-econ-342",
+    "reason": "rights are bought and sold"
+   }
+  ],
+  "nature-pol-281": [
+   {
+    "id": "nature-pol-253",
+    "reason": "makes an emissions market credible"
+   },
+   {
+    "id": "nature-found-079",
+    "reason": "measures emissions"
+   }
+  ],
+  "nature-pol-283": [
+   {
+    "id": "nature-pol-258",
+    "reason": "an offset credited for cuts below a baseline"
+   },
+   {
+    "id": "nature-pol-244",
+    "reason": "traded in carbon markets"
+   },
+   {
+    "id": "nature-pol-275",
+    "reason": "contrasted with Kyoto-certified credits"
+   }
+  ],
+  "nature-pol-284": [
+   {
+    "id": "nature-pol-253",
+    "reason": "tradable certificates like emission permits"
+   },
+   {
+    "id": "nature-pol-276",
+    "reason": "parallel to green certificates for energy"
+   }
+  ],
+  "nature-pol-285": [
+   {
+    "id": "nature-econ-491",
+    "reason": "an addition to income"
+   }
+  ],
+  "nature-pol-286": [
+   {
+    "id": "nature-pol-253",
+    "reason": "a problem of trading under a cap"
+   },
+   {
+    "id": "nature-found-075",
+    "reason": "concerns regional pollutants"
+   }
+  ],
+  "nature-pol-287": [
+   {
+    "id": "nature-pol-253",
+    "reason": "applies permit trading to water pollution"
+   },
+   {
+    "id": "nature-pol-254",
+    "reason": "cheap abaters sell to costly ones"
+   },
+   {
+    "id": "nature-eco-245",
+    "reason": "targets nutrient pollution in watersheds"
+   }
+  ],
+  "nature-val-099": [
+   {
+    "id": "nature-val-091",
+    "reason": "a choice modelling survey method"
+   },
+   {
+    "id": "nature-econ-141",
+    "reason": "elicits preferences over items"
+   },
+   {
+    "id": "nature-econ-218",
+    "reason": "relies on designed subsets of items"
+   }
+  ],
+  "nature-val-075": [
+   {
+    "id": "nature-econ-034",
+    "reason": "a game-theory concept"
+   },
+   {
+    "id": "nature-econ-718",
+    "reason": "analysed by its effect on equilibrium play"
+   }
+  ],
+  "nature-val-076": [
+   {
+    "id": "nature-val-085",
+    "reason": "its damages were valued by contingent valuation"
+   },
+   {
+    "id": "nature-val-054",
+    "reason": "the losses included existence value"
+   },
+   {
+    "id": "nature-found-023",
+    "reason": "a major environmental disaster"
+   }
+  ],
+  "nature-val-077": [
+   {
+    "id": "nature-econ-257",
+    "reason": "a statistical model for grouping data"
+   },
+   {
+    "id": "nature-econ-239",
+    "reason": "such models are fitted by maximum likelihood"
+   }
+  ],
+  "nature-val-078": [
+   {
+    "id": "nature-nbs-095",
+    "reason": "a kind of meta-analysis"
+   },
+   {
+    "id": "nature-econ-257",
+    "reason": "uses regression"
+   }
+  ],
+  "nature-val-079": [
+   {
+    "id": "nature-val-080",
+    "reason": "generalises the multinomial logit"
+   },
+   {
+    "id": "nature-val-082",
+    "reason": "based on random utility"
+   },
+   {
+    "id": "nature-val-100",
+    "reason": "a model of discrete choices"
+   }
+  ],
+  "nature-val-080": [
+   {
+    "id": "nature-econ-257",
+    "reason": "a regression method"
+   },
+   {
+    "id": "nature-eco-582",
+    "reason": "extends logistic regression to many outcomes"
+   },
+   {
+    "id": "nature-econ-239",
+    "reason": "estimated by maximum likelihood"
+   }
+  ],
+  "nature-val-081": [
+   {
+    "id": "nature-econ-257",
+    "reason": "a regression model"
+   },
+   {
+    "id": "nature-eco-582",
+    "reason": "the binary-outcome counterpart of logistic regression"
+   },
+   {
+    "id": "nature-econ-239",
+    "reason": "estimated by maximum likelihood"
+   }
+  ],
+  "nature-val-082": [
+   {
+    "id": "nature-econ-100",
+    "reason": "models utility with a random part"
+   },
+   {
+    "id": "nature-econ-141",
+    "reason": "describes a person's preferences"
+   },
+   {
+    "id": "nature-econ-110",
+    "reason": "explains choices between options"
+   }
+  ],
+  "nature-val-083": [
+   {
+    "id": "nature-econ-021",
+    "reason": "a cognitive bias"
+   },
+   {
+    "id": "nature-econ-344",
+    "reason": "value stated does not scale with size"
+   },
+   {
+    "id": "nature-val-085",
+    "reason": "found in contingent valuation surveys"
+   }
+  ],
+  "nature-val-084": [
+   {
+    "id": "nature-econ-344",
+    "reason": "distorts stated willingness to pay"
+   },
+   {
+    "id": "nature-val-102",
+    "reason": "arises in stated-preference surveys"
+   },
+   {
+    "id": "nature-val-085",
+    "reason": "a key problem for contingent valuation"
+   }
+  ],
+  "nature-val-085": [
+   {
+    "id": "nature-econ-344",
+    "reason": "asks for willingness to pay"
+   },
+   {
+    "id": "nature-val-089",
+    "reason": "or willingness to accept"
+   },
+   {
+    "id": "nature-found-031",
+    "reason": "values non-market harms such as externalities"
+   },
+   {
+    "id": "nature-val-102",
+    "reason": "a stated preference method"
+   }
+  ],
+  "nature-val-086": [
+   {
+    "id": "nature-val-085",
+    "reason": "judged whether contingent valuation could be trusted"
+   }
+  ],
+  "nature-val-087": [
+   {
+    "id": "nature-found-004",
+    "reason": "values ecosystem services"
+   },
+   {
+    "id": "nature-found-015",
+    "reason": "values ecosystems"
+   },
+   {
+    "id": "nature-val-052",
+    "reason": "often aims at total economic value"
+   },
+   {
+    "id": "nature-econ-156",
+    "reason": "assigns value in money or other terms"
+   }
+  ],
+  "nature-val-088": [
+   {
+    "id": "nature-val-094",
+    "reason": "a revealed preference method"
+   },
+   {
+    "id": "nature-econ-095",
+    "reason": "counts the time cost of travel"
+   },
+   {
+    "id": "nature-econ-371",
+    "reason": "builds a demand curve for a site"
+   },
+   {
+    "id": "nature-econ-344",
+    "reason": "infers willingness to pay from spending"
+   }
+  ],
+  "nature-val-089": [
+   {
+    "id": "nature-econ-344",
+    "reason": "the counterpart of willingness to pay"
+   },
+   {
+    "id": "nature-econ-100",
+    "reason": "compensation that keeps utility the same"
+   },
+   {
+    "id": "nature-found-079",
+    "reason": "e.g. accepting pollution"
+   }
+  ],
+  "nature-val-090": [
+   {
+    "id": "nature-val-089",
+    "reason": "compares willingness to accept"
+   },
+   {
+    "id": "nature-econ-344",
+    "reason": "with willingness to pay"
+   },
+   {
+    "id": "nature-econ-033",
+    "reason": "explained by the endowment effect"
+   }
+  ],
+  "nature-val-091": [
+   {
+    "id": "nature-econ-110",
+    "reason": "models consumer choices"
+   },
+   {
+    "id": "nature-econ-100",
+    "reason": "based on utility"
+   },
+   {
+    "id": "nature-val-094",
+    "reason": "uses real (revealed) choices"
+   },
+   {
+    "id": "nature-val-102",
+    "reason": "or stated choices"
+   }
+  ],
+  "nature-val-092": [
+   {
+    "id": "nature-val-094",
+    "reason": "a revealed preference method"
+   },
+   {
+    "id": "nature-econ-257",
+    "reason": "uses regression"
+   },
+   {
+    "id": "nature-econ-356",
+    "reason": "breaks a price into feature contributions"
+   }
+  ],
+  "nature-val-093": [
+   {
+    "id": "nature-econ-083",
+    "reason": "replaces a capital asset"
+   },
+   {
+    "id": "nature-econ-356",
+    "reason": "valued at today's prices"
+   }
+  ],
+  "nature-val-094": [
+   {
+    "id": "nature-econ-141",
+    "reason": "infers preferences"
+   },
+   {
+    "id": "nature-econ-110",
+    "reason": "from consumer choices"
+   },
+   {
+    "id": "nature-econ-102",
+    "reason": "choices made under a budget constraint"
+   }
+  ],
+  "nature-val-095": [
+   {
+    "id": "nature-val-094",
+    "reason": "a rule of revealed preference"
+   },
+   {
+    "id": "nature-econ-102",
+    "reason": "defined over affordable bundles"
+   },
+   {
+    "id": "nature-econ-141",
+    "reason": "consistency of preferences"
+   }
+  ],
+  "nature-val-096": [
+   {
+    "id": "nature-val-095",
+    "reason": "extends the revealed preference axioms (GARP)"
+   },
+   {
+    "id": "nature-econ-100",
+    "reason": "shows choices fit a utility function"
+   }
+  ],
+  "nature-val-097": [
+   {
+    "id": "nature-val-092",
+    "reason": "estimated with hedonic wage regressions"
+   },
+   {
+    "id": "nature-val-089",
+    "reason": "pay needed to accept risk"
+   },
+   {
+    "id": "nature-econ-095",
+    "reason": "compared against other jobs one could do"
+   }
+  ],
+  "nature-val-098": [
+   {
+    "id": "nature-val-091",
+    "reason": "a choice modelling technique"
+   },
+   {
+    "id": "nature-econ-100",
+    "reason": "values attributes by utility"
+   },
+   {
+    "id": "nature-econ-257",
+    "reason": "a statistical technique"
+   }
+  ],
+  "nature-val-100": [
+   {
+    "id": "nature-econ-110",
+    "reason": "models choices between alternatives"
+   },
+   {
+    "id": "nature-econ-100",
+    "reason": "based on utility"
+   },
+   {
+    "id": "nature-eco-582",
+    "reason": "estimated with logit-type regressions"
+   }
+  ],
+  "nature-val-101": [
+   {
+    "id": "nature-val-085",
+    "reason": "a bias in contingent valuation"
+   },
+   {
+    "id": "nature-econ-633",
+    "reason": "about valuing public goods"
+   },
+   {
+    "id": "nature-econ-344",
+    "reason": "distorts willingness to pay"
+   }
+  ],
+  "nature-val-102": [
+   {
+    "id": "nature-econ-344",
+    "reason": "measures willingness to pay"
+   },
+   {
+    "id": "nature-val-094",
+    "reason": "contrasted with revealed preference"
+   }
+  ],
+  "nature-val-103": [
+   {
+    "id": "nature-val-087",
+    "reason": "borrows earlier ecosystem valuation results"
+   },
+   {
+    "id": "nature-econ-156",
+    "reason": "estimates economic value"
+   }
+  ],
+  "nature-nbs-158": [
+   {
+    "id": "nature-eco-441",
+    "reason": "an artificial wetland"
+   },
+   {
+    "id": "nature-nbs-209",
+    "reason": "treats stormwater runoff"
+   },
+   {
+    "id": "nature-found-075",
+    "reason": "removes pollutants"
+   },
+   {
+    "id": "nature-eco-245",
+    "reason": "cleans nutrient-rich wastewater"
+   }
+  ],
+  "nature-nbs-159": [
+   {
+    "id": "nature-nbs-158",
+    "reason": "a type of constructed wetland"
+   }
+  ],
+  "nature-nbs-160": [
+   {
+    "id": "nature-nbs-158",
+    "reason": "a type of constructed wetland"
+   }
+  ],
+  "nature-nbs-161": [
+   {
+    "id": "nature-found-004",
+    "reason": "uses features that provide ecosystem services"
+   },
+   {
+    "id": "nature-nbs-209",
+    "reason": "manages urban stormwater"
+   },
+   {
+    "id": "nature-found-055",
+    "reason": "addresses urban problems such as air pollution"
+   }
+  ],
+  "nature-nbs-162": [
+   {
+    "id": "nature-nbs-161",
+    "reason": "the water side of blue-green infrastructure"
+   }
+  ],
+  "nature-nbs-163": [
+   {
+    "id": "nature-nbs-161",
+    "reason": "a form of green infrastructure"
+   },
+   {
+    "id": "nature-nbs-209",
+    "reason": "blue roofs hold rainfall"
+   }
+  ],
+  "nature-nbs-164": [
+   {
+    "id": "nature-nbs-158",
+    "reason": "a floating form of constructed wetland"
+   },
+   {
+    "id": "nature-eco-441",
+    "reason": "supports wetland vegetation"
+   }
+  ],
+  "nature-nbs-165": [
+   {
+    "id": "nature-nbs-209",
+    "reason": "diverts roof stormwater"
+   },
+   {
+    "id": "nature-nbs-161",
+    "reason": "a small green infrastructure practice"
+   }
+  ],
+  "nature-nbs-166": [
+   {
+    "id": "nature-nbs-209",
+    "reason": "collects rainwater runoff"
+   },
+   {
+    "id": "nature-eco-275",
+    "reason": "cuts surface runoff to sewers"
+   },
+   {
+    "id": "nature-nbs-176",
+    "reason": "helps prevent flooding"
+   }
+  ],
+  "nature-nbs-167": [
+   {
+    "id": "nature-nbs-161",
+    "reason": "compares green infrastructure"
+   },
+   {
+    "id": "nature-val-001",
+    "reason": "by comparing costs and benefits"
+   },
+   {
+    "id": "nature-econ-095",
+    "reason": "costs judged against the grey alternative"
+   }
+  ],
+  "nature-nbs-168": [
+   {
+    "id": "nature-nbs-161",
+    "reason": "new green infrastructure raises property values"
+   },
+   {
+    "id": "nature-econ-494",
+    "reason": "displaces lower-income residents"
+   }
+  ],
+  "nature-nbs-169": [
+   {
+    "id": "nature-nbs-161",
+    "reason": "obstacles to green infrastructure"
+   }
+  ],
+  "nature-nbs-170": [
+   {
+    "id": "nature-nbs-161",
+    "reason": "plans green infrastructure"
+   },
+   {
+    "id": "nature-res-144",
+    "reason": "works through land-use planning policy"
+   },
+   {
+    "id": "nature-found-004",
+    "reason": "maps what the natural environment does"
+   }
+  ],
+  "nature-nbs-171": [
+   {
+    "id": "nature-nbs-209",
+    "reason": "manages stormwater drainage"
+   },
+   {
+    "id": "nature-eco-196",
+    "reason": "works with natural water processes"
+   },
+   {
+    "id": "nature-nbs-161",
+    "reason": "part of a green infrastructure strategy"
+   }
+  ],
+  "nature-nbs-172": [
+   {
+    "id": "nature-nbs-209",
+    "reason": "used to manage stormwater"
+   },
+   {
+    "id": "nature-nbs-171",
+    "reason": "a sustainable drainage feature"
+   }
+  ],
+  "nature-nbs-173": [
+   {
+    "id": "nature-nbs-209",
+    "reason": "treats stormwater runoff"
+   },
+   {
+    "id": "nature-eco-237",
+    "reason": "water soaks through planted soil"
+   },
+   {
+    "id": "nature-found-075",
+    "reason": "removes pollutants and sediment"
+   }
+  ],
+  "nature-nbs-174": [
+   {
+    "id": "nature-nbs-209",
+    "reason": "carries stormwater runoff"
+   },
+   {
+    "id": "nature-found-079",
+    "reason": "removes pollution"
+   }
+  ],
+  "nature-nbs-175": [
+   {
+    "id": "nature-nbs-209",
+    "reason": "the first stormwater runoff"
+   },
+   {
+    "id": "nature-found-079",
+    "reason": "carries built-up pollution"
+   }
+  ],
+  "nature-nbs-176": [
+   {
+    "id": "nature-eco-275",
+    "reason": "floods come from runoff"
+   },
+   {
+    "id": "nature-eco-462",
+    "reason": "floods spread across floodplains"
+   },
+   {
+    "id": "nature-eco-001",
+    "reason": "floods are often caused by extreme weather"
+   }
+  ],
+  "nature-nbs-177": [
+   {
+    "id": "nature-nbs-176",
+    "reason": "one approach to flood management"
+   }
+  ],
+  "nature-nbs-178": [
+   {
+    "id": "nature-nbs-176",
+    "reason": "one approach to flood management"
+   },
+   {
+    "id": "nature-nbs-177",
+    "reason": "contrasted with structural works"
+   },
+   {
+    "id": "nature-pol-177",
+    "reason": "includes zoning"
+   }
+  ],
+  "nature-nbs-179": [
+   {
+    "id": "nature-nbs-176",
+    "reason": "a flood management goal"
+   },
+   {
+    "id": "nature-eco-275",
+    "reason": "slows runoff"
+   }
+  ],
+  "nature-nbs-180": [
+   {
+    "id": "nature-nbs-176",
+    "reason": "a flood management strategy"
+   },
+   {
+    "id": "nature-eco-462",
+    "reason": "removes buildings from floodplains"
+   }
+  ],
+  "nature-nbs-181": [
+   {
+    "id": "nature-nbs-177",
+    "reason": "a structural flood-control work"
+   },
+   {
+    "id": "nature-es-119",
+    "reason": "stops storm surges"
+   }
+  ],
+  "nature-nbs-182": [
+   {
+    "id": "nature-nbs-176",
+    "reason": "informs flood management decisions"
+   },
+   {
+    "id": "nature-nbs-178",
+    "reason": "a non-structural measure"
+   }
+  ],
+  "nature-nbs-183": [
+   {
+    "id": "nature-nbs-209",
+    "reason": "handles rain runoff"
+   },
+   {
+    "id": "nature-eco-237",
+    "reason": "runoff soaks into the soil"
+   },
+   {
+    "id": "nature-nbs-173",
+    "reason": "also called a bioretention facility"
+   }
+  ],
+  "nature-nbs-184": [
+   {
+    "id": "nature-eco-196",
+    "reason": "designs around the urban water cycle"
+   },
+   {
+    "id": "nature-nbs-209",
+    "reason": "includes stormwater"
+   },
+   {
+    "id": "nature-res-133",
+    "reason": "includes groundwater"
+   },
+   {
+    "id": "nature-nbs-171",
+    "reason": "related drainage approach"
+   }
+  ],
+  "nature-nbs-185": [
+   {
+    "id": "nature-nbs-209",
+    "reason": "holds stormwater"
+   },
+   {
+    "id": "nature-eco-237",
+    "reason": "lets it seep into soil"
+   },
+   {
+    "id": "nature-res-133",
+    "reason": "recharges groundwater"
+   }
+  ],
+  "nature-nbs-186": [
+   {
+    "id": "nature-nbs-209",
+    "reason": "holds stormwater"
+   },
+   {
+    "id": "nature-eco-268",
+    "reason": "settles out sediment"
+   }
+  ],
+  "nature-nbs-187": [
+   {
+    "id": "nature-eco-462",
+    "reason": "restores floodplains"
+   },
+   {
+    "id": "nature-eco-441",
+    "reason": "re-creates drained wetlands"
+   }
+  ],
+  "nature-nbs-188": [
+   {
+    "id": "nature-eco-504",
+    "reason": "restores rivers and streams"
+   },
+   {
+    "id": "nature-nbs-176",
+    "reason": "one goal is flood management"
+   },
+   {
+    "id": "nature-found-001",
+    "reason": "one goal is biodiversity"
+   }
+  ],
+  "nature-nbs-189": [
+   {
+    "id": "nature-nbs-188",
+    "reason": "a type of stream restoration"
+   }
+  ],
+  "nature-nbs-190": [
+   {
+    "id": "nature-nbs-188",
+    "reason": "a type of stream restoration"
+   },
+   {
+    "id": "nature-nbs-189",
+    "reason": "contrasted with form-based restoration"
+   }
+  ],
+  "nature-nbs-191": [
+   {
+    "id": "nature-nbs-189",
+    "reason": "a form-based restoration method"
+   }
+  ],
+  "nature-nbs-192": [
+   {
+    "id": "nature-nbs-190",
+    "reason": "applies process-based restoration"
+   },
+   {
+    "id": "nature-eco-504",
+    "reason": "a band along a stream"
+   }
+  ],
+  "nature-nbs-193": [
+   {
+    "id": "nature-nbs-188",
+    "reason": "a stream restoration technique"
+   },
+   {
+    "id": "nature-nbs-195",
+    "reason": "replaces wood lost with beaver removal"
+   }
+  ],
+  "nature-nbs-194": [
+   {
+    "id": "nature-nbs-188",
+    "reason": "a stream restoration technique"
+   },
+   {
+    "id": "nature-eco-264",
+    "reason": "stabilises banks against erosion"
+   }
+  ],
+  "nature-nbs-195": [
+   {
+    "id": "nature-es-086",
+    "reason": "beavers are ecosystem engineers"
+   },
+   {
+    "id": "nature-eco-441",
+    "reason": "the pond forms a wetland"
+   }
+  ],
+  "nature-nbs-196": [
+   {
+    "id": "nature-nbs-195",
+    "reason": "imitates a beaver dam"
+   }
+  ],
+  "nature-nbs-197": [
+   {
+    "id": "nature-nbs-209",
+    "reason": "manages stormwater runoff"
+   },
+   {
+    "id": "nature-nbs-161",
+    "reason": "part of green infrastructure"
+   },
+   {
+    "id": "nature-res-144",
+    "reason": "a land planning approach"
+   }
+  ],
+  "nature-nbs-198": [
+   {
+    "id": "nature-nbs-161",
+    "reason": "uses green infrastructure"
+   },
+   {
+    "id": "nature-nbs-211",
+    "reason": "manages urban floods"
+   },
+   {
+    "id": "nature-nbs-220",
+    "reason": "a nature-based planning model"
+   }
+  ],
+  "nature-nbs-199": [
+   {
+    "id": "nature-eco-504",
+    "reason": "returns natural flow to a river"
+   },
+   {
+    "id": "nature-nbs-188",
+    "reason": "a stream restoration measure"
+   }
+  ],
+  "nature-nbs-200": [
+   {
+    "id": "nature-nbs-199",
+    "reason": "methods of dam removal"
+   },
+   {
+    "id": "nature-eco-268",
+    "reason": "chosen by how sediment is handled"
+   }
+  ],
+  "nature-nbs-201": [
+   {
+    "id": "nature-nbs-199",
+    "reason": "alternatives to removing a dam"
+   },
+   {
+    "id": "nature-eco-504",
+    "reason": "reduces harm to the river"
+   }
+  ],
+  "nature-nbs-202": [
+   {
+    "id": "nature-eco-462",
+    "reason": "exchange between channel and floodplain"
+   },
+   {
+    "id": "nature-eco-504",
+    "reason": "a river's flood cycle"
+   },
+   {
+    "id": "nature-eco-173",
+    "reason": "controls the movement of nutrients"
+   }
+  ],
+  "nature-nbs-203": [
+   {
+    "id": "nature-nbs-209",
+    "reason": "lets stormwater through"
+   },
+   {
+    "id": "nature-eco-237",
+    "reason": "water infiltrates the ground"
+   },
+   {
+    "id": "nature-eco-275",
+    "reason": "reduces surface runoff"
+   }
+  ],
+  "nature-nbs-204": [
+   {
+    "id": "nature-nbs-203",
+    "reason": "types of permeable paving"
+   }
+  ],
+  "nature-nbs-206": [
+   {
+    "id": "nature-eco-482",
+    "reason": "restores riparian plants"
+   },
+   {
+    "id": "nature-nbs-188",
+    "reason": "part of stream restoration"
+   }
+  ],
+  "nature-nbs-207": [
+   {
+    "id": "nature-nbs-187",
+    "reason": "gives rivers floodplain space"
+   },
+   {
+    "id": "nature-nbs-176",
+    "reason": "a flood protection plan"
+   }
+  ],
+  "nature-nbs-208": [
+   {
+    "id": "nature-res-101",
+    "reason": "protects drinking water sources"
+   },
+   {
+    "id": "nature-found-079",
+    "reason": "from contamination"
+   },
+   {
+    "id": "nature-es-103",
+    "reason": "relies on natural water purification"
+   }
+  ],
+  "nature-nbs-209": [
+   {
+    "id": "nature-eco-196",
+    "reason": "precipitation in the water cycle"
+   },
+   {
+    "id": "nature-eco-275",
+    "reason": "becomes runoff"
+   }
+  ],
+  "nature-nbs-210": [
+   {
+    "id": "nature-nbs-209",
+    "reason": "managing stormwater"
+   },
+   {
+    "id": "nature-eco-275",
+    "reason": "controls runoff quantity"
+   },
+   {
+    "id": "nature-found-079",
+    "reason": "and quality"
+   }
+  ],
+  "nature-nbs-211": [
+   {
+    "id": "nature-nbs-209",
+    "reason": "rain overwhelms drainage"
+   },
+   {
+    "id": "nature-es-119",
+    "reason": "or coastal storm surges"
+   },
+   {
+    "id": "nature-nbs-176",
+    "reason": "the flooding problem it addresses"
+   }
+  ],
+  "nature-nbs-212": [
+   {
+    "id": "nature-nbs-211",
+    "reason": "types of urban flooding"
+   },
+   {
+    "id": "nature-es-119",
+    "reason": "coastal floods from storm surges"
+   }
+  ],
+  "nature-nbs-213": [
+   {
+    "id": "nature-nbs-176",
+    "reason": "conventional flood and water control"
+   },
+   {
+    "id": "nature-nbs-209",
+    "reason": "pipes carry stormwater"
+   }
+  ],
+  "nature-nbs-214": [
+   {
+    "id": "nature-nbs-211",
+    "reason": "costs of urban floods"
+   },
+   {
+    "id": "nature-econ-338",
+    "reason": "framed as economic losses"
+   }
+  ],
+  "nature-nbs-215": [
+   {
+    "id": "nature-eco-196",
+    "reason": "manages the urban water cycle as a whole"
+   },
+   {
+    "id": "nature-nbs-209",
+    "reason": "includes stormwater"
+   },
+   {
+    "id": "nature-res-119",
+    "reason": "within a river-basin plan"
+   }
+  ],
+  "nature-nbs-216": [
+   {
+    "id": "nature-found-015",
+    "reason": "designs and manages ecosystems"
+   },
+   {
+    "id": "nature-eco-309",
+    "reason": "draws on ecology"
+   }
+  ],
+  "nature-nbs-217": [
+   {
+    "id": "nature-nbs-216",
+    "reason": "classes of ecological engineering"
+   }
+  ],
+  "nature-nbs-218": [
+   {
+    "id": "nature-found-004",
+    "reason": "uses ecosystem services"
+   },
+   {
+    "id": "nature-found-001",
+    "reason": "and biodiversity"
+   },
+   {
+    "id": "nature-eco-017",
+    "reason": "to cope with effects of climate change"
+   },
+   {
+    "id": "nature-nbs-220",
+    "reason": "a kind of nature-based solution"
+   }
+  ],
+  "nature-nbs-219": [
+   {
+    "id": "nature-nbs-218",
+    "reason": "barriers to EbA"
+   }
+  ],
+  "nature-nbs-220": [
+   {
+    "id": "nature-found-004",
+    "reason": "work through ecosystem services"
+   },
+   {
+    "id": "nature-found-015",
+    "reason": "protect or restore ecosystems"
+   },
+   {
+    "id": "nature-found-001",
+    "reason": "benefit biodiversity"
+   }
+  ],
+  "nature-nbs-221": [
+   {
+    "id": "nature-nbs-220",
+    "reason": "types of NBS"
+   },
+   {
+    "id": "nature-found-004",
+    "reason": "classified by services targeted"
+   }
+  ],
+  "nature-nbs-222": [
+   {
+    "id": "nature-nbs-220",
+    "reason": "combines NBS"
+   },
+   {
+    "id": "nature-nbs-213",
+    "reason": "with grey infrastructure (later chapter; genuinely needed)"
+   }
+  ],
+  "nature-nbs-223": [
+   {
+    "id": "nature-nbs-220",
+    "reason": "criticisms of NBS"
+   },
+   {
+    "id": "nature-eco-163",
+    "reason": "said to distract from cutting emissions"
+   }
+  ],
+  "nature-nbs-224": [
+   {
+    "id": "nature-nbs-220",
+    "reason": "a nature-based approach"
+   },
+   {
+    "id": "nature-found-004",
+    "reason": "uses ecosystems' protective services"
+   },
+   {
+    "id": "nature-nbs-218",
+    "reason": "parallel to ecosystem-based adaptation"
+   }
+  ],
+  "nature-nbs-225": [
+   {
+    "id": "nature-nbs-220",
+    "reason": "the climate subset of NBS"
+   },
+   {
+    "id": "nature-eco-169",
+    "reason": "increase carbon storage"
+   },
+   {
+    "id": "nature-eco-163",
+    "reason": "or avoid emissions"
+   }
+  ],
+  "nature-found-030": [
+   {
+    "id": "nature-found-044",
+    "reason": "a branch of economics"
+   },
+   {
+    "id": "nature-found-031",
+    "reason": "studies externalities"
+   },
+   {
+    "id": "nature-found-045",
+    "reason": "and market failure"
+   },
+   {
+    "id": "nature-found-023",
+    "reason": "environmental problems"
+   }
+  ],
+  "nature-found-031": [
+   {
+    "id": "nature-found-044",
+    "reason": "an economic concept about costs and benefits"
+   }
+  ],
+  "nature-found-032": [
+   {
+    "id": "nature-found-031",
+    "reason": "a harmful kind of externality"
+   }
+  ],
+  "nature-found-033": [
+   {
+    "id": "nature-found-031",
+    "reason": "a beneficial kind of externality"
+   }
+  ],
+  "nature-found-034": [
+   {
+    "id": "nature-found-032",
+    "reason": "a negative side effect on others' goods"
+   }
+  ],
+  "nature-found-035": [
+   {
+    "id": "nature-found-031",
+    "reason": "a special case of externality"
+   },
+   {
+    "id": "nature-found-045",
+    "reason": "defined by causing no market inefficiency"
+   }
+  ],
+  "nature-found-036": [
+   {
+    "id": "nature-found-031",
+    "reason": "explains where externalities come from"
+   }
+  ],
+  "nature-found-037": [
+   {
+    "id": "nature-found-031",
+    "reason": "shows an externality's effect on the market"
+   },
+   {
+    "id": "nature-found-084",
+    "reason": "the extra curve shows social cost"
+   }
+  ],
+  "nature-found-038": [
+   {
+    "id": "nature-found-031",
+    "reason": "criticises the externality concept"
+   },
+   {
+    "id": "nature-found-039",
+    "reason": "the critique comes from ecological economics"
+   }
+  ],
+  "nature-found-039": [
+   {
+    "id": "nature-found-030",
+    "reason": "contrasts environmental economics"
+   },
+   {
+    "id": "nature-found-015",
+    "reason": "ecological economics treats the economy as part of the ecosystem"
+   }
+  ],
+  "nature-found-040": [
+   {
+    "id": "nature-found-030",
+    "reason": "a core task of environmental economics"
+   },
+   {
+    "id": "nature-found-010",
+    "reason": "values natural resources and capital"
+   }
+  ],
+  "nature-found-041": [
+   {
+    "id": "nature-found-044",
+    "reason": "government payments shaping economic incentives"
+   },
+   {
+    "id": "nature-found-023",
+    "reason": "they reward environmental damage"
+   }
+  ],
+  "nature-found-043": [
+   {
+    "id": "nature-found-010",
+    "reason": "the value of natural capital used up"
+   },
+   {
+    "id": "nature-found-031",
+    "reason": "these costs are externalities"
+   }
+  ],
+  "nature-found-044": [],
+  "nature-found-045": [
+   {
+    "id": "nature-found-044",
+    "reason": "an economic concept of inefficient allocation"
+   }
+  ],
+  "nature-found-046": [
+   {
+    "id": "nature-found-045",
+    "reason": "a kind of market failure"
+   },
+   {
+    "id": "nature-found-020",
+    "reason": "overloads nature's capacity to absorb waste"
+   },
+   {
+    "id": "nature-found-015",
+    "reason": "damages ecosystems"
+   }
+  ],
+  "nature-found-047": [
+   {
+    "id": "nature-found-045",
+    "reason": "a kind of market failure"
+   }
+  ],
+  "nature-found-048": [
+   {
+    "id": "nature-found-045",
+    "reason": "a kind of market failure"
+   }
+  ],
+  "nature-found-049": [
+   {
+    "id": "nature-found-045",
+    "reason": "market failure at the level of the whole economy"
+   }
+  ],
+  "nature-found-050": [
+   {
+    "id": "nature-found-045",
+    "reason": "objections to the market failure idea"
+   },
+   {
+    "id": "nature-found-064",
+    "reason": "argues government action can fail too"
+   }
+  ],
+  "nature-found-051": [
+   {
+    "id": "nature-found-044",
+    "reason": "the basic problem economics studies"
+   }
+  ],
+  "nature-found-052": [
+   {
+    "id": "nature-found-051",
+    "reason": "a form of scarcity"
+   }
+  ],
+  "nature-found-053": [
+   {
+    "id": "nature-found-051",
+    "reason": "a form of scarcity"
+   }
+  ],
+  "nature-found-054": [
+   {
+    "id": "nature-found-051",
+    "reason": "divides scarcity into kinds"
+   }
+  ],
+  "nature-found-055": [
+   {
+    "id": "nature-found-079",
+    "reason": "a form of pollution"
+   },
+   {
+    "id": "nature-found-075",
+    "reason": "substances in the air"
+   }
+  ],
+  "nature-found-056": [
+   {
+    "id": "nature-found-055",
+    "reason": "effects of air pollution"
+   }
+  ],
+  "nature-found-057": [
+   {
+    "id": "nature-found-055",
+    "reason": "costs of air pollution"
+   },
+   {
+    "id": "nature-found-031",
+    "reason": "the costs fall on others as externalities"
+   }
+  ],
+  "nature-found-058": [
+   {
+    "id": "nature-found-055",
+    "reason": "exposure to air pollution"
+   }
+  ],
+  "nature-found-059": [
+   {
+    "id": "nature-found-055",
+    "reason": "classifies air pollutants"
+   },
+   {
+    "id": "nature-found-075",
+    "reason": "pollutant types"
+   }
+  ],
+  "nature-found-060": [
+   {
+    "id": "nature-found-059",
+    "reason": "a secondary air pollutant"
+   }
+  ],
+  "nature-found-061": [
+   {
+    "id": "nature-found-055",
+    "reason": "history of controlling air pollution"
+   },
+   {
+    "id": "nature-found-082",
+    "reason": "a history of pollution control"
+   }
+  ],
+  "nature-found-062": [
+   {
+    "id": "nature-found-055",
+    "reason": "laws limiting air pollution"
+   },
+   {
+    "id": "nature-found-075",
+    "reason": "limits on pollutant concentrations"
+   }
+  ],
+  "nature-found-063": [
+   {
+    "id": "nature-found-055",
+    "reason": "damage from polluted air"
+   },
+   {
+    "id": "nature-found-060",
+    "reason": "especially ozone"
+   }
+  ],
+  "nature-found-064": [
+   {
+    "id": "nature-found-045",
+    "reason": "the counterpart of market failure"
+   }
+  ],
+  "nature-found-065": [
+   {
+    "id": "nature-found-064",
+    "reason": "reasons for government failure"
+   },
+   {
+    "id": "nature-found-026",
+    "reason": "includes short-term thinking"
+   }
+  ],
+  "nature-found-066": [
+   {
+    "id": "nature-found-064",
+    "reason": "a form of government failure"
+   },
+   {
+    "id": "nature-found-041",
+    "reason": "subsidies distort markets"
+   }
+  ],
+  "nature-found-067": [
+   {
+    "id": "nature-found-079",
+    "reason": "a form of pollution"
+   }
+  ],
+  "nature-found-068": [
+   {
+    "id": "nature-found-067",
+    "reason": "effects of noise"
+   }
+  ],
+  "nature-found-069": [
+   {
+    "id": "nature-found-067",
+    "reason": "effects of noise on animals"
+   }
+  ],
+  "nature-found-070": [
+   {
+    "id": "nature-found-067",
+    "reason": "measures noise"
+   }
+  ],
+  "nature-found-071": [
+   {
+    "id": "nature-found-067",
+    "reason": "limits noise"
+   },
+   {
+    "id": "nature-found-082",
+    "reason": "a form of pollution control"
+   }
+  ],
+  "nature-found-072": [
+   {
+    "id": "nature-found-079",
+    "reason": "a form of pollution"
+   },
+   {
+    "id": "nature-found-055",
+    "reason": "particles suspended in air"
+   }
+  ],
+  "nature-found-073": [
+   {
+    "id": "nature-found-072",
+    "reason": "size classes of particulates"
+   }
+  ],
+  "nature-found-074": [
+   {
+    "id": "nature-found-031",
+    "reason": "a kind of externality"
+   },
+   {
+    "id": "nature-found-045",
+    "reason": "contrasted with real externalities that cause market failure"
+   }
+  ],
+  "nature-found-075": [
+   {
+    "id": "nature-found-079",
+    "reason": "what causes pollution"
+   }
+  ],
+  "nature-found-076": [
+   {
+    "id": "nature-found-075",
+    "reason": "classifies pollutants"
+   },
+   {
+    "id": "nature-found-020",
+    "reason": "by the environment's absorptive capacity"
+   }
+  ],
+  "nature-found-077": [
+   {
+    "id": "nature-found-075",
+    "reason": "classifies pollutants by where they act"
+   }
+  ],
+  "nature-found-078": [
+   {
+    "id": "nature-found-075",
+    "reason": "safe concentrations of pollutants"
+   }
+  ],
+  "nature-found-079": [],
+  "nature-found-080": [
+   {
+    "id": "nature-found-079",
+    "reason": "an optimal amount of pollution"
+   },
+   {
+    "id": "nature-found-085",
+    "reason": "harm of one more unit"
+   },
+   {
+    "id": "nature-found-081",
+    "reason": "weighed against the cost of cutting it"
+   }
+  ],
+  "nature-found-081": [
+   {
+    "id": "nature-found-079",
+    "reason": "cost of cutting pollution"
+   },
+   {
+    "id": "nature-found-082",
+    "reason": "abatement is pollution control"
+   }
+  ],
+  "nature-found-082": [
+   {
+    "id": "nature-found-079",
+    "reason": "managing pollution"
+   }
+  ],
+  "nature-found-083": [
+   {
+    "id": "nature-found-079",
+    "reason": "history of pollution"
+   }
+  ],
+  "nature-found-084": [
+   {
+    "id": "nature-found-031",
+    "reason": "adds external costs"
+   },
+   {
+    "id": "nature-found-032",
+    "reason": "external costs are negative externalities"
+   }
+  ],
+  "nature-found-085": [
+   {
+    "id": "nature-found-084",
+    "reason": "the marginal version of social cost"
+   }
+  ],
+  "nature-found-086": [
+   {
+    "id": "nature-found-084",
+    "reason": "a theory of social costs"
+   }
+  ],
+  "nature-found-087": [
+   {
+    "id": "nature-found-084",
+    "reason": "measuring social costs"
+   }
+  ],
+  "nature-found-088": [
+   {
+    "id": "nature-found-023",
+    "reason": "many small decisions add up to environmental harm"
+   }
+  ],
+  "nature-found-090": [
+   {
+    "id": "nature-found-030",
+    "reason": "an environmental economics journal"
+   }
+  ],
+  "nature-nbs-226": [
+   {
+    "id": "nature-eco-259",
+    "reason": "stores carbon in soil"
+   },
+   {
+    "id": "nature-eco-169",
+    "reason": "turns land into a carbon sink"
+   },
+   {
+    "id": "nature-eco-164",
+    "reason": "draws carbon from the air"
+   },
+   {
+    "id": "nature-res-140",
+    "reason": "applied to farming practice"
+   }
+  ],
+  "nature-nbs-227": [
+   {
+    "id": "nature-nbs-226",
+    "reason": "a carbon farming method"
+   }
+  ],
+  "nature-nbs-229": [
+   {
+    "id": "nature-eco-017",
+    "reason": "adapts farming to effects of climate change"
+   },
+   {
+    "id": "nature-es-108",
+    "reason": "raises yields for food security"
+   },
+   {
+    "id": "nature-nbs-232",
+    "reason": "cuts farm greenhouse gas emissions"
+   }
+  ],
+  "nature-nbs-230": [
+   {
+    "id": "nature-nbs-229",
+    "reason": "designs climate-smart farming programmes"
+   }
+  ],
+  "nature-nbs-231": [
+   {
+    "id": "nature-nbs-229",
+    "reason": "measures climate resilience of farming"
+   },
+   {
+    "id": "nature-eco-603",
+    "reason": "scores resilience"
+   }
+  ],
+  "nature-nbs-232": [
+   {
+    "id": "nature-eco-163",
+    "reason": "greenhouse gas emissions"
+   },
+   {
+    "id": "nature-res-140",
+    "reason": "from farming"
+   },
+   {
+    "id": "nature-eco-053",
+    "reason": "includes clearing land"
+   }
+  ],
+  "nature-nbs-233": [
+   {
+    "id": "nature-eco-140",
+    "reason": "balances nature conservation"
+   },
+   {
+    "id": "nature-res-107",
+    "reason": "against economic land uses"
+   },
+   {
+    "id": "nature-found-004",
+    "reason": "manages landscape services"
+   }
+  ],
+  "nature-nbs-234": [
+   {
+    "id": "nature-nbs-233",
+    "reason": "a landscape-scale approach"
+   },
+   {
+    "id": "nature-res-107",
+    "reason": "reconciles competing land uses"
+   }
+  ],
+  "nature-nbs-235": [
+   {
+    "id": "nature-res-140",
+    "reason": "contrasted with harmful farming"
+   },
+   {
+    "id": "nature-found-004",
+    "reason": "maintains natural resources and services"
+   },
+   {
+    "id": "nature-eco-060",
+    "reason": "avoids land degradation"
+   }
+  ],
+  "nature-nbs-236": [
+   {
+    "id": "nature-nbs-235",
+    "reason": "a sustainable agriculture approach"
+   },
+   {
+    "id": "nature-res-140",
+    "reason": "raises production intensively"
+   },
+   {
+    "id": "nature-eco-053",
+    "reason": "without clearing more land"
+   }
+  ],
+  "nature-nbs-237": [
+   {
+    "id": "nature-nbs-235",
+    "reason": "a strategy for farming and nature"
+   },
+   {
+    "id": "nature-res-140",
+    "reason": "farms some land intensively"
+   },
+   {
+    "id": "nature-eco-140",
+    "reason": "keeps other land wild"
+   }
+  ],
+  "nature-nbs-238": [
+   {
+    "id": "nature-nbs-235",
+    "reason": "a strategy for farming and nature"
+   },
+   {
+    "id": "nature-found-001",
+    "reason": "makes room for biodiversity in farms"
+   }
+  ],
+  "nature-nbs-239": [
+   {
+    "id": "nature-nbs-237",
+    "reason": "compares land sparing"
+   },
+   {
+    "id": "nature-nbs-238",
+    "reason": "with land sharing"
+   }
+  ],
+  "nature-nbs-240": [
+   {
+    "id": "nature-nbs-239",
+    "reason": "mixes the two strategies"
+   }
+  ],
+  "nature-nbs-241": [
+   {
+    "id": "nature-nbs-235",
+    "reason": "the environmental side of sustainable agriculture"
+   },
+   {
+    "id": "nature-found-004",
+    "reason": "rebuilds ecosystem services"
+   }
+  ],
+  "nature-nbs-242": [
+   {
+    "id": "nature-nbs-235",
+    "reason": "a view of sustainable farming"
+   },
+   {
+    "id": "nature-found-004",
+    "reason": "farms provide more than food"
+   }
+  ],
+  "nature-nbs-243": [
+   {
+    "id": "nature-eco-264",
+    "reason": "protects farmland from erosion"
+   },
+   {
+    "id": "nature-nbs-290",
+    "reason": "minimal soil disturbance"
+   },
+   {
+    "id": "nature-nbs-276",
+    "reason": "a variety of crops"
+   }
+  ],
+  "nature-nbs-244": [
+   {
+    "id": "nature-mkt-136",
+    "reason": "pays farmers for environmental benefits"
+   },
+   {
+    "id": "nature-nbs-235",
+    "reason": "to adopt friendlier farming methods"
+   }
+  ],
+  "nature-nbs-246": [
+   {
+    "id": "nature-eco-452",
+    "reason": "studies agroecosystems"
+   },
+   {
+    "id": "nature-nbs-235",
+    "reason": "a practice of sustainable agriculture"
+   },
+   {
+    "id": "nature-es-084",
+    "reason": "applies ecological processes such as nutrient cycling"
+   }
+  ],
+  "nature-nbs-247": [
+   {
+    "id": "nature-res-107",
+    "reason": "a way of managing land"
+   },
+   {
+    "id": "nature-res-131",
+    "reason": "combines trees with farming"
+   }
+  ],
+  "nature-nbs-248": [
+   {
+    "id": "nature-nbs-247",
+    "reason": "an agroforestry practice"
+   }
+  ],
+  "nature-nbs-249": [
+   {
+    "id": "nature-nbs-247",
+    "reason": "an agroforestry practice"
+   }
+  ],
+  "nature-nbs-250": [
+   {
+    "id": "nature-nbs-247",
+    "reason": "an agroforestry system"
+   },
+   {
+    "id": "nature-nbs-292",
+    "reason": "organic"
+   }
+  ],
+  "nature-nbs-251": [
+   {
+    "id": "nature-nbs-247",
+    "reason": "an agroforestry practice"
+   }
+  ],
+  "nature-nbs-252": [
+   {
+    "id": "nature-nbs-247",
+    "reason": "an agroforestry practice"
+   }
+  ],
+  "nature-nbs-253": [
+   {
+    "id": "nature-nbs-247",
+    "reason": "an agroforestry practice"
+   }
+  ],
+  "nature-nbs-254": [
+   {
+    "id": "nature-nbs-247",
+    "reason": "agroforestry applied in towns"
+   }
+  ],
+  "nature-nbs-255": [
+   {
+    "id": "nature-eco-387",
+    "reason": "covers the soil"
+   },
+   {
+    "id": "nature-eco-264",
+    "reason": "protects against erosion"
+   }
+  ],
+  "nature-nbs-256": [
+   {
+    "id": "nature-nbs-255",
+    "reason": "a type of cover crop"
+   },
+   {
+    "id": "nature-eco-398",
+    "reason": "raises soil fertility"
+   },
+   {
+    "id": "nature-eco-394",
+    "reason": "often fixes nitrogen"
+   }
+  ],
+  "nature-nbs-257": [
+   {
+    "id": "nature-nbs-255",
+    "reason": "grown alongside the main crop"
+   },
+   {
+    "id": "nature-es-088",
+    "reason": "a form of biological pest control"
+   }
+  ],
+  "nature-nbs-258": [
+   {
+    "id": "nature-nbs-235",
+    "reason": "goes beyond sustainable agriculture"
+   },
+   {
+    "id": "nature-nbs-310",
+    "reason": "rebuilds topsoil"
+   },
+   {
+    "id": "nature-found-004",
+    "reason": "restores ecosystem services"
+   }
+  ],
+  "nature-nbs-259": [
+   {
+    "id": "nature-nbs-304",
+    "reason": "constant rotational grazing"
+   },
+   {
+    "id": "nature-eco-360",
+    "reason": "imitates wild herd grazing"
+   }
+  ],
+  "nature-nbs-260": [
+   {
+    "id": "nature-eco-482",
+    "reason": "vegetation of the riparian zone"
+   },
+   {
+    "id": "nature-res-107",
+    "reason": "shields streams from nearby land use"
+   }
+  ],
+  "nature-nbs-261": [
+   {
+    "id": "nature-nbs-260",
+    "reason": "layout of a riparian buffer"
+   }
+  ],
+  "nature-nbs-262": [
+   {
+    "id": "nature-nbs-260",
+    "reason": "a type of riparian buffer"
+   },
+   {
+    "id": "nature-res-133",
+    "reason": "width follows groundwater flow"
+   }
+  ],
+  "nature-nbs-263": [
+   {
+    "id": "nature-nbs-247",
+    "reason": "a form of agroforestry"
+   },
+   {
+    "id": "nature-eco-360",
+    "reason": "includes grazing livestock"
+   }
+  ],
+  "nature-nbs-264": [
+   {
+    "id": "nature-nbs-263",
+    "reason": "a traditional silvopasture system"
+   }
+  ],
+  "nature-nbs-265": [
+   {
+    "id": "nature-econ-083",
+    "reason": "aims to renew capital assets"
+   },
+   {
+    "id": "nature-found-010",
+    "reason": "treats the Earth as natural capital"
+   }
+  ],
+  "nature-nbs-266": [
+   {
+    "id": "nature-mkt-018",
+    "reason": "builds on sustainable finance"
+   },
+   {
+    "id": "nature-nbs-265",
+    "reason": "applies regenerative economics to investing"
+   }
+  ],
+  "nature-nbs-267": [
+   {
+    "id": "nature-found-079",
+    "reason": "a form of pollution"
+   },
+   {
+    "id": "nature-res-140",
+    "reason": "from farming"
+   }
+  ],
+  "nature-nbs-268": [
+   {
+    "id": "nature-nbs-267",
+    "reason": "a kind of agricultural pollution"
+   },
+   {
+    "id": "nature-eco-399",
+    "reason": "loss of fertilizer nitrogen and phosphorus"
+   },
+   {
+    "id": "nature-eco-245",
+    "reason": "causes nutrient pollution"
+   }
+  ],
+  "nature-nbs-269": [
+   {
+    "id": "nature-nbs-267",
+    "reason": "pesticides as agricultural pollutants"
+   },
+   {
+    "id": "nature-found-076",
+    "reason": "persistent substances build up like stock pollutants"
+   }
+  ],
+  "nature-nbs-270": [
+   {
+    "id": "nature-nbs-267",
+    "reason": "a kind of agricultural pollution"
+   }
+  ],
+  "nature-nbs-271": [
+   {
+    "id": "nature-nbs-232",
+    "reason": "estimates of farm greenhouse gas emissions"
+   },
+   {
+    "id": "nature-eco-201",
+    "reason": "livestock emit methane"
+   }
+  ],
+  "nature-nbs-272": [
+   {
+    "id": "nature-es-088",
+    "reason": "the risks of biological pest control"
+   },
+   {
+    "id": "nature-eco-380",
+    "reason": "releases predators of pests"
+   }
+  ],
+  "nature-nbs-273": [
+   {
+    "id": "nature-nbs-267",
+    "reason": "limits agricultural pollution"
+   },
+   {
+    "id": "nature-eco-245",
+    "reason": "manure releases nutrients"
+   }
+  ],
+  "nature-nbs-274": [
+   {
+    "id": "nature-found-001",
+    "reason": "biodiversity"
+   },
+   {
+    "id": "nature-eco-452",
+    "reason": "found in agroecosystems"
+   }
+  ],
+  "nature-nbs-275": [
+   {
+    "id": "nature-eco-294",
+    "reason": "variety of habitats"
+   },
+   {
+    "id": "nature-nbs-274",
+    "reason": "supports farmland biodiversity"
+   }
+  ],
+  "nature-nbs-276": [
+   {
+    "id": "nature-eco-398",
+    "reason": "sustains soil fertility"
+   }
+  ],
+  "nature-nbs-277": [
+   {
+    "id": "nature-nbs-276",
+    "reason": "an early crop rotation"
+   }
+  ],
+  "nature-nbs-278": [
+   {
+    "id": "nature-nbs-276",
+    "reason": "a crop rotation"
+   },
+   {
+    "id": "nature-nbs-277",
+    "reason": "improved on the three-field system"
+   }
+  ],
+  "nature-nbs-279": [
+   {
+    "id": "nature-nbs-276",
+    "reason": "yield gain from rotation"
+   }
+  ],
+  "nature-nbs-280": [
+   {
+    "id": "nature-res-107",
+    "reason": "planted as a field boundary"
+   }
+  ],
+  "nature-nbs-281": [
+   {
+    "id": "nature-nbs-280",
+    "reason": "dates hedges"
+   },
+   {
+    "id": "nature-eco-150",
+    "reason": "counts woody species"
+   }
+  ],
+  "nature-nbs-282": [
+   {
+    "id": "nature-nbs-280",
+    "reason": "restores a hedge"
+   }
+  ],
+  "nature-nbs-283": [
+   {
+    "id": "nature-es-088",
+    "reason": "combines biological control"
+   },
+   {
+    "id": "nature-nbs-284",
+    "reason": "treats only above the economic injury level"
+   }
+  ],
+  "nature-nbs-284": [
+   {
+    "id": "nature-econ-095",
+    "reason": "compares damage cost to treatment cost"
+   },
+   {
+    "id": "nature-econ-347",
+    "reason": "the point where the extra cost is justified"
+   }
+  ],
+  "nature-nbs-286": [
+   {
+    "id": "nature-nbs-276",
+    "reason": "another way to vary crops"
+   },
+   {
+    "id": "nature-eco-150",
+    "reason": "a form of polyculture"
+   }
+  ],
+  "nature-nbs-287": [
+   {
+    "id": "nature-nbs-286",
+    "reason": "a form of multiple cropping"
+   }
+  ],
+  "nature-nbs-288": [
+   {
+    "id": "nature-nbs-257",
+    "reason": "pairs a trap crop"
+   },
+   {
+    "id": "nature-nbs-283",
+    "reason": "a pest management method"
+   }
+  ],
+  "nature-nbs-289": [
+   {
+    "id": "nature-nbs-248",
+    "reason": "a form of alley cropping"
+   },
+   {
+    "id": "nature-eco-394",
+    "reason": "with nitrogen-fixing trees"
+   }
+  ],
+  "nature-nbs-290": [
+   {
+    "id": "nature-eco-387",
+    "reason": "avoids disturbing the soil"
+   },
+   {
+    "id": "nature-eco-264",
+    "reason": "reduces erosion"
+   }
+  ],
+  "nature-nbs-291": [
+   {
+    "id": "nature-nbs-290",
+    "reason": "reduces tillage, up to none"
+   }
+  ],
+  "nature-nbs-292": [
+   {
+    "id": "nature-nbs-256",
+    "reason": "uses green manure"
+   },
+   {
+    "id": "nature-nbs-276",
+    "reason": "uses crop rotation"
+   },
+   {
+    "id": "nature-eco-399",
+    "reason": "bans synthetic fertilizers"
+   }
+  ],
+  "nature-nbs-293": [
+   {
+    "id": "nature-nbs-292",
+    "reason": "defines organic production"
+   },
+   {
+    "id": "nature-pol-186",
+    "reason": "allows an organic label"
+   }
+  ],
+  "nature-nbs-294": [
+   {
+    "id": "nature-nbs-292",
+    "reason": "price of organic food"
+   },
+   {
+    "id": "nature-econ-356",
+    "reason": "a price difference"
+   }
+  ],
+  "nature-nbs-295": [
+   {
+    "id": "nature-nbs-292",
+    "reason": "compares organic yields"
+   },
+   {
+    "id": "nature-es-108",
+    "reason": "whether organic farming could feed the world"
+   }
+  ],
+  "nature-nbs-297": [
+   {
+    "id": "nature-found-015",
+    "reason": "copies natural ecosystems"
+   },
+   {
+    "id": "nature-res-107",
+    "reason": "designs land use"
+   }
+  ],
+  "nature-nbs-298": [
+   {
+    "id": "nature-nbs-297",
+    "reason": "ethics of permaculture"
+   }
+  ],
+  "nature-nbs-299": [
+   {
+    "id": "nature-nbs-297",
+    "reason": "a permaculture layout"
+   }
+  ],
+  "nature-nbs-300": [
+   {
+    "id": "nature-nbs-297",
+    "reason": "a permaculture design unit"
+   },
+   {
+    "id": "nature-found-015",
+    "reason": "species working within an ecosystem"
+   }
+  ],
+  "nature-nbs-301": [
+   {
+    "id": "nature-nbs-297",
+    "reason": "a permaculture technique"
+   },
+   {
+    "id": "nature-eco-387",
+    "reason": "keeps soil moist"
+   }
+  ],
+  "nature-nbs-302": [
+   {
+    "id": "nature-nbs-297",
+    "reason": "a permaculture technique"
+   },
+   {
+    "id": "nature-eco-402",
+    "reason": "builds soil organic matter"
+   }
+  ],
+  "nature-nbs-303": [
+   {
+    "id": "nature-eco-275",
+    "reason": "catches water before runoff"
+   },
+   {
+    "id": "nature-res-101",
+    "reason": "stores water for use"
+   }
+  ],
+  "nature-nbs-304": [
+   {
+    "id": "nature-eco-360",
+    "reason": "manages grazing"
+   }
+  ],
+  "nature-nbs-305": [
+   {
+    "id": "nature-eco-264",
+    "reason": "prevents erosion"
+   },
+   {
+    "id": "nature-eco-398",
+    "reason": "prevents loss of fertility"
+   }
+  ],
+  "nature-nbs-306": [
+   {
+    "id": "nature-nbs-305",
+    "reason": "a soil conservation practice"
+   },
+   {
+    "id": "nature-eco-275",
+    "reason": "slows runoff"
+   }
+  ],
+  "nature-nbs-307": [
+   {
+    "id": "nature-nbs-305",
+    "reason": "a soil conservation practice"
+   },
+   {
+    "id": "nature-eco-264",
+    "reason": "checks erosion on slopes"
+   }
+  ],
+  "nature-nbs-308": [
+   {
+    "id": "nature-nbs-306",
+    "reason": "extends contour farming"
+   },
+   {
+    "id": "nature-res-119",
+    "reason": "across the whole watershed"
+   }
+  ],
+  "nature-nbs-309": [
+   {
+    "id": "nature-nbs-305",
+    "reason": "salt build-up degrades soil"
+   },
+   {
+    "id": "nature-eco-387",
+    "reason": "soil condition"
+   }
+  ],
+  "nature-nbs-310": [
+   {
+    "id": "nature-eco-387",
+    "reason": "the state of a soil"
+   },
+   {
+    "id": "nature-found-004",
+    "reason": "performs ecosystem functions"
+   }
+  ],
+  "nature-nbs-311": [
+   {
+    "id": "nature-nbs-310",
+    "reason": "measures soil health"
+   }
+  ],
+  "nature-pol-001": [
+   {
+    "id": "nature-econ-122",
+    "reason": "exchange of goods and services"
+   },
+   {
+    "id": "nature-econ-083",
+    "reason": "and capital"
+   },
+   {
+    "id": "nature-econ-369",
+    "reason": "to meet demand"
+   },
+   {
+    "id": "nature-econ-342",
+    "reason": "across national markets"
+   }
+  ],
+  "nature-pol-002": [
+   {
+    "id": "nature-pol-001",
+    "reason": "weighs imports against local production"
+   },
+   {
+    "id": "nature-econ-099",
+    "reason": "weighs environmental, economic and security trade-offs"
+   }
+  ],
+  "nature-pol-003": [
+   {
+    "id": "nature-pol-001",
+    "reason": "restrictions on trade"
+   },
+   {
+    "id": "nature-pol-205",
+    "reason": "subsidies are one such barrier"
+   }
+  ],
+  "nature-pol-004": [
+   {
+    "id": "nature-pol-003",
+    "reason": "a kind of non-tariff barrier"
+   },
+   {
+    "id": "nature-pol-162",
+    "reason": "environmental product standards"
+   }
+  ],
+  "nature-pol-005": [
+   {
+    "id": "nature-pol-003",
+    "reason": "a common non-tariff barrier"
+   },
+   {
+    "id": "nature-pol-001",
+    "reason": "limits imports"
+   }
+  ],
+  "nature-pol-006": [
+   {
+    "id": "nature-pol-001",
+    "reason": "firms invest and trade abroad"
+   },
+   {
+    "id": "nature-econ-106",
+    "reason": "weak rules act as a cost advantage"
+   },
+   {
+    "id": "nature-pol-162",
+    "reason": "countries with weak environmental standards"
+   },
+   {
+    "id": "nature-found-079",
+    "reason": "become havens for pollution"
+   }
+  ],
+  "nature-pol-007": [
+   {
+    "id": "nature-pol-001",
+    "reason": "regulates international trade"
+   }
+  ],
+  "nature-pol-008": [
+   {
+    "id": "nature-pol-007",
+    "reason": "provisions in WTO agreements"
+   },
+   {
+    "id": "nature-pol-003",
+    "reason": "measures must not be disguised trade barriers"
+   }
+  ],
+  "nature-pol-009": [
+   {
+    "id": "nature-pol-007",
+    "reason": "a WTO rule"
+   },
+   {
+    "id": "nature-pol-001",
+    "reason": "applies to imports"
+   }
+  ],
+  "nature-pol-010": [
+   {
+    "id": "nature-pol-007",
+    "reason": "criticisms of the WTO"
+   },
+   {
+    "id": "nature-econ-478",
+    "reason": "claims about growth"
+   },
+   {
+    "id": "nature-econ-494",
+    "reason": "and fair sharing of gains"
+   }
+  ],
+  "nature-pol-011": [
+   {
+    "id": "nature-pol-001",
+    "reason": "international trade"
+   },
+   {
+    "id": "nature-pol-054",
+    "reason": "often in hazardous waste"
+   }
+  ],
+  "nature-pol-012": [
+   {
+    "id": "nature-pol-011",
+    "reason": "argument for the waste trade"
+   },
+   {
+    "id": "nature-pol-054",
+    "reason": "about hazardous waste"
+   },
+   {
+    "id": "nature-econ-106",
+    "reason": "exploits cost differences between countries"
+   }
+  ],
+  "nature-pol-013": [
+   {
+    "id": "nature-pol-011",
+    "reason": "dumping via the waste trade"
+   },
+   {
+    "id": "nature-pol-054",
+    "reason": "of hazardous waste"
+   }
+  ],
+  "nature-pol-014": [
+   {
+    "id": "nature-pol-011",
+    "reason": "a part of the waste trade"
+   }
+  ],
+  "nature-pol-015": [
+   {
+    "id": "nature-pol-011",
+    "reason": "ships sent abroad as waste"
+   },
+   {
+    "id": "nature-pol-054",
+    "reason": "ships contain hazardous materials"
+   }
+  ],
+  "nature-pol-016": [
+   {
+    "id": "nature-pol-011",
+    "reason": "a part of the waste trade"
+   }
+  ],
+  "nature-pol-017": [
+   {
+    "id": "nature-gov-129",
+    "reason": "a reaction to the Basel Convention (later part; genuinely needed)"
+   },
+   {
+    "id": "nature-pol-011",
+    "reason": "restricts the waste trade"
+   },
+   {
+    "id": "nature-pol-054",
+    "reason": "bans hazardous waste imports"
+   }
+  ]
+ }
+}

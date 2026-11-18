@@ -1,0 +1,2941 @@
+{
+ "entries": {
+  "nature-eco-155": [
+   {
+    "id": "nature-eco-154",
+    "reason": "the debate is about legalizing wildlife trade"
+   },
+   {
+    "id": "nature-mkt-001",
+    "reason": "CITES is the regime that controls this trade"
+   },
+   {
+    "id": "nature-eco-309",
+    "reason": "the debate turns on conservation of endangered species"
+   }
+  ],
+  "nature-eco-156": [
+   {
+    "id": "nature-eco-118",
+    "reason": "forest genetic resources are a case of genetic diversity"
+   }
+  ],
+  "nature-eco-157": [
+   {
+    "id": "nature-hist-007",
+    "reason": "the entry is about effects of climate change"
+   },
+   {
+    "id": "nature-eco-035",
+    "reason": "disease spread is discussed alongside biodiversity loss"
+   }
+  ],
+  "nature-gov-059": [
+   {
+    "id": "nature-eecon-208",
+    "reason": "sustainable business applies sustainability to firms"
+   },
+   {
+    "id": "nature-acct-114",
+    "reason": "balancing profit, environment and society is the triple bottom line"
+   },
+   {
+    "id": "nature-econ-409",
+    "reason": "a sustainable business still has to make a profit"
+   }
+  ],
+  "nature-gov-060": [
+   {
+    "id": "nature-gov-067",
+    "reason": "corporate environmental responsibility is the environmental side of CSR"
+   }
+  ],
+  "nature-gov-062": [
+   {
+    "id": "nature-gov-059",
+    "reason": "strategies to pursue sustainable business"
+   },
+   {
+    "id": "nature-econ-409",
+    "reason": "strategies aim at new revenue and protecting profit"
+   }
+  ],
+  "nature-gov-063": [
+   {
+    "id": "nature-gov-059",
+    "reason": "the social side of sustainable business"
+   },
+   {
+    "id": "nature-gov-067",
+    "reason": "responsibility toward employees and community is CSR"
+   }
+  ],
+  "nature-gov-064": [
+   {
+    "id": "nature-gov-059",
+    "reason": "debate about the payoff of sustainable business"
+   },
+   {
+    "id": "nature-econ-409",
+    "reason": "asks whether sustainability raises or lowers profits"
+   }
+  ],
+  "nature-gov-065": [
+   {
+    "id": "nature-gov-060",
+    "reason": "contrasts with genuine corporate environmental responsibility"
+   },
+   {
+    "id": "nature-econ-363",
+    "reason": "firms back rules that hurt competitors"
+   }
+  ],
+  "nature-gov-066": [
+   {
+    "id": "nature-acct-050",
+    "reason": "design counts impacts across the whole life cycle"
+   },
+   {
+    "id": "nature-gov-059",
+    "reason": "a design practice of sustainable business"
+   }
+  ],
+  "nature-gov-067": [
+   {
+    "id": "nature-gov-068",
+    "reason": "CSR rests on firms answering to stakeholders"
+   },
+   {
+    "id": "nature-eecon-208",
+    "reason": "CSR means running the business sustainably"
+   }
+  ],
+  "nature-gov-068": [],
+  "nature-gov-069": [
+   {
+    "id": "nature-gov-067",
+    "reason": "a framework of CSR"
+   }
+  ],
+  "nature-gov-070": [
+   {
+    "id": "nature-gov-067",
+    "reason": "one side of the debate is CSR"
+   },
+   {
+    "id": "nature-gov-068",
+    "reason": "the opposing view to shareholder primacy is stakeholder theory"
+   }
+  ],
+  "nature-gov-071": [
+   {
+    "id": "nature-gov-068",
+    "reason": "the licence is granted by stakeholders"
+   },
+   {
+    "id": "nature-gov-067",
+    "reason": "linked to firms' social responsibility"
+   }
+  ],
+  "nature-gov-072": [
+   {
+    "id": "nature-gov-067",
+    "reason": "the initiatives are ways of practising CSR"
+   }
+  ],
+  "nature-gov-073": [
+   {
+    "id": "nature-gov-067",
+    "reason": "social accounting reports on CSR effects"
+   },
+   {
+    "id": "nature-gov-068",
+    "reason": "reports go to interest groups, i.e. stakeholders"
+   }
+  ],
+  "nature-gov-074": [
+   {
+    "id": "nature-gov-067",
+    "reason": "investors reward responsible corporate behaviour"
+   }
+  ],
+  "nature-gov-075": [
+   {
+    "id": "nature-gov-067",
+    "reason": "a criticism of CSR programs"
+   }
+  ],
+  "nature-gov-076": [
+   {
+    "id": "nature-gov-067",
+    "reason": "judges costs and benefits of CSR"
+   },
+   {
+    "id": "nature-econ-363",
+    "reason": "asks about competitive advantage over rivals"
+   }
+  ],
+  "nature-gov-077": [
+   {
+    "id": "nature-gov-067",
+    "reason": "consumers reward responsible firms"
+   }
+  ],
+  "nature-gov-078": [
+   {
+    "id": "nature-gov-077",
+    "reason": "the gap between stated ethical consumerism and purchases"
+   },
+   {
+    "id": "nature-gov-067",
+    "reason": "paradox concerns buying from responsible companies"
+   }
+  ],
+  "nature-gov-079": [
+   {
+    "id": "nature-eco-035",
+    "reason": "the goal is to halt and reverse biodiversity loss"
+   },
+   {
+    "id": "nature-gov-024",
+    "reason": "the 2030/2050 targets come from the Kunming-Montreal framework"
+   },
+   {
+    "id": "nature-mkt-132",
+    "reason": "builds on the no-net-loss idea"
+   }
+  ],
+  "nature-gov-081": [
+   {
+    "id": "nature-gov-079",
+    "reason": "mainstreaming serves nature-positive goals"
+   },
+   {
+    "id": "nature-gov-092",
+    "reason": "building nature into corporate strategy and governance"
+   }
+  ],
+  "nature-gov-082": [
+   {
+    "id": "nature-gov-059",
+    "reason": "applies sustainable business across supply chains"
+   },
+   {
+    "id": "nature-acct-050",
+    "reason": "manages effects across the whole life cycle"
+   }
+  ],
+  "nature-gov-083": [
+   {
+    "id": "nature-gov-082",
+    "reason": "audits enforce supply chain sustainability"
+   }
+  ],
+  "nature-gov-084": [
+   {
+    "id": "nature-gov-082",
+    "reason": "transparency supports supply chain sustainability"
+   }
+  ],
+  "nature-gov-085": [
+   {
+    "id": "nature-eco-163",
+    "reason": "scope 3 is a category of greenhouse gas emissions"
+   },
+   {
+    "id": "nature-gov-082",
+    "reason": "counts emissions across the value chain"
+   },
+   {
+    "id": "nature-gov-109",
+    "reason": "the scopes are defined by the GHG Protocol"
+   }
+  ],
+  "nature-gov-086": [
+   {
+    "id": "nature-gov-102",
+    "reason": "double materiality is a reporting principle"
+   }
+  ],
+  "nature-gov-087": [
+   {
+    "id": "nature-clim-074",
+    "reason": "targets set in line with the Paris goals"
+   },
+   {
+    "id": "nature-clim-149",
+    "reason": "targets for mitigation"
+   },
+   {
+    "id": "nature-gov-085",
+    "reason": "targets cover value-chain emissions"
+   }
+  ],
+  "nature-gov-088": [
+   {
+    "id": "nature-gov-087",
+    "reason": "insetting is a way to claim emission targets met"
+   },
+   {
+    "id": "nature-mkt-081",
+    "reason": "contrasted with buying carbon credits"
+   }
+  ],
+  "nature-gov-089": [
+   {
+    "id": "nature-hist-007",
+    "reason": "business responses to climate change"
+   },
+   {
+    "id": "nature-clim-149",
+    "reason": "includes cutting own emissions"
+   },
+   {
+    "id": "nature-gov-060",
+    "reason": "an expression of corporate environmental responsibility"
+   },
+   {
+    "id": "nature-clim-056",
+    "reason": "firms tried to influence the Kyoto Protocol"
+   }
+  ],
+  "nature-gov-091": [
+   {
+    "id": "nature-clim-136",
+    "reason": "the threshold is judged against the carbon budget"
+   },
+   {
+    "id": "nature-eco-163",
+    "reason": "measured in potential emissions of CO2"
+   }
+  ],
+  "nature-gov-092": [
+   {
+    "id": "nature-gov-067",
+    "reason": "corporate sustainability extends CSR into strategy"
+   },
+   {
+    "id": "nature-eecon-209",
+    "reason": "applies sustainable development to firms"
+   },
+   {
+    "id": "nature-gov-068",
+    "reason": "aims at long-term value for stakeholders"
+   }
+  ],
+  "nature-gov-093": [
+   {
+    "id": "nature-gov-092",
+    "reason": "ratios used in corporate sustainability"
+   },
+   {
+    "id": "nature-acct-114",
+    "reason": "compares economic value with ecological and social impact"
+   }
+  ],
+  "nature-gov-094": [
+   {
+    "id": "nature-gov-067",
+    "reason": "shared value is pitched as an alternative to CSR"
+   },
+   {
+    "id": "nature-found-031",
+    "reason": "social problems tied to operations are externalities"
+   },
+   {
+    "id": "nature-econ-409",
+    "reason": "the company seeks profit"
+   }
+  ],
+  "nature-gov-095": [
+   {
+    "id": "nature-gov-094",
+    "reason": "inclusive business is a form of shared value"
+   }
+  ],
+  "nature-gov-096": [
+   {
+    "id": "nature-mkt-018",
+    "reason": "the taxonomy steers sustainable finance"
+   },
+   {
+    "id": "nature-nbs-075",
+    "reason": "meant to guard against greenwashing"
+   },
+   {
+    "id": "nature-gov-135",
+    "reason": "created under the European Green Deal"
+   },
+   {
+    "id": "nature-clim-149",
+    "reason": "mitigation is one of its objectives"
+   }
+  ],
+  "nature-gov-097": [
+   {
+    "id": "nature-gov-096",
+    "reason": "a rule of the EU taxonomy"
+   }
+  ],
+  "nature-gov-098": [
+   {
+    "id": "nature-gov-096",
+    "reason": "dispute over labels in the EU taxonomy"
+   },
+   {
+    "id": "nature-gov-097",
+    "reason": "turns on whether gas and nuclear do significant harm"
+   }
+  ],
+  "nature-gov-099": [
+   {
+    "id": "nature-gov-100",
+    "reason": "audits check the environmental management system"
+   }
+  ],
+  "nature-gov-100": [
+   {
+    "id": "nature-found-079",
+    "reason": "systems monitor environmental performance such as pollution"
+   }
+  ],
+  "nature-eecon-021": [
+   {
+    "id": "nature-eecon-019",
+    "reason": "MFCA applies material flow analysis"
+   },
+   {
+    "id": "nature-gov-100",
+    "reason": "a management tool alongside environmental management systems"
+   }
+  ],
+  "nature-gov-102": [
+   {
+    "id": "nature-gov-067",
+    "reason": "reporting discloses a company's CSR performance"
+   },
+   {
+    "id": "nature-mkt-040",
+    "reason": "non-financial information is largely ESG information"
+   }
+  ],
+  "nature-gov-103": [
+   {
+    "id": "nature-gov-102",
+    "reason": "the directive sets rules for sustainability reporting"
+   },
+   {
+    "id": "nature-gov-086",
+    "reason": "the directive's reporting standards use double materiality"
+   }
+  ],
+  "nature-gov-104": [
+   {
+    "id": "nature-gov-082",
+    "reason": "sourcing is part of supply chain sustainability"
+   },
+   {
+    "id": "nature-gov-067",
+    "reason": "sourcing responsibly is a CSR practice"
+   }
+  ],
+  "nature-gov-105": [
+   {
+    "id": "nature-gov-104",
+    "reason": "standards set requirements for sustainable sourcing"
+   },
+   {
+    "id": "nature-gov-082",
+    "reason": "adopted along the value chain"
+   }
+  ],
+  "nature-gov-106": [
+   {
+    "id": "nature-gov-105",
+    "reason": "initiatives run voluntary sustainability standards"
+   },
+   {
+    "id": "nature-gov-068",
+    "reason": "partnerships bring stakeholder groups together"
+   }
+  ],
+  "nature-gov-107": [
+   {
+    "id": "nature-gov-102",
+    "reason": "the task force sets disclosure recommendations"
+   },
+   {
+    "id": "nature-hist-007",
+    "reason": "disclosures concern risks of climate change"
+   }
+  ],
+  "nature-gov-108": [
+   {
+    "id": "nature-gov-107",
+    "reason": "the two-way split comes from TCFD disclosure"
+   },
+   {
+    "id": "nature-hist-007",
+    "reason": "physical risk comes from climate impacts"
+   },
+   {
+    "id": "nature-eco-001",
+    "reason": "physical risks include extreme weather"
+   },
+   {
+    "id": "nature-clim-149",
+    "reason": "transition risk arises from moving to low carbon"
+   }
+  ],
+  "nature-gov-109": [
+   {
+    "id": "nature-eco-163",
+    "reason": "the protocol measures greenhouse gas emissions"
+   },
+   {
+    "id": "nature-acct-031",
+    "reason": "used to compute carbon footprints"
+   }
+  ],
+  "nature-econ-082": [
+   {
+    "id": "nature-found-044",
+    "reason": "land is a term of economics"
+   }
+  ],
+  "nature-econ-083": [
+   {
+    "id": "nature-econ-119",
+    "reason": "capital is a kind of produced durable good"
+   },
+   {
+    "id": "nature-found-044",
+    "reason": "capital is a term of economics"
+   }
+  ],
+  "nature-econ-084": [
+   {
+    "id": "nature-econ-083",
+    "reason": "types are kinds of capital"
+   },
+   {
+    "id": "nature-found-010",
+    "reason": "natural capital is one of the types"
+   }
+  ],
+  "nature-econ-085": [
+   {
+    "id": "nature-econ-083",
+    "reason": "a split of capital"
+   }
+  ],
+  "nature-econ-086": [
+   {
+    "id": "nature-econ-122",
+    "reason": "factors are inputs to goods and services"
+   },
+   {
+    "id": "nature-econ-082",
+    "reason": "land is one factor"
+   },
+   {
+    "id": "nature-econ-083",
+    "reason": "capital is one factor"
+   }
+  ],
+  "nature-econ-087": [
+   {
+    "id": "nature-econ-086",
+    "reason": "replaces the usual factors of production"
+   },
+   {
+    "id": "nature-found-039",
+    "reason": "a proposal of ecological economics"
+   }
+  ],
+  "nature-econ-088": [
+   {
+    "id": "nature-econ-086",
+    "reason": "proposed as a fourth factor of production"
+   },
+   {
+    "id": "nature-econ-082",
+    "reason": "entrepreneurs combine land with other factors"
+   },
+   {
+    "id": "nature-econ-083",
+    "reason": "and capital"
+   }
+  ],
+  "nature-econ-089": [
+   {
+    "id": "nature-found-044",
+    "reason": "incentives shape economic behaviour"
+   }
+  ],
+  "nature-econ-091": [
+   {
+    "id": "nature-econ-100",
+    "reason": "marginal utility is extra utility from one more unit"
+   },
+   {
+    "id": "nature-econ-128",
+    "reason": "it is utility at the margin"
+   }
+  ],
+  "nature-econ-092": [
+   {
+    "id": "nature-econ-091",
+    "reason": "the law concerns marginal utility"
+   }
+  ],
+  "nature-econ-094": [
+   {
+    "id": "nature-econ-091",
+    "reason": "spread of marginal utility theory"
+   },
+   {
+    "id": "nature-econ-131",
+    "reason": "the revolution founded marginalism"
+   },
+   {
+    "id": "nature-econ-130",
+    "reason": "it displaced the labour theory of value"
+   }
+  ],
+  "nature-econ-095": [
+   {
+    "id": "nature-found-051",
+    "reason": "limited resources force the choice"
+   },
+   {
+    "id": "nature-econ-099",
+    "reason": "the cost is what is given up in a trade-off"
+   }
+  ],
+  "nature-econ-096": [
+   {
+    "id": "nature-econ-095",
+    "reason": "explicit costs are contrasted with opportunity costs"
+   }
+  ],
+  "nature-econ-097": [
+   {
+    "id": "nature-econ-095",
+    "reason": "economic profit subtracts opportunity costs"
+   },
+   {
+    "id": "nature-econ-096",
+    "reason": "accounting profit counts explicit costs"
+   },
+   {
+    "id": "nature-econ-124",
+    "reason": "the difference is implicit cost"
+   },
+   {
+    "id": "nature-econ-114",
+    "reason": "economic profit counts the full economic cost"
+   }
+  ],
+  "nature-econ-098": [
+   {
+    "id": "nature-econ-100",
+    "reason": "rational agents maximize utility"
+   },
+   {
+    "id": "nature-econ-141",
+    "reason": "choices follow preferences"
+   },
+   {
+    "id": "nature-econ-095",
+    "reason": "weighs costs and benefits of alternatives"
+   }
+  ],
+  "nature-econ-099": [
+   {
+    "id": "nature-found-051",
+    "reason": "trade-offs arise from scarcity"
+   }
+  ],
+  "nature-econ-100": [
+   {
+    "id": "nature-found-044",
+    "reason": "utility is a basic term of economics"
+   }
+  ],
+  "nature-econ-101": [
+   {
+    "id": "nature-econ-100",
+    "reason": "a way of measuring utility"
+   },
+   {
+    "id": "nature-econ-139",
+    "reason": "contrasted with ordinal utility"
+   }
+  ],
+  "nature-econ-102": [
+   {
+    "id": "nature-econ-119",
+    "reason": "the set of goods affordable"
+   },
+   {
+    "id": "nature-econ-095",
+    "reason": "the line shows opportunity cost between goods"
+   },
+   {
+    "id": "nature-found-051",
+    "reason": "limited income is scarcity"
+   }
+  ],
+  "nature-econ-103": [
+   {
+    "id": "nature-econ-102",
+    "reason": "extends the budget constraint across periods"
+   }
+  ],
+  "nature-econ-104": [
+   {
+    "id": "nature-econ-102",
+    "reason": "a budget constraint that is not binding"
+   }
+  ],
+  "nature-econ-105": [],
+  "nature-econ-106": [
+   {
+    "id": "nature-econ-095",
+    "reason": "comparative advantage is defined by opportunity cost"
+   },
+   {
+    "id": "nature-econ-151",
+    "reason": "contrasted with absolute advantage"
+   }
+  ],
+  "nature-econ-107": [
+   {
+    "id": "nature-econ-100",
+    "reason": "keeps the person at the same utility"
+   },
+   {
+    "id": "nature-econ-110",
+    "reason": "built on consumer choice under price changes"
+   }
+  ],
+  "nature-econ-108": [
+   {
+    "id": "nature-econ-119",
+    "reason": "a relation between goods"
+   },
+   {
+    "id": "nature-econ-141",
+    "reason": "defined by how preferences link goods"
+   }
+  ],
+  "nature-econ-411": [
+   {
+    "id": "nature-econ-119",
+    "reason": "a relation between goods"
+   },
+   {
+    "id": "nature-econ-141",
+    "reason": "goods that preferences treat as replaceable"
+   }
+  ],
+  "nature-econ-110": [
+   {
+    "id": "nature-econ-100",
+    "reason": "consumers maximize utility"
+   },
+   {
+    "id": "nature-econ-102",
+    "reason": "choice under a budget constraint"
+   },
+   {
+    "id": "nature-econ-141",
+    "reason": "preferences shape spending"
+   },
+   {
+    "id": "nature-econ-134",
+    "reason": "a part of microeconomics"
+   }
+  ],
+  "nature-econ-111": [
+   {
+    "id": "nature-econ-110",
+    "reason": "an effect within consumer choice"
+   },
+   {
+    "id": "nature-econ-102",
+    "reason": "real income shifts the budget constraint"
+   },
+   {
+    "id": "nature-econ-138",
+    "reason": "normal goods respond positively to income"
+   },
+   {
+    "id": "nature-econ-126",
+    "reason": "inferior goods respond negatively"
+   }
+  ],
+  "nature-econ-112": [
+   {
+    "id": "nature-found-044",
+    "reason": "definitions of economics"
+   },
+   {
+    "id": "nature-found-051",
+    "reason": "modern definition centres on scarcity"
+   }
+  ],
+  "nature-econ-113": [
+   {
+    "id": "nature-econ-086",
+    "reason": "adds more of one input"
+   },
+   {
+    "id": "nature-econ-105",
+    "reason": "other inputs held fixed"
+   },
+   {
+    "id": "nature-econ-128",
+    "reason": "concerns extra output at the margin"
+   }
+  ],
+  "nature-econ-114": [
+   {
+    "id": "nature-econ-095",
+    "reason": "includes opportunities passed over"
+   },
+   {
+    "id": "nature-econ-096",
+    "reason": "includes out-of-pocket costs"
+   },
+   {
+    "id": "nature-econ-124",
+    "reason": "includes implicit costs"
+   }
+  ],
+  "nature-econ-115": [
+   {
+    "id": "nature-found-051",
+    "reason": "the questions arise from scarcity"
+   },
+   {
+    "id": "nature-found-044",
+    "reason": "the core questions of economics"
+   }
+  ],
+  "nature-econ-116": [
+   {
+    "id": "nature-econ-107",
+    "reason": "the twin measure to compensating variation"
+   },
+   {
+    "id": "nature-econ-100",
+    "reason": "measures a change in well-being"
+   }
+  ],
+  "nature-econ-117": [
+   {
+    "id": "nature-econ-100",
+    "reason": "targets a fixed level of utility"
+   },
+   {
+    "id": "nature-econ-102",
+    "reason": "spending at given prices"
+   },
+   {
+    "id": "nature-econ-150",
+    "reason": "the dual of the utility maximization problem"
+   }
+  ],
+  "nature-econ-118": [
+   {
+    "id": "nature-found-051",
+    "reason": "a free good is not scarce"
+   },
+   {
+    "id": "nature-econ-095",
+    "reason": "it has no opportunity cost"
+   },
+   {
+    "id": "nature-econ-119",
+    "reason": "a kind of good"
+   }
+  ],
+  "nature-econ-119": [
+   {
+    "id": "nature-econ-100",
+    "reason": "goods give satisfaction, i.e. utility"
+   },
+   {
+    "id": "nature-found-044",
+    "reason": "a basic term of economics"
+   }
+  ],
+  "nature-econ-120": [
+   {
+    "id": "nature-econ-119",
+    "reason": "a bad is the opposite of a good"
+   }
+  ],
+  "nature-econ-121": [
+   {
+    "id": "nature-econ-119",
+    "reason": "a classification of goods"
+   }
+  ],
+  "nature-econ-122": [
+   {
+    "id": "nature-econ-119",
+    "reason": "goods contrasted with services"
+   }
+  ],
+  "nature-econ-123": [
+   {
+    "id": "nature-econ-117",
+    "reason": "the function solves expenditure minimization"
+   },
+   {
+    "id": "nature-econ-125",
+    "reason": "holds the consumer on one indifference curve"
+   }
+  ],
+  "nature-econ-124": [
+   {
+    "id": "nature-econ-095",
+    "reason": "an implicit cost is an opportunity cost"
+   },
+   {
+    "id": "nature-econ-086",
+    "reason": "the cost of using one's own resources such as land or capital"
+   }
+  ],
+  "nature-econ-125": [
+   {
+    "id": "nature-econ-141",
+    "reason": "joins bundles the consumer ranks equally"
+   },
+   {
+    "id": "nature-econ-100",
+    "reason": "each curve is a level of utility"
+   },
+   {
+    "id": "nature-econ-119",
+    "reason": "combinations of two goods"
+   }
+  ],
+  "nature-econ-126": [
+   {
+    "id": "nature-econ-119",
+    "reason": "a kind of good"
+   },
+   {
+    "id": "nature-econ-110",
+    "reason": "defined by how consumers respond to income"
+   }
+  ],
+  "nature-econ-389": [
+   {
+    "id": "nature-econ-126",
+    "reason": "a Giffen good is a kind of inferior good"
+   },
+   {
+    "id": "nature-econ-111",
+    "reason": "explained by a strong income effect"
+   },
+   {
+    "id": "nature-econ-147",
+    "reason": "outweighing the substitution effect"
+   },
+   {
+    "id": "nature-econ-388",
+    "reason": "it breaks the law of demand"
+   }
+  ],
+  "nature-econ-128": [
+   {
+    "id": "nature-econ-119",
+    "reason": "the margin is one more unit of a good"
+   },
+   {
+    "id": "nature-econ-095",
+    "reason": "marginal choices weigh what is given up"
+   }
+  ],
+  "nature-econ-129": [
+   {
+    "id": "nature-econ-125",
+    "reason": "MRS is the slope of an indifference curve"
+   },
+   {
+    "id": "nature-econ-091",
+    "reason": "equals the ratio of marginal utilities"
+   }
+  ],
+  "nature-econ-130": [
+   {
+    "id": "nature-econ-156",
+    "reason": "a theory of economic value"
+   },
+   {
+    "id": "nature-econ-086",
+    "reason": "labour is a factor of production"
+   }
+  ],
+  "nature-econ-131": [
+   {
+    "id": "nature-econ-128",
+    "reason": "marginalism reasons at the margin"
+   },
+   {
+    "id": "nature-econ-091",
+    "reason": "explains value by marginal utility"
+   },
+   {
+    "id": "nature-econ-156",
+    "reason": "a theory of economic value"
+   }
+  ],
+  "nature-econ-132": [
+   {
+    "id": "nature-econ-131",
+    "reason": "a criticism of marginalism"
+   },
+   {
+    "id": "nature-econ-130",
+    "reason": "from the labour theory of value"
+   }
+  ],
+  "nature-econ-133": [
+   {
+    "id": "nature-econ-150",
+    "reason": "the function solves utility maximization"
+   },
+   {
+    "id": "nature-econ-102",
+    "reason": "depends on income and prices"
+   },
+   {
+    "id": "nature-econ-110",
+    "reason": "formalizes consumer choice"
+   }
+  ],
+  "nature-econ-134": [
+   {
+    "id": "nature-found-044",
+    "reason": "a branch of economics"
+   },
+   {
+    "id": "nature-found-051",
+    "reason": "studies the use of scarce resources"
+   }
+  ],
+  "nature-econ-135": [
+   {
+    "id": "nature-econ-114",
+    "reason": "a split of economic cost"
+   },
+   {
+    "id": "nature-econ-086",
+    "reason": "costs of inputs used in production"
+   }
+  ],
+  "nature-econ-136": [
+   {
+    "id": "nature-econ-156",
+    "reason": "a theory of economic value"
+   },
+   {
+    "id": "nature-econ-086",
+    "reason": "price set by the cost of resources used"
+   },
+   {
+    "id": "nature-econ-114",
+    "reason": "value equals cost of production"
+   }
+  ],
+  "nature-econ-137": [
+   {
+    "id": "nature-econ-134",
+    "reason": "market structure is a topic of microeconomics"
+   },
+   {
+    "id": "nature-econ-342",
+    "reason": "describes features of a market"
+   }
+  ],
+  "nature-econ-138": [
+   {
+    "id": "nature-econ-119",
+    "reason": "a kind of good"
+   },
+   {
+    "id": "nature-econ-110",
+    "reason": "defined by how consumers respond to income"
+   }
+  ],
+  "nature-econ-139": [
+   {
+    "id": "nature-econ-100",
+    "reason": "a way of treating utility"
+   },
+   {
+    "id": "nature-econ-141",
+    "reason": "ranks options by preference"
+   }
+  ],
+  "nature-econ-140": [
+   {
+    "id": "nature-found-044",
+    "reason": "a distinction within economics"
+   }
+  ],
+  "nature-econ-141": [
+   {
+    "id": "nature-found-044",
+    "reason": "a basic term of economics"
+   }
+  ],
+  "nature-econ-142": [
+   {
+    "id": "nature-econ-141",
+    "reason": "a property of preferences"
+   },
+   {
+    "id": "nature-econ-125",
+    "reason": "shown by the shape of indifference curves"
+   }
+  ],
+  "nature-econ-143": [
+   {
+    "id": "nature-found-051",
+    "reason": "the frontier marks the limit set by scarce resources"
+   },
+   {
+    "id": "nature-econ-095",
+    "reason": "its slope shows opportunity cost"
+   },
+   {
+    "id": "nature-econ-086",
+    "reason": "all factors of production used fully"
+   }
+  ],
+  "nature-econ-144": [
+   {
+    "id": "nature-econ-143",
+    "reason": "the slope of the frontier"
+   },
+   {
+    "id": "nature-econ-095",
+    "reason": "measures opportunity cost"
+   },
+   {
+    "id": "nature-econ-128",
+    "reason": "a marginal concept"
+   }
+  ],
+  "nature-econ-145": [
+   {
+    "id": "nature-econ-147",
+    "reason": "splits demand change into substitution effect"
+   },
+   {
+    "id": "nature-econ-111",
+    "reason": "and income effect"
+   },
+   {
+    "id": "nature-econ-133",
+    "reason": "links Marshallian demand"
+   },
+   {
+    "id": "nature-econ-123",
+    "reason": "to Hicksian demand"
+   }
+  ],
+  "nature-econ-146": [
+   {
+    "id": "nature-econ-156",
+    "reason": "a theory of economic value"
+   },
+   {
+    "id": "nature-econ-091",
+    "reason": "grounded in marginal utility"
+   },
+   {
+    "id": "nature-econ-130",
+    "reason": "contrasted with the labour theory of value"
+   }
+  ],
+  "nature-econ-147": [
+   {
+    "id": "nature-econ-110",
+    "reason": "an effect within consumer choice"
+   },
+   {
+    "id": "nature-econ-102",
+    "reason": "relative prices tilt the budget constraint"
+   },
+   {
+    "id": "nature-econ-125",
+    "reason": "movement along an indifference curve"
+   }
+  ],
+  "nature-econ-148": [
+   {
+    "id": "nature-econ-114",
+    "reason": "a kind of cost that cannot be recovered"
+   }
+  ],
+  "nature-econ-149": [
+   {
+    "id": "nature-econ-148",
+    "reason": "the fallacy is honouring sunk costs"
+   }
+  ],
+  "nature-econ-150": [
+   {
+    "id": "nature-econ-100",
+    "reason": "maximizes utility"
+   },
+   {
+    "id": "nature-econ-102",
+    "reason": "subject to the budget constraint"
+   },
+   {
+    "id": "nature-econ-141",
+    "reason": "picks the most preferred bundle"
+   }
+  ],
+  "nature-econ-151": [
+   {
+    "id": "nature-econ-122",
+    "reason": "producing goods or services"
+   },
+   {
+    "id": "nature-econ-086",
+    "reason": "producing more from the same inputs"
+   }
+  ],
+  "nature-econ-152": [
+   {
+    "id": "nature-econ-105",
+    "reason": "models hold other things equal"
+   },
+   {
+    "id": "nature-found-044",
+    "reason": "a tool of economics"
+   }
+  ],
+  "nature-econ-153": [
+   {
+    "id": "nature-econ-115",
+    "reason": "an economic system answers the economic problem"
+   },
+   {
+    "id": "nature-econ-122",
+    "reason": "organizes production of goods and services"
+   }
+  ],
+  "nature-econ-154": [
+   {
+    "id": "nature-econ-153",
+    "reason": "a kind of economic system"
+   }
+  ],
+  "nature-hist-023": [
+   {
+    "id": "nature-econ-100",
+    "reason": "people maximize utility"
+   },
+   {
+    "id": "nature-econ-131",
+    "reason": "built on marginalism"
+   },
+   {
+    "id": "nature-econ-098",
+    "reason": "assumes rational choice"
+   },
+   {
+    "id": "nature-econ-134",
+    "reason": "the mainstream approach to microeconomics"
+   }
+  ],
+  "nature-econ-155": [
+   {
+    "id": "nature-hist-023",
+    "reason": "criticisms of neoclassical economics"
+   },
+   {
+    "id": "nature-econ-098",
+    "reason": "target its rational-choice assumptions"
+   }
+  ],
+  "nature-econ-156": [
+   {
+    "id": "nature-econ-119",
+    "reason": "value of goods and services"
+   },
+   {
+    "id": "nature-econ-100",
+    "reason": "benefit to an agent, i.e. utility"
+   }
+  ],
+  "nature-econ-157": [
+   {
+    "id": "nature-hist-023",
+    "reason": "contrasted with neoclassical economics"
+   },
+   {
+    "id": "nature-econ-153",
+    "reason": "institutions shape the economic system"
+   }
+  ],
+  "nature-pol-018": [
+   {
+    "id": "nature-found-045",
+    "reason": "policy responds to market failure"
+   },
+   {
+    "id": "nature-found-031",
+    "reason": "environmental problems are externalities"
+   },
+   {
+    "id": "nature-found-023",
+    "reason": "policy deals with environmental degradation"
+   }
+  ],
+  "nature-pol-019": [
+   {
+    "id": "nature-pol-018",
+    "reason": "instruments carry out environmental policy"
+   }
+  ],
+  "nature-pol-020": [
+   {
+    "id": "nature-pol-019",
+    "reason": "choosing among the instruments"
+   }
+  ],
+  "nature-pol-021": [
+   {
+    "id": "nature-pol-019",
+    "reason": "a mix of policy instruments"
+   }
+  ],
+  "nature-pol-022": [
+   {
+    "id": "nature-pol-018",
+    "reason": "the study of environmental policy"
+   }
+  ],
+  "nature-pol-023": [
+   {
+    "id": "nature-pol-018",
+    "reason": "integrates environmental policy into other areas"
+   }
+  ],
+  "nature-pol-024": [
+   {
+    "id": "nature-econ-091",
+    "reason": "equalizes marginal utility per unit of money"
+   },
+   {
+    "id": "nature-econ-102",
+    "reason": "allocates a fixed budget"
+   },
+   {
+    "id": "nature-econ-150",
+    "reason": "the condition that solves utility maximization"
+   }
+  ],
+  "nature-pol-025": [
+   {
+    "id": "nature-pol-239",
+    "reason": "an indirect form of carbon pricing"
+   },
+   {
+    "id": "nature-pol-081",
+    "reason": "contrasted with an explicit carbon tax"
+   },
+   {
+    "id": "nature-pol-253",
+    "reason": "and with emissions trading"
+   },
+   {
+    "id": "nature-eco-163",
+    "reason": "a cost placed on greenhouse gas emissions"
+   }
+  ],
+  "nature-pol-026": [
+   {
+    "id": "nature-econ-086",
+    "reason": "one input becomes relatively expensive"
+   },
+   {
+    "id": "nature-econ-356",
+    "reason": "driven by relative price changes"
+   }
+  ],
+  "nature-pol-027": [
+   {
+    "id": "nature-found-031",
+    "reason": "the tools target externalities"
+   },
+   {
+    "id": "nature-econ-089",
+    "reason": "they give polluters an incentive"
+   },
+   {
+    "id": "nature-econ-356",
+    "reason": "they work through prices"
+   },
+   {
+    "id": "nature-pol-018",
+    "reason": "a family of environmental policy tools"
+   }
+  ],
+  "nature-pol-028": [
+   {
+    "id": "nature-pol-027",
+    "reason": "compares two market-based instruments"
+   },
+   {
+    "id": "nature-pol-084",
+    "reason": "one side is a pollution tax"
+   },
+   {
+    "id": "nature-pol-253",
+    "reason": "the other is tradable permits"
+   }
+  ],
+  "nature-pol-029": [
+   {
+    "id": "nature-pol-027",
+    "reason": "one side of the comparison"
+   },
+   {
+    "id": "nature-pol-147",
+    "reason": "the other side is command and control"
+   }
+  ],
+  "nature-pol-030": [
+   {
+    "id": "nature-econ-098",
+    "reason": "applies rational choice to politics"
+   },
+   {
+    "id": "nature-econ-034",
+    "reason": "uses game theory"
+   },
+   {
+    "id": "nature-found-064",
+    "reason": "explains government failure"
+   }
+  ],
+  "nature-pol-032": [
+   {
+    "id": "nature-pol-030",
+    "reason": "a public choice theory"
+   },
+   {
+    "id": "nature-econ-098",
+    "reason": "voters act rationally given costs and benefits"
+   }
+  ],
+  "nature-pol-033": [
+   {
+    "id": "nature-pol-030",
+    "reason": "applies public choice to constitutions"
+   }
+  ],
+  "nature-eecon-001": [
+   {
+    "id": "nature-eecon-038",
+    "reason": "keeps materials in use through recycling and reuse"
+   },
+   {
+    "id": "nature-eecon-208",
+    "reason": "a sustainability strategy"
+   },
+   {
+    "id": "nature-econ-153",
+    "reason": "an economic system"
+   }
+  ],
+  "nature-eecon-002": [
+   {
+    "id": "nature-eecon-001",
+    "reason": "ranks circular economy strategies"
+   },
+   {
+    "id": "nature-eecon-022",
+    "reason": "extends the waste hierarchy"
+   }
+  ],
+  "nature-eecon-003": [
+   {
+    "id": "nature-eecon-001",
+    "reason": "critiques of the circular economy"
+   }
+  ],
+  "nature-eecon-004": [
+   {
+    "id": "nature-eecon-001",
+    "reason": "business models for the circular economy"
+   },
+   {
+    "id": "nature-econ-409",
+    "reason": "they must make money"
+   }
+  ],
+  "nature-eecon-005": [
+   {
+    "id": "nature-eecon-001",
+    "reason": "standards for applying circular principles"
+   }
+  ],
+  "nature-eecon-006": [
+   {
+    "id": "nature-eecon-001",
+    "reason": "a policy plan for circularity"
+   }
+  ],
+  "nature-eecon-007": [
+   {
+    "id": "nature-econ-478",
+    "reason": "serving growing economic needs"
+   },
+   {
+    "id": "nature-econ-483",
+    "reason": "material per unit of output"
+   },
+   {
+    "id": "nature-res-248",
+    "reason": "using less material input"
+   }
+  ],
+  "nature-eecon-008": [
+   {
+    "id": "nature-res-248",
+    "reason": "studies flows of materials from nature"
+   },
+   {
+    "id": "nature-eco-409",
+    "reason": "treats industry like ecosystem energy flows"
+   },
+   {
+    "id": "nature-found-015",
+    "reason": "analogy with ecosystems"
+   }
+  ],
+  "nature-eecon-009": [
+   {
+    "id": "nature-res-212",
+    "reason": "uses renewable biological resources"
+   },
+   {
+    "id": "nature-res-248",
+    "reason": "a natural-resource-based sector"
+   }
+  ],
+  "nature-eecon-010": [
+   {
+    "id": "nature-eecon-009",
+    "reason": "a kind of bioeconomy"
+   },
+   {
+    "id": "nature-eecon-001",
+    "reason": "run on circular principles"
+   }
+  ],
+  "nature-eecon-011": [
+   {
+    "id": "nature-eecon-009",
+    "reason": "ordering biomass use in the bioeconomy"
+   }
+  ],
+  "nature-eecon-012": [
+   {
+    "id": "nature-eecon-009",
+    "reason": "bio-based products"
+   }
+  ],
+  "nature-eecon-013": [
+   {
+    "id": "nature-eecon-001",
+    "reason": "a circular design approach"
+   },
+   {
+    "id": "nature-found-015",
+    "reason": "materials cycle like nutrients in ecosystems"
+   }
+  ],
+  "nature-eecon-014": [
+   {
+    "id": "nature-eecon-013",
+    "reason": "the cradle-to-cradle split of materials"
+   }
+  ],
+  "nature-eecon-015": [
+   {
+    "id": "nature-eecon-038",
+    "reason": "a form of recycling"
+   }
+  ],
+  "nature-eecon-016": [
+   {
+    "id": "nature-eecon-013",
+    "reason": "certifies against cradle-to-cradle criteria"
+   }
+  ],
+  "nature-eecon-017": [
+   {
+    "id": "nature-eecon-008",
+    "reason": "part of industrial ecology"
+   },
+   {
+    "id": "nature-eecon-001",
+    "reason": "one firm's waste becomes another's input"
+   }
+  ],
+  "nature-eecon-018": [
+   {
+    "id": "nature-eecon-017",
+    "reason": "parks practise industrial symbiosis"
+   }
+  ],
+  "nature-eecon-019": [
+   {
+    "id": "nature-eecon-008",
+    "reason": "a method of industrial ecology"
+   }
+  ],
+  "nature-eecon-022": [
+   {
+    "id": "nature-found-079",
+    "reason": "ranks ways to reduce waste and pollution"
+   }
+  ],
+  "nature-eecon-023": [
+   {
+    "id": "nature-eecon-022",
+    "reason": "the top of the waste hierarchy"
+   }
+  ],
+  "nature-eecon-024": [
+   {
+    "id": "nature-eecon-001",
+    "reason": "circular economy applied to clothing"
+   },
+   {
+    "id": "nature-eecon-038",
+    "reason": "items recycled or repurposed"
+   }
+  ],
+  "nature-eecon-025": [
+   {
+    "id": "nature-eecon-001",
+    "reason": "buying on circular principles"
+   },
+   {
+    "id": "nature-pol-234",
+    "reason": "a form of sustainable procurement"
+   }
+  ],
+  "nature-eecon-026": [
+   {
+    "id": "nature-eecon-009",
+    "reason": "infrastructure of the bioeconomy"
+   }
+  ],
+  "nature-eecon-027": [
+   {
+    "id": "nature-eecon-208",
+    "reason": "a sustainability strategy"
+   },
+   {
+    "id": "nature-eecon-028",
+    "reason": "impact counted over the whole life cycle"
+   },
+   {
+    "id": "nature-econ-122",
+    "reason": "providing goods and services"
+   }
+  ],
+  "nature-eecon-028": [
+   {
+    "id": "nature-found-023",
+    "reason": "reduces environmental impacts at each stage"
+   }
+  ],
+  "nature-eecon-029": [
+   {
+    "id": "nature-eecon-028",
+    "reason": "applies life cycle thinking to costs"
+   },
+   {
+    "id": "nature-econ-114",
+    "reason": "adds up all costs"
+   }
+  ],
+  "nature-eecon-030": [
+   {
+    "id": "nature-eecon-028",
+    "reason": "acts at life-cycle stages"
+   },
+   {
+    "id": "nature-pol-018",
+    "reason": "a policy approach"
+   }
+  ],
+  "nature-eecon-031": [
+   {
+    "id": "nature-econ-089",
+    "reason": "gives households an incentive to waste less"
+   },
+   {
+    "id": "nature-pol-095",
+    "reason": "applies polluter pays"
+   },
+   {
+    "id": "nature-pol-064",
+    "reason": "charges for municipal solid waste"
+   }
+  ],
+  "nature-eecon-032": [
+   {
+    "id": "nature-found-079",
+    "reason": "a kind of pollution"
+   },
+   {
+    "id": "nature-found-075",
+    "reason": "plastics as pollutants"
+   }
+  ],
+  "nature-eecon-033": [
+   {
+    "id": "nature-eecon-032",
+    "reason": "a form of plastic pollution"
+   }
+  ],
+  "nature-eecon-034": [
+   {
+    "id": "nature-eecon-028",
+    "reason": "responsibility across the life cycle"
+   }
+  ],
+  "nature-eecon-035": [
+   {
+    "id": "nature-eecon-034",
+    "reason": "a product stewardship tool"
+   },
+   {
+    "id": "nature-eecon-038",
+    "reason": "returned containers are reused or recycled"
+   },
+   {
+    "id": "nature-econ-089",
+    "reason": "the deposit is an incentive to return"
+   }
+  ],
+  "nature-eecon-036": [
+   {
+    "id": "nature-eecon-001",
+    "reason": "a circular business model"
+   },
+   {
+    "id": "nature-econ-122",
+    "reason": "combines goods and services"
+   }
+  ],
+  "nature-eecon-037": [
+   {
+    "id": "nature-eecon-036",
+    "reason": "selling product-service systems"
+   }
+  ],
+  "nature-eecon-038": [
+   {
+    "id": "nature-found-079",
+    "reason": "recycling reduces waste pollution"
+   }
+  ],
+  "nature-eecon-039": [
+   {
+    "id": "nature-eecon-038",
+    "reason": "types of recycling"
+   }
+  ],
+  "nature-eecon-040": [
+   {
+    "id": "nature-eecon-038",
+    "reason": "weighs the costs and benefits of recycling"
+   },
+   {
+    "id": "nature-found-031",
+    "reason": "benefits include avoided external costs"
+   },
+   {
+    "id": "nature-econ-114",
+    "reason": "costs counted include economic cost"
+   }
+  ],
+  "nature-eecon-041": [
+   {
+    "id": "nature-eecon-038",
+    "reason": "ways of gathering recyclables"
+   },
+   {
+    "id": "nature-pol-064",
+    "reason": "recyclables are drawn from municipal waste"
+   }
+  ],
+  "nature-eecon-042": [
+   {
+    "id": "nature-eecon-038",
+    "reason": "policies supporting recycling markets"
+   },
+   {
+    "id": "nature-econ-342",
+    "reason": "secures a market for recycled products"
+   }
+  ],
+  "nature-eecon-043": [
+   {
+    "id": "nature-eecon-001",
+    "reason": "a circular economy strategy"
+   },
+   {
+    "id": "nature-pol-066",
+    "reason": "rebuilds products from reused parts"
+   }
+  ],
+  "nature-eecon-044": [
+   {
+    "id": "nature-eecon-038",
+    "reason": "recovery includes recycling waste"
+   },
+   {
+    "id": "nature-pol-064",
+    "reason": "uses wastes as raw material"
+   }
+  ],
+  "nature-eecon-045": [
+   {
+    "id": "nature-eecon-044",
+    "reason": "resource recovery applied to wastewater"
+   }
+  ],
+  "nature-eecon-046": [
+   {
+    "id": "nature-eecon-044",
+    "reason": "a form of resource recovery for organic waste"
+   }
+  ],
+  "nature-eecon-048": [
+   {
+    "id": "nature-pol-066",
+    "reason": "a form of reuse"
+   }
+  ],
+  "nature-eecon-049": [
+   {
+    "id": "nature-econ-349",
+    "reason": "the debate is about makers' monopoly over repair"
+   },
+   {
+    "id": "nature-eecon-001",
+    "reason": "repair keeps products in use"
+   }
+  ],
+  "nature-eecon-050": [
+   {
+    "id": "nature-econ-153",
+    "reason": "a kind of economic system"
+   },
+   {
+    "id": "nature-eecon-001",
+    "reason": "shares goods to use them more fully"
+   }
+  ],
+  "nature-eecon-051": [
+   {
+    "id": "nature-eecon-028",
+    "reason": "materials managed across their life cycle"
+   },
+   {
+    "id": "nature-eecon-001",
+    "reason": "reuses materials productively"
+   }
+  ],
+  "nature-eecon-052": [
+   {
+    "id": "nature-res-248",
+    "reason": "resources are extracted"
+   },
+   {
+    "id": "nature-pol-064",
+    "reason": "and end up as waste"
+   }
+  ],
+  "nature-eecon-053": [
+   {
+    "id": "nature-eecon-038",
+    "reason": "contrasted with recycling"
+   },
+   {
+    "id": "nature-pol-066",
+    "reason": "a form of reuse adding value"
+   }
+  ],
+  "nature-eecon-054": [
+   {
+    "id": "nature-eecon-044",
+    "reason": "a form of resource recovery"
+   }
+  ],
+  "nature-eecon-055": [
+   {
+    "id": "nature-eecon-044",
+    "reason": "gives value to recovered waste"
+   },
+   {
+    "id": "nature-eecon-038",
+    "reason": "through reuse or recycling"
+   }
+  ],
+  "nature-eecon-056": [
+   {
+    "id": "nature-eecon-055",
+    "reason": "waste valorization applied to food"
+   }
+  ],
+  "nature-eecon-057": [
+   {
+    "id": "nature-eecon-038",
+    "reason": "goes beyond recycling"
+   },
+   {
+    "id": "nature-pol-066",
+    "reason": "products are reused or repurposed"
+   },
+   {
+    "id": "nature-eecon-022",
+    "reason": "prioritizes prevention in the waste hierarchy"
+   }
+  ],
+  "nature-eecon-058": [
+   {
+    "id": "nature-eecon-057",
+    "reason": "the hierarchy for zero waste"
+   },
+   {
+    "id": "nature-eecon-022",
+    "reason": "adapts the waste hierarchy"
+   }
+  ],
+  "nature-nbs-001": [
+   {
+    "id": "nature-nbs-161",
+    "reason": "a form of green infrastructure"
+   },
+   {
+    "id": "nature-nbs-019",
+    "reason": "cools against the urban heat island"
+   }
+  ],
+  "nature-nbs-002": [
+   {
+    "id": "nature-nbs-001",
+    "reason": "types of green roof"
+   }
+  ],
+  "nature-nbs-003": [
+   {
+    "id": "nature-nbs-001",
+    "reason": "a variant of the green roof"
+   },
+   {
+    "id": "nature-eco-294",
+    "reason": "replaces lost wildlife habitat"
+   }
+  ],
+  "nature-nbs-004": [
+   {
+    "id": "nature-nbs-001",
+    "reason": "combines a green roof"
+   },
+   {
+    "id": "nature-nbs-025",
+    "reason": "with a blue roof"
+   }
+  ],
+  "nature-nbs-005": [
+   {
+    "id": "nature-nbs-161",
+    "reason": "a form of green infrastructure"
+   }
+  ],
+  "nature-nbs-006": [
+   {
+    "id": "nature-nbs-007",
+    "reason": "a technique of urban forestry"
+   },
+   {
+    "id": "nature-eco-567",
+    "reason": "a small forest"
+   }
+  ],
+  "nature-nbs-007": [
+   {
+    "id": "nature-eco-567",
+    "reason": "managing urban trees and forests"
+   },
+   {
+    "id": "nature-nbs-019",
+    "reason": "trees improve the urban environment, e.g. heat"
+   },
+   {
+    "id": "nature-nbs-161",
+    "reason": "trees are green infrastructure"
+   }
+  ],
+  "nature-nbs-008": [
+   {
+    "id": "nature-nbs-007",
+    "reason": "street trees are managed by urban forestry"
+   }
+  ],
+  "nature-nbs-009": [
+   {
+    "id": "nature-nbs-161",
+    "reason": "green space is part of green infrastructure"
+   }
+  ],
+  "nature-nbs-010": [
+   {
+    "id": "nature-nbs-009",
+    "reason": "health benefits of urban green space"
+   },
+   {
+    "id": "nature-es-043",
+    "reason": "concerns mental and physical well-being"
+   }
+  ],
+  "nature-nbs-011": [
+   {
+    "id": "nature-nbs-009",
+    "reason": "unequal access to green space"
+   },
+   {
+    "id": "nature-found-058",
+    "reason": "parallels unequal exposure to environmental harm"
+   }
+  ],
+  "nature-nbs-013": [
+   {
+    "id": "nature-nbs-009",
+    "reason": "connects people with green space"
+   },
+   {
+    "id": "nature-es-043",
+    "reason": "aims at well-being"
+   }
+  ],
+  "nature-nbs-015": [
+   {
+    "id": "nature-nbs-013",
+    "reason": "a city built on biophilic design"
+   }
+  ],
+  "nature-nbs-016": [
+   {
+    "id": "nature-nbs-009",
+    "reason": "uses urban land and green space"
+   },
+   {
+    "id": "nature-es-108",
+    "reason": "contributes to food security"
+   }
+  ],
+  "nature-nbs-017": [
+   {
+    "id": "nature-nbs-016",
+    "reason": "a form of urban agriculture"
+   }
+  ],
+  "nature-nbs-018": [
+   {
+    "id": "nature-es-108",
+    "reason": "a gap in food access and security"
+   },
+   {
+    "id": "nature-nbs-016",
+    "reason": "urban agriculture is a response"
+   }
+  ],
+  "nature-nbs-019": [
+   {
+    "id": "nature-eco-226",
+    "reason": "cities lose cooling from evapotranspiration"
+   },
+   {
+    "id": "nature-hist-007",
+    "reason": "compounds climate warming"
+   }
+  ],
+  "nature-nbs-020": [
+   {
+    "id": "nature-nbs-019",
+    "reason": "uneven urban heat island effects"
+   },
+   {
+    "id": "nature-found-058",
+    "reason": "parallels unequal exposure to harm"
+   }
+  ],
+  "nature-nbs-021": [
+   {
+    "id": "nature-nbs-019",
+    "reason": "reduces the heat island effect"
+   },
+   {
+    "id": "nature-nbs-090",
+    "reason": "white roofs work through higher albedo"
+   }
+  ],
+  "nature-nbs-022": [
+   {
+    "id": "nature-nbs-009",
+    "reason": "a park is urban green space"
+   },
+   {
+    "id": "nature-es-026",
+    "reason": "provides places to relax and play"
+   }
+  ],
+  "nature-nbs-023": [
+   {
+    "id": "nature-nbs-022",
+    "reason": "divides park space"
+   },
+   {
+    "id": "nature-es-026",
+    "reason": "kinds of recreation"
+   }
+  ],
+  "nature-nbs-024": [
+   {
+    "id": "nature-nbs-022",
+    "reason": "a shape of urban park"
+   }
+  ],
+  "nature-nbs-025": [
+   {
+    "id": "nature-nbs-209",
+    "reason": "stores and slowly releases stormwater"
+   },
+   {
+    "id": "nature-nbs-161",
+    "reason": "a form of green infrastructure"
+   }
+  ],
+  "nature-nbs-026": [
+   {
+    "id": "nature-nbs-009",
+    "reason": "keeps undeveloped land near cities"
+   },
+   {
+    "id": "nature-res-144",
+    "reason": "a land-use planning zone"
+   }
+  ],
+  "nature-nbs-027": [
+   {
+    "id": "nature-nbs-009",
+    "reason": "builds green space into communities"
+   },
+   {
+    "id": "nature-nbs-161",
+    "reason": "relies on green infrastructure"
+   }
+  ],
+  "nature-nbs-028": [
+   {
+    "id": "nature-found-015",
+    "reason": "studies urban ecosystems"
+   },
+   {
+    "id": "nature-eco-294",
+    "reason": "cities as habitat"
+   }
+  ],
+  "nature-nbs-030": [
+   {
+    "id": "nature-eco-567",
+    "reason": "a forest within a city"
+   },
+   {
+    "id": "nature-nbs-007",
+    "reason": "managed by urban forestry"
+   }
+  ],
+  "nature-nbs-031": [
+   {
+    "id": "nature-eco-603",
+    "reason": "applies resilience to cities"
+   },
+   {
+    "id": "nature-nbs-019",
+    "reason": "heat is a key urban hazard"
+   }
+  ],
+  "nature-nbs-032": [
+   {
+    "id": "nature-nbs-131",
+    "reason": "a form of rewilding"
+   },
+   {
+    "id": "nature-nbs-009",
+    "reason": "applied to urban green space"
+   }
+  ],
+  "nature-nbs-033": [
+   {
+    "id": "nature-found-001",
+    "reason": "biodiversity in cities"
+   },
+   {
+    "id": "nature-nbs-028",
+    "reason": "studied by urban ecology"
+   }
+  ],
+  "nature-clim-042": [
+   {
+    "id": "nature-clim-149",
+    "reason": "money to cut emissions"
+   },
+   {
+    "id": "nature-clim-002",
+    "reason": "and to adapt to climate change"
+   },
+   {
+    "id": "nature-clim-053",
+    "reason": "finance is organized under the UNFCCC"
+   }
+  ],
+  "nature-clim-043": [
+   {
+    "id": "nature-clim-042",
+    "reason": "the mitigation share of climate finance"
+   },
+   {
+    "id": "nature-clim-149",
+    "reason": "finances climate change mitigation"
+   }
+  ],
+  "nature-clim-044": [
+   {
+    "id": "nature-clim-042",
+    "reason": "the adaptation share of climate finance"
+   },
+   {
+    "id": "nature-clim-002",
+    "reason": "pays for adaptation"
+   }
+  ],
+  "nature-clim-045": [
+   {
+    "id": "nature-clim-044",
+    "reason": "the gap in adaptation finance"
+   },
+   {
+    "id": "nature-clim-004",
+    "reason": "measured against adaptation costs"
+   }
+  ],
+  "nature-clim-046": [
+   {
+    "id": "nature-clim-042",
+    "reason": "shortfall of climate finance"
+   }
+  ],
+  "nature-clim-047": [
+   {
+    "id": "nature-clim-042",
+    "reason": "channels for climate finance"
+   },
+   {
+    "id": "nature-clim-053",
+    "reason": "many operate under the UNFCCC"
+   }
+  ],
+  "nature-clim-048": [
+   {
+    "id": "nature-clim-042",
+    "reason": "private sources of climate finance"
+   }
+  ],
+  "nature-clim-049": [
+   {
+    "id": "nature-clim-042",
+    "reason": "a climate finance instrument"
+   },
+   {
+    "id": "nature-mkt-056",
+    "reason": "redirects debt owed by developing countries"
+   }
+  ],
+  "nature-clim-051": [
+   {
+    "id": "nature-clim-047",
+    "reason": "a multilateral climate fund"
+   },
+   {
+    "id": "nature-clim-053",
+    "reason": "set up under the UNFCCC"
+   }
+  ],
+  "nature-clim-052": [
+   {
+    "id": "nature-clim-042",
+    "reason": "a rule for climate finance"
+   },
+   {
+    "id": "nature-mkt-056",
+    "reason": "additional to official development assistance"
+   }
+  ],
+  "nature-clim-053": [
+   {
+    "id": "nature-hist-007",
+    "reason": "the treaty aims to limit climate change"
+   },
+   {
+    "id": "nature-eco-163",
+    "reason": "by limiting greenhouse gas emissions"
+   }
+  ],
+  "nature-clim-054": [
+   {
+    "id": "nature-clim-053",
+    "reason": "the UNFCCC's core goal"
+   },
+   {
+    "id": "nature-eco-162",
+    "reason": "stabilizing greenhouse gas concentrations"
+   }
+  ],
+  "nature-clim-055": [
+   {
+    "id": "nature-clim-053",
+    "reason": "the UNFCCC's country groupings"
+   }
+  ],
+  "nature-clim-056": [
+   {
+    "id": "nature-clim-053",
+    "reason": "the protocol extends the UNFCCC"
+   },
+   {
+    "id": "nature-clim-055",
+    "reason": "binding targets fell on Annex I countries"
+   },
+   {
+    "id": "nature-eco-163",
+    "reason": "committed parties to cut emissions"
+   }
+  ],
+  "nature-clim-057": [
+   {
+    "id": "nature-clim-056",
+    "reason": "criticism of the Kyoto Protocol"
+   }
+  ],
+  "nature-clim-058": [
+   {
+    "id": "nature-clim-056",
+    "reason": "surplus Kyoto allowances"
+   },
+   {
+    "id": "nature-pol-253",
+    "reason": "sold through emissions trading"
+   }
+  ],
+  "nature-clim-059": [
+   {
+    "id": "nature-clim-056",
+    "reason": "enforces Kyoto commitments"
+   }
+  ],
+  "nature-clim-060": [
+   {
+    "id": "nature-clim-056",
+    "reason": "extends the Kyoto Protocol"
+   }
+  ],
+  "nature-clim-061": [
+   {
+    "id": "nature-clim-053",
+    "reason": "reached at a UNFCCC conference"
+   },
+   {
+    "id": "nature-clim-056",
+    "reason": "the attempt to succeed Kyoto"
+   }
+  ],
+  "nature-clim-062": [
+   {
+    "id": "nature-clim-053",
+    "reason": "decisions of a UNFCCC conference"
+   },
+   {
+    "id": "nature-clim-042",
+    "reason": "created the Green Climate Fund for climate finance"
+   }
+  ],
+  "nature-clim-063": [
+   {
+    "id": "nature-clim-053",
+    "reason": "criticism of the UNFCCC process"
+   },
+   {
+    "id": "nature-clim-056",
+    "reason": "including the Kyoto Protocol"
+   }
+  ],
+  "nature-clim-064": [
+   {
+    "id": "nature-clim-053",
+    "reason": "a UNFCCC work programme"
+   }
+  ],
+  "nature-clim-065": [
+   {
+    "id": "nature-clim-053",
+    "reason": "reports owed by UNFCCC parties"
+   }
+  ],
+  "nature-clim-066": [
+   {
+    "id": "nature-clim-074",
+    "reason": "a part of the Paris Agreement"
+   },
+   {
+    "id": "nature-clim-071",
+    "reason": "cooperation to deliver NDCs"
+   },
+   {
+    "id": "nature-mkt-081",
+    "reason": "involves crediting emission reductions"
+   }
+  ],
+  "nature-clim-067": [
+   {
+    "id": "nature-clim-066",
+    "reason": "transfers under Article 6.2"
+   },
+   {
+    "id": "nature-clim-071",
+    "reason": "count toward the buyer's NDC"
+   }
+  ],
+  "nature-clim-068": [
+   {
+    "id": "nature-clim-066",
+    "reason": "set up under Article 6.4"
+   },
+   {
+    "id": "nature-mkt-081",
+    "reason": "issues carbon credits"
+   }
+  ],
+  "nature-clim-069": [
+   {
+    "id": "nature-clim-066",
+    "reason": "the non-market part of Article 6"
+   }
+  ],
+  "nature-clim-070": [
+   {
+    "id": "nature-clim-067",
+    "reason": "adjusts accounts for transferred outcomes"
+   },
+   {
+    "id": "nature-clim-071",
+    "reason": "so each reduction counts in one NDC"
+   }
+  ],
+  "nature-clim-071": [
+   {
+    "id": "nature-clim-074",
+    "reason": "pledges under the Paris Agreement"
+   },
+   {
+    "id": "nature-clim-149",
+    "reason": "pledges to cut emissions"
+   },
+   {
+    "id": "nature-clim-002",
+    "reason": "and to adapt"
+   }
+  ],
+  "nature-clim-072": [
+   {
+    "id": "nature-clim-071",
+    "reason": "the first draft NDCs"
+   }
+  ],
+  "nature-clim-073": [
+   {
+    "id": "nature-clim-071",
+    "reason": "NDCs are renewed in the cycle"
+   },
+   {
+    "id": "nature-clim-074",
+    "reason": "a mechanism of the Paris Agreement"
+   }
+  ],
+  "nature-clim-074": [
+   {
+    "id": "nature-clim-053",
+    "reason": "a treaty under the UNFCCC"
+   },
+   {
+    "id": "nature-clim-056",
+    "reason": "succeeded the Kyoto Protocol"
+   },
+   {
+    "id": "nature-clim-149",
+    "reason": "covers mitigation"
+   },
+   {
+    "id": "nature-clim-002",
+    "reason": "adaptation"
+   },
+   {
+    "id": "nature-clim-042",
+    "reason": "and finance"
+   }
+  ],
+  "nature-clim-075": [
+   {
+    "id": "nature-clim-074",
+    "reason": "debate on the Paris Agreement"
+   },
+   {
+    "id": "nature-clim-071",
+    "reason": "turns on whether NDCs add up"
+   },
+   {
+    "id": "nature-clim-077",
+    "reason": "measured against its temperature goals"
+   }
+  ],
+  "nature-clim-076": [
+   {
+    "id": "nature-clim-074",
+    "reason": "Article 13 of the Paris Agreement"
+   },
+   {
+    "id": "nature-clim-071",
+    "reason": "tracks progress on NDCs"
+   }
+  ],
+  "nature-clim-077": [
+   {
+    "id": "nature-hist-007",
+    "reason": "a limit on global warming"
+   },
+   {
+    "id": "nature-clim-083",
+    "reason": "a kind of climate target"
+   }
+  ],
+  "nature-clim-078": [
+   {
+    "id": "nature-pol-239",
+    "reason": "members agree on a common carbon price"
+   },
+   {
+    "id": "nature-econ-617",
+    "reason": "penalties counter free-riding"
+   },
+   {
+    "id": "nature-clim-074",
+    "reason": "an alternative to the Paris approach"
+   }
+  ],
+  "nature-clim-079": [
+   {
+    "id": "nature-hist-007",
+    "reason": "debt for climate damage"
+   },
+   {
+    "id": "nature-eco-163",
+    "reason": "from historical emissions"
+   }
+  ],
+  "nature-clim-080": [
+   {
+    "id": "nature-clim-079",
+    "reason": "a part of climate debt"
+   },
+   {
+    "id": "nature-clim-136",
+    "reason": "overuse of the atmosphere's carbon budget"
+   }
+  ],
+  "nature-clim-081": [
+   {
+    "id": "nature-clim-079",
+    "reason": "a part of climate debt"
+   },
+   {
+    "id": "nature-clim-002",
+    "reason": "owed for adaptation costs"
+   }
+  ],
+  "nature-clim-082": [
+   {
+    "id": "nature-clim-079",
+    "reason": "framed as climate debt"
+   },
+   {
+    "id": "nature-clim-018",
+    "reason": "loss-and-damage payments"
+   }
+  ],
+  "nature-clim-083": [
+   {
+    "id": "nature-hist-007",
+    "reason": "aimed at limiting climate change"
+   },
+   {
+    "id": "nature-clim-149",
+    "reason": "most targets concern mitigation"
+   }
+  ],
+  "nature-clim-084": [
+   {
+    "id": "nature-clim-053",
+    "reason": "a principle set in the UNFCCC"
+   },
+   {
+    "id": "nature-clim-055",
+    "reason": "reflected in country groupings"
+   }
+  ],
+  "nature-clim-085": [
+   {
+    "id": "nature-clim-136",
+    "reason": "shrinks emissions within a safe budget"
+   },
+   {
+    "id": "nature-clim-054",
+    "reason": "aimed at the UNFCCC's ultimate objective"
+   },
+   {
+    "id": "nature-clim-084",
+    "reason": "equal per-person shares address differentiated responsibility"
+   }
+  ],
+  "nature-clim-086": [
+   {
+    "id": "nature-hist-007",
+    "reason": "to fight climate change"
+   },
+   {
+    "id": "nature-clim-042",
+    "reason": "redirects investment flows"
+   }
+  ],
+  "nature-clim-087": [
+   {
+    "id": "nature-clim-074",
+    "reason": "implements the Paris Agreement"
+   },
+   {
+    "id": "nature-clim-100",
+    "reason": "reached at a UN climate conference"
+   }
+  ],
+  "nature-clim-088": [
+   {
+    "id": "nature-clim-053",
+    "reason": "the regime is built on the UNFCCC"
+   },
+   {
+    "id": "nature-hist-007",
+    "reason": "to limit climate change"
+   }
+  ],
+  "nature-clim-089": [
+   {
+    "id": "nature-clim-074",
+    "reason": "a review under the Paris Agreement"
+   },
+   {
+    "id": "nature-clim-071",
+    "reason": "assesses NDCs collectively"
+   }
+  ],
+  "nature-clim-090": [
+   {
+    "id": "nature-clim-089",
+    "reason": "the first global stocktake"
+   }
+  ],
+  "nature-clim-091": [
+   {
+    "id": "nature-clim-048",
+    "reason": "mobilizes private climate finance"
+   },
+   {
+    "id": "nature-clim-042",
+    "reason": "a climate finance institution"
+   },
+   {
+    "id": "nature-econ-538",
+    "reason": "invests in clean energy"
+   }
+  ],
+  "nature-clim-092": [
+   {
+    "id": "nature-hist-007",
+    "reason": "policy responses to climate change"
+   },
+   {
+    "id": "nature-clim-053",
+    "reason": "centres on the UNFCCC"
+   }
+  ],
+  "nature-clim-094": [
+   {
+    "id": "nature-found-075",
+    "reason": "phases out pollutant substances that deplete ozone"
+   }
+  ],
+  "nature-clim-095": [
+   {
+    "id": "nature-clim-094",
+    "reason": "amends the Montreal Protocol"
+   },
+   {
+    "id": "nature-eco-162",
+    "reason": "HFCs are potent greenhouse gases"
+   }
+  ],
+  "nature-clim-096": [
+   {
+    "id": "nature-clim-094",
+    "reason": "helps countries comply with the Montreal Protocol"
+   }
+  ],
+  "nature-clim-097": [
+   {
+    "id": "nature-clim-053",
+    "reason": "interprets obligations under the UNFCCC"
+   },
+   {
+    "id": "nature-clim-074",
+    "reason": "and the Paris Agreement"
+   }
+  ],
+  "nature-clim-098": [
+   {
+    "id": "nature-clim-071",
+    "reason": "pledges take the form of NDCs"
+   },
+   {
+    "id": "nature-clim-056",
+    "reason": "contrasted with Kyoto's top-down targets"
+   },
+   {
+    "id": "nature-clim-073",
+    "reason": "stronger pledges follow through the ratchet"
+   }
+  ],
+  "nature-clim-099": [
+   {
+    "id": "nature-econ-757",
+    "reason": "priced below the market interest rate"
+   }
+  ],
+  "nature-clim-100": [
+   {
+    "id": "nature-clim-053",
+    "reason": "conferences of the UNFCCC parties"
+   }
+  ],
+  "nature-clim-101": [
+   {
+    "id": "nature-clim-100",
+    "reason": "decided at COP 13"
+   },
+   {
+    "id": "nature-clim-056",
+    "reason": "planned the framework after Kyoto"
+   }
+  ],
+  "nature-clim-102": [
+   {
+    "id": "nature-clim-042",
+    "reason": "a climate finance target"
+   },
+   {
+    "id": "nature-clim-100",
+    "reason": "negotiated at COP29"
+   }
+  ],
+  "nature-eco-001": [
+   {
+    "id": "nature-hist-007",
+    "reason": "climate change shifts extreme weather"
+   }
+  ],
+  "nature-eco-002": [
+   {
+    "id": "nature-eco-001",
+    "reason": "costs of extreme weather"
+   }
+  ],
+  "nature-eco-003": [
+   {
+    "id": "nature-eco-001",
+    "reason": "attributes extreme weather events"
+   },
+   {
+    "id": "nature-hist-007",
+    "reason": "to causes such as climate change"
+   }
+  ],
+  "nature-eco-004": [
+   {
+    "id": "nature-eco-161",
+    "reason": "measures shifts in the greenhouse energy balance"
+   },
+   {
+    "id": "nature-eco-162",
+    "reason": "e.g. from more greenhouse gas"
+   }
+  ],
+  "nature-eco-005": [
+   {
+    "id": "nature-eco-004",
+    "reason": "links radiative forcing to temperature"
+   },
+   {
+    "id": "nature-eco-158",
+    "reason": "a way of expressing climate sensitivity"
+   }
+  ],
+  "nature-eco-006": [],
+  "nature-eco-007": [
+   {
+    "id": "nature-eco-162",
+    "reason": "CO2 is a greenhouse gas"
+   },
+   {
+    "id": "nature-eco-164",
+    "reason": "part of the carbon cycle"
+   },
+   {
+    "id": "nature-eco-190",
+    "reason": "used in photosynthesis"
+   }
+  ],
+  "nature-eco-008": [
+   {
+    "id": "nature-eco-007",
+    "reason": "more atmospheric CO2"
+   },
+   {
+    "id": "nature-eco-190",
+    "reason": "speeds photosynthesis"
+   }
+  ],
+  "nature-eco-009": [
+   {
+    "id": "nature-eco-162",
+    "reason": "the main greenhouse gases"
+   },
+   {
+    "id": "nature-eco-161",
+    "reason": "they drive the greenhouse effect"
+   }
+  ],
+  "nature-eco-010": [
+   {
+    "id": "nature-eco-009",
+    "reason": "water vapour is a main greenhouse gas"
+   },
+   {
+    "id": "nature-eco-014",
+    "reason": "a positive climate feedback"
+   }
+  ],
+  "nature-eco-011": [
+   {
+    "id": "nature-eco-161",
+    "reason": "warming from the greenhouse effect"
+   },
+   {
+    "id": "nature-eco-007",
+    "reason": "as CO2 rises"
+   }
+  ],
+  "nature-eco-012": [
+   {
+    "id": "nature-eco-011",
+    "reason": "projections extend observed warming"
+   },
+   {
+    "id": "nature-eco-158",
+    "reason": "depend on climate sensitivity"
+   },
+   {
+    "id": "nature-eco-163",
+    "reason": "and future emissions"
+   },
+   {
+    "id": "nature-eco-015",
+    "reason": "produced with climate models"
+   }
+  ],
+  "nature-eco-013": [
+   {
+    "id": "nature-eco-011",
+    "reason": "explains observed warming"
+   },
+   {
+    "id": "nature-eco-004",
+    "reason": "compares forcings of each cause"
+   },
+   {
+    "id": "nature-eco-009",
+    "reason": "greenhouse gases are the main driver"
+   }
+  ],
+  "nature-eco-014": [
+   {
+    "id": "nature-eco-011",
+    "reason": "responses to warming"
+   },
+   {
+    "id": "nature-eco-161",
+    "reason": "amplify or dampen the greenhouse effect"
+   }
+  ],
+  "nature-eco-015": [
+   {
+    "id": "nature-eco-161",
+    "reason": "represents the greenhouse effect"
+   },
+   {
+    "id": "nature-eco-014",
+    "reason": "includes climate feedbacks"
+   }
+  ]
+ }
+}

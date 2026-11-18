@@ -1,0 +1,2729 @@
+{
+ "entries": {
+  "nature-econ-688": [
+   {
+    "id": "nature-econ-687",
+    "reason": "the disagreement point is the fallback in a bargaining problem"
+   },
+   {
+    "id": "nature-econ-034",
+    "reason": "payoffs are defined within a game"
+   }
+  ],
+  "nature-econ-690": [
+   {
+    "id": "nature-econ-687",
+    "reason": "a simple model of bargaining over a share"
+   },
+   {
+    "id": "nature-econ-718",
+    "reason": "analysed through its Nash equilibria"
+   }
+  ],
+  "nature-econ-691": [
+   {
+    "id": "nature-econ-687",
+    "reason": "a model of bargaining over a surplus"
+   },
+   {
+    "id": "nature-econ-734",
+    "reason": "solved as a sequential game by subgame perfection"
+   },
+   {
+    "id": "nature-econ-745",
+    "reason": "the surplus shrinks with delay, i.e. is discounted"
+   }
+  ],
+  "nature-econ-692": [
+   {
+    "id": "nature-econ-689",
+    "reason": "defined as a modification of Nash's bargaining solution"
+   },
+   {
+    "id": "nature-econ-688",
+    "reason": "gains are measured from the disagreement point"
+   }
+  ],
+  "nature-econ-693": [
+   {
+    "id": "nature-econ-689",
+    "reason": "an alternative rule to the Nash bargaining solution"
+   },
+   {
+    "id": "nature-econ-688",
+    "reason": "gains are measured from the disagreement point"
+   }
+  ],
+  "nature-econ-694": [
+   {
+    "id": "nature-econ-034",
+    "reason": "a branch of game theory"
+   }
+  ],
+  "nature-econ-695": [
+   {
+    "id": "nature-econ-694",
+    "reason": "the basic object of a cooperative game"
+   }
+  ],
+  "nature-econ-696": [
+   {
+    "id": "nature-econ-694",
+    "reason": "a solution concept for cooperative games"
+   },
+   {
+    "id": "nature-econ-695",
+    "reason": "built on what coalitions can secure"
+   }
+  ],
+  "nature-econ-697": [
+   {
+    "id": "nature-econ-695",
+    "reason": "coalition complaints are measured from the characteristic function"
+   },
+   {
+    "id": "nature-econ-706",
+    "reason": "the nucleolus refines the core's idea of coalition objections"
+   }
+  ],
+  "nature-econ-698": [
+   {
+    "id": "nature-econ-695",
+    "reason": "the dividend is computed from coalition values"
+   },
+   {
+    "id": "nature-econ-726",
+    "reason": "Shapley value is the sum of these dividends"
+   }
+  ],
+  "nature-econ-699": [
+   {
+    "id": "nature-econ-695",
+    "reason": "defined as a property of the characteristic function"
+   },
+   {
+    "id": "nature-econ-706",
+    "reason": "convexity is studied for its effect on the core"
+   }
+  ],
+  "nature-econ-700": [
+   {
+    "id": "nature-econ-722",
+    "reason": "described with a payoff matrix"
+   },
+   {
+    "id": "nature-econ-731",
+    "reason": "players choose strategies"
+   },
+   {
+    "id": "nature-econ-718",
+    "reason": "has multiple Nash equilibria"
+   }
+  ],
+  "nature-econ-701": [
+   {
+    "id": "nature-econ-700",
+    "reason": "a kind of coordination game"
+   }
+  ],
+  "nature-econ-702": [
+   {
+    "id": "nature-econ-700",
+    "reason": "a solution to a coordination problem"
+   }
+  ],
+  "nature-econ-703": [
+   {
+    "id": "nature-econ-700",
+    "reason": "arises when players must coordinate"
+   },
+   {
+    "id": "nature-econ-718",
+    "reason": "a focal point is a particular equilibrium"
+   }
+  ],
+  "nature-econ-704": [
+   {
+    "id": "nature-econ-700",
+    "reason": "a failure outcome in coordination games"
+   },
+   {
+    "id": "nature-econ-718",
+    "reason": "ending at a worse equilibrium"
+   }
+  ],
+  "nature-econ-705": [
+   {
+    "id": "nature-econ-700",
+    "reason": "defined as the opposite of a coordination game"
+   },
+   {
+    "id": "nature-found-031",
+    "reason": "illustrated by negative externalities"
+   }
+  ],
+  "nature-econ-706": [
+   {
+    "id": "nature-econ-694",
+    "reason": "a solution concept for cooperative games"
+   },
+   {
+    "id": "nature-econ-695",
+    "reason": "uses what each coalition can secure"
+   }
+  ],
+  "nature-econ-707": [
+   {
+    "id": "nature-econ-034",
+    "reason": "applies game theory to evolution"
+   },
+   {
+    "id": "nature-econ-731",
+    "reason": "competition is modelled as a contest between strategies"
+   }
+  ],
+  "nature-econ-708": [
+   {
+    "id": "nature-econ-707",
+    "reason": "central concept of evolutionary game theory"
+   },
+   {
+    "id": "nature-econ-718",
+    "reason": "a refinement related to Nash equilibrium"
+   }
+  ],
+  "nature-econ-709": [
+   {
+    "id": "nature-econ-707",
+    "reason": "an evolutionary strategy"
+   },
+   {
+    "id": "nature-econ-680",
+    "reason": "resolves the hawk-dove style contest"
+   }
+  ],
+  "nature-econ-710": [
+   {
+    "id": "nature-econ-707",
+    "reason": "explained via evolutionary games"
+   },
+   {
+    "id": "nature-econ-039",
+    "reason": "altruism is modelled with the prisoner's dilemma"
+   }
+  ],
+  "nature-econ-711": [
+   {
+    "id": "nature-econ-707",
+    "reason": "a class of evolutionary games"
+   }
+  ],
+  "nature-econ-712": [
+   {
+    "id": "nature-econ-707",
+    "reason": "a class of evolutionary game dynamics"
+   }
+  ],
+  "nature-econ-713": [
+   {
+    "id": "nature-econ-707",
+    "reason": "a class of evolutionary game models"
+   }
+  ],
+  "nature-econ-714": [
+   {
+    "id": "nature-econ-034",
+    "reason": "a way of representing a game"
+   },
+   {
+    "id": "nature-econ-731",
+    "reason": "lists each player's choices"
+   }
+  ],
+  "nature-econ-715": [
+   {
+    "id": "nature-econ-714",
+    "reason": "defined in terms of the game tree and what players know"
+   }
+  ],
+  "nature-econ-716": [
+   {
+    "id": "nature-econ-715",
+    "reason": "turns incomplete into imperfect information"
+   },
+   {
+    "id": "nature-econ-714",
+    "reason": "Nature's move is added to the game tree"
+   }
+  ],
+  "nature-econ-717": [
+   {
+    "id": "nature-econ-723",
+    "reason": "a result about repeated games"
+   },
+   {
+    "id": "nature-econ-718",
+    "reason": "concerns equilibrium outcomes"
+   },
+   {
+    "id": "nature-econ-745",
+    "reason": "requires players to be patient (low discounting)"
+   }
+  ],
+  "nature-econ-718": [
+   {
+    "id": "nature-econ-034",
+    "reason": "a solution concept of game theory"
+   },
+   {
+    "id": "nature-econ-731",
+    "reason": "defined by players' strategies"
+   }
+  ],
+  "nature-econ-719": [
+   {
+    "id": "nature-econ-718",
+    "reason": "a type of Nash equilibrium"
+   },
+   {
+    "id": "nature-econ-732",
+    "reason": "players use mixed strategies"
+   }
+  ],
+  "nature-econ-720": [
+   {
+    "id": "nature-econ-718",
+    "reason": "a refinement of Nash equilibrium"
+   },
+   {
+    "id": "nature-econ-694",
+    "reason": "robust to coalitions of players"
+   }
+  ],
+  "nature-econ-721": [
+   {
+    "id": "nature-econ-718",
+    "reason": "theorem about Nash equilibrium"
+   },
+   {
+    "id": "nature-econ-719",
+    "reason": "existence needs mixed strategies"
+   }
+  ],
+  "nature-econ-722": [
+   {
+    "id": "nature-econ-034",
+    "reason": "a way of representing a game"
+   },
+   {
+    "id": "nature-econ-731",
+    "reason": "lists each player's strategies"
+   }
+  ],
+  "nature-econ-723": [
+   {
+    "id": "nature-econ-722",
+    "reason": "the stage game is a base game repeated"
+   },
+   {
+    "id": "nature-econ-718",
+    "reason": "equilibria of repeated play"
+   }
+  ],
+  "nature-econ-724": [
+   {
+    "id": "nature-econ-723",
+    "reason": "a strategy in repeated games"
+   }
+  ],
+  "nature-econ-725": [
+   {
+    "id": "nature-econ-723",
+    "reason": "a repeated game with a fixed horizon"
+   },
+   {
+    "id": "nature-econ-735",
+    "reason": "solved by backward induction"
+   }
+  ],
+  "nature-econ-726": [
+   {
+    "id": "nature-econ-694",
+    "reason": "a division rule for cooperative games"
+   },
+   {
+    "id": "nature-econ-695",
+    "reason": "uses each coalition's value to compute contributions"
+   }
+  ],
+  "nature-econ-727": [
+   {
+    "id": "nature-econ-726",
+    "reason": "extension of the Shapley value"
+   }
+  ],
+  "nature-econ-728": [
+   {
+    "id": "nature-econ-700",
+    "reason": "a coordination game"
+   },
+   {
+    "id": "nature-econ-722",
+    "reason": "presented as a payoff matrix"
+   }
+  ],
+  "nature-econ-729": [
+   {
+    "id": "nature-econ-731",
+    "reason": "compares strategies"
+   },
+   {
+    "id": "nature-econ-722",
+    "reason": "judged across the payoff matrix"
+   }
+  ],
+  "nature-econ-730": [
+   {
+    "id": "nature-econ-729",
+    "reason": "removes dominated strategies"
+   }
+  ],
+  "nature-econ-731": [
+   {
+    "id": "nature-econ-034",
+    "reason": "a basic concept of game theory"
+   }
+  ],
+  "nature-econ-732": [
+   {
+    "id": "nature-econ-731",
+    "reason": "a randomized strategy"
+   },
+   {
+    "id": "nature-econ-756",
+    "reason": "payoffs are evaluated in expectation"
+   }
+  ],
+  "nature-econ-733": [
+   {
+    "id": "nature-econ-732",
+    "reason": "an alternative to mixed strategies"
+   },
+   {
+    "id": "nature-econ-679",
+    "reason": "randomizes at each information set"
+   },
+   {
+    "id": "nature-econ-714",
+    "reason": "defined in extensive-form games"
+   }
+  ],
+  "nature-econ-734": [
+   {
+    "id": "nature-econ-718",
+    "reason": "a refinement of Nash equilibrium"
+   },
+   {
+    "id": "nature-econ-714",
+    "reason": "defined on subgames of the game tree"
+   },
+   {
+    "id": "nature-econ-735",
+    "reason": "found by backward induction"
+   }
+  ],
+  "nature-econ-735": [
+   {
+    "id": "nature-econ-714",
+    "reason": "works on a sequential game tree"
+   }
+  ],
+  "nature-econ-736": [
+   {
+    "id": "nature-econ-734",
+    "reason": "credibility is formalised by subgame perfection"
+   }
+  ],
+  "nature-econ-737": [
+   {
+    "id": "nature-econ-723",
+    "reason": "a repeated-game strategy"
+   },
+   {
+    "id": "nature-econ-039",
+    "reason": "played in the repeated prisoner's dilemma"
+   }
+  ],
+  "nature-econ-738": [
+   {
+    "id": "nature-econ-737",
+    "reason": "a variant of tit for tat"
+   }
+  ],
+  "nature-econ-739": [
+   {
+    "id": "nature-econ-737",
+    "reason": "a variant of tit for tat"
+   }
+  ],
+  "nature-econ-740": [
+   {
+    "id": "nature-econ-737",
+    "reason": "explained by tit-for-tat strategies"
+   },
+   {
+    "id": "nature-econ-707",
+    "reason": "an evolutionary explanation of helping"
+   }
+  ],
+  "nature-econ-741": [
+   {
+    "id": "nature-econ-039",
+    "reason": "competitors played the prisoner's dilemma"
+   },
+   {
+    "id": "nature-econ-723",
+    "reason": "the dilemma was repeated"
+   }
+  ],
+  "nature-econ-742": [
+   {
+    "id": "nature-econ-034",
+    "reason": "a classification of games"
+   }
+  ],
+  "nature-econ-743": [
+   {
+    "id": "nature-econ-742",
+    "reason": "defined in contrast to zero-sum"
+   }
+  ],
+  "nature-econ-744": [
+   {
+    "id": "nature-econ-742",
+    "reason": "the belief that situations are zero-sum"
+   }
+  ],
+  "nature-eecon-208": [
+   {
+    "id": "nature-found-010",
+    "reason": "sustainability concerns keeping natural capital"
+   }
+  ],
+  "nature-eecon-209": [
+   {
+    "id": "nature-eecon-208",
+    "reason": "an approach to achieving sustainability"
+   },
+   {
+    "id": "nature-eecon-224",
+    "reason": "needs of future generations"
+   }
+  ],
+  "nature-eecon-210": [
+   {
+    "id": "nature-eecon-208",
+    "reason": "dimensions of the sustainability concept"
+   }
+  ],
+  "nature-eecon-211": [
+   {
+    "id": "nature-eecon-210",
+    "reason": "ranks the three dimensions"
+   }
+  ],
+  "nature-eecon-212": [
+   {
+    "id": "nature-eecon-210",
+    "reason": "one of the three dimensions"
+   },
+   {
+    "id": "nature-econ-478",
+    "reason": "concerns how economic growth fits with the environment"
+   }
+  ],
+  "nature-eecon-213": [
+   {
+    "id": "nature-eecon-208",
+    "reason": "barriers to achieving sustainability"
+   },
+   {
+    "id": "nature-econ-633",
+    "reason": "public-good character of environmental benefits is a barrier"
+   }
+  ],
+  "nature-eecon-214": [
+   {
+    "id": "nature-eecon-208",
+    "reason": "change towards sustainability"
+   },
+   {
+    "id": "nature-eecon-213",
+    "reason": "transitions must overcome the barriers"
+   }
+  ],
+  "nature-eecon-215": [
+   {
+    "id": "nature-eecon-209",
+    "reason": "rules for sustainable development"
+   },
+   {
+    "id": "nature-res-212",
+    "reason": "rules cover harvest of renewable resources"
+   },
+   {
+    "id": "nature-res-209",
+    "reason": "rules cover depletion of non-renewables"
+   },
+   {
+    "id": "nature-found-020",
+    "reason": "rules keep wastes within assimilative capacity"
+   }
+  ],
+  "nature-eecon-216": [
+   {
+    "id": "nature-eecon-208",
+    "reason": "two approaches to sustainability"
+   },
+   {
+    "id": "nature-found-010",
+    "reason": "debate is about natural capital"
+   },
+   {
+    "id": "nature-econ-083",
+    "reason": "whether human-made capital can replace it"
+   }
+  ],
+  "nature-eecon-217": [
+   {
+    "id": "nature-eecon-216",
+    "reason": "one side of the weak/strong debate"
+   },
+   {
+    "id": "nature-eecon-219",
+    "reason": "judges sustainability by total capital stock"
+   }
+  ],
+  "nature-eecon-218": [
+   {
+    "id": "nature-eecon-216",
+    "reason": "one side of the weak/strong debate"
+   },
+   {
+    "id": "nature-eecon-219",
+    "reason": "a version of the capital approach"
+   }
+  ],
+  "nature-eecon-219": [
+   {
+    "id": "nature-eecon-208",
+    "reason": "an approach to judging sustainability"
+   },
+   {
+    "id": "nature-econ-083",
+    "reason": "measures stocks of capital"
+   },
+   {
+    "id": "nature-found-010",
+    "reason": "natural capital is one stock"
+   },
+   {
+    "id": "nature-econ-531",
+    "reason": "human capital is one stock"
+   },
+   {
+    "id": "nature-eecon-224",
+    "reason": "concerns what each generation passes on"
+   }
+  ],
+  "nature-eecon-220": [
+   {
+    "id": "nature-eecon-217",
+    "reason": "a weak-sustainability measure of total capital change"
+   },
+   {
+    "id": "nature-eecon-219",
+    "reason": "measures net change in capital stocks"
+   },
+   {
+    "id": "nature-econ-531",
+    "reason": "includes human capital"
+   }
+  ],
+  "nature-eecon-221": [
+   {
+    "id": "nature-eecon-216",
+    "reason": "reframes the capital debate"
+   },
+   {
+    "id": "nature-eecon-224",
+    "reason": "concerns what we leave to future generations"
+   }
+  ],
+  "nature-eecon-222": [
+   {
+    "id": "nature-eecon-209",
+    "reason": "set up to pursue sustainable development"
+   }
+  ],
+  "nature-eecon-223": [
+   {
+    "id": "nature-res-209",
+    "reason": "concerns depletion of non-renewables"
+   },
+   {
+    "id": "nature-res-218",
+    "reason": "rents from extraction are reinvested"
+   },
+   {
+    "id": "nature-econ-538",
+    "reason": "requires investment in produced capital"
+   },
+   {
+    "id": "nature-eecon-217",
+    "reason": "the investment rule behind weak sustainability"
+   }
+  ],
+  "nature-eecon-224": [],
+  "nature-eecon-225": [
+   {
+    "id": "nature-econ-312",
+    "reason": "a specific production function"
+   },
+   {
+    "id": "nature-econ-086",
+    "reason": "relates inputs such as labour and capital"
+   }
+  ],
+  "nature-eecon-226": [
+   {
+    "id": "nature-eecon-227",
+    "reason": "the elasticity of substitution is held constant"
+   },
+   {
+    "id": "nature-econ-312",
+    "reason": "a functional form for production"
+   },
+   {
+    "id": "nature-econ-100",
+    "reason": "also a form for utility functions"
+   }
+  ],
+  "nature-eecon-227": [
+   {
+    "id": "nature-econ-312",
+    "reason": "substitution between inputs in production"
+   },
+   {
+    "id": "nature-econ-308",
+    "reason": "measured along an isoquant"
+   },
+   {
+    "id": "nature-econ-129",
+    "reason": "relative marginal values are the MRS"
+   },
+   {
+    "id": "nature-econ-374",
+    "reason": "a percentage-change ratio like other elasticities"
+   }
+  ],
+  "nature-eecon-228": [
+   {
+    "id": "nature-econ-541",
+    "reason": "a macroeconomic dynamics framework"
+   },
+   {
+    "id": "nature-econ-478",
+    "reason": "used to study growth over time"
+   },
+   {
+    "id": "nature-econ-757",
+    "reason": "savings and interest rates link generations"
+   }
+  ],
+  "nature-eecon-229": [
+   {
+    "id": "nature-found-010",
+    "reason": "a subset of natural capital"
+   },
+   {
+    "id": "nature-eecon-218",
+    "reason": "central to strong sustainability"
+   }
+  ],
+  "nature-eecon-230": [
+   {
+    "id": "nature-found-010",
+    "reason": "substitution for natural capital"
+   },
+   {
+    "id": "nature-econ-083",
+    "reason": "human-made capital as the substitute"
+   },
+   {
+    "id": "nature-eecon-227",
+    "reason": "measured by the elasticity of substitution"
+   }
+  ],
+  "nature-pol-184": [],
+  "nature-pol-185": [
+   {
+    "id": "nature-pol-184",
+    "reason": "a classification of sustainability standards"
+   }
+  ],
+  "nature-pol-186": [
+   {
+    "id": "nature-eco-129",
+    "reason": "communicates environmental impact of products"
+   }
+  ],
+  "nature-pol-187": [
+   {
+    "id": "nature-pol-186",
+    "reason": "classifies environmental labels"
+   },
+   {
+    "id": "nature-pol-229",
+    "reason": "ISO standards define the types"
+   }
+  ],
+  "nature-pol-188": [
+   {
+    "id": "nature-pol-186",
+    "reason": "concern about ecolabels"
+   }
+  ],
+  "nature-pol-189": [
+   {
+    "id": "nature-pol-186",
+    "reason": "treats ecolabels as a policy tool"
+   },
+   {
+    "id": "nature-pol-147",
+    "reason": "partly replaces command and control"
+   }
+  ],
+  "nature-pol-190": [
+   {
+    "id": "nature-pol-186",
+    "reason": "innovation driven through ecolabels"
+   }
+  ],
+  "nature-pol-191": [
+   {
+    "id": "nature-pol-186",
+    "reason": "a type of environmental label"
+   }
+  ],
+  "nature-pol-192": [
+   {
+    "id": "nature-pol-205",
+    "reason": "a type of subsidy"
+   },
+   {
+    "id": "nature-econ-356",
+    "reason": "keeps prices below or above market levels"
+   }
+  ],
+  "nature-pol-193": [
+   {
+    "id": "nature-pol-192",
+    "reason": "debate about energy subsidies"
+   },
+   {
+    "id": "nature-found-031",
+    "reason": "environmental harm is an external cost"
+   }
+  ],
+  "nature-pol-194": [
+   {
+    "id": "nature-found-031",
+    "reason": "assigns environmental costs to producers"
+   },
+   {
+    "id": "nature-pol-095",
+    "reason": "applies the polluter pays principle"
+   },
+   {
+    "id": "nature-acct-050",
+    "reason": "costs across the whole life cycle"
+   }
+  ],
+  "nature-pol-195": [
+   {
+    "id": "nature-pol-194",
+    "reason": "an EPR instrument"
+   }
+  ],
+  "nature-pol-196": [
+   {
+    "id": "nature-pol-194",
+    "reason": "EPR applied to electronics"
+   }
+  ],
+  "nature-pol-197": [
+   {
+    "id": "nature-pol-192",
+    "reason": "energy subsidies for fossil fuels"
+   }
+  ],
+  "nature-pol-198": [
+   {
+    "id": "nature-pol-197",
+    "reason": "estimating fossil fuel subsidies"
+   },
+   {
+    "id": "nature-found-031",
+    "reason": "sometimes counts health and climate damage"
+   }
+  ],
+  "nature-pol-200": [
+   {
+    "id": "nature-econ-045",
+    "reason": "works through choice architecture"
+   },
+   {
+    "id": "nature-econ-021",
+    "reason": "from behavioural economics"
+   }
+  ],
+  "nature-pol-201": [
+   {
+    "id": "nature-found-023",
+    "reason": "caution about possible environmental harm"
+   }
+  ],
+  "nature-pol-202": [
+   {
+    "id": "nature-pol-201",
+    "reason": "two versions of the principle"
+   }
+  ],
+  "nature-pol-203": [
+   {
+    "id": "nature-pol-201",
+    "reason": "a softer form of the principle"
+   }
+  ],
+  "nature-pol-204": [
+   {
+    "id": "nature-pol-202",
+    "reason": "objection to the weak and strong versions"
+   }
+  ],
+  "nature-pol-205": [],
+  "nature-pol-206": [
+   {
+    "id": "nature-pol-205",
+    "reason": "classification of subsidies"
+   }
+  ],
+  "nature-pol-207": [
+   {
+    "id": "nature-pol-205",
+    "reason": "effects of a subsidy"
+   },
+   {
+    "id": "nature-econ-360",
+    "reason": "shifts supply or demand curves"
+   },
+   {
+    "id": "nature-econ-345",
+    "reason": "creates deadweight loss"
+   }
+  ],
+  "nature-pol-208": [
+   {
+    "id": "nature-pol-205",
+    "reason": "a class of subsidies"
+   },
+   {
+    "id": "nature-pol-207",
+    "reason": "harmful through their market effects"
+   }
+  ],
+  "nature-pol-209": [
+   {
+    "id": "nature-pol-205",
+    "reason": "a type of subsidy"
+   },
+   {
+    "id": "nature-pol-208",
+    "reason": "often cited as perverse"
+   },
+   {
+    "id": "nature-eco-063",
+    "reason": "subsidised fishing drives overexploitation"
+   }
+  ],
+  "nature-pol-210": [
+   {
+    "id": "nature-pol-186",
+    "reason": "a type of product label"
+   },
+   {
+    "id": "nature-acct-031",
+    "reason": "states a product's carbon footprint"
+   }
+  ],
+  "nature-pol-211": [
+   {
+    "id": "nature-pol-184",
+    "reason": "a sustainability certification scheme"
+   },
+   {
+    "id": "nature-eco-567",
+    "reason": "certifies products from forests"
+   }
+  ],
+  "nature-pol-212": [
+   {
+    "id": "nature-pol-211",
+    "reason": "part of forest certification"
+   }
+  ],
+  "nature-pol-213": [
+   {
+    "id": "nature-pol-205",
+    "reason": "runs agricultural subsidies"
+   }
+  ],
+  "nature-pol-214": [
+   {
+    "id": "nature-pol-213",
+    "reason": "reform of the CAP"
+   }
+  ],
+  "nature-pol-215": [
+   {
+    "id": "nature-pol-213",
+    "reason": "environmental critique of the CAP"
+   }
+  ],
+  "nature-pol-216": [
+   {
+    "id": "nature-pol-213",
+    "reason": "second pillar of the CAP"
+   }
+  ],
+  "nature-pol-217": [
+   {
+    "id": "nature-pol-191",
+    "reason": "an energy-efficiency label"
+   }
+  ],
+  "nature-pol-218": [
+   {
+    "id": "nature-pol-163",
+    "reason": "a voluntary form of environmental regulation"
+   }
+  ],
+  "nature-pol-219": [
+   {
+    "id": "nature-pol-218",
+    "reason": "drawbacks of certification"
+   }
+  ],
+  "nature-pol-220": [
+   {
+    "id": "nature-pol-218",
+    "reason": "a certification standard"
+   }
+  ],
+  "nature-pol-221": [
+   {
+    "id": "nature-pol-184",
+    "reason": "a sustainability standard for trade"
+   }
+  ],
+  "nature-pol-222": [
+   {
+    "id": "nature-pol-221",
+    "reason": "premium paid under fair trade"
+   }
+  ],
+  "nature-pol-223": [
+   {
+    "id": "nature-pol-221",
+    "reason": "critique of fair trade"
+   }
+  ],
+  "nature-pol-224": [
+   {
+    "id": "nature-pol-205",
+    "reason": "a price-support subsidy for renewables"
+   }
+  ],
+  "nature-pol-225": [
+   {
+    "id": "nature-econ-356",
+    "reason": "compares electricity prices"
+   },
+   {
+    "id": "nature-pol-224",
+    "reason": "the goal feed-in tariffs aim to reach"
+   }
+  ],
+  "nature-pol-226": [
+   {
+    "id": "nature-found-045",
+    "reason": "justified as correcting market failures"
+   },
+   {
+    "id": "nature-pol-205",
+    "reason": "uses subsidies to support green industries"
+   }
+  ],
+  "nature-pol-227": [
+   {
+    "id": "nature-pol-226",
+    "reason": "risks of green industrial policy"
+   },
+   {
+    "id": "nature-found-064",
+    "reason": "rent-seeking and capture are forms of government failure"
+   }
+  ],
+  "nature-pol-228": [
+   {
+    "id": "nature-pol-226",
+    "reason": "a tool of green industrial policy"
+   }
+  ],
+  "nature-pol-229": [
+   {
+    "id": "nature-pol-218",
+    "reason": "a family of certifiable environmental standards"
+   }
+  ],
+  "nature-pol-230": [
+   {
+    "id": "nature-pol-229",
+    "reason": "the cycle underlying ISO 14001"
+   }
+  ],
+  "nature-pol-231": [
+   {
+    "id": "nature-pol-237",
+    "reason": "works mainly through tax credits"
+   },
+   {
+    "id": "nature-pol-226",
+    "reason": "an example of green industrial policy"
+   },
+   {
+    "id": "nature-hist-007",
+    "reason": "legislation to address climate change"
+   }
+  ],
+  "nature-pol-232": [
+   {
+    "id": "nature-found-075",
+    "reason": "registers releases of hazardous pollutants"
+   }
+  ],
+  "nature-pol-233": [
+   {
+    "id": "nature-pol-232",
+    "reason": "the US pollutant release register"
+   }
+  ],
+  "nature-pol-234": [
+   {
+    "id": "nature-acct-050",
+    "reason": "value judged over the whole life cycle"
+   },
+   {
+    "id": "nature-acct-114",
+    "reason": "balances economic, social and environmental aims"
+   }
+  ],
+  "nature-pol-235": [
+   {
+    "id": "nature-pol-234",
+    "reason": "the environmental part of sustainable procurement"
+   }
+  ],
+  "nature-pol-236": [
+   {
+    "id": "nature-pol-186",
+    "reason": "seafood ecolabels and certification"
+   },
+   {
+    "id": "nature-eco-063",
+    "reason": "helps avoid overexploited stocks"
+   }
+  ],
+  "nature-pol-237": [
+   {
+    "id": "nature-econ-089",
+    "reason": "encourages activity through incentives"
+   }
+  ],
+  "nature-pol-238": [
+   {
+    "id": "nature-pol-147",
+    "reason": "an alternative to mandatory command and control"
+   },
+   {
+    "id": "nature-pol-163",
+    "reason": "voluntary environmental action by firms"
+   }
+  ],
+  "nature-clim-222": [
+   {
+    "id": "nature-hist-007",
+    "reason": "risk from climate change"
+   },
+   {
+    "id": "nature-eco-017",
+    "reason": "harm comes from climate impacts"
+   },
+   {
+    "id": "nature-econ-772",
+    "reason": "risk involves uncertain outcomes"
+   }
+  ],
+  "nature-clim-223": [
+   {
+    "id": "nature-clim-222",
+    "reason": "the components of climate risk"
+   }
+  ],
+  "nature-clim-224": [
+   {
+    "id": "nature-clim-222",
+    "reason": "climate risk applied to ecosystems"
+   },
+   {
+    "id": "nature-found-004",
+    "reason": "threatens ecosystem services"
+   }
+  ],
+  "nature-clim-227": [
+   {
+    "id": "nature-hist-007",
+    "reason": "economic analysis of climate change"
+   },
+   {
+    "id": "nature-eco-017",
+    "reason": "estimates the size of climate damages"
+   },
+   {
+    "id": "nature-val-001",
+    "reason": "relies on cost-benefit tools"
+   }
+  ],
+  "nature-clim-228": [
+   {
+    "id": "nature-clim-227",
+    "reason": "the headline output of economic analysis"
+   },
+   {
+    "id": "nature-econ-483",
+    "reason": "market impacts measured against GDP"
+   },
+   {
+    "id": "nature-val-073",
+    "reason": "includes non-market impacts"
+   }
+  ],
+  "nature-clim-229": [
+   {
+    "id": "nature-clim-228",
+    "reason": "argues those estimates are too low"
+   },
+   {
+    "id": "nature-clim-248",
+    "reason": "critiques what the models leave out"
+   },
+   {
+    "id": "nature-eco-607",
+    "reason": "tipping points are omitted"
+   }
+  ],
+  "nature-clim-230": [
+   {
+    "id": "nature-clim-227",
+    "reason": "an output of economic analysis"
+   },
+   {
+    "id": "nature-clim-245",
+    "reason": "built from marginal abatement costs"
+   }
+  ],
+  "nature-clim-231": [
+   {
+    "id": "nature-clim-230",
+    "reason": "how mitigation costs are shared"
+   },
+   {
+    "id": "nature-econ-188",
+    "reason": "an equity question"
+   }
+  ],
+  "nature-clim-232": [
+   {
+    "id": "nature-clim-227",
+    "reason": "an output of economic analysis"
+   },
+   {
+    "id": "nature-econ-095",
+    "reason": "adaptation spending has costs"
+   }
+  ],
+  "nature-clim-233": [
+   {
+    "id": "nature-val-001",
+    "reason": "applies cost-benefit analysis"
+   },
+   {
+    "id": "nature-clim-227",
+    "reason": "part of climate economics"
+   },
+   {
+    "id": "nature-econ-745",
+    "reason": "future effects must be discounted"
+   }
+  ],
+  "nature-clim-235": [
+   {
+    "id": "nature-val-008",
+    "reason": "cost-effectiveness analysis applied to climate"
+   },
+   {
+    "id": "nature-clim-233",
+    "reason": "used when CBA's monetisation fails"
+   }
+  ],
+  "nature-clim-236": [
+   {
+    "id": "nature-clim-222",
+    "reason": "handling climate uncertainty and risk"
+   },
+   {
+    "id": "nature-econ-787",
+    "reason": "a decision-theory approach"
+   }
+  ],
+  "nature-clim-237": [
+   {
+    "id": "nature-clim-227",
+    "reason": "a debate within climate economics"
+   },
+   {
+    "id": "nature-econ-188",
+    "reason": "concerns equity"
+   }
+  ],
+  "nature-clim-239": [
+   {
+    "id": "nature-clim-230",
+    "reason": "side effects that change mitigation cost estimates"
+   }
+  ],
+  "nature-clim-241": [
+   {
+    "id": "nature-found-031",
+    "reason": "the cost of an emissions externality"
+   },
+   {
+    "id": "nature-clim-227",
+    "reason": "estimated by climate-economic analysis"
+   },
+   {
+    "id": "nature-eco-163",
+    "reason": "per ton of emissions"
+   },
+   {
+    "id": "nature-econ-745",
+    "reason": "future damages are discounted"
+   }
+  ],
+  "nature-clim-242": [
+   {
+    "id": "nature-clim-241",
+    "reason": "steps to estimate it"
+   },
+   {
+    "id": "nature-clim-248",
+    "reason": "uses integrated assessment models"
+   },
+   {
+    "id": "nature-econ-752",
+    "reason": "choice of social discount rate"
+   }
+  ],
+  "nature-clim-243": [
+   {
+    "id": "nature-clim-248",
+    "reason": "three integrated assessment models"
+   },
+   {
+    "id": "nature-clim-241",
+    "reason": "underpinned SCC estimates"
+   }
+  ],
+  "nature-clim-244": [
+   {
+    "id": "nature-clim-241",
+    "reason": "an extension of SCC estimates"
+   },
+   {
+    "id": "nature-clim-234",
+    "reason": "modifies the damage function"
+   },
+   {
+    "id": "nature-eco-607",
+    "reason": "adds climate tipping points"
+   }
+  ],
+  "nature-clim-245": [
+   {
+    "id": "nature-econ-347",
+    "reason": "a marginal cost"
+   },
+   {
+    "id": "nature-found-079",
+    "reason": "of reducing pollution"
+   }
+  ],
+  "nature-clim-247": [
+   {
+    "id": "nature-clim-248",
+    "reason": "an integrated assessment model"
+   },
+   {
+    "id": "nature-eco-164",
+    "reason": "includes the carbon cycle"
+   },
+   {
+    "id": "nature-eco-158",
+    "reason": "includes climate science"
+   },
+   {
+    "id": "nature-val-001",
+    "reason": "weighs costs and benefits"
+   }
+  ],
+  "nature-clim-248": [
+   {
+    "id": "nature-clim-227",
+    "reason": "the modelling tool of climate economics"
+   },
+   {
+    "id": "nature-econ-152",
+    "reason": "a kind of model"
+   },
+   {
+    "id": "nature-hist-007",
+    "reason": "links economy to the climate system"
+   }
+  ],
+  "nature-clim-249": [
+   {
+    "id": "nature-clim-248",
+    "reason": "a type of integrated assessment model"
+   },
+   {
+    "id": "nature-clim-253",
+    "reason": "used to quantify mitigation scenarios"
+   }
+  ],
+  "nature-clim-250": [
+   {
+    "id": "nature-clim-175",
+    "reason": "unburnable reserves become stranded"
+   },
+   {
+    "id": "nature-acct-105",
+    "reason": "reserves counted as assets"
+   }
+  ],
+  "nature-clim-251": [
+   {
+    "id": "nature-pol-038",
+    "reason": "a form of path dependence"
+   },
+   {
+    "id": "nature-econ-317",
+    "reason": "reinforced by scale economies"
+   }
+  ],
+  "nature-clim-252": [
+   {
+    "id": "nature-hist-007",
+    "reason": "scenarios of climate change"
+   },
+   {
+    "id": "nature-econ-152",
+    "reason": "built on assumptions like a model"
+   }
+  ],
+  "nature-clim-253": [
+   {
+    "id": "nature-clim-252",
+    "reason": "a type of scenario"
+   }
+  ],
+  "nature-clim-254": [
+   {
+    "id": "nature-clim-252",
+    "reason": "a set of IPCC scenarios"
+   },
+   {
+    "id": "nature-eco-004",
+    "reason": "pathways labelled by radiative forcing"
+   }
+  ],
+  "nature-clim-255": [
+   {
+    "id": "nature-eco-158",
+    "reason": "two measures of climate sensitivity"
+   }
+  ],
+  "nature-clim-256": [
+   {
+    "id": "nature-hist-007",
+    "reason": "moral questions climate change raises"
+   },
+   {
+    "id": "nature-econ-209",
+    "reason": "utilitarian reasoning is one approach"
+   }
+  ],
+  "nature-clim-257": [
+   {
+    "id": "nature-clim-256",
+    "reason": "part of climate ethics"
+   },
+   {
+    "id": "nature-econ-839",
+    "reason": "relates to time preference"
+   }
+  ],
+  "nature-clim-258": [
+   {
+    "id": "nature-econ-756",
+    "reason": "extreme outcomes change expected values"
+   },
+   {
+    "id": "nature-econ-772",
+    "reason": "describes uncertain outcomes"
+   }
+  ],
+  "nature-clim-259": [
+   {
+    "id": "nature-eco-162",
+    "reason": "concerns greenhouse gases"
+   },
+   {
+    "id": "nature-eco-169",
+    "reason": "set by sinks"
+   },
+   {
+    "id": "nature-eco-164",
+    "reason": "balance of sources and sinks in the carbon cycle"
+   }
+  ],
+  "nature-clim-260": [
+   {
+    "id": "nature-eco-163",
+    "reason": "divides greenhouse gas emissions"
+   }
+  ],
+  "nature-clim-261": [
+   {
+    "id": "nature-eco-163",
+    "reason": "emissions summed over time"
+   }
+  ],
+  "nature-clim-262": [
+   {
+    "id": "nature-eco-163",
+    "reason": "inequality in emissions"
+   },
+   {
+    "id": "nature-econ-491",
+    "reason": "linked to income"
+   }
+  ],
+  "nature-clim-265": [
+   {
+    "id": "nature-eco-163",
+    "reason": "decomposes CO2 emissions"
+   },
+   {
+    "id": "nature-econ-483",
+    "reason": "uses GDP per person"
+   },
+   {
+    "id": "nature-clim-264",
+    "reason": "uses emissions per unit energy"
+   }
+  ],
+  "nature-clim-266": [
+   {
+    "id": "nature-clim-273",
+    "reason": "a method for deep uncertainty"
+   },
+   {
+    "id": "nature-clim-252",
+    "reason": "tests strategies across scenarios"
+   }
+  ],
+  "nature-clim-267": [
+   {
+    "id": "nature-clim-252",
+    "reason": "a set of scenarios"
+   }
+  ],
+  "nature-clim-268": [
+   {
+    "id": "nature-clim-227",
+    "reason": "a review of climate economics"
+   },
+   {
+    "id": "nature-econ-755",
+    "reason": "famous for its discounting choices"
+   },
+   {
+    "id": "nature-found-045",
+    "reason": "called climate change a market failure"
+   }
+  ],
+  "nature-clim-269": [
+   {
+    "id": "nature-res-221",
+    "reason": "builds on Hotelling's extraction rule"
+   },
+   {
+    "id": "nature-hist-007",
+    "reason": "effect on global warming"
+   }
+  ],
+  "nature-clim-270": [
+   {
+    "id": "nature-eco-163",
+    "reason": "measures emissions"
+   },
+   {
+    "id": "nature-eco-160",
+    "reason": "in CO2 equivalents"
+   }
+  ],
+  "nature-clim-271": [
+   {
+    "id": "nature-clim-248",
+    "reason": "an integrated assessment model"
+   },
+   {
+    "id": "nature-clim-241",
+    "reason": "used for the SCC"
+   }
+  ],
+  "nature-clim-272": [
+   {
+    "id": "nature-clim-248",
+    "reason": "an integrated assessment model"
+   },
+   {
+    "id": "nature-clim-241",
+    "reason": "used for the SCC"
+   }
+  ],
+  "nature-clim-273": [
+   {
+    "id": "nature-econ-772",
+    "reason": "an extreme form of uncertainty"
+   }
+  ],
+  "nature-es-001": [
+   {
+    "id": "nature-found-004",
+    "reason": "assessed ecosystem services"
+   },
+   {
+    "id": "nature-eco-129",
+    "reason": "study of human effects on environment"
+   }
+  ],
+  "nature-es-002": [
+   {
+    "id": "nature-found-015",
+    "reason": "benefits from ecosystems"
+   },
+   {
+    "id": "nature-econ-122",
+    "reason": "goods and services"
+   }
+  ],
+  "nature-es-004": [
+   {
+    "id": "nature-found-004",
+    "reason": "framework for ecosystem services"
+   }
+  ],
+  "nature-es-005": [
+   {
+    "id": "nature-found-004",
+    "reason": "history of the ecosystem services concept"
+   }
+  ],
+  "nature-es-006": [
+   {
+    "id": "nature-found-004",
+    "reason": "values ecosystem services"
+   },
+   {
+    "id": "nature-econ-156",
+    "reason": "expressed as economic value"
+   },
+   {
+    "id": "nature-found-045",
+    "reason": "services are missed by markets"
+   }
+  ],
+  "nature-es-007": [
+   {
+    "id": "nature-found-004",
+    "reason": "trade-offs among ecosystem services"
+   },
+   {
+    "id": "nature-econ-099",
+    "reason": "applies the idea of a trade-off"
+   }
+  ],
+  "nature-es-008": [
+   {
+    "id": "nature-found-004",
+    "reason": "who benefits from ecosystem services"
+   }
+  ],
+  "nature-es-009": [
+   {
+    "id": "nature-found-004",
+    "reason": "managing ecosystem services"
+   },
+   {
+    "id": "nature-es-006",
+    "reason": "hurdles remain even where services have money values"
+   }
+  ],
+  "nature-es-010": [
+   {
+    "id": "nature-found-004",
+    "reason": "decisions affecting ecosystem services"
+   },
+   {
+    "id": "nature-es-007",
+    "reason": "weighing trade-offs among services"
+   }
+  ],
+  "nature-es-011": [
+   {
+    "id": "nature-found-004",
+    "reason": "estimates changes in services"
+   }
+  ],
+  "nature-es-123": [
+   {
+    "id": "nature-found-004",
+    "reason": "IPBES alternative to ecosystem services"
+   }
+  ],
+  "nature-econ-745": [
+   {
+    "id": "nature-econ-811",
+    "reason": "the charge for delay is interest"
+   },
+   {
+    "id": "nature-econ-769",
+    "reason": "rests on the time value of money"
+   }
+  ],
+  "nature-econ-746": [
+   {
+    "id": "nature-econ-745",
+    "reason": "the rate used in discounting"
+   },
+   {
+    "id": "nature-econ-757",
+    "reason": "analogous to an interest rate"
+   }
+  ],
+  "nature-econ-747": [
+   {
+    "id": "nature-econ-745",
+    "reason": "the multiplier used in discounting"
+   },
+   {
+    "id": "nature-econ-762",
+    "reason": "gives present value"
+   },
+   {
+    "id": "nature-econ-746",
+    "reason": "computed from the discount rate"
+   }
+  ],
+  "nature-econ-748": [
+   {
+    "id": "nature-econ-794",
+    "reason": "contrasted with exponential discounting"
+   },
+   {
+    "id": "nature-econ-818",
+    "reason": "a model of intertemporal choice"
+   },
+   {
+    "id": "nature-econ-839",
+    "reason": "describes time preference"
+   }
+  ],
+  "nature-econ-749": [
+   {
+    "id": "nature-econ-748",
+    "reason": "explains hyperbolic discounting"
+   },
+   {
+    "id": "nature-econ-772",
+    "reason": "the hazard is uncertain"
+   }
+  ],
+  "nature-econ-750": [
+   {
+    "id": "nature-econ-748",
+    "reason": "approximates hyperbolic discounting"
+   },
+   {
+    "id": "nature-econ-794",
+    "reason": "combines an exponential factor"
+   }
+  ],
+  "nature-econ-751": [
+   {
+    "id": "nature-econ-748",
+    "reason": "critique of hyperbolic models"
+   }
+  ],
+  "nature-econ-752": [
+   {
+    "id": "nature-econ-746",
+    "reason": "a discount rate for public projects"
+   }
+  ],
+  "nature-econ-753": [
+   {
+    "id": "nature-econ-752",
+    "reason": "builds the social discount rate"
+   },
+   {
+    "id": "nature-econ-839",
+    "reason": "pure time preference term"
+   },
+   {
+    "id": "nature-econ-091",
+    "reason": "elasticity of marginal utility term"
+   },
+   {
+    "id": "nature-econ-820",
+    "reason": "growth of consumption over time"
+   }
+  ],
+  "nature-econ-754": [
+   {
+    "id": "nature-econ-752",
+    "reason": "debate about a component of the social discount rate"
+   },
+   {
+    "id": "nature-econ-839",
+    "reason": "pure time preference"
+   }
+  ],
+  "nature-econ-755": [
+   {
+    "id": "nature-econ-752",
+    "reason": "choosing the social discount rate"
+   },
+   {
+    "id": "nature-econ-754",
+    "reason": "the pure time preference debate"
+   }
+  ],
+  "nature-econ-756": [
+   {
+    "id": "nature-econ-772",
+    "reason": "average over uncertain outcomes"
+   }
+  ],
+  "nature-econ-757": [
+   {
+    "id": "nature-econ-811",
+    "reason": "interest charged each period"
+   }
+  ],
+  "nature-econ-758": [
+   {
+    "id": "nature-econ-757",
+    "reason": "interest rate adjusted"
+   },
+   {
+    "id": "nature-econ-801",
+    "reason": "for inflation"
+   },
+   {
+    "id": "nature-econ-831",
+    "reason": "real versus nominal values"
+   }
+  ],
+  "nature-econ-759": [
+   {
+    "id": "nature-econ-757",
+    "reason": "target interest rates"
+   },
+   {
+    "id": "nature-econ-801",
+    "reason": "used to influence inflation"
+   }
+  ],
+  "nature-econ-760": [
+   {
+    "id": "nature-econ-757",
+    "reason": "an interest rate below zero"
+   }
+  ],
+  "nature-econ-761": [
+   {
+    "id": "nature-econ-757",
+    "reason": "interest is the reward for giving up liquidity"
+   }
+  ],
+  "nature-econ-762": [
+   {
+    "id": "nature-econ-769",
+    "reason": "expresses the time value of money"
+   },
+   {
+    "id": "nature-econ-757",
+    "reason": "discounted at an interest rate"
+   }
+  ],
+  "nature-econ-763": [
+   {
+    "id": "nature-econ-762",
+    "reason": "valued by present value"
+   },
+   {
+    "id": "nature-econ-779",
+    "reason": "an endless annuity"
+   }
+  ],
+  "nature-econ-764": [
+   {
+    "id": "nature-econ-762",
+    "reason": "a rule-of-thumb for present value"
+   }
+  ],
+  "nature-econ-765": [
+   {
+    "id": "nature-econ-773",
+    "reason": "preference over risky outcomes"
+   },
+   {
+    "id": "nature-econ-756",
+    "reason": "compared to the average payoff"
+   }
+  ],
+  "nature-econ-766": [
+   {
+    "id": "nature-econ-765",
+    "reason": "measures of risk aversion"
+   },
+   {
+    "id": "nature-econ-797",
+    "reason": "curvature of expected-utility function"
+   }
+  ],
+  "nature-econ-767": [
+   {
+    "id": "nature-econ-765",
+    "reason": "critique of explaining risk aversion"
+   },
+   {
+    "id": "nature-econ-797",
+    "reason": "targets expected utility theory"
+   }
+  ],
+  "nature-econ-768": [
+   {
+    "id": "nature-econ-765",
+    "reason": "risk aversion in agencies"
+   }
+  ],
+  "nature-econ-769": [
+   {
+    "id": "nature-econ-839",
+    "reason": "money now preferred to later"
+   },
+   {
+    "id": "nature-econ-811",
+    "reason": "money now can earn interest"
+   }
+  ],
+  "nature-econ-770": [
+   {
+    "id": "nature-econ-781",
+    "reason": "grows by compound interest"
+   }
+  ],
+  "nature-econ-771": [
+   {
+    "id": "nature-econ-763",
+    "reason": "a perpetuity that grows"
+   }
+  ],
+  "nature-econ-772": [],
+  "nature-econ-773": [
+   {
+    "id": "nature-econ-772",
+    "reason": "quantified uncertainty"
+   }
+  ],
+  "nature-econ-774": [
+   {
+    "id": "nature-econ-773",
+    "reason": "contrasted with measurable risk"
+   }
+  ],
+  "nature-econ-775": [
+   {
+    "id": "nature-econ-774",
+    "reason": "a stronger form of unmeasurable uncertainty"
+   }
+  ],
+  "nature-econ-776": [
+   {
+    "id": "nature-econ-772",
+    "reason": "uncertainty as communicated"
+   }
+  ],
+  "nature-econ-777": [
+   {
+    "id": "nature-econ-774",
+    "reason": "aversion to unknown odds"
+   },
+   {
+    "id": "nature-econ-765",
+    "reason": "parallels risk aversion"
+   }
+  ],
+  "nature-econ-778": [
+   {
+    "id": "nature-econ-777",
+    "reason": "a model of ambiguity aversion"
+   },
+   {
+    "id": "nature-econ-797",
+    "reason": "worst-case expected utility"
+   }
+  ],
+  "nature-econ-779": [
+   {
+    "id": "nature-econ-762",
+    "reason": "valued by present value"
+   }
+  ],
+  "nature-econ-780": [
+   {
+    "id": "nature-econ-779",
+    "reason": "an annuity paid for life"
+   },
+   {
+    "id": "nature-econ-756",
+    "reason": "uncertain payments use expected value"
+   }
+  ],
+  "nature-econ-781": [
+   {
+    "id": "nature-econ-811",
+    "reason": "interest on interest"
+   }
+  ],
+  "nature-econ-782": [
+   {
+    "id": "nature-econ-781",
+    "reason": "limit of compounding"
+   }
+  ],
+  "nature-econ-783": [
+   {
+    "id": "nature-econ-781",
+    "reason": "compares compounding frequencies"
+   }
+  ],
+  "nature-econ-784": [
+   {
+    "id": "nature-econ-083",
+    "reason": "cost of funds for capital"
+   },
+   {
+    "id": "nature-econ-095",
+    "reason": "the return investors require is an opportunity cost"
+   },
+   {
+    "id": "nature-econ-757",
+    "reason": "cost of borrowed funds"
+   }
+  ],
+  "nature-econ-785": [
+   {
+    "id": "nature-econ-784",
+    "reason": "blends components of cost of capital"
+   },
+   {
+    "id": "nature-econ-786",
+    "reason": "cost of equity is one component"
+   }
+  ],
+  "nature-econ-786": [
+   {
+    "id": "nature-econ-784",
+    "reason": "equity component of the cost of capital"
+   },
+   {
+    "id": "nature-econ-836",
+    "reason": "depends on risk"
+   }
+  ],
+  "nature-econ-787": [
+   {
+    "id": "nature-econ-772",
+    "reason": "choice under uncertainty"
+   },
+   {
+    "id": "nature-econ-797",
+    "reason": "uses expected utility"
+   },
+   {
+    "id": "nature-econ-756",
+    "reason": "probability-weighted outcomes"
+   }
+  ],
+  "nature-econ-788": [
+   {
+    "id": "nature-econ-787",
+    "reason": "branches of decision theory"
+   }
+  ],
+  "nature-econ-789": [],
+  "nature-econ-790": [
+   {
+    "id": "nature-econ-787",
+    "reason": "debate within decision theory"
+   },
+   {
+    "id": "nature-econ-774",
+    "reason": "non-probabilistic uncertainty"
+   }
+  ],
+  "nature-econ-791": [
+   {
+    "id": "nature-econ-745",
+    "reason": "weights for discounting"
+   },
+   {
+    "id": "nature-econ-100",
+    "reason": "applied to rewards or utility"
+   }
+  ],
+  "nature-econ-792": [
+   {
+    "id": "nature-econ-762",
+    "reason": "sums present values of cash flows"
+   },
+   {
+    "id": "nature-econ-769",
+    "reason": "allows for time value of money"
+   }
+  ],
+  "nature-econ-793": [
+   {
+    "id": "nature-econ-792",
+    "reason": "extends discounted cash flow"
+   },
+   {
+    "id": "nature-found-010",
+    "reason": "counts natural capital"
+   }
+  ],
+  "nature-econ-794": [
+   {
+    "id": "nature-econ-791",
+    "reason": "a type of discount function"
+   }
+  ],
+  "nature-econ-795": [
+   {
+    "id": "nature-econ-100",
+    "reason": "value of utility"
+   },
+   {
+    "id": "nature-econ-791",
+    "reason": "weighted by a discount function"
+   },
+   {
+    "id": "nature-econ-839",
+    "reason": "reflects time preference"
+   }
+  ],
+  "nature-econ-796": [
+   {
+    "id": "nature-econ-797",
+    "reason": "a generalisation of expected utility"
+   },
+   {
+    "id": "nature-econ-765",
+    "reason": "separates risk attitudes"
+   },
+   {
+    "id": "nature-econ-820",
+    "reason": "from consumption substitution over time"
+   }
+  ],
+  "nature-econ-797": [
+   {
+    "id": "nature-econ-756",
+    "reason": "probability-weighted average"
+   },
+   {
+    "id": "nature-econ-100",
+    "reason": "of the utility of outcomes"
+   },
+   {
+    "id": "nature-econ-772",
+    "reason": "choice between risky options"
+   }
+  ],
+  "nature-econ-798": [
+   {
+    "id": "nature-econ-756",
+    "reason": "infinite expected payoff"
+   },
+   {
+    "id": "nature-econ-797",
+    "reason": "resolved by expected utility"
+   }
+  ],
+  "nature-econ-799": [
+   {
+    "id": "nature-econ-797",
+    "reason": "expected utility with personal probabilities"
+   },
+   {
+    "id": "nature-econ-774",
+    "reason": "probabilities not objectively known"
+   }
+  ],
+  "nature-econ-800": [
+   {
+    "id": "nature-econ-797",
+    "reason": "violates expected-utility consistency"
+   }
+  ],
+  "nature-econ-801": [
+   {
+    "id": "nature-econ-356",
+    "reason": "rise in average prices"
+   }
+  ],
+  "nature-econ-802": [
+   {
+    "id": "nature-econ-801",
+    "reason": "a form of inflation"
+   }
+  ],
+  "nature-econ-803": [
+   {
+    "id": "nature-econ-801",
+    "reason": "targets inflation"
+   },
+   {
+    "id": "nature-econ-757",
+    "reason": "adjusting interest rates"
+   }
+  ],
+  "nature-econ-804": [
+   {
+    "id": "nature-econ-801",
+    "reason": "theories of the causes of inflation"
+   }
+  ],
+  "nature-econ-805": [
+   {
+    "id": "nature-econ-773",
+    "reason": "protection against quantified risk of loss"
+   }
+  ],
+  "nature-econ-806": [
+   {
+    "id": "nature-econ-805",
+    "reason": "how insurance pays losses"
+   },
+   {
+    "id": "nature-econ-756",
+    "reason": "pooled losses approach expected values"
+   }
+  ],
+  "nature-econ-807": [
+   {
+    "id": "nature-econ-805",
+    "reason": "features needed for insurance"
+   },
+   {
+    "id": "nature-econ-806",
+    "reason": "relies on pooling"
+   }
+  ],
+  "nature-econ-808": [
+   {
+    "id": "nature-econ-805",
+    "reason": "price of insurance cover"
+   },
+   {
+    "id": "nature-econ-756",
+    "reason": "covers expected claims"
+   }
+  ],
+  "nature-econ-809": [
+   {
+    "id": "nature-econ-805",
+    "reason": "insurance for insurers"
+   }
+  ],
+  "nature-econ-810": [
+   {
+    "id": "nature-econ-805",
+    "reason": "a type of insurance"
+   },
+   {
+    "id": "nature-econ-807",
+    "reason": "natural hazards test insurability"
+   }
+  ],
+  "nature-econ-811": [],
+  "nature-econ-812": [
+   {
+    "id": "nature-econ-811",
+    "reason": "a way of calculating interest"
+   }
+  ],
+  "nature-econ-813": [
+   {
+    "id": "nature-econ-781",
+    "reason": "approximates compound growth"
+   },
+   {
+    "id": "nature-econ-757",
+    "reason": "divides by the interest rate"
+   }
+  ],
+  "nature-econ-814": [
+   {
+    "id": "nature-econ-757",
+    "reason": "what sets interest rates"
+   },
+   {
+    "id": "nature-econ-801",
+    "reason": "inflation is one factor"
+   }
+  ],
+  "nature-econ-815": [
+   {
+    "id": "nature-econ-811",
+    "reason": "why interest exists"
+   },
+   {
+    "id": "nature-econ-839",
+    "reason": "time preference is one explanation"
+   }
+  ],
+  "nature-econ-816": [
+   {
+    "id": "nature-econ-792",
+    "reason": "uses discounted cash flows"
+   },
+   {
+    "id": "nature-econ-762",
+    "reason": "rate where net present value is zero"
+   }
+  ],
+  "nature-econ-817": [
+   {
+    "id": "nature-econ-816",
+    "reason": "flaws of IRR"
+   }
+  ],
+  "nature-econ-818": [
+   {
+    "id": "nature-econ-839",
+    "reason": "valuing payoffs at different times"
+   }
+  ],
+  "nature-econ-819": [
+   {
+    "id": "nature-econ-818",
+    "reason": "a model of intertemporal choice"
+   },
+   {
+    "id": "nature-econ-757",
+    "reason": "lend or borrow at an interest rate"
+   },
+   {
+    "id": "nature-econ-762",
+    "reason": "uses present value of income"
+   }
+  ],
+  "nature-econ-820": [
+   {
+    "id": "nature-econ-818",
+    "reason": "intertemporal choice applied to consumption"
+   }
+  ],
+  "nature-econ-822": [
+   {
+    "id": "nature-econ-100",
+    "reason": "a utility formula"
+   },
+   {
+    "id": "nature-econ-091",
+    "reason": "extra consumption valued less"
+   },
+   {
+    "id": "nature-econ-766",
+    "reason": "constant relative risk aversion"
+   }
+  ],
+  "nature-econ-823": [
+   {
+    "id": "nature-econ-774",
+    "reason": "unpredictable, beyond measurable risk"
+   }
+  ],
+  "nature-econ-824": [
+   {
+    "id": "nature-econ-787",
+    "reason": "a decision rule"
+   }
+  ],
+  "nature-econ-825": [
+   {
+    "id": "nature-econ-824",
+    "reason": "minimax applied to uncertainty"
+   },
+   {
+    "id": "nature-econ-774",
+    "reason": "unknown facts without probabilities"
+   }
+  ],
+  "nature-econ-826": [
+   {
+    "id": "nature-econ-824",
+    "reason": "maximin applied to justice"
+   },
+   {
+    "id": "nature-econ-173",
+    "reason": "a principle of distributive justice"
+   }
+  ],
+  "nature-econ-827": [
+   {
+    "id": "nature-econ-820",
+    "reason": "saving decisions over time"
+   },
+   {
+    "id": "nature-econ-773",
+    "reason": "future income is risky"
+   }
+  ],
+  "nature-econ-828": [
+   {
+    "id": "nature-econ-827",
+    "reason": "strength of precautionary saving"
+   },
+   {
+    "id": "nature-econ-766",
+    "reason": "defined like Arrow-Pratt measures"
+   }
+  ],
+  "nature-econ-829": [
+   {
+    "id": "nature-econ-795",
+    "reason": "maximises discounted utility"
+   },
+   {
+    "id": "nature-econ-818",
+    "reason": "saving chosen over time"
+   },
+   {
+    "id": "nature-econ-083",
+    "reason": "capital accumulation drives growth"
+   }
+  ],
+  "nature-econ-830": [
+   {
+    "id": "nature-econ-820",
+    "reason": "shifting consumption between periods"
+   },
+   {
+    "id": "nature-econ-822",
+    "reason": "its inverse is the isoelastic parameter"
+   }
+  ],
+  "nature-econ-831": [
+   {
+    "id": "nature-econ-801",
+    "reason": "real values remove inflation"
+   }
+  ],
+  "nature-econ-832": [
+   {
+    "id": "nature-econ-801",
+    "reason": "used to measure inflation"
+   },
+   {
+    "id": "nature-econ-122",
+    "reason": "basket of goods and services"
+   }
+  ],
+  "nature-econ-833": [
+   {
+    "id": "nature-econ-831",
+    "reason": "relates real and nominal rates"
+   },
+   {
+    "id": "nature-econ-757",
+    "reason": "concerns interest rates"
+   },
+   {
+    "id": "nature-econ-801",
+    "reason": "subtracts inflation"
+   }
+  ],
+  "nature-econ-834": [
+   {
+    "id": "nature-econ-792",
+    "reason": "extends discounted cash flow"
+   },
+   {
+    "id": "nature-econ-773",
+    "reason": "values flexibility under risk"
+   }
+  ],
+  "nature-econ-835": [
+   {
+    "id": "nature-econ-756",
+    "reason": "cares only about expected payoff"
+   },
+   {
+    "id": "nature-econ-765",
+    "reason": "contrasted with risk aversion"
+   }
+  ],
+  "nature-econ-836": [
+   {
+    "id": "nature-econ-765",
+    "reason": "extra return for accepting risk"
+   },
+   {
+    "id": "nature-econ-756",
+    "reason": "expected risky return"
+   }
+  ],
+  "nature-econ-837": [
+   {
+    "id": "nature-econ-836",
+    "reason": "risk premium in wages"
+   }
+  ],
+  "nature-econ-838": [
+   {
+    "id": "nature-econ-797",
+    "reason": "ranks options for all expected-utility maximisers"
+   },
+   {
+    "id": "nature-econ-765",
+    "reason": "classes defined by risk attitude"
+   }
+  ],
+  "nature-econ-839": [],
+  "nature-econ-840": [
+   {
+    "id": "nature-econ-839",
+    "reason": "patterns in time preference"
+   },
+   {
+    "id": "nature-econ-794",
+    "reason": "a constant rate fails"
+   }
+  ],
+  "nature-econ-841": [
+   {
+    "id": "nature-econ-839",
+    "reason": "measuring personal discounting"
+   },
+   {
+    "id": "nature-econ-746",
+    "reason": "estimates discount rates"
+   }
+  ],
+  "nature-econ-842": [
+   {
+    "id": "nature-econ-839",
+    "reason": "discounting differs by domain"
+   },
+   {
+    "id": "nature-econ-841",
+    "reason": "based on measured rates"
+   }
+  ],
+  "nature-econ-843": [
+   {
+    "id": "nature-econ-839",
+    "reason": "variation in time preference"
+   }
+  ],
+  "nature-econ-844": [
+   {
+    "id": "nature-econ-797",
+    "reason": "theorem grounding expected utility"
+   },
+   {
+    "id": "nature-econ-141",
+    "reason": "built on rational preferences"
+   }
+  ],
+  "nature-econ-845": [
+   {
+    "id": "nature-econ-836",
+    "reason": "expected return as a risk premium"
+   },
+   {
+    "id": "nature-econ-746",
+    "reason": "supplies discount rates"
+   }
+  ],
+  "nature-econ-846": [
+   {
+    "id": "nature-econ-752",
+    "reason": "a declining social discount rate"
+   },
+   {
+    "id": "nature-econ-772",
+    "reason": "reflects long-term uncertainty"
+   }
+  ],
+  "nature-econ-847": [
+   {
+    "id": "nature-econ-772",
+    "reason": "value under uncertainty"
+   }
+  ],
+  "nature-pol-239": [
+   {
+    "id": "nature-found-031",
+    "reason": "prices an emissions externality"
+   },
+   {
+    "id": "nature-eco-163",
+    "reason": "puts a cost on greenhouse gas emissions"
+   },
+   {
+    "id": "nature-pol-088",
+    "reason": "a Pigouvian approach"
+   }
+  ],
+  "nature-pol-240": [
+   {
+    "id": "nature-pol-239",
+    "reason": "two forms of carbon pricing"
+   },
+   {
+    "id": "nature-pol-081",
+    "reason": "carbon tax fixes the price"
+   },
+   {
+    "id": "nature-pol-244",
+    "reason": "trading fixes the quantity"
+   }
+  ],
+  "nature-pol-241": [
+   {
+    "id": "nature-pol-239",
+    "reason": "revenue from carbon pricing"
+   },
+   {
+    "id": "nature-pol-081",
+    "reason": "revenue from a carbon tax"
+   },
+   {
+    "id": "nature-pol-247",
+    "reason": "revenue from permit sales"
+   }
+  ],
+  "nature-pol-242": [
+   {
+    "id": "nature-pol-240",
+    "reason": "interaction of price or cap with other policies"
+   },
+   {
+    "id": "nature-pol-244",
+    "reason": "under an emissions cap"
+   }
+  ],
+  "nature-pol-243": [
+   {
+    "id": "nature-pol-239",
+    "reason": "a company-set carbon price"
+   }
+  ],
+  "nature-pol-244": [
+   {
+    "id": "nature-pol-253",
+    "reason": "emissions trading applied to carbon"
+   },
+   {
+    "id": "nature-eco-163",
+    "reason": "for greenhouse gases"
+   }
+  ],
+  "nature-pol-245": [
+   {
+    "id": "nature-pol-244",
+    "reason": "allocation within a trading scheme"
+   }
+  ],
+  "nature-pol-246": [
+   {
+    "id": "nature-pol-245",
+    "reason": "a method of allocation"
+   }
+  ],
+  "nature-pol-247": [
+   {
+    "id": "nature-pol-245",
+    "reason": "a method of allocation"
+   }
+  ],
+  "nature-pol-248": [
+   {
+    "id": "nature-pol-245",
+    "reason": "allocation too generous"
+   },
+   {
+    "id": "nature-econ-356",
+    "reason": "permit prices fall"
+   }
+  ]
+ }
+}

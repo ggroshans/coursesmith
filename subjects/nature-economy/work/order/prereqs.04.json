@@ -1,0 +1,2579 @@
+{
+ "entries": {
+  "nature-eecon-117": [
+   {
+    "id": "nature-eecon-115",
+    "reason": "heterodox economics is the school making this objection"
+   },
+   {
+    "id": "nature-econ-335",
+    "reason": "the critique targets the idea of market equilibrium"
+   },
+   {
+    "id": "nature-hist-023",
+    "reason": "it is aimed at neoclassical models"
+   }
+  ],
+  "nature-eecon-118": [],
+  "nature-eecon-119": [
+   {
+    "id": "nature-eecon-118",
+    "reason": "one of the laws of thermodynamics"
+   },
+   {
+    "id": "nature-eecon-109",
+    "reason": "stated in terms of entropy never decreasing"
+   }
+  ],
+  "nature-eecon-120": [
+   {
+    "id": "nature-eecon-086",
+    "reason": "the rift is a break in the society-nature exchange of materials, i.e. social metabolism"
+   },
+   {
+    "id": "nature-eco-398",
+    "reason": "the classic case is loss of soil fertility"
+   },
+   {
+    "id": "nature-found-023",
+    "reason": "it is said to produce ecological degradation"
+   }
+  ],
+  "nature-eecon-121": [
+   {
+    "id": "nature-eecon-120",
+    "reason": "a reading of the metabolic rift theory"
+   }
+  ],
+  "nature-eecon-122": [
+   {
+    "id": "nature-eecon-120",
+    "reason": "framed as closing the metabolic rift in cities"
+   },
+   {
+    "id": "nature-eecon-086",
+    "reason": "closing a city's energy, water, food and waste flows is about social metabolism"
+   }
+  ],
+  "nature-eecon-123": [
+   {
+    "id": "nature-eecon-086",
+    "reason": "an accounting method for societal and ecosystem metabolism"
+   },
+   {
+    "id": "nature-eecon-088",
+    "reason": "one of the social metabolism accounting schools"
+   }
+  ],
+  "nature-eecon-124": [
+   {
+    "id": "nature-econ-772",
+    "reason": "post-normal science is defined for situations where facts are uncertain"
+   }
+  ],
+  "nature-eecon-125": [
+   {
+    "id": "nature-eecon-124",
+    "reason": "a concept within post-normal science"
+   }
+  ],
+  "nature-eecon-126": [
+   {
+    "id": "nature-eecon-124",
+    "reason": "methods tied to post-normal science"
+   },
+   {
+    "id": "nature-eecon-123",
+    "reason": "MuSIASEM is one of them"
+   },
+   {
+    "id": "nature-econ-273",
+    "reason": "sensitivity auditing builds on sensitivity analysis"
+   }
+  ],
+  "nature-eecon-127": [
+   {
+    "id": "nature-found-051",
+    "reason": "the metaphor rests on Earth's limited supplies"
+   }
+  ],
+  "nature-eecon-128": [
+   {
+    "id": "nature-econ-541",
+    "reason": "a family of macroeconomic models"
+   },
+   {
+    "id": "nature-econ-594",
+    "reason": "built on consistent accounting of stocks and flows"
+   },
+   {
+    "id": "nature-econ-335",
+    "reason": "defined as non-equilibrium, against equilibrium models"
+   }
+  ],
+  "nature-eecon-129": [
+   {
+    "id": "nature-found-029",
+    "reason": "studies sustainability and links knowledge to action"
+   }
+  ],
+  "nature-eecon-130": [
+   {
+    "id": "nature-found-015",
+    "reason": "studies ecosystems as complex systems"
+   },
+   {
+    "id": "nature-eco-287",
+    "reason": "a holistic branch of ecosystem-level ecology"
+   }
+  ],
+  "nature-eecon-131": [
+   {
+    "id": "nature-eecon-130",
+    "reason": "Odum's principle from systems ecology"
+   },
+   {
+    "id": "nature-eco-409",
+    "reason": "about maximising use of available energy flowing through systems"
+   }
+  ],
+  "nature-eecon-132": [
+   {
+    "id": "nature-eco-409",
+    "reason": "the quantitative study of energy flow"
+   },
+   {
+    "id": "nature-eecon-130",
+    "reason": "closely tied to systems ecology"
+   }
+  ],
+  "nature-eecon-133": [
+   {
+    "id": "nature-pol-001",
+    "reason": "the transfer happens through international trade"
+   },
+   {
+    "id": "nature-econ-106",
+    "reason": "contrasts with the comparative-advantage view of trade gains"
+   },
+   {
+    "id": "nature-econ-130",
+    "reason": "the transfer is described in terms of labour value"
+   }
+  ],
+  "nature-eecon-134": [
+   {
+    "id": "nature-pol-001",
+    "reason": "concerns raw materials and manufactures traded between countries"
+   },
+   {
+    "id": "nature-econ-356",
+    "reason": "the finding is about relative prices"
+   },
+   {
+    "id": "nature-eecon-133",
+    "reason": "used as evidence for unequal exchange"
+   }
+  ],
+  "nature-eecon-136": [
+   {
+    "id": "nature-econ-594",
+    "reason": "throughput is a flow of matter and energy"
+   },
+   {
+    "id": "nature-eecon-059",
+    "reason": "a central idea of ecological economics"
+   },
+   {
+    "id": "nature-found-079",
+    "reason": "it leaves the economy as waste and pollution"
+   }
+  ],
+  "nature-eecon-137": [
+   {
+    "id": "nature-eecon-094",
+    "reason": "applies conservation of mass to the economy"
+   },
+   {
+    "id": "nature-eecon-136",
+    "reason": "tracks material throughput"
+   }
+  ],
+  "nature-eecon-138": [
+   {
+    "id": "nature-eecon-059",
+    "reason": "the scale question is one of ecological economics' three concerns"
+   },
+   {
+    "id": "nature-eecon-136",
+    "reason": "scale is measured by throughput"
+   },
+   {
+    "id": "nature-eecon-072",
+    "reason": "the steady-state economy is the proposed answer"
+   }
+  ],
+  "nature-eecon-139": [
+   {
+    "id": "nature-eecon-059",
+    "reason": "an approach within ecological economics"
+   }
+  ],
+  "nature-mkt-001": [
+   {
+    "id": "nature-eco-099",
+    "reason": "the treaty protects endangered species"
+   },
+   {
+    "id": "nature-eco-154",
+    "reason": "it regulates the wildlife trade"
+   },
+   {
+    "id": "nature-pol-001",
+    "reason": "the threat it targets is international trade"
+   }
+  ],
+  "nature-mkt-002": [
+   {
+    "id": "nature-mkt-001",
+    "reason": "the appendices are part of CITES"
+   }
+  ],
+  "nature-mkt-003": [
+   {
+    "id": "nature-eco-294",
+    "reason": "conflicts arise where people and wildlife habitat meet"
+   },
+   {
+    "id": "nature-eco-129",
+    "reason": "a form of human impact on wildlife"
+   }
+  ],
+  "nature-mkt-004": [
+   {
+    "id": "nature-mkt-003",
+    "reason": "methods to reduce human-wildlife conflict"
+   }
+  ],
+  "nature-mkt-005": [
+   {
+    "id": "nature-eco-154",
+    "reason": "part of the wildlife trade"
+   },
+   {
+    "id": "nature-eco-144",
+    "reason": "much ivory comes from poaching"
+   },
+   {
+    "id": "nature-mkt-001",
+    "reason": "the trade is controlled under CITES"
+   }
+  ],
+  "nature-mkt-006": [
+   {
+    "id": "nature-mkt-008",
+    "reason": "Marxan is software for systematic reserve design"
+   },
+   {
+    "id": "nature-eco-312",
+    "reason": "it implements systematic conservation planning"
+   }
+  ],
+  "nature-mkt-007": [
+   {
+    "id": "nature-gov-038",
+    "reason": "a paper park is a protected area in name only"
+   }
+  ],
+  "nature-mkt-008": [
+   {
+    "id": "nature-eco-312",
+    "reason": "reserve design applies systematic conservation planning"
+   },
+   {
+    "id": "nature-found-001",
+    "reason": "the goal is protecting biodiversity"
+   },
+   {
+    "id": "nature-eco-294",
+    "reason": "size, shape and links matter for habitat"
+   }
+  ],
+  "nature-mkt-010": [
+   {
+    "id": "nature-eco-140",
+    "reason": "they pursue nature conservation"
+   },
+   {
+    "id": "nature-found-001",
+    "reason": "the aim is biodiversity conservation"
+   }
+  ],
+  "nature-mkt-011": [
+   {
+    "id": "nature-eco-099",
+    "reason": "triage chooses which endangered species to save"
+   },
+   {
+    "id": "nature-econ-095",
+    "reason": "choosing under limited effort is an opportunity-cost problem"
+   },
+   {
+    "id": "nature-eco-309",
+    "reason": "a decision rule within conservation biology"
+   }
+  ],
+  "nature-eco-281": [
+   {
+    "id": "nature-eco-294",
+    "reason": "the niche builds on the conditions of a habitat"
+   },
+   {
+    "id": "nature-eco-374",
+    "reason": "it is the role a species or population occupies"
+   }
+  ],
+  "nature-eco-282": [
+   {
+    "id": "nature-eco-281",
+    "reason": "a formal view of the ecological niche"
+   }
+  ],
+  "nature-eco-284": [
+   {
+    "id": "nature-eco-281",
+    "reason": "species use different niches"
+   },
+   {
+    "id": "nature-eco-336",
+    "reason": "the species involved are competing"
+   },
+   {
+    "id": "nature-eco-285",
+    "reason": "differentiation is how species escape competitive exclusion"
+   }
+  ],
+  "nature-eco-285": [
+   {
+    "id": "nature-eco-336",
+    "reason": "the principle is about competition for a limited resource"
+   },
+   {
+    "id": "nature-eco-374",
+    "reason": "it concerns species persisting at steady numbers"
+   }
+  ],
+  "nature-eco-286": [
+   {
+    "id": "nature-found-001",
+    "reason": "ecosystem diversity is one level of biodiversity"
+   },
+   {
+    "id": "nature-found-015",
+    "reason": "it counts the variety of ecosystems"
+   }
+  ],
+  "nature-eco-287": [
+   {
+    "id": "nature-found-015",
+    "reason": "the study of the ecosystem as a whole"
+   },
+   {
+    "id": "nature-eco-320",
+    "reason": "it covers interactions of living and non-living parts"
+   }
+  ],
+  "nature-eco-288": [
+   {
+    "id": "nature-eco-305",
+    "reason": "control acts across trophic levels"
+   },
+   {
+    "id": "nature-eco-302",
+    "reason": "bottom-up control is set by primary production"
+   },
+   {
+    "id": "nature-eco-380",
+    "reason": "top-down control is by predators"
+   },
+   {
+    "id": "nature-eco-297",
+    "reason": "both act through the food web"
+   }
+  ],
+  "nature-es-086": [
+   {
+    "id": "nature-eco-294",
+    "reason": "an engineer creates or changes habitat"
+   }
+  ],
+  "nature-eco-290": [
+   {
+    "id": "nature-es-086",
+    "reason": "the two kinds of ecosystem engineer"
+   }
+  ],
+  "nature-eco-291": [
+   {
+    "id": "nature-eco-281",
+    "reason": "functions are roles species play, as in the niche"
+   },
+   {
+    "id": "nature-found-015",
+    "reason": "functions within the ecosystem"
+   }
+  ],
+  "nature-eco-292": [
+   {
+    "id": "nature-eco-291",
+    "reason": "the diversity of functions studied by functional ecology"
+   },
+   {
+    "id": "nature-eco-293",
+    "reason": "measured through functional traits"
+   },
+   {
+    "id": "nature-found-001",
+    "reason": "a dimension of biodiversity"
+   }
+  ],
+  "nature-eco-293": [
+   {
+    "id": "nature-eco-291",
+    "reason": "the trait concept of functional ecology"
+   }
+  ],
+  "nature-eco-294": [
+   {
+    "id": "nature-found-015",
+    "reason": "a habitat is a place within an ecosystem"
+   },
+   {
+    "id": "nature-eco-320",
+    "reason": "it includes non-living conditions"
+   }
+  ],
+  "nature-eco-295": [
+   {
+    "id": "nature-eco-294",
+    "reason": "a small-scale habitat"
+   }
+  ],
+  "nature-eco-296": [
+   {
+    "id": "nature-eco-294",
+    "reason": "towns and cities as habitat"
+   }
+  ],
+  "nature-eco-297": [
+   {
+    "id": "nature-eco-353",
+    "reason": "a food web is a network of linked food chains"
+   },
+   {
+    "id": "nature-eco-324",
+    "reason": "it starts with producers"
+   },
+   {
+    "id": "nature-eco-362",
+    "reason": "consumers are heterotrophs"
+   }
+  ],
+  "nature-eco-298": [
+   {
+    "id": "nature-eco-297",
+    "reason": "a kind of food web"
+   },
+   {
+    "id": "nature-eco-340",
+    "reason": "it is driven by decomposers"
+   },
+   {
+    "id": "nature-eco-341",
+    "reason": "it begins with decomposition of dead matter"
+   }
+  ],
+  "nature-eco-299": [
+   {
+    "id": "nature-eco-297",
+    "reason": "the question is about food web structure"
+   }
+  ],
+  "nature-eco-300": [
+   {
+    "id": "nature-eco-297",
+    "reason": "energy passes through the food web"
+   },
+   {
+    "id": "nature-eco-305",
+    "reason": "it moves between trophic levels"
+   },
+   {
+    "id": "nature-eco-409",
+    "reason": "trophic dynamics is about energy flow"
+   }
+  ],
+  "nature-eco-301": [
+   {
+    "id": "nature-eco-297",
+    "reason": "a keystone's large effect spreads through the food web"
+   },
+   {
+    "id": "nature-eco-331",
+    "reason": "it shapes its community"
+   }
+  ],
+  "nature-eco-302": [
+   {
+    "id": "nature-eco-324",
+    "reason": "primary production is carried out by autotrophs"
+   }
+  ],
+  "nature-eco-303": [
+   {
+    "id": "nature-eco-302",
+    "reason": "the two measures of primary production"
+   },
+   {
+    "id": "nature-eco-383",
+    "reason": "they are productivity rates"
+   }
+  ],
+  "nature-eco-304": [
+   {
+    "id": "nature-eco-302",
+    "reason": "primary production in the sea"
+   },
+   {
+    "id": "nature-eco-372",
+    "reason": "done almost entirely by phytoplankton"
+   }
+  ],
+  "nature-eco-305": [
+   {
+    "id": "nature-eco-353",
+    "reason": "trophic level counts feeding steps along a chain"
+   },
+   {
+    "id": "nature-eco-297",
+    "reason": "position in a food web"
+   }
+  ],
+  "nature-eco-306": [
+   {
+    "id": "nature-eco-305",
+    "reason": "a refinement of trophic level"
+   }
+  ],
+  "nature-eco-307": [
+   {
+    "id": "nature-eco-305",
+    "reason": "the average trophic level of catch"
+   },
+   {
+    "id": "nature-eco-306",
+    "reason": "uses fractional trophic levels"
+   }
+  ],
+  "nature-eco-308": [
+   {
+    "id": "nature-eco-305",
+    "reason": "links three trophic levels"
+   },
+   {
+    "id": "nature-eco-380",
+    "reason": "the top link is predation"
+   },
+   {
+    "id": "nature-eco-359",
+    "reason": "the middle link is a herbivore"
+   }
+  ],
+  "nature-eco-309": [
+   {
+    "id": "nature-found-001",
+    "reason": "the science of conserving biodiversity"
+   },
+   {
+    "id": "nature-eco-294",
+    "reason": "it protects habitats"
+   },
+   {
+    "id": "nature-found-015",
+    "reason": "and ecosystems"
+   }
+  ],
+  "nature-eco-310": [
+   {
+    "id": "nature-eco-309",
+    "reason": "a tool of conservation biology"
+   },
+   {
+    "id": "nature-found-015",
+    "reason": "used as a sign of ecosystem health"
+   }
+  ],
+  "nature-eco-311": [
+   {
+    "id": "nature-eco-309",
+    "reason": "a conservation biology strategy"
+   },
+   {
+    "id": "nature-eco-294",
+    "reason": "it works because the species needs a large habitat area"
+   }
+  ],
+  "nature-eco-312": [
+   {
+    "id": "nature-eco-309",
+    "reason": "a planning method of conservation biology"
+   },
+   {
+    "id": "nature-found-001",
+    "reason": "it targets priority biodiversity"
+   }
+  ],
+  "nature-eco-313": [
+   {
+    "id": "nature-found-001",
+    "reason": "threats to biodiversity"
+   },
+   {
+    "id": "nature-eco-294",
+    "reason": "habitat loss is the first threat"
+   }
+  ],
+  "nature-eco-314": [
+   {
+    "id": "nature-found-023",
+    "reason": "environmentalism responds to environmental degradation"
+   },
+   {
+    "id": "nature-found-079",
+    "reason": "pollution is a central concern"
+   },
+   {
+    "id": "nature-found-001",
+    "reason": "it seeks to protect living things"
+   }
+  ],
+  "nature-eco-315": [
+   {
+    "id": "nature-eco-314",
+    "reason": "a strand of environmentalism"
+   },
+   {
+    "id": "nature-econ-621",
+    "reason": "relies on property rights"
+   },
+   {
+    "id": "nature-found-031",
+    "reason": "frames harm as externalities to be handled by markets and tort law"
+   },
+   {
+    "id": "nature-econ-378",
+    "reason": "argues for free markets"
+   }
+  ],
+  "nature-eco-316": [
+   {
+    "id": "nature-eco-314",
+    "reason": "the labour strand of environmentalism"
+   }
+  ],
+  "nature-eco-317": [
+   {
+    "id": "nature-eco-314",
+    "reason": "defined as opposition to environmentalism"
+   }
+  ],
+  "nature-eco-318": [
+   {
+    "id": "nature-eco-294",
+    "reason": "protects wild species' habitats"
+   },
+   {
+    "id": "nature-found-001",
+    "reason": "aims to protect biodiversity"
+   },
+   {
+    "id": "nature-eco-374",
+    "reason": "keeps wildlife populations healthy"
+   }
+  ],
+  "nature-eco-319": [
+   {
+    "id": "nature-eco-309",
+    "reason": "a branch of conservation biology"
+   },
+   {
+    "id": "nature-eco-374",
+    "reason": "genetic factors act within populations"
+   }
+  ],
+  "nature-eco-320": [
+   {
+    "id": "nature-found-015",
+    "reason": "the non-living parts of an ecosystem"
+   }
+  ],
+  "nature-eco-321": [
+   {
+    "id": "nature-eco-353",
+    "reason": "sits at the top of a food chain"
+   },
+   {
+    "id": "nature-eco-380",
+    "reason": "it is a predator"
+   },
+   {
+    "id": "nature-eco-305",
+    "reason": "occupies the highest trophic level"
+   }
+  ],
+  "nature-eco-322": [
+   {
+    "id": "nature-eco-321",
+    "reason": "follows the removal of apex predators"
+   },
+   {
+    "id": "nature-eco-380",
+    "reason": "mid-sized predators are released from predation"
+   }
+  ],
+  "nature-eco-323": [
+   {
+    "id": "nature-eco-305",
+    "reason": "asks where humans sit by trophic level"
+   },
+   {
+    "id": "nature-eco-306",
+    "reason": "human trophic level is fractional"
+   },
+   {
+    "id": "nature-eco-321",
+    "reason": "asks whether humans are apex predators"
+   }
+  ],
+  "nature-eco-324": [],
+  "nature-eco-325": [
+   {
+    "id": "nature-eco-324",
+    "reason": "a kind of autotroph"
+   }
+  ],
+  "nature-eco-326": [
+   {
+    "id": "nature-found-015",
+    "reason": "mass of organisms in an area or ecosystem"
+   }
+  ],
+  "nature-eco-327": [
+   {
+    "id": "nature-found-015",
+    "reason": "a biome is a large-scale grouping of ecosystems"
+   },
+   {
+    "id": "nature-eco-331",
+    "reason": "characterised by its plant and animal communities"
+   }
+  ],
+  "nature-eco-328": [
+   {
+    "id": "nature-eco-327",
+    "reason": "schemes for classifying biomes"
+   }
+  ],
+  "nature-eco-329": [
+   {
+    "id": "nature-eco-327",
+    "reason": "a human-shaped kind of biome"
+   }
+  ],
+  "nature-eco-330": [
+   {
+    "id": "nature-eco-301",
+    "reason": "set off by losing a key species"
+   },
+   {
+    "id": "nature-eco-297",
+    "reason": "the extinctions spread through the food web"
+   }
+  ],
+  "nature-eco-331": [
+   {
+    "id": "nature-eco-374",
+    "reason": "a community is a group of populations"
+   }
+  ],
+  "nature-eco-332": [
+   {
+    "id": "nature-eco-331",
+    "reason": "two theories of what a community is"
+   }
+  ],
+  "nature-eco-333": [
+   {
+    "id": "nature-eco-331",
+    "reason": "a theory of community composition"
+   },
+   {
+    "id": "nature-eco-281",
+    "reason": "it assumes species are niche-equivalent"
+   },
+   {
+    "id": "nature-eco-374",
+    "reason": "population numbers change by random births and deaths"
+   }
+  ],
+  "nature-eco-334": [
+   {
+    "id": "nature-eco-331",
+    "reason": "a guild is a group within a community"
+   },
+   {
+    "id": "nature-eco-281",
+    "reason": "its members share resource use"
+   }
+  ],
+  "nature-eco-335": [
+   {
+    "id": "nature-eco-331",
+    "reason": "interactions among species in a community"
+   }
+  ],
+  "nature-eco-336": [
+   {
+    "id": "nature-eco-331",
+    "reason": "competition is an interaction within a community"
+   },
+   {
+    "id": "nature-eco-374",
+    "reason": "it limits populations sharing a resource"
+   }
+  ],
+  "nature-eco-337": [
+   {
+    "id": "nature-eco-336",
+    "reason": "the mechanisms of competition"
+   }
+  ],
+  "nature-eco-338": [
+   {
+    "id": "nature-eco-336",
+    "reason": "an indirect form of competition"
+   },
+   {
+    "id": "nature-eco-380",
+    "reason": "it works through a shared predator"
+   }
+  ],
+  "nature-eco-339": [
+   {
+    "id": "nature-eco-336",
+    "reason": "driven by competition"
+   },
+   {
+    "id": "nature-eco-284",
+    "reason": "it is an evolved form of niche differentiation"
+   }
+  ],
+  "nature-eco-340": [
+   {
+    "id": "nature-eco-341",
+    "reason": "a decomposer carries out decomposition"
+   }
+  ],
+  "nature-eco-341": [],
+  "nature-eco-342": [
+   {
+    "id": "nature-eco-341",
+    "reason": "the rate of decomposition"
+   }
+  ],
+  "nature-eco-343": [
+   {
+    "id": "nature-eco-305",
+    "reason": "efficiency of transfer between trophic levels"
+   },
+   {
+    "id": "nature-eco-409",
+    "reason": "it measures energy flow"
+   }
+  ],
+  "nature-eco-344": [
+   {
+    "id": "nature-eco-305",
+    "reason": "transfer between trophic levels"
+   },
+   {
+    "id": "nature-eco-343",
+    "reason": "a rule of thumb for ecological efficiency"
+   }
+  ],
+  "nature-eco-345": [
+   {
+    "id": "nature-eco-343",
+    "reason": "ecological efficiency in the sea"
+   },
+   {
+    "id": "nature-eco-372",
+    "reason": "marine food chains start from phytoplankton"
+   }
+  ],
+  "nature-eco-346": [
+   {
+    "id": "nature-eco-305",
+    "reason": "the pyramid is drawn by trophic level"
+   },
+   {
+    "id": "nature-eco-326",
+    "reason": "it shows biomass"
+   },
+   {
+    "id": "nature-eco-302",
+    "reason": "producers form the base"
+   }
+  ],
+  "nature-eco-347": [
+   {
+    "id": "nature-eco-297",
+    "reason": "element balance shapes interactions in food webs"
+   },
+   {
+    "id": "nature-found-015",
+    "reason": "studied at the ecosystem scale"
+   }
+  ],
+  "nature-eco-348": [
+   {
+    "id": "nature-eco-331",
+    "reason": "succession is change in a community's species mix"
+   }
+  ],
+  "nature-eco-349": [
+   {
+    "id": "nature-eco-348",
+    "reason": "a kind of succession"
+   }
+  ],
+  "nature-eco-350": [
+   {
+    "id": "nature-eco-348",
+    "reason": "the end point of succession"
+   }
+  ],
+  "nature-eco-351": [
+   {
+    "id": "nature-eco-331",
+    "reason": "a zone where two communities meet"
+   }
+  ],
+  "nature-eco-352": [
+   {
+    "id": "nature-eco-351",
+    "reason": "related to the ecotone, a transition zone"
+   },
+   {
+    "id": "nature-eco-320",
+    "reason": "defined by gradients in physical or chemical factors"
+   }
+  ],
+  "nature-eco-353": [
+   {
+    "id": "nature-eco-324",
+    "reason": "chains start with producers"
+   },
+   {
+    "id": "nature-eco-362",
+    "reason": "they continue through consumers"
+   }
+  ],
+  "nature-eco-354": [
+   {
+    "id": "nature-eco-353",
+    "reason": "the length of a food chain"
+   }
+  ],
+  "nature-eco-355": [
+   {
+    "id": "nature-eco-331",
+    "reason": "a species shaping its community's structure"
+   }
+  ],
+  "nature-eco-356": [
+   {
+    "id": "nature-eco-331",
+    "reason": "a set of organisms within a community"
+   },
+   {
+    "id": "nature-eco-281",
+    "reason": "sharing similar roles"
+   }
+  ],
+  "nature-eco-357": [
+   {
+    "id": "nature-eco-356",
+    "reason": "several species in the same functional group"
+   }
+  ],
+  "nature-eco-358": [
+   {
+    "id": "nature-eco-380",
+    "reason": "predators keep herbivores down"
+   },
+   {
+    "id": "nature-eco-359",
+    "reason": "herbivores would eat the vegetation"
+   },
+   {
+    "id": "nature-eco-407",
+    "reason": "a trophic cascade argument"
+   }
+  ],
+  "nature-eco-359": [
+   {
+    "id": "nature-eco-324",
+    "reason": "herbivores eat plants"
+   },
+   {
+    "id": "nature-eco-305",
+    "reason": "they occupy the second trophic level"
+   }
+  ],
+  "nature-eco-360": [
+   {
+    "id": "nature-eco-359",
+    "reason": "the two herbivore feeding strategies"
+   }
+  ],
+  "nature-eco-361": [
+   {
+    "id": "nature-eco-359",
+    "reason": "defence against herbivores"
+   }
+  ],
+  "nature-eco-362": [
+   {
+    "id": "nature-eco-324",
+    "reason": "defined in contrast to autotrophs"
+   }
+  ],
+  "nature-eco-363": [
+   {
+    "id": "nature-eco-297",
+    "reason": "the food web of the sea"
+   },
+   {
+    "id": "nature-eco-372",
+    "reason": "based on phytoplankton"
+   }
+  ],
+  "nature-eco-364": [
+   {
+    "id": "nature-eco-346",
+    "reason": "an inverted ecological pyramid"
+   },
+   {
+    "id": "nature-eco-363",
+    "reason": "occurs in marine food webs"
+   }
+  ],
+  "nature-eco-365": [
+   {
+    "id": "nature-eco-363",
+    "reason": "whales are part of the marine food web"
+   },
+   {
+    "id": "nature-eco-372",
+    "reason": "the nutrients feed surface phytoplankton"
+   }
+  ],
+  "nature-eco-366": [
+   {
+    "id": "nature-eco-335",
+    "reason": "a kind of interspecific interaction"
+   }
+  ],
+  "nature-eco-367": [
+   {
+    "id": "nature-eco-366",
+    "reason": "networks of mutualistic links"
+   },
+   {
+    "id": "nature-eco-297",
+    "reason": "analysed as networks like food webs"
+   }
+  ],
+  "nature-eco-368": [
+   {
+    "id": "nature-eco-366",
+    "reason": "models of mutualism"
+   },
+   {
+    "id": "nature-eco-376",
+    "reason": "they extend population growth models"
+   }
+  ],
+  "nature-eco-369": [
+   {
+    "id": "nature-eco-335",
+    "reason": "a kind of interspecific interaction"
+   }
+  ],
+  "nature-eco-370": [
+   {
+    "id": "nature-eco-369",
+    "reason": "strategies of parasites"
+   }
+  ],
+  "nature-eco-371": [
+   {
+    "id": "nature-eco-369",
+    "reason": "coevolution of hosts and parasites"
+   }
+  ],
+  "nature-eco-372": [
+   {
+    "id": "nature-eco-324",
+    "reason": "phytoplankton make their own food, as autotrophs"
+   }
+  ],
+  "nature-eco-373": [
+   {
+    "id": "nature-eco-372",
+    "reason": "the ratio is shared by phytoplankton"
+   },
+   {
+    "id": "nature-eco-347",
+    "reason": "a central case of ecological stoichiometry"
+   }
+  ],
+  "nature-eco-374": [],
+  "nature-eco-375": [
+   {
+    "id": "nature-eco-374",
+    "reason": "the study of populations"
+   }
+  ],
+  "nature-eco-376": [
+   {
+    "id": "nature-eco-375",
+    "reason": "population growth models"
+   },
+   {
+    "id": "nature-econ-442",
+    "reason": "the exponential model"
+   },
+   {
+    "id": "nature-eco-580",
+    "reason": "the logistic model"
+   }
+  ],
+  "nature-eco-378": [
+   {
+    "id": "nature-eco-375",
+    "reason": "a population ecology tool"
+   }
+  ],
+  "nature-eco-379": [
+   {
+    "id": "nature-eco-374",
+    "reason": "a population of populations"
+   },
+   {
+    "id": "nature-eco-294",
+    "reason": "spread over habitat patches"
+   }
+  ],
+  "nature-eco-380": [
+   {
+    "id": "nature-eco-335",
+    "reason": "a kind of interspecific interaction"
+   },
+   {
+    "id": "nature-eco-353",
+    "reason": "predation is a link in a food chain"
+   }
+  ],
+  "nature-eco-381": [
+   {
+    "id": "nature-eco-380",
+    "reason": "how predators hunt"
+   }
+  ],
+  "nature-eco-382": [
+   {
+    "id": "nature-eco-380",
+    "reason": "coevolution of predators and prey"
+   }
+  ],
+  "nature-eco-383": [
+   {
+    "id": "nature-eco-326",
+    "reason": "productivity is the rate of making biomass"
+   },
+   {
+    "id": "nature-eco-302",
+    "reason": "primary production is its first step"
+   }
+  ],
+  "nature-eco-384": [
+   {
+    "id": "nature-eco-383",
+    "reason": "productivity of consumers"
+   },
+   {
+    "id": "nature-eco-362",
+    "reason": "done by heterotrophs"
+   }
+  ],
+  "nature-eco-385": [
+   {
+    "id": "nature-eco-383",
+    "reason": "relates productivity"
+   },
+   {
+    "id": "nature-found-001",
+    "reason": "to the number of species"
+   }
+  ],
+  "nature-eco-386": [
+   {
+    "id": "nature-eco-348",
+    "reason": "a kind of succession"
+   },
+   {
+    "id": "nature-eco-387",
+    "reason": "it begins with soil left in place"
+   }
+  ],
+  "nature-eco-387": [],
+  "nature-eco-388": [
+   {
+    "id": "nature-eco-387",
+    "reason": "the make-up of soil"
+   }
+  ],
+  "nature-eco-389": [
+   {
+    "id": "nature-eco-387",
+    "reason": "a property of soil"
+   }
+  ],
+  "nature-eco-390": [
+   {
+    "id": "nature-eco-387",
+    "reason": "a property of soil"
+   }
+  ],
+  "nature-eco-391": [
+   {
+    "id": "nature-eco-387",
+    "reason": "decline of soil function"
+   }
+  ],
+  "nature-eco-392": [
+   {
+    "id": "nature-eco-387",
+    "reason": "a layer of soil"
+   }
+  ],
+  "nature-eco-393": [
+   {
+    "id": "nature-eco-387",
+    "reason": "life in the soil"
+   },
+   {
+    "id": "nature-eco-341",
+    "reason": "much of what it does is decomposition"
+   }
+  ],
+  "nature-eco-394": [
+   {
+    "id": "nature-eco-393",
+    "reason": "done by soil bacteria"
+   }
+  ],
+  "nature-eco-395": [
+   {
+    "id": "nature-eco-393",
+    "reason": "done by soil bacteria"
+   }
+  ],
+  "nature-eco-396": [
+   {
+    "id": "nature-eco-393",
+    "reason": "done by soil microbes"
+   },
+   {
+    "id": "nature-eco-395",
+    "reason": "reverses the nitrates made by nitrification"
+   }
+  ],
+  "nature-eco-397": [
+   {
+    "id": "nature-eco-366",
+    "reason": "a mutualism"
+   },
+   {
+    "id": "nature-eco-393",
+    "reason": "part of soil biology"
+   }
+  ],
+  "nature-eco-398": [
+   {
+    "id": "nature-eco-387",
+    "reason": "a property of soil"
+   }
+  ],
+  "nature-eco-399": [
+   {
+    "id": "nature-eco-398",
+    "reason": "nutrients added to restore soil fertility"
+   }
+  ],
+  "nature-eco-400": [
+   {
+    "id": "nature-eco-398",
+    "reason": "loss of soil fertility"
+   }
+  ],
+  "nature-eco-401": [
+   {
+    "id": "nature-eco-398",
+    "reason": "highly fertile soils"
+   },
+   {
+    "id": "nature-eco-402",
+    "reason": "rich in organic carbon"
+   }
+  ],
+  "nature-eco-402": [
+   {
+    "id": "nature-eco-387",
+    "reason": "the organic part of soil"
+   },
+   {
+    "id": "nature-eco-341",
+    "reason": "made of remains at stages of decay"
+   }
+  ],
+  "nature-eco-403": [
+   {
+    "id": "nature-eco-402",
+    "reason": "a form of soil organic matter"
+   }
+  ],
+  "nature-eco-404": [
+   {
+    "id": "nature-eco-402",
+    "reason": "soil carbon is held as organic matter"
+   }
+  ],
+  "nature-eco-405": [
+   {
+    "id": "nature-eco-402",
+    "reason": "a form of soil organic matter"
+   },
+   {
+    "id": "nature-eco-404",
+    "reason": "the protected part of the soil carbon pool"
+   }
+  ],
+  "nature-eco-406": [
+   {
+    "id": "nature-found-015",
+    "reason": "an ecosystem on land"
+   }
+  ],
+  "nature-eco-407": [
+   {
+    "id": "nature-eco-305",
+    "reason": "one trophic level is suppressed"
+   },
+   {
+    "id": "nature-eco-297",
+    "reason": "effects run through the food web"
+   },
+   {
+    "id": "nature-eco-380",
+    "reason": "typically set off by predators"
+   }
+  ],
+  "nature-eco-408": [
+   {
+    "id": "nature-eco-407",
+    "reason": "debate over trophic cascades"
+   }
+  ],
+  "nature-eco-409": [
+   {
+    "id": "nature-eco-353",
+    "reason": "energy moves along food chains"
+   },
+   {
+    "id": "nature-eco-305",
+    "reason": "between trophic levels"
+   },
+   {
+    "id": "nature-eco-324",
+    "reason": "entering through producers"
+   },
+   {
+    "id": "nature-found-015",
+    "reason": "within the ecosystem"
+   }
+  ],
+  "nature-econ-158": [
+   {
+    "id": "nature-found-051",
+    "reason": "efficiency is about getting most from scarce resources"
+   },
+   {
+    "id": "nature-econ-100",
+    "reason": "what people want is measured as utility"
+   },
+   {
+    "id": "nature-found-044",
+    "reason": "a core economics idea"
+   }
+  ],
+  "nature-econ-159": [
+   {
+    "id": "nature-econ-134",
+    "reason": "uses the tools of microeconomics"
+   },
+   {
+    "id": "nature-econ-158",
+    "reason": "judges efficiency"
+   },
+   {
+    "id": "nature-econ-168",
+    "reason": "built on Pareto efficiency"
+   }
+  ],
+  "nature-econ-160": [
+   {
+    "id": "nature-econ-159",
+    "reason": "a tool of welfare economics"
+   },
+   {
+    "id": "nature-econ-141",
+    "reason": "it combines individual preferences"
+   }
+  ],
+  "nature-econ-161": [
+   {
+    "id": "nature-econ-160",
+    "reason": "a kind of social welfare function"
+   },
+   {
+    "id": "nature-econ-101",
+    "reason": "uses numerical, cardinal measures of well-being"
+   }
+  ],
+  "nature-econ-162": [
+   {
+    "id": "nature-econ-161",
+    "reason": "derives the utilitarian welfare function"
+   },
+   {
+    "id": "nature-econ-209",
+    "reason": "its conclusion is utilitarian"
+   }
+  ],
+  "nature-econ-163": [
+   {
+    "id": "nature-econ-168",
+    "reason": "conditions for Pareto efficiency"
+   },
+   {
+    "id": "nature-econ-129",
+    "reason": "one condition equates marginal rates of substitution"
+   },
+   {
+    "id": "nature-econ-144",
+    "reason": "another involves the marginal rate of transformation"
+   }
+  ],
+  "nature-econ-164": [
+   {
+    "id": "nature-econ-168",
+    "reason": "causes of failing to reach Pareto efficiency"
+   },
+   {
+    "id": "nature-found-045",
+    "reason": "many are market failures"
+   }
+  ],
+  "nature-econ-165": [
+   {
+    "id": "nature-econ-158",
+    "reason": "trades off efficiency"
+   },
+   {
+    "id": "nature-econ-188",
+    "reason": "against equity"
+   }
+  ],
+  "nature-econ-166": [
+   {
+    "id": "nature-econ-101",
+    "reason": "treated utility as measurable"
+   },
+   {
+    "id": "nature-econ-159",
+    "reason": "an approach to welfare economics"
+   },
+   {
+    "id": "nature-econ-091",
+    "reason": "built on marginal utility"
+   }
+  ],
+  "nature-econ-167": [
+   {
+    "id": "nature-econ-166",
+    "reason": "the successor to old welfare economics"
+   },
+   {
+    "id": "nature-econ-139",
+    "reason": "based on ordinal utility"
+   },
+   {
+    "id": "nature-econ-168",
+    "reason": "judges by Pareto efficiency"
+   }
+  ],
+  "nature-econ-168": [
+   {
+    "id": "nature-econ-158",
+    "reason": "the main meaning of economic efficiency"
+   },
+   {
+    "id": "nature-econ-100",
+    "reason": "better off is measured in utility"
+   }
+  ],
+  "nature-econ-169": [
+   {
+    "id": "nature-econ-168",
+    "reason": "a weaker form of Pareto efficiency"
+   }
+  ],
+  "nature-econ-170": [
+   {
+    "id": "nature-econ-168",
+    "reason": "a weaker form of Pareto efficiency"
+   }
+  ],
+  "nature-econ-171": [
+   {
+    "id": "nature-econ-168",
+    "reason": "links Pareto efficiency"
+   },
+   {
+    "id": "nature-econ-160",
+    "reason": "to maximising a social welfare function"
+   }
+  ],
+  "nature-econ-172": [
+   {
+    "id": "nature-econ-168",
+    "reason": "a relaxation of Pareto improvement"
+   },
+   {
+    "id": "nature-econ-344",
+    "reason": "gains and losses are measured by willingness to pay"
+   }
+  ],
+  "nature-econ-173": [
+   {
+    "id": "nature-found-051",
+    "reason": "fair sharing of scarce resources"
+   }
+  ],
+  "nature-econ-174": [
+   {
+    "id": "nature-econ-173",
+    "reason": "rules for distributive justice"
+   }
+  ],
+  "nature-econ-175": [
+   {
+    "id": "nature-econ-173",
+    "reason": "a theory of distributive justice"
+   }
+  ],
+  "nature-econ-176": [
+   {
+    "id": "nature-econ-173",
+    "reason": "a position on distributive justice"
+   }
+  ],
+  "nature-econ-177": [
+   {
+    "id": "nature-econ-342",
+    "reason": "defined as an absent market"
+   },
+   {
+    "id": "nature-econ-168",
+    "reason": "its creation would be a Pareto improvement"
+   },
+   {
+    "id": "nature-found-031",
+    "reason": "externalities are a main case"
+   }
+  ],
+  "nature-econ-178": [
+   {
+    "id": "nature-econ-158",
+    "reason": "a kind of economic efficiency"
+   },
+   {
+    "id": "nature-econ-347",
+    "reason": "reached where price equals marginal cost"
+   },
+   {
+    "id": "nature-econ-091",
+    "reason": "matching output to what people value at the margin"
+   }
+  ],
+  "nature-econ-179": [
+   {
+    "id": "nature-econ-202",
+    "reason": "a central theorem of social choice theory"
+   },
+   {
+    "id": "nature-econ-139",
+    "reason": "it combines ordinal rankings"
+   }
+  ],
+  "nature-econ-180": [
+   {
+    "id": "nature-econ-179",
+    "reason": "one of Arrow's conditions"
+   }
+  ],
+  "nature-econ-181": [
+   {
+    "id": "nature-econ-161",
+    "reason": "based on a cardinal social welfare function"
+   },
+   {
+    "id": "nature-econ-185",
+    "reason": "measures inequality in distribution of income"
+   }
+  ],
+  "nature-econ-182": [
+   {
+    "id": "nature-econ-159",
+    "reason": "an alternative approach to welfare"
+   },
+   {
+    "id": "nature-econ-100",
+    "reason": "contrasted with welfare as utility or income"
+   }
+  ],
+  "nature-econ-183": [
+   {
+    "id": "nature-econ-168",
+    "reason": "a test related to Pareto improvement"
+   },
+   {
+    "id": "nature-econ-159",
+    "reason": "a rule of welfare economics"
+   }
+  ],
+  "nature-econ-184": [
+   {
+    "id": "nature-econ-187",
+    "reason": "drawn in the Edgeworth box"
+   },
+   {
+    "id": "nature-econ-125",
+    "reason": "points where indifference curves touch"
+   },
+   {
+    "id": "nature-econ-168",
+    "reason": "every point is Pareto efficient"
+   }
+  ],
+  "nature-econ-185": [
+   {
+    "id": "nature-econ-086",
+    "reason": "distribution among factors of production"
+   },
+   {
+    "id": "nature-found-044",
+    "reason": "a core economics topic"
+   }
+  ],
+  "nature-econ-186": [
+   {
+    "id": "nature-econ-158",
+    "reason": "a kind of efficiency"
+   },
+   {
+    "id": "nature-econ-083",
+    "reason": "defined via investment and the return to capital"
+   }
+  ],
+  "nature-econ-187": [
+   {
+    "id": "nature-econ-125",
+    "reason": "drawn with indifference curves"
+   },
+   {
+    "id": "nature-econ-168",
+    "reason": "used to show Pareto efficiency"
+   }
+  ],
+  "nature-econ-188": [
+   {
+    "id": "nature-econ-185",
+    "reason": "fairness in distribution"
+   }
+  ],
+  "nature-econ-189": [
+   {
+    "id": "nature-econ-188",
+    "reason": "two equity principles"
+   }
+  ],
+  "nature-econ-190": [
+   {
+    "id": "nature-econ-345",
+    "reason": "the deadweight loss of taxation"
+   },
+   {
+    "id": "nature-econ-373",
+    "reason": "taxes change prices and behaviour"
+   }
+  ],
+  "nature-econ-191": [
+   {
+    "id": "nature-econ-168",
+    "reason": "the theorems are about Pareto efficiency"
+   },
+   {
+    "id": "nature-econ-353",
+    "reason": "they assume perfect competition"
+   },
+   {
+    "id": "nature-econ-365",
+    "reason": "they concern competitive equilibrium"
+   }
+  ],
+  "nature-econ-192": [
+   {
+    "id": "nature-econ-191",
+    "reason": "shows when the welfare theorems fail"
+   },
+   {
+    "id": "nature-econ-170",
+    "reason": "uses constrained Pareto efficiency"
+   }
+  ],
+  "nature-econ-193": [
+   {
+    "id": "nature-econ-188",
+    "reason": "a preference about fairness of outcomes"
+   }
+  ],
+  "nature-pol-119": [
+   {
+    "id": "nature-econ-190",
+    "reason": "a lump-sum tax avoids excess burden"
+   },
+   {
+    "id": "nature-econ-345",
+    "reason": "it creates no deadweight loss"
+   }
+  ],
+  "nature-econ-195": [
+   {
+    "id": "nature-econ-190",
+    "reason": "measures the excess burden per unit raised"
+   }
+  ],
+  "nature-econ-196": [
+   {
+    "id": "nature-econ-353",
+    "reason": "a departure from perfect competition"
+   },
+   {
+    "id": "nature-econ-365",
+    "reason": "the price differs from the competitive equilibrium"
+   },
+   {
+    "id": "nature-econ-158",
+    "reason": "welfare is no longer maximised"
+   }
+  ],
+  "nature-econ-197": [
+   {
+    "id": "nature-econ-142",
+    "reason": "breaches convex preferences"
+   },
+   {
+    "id": "nature-econ-317",
+    "reason": "or involves increasing returns to scale"
+   },
+   {
+    "id": "nature-econ-191",
+    "reason": "undermines the welfare theorems"
+   }
+  ],
+  "nature-econ-198": [
+   {
+    "id": "nature-econ-175",
+    "reason": "the thought experiment of justice as fairness"
+   }
+  ],
+  "nature-econ-199": [
+   {
+    "id": "nature-econ-209",
+    "reason": "a variant of utilitarian welfare judgement"
+   },
+   {
+    "id": "nature-econ-173",
+    "reason": "a view of distributive justice"
+   }
+  ],
+  "nature-econ-200": [
+   {
+    "id": "nature-econ-158",
+    "reason": "a kind of economic efficiency"
+   },
+   {
+    "id": "nature-econ-143",
+    "reason": "being on the production possibility frontier"
+   }
+  ],
+  "nature-econ-201": [
+   {
+    "id": "nature-econ-172",
+    "reason": "a paradox of the Kaldor compensation test"
+   }
+  ],
+  "nature-econ-202": [
+   {
+    "id": "nature-econ-159",
+    "reason": "a branch of welfare economics"
+   },
+   {
+    "id": "nature-econ-141",
+    "reason": "it combines individual preferences"
+   }
+  ],
+  "nature-econ-203": [
+   {
+    "id": "nature-econ-202",
+    "reason": "a result of social choice theory"
+   }
+  ],
+  "nature-econ-204": [
+   {
+    "id": "nature-econ-100",
+    "reason": "comparing utility"
+   },
+   {
+    "id": "nature-econ-159",
+    "reason": "a central question for welfare economics"
+   }
+  ],
+  "nature-econ-205": [
+   {
+    "id": "nature-econ-160",
+    "reason": "maximises a social welfare function"
+   }
+  ],
+  "nature-econ-206": [
+   {
+    "id": "nature-econ-360",
+    "reason": "the gap between demand and supply prices"
+   },
+   {
+    "id": "nature-econ-373",
+    "reason": "opened by a tax"
+   }
+  ],
+  "nature-pol-128": [
+   {
+    "id": "nature-econ-206",
+    "reason": "incidence depends on the tax wedge"
+   },
+   {
+    "id": "nature-econ-358",
+    "reason": "and on demand elasticity"
+   }
+  ],
+  "nature-econ-208": [
+   {
+    "id": "nature-econ-168",
+    "reason": "the ideal is Pareto efficiency"
+   },
+   {
+    "id": "nature-econ-196",
+    "reason": "starting from an unremovable distortion"
+   }
+  ],
+  "nature-econ-209": [
+   {
+    "id": "nature-econ-100",
+    "reason": "maximising well-being, i.e. utility"
+   }
+  ],
+  "nature-econ-210": [
+   {
+    "id": "nature-econ-143",
+    "reason": "the welfare counterpart of the production possibility frontier"
+   },
+   {
+    "id": "nature-econ-168",
+    "reason": "its points are Pareto efficient"
+   },
+   {
+    "id": "nature-econ-184",
+    "reason": "derived from the contract curve"
+   }
+  ],
+  "nature-econ-211": [
+   {
+    "id": "nature-econ-279",
+    "reason": "an alternative to classical hypothesis testing"
+   },
+   {
+    "id": "nature-econ-756",
+    "reason": "works with probabilities of hypotheses"
+   }
+  ],
+  "nature-econ-212": [
+   {
+    "id": "nature-econ-216",
+    "reason": "causal inference goes beyond correlation"
+   }
+  ],
+  "nature-econ-213": [
+   {
+    "id": "nature-econ-212",
+    "reason": "a threat to causal inference"
+   }
+  ],
+  "nature-econ-214": [
+   {
+    "id": "nature-econ-212",
+    "reason": "a design for causal inference"
+   },
+   {
+    "id": "nature-econ-218",
+    "reason": "a study without a true controlled experiment"
+   }
+  ],
+  "nature-econ-215": [
+   {
+    "id": "nature-econ-257",
+    "reason": "a problem among regression explanatory variables"
+   }
+  ],
+  "nature-econ-216": [],
+  "nature-econ-217": [
+   {
+    "id": "nature-econ-216",
+    "reason": "an error of inferring causation"
+   }
+  ],
+  "nature-econ-218": [
+   {
+    "id": "nature-econ-212",
+    "reason": "experiments test cause and effect"
+   }
+  ],
+  "nature-econ-219": [
+   {
+    "id": "nature-econ-218",
+    "reason": "a step in designing experiments"
+   }
+  ],
+  "nature-econ-220": [
+   {
+    "id": "nature-econ-279",
+    "reason": "abuse of hypothesis testing"
+   },
+   {
+    "id": "nature-econ-281",
+    "reason": "searching for significant p-values"
+   }
+  ],
+  "nature-econ-221": [
+   {
+    "id": "nature-econ-246",
+    "reason": "uses data over time for groups"
+   },
+   {
+    "id": "nature-econ-214",
+    "reason": "a quasi-experimental technique"
+   },
+   {
+    "id": "nature-econ-230",
+    "reason": "the control group supplies the counterfactual"
+   }
+  ],
+  "nature-econ-222": [
+   {
+    "id": "nature-econ-221",
+    "reason": "the key assumption of difference in differences"
+   }
+  ],
+  "nature-econ-223": [
+   {
+    "id": "nature-econ-257",
+    "reason": "a problem in regression models"
+   }
+  ],
+  "nature-econ-224": [
+   {
+    "id": "nature-econ-223",
+    "reason": "a kind of endogeneity"
+   }
+  ],
+  "nature-econ-225": [
+   {
+    "id": "nature-econ-223",
+    "reason": "a kind of endogeneity"
+   }
+  ],
+  "nature-econ-226": [
+   {
+    "id": "nature-econ-223",
+    "reason": "an exogeneity assumption ruling out endogeneity"
+   }
+  ],
+  "nature-econ-227": [
+   {
+    "id": "nature-econ-246",
+    "reason": "a model for grouped or panel data"
+   },
+   {
+    "id": "nature-econ-257",
+    "reason": "a regression model"
+   },
+   {
+    "id": "nature-econ-244",
+    "reason": "it removes bias from unchanging omitted variables"
+   }
+  ],
+  "nature-econ-228": [
+   {
+    "id": "nature-econ-227",
+    "reason": "an alternative way to remove fixed effects"
+   },
+   {
+    "id": "nature-econ-246",
+    "reason": "applied to panel data"
+   }
+  ],
+  "nature-econ-229": [
+   {
+    "id": "nature-econ-212",
+    "reason": "assesses causation"
+   },
+   {
+    "id": "nature-econ-230",
+    "reason": "against a counterfactual"
+   }
+  ],
+  "nature-econ-230": [
+   {
+    "id": "nature-econ-212",
+    "reason": "a way of reasoning about causal effects"
+   }
+  ],
+  "nature-econ-231": [
+   {
+    "id": "nature-econ-254",
+    "reason": "a debate about RCTs"
+   },
+   {
+    "id": "nature-econ-229",
+    "reason": "in impact evaluation"
+   }
+  ],
+  "nature-econ-232": [
+   {
+    "id": "nature-econ-229",
+    "reason": "biases in impact evaluation"
+   }
+  ],
+  "nature-nbs-094": [],
+  "nature-econ-234": [
+   {
+    "id": "nature-econ-223",
+    "reason": "a remedy for endogeneity"
+   },
+   {
+    "id": "nature-econ-212",
+    "reason": "a method for causal inference"
+   },
+   {
+    "id": "nature-econ-257",
+    "reason": "estimated in a regression framework"
+   }
+  ],
+  "nature-econ-235": [
+   {
+    "id": "nature-econ-234",
+    "reason": "computes IV estimates"
+   },
+   {
+    "id": "nature-econ-245",
+    "reason": "by running two least squares regressions"
+   }
+  ],
+  "nature-econ-236": [
+   {
+    "id": "nature-econ-234",
+    "reason": "a problem with instruments"
+   }
+  ],
+  "nature-eco-582": [
+   {
+    "id": "nature-econ-257",
+    "reason": "a regression model"
+   },
+   {
+    "id": "nature-econ-239",
+    "reason": "fitted by maximum likelihood"
+   },
+   {
+    "id": "nature-econ-238",
+    "reason": "it models the log-odds"
+   }
+  ],
+  "nature-econ-238": [
+   {
+    "id": "nature-eco-580",
+    "reason": "the inverse of the logistic function"
+   }
+  ],
+  "nature-econ-239": [
+   {
+    "id": "nature-econ-461",
+    "reason": "chooses parameters by optimization"
+   },
+   {
+    "id": "nature-econ-756",
+    "reason": "works with probability distributions"
+   }
+  ],
+  "nature-nbs-095": [
+   {
+    "id": "nature-nbs-094",
+    "reason": "meta-analysis combines studies found in a systematic review"
+   },
+   {
+    "id": "nature-econ-279",
+    "reason": "it pools statistical results"
+   }
+  ],
+  "nature-econ-241": [
+   {
+    "id": "nature-nbs-095",
+    "reason": "detected and corrected in meta-analysis"
+   },
+   {
+    "id": "nature-econ-279",
+    "reason": "it favours significant results"
+   }
+  ],
+  "nature-econ-242": [
+   {
+    "id": "nature-econ-756",
+    "reason": "estimates quantities like expected values by random sampling"
+   }
+  ],
+  "nature-econ-243": [
+   {
+    "id": "nature-econ-212",
+    "reason": "a source of causal inference"
+   },
+   {
+    "id": "nature-econ-219",
+    "reason": "exposure is assigned as if at random"
+   }
+  ],
+  "nature-econ-244": [
+   {
+    "id": "nature-econ-257",
+    "reason": "an error in a regression model"
+   },
+   {
+    "id": "nature-econ-213",
+    "reason": "the omitted variable acts as a confounder"
+   }
+  ],
+  "nature-econ-245": [
+   {
+    "id": "nature-econ-257",
+    "reason": "the standard way to fit a linear regression"
+   }
+  ],
+  "nature-econ-246": [],
+  "nature-econ-247": [
+   {
+    "id": "nature-econ-257",
+    "reason": "a regression model"
+   },
+   {
+    "id": "nature-econ-239",
+    "reason": "fitted by maximum likelihood"
+   }
+  ],
+  "nature-econ-248": [
+   {
+    "id": "nature-econ-247",
+    "reason": "a breach of the Poisson model assumption"
+   }
+  ],
+  "nature-econ-249": [
+   {
+    "id": "nature-econ-229",
+    "reason": "judging whether programmes work rests on impact evaluation"
+   }
+  ],
+  "nature-econ-250": [
+   {
+    "id": "nature-econ-249",
+    "reason": "the logic model used in program evaluation"
+   }
+  ],
+  "nature-econ-251": [
+   {
+    "id": "nature-econ-249",
+    "reason": "properties of measures used in evaluation"
+   }
+  ],
+  "nature-econ-252": [
+   {
+    "id": "nature-econ-213",
+    "reason": "adjusts for observed confounding"
+   },
+   {
+    "id": "nature-econ-230",
+    "reason": "builds a counterfactual from matched units"
+   },
+   {
+    "id": "nature-eco-582",
+    "reason": "scores usually come from logistic regression"
+   }
+  ],
+  "nature-econ-253": [
+   {
+    "id": "nature-econ-213",
+    "reason": "a test for confounding"
+   },
+   {
+    "id": "nature-econ-212",
+    "reason": "in causal diagrams"
+   }
+  ],
+  "nature-econ-254": [
+   {
+    "id": "nature-econ-219",
+    "reason": "assigns participants at random"
+   },
+   {
+    "id": "nature-econ-212",
+    "reason": "to identify causal effects"
+   }
+  ],
+  "nature-econ-255": [
+   {
+    "id": "nature-econ-254",
+    "reason": "RCTs in economics"
+   }
+  ],
+  "nature-econ-256": [
+   {
+    "id": "nature-econ-254",
+    "reason": "a feature of controlled trials"
+   }
+  ],
+  "nature-econ-257": [],
+  "nature-econ-258": [
+   {
+    "id": "nature-econ-257",
+    "reason": "a form of regression analysis"
+   }
+  ],
+  "nature-econ-259": [
+   {
+    "id": "nature-econ-257",
+    "reason": "assumptions of regression"
+   },
+   {
+    "id": "nature-econ-245",
+    "reason": "classical conditions behind least squares"
+   }
+  ],
+  "nature-econ-260": [
+   {
+    "id": "nature-econ-258",
+    "reason": "checks on a fitted regression"
+   },
+   {
+    "id": "nature-econ-279",
+    "reason": "including significance tests"
+   }
+  ],
+  "nature-econ-261": [
+   {
+    "id": "nature-econ-258",
+    "reason": "outcomes linear regression handles poorly"
+   }
+  ],
+  "nature-econ-262": [
+   {
+    "id": "nature-econ-257",
+    "reason": "predicting from a regression model"
+   }
+  ],
+  "nature-econ-263": [
+   {
+    "id": "nature-econ-214",
+    "reason": "a quasi-experimental method"
+   },
+   {
+    "id": "nature-econ-257",
+    "reason": "estimated by regression"
+   }
+  ],
+  "nature-econ-264": [
+   {
+    "id": "nature-econ-263",
+    "reason": "tests for regression discontinuity"
+   }
+  ],
+  "nature-econ-265": [
+   {
+    "id": "nature-econ-263",
+    "reason": "a variant of regression discontinuity"
+   },
+   {
+    "id": "nature-econ-234",
+    "reason": "estimated as an instrumental variable"
+   }
+  ],
+  "nature-econ-266": [
+   {
+    "id": "nature-econ-263",
+    "reason": "a variant of regression discontinuity"
+   }
+  ],
+  "nature-econ-267": [
+   {
+    "id": "nature-econ-212",
+    "reason": "a framework for causal inference"
+   },
+   {
+    "id": "nature-econ-230",
+    "reason": "effects as differences from the counterfactual outcome"
+   }
+  ],
+  "nature-econ-268": [
+   {
+    "id": "nature-econ-267",
+    "reason": "stated in terms of potential outcomes"
+   }
+  ],
+  "nature-econ-269": [
+   {
+    "id": "nature-econ-267",
+    "reason": "an assumption of the Rubin causal model"
+   }
+  ],
+  "nature-econ-270": [
+   {
+    "id": "nature-econ-212",
+    "reason": "a bias that distorts the link between exposure and outcome"
+   }
+  ],
+  "nature-econ-271": [
+   {
+    "id": "nature-econ-270",
+    "reason": "a kind of selection bias"
+   }
+  ],
+  "nature-econ-272": [
+   {
+    "id": "nature-econ-270",
+    "reason": "a kind of selection bias"
+   }
+  ],
+  "nature-econ-273": [
+   {
+    "id": "nature-econ-772",
+    "reason": "traces uncertainty in outputs to inputs"
+   },
+   {
+    "id": "nature-econ-152",
+    "reason": "applied to models"
+   }
+  ],
+  "nature-econ-275": [
+   {
+    "id": "nature-econ-273",
+    "reason": "a kind of sensitivity analysis"
+   }
+  ],
+  "nature-econ-276": [
+   {
+    "id": "nature-econ-273",
+    "reason": "a kind of sensitivity analysis"
+   }
+  ],
+  "nature-econ-277": [
+   {
+    "id": "nature-econ-273",
+    "reason": "extends sensitivity analysis"
+   }
+  ],
+  "nature-econ-278": [
+   {
+    "id": "nature-econ-257",
+    "reason": "regression models with spatial interaction"
+   }
+  ],
+  "nature-econ-279": [],
+  "nature-econ-280": [
+   {
+    "id": "nature-econ-279",
+    "reason": "the default claim in a hypothesis test"
+   }
+  ],
+  "nature-econ-281": [
+   {
+    "id": "nature-econ-280",
+    "reason": "probability computed assuming the null hypothesis"
+   }
+  ],
+  "nature-econ-282": [
+   {
+    "id": "nature-econ-280",
+    "reason": "errors about the null hypothesis"
+   }
+  ],
+  "nature-econ-283": [
+   {
+    "id": "nature-econ-279",
+    "reason": "criticism of significance testing"
+   },
+   {
+    "id": "nature-econ-281",
+    "reason": "focuses on p-values"
+   }
+  ],
+  "nature-econ-284": [
+   {
+    "id": "nature-econ-230",
+    "reason": "recreates the counterfactual path"
+   },
+   {
+    "id": "nature-econ-221",
+    "reason": "a generalisation of difference in differences"
+   }
+  ],
+  "nature-econ-285": [
+   {
+    "id": "nature-econ-257",
+    "reason": "a regression model"
+   },
+   {
+    "id": "nature-econ-270",
+    "reason": "handles samples selected on the outcome"
+   }
+  ],
+  "nature-clim-103": [],
+  "nature-clim-104": [
+   {
+    "id": "nature-clim-103",
+    "reason": "base load plants run at high capacity factor"
+   },
+   {
+    "id": "nature-clim-106",
+    "reason": "peaking plants serve peak demand"
+   }
+  ],
+  "nature-clim-105": [
+   {
+    "id": "nature-econ-360",
+    "reason": "matching demand to supply"
+   },
+   {
+    "id": "nature-econ-358",
+    "reason": "customers respond to price"
+   }
+  ],
+  "nature-clim-106": [
+   {
+    "id": "nature-econ-369",
+    "reason": "the highest level of electricity demand"
+   }
+  ],
+  "nature-clim-107": [
+   {
+    "id": "nature-clim-106",
+    "reason": "cuts made when demand exceeds capacity"
+   }
+  ],
+  "nature-clim-108": [],
+  "nature-clim-109": [
+   {
+    "id": "nature-clim-108",
+    "reason": "the rebound follows efficiency gains"
+   },
+   {
+    "id": "nature-econ-358",
+    "reason": "more use because the service is cheaper"
+   }
+  ],
+  "nature-clim-151": [
+   {
+    "id": "nature-clim-108",
+    "reason": "one route is efficient energy use"
+   }
+  ],
+  "nature-clim-111": [
+   {
+    "id": "nature-econ-483",
+    "reason": "measured per unit of GDP"
+   }
+  ],
+  "nature-clim-112": [],
+  "nature-clim-113": [
+   {
+    "id": "nature-clim-112",
+    "reason": "an index of energy poverty"
+   }
+  ],
+  "nature-clim-114": [
+   {
+    "id": "nature-res-248",
+    "reason": "reliable availability of energy resources"
+   }
+  ],
+  "nature-clim-115": [
+   {
+    "id": "nature-clim-114",
+    "reason": "a counterpart to energy security"
+   }
+  ],
+  "nature-clim-116": [
+   {
+    "id": "nature-clim-114",
+    "reason": "a tool for energy security"
+   }
+  ]
+ }
+}

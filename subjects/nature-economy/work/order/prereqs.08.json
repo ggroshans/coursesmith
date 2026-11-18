@@ -1,0 +1,3398 @@
+{
+ "entries": {
+  "nature-econ-364": [
+   {
+    "id": "nature-econ-342",
+    "reason": "an oligopoly is a kind of market"
+   },
+   {
+    "id": "nature-econ-137",
+    "reason": "oligopoly is one market structure"
+   },
+   {
+    "id": "nature-econ-397",
+    "reason": "few sellers control pricing through market power"
+   },
+   {
+    "id": "nature-econ-363",
+    "reason": "defined by how few sellers compete"
+   }
+  ],
+  "nature-econ-365": [
+   {
+    "id": "nature-econ-335",
+    "reason": "it is a kind of economic equilibrium"
+   },
+   {
+    "id": "nature-econ-353",
+    "reason": "assumes many traders too small to move prices"
+   },
+   {
+    "id": "nature-econ-360",
+    "reason": "supply equals demand in it"
+   },
+   {
+    "id": "nature-econ-102",
+    "reason": "each trader gets the best bundle they can afford"
+   }
+  ],
+  "nature-econ-366": [
+   {
+    "id": "nature-econ-365",
+    "reason": "the auction finds a competitive equilibrium"
+   },
+   {
+    "id": "nature-econ-356",
+    "reason": "works by raising item prices"
+   }
+  ],
+  "nature-econ-367": [
+   {
+    "id": "nature-econ-413",
+    "reason": "plots total production cost against quantity"
+   },
+   {
+    "id": "nature-econ-347",
+    "reason": "marginal cost curves are a central cost curve"
+   },
+   {
+    "id": "nature-econ-114",
+    "reason": "graphs a firm's economic costs"
+   }
+  ],
+  "nature-econ-368": [
+   {
+    "id": "nature-econ-374",
+    "reason": "it is a kind of elasticity"
+   },
+   {
+    "id": "nature-econ-358",
+    "reason": "extends own-price elasticity to another good's price"
+   },
+   {
+    "id": "nature-econ-411",
+    "reason": "sign reveals substitute goods"
+   },
+   {
+    "id": "nature-econ-108",
+    "reason": "sign reveals complementary goods"
+   }
+  ],
+  "nature-econ-369": [
+   {
+    "id": "nature-econ-356",
+    "reason": "demand is quantity bought at various prices"
+   },
+   {
+    "id": "nature-econ-119",
+    "reason": "demand is for goods"
+   }
+  ],
+  "nature-econ-370": [
+   {
+    "id": "nature-econ-371",
+    "reason": "it is a demand curve facing one firm"
+   },
+   {
+    "id": "nature-econ-342",
+    "reason": "it is the market demand left unmet by other firms"
+   }
+  ],
+  "nature-econ-371": [
+   {
+    "id": "nature-econ-369",
+    "reason": "the curve graphs demand"
+   },
+   {
+    "id": "nature-econ-356",
+    "reason": "price is on the vertical axis"
+   }
+  ],
+  "nature-econ-372": [
+   {
+    "id": "nature-econ-369",
+    "reason": "it is a kind of demand"
+   },
+   {
+    "id": "nature-econ-376",
+    "reason": "the demand is for inputs bought in factor markets"
+   },
+   {
+    "id": "nature-econ-086",
+    "reason": "inputs are factors of production"
+   }
+  ],
+  "nature-econ-373": [
+   {
+    "id": "nature-econ-360",
+    "reason": "traced through shifts in supply and demand"
+   },
+   {
+    "id": "nature-econ-361",
+    "reason": "a tax or subsidy shifts a curve"
+   },
+   {
+    "id": "nature-econ-358",
+    "reason": "elasticity decides who bears the tax"
+   }
+  ],
+  "nature-econ-374": [
+   {
+    "id": "nature-econ-360",
+    "reason": "applied mainly to supply and demand responses"
+   },
+   {
+    "id": "nature-econ-128",
+    "reason": "measures responses to small changes"
+   }
+  ],
+  "nature-econ-375": [
+   {
+    "id": "nature-econ-335",
+    "reason": "excess supply is a price above equilibrium"
+   },
+   {
+    "id": "nature-econ-360",
+    "reason": "compares quantity supplied with demanded"
+   }
+  ],
+  "nature-econ-376": [
+   {
+    "id": "nature-econ-342",
+    "reason": "a factor market is a market"
+   },
+   {
+    "id": "nature-econ-086",
+    "reason": "traded goods are factors of production"
+   },
+   {
+    "id": "nature-econ-360",
+    "reason": "prices set by supply and demand"
+   }
+  ],
+  "nature-econ-377": [
+   {
+    "id": "nature-econ-349",
+    "reason": "the buying-side mirror of monopoly"
+   },
+   {
+    "id": "nature-econ-397",
+    "reason": "a dominant buyer exercises market power"
+   },
+   {
+    "id": "nature-econ-137",
+    "reason": "one kind of market structure"
+   }
+  ],
+  "nature-econ-378": [
+   {
+    "id": "nature-econ-342",
+    "reason": "a free market is a market system"
+   },
+   {
+    "id": "nature-econ-360",
+    "reason": "prices set by supply and demand"
+   },
+   {
+    "id": "nature-econ-153",
+    "reason": "it is an economic system"
+   }
+  ],
+  "nature-econ-379": [
+   {
+    "id": "nature-econ-378",
+    "reason": "the principle behind the free market"
+   },
+   {
+    "id": "nature-econ-356",
+    "reason": "prices and wages free of non-market pressure"
+   }
+  ],
+  "nature-econ-380": [
+   {
+    "id": "nature-econ-395",
+    "reason": "a claim about how market economies order themselves"
+   },
+   {
+    "id": "nature-econ-387",
+    "reason": "closely related idea of undesigned coordination"
+   },
+   {
+    "id": "nature-econ-378",
+    "reason": "rests on free decentralized markets"
+   }
+  ],
+  "nature-econ-381": [
+   {
+    "id": "nature-econ-106",
+    "reason": "gains rest on comparative advantage"
+   },
+   {
+    "id": "nature-econ-338",
+    "reason": "gains are measured as economic surplus"
+   },
+   {
+    "id": "nature-econ-095",
+    "reason": "specialization is driven by opportunity cost"
+   }
+  ],
+  "nature-econ-382": [
+   {
+    "id": "nature-econ-335",
+    "reason": "extends economic equilibrium economy-wide"
+   },
+   {
+    "id": "nature-econ-399",
+    "reason": "contrasted with single-market partial equilibrium"
+   },
+   {
+    "id": "nature-econ-360",
+    "reason": "studies supply and demand across linked markets"
+   },
+   {
+    "id": "nature-econ-152",
+    "reason": "it is a formal economic model"
+   }
+  ],
+  "nature-econ-383": [
+   {
+    "id": "nature-econ-353",
+    "reason": "defined as falling short of perfect competition"
+   },
+   {
+    "id": "nature-econ-137",
+    "reason": "covers several market structures"
+   },
+   {
+    "id": "nature-econ-397",
+    "reason": "imperfection gives firms market power"
+   }
+  ],
+  "nature-econ-384": [
+   {
+    "id": "nature-econ-398",
+    "reason": "an alternative concentration measure"
+   },
+   {
+    "id": "nature-econ-383",
+    "reason": "measures concentration in imperfect markets"
+   },
+   {
+    "id": "nature-econ-397",
+    "reason": "concentration indicates market power"
+   }
+  ],
+  "nature-econ-385": [
+   {
+    "id": "nature-econ-374",
+    "reason": "a kind of elasticity"
+   },
+   {
+    "id": "nature-econ-369",
+    "reason": "measures response of demand"
+   },
+   {
+    "id": "nature-econ-138",
+    "reason": "sign separates normal goods"
+   },
+   {
+    "id": "nature-econ-126",
+    "reason": "sign separates inferior goods"
+   }
+  ],
+  "nature-econ-386": [
+   {
+    "id": "nature-econ-371",
+    "reason": "the inverse of the demand curve's relation"
+   },
+   {
+    "id": "nature-econ-369",
+    "reason": "expresses demand as price of quantity"
+   }
+  ],
+  "nature-econ-387": [
+   {
+    "id": "nature-econ-378",
+    "reason": "a metaphor for free markets"
+   },
+   {
+    "id": "nature-econ-342",
+    "reason": "describes market coordination"
+   }
+  ],
+  "nature-econ-388": [
+   {
+    "id": "nature-econ-369",
+    "reason": "a rule about demand"
+   },
+   {
+    "id": "nature-econ-356",
+    "reason": "concerns response to price"
+   },
+   {
+    "id": "nature-econ-105",
+    "reason": "holds all else being equal"
+   }
+  ],
+  "nature-econ-390": [
+   {
+    "id": "nature-econ-388",
+    "reason": "an exception to the law of demand"
+   },
+   {
+    "id": "nature-econ-371",
+    "reason": "demand rises with price, sloping the curve upward"
+   },
+   {
+    "id": "nature-econ-119",
+    "reason": "a kind of good"
+   }
+  ],
+  "nature-econ-391": [
+   {
+    "id": "nature-econ-412",
+    "reason": "a rule about supply"
+   },
+   {
+    "id": "nature-econ-356",
+    "reason": "concerns response to price"
+   },
+   {
+    "id": "nature-econ-105",
+    "reason": "holds all else being equal"
+   }
+  ],
+  "nature-econ-392": [
+   {
+    "id": "nature-econ-128",
+    "reason": "extra revenue from one more unit is a margin"
+   },
+   {
+    "id": "nature-econ-371",
+    "reason": "depends on the demand curve the firm faces"
+   },
+   {
+    "id": "nature-econ-356",
+    "reason": "revenue is price times quantity"
+   }
+  ],
+  "nature-econ-393": [
+   {
+    "id": "nature-econ-397",
+    "reason": "it measures market power"
+   },
+   {
+    "id": "nature-econ-347",
+    "reason": "gap between price and marginal cost"
+   },
+   {
+    "id": "nature-econ-358",
+    "reason": "equals inverse of demand elasticity at optimum"
+   }
+  ],
+  "nature-econ-394": [
+   {
+    "id": "nature-econ-360",
+    "reason": "supplied equals demanded"
+   },
+   {
+    "id": "nature-econ-335",
+    "reason": "the market reaches equilibrium"
+   },
+   {
+    "id": "nature-econ-375",
+    "reason": "clearing removes surpluses"
+   },
+   {
+    "id": "nature-econ-410",
+    "reason": "clearing removes shortages"
+   }
+  ],
+  "nature-econ-395": [
+   {
+    "id": "nature-econ-342",
+    "reason": "decisions are made through markets"
+   },
+   {
+    "id": "nature-econ-360",
+    "reason": "prices set by supply and demand"
+   },
+   {
+    "id": "nature-econ-153",
+    "reason": "it is an economic system"
+   },
+   {
+    "id": "nature-econ-086",
+    "reason": "guides investment and production of factors"
+   }
+  ],
+  "nature-econ-396": [
+   {
+    "id": "nature-econ-395",
+    "reason": "the mechanism of a market economy"
+   },
+   {
+    "id": "nature-econ-360",
+    "reason": "prices emerge from supply and demand"
+   },
+   {
+    "id": "nature-found-051",
+    "reason": "prices reflect scarcity"
+   },
+   {
+    "id": "nature-econ-156",
+    "reason": "prices reflect value"
+   }
+  ],
+  "nature-econ-397": [
+   {
+    "id": "nature-econ-347",
+    "reason": "raising price above marginal cost"
+   },
+   {
+    "id": "nature-econ-353",
+    "reason": "contrasted with price-taking under perfect competition"
+   },
+   {
+    "id": "nature-econ-371",
+    "reason": "limited by the demand curve"
+   }
+  ],
+  "nature-econ-398": [
+   {
+    "id": "nature-econ-397",
+    "reason": "concentration indicates market power"
+   },
+   {
+    "id": "nature-econ-137",
+    "reason": "describes market structure"
+   },
+   {
+    "id": "nature-econ-364",
+    "reason": "high ratios indicate oligopoly"
+   }
+  ],
+  "nature-econ-399": [
+   {
+    "id": "nature-econ-335",
+    "reason": "an analysis of equilibrium"
+   },
+   {
+    "id": "nature-econ-105",
+    "reason": "holds everything else constant"
+   },
+   {
+    "id": "nature-econ-360",
+    "reason": "single-market supply and demand"
+   },
+   {
+    "id": "nature-econ-152",
+    "reason": "a modeling approach"
+   }
+  ],
+  "nature-econ-400": [
+   {
+    "id": "nature-econ-402",
+    "reason": "a kind of price control"
+   },
+   {
+    "id": "nature-econ-360",
+    "reason": "effect set against supply and demand"
+   },
+   {
+    "id": "nature-econ-410",
+    "reason": "binding ceilings cause shortages"
+   }
+  ],
+  "nature-econ-401": [
+   {
+    "id": "nature-econ-400",
+    "reason": "rent control is a price ceiling on rents"
+   },
+   {
+    "id": "nature-econ-402",
+    "reason": "a price control"
+   }
+  ],
+  "nature-econ-402": [
+   {
+    "id": "nature-econ-356",
+    "reason": "limits on prices"
+   },
+   {
+    "id": "nature-econ-360",
+    "reason": "overrides prices set by supply and demand"
+   },
+   {
+    "id": "nature-econ-395",
+    "reason": "an intervention in a market economy"
+   }
+  ],
+  "nature-econ-403": [
+   {
+    "id": "nature-econ-397",
+    "reason": "requires market power"
+   },
+   {
+    "id": "nature-econ-344",
+    "reason": "prices follow buyers' willingness to pay"
+   },
+   {
+    "id": "nature-econ-339",
+    "reason": "captures consumer surplus"
+   },
+   {
+    "id": "nature-econ-358",
+    "reason": "groups differ in demand elasticity"
+   }
+  ],
+  "nature-econ-404": [
+   {
+    "id": "nature-econ-374",
+    "reason": "a kind of elasticity"
+   },
+   {
+    "id": "nature-econ-412",
+    "reason": "measures supply response"
+   },
+   {
+    "id": "nature-econ-391",
+    "reason": "response follows law of supply"
+   }
+  ],
+  "nature-econ-405": [
+   {
+    "id": "nature-econ-402",
+    "reason": "a kind of price control"
+   },
+   {
+    "id": "nature-econ-335",
+    "reason": "effect depends on being above equilibrium"
+   },
+   {
+    "id": "nature-econ-375",
+    "reason": "binding floors cause excess supply"
+   }
+  ],
+  "nature-econ-406": [
+   {
+    "id": "nature-econ-405",
+    "reason": "a price floor for labour"
+   },
+   {
+    "id": "nature-econ-376",
+    "reason": "applies in the labour factor market"
+   }
+  ],
+  "nature-econ-407": [
+   {
+    "id": "nature-econ-356",
+    "reason": "prices allocate resources"
+   },
+   {
+    "id": "nature-econ-360",
+    "reason": "steers quantities supplied and demanded"
+   },
+   {
+    "id": "nature-econ-115",
+    "reason": "answers the economic problem of allocation"
+   }
+  ],
+  "nature-econ-408": [
+   {
+    "id": "nature-econ-356",
+    "reason": "information carried by a price"
+   },
+   {
+    "id": "nature-econ-360",
+    "reason": "signals changes in supply and demand"
+   }
+  ],
+  "nature-econ-409": [
+   {
+    "id": "nature-econ-413",
+    "reason": "revenue minus total costs"
+   },
+   {
+    "id": "nature-econ-124",
+    "reason": "counts implicit costs"
+   },
+   {
+    "id": "nature-econ-096",
+    "reason": "counts explicit costs"
+   },
+   {
+    "id": "nature-econ-095",
+    "reason": "implicit costs are opportunity costs"
+   }
+  ],
+  "nature-econ-410": [
+   {
+    "id": "nature-econ-360",
+    "reason": "demand exceeds supply"
+   },
+   {
+    "id": "nature-econ-335",
+    "reason": "price below its equilibrium"
+   }
+  ],
+  "nature-econ-412": [
+   {
+    "id": "nature-econ-356",
+    "reason": "quantity offered at various prices"
+   },
+   {
+    "id": "nature-econ-342",
+    "reason": "offered for sale in a market"
+   }
+  ],
+  "nature-econ-413": [
+   {
+    "id": "nature-econ-114",
+    "reason": "total of economic costs"
+   },
+   {
+    "id": "nature-econ-135",
+    "reason": "variable plus fixed costs"
+   },
+   {
+    "id": "nature-econ-086",
+    "reason": "costs of inputs to production"
+   }
+  ],
+  "nature-econ-414": [
+   {
+    "id": "nature-econ-409",
+    "reason": "economic profit driven to zero"
+   },
+   {
+    "id": "nature-econ-353",
+    "reason": "free entry under competition"
+   },
+   {
+    "id": "nature-econ-354",
+    "reason": "zero economic profit equals normal profit"
+   }
+  ],
+  "nature-econ-415": [
+   {
+    "id": "nature-econ-465",
+    "reason": "a type of optimal control rule"
+   },
+   {
+    "id": "nature-econ-417",
+    "reason": "switches the control variable between extremes"
+   }
+  ],
+  "nature-econ-416": [
+   {
+    "id": "nature-econ-440",
+    "reason": "the core equation of dynamic programming"
+   },
+   {
+    "id": "nature-econ-418",
+    "reason": "follows Bellman's principle of optimality"
+   },
+   {
+    "id": "nature-econ-417",
+    "reason": "written in terms of state and control"
+   }
+  ],
+  "nature-econ-417": [
+   {
+    "id": "nature-econ-461",
+    "reason": "variables of a decision problem"
+   },
+   {
+    "id": "nature-econ-437",
+    "reason": "defined for problems over time"
+   }
+  ],
+  "nature-econ-418": [
+   {
+    "id": "nature-econ-461",
+    "reason": "a property of optimal plans"
+   },
+   {
+    "id": "nature-econ-417",
+    "reason": "remaining decisions depend on the resulting state"
+   }
+  ],
+  "nature-econ-419": [
+   {
+    "id": "nature-econ-433",
+    "reason": "studies families of differential equations"
+   },
+   {
+    "id": "nature-econ-472",
+    "reason": "qualitative change shows as equilibria changing stability"
+   },
+   {
+    "id": "nature-econ-474",
+    "reason": "tracks how steady states change"
+   }
+  ],
+  "nature-econ-420": [
+   {
+    "id": "nature-econ-419",
+    "reason": "the two classes of bifurcation"
+   },
+   {
+    "id": "nature-econ-471",
+    "reason": "local ones seen through stability of equilibria"
+   }
+  ],
+  "nature-econ-421": [
+   {
+    "id": "nature-econ-461",
+    "reason": "optimizes over whole functions"
+   },
+   {
+    "id": "nature-econ-429",
+    "reason": "uses derivatives of functionals"
+   }
+  ],
+  "nature-econ-422": [
+   {
+    "id": "nature-econ-421",
+    "reason": "the key equation of the calculus of variations"
+   },
+   {
+    "id": "nature-econ-433",
+    "reason": "it is a differential equation"
+   }
+  ],
+  "nature-econ-423": [
+   {
+    "id": "nature-econ-461",
+    "reason": "optimization subject to constraints"
+   },
+   {
+    "id": "nature-econ-102",
+    "reason": "budget constraint is the standard economic example"
+   }
+  ],
+  "nature-econ-424": [
+   {
+    "id": "nature-econ-423",
+    "reason": "solves constrained problems"
+   },
+   {
+    "id": "nature-econ-462",
+    "reason": "then applies ordinary first-order conditions"
+   }
+  ],
+  "nature-econ-425": [
+   {
+    "id": "nature-econ-423",
+    "reason": "a kind of constrained optimization"
+   },
+   {
+    "id": "nature-econ-456",
+    "reason": "generalizes linear programming"
+   },
+   {
+    "id": "nature-econ-427",
+    "reason": "convexity governs solvability"
+   }
+  ],
+  "nature-econ-426": [
+   {
+    "id": "nature-econ-461",
+    "reason": "a search method for optimization"
+   },
+   {
+    "id": "nature-econ-450",
+    "reason": "the standard method for integer programs"
+   }
+  ],
+  "nature-econ-427": [
+   {
+    "id": "nature-econ-429",
+    "reason": "curvature described via derivatives"
+   }
+  ],
+  "nature-econ-428": [
+   {
+    "id": "nature-econ-427",
+    "reason": "a strengthened convex function"
+   },
+   {
+    "id": "nature-econ-431",
+    "reason": "condition stated through second derivatives"
+   }
+  ],
+  "nature-econ-429": [],
+  "nature-econ-430": [
+   {
+    "id": "nature-econ-429",
+    "reason": "a derivative in one of several variables"
+   }
+  ],
+  "nature-econ-431": [
+   {
+    "id": "nature-econ-429",
+    "reason": "repeated differentiation"
+   }
+  ],
+  "nature-econ-432": [
+   {
+    "id": "nature-econ-429",
+    "reason": "reverses differentiation"
+   }
+  ],
+  "nature-econ-433": [
+   {
+    "id": "nature-econ-429",
+    "reason": "links functions to their derivatives"
+   }
+  ],
+  "nature-econ-434": [
+   {
+    "id": "nature-econ-433",
+    "reason": "classifies differential equations"
+   },
+   {
+    "id": "nature-econ-430",
+    "reason": "partial equations use partial derivatives"
+   },
+   {
+    "id": "nature-econ-431",
+    "reason": "classified by order of derivative"
+   }
+  ],
+  "nature-econ-435": [
+   {
+    "id": "nature-econ-433",
+    "reason": "pin down a differential equation's solution"
+   }
+  ],
+  "nature-econ-436": [
+   {
+    "id": "nature-econ-437",
+    "reason": "an equation in discrete time"
+   },
+   {
+    "id": "nature-econ-433",
+    "reason": "the discrete analogue of a differential equation"
+   }
+  ],
+  "nature-econ-437": [],
+  "nature-econ-438": [
+   {
+    "id": "nature-econ-423",
+    "reason": "views constrained problems from two sides"
+   },
+   {
+    "id": "nature-econ-455",
+    "reason": "dual variables are the multipliers"
+   }
+  ],
+  "nature-econ-439": [
+   {
+    "id": "nature-econ-438",
+    "reason": "gap between primal and dual values"
+   },
+   {
+    "id": "nature-econ-427",
+    "reason": "zero gap under convexity"
+   }
+  ],
+  "nature-econ-440": [
+   {
+    "id": "nature-econ-461",
+    "reason": "a method of optimization"
+   },
+   {
+    "id": "nature-econ-417",
+    "reason": "recursion runs over states and controls"
+   }
+  ],
+  "nature-econ-441": [
+   {
+    "id": "nature-econ-461",
+    "reason": "an intertemporal optimization problem"
+   },
+   {
+    "id": "nature-econ-083",
+    "reason": "choose investment in capital"
+   },
+   {
+    "id": "nature-econ-818",
+    "reason": "consume now versus later"
+   }
+  ],
+  "nature-econ-442": [
+   {
+    "id": "nature-econ-781",
+    "reason": "compounding grows exponentially"
+   }
+  ],
+  "nature-eco-580": [
+   {
+    "id": "nature-econ-442",
+    "reason": "starts as exponential growth"
+   },
+   {
+    "id": "nature-econ-433",
+    "reason": "described by a differential equation"
+   }
+  ],
+  "nature-econ-444": [
+   {
+    "id": "nature-econ-442",
+    "reason": "underestimating exponential growth"
+   },
+   {
+    "id": "nature-econ-781",
+    "reason": "concerns compounding"
+   }
+  ],
+  "nature-econ-445": [
+   {
+    "id": "nature-econ-442",
+    "reason": "rewrites exponential growth"
+   }
+  ],
+  "nature-econ-446": [
+   {
+    "id": "nature-econ-465",
+    "reason": "built to solve optimal control problems"
+   },
+   {
+    "id": "nature-econ-417",
+    "reason": "combines state and control variables"
+   },
+   {
+    "id": "nature-econ-455",
+    "reason": "state equations enter with multipliers"
+   },
+   {
+    "id": "nature-econ-433",
+    "reason": "state changes follow differential equations"
+   }
+  ],
+  "nature-econ-447": [
+   {
+    "id": "nature-econ-446",
+    "reason": "a version of the control Hamiltonian"
+   },
+   {
+    "id": "nature-econ-794",
+    "reason": "strips out exponential discounting"
+   }
+  ],
+  "nature-econ-448": [
+   {
+    "id": "nature-econ-465",
+    "reason": "end-point condition for dynamic optimization"
+   },
+   {
+    "id": "nature-econ-466",
+    "reason": "usually stated on the costate variable"
+   }
+  ],
+  "nature-econ-450": [
+   {
+    "id": "nature-econ-456",
+    "reason": "linear programs with whole-number variables"
+   },
+   {
+    "id": "nature-econ-461",
+    "reason": "a kind of optimization"
+   }
+  ],
+  "nature-econ-451": [
+   {
+    "id": "nature-econ-450",
+    "reason": "relaxes an integer program"
+   },
+   {
+    "id": "nature-econ-456",
+    "reason": "yields a linear program"
+   }
+  ],
+  "nature-econ-452": [
+   {
+    "id": "nature-econ-425",
+    "reason": "tests for nonlinear programming optima"
+   },
+   {
+    "id": "nature-econ-455",
+    "reason": "generalizes Lagrange multipliers to inequalities"
+   },
+   {
+    "id": "nature-econ-462",
+    "reason": "first-derivative optimality tests"
+   }
+  ],
+  "nature-econ-453": [
+   {
+    "id": "nature-econ-452",
+    "reason": "one of the KKT conditions"
+   },
+   {
+    "id": "nature-econ-455",
+    "reason": "concerns the constraint's multiplier"
+   }
+  ],
+  "nature-econ-454": [
+   {
+    "id": "nature-econ-452",
+    "reason": "guarantees KKT conditions hold"
+   },
+   {
+    "id": "nature-econ-423",
+    "reason": "applies to constrained problems"
+   }
+  ],
+  "nature-econ-455": [
+   {
+    "id": "nature-econ-423",
+    "reason": "solves equality-constrained optimization"
+   },
+   {
+    "id": "nature-econ-430",
+    "reason": "uses partial derivatives"
+   },
+   {
+    "id": "nature-econ-462",
+    "reason": "sets first-order conditions"
+   }
+  ],
+  "nature-econ-456": [
+   {
+    "id": "nature-econ-423",
+    "reason": "linear constrained optimization"
+   }
+  ],
+  "nature-econ-457": [
+   {
+    "id": "nature-econ-456",
+    "reason": "a method for linear programming"
+   }
+  ],
+  "nature-econ-458": [
+   {
+    "id": "nature-econ-456",
+    "reason": "added to a linear program's constraints"
+   }
+  ],
+  "nature-econ-459": [
+   {
+    "id": "nature-econ-417",
+    "reason": "decisions depend on the state"
+   },
+   {
+    "id": "nature-econ-787",
+    "reason": "models sequential decisions under uncertainty"
+   },
+   {
+    "id": "nature-econ-756",
+    "reason": "outcomes valued by expectation"
+   }
+  ],
+  "nature-econ-460": [
+   {
+    "id": "nature-econ-459",
+    "reason": "solves Markov decision processes"
+   },
+   {
+    "id": "nature-econ-416",
+    "reason": "iterates the Bellman equation"
+   }
+  ],
+  "nature-econ-461": [],
+  "nature-econ-462": [
+   {
+    "id": "nature-econ-461",
+    "reason": "tests for optimal solutions"
+   },
+   {
+    "id": "nature-econ-429",
+    "reason": "first-order conditions set the derivative to zero"
+   },
+   {
+    "id": "nature-econ-431",
+    "reason": "second-order conditions use second derivatives"
+   }
+  ],
+  "nature-econ-464": [
+   {
+    "id": "nature-econ-461",
+    "reason": "optimization with several goals"
+   },
+   {
+    "id": "nature-econ-099",
+    "reason": "conflicting goals force a trade-off"
+   }
+  ],
+  "nature-econ-465": [
+   {
+    "id": "nature-econ-417",
+    "reason": "steers state with control variables"
+   },
+   {
+    "id": "nature-econ-433",
+    "reason": "systems change via differential equations"
+   },
+   {
+    "id": "nature-econ-421",
+    "reason": "generalizes the calculus of variations"
+   },
+   {
+    "id": "nature-econ-461",
+    "reason": "optimizes an objective over time"
+   }
+  ],
+  "nature-econ-466": [
+   {
+    "id": "nature-econ-465",
+    "reason": "a variable in optimal control"
+   },
+   {
+    "id": "nature-econ-417",
+    "reason": "marginal value of the state variable"
+   },
+   {
+    "id": "nature-econ-455",
+    "reason": "plays the role of a multiplier"
+   }
+  ],
+  "nature-econ-467": [
+   {
+    "id": "nature-econ-465",
+    "reason": "a special case of optimal control"
+   }
+  ],
+  "nature-econ-468": [
+   {
+    "id": "nature-econ-433",
+    "reason": "pictures paths of differential equations"
+   },
+   {
+    "id": "nature-econ-474",
+    "reason": "shows steady states"
+   },
+   {
+    "id": "nature-econ-472",
+    "reason": "shows stability of equilibria"
+   }
+  ],
+  "nature-econ-469": [
+   {
+    "id": "nature-econ-465",
+    "reason": "a rule of optimal control"
+   },
+   {
+    "id": "nature-econ-446",
+    "reason": "maximizes the Hamiltonian"
+   },
+   {
+    "id": "nature-econ-466",
+    "reason": "uses costate variables"
+   }
+  ],
+  "nature-econ-470": [
+   {
+    "id": "nature-econ-416",
+    "reason": "continuous-time Bellman equation"
+   },
+   {
+    "id": "nature-econ-434",
+    "reason": "it is a partial differential equation"
+   },
+   {
+    "id": "nature-econ-465",
+    "reason": "solves optimal control problems"
+   }
+  ],
+  "nature-econ-471": [
+   {
+    "id": "nature-econ-433",
+    "reason": "studies solutions of differential equations"
+   },
+   {
+    "id": "nature-econ-472",
+    "reason": "formalizes stable and unstable equilibria"
+   }
+  ],
+  "nature-econ-472": [
+   {
+    "id": "nature-econ-474",
+    "reason": "stability of a resting state"
+   },
+   {
+    "id": "nature-econ-335",
+    "reason": "applies to equilibria"
+   }
+  ],
+  "nature-econ-473": [
+   {
+    "id": "nature-econ-471",
+    "reason": "a tool of stability theory"
+   }
+  ],
+  "nature-econ-474": [
+   {
+    "id": "nature-econ-437",
+    "reason": "variables unchanging over time"
+   }
+  ],
+  "nature-econ-475": [
+   {
+    "id": "nature-econ-382",
+    "reason": "applied general equilibrium theory"
+   },
+   {
+    "id": "nature-econ-152",
+    "reason": "a class of economic models"
+   },
+   {
+    "id": "nature-econ-086",
+    "reason": "models factors of production across sectors"
+   }
+  ],
+  "nature-econ-476": [
+   {
+    "id": "nature-econ-475",
+    "reason": "a choice within CGE models"
+   },
+   {
+    "id": "nature-econ-152",
+    "reason": "exogenous versus endogenous model variables"
+   }
+  ],
+  "nature-econ-477": [
+   {
+    "id": "nature-econ-475",
+    "reason": "structure used in CGE models"
+   },
+   {
+    "id": "nature-econ-312",
+    "reason": "CES functions are production functions"
+   },
+   {
+    "id": "nature-econ-147",
+    "reason": "elasticity of substitution among inputs"
+   }
+  ],
+  "nature-econ-478": [
+   {
+    "id": "nature-econ-483",
+    "reason": "growth is measured as rising GDP"
+   },
+   {
+    "id": "nature-econ-122",
+    "reason": "an increase in goods and services produced"
+   },
+   {
+    "id": "nature-econ-831",
+    "reason": "growth is measured in real terms"
+   }
+  ],
+  "nature-econ-479": [
+   {
+    "id": "nature-econ-478",
+    "reason": "factors behind economic growth"
+   },
+   {
+    "id": "nature-econ-580",
+    "reason": "labour productivity is a main source"
+   },
+   {
+    "id": "nature-econ-487",
+    "reason": "growth measured as output per person"
+   }
+  ],
+  "nature-econ-480": [
+   {
+    "id": "nature-econ-478",
+    "reason": "debate over continued growth"
+   },
+   {
+    "id": "nature-found-010",
+    "reason": "concerns natural resources and ecosystems as capital"
+   },
+   {
+    "id": "nature-found-023",
+    "reason": "worry that growth degrades the environment"
+   }
+  ],
+  "nature-econ-481": [
+   {
+    "id": "nature-econ-478",
+    "reason": "claims about the effect of growth"
+   },
+   {
+    "id": "nature-econ-487",
+    "reason": "growth measured per person"
+   },
+   {
+    "id": "nature-econ-488",
+    "reason": "quality of life differs from GDP"
+   }
+  ],
+  "nature-econ-482": [
+   {
+    "id": "nature-econ-478",
+    "reason": "asks how inequality affects growth"
+   },
+   {
+    "id": "nature-econ-494",
+    "reason": "concerns income inequality"
+   },
+   {
+    "id": "nature-econ-501",
+    "reason": "and wealth inequality"
+   }
+  ],
+  "nature-econ-483": [
+   {
+    "id": "nature-econ-122",
+    "reason": "value of final goods and services"
+   },
+   {
+    "id": "nature-econ-356",
+    "reason": "valued at market prices"
+   },
+   {
+    "id": "nature-econ-541",
+    "reason": "the central macroeconomic aggregate"
+   }
+  ],
+  "nature-econ-484": [
+   {
+    "id": "nature-econ-483",
+    "reason": "ways of measuring GDP"
+   },
+   {
+    "id": "nature-econ-602",
+    "reason": "production approach sums value added"
+   },
+   {
+    "id": "nature-econ-491",
+    "reason": "income approach sums incomes"
+   },
+   {
+    "id": "nature-econ-485",
+    "reason": "expenditure approach sums spending"
+   }
+  ],
+  "nature-econ-485": [
+   {
+    "id": "nature-econ-483",
+    "reason": "breaks down GDP"
+   },
+   {
+    "id": "nature-econ-509",
+    "reason": "consumption is a component"
+   },
+   {
+    "id": "nature-econ-539",
+    "reason": "investment is a component"
+   }
+  ],
+  "nature-econ-486": [
+   {
+    "id": "nature-econ-483",
+    "reason": "two versions of GDP"
+   },
+   {
+    "id": "nature-econ-831",
+    "reason": "real versus nominal values"
+   },
+   {
+    "id": "nature-econ-801",
+    "reason": "adjusts for inflation"
+   }
+  ],
+  "nature-econ-487": [
+   {
+    "id": "nature-econ-483",
+    "reason": "GDP divided by population"
+   }
+  ],
+  "nature-econ-488": [
+   {
+    "id": "nature-econ-483",
+    "reason": "criticisms of GDP"
+   },
+   {
+    "id": "nature-found-079",
+    "reason": "GDP leaves out pollution"
+   },
+   {
+    "id": "nature-econ-494",
+    "reason": "GDP ignores how income is shared"
+   }
+  ],
+  "nature-econ-489": [
+   {
+    "id": "nature-econ-483",
+    "reason": "a criticism of GDP"
+   },
+   {
+    "id": "nature-found-010",
+    "reason": "GDP fails to show natural capital used up"
+   },
+   {
+    "id": "nature-econ-488",
+    "reason": "one of GDP's limitations"
+   }
+  ],
+  "nature-econ-490": [
+   {
+    "id": "nature-econ-483",
+    "reason": "GDP measured by incomes"
+   },
+   {
+    "id": "nature-econ-493",
+    "reason": "adds up primary factor incomes"
+   },
+   {
+    "id": "nature-econ-484",
+    "reason": "the income approach to GDP"
+   }
+  ],
+  "nature-econ-491": [
+   {
+    "id": "nature-econ-509",
+    "reason": "income is the ability to consume"
+   },
+   {
+    "id": "nature-econ-594",
+    "reason": "income is a flow over a period"
+   }
+  ],
+  "nature-econ-492": [
+   {
+    "id": "nature-econ-491",
+    "reason": "a definition of income"
+   },
+   {
+    "id": "nature-econ-509",
+    "reason": "consumption plus change in net worth"
+   },
+   {
+    "id": "nature-econ-499",
+    "reason": "change in wealth counts"
+   }
+  ],
+  "nature-econ-493": [
+   {
+    "id": "nature-econ-491",
+    "reason": "a kind of income"
+   },
+   {
+    "id": "nature-econ-086",
+    "reason": "earned by factors of production"
+   },
+   {
+    "id": "nature-econ-082",
+    "reason": "rent from land"
+   }
+  ],
+  "nature-econ-494": [
+   {
+    "id": "nature-econ-491",
+    "reason": "uneven spread of income"
+   }
+  ],
+  "nature-econ-495": [
+   {
+    "id": "nature-econ-483",
+    "reason": "GDP is the main measure"
+   },
+   {
+    "id": "nature-econ-566",
+    "reason": "statistics from national accounts"
+   },
+   {
+    "id": "nature-econ-491",
+    "reason": "measures national income"
+   }
+  ],
+  "nature-econ-496": [
+   {
+    "id": "nature-econ-602",
+    "reason": "count value added at each stage"
+   },
+   {
+    "id": "nature-econ-536",
+    "reason": "intermediate inputs are excluded"
+   },
+   {
+    "id": "nature-econ-483",
+    "reason": "rule for measuring GDP"
+   }
+  ],
+  "nature-econ-497": [
+   {
+    "id": "nature-econ-495",
+    "reason": "names the national income measures"
+   },
+   {
+    "id": "nature-econ-521",
+    "reason": "gross versus net of depreciation"
+   },
+   {
+    "id": "nature-econ-530",
+    "reason": "national versus domestic"
+   }
+  ],
+  "nature-econ-498": [
+   {
+    "id": "nature-econ-487",
+    "reason": "asks how GDP per person reflects welfare"
+   },
+   {
+    "id": "nature-econ-488",
+    "reason": "given what GDP leaves out"
+   }
+  ],
+  "nature-econ-499": [
+   {
+    "id": "nature-econ-156",
+    "reason": "an abundance of valuable assets"
+   },
+   {
+    "id": "nature-econ-659",
+    "reason": "assets are owned property"
+   }
+  ],
+  "nature-econ-500": [
+   {
+    "id": "nature-econ-499",
+    "reason": "distinguishes wealth"
+   },
+   {
+    "id": "nature-econ-491",
+    "reason": "from income"
+   },
+   {
+    "id": "nature-econ-594",
+    "reason": "stock versus flow"
+   }
+  ],
+  "nature-econ-501": [
+   {
+    "id": "nature-econ-499",
+    "reason": "how wealth is shared"
+   },
+   {
+    "id": "nature-econ-494",
+    "reason": "parallels income distribution"
+   }
+  ],
+  "nature-econ-502": [
+   {
+    "id": "nature-econ-152",
+    "reason": "a model of the economy"
+   },
+   {
+    "id": "nature-econ-491",
+    "reason": "flows of income"
+   },
+   {
+    "id": "nature-econ-509",
+    "reason": "spent on consumption"
+   },
+   {
+    "id": "nature-econ-122",
+    "reason": "flows of goods and services"
+   }
+  ],
+  "nature-econ-503": [
+   {
+    "id": "nature-econ-502",
+    "reason": "versions of the circular flow model"
+   }
+  ],
+  "nature-econ-504": [
+   {
+    "id": "nature-econ-502",
+    "reason": "flows into and out of the circular flow"
+   },
+   {
+    "id": "nature-econ-587",
+    "reason": "savings are a leakage"
+   },
+   {
+    "id": "nature-econ-539",
+    "reason": "investment is an injection"
+   }
+  ],
+  "nature-econ-505": [
+   {
+    "id": "nature-econ-502",
+    "reason": "critiques the circular flow model"
+   },
+   {
+    "id": "nature-econ-553",
+    "reason": "economy depends on environmental sources and sinks"
+   },
+   {
+    "id": "nature-found-010",
+    "reason": "throughput from natural capital"
+   }
+  ],
+  "nature-econ-506": [
+   {
+    "id": "nature-econ-832",
+    "reason": "a kind of price index"
+   },
+   {
+    "id": "nature-econ-801",
+    "reason": "used to measure inflation"
+   },
+   {
+    "id": "nature-econ-356",
+    "reason": "tracks prices of a basket"
+   }
+  ],
+  "nature-econ-507": [
+   {
+    "id": "nature-econ-506",
+    "reason": "weighting in the CPI"
+   },
+   {
+    "id": "nature-econ-509",
+    "reason": "weights reflect consumer spending"
+   }
+  ],
+  "nature-econ-508": [
+   {
+    "id": "nature-econ-506",
+    "reason": "a CPI controversy"
+   },
+   {
+    "id": "nature-econ-537",
+    "reason": "imputed rent is one approach"
+   },
+   {
+    "id": "nature-econ-095",
+    "reason": "owning a home has an opportunity cost"
+   }
+  ],
+  "nature-econ-509": [
+   {
+    "id": "nature-econ-122",
+    "reason": "use of goods and services"
+   },
+   {
+    "id": "nature-econ-110",
+    "reason": "driven by consumer choice"
+   }
+  ],
+  "nature-econ-510": [
+   {
+    "id": "nature-econ-509",
+    "reason": "models consumption"
+   },
+   {
+    "id": "nature-econ-491",
+    "reason": "as a function of disposable income"
+   },
+   {
+    "id": "nature-econ-545",
+    "reason": "Keynes's theory"
+   }
+  ],
+  "nature-econ-511": [
+   {
+    "id": "nature-econ-510",
+    "reason": "alternative to the Keynesian consumption function"
+   },
+   {
+    "id": "nature-econ-491",
+    "reason": "consumption depends on relative income"
+   }
+  ],
+  "nature-econ-513": [
+   {
+    "id": "nature-econ-510",
+    "reason": "alternative to the Keynesian consumption function"
+   },
+   {
+    "id": "nature-econ-491",
+    "reason": "consumption depends on permanent income"
+   },
+   {
+    "id": "nature-econ-587",
+    "reason": "saving smooths temporary swings"
+   }
+  ],
+  "nature-econ-514": [
+   {
+    "id": "nature-econ-510",
+    "reason": "alternative to the Keynesian consumption function"
+   },
+   {
+    "id": "nature-econ-587",
+    "reason": "saving spreads consumption over a lifetime"
+   },
+   {
+    "id": "nature-econ-818",
+    "reason": "consumption planned over time"
+   }
+  ],
+  "nature-econ-515": [
+   {
+    "id": "nature-econ-509",
+    "reason": "studied alongside market consumption"
+   },
+   {
+    "id": "nature-econ-095",
+    "reason": "household time has an opportunity cost"
+   },
+   {
+    "id": "nature-econ-122",
+    "reason": "households produce goods and services"
+   }
+  ],
+  "nature-econ-516": [
+   {
+    "id": "nature-econ-509",
+    "reason": "links consumption"
+   },
+   {
+    "id": "nature-found-023",
+    "reason": "to environmental damage"
+   }
+  ],
+  "nature-econ-517": [
+   {
+    "id": "nature-econ-521",
+    "reason": "depreciation of fixed capital"
+   },
+   {
+    "id": "nature-econ-566",
+    "reason": "a national accounts term"
+   }
+  ],
+  "nature-econ-518": [
+   {
+    "id": "nature-econ-517",
+    "reason": "measured by consumption of fixed capital"
+   },
+   {
+    "id": "nature-econ-483",
+    "reason": "the part of GDP due to depreciation"
+   }
+  ],
+  "nature-econ-519": [],
+  "nature-econ-520": [
+   {
+    "id": "nature-econ-519",
+    "reason": "ways of calculating depreciation"
+   }
+  ],
+  "nature-econ-521": [
+   {
+    "id": "nature-econ-083",
+    "reason": "loss of value of the capital stock"
+   },
+   {
+    "id": "nature-econ-519",
+    "reason": "economic counterpart of accounting depreciation"
+   }
+  ],
+  "nature-econ-522": [
+   {
+    "id": "nature-econ-541",
+    "reason": "a macroeconomic policy"
+   },
+   {
+    "id": "nature-econ-483",
+    "reason": "aims to influence output"
+   }
+  ],
+  "nature-econ-523": [
+   {
+    "id": "nature-econ-522",
+    "reason": "settings of fiscal policy"
+   }
+  ],
+  "nature-econ-524": [
+   {
+    "id": "nature-econ-522",
+    "reason": "compares fiscal policy"
+   },
+   {
+    "id": "nature-econ-560",
+    "reason": "with monetary policy"
+   }
+  ],
+  "nature-econ-525": [
+   {
+    "id": "nature-econ-522",
+    "reason": "effects of expansionary fiscal policy"
+   },
+   {
+    "id": "nature-econ-546",
+    "reason": "stimulus works via the multiplier"
+   },
+   {
+    "id": "nature-econ-555",
+    "reason": "may crowd out private spending"
+   }
+  ],
+  "nature-econ-526": [
+   {
+    "id": "nature-econ-832",
+    "reason": "a kind of price index"
+   },
+   {
+    "id": "nature-econ-486",
+    "reason": "turns nominal into real GDP"
+   }
+  ],
+  "nature-econ-527": [
+   {
+    "id": "nature-econ-494",
+    "reason": "measures income inequality"
+   }
+  ],
+  "nature-econ-528": [
+   {
+    "id": "nature-econ-527",
+    "reason": "weaknesses of the Gini coefficient"
+   }
+  ],
+  "nature-econ-529": [
+   {
+    "id": "nature-econ-494",
+    "reason": "trend in income inequality"
+   },
+   {
+    "id": "nature-econ-527",
+    "reason": "usually measured with the Gini coefficient"
+   }
+  ],
+  "nature-econ-530": [
+   {
+    "id": "nature-econ-483",
+    "reason": "GDP adjusted for residents' net income"
+   },
+   {
+    "id": "nature-econ-493",
+    "reason": "total factor income of residents"
+   }
+  ],
+  "nature-econ-531": [
+   {
+    "id": "nature-econ-083",
+    "reason": "a form of capital"
+   },
+   {
+    "id": "nature-econ-086",
+    "reason": "people's skills as factor of production"
+   }
+  ],
+  "nature-econ-532": [
+   {
+    "id": "nature-econ-531",
+    "reason": "measures human capital"
+   },
+   {
+    "id": "nature-econ-534",
+    "reason": "indexes compare countries"
+   }
+  ],
+  "nature-econ-533": [
+   {
+    "id": "nature-econ-531",
+    "reason": "challenge to human capital theory"
+   },
+   {
+    "id": "nature-econ-509",
+    "reason": "contrasts with education creating skills"
+   }
+  ],
+  "nature-econ-534": [],
+  "nature-econ-535": [
+   {
+    "id": "nature-econ-534",
+    "reason": "limits of indices"
+   },
+   {
+    "id": "nature-econ-506",
+    "reason": "fixed basket of goods"
+   }
+  ],
+  "nature-econ-536": [
+   {
+    "id": "nature-econ-122",
+    "reason": "goods and services used up"
+   },
+   {
+    "id": "nature-econ-086",
+    "reason": "as inputs in production"
+   }
+  ],
+  "nature-econ-537": [
+   {
+    "id": "nature-econ-602",
+    "reason": "added to value added"
+   },
+   {
+    "id": "nature-econ-566",
+    "reason": "a national accounts imputation"
+   }
+  ],
+  "nature-econ-538": [
+   {
+    "id": "nature-econ-587",
+    "reason": "investment uses saved resources"
+   },
+   {
+    "id": "nature-econ-156",
+    "reason": "expected to gain value"
+   }
+  ],
+  "nature-econ-539": [
+   {
+    "id": "nature-econ-538",
+    "reason": "the macroeconomic meaning of investment"
+   },
+   {
+    "id": "nature-econ-083",
+    "reason": "adds to capital stock"
+   },
+   {
+    "id": "nature-econ-594",
+    "reason": "a flow added to a stock"
+   }
+  ],
+  "nature-econ-540": [
+   {
+    "id": "nature-econ-539",
+    "reason": "explains investment"
+   },
+   {
+    "id": "nature-econ-083",
+    "reason": "value of physical capital"
+   }
+  ],
+  "nature-econ-541": [
+   {
+    "id": "nature-found-044",
+    "reason": "a branch of economics"
+   },
+   {
+    "id": "nature-econ-134",
+    "reason": "contrasted with microeconomics"
+   }
+  ],
+  "nature-econ-542": [
+   {
+    "id": "nature-econ-801",
+    "reason": "inflation is a general rise in prices"
+   },
+   {
+    "id": "nature-econ-356",
+    "reason": "concerns the price level"
+   },
+   {
+    "id": "nature-econ-541",
+    "reason": "a macroeconomic phenomenon"
+   }
+  ],
+  "nature-econ-543": [
+   {
+    "id": "nature-econ-541",
+    "reason": "a core macroeconomic measure"
+   },
+   {
+    "id": "nature-econ-376",
+    "reason": "people seeking work in the labour market"
+   }
+  ],
+  "nature-econ-544": [
+   {
+    "id": "nature-econ-541",
+    "reason": "a macroeconomic aggregate"
+   },
+   {
+    "id": "nature-econ-594",
+    "reason": "a stock of money at a point in time"
+   }
+  ],
+  "nature-econ-545": [
+   {
+    "id": "nature-econ-541",
+    "reason": "a school of macroeconomics"
+   },
+   {
+    "id": "nature-econ-394",
+    "reason": "explains why markets might not clear"
+   },
+   {
+    "id": "nature-econ-485",
+    "reason": "total demand from spending components drives output"
+   },
+   {
+    "id": "nature-econ-483",
+    "reason": "output measured as GDP"
+   }
+  ],
+  "nature-econ-546": [
+   {
+    "id": "nature-econ-545",
+    "reason": "a Keynesian idea"
+   },
+   {
+    "id": "nature-econ-589",
+    "reason": "size depends on the propensity to save"
+   },
+   {
+    "id": "nature-econ-502",
+    "reason": "spending passes round the circular flow"
+   }
+  ],
+  "nature-econ-547": [
+   {
+    "id": "nature-econ-544",
+    "reason": "stresses the money supply"
+   },
+   {
+    "id": "nature-econ-545",
+    "reason": "rival to Keynesian economics"
+   },
+   {
+    "id": "nature-econ-801",
+    "reason": "money growth drives inflation"
+   }
+  ],
+  "nature-econ-548": [
+   {
+    "id": "nature-econ-541",
+    "reason": "an assumption in macroeconomics"
+   },
+   {
+    "id": "nature-econ-098",
+    "reason": "extends rational choice to forecasting"
+   }
+  ],
+  "nature-econ-549": [
+   {
+    "id": "nature-econ-545",
+    "reason": "a Keynesian school"
+   },
+   {
+    "id": "nature-econ-548",
+    "reason": "accepts rational expectations"
+   },
+   {
+    "id": "nature-econ-560",
+    "reason": "shows monetary policy affects output"
+   },
+   {
+    "id": "nature-econ-522",
+    "reason": "and fiscal policy"
+   }
+  ],
+  "nature-econ-551": [
+   {
+    "id": "nature-econ-478",
+    "reason": "explains economic growth"
+   },
+   {
+    "id": "nature-econ-531",
+    "reason": "growth from human capital and learning"
+   },
+   {
+    "id": "nature-econ-318",
+    "reason": "contrasted with outside technological change"
+   },
+   {
+    "id": "nature-econ-317",
+    "reason": "through increasing returns"
+   }
+  ],
+  "nature-econ-552": [
+   {
+    "id": "nature-econ-541",
+    "reason": "adds environment to macroeconomic models"
+   },
+   {
+    "id": "nature-econ-478",
+    "reason": "especially growth models"
+   },
+   {
+    "id": "nature-econ-553",
+    "reason": "environment as source and sink"
+   }
+  ],
+  "nature-econ-553": [
+   {
+    "id": "nature-found-079",
+    "reason": "sink absorbs pollution"
+   },
+   {
+    "id": "nature-found-020",
+    "reason": "sink role relies on assimilative capacity"
+   },
+   {
+    "id": "nature-found-010",
+    "reason": "source role supplies natural capital"
+   }
+  ],
+  "nature-econ-554": [
+   {
+    "id": "nature-econ-522",
+    "reason": "uses fiscal tools"
+   },
+   {
+    "id": "nature-econ-560",
+    "reason": "uses monetary tools"
+   },
+   {
+    "id": "nature-econ-543",
+    "reason": "aims to soften unemployment in downturns"
+   }
+  ],
+  "nature-econ-555": [
+   {
+    "id": "nature-econ-522",
+    "reason": "limits fiscal policy"
+   },
+   {
+    "id": "nature-econ-757",
+    "reason": "raised interest rates reduce private activity"
+   },
+   {
+    "id": "nature-econ-539",
+    "reason": "private investment is crowded out"
+   }
+  ],
+  "nature-econ-556": [
+   {
+    "id": "nature-econ-522",
+    "reason": "part of the fiscal system"
+   },
+   {
+    "id": "nature-econ-554",
+    "reason": "stabilize without new decisions"
+   }
+  ],
+  "nature-econ-557": [
+   {
+    "id": "nature-econ-541",
+    "reason": "a macroeconomic model"
+   },
+   {
+    "id": "nature-econ-542",
+    "reason": "determines the price level"
+   },
+   {
+    "id": "nature-econ-586",
+    "reason": "determines real output"
+   },
+   {
+    "id": "nature-econ-360",
+    "reason": "applies supply and demand economy-wide"
+   }
+  ],
+  "nature-econ-558": [
+   {
+    "id": "nature-econ-545",
+    "reason": "a Keynesian model"
+   },
+   {
+    "id": "nature-econ-757",
+    "reason": "finds interest rates"
+   },
+   {
+    "id": "nature-econ-588",
+    "reason": "goods market balances saving and investment"
+   },
+   {
+    "id": "nature-econ-544",
+    "reason": "money market balance"
+   }
+  ],
+  "nature-econ-559": [
+   {
+    "id": "nature-econ-541",
+    "reason": "branches of macroeconomics"
+   },
+   {
+    "id": "nature-econ-545",
+    "reason": "rejects mainstream theory"
+   }
+  ],
+  "nature-econ-560": [
+   {
+    "id": "nature-econ-541",
+    "reason": "a macroeconomic policy"
+   },
+   {
+    "id": "nature-econ-757",
+    "reason": "acts through interest rates"
+   },
+   {
+    "id": "nature-econ-542",
+    "reason": "aims at stable inflation"
+   },
+   {
+    "id": "nature-econ-544",
+    "reason": "influences money"
+   }
+  ],
+  "nature-econ-561": [
+   {
+    "id": "nature-econ-560",
+    "reason": "conducts monetary policy"
+   },
+   {
+    "id": "nature-econ-757",
+    "reason": "sets interest rates"
+   }
+  ],
+  "nature-econ-563": [
+   {
+    "id": "nature-econ-561",
+    "reason": "a central bank operation"
+   },
+   {
+    "id": "nature-econ-544",
+    "reason": "influences money supply"
+   },
+   {
+    "id": "nature-econ-757",
+    "reason": "influences interest rates"
+   }
+  ],
+  "nature-econ-564": [
+   {
+    "id": "nature-econ-563",
+    "reason": "large-scale asset purchases"
+   },
+   {
+    "id": "nature-econ-560",
+    "reason": "unconventional monetary policy"
+   },
+   {
+    "id": "nature-econ-757",
+    "reason": "used near zero interest rates"
+   }
+  ],
+  "nature-econ-565": [
+   {
+    "id": "nature-econ-560",
+    "reason": "adjusts monetary policy"
+   },
+   {
+    "id": "nature-econ-561",
+    "reason": "central banks' role"
+   }
+  ],
+  "nature-econ-566": [
+   {
+    "id": "nature-econ-483",
+    "reason": "GDP is compiled from them"
+   },
+   {
+    "id": "nature-econ-594",
+    "reason": "record stocks and flows"
+   },
+   {
+    "id": "nature-econ-541",
+    "reason": "measure the whole economy"
+   }
+  ],
+  "nature-econ-567": [
+   {
+    "id": "nature-econ-566",
+    "reason": "parts of the national accounts"
+   },
+   {
+    "id": "nature-econ-484",
+    "reason": "production, income and expenditure sides"
+   }
+  ],
+  "nature-econ-568": [
+   {
+    "id": "nature-econ-566",
+    "reason": "exclusion from national accounts"
+   },
+   {
+    "id": "nature-econ-515",
+    "reason": "household work is unpaid production"
+   }
+  ],
+  "nature-econ-569": [
+   {
+    "id": "nature-econ-566",
+    "reason": "extends national accounts"
+   },
+   {
+    "id": "nature-found-010",
+    "reason": "values environmental assets"
+   }
+  ],
+  "nature-econ-570": [
+   {
+    "id": "nature-econ-522",
+    "reason": "measures fiscal burdens"
+   },
+   {
+    "id": "nature-econ-566",
+    "reason": "an accounting method"
+   }
+  ],
+  "nature-econ-571": [
+   {
+    "id": "nature-econ-530",
+    "reason": "gross national income minus depreciation"
+   },
+   {
+    "id": "nature-econ-521",
+    "reason": "subtracts depreciation"
+   }
+  ],
+  "nature-econ-572": [
+   {
+    "id": "nature-econ-571",
+    "reason": "net national income adjusted"
+   },
+   {
+    "id": "nature-found-010",
+    "reason": "for natural resource depletion"
+   }
+  ],
+  "nature-econ-573": [
+   {
+    "id": "nature-econ-530",
+    "reason": "GNP minus depreciation"
+   },
+   {
+    "id": "nature-econ-521",
+    "reason": "subtracts depreciation"
+   },
+   {
+    "id": "nature-econ-497",
+    "reason": "the gross-net naming scheme"
+   }
+  ],
+  "nature-econ-575": [
+   {
+    "id": "nature-econ-832",
+    "reason": "a kind of price index"
+   },
+   {
+    "id": "nature-econ-506",
+    "reason": "basis of the CPI basket"
+   }
+  ],
+  "nature-econ-576": [
+   {
+    "id": "nature-econ-832",
+    "reason": "a kind of price index"
+   },
+   {
+    "id": "nature-econ-575",
+    "reason": "contrasted with Laspeyres base quantities"
+   }
+  ],
+  "nature-econ-577": [
+   {
+    "id": "nature-econ-575",
+    "reason": "mean of Laspeyres"
+   },
+   {
+    "id": "nature-econ-576",
+    "reason": "and Paasche indices"
+   }
+  ],
+  "nature-econ-578": [
+   {
+    "id": "nature-econ-832",
+    "reason": "a kind of price index"
+   },
+   {
+    "id": "nature-econ-506",
+    "reason": "building blocks of the CPI"
+   }
+  ],
+  "nature-econ-579": [
+   {
+    "id": "nature-econ-832",
+    "reason": "a kind of price index"
+   },
+   {
+    "id": "nature-econ-535",
+    "reason": "chaining eases the fixed-basket problem"
+   }
+  ],
+  "nature-econ-580": [
+   {
+    "id": "nature-econ-086",
+    "reason": "output per unit of input"
+   },
+   {
+    "id": "nature-econ-122",
+    "reason": "production of goods and services"
+   }
+  ],
+  "nature-econ-581": [
+   {
+    "id": "nature-econ-580",
+    "reason": "a kind of productivity"
+   },
+   {
+    "id": "nature-econ-483",
+    "reason": "output measured as GDP"
+   },
+   {
+    "id": "nature-econ-602",
+    "reason": "or gross value added"
+   }
+  ],
+  "nature-econ-582": [
+   {
+    "id": "nature-econ-580",
+    "reason": "puzzle about productivity growth"
+   },
+   {
+    "id": "nature-econ-318",
+    "reason": "despite new technology"
+   }
+  ],
+  "nature-econ-583": [
+   {
+    "id": "nature-econ-832",
+    "reason": "compares price levels by baskets"
+   },
+   {
+    "id": "nature-econ-584",
+    "reason": "based on law of one price"
+   }
+  ],
+  "nature-econ-584": [
+   {
+    "id": "nature-econ-356",
+    "reason": "the same price everywhere"
+   },
+   {
+    "id": "nature-econ-641",
+    "reason": "absent transport and transaction costs"
+   }
+  ],
+  "nature-econ-585": [
+   {
+    "id": "nature-econ-583",
+    "reason": "a simple version of PPP"
+   }
+  ],
+  "nature-econ-586": [
+   {
+    "id": "nature-econ-483",
+    "reason": "GDP adjusted"
+   },
+   {
+    "id": "nature-econ-831",
+    "reason": "real versus nominal values"
+   },
+   {
+    "id": "nature-econ-542",
+    "reason": "removes price changes"
+   }
+  ],
+  "nature-econ-587": [
+   {
+    "id": "nature-econ-491",
+    "reason": "income not spent"
+   },
+   {
+    "id": "nature-econ-509",
+    "reason": "income minus consumption"
+   }
+  ],
+  "nature-econ-588": [
+   {
+    "id": "nature-econ-587",
+    "reason": "saving"
+   },
+   {
+    "id": "nature-econ-539",
+    "reason": "investment"
+   },
+   {
+    "id": "nature-econ-757",
+    "reason": "interest rates as the equilibrating price"
+   }
+  ],
+  "nature-econ-589": [
+   {
+    "id": "nature-econ-587",
+    "reason": "the share saved"
+   },
+   {
+    "id": "nature-econ-128",
+    "reason": "of an extra unit of income"
+   }
+  ],
+  "nature-econ-590": [
+   {
+    "id": "nature-econ-083",
+    "reason": "a form of capital"
+   },
+   {
+    "id": "nature-econ-633",
+    "reason": "benefits are partly public goods"
+   }
+  ],
+  "nature-econ-591": [
+   {
+    "id": "nature-econ-590",
+    "reason": "types of social capital"
+   }
+  ],
+  "nature-econ-592": [
+   {
+    "id": "nature-econ-590",
+    "reason": "harmful side of social capital"
+   },
+   {
+    "id": "nature-econ-591",
+    "reason": "strong bonding ties"
+   }
+  ],
+  "nature-econ-593": [
+   {
+    "id": "nature-econ-590",
+    "reason": "quantifying social capital"
+   }
+  ],
+  "nature-econ-594": [],
+  "nature-econ-595": [
+   {
+    "id": "nature-econ-594",
+    "reason": "applies stocks and flows"
+   },
+   {
+    "id": "nature-found-015",
+    "reason": "to natural systems"
+   }
+  ],
+  "nature-econ-596": [
+   {
+    "id": "nature-econ-566",
+    "reason": "the standard for national accounts"
+   }
+  ],
+  "nature-econ-597": [
+   {
+    "id": "nature-econ-596",
+    "reason": "greening the SNA"
+   },
+   {
+    "id": "nature-found-010",
+    "reason": "adds natural capital depletion"
+   },
+   {
+    "id": "nature-found-004",
+    "reason": "adds ecosystem services"
+   }
+  ],
+  "nature-econ-598": [
+   {
+    "id": "nature-econ-596",
+    "reason": "linked to the core accounts"
+   }
+  ],
+  "nature-econ-599": [
+   {
+    "id": "nature-econ-580",
+    "reason": "a productivity measure"
+   },
+   {
+    "id": "nature-econ-086",
+    "reason": "output per total inputs"
+   },
+   {
+    "id": "nature-econ-312",
+    "reason": "residual of a production function"
+   }
+  ],
+  "nature-econ-600": [
+   {
+    "id": "nature-econ-478",
+    "reason": "decomposes economic growth"
+   },
+   {
+    "id": "nature-econ-599",
+    "reason": "residual is total factor productivity"
+   },
+   {
+    "id": "nature-econ-318",
+    "reason": "attributes part to technological change"
+   }
+  ],
+  "nature-econ-601": [
+   {
+    "id": "nature-econ-599",
+    "reason": "measured productivity growth"
+   },
+   {
+    "id": "nature-econ-580",
+    "reason": "productivity"
+   }
+  ],
+  "nature-econ-602": [
+   {
+    "id": "nature-econ-536",
+    "reason": "market value minus inputs used"
+   },
+   {
+    "id": "nature-econ-356",
+    "reason": "valued at market prices"
+   }
+  ],
+  "nature-econ-603": [
+   {
+    "id": "nature-econ-602",
+    "reason": "taxes value added at each stage"
+   }
+  ],
+  "nature-econ-604": [
+   {
+    "id": "nature-econ-083",
+    "reason": "a form of capital"
+   }
+  ],
+  "nature-econ-605": [
+   {
+    "id": "nature-econ-604",
+    "reason": "ratio of debt to equity capital"
+   }
+  ],
+  "nature-clim-136": [
+   {
+    "id": "nature-eco-163",
+    "reason": "total cumulative CO2 emissions allowed"
+   },
+   {
+    "id": "nature-eco-011",
+    "reason": "tied to a warming limit"
+   },
+   {
+    "id": "nature-eco-007",
+    "reason": "concerns carbon dioxide in the atmosphere"
+   }
+  ],
+  "nature-clim-137": [
+   {
+    "id": "nature-clim-136",
+    "reason": "splits the carbon budget among countries"
+   }
+  ],
+  "nature-clim-138": [
+   {
+    "id": "nature-clim-149",
+    "reason": "a form of climate mitigation"
+   },
+   {
+    "id": "nature-clim-143",
+    "reason": "stores removed CO2 durably"
+   },
+   {
+    "id": "nature-eco-007",
+    "reason": "takes CO2 out of the air"
+   }
+  ],
+  "nature-clim-139": [
+   {
+    "id": "nature-clim-138",
+    "reason": "property of carbon removal"
+   },
+   {
+    "id": "nature-clim-143",
+    "reason": "how long carbon stays stored"
+   }
+  ],
+  "nature-clim-140": [
+   {
+    "id": "nature-clim-138",
+    "reason": "cost of carbon removal methods"
+   },
+   {
+    "id": "nature-clim-117",
+    "reason": "costs fall as methods mature"
+   }
+  ],
+  "nature-clim-141": [
+   {
+    "id": "nature-clim-138",
+    "reason": "concerns carbon removal promises"
+   },
+   {
+    "id": "nature-econ-004",
+    "reason": "an application of moral hazard"
+   },
+   {
+    "id": "nature-clim-149",
+    "reason": "could weaken emission cuts"
+   }
+  ],
+  "nature-clim-142": [
+   {
+    "id": "nature-clim-138",
+    "reason": "a kind of carbon removal"
+   },
+   {
+    "id": "nature-eco-253",
+    "reason": "ocean dissolved carbon balances with air CO2"
+   },
+   {
+    "id": "nature-eco-251",
+    "reason": "includes ocean alkalinity enhancement"
+   }
+  ],
+  "nature-clim-143": [
+   {
+    "id": "nature-eco-164",
+    "reason": "stores carbon within the carbon cycle"
+   },
+   {
+    "id": "nature-eco-165",
+    "reason": "carbon is stored in pools"
+   },
+   {
+    "id": "nature-eco-169",
+    "reason": "natural sinks sequester carbon"
+   }
+  ],
+  "nature-clim-144": [
+   {
+    "id": "nature-clim-143",
+    "reason": "a kind of carbon sequestration"
+   },
+   {
+    "id": "nature-eco-190",
+    "reason": "through plant growth and photosynthesis"
+   },
+   {
+    "id": "nature-eco-169",
+    "reason": "enhances natural carbon sinks"
+   }
+  ],
+  "nature-clim-145": [
+   {
+    "id": "nature-clim-143",
+    "reason": "a kind of carbon sequestration"
+   },
+   {
+    "id": "nature-clim-185",
+    "reason": "the storage step of CCS"
+   }
+  ],
+  "nature-clim-146": [
+   {
+    "id": "nature-clim-145",
+    "reason": "a geological storage route"
+   },
+   {
+    "id": "nature-clim-143",
+    "reason": "locks carbon in minerals"
+   }
+  ],
+  "nature-clim-147": [
+   {
+    "id": "nature-clim-144",
+    "reason": "stores biologically captured carbon"
+   },
+   {
+    "id": "nature-clim-143",
+    "reason": "a sequestration method"
+   }
+  ],
+  "nature-clim-148": [
+   {
+    "id": "nature-clim-143",
+    "reason": "a proposed sequestration method"
+   },
+   {
+    "id": "nature-eco-248",
+    "reason": "injected CO2 acidifies the ocean"
+   }
+  ],
+  "nature-clim-149": [
+   {
+    "id": "nature-hist-007",
+    "reason": "action against climate change"
+   },
+   {
+    "id": "nature-eco-162",
+    "reason": "limits greenhouse gases"
+   },
+   {
+    "id": "nature-eco-163",
+    "reason": "by cutting emissions"
+   }
+  ],
+  "nature-clim-150": [
+   {
+    "id": "nature-clim-149",
+    "reason": "a branch of mitigation"
+   },
+   {
+    "id": "nature-econ-369",
+    "reason": "reduces demand for emitting goods"
+   }
+  ],
+  "nature-clim-152": [
+   {
+    "id": "nature-clim-150",
+    "reason": "a demand-side mitigation measure"
+   },
+   {
+    "id": "nature-eco-163",
+    "reason": "cuts food emissions"
+   }
+  ],
+  "nature-clim-153": [
+   {
+    "id": "nature-clim-149",
+    "reason": "side benefits of mitigation"
+   },
+   {
+    "id": "nature-found-055",
+    "reason": "cleaner air is a main co-benefit"
+   },
+   {
+    "id": "nature-clim-114",
+    "reason": "energy security"
+   }
+  ],
+  "nature-clim-154": [
+   {
+    "id": "nature-clim-149",
+    "reason": "harms of mitigation measures"
+   },
+   {
+    "id": "nature-eco-035",
+    "reason": "damage to biodiversity"
+   }
+  ],
+  "nature-clim-156": [
+   {
+    "id": "nature-clim-230",
+    "reason": "divides the costs of mitigation"
+   },
+   {
+    "id": "nature-clim-149",
+    "reason": "responsibility for cutting emissions"
+   }
+  ],
+  "nature-clim-157": [
+   {
+    "id": "nature-eco-012",
+    "reason": "implied future warming"
+   },
+   {
+    "id": "nature-clim-149",
+    "reason": "emission targets"
+   }
+  ],
+  "nature-clim-158": [
+   {
+    "id": "nature-clim-149",
+    "reason": "a short-term mitigation measure"
+   },
+   {
+    "id": "nature-res-209",
+    "reason": "coal and gas are non-renewable fuels"
+   },
+   {
+    "id": "nature-clim-264",
+    "reason": "gas has lower emission intensity"
+   }
+  ],
+  "nature-clim-159": [
+   {
+    "id": "nature-eco-169",
+    "reason": "manages natural carbon sinks"
+   },
+   {
+    "id": "nature-clim-143",
+    "reason": "keeps them sequestering carbon"
+   },
+   {
+    "id": "nature-clim-149",
+    "reason": "a mitigation strategy"
+   }
+  ],
+  "nature-clim-160": [
+   {
+    "id": "nature-clim-149",
+    "reason": "grouping of mitigation"
+   },
+   {
+    "id": "nature-eco-163",
+    "reason": "emissions by sector"
+   }
+  ],
+  "nature-clim-161": [
+   {
+    "id": "nature-clim-149",
+    "reason": "obstacles to mitigation"
+   },
+   {
+    "id": "nature-found-045",
+    "reason": "includes market failures"
+   }
+  ],
+  "nature-clim-162": [
+   {
+    "id": "nature-eco-163",
+    "reason": "emissions balanced"
+   },
+   {
+    "id": "nature-clim-138",
+    "reason": "by human removals"
+   },
+   {
+    "id": "nature-clim-149",
+    "reason": "the goal of mitigation"
+   }
+  ],
+  "nature-clim-163": [
+   {
+    "id": "nature-clim-162",
+    "reason": "rules for robust net zero"
+   },
+   {
+    "id": "nature-clim-139",
+    "reason": "removals must store carbon as long as the gas lasts"
+   }
+  ],
+  "nature-clim-165": [
+   {
+    "id": "nature-clim-162",
+    "reason": "applies net zero to short-lived gases"
+   },
+   {
+    "id": "nature-eco-201",
+    "reason": "methane is the main short-lived gas"
+   },
+   {
+    "id": "nature-eco-159",
+    "reason": "warming effect depends on gas lifetime"
+   }
+  ],
+  "nature-clim-166": [
+   {
+    "id": "nature-clim-162",
+    "reason": "credibility of net-zero targets"
+   }
+  ],
+  "nature-clim-167": [
+   {
+    "id": "nature-clim-149",
+    "reason": "the main route to decarbonisation"
+   },
+   {
+    "id": "nature-res-209",
+    "reason": "shift from non-renewable fossil fuels"
+   },
+   {
+    "id": "nature-res-212",
+    "reason": "to renewable energy"
+   }
+  ],
+  "nature-clim-168": [
+   {
+    "id": "nature-clim-167",
+    "reason": "a view of the energy transition"
+   }
+  ],
+  "nature-clim-169": [
+   {
+    "id": "nature-clim-167",
+    "reason": "drives the energy transition"
+   },
+   {
+    "id": "nature-clim-117",
+    "reason": "costs fall along experience curves"
+   },
+   {
+    "id": "nature-clim-122",
+    "reason": "measured by levelized cost of electricity"
+   }
+  ],
+  "nature-clim-170": [
+   {
+    "id": "nature-clim-167",
+    "reason": "needed for the transition"
+   },
+   {
+    "id": "nature-res-228",
+    "reason": "overlaps critical raw materials"
+   }
+  ],
+  "nature-clim-171": [
+   {
+    "id": "nature-clim-167",
+    "reason": "effects of the transition"
+   },
+   {
+    "id": "nature-clim-114",
+    "reason": "changes energy dependencies"
+   }
+  ],
+  "nature-clim-172": [
+   {
+    "id": "nature-clim-167",
+    "reason": "fairness in the energy transition"
+   },
+   {
+    "id": "nature-clim-112",
+    "reason": "aims to end energy poverty"
+   }
+  ],
+  "nature-clim-173": [
+   {
+    "id": "nature-clim-167",
+    "reason": "a goal for the transition"
+   },
+   {
+    "id": "nature-res-212",
+    "reason": "energy from renewable resources"
+   },
+   {
+    "id": "nature-clim-130",
+    "reason": "depends on variable renewables"
+   }
+  ],
+  "nature-clim-174": [
+   {
+    "id": "nature-clim-167",
+    "reason": "fairness in the low-carbon shift"
+   },
+   {
+    "id": "nature-clim-149",
+    "reason": "a mitigation principle"
+   }
+  ],
+  "nature-clim-175": [
+   {
+    "id": "nature-acct-105",
+    "reason": "an asset losing value"
+   },
+   {
+    "id": "nature-econ-521",
+    "reason": "an unexpected write-down"
+   }
+  ],
+  "nature-clim-176": [
+   {
+    "id": "nature-clim-175",
+    "reason": "a climate cause of stranding"
+   },
+   {
+    "id": "nature-clim-136",
+    "reason": "unburnable reserves exceed the carbon budget"
+   },
+   {
+    "id": "nature-clim-167",
+    "reason": "transition shifts markets"
+   }
+  ],
+  "nature-clim-177": [
+   {
+    "id": "nature-res-209",
+    "reason": "limits extraction of fossil fuels"
+   },
+   {
+    "id": "nature-pol-018",
+    "reason": "a form of environmental policy"
+   },
+   {
+    "id": "nature-pol-252",
+    "reason": "addresses carbon leakage"
+   },
+   {
+    "id": "nature-econ-358",
+    "reason": "effects depend on demand elasticity"
+   }
+  ],
+  "nature-clim-178": [
+   {
+    "id": "nature-clim-143",
+    "reason": "used to store carbon"
+   },
+   {
+    "id": "nature-eco-398",
+    "reason": "added to soil for fertility"
+   }
+  ],
+  "nature-clim-179": [
+   {
+    "id": "nature-clim-178",
+    "reason": "produces biochar"
+   },
+   {
+    "id": "nature-res-160",
+    "reason": "alternative to slash-and-burn"
+   }
+  ],
+  "nature-clim-180": [
+   {
+    "id": "nature-clim-178",
+    "reason": "stores carbon as biochar"
+   },
+   {
+    "id": "nature-clim-138",
+    "reason": "a carbon removal method"
+   },
+   {
+    "id": "nature-eco-259",
+    "reason": "stored in soil carbon"
+   }
+  ],
+  "nature-clim-181": [
+   {
+    "id": "nature-clim-180",
+    "reason": "credits from biochar removal"
+   },
+   {
+    "id": "nature-mkt-081",
+    "reason": "they are carbon credits"
+   }
+  ],
+  "nature-clim-182": [
+   {
+    "id": "nature-clim-185",
+    "reason": "bioenergy plus CCS"
+   },
+   {
+    "id": "nature-clim-138",
+    "reason": "yields carbon removal"
+   },
+   {
+    "id": "nature-eco-190",
+    "reason": "biomass captures CO2 by photosynthesis"
+   }
+  ],
+  "nature-clim-183": [
+   {
+    "id": "nature-clim-185",
+    "reason": "the capture step of CCS"
+   }
+  ],
+  "nature-clim-184": [
+   {
+    "id": "nature-clim-138",
+    "reason": "a family of carbon removal"
+   },
+   {
+    "id": "nature-clim-143",
+    "reason": "stores biomass carbon"
+   },
+   {
+    "id": "nature-eco-190",
+    "reason": "biomass captures CO2 by photosynthesis"
+   }
+  ],
+  "nature-clim-185": [
+   {
+    "id": "nature-clim-149",
+    "reason": "a mitigation technology"
+   },
+   {
+    "id": "nature-eco-163",
+    "reason": "captures emissions"
+   },
+   {
+    "id": "nature-pol-170",
+    "reason": "from industrial point sources"
+   },
+   {
+    "id": "nature-clim-143",
+    "reason": "long-term underground storage"
+   }
+  ],
+  "nature-clim-186": [
+   {
+    "id": "nature-clim-185",
+    "reason": "uses captured CO2"
+   },
+   {
+    "id": "nature-clim-189",
+    "reason": "a form of utilization"
+   }
+  ],
+  "nature-clim-187": [
+   {
+    "id": "nature-clim-185",
+    "reason": "extra energy for CCS"
+   }
+  ],
+  "nature-clim-188": [
+   {
+    "id": "nature-clim-185",
+    "reason": "fossil fuels burned without CCS"
+   },
+   {
+    "id": "nature-res-209",
+    "reason": "fossil fuels are non-renewable"
+   }
+  ],
+  "nature-clim-189": [
+   {
+    "id": "nature-clim-185",
+    "reason": "uses captured CO2 instead of storing"
+   }
+  ],
+  "nature-clim-190": [
+   {
+    "id": "nature-clim-197",
+    "reason": "part of fossil fuel phase-out"
+   }
+  ],
+  "nature-clim-191": [
+   {
+    "id": "nature-clim-190",
+    "reason": "peak consumption before phase-out"
+   }
+  ],
+  "nature-clim-192": [
+   {
+    "id": "nature-clim-138",
+    "reason": "a carbon removal method"
+   },
+   {
+    "id": "nature-clim-185",
+    "reason": "with storage it is DACCS"
+   }
+  ],
+  "nature-clim-193": [
+   {
+    "id": "nature-clim-167",
+    "reason": "central to the energy transition"
+   }
+  ],
+  "nature-clim-194": [
+   {
+    "id": "nature-clim-193",
+    "reason": "electrification of transport"
+   }
+  ],
+  "nature-clim-195": [
+   {
+    "id": "nature-clim-193",
+    "reason": "electrification of heating"
+   }
+  ],
+  "nature-clim-196": [
+   {
+    "id": "nature-clim-138",
+    "reason": "a carbon removal method"
+   },
+   {
+    "id": "nature-eco-164",
+    "reason": "speeds natural weathering in the carbon cycle"
+   }
+  ],
+  "nature-clim-197": [
+   {
+    "id": "nature-clim-149",
+    "reason": "limits climate change"
+   },
+   {
+    "id": "nature-clim-167",
+    "reason": "part of the energy transition"
+   },
+   {
+    "id": "nature-res-209",
+    "reason": "fossil fuels are non-renewable"
+   },
+   {
+    "id": "nature-found-055",
+    "reason": "cuts air pollution"
+   }
+  ],
+  "nature-clim-198": [
+   {
+    "id": "nature-clim-197",
+    "reason": "a fossil fuel phase-out measure"
+   },
+   {
+    "id": "nature-clim-194",
+    "reason": "new cars must be electric"
+   }
+  ],
+  "nature-clim-199": [
+   {
+    "id": "nature-hist-007",
+    "reason": "counteracts climate change"
+   },
+   {
+    "id": "nature-clim-138",
+    "reason": "carbon removal is one branch"
+   },
+   {
+    "id": "nature-eco-004",
+    "reason": "alters radiative forcing"
+   }
+  ],
+  "nature-clim-200": [
+   {
+    "id": "nature-clim-199",
+    "reason": "a type of geoengineering"
+   },
+   {
+    "id": "nature-eco-021",
+    "reason": "targets ice sheet decline"
+   }
+  ],
+  "nature-clim-201": [
+   {
+    "id": "nature-clim-199",
+    "reason": "rules for geoengineering"
+   }
+  ],
+  "nature-clim-202": [
+   {
+    "id": "nature-acct-067",
+    "reason": "a greenhouse gas emission inventory"
+   },
+   {
+    "id": "nature-eco-163",
+    "reason": "records emissions"
+   },
+   {
+    "id": "nature-eco-169",
+    "reason": "and removals by sinks"
+   },
+   {
+    "id": "nature-eco-160",
+    "reason": "counted in CO2 equivalent"
+   }
+  ],
+  "nature-clim-203": [
+   {
+    "id": "nature-clim-202",
+    "reason": "two ways to build inventories"
+   },
+   {
+    "id": "nature-pol-001",
+    "reason": "consumption-based counts imports"
+   }
+  ],
+  "nature-clim-204": [
+   {
+    "id": "nature-clim-203",
+    "reason": "the gap between production and consumption accounts"
+   },
+   {
+    "id": "nature-pol-001",
+    "reason": "goods traded between countries"
+   }
+  ]
+ }
+}
