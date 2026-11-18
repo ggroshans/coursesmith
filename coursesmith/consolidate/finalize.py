@@ -121,6 +121,22 @@ def merge_parts(subject, chapter, log=print):
             t = re.sub(r"\s+", " ", e["title"].lower()).strip()
             art = (e.get("article") or "").lower()
             page = art if art and "#" not in art else None
+            if e.pop("replaces", False) and t in by_title:
+                # a gap-fill rewrote this entry in full (more sources, a better order of facts): it takes the
+                # old one's place instead of being merged into it
+                old = by_title[t]
+                keep_d = [x for x in old.get("distinct_from") or [] if x not in (e.get("distinct_from") or [])]
+                if keep_d:
+                    e["distinct_from"] = (e.get("distinct_from") or []) + keep_d
+                merged[next(i for i, m in enumerate(merged) if m is old)] = e
+                by_title[t] = e
+                for k, v in list(by_page.items()):
+                    if v is old:
+                        by_page[k] = e
+                if page:
+                    by_page.setdefault(page, e)
+                n_dup += 1
+                continue
             old = by_title.get(t) or (by_page.get(page) if page else None)
             if old is not None and e["title"] not in (old.get("distinct_from") or []):
                 _merge_into(old, e, (getattr(subject, "targets", None) or {}).get("fact_caps"))

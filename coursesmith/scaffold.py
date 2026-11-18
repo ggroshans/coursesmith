@@ -76,6 +76,11 @@ verification:
   authorities: []           # see guides/VERIFICATION_GUIDE.md
   units: []                 # extra units to compare, e.g. [ms, QPS, GB] for a systems course
 
+# Gaps the consolidation passes could not fill (`coursesmith report gaps`) are worked off with a gap-fill round
+# (guides/GAPFILL_GUIDE.md). One the owner decides to live with is accepted here, with the reason:
+#   gaps:
+#     accepted: {{"Schema registry": "no vetted source explains it", "Designing Gmail": "thin: sources are diagram captions"}}
+
 # Hints for `frame build`. With no parts, the whole subject is one part and its chapters come from Wikipedia's
 # categories; the syllabus planner pass (`frame plan-packet`) then proposes the branches. For a large subject,
 # name the parts and give each hints (words in titles, descriptions or categories) or pinned seeds.
@@ -107,7 +112,8 @@ _Update after every step. `coursesmith status {slug}` prints the live numbers._
 ## Next steps
 1. Fill in `subject.yaml` (seeds, categories; hubs and parts for a large subject).
 2. `coursesmith frame build {slug}`, then review `frame.yaml` and `reports/frame_report.md`.
-3. Follow the pipeline in README.md.
+3. Follow the pipeline in README.md. After consolidation run `coursesmith report gaps {slug}` and work it off
+   (`frame add`, crawl, consolidate; guides/GAPFILL_GUIDE.md) before `select`.
 """
 
 

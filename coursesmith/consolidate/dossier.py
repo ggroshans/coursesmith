@@ -94,7 +94,18 @@ def chapter_pages(subject, graph, chapter_key):
     return seeds, assigned
 
 
-def build(subject, chapter="all", log=print):
+def _done_pages(out):
+    """Pages that an existing chunk of the chapter already has a block for."""
+    done = set()
+    for p in out.glob("chunk_*.md") if out.exists() else []:
+        done |= set(re.findall(r"^## (.+?) \[", p.read_text(encoding="utf-8"), re.M))
+    return done
+
+
+def build(subject, chapter="all", log=print, new=False):
+    """Dossiers for every chapter, or for `chapter`. With new=True (a gap-fill), pages that an earlier chunk
+    already covers are left out and the chunks written continue the numbering, so the first consolidation's
+    chunks and part files stay valid."""
     graph = load_graph(subject)
     if not graph["nodes"]:
         raise SystemExit("no graph yet; run `coursesmith graph build` first")
@@ -129,7 +140,11 @@ def build(subject, chapter="all", log=print):
     for pk, ck, ptitle, ctitle in wanted:
         seeds, assigned = chapter_pages(subject, graph, ck)
         lines = []
+        out = subject.dossier_dir / ck
+        done = _done_pages(out) if new else set()
         for t in seeds + assigned:
+            if t in done:
+                continue
             n = nodes[t]
             rows = SN.page_sentences(db, t)
             if not rows:
@@ -171,15 +186,30 @@ def build(subject, chapter="all", log=print):
             for sid, title, section, text in also.get(t, [])[:MAX_ALSO]:
                 if title not in (seeds + assigned):
                     lines.append("also on: " + _line(sid, section, text, [], [], _flags([], None, text), title))
-        out = subject.dossier_dir / ck
-        if out.exists():
+        if new and not lines:
+            log(f"[dossier] {ck}: no new pages")
+            continue
+        first = 1
+        if new:
+            first = 1 + max([int(m.group(1)) for p in out.glob("chunk_*.md") if (m := re.match(r"chunk_(\d+)", p.name))] or [0])
+        elif out.exists():
             for p in out.glob("chunk_*.md"):
                 p.unlink()
         chunks = _chunk(lines)
-        for k, ch in enumerate(chunks, start=1):
-            hdr = [f"# Dossier: {ptitle} › {ctitle}, chunk {k}/{len(chunks)}", "",
+        have = []
+        if new:
+            from ..util import read_jsonl
+            have = [e["title"] for e in read_jsonl(subject.draft_dir / f"{ck}.jsonl")]
+        for k, ch in enumerate(chunks, start=first):
+            hdr = [f"# Dossier: {ptitle} › {ctitle}, " + (f"gap-fill chunk {k}" if new else f"chunk {k}/{len(chunks)}"), "",
                    "Format: `S:<sent_id>` | § section | sentence | links | cites | flags. Blocks are pages (concepts), "
                    "most important first; `also on:` lines are sentences on other pages that mention it.", ""]
+            if new:
+                hdr += ["GAP-FILL: these pages were crawled after this chapter was first consolidated. Its draft entries "
+                        f"already exist (entries/draft/{ck}.jsonl): draft entries only for concepts the pages below teach "
+                        "and no entry covers, or write an entry that extends an existing one under the same title. Other "
+                        "chapters' entries are in entries/draft/*.jsonl; a concept that has an entry there is not drafted "
+                        "again. Entries this chapter already has: " + ("; ".join(have) or "none") + ".", ""]
             if is_question_chapter(subject, ck):
                 hdr += [f"QUESTION: {ctitle}", "This chapter answers one question. Write exactly one entry of kind "
                         "\"Worked example\" for it (the worked answer, built only from the sentences below, longer than "

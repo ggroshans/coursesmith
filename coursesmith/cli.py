@@ -245,6 +245,22 @@ def cmd_reclean(a):
     reclean.run(a.subject, dry_run=a.dry_run)
 
 
+@command("frame add", "put pages into a chapter's seeds (a gap-fill); see guides/GAPFILL_GUIDE.md",
+         arg("chapter", help="chapter key or title"),
+         arg("pages", nargs="+", help="Wikipedia titles or source keys such as rfc>9110"),
+         arg("--also", action="store_true", help="context pages (also:) instead of seeds"))
+def cmd_frame_add(a):
+    from .frame import add
+    add.run(a.subject, a.chapter, a.pages, also=a.also)
+
+
+@command("report gaps", "unresolved names, thin entries and gaps files: what to gap-fill",
+         arg("--probe", action="store_true", help="ask Wikipedia whether each unresolved name is a page"))
+def cmd_report_gaps(a):
+    from .frame import gaps
+    gaps.run(a.subject, probe=a.probe)
+
+
 @command("graph build", "concept graph: edges, importance, difficulty, chapter, RefD",
          arg("--pageviews", action="store_true", help="add a year of pageviews to importance (one request per page)"))
 def cmd_graph_build(a):
@@ -260,14 +276,15 @@ def cmd_report_coverage(a):
 
 
 @command("dossier", "chapter dossiers for the consolidation passes", arg("chapter", nargs="?", default="all"),
-         arg("--phrases", action="store_true", help="dossiers for syllabus concepts with no page, from sentence search"))
+         arg("--phrases", action="store_true", help="dossiers for syllabus concepts with no page, from sentence search"),
+         arg("--new", action="store_true", help="a gap-fill: only pages no earlier chunk covers, as new chunks"))
 def cmd_dossier(a):
     if a.phrases:
         from .frame import syllabus
         syllabus.phrase_dossiers(a.subject)
         return
     from .consolidate import dossier
-    dossier.build(a.subject, a.chapter)
+    dossier.build(a.subject, a.chapter, new=a.new)
 
 
 # --------------------------------------------------------------------- consolidate, select, order, verify

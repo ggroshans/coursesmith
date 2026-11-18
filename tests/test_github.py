@@ -155,6 +155,7 @@ class LicenseTextTest(unittest.TestCase):
     def test_detect_from_text(self):
         self.assertEqual(licenses.detect_from_text("Creative Commons Attribution 4.0 International"), "cc-by")
         self.assertEqual(licenses.detect_from_text("Attribution-NonCommercial-NoDerivatives 4.0 International"), "cc-by-nc-nd")
+        self.assertEqual(licenses.detect_from_text("Permission to use, copy, modify, and distribute this software and its documentation for any purpose, without fee, is hereby granted"), "permissive")
         self.assertEqual(licenses.detect_from_text("Permission is hereby granted, free of charge, to any person"), "permissive")
         self.assertEqual(licenses.detect_from_text("hello"), "unknown")
 

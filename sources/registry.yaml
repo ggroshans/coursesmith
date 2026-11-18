@@ -35,6 +35,20 @@ domains:
     license: {name: "CC BY-NC-ND 4.0", url: "https://creativecommons.org/licenses/by-nc-nd/4.0/", class: cc-by-nc-nd,
               verified: 2026-11-18, evidence: "footer of sre.google/sre-book/table-of-contents/: Licensed under CC BY-NC-ND 4.0"}
     note: "The Google SRE books. NonCommercial and NoDerivatives: personal reading only."
+  - host: kubernetes.io
+    class: official
+    tier: official
+    license: {name: "CC BY 4.0", url: "https://creativecommons.org/licenses/by/4.0/", class: cc-by,
+              verified: 2026-11-18,
+              evidence: "footer of kubernetes.io/docs pages: 'Documentation Distributed under CC BY 4.0', linking git.k8s.io/website/LICENSE (Attribution 4.0 International)"}
+    note: "Kubernetes documentation."
+  - host: www.postgresql.org
+    class: official
+    tier: official
+    license: {name: "PostgreSQL License", url: "https://www.postgresql.org/about/licence/", class: permissive,
+              verified: 2026-11-18,
+              evidence: "postgresql.org/docs/current/legalnotice.html: 'Permission to use, copy, modify, and distribute this software and its documentation for any purpose, without fee ... is hereby granted'"}
+    note: "PostgreSQL documentation."
 
 repos:
   - repo: donnemartin/system-design-primer

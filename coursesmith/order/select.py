@@ -87,6 +87,11 @@ def run(subject, chapter=None, trim=False, log=print):
     atomic_write(subject.reports_dir / "selection.md", "\n".join(report) + "\n")
     log(f"[select] {len(sel)} selected of {len(entries)} (L/M/m {w['Landmark']}/{w['Major']}/{w['Minor']}); "
         "reports/selection.md")
+    from ..frame import gaps
+    n_names, n_thin = gaps.summary(subject)
+    if n_names or n_thin:
+        log(f"[select] warning: {n_names} unresolved prerequisite names and {n_thin} thin entries are still open; "
+            f"run `coursesmith report gaps {subject.slug}` and gap-fill, or accept them under `gaps:` in subject.yaml")
     return sel
 
 

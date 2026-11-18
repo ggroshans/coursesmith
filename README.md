@@ -68,6 +68,7 @@ pipeline below. `coursesmith status` shows where each subject stands at any time
 | Coverage | `report coverage` | **yes**: decide gap-fill crawls |
 | Dossiers | `dossier` | |
 | Consolidate | consolidation passes, then `finalize` | resolve `reports/duplicates.md` |
+| Gap-fill | `report gaps [--probe]`; `frame add`, `crawl`, `extract`, `graph build`, `dossier --new`, passes, `finalize --merge`, `finalize` | **yes**: choose the pages; accept the gaps you cannot fill (`gaps: accepted:`) |
 | Select | `select` | |
 | Order | `order packet`, ordering pass, `order build` | **yes**: read `output/curriculum.md`, then `order lock` |
 | Verify | `crawl --context`, `verify`, verification pass | read every genuine conflict |
@@ -78,7 +79,7 @@ pipeline below. `coursesmith status` shows where each subject stands at any time
 | Output | `export`; `publish build`, `publish check` for EPUBs | |
 
 Every command is `coursesmith <command> <subject> [args]`; `coursesmith <command> -h` explains one. After
-changing entries, re-run `finalize → select → order build → verify → write skeleton → write render →
+changing entries, re-run `finalize → (report gaps → gap-fill → finalize) → select → order build → verify → write skeleton → write render →
 units build → (question pass → write render → units build) → export / publish build`. Entry ids never change
 after `order lock`.
 
@@ -104,7 +105,7 @@ and `publish check` reject anything that breaks the rules, and every fact must c
 | `JUDGE_GUIDE.md` | `work/scope/judge-packet-NN.md` | `scope/judge/batch-NN.json` |
 | `PLANNER_GUIDE.md` | `work/scope/plan-packet.md` | `scope/syllabus.json` |
 | `CONSOLIDATION_GUIDE.md` | `work/dossiers/<chapter>/chunk_NN.md` | `entries/draft/<chapter>.partNN.jsonl` |
-| `GAPFILL_GUIDE.md` | `reports/coverage.md`, gaps files | `frame.yaml` seeds, more draft entries |
+| `GAPFILL_GUIDE.md` | `reports/gaps.md`, `reports/coverage.md`, gaps files | `frame.yaml` seeds, more draft entries |
 | `ORDERING_GUIDE.md` | `work/order/packet*.md` | `work/order/prereqs.NN.json` |
 | `VERIFICATION_GUIDE.md` | `verify/worklist.md` | `verify/reviews.json` |
 | `WRITING_GUIDE.md` | `work/write/packet-<part>.md`, `questions-packet*.md` | `work/write/fill.<part>.NN.json` |

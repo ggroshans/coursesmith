@@ -71,6 +71,34 @@ class MergeParts(unittest.TestCase):
             self.assertEqual([e["title"] for e in out[1:]], ["Classes", "Triangle"])  # sections stay apart
             self.assertEqual(sorted(p.name for p in s.draft_dir.iterdir()), ["ch.gaps.md", "ch.jsonl"])
 
+    def test_a_part_entry_marked_replaces_takes_the_old_ones_place(self):
+        import tempfile
+        from pathlib import Path
+        from types import SimpleNamespace
+
+        from coursesmith.consolidate.finalize import merge_parts
+        from coursesmith.util import read_jsonl, write_jsonl
+        with tempfile.TemporaryDirectory() as tmp:
+            s = SimpleNamespace(dir=Path(tmp), draft_dir=Path(tmp) / "entries" / "draft")
+            s.draft_dir.mkdir(parents=True)
+            fact = lambda t, i: {"text": t, "sent_ids": [i]}
+            write_jsonl(s.draft_dir / "ch.jsonl", [
+                {"title": "Designing Gmail", "article": "gh>x/design-gmail.md", "notes": "thin: no estimates",
+                 "distinct_from": ["Email"], "facts": [fact("Old.", "1")]},
+                {"title": "SMTP", "facts": [fact("S.", "2")]}])
+            write_jsonl(s.draft_dir / "ch.part02.jsonl", [
+                {"title": "designing gmail", "article": "gh>x/design-gmail.md", "replaces": True,
+                 "facts": [fact("New first.", "3"), fact("Old.", "1")]},
+                {"title": "SMTP", "facts": [fact("S.", "2"), fact("T.", "4")]}])
+            self.assertEqual(merge_parts(s, "ch", log=lambda *a: None), 2)
+            out = read_jsonl(s.draft_dir / "ch.jsonl")
+            self.assertEqual([e["title"] for e in out], ["designing gmail", "SMTP"])  # same place in the file
+            self.assertEqual([f["text"] for f in out[0]["facts"]], ["New first.", "Old."])
+            self.assertNotIn("replaces", out[0])
+            self.assertNotIn("notes", out[0])  # the thin note went with the old entry
+            self.assertEqual(out[0]["distinct_from"], ["Email"])
+            self.assertEqual(len(out[1]["facts"]), 2)  # without the flag, parts still merge
+
 
 class Verify(unittest.TestCase):
     def test_quantities(self):

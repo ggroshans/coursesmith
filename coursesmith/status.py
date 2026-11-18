@@ -58,6 +58,9 @@ def subject_status(s):
     st["verified"] = sum(1 for e in sel if e.get("verification"))
     prose = read_json(s.prose_path) or {}
     st["written"] = sum(1 for e in sel if ((prose.get("entries") or {}).get(e["id"]) or {}).get("text"))
+    if st["entries"]["draft"]:
+        from .frame import gaps
+        st["gaps"] = gaps.summary(s)
     cov = read_json(s.reports_dir / "coverage.json")
     if cov:
         st["coverage"] = cov.get("summary")
@@ -127,6 +130,9 @@ def show(slug=None, log=print):
             f"({'locked' if o['locked'] else 'not locked'})")
         if st.get("coverage"):
             log(f"  coverage: {st['coverage']}")
+        if st.get("gaps") and any(st["gaps"]):
+            log(f"  gaps: {st['gaps'][0]} unresolved names, {st['gaps'][1]} thin entries; "
+                f"`coursesmith report gaps {sl}`")
         tiers = ", ".join(f"{k} {v}" for k, v in sorted(st["tiers"].items(), key=lambda kv: -kv[1])) or "-"
         log(f"  verification: {st['verified']} entries checked; tiers {tiers}")
         log(f"  written {st['written']}/{e['selected']}; units {st['units']}; EPUBs {st['epubs']}")

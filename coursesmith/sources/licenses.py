@@ -39,6 +39,7 @@ _PATTERNS = [
     ("agpl", "copyleft"),
     ("gpl", "copyleft"),
     ("allrightsreserved", "all-rights-reserved"),
+    ("postgresql", "permissive"),
     ("mit", "permissive"),
     ("apache", "permissive"),
     ("bsd", "permissive"),
@@ -76,6 +77,7 @@ _TEXT_PATTERNS = [
     ("gnu affero general public license", "copyleft"),
     ("apache license", "permissive"),
     ("permission is hereby granted, free of charge", "permissive"),
+    ("permission to use, copy, modify, and distribute this software and its documentation for any purpose, without fee", "permissive"),
     ("redistribution and use in source and binary forms", "permissive"),
     ("all rights reserved", "all-rights-reserved"),
 ]

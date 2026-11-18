@@ -46,7 +46,7 @@ class LicensesTest(unittest.TestCase):
                  "CC-BY-NC-ND-4.0": "cc-by-nc-nd", "CC BY-NC-ND 4.0": "cc-by-nc-nd", "CC-BY-NC-SA-4.0": "cc-by-nc-sa",
                  "CC-BY-NC-4.0": "cc-by-nc", "CC-BY-ND-4.0": "cc-by-nd", "CC0-1.0": "public-domain", "MIT": "permissive",
                  "Apache-2.0": "permissive", "GPL-3.0-only": "copyleft", "IETF Trust (BCP 78)": "ietf-trust",
-                 "": "unknown", "Custom license": "unknown"}
+                 "PostgreSQL License": "permissive", "": "unknown", "Custom license": "unknown"}
         for name, cls in cases.items():
             self.assertEqual(licenses.classify(name), cls, name)
 

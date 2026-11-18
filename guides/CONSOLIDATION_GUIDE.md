@@ -174,6 +174,15 @@ draft twice. The full `finalize` runs after the merge.
 Write `entries/draft/<chapter key>.gaps.md` (`.gaps.partNN.md` in a split chapter): important concepts of this chapter you expected but found no
 sentences for, one line each with a suggested page title or source key. It drives gap-fill crawls; name things only.
 
+Two more things feed `coursesmith report gaps` and the gap-fill round that follows (`GAPFILL_GUIDE.md`), so keep to
+their conventions:
+- **An entry the sources only half support** (a worked answer that is a diagram caption, a checklist that names points and
+  explains none) still gets written from the sentences it has, never padded. Start its `notes` with `thin:` and say what
+  is missing (`"thin: no estimates, data model or API"`), and name the pages that would fill it in the gaps file.
+- **A prerequisite or related title** should be an entry that exists or a concept the course ought to have, written as
+  its usual name ("Hash function"). One that has no entry is listed as an unresolved name; do not stretch a title to an
+  entry that is about something else just to resolve it.
+
 ## Checking and finishing
 1. Check each part file: `.venv/bin/coursesmith finalize <subject> --check entries/draft/<key>.partNN.jsonl`.
 2. When the chapter is merged: `.venv/bin/coursesmith finalize <subject> <chapter key>` until it reports 0 problems.
