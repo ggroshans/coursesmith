@@ -12,6 +12,8 @@ from coursesmith.text.emit import DOC_DROP_SECTIONS, DROP_SECTIONS, Emitter
 from coursesmith.text.html import html_to_doc
 from coursesmith.text.markdown import markdown_to_doc, strip_front_matter
 
+from .fakes import make_pdf
+
 FIX = Path(__file__).parent / "fixtures"
 
 
@@ -218,34 +220,6 @@ class BracketsTest(unittest.TestCase):
         self.assertEqual((w["doi"], w["rfc"], w["year"]), ("10.17487/rfc2119", "2119", 1997))
         self.assertEqual(w["url"], "https://www.rfc-editor.org/info/rfc2119")
         self.assertEqual(cits[1]["works"][0]["year"], 2000)
-
-
-def make_pdf(pages):
-    """A minimal valid PDF whose pages each hold the given lines of Helvetica text."""
-    objs = {1: "<< /Type /Catalog /Pages 2 0 R >>", 3: "<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>"}
-    kids = []
-    for i, lines in enumerate(pages):
-        page_id, cont_id = 4 + 2 * i, 5 + 2 * i
-        kids.append(f"{page_id} 0 R")
-        ops = ["BT", "/F1 11 Tf", "14 TL", "50 750 Td"]
-        for l in lines:
-            ops.append("(" + l.replace("\\", "\\\\").replace("(", "\\(").replace(")", "\\)") + ") Tj T*")
-        ops.append("ET")
-        stream = "\n".join(ops)
-        objs[cont_id] = f"<< /Length {len(stream)} >>\nstream\n{stream}\nendstream"
-        objs[page_id] = (f"<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents {cont_id} 0 R "
-                         f"/Resources << /Font << /F1 3 0 R >> >> >>")
-    objs[2] = f"<< /Type /Pages /Kids [{' '.join(kids)}] /Count {len(pages)} >>"
-    out, offsets = b"%PDF-1.4\n", {}
-    for n in sorted(objs):
-        offsets[n] = len(out)
-        out += f"{n} 0 obj\n{objs[n]}\nendobj\n".encode("latin-1")
-    xref = len(out)
-    out += f"xref\n0 {len(objs) + 1}\n0000000000 65535 f \n".encode()
-    for n in sorted(objs):
-        out += f"{offsets[n]:010d} 00000 n \n".encode()
-    out += f"trailer\n<< /Size {len(objs) + 1} /Root 1 0 R >>\nstartxref\n{xref}\n%%EOF\n".encode()
-    return out
 
 
 class PdfTest(unittest.TestCase):

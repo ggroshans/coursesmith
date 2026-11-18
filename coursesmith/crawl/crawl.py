@@ -49,7 +49,9 @@ class Crawler:
         self.registry = registry or Registry.from_subject(subject, wiki_client=self.client)
         self.scope = Scope(subject, registry=self.registry)
         self.max_pages, self.max_depth = max_pages, max_depth
-        self.forced = frame_articles(subject, chapter) + ([] if chapter else list(subject.cfg.get("seeds") or []))
+        source_seeds = [] if chapter else list(getattr(self.registry, "all_seeds", lambda: [])())
+        self.forced = list(dict.fromkeys(
+            frame_articles(subject, chapter) + ([] if chapter else list(subject.cfg.get("seeds") or [])) + source_seeds))
         self.scope.forced |= set(self.forced)
         self.state_path = subject.scope_dir / f"crawl_state{'_' + chapter if chapter else ''}.json"
         self.heap, self.counter = [], 0

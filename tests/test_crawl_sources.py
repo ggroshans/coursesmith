@@ -85,6 +85,19 @@ class CrawlSourcesTest(unittest.TestCase):
             self.assertEqual(ad.fetched, [])
             self.assertTrue(any("skipped seed" in l for l in logs))
 
+    def test_adapter_seeds_are_crawled_without_listing_them(self):
+        with temp_root():
+            class Seeded(FakeAdapter):
+                def seeds(self):
+                    return ["fake>a/b.md"]
+            ad = Seeded({"allow": ["a/"]}, pages=dict(PAGES))
+            subj = make_subject("tiny", "slug: tiny\ntitle: Tiny\nscope:\n  threshold: 5\n")
+            reg = FakeRegistry(ad)
+            reg.all_seeds = ad.seeds
+            Crawler(subj, max_pages=5, max_depth=0, client=FakeWikiClient(), store=Store(), registry=reg,
+                    log=lambda *a: None).run()
+            self.assertEqual(ad.fetched, ["fake>a/b.md"])
+
     def test_missing_page_is_ledgered_not_fatal(self):
         with temp_root():
             subj, ad, c = run_crawl(pages={k: v for k, v in PAGES.items() if k != "fake>a/c.md"})

@@ -16,6 +16,7 @@ from PIL import Image
 
 from .. import config
 from ..crawl.api import WikiClient
+from ..sources.keys import is_qualified
 from ..util import read_jsonl, slug, write_jsonl
 from .cover import dither16
 
@@ -68,6 +69,8 @@ def fetch(subject, all_landmarks=False, force=False, log=print):
     for e in entries:
         if not e.get("selected") or not e.get("article"):
             continue
+        if is_qualified(e["article"].split("#")[0]):
+            continue  # pictures come from Wikipedia and Commons only
         if not (e.get("wants_image") or (all_landmarks and e.get("weight") == "Landmark")):
             continue
         if e.get("image") and not force:

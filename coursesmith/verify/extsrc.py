@@ -134,6 +134,9 @@ def _from_openalex(r):
         "authors": [a["author"]["display_name"] for a in (r.get("authorships") or [])[:5] if a.get("author")],
         "cited_by_count": r.get("cited_by_count"),
         "abstract": _openalex_abstract(r.get("abstract_inverted_index")),
+        "date": r.get("publication_date"),
+        "oa_url": (r.get("best_oa_location") or {}).get("pdf_url") or (r.get("best_oa_location") or {}).get("landing_page_url"),
+        "oa_license": (r.get("best_oa_location") or {}).get("license"),
     }
 
 
@@ -150,9 +153,14 @@ def _from_crossref(m):
     }
 
 
-def lookup_dois(dois, crossref=True, network=True):
+OPENALEX_SELECT = ("id,doi,title,publication_year,publication_date,type,primary_location,best_oa_location,authorships,"
+                   "cited_by_count,abstract_inverted_index")
+
+
+def lookup_dois(dois, crossref=True, network=True, http=None):
     """Metadata + abstract per DOI, cached under cache/works/. OpenAlex first (50 per request), Crossref for
     anything OpenAlex lacks or has no abstract for. Without network, only the cache is read."""
+    HTTP_ = http or HTTP
     config.WORKS_DIR.mkdir(parents=True, exist_ok=True)
     dois = sorted({d.lower() for d in dois if d})
     out, todo = {}, []
@@ -167,10 +175,8 @@ def lookup_dois(dois, crossref=True, network=True):
     extra = {"mailto": config.CONTACT} if "@" in config.CONTACT else {}
     for i in range(0, len(todo), 50):
         batch = todo[i:i + 50]
-        txt = HTTP.get("https://api.openalex.org/works", {
-            "filter": "doi:" + "|".join(batch), "per-page": 50,
-            "select": "id,doi,title,publication_year,type,primary_location,authorships,cited_by_count,"
-                      "abstract_inverted_index", **extra})
+        txt = HTTP_.get("https://api.openalex.org/works", {
+            "filter": "doi:" + "|".join(batch), "per-page": 50, "select": OPENALEX_SELECT, **extra})
         for r in (json.loads(txt).get("results", []) if txt else []):
             w = _from_openalex(r)
             out[w["doi"]] = w
@@ -178,7 +184,7 @@ def lookup_dois(dois, crossref=True, network=True):
         if d in out and out[d].get("abstract"):
             continue
         if crossref:
-            txt = HTTP.get(f"https://api.crossref.org/works/{d}", extra or None)
+            txt = HTTP_.get(f"https://api.crossref.org/works/{d}", extra or None)
             if txt:
                 cr = _from_crossref(json.loads(txt)["message"])
                 if d not in out:
@@ -197,9 +203,7 @@ def lookup_dois(dois, crossref=True, network=True):
     return out
 
 
-def openalex_search(query, n=5):
-    txt = HTTP.get("https://api.openalex.org/works", {
-        "search": query, "per-page": n, "sort": "relevance_score:desc",
-        "select": "id,doi,title,publication_year,type,primary_location,authorships,cited_by_count,"
-                  "abstract_inverted_index"})
+def openalex_search(query, n=5, http=None):
+    txt = (http or HTTP).get("https://api.openalex.org/works", {
+        "search": query, "per-page": n, "sort": "relevance_score:desc", "select": OPENALEX_SELECT})
     return [_from_openalex(r) for r in (json.loads(txt).get("results", []) if txt else [])]

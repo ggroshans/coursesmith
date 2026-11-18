@@ -118,5 +118,12 @@ class Registry:
     def best_tier(self, keys):
         return best_tier(self.tier(k) for k in keys)
 
+    def all_seeds(self):
+        """Keys the subject's sources ask to be crawled without being listed under `seeds:`."""
+        out = []
+        for a in self.adapters:
+            out += a.seeds()
+        return list(dict.fromkeys(out))
+
     def qualified_prefixes(self):
         return sorted({a.prefix for a in self.adapters if a.prefix})
