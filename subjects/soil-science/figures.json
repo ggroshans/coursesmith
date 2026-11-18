@@ -1,0 +1,4342 @@
+{
+ "soil-found-077": [
+  {
+   "type": "flow",
+   "caption": "Five interacting factors produce soil, which then serves four functions.",
+   "sent_ids": [
+    "f03e5621af1c",
+    "8faa9ae6f95e",
+    "0b14e20f880a",
+    "97f76a060896",
+    "335276d7a08f",
+    "03c44eaab2e2"
+   ],
+   "mermaid": "flowchart TD\nA[Climate] --> S([Soil])\nB[Relief] --> S\nC[Organisms] --> S\nD[Parent material] --> S\nE[Time] --> S\nS --> F[Medium for plant growth]\nS --> G[Water storage and purification]\nS --> H[Modifier of atmosphere]\nS --> I[Habitat for organisms]"
+  }
+ ],
+ "soil-found-078": [
+  {
+   "type": "bar",
+   "caption": "A typical soil is half solids and half pore space.",
+   "sent_ids": [
+    "a3ccab778f94"
+   ],
+   "unit": "% of soil volume",
+   "bars": [
+    [
+     "Mineral",
+     45
+    ],
+    [
+     "Organic matter",
+     5
+    ],
+    [
+     "Pores (water and gas)",
+     50
+    ]
+   ]
+  }
+ ],
+ "soil-found-115": [
+  {
+   "type": "layers",
+   "caption": "The critical zone runs down from the biota-rich biomantle to bedrock.",
+   "sent_ids": [
+    "2a6307fe8ced",
+    "7bd135c6348e",
+    "8377367797d8",
+    "9d77f888cab8"
+   ],
+   "top": "Surface",
+   "bottom": "Bedrock, where life and water cease to change chemistry",
+   "layers": [
+    [
+     "Biomantle",
+     "uppermost, biota-rich layer"
+    ],
+    [
+     "Pedosphere",
+     "soil"
+    ],
+    [
+     "Vadose zone",
+     "unsaturated"
+    ],
+    [
+     "Groundwater zone",
+     "saturated"
+    ]
+   ]
+  }
+ ],
+ "soil-found-045": [
+  {
+   "type": "scale",
+   "caption": "Organic matter content runs from under 1% in deserts to 90% in low-lying wet soils.",
+   "sent_ids": [
+    "48683ad5ee21",
+    "5f94302b59da"
+   ],
+   "axis": "Organic matter, % by mass",
+   "log": true,
+   "ranges": [
+    [
+     1,
+     6,
+     "Upland topsoils"
+    ]
+   ],
+   "marks": [
+    [
+     1,
+     "Deserts, below"
+    ],
+    [
+     90,
+     "Wet low-lying soils"
+    ]
+   ]
+  }
+ ],
+ "soil-found-052": [
+  {
+   "type": "flow",
+   "caption": "Physical and chemical weathering reinforce each other, and the residue combines with organic material to make soil.",
+   "sent_ids": [
+    "164b7a512241",
+    "afcf97e609b0",
+    "a3797f08d1cb",
+    "ccb92b72fadd",
+    "d808a03f0f40"
+   ],
+   "mermaid": "flowchart TD\nR[Rock] --> P[Physical weathering]\nP -->|exposes more surface| C[Chemical weathering]\nP --> M[Broken-down material]\nC --> M\nM -->|combines with organic material| S([Soil])"
+  }
+ ],
+ "soil-found-059": [
+  {
+   "type": "flow",
+   "caption": "Carbonate dissolution turns limestone into soluble calcium bicarbonate.",
+   "sent_ids": [
+    "fd93e88c2913",
+    "424558facc9e"
+   ],
+   "mermaid": "flowchart LR\nA[Rainwater] --> C[Carbonic acid]\nB[Carbon dioxide] --> C\nC --> L[Dissolves limestone]\nL --> D([Calcium bicarbonate])"
+  }
+ ],
+ "soil-found-054": [
+  {
+   "type": "bar",
+   "caption": "The upper limit of frost pressure far exceeds granite's tensile strength.",
+   "sent_ids": [
+    "1fe17664f08f",
+    "7a98f2604b8d"
+   ],
+   "unit": "megapascals",
+   "bars": [
+    [
+     "Frost pressure, upper limit",
+     14
+    ],
+    [
+     "Granite tensile strength",
+     4
+    ]
+   ]
+  }
+ ],
+ "soil-found-062": [
+  {
+   "type": "flow",
+   "caption": "Surface hydration is the first step of hydrolysis.",
+   "sent_ids": [
+    "99d0290e11ad",
+    "11bbcb9f8d29",
+    "4db2d7eadf7e"
+   ],
+   "mermaid": "flowchart TD\nA[Water at fresh surface] --> B[Splits into H+ and OH-]\nB --> C[Protons replace surface cations]\nC --> D[Cations freed]\nC --> E[Bonds loosened]\nE --> F([Silicic acid, aluminium hydroxides])"
+  }
+ ],
+ "soil-found-031": [
+  {
+   "type": "flow",
+   "caption": "Silicate subclasses run from isolated tetrahedra to frameworks sharing all four corners.",
+   "sent_ids": [
+    "82222bb34ff6",
+    "c1180466b559",
+    "784cefb16e8f",
+    "4b0ef7539256",
+    "2259dd5a7b01",
+    "134e96ea3ead"
+   ],
+   "mermaid": "flowchart TD\nA[Isolated: orthosilicates] --> B[Paired tetrahedra]\nB --> C[Rings]\nC --> D[Chains]\nD --> E[Sheets: phyllosilicates]\nE --> F[Frameworks: tectosilicates]"
+  }
+ ],
+ "soil-found-033": [
+  {
+   "type": "table",
+   "caption": "Clay minerals and micas differ in their sheet stacking and the bonds between layers.",
+   "sent_ids": [
+    "7e45065361e6",
+    "2bd5bf36cb53",
+    "180f53c3ed39",
+    "9f8b84a0d971"
+   ],
+   "header": [
+    "Group",
+    "Stack",
+    "Layers held by"
+   ],
+   "rows": [
+    [
+     "1:1 clays (kaolinite–serpentine)",
+     "T-O",
+     "Hydrogen bonds"
+    ],
+    [
+     "2:1 clays",
+     "T-O-T",
+     "Van der Waals forces"
+    ],
+    [
+     "Micas",
+     "T-O-T",
+     "Metal ions"
+    ]
+   ]
+  }
+ ],
+ "soil-found-041": [
+  {
+   "type": "flow",
+   "caption": "Source rock and conditions decide which clay mineral forms.",
+   "sent_ids": [
+    "f8af5441c894",
+    "60a051148c31",
+    "ac5db9c89208",
+    "abfd5eb9357d"
+   ],
+   "mermaid": "flowchart TD\nA[Feldspar-rich rock] -->|warm, acid| K([Kaolin])\nA -->|alkaline| I([Illite])\nB[Igneous rock] -->|alkaline| S([Smectite])\nC[Other clay minerals] -->|intense| G([Gibbsite])"
+  }
+ ],
+ "soil-found-064": [
+  {
+   "type": "flow",
+   "caption": "Granite minerals weather in sequence and all end as clay minerals and iron oxides.",
+   "sent_ids": [
+    "e457854a79a0",
+    "9b8fbca2af12",
+    "3f85ade2eb8e"
+   ],
+   "mermaid": "flowchart TD\nA[Hornblende lost first] --> B[Biotite becomes vermiculite]\nB --> C[Oligoclase, microcline last]\nC --> D([Clay minerals, iron oxides])"
+  }
+ ],
+ "soil-found-014": [
+  {
+   "type": "scale",
+   "caption": "Soil pH spans 3 to 10, with most plants doing best in the middle.",
+   "sent_ids": [
+    "4b237497ea1f",
+    "1d6b6639bbe1",
+    "179d029b663f"
+   ],
+   "axis": "Soil pH",
+   "ranges": [
+    [
+     5.5,
+     7.5,
+     "Optimum, most plants"
+    ]
+   ],
+   "marks": [
+    [
+     3.5,
+     "Ultra-acidic below"
+    ],
+    [
+     7,
+     "Neutral"
+    ],
+    [
+     9,
+     "Very alkaline above"
+    ]
+   ],
+   "ends": [
+    "acidic",
+    "alkaline"
+   ]
+  }
+ ],
+ "soil-found-019": [
+  {
+   "type": "scale",
+   "caption": "Toxic soluble aluminium and manganese symptoms belong to the acid end of the scale.",
+   "sent_ids": [
+    "a51ce7e9bb12",
+    "9ee675330c92"
+   ],
+   "axis": "Soil pH",
+   "marks": [
+    [
+     5.0,
+     "Little soluble Al above"
+    ],
+    [
+     5.6,
+     "Mn toxicity below"
+    ]
+   ],
+   "ends": [
+    "acidic",
+    "alkaline"
+   ]
+  }
+ ],
+ "soil-found-018": [
+  {
+   "type": "table",
+   "caption": "Different influences push soil pH toward acid or alkaline.",
+   "sent_ids": [
+    "c01512cf54b8",
+    "6b94ddd8c3d0",
+    "5836339a5ea7",
+    "c5dab05392ba",
+    "1464bb373383",
+    "72ae23b0dc2c",
+    "0bf3497ca2fa"
+   ],
+   "header": [
+    "Pushes acidic",
+    "Pushes alkaline"
+   ],
+   "rows": [
+    [
+     "Warm humid leaching",
+     "Dry climate, weak leaching"
+    ],
+    [
+     "Respiration, decay CO2",
+     "Na, Ca, Mg, K minerals"
+    ],
+    [
+     "Root H+ release",
+     "Bicarbonate irrigation water"
+    ],
+    [
+     "Ammonium fertilizers, acid rain",
+     "Poor drainage, carbonate build-up"
+    ],
+    [
+     "Sulfide oxidation",
+     ""
+    ]
+   ]
+  }
+ ],
+ "soil-found-016": [
+  {
+   "type": "flow",
+   "caption": "The USDA laboratory method reads pH twice, first in water and then in calcium chloride.",
+   "sent_ids": [
+    "939c919e167e",
+    "18bfe74ac3b7",
+    "496ea9875693",
+    "1e5ffca1e167"
+   ],
+   "mermaid": "flowchart TD\nA[Mix 20 g soil, 20 mL water] --> B[Stand 1 h]\nB --> C[Read pH 1:1]\nC --> D[Add CaCl2]\nD --> E([Read pH in 0.01 M CaCl2])"
+  }
+ ],
+ "soil-found-002": [
+  {
+   "type": "layers",
+   "caption": "The master horizons stack from organic surface layer down to bedrock.",
+   "sent_ids": [
+    "39a8daad4cc9",
+    "c745d613770e",
+    "5e6214dc7e7d",
+    "3e5591529e44",
+    "d5838f12b7fc",
+    "edd1a224dedf"
+   ],
+   "top": "Surface",
+   "bottom": "Bedrock",
+   "layers": [
+    [
+     "O",
+     "organic surface layer"
+    ],
+    [
+     "A",
+     "most organic matter and life"
+    ],
+    [
+     "E",
+     "leached layer"
+    ],
+    [
+     "B",
+     "subsoil where substances accumulate"
+    ],
+    [
+     "C",
+     "loose, poorly developed"
+    ],
+    [
+     "R",
+     "hard bedrock"
+    ]
+   ]
+  }
+ ],
+ "soil-found-026": [
+  {
+   "type": "table",
+   "caption": "A Munsell color is written from three dimensions.",
+   "sent_ids": [
+    "2e82649c89f8",
+    "3e3f61606818",
+    "fefd4f8783ff",
+    "84f5bddc7b94",
+    "9626a5f67df7",
+    "b3c75b4bfb3a"
+   ],
+   "header": [
+    "Dimension",
+    "Meaning",
+    "In 10R 4/8"
+   ],
+   "rows": [
+    [
+     "Hue",
+     "Dominant spectral color",
+     "10R"
+    ],
+    [
+     "Value",
+     "Lightness; lower is darker",
+     "4"
+    ],
+    [
+     "Chroma",
+     "Intensity; 0 is neutral gray",
+     "8"
+    ]
+   ]
+  }
+ ],
+ "soil-form-087": [
+  {
+   "type": "tree",
+   "caption": "Parent materials are classed by how they were deposited.",
+   "sent_ids": [
+    "26e9b9c75374",
+    "56bc5638a548",
+    "c6bb212df69e",
+    "bf15e0e839bc"
+   ],
+   "root": "Parent material",
+   "children": {
+    "Residual: weathered in place": null,
+    "Transported": {
+     "Water": null,
+     "Wind": null,
+     "Ice": null,
+     "Gravity": null
+    },
+    "Cumulose: organic, in place": null
+   }
+  }
+ ],
+ "soil-found-121": [
+  {
+   "type": "flow",
+   "caption": "Spheroidal weathering rounds jointed blocks into corestones that erosion later exposes.",
+   "sent_ids": [
+    "1de23a8cbd69",
+    "113cf20307de",
+    "5f691eac506d",
+    "1f1170b53ad4",
+    "99e4785286a6"
+   ],
+   "mermaid": "flowchart TD\nA[Water enters joints] --> B[Corners weather fastest]\nB --> C[Then edges, then faces]\nC --> D[Rounded core]\nD -->|erosion strips saprolite| E([Boulders or tors])"
+  }
+ ],
+ "soil-form-033": [
+  {
+   "type": "flow",
+   "caption": "Eluviation removes material from upper layers and illuviation deposits it lower down.",
+   "sent_ids": [
+    "dc6389054e5e",
+    "df956f0e294a",
+    "dd49277e0070"
+   ],
+   "mermaid": "flowchart TD\nA[Precipitation exceeds evaporation] --> B[Water percolates down]\nB --> C[Eluviation: upper layers lose colloids]\nC --> D([Illuviation: deposit lower in profile])"
+  }
+ ],
+ "soil-form-034": [
+  {
+   "type": "cycle",
+   "caption": "Cryoturbation repeats a seasonal cycle of freezing and thawing that churns the soil.",
+   "sent_ids": [
+    "667e3bd6a1f0",
+    "0b86fc1681c9",
+    "8fe210caf5bd"
+   ],
+   "steps": [
+    [
+     "Autumn freezing",
+     "ice wedges form"
+    ],
+    [
+     "Summer thaw of active layer",
+     "material loosens"
+    ],
+    [
+     "Material moves down and up",
+     "horizons mix"
+    ]
+   ],
+   "center": "Frost churning"
+  }
+ ],
+ "soil-form-004": [
+  {
+   "type": "table",
+   "caption": "Each part of a horizon designation carries a different meaning.",
+   "sent_ids": [
+    "65097c15febc",
+    "7a3f24f37455",
+    "214a0e82660e",
+    "d44f9963eb83",
+    "6498b5c0cd90"
+   ],
+   "header": [
+    "Part",
+    "Means",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Capital letter",
+     "Master horizon",
+     "B"
+    ],
+    [
+     "Lowercase suffix",
+     "Soil-formation detail",
+     "t"
+    ],
+    [
+     "Number prefix",
+     "Lithologic discontinuity",
+     "2Bt2"
+    ],
+    [
+     "Number suffix",
+     "Subdivision",
+     "Bt1, Bt2"
+    ]
+   ]
+  }
+ ],
+ "soil-form-014": [
+  {
+   "type": "table",
+   "caption": "Common USDA suffixes each mark one feature.",
+   "sent_ids": [
+    "dc8263e20514",
+    "3b906655bc94",
+    "af9e70acda63",
+    "d09975ba4e52",
+    "51db2313b382",
+    "3cc9f2d287ce",
+    "7f7f45d85276",
+    "35fd6e2bf73f"
+   ],
+   "header": [
+    "Suffix",
+    "Marks"
+   ],
+   "rows": [
+    [
+     "t",
+     "Illuvial silicate clay"
+    ],
+    [
+     "k",
+     "Pedogenic calcium carbonate"
+    ],
+    [
+     "g",
+     "Strong gleying"
+    ],
+    [
+     "p",
+     "Plough layer"
+    ],
+    [
+     "b",
+     "Buried genetic horizon"
+    ],
+    [
+     "f",
+     "Permafrost"
+    ],
+    [
+     "x",
+     "Fragipan features"
+    ],
+    [
+     "y",
+     "Gypsum"
+    ]
+   ]
+  }
+ ],
+ "soil-form-042": [
+  {
+   "type": "flow",
+   "caption": "Soil formation runs from weathering of fresh parent material to a layered, mature soil.",
+   "sent_ids": [
+    "dd865a62602d",
+    "393369d84bc4",
+    "416f4144a974",
+    "1542faa02026"
+   ],
+   "mermaid": "flowchart TD\nA[Fresh parent material] --> B[Weathering]\nB --> C[Pioneer species]\nC --> D[More complex communities]\nD --> E[Humus accumulates]\nE --> F([Horizons form])"
+  }
+ ],
+ "soil-form-043": [
+  {
+   "type": "flow",
+   "caption": "The five CLORPT factors together govern how a soil develops.",
+   "sent_ids": [
+    "13d006c8c23d",
+    "28e22591a7e5"
+   ],
+   "mermaid": "flowchart LR\nC[Climate] --> S([Soil])\nO[Organisms] --> S\nR[Relief] --> S\nP[Parent material] --> S\nT[Time] --> S"
+  }
+ ],
+ "soil-form-054": [
+  {
+   "type": "table",
+   "caption": "Slope position shapes drainage and soil along a catena.",
+   "sent_ids": [
+    "5e6fffd97ae0",
+    "57f41a37a752",
+    "eda37cfd8aae",
+    "14d0620b101e",
+    "1c5d5dded42c"
+   ],
+   "header": [
+    "Position",
+    "Soil"
+   ],
+   "rows": [
+    [
+     "Crest",
+     "Drains freely"
+    ],
+    [
+     "Midslope",
+     "Erodes faster; thinner, drier"
+    ],
+    [
+     "Toeslope",
+     "Wetter, more clay and organic matter"
+    ]
+   ]
+  }
+ ],
+ "soil-form-061": [
+  {
+   "type": "flow",
+   "caption": "Organic acids from litter drive iron and aluminium down the podzol profile.",
+   "sent_ids": [
+    "d43d5c71bd2d",
+    "5ebd42943add",
+    "7f946dfbdcb6",
+    "6aa08bc400ea"
+   ],
+   "mermaid": "flowchart TD\nA[Decaying organic matter] --> B[Organic acids, chelating agents]\nB --> C[Clay broken down]\nC --> D[Iron, aluminium released]\nD --> E([Moved from A to B horizon])"
+  },
+  {
+   "type": "layers",
+   "caption": "A podzol shows a pale leached layer above a two-part B horizon.",
+   "sent_ids": [
+    "da7c06d402f9",
+    "9ecc236b3d27",
+    "70a03db4d026",
+    "105672c5be01",
+    "7a313a4dfe1c"
+   ],
+   "layers": [
+    [
+     "A",
+     "upper soil"
+    ],
+    [
+     "AE",
+     "light, eluviated; quartz and silica"
+    ],
+    [
+     "B, upper",
+     "dark illuviated organic matter, bases"
+    ],
+    [
+     "B, lower",
+     "red-orange sesquioxides"
+    ]
+   ]
+  }
+ ],
+ "soil-form-066": [
+  {
+   "type": "cycle",
+   "caption": "Laterization alternates wet-season leaching with dry-season upward movement.",
+   "sent_ids": [
+    "0930f48e8ef3",
+    "5a0d499118ef",
+    "08d3ca744981"
+   ],
+   "steps": [
+    [
+     "Heavy rain",
+     "leaches rock"
+    ],
+    [
+     "Dry season",
+     "capillary action"
+    ],
+    [
+     "Ions lifted to surface",
+     "next wet season"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "caption": "The parent rock decides what laterization produces.",
+   "sent_ids": [
+    "c336630d13fa",
+    "6da21f66e159"
+   ],
+   "header": [
+    "Parent rock",
+    "Product"
+   ],
+   "rows": [
+    [
+     "Mafic, iron-rich",
+     "Iron oxides"
+    ],
+    [
+     "Granitic, iron-poor",
+     "Bauxites"
+    ],
+    [
+     "Ultramafic",
+     "Nickel laterites"
+    ]
+   ]
+  }
+ ],
+ "soil-form-060": [
+  {
+   "type": "flow",
+   "caption": "Lessivage carries clay down until it flocculates, and accumulated clay traps more.",
+   "sent_ids": [
+    "960d2e82a8a6",
+    "57a411b185c8",
+    "5510f6173170"
+   ],
+   "mermaid": "flowchart TD\nA[Infiltrating water] --> B[Picks up clay in suspension]\nB --> C[Carried down]\nC --> D{Water stagnates or meets positive ions}\nD --> E[Clay flocculates]\nE --> F[Pores become finer]\nF -->|trap more clay| E"
+  }
+ ],
+ "soil-form-052": [
+  {
+   "type": "bar",
+   "caption": "Leaching efficiency varies widely between soils.",
+   "sent_ids": [
+    "a2f6e81f95b6",
+    "e8c476f63a2a",
+    "1395cc3b8bc8",
+    "daa3e89079d2",
+    "11334b91405d",
+    "c79f539a7311"
+   ],
+   "unit": "leaching efficiency",
+   "bars": [
+    [
+     "Tunisian silty clay",
+     0.8
+    ],
+    [
+     "Mashtul",
+     0.75
+    ],
+    [
+     "Illitic clays",
+     0.7
+    ],
+    [
+     "Tagus delta, upper",
+     0.15
+    ]
+   ]
+  }
+ ],
+ "soil-phys-047": [
+  {
+   "type": "scale",
+   "caption": "USDA separates sit side by side on a log scale of particle size.",
+   "sent_ids": [
+    "4f7ec7789fd5",
+    "ca9faca2d585",
+    "318f60744cef",
+    "8624def84aaa"
+   ],
+   "log": true,
+   "axis": "Particle diameter, mm",
+   "ranges": [
+    [
+     0.002,
+     0.05,
+     "Silt"
+    ],
+    [
+     0.05,
+     2,
+     "Sand"
+    ]
+   ],
+   "marks": [
+    [
+     0.002,
+     "Clay below"
+    ],
+    [
+     0.063,
+     "WRB silt-sand limit"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "caption": "The three separates differ in activity, water holding and drainage.",
+   "sent_ids": [
+    "75ebcbd71b5a",
+    "5ca7809c2e9c",
+    "c5af6b2b3634"
+   ],
+   "header": [
+    "Separate",
+    "Activity",
+    "Water holding",
+    "Drainage"
+   ],
+   "rows": [
+    [
+     "Sand",
+     "Least",
+     "Low",
+     "High"
+    ],
+    [
+     "Silt",
+     "Middle",
+     "Medium to high",
+     "Slow to medium"
+    ],
+    [
+     "Clay",
+     "Most",
+     "High",
+     "Very slow"
+    ]
+   ]
+  }
+ ],
+ "soil-phys-016": [
+  {
+   "type": "scale",
+   "caption": "On the phi scale, sand, silt and clay occupy successive bands.",
+   "sent_ids": [
+    "00f211e6bd5f",
+    "e1794354a8ad",
+    "bbba3945ec4b"
+   ],
+   "axis": "Phi (φ)",
+   "ranges": [
+    [
+     -1,
+     4,
+     "Sand"
+    ],
+    [
+     4,
+     8,
+     "Silt"
+    ],
+    [
+     8,
+     10,
+     "Clay"
+    ]
+   ],
+   "ends": [
+    "coarser",
+    "finer"
+   ]
+  }
+ ],
+ "soil-phys-002": [
+  {
+   "type": "table",
+   "caption": "The five major structure classes differ in shape and where they occur.",
+   "sent_ids": [
+    "9aff444487c2",
+    "c1774db6c72f",
+    "3fe96e5bca5e",
+    "a500ae68d0cf",
+    "d8b289727294",
+    "9517d4645fe1",
+    "1d60b530d85d",
+    "9a67aff4b63d",
+    "8f52bb7b681a",
+    "da49ce24255f"
+   ],
+   "header": [
+    "Type",
+    "Shape",
+    "Typical setting"
+   ],
+   "rows": [
+    [
+     "Platy",
+     "Flat, horizontal plates",
+     "Compacted subsoil"
+    ],
+    [
+     "Prismatic",
+     "Vertical, flat tops",
+     "Clay-illuviated B horizons"
+    ],
+    [
+     "Columnar",
+     "Prisms with rounded tops",
+     "Sodium-affected subsoils"
+    ],
+    [
+     "Blocky",
+     "Equidimensional polyhedra",
+     "Subsoils, clayey topsoils"
+    ],
+    [
+     "Granular",
+     "Near-spherical",
+     "Grassland, garden topsoils"
+    ]
+   ]
+  }
+ ],
+ "soil-phys-019": [
+  {
+   "type": "flow",
+   "caption": "Sieve analysis shakes a sample through finer and finer sieves and weighs each fraction.",
+   "sent_ids": [
+    "a0586e8baeb2",
+    "cb5210c5e6b5",
+    "baac239a6918",
+    "3f6bdfe62ce7",
+    "6572d4b98d2a",
+    "150965ff2165"
+   ],
+   "mermaid": "flowchart TD\nA[Weighed sample into top sieve] --> B[Mechanical shaker agitates column]\nB --> C[Weigh material on each sieve]\nC --> D([Percent retained])\nB --> E[Fines in receiver]\nE -->|silt and clay| F([Hydrometer or pipette])"
+  }
+ ],
+ "soil-phys-050": [
+  {
+   "type": "flow",
+   "caption": "The hydrometer method disperses soil and reads suspended material at two times.",
+   "sent_ids": [
+    "ed6cbec816a0",
+    "94d1cf8610dd",
+    "46eb74b25d21",
+    "fbf5a60b9a15",
+    "c831f070b717",
+    "197c9cc7f291"
+   ],
+   "mermaid": "flowchart TD\nA[Shake overnight with dispersant] --> B[Make up to one liter]\nB --> C[Mix]\nC --> D[Read at 40 seconds: gives sand]\nC --> E[Read after 6-8 hours: clay]\nD --> F([Silt = 100 - clay - sand])\nE --> F"
+  }
+ ],
+ "soil-phys-036": [
+  {
+   "type": "flow",
+   "caption": "Two sieves decide the first steps of a USCS classification.",
+   "sent_ids": [
+    "74cf6d6515e1",
+    "3c1bb18164c5"
+   ],
+   "mermaid": "flowchart TD\nA{Over 50% retained on No. 200?} -->|yes| B{Coarse fraction on No. 4?}\nA -->|no| C([Fine-grained])\nB -->|over 50%| D([Gravel])\nB -->|50% or more passes| E([Sand])"
+  }
+ ],
+ "soil-phys-037": [
+  {
+   "type": "flow",
+   "caption": "Fines content and grading decide the coarse-grained group symbol.",
+   "sent_ids": [
+    "91387aafb8ba",
+    "0e17ce46efde",
+    "e68a4268d1a5",
+    "5bd056829b7d",
+    "d265c35fedc0"
+   ],
+   "mermaid": "flowchart TD\nA{Fines?} -->|under 5%| B{Well graded?}\nB -->|yes| C([GW, SW])\nB -->|no| D([GP, SP])\nA -->|5-12%| E([Dual symbol, e.g. SW-SC])\nA -->|over 12%| F{Silt or clay?}\nF -->|silt| G([GM, SM])\nF -->|clay| H([GC, SC])"
+  }
+ ],
+ "soil-phys-038": [
+  {
+   "type": "table",
+   "caption": "The plasticity chart sorts inorganic fine soils into four groups.",
+   "sent_ids": [
+    "2eb07c690d50",
+    "80b70cd2d744",
+    "951bb79ad968",
+    "20b59d9de971"
+   ],
+   "header": [
+    "",
+    "Low plasticity (L)",
+    "High plasticity (H)"
+   ],
+   "rows": [
+    [
+     "Clay (C), above A-line",
+     "CL lean clay",
+     "CH fat clay"
+    ],
+    [
+     "Silt (M), below A-line",
+     "ML silt",
+     "MH elastic silt"
+    ]
+   ]
+  }
+ ],
+ "soil-phys-060": [
+  {
+   "type": "scale",
+   "caption": "Peat, mineral soils and quartz sit at very different densities.",
+   "sent_ids": [
+    "b0ea2daf5037",
+    "587b51129207"
+   ],
+   "axis": "Density, g/cm3",
+   "ranges": [
+    [
+     0.02,
+     0.98,
+     "Peat bulk density"
+    ],
+    [
+     1.0,
+     1.6,
+     "Mineral soil bulk density"
+    ]
+   ],
+   "marks": [
+    [
+     2.65,
+     "Quartz"
+    ]
+   ]
+  }
+ ],
+ "soil-phys-082": [
+  {
+   "type": "bar",
+   "caption": "Wheel traffic raised bulk density and cut pore space in a cotton field.",
+   "sent_ids": [
+    "b327cb9014f4",
+    "cc7fe969a5f2",
+    "7d18d76f49b7"
+   ],
+   "unit": "% pore space",
+   "bars": [
+    [
+     "Tilled surface soil",
+     51
+    ],
+    [
+     "Wheel-trafficked inter-rows",
+     37
+    ]
+   ]
+  }
+ ],
+ "soil-phys-086": [
+  {
+   "type": "bar",
+   "caption": "In 2013 Europe had the largest area degraded by compaction.",
+   "sent_ids": [
+    "ceb83651c9ef",
+    "00849410a9f7"
+   ],
+   "unit": "million hectares",
+   "bars": [
+    [
+     "Europe",
+     33
+    ],
+    [
+     "Africa",
+     18
+    ],
+    [
+     "Asia",
+     10
+    ],
+    [
+     "Australia",
+     4
+    ]
+   ]
+  }
+ ],
+ "soil-phys-116": [
+  {
+   "type": "flow",
+   "caption": "Shaking loose saturated sand raises pore pressure until it liquefies.",
+   "sent_ids": [
+    "9e2fcd1cc9a2",
+    "53d463df094c",
+    "e445632b078c",
+    "a83262ad3764"
+   ],
+   "mermaid": "flowchart TD\nA[Loose saturated sand loaded] --> B[Tends to compress]\nB --> C[Pore water pressure rises]\nC --> D[Exceeds grain contact forces]\nD --> E([Effective stress near zero: liquefaction])"
+  }
+ ],
+ "soil-phys-070": [
+  {
+   "type": "scale",
+   "caption": "Brewer's pore classes span sizes from cryptopores to macropores.",
+   "sent_ids": [
+    "9f2c49779aa5",
+    "438beda2bb03",
+    "024dde78a58e",
+    "8685e1ec7fa2",
+    "9b31508a1034"
+   ],
+   "axis": "Pore diameter, micrometers",
+   "log": true,
+   "ranges": [
+    [
+     0.1,
+     5,
+     "Ultramicropores"
+    ],
+    [
+     5,
+     30,
+     "Micropores"
+    ],
+    [
+     30,
+     75,
+     "Meso"
+    ]
+   ],
+   "marks": [
+    [
+     0.1,
+     "Cryptopores below"
+    ],
+    [
+     75,
+     "Macropores above"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "caption": "Each pore class has a different role for water and life.",
+   "sent_ids": [
+    "01f0f056f131",
+    "3ee0048a8059",
+    "4c4ab36f05bd",
+    "a21180357ee9",
+    "bf52d56ba07b",
+    "257261781103"
+   ],
+   "header": [
+    "Class",
+    "Role"
+   ],
+   "rows": [
+    [
+     "Macropores",
+     "Drain; air-filled at field capacity"
+    ],
+    [
+     "Mesopores",
+     "Storage water for plants"
+    ],
+    [
+     "Micropores",
+     "Immobile but available water"
+    ],
+    [
+     "Ultramicropores",
+     "Shelter microbes from predators"
+    ],
+    [
+     "Cryptopores",
+     "Protect organic matter from decay"
+    ]
+   ]
+  }
+ ],
+ "soil-water-172": [
+  {
+   "type": "scale",
+   "caption": "Soil water potential falls from saturation to the wilting point.",
+   "sent_ids": [
+    "bcb198a071c7",
+    "c7cac11b1d63",
+    "adbed2d30985"
+   ],
+   "axis": "Water potential, kPa",
+   "marks": [
+    [
+     0,
+     "Saturated"
+    ],
+    [
+     -33,
+     "Field capacity"
+    ],
+    [
+     -1500,
+     "Wilting point"
+    ]
+   ]
+  }
+ ],
+ "soil-water-247": [
+  {
+   "type": "layers",
+   "caption": "The water table separates the unsaturated vadose zone from saturated ground.",
+   "sent_ids": [
+    "604b8befdc5b",
+    "0c8259f3338d",
+    "e022510cf086"
+   ],
+   "top": "Ground surface",
+   "layers": [
+    [
+     "Vadose zone",
+     "unsaturated"
+    ],
+    [
+     "Capillary fringe",
+     "water drawn above table"
+    ],
+    [
+     "Water table",
+     "pressure equals atmospheric"
+    ],
+    [
+     "Saturated zone",
+     "pores filled with groundwater"
+    ]
+   ]
+  }
+ ],
+ "soil-water-165": [
+  {
+   "type": "table",
+   "caption": "The four standard water contents each sit at a set suction.",
+   "sent_ids": [
+    "5538fad85c03",
+    "b62ba90c3f3f",
+    "e5ba4e809095",
+    "90dbfe0c03b6"
+   ],
+   "header": [
+    "Content",
+    "Suction",
+    "Typical volume fraction"
+   ],
+   "rows": [
+    [
+     "Saturation θs",
+     "0 kPa",
+     "0.2–0.5"
+    ],
+    [
+     "Field capacity θfc",
+     "−33 kPa",
+     "0.1–0.35"
+    ],
+    [
+     "Wilting point θpwp",
+     "−1500 kPa",
+     "0.01–0.25"
+    ],
+    [
+     "Residual θr",
+     "Very high tension",
+     "0.001–0.1"
+    ]
+   ]
+  },
+  {
+   "type": "bar",
+   "caption": "Available water peaks in silt loam, well above sand and clay.",
+   "sent_ids": [
+    "798f51e01239",
+    "c8c2047856d4",
+    "43853cdd67fa"
+   ],
+   "unit": "% by volume",
+   "bars": [
+    [
+     "Sand",
+     5.8
+    ],
+    [
+     "Silt loam",
+     19.7
+    ],
+    [
+     "Clay",
+     12.4
+    ]
+   ]
+  }
+ ],
+ "soil-phys-202": [
+  {
+   "type": "table",
+   "caption": "Confined and unconfined aquifers differ in cap and storage.",
+   "sent_ids": [
+    "d64613ec4db0",
+    "cac37fe95180",
+    "2f84d7f99914",
+    "fdb9e0ffa5cd"
+   ],
+   "header": [
+    "Type",
+    "Upper boundary",
+    "Releases water by",
+    "Storage"
+   ],
+   "rows": [
+    [
+     "Confined",
+     "Impermeable layer",
+     "Matrix expansion, compressibility",
+     "Far below 0.01"
+    ],
+    [
+     "Unconfined",
+     "Water table",
+     "Draining pores",
+     "Above 0.01"
+    ]
+   ]
+  }
+ ],
+ "soil-phys-147": [
+  {
+   "type": "table",
+   "caption": "Soil air differs from the atmosphere mainly in carbon dioxide.",
+   "sent_ids": [
+    "ce5b79a5c763",
+    "3b5cc653de78",
+    "ed6cfd45b339",
+    "09133e76f63b"
+   ],
+   "header": [
+    "Gas",
+    "Soil air, %",
+    "Atmosphere, %"
+   ],
+   "rows": [
+    [
+     "Nitrogen",
+     "79.2",
+     "78.0"
+    ],
+    [
+     "Oxygen",
+     "20.6",
+     "20.9"
+    ],
+    [
+     "Carbon dioxide",
+     "0.25",
+     "0.04"
+    ]
+   ]
+  }
+ ],
+ "soil-phys-153": [
+  {
+   "type": "flow",
+   "caption": "Three conditions together allow frost heave as ice lenses grow.",
+   "sent_ids": [
+    "6300e61ceb72",
+    "7ba97dfe66af",
+    "3a2cbf2c156e"
+   ],
+   "mermaid": "flowchart TD\nA[Frost-susceptible soil] --> D[Water drawn up by capillarity]\nB[Water supply below] --> D\nC[Freezing penetrates soil] --> D\nD --> E[Ice lenses grow]\nE --> F([Soil heaves])"
+  }
+ ],
+ "soil-env-129": [
+  {
+   "type": "flow",
+   "caption": "Thawing permafrost releases stored carbon, a feedback on warming.",
+   "sent_ids": [
+    "c9e2b53dd4c9",
+    "616e26044f3e",
+    "194fae3cc3be"
+   ],
+   "mermaid": "flowchart TD\nA[Warming] --> B[Permafrost thaws]\nB --> C[Decomposition restarts]\nC --> D[CO2 or methane released]\nD -->|feedback| A"
+  }
+ ],
+ "soil-chem-081": [
+  {
+   "type": "table",
+   "caption": "1:1 and 2:1 clays differ in layer make-up, charge and bonding.",
+   "sent_ids": [
+    "91aa317c465d",
+    "6d809205ff87",
+    "227e11e54008",
+    "f573c4b95369"
+   ],
+   "header": [
+    "Type",
+    "Sheets per layer",
+    "Charge",
+    "Examples"
+   ],
+   "rows": [
+    [
+     "1:1",
+     "T + O",
+     "Uncharged; hydrogen bonds",
+     "Kaolinite, serpentine"
+    ],
+    [
+     "2:1",
+     "T + O + T",
+     "Net negative; cations bind",
+     "Talc, vermiculite, montmorillonite"
+    ]
+   ]
+  }
+ ],
+ "soil-chem-092": [
+  {
+   "type": "table",
+   "caption": "Interlayer cations decide whether a 2:1 clay swells or collapses.",
+   "sent_ids": [
+    "55951c94ffbe",
+    "1b492f4bfee0",
+    "bd8a70396fbd",
+    "195c5a38af63"
+   ],
+   "header": [
+    "Cation",
+    "Effect"
+   ],
+   "rows": [
+    [
+     "Na+",
+     "Most swelling in smectite"
+    ],
+    [
+     "Ca2+",
+     "Swells less, shrinks less"
+    ],
+    [
+     "Mg2+",
+     "Sweller; opens vermiculite"
+    ],
+    [
+     "K+",
+     "Collapser; closes illite"
+    ]
+   ]
+  }
+ ],
+ "soil-chem-103": [
+  {
+   "type": "flow",
+   "caption": "Clay–water interaction runs through five stages.",
+   "sent_ids": [
+    "06cb326055ee",
+    "d6ba94e37bec",
+    "180a9a629fba",
+    "61fdb6aa9509",
+    "be59500de202",
+    "44b63ff08485"
+   ],
+   "mermaid": "flowchart TD\nA[Hydration: absorbs water, swells] --> B[Dispersion: platelets spread]\nB --> C[Flocculation: drawn back together]\nC --> D[Deflocculation: attraction weakened]\nD --> E[Aggregation: face-to-face stacking]"
+  }
+ ],
+ "soil-chem-047": [
+  {
+   "type": "flow",
+   "caption": "Cations are held with decreasing strength from aluminium to sodium.",
+   "sent_ids": [
+    "c0c796809175",
+    "3686c0d23bde",
+    "88b46aecb94a"
+   ],
+   "mermaid": "flowchart LR\nA[Al3+] --> B[H+] --> C[Ca2+] --> D[Mg2+] --> E[K+, NH4+] --> F[Na+]"
+  }
+ ],
+ "soil-chem-046": [
+  {
+   "type": "bar",
+   "caption": "Average CEC differs widely among US soil orders.",
+   "sent_ids": [
+    "e6a35a879277",
+    "3737c01c3e82",
+    "45e796b3a166",
+    "884cefd3a38b",
+    "50d59357be87"
+   ],
+   "unit": "cmolc/kg at pH 7",
+   "bars": [
+    [
+     "Ultisols",
+     3.5
+    ],
+    [
+     "Mollisols",
+     18.7
+    ],
+    [
+     "Vertisols",
+     35.6
+    ],
+    [
+     "Histosols",
+     128
+    ]
+   ]
+  }
+ ],
+ "soil-chem-123": [
+  {
+   "type": "scale",
+   "caption": "Soil Eh spans a wide range, with cultivated soils and plant tolerance in the positive part.",
+   "sent_ids": [
+    "cd38ba73ad80",
+    "7cac1b5a0bce",
+    "a00e88546a9a",
+    "3ee895935e86"
+   ],
+   "axis": "Eh, mV",
+   "ranges": [
+    [
+     -300,
+     900,
+     "Soil range"
+    ],
+    [
+     300,
+     500,
+     "Cultivated"
+    ],
+    [
+     300,
+     700,
+     "Plant tolerance"
+    ]
+   ],
+   "marks": [
+    [
+     300,
+     "Aerobic / anaerobic, wetlands"
+    ]
+   ],
+   "ends": [
+    "reducing",
+    "oxidizing"
+   ]
+  }
+ ],
+ "soil-chem-125": [
+  {
+   "type": "flow",
+   "caption": "Flooding drives soil from oxic to anoxic, and draining reverses it.",
+   "sent_ids": [
+    "d5059a7b2b7b",
+    "82c3bcc2bec7",
+    "6a21badbb869",
+    "7c8cc904f031",
+    "55b26f46671a"
+   ],
+   "mermaid": "flowchart TD\nA[Flooding] --> B[Microbes use up oxygen in days]\nB --> C[Nitrate and ferric oxide reduced]\nC --> D([Anoxic, low Eh])\nD -->|draining and drying| E([Starting Eh restored])"
+  }
+ ],
+ "soil-chem-002": [
+  {
+   "type": "flow",
+   "caption": "Emissions become acids that leach base cations and mobilize aluminium.",
+   "sent_ids": [
+    "ee658ccc9e20",
+    "d6d0f96bc82a",
+    "825382ae3f8a",
+    "e3a3d90a74d1",
+    "6d5ea0e82387"
+   ],
+   "mermaid": "flowchart TD\nA[SO2 and NOx emitted] --> B[Sulfuric, nitric acids in troposphere]\nB --> C[Acid rain on soil]\nC --> D[H+ exchanges for Ca, Mg]\nD --> E[Base cations leached]\nD --> F([Aluminium mobilized, harms trees])"
+  }
+ ],
+ "soil-chem-010": [
+  {
+   "type": "flow",
+   "caption": "Irrigation salinity comes from salts left behind and from rising water tables.",
+   "sent_ids": [
+    "7a093d4e5329",
+    "d1050e01c3de",
+    "7d7d77e7fd89",
+    "846b5de56074"
+   ],
+   "mermaid": "flowchart TD\nA[Irrigation water carries salts] --> B[Plants use water, salts stay]\nA --> D[30% or more goes underground]\nD --> E[Water table rises]\nE --> F[Leaching blocked]\nB --> C([Salt in root zone])\nF --> C"
+  }
+ ],
+ "soil-chem-036": [
+  {
+   "type": "flow",
+   "caption": "Calcium carbonate dissolves in the A horizon and reprecipitates in the B horizon.",
+   "sent_ids": [
+    "2ba6adad15e0",
+    "ca238541a954",
+    "05fdda003a01",
+    "0230e951e4c9",
+    "06a84371746a"
+   ],
+   "mermaid": "flowchart TD\nA[Root CO2 in A horizon] --> B[Calcium carbonate dissolves as bicarbonate]\nB --> C[Moves to less active B horizon]\nC --> D([Reverts to carbonate: caliche])"
+  }
+ ],
+ "soil-chem-041": [
+  {
+   "type": "bar",
+   "caption": "Estimated shares of irrigated land badly salt-affected vary by country.",
+   "sent_ids": [
+    "1a108a5764e1",
+    "fd1f17b29f95"
+   ],
+   "unit": "% of irrigated land",
+   "bars": [
+    [
+     "Israel",
+     13
+    ],
+    [
+     "China",
+     15
+    ],
+    [
+     "Australia",
+     20
+    ],
+    [
+     "Egypt",
+     30
+    ],
+    [
+     "Iraq",
+     50
+    ]
+   ]
+  }
+ ],
+ "soil-bio-025": [
+  {
+   "type": "flow",
+   "caption": "Energy passes from plants through decomposers to larger soil animals.",
+   "sent_ids": [
+    "4f527d75a937",
+    "b1967243f06f",
+    "583bf60af135",
+    "362d5cc4628f"
+   ],
+   "mermaid": "flowchart TD\nA[Plants: producers] -->|root exudates, dead material| B[Bacteria, fungi]\nB --> C[Protozoa, nematodes, microarthropods]\nC --> D([Earthworms, insects, small vertebrates])"
+  }
+ ],
+ "soil-bio-033": [
+  {
+   "type": "flow",
+   "caption": "Warming and soil respiration reinforce each other.",
+   "sent_ids": [
+    "8d9eb4be385a",
+    "09cde9f9cd65"
+   ],
+   "mermaid": "flowchart LR\nA[Warming] --> B[More soil respiration]\nB --> C[More CO2]\nC --> A"
+  }
+ ],
+ "soil-bio-041": [
+  {
+   "type": "table",
+   "caption": "The three earthworm categories differ in where they live and burrow.",
+   "sent_ids": [
+    "06ef19324199",
+    "095eea667bab"
+   ],
+   "header": [
+    "Category",
+    "Lives in",
+    "Burrows",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Epigeic",
+     "Litter, compost",
+     "None",
+     "Eisenia fetida"
+    ],
+    [
+     "Endogeic",
+     "Topsoil, subsoil",
+     "Horizontal, upper 10–30 cm",
+     "—"
+    ],
+    [
+     "Anecic",
+     "Deep soil",
+     "Permanent, deep vertical",
+     "Lumbricus terrestris"
+    ]
+   ]
+  }
+ ],
+ "soil-bio-057": [
+  {
+   "type": "flow",
+   "caption": "Nitrifying chemolithotrophs oxidize ammonia in two steps.",
+   "sent_ids": [
+    "df710a542a28",
+    "a1fdf9e03b1b"
+   ],
+   "mermaid": "flowchart LR\nA[Ammonia] -->|Nitrosomonas| B[Nitrite]\nB -->|Nitrobacter| C([Nitrate])"
+  }
+ ],
+ "soil-bio-067": [
+  {
+   "type": "flow",
+   "caption": "Ureolysis raises pH until calcium carbonate precipitates.",
+   "sent_ids": [
+    "98861b1c66df",
+    "8a52b1335dfc",
+    "73e5202e6406"
+   ],
+   "mermaid": "flowchart TD\nA[Urease splits urea] --> B[Ammonium and carbonate]\nB --> C[Hydroxide raises pH]\nC --> D[Bicarbonate shifts to carbonate]\nD -->|with calcium| E([Calcium carbonate crystals])"
+  }
+ ],
+ "soil-bio-015": [
+  {
+   "type": "flow",
+   "caption": "Root-primed bacteria are eaten by amoebae, freeing nitrogen for roots, which in turn spurs root growth.",
+   "sent_ids": [
+    "4241fee3f44c",
+    "b55ec64cd1f6"
+   ],
+   "mermaid": "flowchart TD\nA[Roots explore new soil] --> B[Bacteria primed]\nB --> C[Amoebae eat bacteria]\nC --> D[Mineral nitrogen freed]\nD --> E[Root hairs absorb it]\nE --> A"
+  }
+ ],
+ "soil-bio-115": [
+  {
+   "type": "flow",
+   "caption": "Plant matter decays in three stages.",
+   "sent_ids": [
+    "14631a9c9765",
+    "d3bf70bbc584",
+    "3fb473e03ba8",
+    "327fbe217e49"
+   ],
+   "mermaid": "flowchart LR\nA[Leaching of soluble carbon] --> B[Fragmentation by invertebrates] --> C([Chemical alteration by microbes])"
+  }
+ ],
+ "soil-bio-120": [
+  {
+   "type": "scale",
+   "caption": "The C:N ratio decides whether microbes immobilize or release nitrogen.",
+   "sent_ids": [
+    "f609ce8ebbb6",
+    "85963aaf3736",
+    "c6935c9b3da4",
+    "37bb508d8ae1",
+    "1a147fba442a",
+    "88cb41dfaf26"
+   ],
+   "axis": "C:N ratio of decomposing matter",
+   "marks": [
+    [
+     25,
+     "Below: ammonium released"
+    ],
+    [
+     30,
+     "Above: nitrogen immobilized"
+    ]
+   ]
+  }
+ ],
+ "soil-bio-104": [
+  {
+   "type": "layers",
+   "caption": "Mor has thick organic layers sharply over mineral soil, with no A horizon.",
+   "sent_ids": [
+    "7c9824db26e6",
+    "5375733c2a01",
+    "458374eecf94"
+   ],
+   "layers": [
+    [
+     "OL",
+     "thick litter"
+    ],
+    [
+     "OF",
+     "matted with roots and hyphae"
+    ],
+    [
+     "OH",
+     "variable"
+    ],
+    [
+     "Mineral soil",
+     "sharp change; no A"
+    ]
+   ]
+  }
+ ],
+ "soil-bio-100": [
+  {
+   "type": "layers",
+   "caption": "The diagnostic horizons follow litter from intact leaves to mineral mixing.",
+   "sent_ids": [
+    "c9c573270ecb",
+    "446534761bb4",
+    "1e130b68c4b2",
+    "aece3bfd4a08",
+    "3f5ccb12da1f"
+   ],
+   "top": "Surface",
+   "layers": [
+    [
+     "OL (Oi)",
+     "recognizable leaves or needles"
+    ],
+    [
+     "OF (Oe)",
+     "fragmented, with fecal pellets"
+    ],
+    [
+     "OH (Oa)",
+     "humus, plant remains not visible"
+    ],
+    [
+     "A",
+     "organic and mineral mixed"
+    ],
+    [
+     "E",
+     "ashy, carbon-poor, leached"
+    ]
+   ]
+  }
+ ],
+ "soil-bio-119": [
+  {
+   "type": "table",
+   "caption": "Non-living organic matter fractions differ in size and persistence.",
+   "sent_ids": [
+    "398de89310d5",
+    "860e789658f1",
+    "e869229b34a8",
+    "27140b0dcc3d",
+    "3915a94a3ec7",
+    "949b43aa6905",
+    "83f7a4cd2711"
+   ],
+   "header": [
+    "Fraction",
+    "Makeup",
+    "Turnover"
+   ],
+   "rows": [
+    [
+     "Dissolved",
+     "Simple compounds in soil water",
+     "Under 12 months"
+    ],
+    [
+     "Humus",
+     "Colloids under 53 microns",
+     "Decades"
+    ],
+    [
+     "Resistant",
+     "Charcoal, graphite, coal",
+     "Hundreds of years"
+    ]
+   ]
+  }
+ ],
+ "soil-class-006": [
+  {
+   "type": "flow",
+   "caption": "USDA taxonomy runs from order down to series.",
+   "sent_ids": [
+    "3e1858d0d5bd",
+    "64d151a3dabf"
+   ],
+   "mermaid": "flowchart TD\nA[Order] --> B[Suborder] --> C[Great group] --> D[Subgroup] --> E[Family] --> F([Series])"
+  }
+ ],
+ "soil-class-011": [
+  {
+   "type": "table",
+   "caption": "The five moisture regimes span from saturated to desert-dry.",
+   "sent_ids": [
+    "ff7090d4d931",
+    "c9aa1213bd54",
+    "a4f84bfbd388",
+    "5ba1076ab486",
+    "5680b629dc04"
+   ],
+   "header": [
+    "Regime",
+    "Moisture",
+    "Typical setting"
+   ],
+   "rows": [
+    [
+     "Aquic",
+     "Saturated, near oxygen-free",
+     "Wetlands"
+    ],
+    [
+     "Udic",
+     "Moist year-round",
+     "Humid regions"
+    ],
+    [
+     "Ustic",
+     "Moist in growing season; droughts",
+     "Semi-arid regions"
+    ],
+    [
+     "Xeric",
+     "Moist winters, summer drought",
+     "Mediterranean climates"
+    ],
+    [
+     "Aridic",
+     "Dry half the growing season",
+     "Deserts"
+    ]
+   ]
+  }
+ ],
+ "soil-class-004": [
+  {
+   "type": "table",
+   "caption": "OSHA soil types differ in strength and the earth pressure they exert.",
+   "sent_ids": [
+    "159980bf1fb8",
+    "980dc23fa08c",
+    "137082a7bf15"
+   ],
+   "header": [
+    "Type",
+    "Compressive strength",
+    "Lateral pressure, psf per ft"
+   ],
+   "rows": [
+    [
+     "A",
+     "Above 1.5 tsf (144 kPa)",
+     "25"
+    ],
+    [
+     "B",
+     "0.5–1.5 tsf",
+     "45"
+    ],
+    [
+     "C",
+     "Below 0.5 tsf (48 kPa)",
+     "80"
+    ]
+   ]
+  }
+ ],
+ "soil-class-010": [
+  {
+   "type": "scale",
+   "caption": "Soil temperature regimes are bands of mean annual soil temperature.",
+   "sent_ids": [
+    "ec274e5755c6",
+    "163d09a1b773",
+    "4314dc64fb89",
+    "a326f6269286",
+    "c6a68149b88e",
+    "4396600093fa"
+   ],
+   "axis": "Mean annual soil temperature, °C",
+   "ranges": [
+    [
+     -8,
+     -4,
+     "Pergelic"
+    ],
+    [
+     0,
+     8,
+     "Frigid"
+    ],
+    [
+     8,
+     15,
+     "Mesic"
+    ],
+    [
+     15,
+     22,
+     "Thermic"
+    ]
+   ],
+   "marks": [
+    [
+     22,
+     "Hyperthermic above"
+    ]
+   ]
+  }
+ ],
+ "soil-class-089": [
+  {
+   "type": "bar",
+   "caption": "Entisols cover the largest share of global ice-free land and Andisols the smallest.",
+   "sent_ids": [
+    "4fe0f587ba75",
+    "e699c6876eae",
+    "77876d361769",
+    "7dc135f4af9e",
+    "9e120addd9e8"
+   ],
+   "unit": "% of global ice-free land",
+   "bars": [
+    [
+     "Entisols",
+     16.3
+    ],
+    [
+     "Aridisols",
+     12.7
+    ],
+    [
+     "Inceptisols",
+     9.9
+    ],
+    [
+     "Alfisols",
+     9.6
+    ],
+    [
+     "Andisols",
+     0.7
+    ]
+   ]
+  },
+  {
+   "type": "flow",
+   "caption": "The orders form a sequence of increasing development.",
+   "sent_ids": [
+    "e01517390c8f",
+    "1a2d087c7e76"
+   ],
+   "mermaid": "flowchart TD\nA[Entisols] --> B[Inceptisols] --> C[Aridisols] --> D[Mollisols]\nD --> E[Alfisols] --> F[Spodosols] --> G[Ultisols] --> H([Oxisols])"
+  }
+ ],
+ "soil-class-098": [
+  {
+   "type": "table",
+   "caption": "Histosol suborders follow the decomposition of their materials.",
+   "sent_ids": [
+    "cfa3c111ead3",
+    "d8bd5cb96250",
+    "8447b37fe102",
+    "c991841dcf9f"
+   ],
+   "header": [
+    "Material",
+    "Name",
+    "Suborder"
+   ],
+   "rows": [
+    [
+     "Muck",
+     "Sapric",
+     "Saprists"
+    ],
+    [
+     "Mucky peat",
+     "Hemic",
+     "Hemists"
+    ],
+    [
+     "Peat",
+     "Fibric",
+     "Fibrists"
+    ]
+   ]
+  }
+ ],
+ "soil-bio-072": [
+  {
+   "type": "flow",
+   "caption": "Ammonia fungi follow one another as soil pH falls.",
+   "sent_ids": [
+    "0b5e8c198658",
+    "af292bb902f1",
+    "200c025bf840",
+    "e65aeb7fef09"
+   ],
+   "mermaid": "flowchart TD\nA[Anamorphic fungi, pH above 8] -->|pH to 7| B[Cup fungi]\nB -->|pH 6| C[Small basidiomycetes]\nC -->|pH 3.5-6.0| D([Late-phase agarics])"
+  }
+ ],
+ "soil-bio-178": [
+  {
+   "type": "cycle",
+   "caption": "Rhizobia cycle between free life in soil and nitrogen fixing in nodules.",
+   "sent_ids": [
+    "e4b3e804cdd8",
+    "18064c581061",
+    "22ef9dfdfd0e"
+   ],
+   "steps": [
+    [
+     "Free-living in soil",
+     "infect legume"
+    ],
+    [
+     "Inside root nodules",
+     "fix N2 to ammonia"
+    ],
+    [
+     "Legume dies",
+     "nodules break down"
+    ]
+   ]
+  }
+ ],
+ "soil-chem-128": [
+  {
+   "type": "table",
+   "caption": "Different electron acceptors give different anaerobic products.",
+   "sent_ids": [
+    "9937bed85fd7",
+    "ff04875913bc",
+    "27a9656e2aec",
+    "10787d8f84b8"
+   ],
+   "header": [
+    "Process",
+    "Product"
+   ],
+   "rows": [
+    [
+     "Denitrification (nitrate)",
+     "Nitrogen gas"
+    ],
+    [
+     "Sulfate reduction",
+     "Hydrogen sulfide"
+    ],
+    [
+     "Methanogenesis",
+     "Methane"
+    ]
+   ]
+  }
+ ],
+ "soil-bio-051": [
+  {
+   "type": "flow",
+   "caption": "Biofilm development runs through five stages.",
+   "sent_ids": [
+    "ebdf63f54417",
+    "f826d3756c92",
+    "8e11d0ffd9e4",
+    "5a642cb488f7"
+   ],
+   "mermaid": "flowchart TD\nA[1. Reversible attachment] --> B[2. Irreversible attachment]\nB --> C[3-4. Maturation into micro-colonies]\nC --> D[5. Dispersal]\nD -->|colonize new surfaces| A"
+  }
+ ],
+ "soil-class-115": [
+  {
+   "type": "table",
+   "caption": "The table shows when each soil order appears in the fossil record.",
+   "sent_ids": [
+    "3f06a476710a",
+    "6a36967990b6",
+    "b89aeba061c2",
+    "91d6f0de3b38",
+    "3996e2d479c1",
+    "5155fb315eb6",
+    "65d53375ca3f"
+   ],
+   "header": [
+    "Soil order",
+    "In the record"
+   ],
+   "rows": [
+    [
+     "Vertisols, Aridisols",
+     "Continuous from the Paleoproterozoic"
+    ],
+    [
+     "Histosols",
+     "Devonian"
+    ],
+    [
+     "Alfisols, Ultisols",
+     "Late Devonian, early Carboniferous"
+    ],
+    [
+     "Mollisols",
+     "From the Miocene, with grasslands"
+    ],
+    [
+     "Gelisols",
+     "Only in times of wide glaciation"
+    ]
+   ]
+  }
+ ],
+ "soil-class-102": [
+  {
+   "type": "table",
+   "caption": "The seven Mollisol suborders are set by moisture and temperature regimes.",
+   "sent_ids": [
+    "f2e0bd782f55",
+    "a918748ff2d9",
+    "9a6c6cc06807",
+    "09f327c173b3",
+    "168400954238",
+    "5e7bd16fceba",
+    "559d688392b3"
+   ],
+   "header": [
+    "Suborder",
+    "Defining regime"
+   ],
+   "rows": [
+    [
+     "Albolls",
+     "Aquic, with eluvial horizon"
+    ],
+    [
+     "Aquolls",
+     "Aquic (wet)"
+    ],
+    [
+     "Cryolls",
+     "Frigid or cryic"
+    ],
+    [
+     "Gelolls",
+     "Soil below 0 °C"
+    ],
+    [
+     "Udolls",
+     "Udic (humid)"
+    ],
+    [
+     "Ustolls",
+     "Ustic (subhumid)"
+    ],
+    [
+     "Xerolls",
+     "Xeric (Mediterranean)"
+    ]
+   ]
+  }
+ ],
+ "soil-class-107": [
+  {
+   "type": "table",
+   "caption": "Vertisol suborders differ in wetness, temperature, crack timing and where they are most extensive.",
+   "sent_ids": [
+    "4166248f8d00",
+    "69002f18ff41",
+    "4b8002da74ce",
+    "5b3292320d9c",
+    "f10d4f3ce59c",
+    "453c3ad53aaf",
+    "08ffeea9c9c9",
+    "4cbfe99d3e3d",
+    "d00de457b1d0",
+    "3ba654d947fc"
+   ],
+   "header": [
+    "Suborder",
+    "Key trait",
+    "Where"
+   ],
+   "rows": [
+    [
+     "Aquerts",
+     "Aquic, redoximorphic",
+     "—"
+    ],
+    [
+     "Cryerts",
+     "Cryic regime",
+     "Canadian Prairies"
+    ],
+    [
+     "Xererts",
+     "Cracks open in summer",
+     "E. Mediterranean, California"
+    ],
+    [
+     "Usterts",
+     "Cracks open 90+ days",
+     "Most extensive worldwide"
+    ],
+    [
+     "Torrerts",
+     "—",
+     "Most extensive in Australia"
+    ],
+    [
+     "Uderts",
+     "Cracks open under 90 days",
+     "Uruguay, eastern Argentina"
+    ]
+   ]
+  }
+ ],
+ "soil-class-116": [
+  {
+   "type": "bar",
+   "caption": "Mollisols lead the estimated shares of U.S. land, while Oxisols barely register.",
+   "sent_ids": [
+    "5f5f2c76ad48",
+    "58a446d93cbe",
+    "23010c09cb7d",
+    "e2e19164ecd4",
+    "f895a135d6be",
+    "cc1e4a80ffb5",
+    "3f7df28502fb"
+   ],
+   "unit": "% of U.S. land",
+   "bars": [
+    [
+     "Mollisols",
+     21.5
+    ],
+    [
+     "Alfisols",
+     14
+    ],
+    [
+     "Entisols",
+     12.3
+    ],
+    [
+     "Inceptisols",
+     9.7
+    ],
+    [
+     "Ultisols",
+     9.2
+    ],
+    [
+     "Oxisols",
+     0.02
+    ]
+   ]
+  }
+ ],
+ "soil-class-097": [
+  {
+   "type": "table",
+   "caption": "The three Gelisol suborders differ in organic content and how much frost churning they show.",
+   "sent_ids": [
+    "cf53633af839",
+    "d79b50215e50",
+    "e30ee501a3e1",
+    "df2247c67920",
+    "c9ec2aa1b4a6",
+    "b777d8584a6f"
+   ],
+   "header": [
+    "Suborder",
+    "Key trait",
+    "Where"
+   ],
+   "rows": [
+    [
+     "Histels",
+     "80%+ organic in top 50 cm",
+     "Subarctic, low-arctic"
+    ],
+    [
+     "Turbels",
+     "Cryoturbation over a third of active layer",
+     "Continuous permafrost"
+    ],
+    [
+     "Orthels",
+     "Cryoturbation under a third",
+     "Discontinuous permafrost, alpine"
+    ]
+   ]
+  }
+ ],
+ "soil-class-138": [
+  {
+   "type": "layers",
+   "caption": "A podzol profile runs from decomposing litter through a bleached E horizon to a red-brown B horizon.",
+   "sent_ids": [
+    "9ae7e4261f31",
+    "f7dbd67a4f71",
+    "600d096d6541",
+    "ce8aa1836473"
+   ],
+   "layers": [
+    [
+     "Litter",
+     "5 to 10 cm, decomposing"
+    ],
+    [
+     "E horizon",
+     "4 to 8 cm, ash-grey, leached"
+    ],
+    [
+     "B horizon",
+     "Red or red-brown, enriched"
+    ],
+    [
+     "Ortstein",
+     "Hardpan, sometimes"
+    ]
+   ]
+  },
+  {
+   "type": "flow",
+   "caption": "Podzolization carries chelates from the E horizon down to the B horizon.",
+   "sent_ids": [
+    "cf5ec65d1a84",
+    "06b5f29e49ac",
+    "ce8aa1836473"
+   ],
+   "mermaid": "flowchart TD\nA[Organic matter, iron, aluminium] -->|form| B[Chelates]\nB -->|percolating water| C[Leave E horizon]\nC --> D[Build up in B horizon]\nD -.->|sometimes| E[Ortstein hardpan]"
+  }
+ ],
+ "soil-class-143": [
+  {
+   "type": "flow",
+   "caption": "In Canada, leaching takes saline parent material through three stages.",
+   "sent_ids": [
+    "7e8c1113fe1e",
+    "8e11f1737446"
+   ],
+   "mermaid": "flowchart LR\nA[Saline parent material] -->|leaching| B[Solonetz]\nB --> C[Solodized Solonetz]\nC --> D[Solod]"
+  }
+ ],
+ "soil-class-119": [
+  {
+   "type": "flow",
+   "caption": "The kind of tephra and the climate decide which Andosol forms.",
+   "sent_ids": [
+    "3af383d13224",
+    "250c44859b42",
+    "2c74df5bf042",
+    "27e3d57ebcf1",
+    "7eda9e714364"
+   ],
+   "mermaid": "flowchart TD\nA[Glass-rich tephra] --> B[Vitric Andosol]\nB -->|glass weathers| C{Acidic tephra, humid climate?}\nC -->|yes| D[Aluandic: Al-organic complexes]\nC -->|no: basic or dry| E[Silandic: allophane, imogolite]"
+  }
+ ],
+ "soil-class-141": [
+  {
+   "type": "flow",
+   "caption": "A short key separates the five argic soil groups.",
+   "sent_ids": [
+    "707d3e6765ef",
+    "de38418d582f",
+    "138bb11bb80e",
+    "58c1c45e90ac",
+    "50349ed5a516",
+    "00e5eaf7eebe"
+   ],
+   "mermaid": "flowchart TD\nA[Argic horizon] --> B{Retic?}\nB -->|yes| R[Retisol]\nB -->|no| C{Clay activity?}\nC -->|low| D{More Al?}\nC -->|high| E{Al dominant?}\nD -->|yes| AC[Acrisol]\nD -->|no| LX[Lixisol]\nE -->|yes| AL[Alisol]\nE -->|no| LV[Luvisol]"
+  }
+ ],
+ "soil-class-071": [
+  {
+   "type": "cycle",
+   "caption": "Peat and sphagnum keep their own wetland wet, so it expands.",
+   "sent_ids": [
+    "1b4d7924b00a",
+    "ad95822cea0c",
+    "38c2b63fffe5",
+    "ecb63b2d20a6"
+   ],
+   "steps": [
+    [
+     "Peat accumulates",
+     "holds water"
+    ],
+    [
+     "Conditions get wetter",
+     "wetland grows"
+    ],
+    [
+     "Wetland expands",
+     "more bog plants"
+    ]
+   ],
+   "center": "Peat feedback"
+  },
+  {
+   "type": "bar",
+   "caption": "Northern peatlands hold far more carbon than tropical or South American ones.",
+   "sent_ids": [
+    "2d149e0d1adf"
+   ],
+   "unit": "Gt carbon",
+   "bars": [
+    [
+     "Northern",
+     415
+    ],
+    [
+     "Tropical",
+     50
+    ],
+    [
+     "South American",
+     15
+    ]
+   ]
+  }
+ ],
+ "soil-fert-158": [
+  {
+   "type": "tree",
+   "caption": "Soil laboratories group nutrients as major, secondary and minor.",
+   "sent_ids": [
+    "425ca565b93e",
+    "f796d3b07eae",
+    "b8c48ffc509f",
+    "fadaca5ae012"
+   ],
+   "root": "Soil nutrients",
+   "children": {
+    "Major": {
+     "N, P, K": null
+    },
+    "Secondary": {
+     "S, Ca, Mg": null
+    },
+    "Minor": {
+     "Fe, Mn, Cu, Zn, B, Mo, Cl": null
+    }
+   }
+  }
+ ],
+ "soil-fert-163": [
+  {
+   "type": "table",
+   "caption": "Where deficiency symptoms first show depends on the nutrient.",
+   "sent_ids": [
+    "e87bd7d2f76f",
+    "d0ad7ea7f0c6",
+    "13e37f3f23f1"
+   ],
+   "header": [
+    "Nutrient",
+    "Symptoms show on"
+   ],
+   "rows": [
+    [
+     "Iron, manganese, copper",
+     "New growth"
+    ],
+    [
+     "Molybdenum",
+     "Older growth"
+    ],
+    [
+     "Potassium",
+     "Older tissues first"
+    ],
+    [
+     "Zinc",
+     "Old and new leaves"
+    ],
+    [
+     "Boron",
+     "Terminal buds"
+    ]
+   ]
+  }
+ ],
+ "soil-fert-184": [
+  {
+   "type": "scale",
+   "caption": "C:N ratios of microbes and residues spread across a wide range.",
+   "log": true,
+   "axis": "C:N ratio",
+   "sent_ids": [
+    "c18244947159",
+    "229c5ec54c6c",
+    "fb3350187067",
+    "528f1a5427e2",
+    "a20036b77780",
+    "50ece22a970e"
+   ],
+   "marks": [
+    [
+     4,
+     "Bacteria"
+    ],
+    [
+     10,
+     "Microbes"
+    ],
+    [
+     13,
+     "Alfalfa"
+    ],
+    [
+     24,
+     "High activity"
+    ],
+    [
+     80,
+     "Oat straw"
+    ],
+    [
+     250,
+     "Sawdust"
+    ]
+   ]
+  }
+ ],
+ "soil-fert-170": [
+  {
+   "type": "table",
+   "caption": "For corn, mass flow and diffusion each supply most of different nutrients.",
+   "sent_ids": [
+    "fa128aaa24d2",
+    "d9223718aff0",
+    "2bd58c8bc0e6",
+    "45ee23a5d224",
+    "5b8baa02074b"
+   ],
+   "header": [
+    "Nutrient",
+    "Main route",
+    "Share"
+   ],
+   "rows": [
+    [
+     "Nitrogen",
+     "Mass flow",
+     "98.8%"
+    ],
+    [
+     "Sulfur",
+     "Mass flow",
+     "95.0%"
+    ],
+    [
+     "Phosphorus",
+     "Diffusion",
+     "90.9%"
+    ],
+    [
+     "Potassium",
+     "Diffusion",
+     "77.7%"
+    ]
+   ]
+  }
+ ],
+ "soil-fert-173": [
+  {
+   "type": "table",
+   "caption": "Nitrogen escapes soil by three routes under different conditions.",
+   "sent_ids": [
+    "c5c74a21f79d",
+    "9981cced4b15",
+    "2072543a3e9e",
+    "38de0cbe40d7",
+    "78d08491c754",
+    "d5b802e9c74e"
+   ],
+   "header": [
+    "Route",
+    "Form lost",
+    "Where worst",
+    "Loss"
+   ],
+   "rows": [
+    [
+     "Leaching",
+     "Nitrate",
+     "Heavy fertilizer use",
+     "—"
+    ],
+    [
+     "Denitrification",
+     "N2 or N2O",
+     "Poorly aerated clay",
+     "Up to 25%"
+    ],
+    [
+     "Volatilization",
+     "Ammonia gas",
+     "Alkaline soils",
+     "Up to 87%"
+    ]
+   ]
+  }
+ ],
+ "soil-fert-099": [
+  {
+   "type": "cycle",
+   "caption": "The nitrogen cycle runs through four main steps.",
+   "sent_ids": [
+    "e853011a8d9c",
+    "e41d6b390134"
+   ],
+   "steps": [
+    "Fixation",
+    "Ammonification",
+    "Nitrification",
+    "Denitrification"
+   ],
+   "center": "Nitrogen cycle"
+  }
+ ],
+ "soil-fert-100": [
+  {
+   "type": "flow",
+   "caption": "Nitrogen gas becomes usable nitrogen by three routes.",
+   "sent_ids": [
+    "8d8a81716cd6",
+    "a3a476f10961",
+    "c076c54b0616",
+    "28070efc2d99",
+    "61b6490017b2",
+    "7a050f8f3146"
+   ],
+   "mermaid": "flowchart TD\nA[Nitrogen gas in air] -->|nitrogenase, diazotrophs| D[Usable nitrogen]\nA -->|lightning| B[Nitrous, nitric acids]\nB -->|seep into soil| D\nA -->|Haber-Bosch| D"
+  }
+ ],
+ "soil-fert-127": [
+  {
+   "type": "flow",
+   "caption": "Phosphorus moves from rock through soil and life to the deep sea.",
+   "sent_ids": [
+    "24874b264a91",
+    "fb3011798857",
+    "179e0ce68a36",
+    "46bc22279ba5",
+    "c8ca067c3dd2"
+   ],
+   "mermaid": "flowchart TD\nA[Phosphate rock, apatite] -->|uplift, weathering| B[Soil phosphate]\nB -->|uptake| C[Plants]\nB -->|washes out| D[Rivers and lakes]\nD --> E[Ocean]\nE -->|about 1% buried| F[Deep-sea sediments]"
+  }
+ ],
+ "soil-fert-133": [
+  {
+   "type": "cycle",
+   "caption": "Microbes and plants shuttle sulfur between sulfate, organic sulfur and sulfide.",
+   "sent_ids": [
+    "03278ee65da4",
+    "8ae677b311bb",
+    "ff6c8aae7fbd",
+    "e3a2a8194428",
+    "c5bbb76d8502"
+   ],
+   "steps": [
+    [
+     "Sulfate",
+     "taken up, reduced"
+    ],
+    [
+     "Organic sulfur",
+     "decomposition"
+    ],
+    [
+     "Sulfide, elemental S",
+     "oxidizers"
+    ]
+   ],
+   "center": "Sulfur cycle"
+  }
+ ],
+ "soil-fert-121": [
+  {
+   "type": "scale",
+   "caption": "The residue's C:N ratio decides whether nitrogen is released or immobilized.",
+   "axis": "C:N ratio of residue",
+   "sent_ids": [
+    "2c549f525dfa",
+    "423187c7f159",
+    "8c29f9ced60a"
+   ],
+   "marks": [
+    [
+     25,
+     "Below: N released"
+    ],
+    [
+     30,
+     "Above: N immobilized"
+    ]
+   ]
+  }
+ ],
+ "soil-fert-139": [
+  {
+   "type": "cycle",
+   "caption": "Calcium moves from rock to soil, through plants, and back via decomposers.",
+   "sent_ids": [
+    "2a4075672eea",
+    "ab3392898f75",
+    "a40d62fb2397",
+    "1994a1b998e8",
+    "c9f09102b9af"
+   ],
+   "steps": [
+    [
+     "Lime in rock",
+     "carbonic acid dissolves"
+    ],
+    [
+     "Ca2+ in soil",
+     "roots absorb"
+    ],
+    [
+     "Plants",
+     "die"
+    ],
+    [
+     "Decomposers",
+     "return to soil"
+    ]
+   ]
+  }
+ ],
+ "soil-fert-112": [
+  {
+   "type": "flow",
+   "caption": "Nitrification oxidizes ammonia to nitrate in two steps.",
+   "sent_ids": [
+    "58df98640a6f",
+    "a0a1e5fb9a3b",
+    "603cbcb09009",
+    "ad0aadc21d71",
+    "4da5b0204b01",
+    "c71ca80d7fde"
+   ],
+   "mermaid": "flowchart LR\nA[Ammonia or ammonium] -->|nitritation| B[Nitrite]\nB -->|nitratation| C[Nitrate]\nC -->|not held by soil| D[Leaching risk]"
+  }
+ ],
+ "soil-fert-104": [
+  {
+   "type": "flow",
+   "caption": "The Haber–Bosch process joins air nitrogen and hydrogen into ammonia, recycling unused gas.",
+   "sent_ids": [
+    "ba78068666b2",
+    "64b658384ff1",
+    "e42dfa8c3d23",
+    "0d922783822f"
+   ],
+   "mermaid": "flowchart LR\nA[Nitrogen from air] --> C[Iron catalyst]\nB[Hydrogen from natural gas] --> C\nC --> D[Ammonia]\nC -->|unused gas| C\nD --> E[Nitrogen fertilizer]"
+  }
+ ],
+ "soil-fert-108": [
+  {
+   "type": "flow",
+   "caption": "Denitrification reduces nitrate step by step to nitrogen gas.",
+   "sent_ids": [
+    "25a35f58c5e6",
+    "98ba700cd506"
+   ],
+   "mermaid": "flowchart LR\nA[Nitrate] --> B[Nitrite] --> C[Nitric oxide] --> D[Nitrous oxide] --> E[Nitrogen gas]"
+  }
+ ],
+ "soil-fert-128": [
+  {
+   "type": "flow",
+   "caption": "Weathering frees phosphorus from apatite, but most of it is soon locked up again.",
+   "sent_ids": [
+    "1569d03b17a1",
+    "3a759614bd73",
+    "2b002a39f991",
+    "1756e6cc943c"
+   ],
+   "mermaid": "flowchart TD\nA[Apatite] -->|carbonation| B[Released phosphorus]\nB -->|a little| C[Living things]\nB -->|mostly| D[Reacts with soil minerals]\nD --> E[Insoluble, unavailable forms]"
+  }
+ ],
+ "soil-fert-117": [
+  {
+   "type": "table",
+   "caption": "The microbial nature of nitrification was worked out between 1862 and 1891.",
+   "sent_ids": [
+    "f0a3a1474489",
+    "1694fb7a213d",
+    "d02dbaee4195",
+    "b4b73b674980",
+    "9744a321fd16",
+    "bb278f98fc90"
+   ],
+   "header": [
+    "Year",
+    "Step"
+   ],
+   "rows": [
+    [
+     "1862",
+     "Pasteur suggests a biological process"
+    ],
+    [
+     "1877",
+     "Schloesing and Müntz prove it microbial"
+    ],
+    [
+     "1878",
+     "Warington confirms in garden soil"
+    ],
+    [
+     "1879",
+     "Warington sees two steps"
+    ],
+    [
+     "1886",
+     "Munro confirms two steps"
+    ],
+    [
+     "1890",
+     "Franklands isolate a culture"
+    ],
+    [
+     "1891",
+     "Winogradsky succeeds"
+    ]
+   ]
+  }
+ ],
+ "soil-fert-109": [
+  {
+   "type": "flow",
+   "caption": "Nitrate reduced to ammonium stays available, while denitrified nitrate is lost as gas.",
+   "sent_ids": [
+    "4b6731633930",
+    "a7157531d536",
+    "87270c36315e",
+    "05af38686e59",
+    "84099088a0eb"
+   ],
+   "mermaid": "flowchart TD\nA[Nitrate] -->|DNRA| B[Nitrite]\nB --> C[Ammonium: stays bioavailable]\nA -->|denitrification| D[Nitrogen gas: lost]"
+  }
+ ],
+ "soil-fert-138": [
+  {
+   "type": "table",
+   "caption": "Almost all soil potassium is fixed in minerals; the readily absorbed form is a tiny share.",
+   "sent_ids": [
+    "c814472c5bdf",
+    "fcd7d41bef82",
+    "884d301d9484"
+   ],
+   "header": [
+    "Pool",
+    "Where held",
+    "Share of soil K"
+   ],
+   "rows": [
+    [
+     "Fixed",
+     "Feldspar, mica, illite",
+     "96–99%"
+    ],
+    [
+     "Exchangeable",
+     "On clay and organic matter",
+     "1–2%"
+    ],
+    [
+     "Solution",
+     "Dissolved; most readily absorbed",
+     "0.1–0.2%"
+    ]
+   ]
+  }
+ ],
+ "soil-fert-004": [
+  {
+   "type": "tree",
+   "caption": "Fertilizers are grouped by how many nutrients they supply and by origin.",
+   "sent_ids": [
+    "aeda00aa5582",
+    "c3cfbd3a6335",
+    "d6b1aa3ecc57",
+    "403e0d7f9f8a",
+    "09a812bcdb5e",
+    "8e881f576cf8",
+    "18e13df82187"
+   ],
+   "root": "Fertilizers",
+   "children": {
+    "By nutrients": {
+     "Straight (N, P or K)": null,
+     "Multinutrient": {
+      "NP": null,
+      "NPK compound": null,
+      "NPK blend": null
+     }
+    },
+    "By origin": {
+     "Inorganic": null,
+     "Organic": null
+    }
+   }
+  }
+ ],
+ "soil-fert-029": [
+  {
+   "type": "scale",
+   "caption": "Composting works best near a C:N of 25, between nitrogen loss and nitrogen starvation.",
+   "axis": "C:N ratio",
+   "sent_ids": [
+    "f67bf00f091f",
+    "a779802adc60",
+    "af425a8bc9aa",
+    "70c27a788d49"
+   ],
+   "marks": [
+    [
+     15,
+     "Below: loses N"
+    ],
+    [
+     25,
+     "Most efficient"
+    ],
+    [
+     30,
+     "Above: N-starved"
+    ],
+    [
+     50,
+     "Dry leaves"
+    ]
+   ]
+  }
+ ],
+ "soil-fert-084": [
+  {
+   "type": "flow",
+   "caption": "Urease turns urea into ammonia, which escapes unless it becomes ammonium.",
+   "sent_ids": [
+    "5ef07a6fe2db",
+    "04b19b670e10",
+    "7cc14f4900ac",
+    "96451c911a25"
+   ],
+   "mermaid": "flowchart TD\nA[Urea on surface] -->|urease| B[Carbamic acid]\nB --> C[Ammonia + CO2]\nC -->|reacts with water| D[Ammonium: plants use]\nC -->|otherwise| E[Lost to air]"
+  }
+ ],
+ "soil-fert-094": [
+  {
+   "type": "table",
+   "caption": "The superphosphates differ in the acid used and their phosphate content.",
+   "sent_ids": [
+    "e63f77b64ae1",
+    "ac8d5937a6d2",
+    "7ca2f848aa77",
+    "db77973e6081",
+    "725a874c8873"
+   ],
+   "header": [
+    "Type",
+    "Made from",
+    "P2O5"
+   ],
+   "rows": [
+    [
+     "Single",
+     "Rock + sulfuric acid",
+     "20%"
+    ],
+    [
+     "Triple",
+     "Rock + phosphoric acid",
+     "45%"
+    ],
+    [
+     "Double",
+     "Mix of both",
+     "—"
+    ]
+   ]
+  }
+ ],
+ "soil-water-079": [
+  {
+   "type": "flow",
+   "caption": "Rain on land either runs off or soaks in, and soaked-in water takes several paths.",
+   "sent_ids": [
+    "dde4c3fa10e5",
+    "2dbf38356f05",
+    "466ec88a3b02",
+    "e39a38197999",
+    "a902cbf9f0c4",
+    "80ffabf653cd"
+   ],
+   "mermaid": "flowchart TD\nA[Rain on land] --> B[Surface runoff]\nA -->|infiltration| C[Soil moisture]\nC --> D[Seeps to streams]\nC --> E[Transpired by plants]\nC -->|deeper| F[Aquifer recharge]"
+  }
+ ],
+ "soil-water-255": [
+  {
+   "type": "table",
+   "caption": "Hydrologic soil groups run from A, which takes in water fastest, to D.",
+   "sent_ids": [
+    "8e8535684ef2",
+    "363693e3ba26",
+    "59b15d53a7be",
+    "807d257edae4",
+    "46afdb62f326",
+    "42dd8f109515",
+    "d14ec2149cff"
+   ],
+   "header": [
+    "Group",
+    "Infiltration (in/hr)",
+    "Typical soils",
+    "Runoff potential"
+   ],
+   "rows": [
+    [
+     "A",
+     "Above 0.30",
+     "Deep sands, gravels",
+     "Low"
+    ],
+    [
+     "B",
+     "0.15–0.30",
+     "—",
+     "—"
+    ],
+    [
+     "C",
+     "0.05–0.15",
+     "Impeding layer, fine",
+     "—"
+    ],
+    [
+     "D",
+     "—",
+     "Swelling clays, claypan",
+     "High"
+    ]
+   ]
+  }
+ ],
+ "soil-water-001": [
+  {
+   "type": "tree",
+   "caption": "Soil erosion is classed by the agent that drives it.",
+   "sent_ids": [
+    "f232fcbb982d"
+   ],
+   "root": "Soil erosion",
+   "children": {
+    "Water": null,
+    "Glacial": null,
+    "Snow": null,
+    "Wind (aeolian)": null,
+    "Zoogenic": null,
+    "Human-caused": {
+     "Tillage": null
+    }
+   }
+  }
+ ],
+ "soil-water-003": [
+  {
+   "type": "flow",
+   "caption": "Water erosion grows in severity from splash to gully.",
+   "sent_ids": [
+    "06cf1906534a",
+    "dbaa6beb3e08",
+    "f03971a37af4",
+    "5f659f1a2820"
+   ],
+   "mermaid": "flowchart LR\nA[Splash] --> B[Sheet]\nB --> C[Rill]\nC -->|rills deepen| D[Gully]"
+  }
+ ],
+ "soil-water-010": [
+  {
+   "type": "table",
+   "caption": "Saltation moves the most windblown soil, surface creep the least.",
+   "sent_ids": [
+    "154f68921ecb",
+    "eff0a25c1431"
+   ],
+   "header": [
+    "Mode",
+    "Motion",
+    "Share"
+   ],
+   "rows": [
+    [
+     "Saltation",
+     "Short bouncing hops",
+     "50–70%"
+    ],
+    [
+     "Suspension",
+     "Fine particles carried far",
+     "30–40%"
+    ],
+    [
+     "Surface creep",
+     "Rolling or sliding",
+     "5–25%"
+    ]
+   ]
+  }
+ ],
+ "soil-water-038": [
+  {
+   "type": "flow",
+   "caption": "Tillage erosion moves soil off hilltops and leaves poorer soil behind.",
+   "sent_ids": [
+    "7499f5ec4eef",
+    "0a382b5f0ca2",
+    "1ad0ae41327e",
+    "b03ba245a9ff",
+    "6ad0470f02f8"
+   ],
+   "mermaid": "flowchart TD\nA[Tillage moves soil] --> B[Hilltops lose topsoil]\nA --> C[Soil piles in hollows, banks]\nB --> D[Subsoil mixed into plough layer]\nD --> E[Lower crop productivity]\nD --> F[More erodible by water, wind]"
+  }
+ ],
+ "soil-water-058": [
+  {
+   "type": "table",
+   "caption": "Each landslide type moves in its own way, on typical slope angles.",
+   "sent_ids": [
+    "86cceb5872bd",
+    "923b5002bde9",
+    "e5f4dc89cd77",
+    "a59ba1048476",
+    "c6dd24059307",
+    "506517db3054",
+    "675e2ec8035d",
+    "21854a3871c1",
+    "e42d17221a21",
+    "aa8286420a5d"
+   ],
+   "header": [
+    "Type",
+    "Movement",
+    "Slope"
+   ],
+   "rows": [
+    [
+     "Fall",
+     "Free fall",
+     "45–90°"
+    ],
+    [
+     "Topple",
+     "Rotates from vertical face",
+     "45–90°"
+    ],
+    [
+     "Translational slide",
+     "Intact, planar surface",
+     "20–45°"
+    ],
+    [
+     "Rotational slide",
+     "Spoon-shaped surface",
+     "20–40°"
+    ],
+    [
+     "Spread",
+     "Cracks, extends sideways",
+     "—"
+    ],
+    [
+     "Flow",
+     "Fluidized material",
+     "—"
+    ],
+    [
+     "Slope deformation",
+     "Slow, distributed",
+     "—"
+    ]
+   ]
+  }
+ ],
+ "soil-water-075": [
+  {
+   "type": "flow",
+   "caption": "Drought and farming practices together left the High Plains soil open to the wind.",
+   "sent_ids": [
+    "0e5829790734",
+    "abe9a48bed34",
+    "5cf6965c21db",
+    "654d630f84c4",
+    "083a02d4d15a",
+    "a06bc77f1761"
+   ],
+   "mermaid": "flowchart TD\nA[Deep plowing, bare fields] --> D[Soil exposed]\nE[Drought: topsoil dried, crops fail] --> D\nD -->|wind| G[Dust storms]"
+  }
+ ],
+ "soil-water-272": [
+  {
+   "type": "cycle",
+   "caption": "Uplift exposes crust to denudation, and denudation's unloading allows more uplift.",
+   "sent_ids": [
+    "30a9e9165cb6",
+    "0aef2f1adbfe"
+   ],
+   "steps": [
+    [
+     "Tectonic uplift",
+     "exposes crust"
+    ],
+    [
+     "Weathering, erosion",
+     "removes material"
+    ],
+    [
+     "Lighter crust",
+     "allows"
+    ]
+   ]
+  }
+ ],
+ "soil-water-277": [
+  {
+   "type": "scale",
+   "caption": "The Rouse number sorts grains into bed load, suspended load and wash load.",
+   "axis": "Rouse number",
+   "log": false,
+   "sent_ids": [
+    "6bf9bb12f56f",
+    "881bbf542d28",
+    "d3e8a662fea7",
+    "8265d43a6f33",
+    "b3f3635ca734"
+   ],
+   "ranges": [
+    [
+     0,
+     0.8,
+     "Wash load"
+    ],
+    [
+     0.8,
+     2.5,
+     "Suspended load"
+    ],
+    [
+     2.5,
+     4,
+     "Bed load"
+    ]
+   ]
+  }
+ ],
+ "soil-water-072": [
+  {
+   "type": "flow",
+   "caption": "Quick clay formed in the sea, was lifted out, and lost its salt glue.",
+   "sent_ids": [
+    "64c4a43ea1bd",
+    "e86f2226c663",
+    "b4f16943da7e",
+    "5eca71ed03f1",
+    "0923ad712e84",
+    "54a1fc3d7fd3",
+    "9e9562cf7398"
+   ],
+   "mermaid": "flowchart TD\nA[Ice presses land down] --> B[Sea receives rock flour]\nB --> C[Flocculated skeleton, salt-ion glue]\nC -->|post-glacial rebound| D[Clay raised above sea]\nD -->|rainwater, snowmelt| E[Glue weakened]\nE --> F[Loose, water-rich clay]"
+  }
+ ],
+ "soil-water-124": [
+  {
+   "type": "tree",
+   "caption": "Wetlands come in four main kinds, two of them peatlands.",
+   "sent_ids": [
+    "efc9e2009c96",
+    "8e32c272b4da",
+    "c650901120ce"
+   ],
+   "root": "Wetlands",
+   "children": {
+    "Marsh (herbaceous)": null,
+    "Swamp (woody)": null,
+    "Peatlands (mires)": {
+     "Bog": null,
+     "Fen": null
+    }
+   }
+  }
+ ],
+ "soil-water-127": [
+  {
+   "type": "layers",
+   "caption": "Wetland soils pair a thin oxygenated layer with a reduced layer where nitrogen is cycled between them.",
+   "sent_ids": [
+    "1b6c5778b2de",
+    "20491b46c9ae",
+    "cdef26c01d75",
+    "bf18f1b3b840",
+    "ab357d269bf4",
+    "7a950affb260",
+    "03936d787170"
+   ],
+   "top": "Water",
+   "layers": [
+    [
+     "Oxygenated layer",
+     "Ammonium nitrified to nitrate"
+    ],
+    [
+     "Reduced layer",
+     "Denitrification, Mn, Fe, sulfate reduction, methanogenesis"
+    ]
+   ]
+  }
+ ],
+ "soil-water-138": [
+  {
+   "type": "layers",
+   "caption": "The water table divides peat into a zone where methane is oxidized and one where it is made.",
+   "sent_ids": [
+    "9f669df4eb90",
+    "53d3064f2866",
+    "39748d3bfe9a"
+   ],
+   "layers": [
+    [
+     "Above water table",
+     "Methanotrophs oxidize methane"
+    ],
+    [
+     "Below water table",
+     "Anoxic; methanogens make methane"
+    ]
+   ]
+  }
+ ],
+ "soil-form-128": [
+  {
+   "type": "table",
+   "caption": "The three classical models of hillslope evolution differ in how slopes change.",
+   "sent_ids": [
+    "7eea2a1a3df5",
+    "8dc85afabc64",
+    "488c4f2e379b",
+    "2d492384f285",
+    "18eb6131f262",
+    "e12b85d9c0eb"
+   ],
+   "header": [
+    "Model",
+    "Champion",
+    "How slopes change"
+   ],
+   "rows": [
+    [
+     "Slope decline",
+     "Davis",
+     "Angle falls gradually"
+    ],
+    [
+     "Slope replacement",
+     "Penck",
+     "Flattening from bottom up"
+    ],
+    [
+     "Parallel retreat",
+     "King",
+     "Needs constant rock strength"
+    ]
+   ]
+  }
+ ],
+ "soil-water-141": [
+  {
+   "type": "scale",
+   "caption": "Surface roughness classes span several orders of magnitude.",
+   "axis": "Vertical scale, mm",
+   "log": true,
+   "sent_ids": [
+    "381b9b42b3e9"
+   ],
+   "ranges": [
+    [
+     0.053,
+     2.0,
+     "Microrelief"
+    ],
+    [
+     2,
+     100,
+     "Clods"
+    ],
+    [
+     100,
+     300,
+     "Tillage"
+    ]
+   ]
+  }
+ ],
+ "soil-agri-025": [
+  {
+   "type": "table",
+   "caption": "Bernstein's classes divide soil salinity by ECe, with fewer crops thriving at each step.",
+   "sent_ids": [
+    "902ba0a8e8ac"
+   ],
+   "header": [
+    "ECe (dS/m)",
+    "Class",
+    "Crops"
+   ],
+   "rows": [
+    [
+     "0–2",
+     "Non-saline",
+     "—"
+    ],
+    [
+     "2–4",
+     "Slightly saline",
+     "Sensitive crops lose yield"
+    ],
+    [
+     "4–8",
+     "Moderately saline",
+     "—"
+    ],
+    [
+     "8–16",
+     "Saline",
+     "Only tolerant crops normal"
+    ],
+    [
+     "Above 16",
+     "—",
+     "Only very tolerant crops"
+    ]
+   ]
+  }
+ ],
+ "soil-agri-096": [
+  {
+   "type": "table",
+   "caption": "Primary and secondary tillage differ in depth, purpose and finish.",
+   "sent_ids": [
+    "65523a2b8dd4",
+    "21f5f0980b45",
+    "eace723b8812",
+    "cbd2fbd905a5",
+    "10a86209400e"
+   ],
+   "header": [
+    "",
+    "Primary",
+    "Secondary"
+   ],
+   "rows": [
+    [
+     "Depth",
+     "Deeper, more thorough",
+     "Shallower, more selective"
+    ],
+    [
+     "Example",
+     "Ploughing",
+     "Harrowing, cultivating"
+    ],
+    [
+     "Does",
+     "Loosens, mixes in material",
+     "Finer tilth, levels, controls weeds"
+    ],
+    [
+     "Surface",
+     "Rough",
+     "Smooth seedbed"
+    ]
+   ]
+  }
+ ],
+ "soil-agri-114": [
+  {
+   "type": "flow",
+   "caption": "A common sequence takes a field from plough to a smooth surface.",
+   "sent_ids": [
+    "1471e7ba11f1",
+    "39ca521b20ca",
+    "c04ae296e671"
+   ],
+   "mermaid": "flowchart LR\nA[Mouldboard plough] --> B[Disk harrow slices clods]\nB --> C[Spring-tooth harrow]\nC -.->|fine or light soil| D[Roller]"
+  }
+ ],
+ "soil-agri-129": [
+  {
+   "type": "scale",
+   "caption": "The share of residue left on the surface defines the tillage system.",
+   "axis": "Residue cover, %",
+   "sent_ids": [
+    "7ef5cc935dea",
+    "58c40457b06d",
+    "a67ecd6fbf31"
+   ],
+   "ranges": [
+    [
+     0,
+     15,
+     "Intensive"
+    ],
+    [
+     15,
+     30,
+     "Reduced"
+    ]
+   ],
+   "marks": [
+    [
+     30,
+     "30+: Conservation"
+    ]
+   ]
+  }
+ ],
+ "soil-agri-117": [
+  {
+   "type": "bar",
+   "caption": "Land under no-till more than doubled between 1999 and 2009.",
+   "sent_ids": [
+    "23c4f681aa15"
+   ],
+   "unit": "million ha",
+   "bars": [
+    [
+     "1999",
+     45
+    ],
+    [
+     "2003",
+     72
+    ],
+    [
+     "2009",
+     111
+    ]
+   ]
+  }
+ ],
+ "soil-agri-066": [
+  {
+   "type": "bar",
+   "caption": "Cover crops raised several soil measures in field studies.",
+   "sent_ids": [
+    "faa535013d4b",
+    "2d16eb3785ee"
+   ],
+   "unit": "% increase",
+   "bars": [
+    [
+     "Saturated hydraulic conductivity",
+     106
+    ],
+    [
+     "Particulate organic carbon",
+     50
+    ],
+    [
+     "Topsoil nitrogen",
+     20
+    ],
+    [
+     "Microbial biomass carbon",
+     20
+    ],
+    [
+     "Topsoil organic carbon",
+     10
+    ]
+   ]
+  }
+ ],
+ "soil-agri-166": [
+  {
+   "type": "layers",
+   "caption": "The FAO scheme nests four categories, from most to least general.",
+   "sent_ids": [
+    "e148a81dcc18",
+    "71ccd20fa8b9",
+    "55043a455081",
+    "99206997e379",
+    "9871dbf5e0ec"
+   ],
+   "layers": [
+    [
+     "Orders",
+     "Kinds of suitability (S, N)"
+    ],
+    [
+     "Classes",
+     "Degrees of suitability"
+    ],
+    [
+     "Subclasses",
+     "Kinds of limitation"
+    ],
+    [
+     "Units",
+     "Minor management differences"
+    ]
+   ],
+   "top": "Most general",
+   "bottom": "Least general"
+  }
+ ],
+ "soil-agri-167": [
+  {
+   "type": "tree",
+   "caption": "Suitable and Not Suitable land each split into numbered classes.",
+   "sent_ids": [
+    "0b7c8fa70bcc",
+    "28ba317e99b6",
+    "d7ccd123f0e0",
+    "dc174c359ecc",
+    "a0b1e25d61f2",
+    "dd5d5050c2f6"
+   ],
+   "root": "FAO land suitability",
+   "children": {
+    "S: Suitable": {
+     "S1 highly": null,
+     "S2 moderately": null,
+     "S3 marginally": null
+    },
+    "N: Not suitable": {
+     "N1 not at today's cost": null,
+     "N2 rules out use": null
+    }
+   }
+  }
+ ],
+ "soil-meth-004": [
+  {
+   "type": "flow",
+   "caption": "Regression-kriging fits a trend, kriges what is left, and adds the two.",
+   "sent_ids": [
+    "0dc43145bc74",
+    "a533bdc6fa14",
+    "155914e80817"
+   ],
+   "mermaid": "flowchart TD\nA[Target + covariates] -->|least squares| B[Fitted trend]\nA --> C[Residuals]\nC -->|kriging| D[Interpolated residuals]\nB --> E[Prediction map]\nD -->|added back| E"
+  }
+ ],
+ "soil-env-102": [
+  {
+   "type": "tree",
+   "caption": "The carbon cycle is divided into five reservoirs.",
+   "sent_ids": [
+    "4c2dbc531e1d",
+    "5a2728994773",
+    "f25d77fb8299",
+    "b521c3327228",
+    "d7606fe5974e",
+    "cd25fcfea0d6"
+   ],
+   "root": "Carbon pools",
+   "children": {
+    "Atmosphere": null,
+    "Terrestrial biosphere": {
+     "Soils": null
+    },
+    "Ocean": null,
+    "Sediments": null,
+    "Earth's interior": null
+   }
+  }
+ ],
+ "soil-env-106": [
+  {
+   "type": "bar",
+   "caption": "Soil organic carbon is the largest of these land carbon stores.",
+   "sent_ids": [
+    "57c1bd2f5a62",
+    "6c9f84bc6a44"
+   ],
+   "unit": "GtC",
+   "bars": [
+    [
+     "Soil organic",
+     1550
+    ],
+    [
+     "Soil inorganic",
+     950
+    ],
+    [
+     "Peat and wetlands",
+     150
+    ],
+    [
+     "Surface litter",
+     50
+    ]
+   ]
+  }
+ ],
+ "soil-env-108": [
+  {
+   "type": "scale",
+   "caption": "Most upland topsoils fall in a narrow band of organic carbon content.",
+   "axis": "Organic carbon, %",
+   "log": true,
+   "sent_ids": [
+    "e27c6c933735",
+    "f14e8562ef1c",
+    "e664e95d3565"
+   ],
+   "ranges": [
+    [
+     0.5,
+     3.0,
+     "Most upland topsoils"
+    ]
+   ],
+   "ends": [
+    "Under 0.5: deserts",
+    ""
+   ],
+   "marks": [
+    [
+     12,
+     "Organic soils: 12 to 18+"
+    ]
+   ]
+  }
+ ],
+ "soil-env-154": [
+  {
+   "type": "flow",
+   "caption": "Carbon moves into permafrost by burial and leaves it mainly by microbial respiration.",
+   "sent_ids": [
+    "94a358e0c15a",
+    "95963f4fc29e",
+    "20f2bbf16d8b",
+    "ac55a55a24ed"
+   ],
+   "mermaid": "flowchart TD\nA[Plants] --> B[Soil carbon]\nB -->|burial, cryogenic processes| C[Permafrost carbon]\nC -->|microbial respiration| D[Air: CO2, methane]\nD --> A\nC -.-> E[Ocean, wider cycle]"
+  }
+ ],
+ "soil-env-146": [
+  {
+   "type": "layers",
+   "caption": "The active layer thaws each summer above the year-round frozen permafrost.",
+   "sent_ids": [
+    "1fd629fff70f",
+    "42e68ff77af1",
+    "6d9f3ac4476d",
+    "2c948e62d451",
+    "6849a9624f9f",
+    "52d80754e32c"
+   ],
+   "top": "Surface",
+   "layers": [
+    [
+     "Active layer",
+     "Thaws in summer, freezes in autumn; roots here"
+    ],
+    [
+     "Permafrost table",
+     "Boundary"
+    ],
+    [
+     "Permafrost (inactive layer)",
+     "Frozen year-round; water cannot drain"
+    ]
+   ]
+  }
+ ],
+ "soil-env-103": [
+  {
+   "type": "table",
+   "caption": "The fast and slow carbon cycles differ in route and timescale.",
+   "sent_ids": [
+    "0fc6b1a87250",
+    "7fc0c449e585",
+    "1b4e0cb3dae6",
+    "69debea301ed",
+    "60719d6cc7a4"
+   ],
+   "header": [
+    "",
+    "Fast cycle",
+    "Slow cycle"
+   ],
+   "rows": [
+    [
+     "Runs through",
+     "Living things",
+     "Rocks"
+    ],
+    [
+     "Timescale",
+     "Years to decades",
+     "Millions of years"
+    ],
+    [
+     "Driven by",
+     "Photosynthesis, growth, decay",
+     "Weathering, degassing, rivers"
+    ]
+   ]
+  }
+ ],
+ "soil-env-130": [
+  {
+   "type": "table",
+   "caption": "Permafrost zones are defined by the share of land underlain by permafrost.",
+   "sent_ids": [
+    "9a0f3ca38b28",
+    "e2d0ae0feda5",
+    "938448575e81"
+   ],
+   "header": [
+    "Zone",
+    "Land underlain"
+   ],
+   "rows": [
+    [
+     "Continuous",
+     "90%–100%"
+    ],
+    [
+     "Discontinuous",
+     "50%–90%"
+    ],
+    [
+     "Sporadic",
+     "10%–50%"
+    ],
+    [
+     "Isolated",
+     "10% or less"
+    ]
+   ]
+  }
+ ],
+ "soil-env-114": [
+  {
+   "type": "cycle",
+   "caption": "Warming speeds soil respiration, releasing carbon that adds to warming.",
+   "sent_ids": [
+    "2ed846ed78ef",
+    "35db78dfd89d",
+    "9f6b5afd403b"
+   ],
+   "steps": [
+    [
+     "Global warming",
+     "speeds"
+    ],
+    [
+     "Soil respiration",
+     "releases"
+    ],
+    [
+     "Soil carbon to air",
+     "adds to"
+    ]
+   ],
+   "center": "Feedback"
+  }
+ ],
+ "soil-env-140": [
+  {
+   "type": "cycle",
+   "caption": "Thaw releases carbon gases that warm the climate and drive more thaw.",
+   "sent_ids": [
+    "45f6148ed869",
+    "2f0a8e2ef892",
+    "d449878638ac"
+   ],
+   "steps": [
+    [
+     "Permafrost thaws",
+     "microbes respire"
+    ],
+    [
+     "CO2 and methane released",
+     "warm"
+    ],
+    [
+     "Climate warms",
+     "drives"
+    ]
+   ],
+   "center": "Permafrost carbon feedback"
+  }
+ ],
+ "soil-env-126": [
+  {
+   "type": "flow",
+   "caption": "Silicate weathering moves CO2 from the air into ocean carbonate.",
+   "sent_ids": [
+    "972754fa98a6",
+    "921862e38e93",
+    "e277da33ce4e",
+    "58ce1dfb591a"
+   ],
+   "mermaid": "flowchart TD\nA[Atmospheric CO2] -->|rain, groundwater| B[Carbonic acid]\nB -->|dissolves silicates| C[Dissolved bicarbonate]\nC -->|soil, groundwater| D[Ocean]\nD -->|organisms| E[Carbonate shells]"
+  }
+ ],
+ "soil-env-067": [
+  {
+   "type": "scale",
+   "caption": "Degradation classes are set by how much yield potential is lost.",
+   "axis": "Loss of yield potential, %",
+   "sent_ids": [
+    "d1c06f46a2a3",
+    "b9ea5ea07d72"
+   ],
+   "ranges": [
+    [
+     0,
+     10,
+     "Slight"
+    ],
+    [
+     10,
+     50,
+     "Moderate"
+    ]
+   ],
+   "marks": [
+    [
+     50,
+     "Over 50: severe"
+    ]
+   ]
+  }
+ ],
+ "soil-env-077": [
+  {
+   "type": "bar",
+   "caption": "Drylands cover two-thirds of Africa but much less of other regions.",
+   "sent_ids": [
+    "af37f5772f34"
+   ],
+   "unit": "% of land that is dryland",
+   "bars": [
+    [
+     "Africa",
+     66
+    ],
+    [
+     "Asia",
+     40
+    ],
+    [
+     "Europe",
+     24
+    ],
+    [
+     "Latin America",
+     15
+    ]
+   ]
+  }
+ ],
+ "soil-env-072": [
+  {
+   "type": "flow",
+   "caption": "Losing vegetation sets off the chain that turns fertile land into hardpan.",
+   "sent_ids": [
+    "e8c0b4138162",
+    "738a1505f2c5",
+    "7b275dbff710"
+   ],
+   "mermaid": "flowchart TD\nA[Drought, overgrazing, tillage, deforestation] --> B[Most vegetation lost]\nB --> C[Dry topsoil unprotected]\nC -->|wind, flash floods| D[Topsoil removed]\nD --> E[Infertile lower layers bake]\nE --> F[Unproductive hardpan]"
+  }
+ ],
+ "soil-env-078": [
+  {
+   "type": "cycle",
+   "caption": "Desertification feeds dust storms, and dust can in turn worsen desertification.",
+   "sent_ids": [
+    "6a221e74d2b3",
+    "fc77ea2d0ebd",
+    "7783e443c1a8",
+    "18007dda8705",
+    "656a243e1aa5"
+   ],
+   "steps": [
+    [
+     "Desertification",
+     "more loose material"
+    ],
+    [
+     "Dust storms",
+     "dust warms air"
+    ],
+    [
+     "Shorter cloud life",
+     "less rain"
+    ],
+    [
+     "Reduced rainfall",
+     "worsens"
+    ]
+   ]
+  }
+ ],
+ "soil-env-098": [
+  {
+   "type": "flow",
+   "caption": "Grassland degrades through three stages toward bare black soil.",
+   "sent_ids": [
+    "a37d27ca42b4",
+    "1da4fe74d4e7",
+    "261ce3284007",
+    "0b4d304ffe8a",
+    "8ad2879a4c6a"
+   ],
+   "mermaid": "flowchart TD\nA[Light: scattered dead patches] --> B[Moderate: patches grow, pests]\nB --> C[High: vast dead grass]\nC -.->|severe| D[Heitutan: bare black soil]"
+  }
+ ],
+ "soil-env-186": [
+  {
+   "type": "table",
+   "caption": "The four forms of soil degradation each harm the soil in a different way.",
+   "sent_ids": [
+    "e70fd4f6fc44",
+    "f3a1717b740b",
+    "01c1f60178cb",
+    "d0064ce51281",
+    "5fd05b3f0751",
+    "d8d521be09a1"
+   ],
+   "header": [
+    "Form",
+    "What happens",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Erosion",
+     "Soil displaced by water or wind",
+     "Bare fields"
+    ],
+    [
+     "Physical",
+     "Structure blocks water and air",
+     "Compaction by vehicles"
+    ],
+    [
+     "Chemical",
+     "Contamination, acidification, salinization",
+     "Heavy metals"
+    ],
+    [
+     "Biological",
+     "Loss of biological activity",
+     "Fertilizer inhibits N-fixers"
+    ]
+   ]
+  }
+ ],
+ "soil-env-020": [
+  {
+   "type": "flow",
+   "caption": "Excess nutrients lead from algal blooms to oxygen loss and dead fish.",
+   "sent_ids": [
+    "61595629d8fc",
+    "64c8247f8aad",
+    "2241619fe20d",
+    "1587214b970f"
+   ],
+   "mermaid": "flowchart TD\nA[Excess nutrients] --> B[Algal bloom]\nB --> C[Bottom plants shaded out]\nB -->|algae die| D[Bacteria decompose them]\nD --> E[Oxygen used up]\nE --> F[Fish, invertebrates die]"
+  }
+ ],
+ "soil-env-013": [
+  {
+   "type": "flow",
+   "caption": "Risk assessment moves from a qualitative model to detailed quantitative study.",
+   "sent_ids": [
+    "0de6329d158b",
+    "f2b169ee3b8d",
+    "3e9a2dc538b7",
+    "c21d81633927",
+    "28010d11a6a9",
+    "05fb5e6e8235"
+   ],
+   "mermaid": "flowchart TD\nA[Site suspected of contamination] --> B[Desk study, site walkover]\nB --> C[Conceptual site model]\nC --> D[Generic quantitative assessment]\nD -->|screening value exceeded| E[Detailed quantitative assessment]"
+  }
+ ],
+ "soil-env-268": [
+  {
+   "type": "bar",
+   "caption": "Typical upper background levels differ widely between elements.",
+   "sent_ids": [
+    "be92085774c6",
+    "7132041caf3c",
+    "2c57cfa0690f",
+    "86b6ed1996fa",
+    "b5755051d4ad",
+    "639db6afee21",
+    "677f8f101bcf",
+    "6a66a1f92cdd"
+   ],
+   "unit": "mg/kg",
+   "bars": [
+    [
+     "Chromium",
+     500
+    ],
+    [
+     "Zinc",
+     300
+    ],
+    [
+     "Copper",
+     150
+    ],
+    [
+     "Arsenic",
+     100
+    ],
+    [
+     "Lead",
+     100
+    ],
+    [
+     "Nickel",
+     100
+    ],
+    [
+     "Cadmium",
+     2
+    ],
+    [
+     "Selenium",
+     1
+    ]
+   ]
+  }
+ ],
+ "soil-hist-119": [
+  {
+   "type": "table",
+   "caption": "Each radiometric method covers a different span of ages and kinds of sample.",
+   "sent_ids": [
+    "ea8c1edc64dd",
+    "6737da8be9b8",
+    "d974d0e22c63",
+    "03b200437ce5"
+   ],
+   "header": [
+    "Method",
+    "Age range",
+    "Used on"
+   ],
+   "rows": [
+    [
+     "Radiocarbon",
+     "Younger than about 60,000 years",
+     "Organic samples"
+    ],
+    [
+     "Uranium–thorium",
+     "A few years to about 700,000 years",
+     "Speleothems, corals, bones"
+    ],
+    [
+     "Uranium–lead",
+     "Older than about 1 million years",
+     "—"
+    ]
+   ]
+  }
+ ],
+ "soil-hist-124": [
+  {
+   "type": "flow",
+   "caption": "Luminescence dating reads the charge grains gather after burial resets them.",
+   "sent_ids": [
+    "03673fbb3643",
+    "6901d824cfa7",
+    "5aaa97252a2a",
+    "c90fd4fe0fbb",
+    "1d4638521d17"
+   ],
+   "mermaid": "flowchart TD\nA[Daylight bleaches grains] --> B[Grains buried]\nB -->|natural radiation| C[Trapped charge builds up]\nC -->|stimulate with light or heat| D[Luminescence signal]\nD --> E[Burial age]"
+  }
+ ],
+ "soil-hist-079": [
+  {
+   "type": "flow",
+   "caption": "Micrometeorite impacts make agglutinates and nanophase iron, which darken and redden lunar soil.",
+   "sent_ids": [
+    "dc6b6289093c",
+    "0565679b2048",
+    "8f182dcfd9d6",
+    "dfd989dd097c"
+   ],
+   "mermaid": "flowchart TD\nA[Micrometeorite impacts] -->|melt| B[Agglutinates]\nA -->|vaporize| C[Nanophase iron]\nB --> F[Soil darker, redder]\nC --> F"
+  }
+ ],
+ "soil-hist-137": [
+  {
+   "type": "flow",
+   "caption": "Viking's control test separated chemistry from biology by heat-sterilizing a duplicate.",
+   "sent_ids": [
+    "5a8cf33c44b6",
+    "744c31641fa4",
+    "cbc2955a618f"
+   ],
+   "mermaid": "flowchart TD\nA[Positive result] --> B[Heat-sterilize duplicate sample]\nB --> C{Activity persists?}\nC -->|yes| D[Chemistry]\nC -->|no| E[Biology]"
+  }
+ ]
+}

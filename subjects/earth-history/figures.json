@@ -1,0 +1,1674 @@
+{
+ "hade-002": [
+  {
+   "type": "flow",
+   "caption": "The steps from a collapsing gas cloud to a cleared disc around the young Sun.",
+   "sent_ids": [
+    "75bc00fbe4e9",
+    "162fca537fe4",
+    "01b5a5b2797c",
+    "05c14a04a3ff"
+   ],
+   "mermaid": "flowchart TD\nA[Hydrogen cloud collapses] --> B[Sun forms]\nA --> C[Cloud flattens into disc]\nC --> D[First solids condense]\nB --> E[Solar wind clears disc]\nC --> E"
+  }
+ ],
+ "hade-003": [
+  {
+   "type": "flow",
+   "caption": "How heat let iron sink and split Earth into layers.",
+   "sent_ids": [
+    "9a52dfd12f79",
+    "8bf5d948b5bf",
+    "2d6e48d82a90",
+    "69c44537dfd3"
+   ],
+   "mermaid": "flowchart TD\nA[Radioactive and accretion heat] --> B[Planet partly melts]\nB --> C[Iron and nickel sink]\nC --> D[Metallic core]\nC --> E[Primitive mantle]"
+  }
+ ],
+ "hade-005": [
+  {
+   "type": "flow",
+   "caption": "Runaway accretion built Earth from dust through ever larger bodies.",
+   "sent_ids": [
+    "c67c75d2896e",
+    "cdd20f20e38a"
+   ],
+   "mermaid": "flowchart LR\nA[Dust and debris] --> B[Larger bodies]\nB --> C[Giant impacts]\nC --> D[Earth]"
+  }
+ ],
+ "hade-008": [
+  {
+   "type": "flow",
+   "caption": "The chain from Theia's impact to the Moon and a steadier Earth.",
+   "sent_ids": [
+    "6ef23000d4e8",
+    "1cef26d5ec08",
+    "563f81b0e731",
+    "85d7b3f64179"
+   ],
+   "mermaid": "flowchart TD\nA[Theia strikes proto-Earth] --> B[Debris thrown into orbit]\nA --> R[Crust vaporized]\nB --> C[Rings for a few million years]\nC --> D[Moon gathers]\nD --> E[Earth's axis steadied]\nE --> F[More regular climate]"
+  }
+ ],
+ "hade-010": [
+  {
+   "type": "flow",
+   "caption": "Cooling turned water vapor into a global ocean.",
+   "sent_ids": [
+    "2439d6a4d36d",
+    "022f712305b9"
+   ],
+   "mermaid": "flowchart LR\nA[Mantle outgassing] --> B[Water vapor]\nB --> C[Crust cools]\nC --> D[Vapor condenses]\nD --> E[Superocean]"
+  }
+ ],
+ "arch-001": [
+  {
+   "type": "scale",
+   "caption": "Dates recorded in the Acasta Gneiss, from its parent magma to its youngest rocks.",
+   "sent_ids": [
+    "dab6e1164f39",
+    "494019168276",
+    "b482a937e351"
+   ],
+   "axis": "Billion years ago",
+   "log": false,
+   "marks": [
+    [
+     4.2,
+     "Granite magma"
+    ],
+    [
+     4.03,
+     "Zircons crystallize"
+    ],
+    [
+     3.94,
+     "Tonalitic gneisses"
+    ]
+   ],
+   "ranges": [
+    [
+     2.9,
+     4.0,
+     "Magmatism and metamorphism"
+    ]
+   ]
+  }
+ ],
+ "arch-034": [
+  {
+   "type": "flow",
+   "caption": "How oxygen from cyanobacteria first rusted the oceans, then built up.",
+   "sent_ids": [
+    "c7945b3187e6",
+    "853fbf3165e0",
+    "52b26b2fb095"
+   ],
+   "mermaid": "flowchart TD\nA[Cyanobacteria split water] --> B[Oxygen released]\nB --> C[Dissolved iron oxidized]\nC --> D[Iron ore forms]\nB --> E[Oxygen builds slowly]\nE --> F[Great Oxygenation Event]"
+  }
+ ],
+ "arch-039": [
+  {
+   "type": "scale",
+   "caption": "Proposed starts of plate tectonics spread across billions of years.",
+   "sent_ids": [
+    "7dc6f462490d",
+    "9b978b0b8219",
+    "91cbcf32e1d0",
+    "882f7ffb23cf"
+   ],
+   "axis": "Billion years ago",
+   "log": false,
+   "marks": [
+    [
+     4,
+     "Hadean estimate"
+    ],
+    [
+     3.12,
+     "Pilbara oceanic arc"
+    ],
+    [
+     3,
+     "Common estimate"
+    ],
+    [
+     2.2,
+     "Later estimate"
+    ]
+   ]
+  }
+ ],
+ "prot-006": [
+  {
+   "type": "flow",
+   "caption": "Oxygen won out only after surface reductants were used up.",
+   "sent_ids": [
+    "ed6a7ac67fe2",
+    "13ee5b272f17",
+    "0353c76e4a8b"
+   ],
+   "mermaid": "flowchart TD\nA[Cyanobacteria make oxygen] --> B[Iron, sulfur, methane use it up]\nB --> C[Reductants exhausted]\nC --> D[Free oxygen builds up]\nD --> E[Oxidizing atmosphere]"
+  }
+ ],
+ "prot-013": [
+  {
+   "type": "flow",
+   "caption": "How rising oxygen led to a frozen Earth.",
+   "sent_ids": [
+    "2c3b37fa439c",
+    "57000c34bbe1"
+   ],
+   "mermaid": "flowchart TD\nA[Oxygen rises] --> B[Methane falls 300 to 4 ppmv]\nB --> C[Greenhouse weakens]\nC --> D[Global average below 0 °C]"
+  },
+  {
+   "type": "scale",
+   "caption": "The three glacial pulses of the Huronian glaciation.",
+   "sent_ids": [
+    "175d94062b5f",
+    "a661ad6c77b8",
+    "67c05108288b"
+   ],
+   "axis": "Million years ago",
+   "log": false,
+   "ranges": [
+    [
+     2420,
+     2440,
+     "Duitschland"
+    ],
+    [
+     2360,
+     2380,
+     "Makganyene"
+    ],
+    [
+     2310,
+     2340,
+     "Gowganda"
+    ]
+   ]
+  }
+ ],
+ "prot-019": [
+  {
+   "type": "scale",
+   "caption": "Competing dates for the earliest eukaryotes.",
+   "sent_ids": [
+    "83cbd1c6024b",
+    "7eba965f8a66"
+   ],
+   "axis": "Billion years ago",
+   "log": false,
+   "marks": [
+    [
+     2.1,
+     "Questionable claims"
+    ],
+    [
+     1.85,
+     "Alternative view"
+    ]
+   ],
+   "ranges": [
+    [
+     1.6,
+     1.8,
+     "Unambiguous fossils"
+    ]
+   ]
+  }
+ ],
+ "prot-021": [
+  {
+   "type": "tree",
+   "caption": "Columbia's proto-cratons became the cores of later continents.",
+   "sent_ids": [
+    "eebac3b4e9ee"
+   ],
+   "root": "Columbia (Nuna)",
+   "children": {
+    "Laurentia": null,
+    "Baltica": null,
+    "Ukrainian Shield": null,
+    "Amazonia": null,
+    "Australia": null
+   }
+  }
+ ],
+ "prot-071": [
+  {
+   "type": "tree",
+   "caption": "The blocks gathered around Laurentia into Rodinia.",
+   "sent_ids": [
+    "b72cb6d57267",
+    "4f6efb2458f9"
+   ],
+   "root": "Rodinia (core: Laurentia)",
+   "children": {
+    "North American": null,
+    "East European": null,
+    "Amazonian": null,
+    "West African": null,
+    "Antarctic": null,
+    "Australian": null,
+    "Chinese": null
+   }
+  }
+ ],
+ "prot-096": [
+  {
+   "type": "bar",
+   "caption": "Oxygen climbed steeply during the Neoproterozoic Oxygenation Event.",
+   "sent_ids": [
+    "e37f252862ed",
+    "e9f404874c0a"
+   ],
+   "unit": "% of present oxygen level",
+   "bars": [
+    [
+     "Before 900 Ma",
+     0.1
+    ],
+    [
+     "By 815 Ma",
+     13
+    ],
+    [
+     "Cryogenian interglacial",
+     50
+    ]
+   ]
+  }
+ ],
+ "prot-108": [
+  {
+   "type": "flow",
+   "caption": "Rodinia's breakup, from first rifting to the forming of Gondwana.",
+   "sent_ids": [
+    "df0a74fea42a",
+    "4f367f26a42a",
+    "b79f173f32d2"
+   ],
+   "mermaid": "flowchart TD\nA[Rifting begins 850 to 800 Ma] --> B[Breakup proper about 750 Ma]\nB --> C[Proto-Laurasia]\nB --> D[Congo craton]\nB --> E[Proto-Gondwana]\nE --> F[Iapetus opens, oceans close]\nF --> G[Gondwana forms]"
+  }
+ ],
+ "prot-112": [
+  {
+   "type": "flow",
+   "caption": "Possible causes of the Sturtian cold after Rodinia's breakup.",
+   "sent_ids": [
+    "fdcbf72c40d6",
+    "b3c639a08535",
+    "a513ca3c74ee"
+   ],
+   "mermaid": "flowchart TD\nA[Rodinia breaks up] --> B[Basalt weathering]\nA --> C[Low ridge CO2 output]\nB -.-> D[Sturtian glaciation]\nC -.-> D"
+  }
+ ],
+ "prot-111": [
+  {
+   "type": "table",
+   "caption": "The two disputed versions of a Cryogenian frozen Earth.",
+   "sent_ids": [
+    "fa075c3cb8a4",
+    "97c438393d06"
+   ],
+   "header": [
+    "Version",
+    "Ocean surface"
+   ],
+   "rows": [
+    [
+     "Full snowball",
+     "Froze nearly completely"
+    ],
+    [
+     "Slushball",
+     "Open equatorial band of water"
+    ]
+   ]
+  }
+ ],
+ "prot-156": [
+  {
+   "type": "flow",
+   "caption": "The Ediacaran biota vanished and Cambrian animals filled the gap.",
+   "sent_ids": [
+    "674a49748972",
+    "164904e90065"
+   ],
+   "mermaid": "flowchart LR\nA[Ediacaran biota disappears] --> B[Few cross the boundary]\nB --> C[Niches left vacant]\nC --> D[Cambrian animals radiate]"
+  }
+ ],
+ "camb-002": [
+  {
+   "type": "flow",
+   "caption": "Two drivers of the Cambrian explosion and what they changed.",
+   "sent_ids": [
+    "92202d63abe0",
+    "9acde83590f7",
+    "21688e590476"
+   ],
+   "mermaid": "flowchart TD\nA[Oxygenated bottom waters spread] --> B[Biodiversity rises]\nC[Animals begin burrowing] --> D[Sea floor changes]\nD --> E[New ecosystems open]"
+  }
+ ],
+ "camb-028": [
+  {
+   "type": "tree",
+   "caption": "The typical Cambrian trilobite orders.",
+   "sent_ids": [
+    "464650b8d34a"
+   ],
+   "root": "Trilobites",
+   "children": {
+    "Redlichiida": null,
+    "Ptychopariida": null,
+    "Agnostida": null,
+    "Corynexochida": null
+   }
+  },
+  {
+   "type": "scale",
+   "caption": "Trilobite tracks appear before their body fossils.",
+   "sent_ids": [
+    "b1739373513a",
+    "729ebbcb8325"
+   ],
+   "axis": "Million years ago",
+   "log": false,
+   "marks": [
+    [
+     537,
+     "Claimed tracks"
+    ],
+    [
+     521,
+     "First body fossils"
+    ]
+   ]
+  }
+ ],
+ "camb-034": [
+  {
+   "type": "scale",
+   "caption": "Milestones in the earliest history of fish.",
+   "sent_ids": [
+    "756b5940e0e6",
+    "4734eec3706d"
+   ],
+   "axis": "Million years ago",
+   "log": false,
+   "marks": [
+    [
+     530,
+     "Fish begin evolving"
+    ],
+    [
+     518,
+     "Chengjiang vertebrates"
+    ],
+    [
+     505,
+     "Metaspriggina"
+    ]
+   ]
+  }
+ ],
+ "camb-046": [
+  {
+   "type": "flow",
+   "caption": "How eruptions and anoxic water drove the first Phanerozoic mass extinction.",
+   "sent_ids": [
+    "7f5154a23d5e",
+    "c446eea3664d",
+    "f28d5025710f"
+   ],
+   "mermaid": "flowchart TD\nA[Kalkarindji eruptions] --> B[Warming and deoxygenation]\nC[Sea transgression] --> D[Anoxic water on shelves]\nD --> E[Black shales spread]\nB --> F[Over 60% of species lost]\nD --> F"
+  }
+ ],
+ "ordo-009": [
+  {
+   "type": "flow",
+   "caption": "Proposed drivers of the Great Ordovician Biodiversification Event.",
+   "sent_ids": [
+    "350387b9217d",
+    "c84d267d2687",
+    "bd3e9c6fda8f",
+    "110a362ff287"
+   ],
+   "mermaid": "flowchart TD\nA[Rising ocean oxygen] -.-> E[Marine diversity rises]\nB[Taconic nutrients] -.-> E\nC[Global cooling] -.-> E\nD[Meteorite shower] -.-> E"
+  }
+ ],
+ "ordo-034": [
+  {
+   "type": "flow",
+   "caption": "How the first land plants arose and began changing climate.",
+   "sent_ids": [
+    "f8a99c60fd5c",
+    "4c346a88f011"
+   ],
+   "mermaid": "flowchart TD\nA[Green algae] --> B[Bryophyte-like plants]\nB --> C[Organic carbon buried]\nC --> D[CO2 drawn down]\nD --> E[Climate transformed]"
+  }
+ ],
+ "ordo-059": [
+  {
+   "type": "bar",
+   "caption": "Sea level fell sharply during the Hirnantian glaciation.",
+   "sent_ids": [
+    "39a69c9ba8d4"
+   ],
+   "unit": "Meters above today's sea level",
+   "bars": [
+    [
+     "Before",
+     220
+    ],
+    [
+     "After fall",
+     141
+    ]
+   ]
+  }
+ ],
+ "ordo-064": [
+  {
+   "type": "flow",
+   "caption": "The two pulses of the Late Ordovician extinction and their triggers.",
+   "sent_ids": [
+    "da0ff66f2ea0",
+    "c458d92e4dd8",
+    "add0b1aa9c42"
+   ],
+   "mermaid": "flowchart TD\nA[Hirnantian glaciation] --> B[First pulse]\nA --> C[Ice retreats]\nC --> D[Warming and anoxia]\nD --> E[Second pulse]"
+  },
+  {
+   "type": "bar",
+   "caption": "Trilobite losses in the Late Ordovician extinction.",
+   "sent_ids": [
+    "b8f26e6cf2f7"
+   ],
+   "unit": "% lost",
+   "bars": [
+    [
+     "Genera",
+     70
+    ],
+    [
+     "Families",
+     50
+    ]
+   ]
+  }
+ ],
+ "silu-009": [
+  {
+   "type": "tree",
+   "caption": "Jawed fish had split into three main groups by about 419 Ma.",
+   "sent_ids": [
+    "3541926dfaf9",
+    "71af23912622"
+   ],
+   "root": "Jawed fish",
+   "children": {
+    "Placoderms": null,
+    "Bony fish": {
+     "Lobe-finned fish": null
+    },
+    "Spiny sharks and cartilaginous fish": null
+   }
+  }
+ ],
+ "silu-029": [
+  {
+   "type": "flow",
+   "caption": "Drifting continents collided to raise the Caledonian mountains.",
+   "sent_ids": [
+    "c2bea047949f",
+    "510aca3e495d",
+    "30698babe425"
+   ],
+   "mermaid": "flowchart TD\nA[Avalonia, Baltica, Laurentia drift together] --> B[Baltica meets Laurentia]\nB --> C[Coastal sediments folded]\nC --> D[Caledonian mountains rise]\nB --> E[Euramerica begins]"
+  }
+ ],
+ "silu-042": [
+  {
+   "type": "flow",
+   "caption": "How plants and fungi on land reshaped climate and the oceans.",
+   "sent_ids": [
+    "25457fd988f0",
+    "057f7c9cc205",
+    "e79ae4d8bacd",
+    "788f292d6c39"
+   ],
+   "mermaid": "flowchart TD\nA[Plants and fungi colonize land] --> B[Water cycle and climate reshaped]\nA --> C[Ocean nutrients changed]\nC -.-> D[Plankton blooms]\nD -.-> E[Late Devonian extinction]"
+  }
+ ],
+ "devo-001": [
+  {
+   "type": "table",
+   "caption": "The main Devonian fish groups.",
+   "sent_ids": [
+    "7e7467f0d3bc",
+    "3541926dfaf9",
+    "1016e039c536"
+   ],
+   "header": [
+    "Group",
+    "Note"
+   ],
+   "rows": [
+    [
+     "Ostracoderms",
+     "Variety rose greatly"
+    ],
+    [
+     "Placoderms",
+     "Split by about 419 Ma"
+    ],
+    [
+     "Lobe-finned fishes",
+     "Most diverse bony fishes"
+    ],
+    [
+     "Early sharks",
+     "Variety rose greatly"
+    ]
+   ]
+  }
+ ],
+ "devo-067": [
+  {
+   "type": "flow",
+   "caption": "Suggested causes of the Kellwasser extinction, none yet certain.",
+   "sent_ids": [
+    "9e592f2a7105",
+    "f05f7656a45e",
+    "174f293a4cc4",
+    "01d57efa896d"
+   ],
+   "mermaid": "flowchart TD\nA[Rising seas] --> B[Anoxia spreads]\nB -.-> E[About 70% of species lost]\nC[Global cooling] -.-> E\nD[Tree-root nutrient runoff] -.-> E"
+  }
+ ],
+ "devo-084": [
+  {
+   "type": "table",
+   "caption": "What the Hangenberg event did to major groups.",
+   "sent_ids": [
+    "55ca15f95cde",
+    "5480a494e02c",
+    "c9cce2f6dc33",
+    "ccc76060b274"
+   ],
+   "header": [
+    "Group",
+    "Fate"
+   ],
+   "rows": [
+    [
+     "Placoderms",
+     "Last ones died"
+    ],
+    [
+     "Stromatoporoid sponges",
+     "Last ones died"
+    ],
+    [
+     "Trilobites",
+     "Only Proetida left"
+    ],
+    [
+     "Ammonoids",
+     "Nearly exterminated"
+    ],
+    [
+     "Plants",
+     "Spared"
+    ]
+   ]
+  }
+ ],
+ "carb-025": [
+  {
+   "type": "flow",
+   "caption": "Pangaea's assembly and the start of its breakup.",
+   "sent_ids": [
+    "284e7e8f4373",
+    "455815f977ee",
+    "548a6f94fcb9"
+   ],
+   "mermaid": "flowchart TD\nA[Gondwana] --> D[Pangaea about 335 Ma]\nB[Euramerica] --> D\nC[Siberia] --> D\nD --> E[Rheic Ocean closes]\nD --> F[Breakup begins about 175 Ma]"
+  }
+ ],
+ "carb-027": [
+  {
+   "type": "bar",
+   "caption": "The Late Paleozoic Ice Age left very thick glacial deposits.",
+   "sent_ids": [
+    "33801f9fe1d5"
+   ],
+   "unit": "Meters thick",
+   "bars": [
+    [
+     "Dwyka Formation",
+     1000
+    ],
+    [
+     "Itarare Group",
+     1400
+    ]
+   ]
+  }
+ ],
+ "carb-039": [
+  {
+   "type": "bar",
+   "caption": "Carboniferous oxygen rose well above today's level.",
+   "sent_ids": [
+    "64450222b444",
+    "4502139d300a"
+   ],
+   "unit": "% oxygen in air",
+   "bars": [
+    [
+     "Early Carboniferous",
+     15
+    ],
+    [
+     "Today",
+     21
+    ],
+    [
+     "Pennsylvanian",
+     25
+    ]
+   ]
+  }
+ ],
+ "carb-044": [
+  {
+   "type": "flow",
+   "caption": "How sea-level swings grew peat mires, then buried them to make coal.",
+   "sent_ids": [
+    "b02eb2b67f25",
+    "d7e46a90d81e",
+    "f39e53b0ce81",
+    "ab56e8b64d4f"
+   ],
+   "mermaid": "flowchart TD\nA[Glacial sea level falls] --> B[Wide shelves exposed]\nB --> C[Peat mires grow]\nC --> D[Interglacial seas rise]\nD --> E[Peat buried]\nE --> F[Peat becomes coal]"
+  }
+ ],
+ "carb-071": [
+  {
+   "type": "flow",
+   "caption": "How a drier climate turned coal forests into fern forests and deserts.",
+   "sent_ids": [
+    "bfda1e14a396",
+    "4659fc93f68f",
+    "4b99d7e3baf5"
+   ],
+   "mermaid": "flowchart TD\nA[Cooler, drier climate] --> B[Rainforest fragments]\nB --> C[Lycopsid forests collapse]\nC --> D[Tree-fern forests]\nC --> E[Interior deserts]"
+  }
+ ],
+ "perm-013": [
+  {
+   "type": "flow",
+   "caption": "The order in which the last blocks joined Pangaea.",
+   "sent_ids": [
+    "4fc4a434f33e",
+    "5c32bbe57da7",
+    "88b98eea5e5d"
+   ],
+   "mermaid": "flowchart TD\nA[Kazakhstania strikes Baltica] --> B[Siberia joins]\nB --> C[North and South China, Indochina fuse]"
+  }
+ ],
+ "perm-078": [
+  {
+   "type": "flow",
+   "caption": "How the Siberian Traps led to the end-Permian extinction.",
+   "sent_ids": [
+    "0ac2bdf27002",
+    "85efdba49511",
+    "2627f8ad05f8",
+    "ac4ada8843c1"
+   ],
+   "mermaid": "flowchart TD\nA[Magma heats Tungus basin rocks] --> B[Toxic and greenhouse gases]\nB --> C[Warming]\nB --> D[Ocean anoxia, acidification]\nB --> E[Ozone loss, acid rain]\nC --> F[Mass extinction]\nD --> F\nE --> F"
+  }
+ ],
+ "perm-084": [
+  {
+   "type": "bar",
+   "caption": "Losses in the end-Permian mass extinction.",
+   "sent_ids": [
+    "393646b7b090",
+    "1858388520c4"
+   ],
+   "unit": "% lost",
+   "bars": [
+    [
+     "Families",
+     57
+    ],
+    [
+     "Genera",
+     62
+    ],
+    [
+     "Land vertebrate species",
+     70
+    ],
+    [
+     "Marine species",
+     81
+    ]
+   ]
+  }
+ ],
+ "tria-049": [
+  {
+   "type": "scale",
+   "caption": "Stages of Pangaea's Triassic and Jurassic rifting.",
+   "sent_ids": [
+    "0eebd10c64cf",
+    "409e5d9bea5d",
+    "4232bb71d781",
+    "8231dd4b8f45"
+   ],
+   "axis": "Million years ago",
+   "log": false,
+   "marks": [
+    [
+     247,
+     "First rift basins"
+    ],
+    [
+     230,
+     "Rift valleys filled"
+    ]
+   ],
+   "ranges": [
+    [
+     202,
+     227,
+     "Newark rift lakes"
+    ],
+    [
+     175,
+     215,
+     "Laurasia parts from Gondwana"
+    ]
+   ]
+  }
+ ],
+ "tria-066": [
+  {
+   "type": "flow",
+   "caption": "How Wrangellia volcanism turned Pangaea's interior wet.",
+   "sent_ids": [
+    "67c4d9530161",
+    "020f9bf89383"
+   ],
+   "mermaid": "flowchart TD\nA[Wrangellia volcanism] --> B[Abrupt global warming]\nB --> C[Hotter, more humid climate]\nC --> D[Rainfall and runoff surge]\nD --> E[Lush alluvial forests]"
+  }
+ ],
+ "tria-068": [
+  {
+   "type": "scale",
+   "caption": "Dated early dinosaur finds.",
+   "sent_ids": [
+    "96a7d931f053",
+    "88e16a999b62"
+   ],
+   "axis": "Million years ago",
+   "log": false,
+   "marks": [
+    [
+     243,
+     "Nyasasaurus"
+    ],
+    [
+     233.23,
+     "Santa Maria Formation"
+    ]
+   ],
+   "ranges": [
+    [
+     230,
+     231,
+     "Ischigualasto"
+    ]
+   ]
+  }
+ ],
+ "tria-102": [
+  {
+   "type": "flow",
+   "caption": "From buried magma to CAMP eruptions and the end-Triassic extinction.",
+   "sent_ids": [
+    "a3892f2bbe85",
+    "1f774aee104e",
+    "ccef7d984354",
+    "1b53b5406fd4"
+   ],
+   "mermaid": "flowchart TD\nA[Large magma bodies build up] --> B[Four lava pulses]\nB --> C[Central Atlantic rifting ends]\nB -.-> D[Triassic-Jurassic extinction]"
+  }
+ ],
+ "tria-104": [
+  {
+   "type": "table",
+   "caption": "How major groups fared in the end-Triassic extinction.",
+   "sent_ids": [
+    "01623127a128",
+    "2105a7606a2e",
+    "fe03861ecfd9"
+   ],
+   "header": [
+    "Group",
+    "Fate"
+   ],
+   "rows": [
+    [
+     "Dinosaurs",
+     "Survived, then dominated"
+    ],
+    [
+     "Pterosaurs",
+     "Survived"
+    ],
+    [
+     "Crocodylomorphs",
+     "Survived"
+    ],
+    [
+     "Crurotarsans",
+     "Removed"
+    ],
+    [
+     "Ammonites",
+     "Nearly wiped out"
+    ],
+    [
+     "Conodonts",
+     "Vanished"
+    ]
+   ]
+  }
+ ],
+ "jura-035": [
+  {
+   "type": "tree",
+   "caption": "Pangaea split into a northern and a southern landmass.",
+   "sent_ids": [
+    "19dc872a9af0"
+   ],
+   "root": "Pangaea",
+   "children": {
+    "Laurasia (north)": {
+     "Eurasia": null,
+     "North America": null
+    },
+    "Gondwana (south)": null
+   }
+  }
+ ],
+ "jura-071": [
+  {
+   "type": "flow",
+   "caption": "How Karoo-Ferrar CO2 led to the Toarcian ocean anoxia.",
+   "sent_ids": [
+    "3b82333e3cd2",
+    "e0272978c3c5",
+    "610758f14be1",
+    "d49d8cd640af"
+   ],
+   "mermaid": "flowchart TD\nA[Karoo-Ferrar CO2] --> B[Warming and acidification]\nA --> C[More weathering]\nC --> D[Nutrient flood]\nD --> E[Seas eutrophied]\nE --> F[Ocean anoxia]\nF --> G[Black shales]"
+  }
+ ],
+ "jura-148": [
+  {
+   "type": "table",
+   "caption": "Sauropods and predators of the Morrison Formation.",
+   "sent_ids": [
+    "eddd835eef72",
+    "f9cde41464fe"
+   ],
+   "header": [
+    "Role",
+    "Examples"
+   ],
+   "rows": [
+    [
+     "Sauropods",
+     "Apatosaurus, Brachiosaurus, Diplodocus"
+    ],
+    [
+     "Predators",
+     "Allosaurus, Ceratosaurus, Torvosaurus"
+    ]
+   ]
+  }
+ ],
+ "jura-158": [
+  {
+   "type": "flow",
+   "caption": "Birds descend from small predatory theropods.",
+   "sent_ids": [
+    "f7b929f29a24",
+    "a8dd9e798107"
+   ],
+   "mermaid": "flowchart LR\nA[Coelurosaurian theropods] --> B[Paraves]\nB --> C[Avialans]\nC --> D[Archaeopteryx]"
+  }
+ ],
+ "cret-046": [
+  {
+   "type": "flow",
+   "caption": "Flowering plants, their pollinators and a possible link to the sea.",
+   "sent_ids": [
+    "9e7964615366",
+    "9f1e426c4769",
+    "7dfd6e3d2815"
+   ],
+   "mermaid": "flowchart TD\nA[Flowering plants diversify] --- B[Pollinating insects coevolve]\nA -.-> C[Faster weathering]\nC -.-> D[Nutrients to oceans]\nD -.-> E[Mesozoic marine revolution]"
+  }
+ ],
+ "cret-147": [
+  {
+   "type": "flow",
+   "caption": "The Chicxulub impact's effects that led to the K–Pg extinction.",
+   "sent_ids": [
+    "3240bb3450a4",
+    "cb2121d80bf4",
+    "8af0c78e71e5",
+    "d1f724f50ae5"
+   ],
+   "mermaid": "flowchart TD\nA[Asteroid strikes Yucatan] --> B[Iridium clay worldwide]\nA --> C[Megatsunamis]\nA --> D[Impact winter]\nD --> E[Photosynthesis halts]\nA --> F[Oceans acidify]\nE --> G[K-Pg extinction]\nF --> G"
+  }
+ ],
+ "cret-148": [
+  {
+   "type": "bar",
+   "caption": "Share lost in the Cretaceous–Paleogene extinction.",
+   "sent_ids": [
+    "bb06672d4d17",
+    "ad2416103c0c"
+   ],
+   "unit": "% lost",
+   "bars": [
+    [
+     "Genera",
+     47
+    ],
+    [
+     "Reef-coral genera",
+     60
+    ],
+    [
+     "Species",
+     76
+    ],
+    [
+     "Coccolithophore species",
+     90
+    ]
+   ]
+  }
+ ],
+ "pale-030": [
+  {
+   "type": "scale",
+   "caption": "Phases of the North Atlantic Igneous Province.",
+   "sent_ids": [
+    "7a54dd8a609c",
+    "bd45bebfa471",
+    "6918e8ab3608"
+   ],
+   "axis": "Million years ago",
+   "log": false,
+   "marks": [
+    [
+     65,
+     "Plume rises"
+    ],
+    [
+     62.2,
+     "Danian warming"
+    ]
+   ],
+   "ranges": [
+    [
+     58,
+     62,
+     "Pre-break-up"
+    ],
+    [
+     54,
+     56,
+     "Break-up"
+    ]
+   ]
+  }
+ ],
+ "pale-048": [
+  {
+   "type": "flow",
+   "caption": "Proposed carbon sources and the effects of the PETM.",
+   "sent_ids": [
+    "a3846108f5b2",
+    "084f6e76f5dc",
+    "ec5862446442",
+    "79fa00b2b654"
+   ],
+   "mermaid": "flowchart TD\nA[Magma sills bake sediments] -.-> D[Carbon release]\nB[Methane clathrates] -.-> D\nC[Kimberlite eruptions] -.-> D\nD --> E[Temperatures spike]\nD --> F[Sea acidifies]\nE --> G[Benthic foraminifera lost]\nF --> G"
+  }
+ ],
+ "eoce-014": [
+  {
+   "type": "tree",
+   "caption": "The two primate branches.",
+   "sent_ids": [
+    "6c3b0c9013db"
+   ],
+   "root": "Primates",
+   "children": {
+    "Strepsirrhines": {
+     "Lemurs": null,
+     "Lorises": null
+    },
+    "Haplorhines": {
+     "Tarsiers": null,
+     "Anthropoids": null
+    }
+   }
+  }
+ ],
+ "eoce-015": [
+  {
+   "type": "bar",
+   "caption": "India's plate slowed sharply around 55 Ma.",
+   "sent_ids": [
+    "907b7758c93b"
+   ],
+   "unit": "cm per year",
+   "bars": [
+    [
+     "Before (up to)",
+     19.5
+    ],
+    [
+     "After",
+     4.5
+    ]
+   ]
+  }
+ ],
+ "eoce-037": [
+  {
+   "type": "flow",
+   "caption": "Causes of the Middle–Late Eocene cooling and where it led.",
+   "sent_ids": [
+    "6c3b0c9013db",
+    "61064bae612d",
+    "fa9cd28fbcb0"
+   ],
+   "mermaid": "flowchart TD\nA[Continents draw away from Antarctica] --> B[Ocean circulation changes]\nB --> D[Cooling]\nC[CO2 falls] --> D\nD --> E[Quaternary ice ages]"
+  }
+ ],
+ "eoce-038": [
+  {
+   "type": "flow",
+   "caption": "How a floating fern drew down carbon and ended early Eocene warmth.",
+   "sent_ids": [
+    "c1c6713101f7",
+    "76be8fd61917",
+    "8ac847a41d6e",
+    "dc83ebd2121b"
+   ],
+   "mermaid": "flowchart TD\nA[Isolated warm Arctic, high CO2] --> B[Azolla spreads]\nB --> C[Dead ferns sink, buried]\nC --> D[Carbon locked away]\nD --> E[CO2 falls]\nE --> F[Early Eocene warmth ends]"
+  },
+  {
+   "type": "bar",
+   "caption": "Carbon dioxide fell catastrophically during the Azolla event.",
+   "sent_ids": [
+    "8ac847a41d6e"
+   ],
+   "unit": "ppm CO2",
+   "bars": [
+    [
+     "Early Eocene",
+     3500
+    ],
+    [
+     "During event",
+     650
+    ]
+   ]
+  }
+ ],
+ "olig-012": [
+  {
+   "type": "flow",
+   "caption": "Falling CO2 started the ice age that continues today.",
+   "sent_ids": [
+    "7fc40c0886e9",
+    "0da9b459fc99"
+   ],
+   "mermaid": "flowchart LR\nA[CO2 falls past 600 ppm] --> B[Antarctic glaciation]\nB --> C[Late Cenozoic Ice Age]"
+  }
+ ],
+ "olig-020": [
+  {
+   "type": "flow",
+   "caption": "How falling sea level let Asian mammals replace Europe's.",
+   "sent_ids": [
+    "843b1e252795",
+    "38451ed324ce"
+   ],
+   "mermaid": "flowchart TD\nA[Sea level falls] --> B[Turgai Strait closes]\nB --> C[Asian rhinos, ruminants enter]\nC --> D[Native species die out]"
+  }
+ ],
+ "olig-048": [
+  {
+   "type": "scale",
+   "caption": "Estimates for when the Drake Passage opened.",
+   "sent_ids": [
+    "48ea3f0706bd",
+    "d58940c117f3",
+    "4c6429649bf3"
+   ],
+   "axis": "Million years ago",
+   "log": false,
+   "marks": [
+    [
+     31,
+     "Deep flow possible"
+    ],
+    [
+     28,
+     "Passage formed"
+    ]
+   ],
+   "ranges": [
+    [
+     17,
+     49,
+     "Published estimates"
+    ]
+   ]
+  }
+ ],
+ "olig-066": [
+  {
+   "type": "scale",
+   "caption": "Rifting spread south through East Africa over time.",
+   "sent_ids": [
+    "5dbb9949fbec",
+    "e7c9b55c3ff1"
+   ],
+   "axis": "Million years ago",
+   "log": false,
+   "marks": [
+    [
+     30,
+     "Northern Kenya"
+    ],
+    [
+     24,
+     "Mount Elgon"
+    ],
+    [
+     12,
+     "Southern Kenya"
+    ],
+    [
+     8,
+     "Northern Tanzania"
+    ]
+   ]
+  }
+ ],
+ "mioc-010": [
+  {
+   "type": "flow",
+   "caption": "How spreading grasslands, grazers and climate fed one another.",
+   "sent_ids": [
+    "269fc3d404e5",
+    "736a846f1ef2",
+    "977d2edaa15e",
+    "b819e7dd893c"
+   ],
+   "mermaid": "flowchart TD\nA[Grasses spread] --> B[High-crowned grazers]\nB --> C[Browsers displaced]\nA --> D[Soils bury carbon, albedo rises]\nD --> E[Cooler, drier climate]\nE --> F[Perissodactyls decline]"
+  }
+ ],
+ "mioc-053": [
+  {
+   "type": "scale",
+   "caption": "Timeline of the Middle Miocene Climatic Optimum.",
+   "sent_ids": [
+    "9317d7d9370b",
+    "29a1efaa33d6"
+   ],
+   "axis": "Million years ago",
+   "log": false,
+   "marks": [
+    [
+     16.9,
+     "Onset"
+    ],
+    [
+     15.3,
+     "Peak warmth"
+    ],
+    [
+     13.8,
+     "End"
+    ]
+   ]
+  }
+ ],
+ "mioc-137": [
+  {
+   "type": "scale",
+   "caption": "Molecular estimates for the human–chimpanzee split.",
+   "sent_ids": [
+    "3bd191d42d3b",
+    "4e1b88beb415",
+    "722b6a11ce67",
+    "ee8ea3ce0a0f",
+    "fa57aa34a92a"
+   ],
+   "axis": "Million years ago",
+   "log": false,
+   "marks": [
+    [
+     8,
+     "2026 meta-analysis"
+    ]
+   ],
+   "ranges": [
+    [
+     10,
+     13,
+     "1998"
+    ],
+    [
+     6.5,
+     9.3,
+     "2016"
+    ],
+    [
+     4.7,
+     6.6,
+     "2022"
+    ],
+    [
+     5.5,
+     6.3,
+     "2025"
+    ]
+   ]
+  },
+  {
+   "type": "flow",
+   "caption": "The order in which ape lineages branched off.",
+   "sent_ids": [
+    "1388cb0f1d31"
+   ],
+   "mermaid": "flowchart TD\nA[Gibbons branch off] --> B[Orangutans]\nB --> C[Gorillas]\nC --> D[Chimpanzees and humans split]"
+  }
+ ],
+ "mioc-145": [
+  {
+   "type": "flow",
+   "caption": "Falling CO2 favored C4 grasses, which reshaped herbivores.",
+   "sent_ids": [
+    "71c109cb3d79",
+    "1759d6982e2a"
+   ],
+   "mermaid": "flowchart LR\nA[CO2 falls] --> B[C4 grasses dominate]\nB --> C[Herbivores without high crowns die]"
+  }
+ ],
+ "mioc-154": [
+  {
+   "type": "flow",
+   "caption": "The stages of the Messinian salinity crisis.",
+   "sent_ids": [
+    "b616b4d1c43e",
+    "852680698674",
+    "31847255569c",
+    "3ad4d2005cf3"
+   ],
+   "mermaid": "flowchart TD\nA[Atlantic gateways close] --> B[Mediterranean sealed]\nB --> C[Sea dries, evaporites pile up]\nC --> D[River water forms Lago Mare]\nD --> E[Strait of Gibraltar reopens]"
+  }
+ ],
+ "plio-056": [
+  {
+   "type": "flow",
+   "caption": "How the Isthmus of Panama helped cool the Arctic.",
+   "sent_ids": [
+    "911b9f1ef45b",
+    "04221b7c0e3a",
+    "8eb3047d2801",
+    "940b4934db47"
+   ],
+   "mermaid": "flowchart TD\nA[Isthmus forms] --> B[Equatorial current ends]\nB --> C[More heat, salt to North Atlantic]\nA --> D[Gulf Stream, Humboldt strengthen]\nD --> E[Arctic cools]\nE --> F[Quaternary glaciations]"
+  }
+ ],
+ "plio-057": [
+  {
+   "type": "table",
+   "caption": "Animals that crossed the new land bridge in each direction.",
+   "sent_ids": [
+    "50140da7f7ec",
+    "5f0c3a3d5fc4",
+    "769ee63e4fde"
+   ],
+   "header": [
+    "Moved south",
+    "Moved north"
+   ],
+   "rows": [
+    [
+     "Cats",
+     "Armadillos"
+    ],
+    [
+     "Condors",
+     "Hummingbirds"
+    ],
+    [
+     "Raccoons",
+     "Opossums"
+    ],
+    [
+     "Camelids",
+     "Ground sloths"
+    ],
+    [
+     "Horses, tapirs",
+     "Glyptodonts"
+    ]
+   ]
+  }
+ ],
+ "plio-058": [
+  {
+   "type": "cycle",
+   "caption": "A self-reinforcing cooling loop at the onset of northern glaciation.",
+   "sent_ids": [
+    "b342c26b437e"
+   ],
+   "steps": [
+    "Indonesian Throughflow weakens",
+    "Less heat toward Antarctica",
+    "Earth cools",
+    "Sea levels fall"
+   ]
+  }
+ ],
+ "gela-024": [
+  {
+   "type": "scale",
+   "caption": "The fossil record of Homo erectus.",
+   "sent_ids": [
+    "28e3ad497828",
+    "c2e19d555d0d",
+    "cc1eca728848"
+   ],
+   "axis": "Million years ago",
+   "log": false,
+   "marks": [
+    [
+     2.04,
+     "DNH 134"
+    ],
+    [
+     1.9,
+     "KNM-ER 2598"
+    ],
+    [
+     0.6,
+     "Last H. erectus"
+    ]
+   ],
+   "ranges": [
+    [
+     1,
+     1.8,
+     "Most fossils"
+    ]
+   ]
+  }
+ ],
+ "gela-028": [
+  {
+   "type": "scale",
+   "caption": "Early hominin sites outside Africa.",
+   "sent_ids": [
+    "e503717b526c"
+   ],
+   "axis": "Million years ago",
+   "log": false,
+   "marks": [
+    [
+     2,
+     "Riwat"
+    ],
+    [
+     1.81,
+     "Dmanisi"
+    ],
+    [
+     1.5,
+     "Ubeidiya"
+    ]
+   ]
+  }
+ ],
+ "gela-057": [
+  {
+   "type": "bar",
+   "caption": "Glacial cycles lengthened in the Mid-Pleistocene Transition.",
+   "sent_ids": [
+    "5bde2af1daba"
+   ],
+   "unit": "Years per cycle",
+   "bars": [
+    [
+     "Before",
+     41000
+    ],
+    [
+     "After",
+     100000
+    ]
+   ]
+  }
+ ],
+ "late-036": [
+  {
+   "type": "flow",
+   "caption": "The Southern Route out of Africa.",
+   "sent_ids": [
+    "4037513ee58c",
+    "46d5b807b2fb",
+    "387b115dfe5d"
+   ],
+   "mermaid": "flowchart TD\nA[Africa] --> B[Bab-el-Mandeb strait]\nB --> C[Arabian and Persian coasts]\nC --> D[South Asia]\nD --> E[Southeast Asia, Oceania]\nC --> F[Zagros into Eurasia]"
+  }
+ ],
+ "late-046": [
+  {
+   "type": "bar",
+   "caption": "Share of megafaunal species lost by region.",
+   "sent_ids": [
+    "c3ea9588b35c"
+   ],
+   "unit": "% of species lost",
+   "bars": [
+    [
+     "Worldwide",
+     65
+    ],
+    [
+     "North America",
+     72
+    ],
+    [
+     "South America",
+     83
+    ],
+    [
+     "Australia",
+     88
+    ]
+   ]
+  }
+ ],
+ "late-096": [
+  {
+   "type": "scale",
+   "caption": "Steps of the last deglaciation.",
+   "sent_ids": [
+    "aa92fb281153",
+    "496588616606",
+    "e2574dc231c1"
+   ],
+   "axis": "Years ago",
+   "log": false,
+   "marks": [
+    [
+     22000,
+     "Antarctica warms"
+    ],
+    [
+     19000,
+     "Northern ice retreats"
+    ],
+    [
+     16000,
+     "Britain still iced"
+    ],
+    [
+     14600,
+     "Northern warming"
+    ]
+   ]
+  }
+ ],
+ "late-109": [
+  {
+   "type": "scale",
+   "caption": "Widely accepted pre-Clovis sites in the Americas.",
+   "sent_ids": [
+    "4b6179cbf596"
+   ],
+   "axis": "Years before present",
+   "log": false,
+   "marks": [
+    [
+     15800,
+     "Cooper's Ferry"
+    ],
+    [
+     14550,
+     "Page-Ladson"
+    ],
+    [
+     14200,
+     "Paisley Caves"
+    ]
+   ]
+  }
+ ],
+ "late-117": [
+  {
+   "type": "flow",
+   "caption": "The polar seesaw at the Bølling–Allerød.",
+   "sent_ids": [
+    "5e2c03706d13"
+   ],
+   "mermaid": "flowchart TD\nA[Stronger Atlantic overturning] --> B[Heat carried north]\nB --> C[North warms]\nA --> D[South cools]"
+  }
+ ],
+ "late-136": [
+  {
+   "type": "bar",
+   "caption": "Younger Dryas cooling in two regions.",
+   "sent_ids": [
+    "bf610ca42388"
+   ],
+   "unit": "°C cooler",
+   "bars": [
+    [
+     "North America",
+     3
+    ],
+    [
+     "Greenland",
+     10
+    ]
+   ]
+  },
+  {
+   "type": "flow",
+   "caption": "The proposed trigger chain for the Younger Dryas.",
+   "sent_ids": [
+    "daf0b6de0892",
+    "9ed8c1671e84"
+   ],
+   "mermaid": "flowchart LR\nA[Lake Agassiz flood or volcanism] -.-> B[Atlantic overturning weakens]\nB --> C[Younger Dryas cold]"
+  }
+ ],
+ "nort-001": [
+  {
+   "type": "flow",
+   "caption": "The likely chain behind the 8.2-kiloyear cooling.",
+   "sent_ids": [
+    "c1cebad1e2e9",
+    "0abd8a9b89d6"
+   ],
+   "mermaid": "flowchart TD\nA[Agassiz and Ojibway drain] --> B[Meltwater into North Atlantic]\nB -.-> C[Overturning weakens]\nC --> D[Abrupt cooling]"
+  }
+ ],
+ "nort-021": [
+  {
+   "type": "flow",
+   "caption": "How the green Sahara turned into desert.",
+   "sent_ids": [
+    "fa1c79c4511c",
+    "f798259651d5"
+   ],
+   "mermaid": "flowchart TD\nA[Orbital shifts] --> B[Less rainfall]\nB --> C[Lakes dry, plants vanish]\nC --> D[More dust]\nC --> E[Less methane]"
+  }
+ ],
+ "megh-001": [
+  {
+   "type": "flow",
+   "caption": "How an ocean change may have toppled ancient states.",
+   "sent_ids": [
+    "ac8b17d7ff74",
+    "eef44128d78f",
+    "c160de3f32df"
+   ],
+   "mermaid": "flowchart TD\nA[Atlantic overturning weakens] --> B[Rain belt shifts south]\nB --> C[Severe drought]\nC --> D[Nile floods fail]\nD -.-> E[Old Kingdom falls]"
+  }
+ ],
+ "megh-090": [
+  {
+   "type": "bar",
+   "caption": "Global average temperature rose by a degree between two periods.",
+   "sent_ids": [
+    "a4fa9a8c9cba"
+   ],
+   "unit": "°C",
+   "bars": [
+    [
+     "1951 to 1980",
+     14
+    ],
+    [
+     "2013 to 2017",
+     15
+    ]
+   ]
+  }
+ ]
+}

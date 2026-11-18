@@ -1,0 +1,5621 @@
+{
+ "nature-found-015": [
+  {
+   "type": "cycle",
+   "caption": "Energy and nutrients move from plants to animals to decomposers and back to plants.",
+   "sent_ids": [
+    "e7d75998df20",
+    "dcc1d5eb9ca5",
+    "d4616e5f5efd"
+   ],
+   "center": "Ecosystem",
+   "steps": [
+    [
+     "Plants capture energy",
+     "eaten by"
+    ],
+    [
+     "Animals eat plants and each other",
+     "die and become"
+    ],
+    [
+     "Dead matter",
+     "broken down by"
+    ],
+    [
+     "Decomposers",
+     "return nutrients to"
+    ]
+   ]
+  }
+ ],
+ "nature-found-001": [
+  {
+   "type": "bar",
+   "caption": "The Mora et al. estimate puts far more species on land than in the ocean.",
+   "sent_ids": [
+    "04e8833c3f1d"
+   ],
+   "unit": "million species",
+   "bars": [
+    [
+     "On land",
+     8.7
+    ],
+    [
+     "In the ocean",
+     2.2
+    ]
+   ]
+  },
+  {
+   "type": "tree",
+   "caption": "Biodiversity is usually described at three levels.",
+   "sent_ids": [
+    "c00c468f7db1",
+    "2795e2922203"
+   ],
+   "root": "Biodiversity",
+   "children": {
+    "Genes": null,
+    "Species": null,
+    "Ecosystems": null
+   }
+  }
+ ],
+ "nature-found-004": [
+  {
+   "type": "table",
+   "caption": "New York City compared restoring its watershed with building a filtration plant.",
+   "sent_ids": [
+    "b3fd94c7500b",
+    "fd9121d14849"
+   ],
+   "header": [
+    "Option",
+    "Estimated cost"
+   ],
+   "rows": [
+    [
+     "Restore Catskill watershed",
+     "$1–1.5 billion"
+    ],
+    [
+     "Build filtration plant",
+     "$6–8 billion plus $300 million a year to run"
+    ]
+   ]
+  }
+ ],
+ "nature-found-005": [
+  {
+   "type": "tree",
+   "caption": "The Millennium Ecosystem Assessment sorts services into four groups, each with examples.",
+   "sent_ids": [
+    "399710d375a2",
+    "3bd6467c5939",
+    "59a214b5cf04",
+    "c4d0bb7de2de",
+    "89032595668f"
+   ],
+   "root": "Ecosystem services",
+   "children": {
+    "Provisioning": {
+     "Food": null,
+     "Fresh water": null,
+     "Wood and fuel": null
+    },
+    "Regulating": {
+     "Climate control": null,
+     "Flood control": null,
+     "Disease regulation": null
+    },
+    "Supporting": {
+     "Nutrient cycling": null,
+     "Primary production": null,
+     "Soil formation": null
+    },
+    "Cultural": null
+   }
+  },
+  {
+   "type": "table",
+   "caption": "Three schemes group ecosystem services in slightly different ways.",
+   "sent_ids": [
+    "399710d375a2",
+    "e35d82066064",
+    "53d5fd13a0fa"
+   ],
+   "header": [
+    "Scheme",
+    "Groups"
+   ],
+   "rows": [
+    [
+     "Millennium Ecosystem Assessment",
+     "Provisioning, regulating, cultural, supporting"
+    ],
+    [
+     "TEEB",
+     "Supporting replaced by habitat services"
+    ],
+    [
+     "CICES",
+     "Provisioning, cultural, regulation and maintenance"
+    ]
+   ]
+  }
+ ],
+ "nature-found-022": [
+  {
+   "type": "scale",
+   "caption": "Life reaches deep underground and high into the atmosphere.",
+   "sent_ids": [
+    "cc1a800cee84",
+    "66dfa23ef791"
+   ],
+   "axis": "Distance from the surface, km",
+   "marks": [
+    [
+     -19,
+     "At least 19 km underground"
+    ],
+    [
+     0,
+     "Surface"
+    ],
+    [
+     64,
+     "At least 64 km up"
+    ]
+   ]
+  }
+ ],
+ "nature-found-020": [
+  {
+   "type": "flow",
+   "caption": "A pollutant becomes pollution only once the environment's capacity to absorb it is exceeded.",
+   "sent_ids": [
+    "5cbcbbfbbeb0",
+    "83ec529edc86"
+   ],
+   "mermaid": "flowchart TD\nA[Pollutant released] --> B[Diluted, dispersed or removed]\nB --> C{Capacity exceeded?}\nC -->|no| D[Absorbed without harm]\nC -->|yes| E[Pollution]"
+  }
+ ],
+ "nature-found-025": [
+  {
+   "type": "cycle",
+   "caption": "The three crises feed one another.",
+   "sent_ids": [
+    "4f3755c6e289",
+    "c1198808db27"
+   ],
+   "center": "Triple planetary crisis",
+   "steps": [
+    "Pollution",
+    "Climate change",
+    "Biodiversity loss"
+   ]
+  }
+ ],
+ "nature-found-031": [
+  {
+   "type": "flow",
+   "caption": "Car pollution shows how an unpriced cost becomes a market failure, and how a tax can internalize it.",
+   "sent_ids": [
+    "32a469903a4b",
+    "0d3707b5a7e9",
+    "07737a22a66e",
+    "954bf93647b2",
+    "fcf28a6a4658"
+   ],
+   "mermaid": "flowchart TD\nA[Driving cars] --> B[Air pollution]\nB --> C[Cost falls on society]\nC --> D[Price misses true cost]\nD --> E[Market failure]\nE -.->|remedy| F[Tax the polluter]"
+  }
+ ],
+ "nature-found-045": [
+  {
+   "type": "tree",
+   "caption": "Mainstream economics lists several causes of market failure.",
+   "sent_ids": [
+    "a0078d5c0d40"
+   ],
+   "root": "Market failure",
+   "children": {
+    "Monopoly power": null,
+    "Externalities": null,
+    "Public goods": null,
+    "Missing or unequal information": null,
+    "Unequal bargaining power": null,
+    "Irrational behavior": null,
+    "Unemployment or inflation": null
+   }
+  }
+ ],
+ "nature-found-054": [
+  {
+   "type": "table",
+   "caption": "The three kinds of scarcity differ in what causes them.",
+   "sent_ids": [
+    "111dc7d9e55d",
+    "77418ec1a993",
+    "23a9f9d827c2",
+    "7fbb9af42a30"
+   ],
+   "header": [
+    "Type",
+    "What happens"
+   ],
+   "rows": [
+    [
+     "Demand-induced",
+     "Demand rises, supply stays the same"
+    ],
+    [
+     "Supply-induced",
+     "Supply very low against demand, often from degradation"
+    ],
+    [
+     "Structural",
+     "Part of a population lacks equal access"
+    ]
+   ]
+  }
+ ],
+ "nature-found-088": [
+  {
+   "type": "flow",
+   "caption": "Odum's marshland case shows small choices adding up to a large loss.",
+   "sent_ids": [
+    "5056885c1e92",
+    "f15001ea6e25",
+    "b7901c8a0fb8",
+    "b6304ed4c1ee"
+   ],
+   "mermaid": "flowchart TD\nA[Hundreds of small conversions] --> B[Each insignificant alone]\nB --> C[Almost 50 percent of marshland lost]\nC --> D[Outcome nobody chose]"
+  }
+ ],
+ "nature-found-056": [
+  {
+   "type": "bar",
+   "caption": "Outdoor fine particles caused the most air pollution deaths in 2021.",
+   "sent_ids": [
+    "20b96110021e"
+   ],
+   "unit": "million deaths",
+   "bars": [
+    [
+     "Outdoor fine particles",
+     4.7
+    ],
+    [
+     "Indoor particles",
+     3.1
+    ],
+    [
+     "Ozone",
+     0.5
+    ]
+   ]
+  },
+  {
+   "type": "bar",
+   "caption": "Air pollution cost far more years of life expectancy in 2015 than direct violence.",
+   "sent_ids": [
+    "2398d1ece116"
+   ],
+   "unit": "years of life expectancy lost",
+   "bars": [
+    [
+     "Air pollution",
+     2.9
+    ],
+    [
+     "All direct violence",
+     0.3
+    ]
+   ]
+  }
+ ],
+ "nature-found-072": [
+  {
+   "type": "bar",
+   "caption": "US annual PM2.5 averages fell between 2000 and 2017.",
+   "sent_ids": [
+    "f66e67cd5549"
+   ],
+   "unit": "μg/m3",
+   "bars": [
+    [
+     "2000",
+     13.5
+    ],
+    [
+     "2017",
+     8.02
+    ]
+   ]
+  }
+ ],
+ "nature-found-076": [
+  {
+   "type": "table",
+   "caption": "Stock and fund pollutants differ in how the environment handles them.",
+   "sent_ids": [
+    "e020cd45cd14",
+    "a17a973a1fb0",
+    "8ea129590a81",
+    "a61705777591",
+    "bccb2578e8ad"
+   ],
+   "header": [
+    "",
+    "Stock pollutants",
+    "Fund pollutants"
+   ],
+   "rows": [
+    [
+     "Examples",
+     "PCBs, plastics, heavy metals",
+     "Carbon dioxide"
+    ],
+    [
+     "Over time",
+     "Accumulate; damage persists",
+     "Converted or diluted"
+    ],
+    [
+     "Harm when",
+     "Always builds up",
+     "Emissions outpace absorption"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-095": [
+  {
+   "type": "table",
+   "caption": "The office-supplies example splits the cost into explicit and implicit parts.",
+   "sent_ids": [
+    "006f804be704",
+    "91f7584eeb44"
+   ],
+   "header": [
+    "Cost",
+    "Amount",
+    "Kind"
+   ],
+   "rows": [
+    [
+     "Office supplies",
+     "$200",
+     "Explicit"
+    ],
+    [
+     "Hour of lost earnings",
+     "$25",
+     "Implicit"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-137": [
+  {
+   "type": "table",
+   "caption": "Market structures differ in the number of firms or buyers and in pricing.",
+   "sent_ids": [
+    "3b90812538d3",
+    "fae581524bfb",
+    "e994dfc3950f",
+    "c63490730832",
+    "29344080a820",
+    "eb2077858003"
+   ],
+   "header": [
+    "Structure",
+    "Who is in it",
+    "Key feature"
+   ],
+   "rows": [
+    [
+     "Perfect competition",
+     "Many small firms, identical products",
+     "Price takers"
+    ],
+    [
+     "Monopolistic competition",
+     "Many firms, slightly different products",
+     "Restaurants, cereal"
+    ],
+    [
+     "Oligopoly",
+     "A few firms",
+     "May form cartels"
+    ],
+    [
+     "Monopoly",
+     "One supplier",
+     "Higher prices"
+    ],
+    [
+     "Monopsony",
+     "One buyer",
+     "Can set wages low"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-121": [
+  {
+   "type": "table",
+   "caption": "Excludability and rivalry together sort goods into four types.",
+   "sent_ids": [
+    "ec4f93344c6d",
+    "085735cd78df",
+    "a8e7cfc7c889",
+    "397cb71fe125"
+   ],
+   "header": [
+    "",
+    "Rival",
+    "Not rival"
+   ],
+   "rows": [
+    [
+     "Excludable",
+     "Private goods (food)",
+     "Club goods (cinemas)"
+    ],
+    [
+     "Not excludable",
+     "Common-pool (fish stocks)",
+     "Public goods (air)"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-086": [
+  {
+   "type": "tree",
+   "caption": "Primary factors of production give rise to secondary ones.",
+   "sent_ids": [
+    "c5b413269208",
+    "eecfaf12b647",
+    "b3a6da4aeee2"
+   ],
+   "root": "Factors of production",
+   "children": {
+    "Primary": {
+     "Land": null,
+     "Labor": null,
+     "Capital": null
+    },
+    "Secondary": {
+     "Materials": null,
+     "Energy": null
+    }
+   }
+  }
+ ],
+ "nature-econ-153": [
+  {
+   "type": "table",
+   "caption": "Ownership and allocation together name three economic systems.",
+   "sent_ids": [
+    "226860462138",
+    "858368b569a1"
+   ],
+   "header": [
+    "Ownership",
+    "Allocation",
+    "System"
+   ],
+   "rows": [
+    [
+     "Private",
+     "Markets",
+     "Market capitalism"
+    ],
+    [
+     "Public or cooperative",
+     "Planning",
+     "Socialist planned economy"
+    ],
+    [
+     "Public",
+     "Markets",
+     "Market socialism"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-113": [
+  {
+   "type": "flow",
+   "caption": "Adding workers to a fixed factory floor raises output by less and less.",
+   "sent_ids": [
+    "13dc7aba608d",
+    "581110cd1937",
+    "ee5608db8ea2"
+   ],
+   "mermaid": "flowchart TD\nA[Fixed machines and space] --> B[First workers: output more than doubles]\nB --> C[Then output rises in proportion]\nC --> D[Then less and less added]"
+  }
+ ],
+ "nature-econ-112": [
+  {
+   "type": "scale",
+   "caption": "Three landmark definitions of economics span more than a century.",
+   "sent_ids": [
+    "658b31104428",
+    "56810ed00b21",
+    "146bcfebd9ce"
+   ],
+   "axis": "Year",
+   "marks": [
+    [
+     1803,
+     "Say: wealth"
+    ],
+    [
+     1890,
+     "Marshall: ordinary business of life"
+    ],
+    [
+     1932,
+     "Robbins: scarce means"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-360": [
+  {
+   "type": "scale",
+   "caption": "Demand and supply curves were drawn and popularized across the nineteenth century.",
+   "sent_ids": [
+    "20efee6c6615",
+    "87a3726ef149",
+    "b563664f39da"
+   ],
+   "axis": "Year",
+   "marks": [
+    [
+     1838,
+     "Cournot: demand curves"
+    ],
+    [
+     1870,
+     "Jenkin: supply curves"
+    ],
+    [
+     1890,
+     "Marshall popularizes both"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-335": [
+  {
+   "type": "flow",
+   "caption": "Gluts and shortages push the price back toward equilibrium.",
+   "sent_ids": [
+    "39779f67d6a4",
+    "8cda4bd0c4bc"
+   ],
+   "mermaid": "flowchart TD\nA[Price above equilibrium] --> B[Glut]\nB --> C[Prices pushed down]\nD[Price below equilibrium] --> E[Shortage]\nE --> F[Prices pushed up]\nC --> G[Equilibrium price]\nF --> G"
+  }
+ ],
+ "nature-econ-358": [
+  {
+   "type": "scale",
+   "caption": "Demand is inelastic below one in absolute value and elastic above it.",
+   "sent_ids": [
+    "822019570b61",
+    "ef2786da3f0b"
+   ],
+   "axis": "Price elasticity, absolute value",
+   "ranges": [
+    [
+     0,
+     1,
+     "Inelastic"
+    ],
+    [
+     1,
+     3,
+     "Elastic"
+    ]
+   ],
+   "marks": [
+    [
+     1,
+     "One"
+    ]
+   ]
+  },
+  {
+   "type": "flow",
+   "caption": "Whether a price rise raises revenue depends on elasticity.",
+   "sent_ids": [
+    "6d4c99e504e4",
+    "f4f2400fb317"
+   ],
+   "mermaid": "flowchart TD\nA[Price rises] --> B{Demand inelastic?}\nB -->|yes| C[Revenue increases]\nB -->|no, elastic| D[Revenue falls]"
+  }
+ ],
+ "nature-econ-385": [
+  {
+   "type": "scale",
+   "caption": "The sign and size of income elasticity separate inferior goods, necessities and luxuries.",
+   "sent_ids": [
+    "7961dd97e47e",
+    "da0cfe45404f",
+    "ee06616276b8",
+    "1b8e44d3bcea"
+   ],
+   "axis": "Income elasticity of demand",
+   "ranges": [
+    [
+     -1,
+     0,
+     "Inferior"
+    ],
+    [
+     0,
+     1,
+     "Necessity"
+    ],
+    [
+     1,
+     2,
+     "Luxury"
+    ]
+   ]
+  },
+  {
+   "type": "bar",
+   "caption": "The income elasticity for cereals is far lower in the United States than in Tanzania.",
+   "sent_ids": [
+    "68c6b74058ac",
+    "1fdbb497d639",
+    "b05feba00533"
+   ],
+   "unit": "income elasticity, cereals",
+   "bars": [
+    [
+     "Tanzania",
+     0.62
+    ],
+    [
+     "United States",
+     0.05
+    ]
+   ]
+  }
+ ],
+ "nature-econ-402": [
+  {
+   "type": "flow",
+   "caption": "Holding prices artificially low leads to shortages and black markets.",
+   "sent_ids": [
+    "d0a7cfc7c81b",
+    "921da492bdc1"
+   ],
+   "mermaid": "flowchart TD\nA[Price held artificially low] --> B[Demand exceeds supply]\nB --> C[Shortages]\nC --> D[Black markets with higher prices]"
+  }
+ ],
+ "nature-econ-361": [
+  {
+   "type": "table",
+   "caption": "Each shift moves the equilibrium price and quantity in its own way.",
+   "sent_ids": [
+    "1b1a816d518b",
+    "7f03547aeba1",
+    "0f81f3162c99",
+    "2a5099ef1102",
+    "96d501c09721"
+   ],
+   "header": [
+    "Change",
+    "Curve shift",
+    "Result"
+   ],
+   "rows": [
+    [
+     "Demand rises",
+     "Demand shifts out",
+     "Price and quantity rise"
+    ],
+    [
+     "Cheaper wheat growing",
+     "Supply shifts out",
+     "Lower price, more sold"
+    ],
+    [
+     "Raw materials cost more",
+     "Supply shifts left",
+     "Less offered at every price"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-347": [
+  {
+   "type": "bar",
+   "caption": "Most surveyed executives said their marginal costs were constant or falling.",
+   "sent_ids": [
+    "58f2268a2328",
+    "0e09861ee60e"
+   ],
+   "unit": "% of executives",
+   "bars": [
+    [
+     "Rose with output",
+     11
+    ],
+    [
+     "Constant",
+     48
+    ],
+    [
+     "Fell",
+     41
+    ]
+   ]
+  }
+ ],
+ "nature-econ-409": [
+  {
+   "type": "flow",
+   "caption": "In perfect competition, economic profit attracts entry until it disappears.",
+   "sent_ids": [
+    "2a5c405260f3",
+    "a2bd15f0a3ff",
+    "4fdf23e2199d"
+   ],
+   "mermaid": "flowchart TD\nA[Economic profit] --> B[New firms enter]\nB --> C[Prices fall]\nC --> D[Profit disappears in long run]"
+  }
+ ],
+ "nature-econ-373": [
+  {
+   "type": "table",
+   "caption": "In the example, a $0.50 tax splits between buyers and sellers and cuts sales.",
+   "sent_ids": [
+    "7a9cb004b661",
+    "d739f63f1733",
+    "b434c61cb792"
+   ],
+   "header": [
+    "",
+    "Before tax",
+    "After tax"
+   ],
+   "rows": [
+    [
+     "Buyers pay",
+     "$3.00",
+     "$3.30"
+    ],
+    [
+     "Sellers keep",
+     "$3.00",
+     "$2.80"
+    ],
+    [
+     "Units sold",
+     "100",
+     "80"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-338": [
+  {
+   "type": "tree",
+   "caption": "Total surplus is the sum of consumer and producer surplus.",
+   "sent_ids": [
+    "f80fe11965a3",
+    "3c8954f3dc18",
+    "17f2fd54b97a",
+    "c2f3984593dd"
+   ],
+   "root": "Total (social) surplus",
+   "children": {
+    "Consumer surplus": {
+     "Above price, below demand": null
+    },
+    "Producer surplus": {
+     "Below price, above supply": null
+    }
+   }
+  }
+ ],
+ "nature-econ-345": [
+  {
+   "type": "scale",
+   "caption": "Buyers who value a nail between its cost and the monopoly price are shut out.",
+   "sent_ids": [
+    "42f2ca82edd4",
+    "9c1419e4ab01",
+    "7f631292c559"
+   ],
+   "axis": "Price of a nail, $",
+   "marks": [
+    [
+     0.1,
+     "Cost to make"
+    ],
+    [
+     0.6,
+     "Monopoly price"
+    ]
+   ],
+   "ranges": [
+    [
+     0.1,
+     0.6,
+     "Buyers shut out"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-403": [
+  {
+   "type": "table",
+   "caption": "Pigou's three degrees of price discrimination set prices in different ways.",
+   "sent_ids": [
+    "3239ec985a66",
+    "c27bafce299d",
+    "8809f6abaddc",
+    "6562e07c1d88",
+    "c3c29695ddeb",
+    "e4d858bffc99"
+   ],
+   "header": [
+    "Degree",
+    "How price is set",
+    "Example"
+   ],
+   "rows": [
+    [
+     "First (perfect)",
+     "Each buyer pays their maximum",
+     "All surplus to seller"
+    ],
+    [
+     "Second",
+     "Varies with quantity bought",
+     "Bulk pricing"
+    ],
+    [
+     "Third",
+     "Different groups pay differently",
+     "Student and senior discounts"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-394": [
+  {
+   "type": "flow",
+   "caption": "After an earthquake, rising prices draw out new building until supply meets demand.",
+   "sent_ids": [
+    "d0c55d48b699",
+    "d451984cd845",
+    "d02efd9b6232",
+    "49a626e0c088"
+   ],
+   "mermaid": "flowchart TD\nA[Earthquake destroys homes] --> B[Housing shortage]\nB --> C[Prices rise]\nC --> D[Builders build more]\nD --> E[Supply meets new demand]"
+  }
+ ],
+ "nature-econ-315": [
+  {
+   "type": "flow",
+   "caption": "A firm compares marginal revenue (MR) with marginal cost (MC) to find its most profitable output.",
+   "sent_ids": [
+    "6dcbf25c059e",
+    "ecd437e7ab3d"
+   ],
+   "mermaid": "flowchart TD\nA{MR vs MC?} -->|revenue larger| B[Produce more]\nB --> A\nA -->|equal| C[Profit is highest]"
+  }
+ ],
+ "nature-econ-309": [
+  {
+   "type": "table",
+   "caption": "The short and long run differ in which inputs can change.",
+   "sent_ids": [
+    "c87e883a445d",
+    "d9b05a5d15fe",
+    "885d35451a07",
+    "0cafcd4cb254"
+   ],
+   "header": [
+    "",
+    "Short run",
+    "Long run"
+   ],
+   "rows": [
+    [
+     "Fixed inputs",
+     "Some",
+     "None"
+    ],
+    [
+     "What can change",
+     "Labor and raw materials",
+     "Capital, entry and exit"
+    ],
+    [
+     "Production",
+     "All actual production",
+     "Firms resize plants"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-301": [
+  {
+   "type": "bar",
+   "caption": "International cartels raised prices more than domestic ones.",
+   "sent_ids": [
+    "8c146df2a583",
+    "c3c04ba15684"
+   ],
+   "unit": "% median price increase",
+   "bars": [
+    [
+     "All cartels",
+     23
+    ],
+    [
+     "International",
+     28
+    ],
+    [
+     "Domestic",
+     18
+    ]
+   ]
+  }
+ ],
+ "nature-econ-320": [
+  {
+   "type": "flow",
+   "caption": "Adoption follows an S-shaped path from slow to rapid to level.",
+   "sent_ids": [
+    "68dbe3ac012f"
+   ],
+   "mermaid": "flowchart LR\nA[Slow at first] --> B[Rapid] --> C[Levels off as market saturates]"
+  }
+ ],
+ "nature-econ-179": [
+  {
+   "type": "cycle",
+   "caption": "In Condorcet's paradox the majority's preferences run in a circle.",
+   "sent_ids": [
+    "bef84bf5264e",
+    "6fd51494e683"
+   ],
+   "center": "Majority preference",
+   "steps": [
+    [
+     "A",
+     "preferred to"
+    ],
+    [
+     "B",
+     "preferred to"
+    ],
+    [
+     "C",
+     "preferred to"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-163": [
+  {
+   "type": "table",
+   "caption": "Four marginal conditions must all hold for Pareto efficiency.",
+   "sent_ids": [
+    "072db795f1d6",
+    "b832492bd5ef",
+    "8701f4946e34",
+    "bd1aa7f8280e"
+   ],
+   "header": [
+    "Condition",
+    "Must be equal across"
+   ],
+   "rows": [
+    [
+     "Marginal rate of substitution",
+     "Every consumer"
+    ],
+    [
+     "Marginal rate of transformation",
+     "Every producer"
+    ],
+    [
+     "Marginal product of a factor",
+     "Every producer of a good"
+    ],
+    [
+     "Substitution vs transformation",
+     "Consumers and producers"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-610": [
+  {
+   "type": "table",
+   "caption": "Common-pool resources can be held under different kinds of ownership.",
+   "sent_ids": [
+    "67db79cc2a94",
+    "101b246b2aef"
+   ],
+   "header": [
+    "Owner",
+    "Held as"
+   ],
+   "rows": [
+    [
+     "Governments",
+     "Public goods"
+    ],
+    [
+     "Communities",
+     "Common property"
+    ],
+    [
+     "Individuals and firms",
+     "Private goods"
+    ],
+    [
+     "No one",
+     "Open access"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-606": [
+  {
+   "type": "scale",
+   "caption": "The commons idea runs from a Swiss commons through Lloyd to Hardin.",
+   "sent_ids": [
+    "4d59f895a8e7",
+    "b1ff022a37e5",
+    "505de84c9993"
+   ],
+   "axis": "Year",
+   "marks": [
+    [
+     1517,
+     "Swiss Alpine commons run by farmers"
+    ],
+    [
+     1833,
+     "Lloyd's pamphlet"
+    ],
+    [
+     1968,
+     "Hardin's essay"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-617": [
+  {
+   "type": "flow",
+   "caption": "Because nonpayers cannot be excluded, free riding leads to too little of a good.",
+   "sent_ids": [
+    "cbad761a1f7c",
+    "7aff4d283e14",
+    "cb8764d4b883"
+   ],
+   "mermaid": "flowchart TD\nA[No one can be excluded] --> B[Little reason to pay]\nB --> C[Free riding]\nC --> D[Too little produced or too much used]"
+  }
+ ],
+ "nature-econ-621": [
+  {
+   "type": "tree",
+   "caption": "Property rights bundle three separate rights.",
+   "sent_ids": [
+    "fd131db21d01",
+    "45c889822775",
+    "18bdf4d96e82",
+    "194d66794c0a"
+   ],
+   "root": "Property rights",
+   "children": {
+    "Use the good": null,
+    "Earn income from it": null,
+    "Sell, change or destroy it": null
+   }
+  }
+ ],
+ "nature-econ-613": [
+  {
+   "type": "table",
+   "caption": "Ostrom's design principles cover boundaries, rules, monitoring, sanctions and nesting.",
+   "sent_ids": [
+    "ed6660a08c55",
+    "02a395b942e6",
+    "7146093fbd37",
+    "a698af9afa5d",
+    "3f7b62bc9eb4",
+    "17e018e3348b",
+    "3ff8ffdfac8b",
+    "a444e762d458"
+   ],
+   "header": [
+    "Area",
+    "Principle"
+   ],
+   "rows": [
+    [
+     "Boundaries",
+     "Clearly defined"
+    ],
+    [
+     "Rules",
+     "Fit local conditions"
+    ],
+    [
+     "Rule-making",
+     "Most users take part"
+    ],
+    [
+     "Monitoring",
+     "Monitors are or answer to users"
+    ],
+    [
+     "Sanctions",
+     "Grow step by step"
+    ],
+    [
+     "Conflicts",
+     "Settled cheaply and easily"
+    ],
+    [
+     "Authorities",
+     "Recognize right to organize"
+    ],
+    [
+     "Large resources",
+     "Nested groups, local at base"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-622": [
+  {
+   "type": "table",
+   "caption": "The four property regimes differ in who owns and controls a resource.",
+   "sent_ids": [
+    "315a55af7cf7",
+    "e33ee1826cf1",
+    "54d163ef76af",
+    "7d56e3172312",
+    "450542be7ae0"
+   ],
+   "header": [
+    "Regime",
+    "Who controls it",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Open access",
+     "Nobody",
+     "Unregulated forest"
+    ],
+    [
+     "Public (state)",
+     "A government agency",
+     "—"
+    ],
+    [
+     "Private",
+     "Owner or owners",
+     "Cellphone"
+    ],
+    [
+     "Common",
+     "A group of members",
+     "—"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-654": [
+  {
+   "type": "bar",
+   "caption": "In the park example, Sarah and Tom pay different shares of the same per-acre cost.",
+   "sent_ids": [
+    "f74595a0c31a",
+    "89984ac07ad4",
+    "7989041251d0"
+   ],
+   "unit": "$ per acre",
+   "bars": [
+    [
+     "Sarah",
+     5
+    ],
+    [
+     "Tom",
+     10
+    ],
+    [
+     "Total cost",
+     15
+    ]
+   ]
+  }
+ ],
+ "nature-econ-004": [
+  {
+   "type": "bar",
+   "caption": "With free insurance, the person uses twice as much health care.",
+   "sent_ids": [
+    "486bf976321d",
+    "c6fd6c567a8a",
+    "9d9a3415f2ee"
+   ],
+   "unit": "units of health care",
+   "bars": [
+    [
+     "Paying $10 a unit",
+     10
+    ],
+    [
+     "With free insurance",
+     20
+    ]
+   ]
+  }
+ ],
+ "nature-econ-797": [
+  {
+   "type": "table",
+   "caption": "The curve of the utility function shows a person's attitude to risk.",
+   "sent_ids": [
+    "3db4f1ea4055"
+   ],
+   "header": [
+    "Utility curve",
+    "Risk attitude"
+   ],
+   "rows": [
+    [
+     "Concave",
+     "Risk-averse"
+    ],
+    [
+     "Linear",
+     "Risk-neutral"
+    ],
+    [
+     "Convex",
+     "Risk-seeking"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-765": [
+  {
+   "type": "scale",
+   "caption": "Facing a coin flip for $100 or nothing, people with different risk attitudes draw the line at different sure amounts.",
+   "sent_ids": [
+    "d82a9d3e0d75",
+    "ddd3c2b621c3",
+    "ae0f579ecdc3",
+    "358b2b9ef732",
+    "6b9df744e08d"
+   ],
+   "axis": "Sure amount, $",
+   "marks": [
+    [
+     40,
+     "Risk-averse accepts"
+    ],
+    [
+     50,
+     "Risk-neutral indifferent"
+    ],
+    [
+     60,
+     "Risk-lover still bets"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-836": [
+  {
+   "type": "bar",
+   "caption": "The risk premium is the gap between the risky and risk-free returns.",
+   "sent_ids": [
+    "33f9546cc7a5",
+    "30ebe4570d8c"
+   ],
+   "unit": "% return",
+   "bars": [
+    [
+     "Risk-free bond",
+     3
+    ],
+    [
+     "Risky share demanded",
+     8
+    ],
+    [
+     "Risk premium",
+     5
+    ]
+   ]
+  }
+ ],
+ "nature-econ-752": [
+  {
+   "type": "scale",
+   "caption": "Developed nations use lower social discount rates than developing nations.",
+   "sent_ids": [
+    "0cd20b7b66fe",
+    "f94c345e57ad",
+    "a4871afce620"
+   ],
+   "axis": "Social discount rate, %",
+   "ranges": [
+    [
+     3,
+     7,
+     "Developed nations"
+    ],
+    [
+     8,
+     15,
+     "Developing nations"
+    ]
+   ],
+   "marks": [
+    [
+     3.5,
+     "HM Treasury"
+    ],
+    [
+     7,
+     "US OMB"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-755": [
+  {
+   "type": "bar",
+   "caption": "Lower discount rates raised the proposed US social cost of carbon.",
+   "sent_ids": [
+    "334177e28e38"
+   ],
+   "unit": "$ per ton of carbon",
+   "bars": [
+    [
+     "Obama (3% rate)",
+     51
+    ],
+    [
+     "Biden proposal (lower rates)",
+     190
+    ]
+   ]
+  }
+ ],
+ "nature-econ-748": [
+  {
+   "type": "bar",
+   "caption": "Implied yearly discount rates fall as the delay gets longer.",
+   "sent_ids": [
+    "e2d1414a025f",
+    "d92af6b959e6"
+   ],
+   "unit": "% implied yearly discount rate",
+   "bars": [
+    [
+     "$30 in 3 months",
+     277
+    ],
+    [
+     "$60 in 1 year",
+     139
+    ],
+    [
+     "$100 in 3 years",
+     63
+    ]
+   ]
+  }
+ ],
+ "nature-econ-822": [
+  {
+   "type": "bar",
+   "caption": "Several estimates of η cluster just above one.",
+   "sent_ids": [
+    "946acc73faf4",
+    "15fdfe98a227"
+   ],
+   "unit": "estimated η",
+   "bars": [
+    [
+     "United Kingdom",
+     1.5
+    ],
+    [
+     "20 OECD countries",
+     1.4
+    ],
+    [
+     "Layard et al.",
+     1.26
+    ]
+   ]
+  }
+ ],
+ "nature-econ-820": [
+  {
+   "type": "flow",
+   "caption": "The life-cycle model links borrowing and saving to stages of life.",
+   "sent_ids": [
+    "3db257fc1258",
+    "861b56c40dc0",
+    "4a26d148a00f"
+   ],
+   "mermaid": "flowchart LR\nA[Young: borrow] --> B[Earners: save more] --> C[Retirees: live off savings]"
+  }
+ ],
+ "nature-econ-594": [
+  {
+   "type": "flow",
+   "caption": "Investment flows into the capital stock and depreciation flows out.",
+   "sent_ids": [
+    "a68fffde9f52"
+   ],
+   "mermaid": "flowchart LR\nA([Investment: flow]) -->|increases| B[Capital stock]\nB -->|depleted by| C([Depreciation: flow])"
+  }
+ ],
+ "nature-econ-580": [
+  {
+   "type": "tree",
+   "caption": "Productivity gains can be shared among several groups and the environment.",
+   "sent_ids": [
+    "4e7320796e6c",
+    "0bd3dd721958",
+    "d71365e85172",
+    "3e99c028fc1c",
+    "70e2133abba6"
+   ],
+   "root": "Productivity gains",
+   "children": {
+    "Workers: wages": null,
+    "Owners: profits": null,
+    "Consumers: lower prices": null,
+    "Governments: taxes": null,
+    "Environment: less resource use": null
+   }
+  }
+ ],
+ "nature-econ-591": [
+  {
+   "type": "table",
+   "caption": "Bonding, bridging and linking capital connect different kinds of people.",
+   "sent_ids": [
+    "5f762896e991",
+    "57bcf3debbcd",
+    "1b97b63314ec",
+    "a48e80141b13"
+   ],
+   "header": [
+    "Type",
+    "Ties between",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Bonding",
+     "Similar people",
+     "Criminal gangs"
+    ],
+    [
+     "Bridging",
+     "Socially different groups",
+     "Choirs, bowling clubs"
+    ],
+    [
+     "Linking",
+     "A person and an official",
+     "—"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-483": [
+  {
+   "type": "tree",
+   "caption": "GDP is made up of four major components.",
+   "sent_ids": [
+    "9ed538212d7f"
+   ],
+   "root": "GDP",
+   "children": {
+    "Consumption": null,
+    "Government spending": null,
+    "Investment": null,
+    "Net exports": null
+   }
+  }
+ ],
+ "nature-econ-541": [
+  {
+   "type": "table",
+   "caption": "Macroeconomic topics split by time frame.",
+   "sent_ids": [
+    "b9bf1d18d049"
+   ],
+   "header": [
+    "Time frame",
+    "Topic"
+   ],
+   "rows": [
+    [
+     "Short term",
+     "Business cycle swings"
+    ],
+    [
+     "Medium term",
+     "Levels such as unemployment"
+    ],
+    [
+     "Long term",
+     "Growth"
+    ]
+   ]
+  }
+ ],
+ "nature-econ-596": [
+  {
+   "type": "scale",
+   "caption": "The UN standard has been revised several times since 1953.",
+   "sent_ids": [
+    "dca919df389b",
+    "8b97dac26ebc",
+    "425ad9fbeb6e"
+   ],
+   "axis": "Year",
+   "marks": [
+    [
+     1953,
+     "First standard"
+    ],
+    [
+     1968,
+     "Revision"
+    ],
+    [
+     1993,
+     "Revision"
+    ],
+    [
+     2008,
+     "Revision"
+    ],
+    [
+     2026,
+     "SNA 2025 due"
+    ]
+   ]
+  }
+ ],
+ "nature-eco-305": [
+  {
+   "type": "layers",
+   "caption": "Trophic levels stack from producers at the base to apex predators at the top.",
+   "sent_ids": [
+    "6173b42c23c4",
+    "7485e88d84a4",
+    "d4128c132c98"
+   ],
+   "layers": [
+    [
+     "Level 4 or 5",
+     "Apex predators"
+    ],
+    [
+     "Level 3 or higher",
+     "Carnivores (secondary consumers)"
+    ],
+    [
+     "Level 2",
+     "Herbivores (primary consumers)"
+    ],
+    [
+     "Level 1",
+     "Primary producers such as plants"
+    ]
+   ]
+  }
+ ],
+ "nature-eco-407": [
+  {
+   "type": "flow",
+   "caption": "Two cascades: losing a predator lets its prey boom, which depletes the level below.",
+   "sent_ids": [
+    "d79d14d0eb67",
+    "e45e902770f1",
+    "d256103ecbc3",
+    "ff62e1e39651",
+    "abeb20f4adf7"
+   ],
+   "mermaid": "flowchart TD\nA[Sea otters hunted out] --> B[Sea urchins increase]\nB --> C[Kelp declines]\nD[Atlantic cod overfished] --> E[Sprat take over]\nE --> F[Copepods reduced]"
+  }
+ ],
+ "nature-eco-346": [
+  {
+   "type": "table",
+   "caption": "The three kinds of ecological pyramid measure different things and are not always upright.",
+   "sent_ids": [
+    "1c21fa263cf1",
+    "3ae37b3eb483",
+    "7150f9a2af66",
+    "a8cd15c51b97"
+   ],
+   "header": [
+    "Pyramid",
+    "Shows",
+    "Can be inverted?"
+   ],
+   "rows": [
+    [
+     "Energy",
+     "Energy kept as new biomass",
+     "Normally upright"
+    ],
+    [
+     "Biomass",
+     "Living matter present",
+     "Yes, in the sea"
+    ],
+    [
+     "Numbers",
+     "Count of individuals",
+     "Yes, beetles on one tree"
+    ]
+   ]
+  }
+ ],
+ "nature-eco-176": [
+  {
+   "type": "cycle",
+   "caption": "Nitrogen moves through four main steps as it changes form.",
+   "sent_ids": [
+    "e853011a8d9c"
+   ],
+   "center": "Nitrogen cycle",
+   "steps": [
+    "Fixation",
+    "Ammonification",
+    "Nitrification",
+    "Denitrification"
+   ]
+  }
+ ],
+ "nature-eco-185": [
+  {
+   "type": "cycle",
+   "caption": "Phosphorus moves slowly from rock to water to sediment and back to rock.",
+   "sent_ids": [
+    "6e71c9848e23",
+    "f7d7e067b748",
+    "8b3ce0820e6f",
+    "fe3849cb8021",
+    "c86e7882a554"
+   ],
+   "center": "Phosphorus cycle",
+   "steps": [
+    "Uplift of phosphorus-bearing rock",
+    "Weathering and erosion",
+    "Rivers carry it to lakes and ocean",
+    "Burial in sediments"
+   ]
+  }
+ ],
+ "nature-eco-216": [
+  {
+   "type": "flow",
+   "caption": "Excess nutrients lead through algal blooms to oxygen loss and fish kills.",
+   "sent_ids": [
+    "11ced5b84ee8",
+    "61595629d8fc",
+    "f28c2242dfec",
+    "a66ba2430771"
+   ],
+   "mermaid": "flowchart TD\nA[Excess phosphates and nitrates] --> B[Algal blooms and bacterial growth]\nB --> C[Dissolved oxygen depleted]\nC --> D[Fish kills, desirable species lost]"
+  },
+  {
+   "type": "bar",
+   "caption": "The share of eutrophic lakes is highest in Asia and lowest in Africa.",
+   "sent_ids": [
+    "08bacd9a7956"
+   ],
+   "unit": "% of lakes eutrophic",
+   "bars": [
+    [
+     "Asia",
+     54
+    ],
+    [
+     "Europe",
+     53
+    ],
+    [
+     "North America",
+     48
+    ],
+    [
+     "South America",
+     41
+    ],
+    [
+     "Africa",
+     28
+    ]
+   ]
+  }
+ ],
+ "nature-eco-257": [
+  {
+   "type": "cycle",
+   "caption": "Warming thaws permafrost, whose released carbon adds to the warming.",
+   "sent_ids": [
+    "bcc7db87a7fd",
+    "7b48beb563e2"
+   ],
+   "center": "Permafrost carbon feedback",
+   "steps": [
+    "Warming",
+    "Permafrost thaws",
+    "Carbon dioxide and methane released"
+   ]
+  }
+ ],
+ "nature-eco-161": [
+  {
+   "type": "flow",
+   "caption": "Sunlight warms the surface, and greenhouse gases absorb the heat it gives off.",
+   "sent_ids": [
+    "e4ac0360192f",
+    "683b049fb7e2"
+   ],
+   "mermaid": "flowchart TD\nA[Sunlight passes through gases] --> B[Earth's surface heats]\nB --> C[Surface gives off longwave heat]\nC --> D[Greenhouse gases absorb most of it]"
+  },
+  {
+   "type": "scale",
+   "caption": "The greenhouse effect lifts Earth's average surface temperature from far below freezing.",
+   "sent_ids": [
+    "090c2488c828",
+    "a3634d5560ac"
+   ],
+   "axis": "Average surface temperature, °C",
+   "marks": [
+    [
+     -18,
+     "Without greenhouse gases"
+    ],
+    [
+     15,
+     "With them"
+    ]
+   ]
+  }
+ ],
+ "nature-eco-009": [
+  {
+   "type": "bar",
+   "caption": "Carbon dioxide made up most of human greenhouse gas emissions in 2019.",
+   "sent_ids": [
+    "100ef53434c5",
+    "a0e5f8713297"
+   ],
+   "unit": "% of 2019 human emissions",
+   "bars": [
+    [
+     "Carbon dioxide",
+     75
+    ],
+    [
+     "Methane",
+     18
+    ],
+    [
+     "Nitrous oxide",
+     4
+    ],
+    [
+     "Fluorinated gases",
+     2
+    ]
+   ]
+  },
+  {
+   "type": "bar",
+   "caption": "Water vapor and clouds cause most of the greenhouse effect, ahead of carbon dioxide.",
+   "sent_ids": [
+    "04e4833ec969",
+    "2ff03f4a1d99"
+   ],
+   "unit": "approx. % of greenhouse effect",
+   "bars": [
+    [
+     "Water vapor",
+     50
+    ],
+    [
+     "Clouds",
+     25
+    ],
+    [
+     "Carbon dioxide",
+     20
+    ]
+   ]
+  }
+ ],
+ "nature-eco-087": [
+  {
+   "type": "tree",
+   "caption": "The IUCN Red List groups three categories as threatened, alongside other categories.",
+   "sent_ids": [
+    "865a96350e9d",
+    "7808d73dff4e",
+    "90360202b8e8",
+    "f07f2d6cbcae",
+    "c7eaed7201b9",
+    "b4be1a4802f1"
+   ],
+   "root": "IUCN Red List",
+   "children": {
+    "Extinct groups": {
+     "Extinct": null,
+     "Extinct in the Wild": null
+    },
+    "Threatened": {
+     "Critically endangered": null,
+     "Endangered": null,
+     "Vulnerable": null
+    },
+    "Other": {
+     "Near Threatened": null,
+     "Least Concern": null,
+     "Data Deficient": null
+    }
+   }
+  }
+ ],
+ "nature-eco-597": [
+  {
+   "type": "bar",
+   "caption": "The count of boundaries judged crossed has risen with each assessment.",
+   "sent_ids": [
+    "cda3d324e46e",
+    "13060082db64",
+    "9dbad646a85e",
+    "357f2737f7ab"
+   ],
+   "unit": "boundaries judged crossed",
+   "bars": [
+    [
+     "2009",
+     3
+    ],
+    [
+     "2015",
+     4
+    ],
+    [
+     "2022",
+     5
+    ],
+    [
+     "2023",
+     6
+    ],
+    [
+     "2025",
+     7
+    ]
+   ]
+  }
+ ],
+ "nature-eco-598": [
+  {
+   "type": "table",
+   "caption": "Four boundaries compared with their current values.",
+   "sent_ids": [
+    "9605053fca6a",
+    "4585ed1b3a3d",
+    "88832ecf97c0",
+    "0a0034de127a"
+   ],
+   "header": [
+    "Boundary",
+    "Limit",
+    "Current"
+   ],
+   "rows": [
+    [
+     "Climate (CO2)",
+     "350 ppm",
+     "423 ppm"
+    ],
+    [
+     "Biosphere integrity",
+     "under 10 E/MSY",
+     "over 100 E/MSY"
+    ],
+    [
+     "Land system (forest)",
+     "75%",
+     "59%"
+    ],
+    [
+     "Nitrogen fixation",
+     "62 Tg/yr",
+     "165 Tg/yr"
+    ]
+   ]
+  }
+ ],
+ "nature-eco-616": [
+  {
+   "type": "flow",
+   "caption": "Feedbacks hold a system in one state until a large enough push crosses a threshold.",
+   "sent_ids": [
+    "4f804ff91458",
+    "8b843f83abce",
+    "901510081f14",
+    "6cb823209fb7"
+   ],
+   "mermaid": "flowchart LR\nA([Stable state 1]) -->|perturbation| B{Push large enough?}\nB -->|no: feedbacks resist| A\nB -->|yes: threshold crossed| C([Stable state 2])"
+  }
+ ],
+ "nature-eco-639": [
+  {
+   "type": "cycle",
+   "caption": "The ice-albedo loop shows positive feedback amplifying a change.",
+   "sent_ids": [
+    "5984fc83fc6d"
+   ],
+   "steps": [
+    "Snow melts",
+    "Darker ground exposed",
+    "More heat absorbed"
+   ],
+   "center": "Ice-albedo feedback"
+  }
+ ],
+ "nature-eco-609": [
+  {
+   "type": "flow",
+   "caption": "Forest loss cuts recycled rainfall, which pushes the forest toward a threshold.",
+   "sent_ids": [
+    "be7d579c6784",
+    "f94fa656b965",
+    "9e2b6e43577a"
+   ],
+   "mermaid": "flowchart TD\nA[Forest loss] --> B[Less moisture recycled]\nB --> C[Less rain downwind]\nC --> D{Threshold passed?}\nD -->|yes| E[Degraded forest or savanna]"
+  }
+ ],
+ "nature-eco-650": [
+  {
+   "type": "cycle",
+   "caption": "The four phases of Holling's adaptive cycle, slow then fast.",
+   "sent_ids": [
+    "f65067f9fcd0"
+   ],
+   "steps": [
+    [
+     "Exploitation (r)",
+     "slow"
+    ],
+    [
+     "Conservation (K)",
+     "rapid"
+    ],
+    [
+     "Release (Omega)",
+     "rapid"
+    ],
+    [
+     "Reorganization (alpha)",
+     "returns"
+    ]
+   ]
+  }
+ ],
+ "nature-eco-605": [
+  {
+   "type": "table",
+   "caption": "The four aspects of resilience and what each measures.",
+   "sent_ids": [
+    "72926bb81046",
+    "833a21ab4844",
+    "de21bf985e27",
+    "89663ee8a98d"
+   ],
+   "header": [
+    "Aspect",
+    "What it measures"
+   ],
+   "rows": [
+    [
+     "Latitude",
+     "How far it can change and recover"
+    ],
+    [
+     "Resistance",
+     "How hard it is to change"
+    ],
+    [
+     "Precariousness",
+     "How close it sits to a threshold"
+    ],
+    [
+     "Panarchy",
+     "Influence of other hierarchy levels"
+    ]
+   ]
+  }
+ ],
+ "nature-eco-567": [
+  {
+   "type": "bar",
+   "caption": "Forests' share of the biosphere's production and plant biomass, and of land.",
+   "sent_ids": [
+    "55fed4acb3ec",
+    "36786ec0fa03"
+   ],
+   "unit": "%",
+   "bars": [
+    [
+     "Global land area",
+     32
+    ],
+    [
+     "Gross primary production",
+     75
+    ],
+    [
+     "Plant biomass",
+     80
+    ]
+   ]
+  }
+ ],
+ "nature-eco-498": [
+  {
+   "type": "tree",
+   "caption": "Aquatic ecosystems split into marine and freshwater, and freshwater into three kinds.",
+   "sent_ids": [
+    "c576c717a5f5",
+    "5b4cd74190c0"
+   ],
+   "root": "Aquatic ecosystem",
+   "children": {
+    "Marine": null,
+    "Freshwater": {
+     "Lentic (still)": null,
+     "Lotic (flowing)": null,
+     "Wetlands": null
+    }
+   }
+  }
+ ],
+ "nature-eco-441": [
+  {
+   "type": "table",
+   "caption": "Three kinds of wetland and the plants that mark them.",
+   "sent_ids": [
+    "8e32c272b4da",
+    "c650901120ce",
+    "9cf99ccc7c78"
+   ],
+   "header": [
+    "Wetland",
+    "Dominated by"
+   ],
+   "rows": [
+    [
+     "Marsh",
+     "Reeds, cattails, sedges"
+    ],
+    [
+     "Swamp",
+     "Trees and shrubs"
+    ],
+    [
+     "Peatland (bog, fen)",
+     "Builds up peat"
+    ]
+   ]
+  }
+ ],
+ "nature-eco-568": [
+  {
+   "type": "flow",
+   "caption": "The stages countries pass through in a forest transition.",
+   "sent_ids": [
+    "3eff32579c19",
+    "8d8e21d1171d"
+   ],
+   "mermaid": "flowchart TD\nA[High cover, low deforestation] --> B[Fast deforestation, low cover]\nB --> C[Slowing loss]\nC --> D[Stabilization]\nD --> E[Recovery]"
+  },
+  {
+   "type": "bar",
+   "caption": "Net forest loss per year in two periods.",
+   "sent_ids": [
+    "6880402f0193"
+   ],
+   "unit": "million ha per year",
+   "bars": [
+    [
+     "1990s",
+     7.8
+    ],
+    [
+     "2010-2020",
+     4.7
+    ]
+   ]
+  }
+ ],
+ "nature-eco-447": [
+  {
+   "type": "flow",
+   "caption": "Draining a wetland for farmland leads to subsidence and higher flood risk.",
+   "sent_ids": [
+    "4b3fb7406b53",
+    "48b26321d82b"
+   ],
+   "mermaid": "flowchart LR\nA[Dykes and ditches] --> B[Drained wetland]\nB --> C[Farmland, settlements]\nC --> D[Land subsidence]\nC --> E[Rising flood risk]"
+  }
+ ],
+ "nature-eco-450": [
+  {
+   "type": "bar",
+   "caption": "Average carbon sequestration rates of coastal wetlands and peatlands.",
+   "sent_ids": [
+    "dd8865413c0d"
+   ],
+   "unit": "g CO2 per m2 per year",
+   "bars": [
+    [
+     "Salt marsh and mangrove",
+     210
+    ],
+    [
+     "Peatland (upper)",
+     30
+    ]
+   ]
+  }
+ ],
+ "nature-eco-520": [
+  {
+   "type": "bar",
+   "caption": "Share of each region's land that is dryland.",
+   "sent_ids": [
+    "af37f5772f34"
+   ],
+   "unit": "% of land",
+   "bars": [
+    [
+     "Africa",
+     66
+    ],
+    [
+     "Asia",
+     40
+    ],
+    [
+     "Europe",
+     24
+    ],
+    [
+     "Latin America",
+     15
+    ],
+    [
+     "World",
+     41.3
+    ]
+   ]
+  }
+ ],
+ "nature-eco-470": [
+  {
+   "type": "flow",
+   "caption": "Why grassland carbon ends up mostly underground.",
+   "sent_ids": [
+    "c0f5451af95f",
+    "845835c0ec1a",
+    "f8aee2104c18"
+   ],
+   "mermaid": "flowchart LR\nA[Grazing, fire, dieback] --> B[Above-ground carbon short-lived]\nB --> C[Carbon held in roots and soil]\nC --> D[Soil: about 81% of total]"
+  }
+ ],
+ "nature-eco-471": [
+  {
+   "type": "bar",
+   "caption": "How intact the world's 70 grassland ecoregions are.",
+   "sent_ids": [
+    "aeeda708f53e"
+   ],
+   "unit": "ecoregions",
+   "bars": [
+    [
+     "Less than 20% intact",
+     21
+    ],
+    [
+     "At least 60% intact",
+     14
+    ],
+    [
+     "Declined since 2000",
+     47
+    ]
+   ]
+  }
+ ],
+ "nature-eco-494": [
+  {
+   "type": "flow",
+   "caption": "How waterlogged soils come to make methane.",
+   "sent_ids": [
+    "da6790f76cb3",
+    "9c05ce76fb41"
+   ],
+   "mermaid": "flowchart LR\nA[Waterlogged soil] --> B[Microbes use oxygen faster than it diffuses]\nB --> C[Oxygen shortage]\nC --> D[Methane-making microbes thrive]"
+  }
+ ],
+ "nature-eco-478": [
+  {
+   "type": "flow",
+   "caption": "Drainage turns a peatland from a carbon sink into a source.",
+   "sent_ids": [
+    "3b50de97ea77",
+    "f0a69451c543",
+    "666472e49c51"
+   ],
+   "mermaid": "flowchart TD\nA[Ditches dug] --> B[Water table lowered]\nB --> C[Oxygen enters peat]\nC --> D[Peat decomposes]\nD --> E[CO2 and methane released]"
+  }
+ ],
+ "nature-nbs-127": [
+  {
+   "type": "flow",
+   "caption": "Rewetting cuts carbon release and later restarts peat formation.",
+   "sent_ids": [
+    "8c0c56c8abc5",
+    "e0838103fb37",
+    "c6685c2bca68"
+   ],
+   "mermaid": "flowchart LR\nA[Block drainage channels] --> B[Peat rewetted]\nB --> C[Less carbon released]\nB --> D[Native plants recover]\nD --> E[Peat formation restarts]"
+  }
+ ],
+ "nature-eco-532": [
+  {
+   "type": "table",
+   "caption": "The four estuary types by how they formed.",
+   "sent_ids": [
+    "4f4c3cd16c81",
+    "32620d910a43",
+    "593363389260",
+    "8e33271169f4"
+   ],
+   "header": [
+    "Type",
+    "Formed by",
+    "Note"
+   ],
+   "rows": [
+    [
+     "Drowned river valley",
+     "Sea level rise",
+     "Most common, temperate"
+    ],
+    [
+     "Bar-built",
+     "Sand spits, barrier islands",
+     "Common in tropics"
+    ],
+    [
+     "Fjord-type",
+     "Glacier-carved valleys",
+     "Deep"
+    ],
+    [
+     "Tectonic",
+     "Faults, volcanoes, landslides",
+     "Few; San Francisco Bay"
+    ]
+   ]
+  }
+ ],
+ "nature-eco-458": [
+  {
+   "type": "flow",
+   "caption": "Global and local pressures that lead to coral loss.",
+   "sent_ids": [
+    "ef336643bf10",
+    "2e3568c0c468",
+    "1531e48ba60d"
+   ],
+   "mermaid": "flowchart TD\nA[Greenhouse gas emissions] --> B[Warmer sea]\nB --> C[Bleaching, loss of cover]\nD[Overfishing, excess nutrients] --> E[Algae outcompete coral]\nE --> F[Coral dies]"
+  }
+ ],
+ "nature-eco-433": [
+  {
+   "type": "cycle",
+   "caption": "The bio-geomorphic feedback by which marsh plants trap sediment.",
+   "sent_ids": [
+    "f46f247f4925",
+    "d28cf55c4983",
+    "69a882493e17"
+   ],
+   "steps": [
+    "Marsh plants slow water",
+    "Sediment settles",
+    "Plants grow more"
+   ],
+   "center": "Positive feedback"
+  }
+ ],
+ "nature-eco-424": [
+  {
+   "type": "flow",
+   "caption": "Removing sea otters sets off a cascade that ends in an urchin barren.",
+   "sent_ids": [
+    "a66d54ff33d1",
+    "9bdbbe72def2",
+    "1a9d7b51c59f",
+    "3f17fcd39912"
+   ],
+   "mermaid": "flowchart TD\nA[Sea otters removed] --> B[Urchin numbers soar]\nB --> C[Kelp overgrazed]\nC --> D[Dependent species lost]\nC --> E[Urchin barren]"
+  }
+ ],
+ "nature-eco-491": [
+  {
+   "type": "cycle",
+   "caption": "The nutrient-driven loop that can replace seagrass with algae.",
+   "sent_ids": [
+    "fde170c6af79",
+    "384366e35e4b",
+    "414b9f29507b",
+    "35c34617f9ab"
+   ],
+   "steps": [
+    "Excess nitrogen and phosphorus",
+    "Algae grow",
+    "Light blocked",
+    "Seagrass smothered"
+   ],
+   "center": "Feedback loop"
+  },
+  {
+   "type": "bar",
+   "caption": "Yearly rate of seagrass loss before 1940 and in 1990.",
+   "sent_ids": [
+    "668dcf210e3b"
+   ],
+   "unit": "% per year",
+   "bars": [
+    [
+     "Before 1940",
+     0.9
+    ],
+    [
+     "1990",
+     7
+    ]
+   ]
+  }
+ ],
+ "nature-eco-443": [
+  {
+   "type": "flow",
+   "caption": "Drained versus intact floodplains change flood peaks.",
+   "sent_ids": [
+    "615bdfb3fc06",
+    "c73bb771acdd",
+    "21dd03e4c92b",
+    "eaa4818af87c"
+   ],
+   "mermaid": "flowchart TD\nA[Heavy rain] --> B{Floodplain intact?}\nB -->|yes| C[Water spreads and is held]\nC --> D[Lower, shorter floods]\nB -->|no: drained or leveed| E[Narrower system]\nE --> F[Higher, faster peaks]"
+  }
+ ],
+ "nature-eco-468": [
+  {
+   "type": "table",
+   "caption": "Grassland types with an example of each.",
+   "sent_ids": [
+    "fd168ab2bc8f",
+    "20cfe140d30b",
+    "1d0c2956fefc",
+    "c62d013fe66a",
+    "9c5ead9d92b3"
+   ],
+   "header": [
+    "Type",
+    "Example",
+    "Notes"
+   ],
+   "rows": [
+    [
+     "Tropical and subtropical",
+     "Savannas",
+     "90-150 cm rain; wildebeest, zebra"
+    ],
+    [
+     "Temperate",
+     "Prairie, Pampas, steppe",
+     "Bison"
+    ],
+    [
+     "Flooded",
+     "Everglades, Pantanal",
+     "Flooded seasonally or all year"
+    ]
+   ]
+  }
+ ],
+ "nature-eco-564": [
+  {
+   "type": "layers",
+   "caption": "The rainforest layers from top to bottom.",
+   "sent_ids": [
+    "d11d10f409e0",
+    "a54e2829e855",
+    "3b57b1c930be",
+    "40e191bef9fd",
+    "f6ad370bfa2d"
+   ],
+   "layers": [
+    [
+     "Emergent",
+     "45-55 m; unique to tropical rainforest"
+    ],
+    [
+     "Canopy",
+     "30-45 m; most large trees"
+    ],
+    [
+     "Understory",
+     ""
+    ],
+    [
+     "Forest floor",
+     "2% of sunlight"
+    ]
+   ]
+  }
+ ],
+ "nature-eco-551": [
+  {
+   "type": "flow",
+   "caption": "The stages a forest stand passes through after disturbance.",
+   "sent_ids": [
+    "3bbc887a931a",
+    "7513a489e042",
+    "b8a5c6a376b6",
+    "8a50e229172f",
+    "24c6fcaf1bd6"
+   ],
+   "mermaid": "flowchart TD\nA[Stand-replacing disturbance] --> B[Stand initiation]\nB --> C[Stem exclusion]\nC --> D[Understory reinitiation]\nD --> E[Old growth]"
+  }
+ ],
+ "nature-eco-476": [
+  {
+   "type": "table",
+   "caption": "Bogs and fens differ in position and water source.",
+   "sent_ids": [
+    "99b7e1673aac",
+    "60be39fd40c1",
+    "4df418a4d55f",
+    "42804e03be2c"
+   ],
+   "header": [
+    "Mire",
+    "Position",
+    "Water source"
+   ],
+   "rows": [
+    [
+     "Bog",
+     "Higher than surroundings",
+     "Rain only"
+    ],
+    [
+     "Fen",
+     "Slope, flat or hollow",
+     "Groundwater, surrounding soil"
+    ]
+   ]
+  }
+ ],
+ "nature-eco-509": [
+  {
+   "type": "table",
+   "caption": "Four types of bog and where they form.",
+   "sent_ids": [
+    "7831cd1988fe",
+    "63c28f38dda0",
+    "791a6eefd5ad",
+    "e9346a1a36e3"
+   ],
+   "header": [
+    "Bog",
+    "Setting"
+   ],
+   "rows": [
+    [
+     "Valley",
+     "Gently sloping hollows, acidic ground"
+    ],
+    [
+     "Raised",
+     "Rain-fed peat dome from a lake"
+    ],
+    [
+     "Blanket",
+     "Hilltops and slopes, cool, rainy"
+    ],
+    [
+     "Quaking",
+     "Floating mat of moss and sedge"
+    ]
+   ]
+  }
+ ],
+ "nature-eco-488": [
+  {
+   "type": "flow",
+   "caption": "How seagrass moves carbon from the air into long-term storage.",
+   "sent_ids": [
+    "f1b3fc65b927",
+    "3171477ce7ae",
+    "e3de9d5f6419"
+   ],
+   "mermaid": "flowchart LR\nA[CO2 from air] --> B[Seagrass meadow]\nB --> C[Low-oxygen seabed sediment]\nC -->|slow decomposition| D[Stored decades to millennia]"
+  }
+ ],
+ "nature-eco-555": [
+  {
+   "type": "layers",
+   "caption": "The five depth layers of the open ocean.",
+   "sent_ids": [
+    "7c9a7ddc7015",
+    "bb02bc6aaf85",
+    "5251a8995882",
+    "89cf280be191",
+    "3a660f8fd569"
+   ],
+   "layers": [
+    [
+     "Epipelagic",
+     "Sunlit; about 90% of marine life"
+    ],
+    [
+     "Mesopelagic",
+     "Twilight; bioluminescence"
+    ],
+    [
+     "Bathypelagic",
+     "Pitch black; marine snow"
+    ],
+    [
+     "Abyssopelagic",
+     ""
+    ],
+    [
+     "Hadopelagic",
+     "Below 6,000 m in trenches"
+    ]
+   ],
+   "top": "Surface",
+   "bottom": "Challenger Deep, 10,935 m"
+  }
+ ],
+ "nature-eco-521": [
+  {
+   "type": "table",
+   "caption": "The four dryland sub-types and their key figures.",
+   "sent_ids": [
+    "de1231b79227",
+    "05a0651b0914",
+    "1efd6be45578",
+    "56d99cd5b312",
+    "b3ed5d2ca294"
+   ],
+   "header": [
+    "Sub-type",
+    "Key figure"
+   ],
+   "rows": [
+    [
+     "Dry sub-humid",
+     "Large share of crops and livestock"
+    ],
+    [
+     "Semi-arid",
+     "500-800 mm rain a year"
+    ],
+    [
+     "Arid",
+     "Aridity index ~0.05-0.20; 10% of land"
+    ],
+    [
+     "Hyper-arid",
+     "~8% of world; about 100 mm rain"
+    ]
+   ]
+  }
+ ],
+ "nature-eco-518": [
+  {
+   "type": "layers",
+   "caption": "The three deep-sea zones from shallowest to deepest.",
+   "sent_ids": [
+    "c19cff5da818",
+    "7e50e18130d6"
+   ],
+   "layers": [
+    [
+     "Bathyal",
+     "200-3,000 m; continental slope"
+    ],
+    [
+     "Abyssal",
+     "3-6 km"
+    ],
+    [
+     "Hadal",
+     "6-11 km"
+    ]
+   ]
+  }
+ ],
+ "nature-eco-540": [
+  {
+   "type": "table",
+   "caption": "The three lake zones and what feeds each.",
+   "sent_ids": [
+    "f4e0e6a87f5c",
+    "903955a60cc3",
+    "8022ed0de945",
+    "0781ab348bee"
+   ],
+   "header": [
+    "Zone",
+    "Also called",
+    "Life"
+   ],
+   "rows": [
+    [
+     "Shoreline (littoral)",
+     "",
+     "Rooted wetland plants"
+    ],
+    [
+     "Open water (photic)",
+     "Limnetic",
+     "Sunlight feeds algae"
+    ],
+    [
+     "Deep water",
+     "Profundal",
+     "Runs on detritus"
+    ]
+   ]
+  }
+ ],
+ "nature-eco-541": [
+  {
+   "type": "layers",
+   "caption": "The layers of a stratified lake in summer.",
+   "sent_ids": [
+    "c319fb7df368",
+    "61a3597dd3e6",
+    "4d4a37ef46a8"
+   ],
+   "layers": [
+    [
+     "Epilimnion",
+     "Warm upper layer"
+    ],
+    [
+     "Thermocline",
+     "Rapid temperature change"
+    ],
+    [
+     "Hypolimnion",
+     "Cold bottom layer"
+    ]
+   ]
+  }
+ ],
+ "nature-eco-495": [
+  {
+   "type": "table",
+   "caption": "The three routes methane takes from wetland soil to the air.",
+   "sent_ids": [
+    "c3fcdf4567e2",
+    "187e9e8cde63",
+    "d128e5368c80",
+    "cd3a084b0c00",
+    "cdffc2620d59",
+    "14ecbe25252a"
+   ],
+   "header": [
+    "Route",
+    "Methane-eating layer"
+   ],
+   "rows": [
+    [
+     "Diffusion",
+     "Passes it; emissions reduced"
+    ],
+    [
+     "Plant aerenchyma",
+     "Skipped by the shunt"
+    ],
+    [
+     "Bubbling",
+     "Too fast to be consumed"
+    ]
+   ]
+  }
+ ],
+ "nature-es-001": [
+  {
+   "type": "tree",
+   "caption": "The assessment's four groups of ecosystem services.",
+   "sent_ids": [
+    "399710d375a2"
+   ],
+   "root": "Ecosystem services",
+   "children": {
+    "Provisioning": null,
+    "Regulating": null,
+    "Cultural": null,
+    "Supporting (underpins others)": null
+   }
+  }
+ ],
+ "nature-es-005": [
+  {
+   "type": "scale",
+   "caption": "Milestones in the ecosystem services idea.",
+   "sent_ids": [
+    "a17983305fcf",
+    "e14a2f6ff70e",
+    "f26040dba946",
+    "0464a1ab4307"
+   ],
+   "axis": "Year",
+   "marks": [
+    [
+     1864,
+     "Marsh"
+    ],
+    [
+     1956,
+     "Sears"
+    ],
+    [
+     1970,
+     "Ehrlich and Weigert"
+    ],
+    [
+     1973,
+     "Natural capital"
+    ]
+   ]
+  }
+ ],
+ "nature-es-110": [
+  {
+   "type": "flow",
+   "caption": "Paving and logging versus tree roots in groundwater recharge.",
+   "sent_ids": [
+    "5a4e55ded96d",
+    "934e059dd8fb",
+    "1c1bdc00e1b3"
+   ],
+   "mermaid": "flowchart LR\nA[Paving, development, logging] --> B[Topsoil stripped]\nB --> C[More runoff]\nC --> D[Less recharge]\nE[Tree roots] --> F[Water soaks in]"
+  }
+ ],
+ "nature-es-116": [
+  {
+   "type": "flow",
+   "caption": "From parent material to soil with horizons.",
+   "sent_ids": [
+    "dd865a62602d",
+    "f09c1f37d82a",
+    "5259f12aec9c",
+    "eb5a99aa3a48"
+   ],
+   "mermaid": "flowchart TD\nA[Parent material weathers] --> B[Nutrients released]\nB --> C[Microbes feed]\nC --> D[Residues become humus]\nD --> E[Horizons develop]"
+  }
+ ],
+ "nature-es-083": [
+  {
+   "type": "flow",
+   "caption": "Runoff passes through three filters before reaching reefs.",
+   "sent_ids": [
+    "65b0288a21cc",
+    "c6dbc62f46f0"
+   ],
+   "mermaid": "flowchart LR\nA[Runoff] --> B[Coastal forests] --> C[Mangroves] --> D[Seagrass beds] --> E[Coral reefs]"
+  }
+ ],
+ "nature-es-041": [
+  {
+   "type": "table",
+   "caption": "Kinds of carrying capacity and when each is passed.",
+   "sent_ids": [
+    "5f3dbbad0c9b",
+    "3eee391633d0",
+    "ab37f568bc04",
+    "637148efaf65",
+    "88b10021db14"
+   ],
+   "header": [
+    "Capacity",
+    "Exceeded when"
+   ],
+   "rows": [
+    [
+     "Physical",
+     "No more room; ~1m per person"
+    ],
+    [
+     "Social",
+     "Tolerance and enjoyment fall"
+    ],
+    [
+     "Biophysical",
+     "Damage outruns regeneration"
+    ],
+    [
+     "Economic",
+     "Inflation overtakes revenue"
+    ]
+   ]
+  }
+ ],
+ "nature-es-069": [
+  {
+   "type": "scale",
+   "caption": "What NDVI values indicate across its range.",
+   "sent_ids": [
+    "47c88c42ce23",
+    "4040684f6df9",
+    "104516fda5d6"
+   ],
+   "axis": "NDVI",
+   "ranges": [
+    [
+     -1,
+     0,
+     "Water, non-land"
+    ],
+    [
+     0.1,
+     0.2,
+     "Soil"
+    ],
+    [
+     0.3,
+     0.8,
+     "Dense canopy"
+    ]
+   ]
+  }
+ ],
+ "nature-val-066": [
+  {
+   "type": "table",
+   "caption": "The three kinds of nature's value.",
+   "sent_ids": [
+    "0b5f54c6f552",
+    "1938595f4433",
+    "17a33295c55f"
+   ],
+   "header": [
+    "Value",
+    "Meaning"
+   ],
+   "rows": [
+    [
+     "Extrinsic",
+     "Usefulness to people"
+    ],
+    [
+     "Intrinsic",
+     "Worth regardless of use"
+    ],
+    [
+     "Relational",
+     "Relationships and ties to nature"
+    ]
+   ]
+  }
+ ],
+ "nature-val-052": [
+  {
+   "type": "tree",
+   "caption": "How total economic value breaks down.",
+   "sent_ids": [
+    "d36444c52019",
+    "a2716d8e7171",
+    "90291d1360c1",
+    "92ae9c9398b3"
+   ],
+   "root": "Total economic value",
+   "children": {
+    "Use value": {
+     "Direct (timber, fish)": null,
+     "Indirect (sunset)": null
+    },
+    "Non-use value": null
+   }
+  }
+ ],
+ "nature-val-088": [
+  {
+   "type": "flow",
+   "caption": "The steps from visitor zones to a site's value.",
+   "sent_ids": [
+    "43ccf13934f5",
+    "3aecf117e9b0",
+    "b1dc816a8f82",
+    "e2907ad254e0"
+   ],
+   "mermaid": "flowchart TD\nA[Group visitors by distance zone] --> B[Regress visit rate on travel cost]\nB --> C[Build demand curve]\nC --> D[Area under curve = willingness to pay]"
+  }
+ ],
+ "nature-val-019": [
+  {
+   "type": "flow",
+   "caption": "Worked example of adding small payments into a statistical life.",
+   "sent_ids": [
+    "28527716359d",
+    "e95135fca2f1",
+    "b9346383110a"
+   ],
+   "mermaid": "flowchart LR\nA[100,000 people] -->|each pays $100| B[Risk cut 1 in 100,000]\nB --> C[$10 million per statistical life]"
+  }
+ ],
+ "nature-val-026": [
+  {
+   "type": "scale",
+   "caption": "The QALY health scale from death to perfect health.",
+   "sent_ids": [
+    "1605752d1cf7",
+    "1a7b842f8078"
+   ],
+   "axis": "Health utility",
+   "marks": [
+    [
+     0,
+     "Death"
+    ],
+    [
+     0.5,
+     "Half a QALY per year"
+    ],
+    [
+     1,
+     "Perfect health"
+    ]
+   ]
+  }
+ ],
+ "nature-val-001": [
+  {
+   "type": "flow",
+   "caption": "The steps of a generic cost-benefit analysis.",
+   "sent_ids": [
+    "319cbab4c9ca",
+    "1b9b2558adfb",
+    "82645e235ed3",
+    "bdf766b8c2b4",
+    "e615ddfe8d58",
+    "8a32877f8004"
+   ],
+   "mermaid": "flowchart TD\nA[List alternatives, stakeholders] --> B[Measure costs, benefits]\nB --> C[Convert to one currency]\nC --> D[Discount]\nD --> E[Net present value]\nE --> F[Sensitivity analysis]"
+  }
+ ],
+ "nature-val-043": [
+  {
+   "type": "bar",
+   "caption": "The 1997 ecosystem services estimate against world GNP.",
+   "sent_ids": [
+    "0571c13c4115",
+    "73b09041a33a"
+   ],
+   "unit": "trillion $ per year",
+   "bars": [
+    [
+     "Ecosystem services",
+     33
+    ],
+    [
+     "World GNP",
+     18
+    ]
+   ]
+  }
+ ],
+ "nature-acct-003": [
+  {
+   "type": "flow",
+   "caption": "Three dimensions combine into the HDI.",
+   "sent_ids": [
+    "dfe612056f3e",
+    "3c1b6309506f",
+    "0598725eb7c9",
+    "d4a8ff4c1430"
+   ],
+   "mermaid": "flowchart LR\nA[Life expectancy index] --> D[Geometric mean]\nB[Schooling index] --> D\nC[Income index] --> D\nD --> E([HDI])"
+  }
+ ],
+ "nature-acct-007": [
+  {
+   "type": "tree",
+   "caption": "The European Commission's five groups of alternative measures.",
+   "sent_ids": [
+    "e6d68f2d8a53",
+    "f681a021a327",
+    "9211d01554fa",
+    "f0cc393e72e3",
+    "b4a9a0403150",
+    "9d4617d65ace"
+   ],
+   "root": "Beyond GDP measures",
+   "children": {
+    "GDP itself": null,
+    "Enlarged GDP": null,
+    "Social indicators": null,
+    "Environmental indicators": null,
+    "Well-being measures": null
+   }
+  }
+ ],
+ "nature-acct-051": [
+  {
+   "type": "flow",
+   "caption": "The four interdependent phases of an LCA.",
+   "sent_ids": [
+    "88aababa3eb1",
+    "ad3e9133140e"
+   ],
+   "mermaid": "flowchart LR\nA[Goal and scope] --> B[Inventory]\nB --> C[Impact assessment]\nC --> D[Interpretation]\nD -.-> A"
+  }
+ ],
+ "nature-acct-027": [
+  {
+   "type": "bar",
+   "caption": "Humanity's ecological footprint in 1961 and 2014.",
+   "sent_ids": [
+    "dfb42bbd7152"
+   ],
+   "unit": "billion global hectares",
+   "bars": [
+    [
+     "1961",
+     7.0
+    ],
+    [
+     "2014",
+     20.6
+    ]
+   ]
+  }
+ ],
+ "nature-acct-077": [
+  {
+   "type": "layers",
+   "caption": "The Red List categories, from extinct to least concern.",
+   "sent_ids": [
+    "88cfcaa97b06",
+    "5e94757e19f4",
+    "db24374c5ac3",
+    "432294eadede"
+   ],
+   "layers": [
+    [
+     "Extinct",
+     "No longer alive"
+    ],
+    [
+     "Extinct in the Wild",
+     "Only in captivity or cultivation"
+    ],
+    [
+     "Critically Endangered",
+     "Threatened"
+    ],
+    [
+     "Endangered",
+     "Threatened"
+    ],
+    [
+     "Vulnerable",
+     "Threatened"
+    ],
+    [
+     "Near Threatened",
+     ""
+    ],
+    [
+     "Least Concern",
+     ""
+    ]
+   ]
+  }
+ ],
+ "nature-clim-164": [
+  {
+   "type": "table",
+   "caption": "What each emissions scope covers.",
+   "sent_ids": [
+    "193806bd68be",
+    "7201265ba758",
+    "e9e28f6986fc"
+   ],
+   "header": [
+    "Scope",
+    "Covers",
+    "Example"
+   ],
+   "rows": [
+    [
+     "1",
+     "Direct emissions",
+     "Fuel burned on site"
+    ],
+    [
+     "2",
+     "Purchased energy",
+     "Electricity, heat"
+    ],
+    [
+     "3",
+     "Other value chain",
+     "Suppliers, product users"
+    ]
+   ]
+  }
+ ],
+ "nature-acct-059": [
+  {
+   "type": "flow",
+   "caption": "The DPSIR chain from drivers to responses.",
+   "sent_ids": [
+    "52ac8c4d7b4e",
+    "132f3fc8e73f",
+    "a4200d5c8951",
+    "e4d7e7c5299e",
+    "44e47fb635e5"
+   ],
+   "mermaid": "flowchart TD\nA[Drivers] --> B[Pressures]\nB --> C[State]\nC --> D[Impacts]\nD --> E[Responses]\nE -.-> A"
+  }
+ ],
+ "nature-acct-079": [
+  {
+   "type": "table",
+   "caption": "Formal collapse risk for the three threatened categories.",
+   "sent_ids": [
+    "6b0f9b6679af",
+    "ed8ce0467c09",
+    "c653e8aef377"
+   ],
+   "header": [
+    "Category",
+    "Chance of collapse",
+    "Within"
+   ],
+   "rows": [
+    [
+     "Critically Endangered",
+     "50%",
+     "50 years"
+    ],
+    [
+     "Endangered",
+     "20%",
+     "50 years"
+    ],
+    [
+     "Vulnerable",
+     "10%",
+     "100 years"
+    ]
+   ]
+  }
+ ],
+ "nature-acct-045": [
+  {
+   "type": "table",
+   "caption": "The three colors of water footprint.",
+   "sent_ids": [
+    "65930cdf9459",
+    "722e0863d97d",
+    "50e3f3858b08"
+   ],
+   "header": [
+    "Color",
+    "Water counted"
+   ],
+   "rows": [
+    [
+     "Blue",
+     "Surface and groundwater"
+    ],
+    [
+     "Green",
+     "Rain in the root zone"
+    ],
+    [
+     "Grey",
+     "Water to dilute pollution"
+    ]
+   ]
+  }
+ ],
+ "nature-pol-064": [
+  {
+   "type": "layers",
+   "caption": "The waste hierarchy from most to least preferred.",
+   "sent_ids": [
+    "b4c43ca4f737"
+   ],
+   "layers": [
+    [
+     "Reduce and reuse",
+     ""
+    ],
+    [
+     "Recycle or compost",
+     ""
+    ],
+    [
+     "Recover energy",
+     ""
+    ],
+    [
+     "Treat and dispose",
+     ""
+    ]
+   ],
+   "top": "Most preferred",
+   "bottom": "Least preferred"
+  }
+ ],
+ "nature-pol-046": [
+  {
+   "type": "flow",
+   "caption": "How fuel burning turns into acid rain.",
+   "sent_ids": [
+    "d6ec156daa66",
+    "183366c0d5dd"
+   ],
+   "mermaid": "flowchart LR\nA[Burning fuels, smelting] --> B[SO2 and NOx]\nB --> C[Reactions in air]\nC --> D[Sulfuric and nitric acid]"
+  },
+  {
+   "type": "bar",
+   "caption": "Sulfur emitted as SO2 by source.",
+   "sent_ids": [
+    "98afddf1bb8b"
+   ],
+   "unit": "Tg sulfur per year",
+   "bars": [
+    [
+     "Fossil fuels and industry",
+     70
+    ],
+    [
+     "Wildfires",
+     2.8
+    ]
+   ]
+  }
+ ],
+ "nature-pol-059": [
+  {
+   "type": "flow",
+   "caption": "The phases of a sanitary landfill.",
+   "sent_ids": [
+    "eba478432a8b",
+    "63001427ad34",
+    "f7268ce5dcd6",
+    "c28b36f92db1",
+    "1c48030e339e"
+   ],
+   "mermaid": "flowchart TD\nA[Aerobic breakdown] --> B[Acid phase: pH 7.5 to 5.6]\nB --> C[Methane phase, longest]\nC --> D[Methane production stops]"
+  }
+ ],
+ "nature-clim-234": [
+  {
+   "type": "bar",
+   "caption": "Damage relative to 1 °C under the square rule.",
+   "sent_ids": [
+    "d5c0e334ef11"
+   ],
+   "unit": "times 1 °C damage",
+   "bars": [
+    [
+     "1 °C",
+     1
+    ],
+    [
+     "2 °C",
+     4
+    ],
+    [
+     "3 °C",
+     9
+    ]
+   ]
+  }
+ ],
+ "nature-pol-168": [
+  {
+   "type": "flow",
+   "caption": "NEPA's three levels of review.",
+   "sent_ids": [
+    "c3ccf0f8e631"
+   ],
+   "mermaid": "flowchart TD\nA[Federal action] --> B[Categorical exclusion]\nA --> C[Environmental assessment]\nC --> D[Finding of no significant impact]\nA --> E[Full impact statement]"
+  }
+ ],
+ "nature-pol-145": [
+  {
+   "type": "flow",
+   "caption": "The phases of an SEA under the EU directive.",
+   "sent_ids": [
+    "4c9a219ef9b5",
+    "808d19eff78f",
+    "7b071a5358c0",
+    "254e44cde4de",
+    "90ba2fdc2d0d",
+    "13ad6b0d669f"
+   ],
+   "mermaid": "flowchart TD\nA[Screening] --> B[Scoping]\nB --> C[Environmental baseline]\nC --> D[Estimate impacts]\nD --> E[Influence decision]\nE --> F[Monitoring]"
+  }
+ ],
+ "nature-pol-179": [
+  {
+   "type": "table",
+   "caption": "Performance and technology standards compared.",
+   "sent_ids": [
+    "4c9767a8bc24",
+    "74f77f525c09",
+    "5bea881abb42",
+    "9d8ef8b734cc"
+   ],
+   "header": [
+    "",
+    "Performance",
+    "Technology"
+   ],
+   "rows": [
+    [
+     "Sets",
+     "Numeric emission limit",
+     "Required equipment"
+    ],
+    [
+     "Firm's choice",
+     "Any technology",
+     "None"
+    ],
+    [
+     "Efficiency",
+     "Slightly higher",
+     "Lower"
+    ]
+   ]
+  }
+ ],
+ "nature-pol-088": [
+  {
+   "type": "flow",
+   "caption": "How an externality leads to overproduction and how the tax corrects it.",
+   "sent_ids": [
+    "855fc632b57b",
+    "42ff5bd41d0b",
+    "30320238797f",
+    "a347e110b387"
+   ],
+   "mermaid": "flowchart TD\nA[Outsiders bear part of cost] --> B[Private cost understates total]\nB --> C[Too much produced]\nD[Pigouvian tax] --> E[Private cost raised by externality]\nE --> F[Output falls toward best level]"
+  }
+ ],
+ "nature-pol-081": [
+  {
+   "type": "flow",
+   "caption": "How a carbon tax cuts emissions.",
+   "sent_ids": [
+    "81e3750c4a73",
+    "a6e5bd6eba7b",
+    "e566abc5ef14"
+   ],
+   "mermaid": "flowchart LR\nA[Carbon tax] --> B[Fossil fuel prices rise]\nB --> C[Less demand for high-emission goods]\nB --> D[Producers cut carbon intensity]"
+  }
+ ],
+ "nature-pol-085": [
+  {
+   "type": "table",
+   "caption": "The four categories of environmental tax.",
+   "sent_ids": [
+    "30d6771f62b0",
+    "5cbac3c3cf37",
+    "535bc5ad7551",
+    "e1ab0dd37a7a"
+   ],
+   "header": [
+    "Category",
+    "Taxes",
+    "Use"
+   ],
+   "rows": [
+    [
+     "Energy",
+     "Fuels: coal, oil, gas",
+     "Most common"
+    ],
+    [
+     "Transport",
+     "Vehicle ownership, use",
+     "Second"
+    ],
+    [
+     "Pollution",
+     "Emissions, waste, noise",
+     ""
+    ],
+    [
+     "Resource",
+     "Water, forests, wildlife",
+     "Least common"
+    ]
+   ]
+  }
+ ],
+ "nature-pol-109": [
+  {
+   "type": "bar",
+   "caption": "British Columbia's carbon tax rate over time.",
+   "sent_ids": [
+    "b8dfac4f27b6",
+    "ad5b6b936ee0",
+    "e099193f95d6"
+   ],
+   "unit": "$ per tonne CO2e",
+   "bars": [
+    [
+     "2008",
+     10
+    ],
+    [
+     "2019",
+     40
+    ],
+    [
+     "2024",
+     80
+    ]
+   ]
+  }
+ ],
+ "nature-pol-253": [
+  {
+   "type": "flow",
+   "caption": "Permits move from sellers who cut to buyers who emit more.",
+   "sent_ids": [
+    "9213b80e5528",
+    "410de5330fc3",
+    "be958b9731c6"
+   ],
+   "mermaid": "flowchart LR\nA[Government cap] --> B[Permits issued]\nB --> C[Seller cuts emissions]\nC -->|sells permits| D[Buyer emits more]\nD -->|pays| C"
+  }
+ ],
+ "nature-pol-252": [
+  {
+   "type": "flow",
+   "caption": "Two routes by which climate policy leaks emissions abroad.",
+   "sent_ids": [
+    "3226b6702d89",
+    "c84c91b33cb7",
+    "baa7c8ba79e8",
+    "417700457bc1"
+   ],
+   "mermaid": "flowchart TD\nA[Stricter climate policy] --> B[Local costs rise]\nB --> C[Production moves abroad]\nA --> D[Lower fuel demand]\nD --> E[Lower fuel prices]\nE --> F[Others use more fuel]"
+  }
+ ],
+ "nature-pol-262": [
+  {
+   "type": "bar",
+   "caption": "SO2 cuts under the Acid Rain Program and under EU regulation.",
+   "sent_ids": [
+    "0c07370d78ae"
+   ],
+   "unit": "% SO2 cut",
+   "bars": [
+    [
+     "Acid Rain Program",
+     40
+    ],
+    [
+     "EU regulation",
+     70
+    ]
+   ]
+  }
+ ],
+ "nature-pol-255": [
+  {
+   "type": "scale",
+   "caption": "Milestones in the history of emissions trading.",
+   "sent_ids": [
+    "794b1169ccad",
+    "b62f4c350181",
+    "5c0b3c1b8306"
+   ],
+   "axis": "Year",
+   "marks": [
+    [
+     1967,
+     "Simulation studies"
+    ],
+    [
+     1977,
+     "Offsets"
+    ],
+    [
+     1990,
+     "Acid Rain Program"
+    ]
+   ]
+  }
+ ],
+ "nature-pol-202": [
+  {
+   "type": "table",
+   "caption": "Strong and weak precaution compared.",
+   "sent_ids": [
+    "a9cdd9c9dd4d",
+    "c5a082e9315c",
+    "43004ef89552",
+    "702702da463b"
+   ],
+   "header": [
+    "",
+    "Strong",
+    "Weak"
+   ],
+   "rows": [
+    [
+     "Triggers",
+     "Any possible harm",
+     "Lack of full proof"
+    ],
+    [
+     "Costs",
+     "Ignored",
+     "Weighed"
+    ],
+    [
+     "Delay",
+     "Not allowed",
+     "May be justified"
+    ]
+   ]
+  }
+ ],
+ "nature-pol-187": [
+  {
+   "type": "table",
+   "caption": "The three ISO label types.",
+   "sent_ids": [
+    "cc436dda01c7",
+    "d53520c79682",
+    "53ab6b287568"
+   ],
+   "header": [
+    "Type",
+    "Standard",
+    "Checked by"
+   ],
+   "rows": [
+    [
+     "I",
+     "ISO 14024",
+     "Independent third party"
+    ],
+    [
+     "II",
+     "ISO 14021",
+     "Self-declared"
+    ],
+    [
+     "III",
+     "ISO/TR 14025",
+     "Measured data, no rating"
+    ]
+   ]
+  }
+ ],
+ "nature-pol-019": [
+  {
+   "type": "tree",
+   "caption": "The three families of environmental policy instruments.",
+   "sent_ids": [
+    "c538e854fa99",
+    "12770b19f087",
+    "7cd8ce361a8b"
+   ],
+   "root": "Policy instruments",
+   "children": {
+    "Regulation": {
+     "Limits, bans": null
+    },
+    "Economic": {
+     "Taxes, fees, subsidies": null,
+     "Tradable rights": null
+    },
+    "Persuasion": {
+     "Information, voluntary deals": null
+    }
+   }
+  }
+ ],
+ "nature-res-238": [
+  {
+   "type": "tree",
+   "caption": "Resources and reserves by geological confidence.",
+   "sent_ids": [
+    "56b59d9ecedd",
+    "54414f389ae2",
+    "d20052382b56",
+    "00319e8239ae"
+   ],
+   "root": "Mineral resource",
+   "children": {
+    "Inferred": null,
+    "Indicated": {
+     "Probable reserve": null
+    },
+    "Measured": {
+     "Proved reserve": null
+    }
+   }
+  }
+ ],
+ "nature-res-028": [
+  {
+   "type": "table",
+   "caption": "The three types of overfishing.",
+   "sent_ids": [
+    "0cdb6f701d15",
+    "c04dc03cbbf9",
+    "c5e1ff3f32cd"
+   ],
+   "header": [
+    "Type",
+    "What happens"
+   ],
+   "rows": [
+    [
+     "Growth",
+     "Fish caught too small"
+    ],
+    [
+     "Recruitment",
+     "Too few spawners remain"
+    ],
+    [
+     "Ecosystem",
+     "Shift to small forage species"
+    ]
+   ]
+  }
+ ],
+ "nature-res-003": [
+  {
+   "type": "table",
+   "caption": "The four core fishery controls.",
+   "sent_ids": [
+    "05d9b00d3d32",
+    "e974f76dec13"
+   ],
+   "header": [
+    "",
+    "Indirect",
+    "Direct"
+   ],
+   "rows": [
+    [
+     "Input",
+     "Vessel licensing",
+     "Limited entry"
+    ],
+    [
+     "Output",
+     "Gear and technique rules",
+     "Catch quotas"
+    ]
+   ]
+  }
+ ],
+ "nature-res-151": [
+  {
+   "type": "flow",
+   "caption": "Each year water goes to rights holders in order of their dates, so in a shortage the newest users go without.",
+   "sent_ids": [
+    "2ecb34409495",
+    "1cfcf7ef5b9f",
+    "532e943153fb",
+    "4e4034e36e30",
+    "933f4efb7af0"
+   ],
+   "mermaid": "flowchart TD\nA[Earliest-dated holder takes full share] --> B[Next holder takes full share]\nB --> C[Later holders take what is left]\nC --> D{Shortage?}\nD -->|yes| E[Seniors need not cut back]\nE --> F[Newest users get almost none]"
+  }
+ ],
+ "nature-res-114": [
+  {
+   "type": "table",
+   "caption": "The two kinds of aquifer differ in whether a barrier lies above them.",
+   "sent_ids": [
+    "d64613ec4db0",
+    "9a1e93c26579",
+    "cac37fe95180"
+   ],
+   "header": [
+    "Aquifer",
+    "Layer above",
+    "Water level"
+   ],
+   "rows": [
+    [
+     "Unconfined",
+     "No impermeable barrier",
+     "Can rise with recharge; top is the water table"
+    ],
+    [
+     "Confined",
+     "Impermeable layer",
+     "Stopped from rising"
+    ]
+   ]
+  }
+ ],
+ "nature-res-111": [
+  {
+   "type": "bar",
+   "caption": "A tonne of beef carries far more virtual water than a tonne of wheat.",
+   "sent_ids": [
+    "b9d9aeeaabd5",
+    "241a9def0ee6"
+   ],
+   "unit": "cubic meters per tonne",
+   "bars": [
+    [
+     "Beef",
+     15497
+    ],
+    [
+     "Wheat",
+     1334
+    ]
+   ]
+  }
+ ],
+ "nature-res-122": [
+  {
+   "type": "flow",
+   "caption": "The idea of environmental flow grew from single-species minimum flows toward whole river systems.",
+   "sent_ids": [
+    "665507dde73e",
+    "03447c5151f7",
+    "67c62135fe71",
+    "ffb66222db48",
+    "43d26bf0a212"
+   ],
+   "mermaid": "flowchart LR\nA[1970s minimum flows for one species] --> B[Instream flows]\nB --> C[1990s: one minimum flow falls short]\nC --> D[Holistic methods such as DRIFT and ELOHA]"
+  }
+ ],
+ "nature-res-106": [
+  {
+   "type": "flow",
+   "caption": "Waiting longer for a bigger harvest has a cost, which pulls the financial rotation below the biological one.",
+   "sent_ids": [
+    "63770bb8e23b",
+    "7ff75bb19bee",
+    "e6437561c9ca"
+   ],
+   "mermaid": "flowchart TD\nA[Wait longer to cut] --> B[Bigger harvest]\nA --> C[Replanting delayed]\nC --> D[Next rotation delayed]\nD --> E[Financial rotation usually shorter than biological]"
+  }
+ ],
+ "nature-res-159": [
+  {
+   "type": "table",
+   "caption": "The forest management systems differ in how much of the stand they cut and what they leave.",
+   "sent_ids": [
+    "d430a7a8cb88",
+    "33ea5752f18b",
+    "667502fd0d8a"
+   ],
+   "header": [
+    "System",
+    "How it cuts",
+    "What remains"
+   ],
+   "rows": [
+    [
+     "Uneven-aged",
+     "Single trees or small groups now and then",
+     "Mixed sizes and ages"
+    ],
+    [
+     "Even-aged",
+     "Most or all of the overstory",
+     "A stand of one age"
+    ],
+    [
+     "Shelterwood",
+     "Several partial cuts over years",
+     "New even-aged stand"
+    ],
+    [
+     "Variable retention",
+     "Harvest with retention",
+     "Stumps, logs, snags, live trees"
+    ]
+   ]
+  }
+ ],
+ "nature-res-164": [
+  {
+   "type": "table",
+   "caption": "The two broad forms of water privatization differ in who owns the assets.",
+   "sent_ids": [
+    "6df19b294c02",
+    "f4be87ac14fd",
+    "bcd3f76c2bca",
+    "96f6e05a8c05"
+   ],
+   "header": [
+    "Form",
+    "Ownership",
+    "Where found"
+   ],
+   "rows": [
+    [
+     "Full privatization",
+     "Assets sold permanently",
+     "Rare: England, Chile, some US cities"
+    ],
+    [
+     "Public-private partnership",
+     "Public keeps ownership; firm runs some functions for a set period",
+     "—"
+    ]
+   ]
+  }
+ ],
+ "nature-res-178": [
+  {
+   "type": "table",
+   "caption": "Property regimes sort resources by who holds the rights over them.",
+   "sent_ids": [
+    "c9d5fa978b39",
+    "986a44662d07",
+    "1e4821b4e364",
+    "815224ab77ba",
+    "e272429eebf9",
+    "17c54ece3673",
+    "db607da95419",
+    "d4d21b345f76",
+    "0e728c0ed69b",
+    "b85faccc8588",
+    "20cf4f4040c9"
+   ],
+   "header": [
+    "Regime",
+    "Who holds rights",
+    "Example"
+   ],
+   "rows": [
+    [
+     "State",
+     "The state; others need permission",
+     "US national forests and parks"
+    ],
+    [
+     "Private",
+     "A person or company",
+     "—"
+    ],
+    [
+     "Common",
+     "A group",
+     "Community forest"
+    ],
+    [
+     "Open access",
+     "No one; anyone may use",
+     "Lake fishery"
+    ],
+    [
+     "Hybrid",
+     "A mix",
+     "Native vegetation in New South Wales"
+    ]
+   ]
+  }
+ ],
+ "nature-res-183": [
+  {
+   "type": "bar",
+   "caption": "Grassland degradation was far lower under Mongolia's collective herding than under state or household pastures in Russia and China.",
+   "sent_ids": [
+    "d5ff17375488",
+    "587262c4288c"
+   ],
+   "unit": "% of grassland degraded",
+   "bars": [
+    [
+     "Mongolia",
+     9
+    ],
+    [
+     "China",
+     33
+    ],
+    [
+     "Russia",
+     75
+    ]
+   ]
+  }
+ ],
+ "nature-res-191": [
+  {
+   "type": "scale",
+   "caption": "The main dates of English enclosure fall along a single timeline.",
+   "sent_ids": [
+    "3fa5868ecaf8",
+    "f5ebd2017b00"
+   ],
+   "axis": "Year",
+   "marks": [
+    [
+     1604,
+     "First enclosure act"
+    ]
+   ],
+   "ranges": [
+    [
+     1760,
+     1832,
+     "Probable peak"
+    ]
+   ]
+  }
+ ],
+ "nature-nbs-220": [
+  {
+   "type": "tree",
+   "caption": "The IUCN treats nature-based solutions as an umbrella over four approaches.",
+   "sent_ids": [
+    "d750728a404f",
+    "066c603c4a44",
+    "bbba256f6eae"
+   ],
+   "root": "Nature-based solutions",
+   "children": {
+    "Ecological restoration": null,
+    "Ecological engineering": null,
+    "Ecosystem-based adaptation": null,
+    "Eco-DRR": null
+   }
+  }
+ ],
+ "nature-nbs-221": [
+  {
+   "type": "table",
+   "caption": "The three types of nature-based solution range from minimal intervention to intensive management.",
+   "sent_ids": [
+    "450ba3bdbc9f",
+    "ddd66836e502",
+    "814677ef900b",
+    "bc7bd02db78e",
+    "cf61ae5e7ccc",
+    "23820ceb732c"
+   ],
+   "header": [
+    "Type",
+    "Intervention",
+    "Examples"
+   ],
+   "rows": [
+    [
+     "Type 1",
+     "Minimal",
+     "Protecting mangroves; marine protected areas"
+    ],
+    [
+     "Type 2",
+     "Sustainable, multifunctional landscapes",
+     "Agroforestry; diverse tree species"
+    ],
+    [
+     "Type 3",
+     "Intensive or new ecosystems",
+     "Green roofs and walls; constructed wetlands"
+    ]
+   ]
+  }
+ ],
+ "nature-nbs-209": [
+  {
+   "type": "flow",
+   "caption": "Stormwater can take four paths, and in cities hard surfaces push it toward runoff and floods.",
+   "sent_ids": [
+    "6e7a6bca5a2b",
+    "5b090d711c23",
+    "b7f42e0f65ff",
+    "aa2152779e53"
+   ],
+   "mermaid": "flowchart TD\nA[Stormwater] --> B[Soaks in to groundwater]\nA --> C[Ponds on surface]\nA --> D[Evaporates]\nA --> E[Runs off]\nF[Hard surfaces] -->|less soaks in| E\nE -->|drains rush it| G[Erosion and floods]"
+  }
+ ],
+ "nature-nbs-174": [
+  {
+   "type": "flow",
+   "caption": "A bioswale removes pollutants as plants catch them and soil bacteria break them down.",
+   "sent_ids": [
+    "c3b2ce38cbeb",
+    "475fbbe1562d",
+    "2907ca6777bd"
+   ],
+   "mermaid": "flowchart LR\nA[Runoff enters swale] --> B[Plants catch pollutants]\nB --> C[Pollutants enter soil]\nC --> D[Bacteria break them down]"
+  }
+ ],
+ "nature-nbs-171": [
+  {
+   "type": "flow",
+   "caption": "Replacing vegetation with hard surfaces leads step by step to overloaded drains and floods.",
+   "sent_ids": [
+    "884efdfc2c80",
+    "d67a315631d5"
+   ],
+   "mermaid": "flowchart TD\nA[Vegetation replaced by concrete, asphalt, roofs] --> B[Land cannot absorb rain]\nB --> C[Drains overloaded]\nC --> D[Floods]"
+  }
+ ],
+ "nature-nbs-173": [
+  {
+   "type": "layers",
+   "caption": "A typical bioretention cell stacks plants and filter media over a sand bed.",
+   "sent_ids": [
+    "ec3d5deb4f0b",
+    "17d66c7d8a42"
+   ],
+   "top": "Surface",
+   "layers": [
+    [
+     "Plants",
+     "on top"
+    ],
+    [
+     "Filter media",
+     "several layers"
+    ],
+    [
+     "Sand bed",
+     ""
+    ],
+    [
+     "Soil below",
+     "stored water seeps in over several days"
+    ]
+   ]
+  },
+  {
+   "type": "bar",
+   "caption": "In laboratory tests, bioretention cells removed most of each heavy metal.",
+   "sent_ids": [
+    "48c87ca63adc"
+   ],
+   "unit": "% removed",
+   "bars": [
+    [
+     "Zinc",
+     94
+    ],
+    [
+     "Copper",
+     88
+    ],
+    [
+     "Lead",
+     95
+    ],
+    [
+     "Cadmium (more than)",
+     95
+    ]
+   ]
+  }
+ ],
+ "nature-nbs-183": [
+  {
+   "type": "bar",
+   "caption": "A typical rain garden soil mix is mostly sand.",
+   "sent_ids": [
+    "5146eb02f53d"
+   ],
+   "unit": "% of mix",
+   "bars": [
+    [
+     "Sand",
+     60
+    ],
+    [
+     "Compost",
+     20
+    ],
+    [
+     "Topsoil",
+     20
+    ]
+   ]
+  }
+ ],
+ "nature-nbs-167": [
+  {
+   "type": "bar",
+   "caption": "Philadelphia's green plan cost a fraction of the grey plan.",
+   "sent_ids": [
+    "83709d39882c"
+   ],
+   "unit": "USD billion over 25 years",
+   "bars": [
+    [
+     "Green plan",
+     1.2
+    ],
+    [
+     "Grey plan",
+     6
+    ]
+   ]
+  },
+  {
+   "type": "bar",
+   "caption": "In the 2012 study, more green projects cut costs than raised them.",
+   "sent_ids": [
+    "b0eceb7e33aa"
+   ],
+   "unit": "% of 479 projects",
+   "bars": [
+    [
+     "Reduced costs",
+     44
+    ],
+    [
+     "Increased costs",
+     31
+    ]
+   ]
+  }
+ ],
+ "nature-nbs-198": [
+  {
+   "type": "flow",
+   "caption": "The sponge city handles water in four steps, the reverse of pipes and walls.",
+   "sent_ids": [
+    "d28c4c2619b1",
+    "547678222619"
+   ],
+   "mermaid": "flowchart LR\nA[Retain at source] --> B[Slow the flow]\nB --> C[Clean it naturally]\nC --> D[Adapt where it collects]"
+  },
+  {
+   "type": "scale",
+   "caption": "The sponge city went from flood response to national policy and wide pilots within a few years.",
+   "sent_ids": [
+    "b0efb88992ec",
+    "cb2a6706be88",
+    "d3db4a9712b7",
+    "1bdffe4c0a16"
+   ],
+   "axis": "Year",
+   "marks": [
+    [
+     2012,
+     "Beijing flood"
+    ],
+    [
+     2014,
+     "National policy"
+    ],
+    [
+     2015,
+     "Pilots in 16 districts"
+    ],
+    [
+     2017,
+     "87 cities"
+    ]
+   ]
+  }
+ ],
+ "nature-nbs-195": [
+  {
+   "type": "flow",
+   "caption": "An abandoned beaver dam slowly turns from wetland into forest.",
+   "sent_ids": [
+    "4a97bb5eb89c",
+    "9be3273194fa",
+    "93c039683d68",
+    "777bef911cfc"
+   ],
+   "mermaid": "flowchart LR\nA[Abandoned dam] --> B[Wetland]\nB --> C[Meadow]\nC --> D[Forest]"
+  }
+ ],
+ "nature-nbs-187": [
+  {
+   "type": "bar",
+   "caption": "Vegetation in salt marshes and mangroves cuts most of a flood's wave energy.",
+   "sent_ids": [
+    "e21632942549"
+   ],
+   "unit": "% of wave energy cut",
+   "bars": [
+    [
+     "Salt marshes",
+     70
+    ],
+    [
+     "Mangroves",
+     65
+    ]
+   ]
+  }
+ ],
+ "nature-nbs-204": [
+  {
+   "type": "table",
+   "caption": "Each permeable pavement type has its own strength.",
+   "sent_ids": [
+    "7cdc0a1061ef",
+    "4ada17a3e167",
+    "8bc147b084da",
+    "61625ee02939",
+    "a147125bd6f1",
+    "3e25366acf0c",
+    "4a972b2e8ccc"
+   ],
+   "header": [
+    "Type",
+    "Key feature"
+   ],
+   "rows": [
+    [
+     "Pervious concrete",
+     "Widely available; frequent traffic"
+    ],
+    [
+     "Porous asphalt",
+     "No fine aggregate; open voids"
+    ],
+    [
+     "Plastic grids",
+     "Gravel or turf; popular with homeowners"
+    ],
+    [
+     "Interlocking concrete pavers",
+     "Open spaces; light and heavy traffic"
+    ]
+   ]
+  }
+ ],
+ "nature-nbs-034": [
+  {
+   "type": "flow",
+   "caption": "Coastal ecosystems lock carbon into oxygen-poor sediment, and losing them releases it.",
+   "sent_ids": [
+    "f859b00bf825",
+    "0a9406893645",
+    "d65da9fa2b01",
+    "d7298da1317f",
+    "316020a9cda6"
+   ],
+   "mermaid": "flowchart TD\nA[Marshes, mangroves, seagrass] -->|bury carbon fast| B[Soils and sediments]\nB -->|low oxygen| C[Carbon kept decades to millennia]\nA -.->|damaged or lost| D[Carbon released to air]"
+  }
+ ],
+ "nature-nbs-071": [
+  {
+   "type": "flow",
+   "caption": "A seawall reflects wave energy, which protects the land behind it but harms the beach and nearby coasts.",
+   "sent_ids": [
+    "19a65a4c92d9",
+    "d5067e7fe2f7",
+    "c851b3339b6d"
+   ],
+   "mermaid": "flowchart TD\nA[Seawall] -->|reflects wave energy| B[Less erosion behind wall]\nA --> C[Reflected waves scour beach in front]\nA --> D[Faster erosion of neighboring coasts]"
+  }
+ ],
+ "nature-nbs-069": [
+  {
+   "type": "flow",
+   "caption": "An oyster reef starts on hard ground and grows as young oysters settle on older shells.",
+   "sent_ids": [
+    "89f7a7d56996",
+    "da89a9ad7168"
+   ],
+   "mermaid": "flowchart LR\nA[Larvae settle on stone or hard debris] --> B[New reef forms]\nB --> C[Young oysters settle on older shells]\nC --> D[Reef grows]\nD --> C"
+  }
+ ],
+ "nature-nbs-054": [
+  {
+   "type": "tree",
+   "caption": "The five generic strategies for responding to coastal change sit side by side.",
+   "sent_ids": [
+    "e562a23f400b",
+    "e5b480d04c08",
+    "836696d40d5c",
+    "e38f7659d670",
+    "bb445eb0d63b"
+   ],
+   "root": "Coastal defense strategies",
+   "children": {
+    "Abandonment": null,
+    "Managed retreat": null,
+    "Armoring": null,
+    "Build seaward": null,
+    "Elevate land and buildings": null
+   }
+  }
+ ],
+ "nature-nbs-065": [
+  {
+   "type": "scale",
+   "caption": "Seawalls last longer than groynes.",
+   "sent_ids": [
+    "4b9168eee01a",
+    "11b64fa9f80f"
+   ],
+   "axis": "Lifespan, years",
+   "ranges": [
+    [
+     30,
+     40,
+     "Groyne"
+    ],
+    [
+     50,
+     100,
+     "Seawall"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "caption": "The three ways to deal with coastal erosion differ in permanence.",
+   "sent_ids": [
+    "f4c363d1e8e9",
+    "600d3bd0f1cd",
+    "4b9168eee01a",
+    "f4b8373626fb",
+    "39908c527549",
+    "a18e4f760372"
+   ],
+   "header": [
+    "Method",
+    "Examples",
+    "Note"
+   ],
+   "rows": [
+    [
+     "Hard controls",
+     "Seawalls, groynes",
+     "More permanent"
+    ],
+    [
+     "Soft controls",
+     "Sandbags, beach nourishment",
+     "Temporary"
+    ],
+    [
+     "Relocation",
+     "Retreat",
+     "Low public support"
+    ]
+   ]
+  }
+ ],
+ "nature-nbs-061": [
+  {
+   "type": "flow",
+   "caption": "Dune plants follow a sequence from the sea-facing foredune inland.",
+   "sent_ids": [
+    "77447b8a6a62",
+    "ecb96b426fed",
+    "0bd0539742a6",
+    "ae9aab2f167a",
+    "0beda4568bb7"
+   ],
+   "mermaid": "flowchart LR\nA[Foredune plants] --> B[Backdune dune mats]\nB --> C[Deep-rooted shrubs]\nC --> D[Forest or chaparral]"
+  }
+ ],
+ "nature-nbs-019": [
+  {
+   "type": "flow",
+   "caption": "Dark city surfaces absorb and store sunlight, which warms cities above the countryside.",
+   "sent_ids": [
+    "4e448ce8f09b",
+    "bd189cd35c36",
+    "37f1f4a788b8"
+   ],
+   "mermaid": "flowchart TD\nA[Asphalt and concrete] -->|absorb more sunlight| B[Store heat]\nB --> C[City surfaces warm faster]\nC --> E[Urban heat island]"
+  }
+ ],
+ "nature-nbs-001": [
+  {
+   "type": "layers",
+   "caption": "A green roof lays plants and a growing medium over a waterproof membrane.",
+   "sent_ids": [
+    "e62cc63c3094",
+    "058dea54fba6"
+   ],
+   "layers": [
+    [
+     "Plants",
+     ""
+    ],
+    [
+     "Growing medium",
+     "with drainage layers and root barrier"
+    ],
+    [
+     "Waterproof membrane",
+     "shielded from sun and damage"
+    ]
+   ],
+   "bottom": "Roof"
+  },
+  {
+   "type": "scale",
+   "caption": "Intensive green roofs cost far more per square meter than extensive ones.",
+   "sent_ids": [
+    "1542545662e0"
+   ],
+   "axis": "Cost, $/m2",
+   "log": true,
+   "ranges": [
+    [
+     108,
+     248,
+     "Extensive"
+    ],
+    [
+     355,
+     2368,
+     "Intensive"
+    ]
+   ]
+  }
+ ],
+ "nature-nbs-026": [
+  {
+   "type": "flow",
+   "caption": "A green belt's outer edge can push building beyond it and lengthen commutes.",
+   "sent_ids": [
+    "0ff96eeadd2a",
+    "b549fe2ac17b"
+   ],
+   "mermaid": "flowchart TD\nA[Green belt has outer edge] --> B[Building leaps over it]\nB --> C[More urban sprawl]\nC --> D[Longer commutes]"
+  }
+ ],
+ "nature-nbs-126": [
+  {
+   "type": "bar",
+   "caption": "By 2024 the Great Green Wall had restored less than a third of its target area.",
+   "sent_ids": [
+    "4032cccb380e",
+    "027ae82e42f2"
+   ],
+   "unit": "million hectares",
+   "bars": [
+    [
+     "2030 target",
+     100
+    ],
+    [
+     "Restored by 2024",
+     30
+    ]
+   ]
+  }
+ ],
+ "nature-nbs-154": [
+  {
+   "type": "flow",
+   "caption": "Cleared land returns to forest through a sequence of plant stages.",
+   "sent_ids": [
+    "d39f30499131",
+    "4ff549b85825",
+    "74d31647c291"
+   ],
+   "mermaid": "flowchart LR\nA[Cleared land] --> B[Pioneer species]\nB --> C[Shrubs]\nC --> D[Original forest trees]"
+  }
+ ],
+ "nature-nbs-139": [
+  {
+   "type": "bar",
+   "caption": "The Bonn Challenge raises its restoration goal between 2020 and 2030.",
+   "sent_ids": [
+    "c053010bda76"
+   ],
+   "unit": "million hectares",
+   "bars": [
+    [
+     "Goal by 2020",
+     150
+    ],
+    [
+     "Goal by 2030",
+     350
+    ]
+   ]
+  }
+ ],
+ "nature-nbs-148": [
+  {
+   "type": "layers",
+   "caption": "An open-cut mine is reclaimed by stacking materials back into the pit.",
+   "sent_ids": [
+    "6ab6ae3d6570",
+    "cab0f711e044",
+    "24add453bbeb",
+    "add5d6205389"
+   ],
+   "layers": [
+    [
+     "Vegetation",
+     "restored"
+    ],
+    [
+     "Topsoil",
+     ""
+    ],
+    [
+     "Stored soil",
+     ""
+    ],
+    [
+     "Rock backfill",
+     "fills the pit"
+    ]
+   ]
+  }
+ ],
+ "nature-nbs-243": [
+  {
+   "type": "table",
+   "caption": "Each of the three principles of conservation agriculture protects the soil in its own way.",
+   "sent_ids": [
+    "c5a6dcaa1cc0",
+    "af5ff846d4d5",
+    "4baf280178ae",
+    "8e6e8bbd7e15",
+    "123b43674ce1",
+    "3ad02a119b37",
+    "1175bf867188",
+    "fda7364dd2ef"
+   ],
+   "header": [
+    "Principle",
+    "What it does"
+   ],
+   "rows": [
+    [
+     "Minimal soil disturbance",
+     "Keeps minerals in; prevents erosion and water loss"
+    ],
+    [
+     "Permanent mulch cover",
+     "Shields from rain and wind; builds organic matter"
+    ],
+    [
+     "Diverse crop rotation",
+     "Breaks pest and weed cycles; improves infiltration"
+    ]
+   ]
+  }
+ ],
+ "nature-nbs-268": [
+  {
+   "type": "flow",
+   "caption": "Nitrate from fertilizer dissolves and moves into surface water and groundwater.",
+   "sent_ids": [
+    "a4f6eb5ff3ca",
+    "1dfe168cafb8"
+   ],
+   "mermaid": "flowchart TD\nA[Fertilizer nitrate dissolves easily] --> B[Runs off into surface water]\nA --> C[Leaches into groundwater]\nC -->|above 10 mg/L| D[Blue baby syndrome risk]"
+  }
+ ],
+ "nature-nbs-261": [
+  {
+   "type": "layers",
+   "caption": "A riparian buffer runs in three zones from the outer grass strip to the trees beside the stream.",
+   "sent_ids": [
+    "a0f838346beb",
+    "343d036ebf6e",
+    "b6fc8a31646c",
+    "c6a7e14cb29e",
+    "a3fde53f0188",
+    "2f629335cad4"
+   ],
+   "layers": [
+    [
+     "Outer grass zone",
+     "first defense; slows runoff"
+    ],
+    [
+     "Middle shrub zone",
+     "habitat; absorbs what outer zone misses"
+    ],
+    [
+     "Stream-side trees",
+     "shade stream; stabilize bank"
+    ]
+   ],
+   "bottom": "Stream"
+  }
+ ],
+ "nature-nbs-283": [
+  {
+   "type": "cycle",
+   "caption": "Integrated pest management repeats six steps.",
+   "sent_ids": [
+    "b08763ac4847",
+    "25181cefe364",
+    "a81790c3cee5",
+    "97d8ec882b14",
+    "38d4766eb279",
+    "1e32c29cb8ad",
+    "aff24eb9d723"
+   ],
+   "steps": [
+    "Sample",
+    "Identify",
+    "Learn pest biology",
+    "Set action threshold",
+    "Choose tactics",
+    "Evaluate"
+   ]
+  }
+ ],
+ "nature-nbs-090": [
+  {
+   "type": "scale",
+   "caption": "Common surfaces sit at very different points on the albedo range from 0 to 1.",
+   "sent_ids": [
+    "d7839142383e",
+    "4a531410f332",
+    "1fd59205e3cb"
+   ],
+   "axis": "Albedo",
+   "ends": [
+    "absorbs all",
+    "reflects all"
+   ],
+   "marks": [
+    [
+     0.04,
+     "Charcoal"
+    ]
+   ],
+   "ranges": [
+    [
+     0.09,
+     0.15,
+     "Conifers"
+    ],
+    [
+     0.15,
+     0.18,
+     "Deciduous"
+    ],
+    [
+     0.9,
+     0.95,
+     "Fresh snow"
+    ]
+   ]
+  }
+ ],
+ "nature-nbs-098": [
+  {
+   "type": "bar",
+   "caption": "Plantations supplied a far larger share of roundwood than their share of forest in 2000.",
+   "sent_ids": [
+    "0f0f96706e0f"
+   ],
+   "unit": "%",
+   "bars": [
+    [
+     "Share of global forest",
+     5
+    ],
+    [
+     "Share of world roundwood",
+     35
+    ]
+   ]
+  },
+  {
+   "type": "scale",
+   "caption": "Fast-growing plantations yield many times more wood than managed timber forests.",
+   "sent_ids": [
+    "dc00396b132f"
+   ],
+   "axis": "Wood yield, cubic meters per hectare per year",
+   "ranges": [
+    [
+     1,
+     3,
+     "Managed timber forest"
+    ],
+    [
+     20,
+     30,
+     "Fast-growing plantation"
+    ]
+   ]
+  }
+ ],
+ "nature-nbs-076": [
+  {
+   "type": "tree",
+   "caption": "TerraChoice's list names seven kinds of misleading green claim.",
+   "sent_ids": [
+    "b21e9de025c8",
+    "9c172d6dbf77",
+    "66753166171f",
+    "5c2bf2c734f9",
+    "24e6ec82ffc1",
+    "a9728eafd722",
+    "68743d4b1c24"
+   ],
+   "root": "Seven sins",
+   "children": {
+    "Hidden trade-off": null,
+    "No proof": null,
+    "Vagueness": null,
+    "False labels": null,
+    "Irrelevance": null,
+    "Lesser of two evils": null,
+    "Fibbing": null
+   }
+  }
+ ],
+ "nature-nbs-077": [
+  {
+   "type": "table",
+   "caption": "Types of greenwashing differ by where the misleading claim arises.",
+   "sent_ids": [
+    "ec837f1e3ab4",
+    "1470373f3c6b",
+    "b9e2f0261d23",
+    "5f518495ad8f",
+    "ce21a7a383c6",
+    "ea460e0afd45",
+    "a215b4f8c3f4",
+    "8bcee94022db"
+   ],
+   "header": [
+    "Type",
+    "Where it arises"
+   ],
+   "rows": [
+    [
+     "Direct",
+     "Firm's own processes contradict claims"
+    ],
+    [
+     "Indirect",
+     "Supplier's false claims harm the firm"
+    ],
+    [
+     "Vicarious",
+     "Green firm blamed for polluting supplier"
+    ],
+    [
+     "Claim",
+     "Misleading statements or labels"
+    ],
+    [
+     "Executional",
+     "Green colors and nature imagery"
+    ],
+    [
+     "Firm-level",
+     "Campaigns vs damaging operations"
+    ]
+   ]
+  }
+ ],
+ "nature-clim-227": [
+  {
+   "type": "tree",
+   "caption": "Economic analysis of climate change draws on three main families of tools.",
+   "sent_ids": [
+    "8d6e2b995d5e",
+    "008f1ad183e6",
+    "1fbd49d4a75e",
+    "31b5400bfd3a"
+   ],
+   "root": "Main tools",
+   "children": {
+    "Process-based IAMs": null,
+    "Structural models": {
+     "CGE": null,
+     "Cost-benefit": null
+    },
+    "Econometric methods": null
+   }
+  }
+ ],
+ "nature-clim-241": [
+  {
+   "type": "bar",
+   "caption": "US estimates of the social cost of carbon swung widely with the discount rate.",
+   "sent_ids": [
+    "38695cd5ee9d"
+   ],
+   "unit": "$ per ton",
+   "bars": [
+    [
+     "Trump, 7% rate",
+     6
+    ],
+    [
+     "Biden, 3% rate",
+     51
+    ]
+   ]
+  }
+ ],
+ "nature-clim-268": [
+  {
+   "type": "bar",
+   "caption": "The Stern Review set the yearly cost of action against much larger losses from inaction.",
+   "sent_ids": [
+    "27e2dcd14a01",
+    "ff3fc224d869",
+    "f068c5f95aad",
+    "88d6eaa2b2de"
+   ],
+   "unit": "% of global GDP per year",
+   "bars": [
+    [
+     "Proposed investment",
+     1
+    ],
+    [
+     "Revised investment, 2008",
+     2
+    ],
+    [
+     "Losses, at least",
+     5
+    ],
+    [
+     "Losses, wider risks",
+     20
+    ]
+   ]
+  }
+ ],
+ "nature-clim-248": [
+  {
+   "type": "tree",
+   "caption": "Integrated assessment models split into process-based and aggregate types.",
+   "sent_ids": [
+    "741a57b8a51e",
+    "7cc947ab31fb",
+    "9546d2c2de25",
+    "8baae87c5398"
+   ],
+   "root": "Integrated assessment models",
+   "children": {
+    "Process-based: detailed pathways": null,
+    "Aggregate: total costs": {
+     "DICE": null,
+     "PAGE": null,
+     "FUND": null
+    }
+   }
+  }
+ ],
+ "nature-clim-267": [
+  {
+   "type": "table",
+   "caption": "The five Shared Socioeconomic Pathways each tell a different story of development.",
+   "sent_ids": [
+    "99454d01a72a",
+    "03af29dc67df",
+    "9191df19b1bb",
+    "7d943eb007bc",
+    "478b49d81ddf"
+   ],
+   "header": [
+    "Pathway",
+    "Storyline"
+   ],
+   "rows": [
+    [
+     "SSP1",
+     "Sustainability"
+    ],
+    [
+     "SSP2",
+     "Middle of the road"
+    ],
+    [
+     "SSP3",
+     "Regional rivalry"
+    ],
+    [
+     "SSP4",
+     "Inequality"
+    ],
+    [
+     "SSP5",
+     "Fossil-fueled development"
+    ]
+   ]
+  },
+  {
+   "type": "scale",
+   "caption": "Projected warming spans a wide range across scenarios, with current policies near the middle.",
+   "sent_ids": [
+    "e88f40ca34da",
+    "86f0ebbb7984",
+    "ea513d1e977d"
+   ],
+   "axis": "Warming, °C",
+   "marks": [
+    [
+     1.4,
+     "SSP1-1.9"
+    ],
+    [
+     2.7,
+     "Current policies"
+    ],
+    [
+     4.4,
+     "SSP5-8.5"
+    ]
+   ]
+  }
+ ],
+ "nature-clim-260": [
+  {
+   "type": "bar",
+   "caption": "Electricity generation is the largest single source among these sectors.",
+   "sent_ids": [
+    "fa2308c3292f",
+    "e749674ffa81"
+   ],
+   "unit": "% of global emissions",
+   "bars": [
+    [
+     "Electricity generation",
+     25
+    ],
+    [
+     "Agriculture",
+     12
+    ],
+    [
+     "Land use change and forestry",
+     7
+    ],
+    [
+     "Industrial processes",
+     6
+    ],
+    [
+     "Waste",
+     3
+    ]
+   ]
+  }
+ ],
+ "nature-clim-228": [
+  {
+   "type": "scale",
+   "caption": "GDP losses by 2100 are far larger with high warming and little adaptation.",
+   "sent_ids": [
+    "839a5a78d21f",
+    "87d576bdf9c1"
+   ],
+   "axis": "Global GDP loss, %",
+   "ranges": [
+    [
+     1,
+     8,
+     "Low warming, more adaptation"
+    ],
+    [
+     10,
+     23,
+     "About 4 °C, little adaptation"
+    ]
+   ]
+  }
+ ],
+ "nature-clim-250": [
+  {
+   "type": "bar",
+   "caption": "Most coal and much oil and gas could not be extracted for a 1.5 °C chance.",
+   "sent_ids": [
+    "51372b2ac1ae"
+   ],
+   "unit": "% of reserves unextractable",
+   "bars": [
+    [
+     "Coal",
+     90
+    ],
+    [
+     "Oil and gas",
+     60
+    ]
+   ]
+  }
+ ],
+ "nature-clim-254": [
+  {
+   "type": "table",
+   "caption": "The four original pathways are named by their 2100 forcing, and higher values mean stronger effects.",
+   "sent_ids": [
+    "606e934dab6d",
+    "c1583d9bc645"
+   ],
+   "header": [
+    "Pathway",
+    "Emissions and effects"
+   ],
+   "rows": [
+    [
+     "RCP2.6",
+     "Lowest"
+    ],
+    [
+     "RCP4.5",
+     "Higher"
+    ],
+    [
+     "RCP6",
+     "Higher still"
+    ],
+    [
+     "RCP8.5",
+     "Highest"
+    ]
+   ]
+  }
+ ],
+ "nature-clim-109": [
+  {
+   "type": "flow",
+   "caption": "An efficiency gain makes the service cheaper, and extra use eats into the expected savings.",
+   "sent_ids": [
+    "4af04c7f4d8b",
+    "6c109b213eea",
+    "37363fd83d0b"
+   ],
+   "mermaid": "flowchart TD\nA[Efficiency gain] --> B[Energy service gets cheaper]\nB --> C[People use more of it]\nC --> D[Savings smaller than expected]"
+  }
+ ],
+ "nature-clim-117": [
+  {
+   "type": "flow",
+   "caption": "Expanding early sets off a chain from learning to market share.",
+   "sent_ids": [
+    "fa49c5fb5ac0"
+   ],
+   "mermaid": "flowchart LR\nA[More output] --> B[Learning]\nB --> C[Lower costs and prices]\nC --> D[Larger market share]\nD --> A"
+  }
+ ],
+ "nature-clim-103": [
+  {
+   "type": "scale",
+   "caption": "Nuclear plants run near full output far more of the time than wind or solar.",
+   "sent_ids": [
+    "d7738c45c808",
+    "8ab22810dc64",
+    "b7997643093a",
+    "8e02904089d3",
+    "beacb1b3794b",
+    "5955ad9eb890"
+   ],
+   "axis": "Capacity factor, %",
+   "ranges": [
+    [
+     12.0,
+     29.1,
+     "Photovoltaic"
+    ],
+    [
+     25,
+     45,
+     "Wind farms"
+    ]
+   ],
+   "marks": [
+    [
+     88.7,
+     "US nuclear"
+    ]
+   ]
+  }
+ ],
+ "nature-clim-119": [
+  {
+   "type": "bar",
+   "caption": "Pumped hydro stores far more than all batteries combined.",
+   "sent_ids": [
+    "e0185b3db425"
+   ],
+   "unit": "GW, 2023",
+   "bars": [
+    [
+     "Pumped hydro",
+     181
+    ],
+    [
+     "Batteries",
+     88
+    ]
+   ]
+  },
+  {
+   "type": "scale",
+   "caption": "Longer storage is needed as the share of variable renewables rises.",
+   "sent_ids": [
+    "c3dab218c2ff",
+    "d05e7fdb2ecb",
+    "7d2a0807f625"
+   ],
+   "axis": "Variable renewable share, %",
+   "marks": [
+    [
+     40,
+     "Below: short storage"
+    ],
+    [
+     80,
+     "Medium-duration"
+    ],
+    [
+     90,
+     "Above: long-duration"
+    ]
+   ]
+  }
+ ],
+ "nature-clim-143": [
+  {
+   "type": "table",
+   "caption": "Biologic and geologic sequestration differ in how carbon is stored and how long it stays.",
+   "sent_ids": [
+    "df1cbbdff5c8",
+    "1b292c82c11b",
+    "dde7acb83718",
+    "e57e35e748c9",
+    "2a1dbca7698e",
+    "5396ec325796"
+   ],
+   "header": [
+    "Type",
+    "How",
+    "How long"
+   ],
+   "rows": [
+    [
+     "Biologic",
+     "Plants bind CO2 into biomass",
+     "May be temporary"
+    ],
+    [
+     "Geologic",
+     "Injected underground or made into carbonates",
+     "Thousands to millions of years"
+    ]
+   ]
+  }
+ ],
+ "nature-clim-136": [
+  {
+   "type": "bar",
+   "caption": "The remaining budget from 2023 is much larger for 2 °C than for 1.5 °C.",
+   "sent_ids": [
+    "bc4f1988a82d",
+    "483ed0576a45"
+   ],
+   "unit": "GtCO2 at 50% chance",
+   "bars": [
+    [
+     "Below 1.5 °C",
+     250
+    ],
+    [
+     "Below 2 °C",
+     1220
+    ]
+   ]
+  }
+ ],
+ "nature-clim-185": [
+  {
+   "type": "scale",
+   "caption": "Capturing CO2 from dilute streams costs more than from concentrated ones.",
+   "sent_ids": [
+    "996dc2c3b47f",
+    "ac11430c5070"
+   ],
+   "axis": "Capture cost, US$ per tonne",
+   "ranges": [
+    [
+     15,
+     25,
+     "Concentrated streams"
+    ],
+    [
+     40,
+     120,
+     "Dilute streams"
+    ]
+   ]
+  }
+ ],
+ "nature-clim-145": [
+  {
+   "type": "flow",
+   "caption": "Captured CO2 is compressed, piped and injected deep underground.",
+   "sent_ids": [
+    "d14107b1304e",
+    "796b63da3b51",
+    "51143d6fea80",
+    "d2af31adbd00",
+    "e3efa3395675"
+   ],
+   "mermaid": "flowchart TD\nA[Captured CO2] -->|compressed to about 100 bar| B[Piped to site]\nB -->|injected about 1 km deep| C[Porous rock such as sandstone]\nC --> D[Held under cap rock such as shale]"
+  },
+  {
+   "type": "bar",
+   "caption": "Only a small part of theoretical storage capacity is risk-free.",
+   "sent_ids": [
+    "7f51b080f10b"
+   ],
+   "unit": "GtCO2",
+   "bars": [
+    [
+     "Theoretical capacity",
+     12000
+    ],
+    [
+     "Risk-free",
+     1460
+    ]
+   ]
+  }
+ ],
+ "nature-clim-183": [
+  {
+   "type": "table",
+   "caption": "The three capture technologies differ in when they remove CO2 and how efficient they are.",
+   "sent_ids": [
+    "5db6589554ad",
+    "62ae757cafa7",
+    "e4bcd62609a5",
+    "58fc44d9e4f8",
+    "2d7e0f63ccca",
+    "3d5533ec9203",
+    "403b0ca7ac46"
+   ],
+   "header": [
+    "Technology",
+    "How",
+    "Efficiency"
+   ],
+   "rows": [
+    [
+     "Post-combustion",
+     "From flue gas after burning",
+     "95%"
+    ],
+    [
+     "Pre-combustion",
+     "Gasify to syngas, capture first",
+     "85%"
+    ],
+    [
+     "Oxy-fuel",
+     "Burn in oxygen; CO2-rich exhaust",
+     "87.5%"
+    ]
+   ]
+  }
+ ],
+ "nature-clim-192": [
+  {
+   "type": "cycle",
+   "caption": "Direct air capture binds CO2 from air and then frees it with heat, renewing the material.",
+   "sent_ids": [
+    "b0d76557fa5e",
+    "15ae61e5b83e",
+    "c7201910e118"
+   ],
+   "steps": [
+    [
+     "Fans push air past sorbent",
+     "CO2 binds"
+    ],
+    [
+     "Sorbent holds CO2",
+     "heat applied"
+    ],
+    [
+     "Concentrated CO2 released",
+     "material regenerated"
+    ]
+   ]
+  }
+ ],
+ "nature-clim-182": [
+  {
+   "type": "flow",
+   "caption": "BECCS can remove CO2 because plants absorb it and part of it is stored when their energy is used.",
+   "sent_ids": [
+    "0bf654b5ce00",
+    "6a0406499839",
+    "f2487e34502c"
+   ],
+   "mermaid": "flowchart LR\nA[Plants absorb CO2] --> B[Biomass used for energy]\nB --> C[Some CO2 captured]\nC --> D[Stored underground]"
+  }
+ ],
+ "nature-clim-140": [
+  {
+   "type": "scale",
+   "caption": "Nature-based removal is far cheaper per tonne than biochar or direct air capture.",
+   "sent_ids": [
+    "20115395d502"
+   ],
+   "axis": "Cost, $ per tonne",
+   "log": true,
+   "marks": [
+    [
+     50,
+     "Nature-based: under $50"
+    ]
+   ],
+   "ranges": [
+    [
+     94,
+     600,
+     "Direct air capture"
+    ],
+    [
+     200,
+     584,
+     "Biochar"
+    ]
+   ]
+  }
+ ],
+ "nature-clim-180": [
+  {
+   "type": "flow",
+   "caption": "Pyrolysis turns leftover biomass into biochar and two by-products.",
+   "sent_ids": [
+    "bc504dec6aa8",
+    "0612992241f0",
+    "cc4ff682d95b"
+   ],
+   "mermaid": "flowchart TD\nA[Leftover biomass] -->|350-900 °C, little oxygen| B[Pyrolysis]\nB --> C[Biochar]\nB --> D[Bio-oil]\nB --> E[Pyrogas]\nC --> F[Stored in soil or materials]"
+  }
+ ],
+ "nature-clim-167": [
+  {
+   "type": "flow",
+   "caption": "Energy transitions have moved from one main source to the next.",
+   "sent_ids": [
+    "9823afaa26ee",
+    "dcb474a90020",
+    "76835f706c68"
+   ],
+   "mermaid": "flowchart LR\nA[Wood and biomass] --> B[Coal]\nB --> C[Oil and gas]\nC --> D[Renewable and low-carbon]"
+  }
+ ],
+ "nature-clim-018": [
+  {
+   "type": "table",
+   "caption": "Loss differs from damage, and economic losses differ from non-economic ones.",
+   "sent_ids": [
+    "76b035c5cce0",
+    "31881e93d067",
+    "1d0bc1d0acdc",
+    "e0064098fccf",
+    "97f69a68cffd"
+   ],
+   "header": [
+    "Term",
+    "Meaning",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Loss",
+     "Irreversible harm",
+     "Extinction; islands lost"
+    ],
+    [
+     "Damage",
+     "Repairable or compensable",
+     "—"
+    ],
+    [
+     "Economic",
+     "Traded goods and services",
+     "—"
+    ],
+    [
+     "Non-economic",
+     "Not traded in markets",
+     "Family members, cultures"
+    ]
+   ]
+  }
+ ],
+ "nature-clim-038": [
+  {
+   "type": "tree",
+   "caption": "Societies respond to rising seas in three broad ways.",
+   "sent_ids": [
+    "02c602012ae8",
+    "7cce3dc3d1c6",
+    "3e9d0384bf50",
+    "4a7a8f6b41ee",
+    "107726c73516"
+   ],
+   "root": "Sea level rise adaptation",
+   "children": {
+    "Retreat": null,
+    "Accommodate": null,
+    "Protect": {
+     "Hard: seawalls": null,
+     "Soft: dunes": null
+    }
+   }
+  }
+ ],
+ "nature-clim-055": [
+  {
+   "type": "tree",
+   "caption": "The UNFCCC sorts countries into groups with different duties.",
+   "sent_ids": [
+    "e715896c8de8",
+    "68256f2e135b",
+    "b993dfc98399",
+    "4f6ca457d269",
+    "7be0f0207757",
+    "483ccb72e1bc"
+   ],
+   "root": "UNFCCC parties",
+   "children": {
+    "Annex I: 43 parties": {
+     "14 transition economies": null
+    },
+    "Annex II: 24 OECD donors": null,
+    "Non-Annex I": {
+     "49 least-developed": null
+    }
+   }
+  }
+ ],
+ "nature-clim-056": [
+  {
+   "type": "bar",
+   "caption": "Kyoto's full participants cut far more than they pledged.",
+   "sent_ids": [
+    "4b715c68d11a",
+    "106d22d6ee13",
+    "1c2804e8947a"
+   ],
+   "unit": "% below 1990",
+   "bars": [
+    [
+     "Pledged cut",
+     4
+    ],
+    [
+     "Achieved, 2008-2012",
+     24.2
+    ]
+   ]
+  },
+  {
+   "type": "scale",
+   "caption": "The Kyoto Protocol's key dates span almost two decades.",
+   "sent_ids": [
+    "44d19a57dbe4",
+    "dbca3328b46f",
+    "f1cd781232fd"
+   ],
+   "axis": "Year",
+   "marks": [
+    [
+     1997,
+     "Adopted"
+    ],
+    [
+     2005,
+     "In force"
+    ],
+    [
+     2015,
+     "Paris Agreement"
+    ]
+   ],
+   "ranges": [
+    [
+     2008,
+     2012,
+     "First period"
+    ]
+   ]
+  }
+ ],
+ "nature-clim-089": [
+  {
+   "type": "flow",
+   "caption": "The stocktake runs in three phases and feeds into countries' next pledges.",
+   "sent_ids": [
+    "9e7f50c25c74",
+    "778ba1da3ed5",
+    "51ff9d118296",
+    "05cd607e2837",
+    "1499790750b5",
+    "c5cc00c4c2ec"
+   ],
+   "mermaid": "flowchart LR\nA[Collect information] --> B[Technical assessment]\nB --> C[Political messages]\nC --> D[Next NDCs]"
+  }
+ ]
+}

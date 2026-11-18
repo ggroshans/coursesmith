@@ -36,17 +36,23 @@ TYPES = ("table", "flow", "cycle", "layers", "scale", "bar", "tree")
 _FONTS = {}
 
 
+REGULAR = ("DejaVuSans.ttf", "/System/Library/Fonts/Supplemental/Arial.ttf", "/Library/Fonts/Arial Unicode.ttf",
+           "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", "C:/Windows/Fonts/arial.ttf")
+BOLD = ("DejaVuSans-Bold.ttf", "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", "C:/Windows/Fonts/arialbd.ttf")
+
+
 def font(size=26, bold=False):
+    """A TrueType font with dashes, accents and Greek; Pillow's built-in font only as a last resort."""
     k = (size, bold)
     if k not in _FONTS:
         f = None
-        if bold:
-            for p in ("DejaVuSans-Bold.ttf", "/System/Library/Fonts/Supplemental/Arial Bold.ttf"):
-                try:
-                    f = ImageFont.truetype(p, size)
-                    break
-                except OSError:
-                    pass
+        for p in (BOLD + REGULAR) if bold else REGULAR:
+            try:
+                f = ImageFont.truetype(p, size)
+                break
+            except OSError:
+                pass
         _FONTS[k] = f or ImageFont.load_default(size=size)
     return _FONTS[k]
 
@@ -108,7 +114,7 @@ def _canvas(h):
 
 
 def _fmt(v):
-    return f"{v:,.0f}" if abs(v) >= 1000 and v == int(v) else (f"{v:g}" if v == int(v) or abs(v) >= 1 else f"{v:g}")
+    return f"{v:,.0f}" if abs(v) >= 10000 and v == int(v) else (f"{v:g}" if v == int(v) or abs(v) >= 1 else f"{v:g}")
 
 
 # -- flow (Mermaid subset) ---------------------------------------------------
@@ -390,7 +396,7 @@ def draw_scale(fig):
         if row is None:
             rows.append(0)
             row = len(rows) - 1
-        rows[row] = max(b, a + lw)
+        rows[row] = b if lw < b - a else b + lw  # a label too wide for its band sits to its right
         r.append(row)
     band_h = 50
     for r in ranges:
@@ -400,7 +406,7 @@ def draw_scale(fig):
         d.rectangle([a, yy, b, yy + band_h], fill=shade, outline=INK, width=2)
         label = r[2]
         tw = _tw(label, f)
-        lx = (a + b) / 2 - tw / 2 if tw < b - a - 8 else a + 4
+        lx = (a + b) / 2 - tw / 2 if tw < b - a - 8 else (b + 8 if b + 8 + tw < W else a - 8 - tw)
         d.text((lx, yy + 12), label, font=f, fill=INK)
     y += len(rows) * (band_h + 8) + (10 if rows else 0)
     ay = y + 20
