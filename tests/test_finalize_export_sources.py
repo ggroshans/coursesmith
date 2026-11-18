@@ -168,3 +168,40 @@ class AttributionTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class SectionAnchorTest(unittest.TestCase):
+    def entry(self, article):
+        return {"title": "T", "kind": "Concept", "weight": "Major", "level": "Foundational", "article": article,
+                "facts": [{"text": "x y z", "sent_ids": ["a"]}, {"text": "q r s", "sent_ids": ["b"]}]}
+
+    def finder(self):
+        from coursesmith.consolidate.finalize import section_finder
+        from coursesmith.extract import sentences as SN
+        from .helpers import temp_root
+        return section_finder, SN, temp_root
+
+    def test_a_missing_section_is_a_problem(self):
+        section_finder, SN, temp_root = self.finder()
+        from coursesmith.crawl.store import Store
+        with temp_root():
+            rec = {"title": "gh>o/r/a.md", "url": "u", "revid": None, "version": "v", "source": "x", "html": None,
+                   "citations": [], "meta": {}}
+            text = "# A\n## Caching\nA cache holds copies of data for faster reads later.\n### Eviction policies\nLeast recently used evicts the oldest.\n"
+            st = Store()
+            st.save_page(rec, text)
+            db = SN.connect()
+            SN.index_page(db, st, rec, text)
+            ok = section_finder(db)
+            self.assertTrue(ok("gh>o/r/a.md", "Eviction policies"))
+            self.assertTrue(ok("gh>o/r/a.md", "eviction POLICIES"))  # case does not matter
+            self.assertTrue(ok("gh>o/r/a.md", "Caching"))
+            self.assertFalse(ok("gh>o/r/a.md", "Sharding"))
+            self.assertTrue(ok("gh>o/r/never-indexed.md", "Anything"))  # a page with no sentences is not judged
+            e = self.entry("gh>o/r/a.md#Sharding")
+            probs = F.validate(e, {"a", "b"}, {"gh>o/r/a.md"}, None, None, ok)
+            self.assertTrue(any("has no section 'Sharding'" in p for p in probs))
+            self.assertEqual(F.validate(self.entry("gh>o/r/a.md#Eviction policies"), {"a", "b"}, {"gh>o/r/a.md"}, None, None, ok), [])
+
+    def test_validate_without_a_finder_does_not_check_sections(self):
+        self.assertEqual(F.validate(self.entry("P#Nope"), {"a", "b"}, {"P"}), [])

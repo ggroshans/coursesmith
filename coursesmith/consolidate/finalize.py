@@ -160,9 +160,25 @@ def _tokens(t, stop=STOP):
     return {w for w in re.findall(r"[a-z0-9]+", (t or "").lower()) if w not in stop}
 
 
-def validate(e, known, crawled, caps=None, allowed=None):
+def section_finder(db):
+    """callable (page key, heading) -> bool: does the page have a section with that heading? The heading may be any
+    level of a section's path ("Eviction policies" in "Caching > Eviction policies"), compared without case. A page
+    with no indexed sentences is not judged."""
+    cache = {}
+
+    def has(page, heading):
+        if page not in cache:
+            cache[page] = [s for s, _ in SN.sections(db, page)]
+        secs = cache[page]
+        want = heading.strip().lower()
+        return not secs or any(want in s.lower() for s in secs)
+    return has
+
+
+def validate(e, known, crawled, caps=None, allowed=None, section_ok=None):
     """`caps`: per-kind fact limits (targets.fact_caps). `allowed`: callable key -> bool for pages of other
-    sources (the subject's source registry)."""
+    sources (the subject's source registry). `section_ok`: callable (page, heading) -> bool for `Page#Section`
+    anchors (see section_finder); a heading the page does not have is a problem."""
     problems = []
     t = e.get("title") or "(untitled)"
     if not e.get("title"):
@@ -194,6 +210,10 @@ def validate(e, known, crawled, caps=None, allowed=None):
         problems.append(f"{t}: article {art!r} was not crawled")
     elif art and is_qualified(art) and allowed is not None and not allowed(art):
         problems.append(f"{t}: article {art!r} is outside the sources subject.yaml allows")
+    elif art and "#" in (e.get("article") or "") and section_ok is not None:
+        heading = e["article"].split("#", 1)[1]
+        if heading and not section_ok(art, heading):
+            problems.append(f"{t}: {art!r} has no section {heading!r} (see `coursesmith sections <subject> \"{art}\"`)")
     return problems
 
 
@@ -230,7 +250,7 @@ def finalize(subject, chapter="all", check_file=None, log=print):
 
     problems = []
     for e in every:
-        problems += validate(e, known, crawled, caps, registry.allowed)
+        problems += validate(e, known, crawled, caps, registry.allowed, section_finder(db))
     if check_file:
         log(f"[finalize] {check_file}: {len(every)} entries, {len(problems)} problems")
         for p in problems:
