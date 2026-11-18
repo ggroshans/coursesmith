@@ -160,7 +160,8 @@ that says what to look at, with no new facts. An arrow claims a cause or a seque
 say so. `sent_ids` lists the sentences the figure draws on.
 
 Write figures to `subjects/<subject>/figures.json`, keyed by entry id (several per entry are drawn in order,
-after the entry's text):
+after the entry's text). Writers working in parallel each keep their own file instead,
+`subjects/<subject>/work/write/figures.<name>.json`; the engine reads both, and a later file replaces an entry's list:
 
 ```json
 {"soil-phys-003": [{"type": "scale", "caption": "The size classes sit side by side on a log scale.",

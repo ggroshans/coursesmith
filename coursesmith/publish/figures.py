@@ -591,8 +591,13 @@ def key(fig):
 
 
 def load(subject):
+    """Every entry's figures: figures.json, then each work/write/figures.*.json in name order (parallel writers
+    each keep their own file; an entry named in a later file replaces the earlier one's list)."""
     p = subject.dir / "figures.json"
-    return json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
+    out = json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
+    for q in sorted(subject.write_dir.glob("figures.*.json")):
+        out.update(json.loads(q.read_text(encoding="utf-8")))
+    return out
 
 
 def numbers(fig):

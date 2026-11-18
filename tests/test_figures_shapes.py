@@ -101,5 +101,21 @@ class SinkTest(unittest.TestCase):
         F.ERRORS.clear()
 
 
+class LoadTest(unittest.TestCase):
+    def test_load_merges_each_writers_file(self):
+        import json
+        from tests.helpers import make_subject, temp_root
+        with temp_root():
+            s = make_subject("tiny")
+            fig = lambda c: [{"type": "table", "caption": c, "sent_ids": [], "header": ["a"], "rows": [["1"]]}]
+            (s.dir / "figures.json").write_text(json.dumps({"e1": fig("base"), "e2": fig("base")}))
+            s.write_dir.mkdir(parents=True, exist_ok=True)
+            (s.write_dir / "figures.01.json").write_text(json.dumps({"e3": fig("one")}))
+            (s.write_dir / "figures.02.json").write_text(json.dumps({"e2": fig("two"), "e4": fig("two")}))
+            got = F.load(s)
+            self.assertEqual(sorted(got), ["e1", "e2", "e3", "e4"])
+            self.assertEqual(got["e2"][0]["caption"], "two")  # a later file replaces the entry's list
+
+
 if __name__ == "__main__":
     unittest.main()
