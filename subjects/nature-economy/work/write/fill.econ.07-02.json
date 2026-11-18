@@ -1,0 +1,145 @@
+{
+ "entries": {
+  "nature-econ-428": {
+   "title": "Strongly convex functions: a guaranteed single lowest point",
+   "text": "Some convex functions curve upward more firmly than others. A strongly convex function curves upward at least as fast as a quadratic, a stronger condition than strict convexity ({{ref:nature-econ-427}}). Every strongly convex function is strictly convex, but not the other way round. A familiar pair shows the difference. The function x² is strongly convex. The function eˣ is strictly but not strongly convex, because its second derivative can come arbitrarily close to zero ({{ref:nature-econ-431}}). The reward for the stronger condition is certainty: a strongly convex function has a unique global minimum."
+  },
+  "nature-econ-444": {
+   "title": "Exponential growth bias: why doubling fools the mind",
+   "text": "A water lily doubles its size every day and covers half the pond on day 29. That leaves only one day to save the pond. The riddle captures exponential growth bias, the human tendency to underestimate how quickly compounding processes grow ({{ref:nature-econ-442}}). The legend of rice on a chessboard makes the same point. Doubling the grains on each square demands over a million grains by the 21st square and more than a trillion by the 41st. Studies show people find exponential growth hard to grasp, and the bias can have financial consequences."
+  },
+  "nature-econ-445": {
+   "title": "Log-linear growth: turning curves into straight lines",
+   "text": "A quantity growing exponentially traces an ever-steepening curve ({{ref:nature-econ-442}}). Taking its logarithm, the power to which a fixed base must be raised to reach it, straightens that curve out. A log-linear growth model rewrites exponential growth so that the logarithm of the growing quantity rises in a straight line over time. This lets an exponentially growing variable be modeled with a simple log-linear model. To estimate a growth rate from data, one can fit a straight line through the logarithm of the quantity, log x, plotted against time."
+  },
+  "nature-econ-457": {
+   "title": "The simplex algorithm: walking the corners to the best answer",
+   "text": "Assigning 70 people to 70 jobs sounds simple. The possible arrangements outnumber the particles in the observable universe, yet the simplex algorithm solves the problem in a moment. George Dantzig devised the method for {{ref:nature-econ-456}} in 1947. It starts at a corner of the feasible region, the shape of allowed choices, and walks along its edges to better corners until it reaches the best one. Khachiyan's 1979 ellipsoid method was the first algorithm guaranteed to run in polynomial time, reasonably fast, even in the worst case. Simplex still stayed faster in practice. Today good simplex and interior-point implementations are thought to be similarly efficient for routine problems."
+  },
+  "nature-econ-458": {
+   "title": "Slack variables: counting what goes unused",
+   "text": "Return to the farmer choosing between wheat and barley ({{ref:nature-econ-456}}). Not every hectare of land or sack of fertilizer has to be used. A slack variable is a non-negative extra variable added to a linear program to turn an inequality constraint into an equality. In the farm example, the slack variables stand for the unused land, unused fertilizer and unused pesticide. Rewriting a problem with slack variables puts it in the augmented form used by the {{ref:nature-econ-457}}."
+  },
+  "nature-econ-426": {
+   "title": "Branch and bound: pruning hopeless options early",
+   "text": "Searching every possible answer to a large problem can take impossibly long. Branch and bound cuts the search short. It keeps the cost of the best solution found so far and abandons any partial solution that cannot beat it, which makes it a standard tool for {{ref:nature-econ-450}}. Skipping those dead ends saves part of the search. How much it saves depends on how well the method estimates the best possible cost of extending a partial solution."
+  },
+  "nature-econ-425": {
+   "title": "Nonlinear programming: optimization when the lines curve",
+   "text": "Not every problem runs in straight lines. Nonlinear programming is {{ref:nature-econ-423}} in which the objective or some constraints are nonlinear and some constraints are inequalities, unlike {{ref:nature-econ-456}}. One common type is quadratic programming, which pairs linear constraints with a quadratic objective, one containing squared terms. Its difficulty hinges on shape. A quadratic program with a convex objective ({{ref:nature-econ-427}}) can be solved in polynomial time by the ellipsoid method. Otherwise it may be NP-hard, among the hardest problems to solve."
+  },
+  "nature-econ-452": {
+   "title": "The KKT conditions: tests for the best answer under limits",
+   "text": "In 1951 Harold W. Kuhn and Albert W. Tucker published a set of tests for the best solution of a curved, constrained problem. William Karush had already stated them in an unpublished 1939 master's thesis. The Karush–Kuhn–Tucker (KKT) conditions are first-derivative tests that an optimal solution of a {{ref:nature-econ-425}} problem must pass, provided certain regularity conditions hold. They extend {{ref:nature-econ-455}}, which allow only equality constraints, to problems with inequality constraints. With no inequalities, they reduce to the Lagrange conditions. Under the right shapes they also guarantee an optimum. A maximization needs a concave objective, convex inequality constraints, straight-line equality constraints and Slater's condition. Many optimization algorithms can be read as ways of solving the KKT system numerically. Economists use the conditions for qualitative results. A firm maximizing sales revenue subject to a minimum profit produces where marginal revenue is below marginal cost. Each multiplier is the rate at which the best achievable value rises as its resource constraint is loosened, a reading used in utility maximization."
+  },
+  "nature-econ-424": {
+   "title": "The substitution method: folding the constraint in",
+   "text": "The simplest constrained problems ({{ref:nature-econ-423}}) yield to a single substitution. The method plugs the constraint into the objective, leaving an ordinary problem with fewer variables. Suppose the goal is to maximize x times y, given that x + y = 10. Substituting y = 10 − x gives 10x − x². Its derivative, 10 − 2x, is zero at x = 5 ({{ref:nature-econ-462}}), so y = 5 as well."
+  },
+  "nature-econ-466": {
+   "title": "Costate variables: the hidden value of a stock",
+   "text": "In {{ref:nature-econ-465}}, a costate variable gives the marginal value of having a little more or a little less of the state variable ({{ref:nature-econ-417}}). Another name for it is the {{ref:nature-val-017}}. That value counts not only the next period's gain but the whole remaining duration of the program. Costate variables play the role that Lagrange multipliers play in static problems ({{ref:nature-econ-455}}), except that they change over time. Solving for the costate first is a common strategy, because the best control can then usually be found from it."
+  },
+  "nature-econ-469": {
+   "title": "Pontryagin's maximum principle: steering one moment at a time",
+   "text": "In 1956 Lev Pontryagin and his students formulated a rule whose first use was maximizing a rocket's final speed. Pontryagin's maximum principle finds the best way to steer a dynamical system from one state to another, especially when states or controls are constrained ({{ref:nature-econ-465}}). It says an optimal control and its state path must solve the Hamiltonian system, a two-point boundary value problem, and maximize the control {{ref:nature-econ-446}}. Its power lies in a simplification. Maximizing the Hamiltonian at each moment is much easier than optimizing over whole functions ({{ref:nature-econ-421}}). The conditions are necessary, and they become sufficient under certain convexity conditions. The {{ref:nature-econ-470}} must hold over the whole state space, but these conditions need hold only along one path, which can make them cheaper to compute. In differential games, open-loop strategies are found with the maximum principle and closed-loop strategies with dynamic programming."
+  },
+  "nature-econ-467": {
+   "title": "Linear quadratic control: the tidiest optimal control problem",
+   "text": "The tidiest case in {{ref:nature-econ-465}} pairs linear dynamics with a quadratic cost. Linear quadratic control can be solved as a rule that responds to the system as it goes. The best control is a rule proportional to the current state, with the matrix found from the Riccati equation. Its cost can be read physically as minimizing control energy."
+  },
+  "nature-econ-447": {
+   "title": "The current value Hamiltonian: removing the discount",
+   "text": "Economic plans over time usually weigh the future less than the present ({{ref:nature-econ-745}}). In economic dynamic optimization, the objective often depends on time only through {{ref:nature-econ-794}} of an instantaneous utility, or felicity, function. The current value Hamiltonian is a version of the control {{ref:nature-econ-446}}, common in economics, that strips out that discounting so values are measured at the current date. Its costate variables have a direct economic reading: they are the current-valued prices of the capital goods."
+  },
+  "nature-econ-448": {
+   "title": "Transversality conditions: how a plan should end",
+   "text": "A plan over time needs a proper ending as well as a beginning. A transversality condition is an end-point condition needed for optimality when a dynamic problem's final state is left free ({{ref:nature-econ-465}}). With a free terminal value, the costate variable must equal zero at the final time ({{ref:nature-econ-466}}). In a lifetime consumption problem, a transversality condition says the consumer carries no debt at the end of life. If the end lies infinitely far off, a transversality condition on the {{ref:nature-econ-446}} applies instead."
+  },
+  "nature-econ-422": {
+   "title": "The Euler–Lagrange equation: where the best curves hide",
+   "text": "Ordinary calculus finds a function's highest or lowest point by setting its derivative to zero ({{ref:nature-econ-429}}). The {{ref:nature-econ-421}} has a counterpart. Setting the functional derivative to zero gives the Euler–Lagrange equation, whose solutions are the candidate functions that maximize or minimize a functional. When the variable does not appear on its own in the integrand, the expression being integrated, the equation simplifies to the Beltrami identity."
+  },
+  "nature-econ-476": {
+   "title": "Model closure: deciding what a CGE model takes as given",
+   "text": "A CGE model ({{ref:nature-econ-475}}) always has more variables than equations, so some must be fixed from outside. Model closure is the choice of which variables are set from outside the model, called exogenous, and which it works out, called endogenous. Technology, consumer tastes and government instruments such as tax rates are usually exogenous. Beyond that, modelers differ. Some hold employment and the trade balance fixed, while others let them vary. The choice can be controversial, because modelers still disagree on whether those two should be fixed or free."
+  },
+  "nature-econ-477": {
+   "title": "Nested CES: layering choices inside an economic model",
+   "text": "A firm may first choose among capital, labor, materials and energy, then decide the mix within each. A household may first split its spending across food, housing and transport. CGE models ({{ref:nature-econ-475}}) usually represent such layered choices with a nested CES structure. It is built from the functions described in {{ref:nature-eecon-226}}, in which the ease of swapping one input for another stays fixed. In the nested version, groups of goods or inputs are treated as composites. This multi-stage choice is consistent only if preferences or technologies are separable in the relevant groups. Separability keeps the models computationally tractable and lets them be calibrated to reproduce observed base-year data."
+  },
+  "nature-econ-439": {
+   "title": "The duality gap: when two views disagree",
+   "text": "A problem and its dual ({{ref:nature-econ-438}}) need not reach the same optimum. The duality gap is the difference between their optimal values. For minimization problems it is never negative. When the gap is zero, strong duality holds. Otherwise it is positive and only weak duality holds. For convex problems ({{ref:nature-econ-427}}), the gap closes to zero when a regularity condition such as Slater's condition holds ({{ref:nature-econ-454}})."
+  },
+  "nature-econ-472": {
+   "title": "Stable and unstable equilibrium: the pendulum and the hilltop",
+   "text": "A pendulum nudged sideways makes small oscillations around its resting point. A ball balanced on top of a hill, nudged the same way, rolls off. The first is a stable equilibrium: a small push leads only to small, local movement. The second is unstable: a small push can send the system far away. The same distinction applies to a {{ref:nature-econ-474}} and to an {{ref:nature-econ-335}}. With damping, which drains motion away, a stable equilibrium is also asymptotically stable. For a repeated map, a fixed point is stable if the derivative there is less than 1 in absolute value, and unstable if greater."
+  },
+  "nature-econ-471": {
+   "title": "Stability theory: does a disturbed system come back?",
+   "text": "If a system starts slightly off course, does it stay close or drift away? Stability theory studies whether the solutions of {{ref:nature-econ-433}} and the paths of dynamical systems stay close when their starting conditions are disturbed slightly. It asks whether a nearby path will stay close to a given one forever, and whether it will converge to it. An equilibrium is stable if starting close keeps the system close, and asymptotically stable if the system also returns to it over time ({{ref:nature-econ-472}}). A key idea is to linearize: near an equilibrium, the system is approximated by straight-line relationships. The eigenvalues of a matrix, its characteristic numbers, then describe how nearby points move. If all eigenvalues have negative real parts, nearby points approach the equilibrium at an exponential rate. Economics has its own version. A price adjusting to excess demand converges to equilibrium only if the derivative of its rate of change with respect to price is negative. Cournot introduced best-response dynamics in studying the stability of equilibrium, and stability can also be applied to Nash equilibria."
+  },
+  "nature-econ-419": {
+   "title": "Bifurcation theory: when small changes flip a system",
+   "text": "Turn a setting slowly, and at some point a whole system may suddenly behave differently. That switch is a bifurcation. A small, smooth change in a parameter, a fixed setting of the model, causes a sudden qualitative change in how the system behaves. Bifurcation theory studies how the qualitative behavior of a family of equations, such as the solutions of {{ref:nature-econ-433}}, changes as its parameters change. Henri Poincaré introduced the name in 1885. Bifurcations occur both in continuous systems described by differential equations and in discrete systems described by maps. The idea matters for nature. In ecology, abrupt shifts linked to a critical or bifurcation point are also called critical transitions. Systems nearing such a point show {{ref:nature-eco-654}}: they recover more and more slowly after being knocked off balance ({{ref:nature-econ-471}}). Catastrophe theory, which influenced research on these shifts, is a branch of bifurcation theory."
+  },
+  "nature-econ-468": {
+   "title": "Phase portraits: mapping where a system can go",
+   "text": "One picture can show the possible paths of a simple system. A phase portrait draws a dynamical system's trajectories in the phase plane, whose axes are the system's variables, with each starting point giving its own curve. Arrows show typical trajectories. Stable steady states ({{ref:nature-econ-474}}) appear as dots and unstable ones as circles. The picture reveals whether an attractor (a stable point, or sink), a repeller (an unstable point, or source) or a limit cycle, a repeating loop, is present. For a system of ordinary differential equations, it shows whether the system is unstable, asymptotically stable or neutrally stable ({{ref:nature-econ-471}}). Its shape, such as a saddle, node or spiral, can be read off the system's eigenvalues, or its trace and determinant."
+  },
+  "nature-econ-473": {
+   "title": "Lyapunov functions: proving stability with energy",
+   "text": "In 1892 Aleksandr Lyapunov showed that systems of ordinary differential equations behave stably whenever a suitable function can be found. A Lyapunov function is a function of a system's state whose existence demonstrates that the system is stable ({{ref:nature-econ-471}}). It is often useful to picture it as the energy of the system. Such functions are a general way to prove that a dynamical system is stable or asymptotically stable."
+  },
+  "nature-econ-453": {
+   "title": "Complementary slackness: loose limits carry no price",
+   "text": "A limit that is not pressing should cost nothing. Complementary slackness is the KKT condition ({{ref:nature-econ-452}}) that an inequality constraint which is not binding at the optimum gets a multiplier of zero. It is often written as the product of each multiplier and its constraint being zero. Think of the solution as a particle: a constraint can push back only when the particle touches its boundary."
+  },
+  "nature-econ-454": {
+   "title": "Constraint qualifications: when the KKT tests apply",
+   "text": "The KKT conditions ({{ref:nature-econ-452}}) only work for problems that behave well. A constraint qualification is a regularity condition that guarantees the optimum of a constrained problem satisfies them. The linear independence constraint qualification (LICQ) is the most frequently used. Slater's condition applies to convex problems: some point must satisfy the inequality constraints strictly, with room to spare. Weaker qualifications are preferred in practice, because they cover more problems."
+  },
+  "nature-econ-420": {
+   "title": "Local and global bifurcations: two ways systems flip",
+   "text": "Bifurcations ({{ref:nature-econ-419}}) come in two main classes. A local bifurcation occurs when a parameter change alters the stability of an equilibrium ({{ref:nature-econ-471}}). Saddle-node and Hopf bifurcations are the only generic local bifurcations that truly need just one parameter to be varied. A global bifurcation involves larger structures of the system colliding, such as a cycle running into an equilibrium. Global bifurcations cannot be found just by checking the stability of equilibria."
+  },
+  "nature-econ-418": {
+   "title": "Bellman's principle of optimality",
+   "text": "Richard Bellman put a simple insight into one rule. An optimal plan has this property: whatever the starting point and first decision, the remaining decisions must also be optimal from the situation that first decision creates. This principle of optimality tells {{ref:nature-econ-440}} how to break a decision problem into smaller subproblems. In computer science, a problem that can be broken apart this way is said to have optimal substructure. In dynamic game theory, the principle is analogous to subgame perfect equilibrium."
+  },
+  "nature-econ-416": {
+   "title": "The Bellman equation: today's payoff plus tomorrow's value",
+   "text": "The value of a decision problem today equals today's payoff plus the value of the problem left over after today's choice. That sentence is the Bellman equation. It comes from {{ref:nature-econ-440}} and splits a decision problem over time into a chain of simpler subproblems, following the {{ref:nature-econ-418}}. Solving it means finding an unknown function, the value function, which gives the best achievable outcome for each state. The matching best action for each state is the policy function. In continuous time the counterpart is the {{ref:nature-econ-470}}. The equation can be solved by backward induction, by hand in special cases or numerically. With many state variables, though, the curse of dimensionality, the explosive growth of the problem, may make that infeasible. Economists call this a recursive method. It has been used for optimal growth, resource extraction, public finance and many other problems. Martin Beckmann and Richard Muth are credited with the first known economic application. Robert C. Merton's 1973 model of financial prices is a celebrated later one."
+  },
+  "nature-econ-459": {
+   "title": "Markov decision processes: choosing step by step under chance",
+   "text": "Many decisions repeat under uncertainty: each result is partly luck, and each shapes the next choice. A Markov decision process (MDP) is a mathematical model of such a sequence. It is defined by states, actions, the probabilities of moving between states, and rewards ({{ref:nature-econ-417}}). The goal is a policy, a rule giving the action for each state, that maximizes the {{ref:nature-econ-756}} of the discounted sum of rewards. MDPs arose in operations research in the 1950s. They are now used in ecology, economics, healthcare and reinforcement learning, a branch of machine learning. They are often solved with stochastic, or chance-driven, dynamic programming, where the {{ref:nature-econ-416}} gives the recursion for expected rewards. Exact solutions are often infeasible, because problem size grows exponentially with the number of state and action variables. In game-theory terms, an MDP is a stochastic game with only one player."
+  },
+  "nature-econ-441": {
+   "title": "Ramsey's problem: how much to save for the future",
+   "text": "How much should a society consume today, and how much should it invest in {{ref:nature-econ-083}} for consumption tomorrow? That is Ramsey's optimal saving problem, a classic of economic planning and {{ref:nature-econ-818}}. The planner maximizes a social welfare function that links consumption to utility. Future consumption is discounted at a constant rate. {{ref:nature-econ-440}} lets the decision be made one step at a time: choose only current consumption and saving, given current capital. In the worked example, it is optimal to consume a larger share of wealth with age, using up everything in the last period of life."
+  },
+  "nature-econ-460": {
+   "title": "Value iteration and policy iteration",
+   "text": "Two standard algorithms find the best policy in a finite {{ref:nature-econ-459}}. Both repeatedly update a value for each state and a chosen action for each state. Value iteration, also called backward induction (Bellman 1957), starts from a guess of the value function and improves it step by step ({{ref:nature-econ-416}}). Policy iteration alternates between computing values and improving the policy until the policy stops changing, which gives a definite stopping point. Its inventor, Howard, devised it to optimize Sears catalog mailing."
+  },
+  "nature-econ-451": {
+   "title": "LP relaxation: dropping the whole-number rule",
+   "text": "Integer programs are hard to solve ({{ref:nature-econ-450}}). The LP relaxation is the linear program obtained by dropping the whole-number requirement. Rounding its solution is the naive approach, but the result may be neither optimal nor even feasible. In one lucky case no rounding is needed. If the constraint matrix is totally unimodular, a special mathematical property, the simplex method's solution is guaranteed to be whole numbers ({{ref:nature-econ-457}})."
+  },
+  "nature-econ-415": {
+   "title": "Bang–bang control: all on or all off",
+   "text": "Most household thermostats are bang–bang controllers. The heater or compressor is either running or not, depending on whether the temperature is above or below the setpoint. A bang–bang control switches abruptly between two extreme settings, such as fully on and fully off. In {{ref:nature-econ-465}}, a bang–bang solution jumps from one bound to the other and never takes an in-between value. Such solutions appear when the Hamiltonian is linear in the control, so {{ref:nature-econ-469}} pushes the control to its upper or lower limit. They are sometimes truly optimal, but they are also often used simply because they are simple or convenient."
+  },
+  "nature-econ-470": {
+   "title": "The Hamilton–Jacobi–Bellman equation",
+   "text": "The {{ref:nature-econ-416}} has a continuous-time twin. The Hamilton–Jacobi–Bellman equation is the partial differential equation ({{ref:nature-econ-434}}) that plays the Bellman equation's role when time flows continuously. Solving it gives a sufficient condition for optimal control, while Pontryagin's principle gives a necessary one. Indeed it provides a condition that is both necessary and sufficient, and it extends easily to optimal control problems involving chance. It is used to find the best policies in continuous-time Markov decision processes with continuous states and actions."
+  }
+ },
+ "reviews": {
+  "mathematical-tools-for-economics": "Every tool in this chapter serves one aim: choosing the best option from those available, judged by some criterion. The derivative measures how sensitive an output is to its inputs, setting it to zero locates candidate optima, and convexity guarantees that a local minimum is also the global one. Constraints turn the hunt into constrained optimization, where Lagrange multipliers and the KKT conditions put a value on each limit, and linear programming handles the case where every relationship is a straight line. Time adds another layer, as differential and difference equations describe systems that grow exponentially, level off logistically, or settle into steady states that may be stable or unstable. Optimal control, the maximum principle and dynamic programming then steer such systems over time, the machinery economists use for problems of saving, extraction and growth."
+ },
+ "openers": {},
+ "glossary": {}
+}

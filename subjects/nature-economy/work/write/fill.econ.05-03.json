@@ -1,0 +1,72 @@
+{
+ "entries": {
+  "nature-econ-526": {
+   "title": "The GDP deflator: a price index for everything produced",
+   "text": "A GDP deflator of 200 means prices have doubled since the base year; one of 50 means they have halved. The deflator is a price index covering all new, domestically produced final goods and services, and it turns nominal GDP into real GDP. It equals nominal GDP divided by real GDP, times 100, so the base year's value is 100. Unlike the CPI, it has no fixed basket. Its basket changes each year with patterns of spending and investment. In practice it usually differs only slightly from the CPI, but even small gaps can shift budgets."
+  },
+  "nature-econ-557": {
+   "title": "The AD–AS model: where demand meets supply for a whole economy",
+   "text": "A common textbook model finds an economy's price level and real output where two curves cross. One is aggregate demand, the total spending on goods and services. The other is aggregate supply, the total output producers offer. The demand curve slopes down, so more output is demanded at lower price levels. Near potential output, the full-employment level, extra demand only raises prices, not output. Modern versions put inflation on the vertical axis, with an upward-sloping supply curve based on the Phillips curve, a link between inflation and unemployment."
+  },
+  "nature-econ-551": {
+   "title": "Endogenous growth: explaining progress from the inside",
+   "text": "Older growth models, such as the one in {{ref:nature-eecon-204}}, left long-run growth to technical progress they could not explain. Dissatisfaction with that gap gave rise, in the mid-1980s, to endogenous growth theory. Its models explain growth from inside the economy, through increasing returns, the gains from experience described in {{ref:nature-clim-207}}, or the research and development of profit-seeking firms. Knowledge spillovers, a kind of positive externality, keep the returns to capital from falling to zero. The policy message follows: the long-run growth rate depends on choices such as subsidies for research or education that raise the incentive to innovate. Critics dispute its explanatory power, and ecological economists fault its neglect of energy and materials."
+  },
+  "nature-econ-544": {
+   "title": "The money supply: counting the money in an economy",
+   "text": "How much money is there in an economy? Economists answer with measures of the money supply, most commonly M1 and M2. M1 is liquid money: cash, coins and checking deposits. A liquid asset is one that can be turned into cash quickly without much loss of value. M2 adds less liquid items, such as time deposits, savings accounts and money market funds. The money supply is a stock, counted at a moment in time. It affects interest rates and sits at the center of {{ref:nature-econ-560}}."
+  },
+  "nature-econ-560": {
+   "title": "Monetary policy: steering the economy through interest rates",
+   "text": "When a central bank changes interest rates, the effects ripple outward. Investment, consumption, asset prices and exchange rates shift, and with them demand, employment and inflation. Economists call this chain the monetary transmission mechanism. Monetary policy is what a nation's monetary authority uses to influence money and financial conditions, in pursuit of goals such as high employment and low, stable inflation. Setting interest rates, directly or through {{ref:nature-econ-563}}, is generally its main tool. Expansionary policy lowers rates to stimulate activity, and contractionary policy dampens activity and inflation. Most developed-country central banks target inflation, while most in developing countries target a fixed exchange rate. Unlike fiscal policy, monetary policy works through financial channels, and it is usually run by central banks independent of government. When rates are near zero, conventional policy cannot loosen further, so central banks may turn to {{ref:nature-econ-564}}."
+  },
+  "nature-econ-554": {
+   "title": "Stabilization policy: smoothing out booms and slumps",
+   "text": "Economies boom and slump, and stabilization policy tries to soften the harm. It is short-run policy by governments and central banks, using fiscal and monetary tools. In a recession, policy turns expansive. When the economy overheats, it turns contractive. Economists usually prefer monetary policy for moderate swings, since independent central banks face less political pressure and shorter delays. Fiscal policy matters more after a major shock, under a fixed exchange rate, or in a liquidity trap, when cutting interest rates no longer revives spending. Longer-run structural policies are a different matter. They target things like the structural unemployment rate, or how much people save, invest and study."
+  },
+  "nature-econ-556": {
+   "title": "Automatic stabilizers: cushions built into the budget",
+   "text": "When unemployment rises, spending on unemployment benefits rises and tax revenue falls, without politicians deciding anything. These automatic stabilizers are parts of the tax and benefit system that cushion a downturn on their own, protecting part of private income and consumption. Because no new decision is needed, they avoid the delays that slow discretionary fiscal policy, the deliberate kind."
+  },
+  "nature-econ-561": {
+   "title": "Central banks: the bankers' bank",
+   "text": "The Bank of England, created in 1694 with power to print gold-backed notes, began the idea of monetary policy run independently of the executive. A central bank is a national bank that issues currency and sets interest rates. It also acts as lender of last resort, lending to other banks when no one else will. Industrialized nations set up central banks between 1870 and 1920, and the Federal Reserve, in 1913, was among the last. There is strong consensus today that an independent central bank runs more credible monetary policy."
+  },
+  "nature-econ-563": {
+   "title": "Open market operations: creating money by buying bonds",
+   "text": "A central bank can create money by going shopping. When it buys a security such as a government bond, it in effect creates money, expanding the monetary base. Selling securities shrinks the base again. The monetary base is currency in circulation plus the reserves banks hold at the central bank. This buying and selling, called open market operations, lets the bank influence interest rates, the exchange rate or the money supply."
+  },
+  "nature-econ-564": {
+   "title": "Quantitative easing: when interest rates hit bottom",
+   "text": "When interest rates are already near zero, the usual lever is stuck. Conventional policy can fail in such a liquidity trap. Quantitative easing is one way around it: the central bank buys bonds and other assets to push down a wider range of interest rates. Its purchases can include government bonds, corporate bonds, stocks and other securities. It is one of several unconventional tools, alongside credit easing, forward guidance and signalling."
+  },
+  "nature-econ-565": {
+   "title": "Green monetary policy: central banks confront climate change",
+   "text": "Around 2017–2018, central banks began asking what {{ref:nature-hist-007}} means for their own frameworks. They argue it will add market volatility, inflation pressure from severe weather or a disorderly transition, and financial risks. Green monetary policy is central banks' adjustment of monetary and supervisory policy to account for these effects. The Network for Greening the Financial System, founded in 2017, has more than a hundred central banks and supervisors as members. Proposals include green macro-prudential rules, which guard the financial system as a whole, along with green quantitative easing, green collateral rules and green refinancing operations. In 2021 the European Central Bank said it would tilt its corporate bond purchases, a form of green QE. It has not adopted a green interest rate."
+  },
+  "nature-econ-570": {
+   "title": "Generational accounting: who pays, and when",
+   "text": "A budget deficit shows one year's taxes minus spending. It says nothing about who will pay later. Generational accounting tries to fill that gap. It measures how social insurance shifts lifetime tax burdens between generations. It has been proposed as a better guide than the deficit to whether fiscal policy is sustainable."
+  },
+  "nature-econ-523": {
+   "title": "Neutral, expansionary, contractionary: three fiscal settings",
+   "text": "Fiscal policy has three settings. Neutral policy keeps deficit spending about at its long-run average, typically when the economy is neither in recession nor boom. Expansionary policy, used in recessions, lets spending exceed tax revenue by more than usual, through public works or tax cuts. Contractionary policy raises taxes and cuts spending to cool growth that is causing excessive inflation. Judging the setting takes care, because tax revenue rises and falls with the business cycle on its own. Analysts therefore use cyclically adjusted figures, which remove that swing."
+  },
+  "nature-econ-524": {
+   "title": "Monetary or fiscal policy: which works better?",
+   "text": "Which tool steers an economy better? Monetary policy is quicker to change, since interest rates can be set monthly, and it is shielded from election politics. But it has a weak spot. In a liquidity trap, rate cuts fail to boost demand because banks will not lend and consumers will not spend. In a deep recession, monetary policy alone is not enough, and government spending can kick-start demand. Fiscal policy appears to have the greater long-run effect, while monetary policy tends to succeed in the short run. Economists still weigh the two tools differently and debate how well each works."
+  },
+  "nature-econ-598": {
+   "title": "Satellite accounts: extra detail without touching the main figures",
+   "text": "National accountants often want more detail on a topic like the environment without disturbing the main figures everyone relies on. Satellite accounts provide it. They are extra accounts linked to the main national accounts, giving detail without changing them. In principle they are optional, and countries produce them when there is demand and budget. SNA 2008 recognized environmental satellite accounts such as material flow, emission and energy accounts."
+  },
+  "nature-econ-585": {
+   "title": "The Big Mac Index: currencies compared by burger",
+   "text": "In 1986 The Economist created a currency gauge with a single item in its basket: a McDonald's Big Mac. The Big Mac Index is a simple version of purchasing power parity, meant to teach economics and to spot over- and under-valued currencies. It has an obvious flaw. A Big Mac is perishable and hard to transport, so the law of one price is unlikely to hold for it. Even so, one study found a correlation of 0.73 between Big Mac prices and the prices in the Penn World Tables."
+  },
+  "nature-econ-600": {
+   "title": "Growth accounting: sorting growth into its sources",
+   "text": "Growth accounting splits economic growth into two parts: the share due to more inputs, such as labour and capital, and the share due to technological change. It uses national accounts data over long periods to estimate where growth came from. Multi-factor productivity, the leftover share, is typically estimated this way. Like total factor productivity, the method is open to the Cambridge critique, so some economists doubt its validity."
+  }
+ }
+}

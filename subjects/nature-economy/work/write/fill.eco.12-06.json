@@ -1,0 +1,83 @@
+{
+"entries": {
+"nature-eco-525": {
+"title": "Restoration islands: small patches that spread",
+"text": "Instead of planting a whole hillside, some restorers plant a few well-placed patches and let nature do the rest. Restoration islands are small planted patches that then spread into the land around them. They suit the patchy vegetation of drylands and need fewer resources than large plantations. The benefits include lower fire risk, less erosion, weed control, seed sources and wildlife habitat. Patience is required. In drylands, patches spread more slowly than in humid ecosystems."
+},
+"nature-eco-526": {
+"title": "Managing rangelands for grass, carbon and herders",
+"text": "Rangelands, the open lands grazed by livestock, cover about 25% of drylands globally. Sustainable rangeland management means managing and restoring these grazing lands so they keep producing while storing carbon and resisting desertification. Because of its potential to lock away carbon, rangeland restoration counts as a way to slow climate change, and it can improve herders' livelihoods. Whether a practice is adopted depends heavily on local context, including ecological, economic, political and cultural factors."
+},
+"nature-eco-539": {
+"title": "Intact forest landscapes: the last big wild woods",
+"text": "Protecting the world's wildest forests is often cheap, because the remoteness and low economic value that kept them undeveloped also keep protection costs down. An intact forest landscape is a large, unbroken natural forest area with no sign of significant human activity or fragmentation. Technically it must cover at least 500 km2 (50,000 ha), be at least 10 km wide, and show minimal influence from economic activity. Such landscapes cover about 23 percent of forest ecosystems (13.1 million km2), almost all in tropical and subtropical forests (45 percent) and boreal forests (44 percent). Only 10 percent of their global area is strictly protected, and about seven percent was lost after 2000."
+},
+"nature-eco-557": {
+"title": "The river continuum: a river's diet from source to sea",
+"text": "A river's diet changes along its length. The river continuum concept is a framework describing how temperate river ecosystems change in function from small headwaters to large rivers. It uses stream order, a ranking of streams by size, to mark position along that gradient. Small shaded headwaters depend on leaf litter from land. Mid-sized rivers get enough light for algae. Large rivers rely again mainly on outside inputs. Animal communities track the food: shredders, which tear up leaves, thrive in small streams, and grazers at mid-sized sites. The idea has critics. Junk and colleagues argue it rests on small temperate streams and has been wrongly applied to all rivers, including those that switch between flowing and still states. They prefer a rival framework for such rivers, the {{ref:nature-nbs-202}}."
+},
+"nature-eco-421": {
+"title": "Coarse woody debris: the value of dead wood",
+"text": "A fallen trunk can lie on the forest floor for a very long time. Coarse woody debris is dead wood such as fallen trunks and branches, which decays slowly. Its chemistry, especially lignin, the tough compound that stiffens wood, makes it rot slowly compared with most organic matter. It decays even more slowly in dry or cold places. Lying for long periods, it shapes wildlife habitat, fire behaviour and how trees regenerate."
+},
+"nature-eco-518": {
+"title": "Bathyal, abyssal, hadal: the deep-sea zones",
+"text": "The deepest band of the ocean runs from 6 to 11 km down. Scientists divide the deep ocean into three depth bands: the bathyal, abyssal and hadal zones. The bathyal zone, or continental slope, runs from 200 to 3,000 meters and mixes features of the shelf above and the abyss below. The abyssal zone lies between 3–6 km deep, and the hadal zone between 6–11 km."
+},
+"nature-eco-420": {
+"title": "Forest biomass: the weight of the woods",
+"text": "The world's forests hold about 606 gigatonnes of living biomass above and below ground, plus 59 gigatonnes of dead wood. Forests build up large amounts of living plant material, and many do so quickly, which makes them highly productive. That store is not permanent. Fires and falling trees can release it suddenly, reshaping the forest's structure."
+},
+"nature-eco-519": {
+"title": "Hydrothermal vents: life without the sun",
+"text": "Water leaving 'black smoker' chimneys on the seafloor can reach 400 °C (752 °F), kept from boiling by the enormous pressure. Around these hydrothermal vents live communities powered by chemosynthetic bacteria, microbes that make food from chemical energy rather than sunlight. They are among the few ecosystems on the planet that do not depend on sunlight at all. Tube worms such as Riftia live in partnership with these bacteria."
+},
+"nature-eco-419": {
+"title": "Mycorrhizal networks: fungi that feed the forest",
+"text": "Some conifers cannot survive without their fungal partners. A mycorrhizal network is a partnership in which fungi and plants share resources through connections in the soil. Fungal threads reach farther into the soil than roots, helping plants get phosphorus and water. Many conifers trade sugars to the fungi in return for nutrients. The network can move water and nutrients between plants and can help them resist drought. The benefit is not universal: it varies by plant species and shrinks where soil nutrients are plentiful."
+},
+"nature-eco-540": {
+"title": "Shore, open water, depths: the zones of a lake",
+"text": "At the bottom of a deep lake, no sunlight reaches, and the food web runs on detritus drifting down from above. Lakes are commonly divided into three zones. The littoral zone is the shallow shoreline, where rooted wetland plants grow. The open, sunlit zone feeds algae. The deep zone is dark. The same zones are also called the pelagic, limnetic and profundal zones."
+},
+"nature-eco-541": {
+"title": "Lake layers and the autumn turnover",
+"text": "Water is densest at about 4 °C, and that quirk splits big lakes in two each summer. As the surface warms, it forms a warm upper layer, the epilimnion, floating over a cold bottom layer, the hypolimnion. Between them lies the thermocline, a band of rapid temperature change. The layers stay apart until autumn cooling mixes the lake to a uniform temperature, a process called lake turnover. In winter the layers form again in reverse beneath the ice. This layering also affects how much oxygen each zone holds."
+},
+"nature-eco-496": {
+"title": "What sets how much methane a wetland releases",
+"text": "Big bursts of methane have followed droughts that lowered a wetland's water table, because gas moves more easily through soil than through water. Many factors set how much methane a wetland releases, such as water table, temperature, soil and plants. The key balance is between two groups of microbes. Methanogens make methane; methanotrophs eat it. Net release depends mainly on how much methane escapes before it is oxidized. Plentiful cellulose and a soil pH of about 6.0 give optimum conditions for making methane. Scientists measure emissions with eddy covariance, gradient or chamber flux methods."
+},
+"nature-eco-497": {
+"title": "Draining wetlands: less methane, or more",
+"text": "Draining a wetland can cut its methane, or not. Drainage for development, housing and farming lowers the water table, which lets soil bacteria consume more methane. But the drainage ditches themselves stay waterlogged and warm, and they can emit large amounts of methane. Lowered far enough, the water table can turn a wetland from a methane source into a methane sink."
+},
+"nature-eco-495": {
+"title": "Three routes for methane to escape a wetland",
+"text": "Wetland methane is made by archaea, single-celled microbes that ferment acetate or combine hydrogen with carbon dioxide. It reaches the air by three main routes: diffusion, transport through plant tissue, and bubbling, or ebullition. When the water table is low, methane rising through the soil passes a layer of methane-eating bacteria, which reduces emissions. Plants with aerenchyma, porous air-carrying tissue, act as a shunt that lets methane skip that layer. In ebullition, pockets of methane build in the soil until a bubble bursts, moving gas up too fast for microbes to consume it."
+},
+"nature-eco-515": {
+"title": "What boreal ecosystems provide",
+"text": "Canada's boreal ecosystem is one of the world's largest carbon reservoirs, and it has high potential for hydroelectric power. Boreal ecosystems provide many services, led by timber and a steadier climate through the carbon cycle. Boreal forests supply lumber and regulate water, soil and air quality. These services compete. Managing an ecosystem to maximize one tends to reduce the supply of the others."
+},
+"nature-eco-514": {
+"title": "Climate change in the boreal north",
+"text": "Permafrost stores double the carbon now in the atmosphere, and thawing can release it as greenhouse gases. Warming is changing boreal ecosystems, and their changes feed back on the climate. Thawing ground, milder winters and hotter summers displace cold-adapted species, increase forest fires and can turn boreal areas into other ecosystem types. Plants and animals are already shifting northward, though plants may lag the warming by decades to a century. Thaw, fire and insect outbreaks have led some models to suggest boreal forests are now a net carbon source rather than a sink."
+},
+"nature-eco-439": {
+"title": "The environmental troubles of growing cities",
+"text": "Pockets of extra warmth in cities ({{ref:nature-nbs-019}}) make extreme heat more frequent, hitting the elderly and people without cooling hardest. Growing cities face pollution, loss of green space, habitat fragmentation, invasive species, heat and disease. Air pollution from vehicles, factories and power plants exceeds safe limits in many cities and causes respiratory and heart disease. Development replaces forests, wetlands and grasslands, and losing green space lowers air and water quality, health and biodiversity. Heavily urbanized areas also have more invasive species than rural ones."
+},
+"nature-eco-440": {
+"title": "Green and blue infrastructure: building nature into cities",
+"text": "Buildings certified under LEED, a green building rating system, report using 30% less energy and gaining economic and mental benefits from natural light. Green and blue infrastructure means building in ways that weave natural systems such as vegetation and water into human-made structures. The green side includes nature preserves and added vegetation such as vertical gardens. The blue side includes ways of managing rainwater, such as planted channels that soak up runoff ({{ref:nature-nbs-174}})."
+},
+"nature-eco-438": {
+"title": "Studying city nature: a young and lopsided field",
+"text": "A review of 217 papers found most studies of urban ecosystem services were done in Europe, North America and China, at the scale of a single city. The ecology of cities, including the study of what urban nature provides, is a young field whose research is still limited and unevenly spread. Another review found a strong bias toward the northern hemisphere, with case studies mostly in the United States and China. Assessments use biophysical models, digital mapping and valuation, but few findings have been turned into policy on how land is used. Researchers are building better tools to map services such as water regulation, air cooling and the cleaning of water."
+}
+},
+"reviews": {
+"key-ecosystems": "Every ecosystem in this chapter turns on the same few forces: water, carbon, disturbance and people. Waterlogging slows decay, so bogs, fens and peat swamp forests pile up carbon, and draining them releases it, as tropical peat fires and palm oil plantations show. Coastal mangroves, salt marshes, seagrass meadows and coral reefs calm waves, shelter young fish and bury carbon, yet shrimp farming, nutrient pollution and warming seas are stripping them away. On land, forests hold most plant biomass while grasslands and drylands hide their value underground or in the herds and people they support. Across all of them, the services people depend on, from flood control to fisheries, last only as long as the ecosystem does, which is why conservation and restoration recur in every section."
+}
+}

@@ -1,0 +1,105 @@
+{
+ "entries": {
+  "nature-econ-130": {
+   "title": "The labor theory of value: worth measured in work",
+   "text": "For Adam Smith and David Ricardo, the long-run \"natural price\" of a good came back to labor. The labor theory of value holds that a good's economic value is set by the total socially necessary labor needed to produce it. Smith tied value to the labor a good could command in exchange. Ricardo tied it to the quantity of labor embodied in making it. In its simplest form, a product's final value is the value of the labor time plus the value of the tools, materials and power used, called constant capital. Marx built on it to construct his theory of surplus value, which holds that profit comes from the unpaid labor of workers, taken by capitalists. Today the theory is usually associated with Marxism. From the late 19th century, mainstream neoclassical economics largely replaced it with the theory of marginal utility. Critics from the Austrian School and neo-Ricardian economics still dispute it, especially over the \"transformation problem\" of turning values into prices."
+  },
+  "nature-econ-157": {
+   "title": "Institutional economics: the rules shape the game",
+   "text": "Markets are not simply given. Institutional economics sees them as the result of complex interactions between institutions, such as firms, states, laws and shared rules of behavior. It studies how those institutions, and their evolution, shape economic behavior. Instead of assuming stable preferences, rationality and equilibrium, it focuses on learning, limited reasoning and evolution. Its name traces to a 1919 article by Walton H. Hamilton. In the early 20th century it was central to American economics through Thorstein Veblen, Wesley Mitchell and John R. Commons. Veblen's The Theory of the Leisure Class (1899) analyzed how people consume conspicuously to display success. Later, a newer school ({{ref:nature-econ-656}}) tried to bring the approach into the mainstream through theories of {{ref:nature-econ-621}}, information and {{ref:nature-econ-641}}. The older tradition continues today as a leading heterodox approach, one outside the mainstream."
+  },
+  "nature-econ-154": {
+   "title": "Mixed economies: markets with a government hand",
+   "text": "Most market-oriented economies today, including the United States, are mixed economies. A mixed economy combines features of capitalism, such as private businesses, with features of socialism, such as government-run services. The blend can mean markets with planning, markets with state intervention, or private with public enterprise. John Maynard Keynes advocated one version. In it, private ownership and profit-seeking stay dominant, but markets are regulated. Governments use taxing, spending and control of money to fight booms, busts, unemployment and inequality. They also provide education, healthcare, infrastructure, environmental protection and management of public lands. The Nordic countries, with their extensive welfare states, belong here too. China, Norway, Singapore and Vietnam run large state-owned sectors alongside large private ones. Because real economies rarely match an ideal, mixed economies are usually described as leaning toward private or public ownership. Some reject the idea entirely. Ludwig von Mises, Friedrich Hayek and orthodox Marxists argue no lasting mixture is possible, since either markets or planning must drive the economy."
+  },
+  "nature-econ-146": {
+   "title": "The subjective theory of value: worth in the eye of the beholder",
+   "text": "A collectable car or comic book can gain value long after it was made, through age, personal attachment, cultural meaning or scarcity. The subjective theory of value explains why. It holds that a good's value is set by the people buying or selling it. No property of the good, and no labor that went into it, decides it. It broke away from the labor theory of value during the {{ref:nature-econ-094}}. Jevons, Walras and Menger created its modern version independently and almost at the same time in the late 19th century. One consequence is striking. Because trades are voluntary, both sides value what they receive more than what they give, so trade itself can create value. The theory also helps explain why non-essential goods can be worth more than essential ones. Alfred Marshall combined both views. Prices, he said, depend on objective production costs on the sellers' side and on buyers' subjective utility."
+  },
+  "nature-econ-087": {
+   "title": "Matter, energy and design: an ecological view of production",
+   "text": "Ecological economists replace land, labor and capital with three different factors: matter, energy and design intelligence. The point is to make production obey physical limits. Matter can be recycled but never created or destroyed, so there is an upper limit on how much can be withdrawn and used. Energy loses its usefulness over time, as when electricity running a machine turns into heat. Once matter and energy are used at their maximum sustainable rates, only better design can raise output per unit. This underlies a central claim of the field: infinite growth is impossible."
+  },
+  "nature-econ-088": {
+   "title": "Entrepreneurship: a fourth factor of production?",
+   "text": "Land, labor and capital do not organize themselves. Entrepreneurship, the work of combining them to make a profit, is sometimes counted as a fourth factor of production. Some authors added it in the first half of the 20th century, and it became standard in the post-war neoclassical synthesis. Many economists today instead treat {{ref:nature-econ-531}} as the fourth factor, with entrepreneurship as one form of it. Others have proposed energy, the value of social ties, or cultural heritage."
+  },
+  "nature-econ-085": {
+   "title": "Fixed and circulating capital: what lasts and what is used up",
+   "text": "Adam Smith split capital into two kinds. Fixed capital, such as machines and storage buildings, is not used up in making a product. Circulating capital, such as raw materials and intermediate products, is. Smith also made clear that capital is a stock, an amount that exists at a point in time. Marx later drew a different line. His constant capital is spending on machinery and plant, while variable capital is spending on labor power, which he saw as the only source of surplus value."
+  },
+  "nature-econ-084": {
+   "title": "Types of capital: from money to nature",
+   "text": "Capital is not only machines. Economists divide it into several kinds, including financial, social, instructional, human, public and natural capital. One kind, {{ref:nature-econ-604}}, is traded in financial markets, and its market value rests on expected revenues and risk rather than on money invested in the past. Another, {{ref:nature-econ-531}}, broadly combines social, instructional and individual human talent. Public capital covers government-owned infrastructure such as highways, water treatment, electric grids, hospitals and schools. Natural capital is the world's stock of resources from nature, and some of it gives people free goods and services called ecosystem services."
+  },
+  "nature-econ-094": {
+   "title": "The Marginal Revolution: three thinkers, one idea",
+   "text": "In 1871 two economists in different countries published the same new idea. In England, Jevons argued in The Theory of Political Economy that value depends entirely on utility. In Austria, Carl Menger presented the theory in his Principles of Economics. Walras followed in Switzerland in 1874. This spread of marginal utility theory in the 1870s is called the Marginal Revolution. A second generation, including Alfred Marshall, Böhm-Bawerk, Wieser and Pareto, carried the ideas into the mainstream. Over the 20th century a large literature grew on the conflict between marginalism and the labor theory of value."
+  },
+  "nature-econ-151": {
+   "title": "Absolute advantage: simply being better at it",
+   "text": "Suppose the UK needs fewer hours to make cloth and Portugal fewer to make wine. By specializing and trading, both end up with more of each good. That is absolute advantage at work: the ability of a person, firm or country to produce a good or service more efficiently than others. Adam Smith first described it in The Wealth of Nations in 1776. Arguing against {{ref:nature-hist-022}}, he said all nations could gain from free trade and specialization. Yet a party can lack an absolute advantage in anything and still gain from trade, through the principle covered in {{ref:nature-econ-106}}."
+  },
+  "nature-econ-106": {
+   "title": "Comparative advantage: why the best at everything still trades",
+   "text": "Even a country that is better at producing everything gains by trading. That is the principle of comparative advantage, and it holds for people and firms as well as countries. Gains are greatest when each party specializes in what it produces at the lowest opportunity cost and trades for the rest. This differs from absolute advantage, which is about being more productive overall. David Ricardo developed the classical theory in 1817, using the example of Portugal and England producing wine and cloth. He wrote amid the debate over Britain's 1815 Corn Laws, which taxed imported grain to protect landowners. In 1930 Gottfried Haberler restated the idea in terms of opportunity cost, measuring a good's value in forgone units of another good. The principle describes what specialization and trade would bring, not a strict prediction of behavior. Critics such as James K. Galbraith argue that countries locked into agriculture stay poor, because farming depends on land, a finite resource. Others dispute that comparative advantage justifies free trade, pointing to strategic trade policy and global value chains."
+  },
+  "nature-econ-144": {
+   "title": "The marginal rate of transformation: the cost of switching output",
+   "text": "The marginal rate of transformation is the slope of the production-possibility frontier. It measures how much of one good must be given up to make one more unit of another. It is also called the marginal opportunity cost of one good in terms of the other. If the slope at a point is 2, making one more packet of butter means giving up 2 guns. The rate also marks the efficient ideal described in {{ref:nature-econ-168}}, reached when it equals every consumer's marginal rate of substitution."
+  },
+  "nature-econ-132": {
+   "title": "The Marxist case against marginalism",
+   "text": "Marxist economists rejected marginalism. They held to the labor theory of value and argued that prices cannot be explained by individual preferences alone. Ernest Mandel argued that marginalism ignored production and explained, at best, short-term price swings rather than stable long-run prices. Maurice Dobb pointed to money: marginalist prices depend on the distribution of income, since people's ability to express preferences depends on their spending power. Oskar Lange and Michał Kalecki, in the Marxian tradition, tried to combine it with marginalism and neoclassical economics. Marxist and mainstream economists still disagree over whether marginal utility or labor explains value."
+  },
+  "nature-econ-124": {
+   "title": "Implicit costs: the income you quietly give up",
+   "text": "A firm sits on land it bought for $50 a century ago. The land could now rent for $10,000 a month. The $10,000 is a real cost of staying put; the $50 should be ignored. That forgone rent is an implicit cost: the opportunity cost of using something you already own. It is the opposite of an explicit cost, which is paid directly, and it also covers income given up by choosing not to work. Implicit costs make up the gap between {{ref:nature-econ-097}} and accounting profit, so the first is never more than the second."
+  },
+  "nature-econ-114": {
+   "title": "Economic cost: counting what you pass up",
+   "text": "An accountant and an economist can look at the same decision and see different costs. Economic cost is the total value of everything given up for a course of action, including the opportunities passed over. Counting opportunity cost is what separates it from accounting cost. Economists use it to compare how wise one course of action is against another. Some costs change with output, while others come from assets that do not vary with production. The extra cost of producing one more unit gets its own entry, {{ref:nature-econ-347}}."
+  },
+  "nature-econ-148": {
+   "title": "Sunk costs: what is spent is spent",
+   "text": "A company plans a factory expected to cost $100 million and yield $120 million. After $30 million is spent, the value projection falls to $65 million. Should it finish? Finishing would cost $70 million more to get $65 million, so it should walk away. If the projection had fallen only to $75 million, continuing would be rational. In both cases the $30 million already spent plays no part. It is a sunk cost: money, time or effort already spent that cannot be recovered. It contrasts with prospective costs, future costs that can still be avoided by acting. Standard economic theory holds that only future costs matter to a rational decision, a rule called the bygones principle or marginal principle. Everyday life is less disciplined. People often let past spending, for example on repairing a car or a house, shape their future decisions."
+  },
+  "nature-econ-135": {
+   "title": "Fixed and variable costs: what changes with output",
+   "text": "Rent, salaries and utility bills arrive whatever a firm produces. Such costs are fixed: they do not change with output. Raw materials, delivery and production supplies are variable, rising and falling with output. In the short run, a firm's whole cost bill equals the fixed part plus the variable part. The line between the two depends on time. Over a few months most costs are fixed, but over 10 years most become variable, as workers and machines can be changed."
+  },
+  "nature-econ-097": {
+   "title": "Economic profit: better than the alternatives?",
+   "text": "A new business can show $10,000 of accounting profit and still have an economic profit of −$30,000. The gap is opportunity cost. Economic profit is revenue minus all costs, including opportunity costs, whereas accounting profit counts only the measurable costs of running a business. When economic profit is zero, revenue covers every explicit and implicit cost, and there is no reason to move resources elsewhere. That break-even point is {{ref:nature-econ-354}}. So economic profit does not show whether a decision makes money. It shows whether the decision is wiser than the alternatives."
+  },
+  "nature-econ-136": {
+   "title": "The cost-of-production theory of value: price as the sum of costs",
+   "text": "Add up the wages, profit and rent that went into a good, Adam Smith said, and you have its natural price. That is the cost-of-production theory of value: a thing's price is set by the full cost of the resources used to make it. The costs can include any factor of production, such as labor, capital or land, plus taxes. Smith, its best-known proponent, held that market prices can stray from the natural price in the short term. The theory works best when expanding all inputs expands output in proportion, and when only one factor of production is not itself produced."
+  },
+  "nature-econ-149": {
+   "title": "The sunk cost fallacy: throwing good money after bad",
+   "text": "Managers told they had made an earlier poor investment put in an average of $12.97 million more. Those told someone else had made it put in $9.43 million. The difference is the sunk cost fallacy: the tendency to keep going with something because of what has already been invested, even when stopping would be better. It is \"throwing good money after bad\" instead of \"cutting one's losses.\" Managers of many US utility companies were found overly reluctant to end economically unviable nuclear plant projects. Behavioral economists link the fallacy to the way choices are framed, overoptimism, a sense of personal responsibility and the wish not to appear wasteful."
+  },
+  "nature-econ-126": {
+   "title": "Inferior goods: buying less as income rises",
+   "text": "Potatoes behave as an inferior good in the Andes but are a high-prestige food in Bangladesh. An inferior good is one that people buy less of as their income rises; normal goods are the opposite. Examples include subcompact economy cars, public transit, payday lending, second-hand clothes and cheap food. The label reflects affordability, not quality, and the same good can be normal for one group and inferior for another."
+  },
+  "nature-econ-111": {
+   "title": "The income effect: richer or poorer, you buy differently",
+   "text": "When a good gets cheaper, its buyers become a little richer. The income effect is the change in how much of a good people buy when their real income, or purchasing power, changes. With prices fixed, a change in income shifts the budget line in parallel: outward when income rises, inward when it falls. People buy more of a normal good as income rises and less of an inferior good. So a price cut lets the consumer buy more of that good or of others, depending on which kind it is. Together with the substitution effect, the income effect makes up the full effect of a price change."
+  },
+  "nature-econ-389": {
+   "title": "Giffen goods: when a higher price means buying more",
+   "text": "A Giffen good breaks the usual rule of buying: it is a rare kind of inferior good that people buy more of when its price rises. It must take up so much of a person's spending that a price rise makes them poorer and pushes them to buy even more of it. The idea is named after Sir Robert Giffen. The classic story has Irish families in the Great Famine buying more potatoes as prices rose, cutting back on meat and vegetables. Yet potatoes were not in fact Giffen goods then. Economists disagree on whether Giffen goods exist in real markets."
+  },
+  "nature-econ-145": {
+   "title": "The Slutsky equation: splitting a price change in two",
+   "text": "The Slutsky equation splits the change in demand caused by a price change into a substitution effect and an income effect. It links ordinary (Marshallian) demand to compensated (Hicksian) demand, which holds utility fixed. The substitution effect is always negative, because indifference curves slope downward. The sign of the income effect depends on the good. The substitution effect cannot be seen directly, but it can be calculated from the two observable terms. The equation also explains Giffen goods. There a strong income effect outweighs the substitution effect, and the usual rule that higher prices cut buying fails."
+  }
+ },
+ "openers": {},
+ "reviews": {
+  "choices-scarcity-and-value": "This chapter began with one person ranking options and ended with the tools economists use to describe a whole economy. Utility measures satisfaction, preferences rank the options, and a budget constraint marks what a person can afford; the best choice sits where an indifference curve just touches the budget line. Opportunity cost ties it all together, because scarcity means every choice gives up a best alternative, whether an hour of work or the land, labor and capital that make other goods. Thinking at the margin explained why diamonds cost more than water, and the Marginal Revolution of the 1870s moved the source of value from labor to utility. The chapter also showed the cracks: critics doubt that people are rational and fully informed, and many neoclassical theories give no economic value to anything without a market, a gap that matters greatly for nature."
+ },
+ "glossary": {}
+}

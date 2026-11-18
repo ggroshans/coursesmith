@@ -1,0 +1,149 @@
+{
+ "entries": {
+  "nature-nbs-094": {
+   "title": "Systematic reviews: weighing all the evidence at once",
+   "text": "A systematic review is a structured assessment of all the existing evidence on a topic, presented in an accessible way to link research and policy ({{ref:nature-econ-229}}). It follows a protocol that sets out in advance which studies to include, how to search and how to combine results. It aims to be rigorous and transparent, so that bias in the findings can be assessed and, where possible, reduced. Systematic reviews, sometimes with a {{ref:nature-nbs-095}}, are generally ranked as the highest level of evidence in scientific and medical research."
+  },
+  "nature-nbs-095": {
+   "title": "Meta-analysis: combining many studies into one answer",
+   "text": "In 1904 Karl Pearson pooled studies of typhoid inoculation. Gene V. Glass gave the practice its name in 1976, calling it 'the analysis of analyses'. Meta-analysis combines the numerical results of many independent studies of the same research question ({{ref:nature-nbs-094}}). Its core step is computing one combined effect size, a measure of how big an effect is, from the studies' effect sizes and variances. Pooling increases statistical power and can settle disagreements between individual studies. A fixed effect model weights studies by the inverse of their variance, so large studies dominate. A random effects model allows true effects to differ between studies. Pooling cannot fix poor design or bias in the original studies, which argues for including only sound ones. The method has delivered pointed verdicts. A 2020 meta-analysis of 180 studies found no evidence of the decoupling of growth from environmental harm needed for ecological sustainability. A 2021 meta-analysis of 3186 estimates rejected the {{ref:nature-eecon-225}}."
+  },
+  "nature-econ-241": {
+   "title": "Publication bias: the missing studies that skew the record",
+   "text": "A study that finds nothing is less likely to see print. Publication bias is the distortion that follows: because negative or insignificant results are published less often, the published evidence exaggerates effects ({{ref:nature-nbs-095}}). Pharmaceutical companies have hidden negative studies, and unpublished dissertations or conference abstracts are easily overlooked. The bias is hard to fix because no one can know how many studies went unreported. Correcting for it can change conclusions sharply. A 2026 meta-analysis pooled 2,193 estimates from 88 economics experiments. After correcting for the bias, it found that financial incentives have a mean effect on performance close to zero in most field settings."
+  },
+  "nature-econ-257": {
+   "title": "Regression analysis: the workhorse of empirical economics",
+   "text": "Legendre published the method of least squares in 1805, and Gauss in 1809. Francis Galton coined the term regression in the 19th century. Regression analysis is a statistical method for estimating how an outcome variable relates to one or more explanatory variables, the factors thought to influence it. Its most common form is {{ref:nature-econ-258}}, which finds the line or plane that best fits the data by some mathematical rule. The usual rule, {{ref:nature-econ-245}}, picks the line that minimizes the sum of squared differences between the data and the line. A regression model has unknown parameters, observed explanatory variables, an observed outcome variable, and unobserved error terms that capture everything else. Its great appeal for economists is control. Including several variables in a regression isolates the effect of one of them, which mirrors the economist's idea of holding other things constant. Yet by itself a regression is just a calculation. Treating it as a model of real relationships needs assumptions, such as a representative sample and explanatory variables measured without error."
+  },
+  "nature-econ-245": {
+   "title": "Ordinary least squares: fitting the line that misses least",
+   "text": "Draw a line through a cloud of points, and each point misses it by some amount. Each gap is a residual. Ordinary least squares (OLS), the standard way to fit a {{ref:nature-econ-258}}, chooses the parameters that make the sum of squared residuals as small as possible. That sum also measures how well the model fits. Some sources treat OLS as the same thing as that method. With a constant and one explanatory variable, it is the 'simple regression model' taught in beginner statistics. By the Gauss–Markov theorem, it is the best linear unbiased estimator when errors have equal variance and are uncorrelated. If errors are normally distributed, it gives the same answer as {{ref:nature-econ-239}}. Its key assumption is that the explanatory variables are uncorrelated with the errors. Cobb and Douglas used least squares to estimate a labor exponent of 0.75 for their production function."
+  },
+  "nature-econ-223": {
+   "title": "Endogeneity: when the cause is tangled with the effect",
+   "text": "Education raises income, but income also affects education. When the supposed cause is itself shaped by the outcome, an analysis misjudges cause and effect. Econometricians call this endogeneity: an explanatory variable correlated with the model's error term, the part of the outcome the model leaves unexplained ({{ref:nature-econ-257}}). It comes from simultaneity, an omitted confounding variable, or explanatory variables measured with error. When it is present, ordinary least squares gives biased coefficients ({{ref:nature-econ-245}}), so the results are unreliable. Common fixes are {{ref:nature-econ-234}}, which are correlated with the problem variable but not with the error term, and the Heckman selection correction. Endogeneity is often overlooked in non-experimental research, which weakens causal claims and policy advice."
+  },
+  "nature-econ-258": {
+   "title": "Linear regression: straight lines that can still bend",
+   "text": "Despite the name, linear regression can fit curves. The outcome is modeled as a linear combination, a weighted sum, of the parameters, though not necessarily of the explanatory variables themselves ({{ref:nature-econ-257}}). Adding transformed predictors, such as squared terms, therefore lets it model curved relationships. Simple linear regression has one explanatory variable; multiple linear regression has several. A residual is the gap between the value the model predicts and the true value of the outcome. The least squares estimates come from solving a set of simultaneous linear equations called the normal equations."
+  },
+  "nature-econ-244": {
+   "title": "Omitted-variable bias: blaming the wrong factor",
+   "text": "Leave a relevant factor out of a model, and its effect gets wrongly credited to the factors left in. That is omitted-variable bias ({{ref:nature-econ-257}}). It needs two conditions. The left-out variable must affect the outcome, and it must be correlated with an included explanatory variable ({{ref:nature-econ-213}}). The estimate then mixes the direct effect of the included variable with an indirect effect running through the omitted one. If the omitted variable is positively related to both the included variable and the outcome, the included variable's effect is overstated. Technically, the bias breaks the assumption of ordinary least squares that errors are uncorrelated with the explanatory variables, making estimates biased and inconsistent. When the unobserved differences stay constant over time, a {{ref:nature-econ-227}} can remove it."
+  },
+  "nature-econ-221": {
+   "title": "Difference in differences: comparing changes, not levels",
+   "text": "When New Jersey raised its minimum wage, Card and Krueger compared fast-food jobs there and in Pennsylvania. Their 1994 study found no fall in employment. It became a famous use of difference in differences, a quasi-experimental technique ({{ref:nature-econ-214}}). The method compares how much a treated group changed over time with how much an untreated control group changed. It needs data on both groups from at least one period before the treatment and one after. Because the groups may start at different levels, it subtracts the 'normal' gap that would exist without treatment. What remains is the treatment effect. It is a special version of {{ref:nature-econ-245}}. Environmental economists use it to assess regulations on pollution, energy use and climate. In 2012 Richard Hornbeck used it to show that heavily eroded Dust Bowl counties lost 20 to 30 percent of land values and farm revenues. They saw little recovery 10 years later. It can still suffer from biases such as mean regression, reverse causality and omitted variable bias, depending on how the treated group is chosen."
+  },
+  "nature-econ-227": {
+   "title": "Fixed effects models: controlling for what never changes",
+   "text": "Some differences between people or countries never change, such as innate ability or a nation's history and institutions. A fixed effects model controls for them. It is a regression model for grouped data in which each group's average is treated as a fixed quantity rather than a random draw ({{ref:nature-econ-257}}). In {{ref:nature-econ-246}}, the fixed effects are each subject's own average, one unchanging baseline per subject. The model removes omitted variable bias from such constant differences ({{ref:nature-econ-244}}). It does so by subtracting each group's average over time or by taking first differences. Random effects models instead assume the subject-specific effects are uncorrelated with the explanatory variables, while fixed effects models allow them to be correlated. Random effects estimates are more efficient when their assumption holds but inconsistent when it does not. The Durbin–Wu–Hausman test is used to choose between them."
+  },
+  "nature-econ-234": {
+   "title": "Instrumental variables: finding a clean lever on the cause",
+   "text": "In a 1928 book, Philip G. Wright tried to estimate supply and demand for butter and became the first to use an instrument. Olav Reiersøl named the method in 1945. Instrumental variables estimate cause and effect when controlled experiments are not possible, using a third variable that shifts the cause but not the outcome directly ({{ref:nature-econ-212}}). They are needed when an explanatory variable is correlated with the error term, which biases ordinary least squares ({{ref:nature-econ-223}}). A valid instrument changes the explanatory variable, has no effect of its own on the outcome, and is uncorrelated with the error term. To study smoking and health, the tobacco tax rate can serve as an instrument, assuming it affects health only through smoking. Whether an instrument is truly unrelated to the error cannot be read from data. It must come from understanding how the data were generated. When effects differ between people, the standard estimate recovers a local average treatment effect rather than the population average."
+  },
+  "nature-econ-263": {
+   "title": "Regression discontinuity: learning from the cutoff",
+   "text": "If every student scoring above 80% gets a scholarship, students at 79% and 81% are likely very similar. Comparing them reveals what the scholarship itself does. That is a regression discontinuity design, a quasi-experimental method that compares cases just above and just below the cutoff that decides who gets an intervention ({{ref:nature-econ-214}}). Simply comparing winners and non-winners would overstate the effect, because strong students both win awards and keep doing well. Donald Thistlethwaite and Donald Campbell first used it in 1960 to evaluate scholarship programs. It requires that people cannot perfectly manipulate which side of the cutoff they land on, so assignment near the threshold is as good as random. Done well, it can give estimates similar to randomized studies without the ethical issues of random assignment. Its estimates can be wrong if a curved relationship is mistaken for a jump, or if another treatment shares the same cutoff. Other uses include age rules such as pensions or drinking ages, and elections won by a narrow majority."
+  },
+  "nature-econ-262": {
+   "title": "Extrapolation: predicting beyond the data",
+   "text": "A fitted model stands on firm ground only where the data are. Extrapolation is using a regression model to predict outside the range of the data it was fitted on; predicting inside that range is interpolation ({{ref:nature-econ-257}}). The further a prediction goes beyond the data, the more room the model has to fail. Extrapolation leans especially hard on the assumed form of the relationship, which can be checked only within the observed range."
+  },
+  "nature-econ-261": {
+   "title": "Limited dependent variables: yes-or-no outcomes",
+   "text": "Some outcomes are not numbers on a sliding scale. A limited dependent variable is an outcome that is categorical or confined to a certain range, a common situation in econometrics. Running least-squares regression on a yes-or-no outcome gives the linear probability model ({{ref:nature-econ-258}}). Nonlinear alternatives include the probit and logit models. The multinomial logit handles categories with more than two values."
+  },
+  "nature-econ-259": {
+   "title": "Regression assumptions: what makes a fit meaningful",
+   "text": "A regression is only arithmetic until assumptions turn it into a model of the world. Regression assumptions are the classical conditions researchers rely on to read a regression that way ({{ref:nature-econ-257}}). They include a representative sample, explanatory variables measured without error, errors averaging zero given the explanatory variables, and constant error variance, called homoscedasticity. If errors are not normally distributed, the estimated parameters in small samples will not be normal either, which complicates inference."
+  },
+  "nature-econ-260": {
+   "title": "Regression diagnostics: checking the fit",
+   "text": "Once a regression is fitted, it needs checking. Regression diagnostics test how well the model matches the data and whether its estimated parameters are statistically significant ({{ref:nature-econ-258}}). Common checks of fit include R-squared, the pattern of residuals and hypothesis tests. Significance is checked by an F-test of overall fit, followed by t-tests of individual parameters ({{ref:nature-econ-279}}). How these tests should be read depends heavily on the model's assumptions."
+  },
+  "nature-econ-215": {
+   "title": "Multicollinearity: when two causes move in lockstep",
+   "text": "Two explanatory variables can move almost in lockstep. Multicollinearity is that situation: two explanatory variables in a model are very highly correlated with each other ({{ref:nature-econ-257}}). Small changes in the data can then flip a variable's estimated effect from positive to negative or back. Spotting it in a sensitivity analysis lets researchers drop highly correlated variables and avoid such dramatic swings in results."
+  },
+  "nature-econ-225": {
+   "title": "Measurement error bias: noise that hides an effect",
+   "text": "Some explanatory variables can never be measured perfectly. Measurement error bias is the form of {{ref:nature-econ-223}} that results when the observed value carries noise. The noise ends up in both the explanatory variable and the error term, so ordinary least squares underestimates the effect. Error in measuring the outcome variable is different. It does not cause endogeneity, though it makes the error term more variable."
+  },
+  "nature-econ-224": {
+   "title": "Simultaneity bias: when two variables shape each other",
+   "text": "Education and income each affect the other. Simultaneity bias is the form of {{ref:nature-econ-223}} that arises when two variables are determined together like this. The idea comes from simultaneous equations models, which separate variables set inside the model (endogenous) from those fixed in advance (exogenous). Ignoring simultaneity gives biased and inconsistent estimates."
+  },
+  "nature-econ-226": {
+   "title": "Weak exogeneity: no link with the past or present",
+   "text": "Jean-François Richard formalized weak exogeneity in 1980. It is the assumption that a model's error term averages zero given the present and past values of the explanatory variables ({{ref:nature-econ-223}}). It allows errors to be correlated with future values of those variables, so outcomes can feed back into later causes. Strict exogeneity also rules out links with future values. That is often implausible in macroeconomic and financial data, so weak exogeneity is the standard there."
+  },
+  "nature-econ-222": {
+   "title": "The parallel trends assumption",
+   "text": "Difference in differences rests on a key assumption ({{ref:nature-econ-221}}). Without the treatment, the treated and control groups would have changed by the same amount over time. This parallel trends assumption fails when something other than the treatment changes in one group but not the other at the same time. The membership of the two groups is also assumed to stay the same. Researchers often combine the method with matching on similar pre-treatment histories, to make the assumption more likely to hold."
+  },
+  "nature-econ-247": {
+   "title": "Poisson regression: modeling counts",
+   "text": "How many times does an event happen? Poisson regression is a form of {{ref:nature-econ-257}} built to model counts like that. It assumes the outcome follows a Poisson distribution, a standard pattern for counts, and that the logarithm of its expected value is a linear combination of unknown parameters. When an explanatory variable rises by 1, the predicted count is multiplied by the exponentiated coefficient, called the incidence ratio. It also handles rates, such as tree species per unit area, by adding the logarithm of exposure as an offset term. Its parameters are estimated by {{ref:nature-econ-239}}, which has no closed-form answer and must be found numerically."
+  },
+  "nature-econ-278": {
+   "title": "Spatial econometrics: when neighbors matter",
+   "text": "In May 1974 the Belgian economist Jean Paelinck introduced the term spatial econometrics. The field is where the analysis of geographic patterns ({{ref:nature-es-073}}) and econometrics meet. It handles models in which places interact, or in which observations are not truly independent ({{ref:nature-econ-257}}). It estimates models in which nearby places resemble each other ({{ref:nature-es-074}}) or show neighborhood effects, common in regional science, real estate and housing markets. It analyzes economic effects such as externalities ({{ref:nature-found-031}}), interactions and spatial concentration."
+  },
+  "nature-econ-228": {
+   "title": "First differences: subtracting away what stays the same",
+   "text": "Subtract last period from this period, and anything that never changes drops out. The first difference estimator applies that idea to {{ref:nature-econ-246}}. It regresses each period's change in the outcome on the change in the explanatory variables, removing unchanging individual effects. With two time periods it gives exactly the same result as the {{ref:nature-econ-227}} estimator. Fixed effects is more efficient when errors are well behaved. First differences is more efficient when errors follow a random walk, wandering with no pull back toward an average."
+  },
+  "nature-econ-248": {
+   "title": "Overdispersion: when counts vary more than expected",
+   "text": "The Poisson model assumes a count's mean equals its variance ({{ref:nature-econ-247}}). Real counts often vary more than their mean, a pattern called overdispersion. A common cause is leaving out relevant explanatory variables, or observations that depend on each other. Negative binomial regression loosens the equal mean and variance assumption and is a popular alternative. A related wrinkle is excess zeros. They arise when one process decides whether any events happen and another decides how many, as with non-smokers in a survey of cigarettes smoked."
+  },
+  "nature-econ-235": {
+   "title": "Two-stage least squares: instruments in two steps",
+   "text": "Instrumental-variable estimates ({{ref:nature-econ-234}}) can be calculated by running two regressions in turn. That is two-stage least squares. In the first stage, each problem explanatory variable is regressed on all the exogenous variables, including the instruments, to get predicted values. In the second stage, the main regression is run with those predicted values in place of the problem variables ({{ref:nature-econ-245}})."
+  },
+  "nature-econ-236": {
+   "title": "Weak instruments: a lever that barely moves the cause",
+   "text": "An instrument is only useful if it actually moves the cause. If smoking hardly responds to tobacco taxes, tax variation reveals nothing about smoking's effect on health. Such weak instruments predict the problem explanatory variable poorly, which undermines an instrumental-variables estimate ({{ref:nature-econ-234}}). A common rule of thumb is that the first-stage F-statistic should be larger than 10."
+  },
+  "nature-econ-265": {
+   "title": "Fuzzy regression discontinuity: cutoffs that bend",
+   "text": "Real cutoffs are often bent, for instance by discretion for students just short of passing. That biases a sharp {{ref:nature-econ-263}}. A fuzzy design handles such cases. It does not need the cutoff to be strictly applied, only that the chance of treatment changes at the threshold. Its logic is related to the instrumental variable strategy ({{ref:nature-econ-234}}) and to intention to treat."
+  },
+  "nature-econ-266": {
+   "title": "Regression kink design: learning from a change in slope",
+   "text": "Some rules do not jump at a threshold; they bend. A regression kink design identifies treatment effects from a sharp change in the slope, rather than the level, of a treatment rule ({{ref:nature-econ-263}}). Student aid that depends on family income is one example. Nielsen, Sørensen and Taber named the technique in 2010."
+  },
+  "nature-econ-264": {
+   "title": "Testing whether a regression discontinuity holds up",
+   "text": "A regression discontinuity design ({{ref:nature-econ-263}}) is only as good as the comparison at its cutoff. Validity tests look for evidence that cases just above and just below it are not truly comparable. McCrary's density test checks for bunching at the threshold, such as more students just passing than just failing, a sign of gaming. Variables fixed before treatment, such as earlier grades, should show no jump at the cutoff. Unexpected jumps at other points of the assignment variable also make the design suspect."
+  },
+  "nature-econ-285": {
+   "title": "Truncated regression: when part of the sample is missing",
+   "text": "Sometimes observations with an outcome above or below certain values are systematically left out of a sample. A truncated regression model handles such samples ({{ref:nature-econ-257}}). Whole observations are missing, unlike censored models, where the explanatory variables are still known. In the 1970s James Heckman linked truncated samples to other non-randomly selected samples ({{ref:nature-econ-270}}) and developed the Heckman correction. These models are usually estimated by maximum likelihood."
+  },
+  "nature-eco-582": {
+   "title": "Logistic regression: predicting yes or no",
+   "text": "Will an event happen or not? Logistic regression models yes-or-no outcomes by treating the {{ref:nature-econ-238}} of the event as a weighted sum of explanatory variables ({{ref:nature-econ-257}}). It uses the S-shaped logistic function, the curve behind {{ref:nature-eco-580}}, to turn a combination of inputs into a probability between 0 and 1. With its upper limit set to 1, the function's output can be read as a probability. Its coefficients are usually estimated by maximum likelihood, using an iterative method because no closed-form answer exists. An extension handles outcomes with more than two categories ({{ref:nature-val-080}}), and a common alternative is the {{ref:nature-val-081}}. A widely used rule of thumb asks for about 10 events per explanatory variable for stable estimates. It is used in machine learning, most medical fields and the social sciences. Logit models of choice can be estimated this way and are used to analyze choice-based survey tasks."
+  },
+  "nature-econ-252": {
+   "title": "Propensity score matching: building look-alike groups",
+   "text": "In 1983 Paul Rosenbaum and Donald Rubin proposed a way to make observational data behave more like an experiment. Their propensity score is the probability of being assigned to treatment given observed covariates, the measured background characteristics. Propensity score matching estimates a treatment's effect by comparing treated and untreated units that were equally likely to be treated ({{ref:nature-econ-230}}). It tries to mimic randomization by building samples that look alike on all observed covariates. The score is usually estimated with {{ref:nature-eco-582}}. Each participant is then matched to one or more similar non-participants, and balance is checked. Collapsing many covariates into one score let the method balance groups without needing huge samples. Still, it needs large samples with substantial overlap between the groups. It accounts only for observed covariates, so hidden bias can remain ({{ref:nature-econ-213}}). Its value is contested. Some research finds it increases imbalance, inefficiency, model dependence and bias, and Judea Pearl argues matching can even raise hidden bias."
+  },
+  "nature-econ-284": {
+   "title": "Synthetic control: building a twin from many places",
+   "text": "When only one region is treated, finding a fair comparison is hard. The synthetic control method builds one from a weighted average of untreated units, recreating the path the treated unit would have followed without the intervention ({{ref:nature-econ-230}}). It is often used when only one or a few units, such as a region, are treated. Weights are chosen from the data so the synthetic control closely matches the treated unit on key predictors, usually over a long period before the intervention. Alberto Abadie and coauthors first proposed it, combining elements of matching ({{ref:nature-econ-252}}) and {{ref:nature-econ-221}}. Unlike difference in differences, it can account for confounders that change over time. Applications include natural catastrophes and economic growth, vaccine mandates, and drug development where randomized trials are not feasible."
+  },
+  "nature-econ-238": {
+   "title": "Log-odds: the logit behind logistic regression",
+   "text": "Odds compare the chance that something happens with the chance that it does not. The log-odds, or logit, is the natural logarithm of those odds, and it is the inverse of the logistic function ({{ref:nature-eco-580}}). In {{ref:nature-eco-582}}, the log-odds equal the linear regression expression, so the logit links probabilities to a linear model. Put the other way round, the odds of the outcome equal the exponential of that linear expression."
+  }
+ },
+ "reviews": {
+  "empirical-methods-and-econometrics": "The methods in this chapter share one goal: telling real causes from mere correlation. Hypothesis tests ask whether chance alone could explain a result, though p-values, the two kinds of testing error and publication bias show how easily that question is misread. Random assignment balances hidden confounders, which is why randomized trials are so trusted, while natural experiments, difference in differences, instrumental variables, regression discontinuity and matching approximate the unseen counterfactual when experiments are impossible. Regression ties much of this together by isolating one variable's effect while holding others constant, but only when its assumptions hold and problems such as endogeneity, omitted variables and selection bias are handled. Sensitivity analysis, systematic reviews and meta-analysis then ask how far any single conclusion can be trusted."
+ },
+ "openers": {},
+ "glossary": {}
+}

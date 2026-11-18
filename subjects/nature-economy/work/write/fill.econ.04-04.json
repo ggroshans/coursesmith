@@ -1,0 +1,108 @@
+{
+"entries": {
+"nature-econ-789": {
+"title": "Heuristics: mental shortcuts and their traps",
+"text": "After a run of tails, the gambler's fallacy expects heads to be 'due'. It is not: a fair coin's chance stays 0.5. The error shows the price of mental shortcuts, ways of making a decision without working out the consequences of every option. Such shortcuts cut the thinking needed, but they are more prone to fallacies and errors than step-by-step reasoning. Another example is the compromise effect, which leads people to favor moderate options over extreme ones."
+},
+"nature-econ-790": {
+"title": "Must rational choice rest on probability?",
+"text": "Should probability remain the foundation of decision theory, or can something else replace it? The question is highly controversial. Defenders of probability cite Cox's justification of its axioms, de Finetti's Dutch book arguments and the complete class theorems. Supporters of fuzzy logic, Dempster–Shafer theory and info-gap theory reply that probability is only one option among many. Rules built on probability can be sensitive to the probabilities assumed, while rules such as minimax make no such assumptions and are robust. The ludic fallacy critique goes further: models of a fixed set of possibilities ignore 'unknown unknowns' that may have outsized impact. The two camps still disagree."
+},
+"nature-econ-788": {
+"title": "How people should choose, and how they do",
+"text": "Decision theory asks two different questions. Its normative branch asks how an ideal rational decision-maker should choose. Its descriptive branch asks how people actually choose. Putting the normative approach to work is called decision analysis, which builds tools and software to help people decide better. Descriptive models include Tversky's elimination by aspects and Laibson's {{ref:nature-econ-750}}, a model of choices that are inconsistent over time. Behavioral decision theory has drawn growing interest in recent decades."
+},
+"nature-econ-763": {
+"title": "Perpetuity: payments that never end",
+"text": "Payments that run forever still have a price today. A perpetuity is a series of regular payments that continues indefinitely, an annuity with no end date. Few such instruments actually exist. Its present value is the limit of the annuity formula as the number of payments goes to infinity. A perpetuity immediate pays at the end of each period and a perpetuity due at the start. Their values differ by a factor of (1 + i), where i is the interest rate."
+},
+"nature-econ-764": {
+"title": "Years' purchase: pricing a stream of payments the old way",
+"text": "In the early 16th century, the English crown resold manors seized at the Dissolution of the Monasteries. It set the prices by years' purchase. This traditional method values a stream of payments by multiplying its average expected yearly cash flow by a fixed number. A lease paying $10,000 a year sold at 20 years' purchase is valued at $200,000. That equals discounting in perpetuity at 5%. Buyers of riskier payment streams pay fewer years' purchase."
+},
+"nature-econ-807": {
+"title": "What makes a risk insurable",
+"text": "Insurability is the set of features a risk must have for private companies to be able to cover it. An insurable loss should be definite in time, place and cause. It should be accidental rather than in the insured's control, and large enough to matter to the buyer. Both the probability of loss and its cost must be at least estimable, and the premium must stay affordable relative to the cover. Ideally losses are independent and not catastrophic, so they do not all strike at once and bankrupt the insurer. Limited capital therefore caps how much earthquake cover, and wind cover in hurricane zones, insurers can sell."
+},
+"nature-econ-810": {
+"title": "Insuring crops and homes against nature's hazards",
+"text": "Weather, hail, drought, frost, pests or disease can all cost a farmer a harvest. Insurance for crops helps farmers manage those losses. It is a special form of property insurance, which protects against risks to property such as fire, theft or weather, with versions for floods, earthquakes and crops. Another kind, {{ref:nature-clim-035}}, pays farmers when a modeled climate trigger, linked to a high chance of large crop loss, is exceeded and harvest losses occur. Floods show the limits of private cover. Many US insurers do not offer cover against floods in some regions, so a federal program acts as insurer of last resort."
+},
+"nature-econ-808": {
+"title": "Premiums and float: how insurers really make money",
+"text": "In the five years ending 2003, US property and casualty insurers lost $142.3 billion on underwriting, the business of writing policies. Yet they made $68.4 billion overall. The difference came from float: money collected as premiums but not yet paid out in claims, which insurers invest until claims are paid. An insurance premium is the price charged for cover. It is set to cover expected claims, costs and profit, minus what the insurer earns by investing it. Setting premiums, called ratemaking, uses statistics and probability to estimate future claims. Insurers check their rates by comparing past losses, brought to present value, with premiums collected."
+},
+"nature-econ-809": {
+"title": "Reinsurance: insurance for insurers",
+"text": "Even insurers need insurance. Reinsurance is cover for insurance companies: another insurer agrees to carry part of a risk that the first finds too large. A single property worth more than any one insurer's capital limit is shared among several insurers or syndicated into the reinsurance market. That market is dominated by a few large companies with huge reserves."
+},
+"nature-econ-766": {
+"title": "Arrow–Pratt: measuring risk aversion by curvature",
+"text": "How risk-averse is a person? The Arrow–Pratt measures answer from the curvature of their utility function: the more curved it is, the higher the risk aversion. Absolute risk aversion, named after the economists Kenneth Arrow and John W. Pratt, is built from the slope of utility and how fast that slope changes. Relative risk aversion has no units, so it can be compared across settings. Logarithmic utility gives a constant relative risk aversion of 1. In choices across time, relative risk aversion often cannot be separated from the {{ref:nature-econ-830}}."
+},
+"nature-econ-822": {
+"title": "Isoelastic utility: one number for how fast satisfaction fades",
+"text": "Market prices and lab experiments disagree wildly about one small number, η. Isoelastic utility, also called power or CRRA utility, is a standard formula linking utility to {{ref:nature-econ-509}}, with η setting how strongly each extra unit is valued less. It is the only family of utility functions with constant relative risk aversion, hence the name CRRA. When risk is involved, η is the degree of relative risk aversion. Setting η = 0 means risk neutrality. With η = 1 the formula becomes ln c, known as logarithmic utility. Under constant relative risk aversion, the share of one's money put into a risky holding does not depend on how rich one is. The true value of η is much debated. Some models of market prices need values up to 50, but most experiments suggest values just above 1. Estimates include 1.5 for the United Kingdom (Groom and Maddison, 2019) and about 1.4 across 20 OECD countries (Evans, 2005). Using six surveys of {{ref:nature-es-043}}, Layard and colleagues (2008) found values between 1.19 and 1.34, with a combined estimate of 1.26."
+},
+"nature-econ-767": {
+"title": "Rabin's puzzle: small bets and expected utility",
+"text": "Someone refuses a 50–50 bet to lose $100 or gain $110. Suppose they always refuse it. Rabin's calibration theorem shows that expected utility theory then implies they would refuse a 50–50 bet to lose $1,000 or gain any sum. Rabin finds this implausible. If caution over small stakes came from diminishing marginal utility, it would imply extreme caution at large stakes. His theorem therefore challenges using expected utility to explain risk aversion in small decisions. {{ref:nature-econ-067}} offers an alternative. It judges outcomes against a reference point, usually the status quo, rather than against everything a person owns."
+},
+"nature-econ-768": {
+"title": "When playing it safe has a cost",
+"text": "Risk-averse planning of schools and playgrounds often keeps children from activities they would otherwise benefit from. The pattern runs through government. Many agencies have risk-averse mandates that require risks to be minimized, sometimes at the cost of the benefits of the risky activity. Yet reducing a risk has an opportunity cost: the value lost by not taking the risky action. Laws focused on risk without weighing its benefits may misrepresent society's goals."
+},
+"nature-econ-800": {
+"title": "Preference reversal: pricing one bet higher, choosing the other",
+"text": "A 'p bet' offers a high chance of a small prize. A '$ bet' offers a small chance of a big prize. Asked to price them, people put the p bet below the $ bet. Asked to choose between them head to head, they usually pick the p bet. This is a preference reversal: valuing one lottery more when pricing it but choosing the other when comparing them directly. Studies starting with Lichtenstein and Slovic in 1971 found the effect. Later work suggests the behavior can fit neoclassical theory under specific assumptions."
+},
+"nature-econ-798": {
+"title": "The St. Petersburg paradox: an infinite prize nobody pays for",
+"text": "A coin is flipped until it lands tails, and the prize doubles each time it lands heads. The expected payoff of this game is infinite. So someone caring only about expected value should pay any finite amount to play. In reality few would pay more than $25. Nicolaus Bernoulli described this St. Petersburg paradox in 1713. In a 1738 paper, Daniel Bernoulli used it to argue that expected value theory must be normatively wrong, and the puzzle prompted expected utility theory as a solution."
+},
+"nature-econ-799": {
+"title": "Subjective expected utility: choosing with personal odds",
+"text": "What if no one knows the true odds? Leonard Savage's subjective expected utility shows that expected utility, built on personal probabilities, can still guide choice. From seven axioms, Savage proved that expected utility can be used to make an optimal choice among acts. His key method was a focus on observable choices: psychology matters only as far as it changes choices. Frank Ramsey's 1926 representation theorem was an earlier approach to subjective probability. Savage concluded that people are neutral toward uncertainty and that observation is enough to predict the probabilities of uncertain events."
+},
+"nature-econ-813": {
+"title": "The rule of 72: a shortcut to doubling time",
+"text": "At 6 percent a year, money doubles in about 72/6 = 12 years. That is the rule of 72: divide 72 by the yearly interest rate in percent to estimate how many years money takes to double. It is a quick shortcut for compound interest, and it gives a good indication for interest rates up to 10%."
+},
+"nature-econ-812": {
+"title": "Simple interest: interest on the original sum only",
+"text": "A $2500 credit card balance at 12.99% a year, applied monthly, runs up $27.06 of simple interest in one month. Simple interest is worked out only on the original amount owed, without adding interest on earlier interest. It can be applied over periods other than a year, such as every month. Compound interest differs by also earning interest on interest already accumulated."
+},
+"nature-econ-815": {
+"title": "Why interest exists: rival explanations",
+"text": "Aristotle and the Scholastics held that money is by nature sterile, so it was unjust to charge for being parted from it. Later schools of thought offered other explanations for why interest exists and what sets its rate. In the classical theory of Mill and others, the rate adjusts to balance the demand for borrowing with the supply of lending. Wicksell's 1898 Interest and Prices distinguished natural from nominal interest rates. Ohlin and Robertson later refined this into the loanable funds theory. In Keynes's 1936 General Theory, interest is set by the demand for money, liquidity preference, against a given amount of money."
+},
+"nature-econ-833": {
+"title": "The Fisher equation: interest after inflation",
+"text": "Subtract inflation from an interest rate, and what remains is roughly what a lender really earns. The Fisher equation says the real interest rate is approximately the nominal rate minus the inflation rate. Looking back, the ex post real rate is roughly the historical nominal rate minus inflation. Looking ahead, the expected real rate is the nominal rate minus expected inflation. Turned around, nominal interest is made up of the real rate plus inflation, among other factors such as credit risk, the chance a borrower fails to repay."
+},
+"nature-econ-832": {
+"title": "Price indexes: tracking the cost of a basket of goods",
+"text": "If prices rise 5% from a 2010 base, a price index set to 100 in 2010 reads 105 in 2011. A price index tracks the cost of a fixed sample basket of goods, a commodity bundle, relative to its cost at a base date or place. It is usually set to 100 at the base date, so a one percent rise in the bundle's price in the first period takes it to 101. The inflation rate between two dates is the change in the price index divided by its earlier value. The {{ref:nature-econ-506}} uses a bundle of goods bought by consumers, while {{ref:nature-econ-483}} uses a price index of its own."
+},
+"nature-econ-840": {
+"title": "Odd patterns in how people discount the future",
+"text": "A single constant discount rate cannot explain how people really choose. Their discounting shifts with framing and with the kind of decision. Richard Thaler found that gains are discounted more than losses, and small amounts more than large ones. Discounting also rises as a time interval is cut into smaller parts. Daniel Read argues that this sub-additivity makes discounting look hyperbolic. Temptation theories explain another oddity: people pay for commitment devices that remove tempting options from their future choices."
+},
+"nature-econ-843": {
+"title": "Why some people discount the future more than others",
+"text": "Men generally discount more steeply than women, choosing sooner rewards more often. Discount rates vary between people with factors such as age, earnings, gender, connection to one's future self and early life stress. Feeling more connected to one's future self may make it easier to delay gratification. A study combining many earlier studies found that early life stress makes people more present-focused. Cultural traits such as individualism, uncertainty avoidance and long-term orientation may shape national differences in time preference."
+},
+"nature-econ-841": {
+"title": "Measuring how much people discount the future",
+"text": "Energy-efficient air conditioners cost more up front but save money later. One hedonic pricing study of such purchases, which reads values from market prices, found a discount rate of 13.6%. That is one way to measure personal discount rates: infer them from real-world choices. The other is to ask people to choose between smaller-sooner and larger-later rewards. Researchers vary the amounts and delays to find the indifference point, where the two rewards are valued equally. There is still no consensus on the rate, partly because how a study asks its questions can change the result."
+},
+"nature-econ-842": {
+"title": "Money, health, food, climate: discounting differs by domain",
+"text": "People do not discount every kind of future outcome alike. The rate depends on what is at stake: money, health, consumable goods or the climate. Studies repeatedly find steeper discounting for rewards consumed directly, like food and alcohol, than for money, possibly because of temptation. Tabi's revealed-preference study found rates from 3% for lives saved in 100 years to 29% for measures to prevent flooding. Some studies find the climate is discounted differently from health and money."
+},
+"nature-econ-795": {
+"title": "Discounted utility: the future as it looks from today",
+"text": "People who choose 1 candy bar now over 2 tomorrow also choose 2 in 101 days over 1 in 100 days, as Tversky and Kahneman found. Discounted utility is how desirable a future event looks from the present rather than when it happens. It is the present discounted value of future utility, smaller than that utility for anyone who prefers sooner gratification. The {{ref:nature-econ-747}}, β, lies between 0 and 1 and is sometimes explained as a person's patience. Models of spending over time maximize the sum of discounted utilities, within a budget on the present value of spending."
+}
+}
+}

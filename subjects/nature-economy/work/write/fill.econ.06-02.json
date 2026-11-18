@@ -1,0 +1,131 @@
+{
+ "reviews": {
+  "behavior-and-decisions": "This chapter swapped homo economicus for a more realistic person. Limited minds lean on heuristics and satisficing, and they are pulled by anchors, frames, defaults and a dread of losses, which prospect theory places at the center of how people weigh risk. Yet people are not narrowly selfish either: in ultimatum, dictator, trust and public goods games they share, return kindness and punish free riders, while social norms steer them further. Those findings matter for nature, because the great environmental crises are collective action problems with the shape of a prisoner's dilemma. Choice architecture shows how the new picture can be put to work, as when more consumers pick renewable electricity once it is the default, though critics question how long nudges last."
+ },
+ "entries": {
+  "nature-econ-043": {
+   "title": "The availability heuristic: what comes to mind seems common",
+   "text": "Wide media coverage of rare, vivid events such as homicides or airline accidents makes people overrate them, compared with common diseases or car accidents. The cause is the availability heuristic: judging how likely or important something is by how easily examples come to mind. Tversky and Kahneman first studied and named it in 1973. The easier something's consequences are to recall, the bigger they seem. Because recall depends on more than real frequency, leaning on it produces systematic biases. Critics argue that ease of recall, not the number of examples recalled, drives the effect, and that the classic studies are vague about mental processes."
+  },
+  "nature-econ-049": {
+   "title": "The dictator game: giving when no one can refuse",
+   "text": "Take the ultimatum game and remove the recipient's power to say no. The result is the dictator game: one player, the dictator, splits a sum of money with a passive second player. Most dictators send some money, and a wide cross-cultural study by Henrich and colleagues found a non-zero share given everywhere. Context moves the amount. Removing full anonymity raised giving from 18.3% to 27.2%, and dictators give less when they feel they earned the money. Some authors see a wish not to look greedy rather than altruism; tests of that idea are mixed."
+  },
+  "nature-econ-076": {
+   "title": "Social preferences: caring about what others get",
+   "text": "In the ultimatum game, proposers typically offer 25%-50% of the money, and responders tend to reject splits below 20%. In the dictator game the average gift falls to 20%, yet over 60% of dictators still give something. Lab results like these, piling up from around 1980, revealed social preferences. People care not only about their own material payoff but also about others' payoffs and the intentions behind them. Social preferences include altruism, fairness, {{ref:nature-econ-077}} and inequity aversion. Models split them into distributive preferences, about how payoffs are shared, and reciprocal preferences, about intentions. They have real consequences. Fairness-minded people cooperate when they expect others to, and they punish free riders, which helps solve free-riding problems. Kahneman, Knetsch and Thaler found that fairness concerns stop firms from, for instance, raising prices after demand rises. Without such preferences, self-interest and free riding would make good shared outcomes unlikely."
+  },
+  "nature-econ-074": {
+   "title": "Descriptive and injunctive norms: what people do and what they should",
+   "text": "A parking lot with no litter on the ground sends a message: most people here do not litter. That is a descriptive norm, a signal of what people commonly do. Watching someone pick up trash and throw it away sends a different message: one ought not to litter. That is an injunctive norm, a signal of what people should do. Both kinds of social norm shape behavior. In a US field experiment, voters were more motivated to vote when told many people around them were voting, evidence that descriptive norms matter."
+  },
+  "nature-econ-056": {
+   "title": "Attribute substitution: quietly answering an easier question",
+   "text": "Faced with the bat-and-ball puzzle, many people wrongly answer $0.10. They split $1.10 into a big and a small amount instead of working out the sum. Daniel Kahneman and Shane Frederick explained such slips in 2002 as attribute substitution: the mind swaps a hard question for an easier, related one. The swap goes unnoticed, which is why people can be unaware of their biases, and why biases persist even after people are told about them. Travellers paid more for insurance against death in a terrorist attack than for insurance against death of any kind. Fear stood in for a judgment of total risk."
+  },
+  "nature-econ-057": {
+   "title": "Fast and frugal heuristics: when less is more",
+   "text": "Does this chest pain signal a heart attack? A fast-and-frugal tree answers by asking a short sequence of questions about a few cues. Gerd Gigerenzer and colleagues argue that simple rules of thumb like this can be as accurate as complicated procedures, while being faster and needing less information. Some theories go further. A heuristic, they argue, can be more accurate than weighing every known factor, the so-called less-is-more effect. On this view, shortcuts are good tools in their own right, not mere patches for a limited mind."
+  },
+  "nature-econ-055": {
+   "title": "The representativeness heuristic: judging by resemblance",
+   "text": "Asked about a woman named Linda, people rated 'bank teller and active feminist' as likelier than plain 'bank teller'. That cannot be right, because a combination can never be more probable than one of its parts. The error comes from the representativeness heuristic: judging how likely something is by how closely it resembles a typical member of a category. It attends to an individual's traits and ignores how common each category is, which produces the base rate fallacy. Tversky and Kahneman argued it also underlies the gambler's fallacy, the expectation that random outcomes even out in the short run."
+  },
+  "nature-econ-081": {
+   "title": "Pro-environmental behavior: choosing to do less harm",
+   "text": "A home whose location forces car dependency can defeat its owners' best intentions. That is one structural barrier to pro-environmental behavior, the behavior people consciously choose to reduce the harm their actions do to the environment. Green consumption, buying in ways that harm the environment as little as possible, is one form of it. Money incentives, costs, regulations and policy norms all shape it through people's attitudes, as does how much time, money and power people feel they have. Other barriers are psychological, social or cultural, or financial. Some popular assumptions hold up less well than expected. A review pooling many studies confirmed a strong link between feeling connected to nature and acting greenly. But it found the connection causes less of that behavior than assumed. In a 2019 study, climate messages told as stories were better at inspiring it. Environmental psychology studies these factors to help curb {{ref:nature-hist-007}} and the loss of biodiversity."
+  },
+  "nature-econ-044": {
+   "title": "Environmental policy for real, limited minds",
+   "text": "Established theory about policy for the environment assumes homo economicus: fully rational, self-regarding people. That assumption is troublesome. Policymakers often have only an incomplete picture of an environmental problem, and every environmental actor is human, with limited cognitive abilities and incomplete information. Applying bounded rationality to these decisions changes the forecast. The more actors involved, the more complex a decision becomes and the less predictable its outcome. Two extreme approaches show the risk. A green approach, in line with the {{ref:nature-pol-136}}, uses strict rules expected to spur cleaner innovation. Eco-dumping does the opposite, weakening rules to boost resource exports. Both try to solve many-sided, tangled problems with one-sided policies."
+  },
+  "nature-econ-080": {
+   "title": "Warm glow: the pleasure of doing your part",
+   "text": "If people gave purely to help a cause, government grants to it should fully crowd out their private donations. They do not, and James Andreoni's theory of warm-glow giving helps explain why. In his original model (1989, 1990), people enjoy 'doing their part' whatever their gift actually achieves. Giving is impure altruism, a mix of selfless and selfish motives. An analysis pooling 36 brain-imaging studies found the brain's reward networks consistently active when people choose to give. Outside rewards and punishments have often failed to bring lasting green behavior, so policy for the environment increasingly targets warm glow instead. Results look promising for green energy, {{ref:nature-eecon-038}} and carpooling. Sustainable investors may likewise get satisfaction from the act itself rather than its impact. Andreoni himself called adding warm glow to the model 'an admittedly ad hoc fix'."
+  },
+  "nature-econ-072": {
+   "title": "Survey satisficing: good-enough answers to questionnaires",
+   "text": "A hard questionnaire invites shortcuts. Jon Krosnick's theory of survey satisficing holds that respondents cut the mental effort of answering well by giving merely acceptable answers. In weak satisficing they go through every step, but less thoroughly. In strong satisficing they give plausible answers without searching memory at all. Telltale signs include 'don't know' answers, the same rating for every item, agreeing with any statement and picking the first reasonable option. It is likelier when respondents have less ability or motivation."
+  },
+  "nature-econ-066": {
+   "title": "The marshmallow test and the power of waiting",
+   "text": "In the Stanford marshmallow experiments, begun by Walter Mischel and Ebbe B. Ebbesen in 1970, children were promised a second treat if they waited about 15 minutes without eating the first. The test measured delayed gratification: the ability to resist an immediate reward to gain a more valuable one later, the reverse of present bias. Older children were better at waiting. The ability to wait as a child correlated with success in follow-up studies years later. Patience reaches into politics too: people more patient about future political change are more willing to vote."
+  },
+  "nature-econ-046": {
+   "title": "Choice overload: when more options mean less",
+   "text": "Classical economic theory predicts that more options leave people at least as well off. But every option costs time and effort to evaluate. Choice overload is the finding that offering many options can lower people's motivation to choose and their satisfaction with what they pick. How much it matters varies a lot between situations. Choice architects can respond by limiting options or offering decision support tools, though limiting options can itself reduce welfare."
+  },
+  "nature-econ-042": {
+   "title": "The decoy effect: an option designed to lose",
+   "text": "Add a third, usually inferior, option to a choice between two, and people's preference between the original pair can shift. That is the decoy effect. The decoy might cost more than one option while being lower in quality than the other. Restaurants use it when they price meal components separately next to a set meal, which raises willingness to pay for the set. Decoy effects reveal individual irrationality, because they violate a standard axiom of choice."
+  },
+  "nature-econ-077": {
+   "title": "Reciprocity: kindness for kindness",
+   "text": "In the trust game, first movers typically pass on about 50% of their endowment, and the more they send, the more comes back. That pattern reflects reciprocity, the motivation to answer kind behavior with kindness and unfair behavior with unkindness. Rabin's 1993 model, one of the earliest, has people judge another's kindness by comparing what they receive with a fair payoff. Over time, {{ref:nature-econ-740}} may evolve from expecting future kindness in return. One example is {{ref:nature-econ-737}}, a way of playing the prisoner's dilemma."
+  },
+  "nature-econ-075": {
+   "title": "The social norms approach: correcting what people think peers do",
+   "text": "In the mid-1980s H.W. Perkins and A.D. Berkowitz found that college students greatly overestimated how much their peers drank. That finding inspired the social norms approach, or social norms marketing: change behavior by correcting mistaken beliefs about what peers do. It rests on pluralistic ignorance: people wrongly believe others behave differently from them, often because extreme behavior is the most memorable. Campaigns broadcast messages such as 'Most students drink 0–4 drinks when they party'. The approach has also targeted smoking, drink driving and seat belt use. It is contested: one nationwide study found no fall in drinking at colleges that used it."
+  },
+  "nature-econ-047": {
+   "title": "Construal level theory: distant things look abstract",
+   "text": "Construal level theory, developed by Nira Liberman and Yaacov Trope, explains why future risks feel less pressing than daily concerns. The more psychologically distant something is, the more abstractly people think about it; the closer it is, the more concretely. Distance comes in four main kinds: in time, in space, in social terms and in how likely an event is. Trope and Liberman argue the theory explains time discounting, the lower value placed on future outcomes. This discounting of future risks is a barrier to pro-environmental behavior. Researchers debate whether more kinds of distance, such as informational, belong in the theory."
+  },
+  "nature-econ-067": {
+   "title": "Prospect theory: how people really weigh risk",
+   "text": "For some people, the pain of losing $1,000 is only made up by the pleasure of gaining $2,000. That lopsided feeling sits at the heart of prospect theory, developed by Daniel Kahneman and Amos Tversky in 1979. The older standard, the {{ref:nature-econ-797}}, models what perfectly rational agents would do. Prospect theory instead aims to describe what real people do when choices involve risk. Its first insight is that people judge outcomes as gains and losses relative to a reference point, their current situation, not by their total wealth. Choices pass through an editing phase, where the reference point is set and outcomes are coded as gains or losses, before they are evaluated. Its second insight is the shape of the value function, the curve linking outcomes to how they feel. It is concave for gains, convex for losses, and steeper for losses. In plain terms, people play safe when facing gains, gamble when facing losses, and feel losses more sharply than equal gains. The theory was cited when Kahneman received the 2002 Nobel Memorial Prize in Economics, and Tversky and Kahneman's work largely launched behavioral economics. It reaches into environmental politics too. Jeffrey Berejikian used it to analyse how the {{ref:nature-clim-094}}, a landmark environmental agreement, came about. Critics point to one weakness: the reference point is hard to pin down, because many outside factors shape what counts as a gain or a loss."
+  },
+  "nature-econ-069": {
+   "title": "Cumulative prospect theory: repairing the original",
+   "text": "The original prospect theory had a flaw. It could prefer one prospect over another even when the other was at least as good at every outcome level, breaking a basic rule called first-order stochastic dominance. Cumulative prospect theory repairs this by weighting probabilities by rank, a method borrowed from rank-dependent expected utility theory. The revised version also works when outcomes are continuous rather than a few separate values."
+  },
+  "nature-econ-053": {
+   "title": "The framing effect: same choice, different words",
+   "text": "In Tversky and Kahneman's 1981 disease problem, 72% of people chose a sure treatment described as saving 200 lives. When the same outcomes were described as deaths, 78% chose the risky option instead. This is the framing effect: choices change with the wording of options that are logically identical. Worded as gains, most people prefer a sure gain to a chance of gain. Worded as losses, they tend to gamble rather than accept a sure loss. Standard logic says a decision should not depend on the description, and deciding on irrelevant wording is called an extensionality violation. Among PhD students, 93% registered early when a late penalty fee was stressed, but only 67% when the same terms appeared as an early discount. People are more open to framing when they think fast and intuitively. The effect seems to weaken in a foreign language, perhaps because it brings more distance and deliberation. Valuation surveys of environmental goods have been criticised for bringing framing in."
+  },
+  "nature-econ-037": {
+   "title": "Loss aversion: why losses loom larger than gains",
+   "text": "Whether the same $5 price difference is called a discount or a surcharge changes consumer behavior significantly. The reason is loss aversion: the same situation feels worse framed as a loss than framed as a gain. Empirically, a loss tends to count about twice as much as an equal gain. Kahneman and Tversky coined the term in 1979 as part of prospect theory. Losses are measured against a reference point, such as what a person already owns. Expectations can set it too, so missing an expected purchase feels like a loss. Loss aversion is not risk aversion, which is the rational valuing of an uncertain outcome below its expected value. It was first proposed to explain the {{ref:nature-econ-033}}, and the two together break the Coase theorem. One explanation is evolutionary: near the edge of survival, losing a day's food could be fatal, while an extra day's food adds little. The effect is disputed. Several studies find none under risk or at small stakes, and Gal argues psychological inertia explains the same findings."
+  },
+  "nature-econ-033": {
+   "title": "The endowment effect: why owning something raises its value",
+   "text": "In the classic Cornell mug study, owners asked about twice as much to sell a mug as buyers would pay for it. Richard Thaler coined the term endowment effect in 1980 for this pattern. People value something more once they own it, even if they have owned it only minutes. Standard theory says the most a buyer will pay and the least an owner will accept should be equal. The leading explanation for the gap is loss aversion: giving up an owned item feels like a loss. The finding undermines the Coase theorem and complicates the valuing of nature. Hanemann noted the two measures need only be equal for close substitutes, so gaps for environmental resources and health can arise without any endowment effect. Shogren and colleagues found little effect for goods with substitutes, but accepted it for goods without them, such as non-renewable Earth resources. Some economists doubt the effect exists at all. Businesses exploit it with free trials, which give a sense of ownership that makes people reluctant to cancel."
+  },
+  "nature-econ-078": {
+   "title": "Status quo bias: the pull of how things are",
+   "text": "In a 1986 retirement study, most people never changed how they split their savings between two funds. The funds' returns differed greatly, and switching cost nothing. That stickiness is status quo bias, also called default bias: a leaning toward keeping things as they are. The current state works as a reference point, so any change feels like a loss or a gain. Through loss aversion and the endowment effect, the possible losses of switching weigh more than the possible gains. This differs from a rational preference, where the current state really is better, and from simple inertia. Samuelson and Zeckhauser showed in 1988 that people stick with whatever is framed as the status quo, and that the pull grows as more alternatives are offered. Automatic enrolment in retirement plans, where employees must opt out, harnesses the bias to raise saving. Defaults keep their effect even when people are told why the default was chosen."
+  },
+  "nature-econ-062": {
+   "title": "Mental accounting: money kept in separate jars",
+   "text": "Thaler found people more willing to drive 20 minutes to save $5 on a $15 purchase than on a $125 purchase. The saving is identical; only the mental frame differs. Richard Thaler's model of mental accounting explains this: people sort, label and judge money in separate mental 'accounts'. They budget for a home, for gas, clothing and utilities, partly to control spending. Someone may stop eating out when that budget runs out but keep buying groceries, though both come from the same income. Households spend SNAP food benefits on food at a rate of 0.5 to 0.6 per dollar, far above the usual 0.1 from cash transfers. Drawing on prospect theory, mental accounting can make people more loss averse in some accounts than in others. People also pay more with credit cards than with cash, because the payment comes later and looks like a small addition to a large bill. The habit can help: publicly setting a savings goal greatly raised savings in a study of savings groups in Colombia."
+  },
+  "nature-econ-048": {
+   "title": "The default effect: what happens when no one chooses",
+   "text": "More consumers chose renewable electricity when it was offered as the default. The default effect is the tendency to accept whatever option comes if no active choice is made. Experiments and observational studies agree that making an option the default makes it more likely to be chosen. Differences between opt-in and opt-out organ donor rules have been argued to be the main cause of large gaps in donor rates between countries. The explanations are several. Choosing takes mental effort, switching has costs, people feel loss aversion relative to the default, and many read the default as a recommendation. Defaults can be mass defaults applied to everyone or personalised defaults tailored to each customer. Setting them is a key example of a nudge, or soft paternalist policy."
+  },
+  "nature-econ-061": {
+   "title": "Libertarian paternalism: steering while leaving people free",
+   "text": "Austria, with an opt-out organ donation system, has a consent rate of 99.98%. Germany, with an opt-in system, has only 12%. Gaps like that are what libertarian paternalism tries to harness. Richard Thaler and Cass Sunstein coined the term in 2003 and defended it in their 2008 book Nudge. It is the idea that institutions can legitimately steer people's behavior for their own good while leaving them free to choose otherwise. It is paternalist because it steers. It is libertarian because people can opt out, which is said to preserve freedom of choice. Setting a default to exploit the default effect is the typical tool. Firms that raised the default contribution rate of retirement plans immediately and sharply raised how much their employees saved. Critics say it neglects the traditional libertarian concern with coercion, and that other aims, such as future liberty, could be promoted instead."
+  },
+  "nature-econ-068": {
+   "title": "Myopic loss aversion: fixating on the short run",
+   "text": "In a 1997 betting study by Gneezy and Potters, players bet more after losing a round and less after winning one, instead of looking at their total earnings. That is myopic, or short-sighted, loss aversion. Derived from prospect theory, it is the tendency to focus on short-term gains and losses and weigh them more heavily than long-term ones. Its cost is that people may avoid immediate losses at the expense of long-term gains."
+  },
+  "nature-econ-038": {
+   "title": "Loss attention: losses sharpen focus",
+   "text": "Losses do not always distort decisions. Eldad Yechiam and Guy Hochman proposed loss attention as distinct from loss aversion. People pay more attention to a task when it involves losses, without giving losses more weight than gains. On this view, losses can reduce bias rather than cause it. Indeed, people pick options with higher expected value more often when outcomes are framed as losses."
+  },
+  "nature-econ-058": {
+   "title": "Escalation of commitment: doubling down on a failing course",
+   "text": "Organizations and nations sometimes face a hard call: continue an operation or withdraw from it. Escalation of commitment is the tendency to keep putting resources into a failing course of action in the hope of turning losses around. It draws on the sunk cost fallacy and loss aversion. It is especially likely when the decision maker can claim credit for success while others absorb the losses."
+  },
+  "nature-econ-079": {
+   "title": "The reversal test: a check for status quo bias",
+   "text": "Suppose people judge that raising some quantity would be bad. The reversal test asks whether lowering it would also be bad. If both directions are judged bad, those judging must explain why the current value cannot be improved. If they cannot, status quo bias is suspected. The logic is simple. Of all possible values only a few can be best, so it is unlikely that the current value happens to be one of them."
+  },
+  "nature-econ-063": {
+   "title": "The pain of paying",
+   "text": "Watching a taxi meter or a gas pump climb is unpleasant. Researchers call that feeling the pain of paying, a negative response to a financial loss. It depends on the mental account the money comes from. A $30 t-shirt feels like a bigger expense paid from $50 in a wallet than from $500 in a checking account. The feeling has a payoff: consumers who feel more pain of paying for the same goods hold less debt."
+  }
+ }
+}

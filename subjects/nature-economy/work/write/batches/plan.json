@@ -1,0 +1,353 @@
+[
+ {
+  "batch": 1,
+  "part": "found",
+  "file": "batches/write-01-found.md",
+  "chapters": [
+   "found",
+   "nature-as-the-economy-s-foundation",
+   "why-markets-miss-nature"
+  ],
+  "entries": 88,
+  "kb": 87
+ },
+ {
+  "batch": 2,
+  "part": "econ",
+  "file": "batches/write-02-econ.md",
+  "chapters": [
+   "econ",
+   "choices-scarcity-and-value",
+   "markets-prices-and-surplus"
+  ],
+  "entries": 152,
+  "kb": 166
+ },
+ {
+  "batch": 3,
+  "part": "econ",
+  "file": "batches/write-03-econ.md",
+  "chapters": [
+   "firms-costs-and-market-structure",
+   "efficiency-and-welfare",
+   "externalities-pigou-and-coase",
+   "public-goods-commons-and-property"
+  ],
+  "entries": 158,
+  "kb": 168
+ },
+ {
+  "batch": 4,
+  "part": "econ",
+  "file": "batches/write-04-econ.md",
+  "chapters": [
+   "information-incentives-and-contracts",
+   "time-risk-and-discounting"
+  ],
+  "entries": 125,
+  "kb": 125
+ },
+ {
+  "batch": 5,
+  "part": "econ",
+  "file": "batches/write-05-econ.md",
+  "chapters": [
+   "measuring-an-economy"
+  ],
+  "entries": 124,
+  "kb": 115
+ },
+ {
+  "batch": 6,
+  "part": "econ",
+  "file": "batches/write-06-econ.md",
+  "chapters": [
+   "behavior-and-decisions",
+   "strategic-interaction-and-game-theory"
+  ],
+  "entries": 131,
+  "kb": 125
+ },
+ {
+  "batch": 7,
+  "part": "econ",
+  "file": "batches/write-07-econ.md",
+  "chapters": [
+   "mathematical-tools-for-economics",
+   "empirical-methods-and-econometrics"
+  ],
+  "entries": 135,
+  "kb": 128
+ },
+ {
+  "batch": 8,
+  "part": "eco",
+  "file": "batches/write-08-eco.md",
+  "chapters": [
+   "eco",
+   "ecosystem-structure-and-function",
+   "populations-and-communities"
+  ],
+  "entries": 148,
+  "kb": 135
+ },
+ {
+  "batch": 9,
+  "part": "eco",
+  "file": "batches/write-09-eco.md",
+  "chapters": [
+   "cycles-of-carbon-water-and-nutrients",
+   "climate-science-essentials"
+  ],
+  "entries": 141,
+  "kb": 132
+ },
+ {
+  "batch": 10,
+  "part": "eco",
+  "file": "batches/write-10-eco.md",
+  "chapters": [
+   "biodiversity-and-its-loss"
+  ],
+  "entries": 135,
+  "kb": 129
+ },
+ {
+  "batch": 11,
+  "part": "eco",
+  "file": "batches/write-11-eco.md",
+  "chapters": [
+   "resilience-thresholds-and-limits"
+  ],
+  "entries": 64,
+  "kb": 63
+ },
+ {
+  "batch": 12,
+  "part": "eco",
+  "file": "batches/write-12-eco.md",
+  "chapters": [
+   "key-ecosystems"
+  ],
+  "entries": 153,
+  "kb": 147
+ },
+ {
+  "batch": 13,
+  "part": "es",
+  "file": "batches/write-13-es.md",
+  "chapters": [
+   "es",
+   "the-ecosystem-services-idea",
+   "provisioning-and-regulating-services",
+   "cultural-services-and-human-wellbeing",
+   "mapping-and-modeling-services"
+  ],
+  "entries": 114,
+  "kb": 123
+ },
+ {
+  "batch": 14,
+  "part": "val",
+  "file": "batches/write-14-val.md",
+  "chapters": [
+   "val",
+   "kinds-of-value",
+   "valuation-methods",
+   "valuation-econometrics",
+   "cost-benefit-analysis",
+   "debates-about-pricing-nature"
+  ],
+  "entries": 96,
+  "kb": 109
+ },
+ {
+  "batch": 15,
+  "part": "acct",
+  "file": "batches/write-15-acct.md",
+  "chapters": [
+   "acct",
+   "beyond-gdp",
+   "national-and-corporate-natural-capital-a",
+   "footprints-and-indicators"
+  ],
+  "entries": 110,
+  "kb": 124
+ },
+ {
+  "batch": 16,
+  "part": "pol",
+  "file": "batches/write-16-pol.md",
+  "chapters": [
+   "pol",
+   "pollution-economics-and-environmental-he",
+   "regulation-and-standards",
+   "pollution-taxes-and-charges"
+  ],
+  "entries": 127,
+  "kb": 134
+ },
+ {
+  "batch": 17,
+  "part": "pol",
+  "file": "batches/write-17-pol.md",
+  "chapters": [
+   "tradable-permits-and-carbon-markets",
+   "subsidies-information-and-voluntary-appr",
+   "choosing-among-instruments",
+   "political-economy-of-environmental-polic",
+   "trade-and-the-environment"
+  ],
+  "entries": 144,
+  "kb": 158
+ },
+ {
+  "batch": 18,
+  "part": "mkt",
+  "file": "batches/write-18-mkt.md",
+  "chapters": [
+   "mkt",
+   "payments-for-ecosystem-services",
+   "offsets-and-banking",
+   "forest-carbon-and-redd",
+   "finance-for-conservation",
+   "economics-of-conservation"
+  ],
+  "entries": 146,
+  "kb": 154
+ },
+ {
+  "batch": 19,
+  "part": "res",
+  "file": "batches/write-19-res.md",
+  "chapters": [
+   "res",
+   "renewable-and-non-renewable-resources",
+   "fisheries"
+  ],
+  "entries": 138,
+  "kb": 140
+ },
+ {
+  "batch": 20,
+  "part": "res",
+  "file": "batches/write-20-res.md",
+  "chapters": [
+   "forests-land-and-water",
+   "managing-the-commons"
+  ],
+  "entries": 103,
+  "kb": 105
+ },
+ {
+  "batch": 21,
+  "part": "nbs",
+  "file": "batches/write-21-nbs.md",
+  "chapters": [
+   "nbs",
+   "what-nature-based-solutions-are",
+   "water-and-flood-solutions",
+   "coastal-solutions",
+   "cities-and-green-space"
+  ],
+  "entries": 135,
+  "kb": 135
+ },
+ {
+  "batch": 22,
+  "part": "nbs",
+  "file": "batches/write-22-nbs.md",
+  "chapters": [
+   "restoring-land-and-forests",
+   "working-lands",
+   "evidence-risks-and-greenwashing"
+  ],
+  "entries": 155,
+  "kb": 142
+ },
+ {
+  "batch": 23,
+  "part": "clim",
+  "file": "batches/write-23-clim.md",
+  "chapters": [
+   "clim",
+   "the-economics-of-climate-change",
+   "energy-economics",
+   "mitigation-and-carbon-removal"
+  ],
+  "entries": 158,
+  "kb": 157
+ },
+ {
+  "batch": 24,
+  "part": "clim",
+  "file": "batches/write-24-clim.md",
+  "chapters": [
+   "adaptation-and-resilience",
+   "climate-finance-and-agreements"
+  ],
+  "entries": 97,
+  "kb": 99
+ },
+ {
+  "batch": 25,
+  "part": "eecon",
+  "file": "batches/write-25-eecon.md",
+  "chapters": [
+   "eecon",
+   "ecological-economics",
+   "strong-and-weak-sustainability",
+   "growth-theory-and-the-environment",
+   "growth-decoupling-and-limits"
+  ],
+  "entries": 165,
+  "kb": 176
+ },
+ {
+  "batch": 26,
+  "part": "eecon",
+  "file": "batches/write-26-eecon.md",
+  "chapters": [
+   "circular-and-bio-based-economies"
+  ],
+  "entries": 55,
+  "kb": 50
+ },
+ {
+  "batch": 27,
+  "part": "gov",
+  "file": "batches/write-27-gov.md",
+  "chapters": [
+   "gov",
+   "environmental-governance",
+   "biodiversity-agreements-and-targets",
+   "justice-rights-and-indigenous-knowledge",
+   "poverty-development-and-the-environment"
+  ],
+  "entries": 170,
+  "kb": 199
+ },
+ {
+  "batch": 28,
+  "part": "gov",
+  "file": "batches/write-28-gov.md",
+  "chapters": [
+   "business-and-nature"
+  ],
+  "entries": 48,
+  "kb": 54
+ },
+ {
+  "batch": 29,
+  "part": "hist",
+  "file": "batches/write-29-hist.md",
+  "chapters": [
+   "hist",
+   "how-the-field-developed",
+   "people-who-shaped-the-field",
+   "institutions-and-initiatives"
+  ],
+  "entries": 75,
+  "kb": 92
+ }
+]

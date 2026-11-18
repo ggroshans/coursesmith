@@ -1,0 +1,111 @@
+{
+ "entries": {
+  "nature-econ-353": {
+   "title": "Perfect competition: the textbook ideal market",
+   "text": "Real markets come close to it mainly for farm products and raw materials sold by many sellers to many buyers. Perfect competition is the idealized version: a market with many buyers and sellers, identical products and full information, so that no one can influence the price. Each firm faces a perfectly elastic demand curve and must take the market price. Every profit-maximizing firm ends up charging a price equal to its marginal cost, which makes the market allocatively efficient. In the long run no firm earns economic profit, because any profit draws in new firms until the price falls to the cost per unit. Under these conditions a market reaches an equilibrium where supply equals demand for every product, including labor. Without externalities and {{ref:nature-econ-633}}, such equilibria are Pareto efficient: no one can be made better off without making someone worse off. This is the first of the theorems in {{ref:nature-econ-191}}. Critics say the model treats firms as passive. It ignores price-cutting, product design, advertising and innovation, and leaves unclear who actually sets prices. They dispute both the realism of its assumptions and whether a model of price-takers can describe a decentralized market at all."
+  },
+  "nature-econ-397": {
+   "title": "Market power: the ability to set your own price",
+   "text": "Some sellers can name their price. Market power is a firm's ability to raise its price above its marginal cost, by controlling supply or demand, without losing all its customers. Firms with none, as in perfect competition, are price takers; firms with it are price makers. How much power firms have depends on market structure. Perfect competition and a lone seller are the extremes. In between sit {{ref:nature-econ-311}} and markets run by a few firms. Power lasts only behind barriers to entry, such as control of scarce resources, advantages of size, better technology or government rules; OPEC's rests on oil. The less elastic the demand a firm faces, the more it can raise price above marginal cost. Economists measure it by markups or, more often, by the market shares of the biggest firms ({{ref:nature-econ-398}} and {{ref:nature-econ-384}}). Competition law, such as the US Sherman Antitrust Act of 1890, uses these measures to judge whether a firm has abused its power. Jean Tirole won the 2014 Nobel Memorial Prize in Economic Sciences for analyzing market power and regulation."
+  },
+  "nature-econ-364": {
+   "title": "Oligopoly: a market run by a few",
+   "text": "Civil aviation, electricity supply, telecommunications, sugar refining, beer making, and pulp and paper have all been cited as oligopolies: markets in which a few sellers control pricing. A duopoly is the smallest case, an oligopoly of only two firms. In such markets each firm's actions affect the others and provoke reactions, so the firms are mutually interdependent. That makes cooperation tempting. Oligopolists often collude to maximize profits, by price-fixing or by forming price-fixing groups ({{ref:nature-econ-301}}) that keep new firms out. Competition laws mostly catch formal agreements to collude, so firms can escape through tacit collusion, coordinating without any explicit deal."
+  },
+  "nature-econ-365": {
+   "title": "Competitive equilibrium: economics' benchmark of efficiency",
+   "text": "If Alice values her car at 10 and Bob at 20, any price between 10 and 20 is an equilibrium price at which Bob buys the car. That small trade captures a competitive equilibrium, also called Walrasian equilibrium. It describes a market with flexible prices and many traders, each too small to move prices. Every trader gets the best bundle they can afford, and supply equals demand. Kenneth Arrow and Gérard Debreu introduced the concept in 1951, and it serves as economics' benchmark of efficiency. Their model shows such an equilibrium exists in any exchange economy with divisible goods when everyone's preferences are strictly convex. The welfare theorems add that every competitive equilibrium allocation is Pareto efficient, and every efficient allocation can be reached by one. At this equilibrium marginal benefit equals marginal cost: the value society puts on a good equals the value of the resources used to make it. Efficiency, though, says nothing about fairness. An allocation in which one person has everything can still be efficient."
+  },
+  "nature-econ-383": {
+   "title": "Imperfect competition: where real markets fall short",
+   "text": "Some theorists hold that no real market has ever met the conditions of perfect competition. Imperfect competition covers every market that falls short of at least one of them. A market is imperfect if sellers can set their own prices, there is only one seller, entry is blocked, buyers and sellers know different things, or products differ. The broad imperfect structures include {{ref:nature-econ-311}}, where many firms sell slightly different products, and oligopoly, where a few firms each sway the others. A perfectly competitive firm faces a flat demand curve. A firm in an imperfect market faces one that slopes down. Imperfect competition makes markets inefficient and so leads to market failure. The more a firm can lift price above marginal cost, the greater the inefficiency; at the extreme, a monopoly overcharges and underproduces. Economists dispute whether economic policy should assume perfect or imperfect competition."
+  },
+  "nature-econ-392": {
+   "title": "Marginal revenue: what one more sale brings in",
+   "text": "A seller can sell 20 books at $50 each, bringing in $1000. To sell 21, it must cut the price to $49, which brings in $1029. The 21st book adds just $29. That $29 is marginal revenue: the extra revenue a firm earns by selling one more unit. In a perfectly competitive market a firm gets the same price for every unit. Its marginal revenue equals the price, and its marginal revenue curve is a flat line at the market price. A monopoly must cut its price on all units to sell one more, so its marginal revenue is always below the price. Its curve slopes down and lies below the demand curve. When demand is inelastic, selling more forces a price cut on every unit, and marginal revenue turns negative. The rule for profit follows. A firm maximizes profit where marginal revenue equals marginal cost; while marginal revenue is higher, extra units still make money."
+  },
+  "nature-econ-367": {
+   "title": "Cost curves: drawing what production costs",
+   "text": "A cost curve is a graph showing a firm's production costs against the total quantity it produces. Profit-maximizing firms use these curves to decide how much to produce. There are curves for total, average and marginal costs and for fixed and variable costs, some for the short run and some for the long run. Costs that do not vary with output draw a flat line, while the same cost spread per unit falls as output grows. Short-run marginal cost first falls and then rises, because of diminishing marginal returns. The long-run curve is shaped by {{ref:nature-econ-317}}. One rule links the curves. When marginal cost is below the cost per unit, the cost per unit falls; when above, it rises; where they are equal, the cost per unit is lowest. That gives the textbook U-shape. Real firms may not follow it. In a 1952 survey of 334 companies, 95% of managers reported constant or falling costs rather than the textbook U-shape."
+  },
+  "nature-econ-350": {
+   "title": "Natural monopoly: when one supplier is cheapest",
+   "text": "In 1848 J.S. Mill first called some monopolies \"natural,\" pointing to gas and water supply, roads, canals and railways. A natural monopoly is a firm whose cost per unit keeps falling across the whole range of market demand. One large supplier is then cheaper than several small ones. Left alone, such markets tend to turn into a monopoly, often after an early entrant expands fast and drives out rivals. Breaking them up is inefficient by definition, so governments mostly use regulation and public ownership. Regulators often impose average-cost pricing. It removes excess profit but weakens the incentive to cut costs."
+  },
+  "nature-econ-391": {
+   "title": "The law of supply: higher price, more for sale",
+   "text": "A job paying £20 an hour draws more interest than one paying £15. The same logic runs through every market: all else being equal, a higher price leads sellers to offer more of a good. This is the law of supply. Producers offer more at higher prices because producing more is a way to make more profit, which is why the supply curve slopes upward. Other things shift the whole curve: production costs, the number of suppliers, subsidies, taxes and, in farming, the weather. The law works together with demand. If buyers want more than sellers offer, the price rises, cutting demand and raising supply until the two match. Some heterodox economists, such as Steve Keen, dispute the law for mass-produced goods. Their unit prices may fall as output grows, so the supply curve often slopes downward."
+  },
+  "nature-econ-404": {
+   "title": "Price elasticity of supply: how sellers react to price",
+   "text": "No price will produce more Van Gogh paintings, and a country's gold output may be capped by availability. These are extreme cases of price elasticity of supply. It measures how strongly the quantity sellers offer responds to a change in price: the percentage change in quantity supplied for a 1% change in price. Supply is inelastic below 1, elastic above 1, unit-elastic at exactly 1, and fixed at zero, when quantity does not respond at all. Unlike demand elasticities, supply elasticities are usually positive, because a higher price encourages more production. Time matters. Supply is usually more elastic in the long run, when all inputs can be expanded, than in the short run. So does spare capacity: once capacity is full, more output needs new investment, so supply becomes less elastic. The stakes are real. The more elastic housing supply is, the smaller the rent rise needed to clear a shortage after demand grows. Land is the classic example of a factor whose supply is inelastic."
+  },
+  "nature-econ-368": {
+   "title": "Cross elasticity of demand: how one price moves another good",
+   "text": "A 1% rise in the price of margarine raises demand for butter by 0.81%. That figure, 0.81, is a cross elasticity of demand: a measure of how the quantity demanded of one good responds to a change in the price of another. A positive value means the goods are substitutes, a negative value means they are complements, and zero means they are unrelated. Fuel and new cars are complements, so dearer fuel lowers demand for cars. Governments use cross elasticities between drinks when setting alcohol taxes and minimum prices to reduce harmful drinking."
+  },
+  "nature-econ-386": {
+   "title": "The inverse demand function: price from quantity",
+   "text": "An inverse demand function flips the usual question. Instead of quantity from price, it gives price as a function of the quantity demanded, which is why it is also called a price function. Its value is the highest price that still sells that quantity. It is found by solving the demand function for price: if Q = 240 − 2P, then P = 120 − Q/2. For a straight-line demand P = a − bQ, marginal revenue is a − 2bQ: the same starting height and twice the slope. Firms use it to find the most profitable output and then the price to charge."
+  },
+  "nature-econ-343": {
+   "title": "Market size: counting buyers or money",
+   "text": "Market size measures how big a market is, either by its number of buyers and sellers or by the money exchanged in it, usually per year. Measured in money, it is often called market value. The same goods can have different market values at each stage, usually rising from production to wholesale to retail."
+  },
+  "nature-econ-357": {
+   "title": "Negative prices: paying someone to take it",
+   "text": "In April 2020, oil for May delivery fell to -$37.63 a barrel, a one-day drop of $55.90, because holders feared there was nowhere left to store it. A negative price is a price below zero, where the owner or producer pays the \"buyer\" to take an item away. Lending at below-zero interest is a similar idea."
+  },
+  "nature-econ-336": {
+   "title": "Disequilibrium: when markets are out of balance",
+   "text": "Markets are not always in balance. Disequilibrium is the condition of a market in which the amounts supplied and demanded do not match. It can last only a moment or persist for a long time. Many economists see labor markets as stuck for long periods with more workers offering labor than employers want. Some goods' prices adjust slowly, because of the cost of changing prices and because of long-term contracts. Even so, they do not stay out of balance forever."
+  },
+  "nature-econ-337": {
+   "title": "Dynamic equilibrium: growing in step",
+   "text": "An equilibrium need not stand still. In a dynamic equilibrium, several quantities keep growing at the same rate, so the ratios between them stay fixed. In the neoclassical growth model, output and capital grow at the same rate as the workforce, leaving output per worker unchanged. In that model, a permanently higher saving rate raises capital per worker but leaves the growth rate of output unchanged. Comparing two such equilibria is called comparative dynamics."
+  },
+  "nature-econ-351": {
+   "title": "Government-granted monopolies: exclusive by law",
+   "text": "A publisher can use its copyright monopoly to charge American students more than Ethiopian students for the same textbook. That is a government-granted monopoly at work: one created when a government gives one person or company the exclusive right to supply something. The grant can come directly from a law that excludes rivals, or indirectly through patents, trademarks and copyright. States grant such rights to reward risky investment or to enrich a domestic interest group."
+  },
+  "nature-econ-352": {
+   "title": "The inverse elasticity rule: markups and sensitive buyers",
+   "text": "The less buyers respond to price, the more a monopoly can mark up. The inverse elasticity rule states this exactly: a monopoly's markup, as a share of its price, is inversely proportional to the price elasticity of demand it faces. The markup is measured by {{ref:nature-econ-393}}: price minus marginal cost, divided by price, equals minus one over the elasticity of demand. Perfectly competitive firms sit at the other end, with zero market power, simply taking the market price."
+  },
+  "nature-econ-354": {
+   "title": "Normal profit: just enough to stay in business",
+   "text": "A business can make money and still earn nothing an economist would call profit. Normal profit is the return that just makes running a business worthwhile, equal to what the owner's time and capital could earn in their next best use. Economists count it as a cost, not as part of business profit. It varies within and across industries, in line with how risky each kind of investment is. Under perfect competition only normal profits survive in the long run, so firms have no reason to enter or leave. Profits above normal persist only where barriers to entry keep new firms out, as in monopoly or oligopoly."
+  },
+  "nature-econ-355": {
+   "title": "The shutdown point: when to stop producing",
+   "text": "A loss-making firm faces a short-run question: keep going or stop? The shutdown point is the price below which it does better to stop, where price falls under the per-unit cost of inputs that change with output. Shutting down avoids the costs that vary with output, but not those that must be paid anyway, so those are ignored in the decision. A competitive firm's short-run supply curve is its marginal cost curve at and above the shutdown point."
+  },
+  "nature-econ-399": {
+   "title": "Partial equilibrium: one market at a time",
+   "text": "Alfred Marshall's supply and demand model is the classic partial equilibrium model. It analyzes equilibrium in a single market, holding everything constant except the one change being studied. The prices of substitutes and complements and buyers' incomes are treated as given, which makes it much simpler than general equilibrium. The cost is missed knock-on effects. A tariff on French wine raises its price. Partial equilibrium ignores the knock-on rise in demand for domestic wine, which feeds back and pushes the price higher still. Such knock-on effects usually change the size of a price change but not its direction."
+  },
+  "nature-econ-382": {
+   "title": "General equilibrium theory: all markets at once",
+   "text": "General equilibrium theory studies supply, demand and prices across a whole economy of many linked markets, seeking to show that together they reach an overall equilibrium. The theory goes back to Léon Walras's Elements of Pure Economics of 1874. It took its modern form in the 1950s with Arrow, Debreu and McKenzie. Its best-known results are the welfare theorems. The first says market equilibria are Pareto efficient: no one can be made better off without making someone else worse off. It quietly assumes complete markets and perfect information. The second says any efficient outcome can be reached by redistributing starting endowments and then leaving the market alone. That suggests efficiency and fairness can be handled separately. From the 1970s, faster computers let economists solve such models for real economies. Models of this kind ({{ref:nature-econ-475}}) use real data to estimate how an economy might respond to changes in policy or technology. The theory sits at the center of a dispute between schools. Keynesian and Post-Keynesian economists reject it as misleading, arguing that real economies are not in equilibrium."
+  },
+  "nature-econ-379": {
+   "title": "Laissez-faire: leave prices alone",
+   "text": "Laissez-faire is the principle that prices and wages should be free of non-market pressure, such as government taxes, subsidies, tariffs, regulations or granted monopolies. Hayek argued that its point is to keep the unique information a price carries. Karl Popper called the idea of the free market paradoxical, since it needs interventions to prevent interventions."
+  },
+  "nature-econ-380": {
+   "title": "Spontaneous order: order nobody designed",
+   "text": "No one designed the networks that coordinate a market economy. Friedrich Hayek popularized this idea of spontaneous order: market economies create order through networks that arise from many separate individual decisions. He held that such order shares out a society's resources better than any design could. The idea builds on Adam Smith's invisible hand from The Wealth of Nations."
+  },
+  "nature-econ-370": {
+   "title": "Residual demand: what is left for one firm",
+   "text": "A single firm does not face the whole market's demand, only what other firms leave unmet. That leftover is its residual demand curve: market demand minus the supply of the other firms at each price. With many firms, each firm's residual demand is extremely elastic and nearly flat, though not perfectly flat as textbooks draw it."
+  },
+  "nature-econ-373": {
+   "title": "How taxes and subsidies change prices",
+   "text": "Put a $0.50 tax on a good that sells for $3.00, and buyers do not pay the full $0.50 extra. In one example the buyers' price rises to $3.30, sellers keep $2.80, and sales fall from 100 to 80. A tax moves the market to a new equilibrium where buyers pay more and sellers keep less. Who legally pays the tax does not matter: a tax on sellers is largely passed on to buyers through higher prices. Most of the burden falls on the less elastic side of the market, the side less able to change how much it buys or sells. Taxes come in two forms. A specific tax, a fixed amount per unit, shifts the supply curve up by that amount. An ad valorem tax, a percentage of price, also pivots it. Subsidies run the logic in reverse. They give the same lower buyer price and higher seller price whether paid to producers or to consumers. Real taxes behave as predicted. Tobacco taxes cut smoking: most studies find an elasticity of 0.4 to 0.5, so a 10% price rise reduces consumption by 4% to 5%."
+  }
+ },
+ "openers": {},
+ "reviews": {},
+ "glossary": {}
+}

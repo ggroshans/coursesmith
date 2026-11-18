@@ -1,0 +1,139 @@
+{
+ "entries": {
+  "nature-eco-077": {
+   "title": "The effective number of species: diversity as a simple count",
+   "text": "The effective number of species is the number of equally common species that would give the same average species abundance as the real, uneven community. It has been proposed as a universal measure of species diversity, because it is easier to grasp, and most common diversity indices are simple transformations of it. Its values for different orders, written q, are called Hill numbers. The order sets how much weight rare versus abundant species get. At q = 0 it equals species richness. Larger q gives more weight to the most abundant species and a smaller diversity value."
+  },
+  "nature-eco-148": {
+   "title": "Diversity of order q: one dial, many measures",
+   "text": "One formula can produce a whole family of diversity measures by turning a single dial, q. Diversity of order q is that family: the inverse of a weighted generalized mean of species' proportional abundances. At q = 0 it equals species richness. As q approaches 1 it becomes the exponential of the Shannon measure described in {{ref:nature-eco-094}}. Raising q gives more weight to the most abundant species, so larger q yields lower diversity for the same data. If all species are equally abundant, every value of q gives the species richness."
+  },
+  "nature-eco-094": {
+   "title": "The Shannon index: how hard is it to guess the next species?",
+   "text": "Claude Shannon proposed this measure in 1948 to quantify the unpredictability of strings of text. In ecology, the Shannon index measures the uncertainty in predicting the species of an individual picked at random from a community. The more types there are, and the more evenly they are represented, the harder the prediction and the higher the value. Logarithms to base 2, 10 and e give values in bits, decits and nats respectively. Its exponential is the effective number of species of order 1, the link explained in {{ref:nature-eco-077}}."
+  },
+  "nature-eco-095": {
+   "title": "The Simpson index: the chance two picks match",
+   "text": "Edward H. Simpson introduced this measure in 1949 to gauge concentration among types. The Simpson index is the probability that two individuals picked at random belong to the same type. Economists know the same measure as the Herfindahl or Herfindahl–Hirschman index. One minus the index, the Gini–Simpson index, is the probability that the two individuals are of different types. Its inverse equals the effective number of species of order 2."
+  },
+  "nature-eco-082": {
+   "title": "Ranking the world's places for conservation",
+   "text": "BirdLife International has identified 218 Endemic Bird Areas and more than 11,000 Important Bird Areas. It runs one of several systems that rank places for conservation by species richness, endemism and threat, so limited funds go where they matter most. WWF's Global 200 Ecoregions picks priorities from 14 land, 3 freshwater and 4 marine habitat types, and every hotspot contains at least one. The Alliance for Zero Extinction has identified 595 sites holding the most threatened endemic species. All extend the logic of {{ref:nature-eco-081}}."
+  },
+  "nature-eco-085": {
+   "title": "When fish run short, hunters turn to the forest",
+   "text": "In Ghana, as foreign and local fleets depleted the fish, people turned to hunting animals in nature reserves. Over 30 years of data tie sharp declines in 41 wildlife species to a falling fish supply. The link is economic. Fish and bushmeat substitute for each other, as {{ref:nature-econ-411}} explains, so a decline in one resource raises demand and price for the other."
+  },
+  "nature-eco-086": {
+   "title": "Zoonotic spillover: diseases that jump from wildlife",
+   "text": "HIV likely first passed to humans through contact with infected bushmeat. Zoonotic spillover is the jump of diseases from wild animals to people, made more likely by hunting, butchering and eating wildlife. Ebola outbreaks in the Congo Basin and Gabon in the 1990s were associated with butchering and eating chimpanzees and bonobos. Deforestation, fragmentation and expanding human activity in wildlife habitat increase contact, and so spillover. The One Health framework treats human, animal and environmental health as interconnected."
+  },
+  "nature-eco-058": {
+   "title": "Cleared forests and new diseases",
+   "text": "In Malaysia, clearing forest for pig farms increased the spread of Nipah virus. Many diseases are associated with forests, including malaria, Chagas disease, sleeping sickness, leishmaniasis, Lyme disease, HIV and Ebola. Most new human infectious diseases, including SARS-CoV-2, jump from animals to people, the process described in {{ref:nature-eco-086}}. Their emergence may be tied to forest loss and to people pushing into forests."
+  },
+  "nature-eco-128": {
+   "title": "Five kinds of environmental value",
+   "text": "Timber is only the most obvious value of a forest. Pearce and Moran sorted the values of the environment into five classes. Direct extractive uses include timber and food. Indirect uses are ecosystem services such as flood control, pest control and erosion protection. Option uses are possible future uses, such as unknown medicines from plants. A fourth class, explained in {{ref:nature-val-053}}, is the benefit of knowing others may benefit in future. The last, passive use, is the enjoyment of a species' mere existence."
+  },
+  "nature-eco-127": {
+   "title": "Habitat restoration: helping damaged places recover",
+   "text": "Restoring habitats altered by people has become a global effort to counter habitat destruction. Habitat restoration is the part of {{ref:nature-eco-126}} that helps a degraded, damaged or destroyed ecosystem recover. It starts with a plan and set goals, followed by monitoring and evaluating the species involved. Miller and Hobbs name three kinds of constraint on restoration: ecological, economic and social."
+  },
+  "nature-eco-155": {
+   "title": "Should trade in endangered species be legal?",
+   "text": "Should products from endangered species be sold legally? Few conservation questions are more controversial. Supporters say a regulated market could push down prices of illegal goods, cutting the incentive to poach, or raise money for conservation. Opponents point to laundering and corruption, as illegal goods get passed off as legal. The agreement described in {{ref:nature-mkt-001}} bans commercial trade in wild species on its Appendix I. It allows trade in Appendix II and III species if it is shown not to harm wild populations. Researchers still disagree over which way the risks fall."
+  },
+  "nature-eco-052": {
+   "title": "Emptying the oceans: marine defaunation",
+   "text": "Fishing has cut populations of oceanic sharks and rays by 71% since 1970. Marine defaunation is the loss of animal populations from the oceans, mostly through overexploitation. It has come later and less intensely than on land. There have been few marine extinctions, but many local, ecological and commercial ones. The key services threatened are food supply and coastal storm protection."
+  },
+  "nature-eco-088": {
+   "title": "Crop wild relatives: the wild cousins of our food",
+   "text": "In 2016, 29% of crop wild relative species were missing entirely from the world's genebanks, and 24% more had fewer than 10 samples. A crop wild relative is a wild plant closely related to a domesticated crop, such as its wild ancestor. Russian botanist Nikolai Vavilov first recognized their importance in the early 20th century. Natural selection in the wild gives them useful traits that breeders can cross into crops. Modern varieties of most major crops carry genes from wild relatives. As climate change makes ecosystems less stable, they are likely to be critical for keeping food supplies secure."
+  },
+  "nature-eco-051": {
+   "title": "The empty forest: intact trees, missing animals",
+   "text": "A forest can look intact and still be empty. Kent H. Redford named the problem in his 1992 article \"The Empty Forest\": a forest whose habitat survives but whose large mammals have been lost to human impact. Moderate hunting cuts the biomass of mammal game by 80.7%, and heavy hunting by up to 93.7%. Hunted-out species may survive in small numbers yet be ecologically extinct, no longer playing their role. Losing large seed dispersers and predators changes which trees regenerate and how prey species are spread."
+  },
+  "nature-eco-136": {
+   "title": "Key Biodiversity Areas: mapping places that matter most",
+   "text": "Over 16,000 areas, totaling 21,000,000 km2, are covered by the global standard for Key Biodiversity Areas. These are places judged internationally important for biodiversity under criteria the IUCN published in 2016. They identify areas that governments or other agencies need to protect, extending the Important Bird Area idea to other groups. Sites qualify on vulnerability and irreplaceability. Critics say the criteria may be too broad: one analysis found that 26% to 68% of Earth's land could qualify."
+  },
+  "nature-eco-111": {
+   "title": "Detecting extinction debt before it comes due",
+   "text": "In experiments with miniature moss ecosystems, insect species took 6–12 months to die out after habitat was destroyed. In the wild the delay is longer and harder to see. Researchers detect extinction debt by checking whether today's species match past habitat better than present habitat, or by comparing cleared and intact areas. The size of the debt can only be estimated if past populations are known as well as present ones. The processes are slow and noisy, and tiny remnant populations are hard to count, so estimates are very uncertain."
+  },
+  "nature-eco-132": {
+   "title": "Biosphere reserves: conservation and development side by side",
+   "text": "By 2004, about 459 biosphere reserves had been set up in 97 countries. A biosphere reserve is an area set aside to serve both the conservation of biodiversity and development that can last. The concept dates from the 1970s. It balances the two goals with core, buffer and transition zones. Gene sanctuaries, where plants are conserved, include both biosphere reserves and the parks described in {{ref:nature-gov-148}}."
+  },
+  "nature-eco-133": {
+   "title": "On-farm conservation: keeping old crop varieties alive",
+   "text": "Gene-bank samples and farmers' own seed of a variety are tested side by side. The best are crossed and multiplied, and the improved seed goes back to the growers. This is on-farm conservation: keeping traditional crop varieties alive by improving them with farmers in their own fields. It lets farmers keep their own varieties instead of switching to commercial ones or abandoning the crop. It works best in marginal areas where climate or soil rule out commercial varieties, or where taste makes up for lower yields."
+  },
+  "nature-eco-115": {
+   "title": "Assisted migration: moving species ahead of the heat",
+   "text": "Assisted migration has already been used to save several North American tree species. It means moving plants or animals to a new habitat so they can escape a climate their old range no longer offers. It is proposed for species that disperse poorly, have long generation times or small populations. The move can be passive, through wildlife corridors, or active transport. It is controversial, because critics worry that some moved species may become invasive in their new homes."
+  },
+  "nature-eco-125": {
+   "title": "Tracking biodiversity: trend indicators and their gaps",
+   "text": "One index, described in {{ref:nature-acct-055}}, combines population data for many vertebrate species into a single number, and its 2012 global value showed a 28% decrease. Biodiversity trend indicators are indices that track how the world's biodiversity is changing over time. Another, described in {{ref:nature-acct-086}}, tracks changes in the IUCN conservation status of fully assessed groups such as mammals, birds, amphibians and corals. No single indicator covers all species, and gaps in data and in time coverage limit them all."
+  },
+  "nature-acct-088": {
+   "title": "The Biodiversity Intactness Index: how much of nature is left",
+   "text": "Northern Africa, southern Australia, coastal Brazil, Madagascar and South Africa show striking losses in biodiversity intactness. The Biodiversity Intactness Index measures such change using worldwide abundance data on plants, fungi and animals. It shows how local land biodiversity responds to pressures such as land-use change and intensification. A related measure, the Mean Species Abundance Index, tracks population trends across a cross-section of species."
+  },
+  "nature-eco-139": {
+   "title": "Beyond counting species: ancestry and roles",
+   "text": "A species count treats every species alike. Phylogenetic and functional diversity measures add information on how species are related and on their functional traits, not just their number. Examples include Faith's 1992 phylogenetic diversity index and functional group richness. The different kinds of diversity are not necessarily independent. In vertebrates, taxonomic and ecological diversity are closely linked."
+  },
+  "nature-eco-073": {
+   "title": "Crop diversity loss: eating from a shrinking menu",
+   "text": "When rice grassy stunt virus spread in the 1970s, only one of 6,273 varieties tested was resistant. Crop diversity loss is the decline in the number of crop species grown and in the genetic variety within each crop. Over the past 50 years both have fallen sharply. That threatens the security of food supplies, because people depend on ever fewer varieties of ever fewer crops. The Irish potato blight of 1846 shows the danger. It struck because only two vulnerable potato varieties were planted, and it contributed to one million deaths."
+  },
+  "nature-eco-075": {
+   "title": "Livestock genetic resources: 8,800 breeds",
+   "text": "About 8,800 breeds of birds and mammals, within 38 species, are used for food and agriculture. Livestock genetic resources are the genetic variety of these species, breeds and populations. The diversity can be held in live animals or in stored material such as frozen semen or embryos, a form of {{ref:nature-eco-074}}."
+  },
+  "nature-eco-030": {
+   "title": "Island restoration: clearing out invaders",
+   "text": "Removing invasive animals from just 169 islands would improve survival prospects for 9.4% of the most highly threatened island vertebrates, a 2019 study found. Island restoration repairs island ecosystems, chiefly by removing introduced species and bringing back native ones. Islands hold many of the world's endemic species. Their small size also makes them very vulnerable to introduced species."
+  },
+  "nature-eco-031": {
+   "title": "Taxon substitution: giant tortoises as stand-ins",
+   "text": "On islets off Mauritius, Aldabra giant tortoises introduced in 2000 and 2007 are replacing extinct native tortoises. They disperse seeds and graze invasive plants. This is taxon substitution: introducing a non-native species on purpose to fill an ecological role left empty by an extinct native one. It is one tool of {{ref:nature-eco-030}}."
+  },
+  "nature-eco-090": {
+   "title": "Wildflower strips: flowers at the field's edge",
+   "text": "Insects in German nature reserves were found to carry about 16 pesticides on average. One response has been to propose buffer zones with reduced pesticide use around reserves. Wildflower strips work at the farm itself. They are strips of land at field edges, sown with flowering plants that pollinators favor. They aim to sustain local biodiversity, conserve insects, restore farmland birds and offset the harms of agricultural intensification, answering {{ref:nature-eco-089}}."
+  },
+  "nature-eco-097": {
+   "title": "Why mixed plant communities grow more",
+   "text": "Why should a mixed plot of plants produce more biomass than a plot of one species? Three explanations are proposed. Complementarity: species with different resource needs together use resources more completely. Facilitation: some species improve conditions for others, as nurse plants or nitrogen-fixing legumes do. The sampling effect: a diverse plot is more likely to include a highly productive species. That last is a composition effect rather than diversity itself, which keeps the debate in {{ref:nature-eco-096}} alive."
+  },
+  "nature-eco-098": {
+   "title": "Why species-rich communities stay steadier",
+   "text": "Species-rich communities tend to vary less over time, and four reasons have been proposed. The averaging effect: different species' responses average out, a statistical result of adding up random variables. Negative covariance: competing species do well when others do badly, lowering overall variation. The insurance effect: more species means more chance of backup stabilizers that respond to shocks in different ways. Fending off invaders is the fourth, but the evidence is mixed, and many studies find the opposite. Findings on how well communities withstand and recover from shocks, unlike steadiness over time, remain contested."
+  },
+  "nature-eco-079": {
+   "title": "Beta diversity: how different are neighboring sites?",
+   "text": "In Borneo, moths showed higher beta diversity in primary forest, but trees showed it in logged forest. Beta diversity measures how much species composition differs between sites. It is defined as the ratio of regional to local species diversity. Whittaker introduced it alongside alpha diversity and the landscape-wide measure in {{ref:nature-eco-117}}. His form says how many completely distinct subunits there would be if total and average diversity stayed the same but no species were shared. Many types now exist, including absolute, Whittaker's and proportional species turnover. Invasive species appear to raise local diversity while lowering beta diversity. Studies reach conflicting conclusions about beta-diversity patterns, likely because they use different spatial scales."
+  },
+  "nature-eco-117": {
+   "title": "Gamma diversity: the variety of a whole landscape",
+   "text": "Gamma diversity is the broadest of R. H. Whittaker's three scales: the total species diversity of a whole landscape. In his view, it is set by the average diversity of local sites, alpha, and by how much those sites differ, beta. There is no agreed spatial scale for it. A sample usually underestimates the true diversity of a larger area, but a species–area curve can estimate the shortfall."
+  },
+  "nature-eco-080": {
+   "title": "Measuring species turnover between sites",
+   "text": "Beta diversity can be written as the amount by which a whole dataset's diversity exceeds that of an average site. Additive partitioning gives this as absolute species turnover. Dividing it by alpha diversity gives Whittaker's species turnover. For two sites recorded by presence and absence, that equals one minus the Sørensen similarity index. Dividing absolute turnover by gamma diversity gives proportional turnover, which for two sites equals one minus the Jaccard index."
+  },
+  "nature-eco-083": {
+   "title": "Biotic homogenization: when every place looks the same",
+   "text": "In 201 Chilean watersheds compared over 200 years, about 65% of comparisons showed communities growing more alike. Biotic homogenization is the process by which separate ecological communities become more and more similar over time. It can be genetic, taxonomic or functional, and it means a loss of beta diversity. It stems mainly from extinctions of native species and invasions of non-native ones, and human pressure has accelerated it. It need not lower local species richness. Communities can gain species and still grow more alike. Ecologists worry that simpler, more similar ecosystems will be less resilient to stress."
+  }
+ },
+ "reviews": {
+  "biodiversity-and-its-loss": "Habitat destruction, much of it forest cleared for farming, is the leading cause of biodiversity loss, and fragmentation, overexploitation, invasive species and climate change add to it. The result is a decline estimated at 100 to 1000 times the natural background rate, with about one million species at risk within decades. Scientists track the damage with species richness, evenness, diversity indices and the IUCN Red List, and they still debate whether it already counts as a sixth mass extinction. Part of the cause is economic: many forest benefits have no market, so owners profit more by clearing than by keeping. Responses range from reserves, corridors and seed banks to land rights for Indigenous communities and curbs on the wildlife trade."
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "entries": {
+  "nature-eco-631": {
+   "title": "Does diversity make ecosystems more stable?",
+   "text": "In 1958 Charles Elton argued that complex, diverse communities tend to be more stable. Robert May later refuted the idea that diversity begets stability, and the question has stayed open. Diversity can stabilize what an ecosystem does; genetic diversity, for example, can improve resistance to disturbance. Yet in food-web models the effect of diversity on {{ref:nature-eco-628}} can be positive or negative, depending on how the network is structured. The evidence points both ways."
+  },
+  "nature-eco-630": {
+   "title": "May's limit: when more species means less stability",
+   "text": "Robert May found that a large random ecosystem loses stability once its number of species and the strength of their interactions pass a limit. He linearized the species equations around equilibrium, replacing them with simpler straight-line versions. To do so he used the Jacobian, a table of how each species affects the others, also called the community matrix. Treating it as a random matrix, the system loses stability when S, the number of species, exceeds 1/σ, where σ is the spread of interaction strengths. The result implies that diversity limits dynamical stability, a key point in {{ref:nature-eco-631}}."
+  },
+  "nature-eco-636": {
+   "title": "Describing nature versus grading it",
+   "text": "Rising chlorophyll-a in a lake may signal eutrophication. That makes chlorophyll an indicator: a measured variable used to infer trends in something not measured directly. Used descriptively, an indicator tracks trends scientifically. Used normatively, it ranks conditions as good or bad for policy. The same chlorophyll level may be judged healthy in a natural wetland and unhealthy in a human-impacted one. Critics say mixing the two implies values can be measured objectively, a problem for {{ref:nature-eco-635}}, and urge keeping them separate."
+  },
+  "nature-eco-637": {
+   "title": "The health paradox: healthier people, sicker ecosystems",
+   "text": "Damming valleys, draining wetlands that breed mosquitoes, diverting water for irrigation, converting wilderness to farmland: each has improved human health by sacrificing the health of wild ecosystems. This trade-off is the health paradox. The utilitarian view treats human welfare as a test of {{ref:nature-eco-635}}. It argues that unhealthy ecosystems bring more disease, fires, floods, crop failures and collapsing fish catches. The protectionist view sees humans as an invasive species. Conservationists and resource managers remain split over whether to scale back human domination of the biosphere or embrace it."
+  },
+  "nature-eco-644": {
+   "title": "Will population outrun food? The neo-Malthusian debate",
+   "text": "In 1798 Malthus forecast that a growing population would deplete the world's food. Ehrlich revived the argument in 1968. Economist Julian Simon countered that the Green Revolution, a jump in farm output, had prevented famine: grain production rose over 250% between 1950 and 1984. Neo-Malthusians reply that those gains depend on fossil-fuel fertilizers, pesticides and irrigation. In 2009 the FAO, the UN food agency, said the world would need 70% more food by 2050. The two sides still disagree on whether technology can keep resources ahead of population."
+  },
+  "nature-eco-641": {
+   "title": "Hysteresis in economics: shocks that leave scars",
+   "text": "In a recession, unemployed workers may lose skills or motivation and stay jobless even as the economy recovers. This is hysteresis in economics, a version of {{ref:nature-eco-640}}: a temporary shock leaving lasting effects, such as permanently higher unemployment. Trade shows it too. Starting to export may need a big push because of fixed transport costs, but once exports begin, little is needed to keep them going. Olivier Blanchard and others used hysteresis to explain long-run differences in unemployment between Europe and the United States."
+  },
+  "nature-eco-615": {
+   "title": "Spotting a regime shift in the data, after the fact",
+   "text": "Statistics can reveal whether a system has already shifted regime, but only in hindsight. Pattern-finding methods such as principal component analysis or neural networks need long data series, and they work only after the threshold is crossed. Failing to find several regimes in the data does not rule out a future shift. For managers, assuming a system has only one regime can be risky when the alternatives are very harmful, a practical lesson from {{ref:nature-eco-613}}."
+  },
+  "nature-eco-614": {
+   "title": "Smooth, abrupt or discontinuous: three ways systems change",
+   "text": "Systems prone to {{ref:nature-eco-613}} change in one of three patterns, set by how their fast and slow processes interact. In smooth change, fast variables follow slow ones along a nearly straight line. In abrupt change, the relationship is non-linear. In discontinuous change, the system flips back at a different point from where it flipped forward, which is hysteresis. Woody plant encroachment on {{ref:nature-eco-520}}, where small changes in grazing shift grassland to woody savanna, is thought to be a case of smooth change."
+  },
+  "nature-eco-621": {
+   "title": "Complex adaptive systems: wholes that learn",
+   "text": "Ant colonies, power grids, markets and the climate share a deep feature. Each is a complex adaptive system: many interacting parts that adapt and learn, whose overall behavior cannot be predicted from the parts alone. Cities, firms, governments and ecosystems qualify too. Sociologist Walter F. Buckley coined the term in 1968. Interactions in such systems are non-linear, so small changes in inputs can cause large changes in outputs, and any interaction can loop back on itself as {{ref:nature-eco-638}}. They often organize themselves rather than following a central hierarchy. They run far from equilibrium and need a constant flow of energy to keep their organization. Their high capacity to adapt gives them resilience against disturbance. Researchers often model them with network models and {{ref:nature-es-061}}. The approach is increasingly used to study economic development and institutional change, where outcomes can be influenced but not precisely controlled."
+  },
+  "nature-eco-648": {
+   "title": "Socio-ecological systems: no line between people and nature",
+   "text": "The boundary between society and nature, on this view, is artificial. A socio-ecological system is a unit of land, water and living things together with the people, organizations and institutions that use and govern it. Berkes and Folke first put forward the idea, which rests on the premise that humans are part of nature. It builds on {{ref:nature-eco-622}}. Social and ecological parts are linked through feedbacks, and both show resilience and complexity. Such systems are complex adaptive systems, bounded around particular ecosystems and their problems. Their non-linearity makes outcomes depend on past paths, creates several possible stable states and raises the potential for threshold shifts. Because smaller systems nest within larger ones, they should be analyzed and managed at several scales at once. Communities that interact with an ecosystem over long periods often hold the most relevant knowledge of how it behaves."
+  },
+  "nature-eco-650": {
+   "title": "The adaptive cycle: growth, rigidity, release, renewal",
+   "text": "In C.S. Holling's adaptive cycle, complex systems move through four phases. Exploitation (r) slowly gives way to conservation (K). Then come a rapid release (Omega) and reorganization (alpha), before exploitation starts again. Two qualities change across the phases: connectedness and potential. After a cycle, the system can begin anew or transform into a new configuration. Its adaptability, the capacity to learn and adjust, and its transformability, the capacity to become a completely new system, both underpin {{ref:nature-eco-603}}."
+  },
+  "nature-eco-651": {
+   "title": "Adaptive governance: institutions that learn",
+   "text": "Folke and colleagues compared two places where ecosystem services had degraded: the Florida Everglades and the Grand Canyon. In the Everglades, conflict between farming and conservation interests left few feedbacks and little capacity to adapt. At the Grand Canyon, a management workgroup used planned interventions and monitoring to learn, and the system reorganized successfully. That is adaptive governance: governing socio-ecological systems so that institutions can learn and reorganize as ecosystems change. Introduced by Holling in 1978, it is a flexible approach to climate impacts, unlike efforts focused on mitigation, or cutting emissions."
+  },
+  "nature-eco-649": {
+   "title": "Ostrom's framework for people and ecosystems",
+   "text": "{{ref:nature-hist-039}} built a framework for analyzing how people and ecosystems interact, called the social-ecological systems framework. It is built on the theory of common-pool resources and collective self-governance, the same work behind {{ref:nature-econ-613}}. It draws heavily on {{ref:nature-eecon-130}} and complexity theory. It borrows from island biogeography, optimal foraging theory and microeconomic theory, but is broader than any of them. Unlike complex adaptive systems theory, it includes concerns such as equity and human wellbeing."
+  },
+  "nature-eco-617": {
+   "title": "The ball-and-cup model: valleys of stability",
+   "text": "In the simplest ball-and-cup model, two valleys are separated by a hill. A ball resting in a valley sits in a stable state, or domain of attraction. Moving the ball into the other valley takes enough force to push it over the hill. A steep-sided valley is more resilient than a shallow one. The model turns {{ref:nature-eco-616}} into a landscape anyone can sketch."
+  },
+  "nature-eco-618": {
+   "title": "Pushing the ball or reshaping the landscape",
+   "text": "Ecologists explain state shifts in two ways, using the picture from {{ref:nature-eco-617}}. State variables, such as population densities, respond quickly to the system's feedbacks; parameters respond slowly or not at all. In the community view, the landscape is fixed, and a shift comes from pushing the fast state variables directly. In the ecosystem view, environmental drivers change the slow parameters, which reshapes the number, location and resilience of the stable states themselves."
+  },
+  "nature-eco-619": {
+   "title": "How people wear down ecosystem resilience",
+   "text": "People reduce ecosystem resilience in three ways. They cut diversity, as fishing too hard does. They alter the physical and chemical environment. And they change disturbance regimes, as dragging heavy nets along the seabed does. With less resilience, minor perturbations can push ecosystems from one {{ref:nature-eco-616}} into a less desirable one. Such shifts often lose ecosystem services, and they have been documented on land, at sea and in fresh water."
+  },
+  "nature-eco-647": {
+   "title": "Biotic resistance: why some invasions fail",
+   "text": "Not every newcomer takes hold. Biotic resistance is the set of ecosystem properties that limit how well introduced species can invade. Charles Elton applied the term to them. They include physical conditions such as temperature and drought, and living ones: competition, parasitism, predation and missing mutualists, the partners a species may need. Higher species diversity and lower resource availability can add resistance, extending {{ref:nature-eco-646}} to the problem of invasive species."
+  },
+  "nature-eco-623": {
+   "title": "Telecoupling: when distant places shape each other",
+   "text": "Research on {{ref:nature-eco-622}} works at four scales. Intracoupling studies one coupled system; pericoupling, two neighboring systems; telecoupling, two distant ones; and metacoupling, all three at once. In a telecoupling, a sending system passes a flow to a receiving system, while a spillover system is affected without being the focus."
+  },
+  "nature-eco-654": {
+   "title": "Critical slowing down: an early warning of tipping",
+   "text": "Since the early 2000s, more than three-quarters of the Amazon rainforest has shown slower recovery from short-term shocks. That sluggishness may be critical slowing down: the increasingly slow recovery from small disturbances shown by a system approaching a tipping point. As recovery slows, the system's autocorrelation, how closely each reading resembles the last, and its variance, how widely readings swing, both rise. Rising values of both in melt rates suggest the Greenland ice sheet is losing resilience. Early warnings need long, good-quality data series, which are rare in ecology. Noise-induced transitions give no warning, and human-driven change may be too fast for signals to appear. How well the signals work for all regime shifts, and whether they leave time to act, is unclear."
+  },
+  "nature-eco-655": {
+   "title": "Panarchy: cycles nested inside cycles",
+   "text": "Panarchy views linked human and natural systems as a nested set of adaptive cycles, each running at its own scale of time and space. In resilience theory, it means how much one level of an ecosystem's hierarchy is influenced by the others. C.S. Holling developed the idea, leading to the 2002 book Panarchy: understanding transformations in human and natural systems. It has become an important lens on the resilience of ecological and social-ecological systems. It also reaches beyond ecology, for example linking planetary, political-economic and supply-chain levels."
+  },
+  "nature-eco-605": {
+   "title": "Four aspects of resilience",
+   "text": "Brian Walker, C.S. Holling and others split {{ref:nature-eco-603}} into four aspects. Latitude is how far a system can be changed before it loses the ability to recover. Resistance is how hard the system is to change. Precariousness is how close it currently sits to a threshold. Panarchy is how much one level of an ecosystem's hierarchy is influenced by the other levels. Closely linked is {{ref:nature-clim-001}}: people's ability to cope with environmental change by observing, learning and altering their interactions."
+  }
+ },
+ "reviews": {
+  "resilience-thresholds-and-limits": "Every environment has a carrying capacity, and a population that overshoots it, like the reindeer of St. Matthew Island, can crash. Ecosystems absorb disturbances through resistance and resilience, while feedbacks hold each regime in place, but only up to a threshold. Past it, a small push can trigger a regime shift that hysteresis makes hard to reverse. The same logic scales up to climate tipping points, ecosystem collapse and the nine planetary boundaries, while researchers increasingly study people and nature as one coupled, complex adaptive system. Much remains contested, from what stability means to how many people the Earth can support."
+ }
+}

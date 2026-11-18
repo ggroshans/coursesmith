@@ -1,0 +1,94 @@
+{
+"openers": {
+"populations-and-communities": "Populations rarely stand still. Their size and age make-up change as individuals are born, die, arrive and leave, and mathematics can follow those changes over time. This chapter follows those models: how fast a population would grow if nothing held it back, how predator and prey numbers rise and fall together, and how species competing for one resource fare. It also asks the questions conservation depends on, such as how small a population can get before chance events wipe it out, and why larger areas hold more species. Some of the same curves even describe how new inventions spread through a society."
+},
+"entries": {
+"nature-eco-585": {
+"title": "Population dynamics: the mathematics of rising and falling numbers",
+"text": "Hunting limits and harvest quotas often rest on equations about births and deaths. Population dynamics is the mathematical study of how the size and age make-up of populations change over time. It treats them as dynamical systems, systems whose state changes by fixed rules. It is a branch of mathematical biology and uses tools such as differential equations. The field is widely seen as beginning with Malthus, who held that a population in constant conditions grows or declines exponentially. Simple models track four processes: births, deaths, immigration and emigration. In a closed population, with no one arriving or leaving, growth is births minus deaths. As an equation, dN/dt = rN: the population N changes at a rate of r times its size. Adding a {{ref:nature-eco-593}} gives the logistic equation, in which growth is limited as N approaches that ceiling, K. Population ecologists use life-history data, records of when animals breed and die, together with projection matrices to manage wildlife stocks and set harvest quotas."
+},
+"nature-eco-572": {
+"title": "Biological dispersal: leaving home to spread out",
+"text": "Leaving home is a gamble for any living thing. Biological dispersal is the movement of living things, or their seeds and spores, away from where they were born. They move to where they breed, or from one breeding site to another. Technically, it is any movement that could lead to gene flow, the spread of genes between populations. It runs in three phases: departure, transfer and settlement. Organisms disperse when the benefits outweigh the costs. The benefits include new resources and escape from competition and inbreeding. The costs come in energy, risk, time and lost opportunity. The consequences are large. Dispersal shapes how populations grow and shrink, how their genes vary, and where species live. Ecosystems depend on individuals moving between patches of habitat, which makes dispersal critical to their stability. It even counts as a service. The carrying of seeds, and the ability to disperse at all, are treated as ecosystem services and as part of a species' capacity to adapt to {{ref:nature-hist-007}}."
+},
+"nature-eco-588": {
+"title": "R/K selection: many cheap offspring or a few costly ones",
+"text": "A dandelion and an elephant follow opposite strategies for passing on their genes. R/K selection theory is an evolutionary hypothesis that species are selected either to produce many cheap offspring or a few offspring with heavy parental investment. The letters come from the logistic model, where r is the maximum growth rate and K the {{ref:nature-eco-593}}. r-selection dominates in unstable environments. It favors many offspring, small size, early maturity and wide dispersal, as in dandelions. K-selection dominates in stable environments. It favors strong competitors with large bodies, long lives and few well-cared-for young, such as elephants and whales. Most organisms mix the traits. MacArthur and Wilson coined the terms in 1967. The theory was popular in the 1970s and 1980s, then lost ground after empirical studies contradicted its predictions. Life history theory, based on how death rates vary with age, has replaced it, and some now speak of fast versus slow life histories. The stakes are practical. Slow-breeding, long-lived species such as orange roughy proved vulnerable to fishing models that assumed faster growth."
+},
+"nature-eco-583": {
+"title": "The Lotka–Volterra equations: predator and prey in cycles",
+"text": "During World War I, predatory fish rose in Adriatic catches. In 1926 Volterra published a model to explain why, and Lotka had proposed the same model independently in 1910. The Lotka–Volterra equations, also called the predator–prey model, are a pair of differential equations describing how predator and prey numbers change together. Without predators, prey grow exponentially, and they are eaten at a rate proportional to how often predators and prey meet. Predators grow by eating prey and, without prey, die off exponentially. The result is endless cycles. Predators thrive on plentiful prey, outstrip their food and decline, letting prey recover. Such swings appear in Hudson's Bay Company records of lynx and snowshoe hares, and in Isle Royale's moose and wolves. One prediction surprises: improving conditions for the prey raises the predator's equilibrium numbers, not the prey's. {{ref:nature-clim-206}} of the ocean fits this, because the phytoplankton bloom is quickly eaten. Economists use the model for competing firms, and Richard Goodwin used it to link unemployment and wage growth."
+},
+"nature-eco-584": {
+"title": "Minimum viable population: how few is too few",
+"text": "A meta-analysis found a median minimum viable population for vertebrates of 4,169 individuals (95% CI = 3,577–5,129), where CI is the confidence interval, the likely range. A minimum viable population is the smallest size at which a population can survive in the wild. Below it, disasters or random demographic, environmental or genetic events can wipe it out. Small populations face more extinction risk because they recover less well from random shocks. In them, genetic drift erodes genetic variety and raises inbreeding, which lowers fitness. The minimum is estimated with population viability analyses. These computer simulations are repeated thousands of times to find the starting size giving, say, a 95% or 99% chance of surviving 1,000 years. Their forecasts need many assumptions, and their accuracy is debated. The common '50/500 rule' benchmark does not apply across many groups of species, according to 2014 guidance. Managers can lift a population above its minimum through breeding in captivity or by moving in individuals from other reserves."
+},
+"nature-eco-591": {
+"title": "The species–area relationship: bigger places hold more species",
+"text": "Larger areas tend to hold more species. This pattern, the species–area relationship, links the area of a habitat to the number of species found in it. It is often written as the power law S = cA^z, where S is the number of species, A the area and z the slope. On ordinary axes the curve almost always flattens as area grows. On log–log axes, where each step multiplies the value, it becomes a straight line: log(S) = log(c) + z log(A). Preston fitted the pattern with this power function. He distinguished 'mainland' samples of continuous habitat from 'island' isolates such as islands. Island biogeography theory was first developed to explain the pattern on oceanic islands. Proposed causes include the balance of immigration and extinction, disturbance, predator–prey dynamics and the clustering of individuals. The pattern has a sobering use. Conservation scientists apply it to predict extinction rates from habitat loss and fragmentation."
+},
+"nature-eco-577": {
+"title": "Competitive Lotka–Volterra equations: modeling rivals",
+"text": "With three competing species, population numbers can cycle, and with four they can turn chaotic. The competitive Lotka–Volterra equations are a simple model of how the populations of species competing for a shared resource change over time. They build on the logistic equation, adding for each species a term for the harm done by its competitors. For two species, the coefficient α12 is the effect of species 2 on species 1, and α21 the reverse. In competition, all these values are positive. Each species can have its own growth rate and its own ceiling on numbers. The model extends to any number of species, with the interaction coefficients forming a matrix, a grid of numbers. Competitive systems cannot cycle with fewer than three species or become chaotic with fewer than four. With five or more, any behavior is possible. Large Lotka–Volterra systems tend to be unstable or sparsely connected, unless species' traits evolve by natural selection."
+},
+"nature-eco-569": {
+"title": "The Allee effect: when fewer means worse off",
+"text": "In the 1930s Warder Clyde Allee showed that goldfish survive better in tanks with more fish. His name now marks the Allee effect. It is the link between a population's size or density and how well the average individual survives and reproduces. At low numbers, fewer individuals means lower fitness. It is usually defined as positive {{ref:nature-res-044}}: individual fitness rises as density rises. That reverses the classical view, in which competition makes growth fastest at low density. Common causes are trouble finding mates, cooperative defense, cooperative feeding and environmental conditioning. In fishery research it is close to, or the same as, 'depensation'. The effect can slow a population's range expansion and even prevent biological invasions. Fishing pressure combined with Allee effects can push exploited fish populations between different steady conditions, the subject of {{ref:nature-eco-616}}. Whether random demographic chance counts as an Allee effect is contentious."
+},
+"nature-eco-587": {
+"title": "Geometric population growth: multiplying by generation",
+"text": "Many populations breed in separate seasons rather than continuously. Geometric population growth describes them: the population multiplies by a fixed factor λ (lambda) each generation. With constant birth and death rates, after t generations it is λ^t times its starting size. It grows if births exceed deaths (λ > 1), shrinks if deaths exceed births, and holds steady if they are equal. Doubling time, the time to reach twice the size, is found by taking logarithms. Real populations cannot grow forever, because lack of resources eventually raises the death rate."
+},
+"nature-eco-586": {
+"title": "The intrinsic rate of increase: growth with no brakes",
+"text": "Insect pest managers watch one number closely. The intrinsic rate of increase is the rate at which a population would grow, per individual, if nothing dependent on its density held it back. It is the r in dN/dt = rN, the maximum theoretical growth rate per individual. Managers use it to see how the environment affects how fast pests multiply. It relates to the finite rate of increase λ of generation-based models by r = ln(λ), where ln is the natural logarithm."
+},
+"nature-eco-590": {
+"title": "Recruitment: how new individuals join a population",
+"text": "Fisheries are a common setting for studying recruitment, because of their economic importance. In population dynamics, recruitment is the process by which new individuals join a population, through birth and growing up or through immigration. An individual often counts as recruited only once it survives to a certain size or life stage. High recruitment raises current and future abundance, and low recruitment reduces it. Predation, birth and dispersal rates shape it, along with temperature, rainfall and disturbance, which makes it hard to measure. Fishing a stock at or below its {{ref:nature-res-013}} keeps it at maximum recruitment."
+},
+"nature-eco-581": {
+"title": "The S-curve: how innovations spread",
+"text": "Railroads, light bulbs, electrification, cars and air travel each went through rapid growth after early gains in cost and quality. Their spread can be drawn with the logistic curve: slow at first, then rapid, then leveling off near saturation. This use of the curve is the diffusion of innovations S-curve. Gabriel Tarde described its three stages in The Laws of Imitation (1890): a hard start, an exponential take-off and a slowing phase."
+},
+"nature-eco-574": {
+"title": "Dispersal barriers: rivers, mountains and roads",
+"text": "The Congo River separates the ranges of the two chimpanzee species. It is a dispersal barrier: anything that stops organisms from moving, so that a species' dispersal range is smaller than its distribution. Mountain ranges and rivers are natural barriers. Habitat broken up by human land use is an artificial one. Barriers that cut gene flow can isolate populations and lead to allopatric speciation, the birth of new species in separate places."
+},
+"nature-eco-575": {
+"title": "Dispersal kernels: how far organisms travel",
+"text": "How far does a seed or a young animal travel? A dispersal kernel answers with a probability distribution describing how far individuals travel when they disperse. Dispersal is measured either as a rate, the expected share of individuals leaving an area, or as a distance. Models use kernels such as the negative exponential, normal and inverse power distributions. 'Fat-tailed' kernels, which allow rare long-distance moves, are thought to fit real data best."
+},
+"nature-eco-576": {
+"title": "Human-mediated dispersal: species on the move with people",
+"text": "People move other species, on purpose and by accident. Human-mediated dispersal is movement of organisms that people cause, either by carrying them directly or by altering landscapes. Farm animals are moved deliberately, while other organisms cling to people or vehicles. Carriage by humans can move organisms much farther than natural means. Ship ballast water and motor vehicles are new dispersal routes that can spread the species covered in {{ref:nature-eco-026}}."
+},
+"nature-es-101": {
+"title": "Seed dispersal: how plants send their seeds away",
+"text": "Plants cannot move much, so they rely on wind, water, or animals such as birds and mammals to carry their seeds. Seed dispersal is the movement of seeds away from the parent plant. It has five main modes: gravity, wind, ballistic (flung out by the plant itself), water and animals. Animals are especially effective, because they carry seeds over long distances. How seeds disperse shapes the genetic structure, migration and species interactions of plant populations."
+},
+"nature-eco-589": {
+"title": "r- and K-strategists in succession: colonizers and competitors",
+"text": "After the eruptions at Krakatoa and Mount St. Helens, two kinds of species played distinct roles in regrowth. Fast-breeding r-strategists colonize disturbed land first. More competitive K-strategists gradually replace them. Succession approaches a new equilibrium, sometimes called a climax community, dominated by K-strategists. The intermediate disturbance hypothesis holds that moderate disturbance creates patches at different stages, letting colonizers and competitors coexist."
+},
+"nature-eco-578": {
+"title": "The Leslie matrix: projecting a population by age",
+"text": "The Leslie matrix is a model that projects a population divided into age classes, one time step at a time. It assumes a population closed to migration and growing without limits, and it usually counts only females. Building it requires three things for each age class: the count, the share surviving to the next class, and fecundity, the number of offspring produced. At each time step, the population vector is multiplied by the matrix to give the next step's population. A key number calculated from the matrix, its dominant eigenvalue, gives the long-run growth rate. Its eigenvector gives the {{ref:nature-eco-579}}."
+},
+"nature-eco-571": {
+"title": "The anthropogenic Allee effect: when rarity pays",
+"text": "Classic economic theory expected hunting to stop short of extinction. Finding the last few individuals would cost more than they sold for. The anthropogenic Allee effect overturns that comfort. It is an Allee effect created by markets, when rarity makes a species so valuable that hunting the last individuals still pays. When rare species fetch higher prices than common ones, the rare can be driven extinct while the common are harvested sustainably. A two-dimensional analysis shows that even very large populations can be on paths to extinction. The idea is now a standard way to think about how markets threaten species at risk."
+},
+"nature-eco-570": {
+"title": "Strong and weak Allee effects: the point of no return",
+"text": "Some populations have a point of no return. Under a weak Allee effect, growth per individual slows at low numbers but stays positive. Under a strong Allee effect, the population has a critical size below which its growth turns negative. A population that falls below that threshold is headed for extinction without help. A simple cubic growth model shows the strong case. Growth is negative between zero and a threshold A, and positive between A and the {{ref:nature-eco-593}}, K."
+},
+"nature-eco-579": {
+"title": "Stable age distribution: the mix a population settles into",
+"text": "Whatever its starting size or mix of ages, an age-structured population tends toward a steady share of individuals in each age class. That is its stable age distribution, reached along with a steady growth rate. Once there, the population grows exponentially at rate λ. After a disturbance, it returns to the same structure. Fast-growing populations, and those with high death rates at all ages, have disproportionately young age structures."
+}
+},
+"reviews": {
+"populations-and-communities": "Population models start simply, with births, deaths, arrivals and departures, and a growth rate r that would run unchecked if nothing held numbers back. Real populations meet limits: a ceiling set by resources in the logistic equation, predators in the Lotka–Volterra cycles, and rivals in the competitive version of those equations. At low numbers new dangers appear, as Allee effects and random events push small populations below their minimum viable size. Dispersal links populations across a landscape, and larger areas hold more species, so the size and connection of habitat shape what survives."
+}
+}

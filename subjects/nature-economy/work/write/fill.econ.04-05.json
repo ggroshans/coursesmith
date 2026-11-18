@@ -1,0 +1,119 @@
+{
+"entries": {
+"nature-econ-829": {
+"title": "The Ramsey–Cass–Koopmans model: how much should an economy save?",
+"text": "How much of its output should a whole economy set aside for the future? Frank Ramsey tackled the question in 1928, framing it as a social planner maximizing what people consume across generations. In the 1960s David Cass and Tjalling Koopmans recast it as a market economy with a representative agent, one household standing in for all. The result, the Ramsey–Cass–Koopmans or neoclassical growth model, is a foundational account of how an economy grows when saving is chosen to maximize welfare. Unlike the {{ref:nature-eecon-204}}, with its fixed saving rate, it derives saving from a household's choices over time. Future utility is discounted exponentially at a rate ρ, which must exceed n, the growth rate of the number of people, for total welfare to be finite. Spending grows when the return on extra capital, net of wear and tear, exceeds ρ. The best path is a unique saddle path that converges on a stable long-run balance; other paths end with all saving or with capital used up. It aims to explain long-run growth, not short-run booms and slumps."
+},
+"nature-econ-820": {
+"title": "Spending and saving across a lifetime",
+"text": "Saving tends to peak in middle age, as people prepare for retirement. Irving Fisher and Roy Harrod first described this 'hump saving'. Theories of intertemporal consumption try to explain how people choose between spending and saving over the course of their lives. John Rae first conceived the idea in the 1830s, and Fisher expanded it in the 1930s. The basic model has two periods, such as youth and old age. In the 1950s Modigliani and Brumberg, Ando and Friedman treated lifetime spending as an optimization problem, producing the life-cycle model. It says spending follows average lifetime earnings: the young borrow, earners save more, and retirees live off what they put aside. Tests have had mixed success. People spend too little early and late in life and too much in their peak earning years. Proposed fixes include a wish to leave bequests, limits on borrowing, utility that changes over time, or particular expectations about future earnings."
+},
+"nature-econ-747": {
+"title": "The discount factor: the multiplier that brings money back to today",
+"text": "Multiply a future payment by the right number, and out comes its present value. That number is the discount factor. It is computed from a zero, or spot, rate taken from a yield curve and the time in years until the cash flow arrives. Banks usually discount cash flows with daily compounding, because accrued interest on their holdings can be re-lent every day. For hand calculation, compounding without any pause is sometimes a close enough stand-in. In dynamic decision models, impatience is represented by a discount factor between 0 and 1."
+},
+"nature-econ-771": {
+"title": "The growing perpetuity: endless payments that rise",
+"text": "Some payment streams are expected not just to last forever but to grow. A growing perpetuity is an endless stream of payments rising at a fixed rate. When the growth rate stays below the interest rate, a simple formula values it. That formula is the well-known Gordon growth model used to value shares. Few real securities grow at a fixed rate forever, but the approach is still used to value real estate, shares and other holdings."
+},
+"nature-econ-830": {
+"title": "How willing people are to shift spending across time",
+"text": "Some people want their spending smooth from year to year; others shift it around readily. The elasticity of intertemporal substitution measures how willing a person is to shift {{ref:nature-econ-509}} between periods. It reflects how much they want to smooth spending over time. Formally it is the inverse of relative risk aversion. High relative risk aversion means a low elasticity and a stronger wish to smooth spending. With logarithmic utility the elasticity is constant at 1."
+},
+"nature-econ-782": {
+"title": "Continuous compounding: interest added every instant",
+"text": "In 1683 Jacob Bernoulli discovered the constant e by studying a compound interest question. Continuous compounding is where that question leads: the limit reached when interest is compounded ever more often, with the compounding period shrinking toward zero. The yearly rate actually earned then approaches an upper limit of e^r − 1, where r is the stated rate. The continuously compounded rate is called the force of interest. It is often used because it is mathematically simpler, for example when valuing financial contracts such as options."
+},
+"nature-econ-783": {
+"title": "The effective annual rate: comparing loans on equal terms",
+"text": "Debt that pays interest twice a year has a yearly compounded rate higher than its quoted rate. The effective annual rate captures this. It is the total interest payable over one year divided by the principal, which puts rates with different compounding on a common footing. Many countries require lenders and banks to disclose this annual compound rate so consumers can compare products fairly. It goes by names such as annual equivalent rate (AER), effective annual percentage rate and annual percentage yield."
+},
+"nature-econ-751": {
+"title": "Doubts about hyperbolic discounting",
+"text": "Hyperbolic discounting is not the only explanation for choices that flip over time. Researchers have proposed several alternatives. Daniel Read's subadditive discounting holds that discounting over a delay grows when the delay is split into smaller intervals. Others point to a judgment of similarity between options. The most obvious objection is that many people learn to choose consistently over time in most situations. A 2014 paper criticized studies for relying mostly on university students and concluding too quickly that the hyperbolic model is correct. Human experiments also often show wide differences between subjects. Which account fits best remains disputed."
+},
+"nature-econ-750": {
+"title": "Quasi-hyperbolic discounting: a simpler model of impatience",
+"text": "In 1997 Laibson proposed a handier stand-in for hyperbolic discounting. Quasi-hyperbolic, or beta-delta, discounting counts time in whole periods and uses two constants, beta and delta, each between 0 and 1. Rewards taken now are not discounted at all. The model keeps much of the mathematical convenience of exponential discounting while capturing the main feature of hyperbolic discounting: a strong pull toward the present."
+},
+"nature-econ-749": {
+"title": "Hyperbolic discounting as a response to uncertain risk",
+"text": "Offer a restaurateur $100,000 in sixty years instead of $50 today. He would reasonably discount the distant sum, since the payer or payee may have died by then. One explanation of hyperbolic discounting builds on this. A future reward carries a risk of not arriving, and that risk is itself uncertain. Suppose the hazard rate, the chance per period of losing the reward, is unknown and given a prior distribution, a spread of starting beliefs. The expected chance that the reward survives then takes exactly the hyperbolic form. Whether discounting future gains is rational, and at what rate, depends greatly on circumstances."
+},
+"nature-econ-837": {
+"title": "Danger money: how wages price risk",
+"text": "Dangerous jobs pay more on average. Workers in riskier jobs earn a risk premium, so the labor market puts a price on risk through wage differences. The premium rises with the risk of injury. The risk need not be physical. A higher risk of losing work is also paid for, one reason fixed-term contracts tend to pay more."
+},
+"nature-econ-793": {
+"title": "Integrated Future Value: discounting that counts nature",
+"text": "Traditional discounted cash flow counts only financial costs and benefits. Integrated Future Value extends it, and {{ref:nature-val-014}}, to count the long-term value and risks of natural capital and {{ref:nature-econ-590}}. It lets companies value projects for their long-term environmental and social returns as well as financial ones. The {{ref:nature-clim-241}} can be included to capture the damage to society from a project's emissions of heat-trapping gases. The method supports Integrated Bottom Line decisions, which combine financial, environmental and social reporting in one balance sheet, going beyond the {{ref:nature-acct-114}}."
+},
+"nature-econ-786": {
+"title": "The cost of equity: what shareholders expect",
+"text": "Shareholders expect to be paid for the risk they carry. The cost of equity is the return they require, inferred by comparing the shares with others of similar risk. It is commonly computed with the capital asset pricing model: the risk-free rate plus beta times the market's risk premium. Beta measures a security's sensitivity to movements in the market. The market risk premium has averaged around 5% in some developed countries during the twentieth century and up to 7% in emerging markets. The matching cost of debt takes the risk-free rate on government debt of the same term and adds a default premium."
+},
+"nature-econ-785": {
+"title": "WACC: blending the cost of debt and equity",
+"text": "The weighted average cost of capital, or WACC, blends the cost of debt and the cost of equity into a single cost of capital. It is the minimum return a firm must earn to satisfy its lenders, owners and other capital providers, or they will put their money elsewhere. It can serve as the discount rate for a project's free cash flows. For profitable firms, debt is cheaper than new equity because of tax advantages. Too much debt, though, raises default risk and borrowing costs. Management seeks the financing mix that minimizes the cost of capital and so maximizes the firm's value."
+},
+"nature-econ-819": {
+"title": "The Fisher model: consuming now or later",
+"text": "Fisher's model shows how a person with earnings now and later, able to lend or borrow at an interest rate, chooses between consuming now and consuming later. Call present earnings Y(t), future earnings Y(t+1) and the interest rate r. The most one can consume now is Y(t) + Y(t+1)/(1+r), borrowing against everything tomorrow will bring. The most one can consume in the future is (1+r)Y(t) + Y(t+1), lending everything today. The model assumes steady earnings and utility maximization."
+},
+"nature-econ-753": {
+"title": "The Ramsey formula: building a social discount rate",
+"text": "Frank Ramsey's formula builds the social discount rate from three inputs. One is pure time preference. The second is the growth rate of the economy. The third is the elasticity of marginal utility: how fast the value of an extra unit of {{ref:nature-econ-509}} falls as people grow richer. The logic is simple. If future generations will be richer, each extra dollar will matter less to them, so a positive discount rate reflects diminishing marginal utility. The {{ref:nature-clim-268}} let its discount rate vary with outcomes, reflecting growth and the elasticity of marginal utility, in line with Ramsey's growth model."
+},
+"nature-econ-827": {
+"title": "Precautionary saving: a cushion against an uncertain future",
+"text": "People cannot insure against every bad turn the economy might take, because markets for insurance are incomplete. So they save. Precautionary saving is putting aside part of one's earnings because future earnings are uncertain. People spend less now to build a reserve they can draw on if earnings fall, keeping their spending smooth. Typical reasons include health risk, business risk, unavoidable expenses, possible loss of earnings, retirement and children's education. Saving is a flow, measured per unit of time, while savings are the pile of funds built up at a point in time. Numerical simulations put precautionary saving at 20 to 60 percent of all saving, though the evidence overall is mixed. In recessions the motive strengthens, raising total saving and cutting total spending. Countries behave similarly. Fast-growing emerging economies have built up savings, sending capital 'upstream' to rich countries."
+},
+"nature-econ-825": {
+"title": "Minimax against nature",
+"text": "Prospecting for minerals is a gamble against nature. The cost is wasted if nothing is found, but the rewards are large if something is. Minimax can guide such a lone decision maker facing unknown facts. It treats the choice as a game against nature and minimizes the worst-case loss. Unlike expected value or expected utility, it makes no assumptions about the probabilities of outcomes, so it is robust to changes in assumptions. Extensions of this non-probabilistic approach include minimax regret and info-gap decision theory."
+},
+"nature-econ-826": {
+"title": "Rawls's maximin: judging a society by its worst-off",
+"text": "In A Theory of Justice, John Rawls proposed a maximin rule for society, the difference principle. Social and economic inequalities should be arranged to benefit the least-advantaged most. It carries the minimax idea into questions of justice. John Harsanyi drew the opposite lesson from the same original position. He argued for utilitarianism, since rational agents weigh expected outcomes rather than worst cases."
+},
+"nature-econ-817": {
+"title": "Where the internal rate of return goes wrong",
+"text": "Academics strongly prefer {{ref:nature-val-014}}, or NPV, yet surveys show executives prefer the internal rate of return. The gap matters, because ranking projects by IRR can disagree with ranking them by NPV. When the aim is to maximize total value, IRR should not be used to choose between mutually exclusive projects. A bigger project can have a lower IRR but a higher NPV. When cash flows change sign more than once, a project may have several IRRs, and it is unclear whether high or low is better. Sources even disagree on whether IRR quietly assumes that cash flows are reinvested at the IRR until the project ends."
+},
+"nature-econ-780": {
+"title": "Life annuities: payments for as long as you live",
+"text": "A pension paying a regular sum for life is a life annuity. It pays for as long as one or more named people stay alive, so the number of payments is uncertain. An annuity certain, by contrast, pays for a fixed period whatever happens to anyone's survival. Valuing a life annuity accounts for mortality as well as interest. Its actuarial present value is the expected value of the discounted payments. Halley's 1693 work showed how a life table built from mortality data could be used to price annuities."
+},
+"nature-econ-823": {
+"title": "Black swans: the events nobody saw coming",
+"text": "Some events matter enormously, could not have been predicted, and yet seem obvious afterward. Nassim Nicholas Taleb calls them black swan events: important and inherently unpredictable events that people explain with hindsight once they happen. Black swan theory holds that preparing for them is hindered by pretending to know all the risks. Taleb goes further, arguing that Knightian risk does not exist in the real world, which instead has gradations of computable risk."
+},
+"nature-econ-778": {
+"title": "Maxmin expected utility: planning for the worst plausible odds",
+"text": "Suppose someone thinks the chance of red in Ellsberg's unknown urn lies anywhere between 0.4 and 0.6. Maxmin expected utility tells them to bet on the known urn. In this model a decision-maker holds several possible probability beliefs and picks the option whose worst-case expected utility is highest. Gilboa and Schmeidler proposed it in 1989 as an axiomatic account of ambiguity aversion. Schmeidler's Choquet expected utility model, which allows non-additive probabilities, includes maxmin as a special case. For a whole society, a max-min social welfare function reflects extreme uncertainty aversion, caring only about the worst-off."
+},
+"nature-econ-828": {
+"title": "Prudence: the urge to save against risk",
+"text": "Risk aversion measures the desire for insurance. Prudence measures something related: the strength of a person's precautionary motive to save in the face of risk. Kimball defined it in 1990, writing absolute prudence as q = -U'''/U'' in terms of how utility curves. Earlier, Leland (1968) linked prudence to decreasing absolute risk aversion with convex marginal utility, U''' > 0. He showed that even small risks to earnings create precautionary saving."
+},
+"nature-econ-846": {
+"title": "Declining discount rates: counting the far future more",
+"text": "Should one discount rate apply for centuries? Declining discount rates start relatively high for the near future and fall over time, to reflect long-term uncertainty and ethical concerns. Recent work on the {{ref:nature-clim-241}} supports declining rather than constant rates. One model in the debate over the {{ref:nature-clim-268}} used a 3% social discount rate that slowly declines to 1% over 300 years. People's own stated time preferences point the same way: over long periods they become extremely hyperbolic."
+},
+"nature-econ-770": {
+"title": "Future value: what money grows into",
+"text": "Invest an amount PV at time 0 at rate i per period, and after n periods it is worth PV(1 + i)^n. That is its future value: what an amount invested today will be worth after a given number of periods of earning interest. The factor (1 + i)^n is called the accumulation factor, and (1 + i)^−n is the matching discount factor. Present value usually sits below future value because money can earn interest."
+},
+"nature-econ-847": {
+"title": "Quasi-option value: the worth of keeping choices open",
+"text": "Quasi-option value is the extra value of keeping future choices open when a decision's consequences may be irreversible and uncertain. Arrow and Fischer (1974) and Epstein (1980) showed that possible irreversible consequences lead even a risk-neutral society to favor flexible decisions. The idea grew out of {{ref:nature-val-055}}. That value depends on uncertain future need for something, irreversibility or a high cost of replacing it if it is lost, and its not being storable. Climate policy weighs both sides: possible irreversible damage to each {{ref:nature-eco-327}} and ecosystem against the irreversibility of spending on emission cuts. Economists have analyzed the {{ref:nature-pol-201}} as the interaction of irreversibility and uncertainty."
+},
+"nature-econ-796": {
+"title": "Epstein–Zin preferences: separating risk from timing",
+"text": "Standard expected utility ties two attitudes together: how a person feels about risk, and how willing they are to shift spending across time. Epstein–Zin preferences pull them apart. They are a form of recursive utility, which combines a time aggregator for preferences without uncertainty with a risk aggregator that sets the certainty equivalent of future utility. A parameter β sets the rate of time preference, ρ sets the elasticity of intertemporal substitution, and α encodes risk aversion. Unlike in isoelastic utility, that elasticity can be set independently of risk aversion. Setting α equal to ρ gives back ordinary time-additive expected utility."
+}
+},
+"reviews": {
+"time-risk-and-discounting": "This chapter has followed one thread: a sum of money is worth different amounts depending on when it arrives and how sure it is. Interest pays lenders for waiting, compounding makes it grow on itself, and discounting runs the arithmetic backwards to give present value, the basis of discounted cash flow and the social discount rate. Expected value and expected utility put numbers on risk, insurance and risk pooling spread it, and Knightian and radical uncertainty mark where probabilities run out. Real people depart from the tidy models, discounting hyperbolically and shunning ambiguity. Those gaps matter most for climate policy, where the choice of discount rate, as the Stern–Nordhaus exchange showed, can decide how much the present should do for the future."
+}
+}

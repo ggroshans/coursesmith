@@ -1,0 +1,119 @@
+{
+ "entries": {
+  "nature-eco-206": {
+   "title": "The continental shelf pump: shallow seas feeding the deep",
+   "text": "Shallow water over a continental shelf can cool more than open-ocean water, because its shallowness limits convection, the stirring of water as it rises and sinks. The continental shelf pump is a proposed mechanism that carries carbon from these shallow shelf waters into the neighbouring deep ocean. It is thought to occur where the solubility pump meets cool, dense water on the shelf floor, which then flows down the continental slope."
+  },
+  "nature-eco-517": {
+   "title": "Marine snow: the slow shower that feeds the deep sea",
+   "text": "A constant shower falls through the ocean: dead and dying organisms, faecal matter and mineral particles, sinking from the upper ocean to the deep. This is marine snow. It sinks at approximately 100 meters per day, and only about 1 to 3% of surface production reaches the seabed. Even so, the deep ocean gets most of its nutrients from it, and many deep-sea organisms survive by feeding on it. As clumps of this material form and sink, they drive the biological pump, exporting organic matter to the deep ocean and its sediments."
+  },
+  "nature-eco-211": {
+   "title": "Remineralisation: breaking life back down to basics",
+   "text": "Every dead leaf and sinking scrap of plankton eventually comes apart into simple chemicals. Remineralisation is this breakdown of organic matter into its simplest inorganic forms. It frees the energy stored in organic molecules and recycles their matter as nutrients for other organisms. How much sinking matter escapes remineralisation varies from place to place."
+  },
+  "nature-eco-210": {
+   "title": "Vertical migration: animals that ferry carbon downward",
+   "text": "Krill, salps and fish feed near the surface at night and go deep by day, and on each trip down they actively carry carbon to depth. Without this vertical migration, the biological pump would be far less efficient. A seasonal version is the lipid pump. Zooplankton that migrate down to spend the winter at depth carry carbon there in their fat reserves."
+  },
+  "nature-eco-209": {
+   "title": "The viral shunt: how sea viruses recycle microbes",
+   "text": "Viruses contribute on average 8.6% to Earth's ecosystem carbon cycle: 1.4% in the sea, 6.7% on land and 17.8% in fresh water. In the sea, one of their routes is the viral shunt. Marine viruses turn microbial particles into dissolved organic matter that microbes can readily take up again. As much as 25% of phytoplankton primary production may be recycled within the microbial loop this way."
+  },
+  "nature-eco-188": {
+   "title": "Dust storms: nutrients carried across oceans",
+   "text": "Phosphorus blown from northern Africa is thought to help support the rich biodiversity of the Amazon rainforest. Dust storms carry phosphorus and other nutrients in weathered rock particles over long distances. Large dust events can supply phosphorus to areas where its lack would otherwise limit growth. Dust also carries potassium, calcium and magnesium, so storms matter for the cycling of nutrients."
+  },
+  "nature-eco-186": {
+   "title": "Mining phosphorus faster than rocks can replace it",
+   "text": "Global phosphorus mining rose 72-fold from 1900 to 2022, and it is expected to keep rising by 4% a year. Humans have greatly changed the phosphorus cycle, mainly by mining phosphate rock for fertilizer. Since the 1840s, about 110 teragrams of phosphorus, units of a million tonnes each, have been added to the environment. At this pace, slow geological processes cannot replace what is lost. Humans have raised the net storage of phosphorus in soil and ocean systems by an estimated 75%, increasing eutrophication in the ocean."
+  },
+  "nature-eco-187": {
+   "title": "The nitrogen-to-phosphorus ratio drifts out of balance",
+   "text": "Over the last 40 years, the nitrogen-to-phosphorus ratio has risen from 19:1 to 30:1. This N:P ratio compares the amounts of these two plant nutrients, both widely used in farm fertilizers. Human activity has pushed it out of its normal balance, leaving phosphorus less available to ecosystems. There are two causes: extra nitrogen pollution, and phosphorus being trapped during water treatment. The shift matters, because as the ratio rises, organisms find it harder to grow."
+  },
+  "nature-eco-189": {
+   "title": "Wetlands as natural nutrient filters",
+   "text": "Wetlands are often used to strip excess nitrogen and phosphorus from water and so ease eutrophication. They handle the two nutrients differently. Nitrate is turned into nitrogen gas and released to the air. Phosphorus is held by wetland soils and taken up by plants. That second route has a limit. Wetland soils can hold only so much phosphorus, so continued removal needs new soil, built up from plant and microbial debris."
+  },
+  "nature-eco-202": {
+   "title": "Methane sinks: what clears methane from the air",
+   "text": "An average methane molecule lasts about 9.6 years in the air before it is removed. Methane sinks are the processes that destroy or remove methane from the air. The most effective is chemical breakdown as methane rises through the atmosphere, which removes 90% of it. Soil bacteria called methanotrophs are another major sink, using methane for energy and producing carbon dioxide and water. Forest soils are good sinks, but wetland soils with high water tables are often sources instead. One subtlety: a single emission affects the atmosphere for about twelve years."
+  },
+  "nature-eco-203": {
+   "title": "Removing methane already in the air",
+   "text": "Atmospheric methane removal is a set of approaches, still under research, to speed up the breakdown of methane already in the air. The appeal is leverage. Because methane is a stronger heat-trapping gas, removing a smaller amount of it than of carbon dioxide would have a similar climate effect. The catch is scarcity. Methane's background level is about 1.92 ppm, against about 420 ppm for carbon dioxide, which makes it harder to capture."
+  },
+  "nature-eco-183": {
+   "title": "Reactive nitrogen: every form but the inert gas",
+   "text": "In the past century, the world's generation of reactive nitrogen has risen more than 10-fold with industrialisation. Reactive nitrogen, or fixed nitrogen, is every form of nitrogen in the environment other than nitrogen gas, N2. Common forms include nitrogen oxides, ammonia, nitrous oxide and nitrate. Just over half of the reactive nitrogen entering the biosphere now comes from human activity such as fertilizer production. It accumulates, because it is made faster than denitrification removes it. An excess can cause problems such as eutrophication."
+  },
+  "nature-eco-231": {
+   "title": "The Haber process: feeding billions, at a price",
+   "text": "Nearly 50% of the nitrogen in human tissues came from the Haber process. Synthetic fertilizer from the process greatly raised farm productivity and population, at the cost of energy use and nitrogen pollution. Vaclav Smil estimated that at 1900 yields, the 2000 harvest would have needed nearly four times more land. Called the detonator of the population explosion, the process helped world population grow from 1.6 billion in 1900 to 7.7 billion by 2018. Without it, modern agriculture could not support 8 billion people. The costs are large too. Crops use less than 50% of applied nitrogen, so the process is one of the largest sources of reactive nitrogen build-up, and the runoff harms habitats. Making and using nitrogen fertilizer causes around 5% of all global heat-trapping emissions. Cheap synthetic fertilizer also weakens farmers' incentive to rotate in nitrogen-fixing legumes. Haber-process fertilizer is a typical high-carbon import that a {{ref:nature-pol-265}} might cover."
+  },
+  "nature-eco-232": {
+   "title": "How people doubled the nitrogen cycle",
+   "text": "Human activity now adds more reactive nitrogen to the environment than natural nitrogen fixation does, mainly through synthetic fertilizer and fossil fuel burning. Over the past century these inputs have greatly altered the global nitrogen cycle. They have more than doubled the yearly conversion of nitrogen into biologically available forms and increased the nitrogen falling back onto land and water. One by-product is nitrous oxide. Its level in the air rose from about 270 nmol/mol before industry to about 319 nmol/mol in 2005. It is both a heat-trapping gas and a destroyer of ozone. Nitrous oxide is the third largest contributor to global warming and, mass for mass, nearly 300 times more potent than carbon dioxide. Human activities cause 35% of its global emissions, about 20% from farming sources such as fertilizer and manure. High-temperature combustion has also raised the flow of nitrogen oxides to the air 6- or 7-fold, contributing to smog and acidic rain."
+  },
+  "nature-eco-184": {
+   "title": "Nitrate in drinking water: fertilizer that slips underground",
+   "text": "Nitrate dissolves easily and soil holds it poorly, so it readily escapes down to groundwater. Nitrate pollution is the build-up of nitrate from human activities in groundwater and surface water, where it can harm human health. Heavy use of nitrogen fertilizer in farming is a significant source. Other diffuse sources include livestock feeding, contamination from human and animal waste, and municipal and industrial waste."
+  },
+  "nature-eco-221": {
+   "title": "How overfed waters make people sick",
+   "text": "Eutrophication harms human health in two main ways. The first is excess nitrate in drinking water. It can cause blue baby syndrome in infants, and it can form disinfection by-products during water treatment. The second is toxic algae. Swimming in or drinking water with toxic algae can cause rashes, stomach or liver illness, and breathing or nerve problems."
+  },
+  "nature-clim-206": {
+   "title": "Iron fertilization: seeding the sea to bury carbon",
+   "text": "In about 25 percent of the ocean surface, growth is held back mainly by a lack of iron. Iron fertilization is an idea from {{ref:nature-clim-199}}. It would speed up the ocean's biological pump so it exports more carbon from the surface to the deep ocean, removing excess carbon dioxide from the air. In practice it is hard to tell whether it works, because the ocean is vast and consumers respond quickly to extra growth. Most scientists do not consider it viable. Its effectiveness and safety remain debated, though no harm has yet been observed in trials."
+  },
+  "nature-eco-253": {
+   "title": "Four kinds of ocean carbon: DIC, PIC, DOC and POC",
+   "text": "Ocean scientists sort carbon two ways: organic or inorganic, and dissolved or particulate, meaning in tiny solid bits. That gives four pools: DIC, PIC, DOC and POC. Dissolved inorganic carbon is bicarbonate, carbonate and carbon dioxide, including carbonic acid. Dissolved organic carbon is defined as any organic molecule that passes through a 0.2 μm filter, and what the filter catches is particulate organic carbon. Photosynthesis turns dissolved inorganic carbon into particulate organic carbon. Making calcium carbonate turns it into particulate inorganic carbon."
+  },
+  "nature-eco-272": {
+   "title": "Seawater carbonate chemistry: carbon dioxide meets the sea",
+   "text": "Unlike most gases, carbon dioxide does not just dissolve in seawater; it reacts with it. The result is a balance of free carbon dioxide, carbonic acid, bicarbonate and carbonate, together called dissolved inorganic carbon. The balance depends on pH and on alkalinity, seawater's excess of positive ions. The greater the alkalinity, the more carbon dioxide seawater can dissolve. The parts are tightly linked. Measuring any two of total inorganic carbon, total alkalinity, pH and pCO2, the pressure of carbon dioxide, lets scientists work out the rest."
+  },
+  "nature-eco-249": {
+   "title": "Carbonate saturation: when shells start to dissolve",
+   "text": "Some seawater helps shells form; some dissolves them. The saturation state, written Ω, measures how readily a mineral such as calcium carbonate will form or dissolve in seawater. It is the product of the calcium and carbonate ion concentrations, divided by the solubility product, their product at equilibrium. Rising dissolved carbon dioxide lowers the carbonate available and so the saturation state, making shells harder to build. Calcium carbonate is supersaturated in most surface waters and undersaturated at depth. So shells tend to dissolve as they sink, and the boundary is called the saturation horizon."
+  },
+  "nature-eco-254": {
+   "title": "The Revelle factor: a gauge of the ocean's appetite",
+   "text": "The ocean's appetite for carbon dioxide is shrinking, and one number tracks it. The Revelle factor is the ratio of the change in carbon dioxide to the change in dissolved inorganic carbon in seawater. It shows how readily seawater absorbs more carbon dioxide: the lower the factor, the more the water can take in. The factor rises as carbon dioxide rises, so the ocean will take up a smaller share of human emissions in future."
+  },
+  "nature-eco-274": {
+   "title": "Unlocking sulfur: how fuels flood the air with it",
+   "text": "Mining coal and extracting petroleum mobilizes 150 × 10^12 grams of sulfur a year, more than double the rate of 100 years ago. Burning coal, oil and gas releases sulfur that would otherwise stay locked in rock, greatly increasing sulfur in the air and ocean. Sulfur dioxide forms sulfuric acid in the air, causing acidic rain. Over the most polluted areas, sulfate deposition has risen 30-fold. As pollution controls cut sulfur inputs, sulfur deficiency in crops has become widespread in parts of Europe, raising use of sulfur fertilizers."
+  },
+  "nature-eco-258": {
+   "title": "Subsea permafrost: frozen ground under the sea",
+   "text": "Beneath the seabed of polar continental shelves lies frozen ground that was dry land in the last ice age and is now flooded. This subsea permafrost covers about 2 million km2. It holds around 560 GtC, gigatons of carbon, in organic matter and 45 GtC in methane. It responds over millennia, so human-driven warming will affect it mostly hundreds or thousands of years from now. Still, under the high-emissions RCP 8.5 scenario, 43 GtC could be released by 2100 and 190 GtC by 2300."
+  },
+  "nature-eco-242": {
+   "title": "Net community production: another route to the same number",
+   "text": "Net community production is net primary production minus the respiration of animals and other heterotrophs, the organisms that eat rather than make their food. It equals net ecosystem production; only the calculation differs. Values vary widely across the ocean. In the tropical South Pacific, annual net community production can be close to zero. Elsewhere in the Pacific it ranges from 2.0 to 2.4 mol C m−2 yr−1, or moles of carbon per square metre per year."
+  },
+  "nature-eco-234": {
+   "title": "The nitrogen cascade: one atom, many harms",
+   "text": "The nitrogen cascade is the passing of the same reactive nitrogen from one ecosystem to the next. It moves through air, water and land until it is turned back into nitrogen gas. Pathways that carry nutrients across system boundaries link one nitrogen problem to the next. Some systems store reactive nitrogen along the way, delaying the cascade and intensifying local effects. In the end, nitrogen that people add is either stored or denitrified, but how much goes each way is still poorly known. Some scientists think the cascade may be as big a problem for Earth's ecology as carbon dioxide."
+  },
+  "nature-eco-233": {
+   "title": "Nitrogen deposition: fertilizer falling from the sky",
+   "text": "From 1600 to 1990, deposition of reactive nitrogen onto land and sea rose over 200%. Nitrogen deposition is this fall of reactive nitrogen from the air, in rain, as gases or as fine particles. Extra deposition can acidify soils, streams and lakes, and change how productive forests and grasslands are. In grasslands, productivity first rises, then falls once critical thresholds are passed. Nitrogen enrichment also favours fast-growing species and cuts the number of species, as when grasses replace species-rich heathland."
+  },
+  "nature-eco-239": {
+   "title": "Mycorrhizal fungi: hidden partners in soil carbon",
+   "text": "Plants are estimated to send 5 to 20% of the carbon they take up to fungi on their roots. These mycorrhizal fungi partner with the roots of almost all plants and may help decide how much carbon soils store. On forested islands in Sweden, mycorrhizal fungi held 50 to 70 percent of the carbon stored in leaf litter and soil. Ectomycorrhizal fungi can compete with free-living decomposers for nutrients, slowing decomposition and raising soil carbon storage. For arbuscular mycorrhizal fungi the evidence is split: studies disagree on whether they and their protein glomalin add soil carbon or cause net losses."
+  },
+  "nature-eco-240": {
+   "title": "The priming effect: when fungi spur carbon losses",
+   "text": "Feeding soil microbes an easy meal can make them eat more of the soil's stored carbon. Priming is when fungi or roots release easy-to-use energy compounds that spur free-living decomposers to break down more soil carbon. Lab experiments found that arbuscular mycorrhizal fungi increase soil carbon losses, and more so when carbon dioxide is raised. Evidence for priming by ectomycorrhizal fungi is so far inconclusive."
+  }
+ },
+ "reviews": {
+  "cycles-of-carbon-water-and-nutrients": "Photosynthesis captures sunlight and carbon, respiration releases them, and the matter of life moves in loops while energy passes through only once. The carbon, water, nitrogen, phosphorus and sulfur cycles all run through living things, air, soil, rock and sea, some within years and some over millions of years. People now push hard on every one of them: fossil fuels move carbon from rock to air, fertilizer factories and legumes have more than doubled the nitrogen made usable each year, and phosphorus is mined faster than geology can replace it. The surplus shows up downstream, where runoff feeds algal blooms, hypoxia and dead zones, and the ocean absorbs carbon and grows more acidic. Forests, soils and seas still soak up much of the extra carbon, but how well they do so depends on how people manage land and water."
+ }
+}

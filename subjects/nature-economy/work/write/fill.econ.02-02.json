@@ -1,0 +1,107 @@
+{
+ "entries": {
+  "nature-econ-155": {
+   "title": "Criticisms of neoclassical economics: the case against the mainstream",
+   "text": "Thorstein Veblen mocked the neoclassical picture of a person as \"a lightning calculator of pleasures and pains.\" He was far from alone. Marxist, behavioral, Austrian, post-Keynesian, institutionalist and other schools each break with neoclassical economics, and insiders such as Joseph Stiglitz criticize it too. The main target is its assumption of rational, self-interested, fully informed people. Behavioral economists study how real decisions differ from that picture. Hayek argued that by assuming full information, its equilibrium models assume away the real problem: discovering knowledge spread among many people. Critics also say it carries a normative bias while claiming to be value-free, and they call for more pluralistic teaching. Because it holds that market exchange usually allocates goods best, critics charge that it promotes commodification, turning things into goods for sale, and privatization. Defenders reply that it is also the main tool for judging how policies affect inequality. Schools still disagree over whether its assumptions and mathematical methods are sound, and whether modern mainstream models have moved beyond it."
+  },
+  "nature-econ-121": {
+   "title": "Four types of goods: who can be excluded, who competes",
+   "text": "Can people be kept from using something, and does one person's use leave less for others? Economists sort goods into four types by those two questions. Food and clothing answer yes to both: they are {{ref:nature-econ-657}}. Cinemas and cable television can exclude people, but one viewer does not use them up, which makes them {{ref:nature-econ-627}}. Air and national defense pass neither test. They are {{ref:nature-econ-633}}, and mainstream economists accept that markets under-provide them. The fourth type matters most for nature. {{ref:nature-econ-610}}, such as fish and timber, are rival but hard to exclude people from. Without clear ownership rules ({{ref:nature-econ-621}}), they may be overfished. Forests, water systems, fisheries and the global atmosphere all fall in this group, and all are vital to human survival. The scheme took its modern form in 1977. Elinor and Vincent Ostrom treated both tests as matters of degree and added that shared kind as a fourth type."
+  },
+  "nature-econ-122": {
+   "title": "Goods and services: things and activities",
+   "text": "A restaurant sells both: the food on the plate and the service at the table. Goods are usually tangible items such as pens or pears, while services are activities other people provide, such as teaching or haircuts. Most products fall somewhere between pure goods and pure services. Producing, distributing and consuming them underpins all economic activity and trade. Adam Smith drew a sharper line. He counted only work that produced material goods as productive and treated services as unproductive."
+  },
+  "nature-econ-092": {
+   "title": "Diminishing marginal utility: why the twentieth candy disappoints",
+   "text": "Three pieces of candy beat two, but the twentieth adds little beyond the nineteenth and may even make things worse. That is the law of diminishing marginal utility: each extra unit of something consumed adds less satisfaction than the one before. It shows up in the concave shape of most utility functions, curves that rise ever more slowly. The law helps explain the value of goods and why people prefer having things sooner. Bernoulli and Cramer concluded that money itself becomes less desirable as more of it accumulates. The dislike of gambles ({{ref:nature-econ-765}}) is mainly attributed to this decreasing marginal utility."
+  },
+  "nature-econ-411": {
+   "title": "Substitute goods: when one can replace another",
+   "text": "Coca-Cola and Pepsi are close substitutes, because both meet the same wish for a cola drink. Substitute goods are goods that can replace each other, so cheaper prices for one reduce demand for the other. When the price of a good rises, demand for its substitutes rises, a positive link measured by {{ref:nature-econ-368}}. A perfect substitute can be used in exactly the same way as the good it replaces, and its indifference curves are straight lines. Buyers then choose purely on price and will not buy the dearer one at all. Someone who sees Coca-Cola and Pepsi Max as perfect substitutes would be happy spending the whole budget on either. Imperfect substitutes are not traded one-for-one, because many buyers prefer one brand over the other. And as a consumer accumulates more of one good, they will pay less for each extra unit of its substitute."
+  },
+  "nature-econ-138": {
+   "title": "Normal goods: buying more as income rises",
+   "text": "A normal good is one that people buy more of when their income rises, unlike the opposite case covered in {{ref:nature-econ-126}}. Whether a good counts as normal comes from observation, not from the good itself. The same car can be normal for middle-income buyers and inferior for rich ones. Economists measure the response with {{ref:nature-econ-385}}: the percentage change in quantity bought divided by the percentage change in income. For a normal good it lies between zero and one, while luxuries score above one. When income rises, more of a normal good is wanted at every price."
+  },
+  "nature-econ-118": {
+   "title": "Free goods: when there is enough for everyone",
+   "text": "A free sample is not a free good. A free good is one that is not scarce, so it is available in any quantity with no opportunity cost to society. Something given away at zero price still used scarce resources in its making. Older textbooks offered seawater and air as examples, plentiful enough for everyone to have as much as they want. Ideas and works that can be copied at almost no cost are free goods too, but patents and copyright make some of them scarce to reward their creators. The label can mislead. Treating water as a free good has been blamed for underpricing 98% of water."
+  },
+  "nature-econ-115": {
+   "title": "The economic problem: what, how and for whom",
+   "text": "Every economy must answer three questions: what to produce, how to produce it, and for whom. Together they form the economic problem. Because resources are scarce, producing more of one good means taking resources away from others. Production is efficient only if no reallocation could make more of one good without making less of another. Economies answer the questions by custom, by central command or, in economies that mix the two, by both market signals and government directives. Paul Samuelson argued that prices in competitive markets answer all three questions at once. Keynes saw something deeper underneath. He called the struggle for subsistence the most pressing problem not only of humanity but of all life."
+  },
+  "nature-econ-101": {
+   "title": "Cardinal utility: measuring how much better",
+   "text": "Ordinal utility can say that two ice creams beat one, but not by how much. Cardinal utility goes further. It treats satisfaction as something that can be measured with numbers, so the size of the differences between options means something. A utility function counts as cardinal or ordinal depending on whether it says anything beyond the ranking, such as how strong a preference is. Daniel Bernoulli used a cardinal utility of money, based on logarithms, to resolve {{ref:nature-econ-798}}. The approach seems to assume that absolute levels of satisfaction exist, so gains can be compared across situations."
+  },
+  "nature-econ-133": {
+   "title": "Marshallian demand: what a consumer buys at given prices",
+   "text": "A Marshallian demand function gives how much of a good a consumer buys, depending on its price, their income and the prices of other goods. It solves the utility maximization problem. It is also called uncompensated demand, because a price rise is not offset by extra income, unlike the version in {{ref:nature-econ-123}}. If all prices and income rise by the same factor, the quantities bought stay the same. When people favor mixes ({{ref:nature-econ-142}}) and prices are positive, there is a single best bundle."
+  },
+  "nature-econ-142": {
+   "title": "Convex preferences: why mixes beat extremes",
+   "text": "Convex preferences are preferences in which averages are liked better than extremes, so a person prefers a mix of goods to a lot of just one. The idea roughly matches diminishing marginal utility without needing a utility function. With strictly convex preferences, the average of two equally liked bundles beats either one, so indifference curves bow in toward the origin. Perfect substitutes mark the boundary case. Their indifference curves are straight lines, and the average gives the same utility."
+  },
+  "nature-econ-120": {
+   "title": "Bads: things people pay to be rid of",
+   "text": "Usually money and goods move in opposite directions. With garbage they travel together: a household pays a collector to take it away. Garbage is a bad, the opposite of a good: something with negative value, such as waste, that its owner will pay to be rid of. A bad lowers a consumer's overall welfare, and in effect the garbage has a price below zero."
+  },
+  "nature-econ-096": {
+   "title": "Explicit costs: money out the door",
+   "text": "Wages, rent, overheads and materials share one feature: each involves handing over money. An explicit cost is a direct, out-of-pocket cost of an action, paid in cash or by handing over resources. Explicit costs always have a money value and involve a transfer of money, such as paying employees. They show up in a firm's financial statements. Hidden costs, the subject of {{ref:nature-econ-124}}, are never recorded in the accounts."
+  },
+  "nature-econ-107": {
+   "title": "Compensating variation: the payment that undoes a price change",
+   "text": "When a price rises, how much money would make a person whole again? Compensating variation is the amount that would leave someone exactly as well off after a price change as before, measured at the new prices. John Hicks introduced the measure in 1939. It can be read as what a planner must pay a consumer, after the change, to compensate them. The same logic underlies {{ref:nature-econ-172}}, where a policy passes if winners could compensate losers, even if they never do. Its mirror image is {{ref:nature-econ-116}}."
+  },
+  "nature-econ-103": {
+   "title": "Budgets across time: borrowing and saving",
+   "text": "A budget does not stop at the end of the month. An intertemporal budget constraint links what a person can consume in different periods through borrowing and saving at a rate of interest. Borrowing now raises present consumption at the cost of less consumption later, and saving does the reverse. Behavioral economists add a twist ({{ref:nature-econ-065}}): people give extra weight to consumption now over consumption later."
+  },
+  "nature-econ-104": {
+   "title": "Soft budget constraints: when rescue is always coming",
+   "text": "A firm that expects to be rescued behaves differently from one that does not. A soft budget constraint exists when an organization expects an outside body, usually a government, to cover its losses if it gets into financial trouble. Hungarian economist János Kornai introduced the term in the late 1970s to study state-owned firms in centrally planned economies. Expecting bailouts, those firms invested too much, saved too little on costs and lobbied for more resources, contributing to chronic shortages. The expectation of rescue also breeds the problem explored in {{ref:nature-econ-004}}, as with too-big-to-fail banks."
+  },
+  "nature-econ-117": {
+   "title": "The expenditure minimization problem: satisfaction at least cost",
+   "text": "Turn the consumer's usual question around, from how much satisfaction a budget can buy to how little a goal costs. The expenditure minimization problem asks how little money a consumer needs to reach a given level of satisfaction at current prices. It is the mirror image, or dual, of the utility maximization problem. Its answer comes in two parts. The expenditure function gives the minimum money needed, and the demand function in {{ref:nature-econ-123}} gives the cheapest bundle that reaches the target."
+  },
+  "nature-econ-123": {
+   "title": "Hicksian demand: holding satisfaction fixed",
+   "text": "A Hicksian, or compensated, demand function gives how much of a good a person buys when their satisfaction is held fixed and they spend as little as possible. It shows how demand responds to a price change if income is adjusted to keep the person on the same indifference curve. That isolates the substitution effect. It comes from the expenditure minimization problem, while Marshallian demand comes from the utility maximization problem. Marshallian demand is easier to observe directly, and the two are linked by {{ref:nature-econ-145}}."
+  },
+  "nature-econ-116": {
+   "title": "Equivalent variation: a price change in money terms",
+   "text": "Equivalent variation is the change in a person's wealth that would affect their welfare as much as a given price change would. John Hicks introduced it in 1939, together with compensating variation. The difference is the yardstick: equivalent variation values the welfare change at the old prices, compensating variation at the new ones. It is the most common modern measure of a taxpayer's loss from a distorting tax. The gap between that welfare loss and the revenue collected is the tax's pure waste, explained in {{ref:nature-econ-345}}."
+  },
+  "nature-econ-112": {
+   "title": "What is economics? From wealth to scarce means",
+   "text": "Economics began life as political economy, stretching the Greek idea of household management to the running of a state. Its definition has kept moving ever since. In 1803 Jean-Baptiste Say called it the science of producing, distributing and consuming wealth. In 1890 Alfred Marshall called it the study of mankind in the ordinary business of life, tied to the material requisites of well-being. In 1932 Lionel Robbins defined it as the study of human behavior as a relationship between ends and scarce means with alternative uses. His version is perhaps the most commonly accepted today."
+  },
+  "nature-econ-086": {
+   "title": "Factors of production: land, labor and capital",
+   "text": "Every good and service is made from inputs. Economists call them factors of production, and the classic trio is land, labor and capital. How much of each is used determines output, through a relationship explored in {{ref:nature-econ-312}}. One common list adds a fourth basic factor, the entrepreneur. Land, labor and capital are primary factors: they help production without becoming part of the product or being much changed by it. Materials and energy are secondary, because they come from the primary ones. The list has a history. The 18th-century French physiocrats held that a nation's wealth came only from land and agriculture. Adam Smith and David Ricardo saw the parts of a price as payments for land (rent), labor (wages) and capital. The list still draws fire. Some economists, such as {{ref:nature-hist-071}} and Benjamin Warr, fault orthodox economics for overlooking resources from nature and the decline of resource capital."
+  },
+  "nature-econ-083": {
+   "title": "Capital: goods made to make other goods",
+   "text": "A chocolate bar is a consumer good; the machine that makes it is capital. Capital means durable goods that people have produced and then use to make further goods and services, like the machinery in a factory. Unlike raw materials or energy, it is not used up in one round of production. It gives productive services over many cycles. Economists treat capital as a factor of production alongside labor and land, a classification dating from the classical economists. Unlike land and resources that cannot be renewed, capital can be produced or increased. Producing goods that are not consumed straight away, but used to make other goods, is called investment or capital accumulation. A nation's capital stock includes buildings, equipment, software and inventories, and modern usage also counts non-physical assets."
+  },
+  "nature-econ-082": {
+   "title": "Land: every gift of nature, not just the ground",
+   "text": "To an economist, a geostationary orbit counts as land. So do particular locations, mineral deposits, forests, stocks of fish, air quality and parts of the electromagnetic spectrum. In economics, land means every naturally occurring resource, not just the ground itself. It is one of the three classic factors of production, alongside capital and labor. Resources from nature underlie the production of every good, including capital goods. Income earned from owning or controlling them is called rent. Land's role was argued over at length by the classical economists but became minor in 20th-century neoclassical economics. Its weight has not shrunk. In the UK, land makes up 51% of the country's total net worth. Because nobody created land, it has no original owner. Rival claims to locations and mineral deposits have fed many civil wars and revolutions."
+  },
+  "nature-econ-153": {
+   "title": "Economic systems: who owns, who decides",
+   "text": "Scarcity forces every society to answer the same questions: what to produce, how to produce it and who gets what is produced. An economic system is the way a society organizes the production, allocation and distribution of goods and services to answer them. Systems are usually classed along two lines: who owns the means of production, and whether resources are allocated through markets or planning. Private ownership with markets is market capitalism. Public or cooperative ownership with planning is a socialist planned economy. Public ownership with markets is market socialism. Sorted by how they allocate resources, systems include market, mixed, planned, traditional, subsistence and gift economies. Capitalism combines private ownership of the means of production with markets to coordinate the economy. History has tested the alternatives. By the 1990s most communist states had ended or reformed their centrally planned economies, moving toward markets."
+  },
+  "nature-econ-113": {
+   "title": "Diminishing returns: when more hands add less",
+   "text": "Put more workers on a factory floor with fixed machines and space, and output first more than doubles. Then it rises in proportion. Eventually each new worker adds less and less as people get in each other's way. This is diminishing returns: the fall in extra output gained as more of one input is added while all other inputs stay fixed. It is also called diminishing marginal productivity. Output stays positive, but output per unit of input falls, and so does efficiency. The idea has deep roots in farming. In 1815 Ricardo, Malthus, West and Torrens applied it to land rent, drawing on English agriculture after the Napoleonic Wars. Diminishing returns mean rising costs, both for the next unit and on average. They also explain the bowed-out shape of the limit on what an economy can produce ({{ref:nature-econ-143}}). Technological or managerial innovation can reduce or remove them. Modern versions also hold other outputs equal, since one process can make co-products, such as a factory producing more goods and more CO2."
+  }
+ },
+ "openers": {},
+ "reviews": {},
+ "glossary": {}
+}

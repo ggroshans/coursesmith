@@ -1,0 +1,88 @@
+{
+"entries": {
+"nature-econ-629": {
+"title": "The Coase theorem: bargaining your way out of harm",
+"text": "Two radio stations broadcast on frequencies that interfere. Coase saw that the station gaining more from broadcasting would pay the other not to interfere, whatever the law said. From that insight came the Coase theorem. When one party's activity harms or helps another, the two can bargain their way to an efficient outcome. Who starts with the property rights does not matter, provided bargaining costs are low enough. A farmer and a rancher make the point. If fencing the farm is cheaper than fencing the cattle, bargaining should produce a fence around the farm, whether the farmer or the rancher holds the rights. If the theorem held, private individuals could solve externality problems by themselves. Coase himself doubted they often could. In his 1960 paper he argued that real transaction costs are rarely low enough for efficient bargaining. Imperfect information and poorly defined property rights can also block the deal. In Danish talks between waterworks and farmers, farmers used their information advantage to seek over-compensation and drag out talks. Fairness intrudes too. Richard Thaler found that people bargaining over their own property may reject efficient but unfair deals. Critics argue the theorem rarely applies in practice, and Duncan Kennedy argues that the starting allocation of rights always matters."
+},
+"nature-econ-647": {
+"title": "Environmental goods: valuable, unpriced and hard to protect",
+"text": "Nobody pays at a gate to breathe clean air or walk a beach, and that is part of the problem. An environmental good is a usually unpriced good from nature or from green spaces and systems built by people, explored in {{ref:nature-nbs-161}}. Examples include clean air and water, landscapes, parks, rivers, forests and beaches. Environmental goods are a sub-category of public goods. They are hard to protect because users pay nothing up front and pollution can damage them indefinitely. There is no agreed method for putting an economic value on them. Obstacles include free riding, unclear ownership and the fact that they cannot be divided up. Economists try anyway, by asking about people's willingness to pay, sometimes with simulated markets and the survey method explored in {{ref:nature-val-085}}. Critics point to biases, including the way a question's wording shapes its answer. Alternative measures of progress, such as {{ref:nature-acct-002}}, count environmental damage and resource depletion."
+},
+"nature-econ-660": {
+"title": "Public bads: harms no one can escape",
+"text": "Air pollution reaches everyone downwind, and no one can opt out. A public bad is the mirror image of a public good: something harmful that no one can avoid and that harms everyone at once. Markets supply too little of a public good but too much of a public bad, because those causing it ignore the harm to others. Much of environmental economics is about externalities, or 'public bads'. Deforestation, excess water use and pesticide use can all be seen as public bads that push harm onto present and future generations. One way to reduce a public bad is for a third party, usually the state, to step in. Green economists suggest judging such impacts as far ahead as the seventh generation."
+},
+"nature-econ-651": {
+"title": "Global public goods: benefits that know no borders",
+"text": "Until people understood the damage done by the chemicals called CFCs, the ozone layer was a public good by default. A global public good is a public good available more or less worldwide. No one can be kept from it, and one person's use does not reduce it for others. The idea extends Paul Samuelson's notion of public goods to the global economy. Knowledge is the classic example, including freely released projects such as free software and Wikipedia. Kaul and colleagues (2003) noted the ozone case. Cutting climate change, financial stability, security, knowledge and global public health need international or supranational bodies to manage them, since national laws stop at borders. Water is a case in point. It crosses political borders, so local or national authorities cannot manage it alone, and leaving it to the market would hurt those most in need. A firm that saves money by polluting shared air or water becomes a corporate free rider, raising the cost of these often transnational goods."
+},
+"nature-econ-636": {
+"title": "Digital public goods: open code and data for all",
+"text": "Open-source software, data sets, AI models, standards and content that anyone can use are increasingly treated as public goods: digital public goods. The UN Secretary-General's Roadmap for Digital Cooperation defines them as open resources that follow privacy laws, do no harm and help reach the {{ref:nature-gov-010}}. Their weakness is an old one. A small group of maintainers often keeps such projects going while many more users benefit, raising worries about burnout and underfunding."
+},
+"nature-econ-635": {
+"title": "Local public goods: benefits that stay close to home",
+"text": "A neighborhood crime watch protects its own streets, not the whole city. Local public goods are public goods whose benefits fall mainly on the people nearby, such as a clean office or a crime watch, rather than equally on everyone. When neighborhoods overlap, economists often model them as a network; when they do not, the standard model is the Tiebout model. A 2019 theory of public goods in networks found that voluntary provision usually falls short of the efficient level. A few people contribute heavily, while their neighbors free ride."
+},
+"nature-econ-639": {
+"title": "Lotteries for public goods: funding by raffle",
+"text": "Sell lottery tickets, put all the ticket money into a public good, and pay the prize from outside funds. That is the idea of funding public goods by lottery. The scheme is approximately efficient, and funding approaches the optimal level as the prize grows. It has a limit, though. In very large populations, contributions through a lottery shrink toward those of plain voluntary giving, and should fall to zero."
+},
+"nature-econ-640": {
+"title": "Nonprofits and public goods: filling the gap government leaves",
+"text": "Why do nonprofits supply goods that government could provide? The Weisbrod model answers that government supplies what the median voter wants. That is less than citizens with stronger demand would like. Nonprofit organizations, funded by donations from those citizens, fill the gap with the public goods government leaves unprovided."
+},
+"nature-econ-634": {
+"title": "Quasi-public goods: why goods get misclassified",
+"text": "The lighthouse is the textbook public good. Yet Coase argued its costs could be profitably bundled into port fees, a method that has funded real lighthouses. Many goods share some traits of public goods but allow people to be excluded, which is why streets, libraries and education are often misclassified. A community soccer field is a mixed case: the field is shared, but players bring their own gear and pay a rental fee. Some goods, such as orphan drugs, need government incentives to be made yet are not public goods at all."
+},
+"nature-econ-646": {
+"title": "Common goods: open to all, but used up",
+"text": "An empty road is a public good. Add traffic until each extra driver slows the others, and it becomes a common good. In economics, a common good is rival, so one person's use leaves less for others, but non-excludable, so people cannot be kept from using it. Because anyone can use them, common goods risk overuse when people act in their own interest. Fish stocks in international waters, among the least regulated common resources, are likely to be depleted if fish are taken without limits. Aristotle had already observed that 'what is common to many is taken least care of'."
+},
+"nature-econ-656": {
+"title": "New institutional economics: the rules behind the market",
+"text": "New institutional economics studies institutions: the legal rules and unwritten customs that underlie economic activity. It assumes people are rational but have limited minds and information and find agreements hard to enforce, so institutions arise largely to cut transaction costs. It grew from Coase's papers 'The Nature of the Firm' (1937) and 'The Problem of Social Cost' (1960), and Oliver Williamson coined the name in 1975. Following Douglass North, institutions are 'the rules of the game', while organizations are the teams that play. Associated Nobel laureates include Acemoglu, Coase, North, Ostrom and Williamson. Critics say it overlooks coercion and power politics."
+},
+"nature-econ-614": {
+"title": "Adaptive governance: managing commons that keep changing",
+"text": "No single rulebook fits every commons. Because good management depends on the type of resource, a strategy that works in one place may not suit another. For problems that are complex, uncertain and fragmented, Ostrom recommended governance that can adapt. Her approach has five requirements: good, timely information; ways to handle conflict; users who help monitor rule-keeping; flexible infrastructure; and readiness to adapt and fix errors."
+},
+"nature-econ-611": {
+"title": "Stock and flow: living off a resource's interest",
+"text": "A pasture can be grazed a certain amount each year without harm. Overgraze it, and it becomes prone to erosion and less useful. The difference lies between a resource's stock and its flow. A shared resource has a central stock that must be protected and a flow of units, such as fish or grass, that can be harvested. As long as the stock is not harmed, it keeps regrowing the flow, so careful use can continue indefinitely. Taking more than the flow shrinks the stock, which in turn shrinks future flows. Sometimes the loss cannot be undone."
+},
+"nature-econ-642": {
+"title": "Transaction cost economics: firms as ways of governing deals",
+"text": "Oliver Williamson looked at firms and saw not production machines but structures for governing deals. His transaction cost economics studies the transaction itself. Unlike standard microeconomics, it assumes people are rational only within limits, and treats property rights and contracts as problematic rather than costless to enforce. Williamson named five drivers of transaction costs: frequency, asset specificity, uncertainty, limited rationality and opportunism. Specialized investments cannot be redeployed if a contract ends, so ending such a deal causes significant loss. Williamson was awarded the 2009 Nobel Memorial Prize in Economics."
+},
+"nature-econ-665": {
+"title": "The Samuelson condition: how much of a public good to provide",
+"text": "Two people would pay $200 and $100 for a park that costs $225. Neither would build it alone, but together they value it at $300, leaving a $75 surplus, so it should be built. That is the logic of Paul Samuelson's rule for the best amount of a public good. Provide more as long as the total of everyone's extra benefit is at least the extra cost. Formally, the sum of all consumers' marginal rates of substitution equals the economy's marginal rate of transformation between the public good and a private good. For a private good, by contrast, each consumer's own valuation is set equal to the cost of one more unit. Because everyone enjoys a public good at once, individual demands are added vertically, extending supply and demand from private to public goods. The catch, Samuelson stressed, is that people have reasons to understate their valuations, which makes the rule hard to apply."
+},
+"nature-econ-618": {
+"title": "Assurance contracts: pledges that pay only if enough join",
+"text": "Pledge money toward a public good, and you get it back if too few others pledge. That is an assurance contract: the good is built only if enough people sign up. In a dominant assurance contract, an entrepreneur refunds pledges plus an extra sum if the target is missed, and earns a fee if it is met. That makes pledging the best move for each person whatever others do, a dominant strategy in the language of {{ref:nature-econ-034}}. Bagnoli and Lipman first proposed the idea in 1989. Such contracts work best in small groups of easily identified people, and crowdfunding sites such as Kickstarter use them."
+},
+"nature-econ-619": {
+"title": "Intellectual property: fencing off ideas",
+"text": "Information is easy to copy. Laws such as copyright and patents stop people copying an information good, turning a public good into a club good. These laws can solve free riding, but they give owners monopoly power, so the result is not fully efficient. In the United States, for example, patent rights encourage drug companies to charge prices above the cost of making one more dose."
+},
+"nature-econ-620": {
+"title": "Social sanctions: how groups punish free riders",
+"text": "Groups have their own ways of dealing with people who take without giving. Social sanctions are punishments that group members impose on those who use a shared resource without contributing, keeping cooperation going without the state. Punishing costs the punisher, so groups often reward members who sanction free riders. Paying for enforcement is not perfectly efficient, but it is often cheaper than letting the resource run down. People sometimes punish free riders even without any reward, though researchers dispute whether such costly punishment explains cooperation."
+},
+"nature-econ-653": {
+"title": "Traditional land tenure: holding land through care",
+"text": "European ownership centered on control. Indigenous ways of holding land in North America rested instead on care and responsibility for the land. European settlers sometimes ignored this traditional tenure and seized land, and sometimes recognized it in law, the idea explored in {{ref:nature-gov-216}}. Communal use of land survives elsewhere too. Traditional communities in Brazil, such as fundos de pasto and faxinais, still practice it."
+},
+"nature-econ-631": {
+"title": "Why Coasean bargains fail in practice",
+"text": "The bargain Coase described often never happens. With a polluted river, it is hard to tell which factories caused the harm and who was hurt, and victims tend to overstate their losses: the assignment problem. When many people hold rights, the last one can demand more, so everyone has a reason to hold out and bargaining unravels. When many parties benefit equally from a deal, each has a reason to free ride by withholding payment. Emotion matters too. In twenty legal nuisance cases studied by Ward Farnsworth, no party tried Coasean bargaining, out of anger at the unfairness of having to bargain."
+},
+"nature-econ-630": {
+"title": "Two claims inside the Coase theorem: efficiency and invariance",
+"text": "The Coase theorem bundles two separate claims. The efficiency claim says bargaining gives an efficient result. The invariance claim says it gives the same result whoever starts with the rights. Coase never set out a single formal theorem; others built the loose formulation from his work. Later authors showed the invariance claim is not generally true, because who bears liability changes people's wealth, which in turn changes demand and prices. Steven Cheung extended the idea in 1969: without transaction costs, contracts, markets and corrective taxes can all reach the same efficient result."
+}
+}
+}

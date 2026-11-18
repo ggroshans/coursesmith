@@ -1,0 +1,88 @@
+{
+ "entries": {
+  "nature-eco-620": {
+   "title": "The balance of nature: an old idea ecologists abandoned",
+   "text": "Herodotus, Plato and Cicero all described a balance in nature. The idea holds that ecosystems naturally sit in a stable equilibrium, with small changes corrected by negative feedback of the kind described in {{ref:nature-eco-639}}. It once governed ecological research and the management of nature's resources, and it was a central theme of Rachel Carson's 1962 book {{ref:nature-hist-006}}. Then the evidence turned. Constant disturbance and chaotic change proved to be the norm, and ecologists abandoned the idea in the late 20th century. In one eight-year study, isolated Baltic plankton rose and fell chaotically even under constant conditions. Many habitats were also shaped by people, such as through Aboriginal fire-stick farming in Australia. Ecologists have discredited the theory, yet some still call it a foundational metaphor, and it remains popular with the public, conservationists and environmental groups."
+  },
+  "nature-eco-646": {
+   "title": "Resistance: staying the same when a storm hits",
+   "text": "When Hurricane Joan struck in 1988, two tree species responded in opposite ways. Qualea paraensis resisted, with low mortality. Vochysia ferruginea died heavily but recovered through seedlings. The first shows resistance: the ability of a community or population to stay essentially unchanged when disturbed. Its opposite is sensitivity, in which species or communities change a lot under stress. Grimm and Wissel reduced the many meanings of {{ref:nature-eco-628}} to three core properties: staying unchanged, returning after disturbance, and persisting over time. Resistance is the first. Some authors, though, treat it as part of resilience rather than a separate property."
+  },
+  "nature-eco-643": {
+   "title": "Human overshoot: taking more than the planet renews",
+   "text": "In 1960 humanity consumed 73% of what Earth could regenerate. By 2016 it was using 170%, especially in richer countries. Human overshoot is that excess: the share of human demand on nature, driven by both consumption and population, beyond what Earth can sustainably supply. It extends the idea of {{ref:nature-eco-642}} to humanity. Fossil fuels have let human demand detach from the limits of biological regeneration; they supply 85% of commercial energy and 65% of fiber production. William R. Catton Jr.'s 1980 book Overshoot blamed both too many people and too much consumption. The 1972 model in {{ref:nature-eecon-154}} projected a carrying capacity of ten to fourteen billion people followed by collapse, though economists generally dismissed it. Overshoot has been discussed as a cause of societal collapse but has not been found to have caused historic collapses. How far humanity is in overshoot, and whether population or consumption is the main driver, remains debated."
+  },
+  "nature-eco-595": {
+   "title": "Grazing carrying capacity: counting the land in sheep",
+   "text": "In Australia, a paddock's capacity is counted in Dry Sheep Equivalents. One DSE is a 50 kg Merino wether, a castrated male, or a dry ewe kept in stable condition. Grazing carrying capacity is the number of livestock a piece of land can carry, used to set a sustainable stocking rate. It applies {{ref:nature-eco-593}} to farming. Hadwen and Palmer (1923) defined it as the density of livestock that could graze for a set period without damaging the range. Other countries use other units; the United Kingdom measures paddocks in livestock units."
+  },
+  "nature-eco-622": {
+   "title": "Coupled human–environment systems: people and nature as one",
+   "text": "In Wolong Nature Reserve, China, subsidies for guarding forests and for converting farmland to forest improved panda habitat. That foundational study captures the idea of a coupled human–environment system. Human systems (economic, social and cultural) and natural systems (water, air, living things and rocks) are linked by interactions that run both ways. The premise is that they can no longer be studied as separate, isolated systems. Research frameworks track flows of information, energy, materials, organisms, people and capital between them, and the agents whose decisions shape those flows. Integrated studies reveal feedback loops, non-linearity, thresholds, surprises and legacy effects with time lags that single-discipline work hides. The phrase appears in literature from 1999, and the US National Science Foundation made it a standing research program in 2007."
+  },
+  "nature-eco-645": {
+   "title": "Planetary health: human health depends on nature's health",
+   "text": "In its 2025 GEO-7 report, the UN Environment Programme (UNEP) found that investing in planetary health could add trillions to global GDP and avoid millions of deaths. Planetary health is the field and movement studying how human health depends on the state of Earth's natural systems. The Rockefeller Foundation–Lancet Commission launched the concept in 2015. Its guiding principle is that human health depends on flourishing natural systems and wise care of them. Where {{ref:nature-eco-635}} looks at ecosystems, planetary health explores the consequences of environmental change for people. Its education framework has five domains, including interconnection with nature, equity and social justice, and systems thinking. In January 2019 an international commission created the planetary health diet."
+  },
+  "nature-eco-602": {
+   "title": "Are planetary boundaries fair, and do they work?",
+   "text": "Who pays for a global limit? Development scholars argue that forest-conservation targets reward rich countries that already cleared their forests while asking poorer ones to sacrifice. William Schlesinger warns that managing to a threshold lets slow, diffuse degradation persist almost indefinitely. Critics also note that the framework treats the Holocene as a safe zone, though it never involved industrial farming. Supporters reply that {{ref:nature-eco-597}} highlights the risk of abrupt, non-linear change and can help build agreements on threats such as climate change. Scholars still dispute both its fairness and whether threshold-based management works."
+  },
+  "nature-eco-600": {
+   "title": "How breaching one planetary boundary squeezes the others",
+   "text": "Warming, acidity and ultraviolet light together stress marine life far more than any single stressor alone. Planetary boundaries interact in a similar way: pushing one changes the safe level of others. The framework's authors suggested that a crossed boundary shrinks the safe space for other processes rather than enlarging it. Breaching the freshwater boundary, for example, could make land arid and lower the land-use boundary."
+  },
+  "nature-eco-601": {
+   "title": "Planetary integrity: keeping Earth's life support working",
+   "text": "Planetary integrity is the healthy functioning of Earth's life-support systems, the {{ref:nature-found-022}} among them. It is also called ecological integrity. Scholars say it must be maintained for long-term sustainability. It belongs to the same family of ideas as {{ref:nature-eco-597}}."
+  },
+  "nature-eco-599": {
+   "title": "The safe operating space inside the boundaries",
+   "text": "Each control variable in the planetary boundaries framework has a range of values, and the boundary is set at the lower end of that range. Inside the boundaries lies the safe operating space, the zone where Holocene-like conditions can be kept and risks to societies stay low. Beyond the range lies a poorly predictable world, and persistent crossing pushes it further into a danger zone. The authors of {{ref:nature-eco-597}} framed the boundaries as a safe space in which humanity can develop, an advance on simply minimizing human impact."
+  },
+  "nature-eco-625": {
+   "title": "Anthropogenic disturbance: when people are the storm",
+   "text": "Logging, dredging, mowing, mining and converting land to ranching or farming all count as anthropogenic disturbance: disturbance to ecosystems caused by human activity. Worldwide, it has spread species suited to disturbed ground, often called weeds. Human disturbance can also sustain. Controlled burns by Native Americans maintained fire-dependent ecosystems and helped keep them stable and diverse. Looking ahead, human-caused climate change is considered a major force shaping future ecosystem change, a theme of {{ref:nature-eco-129}}."
+  },
+  "nature-eco-626": {
+   "title": "Disturbance cycles: beetles, gaps and regrowth",
+   "text": "In 2004 mountain pine beetles affected more than 90,000 square kilometers of western North America. Their outbreaks kill old pines and open gaps where other trees thrive until the pines regrow. That is a disturbance cycle: a repeating pattern in which disturbance, regrowth and {{ref:nature-eco-348}} set an ecosystem up for the next disturbance. Without further disturbance, many ecosystems drift back toward their pre-disturbance condition."
+  },
+  "nature-eco-627": {
+   "title": "Pioneers of the burn: disturbance-adapted species",
+   "text": "Jack pine has serotinous cones, which open only with the heat of fire. It is one of the disturbance-adapted species: pioneer or early successional species, the first to move in during {{ref:nature-eco-348}}, that quickly exploit freshly disturbed sites. Fast-growing, shade-intolerant species such as pin cherry and aspen fill the gaps left by fire or windstorms."
+  },
+  "nature-eco-606": {
+   "title": "Does market efficiency make systems fragile?",
+   "text": "Free-market efficiency depends on specialization. Specialization, in turn, makes systems accustomed to and dependent on the conditions of the moment, and that lowers their resilience. On this argument, applying {{ref:nature-eco-603}} to {{ref:nature-eecon-209}} puts it at odds with conventional economic ideology and policy. Andrea Ross argues that such development rests on {{ref:nature-eecon-217}} and ignores the limits of Earth's resilience. Resilience thinking thus questions the free-market model that conventional policy relies on, and that challenge remains contested."
+  },
+  "nature-eco-609": {
+   "title": "Amazon dieback: a rainforest that waters itself",
+   "text": "The Amazon makes around half of its own rainfall by cycling moisture back into the air, so forest loss means less rain downwind. Dieback is the risk that enough forest loss pushes much of the Amazon past a threshold into drier degraded forest or savanna. Some 17–18% has already been cleared. Modeling suggests warming of 1.5–1.9 °C combined with 22–28% deforestation could trigger the transition across 62–77% of the forest. A 2022 study reported that it has been losing resilience since the early 2000s, recovering more slowly from short shocks."
+  },
+  "nature-eco-610": {
+   "title": "Cascading tipping points: climate dominoes",
+   "text": "In a 2021 study of three million simulations, nearly a third produced domino effects, even with warming limited to 2 °C. These are cascading tipping points: chain reactions in which crossing one climate threshold pushes another of the {{ref:nature-eco-608}} into a new state. Ice loss in Greenland and West Antarctica will alter ocean circulation, and the two ice sheets likely destabilize each other. Temporarily overshooting the Paris climate goals could raise the risk of tipping cascades by up to 72%."
+  },
+  "nature-eco-612": {
+   "title": "Hothouse Earth: a climate that cannot settle",
+   "text": "Picture sea levels up to 60 meters higher and temperatures 4–5 °C warmer. That would be above any interglacial, or warm period between ice ages, in 1.2 million years. Such is the Hothouse Earth scenario. In it, crossing a warming threshold sets off tipping points and self-reinforcing feedbacks, including {{ref:nature-eco-610}}, that keep the climate from stabilizing. Researchers proposed the threshold could lie around 2 °C above pre-industrial levels. Whether it exists at all, and at what level, remains speculative."
+  },
+  "nature-eco-611": {
+   "title": "Three ways a climate system can tip",
+   "text": "Not all tipping happens the same way. In mathematical terms there are three kinds. Bifurcation-induced tipping happens when a parameter, a slowly changing setting, passes a critical level and a stable state loses stability or disappears; {{ref:nature-econ-419}} studies such changes. Noise-induced tipping is caused by random fluctuations and gives no early warning, so it is unpredictable. Rate-induced tipping occurs when the environment changes faster than the system can restore itself, as in the 'compost bomb' release of carbon from {{ref:nature-eco-475}}."
+  },
+  "nature-eco-634": {
+   "title": "Red-listing ecosystems: how close to collapse?",
+   "text": "How near is an ecosystem to {{ref:nature-eco-632}}? The {{ref:nature-acct-078}}, a global standard, gives an answer even where data are scarce. Its end-point category is Collapsed. Vulnerable, Endangered and Critically Endangered are defined by the risk of collapse. Because the list compares systems with a set of criteria, it is often paired with simulation models that cover dynamics, future threats and social links."
+  },
+  "nature-eco-633": {
+   "title": "Cod, palms and a vanishing sea: collapses on record",
+   "text": "By 1997 the Aral Sea had fallen to 10% of its original size after its feeder rivers were diverted for irrigation. It is one of several documented cases of {{ref:nature-eco-632}}. On Easter Island, palm-dominated forests collapsed from {{ref:nature-eco-063}}, climate change and introduced rats. {{ref:nature-res-027}} cut Grand Banks cod to 1% of historical levels in the early 1990s. The northern Benguela upwelling is a zone where deep ocean water rises to the surface. There, heavy fishing and climate events turned a sardine-dominated ecosystem into one dominated by jellyfish and goby."
+  },
+  "nature-eco-629": {
+   "title": "Taking stability apart: resistance, resilience and more",
+   "text": "Ecologists measure stability in pieces. Resistance is how little a variable changes under outside pressure, and inertia, or persistence, is the ability to resist fluctuations. Resilience is the tendency to keep structure and recover after disturbance. Two further measures describe that recovery: elasticity is how fast the system returns, and amplitude is how far it can be moved and still return. Local stability covers small, short disturbances. Global stability means strong resistance to change in species composition or food webs."
+  }
+ }
+}

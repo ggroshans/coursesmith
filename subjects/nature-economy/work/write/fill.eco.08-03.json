@@ -1,0 +1,112 @@
+{
+"entries": {
+"nature-eco-313": {
+"title": "HIPPO: five threats to biodiversity in one word",
+"text": "Conservationists sum up the main threats to biodiversity with five letters: HIPPO. They stand for habitat loss, introduced species that invade, pollution, human population and overharvesting, with the I covered in {{ref:nature-eco-026}}. Two of them lead the list. The primary threats are the destruction of habitats, through forest clearing and urban growth, and overharvesting, as in the trade in wild animals and plants."
+},
+"nature-eco-311": {
+"title": "Umbrella species: protect one, shelter many",
+"text": "The monarch butterfly migrates across North America through many ecosystems, so protecting it protects much else along the way. It is an umbrella species: one whose protection shelters many other species and habitats because it needs a large area. Umbrella species often double as {{ref:nature-eco-116}}, well-loved animals such as the giant panda or tiger that capture public attention. That attention has a cost. A conservation bias toward such famous species can sometimes threaten other species of greater concern."
+},
+"nature-eco-295": {
+"title": "Microhabitats: small worlds within a habitat",
+"text": "The lichens on the north face of a boulder differ from those on its south face or its top. Each face is a different microhabitat: the small-scale physical conditions that a particular organism or population needs. Every habitat holds many microhabitats, differing slightly in light, humidity, temperature and air movement. The more structurally varied a wood is, the more microhabitats it contains."
+},
+"nature-eco-296": {
+"title": "Urban habitats: wildlife in the city",
+"text": "About 2,000 coyotes are thought to live in and around Chicago. Towns and cities are habitats too, home to adaptable, generalist plants and animals that can live in many conditions. Even houses count. A twentieth-century survey of northern European homes found about 175 species of invertebrates, animals without backbones, living inside them."
+},
+"nature-eco-351": {
+"title": "Ecotones: where two communities meet",
+"text": "Where grassland meets forest, the two plant communities blend in a transition zone called an ecotone. Estuaries, lagoons, coastal marshes and the strips of land along rivers are ecotones too. An ecotone can be narrow or wide, local or regional. It may show as a gradual blending or as a sharp boundary. Ecotones matter to mobile animals, which can use more than one set of habitats within a short distance. The greater variety of plants and animals where communities meet is a pattern explored in {{ref:nature-eco-045}}."
+},
+"nature-eco-328": {
+"title": "Biome classification schemes: many maps of the living world",
+"text": "No single map of biomes satisfies everyone. In 1947 Leslie Holdridge classified climates by the effects of temperature and rainfall on vegetation. Whittaker's scheme, based on rainfall and temperature, simplified Holdridge's. It is easier to use but less specific. A WWF team divided the world into biogeographic realms and ecoregions, each with a main biome. It used the result to pick the Global 200 conservation priorities. These are biome classification schemes, systems for dividing the world's land into biome types, mostly by temperature and rainfall. Their very number shows that biomes do not fit neatly into any one classification."
+},
+"nature-eco-329": {
+"title": "Anthropogenic biomes: mapping the land humans have made",
+"text": "By 2000, over half of Earth's ice-free land had been turned into rangelands, croplands, villages and dense settlements. Across much of the planet, crops, grazing lands and cities have replaced the vegetation that conventional biome maps predict. Anthropogenic biomes describe the land as it now is, divided into units shaped by lasting human use such as farming, settlement and forestry. Erle Ellis and Navin Ramankutty first named and mapped them in 2008. Protection is uneven: 23.4% of remote woodland of this kind is protected, but only 2.3% of irrigated village land. Whether cities should count as a unique biome remains an open debate."
+},
+"nature-eco-332": {
+"title": "Superorganism or chance gathering? Two views of community",
+"text": "Is a community a tightly knit unit or a chance gathering of species? Frederic Clements saw it as a kind of superorganism with sharp boundaries. Henry Gleason disagreed. He argued that each species changes gradually and independently along environmental gradients, the slow shifts in conditions across a landscape. Groupings of species, in his view, form largely by chance. These opposing holistic and individualistic views still frame how ecologists think about what a community is."
+},
+"nature-eco-282": {
+"title": "Hutchinson's niche: a space with many dimensions",
+"text": "Why do so many kinds of organisms live in one habitat? The zoologist G. Evelyn Hutchinson asked that question when he popularized a new niche concept in 1957. He described the niche as a space with many dimensions. Each axis is a condition or resource that a species needs for its population to persist. His work led to ideas such as niche breadth, the variety of resources or habitats a species uses. Turning a species' fundamental niche, the full space it could occupy, into a map of where it could live is the task of niche modeling."
+},
+"nature-eco-371": {
+"title": "Host–parasite coevolution: an evolving relationship",
+"text": "A parasite that kills its only host too soon destroys its own future. A parasite with a single host is pushed toward being more benign, even mutualistic, because it can reproduce longer if its host lives longer. That is one force in host–parasite coevolution, the way hosts and parasites evolve together and change their relationship over time. Another force pushes the opposite way. Competition between parasites tends to favor faster-reproducing, more virulent strains, those that do more harm. Hosts fight back with skin barriers, immune systems, grooming and, in plants, chemical defenses."
+},
+"nature-eco-370": {
+"title": "Parasitic strategies: six ways to exploit a host",
+"text": "Some parasites kill their hosts, while others merely visit. Parasites exploit animal hosts in six main ways: parasitic castration, direct transmission, transmission by being eaten, transmission by a vector, parasitoidism and micropredation. Vector-transmitted parasites rely on an intermediate host to carry them between their main hosts. Parasitoids are insects that eventually kill their hosts, which puts them close to predators. A micropredator feeds briefly on many hosts. That habit makes it well suited to carrying smaller parasites from one host to the next."
+},
+"nature-eco-350": {
+"title": "The climax community: succession's supposed end point",
+"text": "Classical ecology held that succession ends in a climax community. Such a community is in steady balance with its environment and persists unless heavily disturbed. It is described as having a wide variety of species and complex feeding links. At climax, gross primary production is balanced by total respiration. Nutrient uptake from the soil is balanced by nutrients returned in falling litter. The intermediate stages on the way are called seral communities. Frederic Clements held that succession converges on a stable climax set by climate. Modern ecologists have largely abandoned that idea for views in which nature does not settle into one fixed balance."
+},
+"nature-eco-349": {
+"title": "Primary succession: life colonizing bare ground",
+"text": "Fresh lava, bare rock, newly exposed sand and freshly uncovered glacial till all begin lifeless. Primary succession is the succession that starts when life first colonizes such an area, with little or no living matter. Its stages run from pioneer species such as microorganisms, lichens and mosses, through grasses and small shrubs, to trees."
+},
+"nature-eco-356": {
+"title": "Functional groups: sorting species by the jobs they do",
+"text": "Ecologists sometimes sort species by what they do rather than by their family tree. A functional group is a set of organisms in a community that share traits and do similar jobs, regardless of how closely related they are. Plant functional groups are called plant functional types. Animal groups get a different name, explained in {{ref:nature-eco-334}}, and they usually share a way of feeding. Functional groups are identified by directly watching what organisms do and contribute, not by deducing it from theory."
+},
+"nature-eco-334": {
+"title": "Ecological guilds: rivals that share a resource",
+"text": "Species do not need to be relatives to be rivals. An ecological guild is a group of species that use the same resources, or use different resources in similar ways. Because they share resources, guild members compete. They need not share the same niche or be closely related. The number of guilds in an ecosystem has its own name: its disparity."
+},
+"nature-eco-339": {
+"title": "Character displacement: competition reshapes bodies",
+"text": "Competition can change what species look like. Character displacement is the evolution of differing traits in species that compete. Individuals whose traits most resemble a competing species face the strongest competition and leave fewer offspring. Over generations, the competing species grow more different. Darwin's finches, found alone or together on the Galapagos Islands, are an example."
+},
+"nature-eco-337": {
+"title": "Interference, exploitation and apparent competition",
+"text": "Large aphids eject smaller ones from the best feeding sites. That is interference, or contest, competition: organisms fighting directly over scarce resources. It is the most direct of the three ways competition works. In exploitation, or scramble, competition, one organism's use of a shared resource leaves less for others, without any direct contact. The third, {{ref:nature-eco-338}}, is not real competition at all. Two prey species harm each other by sharing a predator."
+},
+"nature-eco-368": {
+"title": "Models of mutualism: partnerships in equations",
+"text": "Ecologists can describe partnerships with equations. Models of mutualism are mathematical models of how the populations of two mutualist species grow, given the benefit each gets from the other. A simple form adapts the {{ref:nature-eco-583}}, adding a positive term for the benefit from the partner species. That version has a flaw. Without a limit, modeled numbers could grow forever, which {{ref:nature-eco-593}} makes impossible. In 1989 David Hamilton Wright added saturation. Benefits level off at high densities because of handling time, the time spent making use of each benefit."
+},
+"nature-eco-319": {
+"title": "Conservation genetics: why a species' genes matter",
+"text": "By the early 1990s only 20-25 Florida panthers remained. They were highly inbred, and they suffered kinked tails, heart defects and low fertility. Conservation genetics studies genetic factors like these that affect whether a species can be conserved. A wide variety of genes improves survival, because it gives more capacity to adapt to future change. Low variety brings inbreeding depression, the harm from mating among relatives. It also brings drift, the random loss of gene variants. Both reduce adaptability and raise genetic problems."
+},
+"nature-eco-379": {
+"title": "Metapopulations: a population of populations",
+"text": "Some populations wink in and out across a landscape. A metapopulation is a population of populations, spread over patches of habitat of varying quality. Its local groups go extinct and then recolonize. At any moment, each patch is either occupied or empty. Productive source patches supply migrants to other patches. The concept was introduced in 1969."
+},
+"nature-eco-290": {
+"title": "Allogenic and autogenic engineers: two ways to build habitat",
+"text": "A woodpecker carves a hole in a tree, and later other birds and mammals move in. That makes it an allogenic engineer, one that changes materials from one form to another. Autogenic engineers instead create habitat with their own bodies. Sphagnum moss builds peat bogs this way. Tree trunks likewise shelter lichens, mosses, squirrels, birds and insects. Jones and colleagues identified the two types in 1994. Later work proposed six specific cases, based on how species change materials and buffer physical forces."
+},
+"nature-eco-352": {
+"title": "Ecoclines: gradual boundaries in nature",
+"text": "Some boundaries in nature are gradients rather than lines. An ecocline is a physical transition zone between two systems, where the environment changes along one or two physical or chemical factors. It can be a gradient in temperature (a thermocline), chemistry (a chemocline), salinity (a halocline) or water density (a pycnocline). Ecoclines are less clear-cut and more stable than ecotones. As a result, they hold more plant species."
+},
+"nature-eco-333": {
+"title": "Neutral theory: when species differences do not matter",
+"text": "What if the differences between species did not matter at all? Stephen Hubbell's neutral theory of biodiversity treats the species in a community as functionally equivalent. Their numbers change only through random births and deaths. Equivalent species undergo ecological drift. Each population rises and falls at random, while the community's total number of individuals stays constant."
+},
+"nature-eco-357": {
+"title": "Functional redundancy: nature's insurance policy",
+"text": "Ecosystems often keep spare parts. Functional redundancy is the situation where several species in an ecosystem fill similar roles, acting as insurance if one is lost. A redundant species can take over the job of a similar species in the same functional niche. Where redundancy is high, losing one species will not always reduce how well the ecosystem works. In such cases, conserving the group matters more than any single species. Whether conservation should protect particular species or the traits that do the work is still debated."
+},
+"nature-eco-291": {
+"title": "Functional ecology: what species do, not just what they are",
+"text": "In 1927 Charles Elton proposed sorting the members of an ecosystem into 'guilds' of similar resource users. That idea grew into functional ecology, the branch of ecology that studies the roles, or functions, species play in their community or ecosystem. It emphasizes how species' bodies work, how they are built, and how they grow and breed. From the 1970s guilds were renamed functional groups. From the 1990s biodiversity came to be seen as a diversity of functions, not just of species. Restorations with a wider range of functions have shown lower levels of invasion by other species."
+},
+"nature-eco-293": {
+"title": "Functional traits: the features that shape a species' role",
+"text": "Counting traits sounds simple, but it can mislead. A functional trait is a physical, physiological or seasonal trait that affects an organism's fitness indirectly, through its growth, reproduction and survival. Traits are named by scale. Individuals have ecophysiological and life-history traits, populations have demographic traits, communities have response traits, and ecosystems have effect traits. Choosing which to count matters. Counting too many traits can overstate how varied an ecosystem's functions are, while too few can wrongly class vital species as redundant."
+},
+"nature-eco-292": {
+"title": "Functional diversity: the range of jobs in an ecosystem",
+"text": "Losing a single top predator can send effects all the way down to the plants, reducing plant biomass and the variety of their genes. Functional diversity is the range and value of the traits of species and organisms that influence how an ecosystem works. Traits such as how an organism moves, gathers resources, reproduces or when it is active all add to it. Greater functional diversity raises an ecosystem's ability to regulate flows of energy and matter and to supply air, water and wood to people. It also raises productivity, by letting more niches be filled. Diverse ecosystems better withstand extinctions, invasions, logging, farming and pollution. Neither the benefits nor the losses scale in a straight line. A species can also vanish from its job before it vanishes from the Earth. Functional extinction is the point at which a species no longer performs its historical role, and endangered tigers, tuna and sea otters usually qualify."
+}
+}
+}
