@@ -12,3 +12,5 @@
 - Patterned ground, of which stone stripes and rings are kinds (crawled but out of scope): Patterned ground
 - Grus and arenization of granite (in scope, assigned to soil-texture-and-structure but not drafted there):
   Grus (geology)
+
+Skipped Holmesville Soil Series (local series), essential-element list (covered), lab activities.

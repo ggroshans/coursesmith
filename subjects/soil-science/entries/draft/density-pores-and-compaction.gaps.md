@@ -20,3 +20,7 @@ Important concepts with no or too few sentences in the crawl. One per line with 
 - Oedometer test, the standard consolidation test (suggested page: Oedometer test)
 - Preconsolidation stress (suggested page: Preconsolidation pressure)
 - Trafficability, whether soil can carry machinery and traffic (suggested page: Trafficability)
+
+Chunk 9: Shear strength (engineering page, off-topic for soil), Trafficability (stub) and the soil density lab (bulk density/porosity already covered by existing entries) not drafted.
+
+Chunk 10: some fact detail of Building Soils 15.3 (manure and compost handling) merged into organic matter entry.

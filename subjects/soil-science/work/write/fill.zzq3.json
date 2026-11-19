@@ -1,0 +1,719 @@
+{
+ "questions": {
+  "soil-agri-061": {
+   "q": "What is the difference between shelterbelts and woodlots?",
+   "a": "Shelterbelts are rows of trees set perpendicular to the prevailing wind, while woodlots are more extensive areas of woodland.",
+   "sent_ids": [
+    "c8b8461f400e"
+   ]
+  },
+  "soil-agri-070": {
+   "q": "What is the smother effect of a flattened cover crop?",
+   "a": "It forms a nearly impenetrable mat that blocks light, cutting weed germination.",
+   "sent_ids": [
+    "954ce093f3c2",
+    "de76d03ed0e2",
+    "79b799cd0e01"
+   ]
+  },
+  "soil-agri-079": {
+   "q": "What did the act passed after the Supreme Court struck down the Agricultural Adjustment Act do?",
+   "a": "It amended and renamed the Soil Conservation Act of 1935 to preserve soil fertility and reduce exploitation and unprofitable use of national soil resources.",
+   "sent_ids": [
+    "41cb67199f05",
+    "f62382f3ab26",
+    "22b6c7e75056"
+   ]
+  },
+  "soil-agri-078": {
+   "q": "In what climate does this road dust suppressant work best, and what is its chief benefit?",
+   "a": "It works better in humid than in arid climates, and its chief benefit is lower maintenance costs for gravel roads.",
+   "sent_ids": [
+    "a40d46767741",
+    "328dfceab78f"
+   ]
+  },
+  "soil-agri-208": {
+   "q": "Why does keeping soil covered reduce erosion?",
+   "a": "Water and wind erosion occur almost exclusively on exposed soil, and live plants protect it best.",
+   "sent_ids": [
+    "8a45591b3b43",
+    "5026054cc6bd"
+   ]
+  },
+  "soil-agri-206": {
+   "q": "When is erosion worst, and what does tillage do to runoff?",
+   "a": "It is worst when soil has no living plants, roots or residue mulch; tillage that breaks aggregates lowers infiltration and worsens runoff.",
+   "sent_ids": [
+    "afab1fc36632",
+    "012da72ea33c"
+   ]
+  },
+  "soil-agri-213": {
+   "q": "How does more soil organic matter reduce runoff?",
+   "a": "It gives better aggregation and less surface sealing, so more water infiltrates instead of running off and carrying soil away.",
+   "sent_ids": [
+    "540c0a89cd19",
+    "3c12c800b9fc",
+    "46a2aa7f7c8a"
+   ]
+  },
+  "soil-agri-163": {
+   "q": "When is a remote sensor called active, and when passive?",
+   "a": "It is active when it emits a signal and detects its reflection, and passive when it detects reflected sunlight.",
+   "sent_ids": [
+    "a298e4068ea7"
+   ]
+  },
+  "soil-agri-166": {
+   "q": "Into which four categories of decreasing generality is this land suitability classification divided?",
+   "a": "Orders (kinds of suitability), classes (degrees), subclasses (kinds of limitation) and units (minor management differences).",
+   "sent_ids": [
+    "e148a81dcc18",
+    "71ccd20fa8b9",
+    "55043a455081",
+    "99206997e379",
+    "9871dbf5e0ec"
+   ]
+  },
+  "soil-agri-218": {
+   "q": "Why are large expanses of poor land mapped by reconnaissance survey?",
+   "a": "They have little agricultural or forest value and are often too poor to justify a detailed survey, so they are mapped at small scale, showing soil associations.",
+   "sent_ids": [
+    "079761df171c",
+    "f1aa0edc99fb",
+    "7673fa744ba6"
+   ]
+  },
+  "soil-meth-023": {
+   "q": "How does atomic absorption measure a metal?",
+   "a": "The metal is vaporized in a flame and absorbs at its own wavelengths; the absorbed radiation is proportional to the density of its atoms.",
+   "sent_ids": [
+    "4850b5832910",
+    "d44cdff3af45",
+    "bfd3a44ea8c9"
+   ]
+  },
+  "soil-meth-059": {
+   "q": "Which extractants suit acidic and alkaline soils in Washington and Oregon?",
+   "a": "Bray 1 is used for acidic soils and Olsen for alkaline soils.",
+   "sent_ids": [
+    "4877c5b3ff72"
+   ]
+  },
+  "soil-meth-061": {
+   "q": "What can very high phosphorus in a soil test point to?",
+   "a": "Years of heavy poultry or other manure.",
+   "sent_ids": [
+    "ab336e78e967"
+   ]
+  },
+  "soil-meth-027": {
+   "q": "What does the voltage of an ion-selective electrode depend on?",
+   "a": "It depends on the logarithm of the ion's activity, following the Nernst equation, and is read against a reference electrode.",
+   "sent_ids": [
+    "bdf1ca31330e",
+    "920601794706"
+   ]
+  },
+  "soil-meth-066": {
+   "q": "Why is human vision still needed in image analysis despite computers?",
+   "a": "Computers are indispensable for large data and quantitative extraction, but human vision cannot be replaced in many applications.",
+   "sent_ids": [
+    "73a7138c91d1",
+    "d4974f0d4e89"
+   ]
+  },
+  "soil-meth-045": {
+   "q": "Name two spatial autocorrelation statistics covered by spatial analysis.",
+   "a": "Moran's I and Geary's C.",
+   "sent_ids": [
+    "8d80493fbad0",
+    "975a37e42153",
+    "40ee1959f709",
+    "41593099a2a2",
+    "772620dea863"
+   ]
+  },
+  "soil-agri-090": {
+   "q": "What two factors does the scorpan model add to the classical five?",
+   "a": "s, intrinsic soil properties captured by remote and proximal sensors, and n, spatial coordinates or position.",
+   "sent_ids": [
+    "533f7ef3b9cd",
+    "8a4d58ce23da"
+   ]
+  },
+  "soil-meth-053": {
+   "q": "What does Cohen's kappa add to overall accuracy?",
+   "a": "It corrects for chance agreement; both measures range from 0 to 1.",
+   "sent_ids": [
+    "51ced0955cf3",
+    "16bbd4439f3d",
+    "f87dd863899d"
+   ]
+  },
+  "soil-meth-001": {
+   "q": "What was geostatistics first developed to predict?",
+   "a": "The distribution of ore grades in mines.",
+   "sent_ids": [
+    "b3710ccf24cb"
+   ]
+  },
+  "soil-meth-004": {
+   "q": "What does regression kriging model separately?",
+   "a": "The deterministic and stochastic parts of variation, following Matheron's 1969 universal model.",
+   "sent_ids": [
+    "8c0a2f4bb1af",
+    "a6845f13e699",
+    "dd0030e745c9"
+   ]
+  },
+  "soil-meth-048": {
+   "q": "What must stratified sampling strata satisfy?",
+   "a": "They must be collectively exhaustive and mutually exclusive, so every element falls in exactly one.",
+   "sent_ids": [
+    "0cdaae340b61",
+    "a00ea38e0e3b"
+   ]
+  },
+  "soil-meth-052": {
+   "q": "What does conditioned Latin hypercube sampling do?",
+   "a": "It samples all covariates with one sample per stratum.",
+   "sent_ids": [
+    "bf4f18d7094c",
+    "f77b7bf62e17",
+    "27d36ae1dfaf",
+    "b842d79815db"
+   ]
+  },
+  "soil-meth-016": {
+   "q": "How does gamma-ray spectroscopy of soil identify elements?",
+   "a": "Cosmic rays make nuclei emit gamma rays; each emission line's energy identifies an element and its intensity gives the concentration.",
+   "sent_ids": [
+    "79a1cb7fc50c",
+    "fb93ce8b54d2",
+    "e54aa539af99",
+    "de85d8c5ac23",
+    "733791d26a0a"
+   ]
+  },
+  "soil-meth-033": {
+   "q": "Who coined the term chemometrics, and when?",
+   "a": "Svante Wold, in a 1971 grant application.",
+   "sent_ids": [
+    "e0aa46867550",
+    "7ee8f44fca87"
+   ]
+  },
+  "soil-env-106": {
+   "q": "How much carbon do soils hold compared with the atmosphere?",
+   "a": "About 2,700 Gt, roughly three times the carbon in the atmosphere.",
+   "sent_ids": [
+    "57c1bd2f5a62"
+   ]
+  },
+  "soil-env-110": {
+   "q": "What does plant uptake do to carbon in soil?",
+   "a": "It fixes carbon dioxide in soil, building a pool of around 1500 Pg in the first few metres, 20-40% of it lasting more than 100 years.",
+   "sent_ids": [
+    "a86babaa91ac",
+    "603c9e478628"
+   ]
+  },
+  "soil-env-103": {
+   "q": "What does the fast carbon cycle include?",
+   "a": "It runs through living things, with annual cycles driven by photosynthesis and decadal cycles of vegetation growth and decomposition.",
+   "sent_ids": [
+    "69debea301ed",
+    "04f56abef83b",
+    "45f3480968c1"
+   ]
+  },
+  "soil-env-105": {
+   "q": "Why does replacing forest with cropland leave more carbon in the atmosphere?",
+   "a": "Cropland and urban land store comparatively little carbon.",
+   "sent_ids": [
+    "340465d01d82",
+    "4285639813a6"
+   ]
+  },
+  "soil-env-141": {
+   "q": "What visible sign shows permafrost thaw weakening soil structure?",
+   "a": "Trees tilting at random, so-called drunken trees.",
+   "sent_ids": [
+    "f6c3e407b1b0",
+    "b4150ec82ed0"
+   ]
+  },
+  "soil-env-147": {
+   "q": "What is active layer thickness, and what is its main control?",
+   "a": "It is the maximum thaw depth over two years; maximum air temperature is the main control.",
+   "sent_ids": [
+    "04afe8d000cd",
+    "f8c995735b79",
+    "a0e3f68e8d75"
+   ]
+  },
+  "soil-env-149": {
+   "q": "What does the Russian word behind this term mean?",
+   "a": "That which survives over the summer.",
+   "sent_ids": [
+    "dc2faededff2"
+   ]
+  },
+  "soil-env-127": {
+   "q": "What slows weathering as the soil solution saturates?",
+   "a": "Weathering slows as the soil solution saturates, so some argue low rainfall limits it.",
+   "sent_ids": [
+    "d55381e7a89c"
+   ]
+  },
+  "soil-env-121": {
+   "q": "Why is glomalin's role in soil carbon thought overestimated?",
+   "a": "Most glomalin-extracted proteins proved not to be mycorrhizal, and arbuscular fungi were found to cause net soil carbon losses.",
+   "sent_ids": [
+    "6da786a81059",
+    "f386fce27642"
+   ]
+  },
+  "soil-env-058": {
+   "q": "How does degradation differ from retrogression?",
+   "a": "Degradation is directly tied to human activity, whereas retrogression is driven mainly by soil erosion.",
+   "sent_ids": [
+    "842d13f085fa",
+    "6ae1218c72f5"
+   ]
+  },
+  "soil-env-063": {
+   "q": "How much faster than soil forms does erosion from farm fields run?",
+   "a": "11 to 20 times faster under no-tillage and more than 100 times faster under conventional tillage.",
+   "sent_ids": [
+    "80a2d03af9ab"
+   ]
+  },
+  "soil-env-059": {
+   "q": "Why does secondary succession run faster than primary succession?",
+   "a": "Because a soil already exists.",
+   "sent_ids": [
+    "03f8db01ba1a",
+    "efd3d6a3f915"
+   ]
+  },
+  "soil-env-078": {
+   "q": "Why are Middle Eastern dust storms becoming more frequent and intense?",
+   "a": "Long-term rainfall decline lowers soil moisture and plant cover.",
+   "sent_ids": [
+    "c80020ccf8cc"
+   ]
+  },
+  "soil-env-069": {
+   "q": "How much of human-induced land degradation is due to unsustainable farming?",
+   "a": "Over 60%: it had degraded 996 Mha of agricultural land by 2025.",
+   "sent_ids": [
+    "522c5e1b32d0"
+   ]
+  },
+  "soil-env-321": {
+   "q": "Why do roots need pores wider than about 0.1 mm?",
+   "a": "It is the size of most root tips; without such pores roots stay short and thick with few fine roots or root hairs, poor at taking up water and nutrients.",
+   "sent_ids": [
+    "ca4efcda9a64",
+    "f1a581c55373",
+    "5c981411fb0f",
+    "b81858996a4b"
+   ]
+  },
+  "soil-env-210": {
+   "q": "How do denser woody canopies affect soil moisture?",
+   "a": "They raise transpiration and evaporation of soil moisture, and enhanced soil porosity can speed soil drought.",
+   "sent_ids": [
+    "2723843f2f16",
+    "9d536ba496e6"
+   ]
+  },
+  "soil-env-099": {
+   "q": "How can lightly degraded land be restored?",
+   "a": "It can be fenced from grazing, fertilized or weeded; grazing may continue at lower, monitored intensity, for example by rotating fields seasonally.",
+   "sent_ids": [
+    "15fc438bc2ef",
+    "fcca3f47a343",
+    "2fa7aa5f9927",
+    "c6c3c623b962"
+   ]
+  },
+  "soil-env-308": {
+   "q": "How do deep roots help soil handle urban runoff?",
+   "a": "They open extra channels for infiltration, maintain soil permeability and sustain the microbes that break down pollutants and remove nitrogen.",
+   "sent_ids": [
+    "eaac9091b94a",
+    "fa170d16ea98",
+    "efef68486fad"
+   ]
+  },
+  "soil-env-375": {
+   "q": "When is scraping the surface and replacing it with good topsoil feasible?",
+   "a": "When contamination is modest or shallow, since excavating contaminated soil is expensive and regulated.",
+   "sent_ids": [
+    "17b2e880520e",
+    "cb2b7f29768e"
+   ]
+  },
+  "soil-env-377": {
+   "q": "What two demands must a rooftop soil mix meet?",
+   "a": "It must be light enough not to overload the roof yet heavy enough to anchor plants against wind and water.",
+   "sent_ids": [
+    "cb7f81756eb8"
+   ]
+  },
+  "soil-env-195": {
+   "q": "What makes up a septic system?",
+   "a": "The drain field, septic tank and piping together, where a microbial ecosystem breaks down the organic materials in the liquid.",
+   "sent_ids": [
+    "5fc934913e4a",
+    "177e03b622d9"
+   ]
+  },
+  "soil-agri-169": {
+   "q": "What remains the main disposal mechanism in conventional septic systems?",
+   "a": "Decomposition by natural organisms, so minimum retention times and distances to surface water and wells are set.",
+   "sent_ids": [
+    "b2d92df9844b",
+    "9fc7d9d0ce97"
+   ]
+  },
+  "soil-env-350": {
+   "q": "Why sample at least 10 spots when assessing soil health in the field?",
+   "a": "Measurements vary with moisture and season, so a single spot may mislead.",
+   "sent_ids": [
+    "701d5901afa1",
+    "b682fef957c3",
+    "e5361f8fd4e8",
+    "85dded849e2f",
+    "288934c47f1d",
+    "5d6ffb8e95e0"
+   ]
+  },
+  "soil-env-365": {
+   "q": "Why do perennials give more carbon input than annuals?",
+   "a": "Because of larger root systems and a longer photosynthesis period.",
+   "sent_ids": [
+    "78e61a658394",
+    "8b67edc515fb"
+   ]
+  },
+  "soil-env-341": {
+   "q": "Why can routine soil fumigation or broad-spectrum herbicides backfire?",
+   "a": "They create dependency on purchased inputs, weaken resilience and promote resistance.",
+   "sent_ids": [
+    "13777352de87",
+    "46e7f6a60814",
+    "ffa2c1e687fa"
+   ]
+  },
+  "soil-env-193": {
+   "q": "How do industry and construction damage urban soil?",
+   "a": "Industry alters soil chemistry with heavy metals and effluents, while construction and landfills compact and excavate soil, disturbing water purification and storage.",
+   "sent_ids": [
+    "5b197ea92bfe",
+    "92ae5d7ad3d3"
+   ]
+  },
+  "soil-env-344": {
+   "q": "How do damaged plants call in help against caterpillars?",
+   "a": "They produce extra-floral nectar that feeds beneficials and airborne volatiles that guide small wasps to the caterpillar, in which the wasp lays eggs that kill it.",
+   "sent_ids": [
+    "4348a9bf2944",
+    "32c5836e82f3",
+    "a74e81582d72",
+    "83d7216b9c4d"
+   ]
+  },
+  "soil-env-360": {
+   "q": "Which soils suit no-till, and which suit strip-till or zone-till?",
+   "a": "Well-drained coarse soils suit no-till; finer-textured soils do well with strip-till or zone-till.",
+   "sent_ids": [
+    "f79a10156f8f",
+    "2b3019dabc82"
+   ]
+  },
+  "soil-env-327": {
+   "q": "Which soil properties change little, and which can management change?",
+   "a": "Inherent properties such as drainage and depth change little; management can change dynamic ones such as organic matter, structure, and water and nutrient holding capacity.",
+   "sent_ids": [
+    "173cbdf63fa2",
+    "64bab978a573",
+    "5f581252bb1a"
+   ]
+  },
+  "soil-env-367": {
+   "q": "How can compaction be avoided on larger farms?",
+   "a": "By monitoring axle loads and tire inflation and avoiding field work on wet soil.",
+   "sent_ids": [
+    "b452bcaa7b2b",
+    "7b9752a8f0ae"
+   ]
+  },
+  "soil-env-343": {
+   "q": "How does East African push-pull protect corn?",
+   "a": "Desmodium within corn rows repels stem borers (push) and perimeter grasses attract adult moths (pull).",
+   "sent_ids": [
+    "2f4ce7987e6c"
+   ]
+  },
+  "soil-env-346": {
+   "q": "Why does optimal soil health underpin pest management?",
+   "a": "Healthy, thriving plants defend themselves better, while stressed plants signal weakness to pests.",
+   "sent_ids": [
+    "e9d99d6cab20",
+    "33c95e8d062e",
+    "d0b706dcc9c6",
+    "4c340cc83597"
+   ]
+  },
+  "soil-env-009": {
+   "q": "Why can wiping out part of the base of the food chain matter?",
+   "a": "It can have major consequences for predators and other consumers.",
+   "sent_ids": [
+    "60bf2666da4d"
+   ]
+  },
+  "soil-env-005": {
+   "q": "When did use of this pesticide peak, and why did it fall?",
+   "a": "Use peaked at 72,000 tonnes in 1970 and then fell as its harm became clear.",
+   "sent_ids": [
+    "185a61e74cc4",
+    "9294fdf0712c",
+    "5b9095e7ad9f"
+   ]
+  },
+  "soil-env-249": {
+   "q": "What governs action on contaminated land where no standards exist?",
+   "a": "Human-health and ecological risk assessment.",
+   "sent_ids": [
+    "8d3951b65cc3",
+    "3c400dc5b6a3"
+   ]
+  },
+  "soil-env-008": {
+   "q": "Which metals and compounds are linked to cancer or birth defects after long exposure?",
+   "a": "Chromium, lead and other metals, petroleum, solvents and many pesticides.",
+   "sent_ids": [
+    "b5cc0d89119d"
+   ]
+  },
+  "soil-env-242": {
+   "q": "What does a groundwater pollutant often form, and where can it reach?",
+   "a": "A plume that spreads through the aquifer and can reach wells, seeps and springs.",
+   "sent_ids": [
+    "6610ba6873cc",
+    "a834eb236f65",
+    "14ea6b91095d"
+   ]
+  },
+  "soil-env-032": {
+   "q": "Why do bioaugmentation attempts often fail?",
+   "a": "Failures come from the wrong organism, predation, competition with native bacteria and too-small doses.",
+   "sent_ids": [
+    "23b2a325af02",
+    "aa8d3e2db52b",
+    "bac4b2d1398a",
+    "7747de45a883",
+    "eace871cf064"
+   ]
+  },
+  "soil-env-049": {
+   "q": "What do the seven letters-factors of the DRASTIC index describe, and what does a lower index mean?",
+   "a": "They cover depth to water, net recharge, aquifer media, soil media, topography, vadose zone impact and hydraulic conductivity; a lower index means lower risk of aquifer contamination.",
+   "sent_ids": [
+    "f23190ae0911",
+    "9ebe776bb410",
+    "21e63b22e97b"
+   ]
+  },
+  "soil-env-314": {
+   "q": "What are biosolids?",
+   "a": "Sewage sludges treated to lower pathogen risk, widely used as soil amendments.",
+   "sent_ids": [
+    "7f4ba3abbf88",
+    "35d6c00b763a",
+    "2cc346aef1d8"
+   ]
+  },
+  "soil-env-043": {
+   "q": "How does rhizofiltration differ from phytoextraction?",
+   "a": "It traps contaminants, mainly heavy metals, in harvestable biomass but treats water, while phytoextraction treats soil.",
+   "sent_ids": [
+    "95687fde95c1",
+    "d6597cae6e71",
+    "06ebf6b4a4d6"
+   ]
+  },
+  "soil-env-232": {
+   "q": "What is bioavailability, and why does it matter for biodegradation?",
+   "a": "It is the amount of a pollutant physically accessible to microbes, and it is a key factor in efficient biodegradation.",
+   "sent_ids": [
+    "f018017d1ba3"
+   ]
+  },
+  "soil-env-317": {
+   "q": "Why does removing fines reduce the soil to treat?",
+   "a": "Contaminants cling to the fines, so removing them reduces total mass and volume.",
+   "sent_ids": [
+    "ea22a8172349"
+   ]
+  },
+  "soil-env-288": {
+   "q": "In which groups is eating soil documented?",
+   "a": "In over 100 primate species and, in humans, most often in children and pregnant women, classed as a form of pica.",
+   "sent_ids": [
+    "3a4662ada562",
+    "e4c583e350f8",
+    "e9e60897121c",
+    "222f790cadc4"
+   ]
+  },
+  "soil-env-295": {
+   "q": "Where is iodine deficiency common, and what does it cause?",
+   "a": "In remote inland and mountainous areas with iodine-poor soil and no marine foods; it causes goitre and developmental delay.",
+   "sent_ids": [
+    "7e186dc99477",
+    "71095bac2994",
+    "0cb31bba7cd8",
+    "0f34acc8b993"
+   ]
+  },
+  "soil-env-305": {
+   "q": "How are prions transmitted to grazing animals through soil?",
+   "a": "By eating grass growing in contaminated soil; they stay infectious for years and bind tightly to soil particles.",
+   "sent_ids": [
+    "4b0cddaacb9c",
+    "1ccef72007eb",
+    "4d26f0fa2c5c"
+   ]
+  },
+  "soil-hist-147": {
+   "q": "What does photosynthesis usually mean, and what does it release?",
+   "a": "Oxygenic photosynthesis, which splits water and releases oxygen.",
+   "sent_ids": [
+    "b9e87269b5ee",
+    "632d3708a515",
+    "1b3dc2925def"
+   ]
+  },
+  "soil-hist-124": {
+   "q": "What builds up trapped charge in buried quartz or feldspar grains?",
+   "a": "Natural radiation from cosmic rays and traces of potassium, uranium, thorium and rubidium.",
+   "sent_ids": [
+    "5aaa97252a2a",
+    "c90fd4fe0fbb"
+   ]
+  },
+  "soil-hist-149": {
+   "q": "Why is glycolate a problem for photosynthesis?",
+   "a": "It is toxic at high concentration and inhibits photosynthesis.",
+   "sent_ids": [
+    "f35bb95225da",
+    "f59c5830b991",
+    "658a1a2ab18f"
+   ]
+  },
+  "soil-hist-125": {
+   "q": "Why must luminescence grains be extracted without exposure to light?",
+   "a": "Light frees the trapped electrons, so exposure would release the signal.",
+   "sent_ids": [
+    "c1f2d304483f",
+    "c1e824da700a",
+    "282fb564d1e0",
+    "ae864b9f4465"
+   ]
+  },
+  "soil-hist-122": {
+   "q": "Which fraction of peat gives the most reliable radiocarbon date?",
+   "a": "The humins, because they are insoluble in alkali and less contaminated.",
+   "sent_ids": [
+    "9981e50e35ba",
+    "f178e415df1f"
+   ]
+  },
+  "soil-hist-130": {
+   "q": "Where does excess lead-210 in surface soils come from?",
+   "a": "Atmospheric fallout of radon-222 decay products.",
+   "sent_ids": [
+    "f1a396774e66"
+   ]
+  },
+  "soil-hist-036": {
+   "q": "What did Josiah Wedgwood suggest caused the buried lime and cinders at Maer Hall?",
+   "a": "Earthworms.",
+   "sent_ids": [
+    "94c227526397",
+    "2fb18ba4dfd2"
+   ]
+  },
+  "soil-hist-143": {
+   "q": "Where did this soil salinity research begin?",
+   "a": "At Hisar in 1969, moving to Karnal that year.",
+   "sent_ids": [
+    "a7b25bb9456f",
+    "b623f5809897"
+   ]
+  },
+  "soil-hist-032": {
+   "q": "What did soil surveys mainly serve before 1950?",
+   "a": "Farming, ranching and forestry.",
+   "sent_ids": [
+    "312f05bcb4e9",
+    "075f0ced522f"
+   ]
+  },
+  "soil-hist-106": {
+   "q": "What did this man experiment with in his twenties, and why?",
+   "a": "Marl, to rejuvenate land worn out by more than a century of tobacco monoculture.",
+   "sent_ids": [
+    "db9cbee119d9"
+   ]
+  },
+  "soil-hist-110": {
+   "q": "What did he show about where plants get their carbon?",
+   "a": "Plants take their carbon from atmospheric carbon dioxide, not from soil humus.",
+   "sent_ids": [
+    "4e0cf7bbff26",
+    "46f9ec091c4b"
+   ]
+  },
+  "soil-hist-017": {
+   "q": "Who invented the enrichment culture, and why was it hard to isolate nitrifiers?",
+   "a": "Martinus Beijerinck invented it; early nitrification researchers could at first only enrich cultures of nitrifiers rather than isolate them pure.",
+   "sent_ids": [
+    "88fce65c8473",
+    "6e1cec647e9d",
+    "f23348608d46"
+   ]
+  },
+  "soil-hist-047": {
+   "q": "What is the purpose of this international soil science union?",
+   "a": "To promote all branches of soil science and their applications, foster contacts among soil scientists, and stimulate research and its use.",
+   "sent_ids": [
+    "06d4a18c4a95"
+   ]
+  },
+  "soil-hist-052": {
+   "q": "When did Milton Whitney begin field work?",
+   "a": "On May 3, 1899.",
+   "sent_ids": [
+    "eb6faac90a4e",
+    "1bc98c7e7977",
+    "241939568a3d",
+    "f2894a0975d8",
+    "a31ed37bc35b"
+   ]
+  },
+  "soil-hist-056": {
+   "q": "What was the main contribution of this NRCS committee?",
+   "a": "Improving technical standards for describing anthropogenic soils and defining the taxa to classify them.",
+   "sent_ids": [
+    "7ad24149adbb"
+   ]
+  }
+ }
+}

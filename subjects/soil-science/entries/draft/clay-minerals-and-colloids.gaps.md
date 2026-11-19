@@ -8,3 +8,10 @@
 - The ion cloud around charged clay surfaces behind swelling, dispersion and flocculation: Double layer (surface science)
 - Zeolites, named as exceeding smectite CEC and as soil-moisture agrominerals: Zeolite
 - Mica, the parent mineral of illite and vermiculite: Mica
+
+- Cloud forest: off-topic ecology page (only acidic peat soil sentences), skipped
+
+- Oxide mineral: Strunz class lists only; covered by Oxide minerals entry
+- Flocculation industry uses (brewing, cheese, medical): skipped
+
+Chunk 8 held only two Wikipedia pages (no outside sources); nothing missing noted.

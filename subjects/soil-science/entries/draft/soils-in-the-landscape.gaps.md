@@ -16,3 +16,5 @@ Concepts this chapter needs but found no (or too few) crawled sentences for. Sug
 - Ramsar Convention (wetland protection). Page: "Ramsar Convention"
 - Sinkhole and karst (setting of suffosion). Pages: "Sinkhole", "Karst"
 - Suffusion / internal erosion of soils. Page: "Internal erosion"
+
+- Topography (general survey/mapping page) and Wade Hurt (soil scientist) not drafted: low soil relevance.

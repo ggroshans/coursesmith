@@ -8,3 +8,7 @@
 - Electron acceptors and donors as a pair of terms (only via Redox#Oxidants/Reductants and Deep biosphere): Electron acceptor
 - Redox in flooded rice soils, which the Redox page says shaped the field: Paddy field
 - Aquic conditions and hydromorphic soils as the classification face of soil redox: Hydromorphic soil
+
+Arsenic biochemistry and 2,2'-bipyridine skipped (little soil relevance). Suggest: Arsenic in soil redox speciation.
+
+none

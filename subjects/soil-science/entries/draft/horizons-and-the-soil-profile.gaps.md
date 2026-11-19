@@ -10,3 +10,5 @@
 - Perched water table above claypans and hardpans (mentioned, never defined): Perched water table
 - Thin-section preparation behind soil micromorphology (one citation-needed sentence): Thin section
 - Field standards for profile description (USDA Field Book, FAO Guidelines for Soil Description): Field Book for Describing and Sampling Soils
+
+- Nodule (geology): off-topic geology page, no soil entry

@@ -19,3 +19,17 @@
 - Gypsum block / electrical resistance block (soil water potential sensor named on Soil moisture sensor) — "Gypsum block"
 - Guelph permeameter (field unsaturated conductivity, named on Mariotte's bottle) — "Guelph permeameter"
 - Pressure plate apparatus (laboratory retention-curve measurement) — "Pressure plate apparatus"
+
+Generic page; skipped lab-style capillary siphon, microfluidic and building-material examples. Missing: Surface tension, Contact angle, Young-Laplace equation (soil-relevant pages).
+
+Skipped Chlamydomonas moewusii (alga, off-topic), microfluidics/petroleum/blood capillary sections. Missing: Leverett J-function, Young-Laplace equation, Pressure plate apparatus.
+
+Skipped Gypsum block (building material), medical/electrical analogies of Hagen-Poiseuille, hygroscopy biology/baking. Missing: Hygroscopic water (soil term), Gypsum resistance block for soil moisture, Reynolds number, Viscosity.
+
+Skipped reverse/forward osmosis, quantum tunneling, isotopologues, electrical properties. Missing: Turgor pressure, Hydrogen bond, Surface tension, Water potential (check existing).
+
+Gaps: none new; chunk dominated by lab activities (skipped).
+
+none; chunk is mostly lab procedure text.
+
+none; Fractal in soil mechanics skipped (little soil content).

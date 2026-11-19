@@ -9,3 +9,15 @@
 - Black (pyrogenic) carbon as the most stable humus fraction: Black carbon
 - Coarse woody debris on the forest floor (litter larger than 2 cm): Coarse woody debris
 - Microbial necromass as a source of soil organic matter: Necromass
+
+Brown rot (disambiguation) and Home advantage (sports) pages off-topic, skipped. Pectin, inulin, arabinoxylan not drafted.
+
+Aphorism and illustration lines skipped; hydroponics aside not drafted.
+
+none
+
+none
+
+none
+
+none

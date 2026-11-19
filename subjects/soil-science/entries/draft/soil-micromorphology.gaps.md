@@ -1,0 +1,1 @@
+- Industrial CT, EDS-type generic pages skipped (no soil content)

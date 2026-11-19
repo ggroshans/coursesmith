@@ -11,3 +11,8 @@
 - German soil systematics (cited by Soil type): German soil classification
 - French reference system: the crawled Référentiel pédologique page is a bare list of type names plus parser-report text; a prose source is needed: Référentiel pédologique
 - Frame candidates never crawled: Calcid; Necrosol
+
+- Lab activities (state soils quiz, practice keys), county soil survey report walkthrough: skipped
+
+- Sassafras (soil): local series anecdote, skipped
+- Canadian Brunisolic/Podzolic/Luvisolic/Chernozemic details: entries exist, not re-extended

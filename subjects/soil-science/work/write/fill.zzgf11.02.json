@@ -1,0 +1,64 @@
+{
+ "entries": {
+  "soil-env-362": {
+   "title": "Soil care for orchards, vineyards and landscapes",
+   "text": "A tree stays put for decades, so its soil must be right before planting. For tree and vine crops, evaluation should look at deeper layers for hardpans, subsoil acidity and shallow water tables, since fruit quality is strongly influenced by deep roots. One-time investments such as drainage, in-row deep ripping and deep lime and compost incorporation are difficult after planting. After establishment, the emphasis shifts to the surface layer: avoiding {{ref:soil-phys-082}} and keeping good surface mulches."
+  },
+  "soil-env-360": {
+   "title": "Soil health on grain farms",
+   "text": "Grain farms export many nutrients and usually lose organic matter. Their wide choice of equipment, though, makes it easy to adopt reduced-tillage systems. Well-drained coarse soils suit {{ref:soil-agri-117}}, and finer-textured soils do well with strip-till or zone-till. Travel should happen only when soil is dry enough to resist compaction.\n\nNo-till on easily compacted soils is hard because few options relieve compaction. Controlled-traffic farming is promising but may need new equipment and GPS guidance. Even with minimum tillage, {{ref:soil-agri-004}} with perennial grass or legume forages, or small grains in a corn-soybean system, improves soil health and opens space for cover crops."
+  },
+  "soil-env-361": {
+   "title": "Soil health on vegetable farms",
+   "text": "Vegetable farms face the hardest case. Crops are compaction-sensitive, pests are demanding and the land has long been worked hard. Most vegetable farms lack livestock, so fresh organic matter must be brought in as manure, compost, leaves, grass clippings or food waste compost, checked for contaminants.\n\nThe shorter main cropping season leaves time for pre-, mid- or post-season cover crops, and mulch from them keeps fresh-market produce off the ground, reducing rot. Choice of {{ref:soil-agri-066}} or rotation crop is critical: bean root rot is suppressed by rapeseed, crown vetch, wheat and rye but enhanced by white clover."
+  },
+  "soil-env-363": {
+   "title": "Terroir: why the best wine soils are not rich",
+   "text": "Winemakers prize a soil that is not too generous. Terroir is the complex interaction of soil, climate and vine that shapes wine. The best wines tend to come from soils that are not overly fertile and that permit some water stress, since high organic matter and nitrogen cause excess vegetative growth and reduce fruit set.\n\nMild water stress and reduced root growth between bloom and ripening increase anthocyanin pigments, which add to wine taste and color. Many top wine soils are deep, calcareous, sandy or gravelly and low in organic matter, while poor drainage and aeration harm quality."
+  },
+  "soil-env-331": {
+   "title": "Reading a fertilizer label and doing the math",
+   "text": "The three numbers on a fertilizer bag are its grade: the percentage by weight of nitrogen, phosphorus as P2O5 and potassium as K2O. A 15-10-10 fertilizer holds 15% N, 10% P2O5 and 10% K2O by weight, so the nutrient in a bag is its weight times the percentage. See {{ref:soil-fert-001}} and {{ref:soil-fert-003}} for the nutrients themselves.\n\nElemental amounts convert from oxide forms by factors: P = P2O5 x 0.44, P2O5 = P x 2.29, K = K2O x 0.83 and K2O = K x 1.21. To work out how much to apply, one needs the nutrient rate per unit area, the grade and the area. For manure, one also needs the N available in the season, with a rule of thumb of 60%.\n\nIn a worked example, to supply 2 lb N per 1,000 sq ft with a 30-0-0 fertilizer, divide the rate by 0.30 to get fertilizer per 1,000 sq ft. Then multiply by 150 for 150,000 sq ft."
+  },
+  "soil-env-366": {
+   "title": "Biodrilling: letting roots break up compacted soil",
+   "text": "Roots can do the work of a subsoiler. Biodrilling, or biological tillage, uses plant roots to create channels through compacted layers. If tillage leaves them undisturbed, the bio-pores left after roots die and decompose let later crops reach soil below the {{ref:soil-phys-082}} layer.\n\nThree factors make it work: roots must grow when soil is moist, species differ in root pressure, and macropores must be left intact by avoiding tillage. Tap-rooted forage radish had about twice as many roots as fibrous-rooted cereal rye at 15 to 50 cm depth under compaction."
+  },
+  "soil-env-327": {
+   "title": "Inherent versus dynamic soil quality",
+   "text": "Some of a soil's character is fixed, and some is up to the manager. Inherent soil quality is a soil's natural ability to function, while dynamic soil quality is how the soil changes with the way it is managed. Inherent properties change little: a sandy soil drains faster than a clayey one, and a deep soil gives roots more room than a soil with bedrock near the surface.\n\nManagement can change dynamic properties such as organic matter, soil structure, and water and nutrient holding capacity. Soils respond differently to the same management because of their inherent properties, so how those properties vary across the landscape should be considered. Both belong to {{ref:soil-env-179}}."
+  },
+  "soil-env-371": {
+   "title": "Adding carbon to soil with compost and other amendments",
+   "text": "An organic amendment is any carbon-based material added to soil. Compost is one that has been partially decomposed before application, as covered in {{ref:soil-fert-028}}. Added carbon improves infiltration, water holding capacity, microbial activity, cation exchange capacity and nutrient availability, and carbon applied over time relates positively to soil organic carbon.\n\nComposting is aerobic microbial decomposition needing managed oxygen, moisture, temperature and C:N ratio. It cuts volume by about 50% and, at high temperature, reduces pathogens. Composted manure releases more nutrients in years 2 and 3 than in the year applied, so timing relative to crop uptake matters.\n\nDegraded soils gain most, so amendments can be targeted to sandy knolls or compacted areas. Effects can last decades and offset erosion damage. The main constraints by source are pathogens in manure and biosolids, salts in food waste, and N and P immobilization from wood waste."
+  },
+  "soil-env-370": {
+   "title": "What soils do for us: functions and services",
+   "text": "Soils work, and what they do for people are called ecosystem services. Soil functions are bundles of attributes and processes, and its capacity to function powers those services. Soil health or quality is commonly defined as the capacity of a soil to sustain biological productivity, environmental quality, and plant, animal and human health, the idea behind {{ref:soil-env-174}}.\n\nNo single measurement quantifies it; it must be inferred from many attributes, processes and contexts. Example indicators are aggregate stability and organic matter for erosion control, infiltration rate and available water capacity for water supply, and respiration and organic carbon for climate regulation."
+  },
+  "soil-env-369": {
+   "title": "Turning soil tests into a health score",
+   "text": "A soil health score converts each test result into a relative score using a curve, then averages the scores, with higher meaning healthier. Indicators should be interpreted against reference values taken from an undisturbed soil, a highly productive soil, or the distribution of samples from comparable land uses or regions. The inputs come from {{ref:soil-env-177}}.\n\nScoring curves have three shapes: more is better (soil organic matter), optimum is best (nutrients, pH) and less is better (salinity). Curve shapes come from expert opinion or literature. With regional datasets such as Cornell CASH, scores of 0 to 100 show rank within that region. A criticism is that a soil can score high yet not support plant growth, so it would not by definition be healthy."
+  },
+  "soil-env-368": {
+   "title": "Judging soil health by eye with a spade",
+   "text": "A spade, water and under an hour can tell you a good deal. Visual soil assessment judges soil health indicators in the field by eye and simple tools, giving quick results mainly on surface soil and physical attributes. Examining a sample coarsely shows texture, aggregation, structure, compaction and infiltration.\n\nWith simple tools it can also address pH, respiration and earthworm counts, and score cards with visual keys guide non-experts. Its limit is that visual assessments alone cannot judge how well ecosystem services perform, so they work best with analytical tests. CAT scans can measure porosity, connectivity and crusting."
+  },
+  "soil-env-367": {
+   "title": "Why compaction keeps coming back",
+   "text": "Farmers know compaction is harmful, yet it persists, because field work is often forced onto wet soil and farm equipment keeps getting heavier. Larger farms must cover more ground, so seeding, spraying or harvesting may happen when conditions are too wet. Monitoring axle loads and tire inflation, and avoiding wet-soil field work, help avoid {{ref:soil-phys-082}}.\n\nThe cure is costly. Subsoiling with a chisel plow takes fuel and time, must be done when soil is dry enough to fracture the plow pan, and needs repeating after a few years if the causes are unchanged."
+  },
+  "soil-env-339": {
+   "title": "Why soil problems rarely come alone",
+   "text": "Physical, chemical and biological properties of soil are linked, so a problem in one often causes problems in others. Soil must be managed as a whole. {{ref:soil-phys-082}} removes large pores, so large organisms such as earthworms cannot move or survive, and waterlogging can denitrify nitrate to N2 and the greenhouse gas N2O.\n\nSodium-rich soils, common in arid climates, have aggregates that break apart, leaving few pores for air exchange and drainage. And low organic matter and poor structure limit plant growth even when nutrient supply is optimal."
+  },
+  "soil-env-354": {
+   "title": "When adding beneficial microbes pays off",
+   "text": "In soil with high biological diversity and activity, inoculating seeds or transplants with beneficial organisms usually brings little advantage. The exception is legume seed, which should still get its rhizobia. Interest is growing in microbes that make growth hormones, help plants resist disease and pests, reach water and nutrients or cope with drought and wet stress, but no general recommendations exist. See {{ref:soil-bio-070}}.\n\nInoculants may help in stressful settings: low organic matter, dry or moderately to highly saline soil, and newly farmed fields, especially urban soils. Dipping transplants in mycorrhizae may pay off if no cover crop was grown that year, particularly after a brassica, which forms no mycorrhizal association."
+  },
+  "soil-env-351": {
+   "title": "Testing aggregate stability in a jar",
+   "text": "Two jars of water tell a lot about a soil. Gently drop aggregates from the top 3 to 4 inches into the water and see whether they hold or slake; a soil that seals readily has unstable aggregates, a concern covered in {{ref:soil-phys-004}}. If broken-up aggregates also stay dispersed in suspension, high sodium may be a problem, usually in arid and semiarid regions.\n\nA spade test checks structure. A good plow layer is fluffy with granules of about a quarter inch, and subsoil clumps should come apart easily into aggregates of several inches."
+  }
+ }
+}

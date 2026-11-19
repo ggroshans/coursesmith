@@ -33,3 +33,11 @@ Concepts expected in this range with no crawled page or too few sentences:
 - Streptomyces, the main soil source of geosmin — `Streptomyces`
 - Earthworms spreading beyond their native range (Lumbricus terrestris in North America) — `Earthworms as invasive species`
 - Systemic acquired resistance induced by inoculants — `Systemic acquired resistance`
+
+- Actinomycetes page was taxonomy only; skipped. Fungus page: mycotoxins, human uses not soil-relevant
+
+- Biomass table (organisms per acre-furrow-slice) skipped, units ambiguous; lab activity steps skipped
+
+None found; chunk is a textbook chapter (Building Soils 4e ch.4) covered by extensions.
+
+Digging into Canadian Soils 1.6: Trophic interactions section (91 sentences), Plant-microbe interactions and Protozoa/Algae/Microarthropod subsections not drafted beyond existing entries.

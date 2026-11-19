@@ -1,0 +1,1 @@
+- none (Market concentration skipped as generic)

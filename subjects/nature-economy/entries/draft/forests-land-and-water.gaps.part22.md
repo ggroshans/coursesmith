@@ -1,0 +1,2 @@
+- Tariff (own page not in chunk)
+- Comparative advantage extensions are covered

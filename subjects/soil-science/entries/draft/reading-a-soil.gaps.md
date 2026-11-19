@@ -6,3 +6,5 @@
 - Calcifuge and calcicole plants (pH indicator plants; only lists on Soil pH): `Calcifuge`, `Calcicole`
 - Ellenberg's indicator values (used to calibrate pH from vegetation; one mention): `Ellenberg's indicator values`
 - Mottling in soils (described only within Gleysol, Soil color and the Canadian system): `Mottle (soil)`
+
+Mottle page is generic (plants, skin, paint, print); no soil sentences beyond three also-on lines. Suggest page: Redoximorphic mottles / Soil mottling (USDA field guide).

@@ -10,3 +10,10 @@ Thin chapter: seven pages, 12 entries against a target of 25. Land evaluation it
 - Geostatistics, on which pedometric mapping rests: Geostatistics
 - Proximal soil sensing and soil spectroscopy (listed as pedometric inputs, never described): Proximal soil sensing
 - Soil map units and soil associations, the delineations a survey maps: Soil association
+
+- Land evaluation (FAO framework): no crawled page
+- Soil survey scales and map legends: Soil Survey Manual
+Skipped: Centimorgan (genetics, no soil relevance), Stereoscopy (3D imaging, no soil content), lab activity text.
+
+- Land evaluation (FAO framework): no crawled page
+Skipped: Web Soil Survey lab activity (facts folded into the Web Soil Survey replacement in part02), Aral Sea case, US zoning history.

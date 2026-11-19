@@ -1,0 +1,1 @@
+{"soil-hist-147":[{"type":"flow","caption":"Light reactions feed the Calvin cycle, which builds sugars from CO2.","sent_ids":["1ff4222e9622"],"mermaid":"flowchart LR\nA[Light and water] --> B[Light reactions]\nB -->|ATP and NADPH| C[Calvin cycle]\nD[Atmospheric CO2] --> C\nC --> E[Sugars]"}]}

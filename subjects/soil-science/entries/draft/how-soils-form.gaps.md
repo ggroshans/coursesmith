@@ -9,3 +9,10 @@
 - Krotovinas (filled burrows; one sentence on Soil formation): Krotovina
 - Mima mounds (biomantle and bioturbation origin; crawled but out of scope): Mima mounds
 - Paleopedology as a discipline (assigned to usda-soil-orders, but it is the study behind Paleosol): Paleopedology
+
+- Soil Taxonomy counts differ in lab manual (225 great groups) vs existing entry; curated tier, not changed
+- Moorberg manual parent-material table (Table 3.7) and mineral weathering table only partly in dossier
+
+- Soil Taxonomy hierarchy counts in lab manual differ from Wikipedia; left to classification chapter
+
+- Digging into Canadian Soils sections on Canadian classification, andic/brunisolic pathways in more depth

@@ -82,10 +82,11 @@ class Registry:
 
     # -- lookup ---------------------------------------------------------------------
     def maybe_for_key(self, key):
-        for a in self.adapters:
-            if a.owns(key):
+        owners = [a for a in self.adapters if a.owns(key)]
+        for a in owners:  # two sources on one host (two books of one site) are told apart by their allowlists
+            if len(owners) > 1 and a.allowed(key):
                 return a
-        return None
+        return owners[0] if owners else None
 
     def for_key(self, key):
         a = self.maybe_for_key(key)

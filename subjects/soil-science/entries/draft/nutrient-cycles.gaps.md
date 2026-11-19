@@ -10,3 +10,11 @@
 - Sulfate reducers in waterlogged soils and sediments (Sulfur cycle page is mostly marine): Sulfate-reducing microorganism
 - Plant and microbial uptake of sulfate: Sulfur assimilation
 - Iron-oxidizing bacteria (entry facts from Iron cycle § Bacterial influences only): Iron-oxidizing bacteria
+
+- Alluvium and floodplain fertility (page: Alluvial soil)
+- Shifting cultivation nutrient replenishment (page: Shifting cultivation)
+- Nutrient balance indicators (page: Nutrient balance)
+
+- Water-filled pore space and denitrification thresholds (page: Soil aeration)
+- Phosphorus tillage stratification under no-till (page: No-till farming)
+- Potassium, calcium and magnesium cycling in soil (section text beyond dossier not drafted; covered by existing Potassium cycle)

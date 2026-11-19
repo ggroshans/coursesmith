@@ -15,2450 +15,2805 @@ _Reorder by moving entry lines (keep each `<!-- id -->`), then run `coursesmith 
 5. **Edaphology** — Foundational · Concept · Major · builds on: Soil science (2), Soil (1) <!-- soil-found-097 -->
 6. **Soil composition** — Foundational · Concept · Landmark · builds on: Soil (1) <!-- soil-found-078 -->
 7. **Uses of soil** — Foundational · Concept · Major · builds on: Soil (1) <!-- soil-found-081 -->
-8. **Soil reclamation** — Intermediate · Practice · Minor · builds on: Soil (1), Soil composition (6) <!-- soil-found-082 -->
-9. **Soil as a natural body** — Foundational · Concept · Major · builds on: Soil (1), Soil science (2) <!-- soil-found-091 -->
-10. **Soil functions** — Foundational · Concept · Major · builds on: Soil (1) <!-- soil-env-181 -->
-11. **Soil health** — Foundational · Concept · Landmark · builds on: Soil (1), Soil functions (10) <!-- soil-env-174 -->
-12. **Soil quality** — Foundational · Concept · Major · builds on: Soil (1), Soil functions (10) <!-- soil-env-179 -->
-13. **Principles of pedology** — Intermediate · Concept · Major · builds on: Pedology (4) <!-- soil-found-096 -->
-14. **Soil science in practice** — Intermediate · Practice · Minor · builds on: Soil science (2) <!-- soil-found-093 -->
-15. **Vernacular soil classification** — Foundational · Classification · Minor · builds on: Soil (1) <!-- soil-found-092 -->
-16. **Atmospheric inputs to soil** — Intermediate · Process · Minor · builds on: Pedosphere (3), Soil (1) <!-- soil-found-086 -->
-17. **Forest soils** — Intermediate · Concept · Minor · builds on: Pedosphere (3), Soil (1) <!-- soil-found-087 -->
-18. **Grassland and desert soils** — Intermediate · Concept · Minor · builds on: Pedosphere (3), Soil (1) <!-- soil-found-089 -->
-19. **Pioneer organisms in soil formation** — Intermediate · Process · Minor · builds on: Pedosphere (3), Soil (1) <!-- soil-found-085 -->
-20. **Tropical forest soils** — Intermediate · Concept · Minor · builds on: Forest soils (17), Pedosphere (3) <!-- soil-found-088 -->
-21. **Industrialization and edaphology** — Intermediate · Concept · Minor · builds on: Edaphology (5) <!-- soil-found-099 -->
-22. **Van Helmont's willow experiment** — Foundational · Event · Minor · builds on: Edaphology (5), Soil (1) <!-- soil-found-098 -->
+8. **Soil as a natural body** — Foundational · Concept · Major · builds on: Soil (1), Soil science (2) <!-- soil-found-091 -->
+9. **Soil functions** — Foundational · Concept · Major · builds on: Soil (1) <!-- soil-env-181 -->
+10. **Soil health** — Foundational · Concept · Landmark · builds on: Soil (1), Soil functions (9) <!-- soil-env-174 -->
+11. **Soil quality** — Foundational · Concept · Major · builds on: Soil (1), Soil functions (9) <!-- soil-env-179 -->
+12. **Principles of pedology** — Intermediate · Concept · Major · builds on: Pedology (4) <!-- soil-found-096 -->
+13. **Soil science in practice** — Intermediate · Practice · Minor · builds on: Soil science (2) <!-- soil-found-093 -->
+14. **Vernacular soil classification** — Foundational · Classification · Minor · builds on: Soil (1) <!-- soil-found-092 -->
+15. **Atmospheric inputs to soil** — Intermediate · Process · Minor · builds on: Pedosphere (3), Soil (1) <!-- soil-found-086 -->
+16. **Forest soils** — Intermediate · Concept · Minor · builds on: Pedosphere (3), Soil (1) <!-- soil-found-087 -->
+17. **Grassland and desert soils** — Intermediate · Concept · Minor · builds on: Pedosphere (3), Soil (1) <!-- soil-found-089 -->
+18. **Pioneer organisms in soil formation** — Intermediate · Process · Minor · builds on: Pedosphere (3), Soil (1) <!-- soil-found-085 -->
+19. **Tropical forest soils** — Intermediate · Concept · Minor · builds on: Forest soils (16), Pedosphere (3) <!-- soil-found-088 -->
+20. **Industrialization and edaphology** — Intermediate · Concept · Minor · builds on: Edaphology (5) <!-- soil-found-099 -->
+21. **Van Helmont's willow experiment** — Foundational · Event · Minor · builds on: Edaphology (5), Soil (1) <!-- soil-found-098 -->
+22. **Biological soil crust** — Intermediate · Concept · Minor <!-- soil-phys-032 -->
 23. **Earth's critical zone** — Intermediate · Concept · Major · builds on: Pedosphere (3), Soil (1) <!-- soil-found-115 -->
 24. **Soil solution** — Foundational · Concept · Major · builds on: Soil composition (6) <!-- soil-found-079 -->
 25. **What counts as soil** — Intermediate · Debate · Major · builds on: Soil (1) <!-- soil-found-080 -->
 
 ### What soil is made of
 
-26. **Soil organic matter** — Foundational · Material · Landmark · builds on: Soil (1), Soil composition (6) <!-- soil-found-045 -->
-27. **Mineral** — Foundational · Material · Landmark · builds on: Soil (1) <!-- soil-found-029 -->
-28. **Weathering** — Foundational · Process · Landmark · builds on: Mineral (27), Soil (1) <!-- soil-found-052 -->
-29. **Climate and organic matter accumulation** — Intermediate · Concept · Major · builds on: Soil organic matter (26) <!-- soil-found-050 -->
-30. **Soil organic matter in the carbon cycle** — Intermediate · Concept · Major · builds on: Soil organic matter (26) <!-- soil-found-049 -->
-31. **Chemical weathering** — Intermediate · Process · Major · builds on: Weathering (28), Mineral (27) <!-- soil-found-058 -->
-32. **Biological weathering** — Intermediate · Process · Major · builds on: Weathering (28), Chemical weathering (31) <!-- soil-found-063 -->
-33. **Dissolution weathering** — Intermediate · Process · Major · builds on: Chemical weathering (31) <!-- soil-found-059 -->
-34. **Oxidation weathering** — Intermediate · Process · Major · builds on: Chemical weathering (31) <!-- soil-found-061 -->
-35. **Physical weathering** — Foundational · Process · Major · builds on: Weathering (28) <!-- soil-found-053 -->
-36. **Composition of plant residues** — Foundational · Concept · Minor · builds on: Soil organic matter (26) <!-- soil-found-048 -->
-37. **Soil organic carbon with depth** — Intermediate · Concept · Minor · builds on: Soil organic matter (26), Soil (1) <!-- soil-found-046 -->
-38. **Frost weathering** — Intermediate · Process · Minor · builds on: Physical weathering (35) <!-- soil-found-054 -->
-39. **Mineral hydration** — Intermediate · Process · Minor · builds on: Chemical weathering (31) <!-- soil-found-062 -->
-40. **Pressure release weathering** — Intermediate · Process · Minor · builds on: Physical weathering (35) <!-- soil-found-056 -->
-41. **Salt weathering** — Intermediate · Process · Minor · builds on: Physical weathering (35) <!-- soil-found-057 -->
-42. **Thermal stress weathering** — Intermediate · Process · Minor · builds on: Physical weathering (35) <!-- soil-found-055 -->
-43. **Mineral chemistry** — Intermediate · Concept · Major · builds on: Mineral (27) <!-- soil-found-030 -->
-44. **Oxide minerals** — Intermediate · Material · Major · builds on: Mineral (27) <!-- soil-found-035 -->
-45. **Rock-forming minerals** — Foundational · Concept · Major · builds on: Mineral (27) <!-- soil-found-037 -->
-46. **Silicate minerals** — Intermediate · Classification · Major · builds on: Mineral (27), Mineral chemistry (43) <!-- soil-found-031 -->
-47. **Framework silicates** — Intermediate · Material · Major · builds on: Silicate minerals (46) <!-- soil-found-032 -->
-48. **Phyllosilicates** — Intermediate · Classification · Major · builds on: Silicate minerals (46) <!-- soil-found-033 -->
-49. **Clay** — Foundational · Material · Landmark · builds on: Phyllosilicates (48), Soil (1) <!-- soil-found-040 -->
-50. **Soil texture** — Foundational · Concept · Landmark · builds on: Clay (49), Soil composition (6) <!-- soil-found-051 -->
-51. **Clay formation** — Intermediate · Process · Major · builds on: Clay (49), Weathering (28), Silicate minerals (46) <!-- soil-found-041 -->
-52. **Clay as a building material** — Foundational · Practice · Minor · builds on: Clay (49) <!-- soil-found-044 -->
-53. **Clay varieties** — Intermediate · Classification · Minor · builds on: Clay (49), Phyllosilicates (48) <!-- soil-found-042 -->
-54. **Uses of clay** — Foundational · Practice · Minor · builds on: Clay (49) <!-- soil-found-043 -->
-55. **Hydrolysis and carbonation** — Intermediate · Process · Major · builds on: Chemical weathering (31), Silicate minerals (46), Clay (49) <!-- soil-found-060 -->
-56. **Weathering in soil formation** — Intermediate · Process · Major · builds on: Chemical weathering (31), Rock-forming minerals (45), Clay (49), Oxide minerals (44) <!-- soil-found-064 -->
-57. **Mineralogy** — Intermediate · Concept · Minor · builds on: Mineral (27) <!-- soil-found-119 -->
-58. **Biogenic minerals debate** — Advanced · Debate · Minor · builds on: Mineral (27) <!-- soil-found-039 -->
-59. **Carbonate minerals** — Intermediate · Material · Minor · builds on: Mineral (27) <!-- soil-found-034 -->
-60. **Calcite** — Intermediate · Material · Minor · builds on: Carbonate minerals (59), Mineral (27) <!-- soil-found-118 -->
-61. **Mineral identification** — Foundational · Method · Minor · builds on: Mineral (27) <!-- soil-found-038 -->
-62. **Sulfate minerals** — Intermediate · Material · Minor · builds on: Mineral (27) <!-- soil-found-036 -->
-63. **Phytolith** — Intermediate · Material · Minor · builds on: Mineral (27), Soil organic matter (26) <!-- soil-found-120 -->
-64. **Mineral-associated organic matter** — Advanced · Concept · Major · builds on: Soil organic matter (26), Clay (49), Oxide minerals (44) <!-- soil-found-047 -->
-65. **Weathering rind** — Intermediate · Concept · Minor · builds on: Chemical weathering (31), Weathering (28) <!-- soil-found-122 -->
+26. **Mineral** — Foundational · Material · Landmark · builds on: Soil (1) <!-- soil-found-029 -->
+27. **Weathering** — Foundational · Process · Landmark · builds on: Mineral (26), Soil (1) <!-- soil-found-052 -->
+28. **Chemical weathering** — Intermediate · Process · Major · builds on: Weathering (27), Mineral (26) <!-- soil-found-058 -->
+29. **Biological weathering** — Intermediate · Process · Major · builds on: Weathering (27), Chemical weathering (28) <!-- soil-found-063 -->
+30. **Dissolution weathering** — Intermediate · Process · Major · builds on: Chemical weathering (28) <!-- soil-found-059 -->
+31. **Oxidation weathering** — Intermediate · Process · Major · builds on: Chemical weathering (28) <!-- soil-found-061 -->
+32. **Physical weathering** — Foundational · Process · Major · builds on: Weathering (27) <!-- soil-found-053 -->
+33. **Composition of plant residues** — Foundational · Concept · Minor <!-- soil-found-048 -->
+34. **Soil organic carbon with depth** — Intermediate · Concept · Minor · builds on: Soil (1) <!-- soil-found-046 -->
+35. **Frost weathering** — Intermediate · Process · Minor · builds on: Physical weathering (32) <!-- soil-found-054 -->
+36. **Mineral hydration** — Intermediate · Process · Minor · builds on: Chemical weathering (28) <!-- soil-found-062 -->
+37. **Pressure release weathering** — Intermediate · Process · Minor · builds on: Physical weathering (32) <!-- soil-found-056 -->
+38. **Salt weathering** — Intermediate · Process · Minor · builds on: Physical weathering (32) <!-- soil-found-057 -->
+39. **Thermal stress weathering** — Intermediate · Process · Minor · builds on: Physical weathering (32) <!-- soil-found-055 -->
+40. **Mineral chemistry** — Intermediate · Concept · Major · builds on: Mineral (26) <!-- soil-found-030 -->
+41. **Oxide minerals** — Intermediate · Material · Major · builds on: Mineral (26) <!-- soil-found-035 -->
+42. **Rock-forming minerals** — Foundational · Concept · Major · builds on: Mineral (26) <!-- soil-found-037 -->
+43. **Silicate minerals** — Intermediate · Classification · Major · builds on: Mineral (26), Mineral chemistry (40) <!-- soil-found-031 -->
+44. **Framework silicates** — Intermediate · Material · Major · builds on: Silicate minerals (43) <!-- soil-found-032 -->
+45. **Phyllosilicates** — Intermediate · Classification · Major · builds on: Silicate minerals (43) <!-- soil-found-033 -->
+46. **Clay** — Foundational · Material · Landmark · builds on: Phyllosilicates (45), Soil (1) <!-- soil-found-040 -->
+47. **Soil texture** — Foundational · Concept · Landmark · builds on: Clay (46), Soil composition (6) <!-- soil-found-051 -->
+48. **Clay formation** — Intermediate · Process · Major · builds on: Clay (46), Weathering (27), Silicate minerals (43) <!-- soil-found-041 -->
+49. **Hydrolysis and carbonation** — Intermediate · Process · Major · builds on: Chemical weathering (28), Silicate minerals (43), Clay (46) <!-- soil-found-060 -->
+50. **Weathering in soil formation** — Intermediate · Process · Major · builds on: Chemical weathering (28), Rock-forming minerals (42), Clay (46), Oxide minerals (41) <!-- soil-found-064 -->
+51. **Clay as a building material** — Foundational · Practice · Minor · builds on: Clay (46) <!-- soil-found-044 -->
+52. **Clay varieties** — Intermediate · Classification · Minor · builds on: Clay (46), Phyllosilicates (45) <!-- soil-found-042 -->
+53. **Uses of clay** — Foundational · Practice · Minor · builds on: Clay (46) <!-- soil-found-043 -->
+54. **Mineralogy** — Intermediate · Concept · Minor · builds on: Mineral (26) <!-- soil-found-119 -->
+55. **Biogenic minerals debate** — Advanced · Debate · Minor · builds on: Mineral (26) <!-- soil-found-039 -->
+56. **Carbonate minerals** — Intermediate · Material · Minor · builds on: Mineral (26) <!-- soil-found-034 -->
+57. **Calcite** — Intermediate · Material · Minor · builds on: Carbonate minerals (56), Mineral (26) <!-- soil-found-118 -->
+58. **Mineral identification** — Foundational · Method · Minor · builds on: Mineral (26) <!-- soil-found-038 -->
+59. **Sulfate minerals** — Intermediate · Material · Minor · builds on: Mineral (26) <!-- soil-found-036 -->
+60. **Phytolith** — Intermediate · Material · Minor · builds on: Mineral (26) <!-- soil-found-120 -->
+61. **Mineral-associated organic matter** — Advanced · Concept · Major · builds on: Clay (46), Oxide minerals (41) <!-- soil-found-047 -->
+62. **Weathering rind** — Intermediate · Concept · Minor · builds on: Chemical weathering (28), Weathering (27) <!-- soil-found-122 -->
 
 ### Reading a soil
 
-66. **Soil pH** — Foundational · Concept · Landmark · builds on: Soil (1), Soil solution (24) <!-- soil-found-014 -->
-67. **Soil horizon** — Foundational · Concept · Landmark · builds on: Soil (1) <!-- soil-found-001 -->
-68. **Soil buffering capacity** — Intermediate · Concept · Major · builds on: Soil pH (66) <!-- soil-found-024 -->
-69. **Soil color** — Foundational · Concept · Major · builds on: Soil (1), Soil horizon (67) <!-- soil-found-025 -->
-70. **Aluminium toxicity** — Intermediate · Concept · Major · builds on: Soil pH (66) <!-- soil-found-019 -->
-71. **Factors affecting soil pH** — Intermediate · Concept · Major · builds on: Soil pH (66), Weathering (28), Mineral (27) <!-- soil-found-018 -->
-72. **Measuring soil pH** — Intermediate · Method · Major · builds on: Soil pH (66) <!-- soil-found-016 -->
-73. **Soil pH and nutrient availability** — Intermediate · Concept · Major · builds on: Soil pH (66) <!-- soil-found-020 -->
-74. **Master horizons** — Foundational · Classification · Major · builds on: Soil horizon (67) <!-- soil-found-002 -->
-75. **Lowering soil pH** — Intermediate · Practice · Minor · builds on: Soil pH (66), Soil organic matter (26) <!-- soil-found-023 -->
-76. **Plant pH preferences** — Intermediate · Concept · Minor · builds on: Soil pH (66) <!-- soil-found-017 -->
-77. **Soil pH and soil organisms** — Intermediate · Concept · Minor · builds on: Soil pH (66) <!-- soil-found-022 -->
-78. **Soil pH and water availability** — Intermediate · Concept · Minor · builds on: Soil pH (66) <!-- soil-found-021 -->
-79. **Soil pH classes** — Foundational · Classification · Minor · builds on: Soil pH (66) <!-- soil-found-015 -->
-80. **Australian horizon designations** — Advanced · Classification · Minor · builds on: Master horizons (74) <!-- soil-found-011 -->
-81. **WRB horizon designations** — Advanced · Classification · Minor · builds on: Master horizons (74) <!-- soil-found-010 -->
-82. **Munsell soil color charts** — Intermediate · Method · Major · builds on: Soil color (69) <!-- soil-found-026 -->
-83. **Soil color interpretation** — Intermediate · Concept · Major · builds on: Soil color (69), Soil organic matter (26), Oxidation weathering (34), Oxide minerals (44) <!-- soil-found-027 -->
-84. **Gleying** — Intermediate · Process · Minor · builds on: Soil color interpretation (83), Soil color (69), Oxidation weathering (34) <!-- soil-found-028 -->
-85. **Core sample** — Intermediate · Method · Minor · builds on: Soil (1) <!-- soil-found-117 -->
-86. **Trial pit** — Foundational · Method · Minor · builds on: Soil horizon (67) <!-- soil-found-116 -->
+63. **Soil pH** — Foundational · Concept · Landmark · builds on: Soil (1), Soil solution (24) <!-- soil-found-014 -->
+64. **Soil horizon** — Foundational · Concept · Landmark · builds on: Soil (1) <!-- soil-found-001 -->
+65. **Soil buffering capacity** — Intermediate · Concept · Major · builds on: Soil pH (63) <!-- soil-found-024 -->
+66. **Soil color** — Foundational · Concept · Major · builds on: Soil (1), Soil horizon (64) <!-- soil-found-025 -->
+67. **Aluminium toxicity** — Intermediate · Concept · Major · builds on: Soil pH (63) <!-- soil-found-019 -->
+68. **Factors affecting soil pH** — Intermediate · Concept · Major · builds on: Soil pH (63), Weathering (27), Mineral (26) <!-- soil-found-018 -->
+69. **Measuring soil pH** — Intermediate · Method · Major · builds on: Soil pH (63) <!-- soil-found-016 -->
+70. **Soil pH and nutrient availability** — Intermediate · Concept · Major · builds on: Soil pH (63) <!-- soil-found-020 -->
+71. **Master horizons** — Foundational · Classification · Major · builds on: Soil horizon (64) <!-- soil-found-002 -->
+72. **Lowering soil pH** — Intermediate · Practice · Minor · builds on: Soil pH (63) <!-- soil-found-023 -->
+73. **Plant pH preferences** — Intermediate · Concept · Minor · builds on: Soil pH (63) <!-- soil-found-017 -->
+74. **Soil pH and soil organisms** — Intermediate · Concept · Minor · builds on: Soil pH (63) <!-- soil-found-022 -->
+75. **Soil pH and water availability** — Intermediate · Concept · Minor · builds on: Soil pH (63) <!-- soil-found-021 -->
+76. **Soil pH classes** — Foundational · Classification · Minor · builds on: Soil pH (63) <!-- soil-found-015 -->
+77. **Australian horizon designations** — Advanced · Classification · Minor · builds on: Master horizons (71) <!-- soil-found-011 -->
+78. **WRB horizon designations** — Advanced · Classification · Minor · builds on: Master horizons (71) <!-- soil-found-010 -->
+79. **Munsell soil color charts** — Intermediate · Method · Major · builds on: Soil color (66) <!-- soil-found-026 -->
+80. **Soil color interpretation** — Intermediate · Concept · Major · builds on: Soil color (66), Oxidation weathering (31), Oxide minerals (41) <!-- soil-found-027 -->
+81. **Gleying** — Intermediate · Process · Minor · builds on: Soil color interpretation (80), Soil color (66), Oxidation weathering (31) <!-- soil-found-028 -->
+82. **Core sample** — Intermediate · Method · Minor · builds on: Soil (1) <!-- soil-found-117 -->
+83. **Trial pit** — Foundational · Method · Minor · builds on: Soil horizon (64) <!-- soil-found-116 -->
 
 ## Soil formation and the pedosphere
 
 
 ### Weathering and parent material
 
-87. **Bedrock** — Foundational · Material · Major · builds on: Mineral (27), Weathering (28) <!-- soil-form-102 -->
-88. **Regolith** — Foundational · Concept · Landmark · builds on: Bedrock (87), Weathering (28) <!-- soil-form-097 -->
-89. **Saprolite** — Intermediate · Material · Major · builds on: Chemical weathering (31), Bedrock (87), Regolith (88), Weathering (28) <!-- soil-form-100 -->
-90. **Rock** — Foundational · Material · Major · builds on: Mineral (27) <!-- soil-form-134 -->
-91. **Sedimentary rock** — Foundational · Material · Minor · builds on: Rock (90), Weathering (28) <!-- soil-form-136 -->
-92. **Limestone** — Foundational · Material · Minor · builds on: Sedimentary rock (91), Calcite (60) <!-- soil-form-147 -->
-93. **Asteroid regolith** — Intermediate · Material · Minor · builds on: Regolith (88) <!-- soil-form-098 -->
-94. **Icy regolith on Titan** — Intermediate · Material · Minor · builds on: Regolith (88) <!-- soil-form-099 -->
-95. **Igneous rock** — Foundational · Material · Minor · builds on: Rock (90), Mineral (27) <!-- soil-form-135 -->
-96. **Metamorphic rock** — Foundational · Material · Minor · builds on: Rock (90), Igneous rock (95), Sedimentary rock (91) <!-- soil-form-137 -->
-97. **Deep weathering** — Intermediate · Process · Major · builds on: Chemical weathering (31), Regolith (88), Saprolite (89), Bedrock (87), Weathering (28) <!-- soil-form-101 -->
-98. **Grus** — Intermediate · Material · Minor · builds on: Weathering (28), Rock (90), Saprolite (89) <!-- soil-form-148 -->
-99. **Lithology** — Intermediate · Concept · Minor · builds on: Rock (90), Mineral identification (61) <!-- soil-form-139 -->
-100. **Primary mineral** — Intermediate · Concept · Major · builds on: Mineral (27), Igneous rock (95) <!-- soil-form-140 -->
-101. **Feldspar** — Intermediate · Material · Major · builds on: Silicate minerals (46), Primary mineral (100) <!-- soil-form-141 -->
-102. **Olivine** — Intermediate · Material · Minor · builds on: Silicate minerals (46), Primary mineral (100) <!-- soil-form-145 -->
-103. **Plagioclase** — Intermediate · Material · Minor · builds on: Feldspar (101) <!-- soil-form-142 -->
-104. **Biotite** — Intermediate · Material · Minor · builds on: Silicate minerals (46), Primary mineral (100) <!-- soil-form-144 -->
-105. **Mafic** — Intermediate · Concept · Minor · builds on: Igneous rock (95), Silicate minerals (46), Olivine (102) <!-- soil-form-146 -->
-106. **Stone stripe** — Intermediate · Concept · Minor <!-- soil-form-114 -->
-107. **Orthoclase** — Intermediate · Material · Minor · builds on: Feldspar (101), Igneous rock (95) <!-- soil-form-143 -->
-108. **Rock cycle** — Intermediate · Concept · Minor · builds on: Igneous rock (95), Sedimentary rock (91), Metamorphic rock (96), Weathering (28), Rock (90) <!-- soil-form-138 -->
-109. **Superficial deposits** — Foundational · Material · Minor · builds on: Bedrock (87) <!-- soil-form-103 -->
-110. **Parent material** — Foundational · Concept · Landmark · builds on: Weathering (28), Bedrock (87), Superficial deposits (109), Mineral (27) <!-- soil-form-087 -->
-111. **Transported parent material** — Foundational · Concept · Major · builds on: Parent material (110), Superficial deposits (109) <!-- soil-form-089 -->
-112. **Loess** — Foundational · Material · Major · builds on: Transported parent material (111), Soil texture (50) <!-- soil-form-106 -->
-113. **Alluvium** — Foundational · Material · Major · builds on: Transported parent material (111), Soil texture (50) <!-- soil-form-112 -->
-114. **Colluvium** — Foundational · Material · Major · builds on: Transported parent material (111) <!-- soil-form-113 -->
-115. **Glacial till** — Foundational · Material · Major · builds on: Transported parent material (111) <!-- soil-form-090 -->
-116. **Loess Plateau** — Foundational · Concept · Minor · builds on: Loess (112) <!-- soil-form-110 -->
-117. **Loess soils and fertility** — Intermediate · Concept · Minor · builds on: Loess (112) <!-- soil-form-109 -->
-118. **Loess–paleosol sequences** — Advanced · Concept · Minor · builds on: Loess (112) <!-- soil-form-111 -->
-119. **Non-glacial loess** — Intermediate · Material · Minor · builds on: Loess (112) <!-- soil-form-108 -->
-120. **Residuum** — Foundational · Material · Major · builds on: Parent material (110), Weathering (28), Bedrock (87) <!-- soil-form-088 -->
-121. **Eluvial deposits** — Intermediate · Material · Minor · builds on: Weathering (28), Residuum (120) <!-- soil-form-105 -->
-122. **River channel migration** — Intermediate · Process · Minor · builds on: Alluvium (113) <!-- soil-form-115 -->
-123. **Volcanic ash** — Intermediate · Material · Minor · builds on: Parent material (110), Mineral (27) <!-- soil-form-152 -->
-124. **Cumulose parent material** — Foundational · Material · Minor · builds on: Parent material (110), Soil organic matter (26) <!-- soil-form-095 -->
-125. **Glaciofluvial deposits** — Intermediate · Material · Minor · builds on: Glacial till (115), Transported parent material (111) <!-- soil-form-091 -->
-126. **Periglacial loess** — Intermediate · Material · Minor · builds on: Loess (112), Glaciofluvial deposits (125) <!-- soil-form-107 -->
-127. **Lacustrine parent material** — Foundational · Material · Minor · builds on: Transported parent material (111), Soil texture (50) <!-- soil-form-093 -->
-128. **Glaciolacustrine deposits** — Intermediate · Material · Minor · builds on: Glacial till (115), Lacustrine parent material (127) <!-- soil-form-092 -->
-129. **Marine parent material** — Foundational · Material · Minor · builds on: Transported parent material (111) <!-- soil-form-094 -->
-130. **Volcanic tephra parent material** — Intermediate · Material · Minor · builds on: Transported parent material (111) <!-- soil-form-096 -->
-131. **Lichens and soil formation** — Intermediate · Process · Minor · builds on: Biological weathering (32) <!-- soil-form-153 -->
-132. **Desert varnish** — Intermediate · Material · Minor · builds on: Clay (49), Rock (90) <!-- soil-form-154 -->
-133. **Glacial drift** — Intermediate · Material · Minor · builds on: Parent material (110), Glacial till (115) <!-- soil-form-149 -->
-134. **Moraine** — Intermediate · Concept · Minor · builds on: Glacial till (115), Glacial drift (133) <!-- soil-form-150 -->
-135. **Outwash plain** — Intermediate · Concept · Minor · builds on: Glaciofluvial deposits (125), Moraine (134) <!-- soil-form-151 -->
-136. **Spheroidal weathering** — Intermediate · Process · Minor · builds on: Chemical weathering (31), Bedrock (87), Saprolite (89) <!-- soil-found-121 -->
+84. **Bedrock** — Foundational · Material · Major · builds on: Mineral (26), Weathering (27) <!-- soil-form-102 -->
+85. **Regolith** — Foundational · Concept · Landmark · builds on: Bedrock (84), Weathering (27) <!-- soil-form-097 -->
+86. **Saprolite** — Intermediate · Material · Major · builds on: Chemical weathering (28), Bedrock (84), Regolith (85), Weathering (27) <!-- soil-form-100 -->
+87. **Rock** — Foundational · Material · Major · builds on: Mineral (26) <!-- soil-form-134 -->
+88. **Hydrolysis** — Intermediate · Process · Major · builds on: Chemical weathering (28) <!-- soil-form-172 -->
+89. **Sedimentary rock** — Foundational · Material · Minor · builds on: Rock (87), Weathering (27) <!-- soil-form-136 -->
+90. **Limestone** — Foundational · Material · Minor · builds on: Sedimentary rock (89), Calcite (57) <!-- soil-form-147 -->
+91. **Asteroid regolith** — Intermediate · Material · Minor · builds on: Regolith (85) <!-- soil-form-098 -->
+92. **Icy regolith on Titan** — Intermediate · Material · Minor · builds on: Regolith (85) <!-- soil-form-099 -->
+93. **Igneous rock** — Foundational · Material · Minor · builds on: Rock (87), Mineral (26) <!-- soil-form-135 -->
+94. **Metamorphic rock** — Foundational · Material · Minor · builds on: Rock (87), Igneous rock (93), Sedimentary rock (89) <!-- soil-form-137 -->
+95. **Grus** — Intermediate · Material · Minor · builds on: Weathering (27), Rock (87), Saprolite (86) <!-- soil-form-148 -->
+96. **Deep weathering** — Intermediate · Process · Major · builds on: Chemical weathering (28), Regolith (85), Saprolite (86), Bedrock (84), Weathering (27) <!-- soil-form-101 -->
+97. **Lithology** — Intermediate · Concept · Minor · builds on: Rock (87), Mineral identification (58) <!-- soil-form-139 -->
+98. **Primary mineral** — Intermediate · Concept · Major · builds on: Mineral (26), Igneous rock (93) <!-- soil-form-140 -->
+99. **Feldspar** — Intermediate · Material · Major · builds on: Silicate minerals (43), Primary mineral (98) <!-- soil-form-141 -->
+100. **Olivine** — Intermediate · Material · Minor · builds on: Silicate minerals (43), Primary mineral (98) <!-- soil-form-145 -->
+101. **Plagioclase** — Intermediate · Material · Minor · builds on: Feldspar (99) <!-- soil-form-142 -->
+102. **Biotite** — Intermediate · Material · Minor · builds on: Silicate minerals (43), Primary mineral (98) <!-- soil-form-144 -->
+103. **Mafic** — Intermediate · Concept · Minor · builds on: Igneous rock (93), Silicate minerals (43), Olivine (100) <!-- soil-form-146 -->
+104. **Stone stripe** — Intermediate · Concept · Minor <!-- soil-form-114 -->
+105. **Orthoclase** — Intermediate · Material · Minor · builds on: Feldspar (99), Igneous rock (93) <!-- soil-form-143 -->
+106. **Rock cycle** — Intermediate · Concept · Minor · builds on: Igneous rock (93), Sedimentary rock (89), Metamorphic rock (94), Weathering (27), Rock (87) <!-- soil-form-138 -->
+107. **Superficial deposits** — Foundational · Material · Minor · builds on: Bedrock (84) <!-- soil-form-103 -->
+108. **Parent material** — Foundational · Concept · Landmark · builds on: Weathering (27), Bedrock (84), Superficial deposits (107), Mineral (26) <!-- soil-form-087 -->
+109. **Transported parent material** — Foundational · Concept · Major · builds on: Parent material (108), Superficial deposits (107) <!-- soil-form-089 -->
+110. **Loess** — Foundational · Material · Major · builds on: Transported parent material (109), Soil texture (47) <!-- soil-form-106 -->
+111. **Alluvium** — Foundational · Material · Major · builds on: Transported parent material (109), Soil texture (47) <!-- soil-form-112 -->
+112. **Colluvium** — Foundational · Material · Major · builds on: Transported parent material (109) <!-- soil-form-113 -->
+113. **Glacial till** — Foundational · Material · Major · builds on: Transported parent material (109) <!-- soil-form-090 -->
+114. **Loess Plateau** — Foundational · Concept · Minor · builds on: Loess (110) <!-- soil-form-110 -->
+115. **Loess soils and fertility** — Intermediate · Concept · Minor · builds on: Loess (110) <!-- soil-form-109 -->
+116. **Loess–paleosol sequences** — Advanced · Concept · Minor · builds on: Loess (110) <!-- soil-form-111 -->
+117. **Non-glacial loess** — Intermediate · Material · Minor · builds on: Loess (110) <!-- soil-form-108 -->
+118. **Residuum** — Foundational · Material · Major · builds on: Parent material (108), Weathering (27), Bedrock (84) <!-- soil-form-088 -->
+119. **Eluvial deposits** — Intermediate · Material · Minor · builds on: Weathering (27), Residuum (118) <!-- soil-form-105 -->
+120. **River channel migration** — Intermediate · Process · Minor · builds on: Alluvium (111) <!-- soil-form-115 -->
+121. **Volcanic ash** — Intermediate · Material · Minor · builds on: Parent material (108), Mineral (26) <!-- soil-form-152 -->
+122. **Cumulose parent material** — Foundational · Material · Minor · builds on: Parent material (108) <!-- soil-form-095 -->
+123. **Glaciofluvial deposits** — Intermediate · Material · Minor · builds on: Glacial till (113), Transported parent material (109) <!-- soil-form-091 -->
+124. **Periglacial loess** — Intermediate · Material · Minor · builds on: Loess (110), Glaciofluvial deposits (123) <!-- soil-form-107 -->
+125. **Lacustrine parent material** — Foundational · Material · Minor · builds on: Transported parent material (109), Soil texture (47) <!-- soil-form-093 -->
+126. **Glaciolacustrine deposits** — Intermediate · Material · Minor · builds on: Glacial till (113), Lacustrine parent material (125) <!-- soil-form-092 -->
+127. **Marine parent material** — Foundational · Material · Minor · builds on: Transported parent material (109) <!-- soil-form-094 -->
+128. **Volcanic tephra parent material** — Intermediate · Material · Minor · builds on: Transported parent material (109) <!-- soil-form-096 -->
+129. **Lichens and soil formation** — Intermediate · Process · Minor · builds on: Biological weathering (29) <!-- soil-form-153 -->
+130. **Desert varnish** — Intermediate · Material · Minor · builds on: Clay (46), Rock (87) <!-- soil-form-154 -->
+131. **Glacial drift** — Intermediate · Material · Minor · builds on: Parent material (108), Glacial till (113) <!-- soil-form-149 -->
+132. **Moraine** — Intermediate · Concept · Minor · builds on: Glacial till (113), Glacial drift (131) <!-- soil-form-150 -->
+133. **Outwash plain** — Intermediate · Concept · Minor · builds on: Glaciofluvial deposits (123), Moraine (132) <!-- soil-form-151 -->
+134. **Spheroidal weathering** — Intermediate · Process · Minor · builds on: Chemical weathering (28), Bedrock (84), Saprolite (86) <!-- soil-found-121 -->
 
 ### Horizons and the soil profile
 
-137. **Topsoil** — Foundational · Concept · Landmark · builds on: Soil organic matter (26), Soil horizon (67), Soil (1) <!-- soil-form-021 -->
-138. **Subsoil** — Foundational · Concept · Landmark · builds on: Topsoil (137), Soil texture (50) <!-- soil-form-023 -->
-139. **Soil morphology** — Intermediate · Concept · Major · builds on: Pedology (4), Soil horizon (67), Soil texture (50), Soil color (69) <!-- soil-form-001 -->
-140. **Diagnostic horizon** — Intermediate · Concept · Major · builds on: Soil horizon (67) <!-- soil-form-017 -->
-141. **O horizon** — Foundational · Concept · Major · builds on: Master horizons (74), Soil organic matter (26), Soil horizon (67) <!-- soil-form-006 -->
-142. **A horizon** — Foundational · Concept · Major · builds on: Master horizons (74), O horizon (141), Soil organic matter (26), Soil horizon (67) <!-- soil-form-008 -->
-143. **Eluviation** — Intermediate · Process · Major · builds on: Soil horizon (67) <!-- soil-form-033 -->
-144. **E horizon** — Intermediate · Concept · Major · builds on: A horizon (142), Eluviation (143), Master horizons (74) <!-- soil-form-009 -->
-145. **Hardpan** — Intermediate · Concept · Major · builds on: Subsoil (138) <!-- soil-form-025 -->
-146. **Cryoturbation** — Intermediate · Process · Major · builds on: Soil horizon (67) <!-- soil-form-034 -->
-147. **Illuviation** — Intermediate · Process · Major · builds on: Soil horizon (67), Eluviation (143) <!-- soil-form-032 -->
-148. **B horizon** — Foundational · Concept · Major · builds on: Master horizons (74), A horizon (142), Illuviation (147), Soil horizon (67) <!-- soil-form-010 -->
-149. **C horizon** — Foundational · Concept · Major · builds on: Master horizons (74), B horizon (148), Parent material (110), Soil horizon (67) <!-- soil-form-011 -->
-150. **Soil profile** — Foundational · Concept · Landmark · builds on: Soil horizon (67) <!-- soil-form-002 -->
-151. **Solum** — Intermediate · Concept · Major · builds on: Soil profile (150), Topsoil (137), Subsoil (138) <!-- soil-form-024 -->
-152. **H horizon** — Intermediate · Concept · Minor · builds on: O horizon (141), Master horizons (74) <!-- soil-form-007 -->
-153. **R layer** — Foundational · Concept · Minor · builds on: C horizon (149), Bedrock (87) <!-- soil-form-012 -->
-154. **Horizon designation** — Intermediate · Classification · Major · builds on: Master horizons (74), Soil profile (150), Soil horizon (67) <!-- soil-form-004 -->
-155. **Horizon suffixes** — Intermediate · Classification · Minor · builds on: Horizon designation (154), Master horizons (74) <!-- soil-form-014 -->
-156. **Lithologic discontinuity** — Intermediate · Concept · Minor · builds on: Horizon designation (154), Parent material (110) <!-- soil-form-015 -->
-157. **Buried soil horizon** — Intermediate · Concept · Minor · builds on: Horizon designation (154), Horizon suffixes (155), Lithologic discontinuity (156), Soil horizon (67) <!-- soil-form-016 -->
-158. **Transitional horizon** — Intermediate · Concept · Minor · builds on: Horizon designation (154), Master horizons (74) <!-- soil-form-013 -->
-159. **Fragipan** — Advanced · Concept · Minor · builds on: Hardpan (145), Diagnostic horizon (140) <!-- soil-form-028 -->
-160. **Commercial topsoil** — Intermediate · Material · Minor · builds on: Topsoil (137) <!-- soil-form-022 -->
-161. **Ice wedge** — Intermediate · Concept · Minor <!-- soil-form-036 -->
-162. **Horizon boundaries** — Intermediate · Concept · Minor · builds on: Soil horizon (67), Soil profile (150) <!-- soil-form-005 -->
-163. **Duripan** — Advanced · Concept · Minor · builds on: Hardpan (145), Diagnostic horizon (140), Illuviation (147) <!-- soil-form-027 -->
-164. **Petrocalcic horizon** — Intermediate · Concept · Minor · builds on: Hardpan (145), Diagnostic horizon (140), Carbonate minerals (59) <!-- soil-form-029 -->
-165. **Claypan** — Intermediate · Concept · Major · builds on: Subsoil (138), Clay (49), Illuviation (147) <!-- soil-form-026 -->
-166. **Silcrete** — Intermediate · Material · Minor · builds on: Soil (1) <!-- soil-found-103 -->
-167. **Umbric horizon** — Intermediate · Concept · Minor · builds on: A horizon (142), Diagnostic horizon (140), Soil pH (66) <!-- soil-form-030 -->
-168. **Ferricrete** — Intermediate · Material · Minor · builds on: Hardpan (145) <!-- soil-form-038 -->
-169. **Cutans** — Intermediate · Concept · Minor · builds on: Soil texture (50), Clay (49), Illuviation (147) <!-- soil-found-068 -->
-170. **Pedocal** — Intermediate · Classification · Minor · builds on: Carbonate minerals (59), Soil organic matter (26), Subsoil (138) <!-- soil-form-040 -->
-171. **Paralithic horizon** — Intermediate · Concept · Minor · builds on: Weathering (28), Bedrock (87) <!-- soil-found-072 -->
-172. **Slickensides in soils** — Intermediate · Concept · Minor · builds on: Clay (49), Cutans (169) <!-- soil-form-116 -->
-173. **Cambic horizon** — Intermediate · Concept · Minor · builds on: B horizon (148), Diagnostic horizon (140) <!-- soil-form-031 -->
-174. **Tepetate** — Intermediate · Material · Minor · builds on: Hardpan (145) <!-- soil-form-035 -->
-175. **Albic horizon** — Intermediate · Concept · Minor · builds on: E horizon (144), Diagnostic horizon (140) <!-- soil-form-019 -->
-176. **Calcic horizon** — Intermediate · Concept · Minor · builds on: Diagnostic horizon (140), Calcite (60) <!-- soil-form-121 -->
-177. **Epipedon** — Intermediate · Concept · Minor · builds on: Diagnostic horizon (140) <!-- soil-form-018 -->
-178. **Kandic horizon** — Advanced · Concept · Minor · builds on: Diagnostic horizon (140) <!-- soil-form-120 -->
-179. **Mollic epipedon** — Intermediate · Concept · Minor · builds on: Epipedon (177), A horizon (142), Soil organic matter (26) <!-- soil-form-118 -->
-180. **Natric horizon** — Intermediate · Concept · Minor · builds on: Diagnostic horizon (140) <!-- soil-form-119 -->
-181. **Pedon** — Intermediate · Concept · Minor · builds on: Soil profile (150) <!-- soil-form-003 -->
-182. **Soil monolith** — Intermediate · Method · Minor · builds on: Soil profile (150), Soil horizon (67) <!-- soil-form-122 -->
-183. **Spodic horizon** — Intermediate · Concept · Minor · builds on: Diagnostic horizon (140) <!-- soil-form-117 -->
+135. **Topsoil** — Foundational · Concept · Landmark · builds on: Soil horizon (64), Soil (1) <!-- soil-form-021 -->
+136. **Subsoil** — Foundational · Concept · Landmark · builds on: Topsoil (135), Soil texture (47) <!-- soil-form-023 -->
+137. **Soil morphology** — Intermediate · Concept · Major · builds on: Pedology (4), Soil horizon (64), Soil texture (47), Soil color (66) <!-- soil-form-001 -->
+138. **Diagnostic horizon** — Intermediate · Concept · Major · builds on: Soil horizon (64) <!-- soil-form-017 -->
+139. **O horizon** — Foundational · Concept · Major · builds on: Master horizons (71), Soil horizon (64) <!-- soil-form-006 -->
+140. **A horizon** — Foundational · Concept · Major · builds on: Master horizons (71), O horizon (139), Soil horizon (64) <!-- soil-form-008 -->
+141. **Eluviation** — Intermediate · Process · Major · builds on: Soil horizon (64) <!-- soil-form-033 -->
+142. **E horizon** — Intermediate · Concept · Major · builds on: A horizon (140), Eluviation (141), Master horizons (71) <!-- soil-form-009 -->
+143. **Hardpan** — Intermediate · Concept · Major · builds on: Subsoil (136) <!-- soil-form-025 -->
+144. **Cryoturbation** — Intermediate · Process · Major · builds on: Soil horizon (64) <!-- soil-form-034 -->
+145. **Illuviation** — Intermediate · Process · Major · builds on: Soil horizon (64), Eluviation (141) <!-- soil-form-032 -->
+146. **B horizon** — Foundational · Concept · Major · builds on: Master horizons (71), A horizon (140), Illuviation (145), Soil horizon (64) <!-- soil-form-010 -->
+147. **C horizon** — Foundational · Concept · Major · builds on: Master horizons (71), B horizon (146), Parent material (108), Soil horizon (64) <!-- soil-form-011 -->
+148. **Soil profile** — Foundational · Concept · Landmark · builds on: Soil horizon (64) <!-- soil-form-002 -->
+149. **Solum** — Intermediate · Concept · Major · builds on: Soil profile (148), Topsoil (135), Subsoil (136) <!-- soil-form-024 -->
+150. **H horizon** — Intermediate · Concept · Minor · builds on: O horizon (139), Master horizons (71) <!-- soil-form-007 -->
+151. **R layer** — Foundational · Concept · Minor · builds on: C horizon (147), Bedrock (84) <!-- soil-form-012 -->
+152. **Horizon designation** — Intermediate · Classification · Major · builds on: Master horizons (71), Soil profile (148), Soil horizon (64) <!-- soil-form-004 -->
+153. **Horizon suffixes** — Intermediate · Classification · Minor · builds on: Horizon designation (152), Master horizons (71) <!-- soil-form-014 -->
+154. **Lithologic discontinuity** — Intermediate · Concept · Minor · builds on: Horizon designation (152), Parent material (108) <!-- soil-form-015 -->
+155. **Buried soil horizon** — Intermediate · Concept · Minor · builds on: Horizon designation (152), Horizon suffixes (153), Lithologic discontinuity (154), Soil horizon (64) <!-- soil-form-016 -->
+156. **Transitional horizon** — Intermediate · Concept · Minor · builds on: Horizon designation (152), Master horizons (71) <!-- soil-form-013 -->
+157. **Fragipan** — Advanced · Concept · Minor · builds on: Hardpan (143), Diagnostic horizon (138) <!-- soil-form-028 -->
+158. **Commercial topsoil** — Intermediate · Material · Minor · builds on: Topsoil (135) <!-- soil-form-022 -->
+159. **Ice wedge** — Intermediate · Concept · Minor <!-- soil-form-036 -->
+160. **Horizon boundaries** — Intermediate · Concept · Minor · builds on: Soil horizon (64), Soil profile (148) <!-- soil-form-005 -->
+161. **Duripan** — Advanced · Concept · Minor · builds on: Hardpan (143), Diagnostic horizon (138), Illuviation (145) <!-- soil-form-027 -->
+162. **Petrocalcic horizon** — Intermediate · Concept · Minor · builds on: Hardpan (143), Diagnostic horizon (138), Carbonate minerals (56) <!-- soil-form-029 -->
+163. **Claypan** — Intermediate · Concept · Major · builds on: Subsoil (136), Clay (46), Illuviation (145) <!-- soil-form-026 -->
+164. **Silcrete** — Intermediate · Material · Minor · builds on: Soil (1) <!-- soil-found-103 -->
+165. **Umbric horizon** — Intermediate · Concept · Minor · builds on: A horizon (140), Diagnostic horizon (138), Soil pH (63) <!-- soil-form-030 -->
+166. **Ferricrete** — Intermediate · Material · Minor · builds on: Hardpan (143) <!-- soil-form-038 -->
+167. **Cutans** — Intermediate · Concept · Minor · builds on: Soil texture (47), Clay (46), Illuviation (145) <!-- soil-found-068 -->
+168. **Pedocal** — Intermediate · Classification · Minor · builds on: Carbonate minerals (56), Subsoil (136) <!-- soil-form-040 -->
+169. **Paralithic horizon** — Intermediate · Concept · Minor · builds on: Weathering (27), Bedrock (84) <!-- soil-found-072 -->
+170. **Slickensides in soils** — Intermediate · Concept · Minor · builds on: Clay (46), Cutans (167) <!-- soil-form-116 -->
+171. **Cambic horizon** — Intermediate · Concept · Minor · builds on: B horizon (146), Diagnostic horizon (138) <!-- soil-form-031 -->
+172. **Tepetate** — Intermediate · Material · Minor · builds on: Hardpan (143) <!-- soil-form-035 -->
+173. **Albic horizon** — Intermediate · Concept · Minor · builds on: E horizon (142), Diagnostic horizon (138) <!-- soil-form-019 -->
+174. **Calcic horizon** — Intermediate · Concept · Minor · builds on: Diagnostic horizon (138), Calcite (57) <!-- soil-form-121 -->
+175. **Epipedon** — Intermediate · Concept · Minor · builds on: Diagnostic horizon (138) <!-- soil-form-018 -->
+176. **Kandic horizon** — Advanced · Concept · Minor · builds on: Diagnostic horizon (138) <!-- soil-form-120 -->
+177. **Mollic epipedon** — Intermediate · Concept · Minor · builds on: Epipedon (175), A horizon (140) <!-- soil-form-118 -->
+178. **Natric horizon** — Intermediate · Concept · Minor · builds on: Diagnostic horizon (138) <!-- soil-form-119 -->
+179. **Pedon** — Intermediate · Concept · Minor · builds on: Soil profile (148) <!-- soil-form-003 -->
+180. **Soil monolith** — Intermediate · Method · Minor · builds on: Soil profile (148), Soil horizon (64) <!-- soil-form-122 -->
+181. **Spodic horizon** — Intermediate · Concept · Minor · builds on: Diagnostic horizon (138) <!-- soil-form-117 -->
 
 ### How soils form
 
-184. **Soil formation** — Foundational · Process · Landmark · builds on: Soil (1), Weathering (28), Parent material (110) <!-- soil-form-042 -->
-185. **Leaching (pedology)** — Foundational · Process · Landmark · builds on: Soil formation (184), Soil horizon (67) <!-- soil-form-050 -->
-186. **Soil-forming factors** — Foundational · Concept · Landmark · builds on: Soil formation (184) <!-- soil-form-043 -->
-187. **Paleosol** — Intermediate · Concept · Major · builds on: Soil formation (184), Soil horizon (67) <!-- soil-form-072 -->
-188. **Climate as a soil-forming factor** — Intermediate · Concept · Major · builds on: Soil-forming factors (186), Weathering (28) <!-- soil-form-044 -->
-189. **Organisms as a soil-forming factor** — Intermediate · Concept · Major · builds on: Soil-forming factors (186) <!-- soil-form-046 -->
-190. **Time as a soil-forming factor** — Intermediate · Concept · Major · builds on: Soil-forming factors (186), Soil horizon (67) <!-- soil-form-047 -->
-191. **Topography as a soil-forming factor** — Intermediate · Concept · Major · builds on: Soil-forming factors (186) <!-- soil-form-045 -->
-192. **Dokuchaev's soil-forming equation** — Intermediate · Concept · Minor · builds on: Soil-forming factors (186), Soil as a natural body (9) <!-- soil-form-048 -->
-193. **Jenny's state equation** — Intermediate · Concept · Major · builds on: Soil-forming factors (186), Dokuchaev's soil-forming equation (192) <!-- soil-form-049 -->
-194. **Catena** — Intermediate · Concept · Major · builds on: Soil-forming factors (186), Topography as a soil-forming factor (191), Parent material (110) <!-- soil-form-054 -->
-195. **Leaching model** — Advanced · Method · Minor · builds on: Leaching (pedology) (185) <!-- soil-form-051 -->
-196. **Pedoturbation** — Intermediate · Process · Major · builds on: Soil formation (184), Soil horizon (67) <!-- soil-form-080 -->
-197. **Soil biomantle** — Intermediate · Concept · Major · builds on: Organisms as a soil-forming factor (189), Soil organic matter (26), Topsoil (137), Soil horizon (67) <!-- soil-form-055 -->
-198. **Chronosequence** — Intermediate · Method · Major · builds on: Time as a soil-forming factor (190) <!-- soil-form-063 -->
-199. **Sesquioxide** — Foundational · Material · Minor · builds on: Oxide minerals (44), Weathering (28), Leaching (pedology) (185) <!-- soil-form-085 -->
-200. **Laterite** — Intermediate · Material · Major · builds on: Chemical weathering (31), Leaching (pedology) (185), Sesquioxide (199), Weathering (28) <!-- soil-form-065 -->
-201. **Podzolisation** — Intermediate · Process · Major · builds on: Leaching (pedology) (185), Sesquioxide (199), Eluviation (143) <!-- soil-form-061 -->
-202. **Laterization** — Intermediate · Process · Major · builds on: Laterite (200), Chemical weathering (31), Leaching (pedology) (185), Weathering (28) <!-- soil-form-066 -->
-203. **Stonelayer** — Intermediate · Concept · Minor · builds on: Soil biomantle (197), Soil horizon (67) <!-- soil-form-083 -->
-204. **Biorhexistasy** — Intermediate · Concept · Minor · builds on: Soil formation (184), Climate as a soil-forming factor (188) <!-- soil-form-059 -->
-205. **Paleoatmosphere reconstruction from paleosols** — Advanced · Method · Minor · builds on: Paleosol (187), Atmospheric inputs to soil (16) <!-- soil-form-076 -->
-206. **Paleoclimate reconstruction from paleosols** — Advanced · Method · Minor · builds on: Paleosol (187), Climate as a soil-forming factor (188) <!-- soil-form-075 -->
-207. **Paleosol classification** — Advanced · Classification · Minor · builds on: Paleosol (187) <!-- soil-form-074 -->
-208. **Paleosol identification** — Advanced · Method · Minor · builds on: Paleosol (187), Soil horizon (67), Weathering (28) <!-- soil-form-073 -->
-209. **Pedodiversity** — Intermediate · Concept · Major · builds on: Soil formation (184) <!-- soil-form-064 -->
-210. **Soil production function** — Advanced · Concept · Minor · builds on: Weathering (28), Soil formation (184), Bedrock (87) <!-- soil-form-086 -->
-211. **Laterite aquifers** — Intermediate · Concept · Minor · builds on: Laterite (200) <!-- soil-form-069 -->
-212. **Laterite building blocks** — Foundational · Material · Minor · builds on: Laterite (200) <!-- soil-form-068 -->
-213. **Laterite for phosphorus removal** — Intermediate · Practice · Minor · builds on: Laterite (200), Sesquioxide (199) <!-- soil-form-070 -->
-214. **Laterite soils in farming** — Intermediate · Concept · Minor · builds on: Laterite (200), Leaching (pedology) (185), Clay (49) <!-- soil-form-067 -->
-215. **Lateritic ores** — Intermediate · Material · Minor · builds on: Laterite (200), Laterization (202) <!-- soil-form-071 -->
-216. **Periglaciation** — Intermediate · Process · Minor · builds on: Frost weathering (38) <!-- soil-form-126 -->
-217. **Ecological succession** — Intermediate · Process · Minor · builds on: Organisms as a soil-forming factor (189) <!-- soil-form-125 -->
-218. **Lessivage** — Intermediate · Process · Major · builds on: Leaching (pedology) (185), Clay (49), Soil horizon (67), Illuviation (147), Eluviation (143) <!-- soil-form-060 -->
-219. **Ferrallitisation** — Intermediate · Process · Major · builds on: Chemical weathering (31), Leaching (pedology) (185), Clay (49), Sesquioxide (199), Weathering (28) <!-- soil-form-081 -->
-220. **Leaching efficiency** — Advanced · Concept · Minor · builds on: Leaching model (195) <!-- soil-form-052 -->
-221. **Tree throw** — Intermediate · Process · Minor · builds on: Pedoturbation (196), Subsoil (138), Soil formation (184) <!-- soil-form-124 -->
-222. **Argillipedoturbation** — Intermediate · Process · Minor · builds on: Pedoturbation (196) <!-- soil-form-123 -->
-223. **Stone-line origin debate** — Advanced · Debate · Minor · builds on: Stonelayer (203), Soil biomantle (197) <!-- soil-form-084 -->
-224. **Biomantles and archaeology** — Intermediate · Concept · Minor · builds on: Soil biomantle (197) <!-- soil-form-058 -->
-225. **Biomixing, biotransfer and biosorting** — Intermediate · Process · Minor · builds on: Soil biomantle (197) <!-- soil-form-056 -->
-226. **Dynamic denudation** — Advanced · Concept · Minor · builds on: Soil biomantle (197) <!-- soil-form-057 -->
-227. **Cheluviation** — Advanced · Process · Minor · builds on: Leaching (pedology) (185), Soil organic matter (26), Eluviation (143) <!-- soil-form-062 -->
-228. **Soil memory** — Advanced · Concept · Minor · builds on: Soil formation (184), Soil horizon (67) <!-- soil-form-078 -->
-229. **Microbial soil memory** — Advanced · Concept · Minor · builds on: Soil memory (228) <!-- soil-form-079 -->
-230. **Polygenetic soil** — Intermediate · Concept · Minor · builds on: Paleosol (187), Soil formation (184) <!-- soil-form-077 -->
+182. **Soil formation** — Foundational · Process · Landmark · builds on: Soil (1), Weathering (27), Parent material (108) <!-- soil-form-042 -->
+183. **Leaching (pedology)** — Foundational · Process · Landmark · builds on: Soil formation (182), Soil horizon (64) <!-- soil-form-050 -->
+184. **Soil-forming factors** — Foundational · Concept · Landmark · builds on: Soil formation (182) <!-- soil-form-043 -->
+185. **Paleosol** — Intermediate · Concept · Major · builds on: Soil formation (182), Soil horizon (64) <!-- soil-form-072 -->
+186. **Climate as a soil-forming factor** — Intermediate · Concept · Major · builds on: Soil-forming factors (184), Weathering (27) <!-- soil-form-044 -->
+187. **Organisms as a soil-forming factor** — Intermediate · Concept · Major · builds on: Soil-forming factors (184) <!-- soil-form-046 -->
+188. **Time as a soil-forming factor** — Intermediate · Concept · Major · builds on: Soil-forming factors (184), Soil horizon (64) <!-- soil-form-047 -->
+189. **Topography as a soil-forming factor** — Intermediate · Concept · Major · builds on: Soil-forming factors (184) <!-- soil-form-045 -->
+190. **Dokuchaev's soil-forming equation** — Intermediate · Concept · Minor · builds on: Soil-forming factors (184), Soil as a natural body (8) <!-- soil-form-048 -->
+191. **Jenny's state equation** — Intermediate · Concept · Major · builds on: Soil-forming factors (184), Dokuchaev's soil-forming equation (190) <!-- soil-form-049 -->
+192. **Catena** — Intermediate · Concept · Major · builds on: Soil-forming factors (184), Topography as a soil-forming factor (189), Parent material (108) <!-- soil-form-054 -->
+193. **Leaching model** — Advanced · Method · Minor · builds on: Leaching (pedology) (183) <!-- soil-form-051 -->
+194. **Pedoturbation** — Intermediate · Process · Major · builds on: Soil formation (182), Soil horizon (64) <!-- soil-form-080 -->
+195. **Soil biomantle** — Intermediate · Concept · Major · builds on: Organisms as a soil-forming factor (187), Topsoil (135), Soil horizon (64) <!-- soil-form-055 -->
+196. **Chronosequence** — Intermediate · Method · Major · builds on: Time as a soil-forming factor (188) <!-- soil-form-063 -->
+197. **Sesquioxide** — Foundational · Material · Minor · builds on: Oxide minerals (41), Weathering (27), Leaching (pedology) (183) <!-- soil-form-085 -->
+198. **Laterite** — Intermediate · Material · Major · builds on: Chemical weathering (28), Leaching (pedology) (183), Sesquioxide (197), Weathering (27) <!-- soil-form-065 -->
+199. **Podzolisation** — Intermediate · Process · Major · builds on: Leaching (pedology) (183), Sesquioxide (197), Eluviation (141) <!-- soil-form-061 -->
+200. **Laterization** — Intermediate · Process · Major · builds on: Laterite (198), Chemical weathering (28), Leaching (pedology) (183), Weathering (27) <!-- soil-form-066 -->
+201. **Stonelayer** — Intermediate · Concept · Minor · builds on: Soil biomantle (195), Soil horizon (64) <!-- soil-form-083 -->
+202. **Biorhexistasy** — Intermediate · Concept · Minor · builds on: Soil formation (182), Climate as a soil-forming factor (186) <!-- soil-form-059 -->
+203. **Paleoatmosphere reconstruction from paleosols** — Advanced · Method · Minor · builds on: Paleosol (185), Atmospheric inputs to soil (15) <!-- soil-form-076 -->
+204. **Paleoclimate reconstruction from paleosols** — Advanced · Method · Minor · builds on: Paleosol (185), Climate as a soil-forming factor (186) <!-- soil-form-075 -->
+205. **Paleosol classification** — Advanced · Classification · Minor · builds on: Paleosol (185) <!-- soil-form-074 -->
+206. **Paleosol identification** — Advanced · Method · Minor · builds on: Paleosol (185), Soil horizon (64), Weathering (27) <!-- soil-form-073 -->
+207. **Pedodiversity** — Intermediate · Concept · Major · builds on: Soil formation (182) <!-- soil-form-064 -->
+208. **Soil production function** — Advanced · Concept · Minor · builds on: Weathering (27), Soil formation (182), Bedrock (84) <!-- soil-form-086 -->
+209. **Laterite aquifers** — Intermediate · Concept · Minor · builds on: Laterite (198) <!-- soil-form-069 -->
+210. **Laterite building blocks** — Foundational · Material · Minor · builds on: Laterite (198) <!-- soil-form-068 -->
+211. **Laterite for phosphorus removal** — Intermediate · Practice · Minor · builds on: Laterite (198), Sesquioxide (197) <!-- soil-form-070 -->
+212. **Laterite soils in farming** — Intermediate · Concept · Minor · builds on: Laterite (198), Leaching (pedology) (183), Clay (46) <!-- soil-form-067 -->
+213. **Lateritic ores** — Intermediate · Material · Minor · builds on: Laterite (198), Laterization (200) <!-- soil-form-071 -->
+214. **Periglaciation** — Intermediate · Process · Minor · builds on: Frost weathering (35) <!-- soil-form-126 -->
+215. **Ecological succession** — Intermediate · Process · Minor · builds on: Organisms as a soil-forming factor (187) <!-- soil-form-125 -->
+216. **Lessivage** — Intermediate · Process · Major · builds on: Leaching (pedology) (183), Clay (46), Soil horizon (64), Illuviation (145), Eluviation (141) <!-- soil-form-060 -->
+217. **Ferrallitisation** — Intermediate · Process · Major · builds on: Chemical weathering (28), Leaching (pedology) (183), Clay (46), Sesquioxide (197), Weathering (27) <!-- soil-form-081 -->
+218. **Leaching efficiency** — Advanced · Concept · Minor · builds on: Leaching model (193) <!-- soil-form-052 -->
+219. **Tree throw** — Intermediate · Process · Minor · builds on: Pedoturbation (194), Subsoil (136), Soil formation (182) <!-- soil-form-124 -->
+220. **Argillipedoturbation** — Intermediate · Process · Minor · builds on: Pedoturbation (194) <!-- soil-form-123 -->
+221. **Stone-line origin debate** — Advanced · Debate · Minor · builds on: Stonelayer (201), Soil biomantle (195) <!-- soil-form-084 -->
+222. **Biomantles and archaeology** — Intermediate · Concept · Minor · builds on: Soil biomantle (195) <!-- soil-form-058 -->
+223. **Biomixing, biotransfer and biosorting** — Intermediate · Process · Minor · builds on: Soil biomantle (195) <!-- soil-form-056 -->
+224. **Dynamic denudation** — Advanced · Concept · Minor · builds on: Soil biomantle (195) <!-- soil-form-057 -->
+225. **Soil age and profile development** — Intermediate · Concept · Major · builds on: Time as a soil-forming factor (188), Soil horizon (64) <!-- soil-form-158 -->
+226. **Soil-forming processes** — Foundational · Process · Major · builds on: Soil-forming factors (184) <!-- soil-form-155 -->
+227. **Cheluviation** — Advanced · Process · Minor · builds on: Leaching (pedology) (183), Eluviation (141) <!-- soil-form-062 -->
+228. **Soil memory** — Advanced · Concept · Minor · builds on: Soil formation (182), Soil horizon (64) <!-- soil-form-078 -->
+229. **Slope, texture and runoff rate** — Intermediate · Method · Minor <!-- soil-form-159 -->
+230. **Hillslope positions** — Foundational · Concept · Minor · builds on: Topography as a soil-forming factor (189) <!-- soil-form-156 -->
+231. **Effective precipitation and leaching** — Intermediate · Concept · Minor · builds on: Climate as a soil-forming factor (186), Leaching (pedology) (183) <!-- soil-form-157 -->
+232. **Human activity as a soil-forming factor** — Intermediate · Concept · Minor · builds on: Soil-forming factors (184), Soil-forming processes (226), Parent material (108), Leaching (pedology) (183), Eluviation (141), Weathering in soil formation (50), Hydrolysis and carbonation (49) <!-- soil-form-160 -->
+233. **Microbial soil memory** — Advanced · Concept · Minor · builds on: Soil memory (228) <!-- soil-form-079 -->
+234. **Polygenetic soil** — Intermediate · Concept · Minor · builds on: Paleosol (185), Soil formation (182) <!-- soil-form-077 -->
 
 ### Soil geography
 
-231. **Soil geography** — Foundational · Concept · Major · builds on: Soil (1), Soil-forming factors (186), Soil formation (184) <!-- soil-form-127 -->
-232. **Tropical soils** — Intermediate · Concept · Major · builds on: Leaching (pedology) (185), Ferrallitisation (219), Soil-forming factors (186) <!-- soil-form-131 -->
-233. **Lithosequence** — Advanced · Concept · Minor · builds on: Parent material (110), Soil-forming factors (186) <!-- soil-form-132 -->
-234. **Soils of Australia** — Intermediate · Concept · Minor · builds on: Soil geography (231), Weathering (28), Soil-forming factors (186) <!-- soil-form-133 -->
+235. **Soil geography** — Foundational · Concept · Major · builds on: Soil (1), Soil-forming factors (184), Soil formation (182) <!-- soil-form-127 -->
+236. **Tropical soils** — Intermediate · Concept · Major · builds on: Leaching (pedology) (183), Ferrallitisation (217), Soil-forming factors (184) <!-- soil-form-131 -->
+237. **Soils of British Columbia and Yukon** — Intermediate · Concept · Minor <!-- soil-form-162 -->
+238. **Soils of Ontario** — Intermediate · Concept · Minor <!-- soil-form-166 -->
+239. **Soils of Quebec** — Intermediate · Concept · Minor <!-- soil-form-167 -->
+240. **Soils of the Atlantic Provinces** — Intermediate · Concept · Minor <!-- soil-form-169 -->
+241. **Soils of the Prairie Provinces** — Intermediate · Concept · Minor <!-- soil-form-163 -->
+242. **Parkland and forest soil transition** — Advanced · Concept · Minor <!-- soil-form-165 -->
+243. **Prairie Chernozem zonation** — Advanced · Concept · Minor <!-- soil-form-164 -->
+244. **Lithosequence** — Advanced · Concept · Minor · builds on: Parent material (108), Soil-forming factors (184) <!-- soil-form-132 -->
+245. **Soils of Australia** — Intermediate · Concept · Minor · builds on: Soil geography (235), Weathering (27), Soil-forming factors (184) <!-- soil-form-133 -->
 
 ## Soil physics
 
 
 ### Soil texture and structure
 
-235. **Grain size** — Foundational · Concept · Major <!-- soil-phys-015 -->
-236. **Sand** — Foundational · Material · Major · builds on: Grain size (235), Mineral (27), Weathering (28) <!-- soil-phys-014 -->
-237. **Silt** — Foundational · Material · Major · builds on: Grain size (235), Sand (236), Clay (49) <!-- soil-phys-013 -->
-238. **Soil separates** — Foundational · Classification · Major · builds on: Grain size (235), Sand (236), Silt (237), Clay (49), Soil texture (50) <!-- soil-phys-047 -->
-239. **Clay size versus clay minerals** — Intermediate · Concept · Minor · builds on: Soil separates (238), Phyllosilicates (48), Clay (49) <!-- soil-phys-054 -->
-240. **Plasticity of clay** — Intermediate · Concept · Major · builds on: Clay size versus clay minerals (239), Clay (49) <!-- soil-phys-053 -->
-241. **Clay soils in agriculture** — Foundational · Concept · Minor · builds on: Clay size versus clay minerals (239), Clay (49), Soil separates (238) <!-- soil-phys-055 -->
-242. **USDA soil texture classes** — Intermediate · Classification · Major · builds on: Soil separates (238), Soil texture (50) <!-- soil-phys-045 -->
-243. **Loam** — Intermediate · Material · Major · builds on: USDA soil texture classes (242), Sand (236), Silt (237), Clay (49), Soil texture (50) <!-- soil-phys-012 -->
-244. **Soil texture triangle** — Intermediate · Method · Major · builds on: USDA soil texture classes (242), Soil separates (238) <!-- soil-phys-046 -->
-245. **Texture by feel** — Intermediate · Method · Major · builds on: USDA soil texture classes (242), Soil separates (238) <!-- soil-phys-049 -->
-246. **Gravel** — Foundational · Material · Minor · builds on: Grain size (235), Sand (236), Weathering (28) <!-- soil-phys-044 -->
-247. **Shrink–swell capacity** — Intermediate · Concept · Major · builds on: Clay size versus clay minerals (239), Clay varieties (53), Clay (49) <!-- soil-phys-028 -->
-248. **Physical properties of soil** — Foundational · Concept · Major · builds on: Soil (1) <!-- soil-phys-040 -->
-249. **Soil structure** — Foundational · Concept · Landmark · builds on: Soil separates (238), Physical properties of soil (248), Soil texture (50), Soil (1) <!-- soil-phys-001 -->
-250. **Ped** — Intermediate · Concept · Major · builds on: Soil structure (249), Soil formation (184) <!-- soil-phys-003 -->
-251. **Soil structure types** — Intermediate · Classification · Major · builds on: Ped (250), Soil structure (249) <!-- soil-phys-002 -->
-252. **Particle-size distribution** — Intermediate · Concept · Major · builds on: Grain size (235) <!-- soil-phys-018 -->
-253. **Sieve analysis** — Intermediate · Method · Major · builds on: Particle-size distribution (252) <!-- soil-phys-019 -->
-254. **Hydrometer method** — Intermediate · Method · Major · builds on: Soil separates (238), Sieve analysis (253) <!-- soil-phys-050 -->
-255. **Expansive clay** — Intermediate · Material · Minor · builds on: Shrink–swell capacity (247) <!-- soil-phys-029 -->
-256. **International soil texture system** — Intermediate · Classification · Minor · builds on: Soil separates (238) <!-- soil-phys-048 -->
-257. **X-ray sedimentation** — Advanced · Method · Minor · builds on: Hydrometer method (254) <!-- soil-phys-052 -->
-258. **Soil gradation** — Intermediate · Classification · Minor · builds on: Particle-size distribution (252), Sieve analysis (253) <!-- soil-phys-056 -->
-259. **Stokes's law** — Advanced · Concept · Major · builds on: Grain size (235), Particle-size distribution (252) <!-- soil-phys-188 -->
-260. **Hydrophobic soil** — Intermediate · Concept · Minor · builds on: Physical properties of soil (248), Soil texture (50) <!-- soil-phys-034 -->
-261. **Soil consistency** — Intermediate · Concept · Major · builds on: Physical properties of soil (248), Plasticity of clay (240), Clay (49) <!-- soil-phys-041 -->
-262. **Atterberg limits** — Intermediate · Concept · Major · builds on: Soil consistency (261), Plasticity of clay (240), Clay (49), Silt (237) <!-- soil-phys-021 -->
-263. **Unified Soil Classification System** — Intermediate · Classification · Major · builds on: Sieve analysis (253), Atterberg limits (262), Soil gradation (258), Grain size (235) <!-- soil-phys-036 -->
-264. **USCS coarse-grained soil groups** — Advanced · Classification · Minor · builds on: Unified Soil Classification System (263), Soil gradation (258), Sieve analysis (253) <!-- soil-phys-037 -->
-265. **Krumbein phi scale** — Intermediate · Classification · Minor · builds on: Grain size (235) <!-- soil-phys-016 -->
-266. **Sediment sorting** — Advanced · Concept · Minor · builds on: Grain size (235), Particle-size distribution (252), Krumbein phi scale (265) <!-- soil-phys-017 -->
-267. **Grain-size distribution curve** — Intermediate · Method · Minor · builds on: Sieve analysis (253), Particle-size distribution (252) <!-- soil-phys-020 -->
-268. **Friability** — Intermediate · Concept · Minor · builds on: Soil consistency (261) <!-- soil-phys-187 -->
-269. **Liquid limit** — Intermediate · Concept · Minor · builds on: Atterberg limits (262) <!-- soil-phys-022 -->
-270. **Plastic limit** — Intermediate · Concept · Minor · builds on: Atterberg limits (262) <!-- soil-phys-023 -->
-271. **Liquidity index** — Advanced · Concept · Minor · builds on: Liquid limit (269), Plastic limit (270) <!-- soil-phys-026 -->
-272. **Plasticity index** — Intermediate · Concept · Minor · builds on: Liquid limit (269), Plastic limit (270) <!-- soil-phys-025 -->
-273. **USCS fine-grained soil groups** — Advanced · Classification · Minor · builds on: Unified Soil Classification System (263), Plasticity index (272), Liquid limit (269) <!-- soil-phys-038 -->
-274. **Clay activity** — Advanced · Concept · Minor · builds on: Plasticity index (272), Clay size versus clay minerals (239) <!-- soil-phys-027 -->
-275. **Shrinkage limit** — Intermediate · Concept · Minor · builds on: Atterberg limits (262) <!-- soil-phys-024 -->
-276. **Laser diffraction particle sizing** — Advanced · Method · Major · builds on: Particle-size distribution (252), Soil separates (238) <!-- soil-phys-051 -->
-277. **Flocculation** — Intermediate · Process · Minor · builds on: Soil separates (238), Clay (49) <!-- soil-phys-006 -->
-278. **Soil aggregation** — Intermediate · Process · Major · builds on: Ped (250), Flocculation (277), Clay (49), Soil organic matter (26) <!-- soil-phys-005 -->
-279. **Soil aggregate stability** — Intermediate · Concept · Major · builds on: Soil aggregation (278), Ped (250), Soil structure (249) <!-- soil-phys-004 -->
-280. **Tilth** — Intermediate · Concept · Major · builds on: Soil structure (249), Soil aggregate stability (279) <!-- soil-phys-039 -->
-281. **Soil dispersion** — Intermediate · Process · Major · builds on: Flocculation (277), Soil aggregate stability (279), Clay (49), Soil structure (249) <!-- soil-phys-033 -->
-282. **Soil crust** — Intermediate · Concept · Major · builds on: Soil structure (249), Soil aggregate stability (279) <!-- soil-phys-031 -->
-283. **Improving soil structure** — Intermediate · Practice · Major · builds on: Soil structure (249), Soil aggregation (278), Soil aggregate stability (279), Soil organic matter (26) <!-- soil-phys-010 -->
-284. **Hardsetting soil** — Intermediate · Concept · Minor · builds on: Soil structure (249), Soil aggregate stability (279) <!-- soil-phys-011 -->
-285. **Biological soil crust** — Intermediate · Concept · Minor · builds on: Soil crust (282) <!-- soil-phys-032 -->
-286. **Aggregate hierarchy** — Advanced · Concept · Minor · builds on: Soil aggregation (278), Soil organic matter (26) <!-- soil-phys-007 -->
-287. **Aggregate stability measurement** — Advanced · Method · Minor · builds on: Soil aggregate stability (279), Sieve analysis (253) <!-- soil-phys-008 -->
-288. **Slaking** — Intermediate · Process · Minor · builds on: Soil aggregate stability (279) <!-- soil-phys-009 -->
-289. **Soil resistivity** — Intermediate · Concept · Minor · builds on: Physical properties of soil (248) <!-- soil-phys-042 -->
-290. **Coefficients of uniformity and curvature** — Advanced · Method · Minor · builds on: Soil gradation (258), Grain-size distribution curve (267), Particle-size distribution (252) <!-- soil-phys-057 -->
-291. **Soil water repellency tests** — Intermediate · Method · Minor · builds on: Hydrophobic soil (260) <!-- soil-phys-035 -->
-292. **Particle size analysis** — Intermediate · Method · Minor · builds on: Particle-size distribution (252), Grain size (235), Soil texture (50) <!-- soil-phys-189 -->
-293. **Specific surface area** — Intermediate · Concept · Major · builds on: Soil separates (238), Clay size versus clay minerals (239), Clay (49), Soil texture (50) <!-- soil-phys-043 -->
-294. **Agrophysics** — Intermediate · Concept · Minor · builds on: Soil science (2) <!-- soil-phys-186 -->
-295. **Clod** — Foundational · Concept · Minor · builds on: Ped (250) <!-- soil-phys-191 -->
-296. **Gilgai** — Intermediate · Concept · Minor · builds on: Shrink–swell capacity (247), Expansive clay (255) <!-- soil-phys-030 -->
-297. **Pipette method** — Advanced · Method · Minor · builds on: Stokes's law (259), Particle size analysis (292), Sieve analysis (253) <!-- soil-phys-190 -->
+246. **Grain size** — Foundational · Concept · Major <!-- soil-phys-015 -->
+247. **Sand** — Foundational · Material · Major · builds on: Grain size (246), Mineral (26), Weathering (27) <!-- soil-phys-014 -->
+248. **Silt** — Foundational · Material · Major · builds on: Grain size (246), Sand (247), Clay (46) <!-- soil-phys-013 -->
+249. **Soil separates** — Foundational · Classification · Major · builds on: Grain size (246), Sand (247), Silt (248), Clay (46), Soil texture (47) <!-- soil-phys-047 -->
+250. **Clay size versus clay minerals** — Intermediate · Concept · Minor · builds on: Soil separates (249), Phyllosilicates (45), Clay (46) <!-- soil-phys-054 -->
+251. **Plasticity of clay** — Intermediate · Concept · Major · builds on: Clay size versus clay minerals (250), Clay (46) <!-- soil-phys-053 -->
+252. **Clay soils in agriculture** — Foundational · Concept · Minor · builds on: Clay size versus clay minerals (250), Clay (46), Soil separates (249) <!-- soil-phys-055 -->
+253. **USDA soil texture classes** — Intermediate · Classification · Major · builds on: Soil separates (249), Soil texture (47) <!-- soil-phys-045 -->
+254. **Loam** — Intermediate · Material · Major · builds on: USDA soil texture classes (253), Sand (247), Silt (248), Clay (46), Soil texture (47) <!-- soil-phys-012 -->
+255. **Soil texture triangle** — Intermediate · Method · Major · builds on: USDA soil texture classes (253), Soil separates (249) <!-- soil-phys-046 -->
+256. **Texture by feel** — Intermediate · Method · Major · builds on: USDA soil texture classes (253), Soil separates (249) <!-- soil-phys-049 -->
+257. **Shrink–swell capacity** — Intermediate · Concept · Major · builds on: Clay size versus clay minerals (250), Clay varieties (52), Clay (46) <!-- soil-phys-028 -->
+258. **Gravel** — Foundational · Material · Minor · builds on: Grain size (246), Sand (247), Weathering (27) <!-- soil-phys-044 -->
+259. **Physical properties of soil** — Foundational · Concept · Major · builds on: Soil (1) <!-- soil-phys-040 -->
+260. **Soil structure** — Foundational · Concept · Landmark · builds on: Soil separates (249), Physical properties of soil (259), Soil texture (47), Soil (1) <!-- soil-phys-001 -->
+261. **Ped** — Intermediate · Concept · Major · builds on: Soil structure (260), Soil formation (182) <!-- soil-phys-003 -->
+262. **Soil structure types** — Intermediate · Classification · Major · builds on: Ped (261), Soil structure (260) <!-- soil-phys-002 -->
+263. **Particle-size distribution** — Intermediate · Concept · Major · builds on: Grain size (246) <!-- soil-phys-018 -->
+264. **Sieve analysis** — Intermediate · Method · Major · builds on: Particle-size distribution (263) <!-- soil-phys-019 -->
+265. **Hydrometer method** — Intermediate · Method · Major · builds on: Soil separates (249), Sieve analysis (264) <!-- soil-phys-050 -->
+266. **Expansive clay** — Intermediate · Material · Minor · builds on: Shrink–swell capacity (257) <!-- soil-phys-029 -->
+267. **International soil texture system** — Intermediate · Classification · Minor · builds on: Soil separates (249) <!-- soil-phys-048 -->
+268. **X-ray sedimentation** — Advanced · Method · Minor · builds on: Hydrometer method (265) <!-- soil-phys-052 -->
+269. **Soil gradation** — Intermediate · Classification · Minor · builds on: Particle-size distribution (263), Sieve analysis (264) <!-- soil-phys-056 -->
+270. **Soil aggregation** — Intermediate · Process · Major · builds on: Ped (261), Clay (46) <!-- soil-phys-005 -->
+271. **Soil aggregate stability** — Intermediate · Concept · Major · builds on: Soil aggregation (270), Ped (261), Soil structure (260) <!-- soil-phys-004 -->
+272. **Tilth** — Intermediate · Concept · Major · builds on: Soil structure (260), Soil aggregate stability (271) <!-- soil-phys-039 -->
+273. **Soil dispersion** — Intermediate · Process · Major · builds on: Soil aggregate stability (271), Clay (46), Soil structure (260) <!-- soil-phys-033 -->
+274. **Soil crust** — Intermediate · Concept · Major · builds on: Soil structure (260), Soil aggregate stability (271) <!-- soil-phys-031 -->
+275. **Improving soil structure** — Intermediate · Practice · Major · builds on: Soil structure (260), Soil aggregation (270), Soil aggregate stability (271) <!-- soil-phys-010 -->
+276. **Hardsetting soil** — Intermediate · Concept · Minor · builds on: Soil structure (260), Soil aggregate stability (271) <!-- soil-phys-011 -->
+277. **Stokes's law** — Advanced · Concept · Major · builds on: Grain size (246), Particle-size distribution (263), Hydrometer method (265) <!-- soil-phys-188 -->
+278. **Hydrophobic soil** — Intermediate · Concept · Minor · builds on: Physical properties of soil (259), Soil texture (47) <!-- soil-phys-034 -->
+279. **Soil consistency** — Intermediate · Concept · Major · builds on: Physical properties of soil (259), Plasticity of clay (251), Clay (46) <!-- soil-phys-041 -->
+280. **Atterberg limits** — Intermediate · Concept · Major · builds on: Soil consistency (279), Plasticity of clay (251), Clay (46), Silt (248) <!-- soil-phys-021 -->
+281. **Unified Soil Classification System** — Intermediate · Classification · Major · builds on: Sieve analysis (264), Atterberg limits (280), Soil gradation (269), Grain size (246) <!-- soil-phys-036 -->
+282. **USCS coarse-grained soil groups** — Advanced · Classification · Minor · builds on: Unified Soil Classification System (281), Soil gradation (269), Sieve analysis (264) <!-- soil-phys-037 -->
+283. **Krumbein phi scale** — Intermediate · Classification · Minor · builds on: Grain size (246) <!-- soil-phys-016 -->
+284. **Sediment sorting** — Advanced · Concept · Minor · builds on: Grain size (246), Particle-size distribution (263), Krumbein phi scale (283) <!-- soil-phys-017 -->
+285. **Grain-size distribution curve** — Intermediate · Method · Minor · builds on: Sieve analysis (264), Particle-size distribution (263) <!-- soil-phys-020 -->
+286. **Friability** — Intermediate · Concept · Minor · builds on: Soil consistency (279) <!-- soil-phys-187 -->
+287. **Liquid limit** — Intermediate · Concept · Minor · builds on: Atterberg limits (280) <!-- soil-phys-022 -->
+288. **Plastic limit** — Intermediate · Concept · Minor · builds on: Atterberg limits (280) <!-- soil-phys-023 -->
+289. **Liquidity index** — Advanced · Concept · Minor · builds on: Liquid limit (287), Plastic limit (288) <!-- soil-phys-026 -->
+290. **Plasticity index** — Intermediate · Concept · Minor · builds on: Liquid limit (287), Plastic limit (288) <!-- soil-phys-025 -->
+291. **USCS fine-grained soil groups** — Advanced · Classification · Minor · builds on: Unified Soil Classification System (281), Plasticity index (290), Liquid limit (287) <!-- soil-phys-038 -->
+292. **Clay activity** — Advanced · Concept · Minor · builds on: Plasticity index (290), Clay size versus clay minerals (250) <!-- soil-phys-027 -->
+293. **Shrinkage limit** — Intermediate · Concept · Minor · builds on: Atterberg limits (280) <!-- soil-phys-024 -->
+294. **Laser diffraction particle sizing** — Advanced · Method · Major · builds on: Particle-size distribution (263), Soil separates (249) <!-- soil-phys-051 -->
+295. **Aggregate hierarchy** — Advanced · Concept · Minor · builds on: Soil aggregation (270) <!-- soil-phys-007 -->
+296. **Aggregate stability measurement** — Advanced · Method · Minor · builds on: Soil aggregate stability (271), Sieve analysis (264) <!-- soil-phys-008 -->
+297. **Slaking** — Intermediate · Process · Minor · builds on: Soil aggregate stability (271) <!-- soil-phys-009 -->
+298. **Soil resistivity** — Intermediate · Concept · Minor · builds on: Physical properties of soil (259) <!-- soil-phys-042 -->
+299. **Coefficients of uniformity and curvature** — Advanced · Method · Minor · builds on: Soil gradation (269), Grain-size distribution curve (285), Particle-size distribution (263) <!-- soil-phys-057 -->
+300. **Soil water repellency tests** — Intermediate · Method · Minor · builds on: Hydrophobic soil (278) <!-- soil-phys-035 -->
+301. **Specific surface area** — Intermediate · Concept · Major · builds on: Soil separates (249), Clay size versus clay minerals (250), Clay (46), Soil texture (47) <!-- soil-phys-043 -->
+302. **Soil as a three-phase system** — Foundational · Concept · Major <!-- soil-phys-249 -->
+303. **Particle size analysis** — Intermediate · Method · Minor · builds on: Particle-size distribution (263), Grain size (246), Soil texture (47) <!-- soil-phys-189 -->
+304. **Agrophysics** — Intermediate · Concept · Minor · builds on: Soil science (2) <!-- soil-phys-186 -->
+305. **Clod** — Foundational · Concept · Minor · builds on: Ped (261) <!-- soil-phys-191 -->
+306. **Pipette method** — Advanced · Method · Minor · builds on: Stokes's law (277), Particle size analysis (303), Sieve analysis (264) <!-- soil-phys-190 -->
 
 ### Density, pores and compaction
 
-298. **Porosity** — Foundational · Concept · Landmark · builds on: Soil composition (6), Soil (1) <!-- soil-phys-063 -->
-299. **Soil physics** — Foundational · Concept · Major · builds on: Soil science (2), Soil (1) <!-- soil-phys-059 -->
-300. **Soil mechanics** — Intermediate · Concept · Major · builds on: Soil physics (299), Soil texture (50) <!-- soil-phys-092 -->
-301. **Bulk density** — Foundational · Concept · Landmark · builds on: Soil composition (6), Soil (1), Mineral (27) <!-- soil-phys-060 -->
-302. **Soil matrix** — Foundational · Concept · Major · builds on: Soil composition (6), Mineral (27), Soil organic matter (26), Soil (1), Soil texture (50) <!-- soil-phys-120 -->
-303. **Pore space in soil** — Intermediate · Concept · Major · builds on: Porosity (298), Soil matrix (302), Soil composition (6), Soil (1) <!-- soil-phys-069 -->
-304. **Soil compaction** — Intermediate · Process · Landmark · builds on: Bulk density (301), Pore space in soil (303), Soil structure (249) <!-- soil-phys-082 -->
-305. **Soil compaction in agriculture** — Intermediate · Process · Major · builds on: Soil compaction (304), Bulk density (301), Porosity (298), Soil structure (249) <!-- soil-phys-086 -->
-306. **Pore water pressure** — Intermediate · Concept · Major · builds on: Pore space in soil (303), Soil mechanics (300) <!-- soil-phys-098 -->
-307. **Void ratio** — Intermediate · Concept · Major · builds on: Porosity (298) <!-- soil-phys-073 -->
-308. **Effective stress** — Advanced · Concept · Major · builds on: Pore water pressure (306), Soil mechanics (300) <!-- soil-phys-100 -->
-309. **Seepage** — Intermediate · Process · Major · builds on: Pore space in soil (303), Pore water pressure (306), Effective stress (308) <!-- soil-phys-125 -->
-310. **Shear strength (soil)** — Intermediate · Concept · Major · builds on: Soil mechanics (300), Effective stress (308) <!-- soil-phys-101 -->
-311. **Soil liquefaction** — Intermediate · Process · Major · builds on: Pore water pressure (306), Effective stress (308), Shear strength (soil) (310), Sand (236) <!-- soil-phys-116 -->
-312. **Cohesion (geology)** — Intermediate · Concept · Major · builds on: Shear strength (soil) (310) <!-- soil-phys-107 -->
-313. **Quicksand** — Intermediate · Material · Minor · builds on: Soil liquefaction (311), Sand (236), Effective stress (308) <!-- soil-phys-118 -->
-314. **Soil consolidation** — Intermediate · Process · Major · builds on: Pore water pressure (306), Effective stress (308), Void ratio (307), Pore space in soil (303) <!-- soil-phys-110 -->
-315. **Angle of repose** — Foundational · Concept · Minor · builds on: Shear strength (soil) (310), Sand (236) <!-- soil-phys-109 -->
-316. **Capillary action in soil** — Intermediate · Process · Major · builds on: Pore space in soil (303), Pore water pressure (306) <!-- soil-phys-095 -->
-317. **Geotechnical engineering** — Intermediate · Concept · Major · builds on: Soil mechanics (300) <!-- soil-phys-167 -->
-318. **Overburden pressure** — Intermediate · Concept · Minor · builds on: Bulk density (301) <!-- soil-phys-115 -->
-319. **Oedometer test** — Advanced · Method · Major · builds on: Soil consolidation (314), Effective stress (308), Void ratio (307) <!-- soil-phys-170 -->
-320. **Specific storage and storativity** — Advanced · Concept · Minor · builds on: Porosity (298), Soil consolidation (314) <!-- soil-phys-128 -->
-321. **Specific weight** — Intermediate · Concept · Minor · builds on: Bulk density (301), Void ratio (307) <!-- soil-phys-131 -->
-322. **Relative density** — Advanced · Concept · Minor · builds on: Void ratio (307), Sand (236) <!-- soil-phys-094 -->
-323. **Soil pore size classes** — Intermediate · Classification · Major · builds on: Pore space in soil (303) <!-- soil-phys-070 -->
-324. **Groundwater-related subsidence** — Intermediate · Process · Minor · builds on: Soil consolidation (314), Effective stress (308) <!-- soil-phys-133 -->
-325. **IUPAC pore size classification** — Advanced · Classification · Minor · builds on: Porosity (298) <!-- soil-phys-067 -->
-326. **Measuring porosity** — Intermediate · Method · Minor · builds on: Porosity (298) <!-- soil-phys-068 -->
-327. **Porosity and hydraulic conductivity** — Intermediate · Concept · Minor · builds on: Porosity (298) <!-- soil-phys-065 -->
-328. **Soil porosity and texture** — Intermediate · Concept · Minor · builds on: Porosity (298), Soil texture (50), Soil aggregation (278) <!-- soil-phys-064 -->
-329. **Types of porosity** — Intermediate · Classification · Minor · builds on: Porosity (298) <!-- soil-phys-066 -->
-330. **Sand boil** — Intermediate · Concept · Minor · builds on: Seepage (309), Soil liquefaction (311) <!-- soil-phys-127 -->
-331. **Compaction in construction** — Intermediate · Practice · Minor · builds on: Soil compaction (304) <!-- soil-phys-083 -->
-332. **Effects of soil compaction** — Intermediate · Concept · Major · builds on: Soil compaction in agriculture (305), Pore space in soil (303) <!-- soil-phys-089 -->
-333. **Compaction avoidance and mitigation** — Intermediate · Practice · Major · builds on: Soil compaction in agriculture (305), Effects of soil compaction (332) <!-- soil-phys-091 -->
-334. **Mechanism of soil compaction** — Intermediate · Process · Major · builds on: Soil compaction (304), Pore space in soil (303), Soil aggregation (278) <!-- soil-phys-087 -->
-335. **Dilatancy** — Intermediate · Concept · Minor · builds on: Shear strength (soil) (310), Void ratio (307) <!-- soil-phys-132 -->
-336. **Thixotropy** — Intermediate · Concept · Minor · builds on: Clay (49) <!-- soil-phys-119 -->
-337. **Unsaturated soil conditions** — Intermediate · Concept · Minor · builds on: Pore space in soil (303), Porosity (298) <!-- soil-phys-077 -->
-338. **Matric suction** — Intermediate · Concept · Major · builds on: Pore water pressure (306), Capillary action in soil (316), Unsaturated soil conditions (337) <!-- soil-phys-099 -->
-339. **Measuring soil bulk density** — Intermediate · Method · Minor · builds on: Bulk density (301) <!-- soil-phys-061 -->
-340. **Porous medium** — Intermediate · Concept · Minor · builds on: Porosity (298) <!-- soil-phys-172 -->
-341. **Critical state theory** — Advanced · Concept · Minor · builds on: Shear strength (soil) (310), Void ratio (307), Effective stress (308) <!-- soil-phys-105 -->
-342. **Drained shear strength** — Advanced · Concept · Minor · builds on: Shear strength (soil) (310), Effective stress (308) <!-- soil-phys-104 -->
-343. **Factors controlling shear strength** — Advanced · Concept · Minor · builds on: Shear strength (soil) (310), Void ratio (307), Soil structure (249) <!-- soil-phys-102 -->
-344. **Steady state soil mechanics** — Advanced · Concept · Minor · builds on: Critical state theory (341), Effective stress (308), Shear strength (soil) (310) <!-- soil-phys-106 -->
-345. **Undrained shear strength** — Advanced · Concept · Minor · builds on: Shear strength (soil) (310), Pore water pressure (306) <!-- soil-phys-103 -->
-346. **Bearing capacity** — Intermediate · Concept · Minor · builds on: Shear strength (soil) (310), Effective stress (308) <!-- soil-phys-123 -->
-347. **Resin-impregnation imaging** — Advanced · Method · Minor · builds on: Pore space in soil (303) <!-- soil-phys-072 -->
-348. **Soil crack modeling** — Advanced · Method · Minor · builds on: Pore space in soil (303), Shrink–swell capacity (247) <!-- soil-phys-071 -->
-349. **Causes of agricultural compaction** — Intermediate · Process · Minor · builds on: Soil compaction in agriculture (305) <!-- soil-phys-088 -->
-350. **Particle density** — Foundational · Concept · Major · builds on: Mineral (27), Soil composition (6) <!-- soil-phys-062 -->
-351. **Soil mass–volume relations** — Intermediate · Concept · Major · builds on: Bulk density (301), Particle density (350), Porosity (298), Void ratio (307) <!-- soil-phys-093 -->
-352. **Mohr–Coulomb theory** — Advanced · Concept · Major · builds on: Shear strength (soil) (310), Effective stress (308), Cohesion (geology) (312) <!-- soil-phys-169 -->
-353. **Apparent cohesion** — Advanced · Concept · Minor · builds on: Cohesion (geology) (312), Matric suction (338), Critical state theory (341) <!-- soil-phys-108 -->
-354. **Compression index** — Advanced · Concept · Minor · builds on: Soil consolidation (314), Void ratio (307), Effective stress (308) <!-- soil-phys-111 -->
-355. **Origins of consolidation theory** — Intermediate · Event · Minor · builds on: Soil consolidation (314) <!-- soil-phys-114 -->
-356. **Overconsolidation** — Advanced · Concept · Minor · builds on: Soil consolidation (314), Effective stress (308) <!-- soil-phys-112 -->
-357. **Secondary consolidation** — Intermediate · Process · Minor · builds on: Soil consolidation (314), Effective stress (308), Soil organic matter (26) <!-- soil-phys-113 -->
-358. **Terzaghi's principle** — Advanced · Concept · Minor · builds on: Effective stress (308), Pore water pressure (306) <!-- soil-phys-135 -->
-359. **Specific yield** — Intermediate · Concept · Minor · builds on: Porosity (298), Soil texture (50) <!-- soil-phys-129 -->
-360. **Geotechnical investigation** — Intermediate · Method · Minor · builds on: Geotechnical engineering (317), Soil mechanics (300) <!-- soil-phys-168 -->
-361. **Penetrometer** — Foundational · Method · Minor · builds on: Shear strength (soil) (310), Soil compaction (304) <!-- soil-phys-136 -->
-362. **Identifying soil compaction** — Intermediate · Method · Minor · builds on: Soil compaction in agriculture (305), Bulk density (301), Penetrometer (361) <!-- soil-phys-090 -->
-363. **Trampling** — Intermediate · Process · Minor · builds on: Soil compaction (304), Porosity (298) <!-- soil-phys-175 -->
-364. **Representative elementary volume** — Advanced · Concept · Minor · builds on: Porous medium (340), Porosity (298) <!-- soil-phys-173 -->
-365. **Soil strength** — Intermediate · Concept · Minor · builds on: Penetrometer (361), Effective stress (308) <!-- soil-phys-176 -->
-366. **Pore structure** — Advanced · Concept · Major · builds on: Porous medium (340), Porosity (298), Pore space in soil (303) <!-- soil-phys-171 -->
-367. **Tortuosity** — Advanced · Concept · Minor · builds on: Porous medium (340), Porosity (298), Pore structure (366) <!-- soil-phys-174 -->
+307. **Porosity** — Foundational · Concept · Landmark · builds on: Soil composition (6), Soil (1) <!-- soil-phys-063 -->
+308. **Soil physics** — Foundational · Concept · Major · builds on: Soil science (2), Soil (1) <!-- soil-phys-059 -->
+309. **Soil mechanics** — Intermediate · Concept · Major · builds on: Soil physics (308), Soil texture (47) <!-- soil-phys-092 -->
+310. **Bulk density** — Foundational · Concept · Landmark · builds on: Soil composition (6), Soil (1), Mineral (26) <!-- soil-phys-060 -->
+311. **Soil matrix** — Foundational · Concept · Major · builds on: Soil composition (6), Mineral (26), Soil (1), Soil texture (47) <!-- soil-phys-120 -->
+312. **Pore space in soil** — Intermediate · Concept · Major · builds on: Porosity (307), Soil matrix (311), Soil composition (6), Soil (1) <!-- soil-phys-069 -->
+313. **Soil compaction** — Intermediate · Process · Landmark · builds on: Bulk density (310), Pore space in soil (312), Soil structure (260) <!-- soil-phys-082 -->
+314. **Soil compaction in agriculture** — Intermediate · Process · Major · builds on: Soil compaction (313), Bulk density (310), Porosity (307), Soil structure (260) <!-- soil-phys-086 -->
+315. **Pore water pressure** — Intermediate · Concept · Major · builds on: Pore space in soil (312), Soil mechanics (309) <!-- soil-phys-098 -->
+316. **Void ratio** — Intermediate · Concept · Major · builds on: Porosity (307) <!-- soil-phys-073 -->
+317. **Effective stress** — Advanced · Concept · Major · builds on: Pore water pressure (315), Soil mechanics (309) <!-- soil-phys-100 -->
+318. **Seepage** — Intermediate · Process · Major · builds on: Pore space in soil (312), Pore water pressure (315), Effective stress (317) <!-- soil-phys-125 -->
+319. **Shear strength (soil)** — Intermediate · Concept · Major · builds on: Soil mechanics (309), Effective stress (317) <!-- soil-phys-101 -->
+320. **Soil liquefaction** — Intermediate · Process · Major · builds on: Pore water pressure (315), Effective stress (317), Shear strength (soil) (319), Sand (247) <!-- soil-phys-116 -->
+321. **Cohesion (geology)** — Intermediate · Concept · Major · builds on: Shear strength (soil) (319) <!-- soil-phys-107 -->
+322. **Quicksand** — Intermediate · Material · Minor · builds on: Soil liquefaction (320), Sand (247), Effective stress (317) <!-- soil-phys-118 -->
+323. **Soil consolidation** — Intermediate · Process · Major · builds on: Pore water pressure (315), Effective stress (317), Void ratio (316), Pore space in soil (312) <!-- soil-phys-110 -->
+324. **Angle of repose** — Foundational · Concept · Minor · builds on: Shear strength (soil) (319), Sand (247) <!-- soil-phys-109 -->
+325. **Capillary action in soil** — Intermediate · Process · Major · builds on: Pore space in soil (312), Pore water pressure (315) <!-- soil-phys-095 -->
+326. **Geotechnical engineering** — Intermediate · Concept · Major · builds on: Soil mechanics (309) <!-- soil-phys-167 -->
+327. **Overburden pressure** — Intermediate · Concept · Minor · builds on: Bulk density (310) <!-- soil-phys-115 -->
+328. **Oedometer test** — Advanced · Method · Major · builds on: Soil consolidation (323), Effective stress (317), Void ratio (316) <!-- soil-phys-170 -->
+329. **Specific storage and storativity** — Advanced · Concept · Minor · builds on: Porosity (307), Soil consolidation (323) <!-- soil-phys-128 -->
+330. **Relative density** — Advanced · Concept · Minor · builds on: Void ratio (316), Sand (247) <!-- soil-phys-094 -->
+331. **Specific weight** — Intermediate · Concept · Minor · builds on: Bulk density (310), Void ratio (316) <!-- soil-phys-131 -->
+332. **Soil pore size classes** — Intermediate · Classification · Major · builds on: Pore space in soil (312) <!-- soil-phys-070 -->
+333. **Groundwater-related subsidence** — Intermediate · Process · Minor · builds on: Soil consolidation (323), Effective stress (317) <!-- soil-phys-133 -->
+334. **IUPAC pore size classification** — Advanced · Classification · Minor · builds on: Porosity (307) <!-- soil-phys-067 -->
+335. **Measuring porosity** — Intermediate · Method · Minor · builds on: Porosity (307) <!-- soil-phys-068 -->
+336. **Porosity and hydraulic conductivity** — Intermediate · Concept · Minor · builds on: Porosity (307) <!-- soil-phys-065 -->
+337. **Soil porosity and texture** — Intermediate · Concept · Minor · builds on: Porosity (307), Soil texture (47), Soil aggregation (270) <!-- soil-phys-064 -->
+338. **Types of porosity** — Intermediate · Classification · Minor · builds on: Porosity (307) <!-- soil-phys-066 -->
+339. **Sand boil** — Intermediate · Concept · Minor · builds on: Seepage (318), Soil liquefaction (320) <!-- soil-phys-127 -->
+340. **Compaction in construction** — Intermediate · Practice · Minor · builds on: Soil compaction (313) <!-- soil-phys-083 -->
+341. **Effects of soil compaction** — Intermediate · Concept · Major · builds on: Soil compaction in agriculture (314), Pore space in soil (312) <!-- soil-phys-089 -->
+342. **Compaction avoidance and mitigation** — Intermediate · Practice · Major · builds on: Soil compaction in agriculture (314), Effects of soil compaction (341) <!-- soil-phys-091 -->
+343. **Mechanism of soil compaction** — Intermediate · Process · Major · builds on: Soil compaction (313), Pore space in soil (312), Soil aggregation (270) <!-- soil-phys-087 -->
+344. **Dilatancy** — Intermediate · Concept · Minor · builds on: Shear strength (soil) (319), Void ratio (316) <!-- soil-phys-132 -->
+345. **Thixotropy** — Intermediate · Concept · Minor · builds on: Clay (46) <!-- soil-phys-119 -->
+346. **Critical state soil mechanics** — Advanced · Concept · Minor · builds on: Shear strength (soil) (319), Void ratio (316), Soil mechanics (309), Geotechnical engineering (326), Porosity (307) <!-- soil-phys-238 -->
+347. **Unsaturated soil conditions** — Intermediate · Concept · Minor · builds on: Pore space in soil (312), Porosity (307) <!-- soil-phys-077 -->
+348. **Matric suction** — Intermediate · Concept · Major · builds on: Pore water pressure (315), Capillary action in soil (325), Unsaturated soil conditions (347) <!-- soil-phys-099 -->
+349. **Measuring soil bulk density** — Intermediate · Method · Minor · builds on: Bulk density (310) <!-- soil-phys-061 -->
+350. **Porous medium** — Intermediate · Concept · Minor · builds on: Porosity (307) <!-- soil-phys-172 -->
+351. **Bearing capacity** — Intermediate · Concept · Minor · builds on: Shear strength (soil) (319), Effective stress (317) <!-- soil-phys-123 -->
+352. **Critical state theory** — Advanced · Concept · Minor · builds on: Shear strength (soil) (319), Void ratio (316), Effective stress (317) <!-- soil-phys-105 -->
+353. **Drained shear strength** — Advanced · Concept · Minor · builds on: Shear strength (soil) (319), Effective stress (317) <!-- soil-phys-104 -->
+354. **Factors controlling shear strength** — Advanced · Concept · Minor · builds on: Shear strength (soil) (319), Void ratio (316), Soil structure (260) <!-- soil-phys-102 -->
+355. **Steady state soil mechanics** — Advanced · Concept · Minor · builds on: Critical state theory (352), Effective stress (317), Shear strength (soil) (319) <!-- soil-phys-106 -->
+356. **Undrained shear strength** — Advanced · Concept · Minor · builds on: Shear strength (soil) (319), Pore water pressure (315) <!-- soil-phys-103 -->
+357. **Resin-impregnation imaging** — Advanced · Method · Minor · builds on: Pore space in soil (312) <!-- soil-phys-072 -->
+358. **Soil crack modeling** — Advanced · Method · Minor · builds on: Pore space in soil (312), Shrink–swell capacity (257) <!-- soil-phys-071 -->
+359. **Causes of agricultural compaction** — Intermediate · Process · Minor · builds on: Soil compaction in agriculture (314) <!-- soil-phys-088 -->
+360. **Particle density** — Foundational · Concept · Major · builds on: Mineral (26), Soil composition (6) <!-- soil-phys-062 -->
+361. **Soil mass–volume relations** — Intermediate · Concept · Major · builds on: Bulk density (310), Particle density (360), Porosity (307), Void ratio (316) <!-- soil-phys-093 -->
+362. **Mohr–Coulomb theory** — Advanced · Concept · Major · builds on: Shear strength (soil) (319), Effective stress (317), Cohesion (geology) (321) <!-- soil-phys-169 -->
+363. **Apparent cohesion** — Advanced · Concept · Minor · builds on: Cohesion (geology) (321), Matric suction (348), Critical state theory (352) <!-- soil-phys-108 -->
+364. **Compression index** — Advanced · Concept · Minor · builds on: Soil consolidation (323), Void ratio (316), Effective stress (317) <!-- soil-phys-111 -->
+365. **Origins of consolidation theory** — Intermediate · Event · Minor · builds on: Soil consolidation (323) <!-- soil-phys-114 -->
+366. **Overconsolidation** — Advanced · Concept · Minor · builds on: Soil consolidation (323), Effective stress (317) <!-- soil-phys-112 -->
+367. **Secondary consolidation** — Intermediate · Process · Minor · builds on: Soil consolidation (323), Effective stress (317) <!-- soil-phys-113 -->
+368. **Terzaghi's principle** — Advanced · Concept · Minor · builds on: Effective stress (317), Pore water pressure (315) <!-- soil-phys-135 -->
+369. **Specific yield** — Intermediate · Concept · Minor · builds on: Porosity (307), Soil texture (47) <!-- soil-phys-129 -->
+370. **Geotechnical investigation** — Intermediate · Method · Minor · builds on: Geotechnical engineering (326), Soil mechanics (309) <!-- soil-phys-168 -->
+371. **Penetrometer** — Foundational · Method · Minor · builds on: Shear strength (soil) (319), Soil compaction (313) <!-- soil-phys-136 -->
+372. **Identifying soil compaction** — Intermediate · Method · Minor · builds on: Soil compaction in agriculture (314), Bulk density (310), Penetrometer (371) <!-- soil-phys-090 -->
+373. **Diagnosing types of compaction** — Intermediate · Method · Major · builds on: Soil compaction (313) <!-- soil-phys-229 -->
+374. **Trampling** — Intermediate · Process · Minor · builds on: Soil compaction (313), Porosity (307) <!-- soil-phys-175 -->
+375. **Representative elementary volume** — Advanced · Concept · Minor · builds on: Porous medium (350), Porosity (307) <!-- soil-phys-173 -->
+376. **Cover and rotation crops against compaction** — Intermediate · Practice · Major · builds on: Soil compaction (313) <!-- soil-phys-233 -->
+377. **Field traffic management for compaction** — Intermediate · Practice · Major · builds on: Soil compaction (313) <!-- soil-phys-236 -->
+378. **Organic matter and compaction resistance** — Intermediate · Concept · Major · builds on: Soil compaction (313) <!-- soil-phys-232 -->
+379. **Headland (agriculture)** — Foundational · Concept · Minor <!-- soil-phys-239 -->
+380. **Dynamic compaction** — Advanced · Method · Minor · builds on: Soil compaction (313), Pore water pressure (315), Soil (1) <!-- soil-phys-237 -->
+381. **Compaction-prone crops and countermeasures** — Intermediate · Practice · Minor <!-- soil-phys-230 -->
+382. **Deep tillage for compaction relief** — Intermediate · Practice · Minor <!-- soil-phys-234 -->
+383. **Low-disturbance compaction relief** — Intermediate · Practice · Minor <!-- soil-phys-235 -->
+384. **Preventing surface sealing and crusting** — Foundational · Practice · Minor · builds on: Soil crust (274) <!-- soil-phys-231 -->
+385. **Soil strength** — Intermediate · Concept · Minor · builds on: Penetrometer (371), Effective stress (317) <!-- soil-phys-176 -->
+386. **Pore structure** — Advanced · Concept · Major · builds on: Porous medium (350), Porosity (307), Pore space in soil (312) <!-- soil-phys-171 -->
+387. **Tortuosity** — Advanced · Concept · Minor · builds on: Porous medium (350), Porosity (307), Pore structure (386) <!-- soil-phys-174 -->
 
 ### Water in soil
 
-368. **Infiltration** — Foundational · Process · Landmark · builds on: Soil (1), Pore space in soil (303) <!-- soil-water-180 -->
-369. **Permeability (porous media)** — Intermediate · Concept · Major · builds on: Porosity (298), Pore space in soil (303) <!-- soil-water-191 -->
-370. **Water content** — Foundational · Concept · Major · builds on: Soil (1), Porosity (298) <!-- soil-water-164 -->
-371. **Soil moisture** — Foundational · Concept · Landmark · builds on: Water content (370), Soil (1), Pore space in soil (303) <!-- soil-water-155 -->
-372. **Drainage** — Foundational · Practice · Landmark · builds on: Soil moisture (371), Soil (1) <!-- soil-water-214 -->
-373. **Hydraulic conductivity** — Intermediate · Concept · Landmark · builds on: Permeability (porous media) (369), Water content (370) <!-- soil-water-193 -->
-374. **Water potential** — Intermediate · Concept · Landmark · builds on: Soil moisture (371) <!-- soil-water-172 -->
-375. **Darcy's law** — Intermediate · Concept · Major · builds on: Permeability (porous media) (369), Hydraulic conductivity (373) <!-- soil-water-201 -->
-376. **Soil water retention** — Foundational · Concept · Major · builds on: Soil texture (50), Pore space in soil (303), Soil (1) <!-- soil-water-153 -->
-377. **Water retention curve** — Intermediate · Concept · Major · builds on: Water content (370), Water potential (374) <!-- soil-water-175 -->
-378. **Water table** — Foundational · Concept · Major · builds on: Soil moisture (371) <!-- soil-water-247 -->
-379. **Macropore** — Intermediate · Concept · Major · builds on: Pore space in soil (303), Soil pore size classes (323), Soil structure (249) <!-- soil-water-189 -->
-380. **Depression storage capacity** — Intermediate · Concept · Minor · builds on: Soil (1), Infiltration (368) <!-- soil-found-094 -->
-381. **Hydraulic head** — Intermediate · Concept · Major · builds on: Water table (378), Specific weight (321) <!-- soil-phys-165 -->
-382. **Infiltrometer** — Intermediate · Method · Major · builds on: Infiltration (368), Hydraulic conductivity (373) <!-- soil-water-187 -->
-383. **Factors affecting infiltration** — Intermediate · Concept · Major · builds on: Infiltration (368), Soil structure (249), Soil texture (50) <!-- soil-water-181 -->
-384. **Infiltration equations** — Advanced · Method · Major · builds on: Infiltration (368), Hydraulic conductivity (373), Darcy's law (375) <!-- soil-water-182 -->
-385. **Plant water uptake** — Intermediate · Process · Major · builds on: Soil moisture (371), Water potential (374) <!-- soil-water-160 -->
-386. **Permanent wilting point** — Foundational · Concept · Major · builds on: Soil moisture (371), Plant water uptake (385), Water potential (374) <!-- soil-water-178 -->
-387. **Evapotranspiration** — Foundational · Process · Major · builds on: Soil moisture (371), Plant water uptake (385) <!-- soil-water-161 -->
-388. **Saturated and unsaturated flow** — Intermediate · Process · Major · builds on: Soil moisture (371), Water potential (374), Hydraulic conductivity (373) <!-- soil-water-156 -->
-389. **Pedotransfer function** — Intermediate · Method · Major · builds on: Water retention curve (377), Hydraulic conductivity (373), Soil texture (50) <!-- soil-water-205 -->
-390. **Impervious surface** — Foundational · Concept · Minor · builds on: Infiltration (368), Soil compaction (304) <!-- soil-water-231 -->
-391. **Transpiration** — Foundational · Process · Major · builds on: Plant water uptake (385), Water potential (374) <!-- soil-phys-213 -->
-392. **Soil moisture measurement** — Intermediate · Method · Major · builds on: Water content (370), Soil moisture (371) <!-- soil-water-168 -->
-393. **Time-domain reflectometry** — Intermediate · Method · Major · builds on: Soil moisture measurement (392), Water content (370) <!-- soil-water-223 -->
-394. **Soil moisture sensor** — Intermediate · Method · Major · builds on: Water content (370), Soil moisture measurement (392) <!-- soil-water-222 -->
-395. **Capacitance probe** — Intermediate · Method · Minor · builds on: Soil moisture sensor (394), Water content (370) <!-- soil-water-225 -->
-396. **Waterlogging** — Foundational · Concept · Major · builds on: Soil moisture (371) <!-- soil-water-218 -->
-397. **Watertable control** — Intermediate · Practice · Major · builds on: Drainage (372), Water table (378), Waterlogging (396), Hydraulic conductivity (373) <!-- soil-water-228 -->
-398. **Agricultural land drainage** — Intermediate · Practice · Major · builds on: Drainage (372), Waterlogging (396) <!-- soil-water-215 -->
-399. **Matric potential** — Intermediate · Concept · Major · builds on: Water potential (374), Capillary action in soil (316) <!-- soil-water-173 -->
-400. **Hydrology** — Foundational · Concept · Minor <!-- soil-phys-207 -->
-401. **Horton's equation** — Advanced · Method · Minor · builds on: Infiltration equations (384) <!-- soil-water-184 -->
-402. **Kostiakov equation** — Advanced · Method · Minor · builds on: Infiltration equations (384) <!-- soil-water-185 -->
-403. **Geotextile drain filters** — Intermediate · Material · Minor · builds on: Drainage (372), Grain size (235) <!-- soil-water-216 -->
-404. **Sustainable urban drainage** — Intermediate · Practice · Minor · builds on: Drainage (372), Infiltration (368) <!-- soil-water-217 -->
-405. **Agricultural drainage systems** — Intermediate · Classification · Major · builds on: Drainage (372), Agricultural land drainage (398), Watertable control (397) <!-- soil-phys-226 -->
-406. **Soil suction and pF** — Intermediate · Concept · Minor · builds on: Water potential (374), Soil moisture (371) <!-- soil-water-163 -->
-407. **Green–Ampt method** — Advanced · Method · Minor · builds on: Infiltration equations (384), Hydraulic conductivity (373), Soil suction and pF (406) <!-- soil-water-183 -->
-408. **Transpiration ratio** — Intermediate · Concept · Minor · builds on: Evapotranspiration (387) <!-- soil-water-162 -->
-409. **Disc permeameter** — Intermediate · Method · Minor · builds on: Infiltrometer (382), Hydraulic conductivity (373), Macropore (379) <!-- soil-water-204 -->
-410. **Tile drainage** — Intermediate · Practice · Major · builds on: Agricultural drainage systems (405), Water table (378) <!-- soil-phys-227 -->
-411. **Water balance** — Intermediate · Concept · Major · builds on: Hydrology (400), Evapotranspiration (387), Infiltration (368), Soil moisture (371) <!-- soil-phys-210 -->
-412. **Bioclogging** — Intermediate · Process · Minor · builds on: Infiltration (368), Pore space in soil (303) <!-- soil-water-241 -->
-413. **Ecohydrology** — Intermediate · Concept · Minor · builds on: Soil moisture (371), Evapotranspiration (387) <!-- soil-water-240 -->
-414. **SaltMod** — Advanced · Method · Minor · builds on: Drainage (372), Water table (378) <!-- soil-water-237 -->
-415. **Constant-head test** — Intermediate · Method · Minor · builds on: Hydraulic conductivity (373), Darcy's law (375) <!-- soil-water-195 -->
-416. **Falling-head test** — Intermediate · Method · Minor · builds on: Hydraulic conductivity (373), Darcy's law (375) <!-- soil-water-196 -->
-417. **Field permeability tests** — Intermediate · Method · Minor · builds on: Hydraulic conductivity (373) <!-- soil-water-197 -->
-418. **Augerhole method** — Intermediate · Method · Minor · builds on: Field permeability tests (417), Water table (378), Hydraulic conductivity (373) <!-- soil-water-198 -->
-419. **Hazen's formula** — Intermediate · Method · Minor · builds on: Hydraulic conductivity (373), Particle-size distribution (252) <!-- soil-water-194 -->
-420. **Hydraulic anisotropy** — Advanced · Concept · Minor · builds on: Hydraulic conductivity (373), Permeability (porous media) (369) <!-- soil-water-200 -->
-421. **Transmissivity** — Advanced · Concept · Minor · builds on: Hydraulic conductivity (373) <!-- soil-water-199 -->
-422. **Moisture stress** — Intermediate · Concept · Minor · builds on: Soil moisture (371), Water potential (374), Water content (370) <!-- soil-phys-130 -->
-423. **Agricultural drought** — Foundational · Concept · Minor · builds on: Soil moisture (371), Permanent wilting point (386), Water content (370) <!-- soil-water-171 -->
-424. **Degree of saturation** — Intermediate · Concept · Minor · builds on: Water content (370), Porosity (298) <!-- soil-water-166 -->
-425. **Permeability of soils** — Intermediate · Concept · Major · builds on: Permeability (porous media) (369), Void ratio (307), Degree of saturation (424) <!-- soil-water-192 -->
-426. **Oven-dry method** — Foundational · Method · Minor · builds on: Water content (370) <!-- soil-water-167 -->
-427. **Satellite soil moisture sensing** — Intermediate · Method · Minor · builds on: Soil moisture measurement (392) <!-- soil-water-169 -->
-428. **Percolation test** — Intermediate · Method · Minor · builds on: Soil texture (50), Infiltration (368) <!-- soil-found-071 -->
-429. **Forchheimer equation** — Advanced · Concept · Minor · builds on: Darcy's law (375) <!-- soil-water-202 -->
-430. **Drainage equation** — Advanced · Method · Minor · builds on: Drainage (372), Hydraulic conductivity (373), Water table (378), Darcy's law (375) <!-- soil-water-219 -->
-431. **Drainage research** — Intermediate · Method · Minor · builds on: Drainage (372), Agricultural land drainage (398), Drainage equation (430) <!-- soil-water-220 -->
-432. **Sorptivity** — Advanced · Concept · Minor · builds on: Infiltration (368), Capillary action in soil (316) <!-- soil-water-186 -->
-433. **Osmotic potential of soil water** — Intermediate · Concept · Minor · builds on: Water potential (374) <!-- soil-water-174 -->
-434. **Soil moisture and climate** — Intermediate · Concept · Minor · builds on: Soil moisture (371) <!-- soil-water-154 -->
-435. **Throughflow** — Intermediate · Process · Minor · builds on: Soil (1), Hydraulic conductivity (373), Infiltration (368) <!-- soil-found-105 -->
-436. **Darcy (unit)** — Intermediate · Concept · Minor · builds on: Permeability (porous media) (369) <!-- soil-water-203 -->
-437. **Soil Moisture Active Passive** — Intermediate · Method · Minor · builds on: Satellite soil moisture sensing (427), Soil moisture (371) <!-- soil-water-227 -->
-438. **Van Genuchten model** — Advanced · Method · Minor · builds on: Water retention curve (377) <!-- soil-water-176 -->
-439. **Plinthite** — Intermediate · Material · Minor · builds on: Clay (49), Soil horizon (67) <!-- soil-water-242 -->
-440. **Mariotte's bottle** — Intermediate · Method · Minor · builds on: Infiltrometer (382) <!-- soil-water-244 -->
-441. **Macropore network** — Advanced · Concept · Minor · builds on: Macropore (379) <!-- soil-water-190 -->
-442. **Potential evapotranspiration** — Intermediate · Concept · Minor · builds on: Evapotranspiration (387) <!-- soil-water-246 -->
-443. **Soil-plant-atmosphere continuum** — Intermediate · Concept · Minor · builds on: Water potential (374), Plant water uptake (385), Evapotranspiration (387) <!-- soil-water-208 -->
-444. **Hydropedology** — Intermediate · Concept · Minor · builds on: Soil science (2), Pedosphere (3) <!-- soil-water-209 -->
-445. **Natural impervious area** — Intermediate · Concept · Minor · builds on: Impervious surface (390), Infiltration (368) <!-- soil-water-232 -->
-446. **Total impervious area** — Intermediate · Method · Minor · builds on: Impervious surface (390) <!-- soil-water-233 -->
-447. **Wilting** — Foundational · Process · Minor · builds on: Water potential (374), Transpiration (391), Moisture stress (422) <!-- soil-phys-214 -->
-448. **Soil inference system** — Advanced · Method · Minor · builds on: Pedotransfer function (389) <!-- soil-water-243 -->
-449. **Hydraulic gradient** — Intermediate · Concept · Minor · builds on: Hydraulic head (381) <!-- soil-phys-166 -->
-450. **Double-ring infiltrometer** — Intermediate · Method · Minor · builds on: Infiltrometer (382) <!-- soil-water-188 -->
-451. **Penman–Monteith equation** — Advanced · Method · Major · builds on: Evapotranspiration (387), Potential evapotranspiration (442) <!-- soil-phys-215 -->
-452. **Neutron probe** — Intermediate · Method · Minor · builds on: Soil moisture measurement (392), Water content (370), Soil moisture sensor (394) <!-- soil-water-170 -->
-453. **Bound water** — Intermediate · Concept · Minor · builds on: Soil moisture (371) <!-- soil-phys-221 -->
-454. **Pressure head** — Intermediate · Concept · Minor · builds on: Hydraulic head (381), Specific weight (321) <!-- soil-phys-223 -->
-455. **Soil moisture zone** — Foundational · Concept · Minor · builds on: Soil moisture (371) <!-- soil-water-207 -->
-456. **Frequency domain sensor** — Intermediate · Method · Minor · builds on: Soil moisture sensor (394), Water content (370) <!-- soil-water-226 -->
-457. **Water retention hysteresis** — Advanced · Concept · Minor · builds on: Water retention curve (377), Matric potential (399), Water content (370) <!-- soil-phys-222 -->
-458. **Preferential flow** — Intermediate · Process · Major · builds on: Macropore (379), Infiltration (368) <!-- soil-water-157 -->
-459. **Kozeny–Carman equation** — Advanced · Concept · Minor · builds on: Permeability (porous media) (369), Darcy's law (375), Porosity (298), Grain size (235) <!-- soil-phys-224 -->
-460. **Eddy covariance** — Advanced · Method · Minor · builds on: Evapotranspiration (387) <!-- soil-phys-219 -->
-461. **Priestley–Taylor equation** — Advanced · Method · Minor · builds on: Penman–Monteith equation (451), Evapotranspiration (387) <!-- soil-phys-216 -->
-462. **Reference evapotranspiration** — Intermediate · Concept · Minor · builds on: Potential evapotranspiration (442), Evapotranspiration (387) <!-- soil-phys-217 -->
-463. **Crop coefficient** — Intermediate · Concept · Minor · builds on: Reference evapotranspiration (462), Evapotranspiration (387) <!-- soil-phys-218 -->
-464. **Groundwater recharge** — Intermediate · Process · Major · builds on: Water table (378), Infiltration (368) <!-- soil-water-210 -->
-465. **Artificial groundwater recharge** — Intermediate · Practice · Minor · builds on: Groundwater recharge (464) <!-- soil-water-212 -->
-466. **Field capacity** — Foundational · Concept · Major · builds on: Soil moisture (371), Water potential (374) <!-- soil-water-177 -->
-467. **Available water capacity** — Intermediate · Concept · Major · builds on: Field capacity (466), Permanent wilting point (386), Water content (370) <!-- soil-water-229 -->
-468. **Irrigation scheduling** — Intermediate · Practice · Major · builds on: Available water capacity (467), Soil moisture (371) <!-- soil-water-234 -->
-469. **Standard soil water contents** — Intermediate · Classification · Major · builds on: Water content (370), Field capacity (466), Permanent wilting point (386), Soil suction and pF (406) <!-- soil-water-165 -->
-470. **Depression-focused recharge** — Intermediate · Process · Minor · builds on: Groundwater recharge (464), Field capacity (466) <!-- soil-water-211 -->
-471. **Percolation** — Foundational · Process · Minor · builds on: Infiltration (368), Soil moisture (371), Field capacity (466) <!-- soil-water-159 -->
-472. **Groundwater** — Foundational · Concept · Major · builds on: Pore space in soil (303), Rock (90), Water table (378), Infiltration (368), Percolation (471) <!-- soil-phys-203 -->
-473. **Aquifer** — Foundational · Concept · Major · builds on: Groundwater (472), Porosity (298), Permeability (porous media) (369), Rock (90) <!-- soil-phys-201 -->
-474. **Hydrogeology** — Intermediate · Concept · Minor · builds on: Groundwater (472), Aquifer (473), Rock (90), Hydrology (400) <!-- soil-phys-208 -->
-475. **Lysimeter** — Intermediate · Method · Minor · builds on: Evapotranspiration (387), Percolation (471) <!-- soil-water-248 -->
-476. **Moisture equivalent** — Intermediate · Method · Minor · builds on: Field capacity (466), Water content (370) <!-- soil-water-245 -->
-477. **Confined and unconfined aquifers** — Intermediate · Classification · Minor · builds on: Aquifer (473), Water table (378), Permeability (porous media) (369) <!-- soil-phys-202 -->
-478. **Management allowed depletion** — Intermediate · Concept · Minor · builds on: Available water capacity (467), Irrigation scheduling (468) <!-- soil-water-236 -->
-479. **Soil water balance method** — Intermediate · Method · Minor · builds on: Irrigation scheduling (468), Evapotranspiration (387) <!-- soil-water-235 -->
-480. **Groundwater flow equation** — Advanced · Concept · Minor · builds on: Darcy's law (375), Hydraulic head (381), Aquifer (473), Groundwater (472) <!-- soil-phys-209 -->
-481. **Subsurface flow** — Foundational · Process · Minor · builds on: Hydrology (400), Infiltration (368), Groundwater (472) <!-- soil-phys-206 -->
-482. **Ecological effects of tile drainage** — Intermediate · Concept · Minor · builds on: Tile drainage (410), Groundwater (472) <!-- soil-phys-228 -->
-483. **Non-limiting water range** — Advanced · Concept · Minor · builds on: Available water capacity (467), Water potential (374), Soil compaction (304), Water content (370), Field capacity (466), Permanent wilting point (386) <!-- soil-phys-220 -->
-484. **Vadose zone** — Foundational · Concept · Major · builds on: Soil moisture (371), Water table (378) <!-- soil-water-230 -->
-485. **Capillary fringe** — Intermediate · Concept · Major · builds on: Water table (378), Vadose zone (484), Capillary action in soil (316), Matric potential (399) <!-- soil-water-179 -->
-486. **Tensiometer** — Intermediate · Method · Major · builds on: Matric potential (399), Water potential (374), Vadose zone (484) <!-- soil-water-221 -->
-487. **Richards equation** — Advanced · Concept · Major · builds on: Darcy's law (375), Hydraulic conductivity (373), Water retention curve (377), Vadose zone (484) <!-- soil-water-238 -->
-488. **Soil moisture velocity equation** — Advanced · Method · Minor · builds on: Vadose zone (484), Hydraulic conductivity (373), Matric potential (399), Saturated and unsaturated flow (388), Richards equation (487), Infiltration (368), Water content (370) <!-- soil-water-206 -->
-489. **Groundwater recharge estimation** — Advanced · Method · Minor · builds on: Groundwater recharge (464), Richards equation (487) <!-- soil-water-213 -->
-490. **Finite water-content vadose zone flow method** — Advanced · Method · Minor · builds on: Richards equation (487), Soil moisture velocity equation (488), Vadose zone (484) <!-- soil-water-239 -->
-491. **Agricultural hydrology** — Advanced · Concept · Minor · builds on: Water balance (411), Drainage (372), Evapotranspiration (387), Vadose zone (484) <!-- soil-phys-211 -->
-492. **Phreatic zone** — Foundational · Concept · Minor · builds on: Groundwater (472), Water table (378), Porosity (298), Vadose zone (484) <!-- soil-phys-204 -->
-493. **Interflow** — Intermediate · Process · Minor · builds on: Infiltration (368), Vadose zone (484), Subsurface flow (481), Hydraulic conductivity (373) <!-- soil-phys-205 -->
-494. **Irrigation and drainage requirements** — Advanced · Method · Minor · builds on: Agricultural hydrology (491), Water balance (411), Potential evapotranspiration (442), Agricultural drainage systems (405) <!-- soil-phys-212 -->
-495. **Fingered flow** — Advanced · Process · Minor · builds on: Saturated and unsaturated flow (388), Vadose zone (484) <!-- soil-water-158 -->
-496. **Unsaturated hydraulic conductivity** — Advanced · Concept · Minor · builds on: Hydraulic conductivity (373), Water content (370), Water retention curve (377), Vadose zone (484) <!-- soil-phys-225 -->
+388. **Infiltration** — Foundational · Process · Landmark · builds on: Soil (1), Pore space in soil (312) <!-- soil-water-180 -->
+389. **Permeability (porous media)** — Intermediate · Concept · Major · builds on: Porosity (307), Pore space in soil (312) <!-- soil-water-191 -->
+390. **Water content** — Foundational · Concept · Major · builds on: Soil (1), Porosity (307) <!-- soil-water-164 -->
+391. **Soil moisture** — Foundational · Concept · Landmark · builds on: Water content (390), Soil (1), Pore space in soil (312) <!-- soil-water-155 -->
+392. **Drainage** — Foundational · Practice · Landmark · builds on: Soil moisture (391), Soil (1) <!-- soil-water-214 -->
+393. **Hydraulic conductivity** — Intermediate · Concept · Landmark · builds on: Permeability (porous media) (389), Water content (390) <!-- soil-water-193 -->
+394. **Water potential** — Intermediate · Concept · Landmark · builds on: Soil moisture (391) <!-- soil-water-172 -->
+395. **Darcy's law** — Intermediate · Concept · Major · builds on: Permeability (porous media) (389), Hydraulic conductivity (393) <!-- soil-water-201 -->
+396. **Soil water retention** — Foundational · Concept · Major · builds on: Soil texture (47), Pore space in soil (312), Soil (1) <!-- soil-water-153 -->
+397. **Water retention curve** — Intermediate · Concept · Major · builds on: Water content (390), Water potential (394) <!-- soil-water-175 -->
+398. **Water table** — Foundational · Concept · Major · builds on: Soil moisture (391) <!-- soil-water-247 -->
+399. **Macropore** — Intermediate · Concept · Major · builds on: Pore space in soil (312), Soil pore size classes (332), Soil structure (260) <!-- soil-water-189 -->
+400. **Depression storage capacity** — Intermediate · Concept · Minor · builds on: Soil (1), Infiltration (388) <!-- soil-found-094 -->
+401. **Hydraulic head** — Intermediate · Concept · Major · builds on: Water table (398), Specific weight (331) <!-- soil-phys-165 -->
+402. **Infiltrometer** — Intermediate · Method · Major · builds on: Infiltration (388), Hydraulic conductivity (393) <!-- soil-water-187 -->
+403. **Factors affecting infiltration** — Intermediate · Concept · Major · builds on: Infiltration (388), Soil structure (260), Soil texture (47) <!-- soil-water-181 -->
+404. **Infiltration equations** — Advanced · Method · Major · builds on: Infiltration (388), Hydraulic conductivity (393), Darcy's law (395) <!-- soil-water-182 -->
+405. **Saturated and unsaturated flow** — Intermediate · Process · Major · builds on: Soil moisture (391), Water potential (394), Hydraulic conductivity (393) <!-- soil-water-156 -->
+406. **Pedotransfer function** — Intermediate · Method · Major · builds on: Water retention curve (397), Hydraulic conductivity (393), Soil texture (47) <!-- soil-water-205 -->
+407. **Impervious surface** — Foundational · Concept · Minor · builds on: Infiltration (388), Soil compaction (313) <!-- soil-water-231 -->
+408. **Soil moisture measurement** — Intermediate · Method · Major · builds on: Water content (390), Soil moisture (391) <!-- soil-water-168 -->
+409. **Time-domain reflectometry** — Intermediate · Method · Major · builds on: Soil moisture measurement (408), Water content (390) <!-- soil-water-223 -->
+410. **Soil moisture sensor** — Intermediate · Method · Major · builds on: Water content (390), Soil moisture measurement (408) <!-- soil-water-222 -->
+411. **Capacitance probe** — Intermediate · Method · Minor · builds on: Soil moisture sensor (410), Water content (390) <!-- soil-water-225 -->
+412. **Waterlogging** — Foundational · Concept · Major · builds on: Soil moisture (391) <!-- soil-water-218 -->
+413. **Watertable control** — Intermediate · Practice · Major · builds on: Drainage (392), Water table (398), Waterlogging (412), Hydraulic conductivity (393) <!-- soil-water-228 -->
+414. **Agricultural land drainage** — Intermediate · Practice · Major · builds on: Drainage (392), Waterlogging (412) <!-- soil-water-215 -->
+415. **Matric potential** — Intermediate · Concept · Major · builds on: Water potential (394), Capillary action in soil (325) <!-- soil-water-173 -->
+416. **Hydrology** — Foundational · Concept · Minor <!-- soil-phys-207 -->
+417. **Horton's equation** — Advanced · Method · Minor · builds on: Infiltration equations (404) <!-- soil-water-184 -->
+418. **Kostiakov equation** — Advanced · Method · Minor · builds on: Infiltration equations (404) <!-- soil-water-185 -->
+419. **Geotextile drain filters** — Intermediate · Material · Minor · builds on: Drainage (392), Grain size (246) <!-- soil-water-216 -->
+420. **Sustainable urban drainage** — Intermediate · Practice · Minor · builds on: Drainage (392), Infiltration (388) <!-- soil-water-217 -->
+421. **Agricultural drainage systems** — Intermediate · Classification · Major · builds on: Drainage (392), Agricultural land drainage (414), Watertable control (413) <!-- soil-phys-226 -->
+422. **Soil suction and pF** — Intermediate · Concept · Minor · builds on: Water potential (394), Soil moisture (391) <!-- soil-water-163 -->
+423. **Green–Ampt method** — Advanced · Method · Minor · builds on: Infiltration equations (404), Hydraulic conductivity (393), Soil suction and pF (422) <!-- soil-water-183 -->
+424. **Disc permeameter** — Intermediate · Method · Minor · builds on: Infiltrometer (402), Hydraulic conductivity (393), Macropore (399) <!-- soil-water-204 -->
+425. **Tile drainage** — Intermediate · Practice · Major · builds on: Agricultural drainage systems (421), Water table (398) <!-- soil-phys-227 -->
+426. **Bioclogging** — Intermediate · Process · Minor · builds on: Infiltration (388), Pore space in soil (312) <!-- soil-water-241 -->
+427. **SaltMod** — Advanced · Method · Minor · builds on: Drainage (392), Water table (398) <!-- soil-water-237 -->
+428. **Constant-head test** — Intermediate · Method · Minor · builds on: Hydraulic conductivity (393), Darcy's law (395) <!-- soil-water-195 -->
+429. **Falling-head test** — Intermediate · Method · Minor · builds on: Hydraulic conductivity (393), Darcy's law (395) <!-- soil-water-196 -->
+430. **Field permeability tests** — Intermediate · Method · Minor · builds on: Hydraulic conductivity (393) <!-- soil-water-197 -->
+431. **Augerhole method** — Intermediate · Method · Minor · builds on: Field permeability tests (430), Water table (398), Hydraulic conductivity (393) <!-- soil-water-198 -->
+432. **Hazen's formula** — Intermediate · Method · Minor · builds on: Hydraulic conductivity (393), Particle-size distribution (263) <!-- soil-water-194 -->
+433. **Hydraulic anisotropy** — Advanced · Concept · Minor · builds on: Hydraulic conductivity (393), Permeability (porous media) (389) <!-- soil-water-200 -->
+434. **Transmissivity** — Advanced · Concept · Minor · builds on: Hydraulic conductivity (393) <!-- soil-water-199 -->
+435. **Moisture stress** — Intermediate · Concept · Minor · builds on: Soil moisture (391), Water potential (394), Water content (390) <!-- soil-phys-130 -->
+436. **Osmosis** — Foundational · Process · Major · builds on: Water potential (394) <!-- soil-phys-258 -->
+437. **Degree of saturation** — Intermediate · Concept · Minor · builds on: Water content (390), Porosity (307) <!-- soil-water-166 -->
+438. **Permeability of soils** — Intermediate · Concept · Major · builds on: Permeability (porous media) (389), Void ratio (316), Degree of saturation (437) <!-- soil-water-192 -->
+439. **Oven-dry method** — Foundational · Method · Minor · builds on: Water content (390) <!-- soil-water-167 -->
+440. **Satellite soil moisture sensing** — Intermediate · Method · Minor · builds on: Soil moisture measurement (408) <!-- soil-water-169 -->
+441. **Percolation test** — Intermediate · Method · Minor · builds on: Soil texture (47), Infiltration (388) <!-- soil-found-071 -->
+442. **Forchheimer equation** — Advanced · Concept · Minor · builds on: Darcy's law (395) <!-- soil-water-202 -->
+443. **Drainage equation** — Advanced · Method · Minor · builds on: Drainage (392), Hydraulic conductivity (393), Water table (398), Darcy's law (395) <!-- soil-water-219 -->
+444. **Drainage research** — Intermediate · Method · Minor · builds on: Drainage (392), Agricultural land drainage (414), Drainage equation (443) <!-- soil-water-220 -->
+445. **Osmotic potential of soil water** — Intermediate · Concept · Minor · builds on: Water potential (394) <!-- soil-water-174 -->
+446. **Properties of water** — Foundational · Concept · Major <!-- soil-phys-259 -->
+447. **Soil moisture and climate** — Intermediate · Concept · Minor · builds on: Soil moisture (391) <!-- soil-water-154 -->
+448. **Throughflow** — Intermediate · Process · Minor · builds on: Soil (1), Hydraulic conductivity (393), Infiltration (388) <!-- soil-found-105 -->
+449. **Darcy (unit)** — Intermediate · Concept · Minor · builds on: Permeability (porous media) (389) <!-- soil-water-203 -->
+450. **Soil Moisture Active Passive** — Intermediate · Method · Minor · builds on: Satellite soil moisture sensing (440), Soil moisture (391) <!-- soil-water-227 -->
+451. **Van Genuchten model** — Advanced · Method · Minor · builds on: Water retention curve (397) <!-- soil-water-176 -->
+452. **Adhesion** — Foundational · Concept · Minor <!-- soil-phys-253 -->
+453. **Plinthite** — Intermediate · Material · Minor · builds on: Clay (46), Soil horizon (64) <!-- soil-water-242 -->
+454. **Surface tension** — Foundational · Concept · Minor <!-- soil-phys-260 -->
+455. **Capillary action** — Foundational · Process · Major · builds on: Surface tension (454), Adhesion (452), Clay (46) <!-- soil-phys-252 -->
+456. **Sorptivity** — Advanced · Concept · Minor · builds on: Infiltration (388), Capillary action in soil (325), Capillary action (455) <!-- soil-water-186 -->
+457. **Mariotte's bottle** — Intermediate · Method · Minor · builds on: Infiltrometer (402) <!-- soil-water-244 -->
+458. **Macropore network** — Advanced · Concept · Minor · builds on: Macropore (399) <!-- soil-water-190 -->
+459. **Hygroscopy** — Foundational · Concept · Minor <!-- soil-phys-257 -->
+460. **Hydropedology** — Intermediate · Concept · Minor · builds on: Soil science (2), Pedosphere (3) <!-- soil-water-209 -->
+461. **Natural impervious area** — Intermediate · Concept · Minor · builds on: Impervious surface (407), Infiltration (388) <!-- soil-water-232 -->
+462. **Total impervious area** — Intermediate · Method · Minor · builds on: Impervious surface (407) <!-- soil-water-233 -->
+463. **Continuity equation** — Advanced · Concept · Minor <!-- soil-phys-255 -->
+464. **Soil inference system** — Advanced · Method · Minor · builds on: Pedotransfer function (406) <!-- soil-water-243 -->
+465. **Hydraulic gradient** — Intermediate · Concept · Minor · builds on: Hydraulic head (401) <!-- soil-phys-166 -->
+466. **Double-ring infiltrometer** — Intermediate · Method · Minor · builds on: Infiltrometer (402) <!-- soil-water-188 -->
+467. **Neutron probe** — Intermediate · Method · Minor · builds on: Soil moisture measurement (408), Water content (390), Soil moisture sensor (410) <!-- soil-water-170 -->
+468. **Bound water** — Intermediate · Concept · Minor · builds on: Soil moisture (391) <!-- soil-phys-221 -->
+469. **Pressure head** — Intermediate · Concept · Minor · builds on: Hydraulic head (401), Specific weight (331) <!-- soil-phys-223 -->
+470. **Hagen-Poiseuille equation** — Advanced · Concept · Minor · builds on: Continuity equation (463) <!-- soil-phys-256 -->
+471. **Soil moisture zone** — Foundational · Concept · Minor · builds on: Soil moisture (391) <!-- soil-water-207 -->
+472. **Frequency domain sensor** — Intermediate · Method · Minor · builds on: Soil moisture sensor (410), Water content (390) <!-- soil-water-226 -->
+473. **Infiltration-excess overland flow** — Intermediate · Process · Minor · builds on: Infiltration (388) <!-- soil-water-020 -->
+474. **Water retention hysteresis** — Advanced · Concept · Minor · builds on: Water retention curve (397), Matric potential (415), Water content (390) <!-- soil-phys-222 -->
+475. **Capillary pressure** — Intermediate · Concept · Minor · builds on: Capillary action (455) <!-- soil-phys-254 -->
+476. **Preferential flow** — Intermediate · Process · Major · builds on: Macropore (399), Infiltration (388) <!-- soil-water-157 -->
+477. **Kozeny–Carman equation** — Advanced · Concept · Minor · builds on: Permeability (porous media) (389), Darcy's law (395), Porosity (307), Grain size (246) <!-- soil-phys-224 -->
+478. **Capillary water** — Foundational · Concept · Minor · builds on: Capillary action in soil (325) <!-- soil-phys-262 -->
+479. **Soil water relationship** — Intermediate · Concept · Minor · builds on: Soil moisture sensor (410), Soil water retention (396) <!-- soil-phys-268 -->
+480. **Groundwater recharge** — Intermediate · Process · Major · builds on: Water table (398), Infiltration (388) <!-- soil-water-210 -->
+481. **Artificial groundwater recharge** — Intermediate · Practice · Minor · builds on: Groundwater recharge (480) <!-- soil-water-212 -->
+482. **Field capacity** — Foundational · Concept · Major · builds on: Soil moisture (391), Water potential (394) <!-- soil-water-177 -->
+483. **Depression-focused recharge** — Intermediate · Process · Minor · builds on: Groundwater recharge (480), Field capacity (482) <!-- soil-water-211 -->
+484. **Percolation** — Foundational · Process · Minor · builds on: Infiltration (388), Soil moisture (391), Field capacity (482) <!-- soil-water-159 -->
+485. **Groundwater** — Foundational · Concept · Major · builds on: Pore space in soil (312), Rock (87), Water table (398), Infiltration (388), Percolation (484) <!-- soil-phys-203 -->
+486. **Aquifer** — Foundational · Concept · Major · builds on: Groundwater (485), Porosity (307), Permeability (porous media) (389), Rock (87) <!-- soil-phys-201 -->
+487. **Hydrogeology** — Intermediate · Concept · Minor · builds on: Groundwater (485), Aquifer (486), Rock (87), Hydrology (416) <!-- soil-phys-208 -->
+488. **Moisture equivalent** — Intermediate · Method · Minor · builds on: Field capacity (482), Water content (390) <!-- soil-water-245 -->
+489. **Confined and unconfined aquifers** — Intermediate · Classification · Minor · builds on: Aquifer (486), Water table (398), Permeability (porous media) (389) <!-- soil-phys-202 -->
+490. **Groundwater flow equation** — Advanced · Concept · Minor · builds on: Darcy's law (395), Hydraulic head (401), Aquifer (486), Groundwater (485) <!-- soil-phys-209 -->
+491. **Subsurface flow** — Foundational · Process · Minor · builds on: Hydrology (416), Infiltration (388), Groundwater (485) <!-- soil-phys-206 -->
+492. **Ecological effects of tile drainage** — Intermediate · Concept · Minor · builds on: Tile drainage (425), Groundwater (485) <!-- soil-phys-228 -->
+493. **Gravitational water** — Foundational · Concept · Minor · builds on: Field capacity (482) <!-- soil-phys-261 -->
+494. **Vadose zone** — Foundational · Concept · Major · builds on: Soil moisture (391), Water table (398) <!-- soil-water-230 -->
+495. **Capillary fringe** — Intermediate · Concept · Major · builds on: Water table (398), Vadose zone (494), Capillary action in soil (325), Matric potential (415) <!-- soil-water-179 -->
+496. **Tensiometer** — Intermediate · Method · Major · builds on: Matric potential (415), Water potential (394), Vadose zone (494) <!-- soil-water-221 -->
+497. **Richards equation** — Advanced · Concept · Major · builds on: Darcy's law (395), Hydraulic conductivity (393), Water retention curve (397), Vadose zone (494) <!-- soil-water-238 -->
+498. **Soil moisture velocity equation** — Advanced · Method · Minor · builds on: Vadose zone (494), Hydraulic conductivity (393), Matric potential (415), Saturated and unsaturated flow (405), Richards equation (497), Infiltration (388), Water content (390) <!-- soil-water-206 -->
+499. **Groundwater recharge estimation** — Advanced · Method · Minor · builds on: Groundwater recharge (480), Richards equation (497) <!-- soil-water-213 -->
+500. **Finite water-content vadose zone flow method** — Advanced · Method · Minor · builds on: Richards equation (497), Soil moisture velocity equation (498), Vadose zone (494) <!-- soil-water-239 -->
+501. **Phreatic zone** — Foundational · Concept · Minor · builds on: Groundwater (485), Water table (398), Porosity (307), Vadose zone (494) <!-- soil-phys-204 -->
+502. **Interflow** — Intermediate · Process · Minor · builds on: Infiltration (388), Vadose zone (494), Subsurface flow (491), Hydraulic conductivity (393) <!-- soil-phys-205 -->
+503. **Fingered flow** — Advanced · Process · Minor · builds on: Saturated and unsaturated flow (405), Vadose zone (494) <!-- soil-water-158 -->
+504. **Unsaturated hydraulic conductivity** — Advanced · Concept · Minor · builds on: Hydraulic conductivity (393), Water content (390), Water retention curve (397), Vadose zone (494) <!-- soil-phys-225 -->
+505. **Permanent wilting point** — Foundational · Concept · Major · builds on: Soil moisture (391), Water potential (394) <!-- soil-water-178 -->
+506. **Available water capacity** — Intermediate · Concept · Major · builds on: Field capacity (482), Permanent wilting point (505), Water content (390) <!-- soil-water-229 -->
+507. **Irrigation scheduling** — Intermediate · Practice · Major · builds on: Available water capacity (506), Soil moisture (391) <!-- soil-water-234 -->
+508. **Standard soil water contents** — Intermediate · Classification · Major · builds on: Water content (390), Field capacity (482), Permanent wilting point (505), Soil suction and pF (422) <!-- soil-water-165 -->
+509. **Agricultural drought** — Foundational · Concept · Minor · builds on: Soil moisture (391), Permanent wilting point (505), Water content (390) <!-- soil-water-171 -->
+510. **Management allowed depletion** — Intermediate · Concept · Minor · builds on: Available water capacity (506), Irrigation scheduling (507) <!-- soil-water-236 -->
+511. **Hygroscopic water** — Intermediate · Concept · Minor · builds on: Permanent wilting point (505), Water potential (394) <!-- soil-phys-263 -->
+512. **Evapotranspiration** — Foundational · Process · Major · builds on: Soil moisture (391) <!-- soil-water-161 -->
+513. **Transpiration ratio** — Intermediate · Concept · Minor · builds on: Evapotranspiration (512) <!-- soil-water-162 -->
+514. **Water balance** — Intermediate · Concept · Major · builds on: Hydrology (416), Evapotranspiration (512), Infiltration (388), Soil moisture (391) <!-- soil-phys-210 -->
+515. **Ecohydrology** — Intermediate · Concept · Minor · builds on: Soil moisture (391), Evapotranspiration (512) <!-- soil-water-240 -->
+516. **Lysimeter** — Intermediate · Method · Minor · builds on: Evapotranspiration (512), Percolation (484) <!-- soil-water-248 -->
+517. **Potential evapotranspiration** — Intermediate · Concept · Minor · builds on: Evapotranspiration (512) <!-- soil-water-246 -->
+518. **Agricultural hydrology** — Advanced · Concept · Minor · builds on: Water balance (514), Drainage (392), Evapotranspiration (512), Vadose zone (494) <!-- soil-phys-211 -->
+519. **Penman–Monteith equation** — Advanced · Method · Major · builds on: Evapotranspiration (512), Potential evapotranspiration (517) <!-- soil-phys-215 -->
+520. **Soil water balance method** — Intermediate · Method · Minor · builds on: Irrigation scheduling (507), Evapotranspiration (512) <!-- soil-water-235 -->
+521. **Irrigation and drainage requirements** — Advanced · Method · Minor · builds on: Agricultural hydrology (518), Water balance (514), Potential evapotranspiration (517), Agricultural drainage systems (421) <!-- soil-phys-212 -->
+522. **Eddy covariance** — Advanced · Method · Minor · builds on: Evapotranspiration (512) <!-- soil-phys-219 -->
+523. **Priestley–Taylor equation** — Advanced · Method · Minor · builds on: Penman–Monteith equation (519), Evapotranspiration (512) <!-- soil-phys-216 -->
+524. **Reference evapotranspiration** — Intermediate · Concept · Minor · builds on: Potential evapotranspiration (517), Evapotranspiration (512) <!-- soil-phys-217 -->
+525. **Crop coefficient** — Intermediate · Concept · Minor · builds on: Reference evapotranspiration (524), Evapotranspiration (512) <!-- soil-phys-218 -->
+526. **Plant water uptake** — Intermediate · Process · Major · builds on: Soil moisture (391), Water potential (394) <!-- soil-water-160 -->
+527. **Transpiration** — Foundational · Process · Major · builds on: Plant water uptake (526), Water potential (394) <!-- soil-phys-213 -->
+528. **Soil-plant-atmosphere continuum** — Intermediate · Concept · Minor · builds on: Water potential (394), Plant water uptake (526), Evapotranspiration (512) <!-- soil-water-208 -->
+529. **Wilting** — Foundational · Process · Minor · builds on: Water potential (394), Transpiration (527), Moisture stress (435) <!-- soil-phys-214 -->
 
 ### Solute transport in soil
 
-497. **Advection** — Intermediate · Process · Major · builds on: Groundwater (472) <!-- soil-phys-193 -->
-498. **Contaminant transport in groundwater** — Intermediate · Process · Major · builds on: Groundwater (472), Aquifer (473), Hydrogeology (474) <!-- soil-phys-192 -->
-499. **Hydrodynamic dispersion** — Advanced · Process · Major · builds on: Advection (497), Contaminant transport in groundwater (498), Porosity (298), Preferential flow (458) <!-- soil-phys-194 -->
-500. **Retardation by adsorption** — Advanced · Process · Major · builds on: Contaminant transport in groundwater (498), Advection (497) <!-- soil-phys-196 -->
-501. **Molecular diffusion of solutes** — Intermediate · Process · Minor · builds on: Contaminant transport in groundwater (498), Soil solution (24) <!-- soil-phys-195 -->
-502. **Convection–diffusion equation** — Advanced · Concept · Major · builds on: Advection (497), Molecular diffusion of solutes (501) <!-- soil-phys-197 -->
-503. **Dye tracing** — Intermediate · Method · Minor · builds on: Groundwater (472), Preferential flow (458) <!-- soil-phys-200 -->
-504. **Vadose zone transport models** — Advanced · Method · Minor · builds on: Richards equation (487), Convection–diffusion equation (502), Vadose zone (484) <!-- soil-phys-199 -->
-505. **Colloid-facilitated transport** — Advanced · Process · Minor · builds on: Contaminant transport in groundwater (498) <!-- soil-phys-198 -->
+530. **Advection** — Intermediate · Process · Major · builds on: Groundwater (485) <!-- soil-phys-193 -->
+531. **Contaminant transport in groundwater** — Intermediate · Process · Major · builds on: Groundwater (485), Aquifer (486), Hydrogeology (487) <!-- soil-phys-192 -->
+532. **Hydrodynamic dispersion** — Advanced · Process · Major · builds on: Advection (530), Contaminant transport in groundwater (531), Porosity (307), Preferential flow (476) <!-- soil-phys-194 -->
+533. **Retardation by adsorption** — Advanced · Process · Major · builds on: Contaminant transport in groundwater (531), Advection (530) <!-- soil-phys-196 -->
+534. **Molecular diffusion of solutes** — Intermediate · Process · Minor · builds on: Contaminant transport in groundwater (531), Soil solution (24) <!-- soil-phys-195 -->
+535. **Convection–diffusion equation** — Advanced · Concept · Major · builds on: Advection (530), Molecular diffusion of solutes (534) <!-- soil-phys-197 -->
+536. **Dye tracing** — Intermediate · Method · Minor · builds on: Groundwater (485), Preferential flow (476) <!-- soil-phys-200 -->
+537. **Péclet number** — Advanced · Concept · Minor · builds on: Advection (530), Molecular diffusion of solutes (534) <!-- soil-phys-251 -->
+538. **Vadose zone transport models** — Advanced · Method · Minor · builds on: Richards equation (497), Convection–diffusion equation (535), Vadose zone (494) <!-- soil-phys-199 -->
+539. **Colloid-facilitated transport** — Advanced · Process · Minor · builds on: Contaminant transport in groundwater (531) <!-- soil-phys-198 -->
+540. **Breakthrough curve** — Advanced · Method · Minor · builds on: Retardation by adsorption (533), Porosity (307) <!-- soil-phys-250 -->
 
 ### Soil temperature and air
 
-506. **Soil gas** — Foundational · Concept · Landmark · builds on: Pore space in soil (303), Soil composition (6), Soil (1) <!-- soil-phys-146 -->
-507. **Soil temperature** — Foundational · Concept · Landmark · builds on: Physical properties of soil (248) <!-- soil-phys-137 -->
-508. **Gas diffusion in soil** — Intermediate · Process · Major · builds on: Soil gas (506), Pore space in soil (303) <!-- soil-phys-148 -->
-509. **Soil aeration** — Foundational · Process · Major · builds on: Soil gas (506), Gas diffusion in soil (508), Pore space in soil (303) <!-- soil-phys-150 -->
-510. **Soil air composition** — Intermediate · Concept · Major · builds on: Soil gas (506) <!-- soil-phys-147 -->
-511. **Frost line** — Foundational · Concept · Major · builds on: Soil temperature (507) <!-- soil-phys-158 -->
-512. **Frost heaving** — Intermediate · Process · Major · builds on: Soil temperature (507), Frost line (511) <!-- soil-phys-153 -->
-513. **Needle ice** — Foundational · Concept · Major · builds on: Soil temperature (507), Frost heaving (512) <!-- soil-phys-159 -->
-514. **Soil thermal properties** — Intermediate · Concept · Major · builds on: Soil temperature (507), Physical properties of soil (248) <!-- soil-phys-140 -->
-515. **Permafrost** — Foundational · Concept · Landmark · builds on: Soil (1), Soil temperature (507), Soil thermal properties (514) <!-- soil-env-129 -->
-516. **Ice lens** — Intermediate · Concept · Major · builds on: Frost heaving (512) <!-- soil-phys-154 -->
-517. **Patterned ground** — Intermediate · Concept · Major · builds on: Frost heaving (512), Cryoturbation (146) <!-- soil-phys-163 -->
-518. **Frost-heave landforms** — Intermediate · Concept · Minor · builds on: Frost heaving (512) <!-- soil-phys-157 -->
-519. **Frost-susceptible soil** — Intermediate · Concept · Minor · builds on: Frost heaving (512), Capillary action in soil (316), Specific surface area (293), Soil texture (50) <!-- soil-phys-155 -->
-520. **Premelting and thermal regelation** — Advanced · Process · Minor · builds on: Ice lens (516) <!-- soil-phys-156 -->
-521. **Soil gas surveys** — Intermediate · Method · Minor · builds on: Soil gas (506) <!-- soil-phys-149 -->
-522. **Lithalsa** — Intermediate · Concept · Minor · builds on: Frost-heave landforms (518), Ice lens (516), Frost heaving (512) <!-- soil-phys-161 -->
-523. **Albedo** — Intermediate · Concept · Minor · builds on: Soil temperature (507) <!-- soil-phys-177 -->
-524. **Microclimate** — Intermediate · Concept · Minor · builds on: Soil temperature (507), Albedo (523) <!-- soil-phys-180 -->
-525. **Fick's laws of diffusion** — Advanced · Concept · Minor · builds on: Gas diffusion in soil (508) <!-- soil-phys-181 -->
-526. **Core and spike aeration** — Foundational · Practice · Minor · builds on: Soil aeration (509) <!-- soil-phys-151 -->
-527. **Soil heat capacity** — Intermediate · Concept · Minor · builds on: Soil temperature (507) <!-- soil-phys-139 -->
-528. **Frost boil** — Intermediate · Concept · Minor · builds on: Cryoturbation (146), Frost heaving (512) <!-- soil-phys-160 -->
-529. **Linear aeration** — Foundational · Practice · Minor · builds on: Soil aeration (509) <!-- soil-phys-152 -->
-530. **Ice segregation** — Advanced · Process · Minor · builds on: Ice lens (516), Frost heaving (512), Premelting and thermal regelation (520) <!-- soil-phys-179 -->
-531. **Thermal remote sensing of soil** — Intermediate · Method · Minor · builds on: Soil thermal properties (514) <!-- soil-phys-144 -->
-532. **Seasonal frost** — Intermediate · Concept · Minor · builds on: Frost line (511), Soil temperature (507) <!-- soil-phys-185 -->
-533. **Soil thermal conductivity** — Intermediate · Concept · Minor · builds on: Soil thermal properties (514) <!-- soil-phys-141 -->
-534. **Thermal diffusivity** — Advanced · Concept · Minor · builds on: Soil thermal conductivity (533), Soil heat capacity (527), Bulk density (301), Soil thermal properties (514) <!-- soil-phys-164 -->
-535. **Soil heat flux** — Advanced · Concept · Minor · builds on: Soil temperature (507), Soil thermal conductivity (533) <!-- soil-phys-138 -->
-536. **Thermal effusivity** — Advanced · Concept · Minor · builds on: Soil thermal conductivity (533), Soil thermal properties (514), Thermal diffusivity (534) <!-- soil-phys-184 -->
-537. **Fourier's law** — Advanced · Concept · Minor · builds on: Soil thermal conductivity (533), Soil heat flux (535) <!-- soil-phys-182 -->
-538. **Heat equation** — Advanced · Concept · Minor · builds on: Fourier's law (537), Thermal diffusivity (534) <!-- soil-phys-183 -->
-539. **Heat probe method** — Advanced · Method · Minor · builds on: Soil thermal properties (514), Soil thermal conductivity (533) <!-- soil-phys-143 -->
-540. **Thermal lag** — Intermediate · Concept · Minor · builds on: Soil temperature (507) <!-- soil-phys-142 -->
-541. **Ground heat storage** — Intermediate · Practice · Minor · builds on: Soil thermal properties (514), Thermal lag (540) <!-- soil-phys-145 -->
-542. **Ground source heat pump** — Intermediate · Practice · Minor · builds on: Soil temperature (507), Thermal lag (540), Soil thermal properties (514) <!-- soil-phys-178 -->
+541. **Soil gas** — Foundational · Concept · Landmark · builds on: Pore space in soil (312), Soil composition (6), Soil (1) <!-- soil-phys-146 -->
+542. **Greenhouse gas** — Foundational · Concept · Major <!-- soil-phys-246 -->
+543. **Soil temperature** — Foundational · Concept · Landmark · builds on: Physical properties of soil (259) <!-- soil-phys-137 -->
+544. **Gas diffusion in soil** — Intermediate · Process · Major · builds on: Soil gas (541), Pore space in soil (312) <!-- soil-phys-148 -->
+545. **Soil aeration** — Foundational · Process · Major · builds on: Soil gas (541), Gas diffusion in soil (544), Pore space in soil (312) <!-- soil-phys-150 -->
+546. **Soil air composition** — Intermediate · Concept · Major · builds on: Soil gas (541) <!-- soil-phys-147 -->
+547. **Frost line** — Foundational · Concept · Major · builds on: Soil temperature (543) <!-- soil-phys-158 -->
+548. **Frost heaving** — Intermediate · Process · Major · builds on: Soil temperature (543), Frost line (547) <!-- soil-phys-153 -->
+549. **Needle ice** — Foundational · Concept · Major · builds on: Soil temperature (543), Frost heaving (548) <!-- soil-phys-159 -->
+550. **Soil thermal properties** — Intermediate · Concept · Major · builds on: Soil temperature (543), Physical properties of soil (259) <!-- soil-phys-140 -->
+551. **Permafrost** — Foundational · Concept · Landmark · builds on: Soil (1), Soil temperature (543), Soil thermal properties (550) <!-- soil-env-129 -->
+552. **Ice lens** — Intermediate · Concept · Major · builds on: Frost heaving (548) <!-- soil-phys-154 -->
+553. **Patterned ground** — Intermediate · Concept · Major · builds on: Frost heaving (548), Cryoturbation (144) <!-- soil-phys-163 -->
+554. **Frost-heave landforms** — Intermediate · Concept · Minor · builds on: Frost heaving (548) <!-- soil-phys-157 -->
+555. **Frost-susceptible soil** — Intermediate · Concept · Minor · builds on: Frost heaving (548), Capillary action in soil (325), Specific surface area (301), Soil texture (47) <!-- soil-phys-155 -->
+556. **Premelting and thermal regelation** — Advanced · Process · Minor · builds on: Ice lens (552) <!-- soil-phys-156 -->
+557. **Soil gas surveys** — Intermediate · Method · Minor · builds on: Soil gas (541) <!-- soil-phys-149 -->
+558. **Lithalsa** — Intermediate · Concept · Minor · builds on: Frost-heave landforms (554), Ice lens (552), Frost heaving (548) <!-- soil-phys-161 -->
+559. **Albedo** — Intermediate · Concept · Minor · builds on: Soil temperature (543) <!-- soil-phys-177 -->
+560. **Microclimate** — Intermediate · Concept · Minor · builds on: Soil temperature (543), Albedo (559) <!-- soil-phys-180 -->
+561. **Fick's laws of diffusion** — Advanced · Concept · Minor · builds on: Gas diffusion in soil (544) <!-- soil-phys-181 -->
+562. **Diffusion** — Foundational · Process · Major · builds on: Fick's laws of diffusion (561) <!-- soil-phys-240 -->
+563. **Partial pressure** — Intermediate · Concept · Minor · builds on: Diffusion (562) <!-- soil-phys-244 -->
+564. **Core and spike aeration** — Foundational · Practice · Minor · builds on: Soil aeration (545) <!-- soil-phys-151 -->
+565. **Molecular diffusion** — Intermediate · Process · Minor · builds on: Diffusion (562), Fick's laws of diffusion (561) <!-- soil-phys-243 -->
+566. **Heat capacity** — Foundational · Concept · Minor <!-- soil-phys-242 -->
+567. **Thermal conductivity** — Foundational · Concept · Major · builds on: Heat capacity (566) <!-- soil-phys-245 -->
+568. **Global warming potential** — Intermediate · Concept · Minor · builds on: Greenhouse gas (542) <!-- soil-phys-247 -->
+569. **Soil heat capacity** — Intermediate · Concept · Minor · builds on: Soil temperature (543) <!-- soil-phys-139 -->
+570. **Frost boil** — Intermediate · Concept · Minor · builds on: Cryoturbation (144), Frost heaving (548) <!-- soil-phys-160 -->
+571. **Linear aeration** — Foundational · Practice · Minor · builds on: Soil aeration (545) <!-- soil-phys-152 -->
+572. **Ice segregation** — Advanced · Process · Minor · builds on: Ice lens (552), Frost heaving (548), Premelting and thermal regelation (556) <!-- soil-phys-179 -->
+573. **Thermal remote sensing of soil** — Intermediate · Method · Minor · builds on: Soil thermal properties (550) <!-- soil-phys-144 -->
+574. **Growing region** — Foundational · Concept · Minor <!-- soil-phys-248 -->
+575. **Seasonal frost** — Intermediate · Concept · Minor · builds on: Frost line (547), Soil temperature (543) <!-- soil-phys-185 -->
+576. **Soil thermal conductivity** — Intermediate · Concept · Minor · builds on: Soil thermal properties (550) <!-- soil-phys-141 -->
+577. **Thermal diffusivity** — Advanced · Concept · Minor · builds on: Soil thermal conductivity (576), Soil heat capacity (569), Bulk density (310), Soil thermal properties (550) <!-- soil-phys-164 -->
+578. **Soil heat flux** — Advanced · Concept · Minor · builds on: Soil temperature (543), Soil thermal conductivity (576) <!-- soil-phys-138 -->
+579. **Thermal effusivity** — Advanced · Concept · Minor · builds on: Soil thermal conductivity (576), Soil thermal properties (550), Thermal diffusivity (577) <!-- soil-phys-184 -->
+580. **Fourier's law** — Advanced · Concept · Minor · builds on: Soil thermal conductivity (576), Soil heat flux (578) <!-- soil-phys-182 -->
+581. **Heat equation** — Advanced · Concept · Minor · builds on: Fourier's law (580), Thermal diffusivity (577) <!-- soil-phys-183 -->
+582. **Diffusion equation** — Advanced · Concept · Minor · builds on: Fick's laws of diffusion (561), Heat equation (581), Convection–diffusion equation (535) <!-- soil-phys-241 -->
+583. **Heat probe method** — Advanced · Method · Minor · builds on: Soil thermal properties (550), Soil thermal conductivity (576) <!-- soil-phys-143 -->
+584. **Thermal lag** — Intermediate · Concept · Minor · builds on: Soil temperature (543) <!-- soil-phys-142 -->
+585. **Ground heat storage** — Intermediate · Practice · Minor · builds on: Soil thermal properties (550), Thermal lag (584) <!-- soil-phys-145 -->
+586. **Ground source heat pump** — Intermediate · Practice · Minor · builds on: Soil temperature (543), Thermal lag (584), Soil thermal properties (550) <!-- soil-phys-178 -->
 
 ## Soil chemistry
 
 
 ### Soil mineralogy
 
-543. **Zeolite** — Intermediate · Material · Minor · builds on: Silicate minerals (46) <!-- soil-chem-199 -->
-544. **Bowen's reaction series** — Intermediate · Concept · Major · builds on: Silicate minerals (46), Igneous rock (95), Mineral (27) <!-- soil-chem-186 -->
-545. **Goldich dissolution series** — Intermediate · Concept · Major · builds on: Bowen's reaction series (544), Chemical weathering (31), Igneous rock (95) <!-- soil-chem-187 -->
-546. **Volcanic glass** — Intermediate · Material · Minor · builds on: Igneous rock (95), Volcanic ash (123), Mineral (27), Parent material (110), Weathering (28) <!-- soil-chem-200 -->
-547. **Glauconite** — Intermediate · Material · Minor · builds on: Phyllosilicates (48), Weathering (28) <!-- soil-chem-196 -->
-548. **Jarosite** — Intermediate · Material · Minor · builds on: Sulfate minerals (62) <!-- soil-chem-197 -->
-549. **Birnessite** — Intermediate · Material · Minor · builds on: Oxide minerals (44), Mineral (27) <!-- soil-chem-195 -->
-550. **Schwertmannite** — Intermediate · Material · Minor · builds on: Sulfate minerals (62) <!-- soil-chem-198 -->
-551. **Pedogenic carbonate** — Intermediate · Material · Major · builds on: Carbonate minerals (59), Hydrolysis and carbonation (55), Parent material (110) <!-- soil-chem-185 -->
-552. **Soil mineralogy** — Foundational · Concept · Major · builds on: Mineral (27), Mineralogy (57), Weathering (28) <!-- soil-chem-184 -->
-553. **Powder diffraction** — Advanced · Method · Major · builds on: Mineral (27), Soil mineralogy (552) <!-- soil-chem-188 -->
-554. **X-ray fluorescence** — Advanced · Method · Minor · builds on: Mineral (27), Soil mineralogy (552) <!-- soil-chem-189 -->
-555. **Electron probe microanalysis** — Advanced · Method · Minor · builds on: X-ray fluorescence (554), Mineral (27) <!-- soil-chem-191 -->
-556. **Fourier-transform infrared spectroscopy** — Advanced · Method · Minor · builds on: Soil mineralogy (552) <!-- soil-chem-190 -->
-557. **Selective extraction of iron oxides** — Advanced · Method · Minor · builds on: Oxide minerals (44) <!-- soil-chem-194 -->
-558. **Heavy mineral** — Intermediate · Material · Minor · builds on: Mineral (27), Sedimentary rock (91), Weathering (28) <!-- soil-chem-193 -->
-559. **Environmental magnetism** — Intermediate · Method · Minor · builds on: Oxide minerals (44) <!-- soil-chem-192 -->
+587. **Zeolite** — Intermediate · Material · Minor · builds on: Silicate minerals (43) <!-- soil-chem-199 -->
+588. **Bowen's reaction series** — Intermediate · Concept · Major · builds on: Silicate minerals (43), Igneous rock (93), Mineral (26) <!-- soil-chem-186 -->
+589. **Goldich dissolution series** — Intermediate · Concept · Major · builds on: Bowen's reaction series (588), Chemical weathering (28), Igneous rock (93) <!-- soil-chem-187 -->
+590. **Volcanic glass** — Intermediate · Material · Minor · builds on: Igneous rock (93), Volcanic ash (121), Mineral (26), Parent material (108), Weathering (27) <!-- soil-chem-200 -->
+591. **Glauconite** — Intermediate · Material · Minor · builds on: Phyllosilicates (45), Weathering (27) <!-- soil-chem-196 -->
+592. **Jarosite** — Intermediate · Material · Minor · builds on: Sulfate minerals (59) <!-- soil-chem-197 -->
+593. **Anatase** — Intermediate · Material · Minor · builds on: Oxide minerals (41), Mineral (26), Igneous rock (93), Metamorphic rock (94) <!-- soil-chem-231 -->
+594. **Cation exchange capacity and surface area of phyllosilicates** — Advanced · Concept · Major <!-- soil-chem-238 -->
+595. **Quartz in soils** — Foundational · Material · Major · builds on: Silicate minerals (43) <!-- soil-chem-237 -->
+596. **Secondary mineral** — Foundational · Concept · Major · builds on: Primary mineral (98) <!-- soil-chem-235 -->
+597. **Energy-dispersive X-ray spectroscopy** — Advanced · Method · Minor <!-- soil-chem-232 -->
+598. **Birnessite** — Intermediate · Material · Minor · builds on: Oxide minerals (41), Mineral (26) <!-- soil-chem-195 -->
+599. **Schwertmannite** — Intermediate · Material · Minor · builds on: Sulfate minerals (59) <!-- soil-chem-198 -->
+600. **Pedogenic carbonate** — Intermediate · Material · Major · builds on: Carbonate minerals (56), Hydrolysis and carbonation (49), Parent material (108) <!-- soil-chem-185 -->
+601. **Soil mineralogy** — Foundational · Concept · Major · builds on: Mineral (26), Mineralogy (54), Weathering (27) <!-- soil-chem-184 -->
+602. **Powder diffraction** — Advanced · Method · Major · builds on: Mineral (26), Soil mineralogy (601) <!-- soil-chem-188 -->
+603. **X-ray fluorescence** — Advanced · Method · Minor · builds on: Mineral (26), Soil mineralogy (601) <!-- soil-chem-189 -->
+604. **Electron probe microanalysis** — Advanced · Method · Minor · builds on: X-ray fluorescence (603), Mineral (26) <!-- soil-chem-191 -->
+605. **Fourier-transform infrared spectroscopy** — Advanced · Method · Minor · builds on: Soil mineralogy (601) <!-- soil-chem-190 -->
+606. **Variscite** — Intermediate · Material · Minor · builds on: Mineral (26) <!-- soil-chem-233 -->
+607. **Clay mineral inheritance from glacial parent material** — Intermediate · Concept · Minor · builds on: Phyllosilicates (45) <!-- soil-chem-239 -->
+608. **Phosphate minerals in soil** — Intermediate · Material · Minor <!-- soil-chem-241 -->
+609. **Primary mineral weathering rates** — Intermediate · Concept · Minor · builds on: Primary mineral (98), Weathering (27) <!-- soil-chem-236 -->
+610. **Soil carbonate minerals** — Intermediate · Material · Minor · builds on: Carbonate minerals (56) <!-- soil-chem-240 -->
+611. **Sulfide and sulfate minerals in soil** — Intermediate · Material · Minor <!-- soil-chem-242 -->
+612. **Selective extraction of iron oxides** — Advanced · Method · Minor · builds on: Oxide minerals (41) <!-- soil-chem-194 -->
+613. **Heavy mineral** — Intermediate · Material · Minor · builds on: Mineral (26), Sedimentary rock (89), Weathering (27) <!-- soil-chem-193 -->
+614. **Environmental magnetism** — Intermediate · Method · Minor · builds on: Oxide minerals (41) <!-- soil-chem-192 -->
+615. **Strengite** — Intermediate · Material · Minor · builds on: Mineral (26) <!-- soil-chem-234 -->
 
 ### Clay minerals and colloids
 
-560. **Soil chemistry** — Foundational · Concept · Landmark · builds on: Soil science (2), Soil (1), Mineral (27), Soil organic matter (26) <!-- soil-chem-076 -->
-561. **Clay mineral** — Foundational · Material · Landmark · builds on: Phyllosilicates (48), Clay (49), Mineral (27), Weathering (28) <!-- soil-chem-079 -->
-562. **Mica** — Intermediate · Material · Major · builds on: Mineral (27), Phyllosilicates (48), Silicate minerals (46) <!-- soil-chem-135 -->
-563. **Goethite** — Intermediate · Material · Major · builds on: Oxide minerals (44), Weathering (28) <!-- soil-chem-104 -->
-564. **Diatomaceous earth** — Intermediate · Material · Minor · builds on: Soil horizon (67) <!-- soil-chem-107 -->
-565. **Colloid** — Intermediate · Concept · Major · builds on: Clay (49) <!-- soil-chem-154 -->
-566. **Tetrahedral and octahedral sheets** — Intermediate · Concept · Major · builds on: Clay mineral (561), Silicate minerals (46) <!-- soil-chem-080 -->
-567. **1:1 and 2:1 clay minerals** — Intermediate · Classification · Major · builds on: Tetrahedral and octahedral sheets (566) <!-- soil-chem-081 -->
-568. **Vermiculite** — Intermediate · Material · Major · builds on: 1:1 and 2:1 clay minerals (567) <!-- soil-chem-095 -->
-569. **Kaolinite** — Intermediate · Material · Major · builds on: 1:1 and 2:1 clay minerals (567), Weathering (28) <!-- soil-chem-088 -->
-570. **Illite** — Intermediate · Material · Major · builds on: 1:1 and 2:1 clay minerals (567) <!-- soil-chem-094 -->
-571. **Hematite** — Intermediate · Material · Minor · builds on: Oxide minerals (44), Weathering (28) <!-- soil-chem-112 -->
-572. **Gibbsite** — Intermediate · Material · Major · builds on: Oxide minerals (44), Tetrahedral and octahedral sheets (566), Weathering (28) <!-- soil-chem-105 -->
-573. **Bauxite** — Intermediate · Material · Minor · builds on: Gibbsite (572), Laterite (200) <!-- soil-chem-108 -->
-574. **Environmental soil chemistry** — Intermediate · Concept · Minor · builds on: Soil chemistry (560) <!-- soil-chem-077 -->
-575. **Soil chemistry laboratory methods** — Intermediate · Method · Minor · builds on: Soil chemistry (560), Soil horizon (67) <!-- soil-chem-078 -->
-576. **Soil colloids** — Intermediate · Concept · Landmark · builds on: Clay mineral (561), Soil organic matter (26), Specific surface area (293) <!-- soil-chem-084 -->
-577. **Chlorite (clay mineral)** — Intermediate · Material · Minor · builds on: 1:1 and 2:1 clay minerals (567) <!-- soil-chem-087 -->
-578. **Ferrihydrite** — Intermediate · Material · Minor · builds on: Oxide minerals (44), Soil colloids (576) <!-- soil-chem-111 -->
-579. **Clay hypothesis of the origin of life** — Intermediate · Concept · Minor · builds on: Clay mineral (561) <!-- soil-chem-083 -->
-580. **Clay mineral identification** — Advanced · Method · Minor · builds on: Clay mineral (561), 1:1 and 2:1 clay minerals (567) <!-- soil-chem-082 -->
-581. **Fougèrite** — Advanced · Material · Minor · builds on: Oxide minerals (44), Goethite (563) <!-- soil-chem-109 -->
-582. **Zeta potential** — Advanced · Concept · Major · builds on: Colloid (565) <!-- soil-chem-160 -->
-583. **Allophane** — Intermediate · Material · Minor · builds on: Clay mineral (561), Weathering (28) <!-- soil-chem-097 -->
-584. **Imogolite** — Intermediate · Material · Minor · builds on: Clay mineral (561), Allophane (583) <!-- soil-chem-098 -->
-585. **Palygorskite** — Intermediate · Material · Minor · builds on: Clay mineral (561), 1:1 and 2:1 clay minerals (567) <!-- soil-chem-110 -->
-586. **Vermiculite in horticulture** — Intermediate · Practice · Minor · builds on: Vermiculite (568) <!-- soil-chem-096 -->
-587. **Colloidal stability** — Advanced · Concept · Major · builds on: Colloid (565) <!-- soil-chem-155 -->
-588. **Particle aggregation** — Advanced · Process · Major · builds on: Colloid (565), Colloidal stability (587) <!-- soil-chem-158 -->
-589. **Kaolinite formation in soils** — Advanced · Process · Minor · builds on: Kaolinite (569), Gibbsite (572) <!-- soil-chem-089 -->
-590. **DLVO theory** — Advanced · Concept · Major · builds on: Colloidal stability (587), Colloid (565) <!-- soil-chem-157 -->
-591. **Halloysite** — Intermediate · Material · Minor · builds on: Kaolinite (569) <!-- soil-chem-090 -->
-592. **Amorphous clays** — Intermediate · Material · Minor · builds on: Soil colloids (576), Clay mineral (561) <!-- soil-chem-099 -->
-593. **Peptization** — Advanced · Process · Minor · builds on: Colloid (565), Particle aggregation (588), Colloidal stability (587) <!-- soil-chem-161 -->
-594. **Sepiolite** — Intermediate · Material · Minor · builds on: Clay mineral (561), Phyllosilicates (48), 1:1 and 2:1 clay minerals (567) <!-- soil-chem-167 -->
-595. **Clay mineral X-ray diffraction** — Advanced · Method · Major · builds on: Clay mineral (561), Tetrahedral and octahedral sheets (566), 1:1 and 2:1 clay minerals (567) <!-- soil-chem-150 -->
-596. **Hydrous oxides** — Intermediate · Material · Minor · builds on: Oxide minerals (44), Chemical weathering (31) <!-- soil-chem-162 -->
-597. **Iron oxides** — Intermediate · Material · Major · builds on: Oxide minerals (44), Oxidation weathering (34), Hydrous oxides (596), Chemical weathering (31) <!-- soil-chem-163 -->
-598. **Lepidocrocite** — Intermediate · Material · Minor · builds on: Iron oxides (597), Goethite (563) <!-- soil-chem-164 -->
-599. **Maghemite** — Intermediate · Material · Minor · builds on: Iron oxides (597), Hematite (571) <!-- soil-chem-166 -->
-600. **Limonite** — Intermediate · Material · Minor · builds on: Iron oxides (597), Goethite (563) <!-- soil-chem-165 -->
-601. **Measuring specific surface area** — Advanced · Method · Minor · builds on: Specific surface area (293) <!-- soil-chem-168 -->
-602. **Isomorphous substitution** — Intermediate · Process · Major · builds on: Tetrahedral and octahedral sheets (566) <!-- soil-chem-085 -->
-603. **Smectite** — Intermediate · Material · Major · builds on: 1:1 and 2:1 clay minerals (567), Isomorphous substitution (602) <!-- soil-chem-091 -->
-604. **Montmorillonite** — Intermediate · Material · Major · builds on: Smectite (603) <!-- soil-chem-093 -->
-605. **Bentonite** — Intermediate · Material · Minor · builds on: Montmorillonite (604) <!-- soil-chem-100 -->
-606. **Fuller's earth** — Intermediate · Material · Minor · builds on: Clay mineral (561), Bentonite (605) <!-- soil-chem-102 -->
-607. **Interlayer cations and clay swelling** — Intermediate · Concept · Major · builds on: Smectite (603), Isomorphous substitution (602), Shrink–swell capacity (247) <!-- soil-chem-092 -->
-608. **Bentonite amendment of degraded soils** — Intermediate · Practice · Minor · builds on: Bentonite (605) <!-- soil-chem-101 -->
-609. **Clay mineral weathering sequence** — Intermediate · Process · Major · builds on: 1:1 and 2:1 clay minerals (567), Montmorillonite (604), Kaolinite (569), Chemical weathering (31), Leaching (pedology) (185), Weathering (28), Clay mineral (561) <!-- soil-chem-086 -->
-610. **Sesquioxide clays** — Intermediate · Material · Major · builds on: Sesquioxide (199), Clay mineral weathering sequence (609), Soil colloids (576) <!-- soil-chem-106 -->
-611. **Clay–water interaction** — Intermediate · Process · Minor · builds on: Clay mineral (561), Flocculation (277), Soil dispersion (281), Soil colloids (576) <!-- soil-chem-103 -->
-612. **Layer charge** — Advanced · Concept · Minor · builds on: Tetrahedral and octahedral sheets (566), Isomorphous substitution (602) <!-- soil-chem-153 -->
-613. **Beidellite** — Advanced · Material · Minor · builds on: Smectite (603), Isomorphous substitution (602), Layer charge (612) <!-- soil-chem-152 -->
-614. **Schulze–Hardy rule** — Advanced · Concept · Minor · builds on: Particle aggregation (588), DLVO theory (590) <!-- soil-chem-159 -->
-615. **Clay chemistry** — Intermediate · Concept · Minor · builds on: Clay (49), Clay mineral (561) <!-- soil-chem-149 -->
+616. **Soil chemistry** — Foundational · Concept · Landmark · builds on: Soil science (2), Soil (1), Mineral (26) <!-- soil-chem-076 -->
+617. **Clay mineral** — Foundational · Material · Landmark · builds on: Phyllosilicates (45), Clay (46), Mineral (26), Weathering (27) <!-- soil-chem-079 -->
+618. **Mica** — Intermediate · Material · Major · builds on: Mineral (26), Phyllosilicates (45), Silicate minerals (43) <!-- soil-chem-135 -->
+619. **Goethite** — Intermediate · Material · Major · builds on: Oxide minerals (41), Weathering (27) <!-- soil-chem-104 -->
+620. **Diatomaceous earth** — Intermediate · Material · Minor · builds on: Soil horizon (64) <!-- soil-chem-107 -->
+621. **Colloid** — Intermediate · Concept · Major · builds on: Clay (46) <!-- soil-chem-154 -->
+622. **Hematite** — Intermediate · Material · Minor · builds on: Oxide minerals (41), Weathering (27) <!-- soil-chem-112 -->
+623. **Tetrahedral and octahedral sheets** — Intermediate · Concept · Major · builds on: Clay mineral (617), Silicate minerals (43) <!-- soil-chem-080 -->
+624. **1:1 and 2:1 clay minerals** — Intermediate · Classification · Major · builds on: Tetrahedral and octahedral sheets (623) <!-- soil-chem-081 -->
+625. **Vermiculite** — Intermediate · Material · Major · builds on: 1:1 and 2:1 clay minerals (624) <!-- soil-chem-095 -->
+626. **Kaolinite** — Intermediate · Material · Major · builds on: 1:1 and 2:1 clay minerals (624), Weathering (27) <!-- soil-chem-088 -->
+627. **Illite** — Intermediate · Material · Major · builds on: 1:1 and 2:1 clay minerals (624) <!-- soil-chem-094 -->
+628. **Gibbsite** — Intermediate · Material · Major · builds on: Oxide minerals (41), Tetrahedral and octahedral sheets (623), Weathering (27) <!-- soil-chem-105 -->
+629. **Bauxite** — Intermediate · Material · Minor · builds on: Gibbsite (628), Laterite (198) <!-- soil-chem-108 -->
+630. **Environmental soil chemistry** — Intermediate · Concept · Minor · builds on: Soil chemistry (616) <!-- soil-chem-077 -->
+631. **Soil chemistry laboratory methods** — Intermediate · Method · Minor · builds on: Soil chemistry (616), Soil horizon (64) <!-- soil-chem-078 -->
+632. **Soil colloids** — Intermediate · Concept · Landmark · builds on: Clay mineral (617), Specific surface area (301) <!-- soil-chem-084 -->
+633. **Van der Waals force** — Intermediate · Concept · Major · builds on: Colloid (621) <!-- soil-chem-227 -->
+634. **Chlorite (clay mineral)** — Intermediate · Material · Minor · builds on: 1:1 and 2:1 clay minerals (624) <!-- soil-chem-087 -->
+635. **Ferrihydrite** — Intermediate · Material · Minor · builds on: Oxide minerals (41), Soil colloids (632) <!-- soil-chem-111 -->
+636. **Clay hypothesis of the origin of life** — Intermediate · Concept · Minor · builds on: Clay mineral (617) <!-- soil-chem-083 -->
+637. **Clay mineral identification** — Advanced · Method · Minor · builds on: Clay mineral (617), 1:1 and 2:1 clay minerals (624) <!-- soil-chem-082 -->
+638. **Fougèrite** — Advanced · Material · Minor · builds on: Oxide minerals (41), Goethite (619) <!-- soil-chem-109 -->
+639. **Flocculation** — Intermediate · Process · Major · builds on: Soil separates (249), Clay (46), Clay mineral (617) <!-- soil-phys-006 -->
+640. **Coagulation and flocculation in water treatment** — Intermediate · Process · Minor · builds on: Flocculation (639), Colloid (621) <!-- soil-chem-225 -->
+641. **Zeta potential** — Advanced · Concept · Major · builds on: Colloid (621) <!-- soil-chem-160 -->
+642. **Allophane** — Intermediate · Material · Minor · builds on: Clay mineral (617), Weathering (27) <!-- soil-chem-097 -->
+643. **Imogolite** — Intermediate · Material · Minor · builds on: Clay mineral (617), Allophane (642) <!-- soil-chem-098 -->
+644. **Palygorskite** — Intermediate · Material · Minor · builds on: Clay mineral (617), 1:1 and 2:1 clay minerals (624) <!-- soil-chem-110 -->
+645. **Vermiculite in horticulture** — Intermediate · Practice · Minor · builds on: Vermiculite (625) <!-- soil-chem-096 -->
+646. **Colloidal stability** — Advanced · Concept · Major · builds on: Colloid (621) <!-- soil-chem-155 -->
+647. **Particle aggregation** — Advanced · Process · Major · builds on: Colloid (621), Colloidal stability (646) <!-- soil-chem-158 -->
+648. **Muscovite** — Intermediate · Material · Minor · builds on: Mica (618), Phyllosilicates (45), Mineral (26), Feldspar (99) <!-- soil-chem-226 -->
+649. **X-ray diffraction** — Intermediate · Method · Minor <!-- soil-chem-228 -->
+650. **Dispersion (chemistry)** — Intermediate · Concept · Minor · builds on: Colloid (621) <!-- soil-chem-224 -->
+651. **Kaolinite formation in soils** — Advanced · Process · Minor · builds on: Kaolinite (626), Gibbsite (628) <!-- soil-chem-089 -->
+652. **Aluminosilicate** — Intermediate · Material · Minor · builds on: Silicate minerals (43), Mineral (26), Zeolite (587) <!-- soil-chem-223 -->
+653. **DLVO theory** — Advanced · Concept · Major · builds on: Colloidal stability (646), Colloid (621) <!-- soil-chem-157 -->
+654. **Halloysite** — Intermediate · Material · Minor · builds on: Kaolinite (626) <!-- soil-chem-090 -->
+655. **Amorphous clays** — Intermediate · Material · Minor · builds on: Soil colloids (632), Clay mineral (617) <!-- soil-chem-099 -->
+656. **Peptization** — Advanced · Process · Minor · builds on: Colloid (621), Particle aggregation (647), Colloidal stability (646) <!-- soil-chem-161 -->
+657. **Sepiolite** — Intermediate · Material · Minor · builds on: Clay mineral (617), Phyllosilicates (45), 1:1 and 2:1 clay minerals (624) <!-- soil-chem-167 -->
+658. **Clay mineral X-ray diffraction** — Advanced · Method · Major · builds on: Clay mineral (617), Tetrahedral and octahedral sheets (623), 1:1 and 2:1 clay minerals (624) <!-- soil-chem-150 -->
+659. **Hydrous oxides** — Intermediate · Material · Minor · builds on: Oxide minerals (41), Chemical weathering (28) <!-- soil-chem-162 -->
+660. **Iron oxides** — Intermediate · Material · Major · builds on: Oxide minerals (41), Oxidation weathering (31), Hydrous oxides (659), Chemical weathering (28) <!-- soil-chem-163 -->
+661. **Lepidocrocite** — Intermediate · Material · Minor · builds on: Iron oxides (660), Goethite (619) <!-- soil-chem-164 -->
+662. **Maghemite** — Intermediate · Material · Minor · builds on: Iron oxides (660), Hematite (622) <!-- soil-chem-166 -->
+663. **Limonite** — Intermediate · Material · Minor · builds on: Iron oxides (660), Goethite (619) <!-- soil-chem-165 -->
+664. **Measuring specific surface area** — Advanced · Method · Minor · builds on: Specific surface area (301) <!-- soil-chem-168 -->
+665. **Isomorphous substitution** — Intermediate · Process · Major · builds on: Tetrahedral and octahedral sheets (623) <!-- soil-chem-085 -->
+666. **Smectite** — Intermediate · Material · Major · builds on: 1:1 and 2:1 clay minerals (624), Isomorphous substitution (665) <!-- soil-chem-091 -->
+667. **Montmorillonite** — Intermediate · Material · Major · builds on: Smectite (666) <!-- soil-chem-093 -->
+668. **Bentonite** — Intermediate · Material · Minor · builds on: Montmorillonite (667) <!-- soil-chem-100 -->
+669. **Fuller's earth** — Intermediate · Material · Minor · builds on: Clay mineral (617), Bentonite (668) <!-- soil-chem-102 -->
+670. **Interlayer cations and clay swelling** — Intermediate · Concept · Major · builds on: Smectite (666), Isomorphous substitution (665), Shrink–swell capacity (257) <!-- soil-chem-092 -->
+671. **Bentonite amendment of degraded soils** — Intermediate · Practice · Minor · builds on: Bentonite (668) <!-- soil-chem-101 -->
+672. **Clay mineral weathering sequence** — Intermediate · Process · Major · builds on: 1:1 and 2:1 clay minerals (624), Montmorillonite (667), Kaolinite (626), Chemical weathering (28), Leaching (pedology) (183), Weathering (27), Clay mineral (617) <!-- soil-chem-086 -->
+673. **Sesquioxide clays** — Intermediate · Material · Major · builds on: Sesquioxide (197), Clay mineral weathering sequence (672), Soil colloids (632) <!-- soil-chem-106 -->
+674. **Clay–water interaction** — Intermediate · Process · Minor · builds on: Clay mineral (617), Flocculation (639), Soil dispersion (273), Soil colloids (632) <!-- soil-chem-103 -->
+675. **Layer charge** — Advanced · Concept · Minor · builds on: Tetrahedral and octahedral sheets (623), Isomorphous substitution (665) <!-- soil-chem-153 -->
+676. **Beidellite** — Advanced · Material · Minor · builds on: Smectite (666), Isomorphous substitution (665), Layer charge (675) <!-- soil-chem-152 -->
+677. **Schulze–Hardy rule** — Advanced · Concept · Minor · builds on: Particle aggregation (647), DLVO theory (653) <!-- soil-chem-159 -->
+678. **Clay chemistry** — Intermediate · Concept · Minor · builds on: Clay (46), Clay mineral (617) <!-- soil-chem-149 -->
 
 ### Charge and nutrient holding
 
-616. **Humic substance** — Intermediate · Material · Major · builds on: Soil organic matter (26) <!-- soil-chem-058 -->
-617. **Chelation** — Intermediate · Process · Major <!-- soil-chem-069 -->
-618. **Sorption** — Intermediate · Process · Major <!-- soil-chem-068 -->
-619. **Adsorption** — Intermediate · Process · Major · builds on: Soil solution (24), Sorption (618) <!-- soil-chem-145 -->
-620. **Variable charge** — Intermediate · Concept · Major · builds on: Soil pH (66), Clay mineral (561), Soil organic matter (26) <!-- soil-chem-049 -->
-621. **Leonardite** — Intermediate · Material · Minor · builds on: Humic substance (616), Oxidation weathering (34) <!-- soil-chem-073 -->
-622. **Artificial humic substances** — Advanced · Material · Minor · builds on: Humic substance (616) <!-- soil-chem-065 -->
-623. **Chemistry of humic substances** — Advanced · Concept · Minor · builds on: Humic substance (616), Variable charge (620) <!-- soil-chem-062 -->
-624. **Humic substances and plant growth** — Intermediate · Concept · Minor · builds on: Humic substance (616) <!-- soil-chem-064 -->
-625. **Adsorption isotherm** — Advanced · Concept · Major · builds on: Adsorption (619) <!-- soil-chem-146 -->
-626. **Desorption** — Intermediate · Process · Minor · builds on: Adsorption (619) <!-- soil-chem-147 -->
-627. **Chelate effect** — Advanced · Concept · Minor · builds on: Chelation (617) <!-- soil-chem-070 -->
-628. **Chelated micronutrient fertilizers** — Intermediate · Material · Minor · builds on: Chelation (617) <!-- soil-chem-072 -->
-629. **Natural chelating agents** — Intermediate · Material · Minor · builds on: Chelation (617) <!-- soil-chem-071 -->
-630. **Chemical equivalent** — Intermediate · Concept · Minor <!-- soil-chem-148 -->
-631. **Point of zero charge** — Advanced · Concept · Minor · builds on: Variable charge (620), Soil pH (66) <!-- soil-chem-075 -->
-632. **Fulvic acid** — Intermediate · Material · Minor · builds on: Humic substance (616) <!-- soil-chem-060 -->
-633. **Humic acid** — Intermediate · Material · Minor · builds on: Humic substance (616), Soil pH (66) <!-- soil-chem-059 -->
-634. **Humate** — Intermediate · Material · Minor · builds on: Humic acid (633), Leonardite (621), Humic substance (616) <!-- soil-chem-066 -->
-635. **Humic acid in drinking water** — Intermediate · Concept · Minor · builds on: Humic acid (633) <!-- soil-chem-067 -->
-636. **Humic substance fractionation** — Advanced · Method · Minor · builds on: Humic acid (633), Fulvic acid (632), Humic substance (616), Soil pH (66) <!-- soil-chem-061 -->
-637. **Humification debate** — Advanced · Debate · Major · builds on: Humic substance (616), Humic substance fractionation (636) <!-- soil-chem-063 -->
-638. **Potassium humate** — Intermediate · Material · Minor · builds on: Humic acid (633), Leonardite (621) <!-- soil-chem-074 -->
-639. **Permanent charge** — Intermediate · Concept · Minor · builds on: Isomorphous substitution (602), Clay mineral (561) <!-- soil-chem-048 -->
-640. **Cation exchange** — Intermediate · Process · Major · builds on: Soil colloids (576), Permanent charge (639), Variable charge (620), Clay mineral (561), Soil organic matter (26) <!-- soil-chem-047 -->
-641. **Cation-exchange capacity** — Intermediate · Concept · Landmark · builds on: Cation exchange (640), Soil colloids (576), Clay mineral (561), Soil organic matter (26), Soil pH (66) <!-- soil-chem-046 -->
-642. **Anion-exchange capacity** — Intermediate · Concept · Major · builds on: Variable charge (620), Cation-exchange capacity (641), Clay mineral (561) <!-- soil-chem-053 -->
-643. **Base saturation** — Intermediate · Concept · Major · builds on: Cation-exchange capacity (641), Soil pH (66) <!-- soil-chem-052 -->
-644. **Base-cation saturation ratio** — Intermediate · Method · Major · builds on: Base saturation (643), Cation-exchange capacity (641) <!-- soil-chem-055 -->
-645. **Diffuse double layer** — Advanced · Concept · Minor · builds on: Cation exchange (640), Soil colloids (576) <!-- soil-chem-050 -->
-646. **Measuring cation-exchange capacity** — Intermediate · Method · Minor · builds on: Cation-exchange capacity (641), Cation exchange (640), Soil pH (66) <!-- soil-chem-051 -->
-647. **Base-richness** — Intermediate · Concept · Minor · builds on: Base saturation (643), Soil pH (66), Cation-exchange capacity (641) <!-- soil-chem-054 -->
-648. **Discovery of cation exchange** — Intermediate · Event · Minor · builds on: Cation exchange (640) <!-- soil-chem-057 -->
+679. **Humic substance** — Intermediate · Material · Major <!-- soil-chem-058 -->
+680. **Chelation** — Intermediate · Process · Major <!-- soil-chem-069 -->
+681. **Sorption** — Intermediate · Process · Major <!-- soil-chem-068 -->
+682. **Adsorption** — Intermediate · Process · Major · builds on: Soil solution (24), Sorption (681) <!-- soil-chem-145 -->
+683. **Variable charge** — Intermediate · Concept · Major · builds on: Soil pH (63), Clay mineral (617) <!-- soil-chem-049 -->
+684. **Leonardite** — Intermediate · Material · Minor · builds on: Humic substance (679), Oxidation weathering (31) <!-- soil-chem-073 -->
+685. **Artificial humic substances** — Advanced · Material · Minor · builds on: Humic substance (679) <!-- soil-chem-065 -->
+686. **Chemistry of humic substances** — Advanced · Concept · Minor · builds on: Humic substance (679), Variable charge (683) <!-- soil-chem-062 -->
+687. **Humic substances and plant growth** — Intermediate · Concept · Minor · builds on: Humic substance (679) <!-- soil-chem-064 -->
+688. **Adsorption isotherm** — Advanced · Concept · Major · builds on: Adsorption (682) <!-- soil-chem-146 -->
+689. **Desorption** — Intermediate · Process · Minor · builds on: Adsorption (682) <!-- soil-chem-147 -->
+690. **Chelate effect** — Advanced · Concept · Minor · builds on: Chelation (680) <!-- soil-chem-070 -->
+691. **Chelated micronutrient fertilizers** — Intermediate · Material · Minor · builds on: Chelation (680) <!-- soil-chem-072 -->
+692. **Natural chelating agents** — Intermediate · Material · Minor · builds on: Chelation (680) <!-- soil-chem-071 -->
+693. **Chemical equivalent** — Intermediate · Concept · Minor <!-- soil-chem-148 -->
+694. **Point of zero charge** — Advanced · Concept · Minor · builds on: Variable charge (683), Soil pH (63) <!-- soil-chem-075 -->
+695. **Saline, sodic and saline-sodic soils** — Intermediate · Classification · Major <!-- soil-chem-222 -->
+696. **Fulvic acid** — Intermediate · Material · Minor · builds on: Humic substance (679) <!-- soil-chem-060 -->
+697. **Humic acid** — Intermediate · Material · Minor · builds on: Humic substance (679), Soil pH (63) <!-- soil-chem-059 -->
+698. **Humate** — Intermediate · Material · Minor · builds on: Humic acid (697), Leonardite (684), Humic substance (679) <!-- soil-chem-066 -->
+699. **Humic acid in drinking water** — Intermediate · Concept · Minor · builds on: Humic acid (697) <!-- soil-chem-067 -->
+700. **Humic substance fractionation** — Advanced · Method · Minor · builds on: Humic acid (697), Fulvic acid (696), Humic substance (679), Soil pH (63) <!-- soil-chem-061 -->
+701. **Humification debate** — Advanced · Debate · Major · builds on: Humic substance (679), Humic substance fractionation (700) <!-- soil-chem-063 -->
+702. **Potassium humate** — Intermediate · Material · Minor · builds on: Humic acid (697), Leonardite (684) <!-- soil-chem-074 -->
+703. **Permanent charge** — Intermediate · Concept · Minor · builds on: Isomorphous substitution (665), Clay mineral (617) <!-- soil-chem-048 -->
+704. **Cation exchange** — Intermediate · Process · Major · builds on: Soil colloids (632), Permanent charge (703), Variable charge (683), Clay mineral (617) <!-- soil-chem-047 -->
+705. **Cation-exchange capacity** — Intermediate · Concept · Landmark · builds on: Cation exchange (704), Soil colloids (632), Clay mineral (617), Soil pH (63) <!-- soil-chem-046 -->
+706. **Anion-exchange capacity** — Intermediate · Concept · Major · builds on: Variable charge (683), Cation-exchange capacity (705), Clay mineral (617) <!-- soil-chem-053 -->
+707. **Base saturation** — Intermediate · Concept · Major · builds on: Cation-exchange capacity (705), Soil pH (63) <!-- soil-chem-052 -->
+708. **Diffuse double layer** — Advanced · Concept · Minor · builds on: Cation exchange (704), Soil colloids (632) <!-- soil-chem-050 -->
+709. **Base-cation saturation ratio** — Intermediate · Method · Major · builds on: Base saturation (707), Cation-exchange capacity (705) <!-- soil-chem-055 -->
+710. **Measuring cation-exchange capacity** — Intermediate · Method · Minor · builds on: Cation-exchange capacity (705), Cation exchange (704), Soil pH (63) <!-- soil-chem-051 -->
+711. **Base-richness** — Intermediate · Concept · Minor · builds on: Base saturation (707), Soil pH (63), Cation-exchange capacity (705) <!-- soil-chem-054 -->
+712. **Estimating CEC from clay mineralogy** — Advanced · Method · Minor · builds on: Cation-exchange capacity (705), 1:1 and 2:1 clay minerals (624) <!-- soil-chem-221 -->
+713. **Discovery of cation exchange** — Intermediate · Event · Minor · builds on: Cation exchange (704) <!-- soil-chem-057 -->
 
 ### Soil solution chemistry and sorption
 
-649. **Ionic strength** — Advanced · Concept · Major · builds on: Soil solution (24) <!-- soil-chem-202 -->
-650. **Activity coefficient** — Advanced · Concept · Major · builds on: Soil solution (24), Ionic strength (649) <!-- soil-chem-201 -->
-651. **Debye–Hückel theory** — Advanced · Concept · Major · builds on: Ionic strength (649), Activity coefficient (650) <!-- soil-chem-203 -->
-652. **Inner sphere complex** — Advanced · Concept · Major · builds on: Adsorption (619), Soil colloids (576), Variable charge (620) <!-- soil-chem-208 -->
-653. **Langmuir adsorption model** — Advanced · Concept · Major · builds on: Adsorption isotherm (625), Adsorption (619), Desorption (626) <!-- soil-chem-206 -->
-654. **Partition coefficient** — Advanced · Concept · Minor · builds on: Soil solution (24), Sorption (618) <!-- soil-chem-209 -->
-655. **Coprecipitation** — Advanced · Process · Minor · builds on: Soil solution (24), Adsorption (619) <!-- soil-chem-204 -->
-656. **Freundlich equation** — Advanced · Concept · Major · builds on: Adsorption isotherm (625), Adsorption (619) <!-- soil-chem-205 -->
-657. **X-ray absorption fine structure** — Advanced · Method · Minor · builds on: Inner sphere complex (652), Mineral (27) <!-- soil-chem-210 -->
-658. **Chemical speciation** — Advanced · Concept · Minor · builds on: Soil solution (24), Chelation (617) <!-- soil-chem-211 -->
-659. **Geochemical modeling** — Advanced · Method · Major · builds on: Chemical speciation (658), Activity coefficient (650), Soil solution (24) <!-- soil-chem-207 -->
+714. **Ionic strength** — Advanced · Concept · Major · builds on: Soil solution (24) <!-- soil-chem-202 -->
+715. **Activity coefficient** — Advanced · Concept · Major · builds on: Soil solution (24), Ionic strength (714) <!-- soil-chem-201 -->
+716. **Debye–Hückel theory** — Advanced · Concept · Major · builds on: Ionic strength (714), Activity coefficient (715) <!-- soil-chem-203 -->
+717. **Inner sphere complex** — Advanced · Concept · Major · builds on: Adsorption (682), Soil colloids (632), Variable charge (683) <!-- soil-chem-208 -->
+718. **Langmuir adsorption model** — Advanced · Concept · Major · builds on: Adsorption isotherm (688), Adsorption (682), Desorption (689) <!-- soil-chem-206 -->
+719. **Partition coefficient** — Advanced · Concept · Minor · builds on: Soil solution (24), Sorption (681) <!-- soil-chem-209 -->
+720. **Coprecipitation** — Advanced · Process · Minor · builds on: Soil solution (24), Adsorption (682) <!-- soil-chem-204 -->
+721. **Freundlich equation** — Advanced · Concept · Major · builds on: Adsorption isotherm (688), Adsorption (682) <!-- soil-chem-205 -->
+722. **X-ray absorption fine structure** — Advanced · Method · Minor · builds on: Inner sphere complex (717), Mineral (26) <!-- soil-chem-210 -->
+723. **Chemical speciation** — Advanced · Concept · Minor · builds on: Soil solution (24), Chelation (680) <!-- soil-chem-211 -->
+724. **Geochemical modeling** — Advanced · Method · Major · builds on: Chemical speciation (723), Activity coefficient (715), Soil solution (24) <!-- soil-chem-207 -->
 
 ### Redox and soil chemistry
 
-660. **Redox** — Foundational · Process · Landmark <!-- soil-chem-113 -->
-661. **Redox in soils** — Intermediate · Concept · Major · builds on: Redox (660), Soil chemistry (560) <!-- soil-chem-118 -->
-662. **Redoximorphic features** — Intermediate · Concept · Major · builds on: Redox in soils (661), Soil color (69), Gleying (84), Redox (660) <!-- soil-chem-120 -->
-663. **Biological redox reactions** — Intermediate · Process · Minor · builds on: Redox (660) <!-- soil-chem-119 -->
-664. **Oxidizing agent** — Intermediate · Concept · Minor · builds on: Redox (660) <!-- soil-chem-114 -->
-665. **Reducing agent** — Intermediate · Concept · Minor · builds on: Redox (660) <!-- soil-chem-115 -->
-666. **Redox couples and half-reactions** — Intermediate · Concept · Minor · builds on: Redox (660), Oxidizing agent (664), Reducing agent (665) <!-- soil-chem-116 -->
-667. **Standard electrode potential** — Advanced · Concept · Minor · builds on: Redox couples and half-reactions (666) <!-- soil-chem-117 -->
-668. **In situ chemical oxidation** — Advanced · Method · Minor · builds on: Oxidizing agent (664), Redox (660) <!-- soil-chem-131 -->
-669. **Redox potential (Eh)** — Intermediate · Concept · Major · builds on: Redox (660), Standard electrode potential (667) <!-- soil-chem-123 -->
-670. **Biofilter** — Intermediate · Practice · Minor · builds on: Biological redox reactions (663) <!-- soil-chem-130 -->
-671. **Redox gradient** — Intermediate · Concept · Major · builds on: Redox potential (Eh) (669), Redox in soils (661), Redox (660) <!-- soil-chem-121 -->
-672. **Electron acceptor** — Intermediate · Concept · Minor · builds on: Redox (660), Oxidizing agent (664) <!-- soil-chem-176 -->
-673. **Oxidation state** — Intermediate · Concept · Minor · builds on: Redox (660) <!-- soil-chem-178 -->
-674. **Electron donor** — Intermediate · Concept · Minor · builds on: Redox (660), Reducing agent (665), Electron acceptor (672) <!-- soil-chem-177 -->
-675. **ISCO oxidants** — Advanced · Material · Minor · builds on: In situ chemical oxidation (668), Oxidizing agent (664) <!-- soil-chem-132 -->
-676. **Redox ladder** — Intermediate · Concept · Major · builds on: Redox gradient (671), Oxidizing agent (664) <!-- soil-chem-122 -->
-677. **Anaerobic respiration** — Intermediate · Process · Major · builds on: Biological redox reactions (663), Redox ladder (676) <!-- soil-chem-128 -->
-678. **Reduction in waterlogged soils** — Intermediate · Process · Major · builds on: Redox potential (Eh) (669), Redox ladder (676) <!-- soil-chem-125 -->
-679. **Methanogenesis** — Intermediate · Process · Major · builds on: Anaerobic respiration (677), Reduction in waterlogged soils (678), Redox ladder (676) <!-- soil-chem-129 -->
-680. **Paddy field** — Intermediate · Practice · Minor · builds on: Reduction in waterlogged soils (678), Methanogenesis (679) <!-- soil-chem-133 -->
-681. **Dissimilatory metal reduction** — Advanced · Process · Major · builds on: Anaerobic respiration (677), Electron acceptor (672), Redox in soils (661) <!-- soil-chem-169 -->
-682. **Standard hydrogen electrode** — Advanced · Concept · Minor · builds on: Standard electrode potential (667), Redox (660) <!-- soil-chem-179 -->
-683. **Obligate anaerobes** — Intermediate · Concept · Minor · builds on: Anaerobic respiration (677) <!-- soil-chem-175 -->
-684. **Methanogens** — Intermediate · Concept · Minor · builds on: Methanogenesis (679), Obligate anaerobes (683) <!-- soil-chem-174 -->
-685. **Iron-oxidizing bacteria** — Intermediate · Concept · Minor · builds on: Electron donor (674), Redox (660), Biological redox reactions (663), Oxidation state (673), Redox gradient (671) <!-- soil-chem-171 -->
-686. **Green rust** — Advanced · Material · Minor · builds on: Oxidation state (673), Iron oxides (597), Dissimilatory metal reduction (681) <!-- soil-chem-170 -->
-687. **Manganese cycle** — Intermediate · Process · Major · builds on: Redox (660), Oxidation state (673), Redox in soils (661) <!-- soil-chem-172 -->
-688. **Measuring redox potential** — Advanced · Method · Minor · builds on: Redox potential (Eh) (669) <!-- soil-chem-124 -->
-689. **Microbes along redox gradients** — Advanced · Concept · Minor · builds on: Redox gradient (671), Redox ladder (676), Biological redox reactions (663) <!-- soil-chem-126 -->
-690. **Redox gradients in water and sediments** — Intermediate · Concept · Minor · builds on: Redox gradient (671) <!-- soil-chem-127 -->
-691. **Solubility equilibrium** — Advanced · Concept · Minor · builds on: Soil solution (24) <!-- soil-chem-181 -->
-692. **Electron activity (pe)** — Advanced · Concept · Minor · builds on: Redox potential (Eh) (669), Soil pH (66) <!-- soil-chem-183 -->
-693. **Pourbaix diagram** — Advanced · Method · Minor · builds on: Redox potential (Eh) (669), Electron activity (pe) (692), Soil pH (66), Standard hydrogen electrode (682) <!-- soil-chem-180 -->
-694. **Manganese in soil** — Advanced · Concept · Minor · builds on: Manganese cycle (687), Redox potential (Eh) (669), Soil pH (66), Electron activity (pe) (692) <!-- soil-chem-173 -->
-695. **Hydromorphic soil** — Intermediate · Concept · Minor · builds on: Waterlogging (396), Reduction in waterlogged soils (678) <!-- soil-chem-182 -->
+725. **Redox** — Foundational · Process · Landmark <!-- soil-chem-113 -->
+726. **Redox in soils** — Intermediate · Concept · Major · builds on: Redox (725), Soil chemistry (616) <!-- soil-chem-118 -->
+727. **Redoximorphic features** — Intermediate · Concept · Major · builds on: Redox in soils (726), Soil color (66), Gleying (81), Redox (725) <!-- soil-chem-120 -->
+728. **Biological redox reactions** — Intermediate · Process · Minor · builds on: Redox (725) <!-- soil-chem-119 -->
+729. **Oxidizing agent** — Intermediate · Concept · Minor · builds on: Redox (725) <!-- soil-chem-114 -->
+730. **In situ chemical oxidation** — Advanced · Method · Minor · builds on: Oxidizing agent (729), Redox (725) <!-- soil-chem-131 -->
+731. **Biofilter** — Intermediate · Practice · Minor · builds on: Biological redox reactions (728) <!-- soil-chem-130 -->
+732. **Electron acceptor** — Intermediate · Concept · Minor · builds on: Redox (725), Oxidizing agent (729) <!-- soil-chem-176 -->
+733. **Oxidation state** — Intermediate · Concept · Minor · builds on: Redox (725) <!-- soil-chem-178 -->
+734. **Reducing agent** — Intermediate · Concept · Minor · builds on: Redox (725), Oxidation state (733) <!-- soil-chem-115 -->
+735. **Redox couples and half-reactions** — Intermediate · Concept · Minor · builds on: Redox (725), Oxidizing agent (729), Reducing agent (734) <!-- soil-chem-116 -->
+736. **Standard electrode potential** — Advanced · Concept · Minor · builds on: Redox couples and half-reactions (735) <!-- soil-chem-117 -->
+737. **Redox potential (Eh)** — Intermediate · Concept · Major · builds on: Redox (725), Standard electrode potential (736) <!-- soil-chem-123 -->
+738. **Redox gradient** — Intermediate · Concept · Major · builds on: Redox potential (Eh) (737), Redox in soils (726), Redox (725) <!-- soil-chem-121 -->
+739. **Electron donor** — Intermediate · Concept · Minor · builds on: Redox (725), Reducing agent (734), Electron acceptor (732) <!-- soil-chem-177 -->
+740. **ISCO oxidants** — Advanced · Material · Minor · builds on: In situ chemical oxidation (730), Oxidizing agent (729) <!-- soil-chem-132 -->
+741. **Redox ladder** — Intermediate · Concept · Major · builds on: Redox gradient (738), Oxidizing agent (729) <!-- soil-chem-122 -->
+742. **Anaerobic respiration** — Intermediate · Process · Major · builds on: Biological redox reactions (728), Redox ladder (741) <!-- soil-chem-128 -->
+743. **Reduction in waterlogged soils** — Intermediate · Process · Major · builds on: Redox potential (Eh) (737), Redox ladder (741) <!-- soil-chem-125 -->
+744. **Methanogenesis** — Intermediate · Process · Major · builds on: Anaerobic respiration (742), Reduction in waterlogged soils (743), Redox ladder (741) <!-- soil-chem-129 -->
+745. **Paddy field** — Intermediate · Practice · Minor · builds on: Reduction in waterlogged soils (743), Methanogenesis (744) <!-- soil-chem-133 -->
+746. **Dissimilatory metal reduction** — Advanced · Process · Major · builds on: Anaerobic respiration (742), Electron acceptor (732), Redox in soils (726) <!-- soil-chem-169 -->
+747. **Standard hydrogen electrode** — Advanced · Concept · Minor · builds on: Standard electrode potential (736), Redox (725) <!-- soil-chem-179 -->
+748. **Obligate anaerobes** — Intermediate · Concept · Minor · builds on: Anaerobic respiration (742) <!-- soil-chem-175 -->
+749. **Methanogens** — Intermediate · Concept · Minor · builds on: Methanogenesis (744), Obligate anaerobes (748) <!-- soil-chem-174 -->
+750. **Iron-oxidizing bacteria** — Intermediate · Concept · Minor · builds on: Electron donor (739), Redox (725), Biological redox reactions (728), Oxidation state (733), Redox gradient (738) <!-- soil-chem-171 -->
+751. **Green rust** — Advanced · Material · Minor · builds on: Oxidation state (733), Iron oxides (660), Dissimilatory metal reduction (746) <!-- soil-chem-170 -->
+752. **Manganese cycle** — Intermediate · Process · Major · builds on: Redox (725), Oxidation state (733), Redox in soils (726) <!-- soil-chem-172 -->
+753. **Measuring redox potential** — Advanced · Method · Minor · builds on: Redox potential (Eh) (737) <!-- soil-chem-124 -->
+754. **Microbes along redox gradients** — Advanced · Concept · Minor · builds on: Redox gradient (738), Redox ladder (741), Biological redox reactions (728) <!-- soil-chem-126 -->
+755. **Redox gradients in water and sediments** — Intermediate · Concept · Minor · builds on: Redox gradient (738) <!-- soil-chem-127 -->
+756. **Solubility equilibrium** — Advanced · Concept · Minor · builds on: Soil solution (24) <!-- soil-chem-181 -->
+757. **Precipitation of solids from solution** — Intermediate · Process · Minor · builds on: Solubility equilibrium (756) <!-- soil-chem-229 -->
+758. **Thermodynamic activity** — Advanced · Concept · Minor · builds on: Solubility equilibrium (756) <!-- soil-chem-230 -->
+759. **Electron activity (pe)** — Advanced · Concept · Minor · builds on: Redox potential (Eh) (737), Soil pH (63) <!-- soil-chem-183 -->
+760. **Pourbaix diagram** — Advanced · Method · Minor · builds on: Redox potential (Eh) (737), Electron activity (pe) (759), Soil pH (63), Standard hydrogen electrode (747) <!-- soil-chem-180 -->
+761. **Manganese in soil** — Advanced · Concept · Minor · builds on: Manganese cycle (752), Redox potential (Eh) (737), Soil pH (63), Electron activity (pe) (759) <!-- soil-chem-173 -->
+762. **Hydromorphic soil** — Intermediate · Concept · Minor · builds on: Waterlogging (412), Reduction in waterlogged soils (743) <!-- soil-chem-182 -->
 
 ### Acidity, alkalinity and salinity
 
-696. **Soil salinity** — Foundational · Concept · Landmark · builds on: Soil (1), Weathering (28) <!-- soil-chem-008 -->
-697. **Soil acidification** — Intermediate · Process · Landmark · builds on: Soil pH (66), Factors affecting soil pH (71), Base saturation (643), Leaching (pedology) (185) <!-- soil-chem-001 -->
-698. **Acid rain and soil** — Intermediate · Process · Major · builds on: Soil acidification (697) <!-- soil-chem-002 -->
-699. **Irrigation salinity** — Intermediate · Process · Major · builds on: Soil salinity (696) <!-- soil-chem-010 -->
-700. **Soil salinity control** — Intermediate · Practice · Major · builds on: Soil salinity (696), Irrigation salinity (699), Drainage (372) <!-- soil-chem-011 -->
-701. **Sodic soil** — Intermediate · Concept · Major · builds on: Soil salinity (696), Cation exchange (640) <!-- soil-chem-009 -->
-702. **Fertilizer-induced acidification** — Intermediate · Process · Major · builds on: Soil acidification (697) <!-- soil-chem-005 -->
-703. **Duricrust** — Intermediate · Material · Major · builds on: Hardpan (145), Soil formation (184) <!-- soil-chem-039 -->
-704. **Acid sulfate soil** — Intermediate · Concept · Major · builds on: Soil acidification (697), Oxidation weathering (34), Redox (660), Waterlogging (396) <!-- soil-chem-030 -->
-705. **Dryland salinity** — Intermediate · Process · Major · builds on: Soil salinity (696), Groundwater recharge (464), Water table (378) <!-- soil-chem-024 -->
-706. **Salinity in Australia** — Intermediate · Concept · Major · builds on: Dryland salinity (705), Soil salinity (696) <!-- soil-chem-028 -->
-707. **Pyrite** — Intermediate · Material · Minor · builds on: Mineral (27), Redox (660) <!-- soil-chem-134 -->
-708. **Sodium adsorption ratio** — Intermediate · Concept · Major · builds on: Sodic soil (701), Cation exchange (640) <!-- soil-chem-017 -->
-709. **Environmental impact of irrigation** — Intermediate · Concept · Major · builds on: Irrigation salinity (699), Sodic soil (701), Soil salinity (696) <!-- soil-chem-041 -->
-710. **Measuring soil salinity** — Intermediate · Method · Major · builds on: Soil salinity (696), Soil resistivity (289) <!-- soil-chem-012 -->
-711. **Acidic parent materials** — Intermediate · Concept · Minor · builds on: Soil acidification (697), Parent material (110), Weathering (28) <!-- soil-chem-004 -->
-712. **Biological acidification** — Intermediate · Process · Minor · builds on: Soil acidification (697) <!-- soil-chem-003 -->
-713. **Effects of soil acidification** — Intermediate · Concept · Minor · builds on: Soil acidification (697), Aluminium toxicity (70), Soil pH and nutrient availability (73) <!-- soil-chem-006 -->
-714. **Managing soil acidification** — Intermediate · Practice · Minor · builds on: Soil acidification (697), Effects of soil acidification (713) <!-- soil-chem-007 -->
-715. **Calcareous soil** — Intermediate · Concept · Major · builds on: Carbonate minerals (59), Parent material (110), Soil pH (66) <!-- soil-chem-035 -->
-716. **Caliche** — Intermediate · Material · Major · builds on: Calcareous soil (715), Duricrust (703), Soil horizon (67), Leaching (pedology) (185) <!-- soil-chem-036 -->
-717. **Gypcrust** — Intermediate · Material · Minor · builds on: Duricrust (703), Sulfate minerals (62), Caliche (716) <!-- soil-chem-038 -->
-718. **Halophyte** — Intermediate · Concept · Minor · builds on: Soil salinity (696) <!-- soil-chem-045 -->
-719. **Drainage for salinity control** — Intermediate · Practice · Minor · builds on: Soil salinity control (700), Drainage (372) <!-- soil-chem-014 -->
-720. **Leaching requirement** — Advanced · Concept · Minor · builds on: Soil salinity (696), Soil salinity control (700), Leaching (pedology) (185), Leaching model (195), Field capacity (466) <!-- soil-chem-013 -->
-721. **Soil salinity models** — Advanced · Method · Minor · builds on: Soil salinity control (700), Irrigation salinity (699), Hydraulic conductivity (373) <!-- soil-chem-016 -->
-722. **SahysMod** — Advanced · Method · Minor · builds on: Soil salinity models (721), Irrigation salinity (699), Soil salinity control (700) <!-- soil-chem-040 -->
-723. **Strip cropping for salinity control** — Intermediate · Practice · Minor · builds on: Soil salinity control (700) <!-- soil-chem-015 -->
-724. **Alkalinity** — Intermediate · Concept · Minor · builds on: Soil pH (66), Soil buffering capacity (68), Chemical equivalent (630) <!-- soil-chem-142 -->
-725. **Chilean caliche** — Intermediate · Material · Minor · builds on: Caliche (716), Sulfate minerals (62) <!-- soil-chem-037 -->
-726. **Framboid** — Advanced · Concept · Minor · builds on: Mineral (27), Acid sulfate soil (704) <!-- soil-chem-042 -->
-727. **Electrolytic conductivity** — Intermediate · Concept · Minor · builds on: Soil solution (24), Soil salinity (696) <!-- soil-chem-143 -->
-728. **Pyrite oxidation in acid sulfate soils** — Advanced · Process · Minor · builds on: Acid sulfate soil (704), Oxidation weathering (34), Redox (660) <!-- soil-chem-031 -->
-729. **Acid base accounting** — Advanced · Method · Minor · builds on: Acid sulfate soil (704), Pyrite oxidation in acid sulfate soils (728) <!-- soil-chem-033 -->
-730. **Managing acid sulfate soils** — Intermediate · Practice · Minor · builds on: Acid sulfate soil (704), Pyrite oxidation in acid sulfate soils (728) <!-- soil-chem-034 -->
-731. **Sulfidic and sulfuric material** — Advanced · Classification · Minor · builds on: Acid sulfate soil (704), Pyrite oxidation in acid sulfate soils (728) <!-- soil-chem-032 -->
-732. **Managing dryland salinity** — Intermediate · Practice · Minor · builds on: Dryland salinity (705) <!-- soil-chem-026 -->
-733. **Primary and secondary salinity** — Intermediate · Classification · Minor · builds on: Soil salinity (696) <!-- soil-chem-025 -->
-734. **Saltwater intrusion** — Intermediate · Process · Minor · builds on: Aquifer (473), Groundwater (472), Soil salinity (696) <!-- soil-chem-141 -->
-735. **Saline seep** — Intermediate · Concept · Minor · builds on: Dryland salinity (705) <!-- soil-chem-027 -->
-736. **Halotolerance** — Intermediate · Concept · Minor · builds on: Soil salinity (696), Osmotic potential of soil water (433) <!-- soil-chem-137 -->
-737. **Maas–Hoffman model** — Advanced · Method · Minor · builds on: Soil salinity (696), Measuring soil salinity (710) <!-- soil-chem-043 -->
-738. **Road salt and soil** — Intermediate · Concept · Minor · builds on: Soil salinity (696), Groundwater (472) <!-- soil-chem-140 -->
-739. **Van Genuchten–Gupta model** — Advanced · Method · Minor · builds on: Soil salinity (696), Halotolerance (736) <!-- soil-chem-139 -->
-740. **Exchangeable sodium percentage** — Intermediate · Concept · Major · builds on: Cation-exchange capacity (641), Sodic soil (701) <!-- soil-chem-018 -->
-741. **Alkali soil** — Intermediate · Concept · Major · builds on: Soil pH (66), Sodic soil (701), Clay (49), Soil structure (249), Exchangeable sodium percentage (740) <!-- soil-chem-019 -->
-742. **Man-made soil alkalinity** — Intermediate · Process · Minor · builds on: Alkali soil (741) <!-- soil-chem-020 -->
-743. **Saline-alkali aquaculture** — Intermediate · Practice · Minor · builds on: Alkali soil (741), Soil salinity (696) <!-- soil-chem-022 -->
-744. **Residual sodium carbonate index** — Intermediate · Concept · Minor · builds on: Alkali soil (741), Sodium adsorption ratio (708), Cation-exchange capacity (641) <!-- soil-chem-023 -->
-745. **Agricultural gypsum** — Intermediate · Material · Minor · builds on: Sulfate minerals (62), Sodic soil (701), Exchangeable sodium percentage (740) <!-- soil-chem-044 -->
-746. **Reclaiming alkali soils** — Intermediate · Practice · Major · builds on: Alkali soil (741), Exchangeable sodium percentage (740), Agricultural gypsum (745) <!-- soil-chem-021 -->
-747. **Critical load** — Advanced · Concept · Major · builds on: Soil acidification (697), Acid rain and soil (698) <!-- soil-chem-138 -->
-748. **Biosaline agriculture** — Intermediate · Practice · Major · builds on: Soil salinity (696), Halophyte (718), Groundwater (472) <!-- soil-chem-136 -->
-749. **Manganese toxicity** — Intermediate · Concept · Minor · builds on: Manganese in soil (694), Soil pH (66) <!-- soil-chem-144 -->
+763. **Soil salinity** — Foundational · Concept · Landmark · builds on: Soil (1), Weathering (27) <!-- soil-chem-008 -->
+764. **Soil acidification** — Intermediate · Process · Landmark · builds on: Soil pH (63), Factors affecting soil pH (68), Base saturation (707), Leaching (pedology) (183) <!-- soil-chem-001 -->
+765. **Acid rain and soil** — Intermediate · Process · Major · builds on: Soil acidification (764) <!-- soil-chem-002 -->
+766. **Irrigation salinity** — Intermediate · Process · Major · builds on: Soil salinity (763) <!-- soil-chem-010 -->
+767. **Soil salinity control** — Intermediate · Practice · Major · builds on: Soil salinity (763), Irrigation salinity (766), Drainage (392) <!-- soil-chem-011 -->
+768. **Sodic soil** — Intermediate · Concept · Major · builds on: Soil salinity (763), Cation exchange (704) <!-- soil-chem-009 -->
+769. **Fertilizer-induced acidification** — Intermediate · Process · Major · builds on: Soil acidification (764) <!-- soil-chem-005 -->
+770. **Duricrust** — Intermediate · Material · Major · builds on: Hardpan (143), Soil formation (182), Capillary action (455) <!-- soil-chem-039 -->
+771. **Acid sulfate soil** — Intermediate · Concept · Major · builds on: Soil acidification (764), Oxidation weathering (31), Redox (725), Waterlogging (412) <!-- soil-chem-030 -->
+772. **Dryland salinity** — Intermediate · Process · Major · builds on: Soil salinity (763), Groundwater recharge (480), Water table (398) <!-- soil-chem-024 -->
+773. **Salinity in Australia** — Intermediate · Concept · Major · builds on: Dryland salinity (772), Soil salinity (763) <!-- soil-chem-028 -->
+774. **Pyrite** — Intermediate · Material · Minor · builds on: Mineral (26), Redox (725) <!-- soil-chem-134 -->
+775. **Sodium adsorption ratio** — Intermediate · Concept · Major · builds on: Sodic soil (768), Cation exchange (704) <!-- soil-chem-017 -->
+776. **Electrical resistivity and conductivity** — Intermediate · Concept · Major <!-- soil-chem-215 -->
+777. **Environmental impact of irrigation** — Intermediate · Concept · Major · builds on: Irrigation salinity (766), Sodic soil (768), Soil salinity (763) <!-- soil-chem-041 -->
+778. **Measuring soil salinity** — Intermediate · Method · Major · builds on: Soil salinity (763), Soil resistivity (298) <!-- soil-chem-012 -->
+779. **Acidic parent materials** — Intermediate · Concept · Minor · builds on: Soil acidification (764), Parent material (108), Weathering (27) <!-- soil-chem-004 -->
+780. **Biological acidification** — Intermediate · Process · Minor · builds on: Soil acidification (764) <!-- soil-chem-003 -->
+781. **Effects of soil acidification** — Intermediate · Concept · Minor · builds on: Soil acidification (764), Aluminium toxicity (67), Soil pH and nutrient availability (70) <!-- soil-chem-006 -->
+782. **Managing soil acidification** — Intermediate · Practice · Minor · builds on: Soil acidification (764), Effects of soil acidification (781) <!-- soil-chem-007 -->
+783. **Calcareous soil** — Intermediate · Concept · Major · builds on: Carbonate minerals (56), Parent material (108), Soil pH (63) <!-- soil-chem-035 -->
+784. **Caliche** — Intermediate · Material · Major · builds on: Calcareous soil (783), Duricrust (770), Soil horizon (64), Leaching (pedology) (183) <!-- soil-chem-036 -->
+785. **Osmotic pressure** — Intermediate · Concept · Major <!-- soil-chem-216 -->
+786. **Gypcrust** — Intermediate · Material · Minor · builds on: Duricrust (770), Sulfate minerals (59), Caliche (784) <!-- soil-chem-038 -->
+787. **Halophyte** — Intermediate · Concept · Minor · builds on: Soil salinity (763) <!-- soil-chem-045 -->
+788. **Drainage for salinity control** — Intermediate · Practice · Minor · builds on: Soil salinity control (767), Drainage (392) <!-- soil-chem-014 -->
+789. **Leaching requirement** — Advanced · Concept · Minor · builds on: Soil salinity (763), Soil salinity control (767), Leaching (pedology) (183), Leaching model (193), Field capacity (482) <!-- soil-chem-013 -->
+790. **Soil salinity models** — Advanced · Method · Minor · builds on: Soil salinity control (767), Irrigation salinity (766), Hydraulic conductivity (393) <!-- soil-chem-016 -->
+791. **SahysMod** — Advanced · Method · Minor · builds on: Soil salinity models (790), Irrigation salinity (766), Soil salinity control (767) <!-- soil-chem-040 -->
+792. **Strip cropping for salinity control** — Intermediate · Practice · Minor · builds on: Soil salinity control (767) <!-- soil-chem-015 -->
+793. **Alkalinity** — Intermediate · Concept · Minor · builds on: Soil pH (63), Soil buffering capacity (65), Chemical equivalent (693) <!-- soil-chem-142 -->
+794. **Chilean caliche** — Intermediate · Material · Minor · builds on: Caliche (784), Sulfate minerals (59) <!-- soil-chem-037 -->
+795. **Framboid** — Advanced · Concept · Minor · builds on: Mineral (26), Acid sulfate soil (771) <!-- soil-chem-042 -->
+796. **Brønsted–Lowry acid–base theory** — Intermediate · Concept · Major · builds on: Soil pH (63) <!-- soil-chem-212 -->
+797. **Buffer solution** — Intermediate · Concept · Major · builds on: Brønsted–Lowry acid–base theory (796), Soil pH (63) <!-- soil-chem-213 -->
+798. **Electrolytic conductivity** — Intermediate · Concept · Minor · builds on: Soil solution (24), Soil salinity (763) <!-- soil-chem-143 -->
+799. **Pyrite oxidation in acid sulfate soils** — Advanced · Process · Minor · builds on: Acid sulfate soil (771), Oxidation weathering (31), Redox (725) <!-- soil-chem-031 -->
+800. **Acid base accounting** — Advanced · Method · Minor · builds on: Acid sulfate soil (771), Pyrite oxidation in acid sulfate soils (799) <!-- soil-chem-033 -->
+801. **Managing acid sulfate soils** — Intermediate · Practice · Minor · builds on: Acid sulfate soil (771), Pyrite oxidation in acid sulfate soils (799) <!-- soil-chem-034 -->
+802. **Sulfidic and sulfuric material** — Advanced · Classification · Minor · builds on: Acid sulfate soil (771), Pyrite oxidation in acid sulfate soils (799) <!-- soil-chem-032 -->
+803. **Managing dryland salinity** — Intermediate · Practice · Minor · builds on: Dryland salinity (772) <!-- soil-chem-026 -->
+804. **Primary and secondary salinity** — Intermediate · Classification · Minor · builds on: Soil salinity (763) <!-- soil-chem-025 -->
+805. **Saltwater intrusion** — Intermediate · Process · Minor · builds on: Aquifer (486), Groundwater (485), Soil salinity (763) <!-- soil-chem-141 -->
+806. **Saline seep** — Intermediate · Concept · Minor · builds on: Dryland salinity (772) <!-- soil-chem-027 -->
+807. **Halotolerance** — Intermediate · Concept · Minor · builds on: Soil salinity (763), Osmotic potential of soil water (445) <!-- soil-chem-137 -->
+808. **Maas–Hoffman model** — Advanced · Method · Minor · builds on: Soil salinity (763), Measuring soil salinity (778) <!-- soil-chem-043 -->
+809. **Road salt and soil** — Intermediate · Concept · Minor · builds on: Soil salinity (763), Groundwater (485) <!-- soil-chem-140 -->
+810. **Van Genuchten–Gupta model** — Advanced · Method · Minor · builds on: Soil salinity (763), Halotolerance (807) <!-- soil-chem-139 -->
+811. **Exchangeable sodium percentage** — Intermediate · Concept · Major · builds on: Cation-exchange capacity (705), Sodic soil (768) <!-- soil-chem-018 -->
+812. **Alkali soil** — Intermediate · Concept · Major · builds on: Soil pH (63), Sodic soil (768), Clay (46), Soil structure (260), Exchangeable sodium percentage (811) <!-- soil-chem-019 -->
+813. **Man-made soil alkalinity** — Intermediate · Process · Minor · builds on: Alkali soil (812) <!-- soil-chem-020 -->
+814. **Saline-alkali aquaculture** — Intermediate · Practice · Minor · builds on: Alkali soil (812), Soil salinity (763) <!-- soil-chem-022 -->
+815. **Residual sodium carbonate index** — Intermediate · Concept · Minor · builds on: Alkali soil (812), Sodium adsorption ratio (775), Cation-exchange capacity (705) <!-- soil-chem-023 -->
+816. **Agricultural gypsum** — Intermediate · Material · Minor · builds on: Sulfate minerals (59), Sodic soil (768), Exchangeable sodium percentage (811) <!-- soil-chem-044 -->
+817. **Reclaiming alkali soils** — Intermediate · Practice · Major · builds on: Alkali soil (812), Exchangeable sodium percentage (811), Agricultural gypsum (816) <!-- soil-chem-021 -->
+818. **Critical load** — Advanced · Concept · Major · builds on: Soil acidification (764), Acid rain and soil (765) <!-- soil-chem-138 -->
+819. **Biosaline agriculture** — Intermediate · Practice · Major · builds on: Soil salinity (763), Halophyte (787), Groundwater (485) <!-- soil-chem-136 -->
+820. **Organic matter contribution to CEC** — Intermediate · Concept · Minor · builds on: Cation-exchange capacity (705), Variable charge (683) <!-- soil-chem-217 -->
+821. **Saline soil management without shallow groundwater** — Intermediate · Practice · Minor · builds on: Soil salinity (763), Leaching requirement (789) <!-- soil-chem-220 -->
+822. **Copper deficiency** — Intermediate · Concept · Minor <!-- soil-chem-218 -->
+823. **Reserve acidity** — Intermediate · Concept · Minor · builds on: Soil acidification (764), Cation-exchange capacity (705) <!-- soil-chem-219 -->
+824. **Manganese toxicity** — Intermediate · Concept · Minor · builds on: Manganese in soil (761), Soil pH (63) <!-- soil-chem-144 -->
+825. **Efflorescence** — Intermediate · Process · Minor <!-- soil-chem-214 -->
 
 ## Soil biology
 
 
 ### Life in the soil
 
-750. **Soil biology** — Foundational · Concept · Landmark · builds on: Soil (1), Soil organic matter (26) <!-- soil-bio-001 -->
-751. **Soil microbiology** — Foundational · Concept · Landmark · builds on: Soil biology (750) <!-- soil-bio-011 -->
-752. **Biomineralization** — Intermediate · Process · Major · builds on: Mineral (27), Soil microbiology (751) <!-- soil-bio-063 -->
-753. **Soil biodiversity** — Foundational · Concept · Major · builds on: Soil biology (750) <!-- soil-bio-008 -->
-754. **Total organic carbon** — Intermediate · Method · Minor · builds on: Soil organic matter (26) <!-- soil-bio-078 -->
-755. **Soil ecology** — Intermediate · Concept · Major · builds on: Soil biology (750) <!-- soil-bio-005 -->
-756. **Oligotroph** — Intermediate · Concept · Major · builds on: Soil microbiology (751) <!-- soil-bio-060 -->
-757. **Soil animals** — Foundational · Concept · Major · builds on: Soil biology (750) <!-- soil-bio-020 -->
-758. **Earthworm** — Foundational · Concept · Landmark · builds on: Soil animals (757) <!-- soil-bio-040 -->
-759. **Detritivore** — Foundational · Concept · Major · builds on: Soil animals (757), Soil organic matter (26) <!-- soil-bio-052 -->
-760. **Soil food web** — Intermediate · Concept · Landmark · builds on: Soil biology (750), Soil microbiology (751), Soil animals (757) <!-- soil-bio-025 -->
-761. **Soil respiration** — Intermediate · Process · Major · builds on: Soil microbiology (751), Soil animals (757), Soil organic matter (26) <!-- soil-bio-033 -->
-762. **Earthworm ecological categories** — Intermediate · Classification · Major · builds on: Earthworm (758) <!-- soil-bio-041 -->
-763. **Earthworms and soil fertility** — Intermediate · Concept · Major · builds on: Earthworm (758), Earthworm ecological categories (762) <!-- soil-bio-042 -->
-764. **Petrichor** — Foundational · Concept · Major · builds on: Soil (1) <!-- soil-bio-074 -->
-765. **Soil enzyme** — Intermediate · Concept · Major · builds on: Soil microbiology (751), Soil organic matter (26) <!-- soil-bio-039 -->
-766. **Soil bacteria** — Foundational · Concept · Major · builds on: Soil biology (750) <!-- soil-bio-002 -->
-767. **Geosmin** — Intermediate · Material · Major · builds on: Petrichor (764), Soil bacteria (766), Soil microbiology (751) <!-- soil-bio-075 -->
-768. **Soil fungi** — Foundational · Concept · Major · builds on: Soil biology (750), Soil organic matter (26) <!-- soil-bio-003 -->
-769. **Soil actinomycetes** — Intermediate · Concept · Major · builds on: Soil bacteria (766) <!-- soil-bio-012 -->
-770. **Lumbricus terrestris** — Intermediate · Concept · Minor · builds on: Earthworm (758) <!-- soil-bio-079 -->
-771. **Vermicomposting** — Intermediate · Practice · Minor · builds on: Earthworm (758), Soil organic matter (26) <!-- soil-bio-044 -->
-772. **Soil ecosystem engineers** — Intermediate · Concept · Major · builds on: Soil biology (750), Soil animals (757) <!-- soil-bio-004 -->
-773. **Bioturbation** — Intermediate · Process · Major · builds on: Soil animals (757), Earthworm (758), Soil ecosystem engineers (772) <!-- soil-bio-047 -->
-774. **Symbiosis** — Foundational · Concept · Minor <!-- soil-bio-226 -->
-775. **Agricultural use of soil microbes** — Intermediate · Practice · Major · builds on: Soil microbiology (751) <!-- soil-bio-018 -->
-776. **Microbial inoculant** — Intermediate · Practice · Major · builds on: Agricultural use of soil microbes (775), Soil microbiology (751) <!-- soil-bio-070 -->
-777. **Bioturbation in soils** — Intermediate · Process · Major · builds on: Bioturbation (773), Soil organic matter (26), Soil horizon (67) <!-- soil-bio-048 -->
-778. **Bacterial metabolic types** — Intermediate · Classification · Minor · builds on: Soil bacteria (766), Redox (660) <!-- soil-bio-077 -->
-779. **Lithotroph** — Intermediate · Concept · Major · builds on: Bacterial metabolic types (778), Redox (660), Soil microbiology (751) <!-- soil-bio-056 -->
-780. **Microbiologically induced calcite precipitation** — Advanced · Process · Major · builds on: Biomineralization (752), Carbonate minerals (59), Soil microbiology (751) <!-- soil-bio-067 -->
-781. **Chemolithotrophy** — Advanced · Process · Major · builds on: Lithotroph (779), Redox (660) <!-- soil-bio-057 -->
-782. **Threats to soil biodiversity** — Intermediate · Concept · Major · builds on: Soil biodiversity (753), Soil acidification (697), Soil salinity (696), Sodic soil (701), Soil structure (249) <!-- soil-bio-009 -->
-783. **Hypha** — Intermediate · Concept · Minor · builds on: Soil fungi (768), Soil actinomycetes (769) <!-- soil-bio-216 -->
-784. **Mycelium** — Intermediate · Concept · Major · builds on: Hypha (783), Soil fungi (768) <!-- soil-bio-217 -->
-785. **Thatch (lawn)** — Intermediate · Material · Minor · builds on: Soil organic matter (26), Composition of plant residues (36), Earthworm (758) <!-- soil-bio-084 -->
-786. **Soil-borne pathogen** — Intermediate · Concept · Major · builds on: Soil microbiology (751) <!-- soil-bio-069 -->
-787. **Soil macrofauna** — Intermediate · Concept · Major · builds on: Soil animals (757) <!-- soil-bio-023 -->
-788. **Termites** — Intermediate · Concept · Major · builds on: Soil macrofauna (787), Detritivore (759) <!-- soil-bio-212 -->
-789. **Soil mesofauna** — Intermediate · Concept · Major · builds on: Soil animals (757) <!-- soil-bio-022 -->
-790. **Springtails** — Intermediate · Concept · Major · builds on: Soil mesofauna (789), Soil animals (757) <!-- soil-bio-085 -->
-791. **Enchytraeids** — Intermediate · Concept · Minor · builds on: Soil mesofauna (789), Earthworm (758) <!-- soil-bio-087 -->
-792. **Slime molds and myxobacteria** — Intermediate · Concept · Minor · builds on: Soil microbiology (751), Soil bacteria (766) <!-- soil-bio-017 -->
-793. **Soil algae** — Intermediate · Concept · Minor · builds on: Soil microbiology (751) <!-- soil-bio-013 -->
-794. **Soil bacteriophages** — Advanced · Concept · Minor · builds on: Soil bacteria (766), Soil microbiology (751) <!-- soil-bio-016 -->
-795. **Soil protozoa** — Intermediate · Concept · Minor · builds on: Soil microbiology (751) <!-- soil-bio-014 -->
-796. **Soil microbial loop** — Advanced · Process · Major · builds on: Soil bacteria (766), Soil protozoa (795), Soil food web (760) <!-- soil-bio-015 -->
-797. **Soil microfauna** — Intermediate · Concept · Major · builds on: Soil animals (757), Soil protozoa (795), Pore space in soil (303) <!-- soil-bio-021 -->
-798. **Nematode** — Intermediate · Concept · Major · builds on: Soil animals (757), Soil microfauna (797) <!-- soil-bio-193 -->
-799. **Entomopathogenic nematode** — Intermediate · Concept · Minor · builds on: Soil microfauna (797), Soil food web (760), Soil animals (757) <!-- soil-bio-083 -->
-800. **Bioturbation and archaeology** — Intermediate · Concept · Minor · builds on: Bioturbation (773) <!-- soil-bio-049 -->
-801. **Dwarf forest** — Intermediate · Concept · Minor · builds on: Forest soils (17) <!-- soil-bio-081 -->
-802. **Biogenic mineral controversy** — Intermediate · Debate · Minor · builds on: Biomineralization (752), Mineral (27), Biogenic minerals debate (58) <!-- soil-bio-066 -->
-803. **Geomycology** — Intermediate · Process · Minor · builds on: Biomineralization (752), Soil fungi (768), Weathering (28), Soil microbiology (751) <!-- soil-bio-065 -->
-804. **Types of biomineralization** — Advanced · Classification · Minor · builds on: Biomineralization (752) <!-- soil-bio-064 -->
-805. **Worm cast** — Foundational · Material · Minor · builds on: Earthworm (758) <!-- soil-bio-045 -->
-806. **Oribatid mites** — Intermediate · Concept · Minor · builds on: Soil mesofauna (789) <!-- soil-bio-086 -->
-807. **Controls on soil respiration** — Advanced · Concept · Minor · builds on: Soil respiration (761), Soil temperature (507), Soil moisture (371) <!-- soil-bio-035 -->
-808. **Measuring soil respiration** — Advanced · Method · Minor · builds on: Soil respiration (761), Soil gas (506) <!-- soil-bio-036 -->
-809. **Soil respiration and global change** — Advanced · Concept · Minor · builds on: Soil respiration (761), Controls on soil respiration (807) <!-- soil-bio-037 -->
-810. **Sources of soil respiration** — Intermediate · Concept · Minor · builds on: Soil respiration (761), Soil bacteria (766), Soil fungi (768), Soil animals (757) <!-- soil-bio-034 -->
-811. **Millipedes** — Intermediate · Concept · Minor · builds on: Soil macrofauna (787), Detritivore (759) <!-- soil-bio-211 -->
-812. **Acid mine drainage** — Intermediate · Process · Minor · builds on: Chemolithotrophy (781), Pyrite oxidation in acid sulfate soils (728) <!-- soil-bio-059 -->
-813. **Lithotrophs in soil formation** — Intermediate · Process · Minor · builds on: Lithotroph (779), Soil formation (184), Biological weathering (32), Pioneer organisms in soil formation (19) <!-- soil-bio-058 -->
-814. **Soil zoology** — Foundational · Concept · Minor · builds on: Soil biology (750) <!-- soil-bio-019 -->
-815. **Measuring soil biodiversity** — Advanced · Method · Minor · builds on: Soil biodiversity (753), Soil microbiology (751) <!-- soil-bio-010 -->
-816. **Ammonia fungi** — Intermediate · Concept · Minor · builds on: Soil fungi (768), Soil pH (66), Soil microbiology (751) <!-- soil-bio-071 -->
-817. **Global patterns of soil biodiversity** — Advanced · Debate · Minor · builds on: Soil biodiversity (753), Soil ecology (755) <!-- soil-bio-007 -->
-818. **Soil microbial hotspots** — Intermediate · Concept · Minor · builds on: Soil microbiology (751), Soil ecology (755), Pore space in soil (303) <!-- soil-bio-006 -->
-819. **Earthworm invasions** — Intermediate · Concept · Major · builds on: Earthworm (758), Soil horizon (67) <!-- soil-bio-043 -->
-820. **Invasive earthworms of North America** — Intermediate · Concept · Major · builds on: Earthworm (758), Earthworm invasions (819), Soil horizon (67) <!-- soil-bio-229 -->
-821. **Bottom-up control in soil food webs** — Intermediate · Concept · Minor · builds on: Soil food web (760) <!-- soil-bio-028 -->
-822. **External rumen** — Intermediate · Concept · Minor · builds on: Detritivore (759), Soil microbiology (751), Composition of plant residues (36), Soil food web (760) <!-- soil-bio-032 -->
-823. **Soil fauna extraction methods** — Intermediate · Method · Minor · builds on: Soil animals (757) <!-- soil-bio-031 -->
-824. **Top-down control in soil food webs** — Advanced · Debate · Minor · builds on: Soil food web (760), Bottom-up control in soil food webs (821) <!-- soil-bio-029 -->
-825. **Stability of soil food webs** — Advanced · Concept · Minor · builds on: Soil food web (760), Top-down control in soil food webs (824) <!-- soil-bio-030 -->
-826. **Types of soil food webs** — Advanced · Classification · Minor · builds on: Soil food web (760) <!-- soil-bio-026 -->
-827. **Soil flow webs** — Advanced · Method · Minor · builds on: Soil food web (760), Types of soil food webs (826) <!-- soil-bio-027 -->
-828. **Plant-parasitic nematodes** — Intermediate · Concept · Minor · builds on: Nematode (798) <!-- soil-bio-194 -->
-829. **Primary nutritional groups** — Advanced · Classification · Major · builds on: Soil microbiology (751), Electron donor (674), Redox (660) <!-- soil-bio-207 -->
-830. **Chemotroph** — Intermediate · Concept · Minor · builds on: Primary nutritional groups (829), Electron donor (674), Redox (660) <!-- soil-bio-205 -->
-831. **Microbial ecology** — Intermediate · Concept · Minor · builds on: Soil microbiology (751), Symbiosis (774) <!-- soil-bio-219 -->
-832. **Microbiome** — Intermediate · Concept · Minor · builds on: Soil microbiology (751), Microbial ecology (831) <!-- soil-bio-227 -->
-833. **Metagenomics** — Advanced · Method · Major · builds on: Soil microbiology (751), Soil biodiversity (753), Microbiome (832) <!-- soil-bio-221 -->
-834. **Oligotrophic soil environments** — Intermediate · Concept · Minor · builds on: Oligotroph (756), Soil microbiology (751) <!-- soil-bio-061 -->
-835. **Plant adaptations to nutrient-poor soils** — Intermediate · Concept · Minor · builds on: Oligotroph (756) <!-- soil-bio-062 -->
-836. **Drilosphere** — Intermediate · Concept · Minor · builds on: Earthworm (758), Worm cast (805) <!-- soil-bio-046 -->
-837. **Geomicrobiology** — Advanced · Concept · Major · builds on: Soil microbiology (751), Weathering (28), Mineral (27) <!-- soil-bio-218 -->
-838. **Soil megafauna** — Intermediate · Concept · Minor · builds on: Soil animals (757) <!-- soil-bio-024 -->
-839. **Testate amoebae** — Intermediate · Concept · Minor · builds on: Soil protozoa (795) <!-- soil-bio-195 -->
-840. **Streptomyces** — Intermediate · Concept · Minor · builds on: Soil actinomycetes (769), Soil bacteria (766) <!-- soil-bio-225 -->
-841. **Copiotroph** — Intermediate · Concept · Minor · builds on: Oligotroph (756), Soil bacteria (766) <!-- soil-bio-088 -->
-842. **Azotobacter** — Intermediate · Concept · Minor · builds on: Soil bacteria (766) <!-- soil-bio-224 -->
-843. **Bacterivore** — Intermediate · Concept · Minor · builds on: Soil bacteria (766), Soil food web (760) <!-- soil-bio-203 -->
-844. **Fungivory** — Intermediate · Concept · Minor · builds on: Soil fungi (768), Soil food web (760) <!-- soil-bio-204 -->
-845. **Fossorial animals** — Intermediate · Concept · Minor · builds on: Soil animals (757), Bioturbation (773) <!-- soil-bio-214 -->
-846. **Termite mounds** — Intermediate · Concept · Minor · builds on: Termites (788), Soil (1) <!-- soil-bio-213 -->
-847. **Fungal loop hypothesis** — Advanced · Concept · Minor · builds on: Soil organic matter (26), Biological soil crust (285) <!-- soil-found-076 -->
-848. **Detrital food web** — Intermediate · Concept · Minor · builds on: Soil food web (760), Detritivore (759) <!-- soil-bio-228 -->
-849. **Organotroph** — Intermediate · Concept · Minor · builds on: Primary nutritional groups (829), Electron donor (674) <!-- soil-bio-206 -->
-850. **Microbial metabolism** — Advanced · Process · Major · builds on: Soil microbiology (751), Primary nutritional groups (829), Chemotroph (830), Organotroph (849), Anaerobic respiration (677) <!-- soil-bio-208 -->
-851. **Saprotrophic bacteria** — Intermediate · Concept · Minor · builds on: Soil bacteria (766), Soil enzyme (765), Soil organic matter (26) <!-- soil-bio-053 -->
-852. **Mendocino ecological staircase** — Advanced · Concept · Minor · builds on: Chronosequence (198), Hardpan (145), Dwarf forest (801) <!-- soil-bio-082 -->
-853. **Biocementation of soil** — Advanced · Practice · Minor · builds on: Microbiologically induced calcite precipitation (780), Soil liquefaction (311), Sand (236) <!-- soil-bio-068 -->
-854. **Ammonia fungi succession** — Advanced · Process · Minor · builds on: Ammonia fungi (816), Soil pH (66) <!-- soil-bio-072 -->
-855. **Microarthropods** — Intermediate · Concept · Minor · builds on: Soil mesofauna (789), Soil animals (757) <!-- soil-bio-209 -->
-856. **Soil mites** — Intermediate · Concept · Minor · builds on: Microarthropods (855) <!-- soil-bio-210 -->
-857. **Nematophagous fungi** — Intermediate · Concept · Minor · builds on: Nematode (798), Soil fungi (768) <!-- soil-bio-215 -->
-858. **Phospholipid fatty acid analysis** — Advanced · Method · Major · builds on: Soil microbiology (751), Soil bacteria (766), Soil fungi (768) <!-- soil-bio-222 -->
-859. **Enzymatic latch** — Advanced · Process · Minor · builds on: Soil enzyme (765), Saprotrophic bacteria (851), Soil organic matter (26) <!-- soil-bio-055 -->
-860. **Soil bacterial growth rates** — Advanced · Concept · Minor · builds on: Soil bacteria (766), Saprotrophic bacteria (851) <!-- soil-bio-054 -->
-861. **PLFA biomarkers of soil microbes** — Advanced · Classification · Minor · builds on: Phospholipid fatty acid analysis (858), Soil bacteria (766), Soil fungi (768) <!-- soil-bio-223 -->
-862. **Birch effect** — Intermediate · Process · Minor · builds on: Soil respiration (761), Soil organic matter in the carbon cycle (30), Soil moisture (371) <!-- soil-bio-038 -->
-863. **Microbial biogeography** — Advanced · Concept · Minor · builds on: Soil microbiology (751), Microbial ecology (831), Soil biodiversity (753), Soil pH (66) <!-- soil-bio-220 -->
-864. **Biofilm** — Intermediate · Concept · Major · builds on: Soil bacteria (766) <!-- soil-bio-050 -->
-865. **Extracellular polymeric substance** — Intermediate · Material · Major · builds on: Soil microbiology (751), Biofilm (864) <!-- soil-bio-080 -->
-866. **Biofilm development** — Intermediate · Process · Minor · builds on: Biofilm (864) <!-- soil-bio-051 -->
+826. **Soil biology** — Foundational · Concept · Landmark · builds on: Soil (1) <!-- soil-bio-001 -->
+827. **Soil microbiology** — Foundational · Concept · Landmark · builds on: Soil biology (826) <!-- soil-bio-011 -->
+828. **Biomineralization** — Intermediate · Process · Major · builds on: Mineral (26), Soil microbiology (827) <!-- soil-bio-063 -->
+829. **Soil ecology** — Intermediate · Concept · Major · builds on: Soil biology (826) <!-- soil-bio-005 -->
+830. **Soil biodiversity** — Foundational · Concept · Major · builds on: Soil biology (826) <!-- soil-bio-008 -->
+831. **Total organic carbon** — Intermediate · Method · Minor <!-- soil-bio-078 -->
+832. **Oligotroph** — Intermediate · Concept · Major · builds on: Soil microbiology (827) <!-- soil-bio-060 -->
+833. **Soil animals** — Foundational · Concept · Major · builds on: Soil biology (826) <!-- soil-bio-020 -->
+834. **Earthworm** — Foundational · Concept · Landmark · builds on: Soil animals (833) <!-- soil-bio-040 -->
+835. **Detritivore** — Foundational · Concept · Major · builds on: Soil animals (833) <!-- soil-bio-052 -->
+836. **Soil food web** — Intermediate · Concept · Landmark · builds on: Soil biology (826), Soil microbiology (827), Soil animals (833) <!-- soil-bio-025 -->
+837. **Soil respiration** — Intermediate · Process · Major · builds on: Soil microbiology (827), Soil animals (833) <!-- soil-bio-033 -->
+838. **Earthworm ecological categories** — Intermediate · Classification · Major · builds on: Earthworm (834) <!-- soil-bio-041 -->
+839. **Earthworms and soil fertility** — Intermediate · Concept · Major · builds on: Earthworm (834), Earthworm ecological categories (838) <!-- soil-bio-042 -->
+840. **Petrichor** — Foundational · Concept · Major · builds on: Soil (1) <!-- soil-bio-074 -->
+841. **Soil enzyme** — Intermediate · Concept · Major · builds on: Soil microbiology (827) <!-- soil-bio-039 -->
+842. **Soil bacteria** — Foundational · Concept · Major · builds on: Soil biology (826) <!-- soil-bio-002 -->
+843. **Geosmin** — Intermediate · Material · Major · builds on: Petrichor (840), Soil bacteria (842), Soil microbiology (827) <!-- soil-bio-075 -->
+844. **Soil fungi** — Foundational · Concept · Major · builds on: Soil biology (826) <!-- soil-bio-003 -->
+845. **Soil actinomycetes** — Intermediate · Concept · Major · builds on: Soil bacteria (842) <!-- soil-bio-012 -->
+846. **Lumbricus terrestris** — Intermediate · Concept · Minor · builds on: Earthworm (834) <!-- soil-bio-079 -->
+847. **Vermicomposting** — Intermediate · Practice · Minor · builds on: Earthworm (834) <!-- soil-bio-044 -->
+848. **Soil ecosystem engineers** — Intermediate · Concept · Major · builds on: Soil biology (826), Soil animals (833) <!-- soil-bio-004 -->
+849. **Bioturbation** — Intermediate · Process · Major · builds on: Soil animals (833), Earthworm (834), Soil ecosystem engineers (848) <!-- soil-bio-047 -->
+850. **Symbiosis** — Foundational · Concept · Minor <!-- soil-bio-226 -->
+851. **Fungus** — Foundational · Concept · Major · builds on: Symbiosis (850) <!-- soil-bio-271 -->
+852. **Agricultural use of soil microbes** — Intermediate · Practice · Major · builds on: Soil microbiology (827) <!-- soil-bio-018 -->
+853. **Microbial inoculant** — Intermediate · Practice · Major · builds on: Agricultural use of soil microbes (852), Soil microbiology (827) <!-- soil-bio-070 -->
+854. **Bioturbation in soils** — Intermediate · Process · Major · builds on: Bioturbation (849), Soil horizon (64) <!-- soil-bio-048 -->
+855. **Bacterial metabolic types** — Intermediate · Classification · Minor · builds on: Soil bacteria (842), Redox (725) <!-- soil-bio-077 -->
+856. **Lithotroph** — Intermediate · Concept · Major · builds on: Bacterial metabolic types (855), Redox (725), Soil microbiology (827) <!-- soil-bio-056 -->
+857. **Microbiologically induced calcite precipitation** — Advanced · Process · Major · builds on: Biomineralization (828), Carbonate minerals (56), Soil microbiology (827) <!-- soil-bio-067 -->
+858. **Chemolithotrophy** — Advanced · Process · Major · builds on: Lithotroph (856), Redox (725) <!-- soil-bio-057 -->
+859. **Threats to soil biodiversity** — Intermediate · Concept · Major · builds on: Soil biodiversity (830), Soil acidification (764), Soil salinity (763), Sodic soil (768), Soil structure (260) <!-- soil-bio-009 -->
+860. **Hypha** — Intermediate · Concept · Minor · builds on: Soil fungi (844), Soil actinomycetes (845) <!-- soil-bio-216 -->
+861. **Mycelium** — Intermediate · Concept · Major · builds on: Hypha (860), Soil fungi (844) <!-- soil-bio-217 -->
+862. **Thatch (lawn)** — Intermediate · Material · Minor · builds on: Composition of plant residues (33), Earthworm (834) <!-- soil-bio-084 -->
+863. **Soil-borne pathogen** — Intermediate · Concept · Major · builds on: Soil microbiology (827) <!-- soil-bio-069 -->
+864. **Soil macrofauna** — Intermediate · Concept · Major · builds on: Soil animals (833) <!-- soil-bio-023 -->
+865. **Termites** — Intermediate · Concept · Major · builds on: Soil macrofauna (864), Detritivore (835) <!-- soil-bio-212 -->
+866. **Soil mesofauna** — Intermediate · Concept · Major · builds on: Soil animals (833) <!-- soil-bio-022 -->
+867. **Springtails** — Intermediate · Concept · Major · builds on: Soil mesofauna (866), Soil animals (833) <!-- soil-bio-085 -->
+868. **Enchytraeids** — Intermediate · Concept · Minor · builds on: Soil mesofauna (866), Earthworm (834), Soil food web (836) <!-- soil-bio-087 -->
+869. **Slime molds and myxobacteria** — Intermediate · Concept · Minor · builds on: Soil microbiology (827), Soil bacteria (842) <!-- soil-bio-017 -->
+870. **Soil algae** — Intermediate · Concept · Minor · builds on: Soil microbiology (827) <!-- soil-bio-013 -->
+871. **Soil bacteriophages** — Advanced · Concept · Minor · builds on: Soil bacteria (842), Soil microbiology (827) <!-- soil-bio-016 -->
+872. **Soil protozoa** — Intermediate · Concept · Minor · builds on: Soil microbiology (827) <!-- soil-bio-014 -->
+873. **Protozoa** — Intermediate · Concept · Major · builds on: Soil protozoa (872), Fungus (851) <!-- soil-bio-274 -->
+874. **Soil microbial loop** — Advanced · Process · Major · builds on: Soil bacteria (842), Soil protozoa (872), Soil food web (836) <!-- soil-bio-015 -->
+875. **Soil microfauna** — Intermediate · Concept · Major · builds on: Soil animals (833), Soil protozoa (872), Pore space in soil (312) <!-- soil-bio-021 -->
+876. **Nematode** — Intermediate · Concept · Major · builds on: Soil animals (833), Soil microfauna (875), Soil food web (836) <!-- soil-bio-193 -->
+877. **Entomopathogenic nematode** — Intermediate · Concept · Minor · builds on: Soil microfauna (875), Soil food web (836), Soil animals (833) <!-- soil-bio-083 -->
+878. **Bioturbation and archaeology** — Intermediate · Concept · Minor · builds on: Bioturbation (849) <!-- soil-bio-049 -->
+879. **Biogenic mineral controversy** — Intermediate · Debate · Minor · builds on: Biomineralization (828), Mineral (26), Biogenic minerals debate (55) <!-- soil-bio-066 -->
+880. **Geomycology** — Intermediate · Process · Minor · builds on: Biomineralization (828), Soil fungi (844), Weathering (27), Soil microbiology (827) <!-- soil-bio-065 -->
+881. **Types of biomineralization** — Advanced · Classification · Minor · builds on: Biomineralization (828) <!-- soil-bio-064 -->
+882. **Dwarf forest** — Intermediate · Concept · Minor · builds on: Forest soils (16) <!-- soil-bio-081 -->
+883. **Worm cast** — Foundational · Material · Minor · builds on: Earthworm (834) <!-- soil-bio-045 -->
+884. **Oribatid mites** — Intermediate · Concept · Minor · builds on: Soil mesofauna (866) <!-- soil-bio-086 -->
+885. **Controls on soil respiration** — Advanced · Concept · Minor · builds on: Soil respiration (837), Soil temperature (543), Soil moisture (391) <!-- soil-bio-035 -->
+886. **Measuring soil respiration** — Advanced · Method · Minor · builds on: Soil respiration (837), Soil gas (541) <!-- soil-bio-036 -->
+887. **Soil respiration and global change** — Advanced · Concept · Minor · builds on: Soil respiration (837), Controls on soil respiration (885) <!-- soil-bio-037 -->
+888. **Sources of soil respiration** — Intermediate · Concept · Minor · builds on: Soil respiration (837), Soil bacteria (842), Soil fungi (844), Soil animals (833) <!-- soil-bio-034 -->
+889. **Primary nutritional groups** — Advanced · Classification · Major · builds on: Soil microbiology (827), Electron donor (739), Redox (725) <!-- soil-bio-207 -->
+890. **Millipedes** — Intermediate · Concept · Minor · builds on: Soil macrofauna (864), Detritivore (835) <!-- soil-bio-211 -->
+891. **Acid mine drainage** — Intermediate · Process · Minor · builds on: Chemolithotrophy (858), Pyrite oxidation in acid sulfate soils (799) <!-- soil-bio-059 -->
+892. **Lithotrophs in soil formation** — Intermediate · Process · Minor · builds on: Lithotroph (856), Soil formation (182), Biological weathering (29), Pioneer organisms in soil formation (18) <!-- soil-bio-058 -->
+893. **Soil zoology** — Foundational · Concept · Minor · builds on: Soil biology (826) <!-- soil-bio-019 -->
+894. **Global patterns of soil biodiversity** — Advanced · Debate · Minor · builds on: Soil biodiversity (830), Soil ecology (829) <!-- soil-bio-007 -->
+895. **Soil microbial hotspots** — Intermediate · Concept · Minor · builds on: Soil microbiology (827), Soil ecology (829), Pore space in soil (312) <!-- soil-bio-006 -->
+896. **Measuring soil biodiversity** — Advanced · Method · Minor · builds on: Soil biodiversity (830), Soil microbiology (827) <!-- soil-bio-010 -->
+897. **Chemotroph** — Intermediate · Concept · Minor · builds on: Primary nutritional groups (889), Electron donor (739), Redox (725) <!-- soil-bio-205 -->
+898. **Ammonia fungi** — Intermediate · Concept · Minor · builds on: Soil fungi (844), Soil pH (63), Soil microbiology (827) <!-- soil-bio-071 -->
+899. **Earthworm invasions** — Intermediate · Concept · Major · builds on: Earthworm (834), Soil horizon (64) <!-- soil-bio-043 -->
+900. **Invasive earthworms of North America** — Intermediate · Concept · Major · builds on: Earthworm (834), Earthworm invasions (899), Soil horizon (64) <!-- soil-bio-229 -->
+901. **Sporosarcina pasteurii** — Intermediate · Concept · Minor · builds on: Microbiologically induced calcite precipitation (857), Calcite (57) <!-- soil-bio-283 -->
+902. **Bottom-up control in soil food webs** — Intermediate · Concept · Minor · builds on: Soil food web (836) <!-- soil-bio-028 -->
+903. **External rumen** — Intermediate · Concept · Minor · builds on: Detritivore (835), Soil microbiology (827), Composition of plant residues (33), Soil food web (836) <!-- soil-bio-032 -->
+904. **Soil fauna extraction methods** — Intermediate · Method · Minor · builds on: Soil animals (833) <!-- soil-bio-031 -->
+905. **Top-down control in soil food webs** — Advanced · Debate · Minor · builds on: Soil food web (836), Bottom-up control in soil food webs (902) <!-- soil-bio-029 -->
+906. **Stability of soil food webs** — Advanced · Concept · Minor · builds on: Soil food web (836), Top-down control in soil food webs (905) <!-- soil-bio-030 -->
+907. **Types of soil food webs** — Advanced · Classification · Minor · builds on: Soil food web (836) <!-- soil-bio-026 -->
+908. **Soil flow webs** — Advanced · Method · Minor · builds on: Soil food web (836), Types of soil food webs (907) <!-- soil-bio-027 -->
+909. **Plant-parasitic nematodes** — Intermediate · Concept · Minor · builds on: Nematode (876) <!-- soil-bio-194 -->
+910. **Microbial ecology** — Intermediate · Concept · Minor · builds on: Soil microbiology (827), Symbiosis (850) <!-- soil-bio-219 -->
+911. **Microbiome** — Intermediate · Concept · Minor · builds on: Soil microbiology (827), Microbial ecology (910) <!-- soil-bio-227 -->
+912. **Metagenomics** — Advanced · Method · Major · builds on: Soil microbiology (827), Soil biodiversity (830), Microbiome (911) <!-- soil-bio-221 -->
+913. **Oligotrophic soil environments** — Intermediate · Concept · Minor · builds on: Oligotroph (832), Soil microbiology (827) <!-- soil-bio-061 -->
+914. **Plant adaptations to nutrient-poor soils** — Intermediate · Concept · Minor · builds on: Oligotroph (832) <!-- soil-bio-062 -->
+915. **Drilosphere** — Intermediate · Concept · Minor · builds on: Earthworm (834), Worm cast (883) <!-- soil-bio-046 -->
+916. **Fungal biocontrol** — Intermediate · Practice · Minor · builds on: Fungus (851) <!-- soil-bio-273 -->
+917. **Fungal reproduction** — Intermediate · Process · Minor · builds on: Fungus (851) <!-- soil-bio-272 -->
+918. **Geomicrobiology** — Advanced · Concept · Major · builds on: Soil microbiology (827), Weathering (27), Mineral (26) <!-- soil-bio-218 -->
+919. **Soil megafauna** — Intermediate · Concept · Minor · builds on: Soil animals (833) <!-- soil-bio-024 -->
+920. **Testate amoebae** — Intermediate · Concept · Minor · builds on: Soil protozoa (872) <!-- soil-bio-195 -->
+921. **Streptomyces** — Intermediate · Concept · Minor · builds on: Soil actinomycetes (845), Soil bacteria (842) <!-- soil-bio-225 -->
+922. **Copiotroph** — Intermediate · Concept · Minor · builds on: Oligotroph (832), Soil bacteria (842) <!-- soil-bio-088 -->
+923. **Azotobacter** — Intermediate · Concept · Minor · builds on: Soil bacteria (842) <!-- soil-bio-224 -->
+924. **Bacterivore** — Intermediate · Concept · Minor · builds on: Soil bacteria (842), Soil food web (836) <!-- soil-bio-203 -->
+925. **Fungivory** — Intermediate · Concept · Minor · builds on: Soil fungi (844), Soil food web (836) <!-- soil-bio-204 -->
+926. **Fossorial animals** — Intermediate · Concept · Minor · builds on: Soil animals (833), Bioturbation (849) <!-- soil-bio-214 -->
+927. **Termite mounds** — Intermediate · Concept · Minor · builds on: Termites (865), Soil (1) <!-- soil-bio-213 -->
+928. **Fungal loop hypothesis** — Advanced · Concept · Minor · builds on: Biological soil crust (22) <!-- soil-found-076 -->
+929. **Detrital food web** — Intermediate · Concept · Minor · builds on: Soil food web (836), Detritivore (835) <!-- soil-bio-228 -->
+930. **Organotroph** — Intermediate · Concept · Minor · builds on: Primary nutritional groups (889), Electron donor (739) <!-- soil-bio-206 -->
+931. **Microbial metabolism** — Advanced · Process · Major · builds on: Soil microbiology (827), Primary nutritional groups (889), Chemotroph (897), Organotroph (930), Anaerobic respiration (742) <!-- soil-bio-208 -->
+932. **Saprotrophic bacteria** — Intermediate · Concept · Minor · builds on: Soil bacteria (842), Soil enzyme (841) <!-- soil-bio-053 -->
+933. **Mendocino ecological staircase** — Advanced · Concept · Minor · builds on: Chronosequence (196), Hardpan (143), Dwarf forest (882) <!-- soil-bio-082 -->
+934. **Biocementation of soil** — Advanced · Practice · Minor · builds on: Microbiologically induced calcite precipitation (857), Soil liquefaction (320), Sand (247) <!-- soil-bio-068 -->
+935. **Humus content and maintenance** — Intermediate · Concept · Major <!-- soil-bio-276 -->
+936. **Organic matter decomposition and humus formation** — Intermediate · Process · Major <!-- soil-bio-275 -->
+937. **Ammonia fungi succession** — Advanced · Process · Minor · builds on: Ammonia fungi (898), Soil pH (63) <!-- soil-bio-072 -->
+938. **Microarthropods** — Intermediate · Concept · Minor · builds on: Soil mesofauna (866), Soil animals (833) <!-- soil-bio-209 -->
+939. **Soil mites** — Intermediate · Concept · Minor · builds on: Microarthropods (938) <!-- soil-bio-210 -->
+940. **Nematophagous fungi** — Intermediate · Concept · Minor · builds on: Nematode (876), Soil fungi (844) <!-- soil-bio-215 -->
+941. **Phospholipid fatty acid analysis** — Advanced · Method · Major · builds on: Soil microbiology (827), Soil bacteria (842), Soil fungi (844) <!-- soil-bio-222 -->
+942. **Enzymatic latch** — Advanced · Process · Minor · builds on: Soil enzyme (841), Saprotrophic bacteria (932) <!-- soil-bio-055 -->
+943. **Soil bacterial growth rates** — Advanced · Concept · Minor · builds on: Soil bacteria (842), Saprotrophic bacteria (932) <!-- soil-bio-054 -->
+944. **Controls on soil microbial populations** — Intermediate · Concept · Minor · builds on: Soil microbiology (827) <!-- soil-bio-277 -->
+945. **Natural suppression of plant pests in soil** — Intermediate · Concept · Minor · builds on: Soil biodiversity (830) <!-- soil-bio-281 -->
+946. **Roots as soil engineers** — Intermediate · Concept · Minor <!-- soil-bio-280 -->
+947. **Winogradsky column** — Intermediate · Method · Minor · builds on: Soil microbiology (827), Redox gradient (738) <!-- soil-hist-015 -->
+948. **Free-living nitrogen-fixing bacteria** — Intermediate · Concept · Minor · builds on: Soil bacteria (842), Soil fungi (844) <!-- soil-bio-278 -->
+949. **Size range of soil organisms** — Foundational · Concept · Minor · builds on: Soil biology (826), Soil bacteria (842), Soil fungi (844), Soil bacteriophages (871), Soil macrofauna (864), Soil biodiversity (830), Soil actinomycetes (845) <!-- soil-bio-282 -->
+950. **Soil insects and arthropods** — Intermediate · Concept · Minor · builds on: Soil food web (836) <!-- soil-bio-279 -->
+951. **PLFA biomarkers of soil microbes** — Advanced · Classification · Minor · builds on: Phospholipid fatty acid analysis (941), Soil bacteria (842), Soil fungi (844) <!-- soil-bio-223 -->
+952. **Birch effect** — Intermediate · Process · Minor · builds on: Soil respiration (837), Soil moisture (391) <!-- soil-bio-038 -->
+953. **Microbial biogeography** — Advanced · Concept · Minor · builds on: Soil microbiology (827), Microbial ecology (910), Soil biodiversity (830), Soil pH (63) <!-- soil-bio-220 -->
+954. **Biofilm** — Intermediate · Concept · Major · builds on: Soil bacteria (842) <!-- soil-bio-050 -->
+955. **Extracellular polymeric substance** — Intermediate · Material · Major · builds on: Soil microbiology (827), Biofilm (954) <!-- soil-bio-080 -->
+956. **Biofilm development** — Intermediate · Process · Minor · builds on: Biofilm (954) <!-- soil-bio-051 -->
 
 ### Roots and the rhizosphere
 
-867. **Root** — Foundational · Concept · Landmark · builds on: Soil (1) <!-- soil-bio-133 -->
-868. **Legume family (Fabaceae)** — Foundational · Concept · Minor · builds on: Root (867) <!-- soil-bio-182 -->
-869. **Taproot** — Foundational · Concept · Minor · builds on: Root (867) <!-- soil-bio-139 -->
-870. **Fibrous root system** — Foundational · Concept · Major · builds on: Root (867), Taproot (869) <!-- soil-bio-138 -->
-871. **Root growth regulation** — Intermediate · Process · Minor · builds on: Root (867) <!-- soil-bio-136 -->
-872. **Root system architecture** — Intermediate · Concept · Minor · builds on: Root (867) <!-- soil-bio-134 -->
-873. **Rooting depth** — Foundational · Concept · Major · builds on: Root (867), Root system architecture (872), Physical properties of soil (248), Soil horizon (67) <!-- soil-bio-135 -->
-874. **Specialized root types** — Intermediate · Classification · Minor · builds on: Root (867) <!-- soil-bio-137 -->
-875. **Root hair** — Intermediate · Concept · Major · builds on: Root (867) <!-- soil-bio-140 -->
-876. **Plant hormone** — Intermediate · Concept · Major · builds on: Root (867) <!-- soil-bio-245 -->
-877. **Hydraulic redistribution** — Intermediate · Process · Major · builds on: Root (867), Rooting depth (873), Taproot (869), Water potential (374) <!-- soil-bio-187 -->
-878. **Mutualism** — Foundational · Concept · Minor · builds on: Symbiosis (774) <!-- soil-bio-251 -->
-879. **Root exudates** — Intermediate · Material · Major · builds on: Root (867) <!-- soil-bio-142 -->
-880. **Rhizosphere** — Intermediate · Concept · Landmark · builds on: Root (867), Root exudates (879), Soil microbiology (751), Soil (1) <!-- soil-bio-143 -->
-881. **Mycorrhiza** — Intermediate · Concept · Landmark · builds on: Soil fungi (768), Root (867), Rhizosphere (880) <!-- soil-bio-157 -->
-882. **Root microbiome** — Intermediate · Concept · Major · builds on: Root (867), Rhizosphere (880), Soil bacteria (766), Soil fungi (768) <!-- soil-bio-151 -->
-883. **Bulk soil** — Intermediate · Concept · Major · builds on: Rhizosphere (880), Soil (1) <!-- soil-bio-149 -->
-884. **Mycorrhizal nutrient exchange** — Intermediate · Process · Major · builds on: Mycorrhiza (881) <!-- soil-bio-158 -->
-885. **Mycorrhizal stress protection** — Intermediate · Concept · Major · builds on: Mycorrhiza (881) <!-- soil-bio-161 -->
-886. **Mycorrhizal types** — Intermediate · Classification · Major · builds on: Mycorrhiza (881) <!-- soil-bio-159 -->
-887. **Arbuscular mycorrhiza** — Intermediate · Concept · Major · builds on: Mycorrhiza (881), Mycorrhizal types (886) <!-- soil-bio-166 -->
-888. **Ectomycorrhiza** — Intermediate · Concept · Major · builds on: Mycorrhiza (881), Mycorrhizal types (886), Root (867) <!-- soil-bio-173 -->
-889. **Glomeromycota** — Intermediate · Concept · Minor · builds on: Arbuscular mycorrhiza (887), Soil fungi (768) <!-- soil-bio-177 -->
-890. **Common mycorrhizal network** — Intermediate · Concept · Major · builds on: Mycorrhiza (881) <!-- soil-bio-164 -->
-891. **Rhizobacteria** — Intermediate · Concept · Major · builds on: Rhizosphere (880), Soil bacteria (766) <!-- soil-bio-154 -->
-892. **Rhizobia** — Intermediate · Concept · Landmark · builds on: Soil bacteria (766), Rhizobacteria (891), Legume family (Fabaceae) (868) <!-- soil-bio-178 -->
-893. **Endophyte** — Intermediate · Concept · Major · builds on: Root microbiome (882), Soil bacteria (766), Soil fungi (768) <!-- soil-bio-202 -->
-894. **Glomus (fungus)** — Intermediate · Concept · Minor · builds on: Arbuscular mycorrhiza (887), Glomeromycota (889) <!-- soil-bio-183 -->
-895. **Rhizophagus irregularis** — Intermediate · Concept · Minor · builds on: Arbuscular mycorrhiza (887), Glomus (fungus) (894), Microbial inoculant (776) <!-- soil-bio-184 -->
-896. **Arbuscular mycorrhizal nutrient exchange** — Intermediate · Process · Major · builds on: Arbuscular mycorrhiza (887), Mycorrhizal nutrient exchange (884) <!-- soil-bio-167 -->
-897. **Arbuscular mycorrhizae in agriculture** — Intermediate · Practice · Major · builds on: Arbuscular mycorrhiza (887), Arbuscular mycorrhizal nutrient exchange (896) <!-- soil-bio-168 -->
-898. **Siderophore** — Intermediate · Material · Major · builds on: Chelation (617), Soil microbiology (751), Rhizosphere (880) <!-- soil-bio-192 -->
-899. **Root nodule** — Intermediate · Concept · Major · builds on: Rhizobia (892), Root (867), Legume family (Fabaceae) (868), Root hair (875) <!-- soil-bio-179 -->
-900. **Root mucilage** — Intermediate · Material · Major · builds on: Root exudates (879), Root (867) <!-- soil-bio-141 -->
-901. **Ericoid mycorrhiza** — Intermediate · Concept · Minor · builds on: Mycorrhiza (881), Mycorrhizal types (886) <!-- soil-bio-176 -->
-902. **Spermosphere** — Intermediate · Concept · Minor · builds on: Rhizosphere (880), Soil microbiology (751) <!-- soil-bio-150 -->
-903. **Dual mycorrhiza** — Intermediate · Concept · Minor · builds on: Arbuscular mycorrhiza (887), Ectomycorrhiza (888), Mycorrhizal types (886) <!-- soil-bio-160 -->
-904. **History of mycorrhizal research** — Intermediate · Event · Minor · builds on: Mycorrhiza (881), Mycorrhizal types (886) <!-- soil-bio-165 -->
-905. **Mycorrhizae and climate change** — Intermediate · Concept · Minor · builds on: Mycorrhiza (881) <!-- soil-bio-163 -->
-906. **Mycorrhizae on barren soil** — Intermediate · Concept · Minor · builds on: Mycorrhiza (881) <!-- soil-bio-162 -->
-907. **Orchid mycorrhiza** — Intermediate · Concept · Minor · builds on: Mycorrhiza (881), Mycorrhizal types (886) <!-- soil-bio-186 -->
-908. **Allelopathy** — Intermediate · Process · Minor · builds on: Root exudates (879), Root (867) <!-- soil-bio-146 -->
-909. **Rhizosphere research methods** — Advanced · Method · Minor · builds on: Rhizosphere (880), Root microbiome (882), Measuring soil pH (72) <!-- soil-bio-147 -->
-910. **Rhizosphere signalling** — Intermediate · Process · Minor · builds on: Rhizosphere (880), Root exudates (879) <!-- soil-bio-145 -->
-911. **Hartig net** — Intermediate · Concept · Minor · builds on: Ectomycorrhiza (888) <!-- soil-bio-185 -->
-912. **Arbuscular mycorrhizal effects on soil communities** — Advanced · Concept · Minor · builds on: Arbuscular mycorrhiza (887), Rhizosphere (880) <!-- soil-bio-170 -->
-913. **Detecting arbuscular mycorrhizal fungi** — Advanced · Method · Minor · builds on: Arbuscular mycorrhiza (887) <!-- soil-bio-171 -->
-914. **Mycorrhizal inoculation for land restoration** — Intermediate · Practice · Minor · builds on: Arbuscular mycorrhiza (887) <!-- soil-bio-169 -->
-915. **Fungal endophyte defense** — Intermediate · Concept · Minor · builds on: Root microbiome (882), Soil fungi (768) <!-- soil-bio-181 -->
-916. **Rhizobium** — Intermediate · Concept · Minor · builds on: Rhizobia (892), Root nodule (899) <!-- soil-bio-239 -->
-917. **Ectomycorrhizae in forestry** — Intermediate · Practice · Minor · builds on: Ectomycorrhiza (888) <!-- soil-bio-175 -->
-918. **Ectomycorrhizal tolerance of polluted soils** — Advanced · Concept · Minor · builds on: Ectomycorrhiza (888) <!-- soil-bio-174 -->
-919. **Plant–soil feedback** — Advanced · Process · Major · builds on: Rhizosphere (880), Soil-borne pathogen (786), Allelopathy (908) <!-- soil-bio-250 -->
-920. **Ectomycorrhizal extramatrical mycelium** — Advanced · Concept · Major · builds on: Ectomycorrhiza (888), Hypha (783), Mycelium (784) <!-- soil-bio-240 -->
-921. **Nod factor** — Advanced · Concept · Minor · builds on: Rhizobia (892), Root nodule (899), Legume family (Fabaceae) (868) <!-- soil-bio-201 -->
-922. **Root cap** — Foundational · Concept · Minor · builds on: Root (867) <!-- soil-bio-198 -->
-923. **Laimosphere** — Intermediate · Concept · Minor · builds on: Rhizosphere (880), Spermosphere (902), Soil microbiology (751) <!-- soil-bio-073 -->
-924. **Actinorhizal plant** — Intermediate · Concept · Minor · builds on: Root nodule (899), Soil actinomycetes (769) <!-- soil-bio-180 -->
-925. **Frankia** — Intermediate · Concept · Minor · builds on: Actinorhizal plant (924), Root nodule (899), Rhizobia (892), Soil actinomycetes (769) <!-- soil-bio-200 -->
-926. **Plant growth-promoting rhizobacteria** — Intermediate · Concept · Major · builds on: Rhizobacteria (891), Rhizosphere (880) <!-- soil-bio-155 -->
-927. **Disease suppressive soils** — Intermediate · Concept · Major · builds on: Rhizosphere (880), Soil-borne pathogen (786), Plant growth-promoting rhizobacteria (926) <!-- soil-bio-188 -->
-928. **Mycorrhizosphere** — Intermediate · Concept · Major · builds on: Mycorrhiza (881), Rhizosphere (880), Hypha (783) <!-- soil-bio-247 -->
-929. **Mycorrhiza helper bacteria** — Intermediate · Concept · Major · builds on: Mycorrhiza (881), Ectomycorrhiza (888), Arbuscular mycorrhiza (887), Soil bacteria (766), Rhizobacteria (891) <!-- soil-bio-246 -->
-930. **Strigolactones** — Intermediate · Material · Major · builds on: Root exudates (879), Arbuscular mycorrhiza (887), Rhizosphere signalling (910) <!-- soil-bio-172 -->
-931. **Fine root** — Intermediate · Concept · Major · builds on: Root (867) <!-- soil-bio-242 -->
-932. **Nitrogen nutrition in the arbuscular mycorrhizal system** — Advanced · Process · Minor · builds on: Arbuscular mycorrhiza (887), Common mycorrhizal network (890) <!-- soil-bio-189 -->
-933. **Mutualist–parasite continuum** — Advanced · Concept · Minor · builds on: Root microbiome (882) <!-- soil-bio-152 -->
-934. **Root microbiome assembly** — Advanced · Debate · Minor · builds on: Root microbiome (882) <!-- soil-bio-153 -->
-935. **Lateral root** — Intermediate · Concept · Minor · builds on: Root (867) <!-- soil-bio-244 -->
-936. **Cluster root** — Intermediate · Concept · Minor · builds on: Root (867), Specialized root types (874), Root exudates (879) <!-- soil-bio-191 -->
-937. **Deleterious rhizobacteria** — Intermediate · Concept · Minor · builds on: Rhizobacteria (891) <!-- soil-bio-156 -->
-938. **Bradyrhizobium** — Intermediate · Concept · Minor · builds on: Rhizobia (892), Root nodule (899) <!-- soil-bio-238 -->
-939. **Rhizotron** — Intermediate · Method · Minor · builds on: Root (867), Soil profile (150) <!-- soil-bio-252 -->
-940. **Azospirillum** — Intermediate · Concept · Minor · builds on: Soil bacteria (766), Plant growth-promoting rhizobacteria (926), Rhizosphere (880) <!-- soil-bio-237 -->
-941. **Common symbiosis signaling pathway** — Advanced · Process · Minor · builds on: Arbuscular mycorrhiza (887), Rhizobia (892), Mycorrhiza (881) <!-- soil-bio-190 -->
-942. **Ectomycorrhizal exploration types** — Advanced · Classification · Minor · builds on: Ectomycorrhizal extramatrical mycelium (920) <!-- soil-bio-241 -->
-943. **Pneumatophores** — Intermediate · Concept · Minor · builds on: Root (867), Soil aeration (509), Waterlogging (396) <!-- soil-bio-199 -->
-944. **Farming practices and the mycorrhizosphere** — Intermediate · Practice · Minor · builds on: Mycorrhizosphere (928) <!-- soil-bio-248 -->
-945. **Fine root classification** — Advanced · Classification · Minor · builds on: Fine root (931), Root system architecture (872) <!-- soil-bio-243 -->
-946. **Plant-growth promoting fungi** — Intermediate · Concept · Minor · builds on: Soil fungi (768), Rhizosphere (880) <!-- soil-bio-249 -->
-947. **Rhizodeposition** — Intermediate · Process · Minor · builds on: Root (867), Root exudates (879), Rhizosphere (880) <!-- soil-bio-148 -->
-948. **Rhizosphere ecology** — Intermediate · Concept · Major · builds on: Rhizosphere (880), Rhizodeposition (947), Soil food web (760) <!-- soil-bio-144 -->
+957. **Root** — Foundational · Concept · Landmark · builds on: Soil (1) <!-- soil-bio-133 -->
+958. **Legume family (Fabaceae)** — Foundational · Concept · Minor · builds on: Root (957) <!-- soil-bio-182 -->
+959. **Taproot** — Foundational · Concept · Minor · builds on: Root (957) <!-- soil-bio-139 -->
+960. **Fibrous root system** — Foundational · Concept · Major · builds on: Root (957), Taproot (959) <!-- soil-bio-138 -->
+961. **Root growth regulation** — Intermediate · Process · Minor · builds on: Root (957) <!-- soil-bio-136 -->
+962. **Root system architecture** — Intermediate · Concept · Minor · builds on: Root (957) <!-- soil-bio-134 -->
+963. **Rooting depth** — Foundational · Concept · Major · builds on: Root (957), Root system architecture (962), Physical properties of soil (259), Soil horizon (64) <!-- soil-bio-135 -->
+964. **Specialized root types** — Intermediate · Classification · Minor · builds on: Root (957) <!-- soil-bio-137 -->
+965. **Root hair** — Intermediate · Concept · Major · builds on: Root (957) <!-- soil-bio-140 -->
+966. **Plant hormone** — Intermediate · Concept · Major · builds on: Root (957) <!-- soil-bio-245 -->
+967. **Hydraulic redistribution** — Intermediate · Process · Major · builds on: Root (957), Rooting depth (963), Taproot (959), Water potential (394) <!-- soil-bio-187 -->
+968. **Mutualism** — Foundational · Concept · Minor · builds on: Symbiosis (850) <!-- soil-bio-251 -->
+969. **Root exudates** — Intermediate · Material · Major · builds on: Root (957) <!-- soil-bio-142 -->
+970. **Rhizosphere** — Intermediate · Concept · Landmark · builds on: Root (957), Root exudates (969), Soil microbiology (827), Soil (1) <!-- soil-bio-143 -->
+971. **Mycorrhiza** — Intermediate · Concept · Landmark · builds on: Soil fungi (844), Root (957), Rhizosphere (970) <!-- soil-bio-157 -->
+972. **Root microbiome** — Intermediate · Concept · Major · builds on: Root (957), Rhizosphere (970), Soil bacteria (842), Soil fungi (844) <!-- soil-bio-151 -->
+973. **Bulk soil** — Intermediate · Concept · Major · builds on: Rhizosphere (970), Soil (1) <!-- soil-bio-149 -->
+974. **Mycorrhizal nutrient exchange** — Intermediate · Process · Major · builds on: Mycorrhiza (971) <!-- soil-bio-158 -->
+975. **Mycorrhizal stress protection** — Intermediate · Concept · Major · builds on: Mycorrhiza (971) <!-- soil-bio-161 -->
+976. **Mycorrhizal types** — Intermediate · Classification · Major · builds on: Mycorrhiza (971) <!-- soil-bio-159 -->
+977. **Arbuscular mycorrhiza** — Intermediate · Concept · Major · builds on: Mycorrhiza (971), Mycorrhizal types (976) <!-- soil-bio-166 -->
+978. **Ectomycorrhiza** — Intermediate · Concept · Major · builds on: Mycorrhiza (971), Mycorrhizal types (976), Root (957) <!-- soil-bio-173 -->
+979. **Glomeromycota** — Intermediate · Concept · Minor · builds on: Arbuscular mycorrhiza (977), Soil fungi (844) <!-- soil-bio-177 -->
+980. **Common mycorrhizal network** — Intermediate · Concept · Major · builds on: Mycorrhiza (971) <!-- soil-bio-164 -->
+981. **Rhizobacteria** — Intermediate · Concept · Major · builds on: Rhizosphere (970), Soil bacteria (842) <!-- soil-bio-154 -->
+982. **Rhizobia** — Intermediate · Concept · Landmark · builds on: Soil bacteria (842), Rhizobacteria (981), Legume family (Fabaceae) (958) <!-- soil-bio-178 -->
+983. **Endophyte** — Intermediate · Concept · Major · builds on: Root microbiome (972), Soil bacteria (842), Soil fungi (844) <!-- soil-bio-202 -->
+984. **Glomus (fungus)** — Intermediate · Concept · Minor · builds on: Arbuscular mycorrhiza (977), Glomeromycota (979) <!-- soil-bio-183 -->
+985. **Rhizophagus irregularis** — Intermediate · Concept · Minor · builds on: Arbuscular mycorrhiza (977), Glomus (fungus) (984), Microbial inoculant (853) <!-- soil-bio-184 -->
+986. **Arbuscular mycorrhizal nutrient exchange** — Intermediate · Process · Major · builds on: Arbuscular mycorrhiza (977), Mycorrhizal nutrient exchange (974) <!-- soil-bio-167 -->
+987. **Arbuscular mycorrhizae in agriculture** — Intermediate · Practice · Major · builds on: Arbuscular mycorrhiza (977), Arbuscular mycorrhizal nutrient exchange (986) <!-- soil-bio-168 -->
+988. **Siderophore** — Intermediate · Material · Major · builds on: Chelation (680), Soil microbiology (827), Rhizosphere (970) <!-- soil-bio-192 -->
+989. **Root nodule** — Intermediate · Concept · Major · builds on: Rhizobia (982), Root (957), Legume family (Fabaceae) (958), Root hair (965) <!-- soil-bio-179 -->
+990. **Root mucilage** — Intermediate · Material · Major · builds on: Root exudates (969), Root (957) <!-- soil-bio-141 -->
+991. **Ericoid mycorrhiza** — Intermediate · Concept · Minor · builds on: Mycorrhiza (971), Mycorrhizal types (976) <!-- soil-bio-176 -->
+992. **Spermosphere** — Intermediate · Concept · Minor · builds on: Rhizosphere (970), Soil microbiology (827) <!-- soil-bio-150 -->
+993. **Dual mycorrhiza** — Intermediate · Concept · Minor · builds on: Arbuscular mycorrhiza (977), Ectomycorrhiza (978), Mycorrhizal types (976) <!-- soil-bio-160 -->
+994. **History of mycorrhizal research** — Intermediate · Event · Minor · builds on: Mycorrhiza (971), Mycorrhizal types (976) <!-- soil-bio-165 -->
+995. **Mycorrhizae and climate change** — Intermediate · Concept · Minor · builds on: Mycorrhiza (971) <!-- soil-bio-163 -->
+996. **Mycorrhizae on barren soil** — Intermediate · Concept · Minor · builds on: Mycorrhiza (971) <!-- soil-bio-162 -->
+997. **Orchid mycorrhiza** — Intermediate · Concept · Minor · builds on: Mycorrhiza (971), Mycorrhizal types (976) <!-- soil-bio-186 -->
+998. **Allelopathy** — Intermediate · Process · Minor · builds on: Root exudates (969), Root (957) <!-- soil-bio-146 -->
+999. **Rhizosphere research methods** — Advanced · Method · Minor · builds on: Rhizosphere (970), Root microbiome (972), Measuring soil pH (69) <!-- soil-bio-147 -->
+1000. **Rhizosphere signalling** — Intermediate · Process · Minor · builds on: Rhizosphere (970), Root exudates (969) <!-- soil-bio-145 -->
+1001. **Hartig net** — Intermediate · Concept · Minor · builds on: Ectomycorrhiza (978) <!-- soil-bio-185 -->
+1002. **Arbuscular mycorrhizal effects on soil communities** — Advanced · Concept · Minor · builds on: Arbuscular mycorrhiza (977), Rhizosphere (970) <!-- soil-bio-170 -->
+1003. **Detecting arbuscular mycorrhizal fungi** — Advanced · Method · Minor · builds on: Arbuscular mycorrhiza (977) <!-- soil-bio-171 -->
+1004. **Mycorrhizal inoculation for land restoration** — Intermediate · Practice · Minor · builds on: Arbuscular mycorrhiza (977) <!-- soil-bio-169 -->
+1005. **Fungal endophyte defense** — Intermediate · Concept · Minor · builds on: Root microbiome (972), Soil fungi (844) <!-- soil-bio-181 -->
+1006. **Rhizobium** — Intermediate · Concept · Minor · builds on: Rhizobia (982), Root nodule (989) <!-- soil-bio-239 -->
+1007. **Ectomycorrhizae in forestry** — Intermediate · Practice · Minor · builds on: Ectomycorrhiza (978) <!-- soil-bio-175 -->
+1008. **Ectomycorrhizal tolerance of polluted soils** — Advanced · Concept · Minor · builds on: Ectomycorrhiza (978) <!-- soil-bio-174 -->
+1009. **Klebsiella oxytoca** — Intermediate · Material · Minor · builds on: Rhizosphere (970) <!-- soil-bio-322 -->
+1010. **Plant–soil feedback** — Advanced · Process · Major · builds on: Rhizosphere (970), Soil-borne pathogen (863), Allelopathy (998) <!-- soil-bio-250 -->
+1011. **Ectomycorrhizal extramatrical mycelium** — Advanced · Concept · Major · builds on: Ectomycorrhiza (978), Hypha (860), Mycelium (861) <!-- soil-bio-240 -->
+1012. **Nod factor** — Advanced · Concept · Minor · builds on: Rhizobia (982), Root nodule (989), Legume family (Fabaceae) (958) <!-- soil-bio-201 -->
+1013. **Root cap** — Foundational · Concept · Minor · builds on: Root (957) <!-- soil-bio-198 -->
+1014. **Laimosphere** — Intermediate · Concept · Minor · builds on: Rhizosphere (970), Spermosphere (992), Soil microbiology (827) <!-- soil-bio-073 -->
+1015. **Actinorhizal plant** — Intermediate · Concept · Minor · builds on: Root nodule (989), Soil actinomycetes (845) <!-- soil-bio-180 -->
+1016. **Frankia** — Intermediate · Concept · Minor · builds on: Actinorhizal plant (1015), Root nodule (989), Rhizobia (982), Soil actinomycetes (845) <!-- soil-bio-200 -->
+1017. **Plant growth-promoting rhizobacteria** — Intermediate · Concept · Major · builds on: Rhizobacteria (981), Rhizosphere (970) <!-- soil-bio-155 -->
+1018. **Disease suppressive soils** — Intermediate · Concept · Major · builds on: Rhizosphere (970), Soil-borne pathogen (863), Plant growth-promoting rhizobacteria (1017) <!-- soil-bio-188 -->
+1019. **Mycorrhizosphere** — Intermediate · Concept · Major · builds on: Mycorrhiza (971), Rhizosphere (970), Hypha (860) <!-- soil-bio-247 -->
+1020. **Mycorrhiza helper bacteria** — Intermediate · Concept · Major · builds on: Mycorrhiza (971), Ectomycorrhiza (978), Arbuscular mycorrhiza (977), Soil bacteria (842), Rhizobacteria (981) <!-- soil-bio-246 -->
+1021. **Strigolactones** — Intermediate · Material · Major · builds on: Root exudates (969), Arbuscular mycorrhiza (977), Rhizosphere signalling (1000) <!-- soil-bio-172 -->
+1022. **Fine root** — Intermediate · Concept · Major · builds on: Root (957) <!-- soil-bio-242 -->
+1023. **Nitrogen nutrition in the arbuscular mycorrhizal system** — Advanced · Process · Minor · builds on: Arbuscular mycorrhiza (977), Common mycorrhizal network (980) <!-- soil-bio-189 -->
+1024. **Mutualist–parasite continuum** — Advanced · Concept · Minor · builds on: Root microbiome (972) <!-- soil-bio-152 -->
+1025. **Root microbiome assembly** — Advanced · Debate · Minor · builds on: Root microbiome (972) <!-- soil-bio-153 -->
+1026. **Lateral root** — Intermediate · Concept · Minor · builds on: Root (957) <!-- soil-bio-244 -->
+1027. **Cluster root** — Intermediate · Concept · Minor · builds on: Root (957), Specialized root types (964), Root exudates (969) <!-- soil-bio-191 -->
+1028. **Deleterious rhizobacteria** — Intermediate · Concept · Minor · builds on: Rhizobacteria (981) <!-- soil-bio-156 -->
+1029. **Bradyrhizobium** — Intermediate · Concept · Minor · builds on: Rhizobia (982), Root nodule (989) <!-- soil-bio-238 -->
+1030. **Rhizotron** — Intermediate · Method · Minor · builds on: Root (957), Soil profile (148) <!-- soil-bio-252 -->
+1031. **Azospirillum** — Intermediate · Concept · Minor · builds on: Soil bacteria (842), Plant growth-promoting rhizobacteria (1017), Rhizosphere (970) <!-- soil-bio-237 -->
+1032. **Common symbiosis signaling pathway** — Advanced · Process · Minor · builds on: Arbuscular mycorrhiza (977), Rhizobia (982), Mycorrhiza (971) <!-- soil-bio-190 -->
+1033. **Ectomycorrhizal exploration types** — Advanced · Classification · Minor · builds on: Ectomycorrhizal extramatrical mycelium (1011) <!-- soil-bio-241 -->
+1034. **Pneumatophores** — Intermediate · Concept · Minor · builds on: Root (957), Soil aeration (545), Waterlogging (412) <!-- soil-bio-199 -->
+1035. **Farming practices and the mycorrhizosphere** — Intermediate · Practice · Minor · builds on: Mycorrhizosphere (1019) <!-- soil-bio-248 -->
+1036. **Fine root classification** — Advanced · Classification · Minor · builds on: Fine root (1022), Root system architecture (962) <!-- soil-bio-243 -->
+1037. **Plant-growth promoting fungi** — Intermediate · Concept · Minor · builds on: Soil fungi (844), Rhizosphere (970) <!-- soil-bio-249 -->
+1038. **Rhizodeposition** — Intermediate · Process · Minor · builds on: Root (957), Root exudates (969), Rhizosphere (970) <!-- soil-bio-148 -->
+1039. **Rhizosphere ecology** — Intermediate · Concept · Major · builds on: Rhizosphere (970), Rhizodeposition (1038), Soil food web (836) <!-- soil-bio-144 -->
 
 ### Organic matter, humus and decomposition
 
-949. **Plant litter** — Foundational · Material · Landmark · builds on: Soil (1), O horizon (141), Soil horizon (67) <!-- soil-bio-106 -->
-950. **Organic matter** — Foundational · Material · Major · builds on: Soil organic matter (26), Soil (1) <!-- soil-bio-114 -->
-951. **Decomposition** — Foundational · Process · Landmark · builds on: Organic matter (950), Soil organic matter (26), Plant litter (949) <!-- soil-bio-115 -->
-952. **Humus** — Foundational · Material · Landmark · builds on: Soil organic matter (26), Decomposition (951), Soil (1) <!-- soil-bio-089 -->
-953. **Detritus** — Foundational · Material · Landmark · builds on: Organic matter (950), Decomposition (951), Plant litter (949) <!-- soil-bio-112 -->
-954. **Mineralization (soil science)** — Intermediate · Process · Landmark · builds on: Decomposition (951), Organic matter (950), Redox (660) <!-- soil-bio-120 -->
-955. **Particulate organic matter** — Intermediate · Material · Major · builds on: Organic matter (950), Soil organic matter (26), Sieve analysis (253) <!-- soil-bio-118 -->
-956. **Humification** — Intermediate · Process · Major · builds on: Humus (952), Decomposition (951) <!-- soil-bio-090 -->
-957. **Humus and soil fertility** — Intermediate · Concept · Major · builds on: Humus (952), Cation-exchange capacity (641), Soil structure (249) <!-- soil-bio-094 -->
-958. **Humus stability** — Intermediate · Concept · Major · builds on: Humus (952), Decomposition (951), Soil aggregate stability (279) <!-- soil-bio-093 -->
-959. **Saprotroph** — Intermediate · Concept · Major · builds on: Decomposition (951), Detritivore (759), Soil enzyme (765), Organic matter (950) <!-- soil-bio-125 -->
-960. **Litterfall nutrient cycling** — Intermediate · Process · Major · builds on: Plant litter (949), Decomposition (951) <!-- soil-bio-107 -->
-961. **Forest floor** — Foundational · Concept · Major · builds on: Plant litter (949), Humus (952), Forest soils (17) <!-- soil-bio-126 -->
-962. **Decomposer** — Foundational · Concept · Major · builds on: Decomposition (951), Detritivore (759) <!-- soil-bio-132 -->
-963. **Humus form** — Intermediate · Classification · Major · builds on: Humus (952), Plant litter (949), Soil horizon (67) <!-- soil-bio-095 -->
-964. **Forest litter raking** — Intermediate · Practice · Minor · builds on: Plant litter (949) <!-- soil-bio-109 -->
-965. **Leaf litter habitat** — Foundational · Concept · Minor · builds on: Plant litter (949), Decomposer (962) <!-- soil-bio-110 -->
-966. **Litterbag** — Intermediate · Method · Minor · builds on: Plant litter (949), Decomposition (951) <!-- soil-bio-108 -->
-967. **Mangrove litterfall** — Intermediate · Process · Minor · builds on: Plant litter (949), Detritivore (759) <!-- soil-bio-111 -->
-968. **Lignin** — Intermediate · Material · Minor · builds on: Organic matter (950), Decomposition (951) <!-- soil-bio-116 -->
-969. **Humus composition** — Advanced · Concept · Major · builds on: Humus (952), Humification (956), Lignin (968) <!-- soil-bio-091 -->
-970. **Detritus food chain** — Intermediate · Process · Minor · builds on: Detritus (953), Detritivore (759), Soil microbiology (751) <!-- soil-bio-113 -->
-971. **Priming effect** — Advanced · Process · Major · builds on: Decomposition (951), Soil organic matter (26), Mineralization (soil science) (954) <!-- soil-bio-117 -->
-972. **Hydrogen cycle** — Advanced · Process · Minor · builds on: Redox (660), Bacterial metabolic types (778), Organic matter (950) <!-- soil-bio-130 -->
-973. **Mull humus** — Intermediate · Concept · Major · builds on: Humus form (963), Earthworm (758), A horizon (142) <!-- soil-bio-096 -->
-974. **Glomalin** — Intermediate · Material · Minor · builds on: Arbuscular mycorrhiza (887), Soil aggregate stability (279) <!-- soil-bio-121 -->
-975. **Mor humus** — Intermediate · Concept · Major · builds on: Humus form (963), Plant litter (949), Decomposition (951) <!-- soil-bio-104 -->
-976. **Kerogen** — Advanced · Material · Minor · builds on: Organic matter (950) <!-- soil-bio-131 -->
-977. **Humin** — Intermediate · Material · Minor · builds on: Humic substance (616), Soil organic matter (26), Humus (952) <!-- soil-bio-105 -->
-978. **Moder humus** — Intermediate · Concept · Major · builds on: Humus form (963), Mull humus (973), Mor humus (975), Soil mesofauna (789) <!-- soil-bio-103 -->
-979. **Soil organic matter fractions** — Intermediate · Classification · Minor · builds on: Soil organic matter (26), Particulate organic matter (955), Decomposition (951) <!-- soil-bio-119 -->
-980. **Dissolved organic matter** — Intermediate · Material · Minor · builds on: Organic matter (950), Soil organic matter fractions (979) <!-- soil-bio-128 -->
-981. **Humus form change** — Advanced · Concept · Major · builds on: Humus form (963), Mull humus (973), Moder humus (978), Mor humus (975) <!-- soil-bio-102 -->
-982. **Humus form diagnostic horizons** — Intermediate · Classification · Major · builds on: Humus form (963), Soil horizon (67), Decomposition (951) <!-- soil-bio-100 -->
-983. **Coarse woody debris** — Intermediate · Material · Minor · builds on: Plant litter (949), Decomposition (951) <!-- soil-bio-197 -->
-984. **Leaf mold** — Foundational · Material · Minor · builds on: Plant litter (949), Decomposition (951), Soil fungi (768) <!-- soil-bio-196 -->
-985. **Hemicellulose** — Intermediate · Material · Minor · builds on: Plant litter (949), Decomposition (951) <!-- soil-bio-232 -->
-986. **Amphi humus** — Intermediate · Concept · Minor · builds on: Mull humus (973), Moder humus (978) <!-- soil-bio-097 -->
-987. **HUMUSICA** — Advanced · Classification · Minor · builds on: Humus form (963), Humus form diagnostic horizons (982) <!-- soil-bio-099 -->
-988. **Tangel humus** — Intermediate · Concept · Minor · builds on: Humus form (963), Mor humus (975) <!-- soil-bio-098 -->
-989. **Glomalin controversy** — Advanced · Debate · Minor · builds on: Glomalin (974), Humic substance (616) <!-- soil-bio-122 -->
-990. **Photodegradation** — Intermediate · Process · Minor · builds on: Decomposition (951), Plant litter (949), Dissolved organic matter (980) <!-- soil-bio-236 -->
-991. **Canopy soils** — Intermediate · Material · Minor · builds on: Organic matter (950), Plant litter (949) <!-- soil-bio-123 -->
-992. **Cutin** — Intermediate · Material · Minor · builds on: Plant litter (949) <!-- soil-bio-233 -->
-993. **Humus Index** — Advanced · Method · Minor · builds on: Humus form (963), Mull humus (973), Moder humus (978), Mor humus (975) <!-- soil-bio-101 -->
-994. **Suberin** — Intermediate · Material · Minor · builds on: Plant litter (949), Cutin (992) <!-- soil-bio-234 -->
-995. **Litter quality** — Intermediate · Concept · Major · builds on: Plant litter (949), Decomposition (951), Lignin (968), Humus form (963) <!-- soil-bio-127 -->
-996. **Microbial necromass** — Advanced · Material · Major · builds on: Soil microbiology (751), Soil organic matter (26), Decomposition (951) <!-- soil-bio-230 -->
-997. **Soil continuum model** — Advanced · Debate · Major · builds on: Humus (952), Humification (956), Humic substance (616) <!-- soil-bio-092 -->
-998. **Canopy soil nitrogen cycling** — Advanced · Process · Minor · builds on: Canopy soils (991) <!-- soil-bio-124 -->
-999. **Saprophagy** — Intermediate · Process · Minor · builds on: Decomposition (951), Detritivore (759), Saprotroph (959), Plant litter (949) <!-- soil-bio-235 -->
-1000. **White-rot fungi** — Intermediate · Concept · Minor · builds on: Soil fungi (768), Lignin (968), Saprotroph (959) <!-- soil-bio-129 -->
+1040. **Plant litter** — Foundational · Material · Landmark · builds on: Soil (1), O horizon (139), Soil horizon (64) <!-- soil-bio-106 -->
+1041. **Forest litter raking** — Intermediate · Practice · Minor · builds on: Plant litter (1040) <!-- soil-bio-109 -->
+1042. **Mangrove litterfall** — Intermediate · Process · Minor · builds on: Plant litter (1040), Detritivore (835) <!-- soil-bio-111 -->
+1043. **Glomalin** — Intermediate · Material · Minor · builds on: Arbuscular mycorrhiza (977), Soil aggregate stability (271) <!-- soil-bio-121 -->
+1044. **Epiphyte** — Foundational · Concept · Minor <!-- soil-bio-321 -->
+1045. **Soil organic matter** — Foundational · Concept · Landmark · builds on: Soil (1), Soil composition (6), Soil biology (826) <!-- soil-found-045 -->
+1046. **Organic matter** — Foundational · Material · Major · builds on: Soil organic matter (1045), Soil (1) <!-- soil-bio-114 -->
+1047. **Decomposition** — Foundational · Process · Landmark · builds on: Organic matter (1046), Soil organic matter (1045), Plant litter (1040) <!-- soil-bio-115 -->
+1048. **Humus** — Foundational · Material · Landmark · builds on: Soil organic matter (1045), Decomposition (1047), Soil (1) <!-- soil-bio-089 -->
+1049. **Detritus** — Foundational · Material · Landmark · builds on: Organic matter (1046), Decomposition (1047), Plant litter (1040) <!-- soil-bio-112 -->
+1050. **Mineralization (soil science)** — Intermediate · Process · Landmark · builds on: Decomposition (1047), Organic matter (1046), Redox (725) <!-- soil-bio-120 -->
+1051. **Particulate organic matter** — Intermediate · Material · Major · builds on: Organic matter (1046), Soil organic matter (1045), Sieve analysis (264) <!-- soil-bio-118 -->
+1052. **Humification** — Intermediate · Process · Major · builds on: Humus (1048), Decomposition (1047) <!-- soil-bio-090 -->
+1053. **Humus and soil fertility** — Intermediate · Concept · Major · builds on: Humus (1048), Cation-exchange capacity (705), Soil structure (260) <!-- soil-bio-094 -->
+1054. **Humus stability** — Intermediate · Concept · Major · builds on: Humus (1048), Decomposition (1047), Soil aggregate stability (271) <!-- soil-bio-093 -->
+1055. **Saprotroph** — Intermediate · Concept · Major · builds on: Decomposition (1047), Detritivore (835), Soil enzyme (841), Organic matter (1046) <!-- soil-bio-125 -->
+1056. **Litterfall nutrient cycling** — Intermediate · Process · Major · builds on: Plant litter (1040), Decomposition (1047) <!-- soil-bio-107 -->
+1057. **Forest floor** — Foundational · Concept · Major · builds on: Plant litter (1040), Humus (1048), Forest soils (16) <!-- soil-bio-126 -->
+1058. **Climate and organic matter accumulation** — Intermediate · Concept · Major · builds on: Soil organic matter (1045) <!-- soil-found-050 -->
+1059. **Soil organic matter in the carbon cycle** — Intermediate · Concept · Major · builds on: Soil organic matter (1045) <!-- soil-found-049 -->
+1060. **Decomposer** — Foundational · Concept · Major · builds on: Decomposition (1047), Detritivore (835) <!-- soil-bio-132 -->
+1061. **Humus form** — Intermediate · Classification · Major · builds on: Humus (1048), Plant litter (1040), Soil horizon (64) <!-- soil-bio-095 -->
+1062. **Leaf litter habitat** — Foundational · Concept · Minor · builds on: Plant litter (1040), Decomposer (1060) <!-- soil-bio-110 -->
+1063. **Litterbag** — Intermediate · Method · Minor · builds on: Plant litter (1040), Decomposition (1047) <!-- soil-bio-108 -->
+1064. **Lignin** — Intermediate · Material · Minor · builds on: Organic matter (1046), Decomposition (1047) <!-- soil-bio-116 -->
+1065. **Humus composition** — Advanced · Concept · Major · builds on: Humus (1048), Humification (1052), Lignin (1064) <!-- soil-bio-091 -->
+1066. **Detritus food chain** — Intermediate · Process · Minor · builds on: Detritus (1049), Detritivore (835), Soil microbiology (827) <!-- soil-bio-113 -->
+1067. **Polysaccharide** — Intermediate · Concept · Major · builds on: Decomposition (1047), Fungus (851) <!-- soil-bio-284 -->
+1068. **Priming effect** — Advanced · Process · Major · builds on: Decomposition (1047), Soil organic matter (1045), Mineralization (soil science) (1050) <!-- soil-bio-117 -->
+1069. **Hydrogen cycle** — Advanced · Process · Minor · builds on: Redox (725), Bacterial metabolic types (855), Organic matter (1046) <!-- soil-bio-130 -->
+1070. **Mull humus** — Intermediate · Concept · Major · builds on: Humus form (1061), Earthworm (834), A horizon (140) <!-- soil-bio-096 -->
+1071. **Mor humus** — Intermediate · Concept · Major · builds on: Humus form (1061), Plant litter (1040), Decomposition (1047) <!-- soil-bio-104 -->
+1072. **Kerogen** — Advanced · Material · Minor · builds on: Organic matter (1046) <!-- soil-bio-131 -->
+1073. **Humin** — Intermediate · Material · Minor · builds on: Humic substance (679), Soil organic matter (1045), Humus (1048) <!-- soil-bio-105 -->
+1074. **Moder humus** — Intermediate · Concept · Major · builds on: Humus form (1061), Mull humus (1070), Mor humus (1071), Soil mesofauna (866) <!-- soil-bio-103 -->
+1075. **Soil organic matter fractions** — Intermediate · Classification · Minor · builds on: Soil organic matter (1045), Particulate organic matter (1051), Decomposition (1047) <!-- soil-bio-119 -->
+1076. **Dissolved organic matter** — Intermediate · Material · Minor · builds on: Organic matter (1046), Soil organic matter fractions (1075) <!-- soil-bio-128 -->
+1077. **Humus form change** — Advanced · Concept · Major · builds on: Humus form (1061), Mull humus (1070), Moder humus (1074), Mor humus (1071) <!-- soil-bio-102 -->
+1078. **Humus form diagnostic horizons** — Intermediate · Classification · Major · builds on: Humus form (1061), Soil horizon (64), Decomposition (1047) <!-- soil-bio-100 -->
+1079. **Coarse woody debris** — Intermediate · Material · Minor · builds on: Plant litter (1040), Decomposition (1047) <!-- soil-bio-197 -->
+1080. **Leaf mold** — Foundational · Material · Minor · builds on: Plant litter (1040), Decomposition (1047), Soil fungi (844) <!-- soil-bio-196 -->
+1081. **Canopy soils** — Intermediate · Material · Minor · builds on: Organic matter (1046), Plant litter (1040) <!-- soil-bio-123 -->
+1082. **Hemicellulose** — Intermediate · Material · Minor · builds on: Plant litter (1040), Decomposition (1047) <!-- soil-bio-232 -->
+1083. **Amphi humus** — Intermediate · Concept · Minor · builds on: Mull humus (1070), Moder humus (1074) <!-- soil-bio-097 -->
+1084. **HUMUSICA** — Advanced · Classification · Minor · builds on: Humus form (1061), Humus form diagnostic horizons (1078) <!-- soil-bio-099 -->
+1085. **Tangel humus** — Intermediate · Concept · Minor · builds on: Humus form (1061), Mor humus (1071) <!-- soil-bio-098 -->
+1086. **Glomalin controversy** — Advanced · Debate · Minor · builds on: Glomalin (1043), Humic substance (679) <!-- soil-bio-122 -->
+1087. **Photodegradation** — Intermediate · Process · Minor · builds on: Decomposition (1047), Plant litter (1040), Dissolved organic matter (1076) <!-- soil-bio-236 -->
+1088. **Cutin** — Intermediate · Material · Minor · builds on: Plant litter (1040) <!-- soil-bio-233 -->
+1089. **Organic matter and nutrient supply** — Intermediate · Concept · Major · builds on: Soil organic matter (1045), Humus (1048), Soil pH (63) <!-- soil-bio-285 -->
+1090. **Living, active and passive organic matter** — Intermediate · Classification · Major · builds on: Soil organic matter (1045) <!-- soil-bio-300 -->
+1091. **Humus Index** — Advanced · Method · Minor · builds on: Humus form (1061), Mull humus (1070), Moder humus (1074), Mor humus (1071) <!-- soil-bio-101 -->
+1092. **Canopy soil nitrogen cycling** — Advanced · Process · Minor · builds on: Canopy soils (1081) <!-- soil-bio-124 -->
+1093. **Soil organic matter protection** — Intermediate · Process · Major · builds on: Soil organic matter (1045) <!-- soil-bio-293 -->
+1094. **Residue characteristics and soil effects** — Intermediate · Concept · Major · builds on: Soil organic matter (1045), Lignin (1064) <!-- soil-bio-309 -->
+1095. **Organic matter saturation and build-up** — Advanced · Process · Major · builds on: Soil organic matter protection (1093), Living, active and passive organic matter (1090) <!-- soil-bio-304 -->
+1096. **Organic matter equilibrium model** — Advanced · Method · Major · builds on: Organic matter saturation and build-up (1095) <!-- soil-bio-306 -->
+1097. **Mineral protection of organic matter** — Advanced · Process · Major · builds on: Clay mineral (617), Soil organic matter protection (1093) <!-- soil-bio-316 -->
+1098. **Soil organic matter and the nitrogen cycle** — Intermediate · Concept · Major · builds on: Soil organic matter (1045) <!-- soil-bio-286 -->
+1099. **Suberin** — Intermediate · Material · Minor · builds on: Plant litter (1040), Cutin (1088) <!-- soil-bio-234 -->
+1100. **Litter quality** — Intermediate · Concept · Major · builds on: Plant litter (1040), Decomposition (1047), Lignin (1064), Humus form (1061) <!-- soil-bio-127 -->
+1101. **Microbial necromass** — Advanced · Material · Major · builds on: Soil microbiology (827), Soil organic matter (1045), Decomposition (1047) <!-- soil-bio-230 -->
+1102. **Soil continuum model** — Advanced · Debate · Major · builds on: Humus (1048), Humification (1052), Humic substance (679) <!-- soil-bio-092 -->
+1103. **Rethinking soil organic matter** — Advanced · Concept · Minor · builds on: Soil organic matter (1045), Humification (1052), Soil continuum model (1102), Humification debate (701) <!-- soil-hist-034 -->
+1104. **Soil organic matter balance** — Foundational · Concept · Minor · builds on: Soil organic matter (1045) <!-- soil-bio-294 -->
+1105. **Organic matter loss after cropland conversion** — Intermediate · Process · Major · builds on: Soil organic matter balance (1104) <!-- soil-bio-295 -->
+1106. **Managing organic matter turnover** — Intermediate · Practice · Major · builds on: Soil organic matter balance (1104) <!-- soil-bio-307 -->
+1107. **Living soil organisms and management** — Intermediate · Concept · Minor · builds on: Soil organic matter (1045) <!-- soil-bio-301 -->
+1108. **How much organic matter is enough** — Advanced · Concept · Minor · builds on: Soil organic matter (1045), Soil texture (47) <!-- soil-bio-302 -->
+1109. **Organic matter in cropping systems** — Intermediate · Concept · Minor · builds on: Soil organic matter balance (1104) <!-- soil-bio-303 -->
+1110. **Soil health management practice groups** — Foundational · Practice · Minor · builds on: Soil health (10) <!-- soil-bio-308 -->
+1111. **Organic matter and nutrient management** — Intermediate · Concept · Minor · builds on: Soil organic matter (1045) <!-- soil-bio-313 -->
+1112. **Crop rotation and soil organic matter** — Intermediate · Practice · Minor · builds on: Soil organic matter balance (1104) <!-- soil-bio-297 -->
+1113. **Erosion and soil organic matter** — Intermediate · Process · Minor · builds on: Soil organic matter (1045) <!-- soil-bio-296 -->
+1114. **Organic amendments and soil organic matter** — Intermediate · Practice · Minor <!-- soil-bio-298 -->
+1115. **Crop residue removal for fuel** — Intermediate · Debate · Minor <!-- soil-bio-310 -->
+1116. **Crop-livestock integration and soil organic matter** — Intermediate · Practice · Minor <!-- soil-bio-312 -->
+1117. **Practices promoting water infiltration** — Intermediate · Practice · Minor · builds on: Infiltration (388) <!-- soil-bio-311 -->
+1118. **Organic matter needed to raise soil organic matter** — Advanced · Method · Minor · builds on: Soil organic matter (1045) <!-- soil-bio-305 -->
+1119. **Acidity and organic matter accumulation** — Intermediate · Concept · Minor · builds on: Soil pH (63) <!-- soil-bio-291 -->
+1120. **Afforestation and soil carbon** — Advanced · Process · Minor <!-- soil-bio-314 -->
+1121. **Aggregates and organic matter requirement** — Intermediate · Concept · Minor · builds on: Soil organic matter (1045) <!-- soil-bio-299 -->
+1122. **Carbonate interference in carbon analysis** — Advanced · Concept · Minor <!-- soil-bio-320 -->
+1123. **Drainage, landscape position and organic matter** — Intermediate · Concept · Minor · builds on: Soil organic matter (1045) <!-- soil-bio-289 -->
+1124. **Dry combustion carbon analysis** — Advanced · Method · Minor <!-- soil-bio-317 -->
+1125. **Energetics of organic matter degradation** — Advanced · Process · Minor · builds on: Decomposition (1047) <!-- soil-bio-315 -->
+1126. **Root and aboveground residue contributions** — Intermediate · Concept · Minor · builds on: Particulate organic matter (1051), Lignin (1064) <!-- soil-bio-292 -->
+1127. **Soil organic matter and the water cycle** — Intermediate · Concept · Minor · builds on: Soil organic matter (1045) <!-- soil-bio-287 -->
+1128. **Soil organic matter to carbon conversion** — Intermediate · Method · Minor <!-- soil-bio-319 -->
+1129. **Soil texture and organic matter** — Intermediate · Concept · Minor · builds on: Soil texture (47), Soil organic matter (1045) <!-- soil-bio-288 -->
+1130. **Vegetation type and soil organic matter** — Intermediate · Concept · Minor · builds on: Soil organic matter (1045) <!-- soil-bio-290 -->
+1131. **Walkley-Black wet oxidation** — Advanced · Method · Minor <!-- soil-bio-318 -->
+1132. **Saprophagy** — Intermediate · Process · Minor · builds on: Decomposition (1047), Detritivore (835), Saprotroph (1055), Plant litter (1040) <!-- soil-bio-235 -->
+1133. **White-rot fungi** — Intermediate · Concept · Minor · builds on: Soil fungi (844), Lignin (1064), Saprotroph (1055) <!-- soil-bio-129 -->
 
 ### Soil biochemistry
 
-1001. **Exoenzyme** — Intermediate · Concept · Major · builds on: Soil enzyme (765), Decomposition (951) <!-- soil-bio-253 -->
-1002. **Fungal extracellular enzyme activity** — Advanced · Process · Major · builds on: Exoenzyme (1001), Soil fungi (768), Lignin (968), Plant litter (949), Soil enzyme (765) <!-- soil-bio-254 -->
-1003. **Amplicon** — Advanced · Concept · Minor · builds on: Soil microbiology (751) <!-- soil-bio-261 -->
-1004. **Metabarcoding** — Advanced · Method · Minor · builds on: Amplicon (1003), Soil microbiology (751) <!-- soil-bio-262 -->
-1005. **Lignin peroxidase** — Advanced · Material · Minor · builds on: Lignin (968), Exoenzyme (1001) <!-- soil-bio-258 -->
-1006. **Michaelis–Menten kinetics** — Advanced · Concept · Minor · builds on: Soil enzyme (765), Exoenzyme (1001) <!-- soil-bio-265 -->
-1007. **Manganese peroxidase** — Advanced · Material · Minor · builds on: Lignin (968), Exoenzyme (1001), Oxidation state (673) <!-- soil-bio-259 -->
-1008. **Amino sugar** — Intermediate · Material · Minor · builds on: Decomposition (951) <!-- soil-bio-260 -->
-1009. **Acid phosphatase** — Intermediate · Material · Minor · builds on: Soil enzyme (765), Soil pH (66) <!-- soil-bio-256 -->
-1010. **Microbial biomass** — Intermediate · Material · Major · builds on: Soil microbiology (751), Soil organic matter (26) <!-- soil-bio-269 -->
-1011. **Ecological stoichiometry** — Advanced · Concept · Major <!-- soil-bio-264 -->
-1012. **Β-Glucosidase** — Intermediate · Material · Minor · builds on: Soil enzyme (765), Decomposition (951) <!-- soil-bio-257 -->
-1013. **Soil enzyme assays** — Advanced · Method · Minor · builds on: Soil enzyme (765), Exoenzyme (1001), Fungal extracellular enzyme activity (1002) <!-- soil-bio-255 -->
-1014. **Microbial carbon use efficiency** — Advanced · Concept · Minor · builds on: Microbial biomass (1010), Soil respiration (761), Copiotroph (841) <!-- soil-bio-270 -->
-1015. **Microbial carbon pump** — Advanced · Concept · Minor · builds on: Dissolved organic matter (980), Soil microbiology (751), Soil microbial loop (796) <!-- soil-bio-266 -->
-1016. **Stable-isotope probing** — Advanced · Method · Minor · builds on: Soil microbiology (751), Microbial ecology (831), Amplicon (1003) <!-- soil-bio-263 -->
-1017. **Q10 (temperature coefficient)** — Advanced · Concept · Minor · builds on: Soil respiration (761) <!-- soil-bio-267 -->
-1018. **Resistome** — Advanced · Concept · Minor · builds on: Soil bacteria (766), Soil microbiology (751) <!-- soil-bio-268 -->
+1134. **Exoenzyme** — Intermediate · Concept · Major · builds on: Soil enzyme (841), Decomposition (1047) <!-- soil-bio-253 -->
+1135. **Fungal extracellular enzyme activity** — Advanced · Process · Major · builds on: Exoenzyme (1134), Soil fungi (844), Lignin (1064), Plant litter (1040), Soil enzyme (841) <!-- soil-bio-254 -->
+1136. **Amplicon** — Advanced · Concept · Minor · builds on: Soil microbiology (827) <!-- soil-bio-261 -->
+1137. **Metabarcoding** — Advanced · Method · Minor · builds on: Amplicon (1136), Soil microbiology (827) <!-- soil-bio-262 -->
+1138. **Lignin peroxidase** — Advanced · Material · Minor · builds on: Lignin (1064), Exoenzyme (1134) <!-- soil-bio-258 -->
+1139. **Michaelis–Menten kinetics** — Advanced · Concept · Minor · builds on: Soil enzyme (841), Exoenzyme (1134) <!-- soil-bio-265 -->
+1140. **Manganese peroxidase** — Advanced · Material · Minor · builds on: Lignin (1064), Exoenzyme (1134), Oxidation state (733) <!-- soil-bio-259 -->
+1141. **Amino sugar** — Intermediate · Material · Minor · builds on: Decomposition (1047) <!-- soil-bio-260 -->
+1142. **Acid phosphatase** — Intermediate · Material · Minor · builds on: Soil enzyme (841), Soil pH (63) <!-- soil-bio-256 -->
+1143. **Microbial biomass** — Intermediate · Material · Major · builds on: Soil microbiology (827), Soil organic matter (1045) <!-- soil-bio-269 -->
+1144. **Ecological stoichiometry** — Advanced · Concept · Major <!-- soil-bio-264 -->
+1145. **Isotope-ratio mass spectrometry** — Advanced · Method · Minor <!-- soil-bio-324 -->
+1146. **Stable-isotope probing** — Advanced · Method · Minor · builds on: Soil microbiology (827), Microbial ecology (910), Amplicon (1136) <!-- soil-bio-263 -->
+1147. **Β-Glucosidase** — Intermediate · Material · Minor · builds on: Soil enzyme (841), Decomposition (1047) <!-- soil-bio-257 -->
+1148. **Soil enzyme assays** — Advanced · Method · Minor · builds on: Soil enzyme (841), Exoenzyme (1134), Fungal extracellular enzyme activity (1135) <!-- soil-bio-255 -->
+1149. **Accelerator mass spectrometry** — Advanced · Method · Minor · builds on: Isotope-ratio mass spectrometry (1145) <!-- soil-bio-325 -->
+1150. **Isotope dilution** — Advanced · Method · Minor <!-- soil-bio-323 -->
+1151. **Microbial carbon use efficiency** — Advanced · Concept · Minor · builds on: Microbial biomass (1143), Soil respiration (837), Copiotroph (922) <!-- soil-bio-270 -->
+1152. **Microbial carbon pump** — Advanced · Concept · Minor · builds on: Dissolved organic matter (1076), Soil microbiology (827), Soil microbial loop (874) <!-- soil-bio-266 -->
+1153. **Q10 (temperature coefficient)** — Advanced · Concept · Minor · builds on: Soil respiration (837) <!-- soil-bio-267 -->
+1154. **Resistome** — Advanced · Concept · Minor · builds on: Soil bacteria (842), Soil microbiology (827) <!-- soil-bio-268 -->
 
 ## Classification and taxonomy
 
 
 ### Classification systems
 
-1019. **Soil classification** — Foundational · Concept · Landmark · builds on: Soil (1), Soil horizon (67), Soil formation (184), Soil texture (50) <!-- soil-class-001 -->
-1020. **World Reference Base for Soil Resources** — Intermediate · Classification · Landmark · builds on: Soil classification (1019), Soil horizon (67), Diagnostic horizon (140), Soil morphology (139) <!-- soil-class-016 -->
-1021. **Soil type** — Foundational · Concept · Major · builds on: Soil classification (1019), Soil horizon (67), Soil formation (184) <!-- soil-class-005 -->
-1022. **USDA soil taxonomy** — Intermediate · Classification · Landmark · builds on: Soil classification (1019), Soil type (1021), Soil horizon (67), Diagnostic horizon (140) <!-- soil-class-006 -->
-1023. **FAO soil classification** — Intermediate · Classification · Major · builds on: Soil classification (1019), Soil-forming factors (186), Soil formation (184) <!-- soil-class-021 -->
-1024. **Canadian system of soil classification** — Intermediate · Classification · Major · builds on: Soil classification (1019), USDA soil taxonomy (1022), Soil horizon (67) <!-- soil-class-023 -->
-1025. **Australian Soil Classification** — Intermediate · Classification · Major · builds on: Soil classification (1019), Soil horizon (67) <!-- soil-class-022 -->
-1026. **Engineering soil classification** — Intermediate · Classification · Major · builds on: Soil classification (1019), Soil mechanics (300), Grain size (235), Atterberg limits (262) <!-- soil-class-002 -->
-1027. **Natural and technical classification** — Intermediate · Concept · Major · builds on: Soil classification (1019), Soil formation (184), Soil morphology (139) <!-- soil-class-003 -->
-1028. **Soil moisture regime** — Intermediate · Classification · Major · builds on: USDA soil taxonomy (1022), Soil moisture (371) <!-- soil-class-011 -->
-1029. **1938 USDA soil taxonomy** — Intermediate · Classification · Major · builds on: Soil classification (1019), Soil-forming factors (186), Soil formation (184) <!-- soil-class-012 -->
-1030. **OSHA soil classification** — Intermediate · Classification · Minor · builds on: Soil classification (1019), Shear strength (soil) (310), Cohesion (geology) (312) <!-- soil-class-004 -->
-1031. **WRB diagnostics** — Intermediate · Concept · Major · builds on: World Reference Base for Soil Resources (1020), Diagnostic horizon (140), Soil horizon (67) <!-- soil-class-017 -->
-1032. **Reference Soil Groups** — Intermediate · Classification · Major · builds on: World Reference Base for Soil Resources (1020), WRB diagnostics (1031) <!-- soil-class-020 -->
-1033. **Vineyard soils** — Foundational · Concept · Minor · builds on: Soil texture (50), Soil pH (66), Topsoil (137), Drainage (372) <!-- soil-class-039 -->
-1034. **Soil temperature regime** — Intermediate · Classification · Minor · builds on: USDA soil taxonomy (1022), Soil temperature (507), Soil thermal properties (514) <!-- soil-class-010 -->
-1035. **USDA suborders and great groups** — Intermediate · Classification · Minor · builds on: USDA soil taxonomy (1022), Soil moisture regime (1028), Soil temperature regime (1034), Soil horizon (67) <!-- soil-class-007 -->
-1036. **USDA soil subgroups** — Advanced · Classification · Minor · builds on: USDA suborders and great groups (1035) <!-- soil-class-008 -->
-1037. **USDA soil family** — Intermediate · Classification · Minor · builds on: USDA soil subgroups (1036), Soil texture (50), Soil temperature regime (1034) <!-- soil-class-009 -->
-1038. **Soil series** — Intermediate · Classification · Major · builds on: USDA soil family (1037), USDA soil taxonomy (1022), Pedon (181), Soil horizon (67) <!-- soil-class-037 -->
-1039. **State soil** — Foundational · Concept · Minor · builds on: Soil series (1038) <!-- soil-class-038 -->
-1040. **Udic moisture regime** — Intermediate · Classification · Minor · builds on: Soil (1), USDA soil taxonomy (1022) <!-- soil-found-101 -->
-1041. **AASHTO Soil Classification System** — Intermediate · Classification · Minor · builds on: Engineering soil classification (1026), Sieve analysis (253), Atterberg limits (262) <!-- soil-class-036 -->
-1042. **Naming a soil with the WRB** — Advanced · Method · Minor · builds on: World Reference Base for Soil Resources (1020), WRB diagnostics (1031), Reference Soil Groups (1032) <!-- soil-class-018 -->
-1043. **WRB map legends** — Advanced · Method · Minor · builds on: Naming a soil with the WRB (1042), Reference Soil Groups (1032) <!-- soil-class-019 -->
-1044. **Argillic** — Intermediate · Concept · Major · builds on: Illuviation (147), Clay (49), Diagnostic horizon (140), USDA soil taxonomy (1022), Soil horizon (67) <!-- soil-class-045 -->
-1045. **Ranker (soil)** — Intermediate · Classification · Minor · builds on: Soil horizon (67), Parent material (110), Soil classification (1019) <!-- soil-class-040 -->
-1046. **Ustic** — Intermediate · Classification · Minor · builds on: Soil moisture regime (1028) <!-- soil-class-041 -->
-1047. **Polish Soil Classification** — Intermediate · Classification · Minor · builds on: Soil classification (1019), Soil horizon (67), WRB diagnostics (1031) <!-- soil-class-034 -->
-1048. **Miami (soil)** — Intermediate · Classification · Minor · builds on: Soil series (1038), State soil (1039), Glacial till (115), Loam (243), USDA soil family (1037) <!-- soil-class-043 -->
-1049. **Pedalfer** — Intermediate · Classification · Minor · builds on: 1938 USDA soil taxonomy (1029), Sesquioxide (199), Leaching (pedology) (185) <!-- soil-class-042 -->
-1050. **Brunisolic order** — Intermediate · Classification · Minor · builds on: Canadian system of soil classification (1024), B horizon (148) <!-- soil-class-032 -->
-1051. **Canadian Organic order** — Intermediate · Classification · Minor · builds on: Canadian system of soil classification (1024), Soil organic matter (26), Organic matter (950) <!-- soil-class-025 -->
-1052. **Chernozemic order** — Intermediate · Classification · Minor · builds on: Canadian system of soil classification (1024), A horizon (142), Soil organic matter (26) <!-- soil-class-030 -->
-1053. **Cryosolic order** — Intermediate · Classification · Minor · builds on: Canadian system of soil classification (1024), Permafrost (515), Cryoturbation (146) <!-- soil-class-024 -->
-1054. **Gleysolic order** — Intermediate · Classification · Minor · builds on: Canadian system of soil classification (1024), Gleying (84), Reduction in waterlogged soils (678) <!-- soil-class-028 -->
-1055. **Luvisolic order** — Intermediate · Classification · Minor · builds on: Canadian system of soil classification (1024), E horizon (144), Illuviation (147), Lessivage (218) <!-- soil-class-031 -->
-1056. **Podzolic order** — Intermediate · Classification · Minor · builds on: Canadian system of soil classification (1024), B horizon (148), Podzolisation (201) <!-- soil-class-027 -->
-1057. **Regosolic order** — Intermediate · Classification · Minor · builds on: Canadian system of soil classification (1024), Parent material (110) <!-- soil-class-033 -->
-1058. **Solonetzic order** — Intermediate · Classification · Minor · builds on: Canadian system of soil classification (1024), B horizon (148), Sodic soil (701) <!-- soil-class-029 -->
-1059. **Vertisolic order** — Intermediate · Classification · Minor · builds on: Canadian system of soil classification (1024), Shrink–swell capacity (247), Clay (49) <!-- soil-class-026 -->
-1060. **Anthroposol** — Intermediate · Classification · Minor · builds on: Soil horizon (67), Soil classification (1019) <!-- soil-class-044 -->
-1061. **Kurosol** — Intermediate · Classification · Minor · builds on: Soil texture (50), Clay (49), Soil pH (66), Australian Soil Classification (1025), Soil horizon (67) <!-- soil-found-070 -->
-1062. **Référentiel pédologique** — Intermediate · Classification · Minor · builds on: Soil classification (1019), Natural and technical classification (1027), Soil formation (184) <!-- soil-class-035 -->
-1063. **Greyzem** — Advanced · Classification · Minor · builds on: FAO soil classification (1023) <!-- soil-class-047 -->
-1064. **Handbook of Australian Soils** — Intermediate · Classification · Minor · builds on: Soil classification (1019) <!-- soil-class-046 -->
-1065. **Aquic conditions** — Intermediate · Classification · Minor · builds on: Soil moisture regime (1028), Degree of saturation (424), Redoximorphic features (662) <!-- soil-class-155 -->
-1066. **Aridic moisture regime** — Intermediate · Classification · Minor · builds on: Soil moisture regime (1028) <!-- soil-class-154 -->
-1067. **ISO 14688** — Intermediate · Classification · Minor · builds on: Engineering soil classification (1026), Grain size (235) <!-- soil-class-152 -->
-1068. **Xeric moisture regime** — Intermediate · Classification · Minor · builds on: Soil moisture regime (1028) <!-- soil-class-153 -->
-1069. **Zonal soil** — Intermediate · Classification · Minor · builds on: 1938 USDA soil taxonomy (1029), Climate as a soil-forming factor (188) <!-- soil-class-015 -->
-1070. **Azonal soil** — Intermediate · Classification · Minor · builds on: 1938 USDA soil taxonomy (1029), Zonal soil (1069), Time as a soil-forming factor (190), Soil formation (184) <!-- soil-class-014 -->
-1071. **Intrazonal soil** — Intermediate · Classification · Minor · builds on: 1938 USDA soil taxonomy (1029), Zonal soil (1069), Parent material (110), Topography as a soil-forming factor (191) <!-- soil-class-013 -->
+1155. **Soil classification** — Foundational · Concept · Landmark · builds on: Soil (1), Soil horizon (64), Soil formation (182), Soil texture (47) <!-- soil-class-001 -->
+1156. **World Reference Base for Soil Resources** — Intermediate · Classification · Landmark · builds on: Soil classification (1155), Soil horizon (64), Diagnostic horizon (138), Soil morphology (137) <!-- soil-class-016 -->
+1157. **Soil type** — Foundational · Concept · Major · builds on: Soil classification (1155), Soil horizon (64), Soil formation (182) <!-- soil-class-005 -->
+1158. **USDA soil taxonomy** — Intermediate · Classification · Landmark · builds on: Soil classification (1155), Soil type (1157), Soil horizon (64), Diagnostic horizon (138) <!-- soil-class-006 -->
+1159. **FAO soil classification** — Intermediate · Classification · Major · builds on: Soil classification (1155), Soil-forming factors (184), Soil formation (182) <!-- soil-class-021 -->
+1160. **Canadian system of soil classification** — Intermediate · Classification · Major · builds on: Soil classification (1155), USDA soil taxonomy (1158), Soil horizon (64) <!-- soil-class-023 -->
+1161. **Australian Soil Classification** — Intermediate · Classification · Major · builds on: Soil classification (1155), Soil horizon (64) <!-- soil-class-022 -->
+1162. **Engineering soil classification** — Intermediate · Classification · Major · builds on: Soil classification (1155), Soil mechanics (309), Grain size (246), Atterberg limits (280) <!-- soil-class-002 -->
+1163. **Natural and technical classification** — Intermediate · Concept · Major · builds on: Soil classification (1155), Soil formation (182), Soil morphology (137) <!-- soil-class-003 -->
+1164. **Soil moisture regime** — Intermediate · Classification · Major · builds on: USDA soil taxonomy (1158), Soil moisture (391) <!-- soil-class-011 -->
+1165. **1938 USDA soil taxonomy** — Intermediate · Classification · Major · builds on: Soil classification (1155), Soil-forming factors (184), Soil formation (182) <!-- soil-class-012 -->
+1166. **OSHA soil classification** — Intermediate · Classification · Minor · builds on: Soil classification (1155), Shear strength (soil) (319), Cohesion (geology) (321) <!-- soil-class-004 -->
+1167. **WRB diagnostics** — Intermediate · Concept · Major · builds on: World Reference Base for Soil Resources (1156), Diagnostic horizon (138), Soil horizon (64) <!-- soil-class-017 -->
+1168. **Reference Soil Groups** — Intermediate · Classification · Major · builds on: World Reference Base for Soil Resources (1156), WRB diagnostics (1167) <!-- soil-class-020 -->
+1169. **Vineyard soils** — Foundational · Concept · Minor · builds on: Soil texture (47), Soil pH (63), Topsoil (135), Drainage (392) <!-- soil-class-039 -->
+1170. **Soil temperature regime** — Intermediate · Classification · Minor · builds on: USDA soil taxonomy (1158), Soil temperature (543), Soil thermal properties (550) <!-- soil-class-010 -->
+1171. **USDA suborders and great groups** — Intermediate · Classification · Minor · builds on: USDA soil taxonomy (1158), Soil moisture regime (1164), Soil temperature regime (1170), Soil horizon (64) <!-- soil-class-007 -->
+1172. **USDA soil subgroups** — Advanced · Classification · Minor · builds on: USDA suborders and great groups (1171) <!-- soil-class-008 -->
+1173. **USDA soil family** — Intermediate · Classification · Minor · builds on: USDA soil subgroups (1172), Soil texture (47), Soil temperature regime (1170) <!-- soil-class-009 -->
+1174. **Soil series** — Intermediate · Classification · Major · builds on: USDA soil family (1173), USDA soil taxonomy (1158), Pedon (179), Soil horizon (64) <!-- soil-class-037 -->
+1175. **State soil** — Foundational · Concept · Minor · builds on: Soil series (1174) <!-- soil-class-038 -->
+1176. **Udic moisture regime** — Intermediate · Classification · Minor · builds on: Soil (1), USDA soil taxonomy (1158) <!-- soil-found-101 -->
+1177. **AASHTO Soil Classification System** — Intermediate · Classification · Minor · builds on: Engineering soil classification (1162), Sieve analysis (264), Atterberg limits (280) <!-- soil-class-036 -->
+1178. **Naming a soil with the WRB** — Advanced · Method · Minor · builds on: World Reference Base for Soil Resources (1156), WRB diagnostics (1167), Reference Soil Groups (1168) <!-- soil-class-018 -->
+1179. **WRB map legends** — Advanced · Method · Minor · builds on: Naming a soil with the WRB (1178), Reference Soil Groups (1168) <!-- soil-class-019 -->
+1180. **Argillic** — Intermediate · Concept · Major · builds on: Illuviation (145), Clay (46), Diagnostic horizon (138), USDA soil taxonomy (1158), Soil horizon (64) <!-- soil-class-045 -->
+1181. **Ranker (soil)** — Intermediate · Classification · Minor · builds on: Soil horizon (64), Parent material (108), Soil classification (1155) <!-- soil-class-040 -->
+1182. **Ustic** — Intermediate · Classification · Minor · builds on: Soil moisture regime (1164) <!-- soil-class-041 -->
+1183. **Polish Soil Classification** — Intermediate · Classification · Minor · builds on: Soil classification (1155), Soil horizon (64), WRB diagnostics (1167) <!-- soil-class-034 -->
+1184. **Miami (soil)** — Intermediate · Classification · Minor · builds on: Soil series (1174), State soil (1175), Glacial till (113), Loam (254), USDA soil family (1173) <!-- soil-class-043 -->
+1185. **Pedalfer** — Intermediate · Classification · Minor · builds on: 1938 USDA soil taxonomy (1165), Sesquioxide (197), Leaching (pedology) (183) <!-- soil-class-042 -->
+1186. **Brunisolic order** — Intermediate · Classification · Minor · builds on: Canadian system of soil classification (1160), B horizon (146) <!-- soil-class-032 -->
+1187. **Canadian Organic order** — Intermediate · Classification · Minor · builds on: Canadian system of soil classification (1160), Soil organic matter (1045), Organic matter (1046) <!-- soil-class-025 -->
+1188. **Chernozemic order** — Intermediate · Classification · Minor · builds on: Canadian system of soil classification (1160), A horizon (140), Soil organic matter (1045) <!-- soil-class-030 -->
+1189. **Cryosolic order** — Intermediate · Classification · Minor · builds on: Canadian system of soil classification (1160), Permafrost (551), Cryoturbation (144) <!-- soil-class-024 -->
+1190. **Gleysolic order** — Intermediate · Classification · Minor · builds on: Canadian system of soil classification (1160), Gleying (81), Reduction in waterlogged soils (743) <!-- soil-class-028 -->
+1191. **Luvisolic order** — Intermediate · Classification · Minor · builds on: Canadian system of soil classification (1160), E horizon (142), Illuviation (145), Lessivage (216) <!-- soil-class-031 -->
+1192. **Podzolic order** — Intermediate · Classification · Minor · builds on: Canadian system of soil classification (1160), B horizon (146), Podzolisation (199) <!-- soil-class-027 -->
+1193. **Regosolic order** — Intermediate · Classification · Minor · builds on: Canadian system of soil classification (1160), Parent material (108) <!-- soil-class-033 -->
+1194. **Solonetzic order** — Intermediate · Classification · Minor · builds on: Canadian system of soil classification (1160), B horizon (146), Sodic soil (768) <!-- soil-class-029 -->
+1195. **Vertisolic order** — Intermediate · Classification · Minor · builds on: Canadian system of soil classification (1160), Shrink–swell capacity (257), Clay (46) <!-- soil-class-026 -->
+1196. **Anthroposol** — Intermediate · Classification · Minor · builds on: Soil horizon (64), Soil classification (1155) <!-- soil-class-044 -->
+1197. **Kurosol** — Intermediate · Classification · Minor · builds on: Soil texture (47), Clay (46), Soil pH (63), Australian Soil Classification (1161), Soil horizon (64) <!-- soil-found-070 -->
+1198. **Référentiel pédologique** — Intermediate · Classification · Minor · builds on: Soil classification (1155), Natural and technical classification (1163), Soil formation (182) <!-- soil-class-035 -->
+1199. **Using the Keys to Soil Taxonomy** — Intermediate · Method · Major · builds on: USDA soil taxonomy (1158) <!-- soil-class-165 -->
+1200. **Greyzem** — Advanced · Classification · Minor · builds on: FAO soil classification (1159) <!-- soil-class-047 -->
+1201. **Handbook of Australian Soils** — Intermediate · Classification · Minor · builds on: Soil classification (1155) <!-- soil-class-046 -->
+1202. **Soil profile description** — Foundational · Method · Minor · builds on: Horizon designation (152), Using the Keys to Soil Taxonomy (1199) <!-- soil-class-164 -->
+1203. **Canadian soil taxonomic levels** — Intermediate · Classification · Minor · builds on: Soil classification (1155) <!-- soil-class-166 -->
+1204. **Aquic conditions** — Intermediate · Classification · Minor · builds on: Soil moisture regime (1164), Degree of saturation (437), Redoximorphic features (727) <!-- soil-class-155 -->
+1205. **Aridic moisture regime** — Intermediate · Classification · Minor · builds on: Soil moisture regime (1164) <!-- soil-class-154 -->
+1206. **ISO 14688** — Intermediate · Classification · Minor · builds on: Engineering soil classification (1162), Grain size (246) <!-- soil-class-152 -->
+1207. **Xeric moisture regime** — Intermediate · Classification · Minor · builds on: Soil moisture regime (1164) <!-- soil-class-153 -->
+1208. **Zonal soil** — Intermediate · Classification · Minor · builds on: 1938 USDA soil taxonomy (1165), Climate as a soil-forming factor (186) <!-- soil-class-015 -->
+1209. **Azonal soil** — Intermediate · Classification · Minor · builds on: 1938 USDA soil taxonomy (1165), Zonal soil (1208), Time as a soil-forming factor (188), Soil formation (182) <!-- soil-class-014 -->
+1210. **Intrazonal soil** — Intermediate · Classification · Minor · builds on: 1938 USDA soil taxonomy (1165), Zonal soil (1208), Parent material (108), Topography as a soil-forming factor (189) <!-- soil-class-013 -->
 
 ### USDA soil orders
 
-1072. **USDA soil orders** — Intermediate · Classification · Landmark · builds on: USDA soil taxonomy (1022), Diagnostic horizon (140), Soil horizon (67), Soil formation (184) <!-- soil-class-089 -->
-1073. **Mollisol** — Intermediate · Classification · Landmark · builds on: USDA soil orders (1072), Epipedon (177), Humus (952), Soil horizon (67) <!-- soil-class-101 -->
-1074. **Vertisol** — Intermediate · Classification · Major · builds on: USDA soil orders (1072), World Reference Base for Soil Resources (1020), Expansive clay (255), Shrink–swell capacity (247) <!-- soil-class-106 -->
-1075. **Alfisol** — Intermediate · Classification · Major · builds on: USDA soil orders (1072), Argillic (1044), Base saturation (643), Base-richness (647) <!-- soil-class-090 -->
-1076. **Andisol** — Intermediate · Classification · Major · builds on: USDA soil orders (1072), Volcanic tephra parent material (130), Allophane (583), Imogolite (584) <!-- soil-class-092 -->
-1077. **Histosol** — Intermediate · Classification · Major · builds on: USDA soil orders (1072), World Reference Base for Soil Resources (1020), Soil organic matter (26), Organic matter (950) <!-- soil-class-098 -->
-1078. **Aridisol** — Intermediate · Classification · Major · builds on: USDA soil orders (1072), Soil moisture regime (1028) <!-- soil-class-093 -->
-1079. **Oxisol** — Intermediate · Classification · Major · builds on: USDA soil orders (1072), Ferrallitisation (219), Sesquioxide (199), Weathering (28), Cation-exchange capacity (641) <!-- soil-class-103 -->
-1080. **Ultisol** — Intermediate · Classification · Major · builds on: USDA soil orders (1072), Argillic (1044), Soil pH (66), Weathering (28) <!-- soil-class-104 -->
-1081. **Entisol** — Foundational · Classification · Major · builds on: USDA soil orders (1072), A horizon (142), Diagnostic horizon (140), Parent material (110), Soil horizon (67) <!-- soil-class-094 -->
-1082. **Inceptisol** — Intermediate · Classification · Major · builds on: USDA soil orders (1072), Entisol (1081), Cambic horizon (173) <!-- soil-class-100 -->
-1083. **Gelisol** — Intermediate · Classification · Major · builds on: USDA soil orders (1072), Permafrost (515), Cryoturbation (146) <!-- soil-class-096 -->
-1084. **Psamment** — Intermediate · Classification · Major · builds on: Entisol (1081), Sand (236) <!-- soil-class-108 -->
-1085. **Paleopedology** — Intermediate · Concept · Major · builds on: Paleosol (187), Soil formation (184), USDA soil orders (1072) <!-- soil-class-111 -->
-1086. **Orthent** — Intermediate · Classification · Minor · builds on: Entisol (1081), Weathering (28) <!-- soil-class-095 -->
-1087. **Paleopedological record** — Advanced · Concept · Major · builds on: Paleopedology (1085), Paleosol (187), Buried soil horizon (157), USDA soil orders (1072) <!-- soil-class-115 -->
-1088. **Sapric** — Intermediate · Material · Minor · builds on: Histosol (1077), Organic matter (950) <!-- soil-class-109 -->
-1089. **Mollisol suborders** — Advanced · Classification · Minor · builds on: Mollisol (1073), Soil moisture regime (1028), Soil temperature regime (1034) <!-- soil-class-102 -->
-1090. **Vertisol suborders** — Advanced · Classification · Minor · builds on: Vertisol (1074), Soil moisture regime (1028), Soil temperature regime (1034) <!-- soil-class-107 -->
-1091. **Fossil record of Alfisols** — Advanced · Concept · Minor · builds on: Alfisol (1075), Paleosol (187) <!-- soil-class-091 -->
-1092. **Gardening in Ultisols** — Foundational · Practice · Minor · builds on: Ultisol (1080), Soil pH (66), Soil organic matter (26) <!-- soil-class-105 -->
-1093. **Ultisol suborders** — Advanced · Classification · Minor · builds on: Ultisol (1080), USDA soil taxonomy (1022), Soil moisture regime (1028), Soil organic matter (26) <!-- soil-class-162 -->
-1094. **Soil in the United States** — Foundational · Concept · Minor · builds on: USDA soil taxonomy (1022), USDA soil orders (1072), Soil series (1038) <!-- soil-class-116 -->
-1095. **Gelisol suborders** — Advanced · Classification · Minor · builds on: Gelisol (1083), Cryoturbation (146), Histosol (1077) <!-- soil-class-097 -->
-1096. **Anthrepts** — Intermediate · Classification · Minor · builds on: Inceptisol (1082), USDA soil taxonomy (1022) <!-- soil-found-110 -->
-1097. **Reconstructing paleosol parent material** — Advanced · Method · Minor · builds on: Paleopedology (1085), Parent material (110), Weathering (28) <!-- soil-class-114 -->
-1098. **Soil climate** — Intermediate · Concept · Minor · builds on: Soil temperature regime (1034), Soil moisture regime (1028), Soil temperature (507), Soil formation (184) <!-- soil-class-112 -->
-1099. **Trace fossils in paleosols** — Advanced · Concept · Minor · builds on: Paleopedology (1085), Paleosol (187) <!-- soil-class-113 -->
-1100. **Muck farming** — Intermediate · Practice · Minor · builds on: Sapric (1088), Histosol (1077), Drainage (372) <!-- soil-class-110 -->
-1101. **Calcid** — Intermediate · Classification · Minor · builds on: Aridisol (1078), USDA soil taxonomy (1022), Calcic horizon (176), Petrocalcic horizon (164) <!-- soil-class-161 -->
-1102. **Spodosol** — Intermediate · Classification · Major · builds on: USDA soil orders (1072), Podzolisation (201), Illuviation (147) <!-- soil-class-099 -->
+1211. **USDA soil orders** — Intermediate · Classification · Landmark · builds on: USDA soil taxonomy (1158), Diagnostic horizon (138), Soil horizon (64), Soil formation (182) <!-- soil-class-089 -->
+1212. **Mollisol** — Intermediate · Classification · Landmark · builds on: USDA soil orders (1211), Epipedon (175), Humus (1048), Soil horizon (64) <!-- soil-class-101 -->
+1213. **Vertisol** — Intermediate · Classification · Major · builds on: USDA soil orders (1211), World Reference Base for Soil Resources (1156), Expansive clay (266), Shrink–swell capacity (257) <!-- soil-class-106 -->
+1214. **Alfisol** — Intermediate · Classification · Major · builds on: USDA soil orders (1211), Argillic (1180), Base saturation (707), Base-richness (711) <!-- soil-class-090 -->
+1215. **Andisol** — Intermediate · Classification · Major · builds on: USDA soil orders (1211), Volcanic tephra parent material (128), Allophane (642), Imogolite (643) <!-- soil-class-092 -->
+1216. **Histosol** — Intermediate · Classification · Major · builds on: USDA soil orders (1211), World Reference Base for Soil Resources (1156), Soil organic matter (1045), Organic matter (1046) <!-- soil-class-098 -->
+1217. **Aridisol** — Intermediate · Classification · Major · builds on: USDA soil orders (1211), Soil moisture regime (1164) <!-- soil-class-093 -->
+1218. **Ultisol** — Intermediate · Classification · Major · builds on: USDA soil orders (1211), Argillic (1180), Soil pH (63), Weathering (27) <!-- soil-class-104 -->
+1219. **Oxisol** — Intermediate · Classification · Major · builds on: USDA soil orders (1211), Ferrallitisation (217), Sesquioxide (197), Weathering (27), Cation-exchange capacity (705) <!-- soil-class-103 -->
+1220. **Entisol** — Foundational · Classification · Major · builds on: USDA soil orders (1211), A horizon (140), Diagnostic horizon (138), Parent material (108), Soil horizon (64) <!-- soil-class-094 -->
+1221. **Inceptisol** — Intermediate · Classification · Major · builds on: USDA soil orders (1211), Entisol (1220), Cambic horizon (171) <!-- soil-class-100 -->
+1222. **Gelisol** — Intermediate · Classification · Major · builds on: USDA soil orders (1211), Permafrost (551), Cryoturbation (144) <!-- soil-class-096 -->
+1223. **Psamment** — Intermediate · Classification · Major · builds on: Entisol (1220), Sand (247) <!-- soil-class-108 -->
+1224. **Paleopedology** — Intermediate · Concept · Major · builds on: Paleosol (185), Soil formation (182), USDA soil orders (1211) <!-- soil-class-111 -->
+1225. **Orthent** — Intermediate · Classification · Minor · builds on: Entisol (1220), Weathering (27) <!-- soil-class-095 -->
+1226. **Paleopedological record** — Advanced · Concept · Major · builds on: Paleopedology (1224), Paleosol (185), Buried soil horizon (155), USDA soil orders (1211) <!-- soil-class-115 -->
+1227. **Sapric** — Intermediate · Material · Minor · builds on: Histosol (1216), Organic matter (1046) <!-- soil-class-109 -->
+1228. **Mollisol suborders** — Advanced · Classification · Minor · builds on: Mollisol (1212), Soil moisture regime (1164), Soil temperature regime (1170) <!-- soil-class-102 -->
+1229. **Vertisol suborders** — Advanced · Classification · Minor · builds on: Vertisol (1213), Soil moisture regime (1164), Soil temperature regime (1170) <!-- soil-class-107 -->
+1230. **Fossil record of Alfisols** — Advanced · Concept · Minor · builds on: Alfisol (1214), Paleosol (185) <!-- soil-class-091 -->
+1231. **Gardening in Ultisols** — Foundational · Practice · Minor · builds on: Ultisol (1218), Soil pH (63), Soil organic matter (1045) <!-- soil-class-105 -->
+1232. **Ultisol suborders** — Advanced · Classification · Minor · builds on: Ultisol (1218), USDA soil taxonomy (1158), Soil moisture regime (1164), Soil organic matter (1045) <!-- soil-class-162 -->
+1233. **Soil in the United States** — Foundational · Concept · Minor · builds on: USDA soil taxonomy (1158), USDA soil orders (1211), Soil series (1174) <!-- soil-class-116 -->
+1234. **Gelisol suborders** — Advanced · Classification · Minor · builds on: Gelisol (1222), Cryoturbation (144), Histosol (1216) <!-- soil-class-097 -->
+1235. **Anthrepts** — Intermediate · Classification · Minor · builds on: Inceptisol (1221), USDA soil taxonomy (1158) <!-- soil-found-110 -->
+1236. **Reconstructing paleosol parent material** — Advanced · Method · Minor · builds on: Paleopedology (1224), Parent material (108), Weathering (27) <!-- soil-class-114 -->
+1237. **Soil climate** — Intermediate · Concept · Minor · builds on: Soil temperature regime (1170), Soil moisture regime (1164), Soil temperature (543), Soil formation (182) <!-- soil-class-112 -->
+1238. **Trace fossils in paleosols** — Advanced · Concept · Minor · builds on: Paleopedology (1224), Paleosol (185) <!-- soil-class-113 -->
+1239. **Muck farming** — Intermediate · Practice · Minor · builds on: Sapric (1227), Histosol (1216), Drainage (392) <!-- soil-class-110 -->
+1240. **Calcid** — Intermediate · Classification · Minor · builds on: Aridisol (1217), USDA soil taxonomy (1158), Calcic horizon (174), Petrocalcic horizon (162) <!-- soil-class-161 -->
+1241. **Spodosol** — Intermediate · Classification · Major · builds on: USDA soil orders (1211), Podzolisation (199), Illuviation (145) <!-- soil-class-099 -->
 
 ### World Reference Base soil groups
 
-1103. **Podzol** — Intermediate · Classification · Landmark · builds on: Reference Soil Groups (1032), Podzolisation (201), E horizon (144), Soil pH (66), Soil horizon (67), Leaching (pedology) (185) <!-- soil-class-138 -->
-1104. **Chernozem** — Foundational · Classification · Landmark · builds on: Reference Soil Groups (1032), Humus (952), A horizon (142), World Reference Base for Soil Resources (1020) <!-- soil-class-123 -->
-1105. **Solonchak** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1032), Soil salinity (696), World Reference Base for Soil Resources (1020) <!-- soil-class-142 -->
-1106. **Solonetz** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1032), Exchangeable sodium percentage (740), Sodic soil (701), World Reference Base for Soil Resources (1020), Sodium adsorption ratio (708), Alkali soil (741) <!-- soil-class-143 -->
-1107. **Anthrosol** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1032), Soil horizon (67), World Reference Base for Soil Resources (1020) <!-- soil-class-120 -->
-1108. **Aridity** — Foundational · Concept · Minor <!-- soil-class-148 -->
-1109. **Gleysol** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1032), Gleying (84), Redoximorphic features (662), Water table (378), World Reference Base for Soil Resources (1020) <!-- soil-class-127 -->
-1110. **Fluvisol** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1032), Alluvium (113), Time as a soil-forming factor (190), World Reference Base for Soil Resources (1020) <!-- soil-class-126 -->
-1111. **Acrisol** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1032), Cation-exchange capacity (641), Base saturation (643), Weathering (28), World Reference Base for Soil Resources (1020) <!-- soil-class-117 -->
-1112. **Leptosol** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1032), R layer (153), Gravel (246), World Reference Base for Soil Resources (1020), Soil formation (184) <!-- soil-class-131 -->
-1113. **Cambisol** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1032), Cambic horizon (173), Soil formation (184), World Reference Base for Soil Resources (1020), Soil horizon (67) <!-- soil-class-122 -->
-1114. **Luvisol** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1032), Lessivage (218), Cation-exchange capacity (641), Base saturation (643), World Reference Base for Soil Resources (1020) <!-- soil-class-133 -->
-1115. **Technosol** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1032), Soil formation (184), World Reference Base for Soil Resources (1020), Anthrosol (1107) <!-- soil-class-145 -->
-1116. **Calcisol** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1032), Carbonate minerals (59), Aridity (1108), World Reference Base for Soil Resources (1020) <!-- soil-class-121 -->
-1117. **Regosol** — Intermediate · Classification · Minor · builds on: Reference Soil Groups (1032), Parent material (110), World Reference Base for Soil Resources (1020), Soil formation (184) <!-- soil-class-139 -->
-1118. **Alisol** — Advanced · Classification · Minor · builds on: Reference Soil Groups (1032), Cation-exchange capacity (641), Base saturation (643), World Reference Base for Soil Resources (1020), Base-cation saturation ratio (644) <!-- soil-class-118 -->
-1119. **Andosol** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1032), Volcanic tephra parent material (130), Allophane (583), World Reference Base for Soil Resources (1020), Weathering (28) <!-- soil-class-119 -->
-1120. **Stagnosol** — Intermediate · Classification · Minor · builds on: Reference Soil Groups (1032), Redoximorphic features (662), Gleying (84), World Reference Base for Soil Resources (1020) <!-- soil-class-144 -->
-1121. **Planosol** — Intermediate · Classification · Minor · builds on: Reference Soil Groups (1032), Soil texture (50), Subsoil (138), Redoximorphic features (662), World Reference Base for Soil Resources (1020) <!-- soil-class-136 -->
-1122. **Phaeozem** — Intermediate · Classification · Minor · builds on: Reference Soil Groups (1032), Chernozem (1104), Base saturation (643), World Reference Base for Soil Resources (1020), Loess (112) <!-- soil-class-135 -->
-1123. **Kastanozem** — Intermediate · Classification · Minor · builds on: Reference Soil Groups (1032), Chernozem (1104), Humus (952), Carbonate minerals (59), World Reference Base for Soil Resources (1020) <!-- soil-class-130 -->
-1124. **Lixisol** — Advanced · Classification · Minor · builds on: Reference Soil Groups (1032), Illuviation (147), Cation-exchange capacity (641), Base saturation (643), World Reference Base for Soil Resources (1020), Clay mineral (561) <!-- soil-class-132 -->
-1125. **Plaggen soil** — Intermediate · Classification · Minor · builds on: Anthrosol (1107), Podzol (1103) <!-- soil-class-149 -->
-1126. **Nitisol** — Intermediate · Classification · Minor · builds on: Reference Soil Groups (1032), Soil structure types (251), Clay (49), World Reference Base for Soil Resources (1020), Soil structure (249), Kaolinite (569) <!-- soil-class-134 -->
-1127. **Umbrisol** — Intermediate · Classification · Minor · builds on: Reference Soil Groups (1032), Umbric horizon (167), Base saturation (643), Soil organic matter (26), World Reference Base for Soil Resources (1020), Base-cation saturation ratio (644) <!-- soil-class-146 -->
-1128. **Retisol** — Advanced · Classification · Minor · builds on: Reference Soil Groups (1032), E horizon (144), Eluviation (143), Illuviation (147), World Reference Base for Soil Resources (1020), Lessivage (218) <!-- soil-class-140 -->
-1129. **Black Dirt Region** — Intermediate · Material · Minor · builds on: Sapric (1088), Histosol (1077) <!-- soil-class-150 -->
-1130. **Plinthosol** — Advanced · Classification · Minor · builds on: Reference Soil Groups (1032), Plinthite (439), Oxide minerals (44), World Reference Base for Soil Resources (1020), Redox (660) <!-- soil-class-137 -->
-1131. **Gypsisol** — Intermediate · Classification · Minor · builds on: Reference Soil Groups (1032), Sulfate minerals (62), Aridity (1108), World Reference Base for Soil Resources (1020) <!-- soil-class-129 -->
-1132. **Theories of chernozem origin** — Advanced · Debate · Minor · builds on: Chernozem (1104), Soil formation (184), Climate as a soil-forming factor (188), Humus (952) <!-- soil-class-124 -->
-1133. **Durisol** — Intermediate · Classification · Minor · builds on: Reference Soil Groups (1032), Duripan (163), Hardpan (145), Aridity (1108), World Reference Base for Soil Resources (1020) <!-- soil-class-125 -->
-1134. **WRB argic soil groups** — Advanced · Classification · Major · builds on: Reference Soil Groups (1032), WRB diagnostics (1031), Illuviation (147), World Reference Base for Soil Resources (1020), Cation-exchange capacity (641), Base-cation saturation ratio (644), Lessivage (218) <!-- soil-class-141 -->
-1135. **Albeluvisols** — Intermediate · Classification · Minor · builds on: World Reference Base for Soil Resources (1020), Albic horizon (175), Illuviation (147), Retisol (1128), Lessivage (218) <!-- soil-class-147 -->
+1242. **Podzol** — Intermediate · Classification · Landmark · builds on: Reference Soil Groups (1168), Podzolisation (199), E horizon (142), Soil pH (63), Soil horizon (64), Leaching (pedology) (183) <!-- soil-class-138 -->
+1243. **Chernozem** — Foundational · Classification · Landmark · builds on: Reference Soil Groups (1168), Humus (1048), A horizon (140), World Reference Base for Soil Resources (1156) <!-- soil-class-123 -->
+1244. **Solonchak** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1168), Soil salinity (763), World Reference Base for Soil Resources (1156) <!-- soil-class-142 -->
+1245. **Solonetz** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1168), Exchangeable sodium percentage (811), Sodic soil (768), World Reference Base for Soil Resources (1156), Sodium adsorption ratio (775), Alkali soil (812) <!-- soil-class-143 -->
+1246. **Anthrosol** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1168), Soil horizon (64), World Reference Base for Soil Resources (1156) <!-- soil-class-120 -->
+1247. **Aridity** — Foundational · Concept · Minor <!-- soil-class-148 -->
+1248. **Gleysol** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1168), Gleying (81), Redoximorphic features (727), Water table (398), World Reference Base for Soil Resources (1156) <!-- soil-class-127 -->
+1249. **Fluvisol** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1168), Alluvium (111), Time as a soil-forming factor (188), World Reference Base for Soil Resources (1156) <!-- soil-class-126 -->
+1250. **Acrisol** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1168), Cation-exchange capacity (705), Base saturation (707), Weathering (27), World Reference Base for Soil Resources (1156) <!-- soil-class-117 -->
+1251. **Leptosol** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1168), R layer (151), Gravel (258), World Reference Base for Soil Resources (1156), Soil formation (182) <!-- soil-class-131 -->
+1252. **Cambisol** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1168), Cambic horizon (171), Soil formation (182), World Reference Base for Soil Resources (1156), Soil horizon (64) <!-- soil-class-122 -->
+1253. **Luvisol** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1168), Lessivage (216), Cation-exchange capacity (705), Base saturation (707), World Reference Base for Soil Resources (1156) <!-- soil-class-133 -->
+1254. **Technosol** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1168), Soil formation (182), World Reference Base for Soil Resources (1156), Anthrosol (1246) <!-- soil-class-145 -->
+1255. **Calcisol** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1168), Carbonate minerals (56), Aridity (1247), World Reference Base for Soil Resources (1156) <!-- soil-class-121 -->
+1256. **Regosol** — Intermediate · Classification · Minor · builds on: Reference Soil Groups (1168), Parent material (108), World Reference Base for Soil Resources (1156), Soil formation (182) <!-- soil-class-139 -->
+1257. **Alisol** — Advanced · Classification · Minor · builds on: Reference Soil Groups (1168), Cation-exchange capacity (705), Base saturation (707), World Reference Base for Soil Resources (1156), Base-cation saturation ratio (709) <!-- soil-class-118 -->
+1258. **Andosol** — Intermediate · Classification · Major · builds on: Reference Soil Groups (1168), Volcanic tephra parent material (128), Allophane (642), World Reference Base for Soil Resources (1156), Weathering (27) <!-- soil-class-119 -->
+1259. **Stagnosol** — Intermediate · Classification · Minor · builds on: Reference Soil Groups (1168), Redoximorphic features (727), Gleying (81), World Reference Base for Soil Resources (1156) <!-- soil-class-144 -->
+1260. **Planosol** — Intermediate · Classification · Minor · builds on: Reference Soil Groups (1168), Soil texture (47), Subsoil (136), Redoximorphic features (727), World Reference Base for Soil Resources (1156) <!-- soil-class-136 -->
+1261. **Phaeozem** — Intermediate · Classification · Minor · builds on: Reference Soil Groups (1168), Chernozem (1243), Base saturation (707), World Reference Base for Soil Resources (1156), Loess (110) <!-- soil-class-135 -->
+1262. **Kastanozem** — Intermediate · Classification · Minor · builds on: Reference Soil Groups (1168), Chernozem (1243), Humus (1048), Carbonate minerals (56), World Reference Base for Soil Resources (1156) <!-- soil-class-130 -->
+1263. **Lixisol** — Advanced · Classification · Minor · builds on: Reference Soil Groups (1168), Illuviation (145), Cation-exchange capacity (705), Base saturation (707), World Reference Base for Soil Resources (1156), Clay mineral (617) <!-- soil-class-132 -->
+1264. **Plaggen soil** — Intermediate · Classification · Minor · builds on: Anthrosol (1246), Podzol (1242) <!-- soil-class-149 -->
+1265. **Nitisol** — Intermediate · Classification · Minor · builds on: Reference Soil Groups (1168), Soil structure types (262), Clay (46), World Reference Base for Soil Resources (1156), Soil structure (260), Kaolinite (626) <!-- soil-class-134 -->
+1266. **Umbrisol** — Intermediate · Classification · Minor · builds on: Reference Soil Groups (1168), Umbric horizon (165), Base saturation (707), Soil organic matter (1045), World Reference Base for Soil Resources (1156), Base-cation saturation ratio (709) <!-- soil-class-146 -->
+1267. **Retisol** — Advanced · Classification · Minor · builds on: Reference Soil Groups (1168), E horizon (142), Eluviation (141), Illuviation (145), World Reference Base for Soil Resources (1156), Lessivage (216) <!-- soil-class-140 -->
+1268. **Black Dirt Region** — Intermediate · Material · Minor · builds on: Sapric (1227), Histosol (1216) <!-- soil-class-150 -->
+1269. **Plinthosol** — Advanced · Classification · Minor · builds on: Reference Soil Groups (1168), Plinthite (453), Oxide minerals (41), World Reference Base for Soil Resources (1156), Redox (725) <!-- soil-class-137 -->
+1270. **Gypsisol** — Intermediate · Classification · Minor · builds on: Reference Soil Groups (1168), Sulfate minerals (59), Aridity (1247), World Reference Base for Soil Resources (1156) <!-- soil-class-129 -->
+1271. **Theories of chernozem origin** — Advanced · Debate · Minor · builds on: Chernozem (1243), Soil formation (182), Climate as a soil-forming factor (186), Humus (1048) <!-- soil-class-124 -->
+1272. **Durisol** — Intermediate · Classification · Minor · builds on: Reference Soil Groups (1168), Duripan (161), Hardpan (143), Aridity (1247), World Reference Base for Soil Resources (1156) <!-- soil-class-125 -->
+1273. **WRB argic soil groups** — Advanced · Classification · Major · builds on: Reference Soil Groups (1168), WRB diagnostics (1167), Illuviation (145), World Reference Base for Soil Resources (1156), Cation-exchange capacity (705), Base-cation saturation ratio (709), Lessivage (216) <!-- soil-class-141 -->
+1274. **Albeluvisols** — Intermediate · Classification · Minor · builds on: World Reference Base for Soil Resources (1156), Albic horizon (173), Illuviation (145), Retisol (1267), Lessivage (216) <!-- soil-class-147 -->
 
 ### Other soil types
 
-1136. **Peat** — Foundational · Material · Landmark · builds on: Soil organic matter (26), Plant litter (949), Decomposition (951) <!-- soil-class-070 -->
-1137. **Peat drainage** — Intermediate · Process · Major · builds on: Peat (1136), Drainage (372) <!-- soil-class-074 -->
-1138. **Peat fires** — Intermediate · Process · Major · builds on: Peat (1136) <!-- soil-class-075 -->
-1139. **Peat formation** — Intermediate · Process · Major · builds on: Peat (1136), Decomposition (951), Reduction in waterlogged soils (678), Soil organic matter (26) <!-- soil-class-071 -->
-1140. **Serpentine soil** — Intermediate · Material · Major · builds on: Weathering (28), Mineral (27), Parent material (110) <!-- soil-class-060 -->
-1141. **Charcoal** — Foundational · Material · Minor <!-- soil-class-083 -->
-1142. **Terra preta** — Intermediate · Material · Landmark · builds on: Anthrosol (1107), Charcoal (1141), Soil organic matter (26), Leaching (pedology) (185) <!-- soil-class-053 -->
-1143. **Brown earth** — Intermediate · Material · Major · builds on: Soil horizon (67), Humus (952), Soil pH (66), Leaching (pedology) (185), Soil classification (1019) <!-- soil-class-048 -->
-1144. **Peat archives** — Intermediate · Concept · Minor · builds on: Peat (1136) <!-- soil-class-073 -->
-1145. **Peat fuel** — Foundational · Practice · Minor · builds on: Peat (1136) <!-- soil-class-077 -->
-1146. **Peat hags** — Intermediate · Process · Minor · builds on: Peat (1136) <!-- soil-class-076 -->
-1147. **Peat in horticulture** — Foundational · Practice · Minor · builds on: Peat (1136) <!-- soil-class-078 -->
-1148. **Peat material types** — Intermediate · Classification · Minor · builds on: Peat (1136), Decomposition (951) <!-- soil-class-072 -->
-1149. **Peatland permafrost** — Advanced · Concept · Minor · builds on: Peat (1136), Permafrost (515) <!-- soil-class-080 -->
-1150. **Peatland restoration** — Intermediate · Practice · Minor · builds on: Peat (1136), Peat drainage (1137), Peat formation (1139) <!-- soil-class-079 -->
-1151. **Rendzina** — Intermediate · Material · Major · builds on: Parent material (110), Humus (952), A horizon (142), Weathering (28) <!-- soil-class-050 -->
-1152. **Terra rossa** — Intermediate · Material · Major · builds on: Clay (49), Hematite (571), Bedrock (87), Soil pH (66), Goethite (563), Rendzina (1151) <!-- soil-class-051 -->
-1153. **Dark earth** — Intermediate · Material · Major · builds on: Soil organic matter (26), Humus (952), Soil color (69) <!-- soil-class-057 -->
-1154. **Charcoal in terra preta** — Advanced · Concept · Major · builds on: Terra preta (1142), Charcoal (1141), Cation-exchange capacity (641) <!-- soil-class-054 -->
-1155. **Tropical peat** — Intermediate · Material · Major · builds on: Peat (1136), Histosol (1077) <!-- soil-class-081 -->
-1156. **Red soil** — Intermediate · Material · Major · builds on: Clay (49), Weathering (28), Soil color (69), Leaching (pedology) (185), Soil pH (66) <!-- soil-class-058 -->
-1157. **Brown podzolic** — Intermediate · Material · Minor · builds on: Podzol (1103), Brown earth (1143), Podzolisation (201), Leaching (pedology) (185), Soil horizon (67) <!-- soil-class-049 -->
-1158. **Bay mud** — Intermediate · Material · Minor · builds on: Clay (49), Silt (237), Shear strength (soil) (310) <!-- soil-class-085 -->
-1159. **Origin of terra preta** — Intermediate · Debate · Minor · builds on: Terra preta (1142) <!-- soil-class-055 -->
-1160. **Synthetic terra preta** — Advanced · Practice · Minor · builds on: Terra preta (1142), Charcoal (1141) <!-- soil-class-056 -->
-1161. **Brickearth** — Intermediate · Material · Minor · builds on: Loess (112), Superficial deposits (109), Silt (237), Loam (243) <!-- soil-class-065 -->
-1162. **Fill dirt** — Foundational · Material · Minor · builds on: Topsoil (137), Subsoil (138), Parent material (110) <!-- soil-class-084 -->
-1163. **Stagnogley** — Intermediate · Material · Minor · builds on: Gleying (84), Subsoil (138), Loam (243), Gleysol (1109), Stagnosol (1120) <!-- soil-class-064 -->
-1164. **Subaqueous soil** — Intermediate · Material · Major · builds on: Soil formation (184), Soil horizon (67), USDA soil taxonomy (1022) <!-- soil-class-068 -->
-1165. **Calcareous grassland** — Intermediate · Concept · Minor · builds on: Soil pH (66), Rendzina (1151) <!-- soil-class-086 -->
-1166. **Takir** — Intermediate · Concept · Minor · builds on: Clay (49), Aridity (1108), Soil crust (282) <!-- soil-class-067 -->
-1167. **Serpentine barrens** — Intermediate · Concept · Minor · builds on: Serpentine soil (1140) <!-- soil-class-062 -->
-1168. **Serpentine plant communities** — Intermediate · Concept · Minor · builds on: Serpentine soil (1140) <!-- soil-class-061 -->
-1169. **Blue goo** — Intermediate · Material · Minor · builds on: Clay (49), Serpentine soil (1140), Weathering (28) <!-- soil-class-087 -->
-1170. **Duplex soil** — Intermediate · Material · Minor · builds on: Soil texture (50), Soil horizon (67), Topsoil (137), Subsoil (138) <!-- soil-class-063 -->
-1171. **Origin of terra rossa** — Advanced · Debate · Minor · builds on: Terra rossa (1152), Parent material (110), Dissolution weathering (33), Soil formation (184) <!-- soil-class-052 -->
-1172. **Constructed soil** — Intermediate · Material · Major · builds on: Technosol (1115), Soil (1), Topsoil (137), Soil horizon (67) <!-- soil-class-157 -->
-1173. **Latosol** — Intermediate · Material · Minor · builds on: Sesquioxide (199), Ferrallitisation (219), Weathering (28), Oxisol (1079), Leaching (pedology) (185), Humus (952) <!-- soil-class-059 -->
-1174. **Gumbo soil** — Foundational · Material · Minor · builds on: Clay (49) <!-- soil-class-066 -->
-1175. **Mesotrophic soil** — Intermediate · Concept · Minor · builds on: Base-richness (647), Cation-exchange capacity (641) <!-- soil-class-082 -->
-1176. **Acrotelm** — Intermediate · Concept · Minor · builds on: Peat (1136) <!-- soil-class-156 -->
-1177. **Subaqueous soil mapping** — Advanced · Method · Minor · builds on: Subaqueous soil (1164) <!-- soil-class-069 -->
-1178. **Machair** — Intermediate · Concept · Minor · builds on: Calcareous soil (715) <!-- soil-class-158 -->
-1179. **Black cotton soil** — Intermediate · Material · Minor · builds on: Vertisol (1074), Montmorillonite (604), Shrink–swell capacity (247) <!-- soil-class-159 -->
-1180. **Paddy soil** — Intermediate · Material · Minor · builds on: Paddy field (680), Anthrosol (1107), Redox (660), Methanogenesis (679) <!-- soil-class-160 -->
+1275. **Peat** — Foundational · Material · Landmark · builds on: Soil organic matter (1045), Plant litter (1040), Decomposition (1047) <!-- soil-class-070 -->
+1276. **Peat drainage** — Intermediate · Process · Major · builds on: Peat (1275), Drainage (392) <!-- soil-class-074 -->
+1277. **Peat fires** — Intermediate · Process · Major · builds on: Peat (1275) <!-- soil-class-075 -->
+1278. **Peat formation** — Intermediate · Process · Major · builds on: Peat (1275), Decomposition (1047), Reduction in waterlogged soils (743), Soil organic matter (1045) <!-- soil-class-071 -->
+1279. **Serpentine soil** — Intermediate · Material · Major · builds on: Weathering (27), Mineral (26), Parent material (108) <!-- soil-class-060 -->
+1280. **Charcoal** — Foundational · Material · Minor <!-- soil-class-083 -->
+1281. **Terra preta** — Intermediate · Material · Landmark · builds on: Anthrosol (1246), Charcoal (1280), Soil organic matter (1045), Leaching (pedology) (183) <!-- soil-class-053 -->
+1282. **Brown earth** — Intermediate · Material · Major · builds on: Soil horizon (64), Humus (1048), Soil pH (63), Leaching (pedology) (183), Soil classification (1155) <!-- soil-class-048 -->
+1283. **Peat archives** — Intermediate · Concept · Minor · builds on: Peat (1275) <!-- soil-class-073 -->
+1284. **Peat fuel** — Foundational · Practice · Minor · builds on: Peat (1275) <!-- soil-class-077 -->
+1285. **Peat hags** — Intermediate · Process · Minor · builds on: Peat (1275) <!-- soil-class-076 -->
+1286. **Peat in horticulture** — Foundational · Practice · Minor · builds on: Peat (1275) <!-- soil-class-078 -->
+1287. **Peat material types** — Intermediate · Classification · Minor · builds on: Peat (1275), Decomposition (1047) <!-- soil-class-072 -->
+1288. **Peatland permafrost** — Advanced · Concept · Minor · builds on: Peat (1275), Permafrost (551) <!-- soil-class-080 -->
+1289. **Peatland restoration** — Intermediate · Practice · Minor · builds on: Peat (1275), Peat drainage (1276), Peat formation (1278) <!-- soil-class-079 -->
+1290. **Rendzina** — Intermediate · Material · Major · builds on: Parent material (108), Humus (1048), A horizon (140), Weathering (27) <!-- soil-class-050 -->
+1291. **Terra rossa** — Intermediate · Material · Major · builds on: Clay (46), Hematite (622), Bedrock (84), Soil pH (63), Goethite (619), Rendzina (1290) <!-- soil-class-051 -->
+1292. **Dark earth** — Intermediate · Material · Major · builds on: Soil organic matter (1045), Humus (1048), Soil color (66) <!-- soil-class-057 -->
+1293. **Charcoal in terra preta** — Advanced · Concept · Major · builds on: Terra preta (1281), Charcoal (1280), Cation-exchange capacity (705) <!-- soil-class-054 -->
+1294. **Tropical peat** — Intermediate · Material · Major · builds on: Peat (1275), Histosol (1216) <!-- soil-class-081 -->
+1295. **Red soil** — Intermediate · Material · Major · builds on: Clay (46), Weathering (27), Soil color (66), Leaching (pedology) (183), Soil pH (63) <!-- soil-class-058 -->
+1296. **Brown podzolic** — Intermediate · Material · Minor · builds on: Podzol (1242), Brown earth (1282), Podzolisation (199), Leaching (pedology) (183), Soil horizon (64) <!-- soil-class-049 -->
+1297. **Bay mud** — Intermediate · Material · Minor · builds on: Clay (46), Silt (248), Shear strength (soil) (319) <!-- soil-class-085 -->
+1298. **Origin of terra preta** — Intermediate · Debate · Minor · builds on: Terra preta (1281) <!-- soil-class-055 -->
+1299. **Synthetic terra preta** — Advanced · Practice · Minor · builds on: Terra preta (1281), Charcoal (1280) <!-- soil-class-056 -->
+1300. **Brickearth** — Intermediate · Material · Minor · builds on: Loess (110), Superficial deposits (107), Silt (248), Loam (254) <!-- soil-class-065 -->
+1301. **Fill dirt** — Foundational · Material · Minor · builds on: Topsoil (135), Subsoil (136), Parent material (108) <!-- soil-class-084 -->
+1302. **Stagnogley** — Intermediate · Material · Minor · builds on: Gleying (81), Subsoil (136), Loam (254), Gleysol (1248), Stagnosol (1259) <!-- soil-class-064 -->
+1303. **Subaqueous soil** — Intermediate · Material · Major · builds on: Soil formation (182), Soil horizon (64), USDA soil taxonomy (1158) <!-- soil-class-068 -->
+1304. **Calcareous grassland** — Intermediate · Concept · Minor · builds on: Soil pH (63), Rendzina (1290) <!-- soil-class-086 -->
+1305. **Blue goo** — Intermediate · Material · Minor · builds on: Clay (46), Serpentine soil (1279), Weathering (27) <!-- soil-class-087 -->
+1306. **Takir** — Intermediate · Concept · Minor · builds on: Clay (46), Aridity (1247), Soil crust (274) <!-- soil-class-067 -->
+1307. **Serpentine barrens** — Intermediate · Concept · Minor · builds on: Serpentine soil (1279) <!-- soil-class-062 -->
+1308. **Serpentine plant communities** — Intermediate · Concept · Minor · builds on: Serpentine soil (1279) <!-- soil-class-061 -->
+1309. **Duplex soil** — Intermediate · Material · Minor · builds on: Soil texture (47), Soil horizon (64), Topsoil (135), Subsoil (136) <!-- soil-class-063 -->
+1310. **Origin of terra rossa** — Advanced · Debate · Minor · builds on: Terra rossa (1291), Parent material (108), Dissolution weathering (30), Soil formation (182) <!-- soil-class-052 -->
+1311. **Constructed soil** — Intermediate · Material · Major · builds on: Technosol (1254), Soil (1), Topsoil (135), Soil horizon (64) <!-- soil-class-157 -->
+1312. **Latosol** — Intermediate · Material · Minor · builds on: Sesquioxide (197), Ferrallitisation (217), Weathering (27), Oxisol (1219), Leaching (pedology) (183), Humus (1048) <!-- soil-class-059 -->
+1313. **Gumbo soil** — Foundational · Material · Minor · builds on: Clay (46) <!-- soil-class-066 -->
+1314. **Mesotrophic soil** — Intermediate · Concept · Minor · builds on: Base-richness (711), Cation-exchange capacity (705) <!-- soil-class-082 -->
+1315. **Acrotelm** — Intermediate · Concept · Minor · builds on: Peat (1275) <!-- soil-class-156 -->
+1316. **Dry quicksand** — Intermediate · Material · Minor · builds on: Quicksand (322), Sand (247) <!-- soil-class-167 -->
+1317. **Subaqueous soil mapping** — Advanced · Method · Minor · builds on: Subaqueous soil (1303) <!-- soil-class-069 -->
+1318. **Machair** — Intermediate · Concept · Minor · builds on: Calcareous soil (783) <!-- soil-class-158 -->
+1319. **Black cotton soil** — Intermediate · Material · Minor · builds on: Vertisol (1213), Montmorillonite (667), Shrink–swell capacity (257) <!-- soil-class-159 -->
+1320. **Paddy soil** — Intermediate · Material · Minor · builds on: Paddy field (745), Anthrosol (1246), Redox (725), Methanogenesis (744) <!-- soil-class-160 -->
 
 ## Fertility and plant nutrition
 
 
 ### Nutrients and plant nutrition
 
-1181. **Nutrient** — Foundational · Concept · Major <!-- soil-fert-181 -->
-1182. **Soil fertility** — Foundational · Concept · Landmark · builds on: Soil (1), Nutrient (1181) <!-- soil-fert-149 -->
-1183. **Plant nutrition** — Foundational · Concept · Landmark · builds on: Nutrient (1181), Soil (1) <!-- soil-fert-156 -->
-1184. **Soil depletion** — Intermediate · Process · Major · builds on: Soil fertility (1182) <!-- soil-fert-151 -->
-1185. **Essential plant nutrients** — Foundational · Concept · Landmark · builds on: Plant nutrition (1183), Nutrient (1181) <!-- soil-fert-169 -->
-1186. **Soil test** — Foundational · Method · Major · builds on: Essential plant nutrients (1185), Soil pH (66) <!-- soil-fert-187 -->
-1187. **Colonial soil depletion** — Intermediate · Event · Minor · builds on: Soil depletion (1184) <!-- soil-fert-152 -->
-1188. **Irrigation effects on soil fertility** — Intermediate · Process · Minor · builds on: Soil fertility (1182), Soil salinity (696), Tilth (280) <!-- soil-fert-155 -->
-1189. **Soil depletion under plantation slavery** — Intermediate · Event · Minor · builds on: Soil depletion (1184) <!-- soil-fert-153 -->
-1190. **Soil fertility and human health** — Foundational · Concept · Minor · builds on: Soil fertility (1182) <!-- soil-fert-154 -->
-1191. **Nutrient management** — Intermediate · Practice · Major · builds on: Soil fertility (1182), Soil test (1186), Essential plant nutrients (1185) <!-- soil-fert-192 -->
-1192. **Liebig's law of the minimum** — Foundational · Concept · Landmark · builds on: Nutrient (1181), Plant nutrition (1183) <!-- soil-fert-182 -->
-1193. **Macronutrients and micronutrients** — Foundational · Classification · Major · builds on: Essential plant nutrients (1185) <!-- soil-fert-158 -->
-1194. **Soil fertilization** — Intermediate · Practice · Minor · builds on: Soil fertility (1182), Macronutrients and micronutrients (1193) <!-- soil-fert-150 -->
-1195. **Plant micronutrients** — Intermediate · Concept · Major · builds on: Macronutrients and micronutrients (1193), Essential plant nutrients (1185) <!-- soil-fert-179 -->
-1196. **Nutrient mobility in plants** — Intermediate · Concept · Major · builds on: Plant nutrition (1183), Macronutrients and micronutrients (1193) <!-- soil-fert-162 -->
-1197. **Nutrient deficiency in plants** — Intermediate · Concept · Major · builds on: Essential plant nutrients (1185), Nutrient mobility in plants (1196) <!-- soil-fert-163 -->
-1198. **Molybdenum deficiency** — Intermediate · Concept · Minor · builds on: Plant micronutrients (1195), Nutrient deficiency in plants (1197), Soil pH and nutrient availability (73), Soil pH (66) <!-- soil-fert-197 -->
-1199. **Engineering soil tests** — Intermediate · Method · Minor · builds on: Soil test (1186), Void ratio (307), Bulk density (301) <!-- soil-fert-189 -->
-1200. **Grid soil sampling** — Intermediate · Method · Minor · builds on: Soil test (1186) <!-- soil-fert-188 -->
-1201. **Testing soil for lead** — Intermediate · Method · Minor · builds on: Soil test (1186) <!-- soil-fert-190 -->
-1202. **Nitrogen as a plant nutrient** — Intermediate · Concept · Major · builds on: Essential plant nutrients (1185), Macronutrients and micronutrients (1193), Soil organic matter (26) <!-- soil-fert-172 -->
-1203. **Carbon-to-nitrogen ratio** — Intermediate · Concept · Major · builds on: Soil organic matter (26), Composition of plant residues (36), Nitrogen as a plant nutrient (1202) <!-- soil-fert-184 -->
-1204. **Nutrient movement to roots** — Intermediate · Process · Major · builds on: Essential plant nutrients (1185), Root (867) <!-- soil-fert-170 -->
-1205. **Root nutrient uptake** — Intermediate · Process · Major · builds on: Nutrient movement to roots (1204), Root hair (875), Essential plant nutrients (1185), Cation-exchange capacity (641) <!-- soil-fert-157 -->
-1206. **Phosphorus as a plant nutrient** — Intermediate · Concept · Major · builds on: Essential plant nutrients (1185), Macronutrients and micronutrients (1193) <!-- soil-fert-174 -->
-1207. **Potassium as a plant nutrient** — Intermediate · Concept · Major · builds on: Essential plant nutrients (1185), Macronutrients and micronutrients (1193), Cation-exchange capacity (641) <!-- soil-fert-175 -->
-1208. **Boron as a plant nutrient** — Intermediate · Concept · Minor · builds on: Plant micronutrients (1195) <!-- soil-fert-160 -->
-1209. **Hydroponics** — Intermediate · Method · Minor · builds on: Essential plant nutrients (1185), Plant nutrition (1183) <!-- soil-fert-167 -->
-1210. **Iron as a plant nutrient** — Intermediate · Concept · Minor · builds on: Plant micronutrients (1195) <!-- soil-fert-159 -->
-1211. **Nutrient interactions** — Advanced · Concept · Minor · builds on: Essential plant nutrients (1185), Root nutrient uptake (1205) <!-- soil-fert-165 -->
-1212. **Plant nutrient toxicity** — Intermediate · Concept · Minor · builds on: Essential plant nutrients (1185), Nutrient deficiency in plants (1197) <!-- soil-fert-164 -->
-1213. **Plant tissue analysis** — Intermediate · Method · Minor · builds on: Essential plant nutrients (1185), Nutrient deficiency in plants (1197) <!-- soil-fert-166 -->
-1214. **Zinc as a plant nutrient** — Intermediate · Concept · Minor · builds on: Plant micronutrients (1195) <!-- soil-fert-161 -->
-1215. **Compost feedstock C:N balance** — Intermediate · Practice · Minor · builds on: Carbon-to-nitrogen ratio (1203) <!-- soil-fert-185 -->
-1216. **Sediment C/N ratio** — Advanced · Method · Minor · builds on: Carbon-to-nitrogen ratio (1203) <!-- soil-fert-186 -->
-1217. **Nutrient depletion** — Intermediate · Process · Minor · builds on: Nutrient (1181), Soil fertility (1182) <!-- soil-fert-196 -->
-1218. **Iron deficiency chlorosis** — Intermediate · Concept · Minor · builds on: Iron as a plant nutrient (1210), Nutrient deficiency in plants (1197), Soil pH and nutrient availability (73), Calcareous soil (715), Soil pH (66) <!-- soil-fert-201 -->
-1219. **Chlorosis** — Foundational · Concept · Minor · builds on: Nutrient deficiency in plants (1197) <!-- soil-fert-228 -->
-1220. **Nitrogen deficiency** — Intermediate · Concept · Minor · builds on: Nitrogen as a plant nutrient (1202), Nutrient deficiency in plants (1197), Chlorosis (1219) <!-- soil-fert-231 -->
-1221. **Nutrient management plan** — Intermediate · Practice · Minor · builds on: Nutrient management (1191) <!-- soil-fert-193 -->
-1222. **Beneficial plant elements** — Intermediate · Concept · Minor · builds on: Essential plant nutrients (1185) <!-- soil-fert-180 -->
-1223. **Calcium as a plant nutrient** — Intermediate · Concept · Minor · builds on: Essential plant nutrients (1185), Macronutrients and micronutrients (1193), Cation exchange (640) <!-- soil-fert-176 -->
-1224. **Carbon in plant nutrition** — Intermediate · Concept · Minor · builds on: Essential plant nutrients (1185), Plant nutrition (1183) <!-- soil-fert-171 -->
-1225. **Magnesium as a plant nutrient** — Intermediate · Concept · Minor · builds on: Essential plant nutrients (1185), Macronutrients and micronutrients (1193) <!-- soil-fert-177 -->
-1226. **Nitrogen losses from soil** — Intermediate · Process · Minor · builds on: Nitrogen as a plant nutrient (1202), Leaching (pedology) (185) <!-- soil-fert-173 -->
-1227. **Nitrogen management** — Intermediate · Practice · Major · builds on: Nitrogen as a plant nutrient (1202), Nutrient management (1191), Nitrogen losses from soil (1226) <!-- soil-fert-194 -->
-1228. **Soil and crop nitrogen tests** — Intermediate · Method · Minor · builds on: Soil test (1186), Nitrogen management (1227) <!-- soil-fert-195 -->
-1229. **Sulfur as a plant nutrient** — Intermediate · Concept · Minor · builds on: Essential plant nutrients (1185), Macronutrients and micronutrients (1193) <!-- soil-fert-178 -->
-1230. **Mitscherlich's law of physiological relations** — Advanced · Concept · Minor · builds on: Liebig's law of the minimum (1192), Plant nutrition (1183) <!-- soil-fert-238 -->
-1231. **Barren vegetation** — Intermediate · Concept · Minor · builds on: Soil fertility (1182) <!-- soil-fert-199 -->
-1232. **Illinois Soil Nitrogen Test** — Intermediate · Method · Minor · builds on: Soil test (1186), Nitrogen as a plant nutrient (1202) <!-- soil-fert-191 -->
-1233. **Manganese deficiency** — Intermediate · Concept · Minor · builds on: Plant micronutrients (1195), Nutrient deficiency in plants (1197), Iron deficiency chlorosis (1218), Soil pH (66) <!-- soil-fert-229 -->
-1234. **Boron deficiency** — Intermediate · Concept · Minor · builds on: Boron as a plant nutrient (1208), Plant micronutrients (1195), Nutrient deficiency in plants (1197), Soil pH (66) <!-- soil-fert-226 -->
-1235. **Liebig's barrel** — Foundational · Concept · Minor · builds on: Liebig's law of the minimum (1192) <!-- soil-fert-183 -->
-1236. **Phosphorus deficiency** — Intermediate · Concept · Minor · builds on: Phosphorus as a plant nutrient (1206), Nutrient deficiency in plants (1197), Soil pH (66) <!-- soil-fert-232 -->
-1237. **Potassium deficiency** — Intermediate · Concept · Minor · builds on: Potassium as a plant nutrient (1207), Nutrient deficiency in plants (1197) <!-- soil-fert-233 -->
-1238. **Zinc deficiency** — Intermediate · Concept · Minor · builds on: Zinc as a plant nutrient (1214), Nutrient deficiency in plants (1197), Soil pH (66) <!-- soil-fert-230 -->
-1239. **Nitrogen use efficiency** — Intermediate · Concept · Minor · builds on: Nitrogen as a plant nutrient (1202) <!-- soil-fert-235 -->
-1240. **Law of the Maximum** — Intermediate · Concept · Minor · builds on: Liebig's law of the minimum (1192) <!-- soil-fert-200 -->
-1241. **Calcium deficiency** — Intermediate · Concept · Minor · builds on: Calcium as a plant nutrient (1223), Nutrient deficiency in plants (1197), Nutrient mobility in plants (1196), Transpiration (391) <!-- soil-fert-227 -->
-1242. **Hoagland solution** — Intermediate · Material · Minor · builds on: Essential plant nutrients (1185), Hydroponics (1209) <!-- soil-fert-234 -->
-1243. **Non-destructive plant tissue tests** — Intermediate · Method · Minor · builds on: Plant tissue analysis (1213), Nitrogen as a plant nutrient (1202), Nitrogen deficiency (1220) <!-- soil-fert-236 -->
-1244. **Luxury consumption** — Intermediate · Concept · Minor · builds on: Potassium as a plant nutrient (1207), Root nutrient uptake (1205) <!-- soil-fert-168 -->
+1321. **Nutrient** — Foundational · Concept · Major <!-- soil-fert-181 -->
+1322. **Soil fertility** — Foundational · Concept · Landmark · builds on: Soil (1), Nutrient (1321) <!-- soil-fert-149 -->
+1323. **Plant nutrition** — Foundational · Concept · Landmark · builds on: Nutrient (1321), Soil (1) <!-- soil-fert-156 -->
+1324. **Soil depletion** — Intermediate · Process · Major · builds on: Soil fertility (1322) <!-- soil-fert-151 -->
+1325. **Essential plant nutrients** — Foundational · Concept · Landmark · builds on: Plant nutrition (1323), Nutrient (1321) <!-- soil-fert-169 -->
+1326. **Soil test** — Foundational · Method · Major · builds on: Essential plant nutrients (1325), Soil pH (63) <!-- soil-fert-187 -->
+1327. **Colonial soil depletion** — Intermediate · Event · Minor · builds on: Soil depletion (1324) <!-- soil-fert-152 -->
+1328. **Irrigation effects on soil fertility** — Intermediate · Process · Minor · builds on: Soil fertility (1322), Soil salinity (763), Tilth (272) <!-- soil-fert-155 -->
+1329. **Soil depletion under plantation slavery** — Intermediate · Event · Minor · builds on: Soil depletion (1324) <!-- soil-fert-153 -->
+1330. **Soil fertility and human health** — Foundational · Concept · Minor · builds on: Soil fertility (1322) <!-- soil-fert-154 -->
+1331. **Nutrient management** — Intermediate · Practice · Major · builds on: Soil fertility (1322), Soil test (1326), Essential plant nutrients (1325) <!-- soil-fert-192 -->
+1332. **Liebig's law of the minimum** — Foundational · Concept · Landmark · builds on: Nutrient (1321), Plant nutrition (1323) <!-- soil-fert-182 -->
+1333. **Macronutrients and micronutrients** — Foundational · Classification · Major · builds on: Essential plant nutrients (1325) <!-- soil-fert-158 -->
+1334. **Soil fertilization** — Intermediate · Practice · Minor · builds on: Soil fertility (1322), Macronutrients and micronutrients (1333) <!-- soil-fert-150 -->
+1335. **Plant micronutrients** — Intermediate · Concept · Major · builds on: Macronutrients and micronutrients (1333), Essential plant nutrients (1325) <!-- soil-fert-179 -->
+1336. **Nutrient mobility in plants** — Intermediate · Concept · Major · builds on: Plant nutrition (1323), Macronutrients and micronutrients (1333) <!-- soil-fert-162 -->
+1337. **Nutrient deficiency in plants** — Intermediate · Concept · Major · builds on: Essential plant nutrients (1325), Nutrient mobility in plants (1336) <!-- soil-fert-163 -->
+1338. **Molybdenum deficiency** — Intermediate · Concept · Minor · builds on: Plant micronutrients (1335), Nutrient deficiency in plants (1337), Soil pH and nutrient availability (70), Soil pH (63) <!-- soil-fert-197 -->
+1339. **Nitrogen as a plant nutrient** — Intermediate · Concept · Major · builds on: Essential plant nutrients (1325), Macronutrients and micronutrients (1333), Soil organic matter (1045) <!-- soil-fert-172 -->
+1340. **Carbon-to-nitrogen ratio** — Intermediate · Concept · Major · builds on: Soil organic matter (1045), Composition of plant residues (33), Nitrogen as a plant nutrient (1339) <!-- soil-fert-184 -->
+1341. **Nutrient movement to roots** — Intermediate · Process · Major · builds on: Essential plant nutrients (1325), Root (957) <!-- soil-fert-170 -->
+1342. **Root nutrient uptake** — Intermediate · Process · Major · builds on: Nutrient movement to roots (1341), Root hair (965), Essential plant nutrients (1325), Cation-exchange capacity (705) <!-- soil-fert-157 -->
+1343. **Phosphorus as a plant nutrient** — Intermediate · Concept · Major · builds on: Essential plant nutrients (1325), Macronutrients and micronutrients (1333) <!-- soil-fert-174 -->
+1344. **Potassium as a plant nutrient** — Intermediate · Concept · Major · builds on: Essential plant nutrients (1325), Macronutrients and micronutrients (1333), Cation-exchange capacity (705) <!-- soil-fert-175 -->
+1345. **Engineering soil tests** — Intermediate · Method · Minor · builds on: Soil test (1326), Void ratio (316), Bulk density (310) <!-- soil-fert-189 -->
+1346. **Testing soil for lead** — Intermediate · Method · Minor · builds on: Soil test (1326) <!-- soil-fert-190 -->
+1347. **Boron as a plant nutrient** — Intermediate · Concept · Minor · builds on: Plant micronutrients (1335) <!-- soil-fert-160 -->
+1348. **Hydroponics** — Intermediate · Method · Minor · builds on: Essential plant nutrients (1325), Plant nutrition (1323) <!-- soil-fert-167 -->
+1349. **Iron as a plant nutrient** — Intermediate · Concept · Minor · builds on: Plant micronutrients (1335) <!-- soil-fert-159 -->
+1350. **Nutrient interactions** — Advanced · Concept · Minor · builds on: Essential plant nutrients (1325), Root nutrient uptake (1342) <!-- soil-fert-165 -->
+1351. **Plant nutrient toxicity** — Intermediate · Concept · Minor · builds on: Essential plant nutrients (1325), Nutrient deficiency in plants (1337) <!-- soil-fert-164 -->
+1352. **Plant tissue analysis** — Intermediate · Method · Minor · builds on: Essential plant nutrients (1325), Nutrient deficiency in plants (1337) <!-- soil-fert-166 -->
+1353. **Zinc as a plant nutrient** — Intermediate · Concept · Minor · builds on: Plant micronutrients (1335) <!-- soil-fert-161 -->
+1354. **Trace elements** — Foundational · Concept · Minor · builds on: Plant micronutrients (1335), Redox (725) <!-- soil-fert-290 -->
+1355. **Compost feedstock C:N balance** — Intermediate · Practice · Minor · builds on: Carbon-to-nitrogen ratio (1340) <!-- soil-fert-185 -->
+1356. **Sediment C/N ratio** — Advanced · Method · Minor · builds on: Carbon-to-nitrogen ratio (1340) <!-- soil-fert-186 -->
+1357. **Nutrient depletion** — Intermediate · Process · Minor · builds on: Nutrient (1321), Soil fertility (1322) <!-- soil-fert-196 -->
+1358. **Iron deficiency chlorosis** — Intermediate · Concept · Minor · builds on: Iron as a plant nutrient (1349), Nutrient deficiency in plants (1337), Soil pH and nutrient availability (70), Calcareous soil (783), Soil pH (63) <!-- soil-fert-201 -->
+1359. **Mineral nutrients** — Foundational · Concept · Minor · builds on: Nutrient (1321), Soil (1) <!-- soil-fert-289 -->
+1360. **Chlorosis** — Foundational · Concept · Minor · builds on: Nutrient deficiency in plants (1337) <!-- soil-fert-228 -->
+1361. **Beneficial plant elements** — Intermediate · Concept · Minor · builds on: Essential plant nutrients (1325) <!-- soil-fert-180 -->
+1362. **Calcium as a plant nutrient** — Intermediate · Concept · Minor · builds on: Essential plant nutrients (1325), Macronutrients and micronutrients (1333), Cation exchange (704) <!-- soil-fert-176 -->
+1363. **Carbon in plant nutrition** — Intermediate · Concept · Minor · builds on: Essential plant nutrients (1325), Plant nutrition (1323) <!-- soil-fert-171 -->
+1364. **Magnesium as a plant nutrient** — Intermediate · Concept · Minor · builds on: Essential plant nutrients (1325), Macronutrients and micronutrients (1333) <!-- soil-fert-177 -->
+1365. **Nitrogen losses from soil** — Intermediate · Process · Minor · builds on: Nitrogen as a plant nutrient (1339), Leaching (pedology) (183) <!-- soil-fert-173 -->
+1366. **Nitrogen management** — Intermediate · Practice · Major · builds on: Nitrogen as a plant nutrient (1339), Nutrient management (1331), Nitrogen losses from soil (1365) <!-- soil-fert-194 -->
+1367. **Sulfur as a plant nutrient** — Intermediate · Concept · Minor · builds on: Essential plant nutrients (1325), Macronutrients and micronutrients (1333) <!-- soil-fert-178 -->
+1368. **Nitrogen deficiency** — Intermediate · Concept · Minor · builds on: Nitrogen as a plant nutrient (1339), Nutrient deficiency in plants (1337), Chlorosis (1360) <!-- soil-fert-231 -->
+1369. **Nutrient management plan** — Intermediate · Practice · Minor · builds on: Nutrient management (1331) <!-- soil-fert-193 -->
+1370. **Soil and crop nitrogen tests** — Intermediate · Method · Minor · builds on: Soil test (1326), Nitrogen management (1366) <!-- soil-fert-195 -->
+1371. **Mitscherlich's law of physiological relations** — Advanced · Concept · Minor · builds on: Liebig's law of the minimum (1332), Plant nutrition (1323) <!-- soil-fert-238 -->
+1372. **Barren vegetation** — Intermediate · Concept · Minor · builds on: Soil fertility (1322) <!-- soil-fert-199 -->
+1373. **Illinois Soil Nitrogen Test** — Intermediate · Method · Minor · builds on: Soil test (1326), Nitrogen as a plant nutrient (1339) <!-- soil-fert-191 -->
+1374. **Manganese deficiency** — Intermediate · Concept · Minor · builds on: Plant micronutrients (1335), Nutrient deficiency in plants (1337), Iron deficiency chlorosis (1358), Soil pH (63) <!-- soil-fert-229 -->
+1375. **Boron deficiency** — Intermediate · Concept · Minor · builds on: Boron as a plant nutrient (1347), Plant micronutrients (1335), Nutrient deficiency in plants (1337), Soil pH (63) <!-- soil-fert-226 -->
+1376. **Liebig's barrel** — Foundational · Concept · Minor · builds on: Liebig's law of the minimum (1332) <!-- soil-fert-183 -->
+1377. **Organic matter and nutrient availability** — Intermediate · Concept · Major · builds on: Soil organic matter (1045) <!-- soil-fert-288 -->
+1378. **Regional patterns of nutrient deficiency** — Intermediate · Concept · Major · builds on: Essential plant nutrients (1325) <!-- soil-fert-286 -->
+1379. **On-farm nutrient cycling** — Intermediate · Practice · Major · builds on: Nutrient management (1331) <!-- soil-fert-291 -->
+1380. **Phosphorus deficiency** — Intermediate · Concept · Minor · builds on: Phosphorus as a plant nutrient (1343), Nutrient deficiency in plants (1337), Soil pH (63) <!-- soil-fert-232 -->
+1381. **Potassium deficiency** — Intermediate · Concept · Minor · builds on: Potassium as a plant nutrient (1344), Nutrient deficiency in plants (1337) <!-- soil-fert-233 -->
+1382. **Manganese as a plant nutrient** — Intermediate · Concept · Minor · builds on: Plant micronutrients (1335) <!-- soil-fert-285 -->
+1383. **Zinc deficiency** — Intermediate · Concept · Minor · builds on: Zinc as a plant nutrient (1353), Nutrient deficiency in plants (1337), Soil pH (63) <!-- soil-fert-230 -->
+1384. **Copper as a plant nutrient** — Intermediate · Concept · Minor · builds on: Plant micronutrients (1335) <!-- soil-fert-284 -->
+1385. **Nitrogen use efficiency** — Intermediate · Concept · Minor · builds on: Nitrogen as a plant nutrient (1339) <!-- soil-fert-235 -->
+1386. **Law of the Maximum** — Intermediate · Concept · Minor · builds on: Liebig's law of the minimum (1332) <!-- soil-fert-200 -->
+1387. **Calcium deficiency** — Intermediate · Concept · Minor · builds on: Calcium as a plant nutrient (1362), Nutrient deficiency in plants (1337), Nutrient mobility in plants (1336), Transpiration (527) <!-- soil-fert-227 -->
+1388. **Hoagland solution** — Intermediate · Material · Minor · builds on: Essential plant nutrients (1325), Hydroponics (1348) <!-- soil-fert-234 -->
+1389. **Commercial and organic nutrient sources** — Foundational · Concept · Minor <!-- soil-fert-292 -->
+1390. **Nutrient management and plant health** — Intermediate · Concept · Minor · builds on: Nutrient management (1331) <!-- soil-fert-287 -->
+1391. **Non-destructive plant tissue tests** — Intermediate · Method · Minor · builds on: Plant tissue analysis (1352), Nitrogen as a plant nutrient (1339), Nitrogen deficiency (1368) <!-- soil-fert-236 -->
+1392. **Luxury consumption** — Intermediate · Concept · Minor · builds on: Potassium as a plant nutrient (1344), Root nutrient uptake (1342) <!-- soil-fert-168 -->
 
 ### Nutrient cycles
 
-1245. **Biogeochemical cycle** — Foundational · Process · Landmark · builds on: Pedosphere (3), Soil (1) <!-- soil-fert-140 -->
-1246. **Nitrogen cycle** — Foundational · Process · Landmark · builds on: Biogeochemical cycle (1245), Nitrogen as a plant nutrient (1202), Soil organic matter (26) <!-- soil-fert-099 -->
-1247. **Nitrogen fixation** — Intermediate · Process · Landmark · builds on: Nitrogen cycle (1246) <!-- soil-fert-100 -->
-1248. **Phosphorus cycle** — Intermediate · Process · Landmark · builds on: Biogeochemical cycle (1245), Phosphorus as a plant nutrient (1206), Weathering (28) <!-- soil-fert-127 -->
-1249. **Sulfur cycle** — Intermediate · Process · Major · builds on: Biogeochemical cycle (1245), Redox (660), Sulfur as a plant nutrient (1229) <!-- soil-fert-133 -->
-1250. **Nutrient cycle** — Foundational · Process · Major · builds on: Biogeochemical cycle (1245), Nutrient (1181) <!-- soil-fert-146 -->
-1251. **Immobilization (soil science)** — Intermediate · Process · Major · builds on: Mineralization (soil science) (954), Carbon-to-nitrogen ratio (1203), Nitrogen cycle (1246) <!-- soil-fert-121 -->
-1252. **Calcium cycle** — Intermediate · Process · Major · builds on: Biogeochemical cycle (1245), Calcium as a plant nutrient (1223), Weathering (28) <!-- soil-fert-139 -->
-1253. **Ammonification** — Intermediate · Process · Major · builds on: Nitrogen cycle (1246), Mineralization (soil science) (954), Soil organic matter (26) <!-- soil-fert-106 -->
-1254. **Nitrification** — Intermediate · Process · Major · builds on: Nitrogen cycle (1246), Ammonification (1253), Redox (660) <!-- soil-fert-112 -->
-1255. **Nitrifying bacteria** — Intermediate · Concept · Major · builds on: Nitrification (1254), Chemolithotrophy (781), Lithotroph (779) <!-- soil-fert-113 -->
-1256. **Nitrosomonas** — Intermediate · Concept · Minor · builds on: Nitrifying bacteria (1255), Nitrification (1254) <!-- soil-fert-114 -->
-1257. **Reactive nitrogen** — Intermediate · Concept · Major · builds on: Nitrogen cycle (1246), Nitrogen fixation (1247) <!-- soil-fert-122 -->
-1258. **Haber–Bosch process** — Intermediate · Process · Major · builds on: Nitrogen fixation (1247) <!-- soil-fert-104 -->
-1259. **Iron cycle** — Intermediate · Process · Minor · builds on: Biogeochemical cycle (1245), Redox (660) <!-- soil-fert-143 -->
-1260. **Discovery of biological nitrogen fixation** — Intermediate · Event · Minor · builds on: Nitrogen fixation (1247), Root nodule (899) <!-- soil-fert-105 -->
-1261. **Oxygen cycle** — Intermediate · Process · Minor · builds on: Biogeochemical cycle (1245), Redox (660) <!-- soil-found-065 -->
-1262. **Nitrification inhibitor** — Intermediate · Material · Major · builds on: Nitrification (1254), Nitrogen as a plant nutrient (1202) <!-- soil-fert-116 -->
-1263. **Denitrification** — Intermediate · Process · Major · builds on: Nitrogen cycle (1246), Nitrification (1254), Anaerobic respiration (677), Redox (660) <!-- soil-fert-108 -->
-1264. **Denitrifying bacteria** — Intermediate · Concept · Major · builds on: Denitrification (1263), Soil bacteria (766), Soil microbiology (751) <!-- soil-fert-119 -->
-1265. **Human impact on the nitrogen cycle** — Intermediate · Concept · Major · builds on: Nitrogen cycle (1246), Reactive nitrogen (1257), Haber–Bosch process (1258) <!-- soil-fert-123 -->
-1266. **Nitrogen assimilation** — Intermediate · Process · Minor · builds on: Nitrogen cycle (1246), Root nutrient uptake (1205), Root hair (875) <!-- soil-fert-107 -->
-1267. **Mercury cycle** — Advanced · Process · Minor · builds on: Biogeochemical cycle (1245), Weathering (28) <!-- soil-found-066 -->
-1268. **Reservoirs and residence time** — Intermediate · Concept · Minor · builds on: Biogeochemical cycle (1245) <!-- soil-fert-141 -->
-1269. **Biogeochemistry** — Intermediate · Concept · Major · builds on: Biogeochemical cycle (1245), Pedosphere (3) <!-- soil-fert-218 -->
-1270. **Diazotroph** — Intermediate · Concept · Major · builds on: Nitrogen fixation (1247), Soil bacteria (766) <!-- soil-fert-102 -->
-1271. **Phosphorus release by weathering** — Intermediate · Process · Major · builds on: Phosphorus cycle (1248), Chemical weathering (31), Weathering (28) <!-- soil-fert-128 -->
-1272. **Soil phosphorus retention** — Intermediate · Process · Major · builds on: Phosphorus cycle (1248), Sorption (618), Phosphorus as a plant nutrient (1206), Soil pH (66) <!-- soil-fert-129 -->
-1273. **Silica cycle** — Intermediate · Process · Minor · builds on: Biogeochemical cycle (1245), Silicate minerals (46), Weathering (28) <!-- soil-found-067 -->
-1274. **Ammonia-oxidizing archaea** — Advanced · Concept · Minor · builds on: Nitrification (1254), Nitrifying bacteria (1255) <!-- soil-fert-115 -->
-1275. **Discovery of nitrification** — Intermediate · Event · Minor · builds on: Nitrification (1254) <!-- soil-fert-117 -->
-1276. **Bioavailability (soil)** — Intermediate · Concept · Minor · builds on: Sorption (618), Cation-exchange capacity (641), Root nutrient uptake (1205), Soil organic matter (26) <!-- soil-fert-145 -->
-1277. **Nitrobacter** — Intermediate · Concept · Minor · builds on: Nitrifying bacteria (1255), Nitrification (1254) <!-- soil-fert-147 -->
-1278. **Dissimilatory sulfate reduction** — Advanced · Process · Minor · builds on: Sulfur cycle (1249), Anaerobic respiration (677), Redox (660) <!-- soil-fert-135 -->
-1279. **Sulfate-reducing microorganisms** — Advanced · Concept · Minor · builds on: Dissimilatory sulfate reduction (1278), Sulfur cycle (1249), Redox (660) <!-- soil-fert-148 -->
-1280. **Human impact on the sulfur cycle** — Intermediate · Concept · Minor · builds on: Sulfur cycle (1249) <!-- soil-fert-136 -->
-1281. **Human impact on the phosphorus cycle** — Intermediate · Concept · Minor · builds on: Phosphorus cycle (1248) <!-- soil-fert-131 -->
-1282. **Organic phosphorus mineralization** — Intermediate · Process · Minor · builds on: Phosphorus cycle (1248), Mineralization (soil science) (954), Soil enzyme (765) <!-- soil-fert-130 -->
-1283. **Urease** — Intermediate · Concept · Minor · builds on: Soil enzyme (765) <!-- soil-fert-224 -->
-1284. **Potassium cycle** — Intermediate · Process · Major · builds on: Biogeochemical cycle (1245), Potassium as a plant nutrient (1207), Weathering (28) <!-- soil-fert-137 -->
-1285. **Nitrogenase** — Advanced · Concept · Minor · builds on: Nitrogen fixation (1247), Diazotroph (1270) <!-- soil-fert-101 -->
-1286. **Soil nitrous oxide emissions** — Intermediate · Process · Major · builds on: Nitrification (1254), Denitrification (1263) <!-- soil-fert-118 -->
-1287. **Denitrification-coupled methane oxidation** — Advanced · Process · Minor · builds on: Denitrification (1263), Denitrifying bacteria (1264) <!-- soil-fert-120 -->
-1288. **Nitrospira** — Intermediate · Concept · Minor · builds on: Nitrification (1254), Nitrifying bacteria (1255), Soil bacteria (766) <!-- soil-fert-221 -->
-1289. **Comammox** — Advanced · Process · Minor · builds on: Nitrification (1254), Nitrifying bacteria (1255) <!-- soil-fert-110 -->
-1290. **Anammox** — Advanced · Process · Minor · builds on: Nitrification (1254), Denitrification (1263) <!-- soil-fert-111 -->
-1291. **Leghemoglobin** — Advanced · Concept · Minor · builds on: Root nodule (899), Nitrogen fixation (1247), Nitrogenase (1285), Rhizobia (892) <!-- soil-fert-219 -->
-1292. **Nitrogen cascade** — Advanced · Concept · Minor · builds on: Reactive nitrogen (1257), Human impact on the nitrogen cycle (1265), Denitrification (1263) <!-- soil-fert-126 -->
-1293. **Nitrogen deposition** — Intermediate · Process · Minor · builds on: Reactive nitrogen (1257), Human impact on the nitrogen cycle (1265) <!-- soil-fert-124 -->
-1294. **Nitrogen saturation** — Advanced · Concept · Minor · builds on: Nitrogen deposition (1293), Immobilization (soil science) (1251), Nitrogen losses from soil (1226) <!-- soil-fert-125 -->
-1295. **Dissimilatory nitrate reduction to ammonium** — Advanced · Process · Minor · builds on: Denitrification (1263), Anaerobic respiration (677), Ammonification (1253) <!-- soil-fert-109 -->
-1296. **Microbial sulfur oxidation** — Advanced · Process · Minor · builds on: Sulfur cycle (1249), Chemolithotrophy (781), Lithotroph (779) <!-- soil-fert-134 -->
-1297. **Selenium cycle** — Intermediate · Process · Minor · builds on: Biogeochemical cycle (1245), Redox (660) <!-- soil-fert-222 -->
-1298. **Soil potassium pools** — Intermediate · Classification · Minor · builds on: Potassium cycle (1284), Cation exchange (640), Cation-exchange capacity (641) <!-- soil-fert-138 -->
-1299. **Phosphate solubilizing bacteria** — Intermediate · Concept · Minor · builds on: Soil phosphorus retention (1272), Soil bacteria (766), Rhizosphere (880) <!-- soil-fert-132 -->
-1300. **Sulfur assimilation** — Advanced · Process · Minor · builds on: Sulfur cycle (1249), Sulfur as a plant nutrient (1229) <!-- soil-fert-223 -->
-1301. **Nitrous oxide reductase** — Advanced · Concept · Minor · builds on: Denitrification (1263), Denitrifying bacteria (1264), Soil nitrous oxide emissions (1286) <!-- soil-fert-225 -->
-1302. **Nitrogen-15 tracing** — Advanced · Method · Minor · builds on: Nitrogen cycle (1246), Nitrification (1254), Denitrification (1263) <!-- soil-fert-220 -->
+1393. **Biogeochemical cycle** — Foundational · Process · Landmark · builds on: Pedosphere (3), Soil (1) <!-- soil-fert-140 -->
+1394. **Nitrogen cycle** — Foundational · Process · Landmark · builds on: Biogeochemical cycle (1393), Nitrogen as a plant nutrient (1339), Soil organic matter (1045) <!-- soil-fert-099 -->
+1395. **Nitrogen fixation** — Intermediate · Process · Landmark · builds on: Nitrogen cycle (1394) <!-- soil-fert-100 -->
+1396. **Phosphorus cycle** — Intermediate · Process · Landmark · builds on: Biogeochemical cycle (1393), Phosphorus as a plant nutrient (1343), Weathering (27) <!-- soil-fert-127 -->
+1397. **Sulfur cycle** — Intermediate · Process · Major · builds on: Biogeochemical cycle (1393), Redox (725), Sulfur as a plant nutrient (1367) <!-- soil-fert-133 -->
+1398. **Nutrient cycle** — Foundational · Process · Major · builds on: Biogeochemical cycle (1393), Nutrient (1321) <!-- soil-fert-146 -->
+1399. **Immobilization (soil science)** — Intermediate · Process · Major · builds on: Mineralization (soil science) (1050), Carbon-to-nitrogen ratio (1340), Nitrogen cycle (1394) <!-- soil-fert-121 -->
+1400. **Calcium cycle** — Intermediate · Process · Major · builds on: Biogeochemical cycle (1393), Calcium as a plant nutrient (1362), Weathering (27) <!-- soil-fert-139 -->
+1401. **Ammonification** — Intermediate · Process · Major · builds on: Nitrogen cycle (1394), Mineralization (soil science) (1050), Soil organic matter (1045) <!-- soil-fert-106 -->
+1402. **Nitrification** — Intermediate · Process · Major · builds on: Nitrogen cycle (1394), Ammonification (1401), Redox (725) <!-- soil-fert-112 -->
+1403. **Nitrifying bacteria** — Intermediate · Concept · Major · builds on: Nitrification (1402), Chemolithotrophy (858), Lithotroph (856) <!-- soil-fert-113 -->
+1404. **Nitrosomonas** — Intermediate · Concept · Minor · builds on: Nitrifying bacteria (1403), Nitrification (1402) <!-- soil-fert-114 -->
+1405. **Reactive nitrogen** — Intermediate · Concept · Major · builds on: Nitrogen cycle (1394), Nitrogen fixation (1395) <!-- soil-fert-122 -->
+1406. **Haber–Bosch process** — Intermediate · Process · Major · builds on: Nitrogen fixation (1395) <!-- soil-fert-104 -->
+1407. **Iron cycle** — Intermediate · Process · Minor · builds on: Biogeochemical cycle (1393), Redox (725) <!-- soil-fert-143 -->
+1408. **Oxygen cycle** — Intermediate · Process · Minor · builds on: Biogeochemical cycle (1393), Redox (725) <!-- soil-found-065 -->
+1409. **Discovery of biological nitrogen fixation** — Intermediate · Event · Minor · builds on: Nitrogen fixation (1395), Root nodule (989) <!-- soil-fert-105 -->
+1410. **Denitrification** — Intermediate · Process · Major · builds on: Nitrogen cycle (1394), Nitrification (1402), Anaerobic respiration (742), Redox (725) <!-- soil-fert-108 -->
+1411. **Denitrifying bacteria** — Intermediate · Concept · Major · builds on: Denitrification (1410), Soil bacteria (842), Soil microbiology (827) <!-- soil-fert-119 -->
+1412. **Nitrification inhibitor** — Intermediate · Material · Major · builds on: Nitrification (1402), Nitrogen as a plant nutrient (1339) <!-- soil-fert-116 -->
+1413. **Human impact on the nitrogen cycle** — Intermediate · Concept · Major · builds on: Nitrogen cycle (1394), Reactive nitrogen (1405), Haber–Bosch process (1406) <!-- soil-fert-123 -->
+1414. **Nitrogen assimilation** — Intermediate · Process · Minor · builds on: Nitrogen cycle (1394), Root nutrient uptake (1342), Root hair (965) <!-- soil-fert-107 -->
+1415. **Mercury cycle** — Advanced · Process · Minor · builds on: Biogeochemical cycle (1393), Weathering (27) <!-- soil-found-066 -->
+1416. **Reservoirs and residence time** — Intermediate · Concept · Minor · builds on: Biogeochemical cycle (1393) <!-- soil-fert-141 -->
+1417. **Biogeochemistry** — Intermediate · Concept · Major · builds on: Biogeochemical cycle (1393), Pedosphere (3) <!-- soil-fert-218 -->
+1418. **Diazotroph** — Intermediate · Concept · Major · builds on: Nitrogen fixation (1395), Soil bacteria (842) <!-- soil-fert-102 -->
+1419. **Phosphorus release by weathering** — Intermediate · Process · Major · builds on: Phosphorus cycle (1396), Chemical weathering (28), Weathering (27) <!-- soil-fert-128 -->
+1420. **Soil phosphorus retention** — Intermediate · Process · Major · builds on: Phosphorus cycle (1396), Sorption (681), Phosphorus as a plant nutrient (1343), Soil pH (63) <!-- soil-fert-129 -->
+1421. **Silica cycle** — Intermediate · Process · Minor · builds on: Biogeochemical cycle (1393), Silicate minerals (43), Weathering (27) <!-- soil-found-067 -->
+1422. **Ammonia-oxidizing archaea** — Advanced · Concept · Minor · builds on: Nitrification (1402), Nitrifying bacteria (1403) <!-- soil-fert-115 -->
+1423. **Discovery of nitrification** — Intermediate · Event · Minor · builds on: Nitrification (1402) <!-- soil-fert-117 -->
+1424. **Bioavailability (soil)** — Intermediate · Concept · Minor · builds on: Sorption (681), Cation-exchange capacity (705), Root nutrient uptake (1342), Soil organic matter (1045) <!-- soil-fert-145 -->
+1425. **Nitrobacter** — Intermediate · Concept · Minor · builds on: Nitrifying bacteria (1403), Nitrification (1402) <!-- soil-fert-147 -->
+1426. **Dissimilatory sulfate reduction** — Advanced · Process · Minor · builds on: Sulfur cycle (1397), Anaerobic respiration (742), Redox (725), Electron acceptor (732) <!-- soil-fert-135 -->
+1427. **Sulfate-reducing microorganisms** — Advanced · Concept · Minor · builds on: Dissimilatory sulfate reduction (1426), Sulfur cycle (1397), Redox (725) <!-- soil-fert-148 -->
+1428. **Human impact on the sulfur cycle** — Intermediate · Concept · Minor · builds on: Sulfur cycle (1397) <!-- soil-fert-136 -->
+1429. **Human impact on the phosphorus cycle** — Intermediate · Concept · Minor · builds on: Phosphorus cycle (1396) <!-- soil-fert-131 -->
+1430. **Organic phosphorus mineralization** — Intermediate · Process · Minor · builds on: Phosphorus cycle (1396), Mineralization (soil science) (1050), Soil enzyme (841) <!-- soil-fert-130 -->
+1431. **Urease** — Intermediate · Concept · Minor · builds on: Soil enzyme (841) <!-- soil-fert-224 -->
+1432. **Potassium cycle** — Intermediate · Process · Major · builds on: Biogeochemical cycle (1393), Potassium as a plant nutrient (1344), Weathering (27) <!-- soil-fert-137 -->
+1433. **Nitrogenase** — Advanced · Concept · Minor · builds on: Nitrogen fixation (1395), Diazotroph (1418) <!-- soil-fert-101 -->
+1434. **Soil nitrous oxide emissions** — Intermediate · Process · Major · builds on: Nitrification (1402), Denitrification (1410) <!-- soil-fert-118 -->
+1435. **Denitrification-coupled methane oxidation** — Advanced · Process · Minor · builds on: Denitrification (1410), Denitrifying bacteria (1411) <!-- soil-fert-120 -->
+1436. **Nitrospira** — Intermediate · Concept · Minor · builds on: Nitrification (1402), Nitrifying bacteria (1403), Soil bacteria (842) <!-- soil-fert-221 -->
+1437. **Comammox** — Advanced · Process · Minor · builds on: Nitrification (1402), Nitrifying bacteria (1403) <!-- soil-fert-110 -->
+1438. **Anammox** — Advanced · Process · Minor · builds on: Nitrification (1402), Denitrification (1410) <!-- soil-fert-111 -->
+1439. **Phosphatase** — Intermediate · Material · Minor · builds on: Hydrolysis (88) <!-- soil-fert-275 -->
+1440. **Leghemoglobin** — Advanced · Concept · Minor · builds on: Root nodule (989), Nitrogen fixation (1395), Nitrogenase (1433), Rhizobia (982) <!-- soil-fert-219 -->
+1441. **Nitrogen cascade** — Advanced · Concept · Minor · builds on: Reactive nitrogen (1405), Human impact on the nitrogen cycle (1413), Denitrification (1410) <!-- soil-fert-126 -->
+1442. **Nitrogen deposition** — Intermediate · Process · Minor · builds on: Reactive nitrogen (1405), Human impact on the nitrogen cycle (1413) <!-- soil-fert-124 -->
+1443. **Nitrogen saturation** — Advanced · Concept · Minor · builds on: Nitrogen deposition (1442), Immobilization (soil science) (1399), Nitrogen losses from soil (1365) <!-- soil-fert-125 -->
+1444. **Dissimilatory nitrate reduction to ammonium** — Advanced · Process · Minor · builds on: Denitrification (1410), Anaerobic respiration (742), Ammonification (1401) <!-- soil-fert-109 -->
+1445. **Nutrient flows** — Foundational · Concept · Major · builds on: Nutrient cycle (1398) <!-- soil-fert-276 -->
+1446. **Farm nutrient balance** — Intermediate · Concept · Major · builds on: Nutrient flows (1445) <!-- soil-fert-279 -->
+1447. **Breaks in nutrient cycling** — Intermediate · Concept · Major · builds on: Nutrient flows (1445) <!-- soil-fert-278 -->
+1448. **Microbial sulfur oxidation** — Advanced · Process · Minor · builds on: Sulfur cycle (1397), Chemolithotrophy (858), Lithotroph (856) <!-- soil-fert-134 -->
+1449. **Selenium cycle** — Intermediate · Process · Minor · builds on: Biogeochemical cycle (1393), Redox (725) <!-- soil-fert-222 -->
+1450. **Nitrous oxide reductase** — Advanced · Concept · Minor · builds on: Denitrification (1410), Denitrifying bacteria (1411), Soil nitrous oxide emissions (1434) <!-- soil-fert-225 -->
+1451. **Soil potassium pools** — Intermediate · Classification · Minor · builds on: Potassium cycle (1432), Cation exchange (704), Cation-exchange capacity (705) <!-- soil-fert-138 -->
+1452. **Phosphate solubilizing bacteria** — Intermediate · Concept · Minor · builds on: Soil phosphorus retention (1420), Soil bacteria (842), Rhizosphere (970) <!-- soil-fert-132 -->
+1453. **Sulfur assimilation** — Advanced · Process · Minor · builds on: Sulfur cycle (1397), Sulfur as a plant nutrient (1367) <!-- soil-fert-223 -->
+1454. **Ion exchange membranes** — Advanced · Method · Minor · builds on: Cation exchange (704), Sulfur cycle (1397), Soil phosphorus retention (1420) <!-- soil-fert-283 -->
+1455. **Alluvial nutrient replenishment** — Foundational · Concept · Minor <!-- soil-fert-277 -->
+1456. **Nitrogen balance indicator** — Advanced · Method · Minor · builds on: Nitrogen cycle (1394) <!-- soil-fert-280 -->
+1457. **Unintended nutrient losses** — Intermediate · Concept · Minor <!-- soil-fert-281 -->
+1458. **Global grain trade and nutrient flows** — Intermediate · Concept · Minor <!-- soil-fert-282 -->
+1459. **Nitrogen-15 tracing** — Advanced · Method · Minor · builds on: Nitrogen cycle (1394), Nitrification (1402), Denitrification (1410) <!-- soil-fert-220 -->
 
 ### Fertilizers, manures and amendments
 
-1303. **Fertilizer** — Foundational · Material · Landmark · builds on: Nutrient (1181), Plant nutrition (1183), Soil fertility (1182) <!-- soil-fert-001 -->
-1304. **Compost** — Foundational · Material · Landmark · builds on: Decomposition (951), Soil organic matter (26), Humus (952) <!-- soil-fert-028 -->
-1305. **Soil conditioner** — Intermediate · Material · Major · builds on: Soil structure (249), Soil fertility (1182) <!-- soil-fert-063 -->
-1306. **Mulch** — Foundational · Material · Major · builds on: Soil moisture (371) <!-- soil-fert-066 -->
-1307. **Biochar** — Intermediate · Material · Major · builds on: Charcoal (1141), Soil organic matter (26), Soil fertility (1182) <!-- soil-fert-050 -->
-1308. **Environmental effects of fertilizers** — Intermediate · Concept · Major · builds on: Fertilizer (1303) <!-- soil-fert-014 -->
-1309. **Fertilizer application timing** — Intermediate · Practice · Major · builds on: Fertilizer (1303), Nutrient management (1191) <!-- soil-fert-011 -->
-1310. **Macronutrients in fertilizers** — Foundational · Concept · Major · builds on: Fertilizer (1303), Macronutrients and micronutrients (1193), Nutrient (1181), Plant nutrition (1183) <!-- soil-fert-003 -->
-1311. **Fertilizer classification** — Intermediate · Classification · Major · builds on: Fertilizer (1303), Macronutrients in fertilizers (1310) <!-- soil-fert-004 -->
-1312. **Nitrogen fertilizers** — Intermediate · Material · Major · builds on: Fertilizer (1303), Nitrogen as a plant nutrient (1202), Haber–Bosch process (1258), Nitrogen cycle (1246) <!-- soil-fert-007 -->
-1313. **Urea** — Intermediate · Material · Major · builds on: Nitrogen fertilizers (1312), Nitrogen as a plant nutrient (1202) <!-- soil-fert-021 -->
-1314. **Leachate** — Intermediate · Concept · Minor · builds on: Leaching (pedology) (185) <!-- soil-fert-073 -->
-1315. **Agricultural lime** — Foundational · Material · Major · builds on: Soil pH (66), Soil acidification (697), Carbonate minerals (59) <!-- soil-fert-059 -->
-1316. **Liming (soil)** — Intermediate · Practice · Major · builds on: Soil pH (66), Soil acidification (697), Agricultural lime (1315), Cation-exchange capacity (641) <!-- soil-fert-055 -->
-1317. **Perlite** — Foundational · Material · Minor · builds on: Soil conditioner (1305) <!-- soil-fert-072 -->
-1318. **Carbon farming** — Intermediate · Practice · Major · builds on: Soil organic matter (26), Soil organic matter in the carbon cycle (30) <!-- soil-fert-076 -->
-1319. **Compost application** — Intermediate · Practice · Major · builds on: Compost (1304) <!-- soil-fert-034 -->
-1320. **Composting** — Foundational · Process · Major · builds on: Compost (1304), Decomposition (951), Carbon-to-nitrogen ratio (1203) <!-- soil-fert-029 -->
-1321. **Fertilizer effects on soil biology** — Intermediate · Concept · Minor · builds on: Environmental effects of fertilizers (1308), Soil biology (750), Mycorrhiza (881), Nitrogen fertilizers (1312) <!-- soil-fert-019 -->
-1322. **Fertilizers and greenhouse gases** — Intermediate · Concept · Minor · builds on: Nitrogen fertilizers (1312), Haber–Bosch process (1258), Soil nitrous oxide emissions (1286), Nitrogen cycle (1246) <!-- soil-fert-020 -->
-1323. **Micronutrient fertilizers** — Intermediate · Material · Minor · builds on: Fertilizer (1303), Plant micronutrients (1195), Macronutrients in fertilizers (1310), Essential plant nutrients (1185) <!-- soil-fert-006 -->
-1324. **Solid and liquid fertilizers** — Intermediate · Practice · Minor · builds on: Fertilizer (1303) <!-- soil-fert-012 -->
-1325. **Trace mineral depletion** — Intermediate · Debate · Minor · builds on: Micronutrient fertilizers (1323), Plant micronutrients (1195) <!-- soil-fert-018 -->
-1326. **Biofertilizer** — Intermediate · Material · Major · builds on: Rhizosphere (880), Microbial inoculant (776), Fertilizer (1303), Nitrogen fixation (1247) <!-- soil-fert-048 -->
-1327. **Rock flour** — Intermediate · Material · Minor · builds on: Silt (237), Physical weathering (35), Weathering (28) <!-- soil-fert-075 -->
-1328. **Marl** — Intermediate · Material · Minor · builds on: Carbonate minerals (59), Clay (49), Silt (237) <!-- soil-fert-079 -->
-1329. **Vermicompost** — Intermediate · Material · Major · builds on: Compost (1304), Vermicomposting (771), Worm cast (805), Earthworm (758) <!-- soil-fert-039 -->
-1330. **Biochar as a soil amendment** — Intermediate · Practice · Major · builds on: Biochar (1307), Soil fertility (1182), Cation-exchange capacity (641), Soil water retention (376) <!-- soil-fert-054 -->
-1331. **Biochar carbon removal** — Intermediate · Practice · Major · builds on: Biochar (1307), Soil organic matter in the carbon cycle (30) <!-- soil-fert-053 -->
-1332. **Compost organisms** — Intermediate · Concept · Minor · builds on: Composting (1320), Decomposer (962), Soil microbiology (751) <!-- soil-fert-030 -->
-1333. **Compost tea** — Intermediate · Material · Minor · builds on: Compost (1304) <!-- soil-fert-035 -->
-1334. **Industrial composting** — Intermediate · Practice · Minor · builds on: Composting (1320) <!-- soil-fert-036 -->
-1335. **Phases of composting** — Intermediate · Process · Minor · builds on: Composting (1320), Compost organisms (1332) <!-- soil-fert-031 -->
-1336. **Hot and cold composting** — Intermediate · Practice · Minor · builds on: Composting (1320), Phases of composting (1335) <!-- soil-fert-032 -->
-1337. **Pathogen removal in composting** — Intermediate · Process · Minor · builds on: Phases of composting (1335), Soil-borne pathogen (786), Composting (1320) <!-- soil-fert-033 -->
-1338. **Controlled-release fertiliser** — Intermediate · Material · Major · builds on: Fertilizer (1303), Solid and liquid fertilizers (1324), Nitrogen fertilizers (1312), Urea (1313) <!-- soil-fert-022 -->
-1339. **Ammonia volatilization from urea** — Intermediate · Process · Major · builds on: Urea (1313), Soil pH (66), Nitrogen losses from soil (1226), Nitrogen cycle (1246) <!-- soil-fert-084 -->
-1340. **Fertilizer burn** — Intermediate · Process · Minor · builds on: Fertilizer (1303), Soil salinity (696) <!-- soil-fert-082 -->
-1341. **Potassium fertilizers** — Intermediate · Material · Major · builds on: Fertilizer (1303), Potassium as a plant nutrient (1207), Potassium cycle (1284) <!-- soil-fert-009 -->
-1342. **Raised-bed gardening** — Foundational · Practice · Minor · builds on: Soil compaction (304) <!-- soil-fert-086 -->
-1343. **Hügelkultur** — Intermediate · Practice · Minor · builds on: Raised-bed gardening (1342), Decomposition (951), Carbon-to-nitrogen ratio (1203) <!-- soil-fert-088 -->
-1344. **Foliar feeding** — Intermediate · Practice · Minor · builds on: Fertilizer (1303), Solid and liquid fertilizers (1324), Root nutrient uptake (1205), Plant nutrition (1183) <!-- soil-fert-092 -->
-1345. **Hydroabsorbent polymers** — Intermediate · Material · Minor · builds on: Soil conditioner (1305), Soil water retention (376) <!-- soil-fert-065 -->
-1346. **Polyacrylamide soil conditioners** — Intermediate · Material · Minor · builds on: Soil conditioner (1305), Soil aggregate stability (279), Soil structure (249) <!-- soil-fert-064 -->
-1347. **Organic fertilizers** — Foundational · Material · Major · builds on: Fertilizer (1303), Organic matter (950) <!-- soil-fert-010 -->
-1348. **Manure** — Foundational · Material · Landmark · builds on: Organic fertilizers (1347), Soil organic matter (26), Soil fertility (1182) <!-- soil-fert-023 -->
-1349. **Green manure** — Foundational · Practice · Major · builds on: Organic fertilizers (1347), Soil organic matter (26), Manure (1348), Nitrogen fixation (1247) <!-- soil-fert-026 -->
-1350. **Animal manure** — Foundational · Material · Major · builds on: Manure (1348) <!-- soil-fert-024 -->
-1351. **Bone meal** — Intermediate · Material · Minor · builds on: Organic fertilizers (1347), Phosphorus as a plant nutrient (1206), Fertilizer (1303), Essential plant nutrients (1185) <!-- soil-fert-090 -->
-1352. **Seaweed fertiliser** — Intermediate · Material · Minor · builds on: Organic fertilizers (1347), Fertilizer (1303), Soil conditioner (1305) <!-- soil-fert-081 -->
-1353. **Guano** — Foundational · Material · Major · builds on: Animal manure (1350), Fertilizer (1303) <!-- soil-fert-209 -->
-1354. **Hazards of animal manure** — Intermediate · Concept · Minor · builds on: Animal manure (1350), Nitrogen losses from soil (1226) <!-- soil-fert-025 -->
-1355. **Manure management** — Intermediate · Practice · Major · builds on: Animal manure (1350), Hazards of animal manure (1354), Manure (1348) <!-- soil-fert-098 -->
-1356. **Living mulch** — Intermediate · Practice · Minor · builds on: Mulch (1306) <!-- soil-fert-069 -->
-1357. **Organic mulch** — Intermediate · Material · Minor · builds on: Mulch (1306), Decomposition (951), Carbon-to-nitrogen ratio (1203) <!-- soil-fert-067 -->
-1358. **Plastic mulch** — Intermediate · Material · Minor · builds on: Mulch (1306) <!-- soil-fert-068 -->
-1359. **Sour mulch** — Intermediate · Process · Minor · builds on: Organic mulch (1357), Anaerobic respiration (677) <!-- soil-fert-070 -->
-1360. **Biochar production** — Intermediate · Process · Minor · builds on: Biochar (1307) <!-- soil-fert-051 -->
-1361. **Slash-and-char** — Intermediate · Practice · Minor · builds on: Biochar (1307), Biochar production (1360) <!-- soil-fert-087 -->
-1362. **Biochar properties** — Advanced · Concept · Minor · builds on: Biochar (1307), Biochar production (1360) <!-- soil-fert-052 -->
-1363. **Night soil** — Foundational · Material · Minor · builds on: Manure (1348) <!-- soil-fert-041 -->
-1364. **Reuse of human excreta** — Intermediate · Practice · Major · builds on: Organic fertilizers (1347), Night soil (1363), Fertilizer (1303) <!-- soil-fert-042 -->
-1365. **Biosolids** — Intermediate · Material · Major · builds on: Reuse of human excreta (1364), Organic fertilizers (1347) <!-- soil-fert-045 -->
-1366. **Humanure** — Intermediate · Material · Minor · builds on: Composting (1320), Reuse of human excreta (1364) <!-- soil-fert-037 -->
-1367. **Composting toilet** — Intermediate · Practice · Minor · builds on: Composting (1320), Humanure (1366) <!-- soil-fert-038 -->
-1368. **Urine as fertilizer** — Intermediate · Practice · Major · builds on: Reuse of human excreta (1364), Urea (1313) <!-- soil-fert-043 -->
-1369. **Azolla** — Intermediate · Material · Minor · builds on: Nitrogen fixation (1247), Biofertilizer (1326) <!-- soil-fert-204 -->
-1370. **Isobutylidenediurea** — Advanced · Material · Minor · builds on: Urea (1313), Controlled-release fertiliser (1338) <!-- soil-fert-091 -->
-1371. **Bokashi** — Intermediate · Practice · Minor · builds on: Compost (1304), Decomposition (951), Soil conditioner (1305) <!-- soil-fert-203 -->
-1372. **Digestate** — Intermediate · Material · Major · builds on: Organic fertilizers (1347), Manure (1348), Compost (1304) <!-- soil-fert-096 -->
-1373. **Lime requirement** — Advanced · Method · Minor · builds on: Liming (soil) (1316), Base saturation (643), Soil buffering capacity (68), Cation-exchange capacity (641), Soil pH (66) <!-- soil-fert-056 -->
-1374. **Liming and soil organic carbon** — Advanced · Process · Minor · builds on: Liming (soil) (1316), Soil organic matter (26), Mineralization (soil science) (954) <!-- soil-fert-058 -->
-1375. **Structure liming** — Intermediate · Practice · Minor · builds on: Liming (soil) (1316), Soil aggregate stability (279), Flocculation (277) <!-- soil-fert-057 -->
-1376. **Marling** — Intermediate · Practice · Minor · builds on: Marl (1328) <!-- soil-fert-080 -->
-1377. **Aglime and strontium isotope studies** — Advanced · Concept · Minor · builds on: Agricultural lime (1315) <!-- soil-fert-062 -->
-1378. **Calcium carbonate equivalent** — Intermediate · Method · Minor · builds on: Agricultural lime (1315) <!-- soil-fert-060 -->
-1379. **Liming of the Brazilian cerrado** — Intermediate · Event · Minor · builds on: Liming (soil) (1316), Aluminium toxicity (70), Agricultural lime (1315) <!-- soil-fert-061 -->
-1380. **Nutrient release from green manure** — Intermediate · Process · Minor · builds on: Green manure (1349), Mineralization (soil science) (954), Carbon-to-nitrogen ratio (1203) <!-- soil-fert-027 -->
-1381. **Compost for soil carbon** — Intermediate · Practice · Minor · builds on: Compost (1304), Carbon farming (1318) <!-- soil-fert-077 -->
-1382. **Grazing management and soil carbon** — Intermediate · Debate · Minor · builds on: Carbon farming (1318) <!-- soil-fert-078 -->
-1383. **Feces as fertilizer** — Intermediate · Practice · Minor · builds on: Reuse of human excreta (1364), Composting (1320) <!-- soil-fert-044 -->
-1384. **Multiple barrier approach** — Intermediate · Practice · Minor · builds on: Reuse of human excreta (1364) <!-- soil-fert-047 -->
-1385. **Wood ash** — Foundational · Material · Minor · builds on: Soil pH (66), Liming (soil) (1316) <!-- soil-fert-215 -->
-1386. **Biofertilizer microorganisms** — Intermediate · Concept · Minor · builds on: Biofertilizer (1326), Diazotroph (1270), Rhizobia (892) <!-- soil-fert-049 -->
-1387. **Fertilizer salt index** — Intermediate · Concept · Minor · builds on: Fertilizer (1303), Fertilizer burn (1340) <!-- soil-fert-083 -->
-1388. **Coated urea** — Intermediate · Material · Minor · builds on: Urea (1313), Controlled-release fertiliser (1338) <!-- soil-fert-202 -->
-1389. **Urease inhibitors** — Intermediate · Material · Minor · builds on: Ammonia volatilization from urea (1339), Urea (1313), Soil enzyme (765) <!-- soil-fert-085 -->
-1390. **Nitrification and urease inhibitors** — Advanced · Material · Minor · builds on: Nitrogen fertilizers (1312), Nitrification inhibitor (1262), Urease inhibitors (1389), Nitrification (1254), Urea (1313) <!-- soil-fert-013 -->
-1391. **NPK rating** — Foundational · Concept · Minor · builds on: Macronutrients in fertilizers (1310) <!-- soil-fert-005 -->
-1392. **Ammonium nitrate** — Intermediate · Material · Minor · builds on: Nitrogen fertilizers (1312), NPK rating (1391), Fertilizer (1303), Nitrogen cycle (1246) <!-- soil-fert-071 -->
-1393. **UAN** — Intermediate · Material · Minor · builds on: Urea (1313), Ammonium nitrate (1392), Solid and liquid fertilizers (1324) <!-- soil-fert-089 -->
-1394. **Biostimulant** — Intermediate · Material · Minor · builds on: Fertilizer (1303), Plant hormone (876), Biofertilizer (1326) <!-- soil-fert-205 -->
-1395. **Guano Age** — Intermediate · Event · Minor · builds on: Guano (1353) <!-- soil-fert-210 -->
-1396. **Liquid manure** — Foundational · Material · Minor · builds on: Animal manure (1350), Fertilizer (1303) <!-- soil-fert-211 -->
-1397. **Landfill leachate** — Intermediate · Concept · Minor · builds on: Leachate (1314) <!-- soil-fert-074 -->
-1398. **History of fertilizers** — Intermediate · Event · Major · builds on: Fertilizer (1303), Haber–Bosch process (1258) <!-- soil-fert-002 -->
-1399. **Converting NPK labels to elemental content** — Advanced · Method · Minor · builds on: NPK rating (1391) <!-- soil-fert-216 -->
-1400. **Ecological sanitation** — Intermediate · Practice · Minor · builds on: Reuse of human excreta (1364), Nutrient cycle (1250) <!-- soil-fert-207 -->
-1401. **Polyhalite** — Intermediate · Material · Minor · builds on: Potassium fertilizers (1341) <!-- soil-fert-214 -->
-1402. **Nutrient budgeting** — Intermediate · Method · Minor · builds on: Nutrient (1181), Nutrient management (1191), Fertilizer (1303) <!-- soil-fert-212 -->
-1403. **Fertilizer placement** — Intermediate · Practice · Minor · builds on: Fertilizer (1303), Nutrient management (1191) <!-- soil-fert-217 -->
-1404. **Phosphate fertilizers** — Intermediate · Material · Major · builds on: Fertilizer (1303), Phosphorus as a plant nutrient (1206), Phosphorus cycle (1248) <!-- soil-fert-008 -->
-1405. **Toxic elements in fertilizers** — Intermediate · Concept · Major · builds on: Phosphate fertilizers (1404), Environmental effects of fertilizers (1308) <!-- soil-fert-017 -->
-1406. **Fertilizer runoff and water pollution** — Intermediate · Process · Minor · builds on: Nitrogen fertilizers (1312), Phosphate fertilizers (1404), Leaching (pedology) (185) <!-- soil-fert-015 -->
-1407. **Phosphorite** — Intermediate · Material · Major · builds on: Mineral (27), Phosphorus cycle (1248), Phosphate fertilizers (1404) <!-- soil-fert-095 -->
-1408. **Superphosphate** — Intermediate · Material · Major · builds on: Phosphate fertilizers (1404), Phosphorite (1407), Fertilizer (1303) <!-- soil-fert-094 -->
-1409. **Phosphate rich organic manure** — Intermediate · Material · Minor · builds on: Composting (1320), Phosphorite (1407), Phosphate fertilizers (1404), Compost (1304), Soil pH (66) <!-- soil-fert-040 -->
-1410. **Diammonium phosphate** — Intermediate · Material · Minor · builds on: Phosphate fertilizers (1404), Nitrogen fertilizers (1312) <!-- soil-fert-206 -->
-1411. **Struvite** — Intermediate · Material · Minor · builds on: Mineral (27), Phosphorus as a plant nutrient (1206), Phosphate fertilizers (1404) <!-- soil-fert-097 -->
-1412. **Peak phosphorus** — Intermediate · Concept · Minor · builds on: Phosphate fertilizers (1404), Phosphorite (1407), Human impact on the phosphorus cycle (1281), Phosphorus cycle (1248) <!-- soil-fert-046 -->
-1413. **Phosphogypsum** — Intermediate · Material · Minor · builds on: Phosphate fertilizers (1404), Phosphorite (1407), Agricultural gypsum (745) <!-- soil-fert-213 -->
+1460. **Fertilizer** — Foundational · Material · Landmark · builds on: Nutrient (1321), Plant nutrition (1323), Soil fertility (1322) <!-- soil-fert-001 -->
+1461. **Compost** — Foundational · Material · Landmark · builds on: Decomposition (1047), Soil organic matter (1045), Humus (1048) <!-- soil-fert-028 -->
+1462. **Soil conditioner** — Intermediate · Material · Major · builds on: Soil structure (260), Soil fertility (1322) <!-- soil-fert-063 -->
+1463. **Mulch** — Foundational · Material · Major · builds on: Soil moisture (391) <!-- soil-fert-066 -->
+1464. **Biochar** — Intermediate · Material · Major · builds on: Charcoal (1280), Soil organic matter (1045), Soil fertility (1322) <!-- soil-fert-050 -->
+1465. **Environmental effects of fertilizers** — Intermediate · Concept · Major · builds on: Fertilizer (1460) <!-- soil-fert-014 -->
+1466. **Fertilizer application timing** — Intermediate · Practice · Major · builds on: Fertilizer (1460), Nutrient management (1331) <!-- soil-fert-011 -->
+1467. **Macronutrients in fertilizers** — Foundational · Concept · Major · builds on: Fertilizer (1460), Macronutrients and micronutrients (1333), Nutrient (1321), Plant nutrition (1323) <!-- soil-fert-003 -->
+1468. **Fertilizer classification** — Intermediate · Classification · Major · builds on: Fertilizer (1460), Macronutrients in fertilizers (1467) <!-- soil-fert-004 -->
+1469. **Nitrogen fertilizers** — Intermediate · Material · Major · builds on: Fertilizer (1460), Nitrogen as a plant nutrient (1339), Haber–Bosch process (1406), Nitrogen cycle (1394) <!-- soil-fert-007 -->
+1470. **Urea** — Intermediate · Material · Major · builds on: Nitrogen fertilizers (1469), Nitrogen as a plant nutrient (1339) <!-- soil-fert-021 -->
+1471. **Leachate** — Intermediate · Concept · Minor · builds on: Leaching (pedology) (183) <!-- soil-fert-073 -->
+1472. **Agricultural lime** — Foundational · Material · Major · builds on: Soil pH (63), Soil acidification (764), Carbonate minerals (56) <!-- soil-fert-059 -->
+1473. **Liming (soil)** — Intermediate · Practice · Major · builds on: Soil pH (63), Soil acidification (764), Agricultural lime (1472), Cation-exchange capacity (705) <!-- soil-fert-055 -->
+1474. **Carbon farming** — Intermediate · Practice · Major · builds on: Soil organic matter (1045), Soil organic matter in the carbon cycle (1059) <!-- soil-fert-076 -->
+1475. **Perlite** — Foundational · Material · Minor · builds on: Soil conditioner (1462) <!-- soil-fert-072 -->
+1476. **Compost application** — Intermediate · Practice · Major · builds on: Compost (1461) <!-- soil-fert-034 -->
+1477. **Composting** — Foundational · Process · Major · builds on: Compost (1461), Decomposition (1047), Carbon-to-nitrogen ratio (1340) <!-- soil-fert-029 -->
+1478. **Fertilizer effects on soil biology** — Intermediate · Concept · Minor · builds on: Environmental effects of fertilizers (1465), Soil biology (826), Mycorrhiza (971), Nitrogen fertilizers (1469) <!-- soil-fert-019 -->
+1479. **Fertilizers and greenhouse gases** — Intermediate · Concept · Minor · builds on: Nitrogen fertilizers (1469), Haber–Bosch process (1406), Soil nitrous oxide emissions (1434), Nitrogen cycle (1394) <!-- soil-fert-020 -->
+1480. **Micronutrient fertilizers** — Intermediate · Material · Minor · builds on: Fertilizer (1460), Plant micronutrients (1335), Macronutrients in fertilizers (1467), Essential plant nutrients (1325) <!-- soil-fert-006 -->
+1481. **Solid and liquid fertilizers** — Intermediate · Practice · Minor · builds on: Fertilizer (1460) <!-- soil-fert-012 -->
+1482. **Trace mineral depletion** — Intermediate · Debate · Minor · builds on: Micronutrient fertilizers (1480), Plant micronutrients (1335) <!-- soil-fert-018 -->
+1483. **Biofertilizer** — Intermediate · Material · Major · builds on: Rhizosphere (970), Microbial inoculant (853), Fertilizer (1460), Nitrogen fixation (1395) <!-- soil-fert-048 -->
+1484. **Rock flour** — Intermediate · Material · Minor · builds on: Silt (248), Physical weathering (32), Weathering (27) <!-- soil-fert-075 -->
+1485. **Marl** — Intermediate · Material · Minor · builds on: Carbonate minerals (56), Clay (46), Silt (248) <!-- soil-fert-079 -->
+1486. **Vermicompost** — Intermediate · Material · Major · builds on: Compost (1461), Vermicomposting (847), Worm cast (883), Earthworm (834) <!-- soil-fert-039 -->
+1487. **Controlled-release fertiliser** — Intermediate · Material · Major · builds on: Fertilizer (1460), Solid and liquid fertilizers (1481), Nitrogen fertilizers (1469), Urea (1470) <!-- soil-fert-022 -->
+1488. **Biochar as a soil amendment** — Intermediate · Practice · Major · builds on: Biochar (1464), Soil fertility (1322), Cation-exchange capacity (705), Soil water retention (396) <!-- soil-fert-054 -->
+1489. **Biochar carbon removal** — Intermediate · Practice · Major · builds on: Biochar (1464), Soil organic matter in the carbon cycle (1059) <!-- soil-fert-053 -->
+1490. **Compost organisms** — Intermediate · Concept · Minor · builds on: Composting (1477), Decomposer (1060), Soil microbiology (827) <!-- soil-fert-030 -->
+1491. **Compost tea** — Intermediate · Material · Minor · builds on: Compost (1461) <!-- soil-fert-035 -->
+1492. **Industrial composting** — Intermediate · Practice · Minor · builds on: Composting (1477) <!-- soil-fert-036 -->
+1493. **Phases of composting** — Intermediate · Process · Minor · builds on: Composting (1477), Compost organisms (1490) <!-- soil-fert-031 -->
+1494. **Hot and cold composting** — Intermediate · Practice · Minor · builds on: Composting (1477), Phases of composting (1493) <!-- soil-fert-032 -->
+1495. **Pathogen removal in composting** — Intermediate · Process · Minor · builds on: Phases of composting (1493), Soil-borne pathogen (863), Composting (1477) <!-- soil-fert-033 -->
+1496. **Ammonia volatilization from urea** — Intermediate · Process · Major · builds on: Urea (1470), Soil pH (63), Nitrogen losses from soil (1365), Nitrogen cycle (1394) <!-- soil-fert-084 -->
+1497. **Fertilizer burn** — Intermediate · Process · Minor · builds on: Fertilizer (1460), Soil salinity (763) <!-- soil-fert-082 -->
+1498. **Potassium fertilizers** — Intermediate · Material · Major · builds on: Fertilizer (1460), Potassium as a plant nutrient (1344), Potassium cycle (1432) <!-- soil-fert-009 -->
+1499. **Raised-bed gardening** — Foundational · Practice · Minor · builds on: Soil compaction (313) <!-- soil-fert-086 -->
+1500. **Hügelkultur** — Intermediate · Practice · Minor · builds on: Raised-bed gardening (1499), Decomposition (1047), Carbon-to-nitrogen ratio (1340) <!-- soil-fert-088 -->
+1501. **Foliar feeding** — Intermediate · Practice · Minor · builds on: Fertilizer (1460), Solid and liquid fertilizers (1481), Root nutrient uptake (1342), Plant nutrition (1323) <!-- soil-fert-092 -->
+1502. **Hydroabsorbent polymers** — Intermediate · Material · Minor · builds on: Soil conditioner (1462), Soil water retention (396) <!-- soil-fert-065 -->
+1503. **Polyacrylamide soil conditioners** — Intermediate · Material · Minor · builds on: Soil conditioner (1462), Soil aggregate stability (271), Soil structure (260) <!-- soil-fert-064 -->
+1504. **Organic fertilizers** — Foundational · Material · Major · builds on: Fertilizer (1460), Organic matter (1046) <!-- soil-fert-010 -->
+1505. **Manure** — Foundational · Material · Landmark · builds on: Organic fertilizers (1504), Soil organic matter (1045), Soil fertility (1322) <!-- soil-fert-023 -->
+1506. **Green manure** — Foundational · Practice · Major · builds on: Organic fertilizers (1504), Soil organic matter (1045), Manure (1505), Nitrogen fixation (1395) <!-- soil-fert-026 -->
+1507. **Animal manure** — Foundational · Material · Major · builds on: Manure (1505) <!-- soil-fert-024 -->
+1508. **Bone meal** — Intermediate · Material · Minor · builds on: Organic fertilizers (1504), Phosphorus as a plant nutrient (1343), Fertilizer (1460), Essential plant nutrients (1325) <!-- soil-fert-090 -->
+1509. **Seaweed fertiliser** — Intermediate · Material · Minor · builds on: Organic fertilizers (1504), Fertilizer (1460), Soil conditioner (1462) <!-- soil-fert-081 -->
+1510. **Guano** — Foundational · Material · Major · builds on: Animal manure (1507), Fertilizer (1460) <!-- soil-fert-209 -->
+1511. **Hazards of animal manure** — Intermediate · Concept · Minor · builds on: Animal manure (1507), Nitrogen losses from soil (1365) <!-- soil-fert-025 -->
+1512. **Manure management** — Intermediate · Practice · Major · builds on: Animal manure (1507), Hazards of animal manure (1511), Manure (1505) <!-- soil-fert-098 -->
+1513. **Living mulch** — Intermediate · Practice · Minor · builds on: Mulch (1463) <!-- soil-fert-069 -->
+1514. **Organic mulch** — Intermediate · Material · Minor · builds on: Mulch (1463), Decomposition (1047), Carbon-to-nitrogen ratio (1340) <!-- soil-fert-067 -->
+1515. **Plastic mulch** — Intermediate · Material · Minor · builds on: Mulch (1463) <!-- soil-fert-068 -->
+1516. **Sour mulch** — Intermediate · Process · Minor · builds on: Organic mulch (1514), Anaerobic respiration (742) <!-- soil-fert-070 -->
+1517. **Biochar production** — Intermediate · Process · Minor · builds on: Biochar (1464) <!-- soil-fert-051 -->
+1518. **Slash-and-char** — Intermediate · Practice · Minor · builds on: Biochar (1464), Biochar production (1517) <!-- soil-fert-087 -->
+1519. **Biochar properties** — Advanced · Concept · Minor · builds on: Biochar (1464), Biochar production (1517) <!-- soil-fert-052 -->
+1520. **Night soil** — Foundational · Material · Minor · builds on: Manure (1505) <!-- soil-fert-041 -->
+1521. **Reuse of human excreta** — Intermediate · Practice · Major · builds on: Organic fertilizers (1504), Night soil (1520), Fertilizer (1460) <!-- soil-fert-042 -->
+1522. **Biosolids** — Intermediate · Material · Major · builds on: Reuse of human excreta (1521), Organic fertilizers (1504) <!-- soil-fert-045 -->
+1523. **Humanure** — Intermediate · Material · Minor · builds on: Composting (1477), Reuse of human excreta (1521) <!-- soil-fert-037 -->
+1524. **Composting toilet** — Intermediate · Practice · Minor · builds on: Composting (1477), Humanure (1523) <!-- soil-fert-038 -->
+1525. **Urine as fertilizer** — Intermediate · Practice · Major · builds on: Reuse of human excreta (1521), Urea (1470) <!-- soil-fert-043 -->
+1526. **Azolla** — Intermediate · Material · Minor · builds on: Nitrogen fixation (1395), Biofertilizer (1483) <!-- soil-fert-204 -->
+1527. **Isobutylidenediurea** — Advanced · Material · Minor · builds on: Urea (1470), Controlled-release fertiliser (1487) <!-- soil-fert-091 -->
+1528. **Bokashi** — Intermediate · Practice · Minor · builds on: Compost (1461), Decomposition (1047), Soil conditioner (1462) <!-- soil-fert-203 -->
+1529. **Digestate** — Intermediate · Material · Major · builds on: Organic fertilizers (1504), Manure (1505), Compost (1461) <!-- soil-fert-096 -->
+1530. **Feces as fertilizer** — Intermediate · Practice · Minor · builds on: Reuse of human excreta (1521), Composting (1477) <!-- soil-fert-044 -->
+1531. **Multiple barrier approach** — Intermediate · Practice · Minor · builds on: Reuse of human excreta (1521) <!-- soil-fert-047 -->
+1532. **Lime requirement** — Advanced · Method · Minor · builds on: Liming (soil) (1473), Base saturation (707), Soil buffering capacity (65), Cation-exchange capacity (705), Soil pH (63) <!-- soil-fert-056 -->
+1533. **Liming and soil organic carbon** — Advanced · Process · Minor · builds on: Liming (soil) (1473), Soil organic matter (1045), Mineralization (soil science) (1050) <!-- soil-fert-058 -->
+1534. **Structure liming** — Intermediate · Practice · Minor · builds on: Liming (soil) (1473), Soil aggregate stability (271), Flocculation (639) <!-- soil-fert-057 -->
+1535. **Marling** — Intermediate · Practice · Minor · builds on: Marl (1485) <!-- soil-fert-080 -->
+1536. **Aglime and strontium isotope studies** — Advanced · Concept · Minor · builds on: Agricultural lime (1472) <!-- soil-fert-062 -->
+1537. **Calcium carbonate equivalent** — Intermediate · Method · Minor · builds on: Agricultural lime (1472) <!-- soil-fert-060 -->
+1538. **Liming of the Brazilian cerrado** — Intermediate · Event · Minor · builds on: Liming (soil) (1473), Aluminium toxicity (67), Agricultural lime (1472) <!-- soil-fert-061 -->
+1539. **Compost for soil carbon** — Intermediate · Practice · Minor · builds on: Compost (1461), Carbon farming (1474) <!-- soil-fert-077 -->
+1540. **Grazing management and soil carbon** — Intermediate · Debate · Minor · builds on: Carbon farming (1474) <!-- soil-fert-078 -->
+1541. **Nutrient release from green manure** — Intermediate · Process · Minor · builds on: Green manure (1506), Mineralization (soil science) (1050), Carbon-to-nitrogen ratio (1340) <!-- soil-fert-027 -->
+1542. **Wood ash** — Foundational · Material · Minor · builds on: Soil pH (63), Liming (soil) (1473) <!-- soil-fert-215 -->
+1543. **Biofertilizer microorganisms** — Intermediate · Concept · Minor · builds on: Biofertilizer (1483), Diazotroph (1418), Rhizobia (982) <!-- soil-fert-049 -->
+1544. **Fertilizer salt index** — Intermediate · Concept · Minor · builds on: Fertilizer (1460), Fertilizer burn (1497) <!-- soil-fert-083 -->
+1545. **Coated urea** — Intermediate · Material · Minor · builds on: Urea (1470), Controlled-release fertiliser (1487) <!-- soil-fert-202 -->
+1546. **Urease inhibitors** — Intermediate · Material · Minor · builds on: Ammonia volatilization from urea (1496), Urea (1470), Soil enzyme (841) <!-- soil-fert-085 -->
+1547. **Nitrification and urease inhibitors** — Advanced · Material · Minor · builds on: Nitrogen fertilizers (1469), Nitrification inhibitor (1412), Urease inhibitors (1546), Nitrification (1402), Urea (1470) <!-- soil-fert-013 -->
+1548. **NPK rating** — Foundational · Concept · Minor · builds on: Macronutrients in fertilizers (1467) <!-- soil-fert-005 -->
+1549. **Ammonium nitrate** — Intermediate · Material · Minor · builds on: Nitrogen fertilizers (1469), NPK rating (1548), Fertilizer (1460), Nitrogen cycle (1394) <!-- soil-fert-071 -->
+1550. **UAN** — Intermediate · Material · Minor · builds on: Urea (1470), Ammonium nitrate (1549), Solid and liquid fertilizers (1481) <!-- soil-fert-089 -->
+1551. **Management intensive grazing** — Intermediate · Practice · Major · builds on: Soil organic matter (1045) <!-- soil-fert-253 -->
+1552. **Crop and livestock specialization problems** — Intermediate · Concept · Major · builds on: Manure (1505) <!-- soil-fert-239 -->
+1553. **Nitrogen and phosphorus behavior compared** — Intermediate · Concept · Major · builds on: Nitrogen cycle (1394), Phosphorus cycle (1396), Nitrogen fertilizers (1469) <!-- soil-fert-263 -->
+1554. **Benefits and limits of composting** — Intermediate · Concept · Major <!-- soil-fert-262 -->
+1555. **Nitrogen and phosphorus management practices** — Intermediate · Practice · Major · builds on: Nitrogen and phosphorus behavior compared (1553) <!-- soil-fert-270 -->
+1556. **Compost pile management** — Intermediate · Method · Major · builds on: Composting (1477) <!-- soil-fert-258 -->
+1557. **Manure nitrogen availability** — Intermediate · Concept · Major · builds on: Animal manure (1507), Nitrogen cycle (1394) <!-- soil-fert-252 -->
+1558. **Biostimulant** — Intermediate · Material · Minor · builds on: Fertilizer (1460), Plant hormone (966), Biofertilizer (1483) <!-- soil-fert-205 -->
+1559. **Guano Age** — Intermediate · Event · Minor · builds on: Guano (1510) <!-- soil-fert-210 -->
+1560. **Fixed and adaptive nitrogen recommendations** — Advanced · Method · Major <!-- soil-fert-266 -->
+1561. **Weather and nitrogen supply** — Advanced · Concept · Major · builds on: Nitrogen losses from soil (1365), Denitrification (1410) <!-- soil-fert-265 -->
+1562. **Manure-driven nutrient buildup** — Intermediate · Concept · Major · builds on: Manure nitrogen availability (1557) <!-- soil-fert-254 -->
+1563. **Managing high-phosphorus soils** — Advanced · Practice · Major · builds on: Manure-driven nutrient buildup (1562) <!-- soil-fert-274 -->
+1564. **Disease suppression by compost** — Advanced · Concept · Major <!-- soil-fert-261 -->
+1565. **Liquid manure** — Foundational · Material · Minor · builds on: Animal manure (1507), Fertilizer (1460) <!-- soil-fert-211 -->
+1566. **Landfill leachate** — Intermediate · Concept · Minor · builds on: Leachate (1471) <!-- soil-fert-074 -->
+1567. **History of fertilizers** — Intermediate · Event · Major · builds on: Fertilizer (1460), Haber–Bosch process (1406) <!-- soil-fert-002 -->
+1568. **Converting NPK labels to elemental content** — Advanced · Method · Minor · builds on: NPK rating (1548) <!-- soil-fert-216 -->
+1569. **Ecological sanitation** — Intermediate · Practice · Minor · builds on: Reuse of human excreta (1521), Nutrient cycle (1398) <!-- soil-fert-207 -->
+1570. **Value of manure** — Intermediate · Concept · Minor · builds on: Manure (1505) <!-- soil-fert-241 -->
+1571. **Manure nutrient content** — Intermediate · Concept · Minor · builds on: Manure (1505) <!-- soil-fert-245 -->
+1572. **Pit and vessel composting** — Foundational · Practice · Minor <!-- soil-fert-260 -->
+1573. **Integrated crop-livestock farms** — Intermediate · Classification · Minor · builds on: Manure (1505) <!-- soil-fert-240 -->
+1574. **Manure handling systems** — Intermediate · Classification · Minor · builds on: Manure (1505), Composting (1477) <!-- soil-fert-242 -->
+1575. **End-of-season nitrogen evaluation** — Intermediate · Method · Minor <!-- soil-fert-269 -->
+1576. **Maximum return to nitrogen** — Advanced · Method · Minor <!-- soil-fert-267 -->
+1577. **Nutrient availability from organic amendments** — Intermediate · Concept · Minor <!-- soil-fert-264 -->
+1578. **Pre-sidedress nitrate test** — Intermediate · Method · Minor <!-- soil-fert-268 -->
+1579. **Dung patches on pasture** — Intermediate · Concept · Minor <!-- soil-fert-257 -->
+1580. **Livestock farm nutrient imports** — Intermediate · Concept · Minor <!-- soil-fert-256 -->
+1581. **Phosphorus Index** — Advanced · Method · Minor <!-- soil-fert-255 -->
+1582. **Forms of nitrogen in manure** — Intermediate · Concept · Minor · builds on: Manure (1505), Ammonia volatilization from urea (1496) <!-- soil-fert-246 -->
+1583. **Manure application rates** — Intermediate · Method · Minor · builds on: Manure (1505), Forms of nitrogen in manure (1582) <!-- soil-fert-249 -->
+1584. **Corn nitrogen efficiency** — Advanced · Concept · Minor <!-- soil-fert-272 -->
+1585. **Nitrogen credits from previous crops** — Intermediate · Method · Minor <!-- soil-fert-271 -->
+1586. **Surface broadcasting in no-till** — Intermediate · Practice · Minor <!-- soil-fert-273 -->
+1587. **Compost curing** — Intermediate · Process · Minor <!-- soil-fert-259 -->
+1588. **Manure anaerobic digesters** — Intermediate · Practice · Minor · builds on: Manure (1505) <!-- soil-fert-244 -->
+1589. **Manure and soil organic matter** — Intermediate · Concept · Minor · builds on: Manure (1505), Soil organic matter (1045) <!-- soil-fert-247 -->
+1590. **Manure effects on soil properties** — Intermediate · Concept · Minor · builds on: Manure and soil organic matter (1589) <!-- soil-fert-248 -->
+1591. **Manure storage and nutrient losses** — Intermediate · Practice · Minor · builds on: Manure (1505) <!-- soil-fert-243 -->
+1592. **Ammonia loss from surface manure** — Intermediate · Process · Minor · builds on: Forms of nitrogen in manure (1582) <!-- soil-fert-250 -->
+1593. **Manure application timing** — Intermediate · Practice · Minor · builds on: Manure application rates (1583) <!-- soil-fert-251 -->
+1594. **Polyhalite** — Intermediate · Material · Minor · builds on: Potassium fertilizers (1498) <!-- soil-fert-214 -->
+1595. **Nutrient budgeting** — Intermediate · Method · Minor · builds on: Nutrient (1321), Nutrient management (1331), Fertilizer (1460) <!-- soil-fert-212 -->
+1596. **Fertilizer placement** — Intermediate · Practice · Minor · builds on: Fertilizer (1460), Nutrient management (1331) <!-- soil-fert-217 -->
+1597. **Phosphate fertilizers** — Intermediate · Material · Major · builds on: Fertilizer (1460), Phosphorus as a plant nutrient (1343), Phosphorus cycle (1396) <!-- soil-fert-008 -->
+1598. **Toxic elements in fertilizers** — Intermediate · Concept · Major · builds on: Phosphate fertilizers (1597), Environmental effects of fertilizers (1465) <!-- soil-fert-017 -->
+1599. **Fertilizer runoff and water pollution** — Intermediate · Process · Minor · builds on: Nitrogen fertilizers (1469), Phosphate fertilizers (1597), Leaching (pedology) (183) <!-- soil-fert-015 -->
+1600. **Phosphorite** — Intermediate · Material · Major · builds on: Mineral (26), Phosphorus cycle (1396), Phosphate fertilizers (1597) <!-- soil-fert-095 -->
+1601. **Superphosphate** — Intermediate · Material · Major · builds on: Phosphate fertilizers (1597), Phosphorite (1600), Fertilizer (1460) <!-- soil-fert-094 -->
+1602. **Peak phosphorus** — Intermediate · Concept · Minor · builds on: Phosphate fertilizers (1597), Phosphorite (1600), Human impact on the phosphorus cycle (1429), Phosphorus cycle (1396) <!-- soil-fert-046 -->
+1603. **Phosphate rich organic manure** — Intermediate · Material · Minor · builds on: Composting (1477), Phosphorite (1600), Phosphate fertilizers (1597), Compost (1461), Soil pH (63) <!-- soil-fert-040 -->
+1604. **Diammonium phosphate** — Intermediate · Material · Minor · builds on: Phosphate fertilizers (1597), Nitrogen fertilizers (1469) <!-- soil-fert-206 -->
+1605. **Struvite** — Intermediate · Material · Minor · builds on: Mineral (26), Phosphorus as a plant nutrient (1343), Phosphate fertilizers (1597) <!-- soil-fert-097 -->
+1606. **Phosphogypsum** — Intermediate · Material · Minor · builds on: Phosphate fertilizers (1597), Phosphorite (1600), Agricultural gypsum (816) <!-- soil-fert-213 -->
 
 ## Erosion and landscape
 
 
 ### Erosion and sediment
 
-1414. **Water cycle** — Foundational · Process · Major <!-- soil-water-079 -->
-1415. **Surface runoff** — Foundational · Process · Major · builds on: Infiltration (368), Water cycle (1414) <!-- soil-water-019 -->
-1416. **Subsidence** — Intermediate · Process · Major · builds on: Soil consolidation (314) <!-- soil-water-084 -->
-1417. **Stormwater** — Intermediate · Concept · Major · builds on: Water cycle (1414), Surface runoff (1415), Infiltration (368) <!-- soil-water-081 -->
-1418. **Runoff** — Foundational · Process · Minor · builds on: Water cycle (1414), Infiltration (368) <!-- soil-water-086 -->
-1419. **Straw** — Foundational · Material · Minor <!-- soil-water-089 -->
-1420. **Retention basin** — Intermediate · Practice · Minor · builds on: Stormwater (1417), Surface runoff (1415) <!-- soil-water-090 -->
-1421. **Bioswale** — Intermediate · Practice · Minor · builds on: Stormwater (1417), Surface runoff (1415) <!-- soil-water-092 -->
-1422. **Land development** — Intermediate · Practice · Minor <!-- soil-water-091 -->
-1423. **Land use and the water cycle** — Intermediate · Concept · Minor · builds on: Water cycle (1414), Infiltration (368), Soil compaction (304) <!-- soil-water-080 -->
-1424. **Infiltration-excess overland flow** — Intermediate · Process · Minor · builds on: Surface runoff (1415), Infiltration (368) <!-- soil-water-020 -->
-1425. **Runoff mitigation** — Intermediate · Practice · Minor · builds on: Surface runoff (1415) <!-- soil-water-024 -->
-1426. **Saturation-excess overland flow** — Intermediate · Process · Minor · builds on: Surface runoff (1415), Soil moisture (371) <!-- soil-water-021 -->
-1427. **Subsurface return flow** — Intermediate · Process · Minor · builds on: Surface runoff (1415), Infiltration (368) <!-- soil-water-022 -->
-1428. **Urban runoff** — Intermediate · Concept · Minor · builds on: Surface runoff (1415), Impervious surface (390) <!-- soil-water-023 -->
-1429. **Seasonal subsidence and heave** — Intermediate · Process · Minor · builds on: Shrink–swell capacity (247), Subsidence (1416) <!-- soil-water-085 -->
-1430. **Stormwater management** — Intermediate · Practice · Minor · builds on: Stormwater (1417) <!-- soil-water-082 -->
-1431. **Stormwater sinkholes** — Intermediate · Process · Minor · builds on: Stormwater (1417), Subsidence (1416) <!-- soil-water-083 -->
-1432. **Rainfall-runoff model** — Advanced · Method · Minor · builds on: Runoff (1418), Surface runoff (1415) <!-- soil-water-087 -->
-1433. **Hydrological transport model** — Advanced · Method · Minor · builds on: Surface runoff (1415), Rainfall-runoff model (1432) <!-- soil-water-107 -->
-1434. **Electrical double layer** — Advanced · Concept · Minor · builds on: Clay mineral (561), Cation-exchange capacity (641) <!-- soil-water-073 -->
-1435. **Hydrologic soil group** — Intermediate · Classification · Minor · builds on: Infiltration (368), Hydraulic conductivity (373) <!-- soil-water-255 -->
-1436. **Runoff curve number** — Intermediate · Method · Major · builds on: Runoff (1418), Infiltration (368), Hydrologic soil group (1435) <!-- soil-water-088 -->
-1437. **Soil and Water Assessment Tool** — Advanced · Method · Minor · builds on: Hydrological transport model (1433), Hydrology (400) <!-- soil-water-288 -->
-1438. **Soil erosion** — Foundational · Process · Landmark · builds on: Topsoil (137), Soil (1) <!-- soil-water-001 -->
-1439. **Water erosion** — Foundational · Process · Major · builds on: Soil erosion (1438), Surface runoff (1415), Infiltration (368) <!-- soil-water-003 -->
-1440. **Rainfall erosivity** — Intermediate · Concept · Major · builds on: Water erosion (1439) <!-- soil-water-011 -->
-1441. **Wind erosion** — Foundational · Process · Major · builds on: Soil erosion (1438) <!-- soil-water-010 -->
-1442. **Erosion control** — Intermediate · Practice · Major · builds on: Soil erosion (1438), Water erosion (1439), Wind erosion (1441), Surface runoff (1415) <!-- soil-water-050 -->
-1443. **Dust** — Foundational · Material · Major · builds on: Wind erosion (1441), Silt (237) <!-- soil-water-035 -->
-1444. **Vegetation cover and erosion** — Foundational · Concept · Major · builds on: Soil erosion (1438), Water erosion (1439), Wind erosion (1441) <!-- soil-water-012 -->
-1445. **Agriculture and soil erosion** — Intermediate · Concept · Major · builds on: Soil erosion (1438), Vegetation cover and erosion (1444), Soil compaction (304) <!-- soil-water-014 -->
-1446. **Erodibility** — Intermediate · Concept · Major · builds on: Soil erosion (1438), Soil texture (50), Soil structure (249) <!-- soil-water-045 -->
-1447. **Climate change and soil erosion** — Intermediate · Concept · Minor · builds on: Rainfall erosivity (1440), Vegetation cover and erosion (1444) <!-- soil-water-017 -->
-1448. **Deforestation and soil erosion** — Intermediate · Concept · Minor · builds on: Vegetation cover and erosion (1444) <!-- soil-water-015 -->
-1449. **Slope and erosion** — Foundational · Concept · Minor · builds on: Water erosion (1439), Surface runoff (1415) <!-- soil-water-013 -->
-1450. **Splash erosion** — Foundational · Process · Minor · builds on: Water erosion (1439), Soil erosion (1438) <!-- soil-water-004 -->
-1451. **Urbanization and erosion** — Intermediate · Concept · Minor · builds on: Soil erosion (1438), Surface runoff (1415), Impervious surface (390) <!-- soil-water-016 -->
-1452. **Rill erosion** — Foundational · Process · Major · builds on: Water erosion (1439), Surface runoff (1415) <!-- soil-water-025 -->
-1453. **Gully erosion** — Intermediate · Process · Major · builds on: Water erosion (1439), Rill erosion (1452) <!-- soil-water-027 -->
-1454. **Universal Soil Loss Equation** — Intermediate · Method · Major · builds on: Water erosion (1439), Rainfall erosivity (1440), Erodibility (1446) <!-- soil-water-041 -->
-1455. **Erosion prediction** — Intermediate · Method · Major · builds on: Soil erosion (1438), Universal Soil Loss Equation (1454) <!-- soil-water-043 -->
-1456. **Riparian buffer** — Intermediate · Practice · Minor · builds on: Surface runoff (1415), Vegetation cover and erosion (1444) <!-- soil-water-102 -->
-1457. **Geotextile** — Intermediate · Material · Minor · builds on: Erosion control (1442) <!-- soil-water-254 -->
-1458. **Soil loss tolerance** — Intermediate · Concept · Major · builds on: Soil erosion (1438) <!-- soil-water-105 -->
-1459. **Jet erosion test** — Advanced · Method · Minor · builds on: Erodibility (1446) <!-- soil-water-095 -->
-1460. **Dust control** — Intermediate · Practice · Minor · builds on: Dust (1443) <!-- soil-water-036 -->
-1461. **Mineral dust** — Intermediate · Material · Major · builds on: Dust (1443), Wind erosion (1441), Mineral (27) <!-- soil-water-281 -->
-1462. **Tillage erosion** — Intermediate · Process · Major · builds on: Soil erosion (1438) <!-- soil-water-038 -->
-1463. **Grassed waterway** — Intermediate · Practice · Minor · builds on: Surface runoff (1415), Gully erosion (1453) <!-- soil-water-109 -->
-1464. **Revegetation** — Intermediate · Practice · Minor · builds on: Soil erosion (1438), Erosion control (1442) <!-- soil-water-110 -->
-1465. **Prairie restoration** — Intermediate · Practice · Minor · builds on: Revegetation (1464), Topsoil (137), Soil erosion (1438) <!-- soil-water-113 -->
-1466. **WEPP** — Advanced · Method · Minor · builds on: Universal Soil Loss Equation (1454), Erosion prediction (1455) <!-- soil-water-111 -->
-1467. **Rill initiation** — Advanced · Process · Minor · builds on: Rill erosion (1452), Shear strength (soil) (310) <!-- soil-water-026 -->
-1468. **Sheet erosion** — Foundational · Process · Minor · builds on: Water erosion (1439), Surface runoff (1415) <!-- soil-water-005 -->
-1469. **Support practice factor** — Advanced · Concept · Minor · builds on: Universal Soil Loss Equation (1454) <!-- soil-water-042 -->
-1470. **Rainfall simulator** — Intermediate · Method · Minor · builds on: Infiltration (368), Surface runoff (1415), Soil erosion (1438) <!-- soil-water-256 -->
-1471. **Post-fire hillslope stabilization** — Intermediate · Practice · Minor · builds on: Soil erosion (1438), Hydrophobic soil (260), Surface runoff (1415), Vegetation cover and erosion (1444) <!-- soil-water-258 -->
-1472. **Tillage erosion measurement** — Advanced · Method · Minor · builds on: Tillage erosion (1462) <!-- soil-water-039 -->
-1473. **Tillage erosion models** — Advanced · Method · Minor · builds on: Tillage erosion (1462), Erosion prediction (1455) <!-- soil-water-040 -->
-1474. **Erosion index** — Advanced · Concept · Minor · builds on: Erodibility (1446), Soil loss tolerance (1458) <!-- soil-water-044 -->
-1475. **Revised Universal Soil Loss Equation** — Advanced · Method · Minor · builds on: Universal Soil Loss Equation (1454) <!-- soil-water-291 -->
-1476. **Wind erosion equation** — Advanced · Method · Minor · builds on: Wind erosion (1441), Erodibility (1446) <!-- soil-water-287 -->
-1477. **Sediment** — Foundational · Material · Landmark · builds on: Weathering (28) <!-- soil-water-046 -->
-1478. **Erosion** — Foundational · Process · Landmark · builds on: Weathering (28), Soil (1), Sediment (1477) <!-- soil-water-002 -->
-1479. **Aeolian processes** — Foundational · Process · Major · builds on: Erosion (1478), Sediment (1477) <!-- soil-water-029 -->
-1480. **Sediment control** — Intermediate · Practice · Major · builds on: Erosion control (1442), Sediment (1477) <!-- soil-water-051 -->
-1481. **Sediment pollution of waterways** — Intermediate · Concept · Major · builds on: Soil erosion (1438), Sediment (1477) <!-- soil-water-018 -->
-1482. **Mass wasting** — Intermediate · Process · Major · builds on: Erosion (1478), Regolith (88) <!-- soil-water-053 -->
-1483. **Downhill creep** — Intermediate · Process · Major · builds on: Mass wasting (1482) <!-- soil-water-055 -->
-1484. **Slope stability** — Intermediate · Concept · Major · builds on: Shear strength (soil) (310), Effective stress (308), Mass wasting (1482) <!-- soil-water-064 -->
-1485. **Landslide** — Intermediate · Process · Major · builds on: Mass wasting (1482), Slope stability (1484) <!-- soil-water-057 -->
-1486. **Sediment grain shape** — Intermediate · Concept · Minor · builds on: Sediment (1477), Grain size (235) <!-- soil-water-047 -->
-1487. **Sediment transport** — Intermediate · Process · Major · builds on: Sediment (1477), Grain size (235), Erosion (1478) <!-- soil-water-048 -->
-1488. **Sediment delivery ratio** — Advanced · Concept · Minor · builds on: Sediment transport (1487), Rill erosion (1452), Gully erosion (1453), Water erosion (1439) <!-- soil-water-049 -->
-1489. **Chemical erosion** — Intermediate · Process · Minor · builds on: Erosion (1478), Dissolution weathering (33), Weathering (28) <!-- soil-water-008 -->
-1490. **Coastal erosion** — Intermediate · Process · Minor · builds on: Erosion (1478) <!-- soil-water-007 -->
-1491. **Glacial erosion** — Intermediate · Process · Minor · builds on: Erosion (1478) <!-- soil-water-009 -->
-1492. **River and stream erosion** — Intermediate · Process · Minor · builds on: Erosion (1478), Surface runoff (1415) <!-- soil-water-006 -->
-1493. **Landslide classification** — Advanced · Classification · Major · builds on: Landslide (1485) <!-- soil-water-058 -->
-1494. **Solifluction** — Intermediate · Process · Minor · builds on: Mass wasting (1482), Frost heaving (512), Permafrost (515) <!-- soil-water-056 -->
-1495. **Internal erosion** — Intermediate · Process · Major · builds on: Seepage (309), Soil gradation (258), Erosion (1478), Effective stress (308) <!-- soil-water-100 -->
-1496. **Quick clay** — Intermediate · Material · Major · builds on: Clay (49), Soil liquefaction (311), Landslide (1485) <!-- soil-water-071 -->
-1497. **Debris flow** — Intermediate · Process · Major · builds on: Mass wasting (1482), Pore water pressure (306) <!-- soil-water-252 -->
-1498. **Deposition (geology)** — Foundational · Process · Major · builds on: Sediment (1477), Sediment transport (1487) <!-- soil-water-274 -->
-1499. **Aeolian transport** — Intermediate · Process · Minor · builds on: Aeolian processes (1479), Grain size (235) <!-- soil-water-032 -->
-1500. **Deflation** — Intermediate · Process · Minor · builds on: Wind erosion (1441), Aeolian processes (1479) <!-- soil-water-030 -->
-1501. **Sand dune** — Intermediate · Concept · Minor · builds on: Aeolian processes (1479), Sand (236) <!-- soil-water-033 -->
-1502. **Wind abrasion** — Intermediate · Process · Minor · builds on: Wind erosion (1441), Aeolian processes (1479) <!-- soil-water-031 -->
-1503. **Climate change and landslides** — Intermediate · Concept · Minor · builds on: Landslide (1485), Evapotranspiration (387) <!-- soil-water-063 -->
-1504. **Landslide hazard mapping** — Advanced · Method · Minor · builds on: Landslide (1485), Slope stability (1484) <!-- soil-water-061 -->
-1505. **Landslide monitoring** — Advanced · Method · Minor · builds on: Landslide (1485) <!-- soil-water-062 -->
-1506. **Shallow and deep-seated landslides** — Intermediate · Concept · Minor · builds on: Landslide (1485), Regolith (88) <!-- soil-water-059 -->
-1507. **Silt fence** — Intermediate · Practice · Minor · builds on: Sediment control (1480) <!-- soil-water-093 -->
-1508. **Dust storm** — Foundational · Process · Major · builds on: Wind erosion (1441), Aeolian transport (1499) <!-- soil-water-034 -->
-1509. **Dust Bowl** — Intermediate · Event · Landmark · builds on: Wind erosion (1441), Dust storm (1508), Topsoil (137), Soil erosion (1438), Aeolian processes (1479) <!-- soil-water-075 -->
-1510. **Dust Bowl government response** — Intermediate · Event · Minor · builds on: Dust Bowl (1509) <!-- soil-water-076 -->
-1511. **Economic legacy of the Dust Bowl** — Intermediate · Event · Minor · builds on: Dust Bowl (1509), Topsoil (137) <!-- soil-water-077 -->
-1512. **Earthflow** — Intermediate · Process · Minor · builds on: Mass wasting (1482), Soil liquefaction (311) <!-- soil-water-101 -->
-1513. **Denudation** — Intermediate · Process · Major · builds on: Erosion (1478), Weathering (28), Mass wasting (1482) <!-- soil-water-272 -->
-1514. **Sedimentation** — Intermediate · Process · Minor · builds on: Deposition (geology) (1498), Sediment (1477), Stokes's law (259) <!-- soil-water-275 -->
-1515. **Siltation** — Intermediate · Process · Major · builds on: Sediment (1477), Silt (237), Clay (49), Sedimentation (1514), Soil erosion (1438) <!-- soil-water-284 -->
-1516. **River bank failure** — Intermediate · Process · Minor · builds on: Mass wasting (1482), Cohesion (geology) (312), River and stream erosion (1492) <!-- soil-water-096 -->
-1517. **Sediment basin** — Intermediate · Practice · Minor · builds on: Sediment control (1480) <!-- soil-water-099 -->
-1518. **Mudflow** — Intermediate · Process · Minor · builds on: Landslide (1485), Soil liquefaction (311), Mass wasting (1482) <!-- soil-water-060 -->
-1519. **Gelifluction** — Intermediate · Process · Minor · builds on: Solifluction (1494), Topsoil (137) <!-- soil-water-103 -->
-1520. **Fiber roll** — Intermediate · Practice · Minor · builds on: Sediment control (1480), Straw (1419) <!-- soil-water-098 -->
-1521. **Sediment treatment systems** — Advanced · Method · Minor · builds on: Sediment control (1480), Flocculation (277) <!-- soil-water-052 -->
-1522. **Fluvial sediment processes** — Intermediate · Process · Major · builds on: Sediment transport (1487), Deposition (geology) (1498), River and stream erosion (1492), Erosion (1478) <!-- soil-water-277 -->
-1523. **Saltation** — Intermediate · Process · Minor · builds on: Sediment transport (1487), Aeolian processes (1479), Sand (236) <!-- soil-water-251 -->
-1524. **Hole erosion test** — Advanced · Method · Minor · builds on: Internal erosion (1495), Erodibility (1446) <!-- soil-water-094 -->
-1525. **Gully stabilisation** — Intermediate · Practice · Minor · builds on: Gully erosion (1453), Sediment (1477) <!-- soil-water-028 -->
-1526. **Vegetation and slope stability** — Intermediate · Concept · Major · builds on: Slope stability (1484), Root (867), Shear strength (soil) (310) <!-- soil-water-067 -->
-1527. **Slope stability analysis** — Advanced · Method · Minor · builds on: Slope stability (1484), Shear strength (soil) (310) <!-- soil-water-066 -->
-1528. **Slope stabilization** — Intermediate · Practice · Minor · builds on: Slope stability (1484) <!-- soil-water-065 -->
-1529. **Mass wasting landforms** — Intermediate · Concept · Minor · builds on: Mass wasting (1482) <!-- soil-water-054 -->
-1530. **Baer–Babinet law** — Intermediate · Concept · Minor · builds on: River and stream erosion (1492), Erosion (1478) <!-- soil-water-106 -->
-1531. **Soil sloughing** — Intermediate · Process · Minor · builds on: Cohesion (geology) (312), Mass wasting (1482), Shear strength (soil) (310) <!-- soil-water-108 -->
-1532. **Fluvio-thermal erosion** — Advanced · Process · Minor · builds on: River and stream erosion (1492), River bank failure (1516), Permafrost (515) <!-- soil-water-104 -->
-1533. **TDR in geotechnical monitoring** — Advanced · Method · Minor · builds on: Time-domain reflectometry (393), Slope stability (1484) <!-- soil-water-224 -->
-1534. **Suspended load** — Intermediate · Concept · Minor · builds on: Sediment transport (1487), Sediment (1477), Silt (237) <!-- soil-water-286 -->
-1535. **Bed load and suspended load** — Intermediate · Concept · Minor · builds on: Sediment transport (1487), Sediment (1477) <!-- soil-water-249 -->
-1536. **Hjulström curve** — Intermediate · Concept · Minor · builds on: Sediment transport (1487), Grain size (235), Erosion (1478) <!-- soil-water-250 -->
-1537. **Stream power** — Advanced · Concept · Major · builds on: Sediment transport (1487), River and stream erosion (1492), Erosion (1478) <!-- soil-water-285 -->
-1538. **Fech fech** — Intermediate · Material · Minor · builds on: Erosion (1478), Clay (49), Carbonate minerals (59), Soil crust (282) <!-- soil-water-078 -->
-1539. **Bank erosion** — Intermediate · Process · Minor · builds on: River and stream erosion (1492), Erosion (1478) <!-- soil-water-270 -->
-1540. **Desert pavement** — Intermediate · Concept · Minor · builds on: Deflation (1500), Aeolian processes (1479), Gravel (246) <!-- soil-water-253 -->
-1541. **Shear strength of discontinuities** — Advanced · Concept · Minor · builds on: Shear strength (soil) (310), Slope stability (1484) <!-- soil-water-114 -->
-1542. **Quick clay formation** — Intermediate · Process · Minor · builds on: Quick clay (1496), Flocculation (277) <!-- soil-water-072 -->
-1543. **Quick clay landslides** — Intermediate · Process · Minor · builds on: Quick clay (1496), Landslide (1485) <!-- soil-water-074 -->
-1544. **Legacy sediment** — Intermediate · Concept · Minor · builds on: Sediment (1477), Soil erosion (1438), Alluvium (113) <!-- soil-water-257 -->
-1545. **River bank protection** — Intermediate · Practice · Minor · builds on: River bank failure (1516), Erosion control (1442) <!-- soil-water-097 -->
-1546. **Headward erosion** — Intermediate · Process · Minor · builds on: Gully erosion (1453), River and stream erosion (1492) <!-- soil-water-278 -->
-1547. **Aggradation** — Intermediate · Process · Minor · builds on: Deposition (geology) (1498), Sediment (1477), Alluvium (113), Sediment transport (1487) <!-- soil-water-268 -->
-1548. **Entrainment** — Intermediate · Process · Minor · builds on: Sediment (1477), Sediment transport (1487), Erosion (1478) <!-- soil-water-276 -->
-1549. **Shear velocity** — Advanced · Concept · Minor · builds on: Sediment transport (1487) <!-- soil-water-282 -->
-1550. **Badlands** — Intermediate · Concept · Minor · builds on: Erosion (1478), Gully erosion (1453), Sedimentary rock (91), Clay (49), Water erosion (1439) <!-- soil-water-269 -->
-1551. **Measuring denudation rates** — Advanced · Method · Minor · builds on: Denudation (1513), Sediment transport (1487) <!-- soil-water-273 -->
-1552. **Shields parameter** — Advanced · Concept · Minor · builds on: Entrainment (1548), Sediment transport (1487), Shear velocity (1549) <!-- soil-water-283 -->
-1553. **Corrasion** — Intermediate · Process · Minor · builds on: Erosion (1478), Sediment transport (1487) <!-- soil-water-271 -->
-1554. **Root reinforcement of soil** — Intermediate · Process · Minor · builds on: Root (867), Vegetation and slope stability (1526), Shear strength (soil) (310) <!-- soil-water-069 -->
-1555. **Root pull-out resistance** — Advanced · Concept · Minor · builds on: Root reinforcement of soil (1554) <!-- soil-water-070 -->
-1556. **Transpiration and slope stability** — Intermediate · Process · Minor · builds on: Vegetation and slope stability (1526), Pore water pressure (306), Evapotranspiration (387) <!-- soil-water-068 -->
-1557. **Landslide causes and triggers** — Intermediate · Concept · Minor · builds on: Landslide (1485), Slope stability (1484), Mass wasting (1482) <!-- soil-water-279 -->
-1558. **Rainfall-triggered landslides** — Advanced · Process · Minor · builds on: Landslide causes and triggers (1557), Pore water pressure (306), Landslide (1485) <!-- soil-water-280 -->
-1559. **Sediment yield** — Intermediate · Concept · Minor · builds on: Sediment transport (1487), Soil erosion (1438) <!-- soil-water-292 -->
-1560. **Soil piping** — Intermediate · Process · Minor · builds on: Internal erosion (1495), Seepage (309) <!-- soil-water-289 -->
-1561. **Vegetative filter strip** — Intermediate · Practice · Minor · builds on: Surface runoff (1415), Sediment control (1480) <!-- soil-water-290 -->
+1607. **Water cycle** — Foundational · Process · Major <!-- soil-water-079 -->
+1608. **Surface runoff** — Foundational · Process · Major · builds on: Infiltration (388), Water cycle (1607) <!-- soil-water-019 -->
+1609. **Subsidence** — Intermediate · Process · Major · builds on: Soil consolidation (323) <!-- soil-water-084 -->
+1610. **Stormwater** — Intermediate · Concept · Major · builds on: Water cycle (1607), Surface runoff (1608), Infiltration (388) <!-- soil-water-081 -->
+1611. **Runoff** — Foundational · Process · Minor · builds on: Water cycle (1607), Infiltration (388) <!-- soil-water-086 -->
+1612. **Straw** — Foundational · Material · Minor <!-- soil-water-089 -->
+1613. **Retention basin** — Intermediate · Practice · Minor · builds on: Stormwater (1610), Surface runoff (1608) <!-- soil-water-090 -->
+1614. **Bioswale** — Intermediate · Practice · Minor · builds on: Stormwater (1610), Surface runoff (1608) <!-- soil-water-092 -->
+1615. **Land development** — Intermediate · Practice · Minor <!-- soil-water-091 -->
+1616. **Land use and the water cycle** — Intermediate · Concept · Minor · builds on: Water cycle (1607), Infiltration (388), Soil compaction (313) <!-- soil-water-080 -->
+1617. **Runoff mitigation** — Intermediate · Practice · Minor · builds on: Surface runoff (1608) <!-- soil-water-024 -->
+1618. **Saturation-excess overland flow** — Intermediate · Process · Minor · builds on: Surface runoff (1608), Soil moisture (391) <!-- soil-water-021 -->
+1619. **Subsurface return flow** — Intermediate · Process · Minor · builds on: Surface runoff (1608), Infiltration (388) <!-- soil-water-022 -->
+1620. **Urban runoff** — Intermediate · Concept · Minor · builds on: Surface runoff (1608), Impervious surface (407) <!-- soil-water-023 -->
+1621. **Seasonal subsidence and heave** — Intermediate · Process · Minor · builds on: Shrink–swell capacity (257), Subsidence (1609) <!-- soil-water-085 -->
+1622. **Stormwater management** — Intermediate · Practice · Minor · builds on: Stormwater (1610) <!-- soil-water-082 -->
+1623. **Stormwater sinkholes** — Intermediate · Process · Minor · builds on: Stormwater (1610), Subsidence (1609) <!-- soil-water-083 -->
+1624. **Rainfall-runoff model** — Advanced · Method · Minor · builds on: Runoff (1611), Surface runoff (1608) <!-- soil-water-087 -->
+1625. **Hydrological transport model** — Advanced · Method · Minor · builds on: Surface runoff (1608), Rainfall-runoff model (1624) <!-- soil-water-107 -->
+1626. **Electrical double layer** — Advanced · Concept · Minor · builds on: Clay mineral (617), Cation-exchange capacity (705) <!-- soil-water-073 -->
+1627. **Hydrologic soil group** — Intermediate · Classification · Minor · builds on: Infiltration (388), Hydraulic conductivity (393) <!-- soil-water-255 -->
+1628. **Runoff curve number** — Intermediate · Method · Major · builds on: Runoff (1611), Infiltration (388), Hydrologic soil group (1627) <!-- soil-water-088 -->
+1629. **Soil and Water Assessment Tool** — Advanced · Method · Minor · builds on: Hydrological transport model (1625), Hydrology (416) <!-- soil-water-288 -->
+1630. **Soil erosion** — Foundational · Process · Landmark · builds on: Topsoil (135), Soil (1) <!-- soil-water-001 -->
+1631. **Water erosion** — Foundational · Process · Major · builds on: Soil erosion (1630), Surface runoff (1608), Infiltration (388) <!-- soil-water-003 -->
+1632. **Rainfall erosivity** — Intermediate · Concept · Major · builds on: Water erosion (1631) <!-- soil-water-011 -->
+1633. **Wind erosion** — Foundational · Process · Major · builds on: Soil erosion (1630) <!-- soil-water-010 -->
+1634. **Erosion control** — Intermediate · Practice · Major · builds on: Soil erosion (1630), Water erosion (1631), Wind erosion (1633), Surface runoff (1608) <!-- soil-water-050 -->
+1635. **Dust** — Foundational · Material · Major · builds on: Wind erosion (1633), Silt (248) <!-- soil-water-035 -->
+1636. **Vegetation cover and erosion** — Foundational · Concept · Major · builds on: Soil erosion (1630), Water erosion (1631), Wind erosion (1633) <!-- soil-water-012 -->
+1637. **Agriculture and soil erosion** — Intermediate · Concept · Major · builds on: Soil erosion (1630), Vegetation cover and erosion (1636), Soil compaction (313) <!-- soil-water-014 -->
+1638. **Erodibility** — Intermediate · Concept · Major · builds on: Soil erosion (1630), Soil texture (47), Soil structure (260) <!-- soil-water-045 -->
+1639. **Climate change and soil erosion** — Intermediate · Concept · Minor · builds on: Rainfall erosivity (1632), Vegetation cover and erosion (1636) <!-- soil-water-017 -->
+1640. **Deforestation and soil erosion** — Intermediate · Concept · Minor · builds on: Vegetation cover and erosion (1636) <!-- soil-water-015 -->
+1641. **Slope and erosion** — Foundational · Concept · Minor · builds on: Water erosion (1631), Surface runoff (1608) <!-- soil-water-013 -->
+1642. **Splash erosion** — Foundational · Process · Minor · builds on: Water erosion (1631), Soil erosion (1630) <!-- soil-water-004 -->
+1643. **Urbanization and erosion** — Intermediate · Concept · Minor · builds on: Soil erosion (1630), Surface runoff (1608), Impervious surface (407) <!-- soil-water-016 -->
+1644. **Rill erosion** — Foundational · Process · Major · builds on: Water erosion (1631), Surface runoff (1608) <!-- soil-water-025 -->
+1645. **Gully erosion** — Intermediate · Process · Major · builds on: Water erosion (1631), Rill erosion (1644) <!-- soil-water-027 -->
+1646. **Universal Soil Loss Equation** — Intermediate · Method · Major · builds on: Water erosion (1631), Rainfall erosivity (1632), Erodibility (1638) <!-- soil-water-041 -->
+1647. **Erosion prediction** — Intermediate · Method · Major · builds on: Soil erosion (1630), Universal Soil Loss Equation (1646) <!-- soil-water-043 -->
+1648. **Riparian buffer** — Intermediate · Practice · Minor · builds on: Surface runoff (1608), Vegetation cover and erosion (1636) <!-- soil-water-102 -->
+1649. **Geotextile** — Intermediate · Material · Minor · builds on: Erosion control (1634) <!-- soil-water-254 -->
+1650. **Soil loss tolerance** — Intermediate · Concept · Major · builds on: Soil erosion (1630) <!-- soil-water-105 -->
+1651. **Mineral dust** — Intermediate · Material · Major · builds on: Dust (1635), Wind erosion (1633), Mineral (26) <!-- soil-water-281 -->
+1652. **Jet erosion test** — Advanced · Method · Minor · builds on: Erodibility (1638) <!-- soil-water-095 -->
+1653. **Dust control** — Intermediate · Practice · Minor · builds on: Dust (1635) <!-- soil-water-036 -->
+1654. **Tillage erosion** — Intermediate · Process · Major · builds on: Soil erosion (1630) <!-- soil-water-038 -->
+1655. **Grassed waterway** — Intermediate · Practice · Minor · builds on: Surface runoff (1608), Gully erosion (1645) <!-- soil-water-109 -->
+1656. **Revegetation** — Intermediate · Practice · Minor · builds on: Soil erosion (1630), Erosion control (1634) <!-- soil-water-110 -->
+1657. **Prairie restoration** — Intermediate · Practice · Minor · builds on: Revegetation (1656), Topsoil (135), Soil erosion (1630) <!-- soil-water-113 -->
+1658. **WEPP** — Advanced · Method · Minor · builds on: Universal Soil Loss Equation (1646), Erosion prediction (1647) <!-- soil-water-111 -->
+1659. **Rill initiation** — Advanced · Process · Minor · builds on: Rill erosion (1644), Shear strength (soil) (319) <!-- soil-water-026 -->
+1660. **Sheet erosion** — Foundational · Process · Minor · builds on: Water erosion (1631), Surface runoff (1608) <!-- soil-water-005 -->
+1661. **Support practice factor** — Advanced · Concept · Minor · builds on: Universal Soil Loss Equation (1646) <!-- soil-water-042 -->
+1662. **Rainfall simulator** — Intermediate · Method · Minor · builds on: Infiltration (388), Surface runoff (1608), Soil erosion (1630) <!-- soil-water-256 -->
+1663. **Post-fire hillslope stabilization** — Intermediate · Practice · Minor · builds on: Soil erosion (1630), Hydrophobic soil (278), Surface runoff (1608), Vegetation cover and erosion (1636) <!-- soil-water-258 -->
+1664. **Tillage erosion measurement** — Advanced · Method · Minor · builds on: Tillage erosion (1654) <!-- soil-water-039 -->
+1665. **Tillage erosion models** — Advanced · Method · Minor · builds on: Tillage erosion (1654), Erosion prediction (1647) <!-- soil-water-040 -->
+1666. **Erosion index** — Advanced · Concept · Minor · builds on: Erodibility (1638), Soil loss tolerance (1650) <!-- soil-water-044 -->
+1667. **Revised Universal Soil Loss Equation** — Advanced · Method · Minor · builds on: Universal Soil Loss Equation (1646) <!-- soil-water-291 -->
+1668. **Wind erosion equation** — Advanced · Method · Minor · builds on: Wind erosion (1633), Erodibility (1638) <!-- soil-water-287 -->
+1669. **Sediment** — Foundational · Material · Landmark · builds on: Weathering (27) <!-- soil-water-046 -->
+1670. **Erosion** — Foundational · Process · Landmark · builds on: Weathering (27), Soil (1), Sediment (1669) <!-- soil-water-002 -->
+1671. **Aeolian processes** — Foundational · Process · Major · builds on: Erosion (1670), Sediment (1669) <!-- soil-water-029 -->
+1672. **Sediment control** — Intermediate · Practice · Major · builds on: Erosion control (1634), Sediment (1669) <!-- soil-water-051 -->
+1673. **Sediment pollution of waterways** — Intermediate · Concept · Major · builds on: Soil erosion (1630), Sediment (1669) <!-- soil-water-018 -->
+1674. **Mass wasting** — Intermediate · Process · Major · builds on: Erosion (1670), Regolith (85) <!-- soil-water-053 -->
+1675. **Downhill creep** — Intermediate · Process · Major · builds on: Mass wasting (1674) <!-- soil-water-055 -->
+1676. **Slope stability** — Intermediate · Concept · Major · builds on: Shear strength (soil) (319), Effective stress (317), Mass wasting (1674) <!-- soil-water-064 -->
+1677. **Landslide** — Intermediate · Process · Major · builds on: Mass wasting (1674), Slope stability (1676) <!-- soil-water-057 -->
+1678. **Sediment grain shape** — Intermediate · Concept · Minor · builds on: Sediment (1669), Grain size (246) <!-- soil-water-047 -->
+1679. **Sediment transport** — Intermediate · Process · Major · builds on: Sediment (1669), Grain size (246), Erosion (1670) <!-- soil-water-048 -->
+1680. **Sediment delivery ratio** — Advanced · Concept · Minor · builds on: Sediment transport (1679), Rill erosion (1644), Gully erosion (1645), Water erosion (1631) <!-- soil-water-049 -->
+1681. **Chemical erosion** — Intermediate · Process · Minor · builds on: Erosion (1670), Dissolution weathering (30), Weathering (27) <!-- soil-water-008 -->
+1682. **Coastal erosion** — Intermediate · Process · Minor · builds on: Erosion (1670) <!-- soil-water-007 -->
+1683. **Glacial erosion** — Intermediate · Process · Minor · builds on: Erosion (1670) <!-- soil-water-009 -->
+1684. **River and stream erosion** — Intermediate · Process · Minor · builds on: Erosion (1670), Surface runoff (1608) <!-- soil-water-006 -->
+1685. **Landslide classification** — Advanced · Classification · Major · builds on: Landslide (1677) <!-- soil-water-058 -->
+1686. **Solifluction** — Intermediate · Process · Minor · builds on: Mass wasting (1674), Frost heaving (548), Permafrost (551) <!-- soil-water-056 -->
+1687. **Internal erosion** — Intermediate · Process · Major · builds on: Seepage (318), Soil gradation (269), Erosion (1670), Effective stress (317) <!-- soil-water-100 -->
+1688. **Quick clay** — Intermediate · Material · Major · builds on: Clay (46), Soil liquefaction (320), Landslide (1677) <!-- soil-water-071 -->
+1689. **Debris flow** — Intermediate · Process · Major · builds on: Mass wasting (1674), Pore water pressure (315) <!-- soil-water-252 -->
+1690. **Deposition (geology)** — Foundational · Process · Major · builds on: Sediment (1669), Sediment transport (1679) <!-- soil-water-274 -->
+1691. **Aeolian transport** — Intermediate · Process · Minor · builds on: Aeolian processes (1671), Grain size (246) <!-- soil-water-032 -->
+1692. **Deflation** — Intermediate · Process · Minor · builds on: Wind erosion (1633), Aeolian processes (1671) <!-- soil-water-030 -->
+1693. **Sand dune** — Intermediate · Concept · Minor · builds on: Aeolian processes (1671), Sand (247) <!-- soil-water-033 -->
+1694. **Wind abrasion** — Intermediate · Process · Minor · builds on: Wind erosion (1633), Aeolian processes (1671) <!-- soil-water-031 -->
+1695. **Climate change and landslides** — Intermediate · Concept · Minor · builds on: Landslide (1677), Evapotranspiration (512) <!-- soil-water-063 -->
+1696. **Landslide hazard mapping** — Advanced · Method · Minor · builds on: Landslide (1677), Slope stability (1676) <!-- soil-water-061 -->
+1697. **Landslide monitoring** — Advanced · Method · Minor · builds on: Landslide (1677) <!-- soil-water-062 -->
+1698. **Shallow and deep-seated landslides** — Intermediate · Concept · Minor · builds on: Landslide (1677), Regolith (85) <!-- soil-water-059 -->
+1699. **Silt fence** — Intermediate · Practice · Minor · builds on: Sediment control (1672) <!-- soil-water-093 -->
+1700. **Dust storm** — Foundational · Process · Major · builds on: Wind erosion (1633), Aeolian transport (1691) <!-- soil-water-034 -->
+1701. **Dust Bowl** — Intermediate · Event · Landmark · builds on: Wind erosion (1633), Dust storm (1700), Topsoil (135), Soil erosion (1630), Aeolian processes (1671) <!-- soil-water-075 -->
+1702. **Dust Bowl government response** — Intermediate · Event · Minor · builds on: Dust Bowl (1701) <!-- soil-water-076 -->
+1703. **Economic legacy of the Dust Bowl** — Intermediate · Event · Minor · builds on: Dust Bowl (1701), Topsoil (135) <!-- soil-water-077 -->
+1704. **Earthflow** — Intermediate · Process · Minor · builds on: Mass wasting (1674), Soil liquefaction (320) <!-- soil-water-101 -->
+1705. **Denudation** — Intermediate · Process · Major · builds on: Erosion (1670), Weathering (27), Mass wasting (1674) <!-- soil-water-272 -->
+1706. **Sedimentation** — Intermediate · Process · Minor · builds on: Deposition (geology) (1690), Sediment (1669), Stokes's law (277) <!-- soil-water-275 -->
+1707. **Siltation** — Intermediate · Process · Major · builds on: Sediment (1669), Silt (248), Clay (46), Sedimentation (1706), Soil erosion (1630) <!-- soil-water-284 -->
+1708. **River bank failure** — Intermediate · Process · Minor · builds on: Mass wasting (1674), Cohesion (geology) (321), River and stream erosion (1684) <!-- soil-water-096 -->
+1709. **Sediment basin** — Intermediate · Practice · Minor · builds on: Sediment control (1672) <!-- soil-water-099 -->
+1710. **Mudflow** — Intermediate · Process · Minor · builds on: Landslide (1677), Soil liquefaction (320), Mass wasting (1674) <!-- soil-water-060 -->
+1711. **Gelifluction** — Intermediate · Process · Minor · builds on: Solifluction (1686), Topsoil (135) <!-- soil-water-103 -->
+1712. **Fiber roll** — Intermediate · Practice · Minor · builds on: Sediment control (1672), Straw (1612) <!-- soil-water-098 -->
+1713. **Sediment treatment systems** — Advanced · Method · Minor · builds on: Sediment control (1672), Flocculation (639) <!-- soil-water-052 -->
+1714. **Fluvial sediment processes** — Intermediate · Process · Major · builds on: Sediment transport (1679), Deposition (geology) (1690), River and stream erosion (1684), Erosion (1670) <!-- soil-water-277 -->
+1715. **Saltation** — Intermediate · Process · Minor · builds on: Sediment transport (1679), Aeolian processes (1671), Sand (247) <!-- soil-water-251 -->
+1716. **Hole erosion test** — Advanced · Method · Minor · builds on: Internal erosion (1687), Erodibility (1638) <!-- soil-water-094 -->
+1717. **Gully stabilisation** — Intermediate · Practice · Minor · builds on: Gully erosion (1645), Sediment (1669) <!-- soil-water-028 -->
+1718. **Marine clay** — Intermediate · Material · Major · builds on: Clay mineral (617), Flocculation (639), Clay (46), Mineral (26), Illite (627), Smectite (666), Kaolinite (626), Erosion (1670), Colloid (621), Coagulation and flocculation in water treatment (640) <!-- soil-water-298 -->
+1719. **Vegetation and slope stability** — Intermediate · Concept · Major · builds on: Slope stability (1676), Root (957), Shear strength (soil) (319) <!-- soil-water-067 -->
+1720. **Slope stability analysis** — Advanced · Method · Minor · builds on: Slope stability (1676), Shear strength (soil) (319) <!-- soil-water-066 -->
+1721. **Slope stabilization** — Intermediate · Practice · Minor · builds on: Slope stability (1676) <!-- soil-water-065 -->
+1722. **Mass wasting landforms** — Intermediate · Concept · Minor · builds on: Mass wasting (1674) <!-- soil-water-054 -->
+1723. **Baer–Babinet law** — Intermediate · Concept · Minor · builds on: River and stream erosion (1684), Erosion (1670) <!-- soil-water-106 -->
+1724. **Soil sloughing** — Intermediate · Process · Minor · builds on: Cohesion (geology) (321), Mass wasting (1674), Shear strength (soil) (319) <!-- soil-water-108 -->
+1725. **Fluvio-thermal erosion** — Advanced · Process · Minor · builds on: River and stream erosion (1684), River bank failure (1708), Permafrost (551) <!-- soil-water-104 -->
+1726. **TDR in geotechnical monitoring** — Advanced · Method · Minor · builds on: Time-domain reflectometry (409), Slope stability (1676) <!-- soil-water-224 -->
+1727. **Suspended load** — Intermediate · Concept · Minor · builds on: Sediment transport (1679), Sediment (1669), Silt (248) <!-- soil-water-286 -->
+1728. **Bed load and suspended load** — Intermediate · Concept · Minor · builds on: Sediment transport (1679), Sediment (1669) <!-- soil-water-249 -->
+1729. **Hjulström curve** — Intermediate · Concept · Minor · builds on: Sediment transport (1679), Grain size (246), Erosion (1670) <!-- soil-water-250 -->
+1730. **Stream power** — Advanced · Concept · Major · builds on: Sediment transport (1679), River and stream erosion (1684), Erosion (1670) <!-- soil-water-285 -->
+1731. **Fech fech** — Intermediate · Material · Minor · builds on: Erosion (1670), Clay (46), Carbonate minerals (56), Soil crust (274) <!-- soil-water-078 -->
+1732. **Bank erosion** — Intermediate · Process · Minor · builds on: River and stream erosion (1684), Erosion (1670) <!-- soil-water-270 -->
+1733. **Desert pavement** — Intermediate · Concept · Minor · builds on: Deflation (1692), Aeolian processes (1671), Gravel (258) <!-- soil-water-253 -->
+1734. **Shear strength of discontinuities** — Advanced · Concept · Minor · builds on: Shear strength (soil) (319), Slope stability (1676) <!-- soil-water-114 -->
+1735. **Quick clay formation** — Intermediate · Process · Minor · builds on: Quick clay (1688), Flocculation (639) <!-- soil-water-072 -->
+1736. **Quick clay landslides** — Intermediate · Process · Minor · builds on: Quick clay (1688), Landslide (1677) <!-- soil-water-074 -->
+1737. **Legacy sediment** — Intermediate · Concept · Minor · builds on: Sediment (1669), Soil erosion (1630), Alluvium (111) <!-- soil-water-257 -->
+1738. **River bank protection** — Intermediate · Practice · Minor · builds on: River bank failure (1708), Erosion control (1634) <!-- soil-water-097 -->
+1739. **Headward erosion** — Intermediate · Process · Minor · builds on: Gully erosion (1645), River and stream erosion (1684) <!-- soil-water-278 -->
+1740. **Aggradation** — Intermediate · Process · Minor · builds on: Deposition (geology) (1690), Sediment (1669), Alluvium (111), Sediment transport (1679) <!-- soil-water-268 -->
+1741. **Entrainment** — Intermediate · Process · Minor · builds on: Sediment (1669), Sediment transport (1679), Erosion (1670) <!-- soil-water-276 -->
+1742. **Shear velocity** — Advanced · Concept · Minor · builds on: Sediment transport (1679) <!-- soil-water-282 -->
+1743. **Badlands** — Intermediate · Concept · Minor · builds on: Erosion (1670), Gully erosion (1645), Sedimentary rock (89), Clay (46), Water erosion (1631) <!-- soil-water-269 -->
+1744. **Measuring denudation rates** — Advanced · Method · Minor · builds on: Denudation (1705), Sediment transport (1679) <!-- soil-water-273 -->
+1745. **Shields parameter** — Advanced · Concept · Minor · builds on: Entrainment (1741), Sediment transport (1679), Shear velocity (1742) <!-- soil-water-283 -->
+1746. **Corrasion** — Intermediate · Process · Minor · builds on: Erosion (1670), Sediment transport (1679) <!-- soil-water-271 -->
+1747. **Marine clay flocculation** — Intermediate · Process · Minor · builds on: Flocculation (639), Clay (46), Mineral (26), Illite (627), Smectite (666), Kaolinite (626), Erosion (1670), Colloid (621), Coagulation and flocculation in water treatment (640) <!-- soil-water-299 -->
+1748. **Marine clay in construction** — Intermediate · Practice · Minor · builds on: Marine clay (1718), Quick clay (1688), Clay (46), Mineral (26), Illite (627), Smectite (666), Kaolinite (626), Erosion (1670), Colloid (621), Coagulation and flocculation in water treatment (640) <!-- soil-water-300 -->
+1749. **Root reinforcement of soil** — Intermediate · Process · Minor · builds on: Root (957), Vegetation and slope stability (1719), Shear strength (soil) (319) <!-- soil-water-069 -->
+1750. **Root pull-out resistance** — Advanced · Concept · Minor · builds on: Root reinforcement of soil (1749) <!-- soil-water-070 -->
+1751. **Transpiration and slope stability** — Intermediate · Process · Minor · builds on: Vegetation and slope stability (1719), Pore water pressure (315), Evapotranspiration (512) <!-- soil-water-068 -->
+1752. **Landslide causes and triggers** — Intermediate · Concept · Minor · builds on: Landslide (1677), Slope stability (1676), Mass wasting (1674) <!-- soil-water-279 -->
+1753. **Rainfall-triggered landslides** — Advanced · Process · Minor · builds on: Landslide causes and triggers (1752), Pore water pressure (315), Landslide (1677) <!-- soil-water-280 -->
+1754. **Sediment yield** — Intermediate · Concept · Minor · builds on: Sediment transport (1679), Soil erosion (1630) <!-- soil-water-292 -->
+1755. **Soil piping** — Intermediate · Process · Minor · builds on: Internal erosion (1687), Seepage (318) <!-- soil-water-289 -->
+1756. **Vegetative filter strip** — Intermediate · Practice · Minor · builds on: Surface runoff (1608), Sediment control (1672) <!-- soil-water-290 -->
 
 ### Soils in the landscape
 
-1562. **Wetland** — Foundational · Concept · Landmark · builds on: Waterlogging (396), Soil (1) <!-- soil-water-124 -->
-1563. **Peatland** — Intermediate · Concept · Landmark · builds on: Wetland (1562), Peat (1136), Soil organic matter (26) <!-- soil-water-136 -->
-1564. **Landscape ecology** — Intermediate · Concept · Major <!-- soil-water-115 -->
-1565. **Hydric soil** — Intermediate · Concept · Landmark · builds on: Waterlogging (396), Soil aeration (509), Soil (1), Pore space in soil (303) <!-- soil-water-119 -->
-1566. **Marsh** — Intermediate · Concept · Major · builds on: Wetland (1562), Hydric soil (1565) <!-- soil-water-129 -->
-1567. **Swamp** — Intermediate · Concept · Major · builds on: Wetland (1562), Hydric soil (1565) <!-- soil-water-134 -->
-1568. **Salt marsh** — Intermediate · Concept · Minor · builds on: Halophyte (718), Soil salinity (696), Hydric soil (1565), Nitrogen cycle (1246) <!-- soil-fert-144 -->
-1569. **Floodplain** — Intermediate · Concept · Major · builds on: Alluvium (113), Sediment transport (1487) <!-- soil-water-264 -->
-1570. **Ombrotrophic** — Intermediate · Concept · Major · builds on: Wetland (1562), Base-richness (647) <!-- soil-water-145 -->
-1571. **Bog** — Intermediate · Concept · Major · builds on: Wetland (1562), Peat (1136), Ombrotrophic (1570) <!-- soil-water-121 -->
-1572. **Muskeg** — Intermediate · Concept · Major · builds on: Peatland (1563), Bog (1571), Permafrost (515) <!-- soil-water-139 -->
-1573. **Slump (geology)** — Intermediate · Process · Major · builds on: Mass wasting (1482), Slope stability (1484) <!-- soil-water-143 -->
-1574. **Polder** — Intermediate · Concept · Minor · builds on: Drainage (372), Water table (378), Marsh (1566) <!-- soil-water-144 -->
-1575. **Riparian zone** — Intermediate · Concept · Major · builds on: Floodplain (1569), Surface runoff (1415), Wetland (1562) <!-- soil-water-263 -->
-1576. **Minerotrophic** — Intermediate · Concept · Major · builds on: Wetland (1562), Base-richness (647) <!-- soil-water-147 -->
-1577. **Fen** — Intermediate · Concept · Major · builds on: Wetland (1562), Peat (1136), Minerotrophic (1576) <!-- soil-water-125 -->
-1578. **Geomorphology** — Intermediate · Concept · Major · builds on: Weathering (28), Erosion (1478), Deposition (geology) (1498) <!-- soil-water-295 -->
-1579. **Freshwater marsh** — Intermediate · Concept · Minor · builds on: Marsh (1566), Hydric soil (1565) <!-- soil-water-146 -->
-1580. **Bog–rich-fen gradient** — Advanced · Concept · Major · builds on: Bog (1571), Fen (1577), Soil pH (66), Minerotrophic (1576), Ombrotrophic (1570) <!-- soil-water-126 -->
-1581. **Wetland nutrient cycling** — Advanced · Process · Major · builds on: Hydric soil (1565), Redox (660), Nitrogen cycle (1246), Phosphorus cycle (1248) <!-- soil-water-127 -->
-1582. **Peatland carbon storage** — Advanced · Concept · Major · builds on: Peatland (1563), Soil organic matter in the carbon cycle (30), Wetland nutrient cycling (1581) <!-- soil-water-138 -->
-1583. **Raised bog** — Intermediate · Concept · Major · builds on: Bog (1571), Ombrotrophic (1570), Fen (1577) <!-- soil-water-122 -->
-1584. **Alluvial fan** — Intermediate · Concept · Major · builds on: Sediment (1477), Deposition (geology) (1498), Alluvium (113), Geomorphology (1578) <!-- soil-water-293 -->
-1585. **Paludification** — Intermediate · Process · Major · builds on: Peatland (1563), Peat formation (1139), Peat (1136), Hydric soil (1565) <!-- soil-water-149 -->
-1586. **Prairie pothole** — Intermediate · Concept · Minor · builds on: Marsh (1566) <!-- soil-water-132 -->
-1587. **Vernal pool** — Intermediate · Concept · Minor · builds on: Marsh (1566), Claypan (165), Duripan (163) <!-- soil-water-131 -->
-1588. **Wet meadow** — Intermediate · Concept · Minor · builds on: Marsh (1566) <!-- soil-water-130 -->
-1589. **Palsa** — Intermediate · Concept · Minor · builds on: Permafrost (515), Peat (1136), Peatland (1563) <!-- soil-water-266 -->
-1590. **Land loss** — Intermediate · Process · Minor <!-- soil-fert-198 -->
-1591. **Slope aspect** — Intermediate · Concept · Major · builds on: Topography as a soil-forming factor (191) <!-- soil-water-294 -->
-1592. **Ramsar Convention** — Intermediate · Person/Institution · Minor · builds on: Wetland (1562) <!-- soil-water-262 -->
-1593. **Landscape patch and mosaic** — Intermediate · Concept · Minor · builds on: Landscape ecology (1564) <!-- soil-water-117 -->
-1594. **Ecotone** — Intermediate · Concept · Minor · builds on: Landscape patch and mosaic (1593) <!-- soil-water-118 -->
-1595. **Spatial heterogeneity** — Intermediate · Concept · Minor · builds on: Landscape ecology (1564) <!-- soil-water-116 -->
-1596. **Blanket bog** — Intermediate · Concept · Minor · builds on: Bog (1571), Ombrotrophic (1570) <!-- soil-water-123 -->
-1597. **Börde** — Intermediate · Concept · Minor · builds on: Loess (112), Chernozem (1104) <!-- soil-water-140 -->
-1598. **Peat swamp forest** — Intermediate · Concept · Minor · builds on: Peat (1136), Swamp (1567), Waterlogging (396), Decomposition (951) <!-- soil-water-267 -->
-1599. **Constructed wetland** — Intermediate · Practice · Minor · builds on: Wetland (1562), Wetland nutrient cycling (1581) <!-- soil-water-260 -->
-1600. **Wetland ecosystem services** — Intermediate · Concept · Minor · builds on: Wetland (1562) <!-- soil-water-128 -->
-1601. **Wetland greenhouse gas emissions** — Intermediate · Process · Minor · builds on: Wetland (1562), Methanogenesis (679), Redox (660) <!-- soil-water-261 -->
-1602. **Wetland hydrology** — Intermediate · Process · Minor · builds on: Wetland (1562), Water table (378), Water cycle (1414) <!-- soil-water-259 -->
-1603. **Wetland loss** — Intermediate · Process · Minor · builds on: Wetland (1562) <!-- soil-water-135 -->
-1604. **Mire** — Intermediate · Concept · Minor · builds on: Peatland (1563) <!-- soil-water-137 -->
-1605. **Shrub swamp** — Intermediate · Concept · Minor · builds on: Swamp (1567), Marsh (1566), Wet meadow (1588) <!-- soil-water-148 -->
-1606. **Flark** — Intermediate · Concept · Minor · builds on: Bog (1571), Peat (1136) <!-- soil-phys-162 -->
-1607. **Floodplain soils** — Intermediate · Concept · Minor · builds on: Floodplain (1569), Redox (660), Waterlogging (396) <!-- soil-water-265 -->
-1608. **Hillslope evolution** — Intermediate · Process · Major · builds on: Weathering (28), Regolith (88), Soil production function (210), Downhill creep (1483) <!-- soil-form-128 -->
-1609. **Palustrine wetland** — Intermediate · Classification · Minor · builds on: Wetland (1562) <!-- soil-water-152 -->
-1610. **US legal hydric soil definition** — Intermediate · Concept · Minor · builds on: Hydric soil (1565) <!-- soil-water-120 -->
-1611. **Suffosion** — Intermediate · Process · Minor · builds on: Subsidence (1416), Internal erosion (1495), Loess (112), Soil erosion (1438) <!-- soil-water-142 -->
-1612. **String bog** — Intermediate · Concept · Minor · builds on: Bog (1571), Ombrotrophic (1570) <!-- soil-water-150 -->
-1613. **Hummock** — Intermediate · Concept · Minor · builds on: Frost heaving (512), Bog (1571) <!-- soil-water-151 -->
-1614. **Soil-surface roughness** — Intermediate · Concept · Minor · builds on: Soil aggregate stability (279) <!-- soil-water-141 -->
-1615. **Hydrosere** — Intermediate · Process · Minor · builds on: Ecological succession (217), Wetland (1562), Marsh (1566), Swamp (1567), Siltation (1515), Peatland (1563) <!-- soil-water-297 -->
-1616. **Pedotope** — Advanced · Concept · Minor · builds on: Pedology (4), Ecotone (1594) <!-- soil-water-296 -->
-1617. **Mima mounds** — Intermediate · Concept · Minor · builds on: A horizon (142), Sediment (1477), Soil horizon (67), Topsoil (137) <!-- soil-water-133 -->
-1618. **Hillslope sediment flux models** — Advanced · Concept · Minor · builds on: Hillslope evolution (1608), Soil production function (210), Downhill creep (1483) <!-- soil-form-129 -->
-1619. **Soil-mantled parabolic hills** — Advanced · Concept · Minor · builds on: Hillslope evolution (1608), Soil production function (210) <!-- soil-form-130 -->
+1757. **Wetland** — Foundational · Concept · Landmark · builds on: Waterlogging (412), Soil (1) <!-- soil-water-124 -->
+1758. **Peatland** — Intermediate · Concept · Landmark · builds on: Wetland (1757), Peat (1275), Soil organic matter (1045) <!-- soil-water-136 -->
+1759. **Landscape ecology** — Intermediate · Concept · Major <!-- soil-water-115 -->
+1760. **Hydric soil** — Intermediate · Concept · Landmark · builds on: Waterlogging (412), Soil aeration (545), Soil (1), Pore space in soil (312) <!-- soil-water-119 -->
+1761. **Marsh** — Intermediate · Concept · Major · builds on: Wetland (1757), Hydric soil (1760) <!-- soil-water-129 -->
+1762. **Swamp** — Intermediate · Concept · Major · builds on: Wetland (1757), Hydric soil (1760) <!-- soil-water-134 -->
+1763. **Salt marsh** — Intermediate · Concept · Minor · builds on: Halophyte (787), Soil salinity (763), Hydric soil (1760), Nitrogen cycle (1394) <!-- soil-fert-144 -->
+1764. **Floodplain** — Intermediate · Concept · Major · builds on: Alluvium (111), Sediment transport (1679) <!-- soil-water-264 -->
+1765. **Ombrotrophic** — Intermediate · Concept · Major · builds on: Wetland (1757), Base-richness (711) <!-- soil-water-145 -->
+1766. **Bog** — Intermediate · Concept · Major · builds on: Wetland (1757), Peat (1275), Ombrotrophic (1765) <!-- soil-water-121 -->
+1767. **Muskeg** — Intermediate · Concept · Major · builds on: Peatland (1758), Bog (1766), Permafrost (551) <!-- soil-water-139 -->
+1768. **Slump (geology)** — Intermediate · Process · Major · builds on: Mass wasting (1674), Slope stability (1676) <!-- soil-water-143 -->
+1769. **Polder** — Intermediate · Concept · Minor · builds on: Drainage (392), Water table (398), Marsh (1761) <!-- soil-water-144 -->
+1770. **Riparian zone** — Intermediate · Concept · Major · builds on: Floodplain (1764), Surface runoff (1608), Wetland (1757) <!-- soil-water-263 -->
+1771. **Minerotrophic** — Intermediate · Concept · Major · builds on: Wetland (1757), Base-richness (711) <!-- soil-water-147 -->
+1772. **Fen** — Intermediate · Concept · Major · builds on: Wetland (1757), Peat (1275), Minerotrophic (1771) <!-- soil-water-125 -->
+1773. **Geomorphology** — Intermediate · Concept · Major · builds on: Weathering (27), Erosion (1670), Deposition (geology) (1690) <!-- soil-water-295 -->
+1774. **Freshwater marsh** — Intermediate · Concept · Minor · builds on: Marsh (1761), Hydric soil (1760) <!-- soil-water-146 -->
+1775. **Bog–rich-fen gradient** — Advanced · Concept · Major · builds on: Bog (1766), Fen (1772), Soil pH (63), Minerotrophic (1771), Ombrotrophic (1765) <!-- soil-water-126 -->
+1776. **Wetland nutrient cycling** — Advanced · Process · Major · builds on: Hydric soil (1760), Redox (725), Nitrogen cycle (1394), Phosphorus cycle (1396) <!-- soil-water-127 -->
+1777. **Peatland carbon storage** — Advanced · Concept · Major · builds on: Peatland (1758), Soil organic matter in the carbon cycle (1059), Wetland nutrient cycling (1776) <!-- soil-water-138 -->
+1778. **Raised bog** — Intermediate · Concept · Major · builds on: Bog (1766), Ombrotrophic (1765), Fen (1772) <!-- soil-water-122 -->
+1779. **Alluvial fan** — Intermediate · Concept · Major · builds on: Sediment (1669), Deposition (geology) (1690), Alluvium (111), Geomorphology (1773) <!-- soil-water-293 -->
+1780. **Paludification** — Intermediate · Process · Major · builds on: Peatland (1758), Peat formation (1278), Peat (1275), Hydric soil (1760) <!-- soil-water-149 -->
+1781. **Prairie pothole** — Intermediate · Concept · Minor · builds on: Marsh (1761) <!-- soil-water-132 -->
+1782. **Vernal pool** — Intermediate · Concept · Minor · builds on: Marsh (1761), Claypan (163), Duripan (161) <!-- soil-water-131 -->
+1783. **Wet meadow** — Intermediate · Concept · Minor · builds on: Marsh (1761) <!-- soil-water-130 -->
+1784. **Palsa** — Intermediate · Concept · Minor · builds on: Permafrost (551), Peat (1275), Peatland (1758) <!-- soil-water-266 -->
+1785. **Land loss** — Intermediate · Process · Minor <!-- soil-fert-198 -->
+1786. **Slope aspect** — Intermediate · Concept · Major · builds on: Topography as a soil-forming factor (189) <!-- soil-water-294 -->
+1787. **Ramsar Convention** — Intermediate · Person/Institution · Minor · builds on: Wetland (1757) <!-- soil-water-262 -->
+1788. **Landscape patch and mosaic** — Intermediate · Concept · Minor · builds on: Landscape ecology (1759) <!-- soil-water-117 -->
+1789. **Ecotone** — Intermediate · Concept · Minor · builds on: Landscape patch and mosaic (1788) <!-- soil-water-118 -->
+1790. **Spatial heterogeneity** — Intermediate · Concept · Minor · builds on: Landscape ecology (1759) <!-- soil-water-116 -->
+1791. **Blanket bog** — Intermediate · Concept · Minor · builds on: Bog (1766), Ombrotrophic (1765) <!-- soil-water-123 -->
+1792. **Börde** — Intermediate · Concept · Minor · builds on: Loess (110), Chernozem (1243) <!-- soil-water-140 -->
+1793. **Peat swamp forest** — Intermediate · Concept · Minor · builds on: Peat (1275), Swamp (1762), Waterlogging (412), Decomposition (1047) <!-- soil-water-267 -->
+1794. **Constructed wetland** — Intermediate · Practice · Minor · builds on: Wetland (1757), Wetland nutrient cycling (1776) <!-- soil-water-260 -->
+1795. **Wetland ecosystem services** — Intermediate · Concept · Minor · builds on: Wetland (1757) <!-- soil-water-128 -->
+1796. **Wetland greenhouse gas emissions** — Intermediate · Process · Minor · builds on: Wetland (1757), Methanogenesis (744), Redox (725) <!-- soil-water-261 -->
+1797. **Wetland hydrology** — Intermediate · Process · Minor · builds on: Wetland (1757), Water table (398), Water cycle (1607) <!-- soil-water-259 -->
+1798. **Wetland loss** — Intermediate · Process · Minor · builds on: Wetland (1757) <!-- soil-water-135 -->
+1799. **Mire** — Intermediate · Concept · Minor · builds on: Peatland (1758) <!-- soil-water-137 -->
+1800. **Shrub swamp** — Intermediate · Concept · Minor · builds on: Swamp (1762), Marsh (1761), Wet meadow (1783) <!-- soil-water-148 -->
+1801. **Flark** — Intermediate · Concept · Minor · builds on: Bog (1766), Peat (1275) <!-- soil-phys-162 -->
+1802. **Gilgai** — Intermediate · Concept · Major · builds on: Shrink–swell capacity (257), Expansive clay (266), Vertisol (1213), Argillipedoturbation (220) <!-- soil-phys-030 -->
+1803. **Palustrine wetland** — Intermediate · Classification · Minor · builds on: Wetland (1757) <!-- soil-water-152 -->
+1804. **Floodplain soils** — Intermediate · Concept · Minor · builds on: Floodplain (1764), Redox (725), Waterlogging (412) <!-- soil-water-265 -->
+1805. **Hillslope evolution** — Intermediate · Process · Major · builds on: Weathering (27), Regolith (85), Soil production function (208), Downhill creep (1675) <!-- soil-form-128 -->
+1806. **US legal hydric soil definition** — Intermediate · Concept · Minor · builds on: Hydric soil (1760) <!-- soil-water-120 -->
+1807. **Suffosion** — Intermediate · Process · Minor · builds on: Subsidence (1609), Internal erosion (1687), Loess (110), Soil erosion (1630) <!-- soil-water-142 -->
+1808. **String bog** — Intermediate · Concept · Minor · builds on: Bog (1766), Ombrotrophic (1765) <!-- soil-water-150 -->
+1809. **Hummock** — Intermediate · Concept · Minor · builds on: Frost heaving (548), Bog (1766) <!-- soil-water-151 -->
+1810. **Soil-surface roughness** — Intermediate · Concept · Minor · builds on: Soil aggregate stability (271) <!-- soil-water-141 -->
+1811. **Hydrosere** — Intermediate · Process · Minor · builds on: Ecological succession (215), Wetland (1757), Marsh (1761), Swamp (1762), Siltation (1707), Peatland (1758) <!-- soil-water-297 -->
+1812. **Pedotope** — Advanced · Concept · Minor · builds on: Pedology (4), Ecotone (1789) <!-- soil-water-296 -->
+1813. **Mima mounds** — Intermediate · Concept · Minor · builds on: A horizon (140), Sediment (1669), Soil horizon (64), Topsoil (135) <!-- soil-water-133 -->
+1814. **Hillslope sediment flux models** — Advanced · Concept · Minor · builds on: Hillslope evolution (1805), Soil production function (208), Downhill creep (1675) <!-- soil-form-129 -->
+1815. **Soil-mantled parabolic hills** — Advanced · Concept · Minor · builds on: Hillslope evolution (1805), Soil production function (208) <!-- soil-form-130 -->
 
 ## Agriculture and management
 
 
 ### Farming systems and growing media
 
-1620. **Irrigation** — Foundational · Practice · Landmark · builds on: Soil moisture (371), Plant water uptake (385), Field capacity (466) <!-- soil-agri-013 -->
-1621. **Crop rotation** — Foundational · Practice · Landmark · builds on: Soil fertility (1182), Nutrient (1181), Soil organic matter (26) <!-- soil-agri-004 -->
-1622. **Leaching (agriculture)** — Intermediate · Process · Landmark · builds on: Nutrient (1181), Percolation (471), Leaching (pedology) (185), Irrigation (1620), Soil water retention (376) <!-- soil-agri-021 -->
-1623. **Land reclamation** — Foundational · Practice · Major · builds on: Drainage (372), Soil consolidation (314) <!-- soil-agri-040 -->
-1624. **Herbicide** — Intermediate · Material · Major <!-- soil-agri-046 -->
-1625. **Agricultural soil science** — Foundational · Concept · Landmark · builds on: Soil science (2), Edaphology (5) <!-- soil-agri-001 -->
-1626. **Potting soil** — Foundational · Material · Major · builds on: Soil (1), Pore space in soil (303), Soil pH (66) <!-- soil-agri-028 -->
-1627. **Organic farming** — Foundational · Practice · Major · builds on: Compost (1304), Manure (1348), Green manure (1349), Crop rotation (1621), Fertilizer (1303), Soil fertility (1182) <!-- soil-agri-135 -->
-1628. **Surface irrigation** — Foundational · Practice · Major · builds on: Irrigation (1620), Infiltration (368) <!-- soil-agri-049 -->
-1629. **Monocropping** — Foundational · Practice · Major · builds on: Crop rotation (1621) <!-- soil-agri-053 -->
-1630. **Fallow** — Foundational · Practice · Major · builds on: Crop rotation (1621) <!-- soil-agri-044 -->
-1631. **Irrigation efficiency** — Intermediate · Concept · Minor · builds on: Irrigation (1620), Evapotranspiration (387) <!-- soil-agri-014 -->
-1632. **Sprinkler irrigation** — Foundational · Practice · Minor · builds on: Irrigation (1620) <!-- soil-agri-016 -->
-1633. **Subirrigation** — Intermediate · Practice · Minor · builds on: Irrigation (1620), Water table (378), Rooting depth (873) <!-- soil-agri-017 -->
-1634. **Wastewater irrigation** — Intermediate · Practice · Minor · builds on: Irrigation (1620), Nutrient (1181) <!-- soil-agri-018 -->
-1635. **Regenerative agriculture** — Intermediate · Practice · Major · builds on: Topsoil (137), Soil biodiversity (753), Soil organic matter (26), Soil health (11) <!-- soil-agri-042 -->
-1636. **Crop choice in rotations** — Intermediate · Practice · Minor · builds on: Crop rotation (1621), Soil organic matter (26), Nutrient (1181), Soil erosion (1438) <!-- soil-agri-007 -->
-1637. **Crop rotation and erosion control** — Intermediate · Practice · Minor · builds on: Crop rotation (1621), Soil erosion (1438), Fallow (1630) <!-- soil-agri-006 -->
-1638. **Mixed farming** — Intermediate · Practice · Minor · builds on: Crop rotation (1621), Animal manure (1350), Nutrient cycle (1250), Manure (1348) <!-- soil-agri-008 -->
-1639. **Polyculture** — Foundational · Practice · Minor · builds on: Monocropping (1629), Crop rotation (1621) <!-- soil-agri-009 -->
-1640. **Intercropping** — Foundational · Practice · Major · builds on: Polyculture (1639) <!-- soil-agri-133 -->
-1641. **Sustainable agriculture** — Foundational · Practice · Major · builds on: Crop rotation (1621) <!-- soil-agri-151 -->
-1642. **Nitrate leaching** — Intermediate · Process · Major · builds on: Leaching (agriculture) (1622), Nitrogen cycle (1246), Cation-exchange capacity (641) <!-- soil-agri-022 -->
-1643. **Drip irrigation** — Foundational · Practice · Major · builds on: Irrigation (1620), Root (867) <!-- soil-agri-015 -->
-1644. **Soil solarization** — Intermediate · Method · Major · builds on: Soil-borne pathogen (786), Soil temperature (507), Soil thermal properties (514) <!-- soil-agri-034 -->
-1645. **Integrated pest management** — Intermediate · Practice · Minor · builds on: Herbicide (1624), Crop rotation (1621) <!-- soil-agri-054 -->
-1646. **Crop yield** — Foundational · Concept · Minor <!-- soil-agri-058 -->
-1647. **Precision agriculture** — Intermediate · Practice · Major · builds on: Soil test (1186), Crop yield (1646), Nutrient management (1191), Soil fertility (1182) <!-- soil-agri-010 -->
-1648. **Green Revolution** — Foundational · Event · Major · builds on: Fertilizer (1303), Irrigation (1620), Crop yield (1646) <!-- soil-agri-138 -->
-1649. **Rotation effect** — Intermediate · Concept · Minor · builds on: Crop rotation (1621), Monocropping (1629), Crop yield (1646) <!-- soil-agri-005 -->
-1650. **Agricultural land reclamation** — Intermediate · Practice · Minor · builds on: Land reclamation (1623), Wetland (1562) <!-- soil-agri-041 -->
-1651. **Soil steam sterilization** — Intermediate · Method · Major · builds on: Soil-borne pathogen (786), Soil microbiology (751) <!-- soil-agri-032 -->
-1652. **Herbicide persistence** — Intermediate · Concept · Minor · builds on: Herbicide (1624), Sorption (618), Soil pH (66) <!-- soil-agri-048 -->
-1653. **Soil-applied herbicides** — Intermediate · Method · Minor · builds on: Herbicide (1624), Sorption (618), Root (867) <!-- soil-agri-047 -->
-1654. **Phosphorus leaching** — Advanced · Process · Minor · builds on: Leaching (agriculture) (1622), Soil phosphorus retention (1272), Preferential flow (458), Phosphorus cycle (1248), Sorption (618) <!-- soil-agri-023 -->
-1655. **Shifting cultivation** — Foundational · Practice · Major · builds on: Fallow (1630) <!-- soil-agri-149 -->
-1656. **Slash-and-burn agriculture** — Foundational · Practice · Major · builds on: Shifting cultivation (1655) <!-- soil-agri-150 -->
-1657. **Coir** — Foundational · Material · Minor · builds on: Potting soil (1626), Peat (1136) <!-- soil-agri-139 -->
-1658. **Land restoration** — Intermediate · Practice · Minor <!-- soil-agri-055 -->
-1659. **Salt tolerance of crops** — Intermediate · Concept · Major · builds on: Soil salinity (696), Irrigation (1620) <!-- soil-agri-024 -->
-1660. **Within-field variability** — Intermediate · Concept · Minor · builds on: Precision agriculture (1647) <!-- soil-agri-012 -->
-1661. **Saturated media extract** — Intermediate · Method · Minor · builds on: Potting soil (1626), Soil test (1186) <!-- soil-agri-030 -->
-1662. **Specialty potting mixes** — Foundational · Practice · Minor · builds on: Potting soil (1626), Soil aeration (509), Drainage (372), Soil pH (66) <!-- soil-agri-029 -->
-1663. **Monoculture** — Foundational · Practice · Minor · builds on: Crop rotation (1621) <!-- soil-agri-146 -->
-1664. **Dryland farming** — Foundational · Practice · Major · builds on: Irrigation (1620), Soil moisture (371), Aridity (1108), Fallow (1630) <!-- soil-agri-144 -->
-1665. **Agrominerals** — Intermediate · Material · Minor · builds on: Mineral (27), Essential plant nutrients (1185), Plant nutrition (1183) <!-- soil-agri-038 -->
-1666. **Agrogeology** — Intermediate · Concept · Major · builds on: Agrominerals (1665), Mineral (27), Soil fertility (1182) <!-- soil-agri-036 -->
-1667. **Organic farming and soil quality** — Intermediate · Debate · Minor · builds on: Organic farming (1627), Soil quality (12), Soil organic matter (26) <!-- soil-agri-137 -->
-1668. **Organic soil fertility management** — Intermediate · Practice · Minor · builds on: Organic farming (1627), Mineralization (soil science) (954), Green manure (1349), Compost (1304) <!-- soil-agri-136 -->
-1669. **Soil remineralization** — Intermediate · Practice · Major · builds on: Agrominerals (1665), Rock flour (1327), Weathering (28) <!-- soil-agri-039 -->
-1670. **Basin irrigation** — Foundational · Practice · Minor · builds on: Surface irrigation (1628), Infiltration (368) <!-- soil-agri-051 -->
-1671. **Furrow irrigation** — Intermediate · Practice · Minor · builds on: Surface irrigation (1628) <!-- soil-agri-050 -->
-1672. **Spate irrigation** — Intermediate · Practice · Minor · builds on: Surface irrigation (1628) <!-- soil-agri-052 -->
-1673. **Fallow syndrome** — Intermediate · Concept · Minor · builds on: Fallow (1630), Arbuscular mycorrhiza (887) <!-- soil-agri-045 -->
-1674. **Fertigation** — Intermediate · Practice · Minor · builds on: Fertilizer (1303), Irrigation (1620) <!-- soil-fert-208 -->
-1675. **Holistic planned grazing** — Intermediate · Practice · Minor · builds on: Regenerative agriculture (1635) <!-- soil-agri-043 -->
-1676. **Alley cropping** — Intermediate · Practice · Minor · builds on: Intercropping (1640) <!-- soil-agri-134 -->
-1677. **Biofumigation** — Intermediate · Method · Minor · builds on: Soil-borne pathogen (786), Decomposition (951) <!-- soil-agri-056 -->
-1678. **Rock phosphate fertilizer** — Intermediate · Material · Minor · builds on: Agrominerals (1665), Phosphorite (1407), Phosphorus as a plant nutrient (1206), Agrogeology (1666), Phosphorus cycle (1248) <!-- soil-agri-037 -->
-1679. **Zaï** — Foundational · Practice · Minor · builds on: Compost (1304), Infiltration (368), Permeability of soils (425), Soil fertility (1182) <!-- soil-agri-057 -->
-1680. **Biosolarization** — Intermediate · Method · Minor · builds on: Soil solarization (1644), Compost (1304), Soil microbiology (751) <!-- soil-agri-035 -->
-1681. **Natural farming** — Intermediate · Practice · Minor · builds on: Organic farming (1627), Sustainable agriculture (1641) <!-- soil-agri-148 -->
-1682. **Deficit irrigation** — Intermediate · Practice · Minor · builds on: Irrigation (1620), Evapotranspiration (387) <!-- soil-agri-132 -->
-1683. **Soilless growing substrates** — Intermediate · Material · Minor · builds on: Potting soil (1626), Hydroponics (1209), Perlite (1317) <!-- soil-agri-031 -->
-1684. **Expanded clay aggregate** — Foundational · Material · Minor · builds on: Soilless growing substrates (1683), Clay (49) <!-- soil-agri-145 -->
-1685. **Soil steaming methods** — Advanced · Method · Minor · builds on: Soil steam sterilization (1651), Soil structure (249) <!-- soil-agri-033 -->
-1686. **Center-pivot irrigation** — Foundational · Practice · Minor · builds on: Irrigation (1620) <!-- soil-agri-131 -->
-1687. **Multiple cropping** — Foundational · Practice · Minor · builds on: Crop rotation (1621), Intercropping (1640) <!-- soil-agri-147 -->
-1688. **Variable rate application** — Intermediate · Method · Minor · builds on: Precision agriculture (1647), Within-field variability (1660), Fertilizer (1303) <!-- soil-agri-011 -->
-1689. **Soil salinity classes for crops** — Intermediate · Classification · Minor · builds on: Salt tolerance of crops (1659), Measuring soil salinity (710), Soil salinity (696) <!-- soil-agri-025 -->
-1690. **Methyl bromide** — Intermediate · Material · Minor · builds on: Soil steam sterilization (1651) <!-- soil-agri-143 -->
-1691. **Crop tolerance to seawater** — Intermediate · Concept · Minor · builds on: Salt tolerance of crops (1659), Irrigation (1620) <!-- soil-agri-027 -->
-1692. **Agroecosystem** — Foundational · Concept · Minor <!-- soil-agri-003 -->
-1693. **Agroecology** — Intermediate · Concept · Major · builds on: Agroecosystem (1692), Soil ecology (755), Agricultural soil science (1625), Nutrient cycle (1250) <!-- soil-agri-002 -->
-1694. **Soil sickness** — Intermediate · Concept · Minor · builds on: Monocropping (1629), Rhizosphere (880), Soil fertility (1182) <!-- soil-agri-152 -->
+1816. **Irrigation** — Foundational · Practice · Landmark · builds on: Soil moisture (391), Plant water uptake (526), Field capacity (482) <!-- soil-agri-013 -->
+1817. **Crop rotation** — Foundational · Practice · Landmark · builds on: Soil fertility (1322), Nutrient (1321), Soil organic matter (1045) <!-- soil-agri-004 -->
+1818. **Leaching (agriculture)** — Intermediate · Process · Landmark · builds on: Nutrient (1321), Percolation (484), Leaching (pedology) (183), Irrigation (1816), Soil water retention (396) <!-- soil-agri-021 -->
+1819. **Land reclamation** — Foundational · Practice · Major · builds on: Drainage (392), Soil consolidation (323) <!-- soil-agri-040 -->
+1820. **Herbicide** — Intermediate · Material · Major <!-- soil-agri-046 -->
+1821. **Agricultural soil science** — Foundational · Concept · Landmark · builds on: Soil science (2), Edaphology (5) <!-- soil-agri-001 -->
+1822. **Potting soil** — Foundational · Material · Major · builds on: Soil (1), Pore space in soil (312), Soil pH (63) <!-- soil-agri-028 -->
+1823. **Organic farming** — Foundational · Practice · Major · builds on: Compost (1461), Manure (1505), Green manure (1506), Crop rotation (1817), Fertilizer (1460), Soil fertility (1322) <!-- soil-agri-135 -->
+1824. **Surface irrigation** — Foundational · Practice · Major · builds on: Irrigation (1816), Infiltration (388) <!-- soil-agri-049 -->
+1825. **Monocropping** — Foundational · Practice · Major · builds on: Crop rotation (1817) <!-- soil-agri-053 -->
+1826. **Fallow** — Foundational · Practice · Major · builds on: Crop rotation (1817) <!-- soil-agri-044 -->
+1827. **Irrigation efficiency** — Intermediate · Concept · Minor · builds on: Irrigation (1816), Evapotranspiration (512) <!-- soil-agri-014 -->
+1828. **Sprinkler irrigation** — Foundational · Practice · Minor · builds on: Irrigation (1816) <!-- soil-agri-016 -->
+1829. **Subirrigation** — Intermediate · Practice · Minor · builds on: Irrigation (1816), Water table (398), Rooting depth (963) <!-- soil-agri-017 -->
+1830. **Wastewater irrigation** — Intermediate · Practice · Minor · builds on: Irrigation (1816), Nutrient (1321) <!-- soil-agri-018 -->
+1831. **Regenerative agriculture** — Intermediate · Practice · Major · builds on: Topsoil (135), Soil biodiversity (830), Soil organic matter (1045), Soil health (10) <!-- soil-agri-042 -->
+1832. **Crop choice in rotations** — Intermediate · Practice · Minor · builds on: Crop rotation (1817), Soil organic matter (1045), Nutrient (1321), Soil erosion (1630) <!-- soil-agri-007 -->
+1833. **Crop rotation and erosion control** — Intermediate · Practice · Minor · builds on: Crop rotation (1817), Soil erosion (1630), Fallow (1826) <!-- soil-agri-006 -->
+1834. **Mixed farming** — Intermediate · Practice · Minor · builds on: Crop rotation (1817), Animal manure (1507), Nutrient cycle (1398), Manure (1505) <!-- soil-agri-008 -->
+1835. **Polyculture** — Foundational · Practice · Minor · builds on: Monocropping (1825), Crop rotation (1817) <!-- soil-agri-009 -->
+1836. **Intercropping** — Foundational · Practice · Major · builds on: Polyculture (1835) <!-- soil-agri-133 -->
+1837. **Sustainable agriculture** — Foundational · Practice · Major · builds on: Crop rotation (1817) <!-- soil-agri-151 -->
+1838. **Nitrate leaching** — Intermediate · Process · Major · builds on: Leaching (agriculture) (1818), Nitrogen cycle (1394), Cation-exchange capacity (705) <!-- soil-agri-022 -->
+1839. **Drip irrigation** — Foundational · Practice · Major · builds on: Irrigation (1816), Root (957) <!-- soil-agri-015 -->
+1840. **Soil solarization** — Intermediate · Method · Major · builds on: Soil-borne pathogen (863), Soil temperature (543), Soil thermal properties (550) <!-- soil-agri-034 -->
+1841. **Integrated pest management** — Intermediate · Practice · Minor · builds on: Herbicide (1820), Crop rotation (1817) <!-- soil-agri-054 -->
+1842. **Crop yield** — Foundational · Concept · Minor <!-- soil-agri-058 -->
+1843. **Precision agriculture** — Intermediate · Practice · Major · builds on: Soil test (1326), Crop yield (1842), Nutrient management (1331), Soil fertility (1322) <!-- soil-agri-010 -->
+1844. **Green Revolution** — Foundational · Event · Major · builds on: Fertilizer (1460), Irrigation (1816), Crop yield (1842) <!-- soil-agri-138 -->
+1845. **Rotation effect** — Intermediate · Concept · Minor · builds on: Crop rotation (1817), Monocropping (1825), Crop yield (1842) <!-- soil-agri-005 -->
+1846. **Agricultural land reclamation** — Intermediate · Practice · Minor · builds on: Land reclamation (1819), Wetland (1757) <!-- soil-agri-041 -->
+1847. **Soil steam sterilization** — Intermediate · Method · Major · builds on: Soil-borne pathogen (863), Soil microbiology (827) <!-- soil-agri-032 -->
+1848. **Shifting cultivation** — Foundational · Practice · Major · builds on: Fallow (1826) <!-- soil-agri-149 -->
+1849. **Slash-and-burn agriculture** — Foundational · Practice · Major · builds on: Shifting cultivation (1848) <!-- soil-agri-150 -->
+1850. **Herbicide persistence** — Intermediate · Concept · Minor · builds on: Herbicide (1820), Sorption (681), Soil pH (63) <!-- soil-agri-048 -->
+1851. **Soil-applied herbicides** — Intermediate · Method · Minor · builds on: Herbicide (1820), Sorption (681), Root (957) <!-- soil-agri-047 -->
+1852. **Phosphorus leaching** — Advanced · Process · Minor · builds on: Leaching (agriculture) (1818), Soil phosphorus retention (1420), Preferential flow (476), Phosphorus cycle (1396), Sorption (681) <!-- soil-agri-023 -->
+1853. **Coir** — Foundational · Material · Minor · builds on: Potting soil (1822), Peat (1275) <!-- soil-agri-139 -->
+1854. **Land restoration** — Intermediate · Practice · Minor <!-- soil-agri-055 -->
+1855. **Monoculture** — Foundational · Practice · Minor · builds on: Crop rotation (1817) <!-- soil-agri-146 -->
+1856. **Salt tolerance of crops** — Intermediate · Concept · Major · builds on: Soil salinity (763), Irrigation (1816) <!-- soil-agri-024 -->
+1857. **Within-field variability** — Intermediate · Concept · Minor · builds on: Precision agriculture (1843) <!-- soil-agri-012 -->
+1858. **Saturated media extract** — Intermediate · Method · Minor · builds on: Potting soil (1822), Soil test (1326) <!-- soil-agri-030 -->
+1859. **Specialty potting mixes** — Foundational · Practice · Minor · builds on: Potting soil (1822), Soil aeration (545), Drainage (392), Soil pH (63) <!-- soil-agri-029 -->
+1860. **Dryland farming** — Foundational · Practice · Major · builds on: Irrigation (1816), Soil moisture (391), Aridity (1247), Fallow (1826) <!-- soil-agri-144 -->
+1861. **Agrominerals** — Intermediate · Material · Minor · builds on: Mineral (26), Essential plant nutrients (1325), Plant nutrition (1323) <!-- soil-agri-038 -->
+1862. **Agrogeology** — Intermediate · Concept · Major · builds on: Agrominerals (1861), Mineral (26), Soil fertility (1322) <!-- soil-agri-036 -->
+1863. **Organic farming and soil quality** — Intermediate · Debate · Minor · builds on: Organic farming (1823), Soil quality (11), Soil organic matter (1045) <!-- soil-agri-137 -->
+1864. **Organic soil fertility management** — Intermediate · Practice · Minor · builds on: Organic farming (1823), Mineralization (soil science) (1050), Green manure (1506), Compost (1461) <!-- soil-agri-136 -->
+1865. **Center-pivot irrigation** — Foundational · Practice · Minor · builds on: Irrigation (1816) <!-- soil-agri-131 -->
+1866. **Soil remineralization** — Intermediate · Practice · Major · builds on: Agrominerals (1861), Rock flour (1484), Weathering (27) <!-- soil-agri-039 -->
+1867. **Basin irrigation** — Foundational · Practice · Minor · builds on: Surface irrigation (1824), Infiltration (388) <!-- soil-agri-051 -->
+1868. **Furrow irrigation** — Intermediate · Practice · Minor · builds on: Surface irrigation (1824) <!-- soil-agri-050 -->
+1869. **Spate irrigation** — Intermediate · Practice · Minor · builds on: Surface irrigation (1824) <!-- soil-agri-052 -->
+1870. **Fallow syndrome** — Intermediate · Concept · Minor · builds on: Fallow (1826), Arbuscular mycorrhiza (977) <!-- soil-agri-045 -->
+1871. **Fertigation** — Intermediate · Practice · Minor · builds on: Fertilizer (1460), Irrigation (1816) <!-- soil-fert-208 -->
+1872. **Holistic planned grazing** — Intermediate · Practice · Minor · builds on: Regenerative agriculture (1831) <!-- soil-agri-043 -->
+1873. **Alley cropping** — Intermediate · Practice · Minor · builds on: Intercropping (1836) <!-- soil-agri-134 -->
+1874. **Biofumigation** — Intermediate · Method · Minor · builds on: Soil-borne pathogen (863), Decomposition (1047) <!-- soil-agri-056 -->
+1875. **Rock phosphate fertilizer** — Intermediate · Material · Minor · builds on: Agrominerals (1861), Phosphorite (1600), Phosphorus as a plant nutrient (1343), Agrogeology (1862), Phosphorus cycle (1396) <!-- soil-agri-037 -->
+1876. **Zaï** — Foundational · Practice · Minor · builds on: Compost (1461), Infiltration (388), Permeability of soils (438), Soil fertility (1322) <!-- soil-agri-057 -->
+1877. **Biosolarization** — Intermediate · Method · Minor · builds on: Soil solarization (1840), Compost (1461), Soil microbiology (827) <!-- soil-agri-035 -->
+1878. **Natural farming** — Intermediate · Practice · Minor · builds on: Organic farming (1823), Sustainable agriculture (1837) <!-- soil-agri-148 -->
+1879. **Rotations and soil organic matter** — Intermediate · Concept · Major · builds on: Crop rotation (1817), Soil organic matter (1045) <!-- soil-agri-193 -->
+1880. **Cover crop functions by species** — Intermediate · Classification · Major · builds on: Green manure (1506), Soil organic matter (1045), Mycorrhiza (971) <!-- soil-agri-180 -->
+1881. **Deficit irrigation** — Intermediate · Practice · Minor · builds on: Irrigation (1816), Evapotranspiration (512) <!-- soil-agri-132 -->
+1882. **Soilless growing substrates** — Intermediate · Material · Minor · builds on: Potting soil (1822), Hydroponics (1348), Perlite (1475) <!-- soil-agri-031 -->
+1883. **Mineral wool growing medium** — Intermediate · Material · Minor · builds on: Soilless growing substrates (1882), Mineral (26) <!-- soil-agri-179 -->
+1884. **Expanded clay aggregate** — Foundational · Material · Minor · builds on: Soilless growing substrates (1882), Clay (46) <!-- soil-agri-145 -->
+1885. **Soil steaming methods** — Advanced · Method · Minor · builds on: Soil steam sterilization (1847), Soil structure (260) <!-- soil-agri-033 -->
+1886. **Cover crop nitrogen supply** — Intermediate · Process · Major <!-- soil-agri-186 -->
+1887. **Grass cover crops** — Intermediate · Concept · Major <!-- soil-agri-182 -->
+1888. **Legume cover crops** — Intermediate · Concept · Major · builds on: Legume family (Fabaceae) (958) <!-- soil-agri-181 -->
+1889. **Multiple cropping** — Foundational · Practice · Minor · builds on: Crop rotation (1817), Intercropping (1836) <!-- soil-agri-147 -->
+1890. **Methyl bromide** — Intermediate · Material · Minor · builds on: Soil steam sterilization (1847) <!-- soil-agri-143 -->
+1891. **Variable rate application** — Intermediate · Method · Minor · builds on: Precision agriculture (1843), Within-field variability (1857), Fertilizer (1460) <!-- soil-agri-011 -->
+1892. **Soil salinity classes for crops** — Intermediate · Classification · Minor · builds on: Salt tolerance of crops (1856), Measuring soil salinity (778), Soil salinity (763) <!-- soil-agri-025 -->
+1893. **Crop tolerance to seawater** — Intermediate · Concept · Minor · builds on: Salt tolerance of crops (1856), Irrigation (1816) <!-- soil-agri-027 -->
+1894. **Historic rotations and the corn-soybean rotation** — Intermediate · Concept · Minor · builds on: Crop rotation (1817) <!-- soil-agri-199 -->
+1895. **Crop diversification** — Intermediate · Practice · Minor · builds on: Crop rotation (1817) <!-- soil-agri-192 -->
+1896. **Rotation design principles** — Intermediate · Method · Major · builds on: Crop rotation (1817), Crop diversification (1895) <!-- soil-agri-198 -->
+1897. **Active rooting period** — Intermediate · Concept · Minor · builds on: Crop rotation (1817) <!-- soil-agri-194 -->
+1898. **Rotation labor and economics** — Intermediate · Concept · Minor · builds on: Crop rotation (1817) <!-- soil-agri-196 -->
+1899. **Rotations and water quality** — Intermediate · Concept · Minor · builds on: Crop rotation (1817), Nitrate leaching (1838) <!-- soil-agri-195 -->
+1900. **Cover crop management cautions** — Intermediate · Concept · Minor <!-- soil-agri-190 -->
+1901. **Cover crop mixtures** — Intermediate · Concept · Minor <!-- soil-agri-185 -->
+1902. **Cover crop planting timing** — Intermediate · Method · Minor <!-- soil-agri-187 -->
+1903. **Cover crop termination** — Intermediate · Method · Minor <!-- soil-agri-189 -->
+1904. **Cover crops and plant-parasitic nematodes** — Intermediate · Concept · Minor · builds on: Plant-parasitic nematodes (909) <!-- soil-agri-191 -->
+1905. **Planting green** — Intermediate · Practice · Minor <!-- soil-agri-188 -->
+1906. **Buckwheat cover crop** — Intermediate · Concept · Minor <!-- soil-agri-183 -->
+1907. **Cover crops in perennial systems** — Intermediate · Practice · Minor · builds on: Living mulch (1513) <!-- soil-agri-184 -->
+1908. **Rotation and plant disease control** — Intermediate · Concept · Minor · builds on: Crop rotation (1817) <!-- soil-agri-197 -->
+1909. **Faidherbia albida in agroforestry** — Intermediate · Material · Minor <!-- soil-agri-202 -->
+1910. **Forest farming** — Intermediate · Practice · Minor <!-- soil-agri-201 -->
+1911. **Silvopasture** — Intermediate · Practice · Minor <!-- soil-agri-200 -->
+1912. **Transitional agroforestry systems** — Intermediate · Practice · Minor · builds on: Alley cropping (1873) <!-- soil-agri-203 -->
+1913. **Agroecosystem** — Foundational · Concept · Minor <!-- soil-agri-003 -->
+1914. **Agroecology** — Intermediate · Concept · Major · builds on: Agroecosystem (1913), Soil ecology (829), Agricultural soil science (1821), Nutrient cycle (1398) <!-- soil-agri-002 -->
+1915. **Soil sickness** — Intermediate · Concept · Minor · builds on: Monocropping (1825), Rhizosphere (970), Soil fertility (1322) <!-- soil-agri-152 -->
 
 ### Tillage and cultivation
 
-1695. **Tillage** — Foundational · Practice · Landmark · builds on: Topsoil (137), Soil (1) <!-- soil-agri-095 -->
-1696. **Plough** — Foundational · Practice · Major · builds on: Tillage (1695) <!-- soil-agri-106 -->
-1697. **Arable land** — Foundational · Concept · Major · builds on: Plough (1696), Tillage (1695) <!-- soil-agri-126 -->
-1698. **Effects of tillage** — Intermediate · Concept · Major · builds on: Tillage (1695), Soil structure (249), Soil erosion (1438), Soil compaction (304) <!-- soil-agri-100 -->
-1699. **Primary and secondary tillage** — Foundational · Classification · Major · builds on: Tillage (1695) <!-- soil-agri-096 -->
-1700. **Harrow** — Foundational · Practice · Major · builds on: Primary and secondary tillage (1699), Plough (1696), Tillage (1695) <!-- soil-agri-114 -->
-1701. **Contour plowing** — Intermediate · Practice · Major · builds on: Plough (1696), Slope and erosion (1449), Soil erosion (1438) <!-- soil-agri-123 -->
-1702. **Crop residue** — Foundational · Material · Major · builds on: Soil organic matter (26) <!-- soil-agri-129 -->
-1703. **Conservation tillage** — Intermediate · Practice · Major · builds on: Tillage (1695), Crop residue (1702), Soil erosion (1438) <!-- soil-agri-099 -->
-1704. **No-till farming** — Intermediate · Practice · Landmark · builds on: Tillage (1695), Conservation tillage (1703), Crop residue (1702) <!-- soil-agri-117 -->
-1705. **Forest site preparation** — Intermediate · Practice · Minor · builds on: Tillage (1695), Forest soils (17) <!-- soil-agri-103 -->
-1706. **Intensive tillage** — Intermediate · Practice · Minor · builds on: Tillage (1695), Crop residue (1702) <!-- soil-agri-097 -->
-1707. **Mounding** — Intermediate · Practice · Minor · builds on: Forest site preparation (1705), Soil temperature (507), Soil thermal properties (514) <!-- soil-agri-105 -->
-1708. **Reduced tillage** — Intermediate · Practice · Minor · builds on: Tillage (1695), Crop residue (1702), Intensive tillage (1706) <!-- soil-agri-098 -->
-1709. **Slash burning for site preparation** — Intermediate · Practice · Minor · builds on: Forest site preparation (1705), Soil pH (66) <!-- soil-agri-104 -->
-1710. **Tillage and archaeology** — Intermediate · Concept · Minor · builds on: Tillage (1695) <!-- soil-agri-102 -->
-1711. **No-till and soil carbon** — Advanced · Debate · Major · builds on: No-till farming (1704), Soil organic matter (26) <!-- soil-agri-118 -->
-1712. **Mouldboard plough** — Intermediate · Practice · Major · builds on: Plough (1696) <!-- soil-agri-109 -->
-1713. **Weed management in no-till** — Intermediate · Practice · Minor · builds on: No-till farming (1704), Herbicide (1624) <!-- soil-agri-119 -->
-1714. **Three-field system** — Intermediate · Practice · Minor · builds on: Crop rotation (1621), Fallow (1630) <!-- soil-agri-128 -->
-1715. **Conversion to arable land** — Intermediate · Practice · Minor · builds on: Arable land (1697) <!-- soil-agri-127 -->
-1716. **Keyline design** — Intermediate · Practice · Minor · builds on: Contour plowing (1701) <!-- soil-agri-124 -->
-1717. **Stubble burning** — Intermediate · Practice · Major · builds on: Crop residue (1702) <!-- soil-agri-174 -->
-1718. **Ard** — Intermediate · Practice · Minor · builds on: Plough (1696) <!-- soil-agri-107 -->
-1719. **Chisel plough** — Intermediate · Practice · Minor · builds on: Plough (1696), Crop residue (1702), Conservation tillage (1703) <!-- soil-agri-111 -->
-1720. **Heavy plough** — Intermediate · Practice · Minor · builds on: Mouldboard plough (1712) <!-- soil-agri-110 -->
-1721. **Hoe cultivation** — Foundational · Practice · Minor · builds on: Tillage (1695) <!-- soil-agri-108 -->
-1722. **Mole plough** — Intermediate · Practice · Minor · builds on: Plough (1696), Drainage (372) <!-- soil-agri-113 -->
-1723. **Cultivator** — Intermediate · Practice · Minor · builds on: Primary and secondary tillage (1699) <!-- soil-agri-115 -->
-1724. **Vertical tillage** — Intermediate · Practice · Minor · builds on: Conservation tillage (1703), Soil compaction (304), Infiltration (368) <!-- soil-agri-122 -->
-1725. **Optimum water content for tillage** — Advanced · Concept · Minor · builds on: Tillage (1695), Water content (370), Soil aggregation (278), Soil consistency (261), Plastic limit (270) <!-- soil-agri-125 -->
-1726. **Disc harrow** — Intermediate · Practice · Minor · builds on: Harrow (1700), Tillage (1695), Crop residue (1702) <!-- soil-agri-172 -->
-1727. **Seedbed** — Foundational · Concept · Minor · builds on: Tillage (1695), Tilth (280) <!-- soil-agri-116 -->
-1728. **Deep ploughing** — Intermediate · Practice · Minor · builds on: Plough (1696), Tillage (1695), Hardpan (145) <!-- soil-agri-171 -->
-1729. **Minimum tillage** — Intermediate · Practice · Minor · builds on: Primary and secondary tillage (1699), Conservation tillage (1703) <!-- soil-agri-121 -->
-1730. **Strip-till** — Intermediate · Practice · Major · builds on: Minimum tillage (1729), No-till farming (1704), Conservation tillage (1703) <!-- soil-agri-120 -->
-1731. **Stubble mulching** — Intermediate · Practice · Minor · builds on: Crop residue (1702), Fallow (1630), Mulch (1306) <!-- soil-agri-175 -->
-1732. **Controlled traffic farming** — Intermediate · Practice · Minor · builds on: Soil compaction in agriculture (305), Tillage (1695) <!-- soil-agri-130 -->
-1733. **Mulch tillage** — Intermediate · Practice · Minor · builds on: Conservation tillage (1703), Tillage (1695), Crop residue (1702), Mulch (1306) <!-- soil-agri-173 -->
-1734. **Plough pan** — Intermediate · Concept · Minor · builds on: Tillage (1695), Soil compaction (304) <!-- soil-agri-101 -->
-1735. **Subsoiling** — Intermediate · Practice · Major · builds on: Plough (1696), Plough pan (1734), Subsoil (138), Soil compaction (304) <!-- soil-agri-112 -->
-1736. **Ridge tillage** — Intermediate · Practice · Minor · builds on: Conservation tillage (1703), Water table (378), Soil aeration (509) <!-- soil-agri-176 -->
+1916. **Tillage** — Foundational · Practice · Landmark · builds on: Topsoil (135), Soil (1) <!-- soil-agri-095 -->
+1917. **Plough** — Foundational · Practice · Major · builds on: Tillage (1916) <!-- soil-agri-106 -->
+1918. **Arable land** — Foundational · Concept · Major · builds on: Plough (1917), Tillage (1916) <!-- soil-agri-126 -->
+1919. **Effects of tillage** — Intermediate · Concept · Major · builds on: Tillage (1916), Soil structure (260), Soil erosion (1630), Soil compaction (313) <!-- soil-agri-100 -->
+1920. **Primary and secondary tillage** — Foundational · Classification · Major · builds on: Tillage (1916) <!-- soil-agri-096 -->
+1921. **Harrow** — Foundational · Practice · Major · builds on: Primary and secondary tillage (1920), Plough (1917), Tillage (1916) <!-- soil-agri-114 -->
+1922. **Contour plowing** — Intermediate · Practice · Major · builds on: Plough (1917), Slope and erosion (1641), Soil erosion (1630) <!-- soil-agri-123 -->
+1923. **Crop residue** — Foundational · Material · Major · builds on: Soil organic matter (1045) <!-- soil-agri-129 -->
+1924. **Conservation tillage** — Intermediate · Practice · Major · builds on: Tillage (1916), Crop residue (1923), Soil erosion (1630) <!-- soil-agri-099 -->
+1925. **No-till farming** — Intermediate · Practice · Landmark · builds on: Tillage (1916), Conservation tillage (1924), Crop residue (1923) <!-- soil-agri-117 -->
+1926. **Forest site preparation** — Intermediate · Practice · Minor · builds on: Tillage (1916), Forest soils (16) <!-- soil-agri-103 -->
+1927. **Intensive tillage** — Intermediate · Practice · Minor · builds on: Tillage (1916), Crop residue (1923) <!-- soil-agri-097 -->
+1928. **Mounding** — Intermediate · Practice · Minor · builds on: Forest site preparation (1926), Soil temperature (543), Soil thermal properties (550) <!-- soil-agri-105 -->
+1929. **Reduced tillage** — Intermediate · Practice · Minor · builds on: Tillage (1916), Crop residue (1923), Intensive tillage (1927) <!-- soil-agri-098 -->
+1930. **Slash burning for site preparation** — Intermediate · Practice · Minor · builds on: Forest site preparation (1926), Soil pH (63) <!-- soil-agri-104 -->
+1931. **Tillage and archaeology** — Intermediate · Concept · Minor · builds on: Tillage (1916) <!-- soil-agri-102 -->
+1932. **No-till and soil carbon** — Advanced · Debate · Major · builds on: No-till farming (1925), Soil organic matter (1045) <!-- soil-agri-118 -->
+1933. **Mouldboard plough** — Intermediate · Practice · Major · builds on: Plough (1917) <!-- soil-agri-109 -->
+1934. **Weed management in no-till** — Intermediate · Practice · Minor · builds on: No-till farming (1925), Herbicide (1820) <!-- soil-agri-119 -->
+1935. **Three-field system** — Intermediate · Practice · Minor · builds on: Crop rotation (1817), Fallow (1826) <!-- soil-agri-128 -->
+1936. **Conversion to arable land** — Intermediate · Practice · Minor · builds on: Arable land (1918) <!-- soil-agri-127 -->
+1937. **Keyline design** — Intermediate · Practice · Minor · builds on: Contour plowing (1922) <!-- soil-agri-124 -->
+1938. **Stubble burning** — Intermediate · Practice · Major · builds on: Crop residue (1923) <!-- soil-agri-174 -->
+1939. **Ard** — Intermediate · Practice · Minor · builds on: Plough (1917) <!-- soil-agri-107 -->
+1940. **Chisel plough** — Intermediate · Practice · Minor · builds on: Plough (1917), Crop residue (1923), Conservation tillage (1924) <!-- soil-agri-111 -->
+1941. **Heavy plough** — Intermediate · Practice · Minor · builds on: Mouldboard plough (1933) <!-- soil-agri-110 -->
+1942. **Hoe cultivation** — Foundational · Practice · Minor · builds on: Tillage (1916) <!-- soil-agri-108 -->
+1943. **Mole plough** — Intermediate · Practice · Minor · builds on: Plough (1917), Drainage (392) <!-- soil-agri-113 -->
+1944. **Cultivator** — Intermediate · Practice · Minor · builds on: Primary and secondary tillage (1920) <!-- soil-agri-115 -->
+1945. **Vertical tillage** — Intermediate · Practice · Minor · builds on: Conservation tillage (1924), Soil compaction (313), Infiltration (388) <!-- soil-agri-122 -->
+1946. **Optimum water content for tillage** — Advanced · Concept · Minor · builds on: Tillage (1916), Water content (390), Soil aggregation (270), Soil consistency (279), Plastic limit (288) <!-- soil-agri-125 -->
+1947. **Disc harrow** — Intermediate · Practice · Minor · builds on: Harrow (1921), Tillage (1916), Crop residue (1923) <!-- soil-agri-172 -->
+1948. **Seedbed** — Foundational · Concept · Minor · builds on: Tillage (1916), Tilth (272) <!-- soil-agri-116 -->
+1949. **Deep ploughing** — Intermediate · Practice · Minor · builds on: Plough (1917), Tillage (1916), Hardpan (143) <!-- soil-agri-171 -->
+1950. **Minimum tillage** — Intermediate · Practice · Minor · builds on: Primary and secondary tillage (1920), Conservation tillage (1924) <!-- soil-agri-121 -->
+1951. **Strip-till** — Intermediate · Practice · Major · builds on: Minimum tillage (1950), No-till farming (1925), Conservation tillage (1924) <!-- soil-agri-120 -->
+1952. **Stubble mulching** — Intermediate · Practice · Minor · builds on: Crop residue (1923), Fallow (1826), Mulch (1463) <!-- soil-agri-175 -->
+1953. **Controlled traffic farming** — Intermediate · Practice · Minor · builds on: Soil compaction in agriculture (314), Tillage (1916), Soil compaction (313) <!-- soil-agri-130 -->
+1954. **Mulch tillage** — Intermediate · Practice · Minor · builds on: Conservation tillage (1924), Tillage (1916), Crop residue (1923), Mulch (1463) <!-- soil-agri-173 -->
+1955. **Residue cover after tillage passes** — Intermediate · Method · Minor · builds on: Conservation tillage (1924), Tillage (1916) <!-- soil-agri-224 -->
+1956. **History of tillage** — Intermediate · Concept · Minor · builds on: Tillage (1916), Soil consistency (279) <!-- soil-agri-223 -->
+1957. **Frost tillage** — Advanced · Practice · Minor · builds on: Tillage (1916), No-till farming (1925), Conservation tillage (1924) <!-- soil-agri-225 -->
+1958. **Plough pan** — Intermediate · Concept · Minor · builds on: Tillage (1916), Soil compaction (313) <!-- soil-agri-101 -->
+1959. **Subsoiling** — Intermediate · Practice · Major · builds on: Plough (1917), Plough pan (1958), Subsoil (136), Soil compaction (313) <!-- soil-agri-112 -->
+1960. **Ridge tillage** — Intermediate · Practice · Minor · builds on: Conservation tillage (1924), Water table (398), Soil aeration (545) <!-- soil-agri-176 -->
 
 ### Soil conservation
 
-1737. **Soil conservation** — Foundational · Practice · Landmark · builds on: Topsoil (137), Soil erosion (1438), Soil acidification (697), Soil salinity (696), Soil (1) <!-- soil-agri-059 -->
-1738. **Cover crop** — Foundational · Practice · Landmark · builds on: Soil erosion (1438), Soil fertility (1182) <!-- soil-agri-066 -->
-1739. **Terrace (earthworks)** — Foundational · Practice · Major · builds on: Slope and erosion (1449), Surface runoff (1415), Soil erosion (1438) <!-- soil-agri-073 -->
-1740. **Soil management** — Foundational · Practice · Major · builds on: Soil (1), Soil fertility (1182) <!-- soil-agri-063 -->
-1741. **Windbreak** — Foundational · Practice · Major · builds on: Wind erosion (1441), Aeolian processes (1479), Soil conservation (1737) <!-- soil-agri-061 -->
-1742. **Agroforestry** — Foundational · Practice · Major · builds on: Agroecology (1693), Soil conservation (1737) <!-- soil-agri-140 -->
-1743. **Strip farming** — Intermediate · Practice · Major · builds on: Crop rotation (1621), Soil erosion (1438) <!-- soil-agri-072 -->
-1744. **Soil stabilization** — Intermediate · Method · Major · builds on: Soil mechanics (300), Shear strength (soil) (310), Bearing capacity (346) <!-- soil-agri-076 -->
-1745. **Cover crops for soil fertility** — Intermediate · Practice · Major · builds on: Cover crop (1738), Nitrogen fixation (1247), Legume family (Fabaceae) (868) <!-- soil-agri-067 -->
-1746. **Conservation agriculture** — Intermediate · Practice · Major · builds on: Soil conservation (1737), Conservation tillage (1703), Cover crop (1738) <!-- soil-agri-065 -->
-1747. **Reducing pesticide use** — Intermediate · Practice · Minor · builds on: Soil conservation (1737) <!-- soil-agri-062 -->
-1748. **Soil-conservation farming** — Intermediate · Practice · Minor · builds on: Soil conservation (1737), No-till farming (1704), Green manure (1349) <!-- soil-agri-060 -->
-1749. **Soil management and greenhouse gases** — Intermediate · Concept · Major · builds on: Soil management (1740), Soil nitrous oxide emissions (1286), Soil organic matter (26) <!-- soil-agri-064 -->
-1750. **Lynchet** — Intermediate · Concept · Minor · builds on: Terrace (earthworks) (1739), Tillage erosion (1462) <!-- soil-agri-081 -->
-1751. **Cover crops and soil water** — Intermediate · Process · Minor · builds on: Cover crop (1738), Infiltration (368), Evapotranspiration (387) <!-- soil-agri-069 -->
-1752. **Cover crops in pest and disease control** — Intermediate · Practice · Minor · builds on: Cover crop (1738), Soil-borne pathogen (786) <!-- soil-agri-071 -->
-1753. **Weed suppression by cover crops** — Intermediate · Process · Minor · builds on: Cover crop (1738), Allelopathy (908) <!-- soil-agri-070 -->
-1754. **Contour trenching** — Intermediate · Practice · Minor · builds on: Soil conservation (1737), Surface runoff (1415), Infiltration (368) <!-- soil-agri-075 -->
-1755. **Buffer strip** — Foundational · Practice · Major · builds on: Soil conservation (1737), Soil erosion (1438), Surface runoff (1415) <!-- soil-agri-158 -->
-1756. **Soil Conservation and Domestic Allotment Act of 1936** — Intermediate · Event · Minor · builds on: Soil conservation (1737), Dust Bowl (1509) <!-- soil-agri-079 -->
-1757. **Terracette** — Intermediate · Concept · Minor · builds on: Mass wasting (1482), Downhill creep (1483) <!-- soil-agri-074 -->
-1758. **Great Plains Shelterbelt** — Intermediate · Event · Minor · builds on: Windbreak (1741), Dust Bowl (1509) <!-- soil-agri-080 -->
-1759. **Check dam** — Foundational · Practice · Minor · builds on: Gully erosion (1453), Surface runoff (1415), Erosion control (1442) <!-- soil-agri-141 -->
-1760. **Catch crop** — Intermediate · Practice · Minor · builds on: Cover crop (1738), Nitrogen cycle (1246) <!-- soil-agri-068 -->
-1761. **Magnesium chloride dust control** — Intermediate · Practice · Minor · builds on: Dust (1443), Dust control (1460), Soil stabilization (1744) <!-- soil-agri-078 -->
-1762. **Mechanical soil stabilization** — Advanced · Method · Minor · builds on: Soil stabilization (1744) <!-- soil-agri-077 -->
-1763. **Prairie strips** — Foundational · Practice · Minor · builds on: Soil conservation (1737), Soil erosion (1438), Surface runoff (1415) <!-- soil-agri-142 -->
-1764. **Bioretention** — Intermediate · Practice · Minor · builds on: Stormwater (1417), Surface runoff (1415), Sorption (618) <!-- soil-agri-157 -->
-1765. **Contour buffer strip** — Intermediate · Practice · Minor · builds on: Buffer strip (1755), Contour plowing (1701), Soil erosion (1438) <!-- soil-agri-159 -->
-1766. **Filter strip** — Intermediate · Practice · Minor · builds on: Buffer strip (1755), Surface runoff (1415), Sediment (1477), Riparian zone (1575) <!-- soil-agri-160 -->
-1767. **Vetiver System** — Intermediate · Practice · Minor · builds on: Soil conservation (1737), Sediment control (1480), Soil erosion (1438), Terrace (earthworks) (1739) <!-- soil-agri-161 -->
+1961. **Soil conservation** — Foundational · Practice · Landmark · builds on: Topsoil (135), Soil erosion (1630), Soil acidification (764), Soil salinity (763), Soil (1) <!-- soil-agri-059 -->
+1962. **Cover crop** — Foundational · Practice · Landmark · builds on: Soil erosion (1630), Soil fertility (1322) <!-- soil-agri-066 -->
+1963. **Terrace (earthworks)** — Foundational · Practice · Major · builds on: Slope and erosion (1641), Surface runoff (1608), Soil erosion (1630) <!-- soil-agri-073 -->
+1964. **Soil management** — Foundational · Practice · Major · builds on: Soil (1), Soil fertility (1322) <!-- soil-agri-063 -->
+1965. **Windbreak** — Foundational · Practice · Major · builds on: Wind erosion (1633), Aeolian processes (1671), Soil conservation (1961) <!-- soil-agri-061 -->
+1966. **Agroforestry** — Foundational · Practice · Major · builds on: Agroecology (1914), Soil conservation (1961), Crop diversification (1895) <!-- soil-agri-140 -->
+1967. **Strip farming** — Intermediate · Practice · Major · builds on: Crop rotation (1817), Soil erosion (1630) <!-- soil-agri-072 -->
+1968. **Soil stabilization** — Intermediate · Method · Major · builds on: Soil mechanics (309), Shear strength (soil) (319), Bearing capacity (351) <!-- soil-agri-076 -->
+1969. **Cover crops for soil fertility** — Intermediate · Practice · Major · builds on: Cover crop (1962), Nitrogen fixation (1395), Legume family (Fabaceae) (958) <!-- soil-agri-067 -->
+1970. **Conservation agriculture** — Intermediate · Practice · Major · builds on: Soil conservation (1961), Conservation tillage (1924), Cover crop (1962) <!-- soil-agri-065 -->
+1971. **Reducing pesticide use** — Intermediate · Practice · Minor · builds on: Soil conservation (1961) <!-- soil-agri-062 -->
+1972. **Soil-conservation farming** — Intermediate · Practice · Minor · builds on: Soil conservation (1961), No-till farming (1925), Green manure (1506) <!-- soil-agri-060 -->
+1973. **Soil management and greenhouse gases** — Intermediate · Concept · Major · builds on: Soil management (1964), Soil nitrous oxide emissions (1434), Soil organic matter (1045) <!-- soil-agri-064 -->
+1974. **Lynchet** — Intermediate · Concept · Minor · builds on: Terrace (earthworks) (1963), Tillage erosion (1654) <!-- soil-agri-081 -->
+1975. **Cover crops and soil water** — Intermediate · Process · Minor · builds on: Cover crop (1962), Infiltration (388), Evapotranspiration (512) <!-- soil-agri-069 -->
+1976. **Cover crops in pest and disease control** — Intermediate · Practice · Minor · builds on: Cover crop (1962), Soil-borne pathogen (863) <!-- soil-agri-071 -->
+1977. **Weed suppression by cover crops** — Intermediate · Process · Minor · builds on: Cover crop (1962), Allelopathy (998) <!-- soil-agri-070 -->
+1978. **Biological pest control** — Intermediate · Method · Minor · builds on: Integrated pest management (1841) <!-- soil-agri-217 -->
+1979. **Contour trenching** — Intermediate · Practice · Minor · builds on: Soil conservation (1961), Surface runoff (1608), Infiltration (388) <!-- soil-agri-075 -->
+1980. **Buffer strip** — Foundational · Practice · Major · builds on: Soil conservation (1961), Soil erosion (1630), Surface runoff (1608) <!-- soil-agri-158 -->
+1981. **Soil Conservation and Domestic Allotment Act of 1936** — Intermediate · Event · Minor · builds on: Soil conservation (1961), Dust Bowl (1701) <!-- soil-agri-079 -->
+1982. **Terracette** — Intermediate · Concept · Minor · builds on: Mass wasting (1674), Downhill creep (1675) <!-- soil-agri-074 -->
+1983. **Great Plains Shelterbelt** — Intermediate · Event · Minor · builds on: Windbreak (1965), Dust Bowl (1701) <!-- soil-agri-080 -->
+1984. **Check dam** — Foundational · Practice · Minor · builds on: Gully erosion (1645), Surface runoff (1608), Erosion control (1634) <!-- soil-agri-141 -->
+1985. **Catch crop** — Intermediate · Practice · Minor · builds on: Cover crop (1962), Nitrogen cycle (1394) <!-- soil-agri-068 -->
+1986. **Magnesium chloride dust control** — Intermediate · Practice · Minor · builds on: Dust (1635), Dust control (1653), Soil stabilization (1968) <!-- soil-agri-078 -->
+1987. **Mechanical soil stabilization** — Advanced · Method · Minor · builds on: Soil stabilization (1968) <!-- soil-agri-077 -->
+1988. **Structural and agronomic erosion control** — Intermediate · Classification · Major · builds on: Erosion control (1634) <!-- soil-agri-207 -->
+1989. **Off-site effects of soil erosion** — Intermediate · Concept · Major · builds on: Soil erosion (1630) <!-- soil-agri-204 -->
+1990. **Prairie strips** — Foundational · Practice · Minor · builds on: Soil conservation (1961), Soil erosion (1630), Surface runoff (1608) <!-- soil-agri-142 -->
+1991. **Principles of erosion control** — Intermediate · Practice · Major · builds on: Erosion control (1634) <!-- soil-agri-208 -->
+1992. **Reduced tillage and erosion** — Intermediate · Practice · Major · builds on: Tillage (1916) <!-- soil-agri-209 -->
+1993. **Bioretention** — Intermediate · Practice · Minor · builds on: Stormwater (1610), Surface runoff (1608), Sorption (681) <!-- soil-agri-157 -->
+1994. **Contour buffer strip** — Intermediate · Practice · Minor · builds on: Buffer strip (1980), Contour plowing (1922), Soil erosion (1630) <!-- soil-agri-159 -->
+1995. **Filter strip** — Intermediate · Practice · Minor · builds on: Buffer strip (1980), Surface runoff (1608), Sediment (1669), Riparian zone (1770) <!-- soil-agri-160 -->
+1996. **Accelerated erosion on farmland** — Foundational · Concept · Minor · builds on: Soil erosion (1630) <!-- soil-agri-206 -->
+1997. **Diversion ditch** — Intermediate · Practice · Minor · builds on: Surface runoff (1608) <!-- soil-agri-214 -->
+1998. **Landslide control on farmed slopes** — Advanced · Practice · Minor · builds on: Landslide (1677) <!-- soil-agri-216 -->
+1999. **Wind erosion control practices** — Intermediate · Practice · Minor · builds on: Wind erosion (1633) <!-- soil-agri-215 -->
+2000. **Cover crops and erosion control** — Intermediate · Practice · Minor · builds on: Cover crop (1962) <!-- soil-agri-211 -->
+2001. **Organic materials and erosion control** — Intermediate · Practice · Minor · builds on: Soil organic matter (1045) <!-- soil-agri-213 -->
+2002. **Perennial rotation crops for erosion control** — Intermediate · Practice · Minor · builds on: Crop rotation (1817) <!-- soil-agri-212 -->
+2003. **Surface residue cover and erosion** — Intermediate · Concept · Minor · builds on: Crop residue (1923) <!-- soil-agri-210 -->
+2004. **Extreme events and erosion** — Intermediate · Concept · Minor · builds on: Soil erosion (1630) <!-- soil-agri-205 -->
+2005. **Vetiver System** — Intermediate · Practice · Minor · builds on: Soil conservation (1961), Sediment control (1672), Soil erosion (1630), Terrace (earthworks) (1963) <!-- soil-agri-161 -->
 
 ### Soil survey and land evaluation
 
-1768. **Soil survey** — Foundational · Method · Landmark · builds on: Soil classification (1019), Soil type (1021), Soil formation (184) <!-- soil-agri-082 -->
-1769. **Soil map** — Foundational · Concept · Major · builds on: Soil survey (1768), Soil type (1021) <!-- soil-agri-084 -->
-1770. **Prime farmland** — Intermediate · Classification · Major · builds on: Soil survey (1768), Arable land (1697), Soil quality (12) <!-- soil-agri-088 -->
-1771. **Remote sensing** — Intermediate · Method · Major · builds on: Soil survey (1768) <!-- soil-agri-163 -->
-1772. **Soil value** — Intermediate · Method · Minor · builds on: Soil texture (50), Soil fertility (1182), Soil quality (12) <!-- soil-agri-087 -->
-1773. **Geographic information system** — Intermediate · Method · Major · builds on: Soil map (1769), Soil survey (1768) <!-- soil-agri-165 -->
-1774. **Digital soil mapping** — Intermediate · Method · Major · builds on: Soil survey (1768), Soil map (1769) <!-- soil-agri-089 -->
-1775. **Soil survey interpretation** — Intermediate · Method · Minor · builds on: Soil survey (1768) <!-- soil-agri-083 -->
-1776. **Digital elevation model** — Advanced · Method · Minor · builds on: Geographic information system (1773), Remote sensing (1771), Geomorphology (1578) <!-- soil-agri-164 -->
-1777. **European Soil Database** — Intermediate · Method · Minor · builds on: Soil (1), Soil survey (1768) <!-- soil-found-069 -->
-1778. **SSURGO** — Intermediate · Method · Minor · builds on: Soil survey (1768), Soil map (1769) <!-- soil-agri-086 -->
-1779. **Pedometrics** — Advanced · Concept · Minor · builds on: Pedology (4), Soil survey (1768) <!-- soil-agri-092 -->
-1780. **Pedometric mapping** — Advanced · Method · Major · builds on: Digital soil mapping (1774), Pedometrics (1779), Soil map (1769) <!-- soil-agri-091 -->
-1781. **Universal model of soil variation** — Advanced · Concept · Minor · builds on: Pedometrics (1779), Soil map (1769), Pedometric mapping (1780), Soil formation (184) <!-- soil-agri-093 -->
-1782. **Aerial photography** — Intermediate · Method · Minor · builds on: Remote sensing (1771), Soil survey (1768) <!-- soil-agri-162 -->
-1783. **Land suitability classification** — Intermediate · Classification · Major · builds on: Soil survey interpretation (1775), Soil survey (1768) <!-- soil-agri-166 -->
-1784. **Storie index** — Intermediate · Method · Minor · builds on: Soil survey (1768), Soil texture (50) <!-- soil-agri-094 -->
-1785. **Scorpan model** — Advanced · Concept · Minor · builds on: Digital soil mapping (1774), Soil-forming factors (186), Soil formation (184) <!-- soil-agri-090 -->
-1786. **Land use capability map** — Intermediate · Method · Minor · builds on: Soil map (1769), Soil survey interpretation (1775) <!-- soil-agri-168 -->
-1787. **Site index** — Intermediate · Concept · Major · builds on: Soil survey (1768), Soil map (1769) <!-- soil-agri-177 -->
-1788. **FAO land suitability classes** — Advanced · Classification · Minor · builds on: Land suitability classification (1783) <!-- soil-agri-167 -->
-1789. **Soil information system** — Intermediate · Concept · Minor · builds on: Soil map (1769) <!-- soil-agri-085 -->
-1790. **Web Soil Survey** — Foundational · Method · Minor · builds on: Soil survey (1768), Soil map (1769) <!-- soil-agri-170 -->
-1791. **Site index curves and equations** — Advanced · Method · Minor · builds on: Site index (1787) <!-- soil-agri-178 -->
+2006. **Soil survey** — Foundational · Method · Landmark · builds on: Soil classification (1155), Soil type (1157), Soil formation (182) <!-- soil-agri-082 -->
+2007. **Soil map** — Foundational · Concept · Major · builds on: Soil survey (2006), Soil type (1157) <!-- soil-agri-084 -->
+2008. **Prime farmland** — Intermediate · Classification · Major · builds on: Soil survey (2006), Arable land (1918), Soil quality (11) <!-- soil-agri-088 -->
+2009. **Land use** — Foundational · Concept · Major · builds on: Soil (1), Nutrient (1321), Greenhouse gas (542) <!-- soil-agri-221 -->
+2010. **Remote sensing** — Intermediate · Method · Major · builds on: Soil survey (2006) <!-- soil-agri-163 -->
+2011. **Soil value** — Intermediate · Method · Minor · builds on: Soil texture (47), Soil fertility (1322), Soil quality (11) <!-- soil-agri-087 -->
+2012. **Geographic information system** — Intermediate · Method · Major · builds on: Soil map (2007), Soil survey (2006) <!-- soil-agri-165 -->
+2013. **Digital soil mapping** — Intermediate · Method · Major · builds on: Soil survey (2006), Soil map (2007) <!-- soil-agri-089 -->
+2014. **Soil survey interpretation** — Intermediate · Method · Minor · builds on: Soil survey (2006) <!-- soil-agri-083 -->
+2015. **Digital elevation model** — Advanced · Method · Minor · builds on: Geographic information system (2012), Remote sensing (2010), Geomorphology (1773) <!-- soil-agri-164 -->
+2016. **European Soil Database** — Intermediate · Method · Minor · builds on: Soil (1), Soil survey (2006) <!-- soil-found-069 -->
+2017. **SSURGO** — Intermediate · Method · Minor · builds on: Soil survey (2006), Soil map (2007) <!-- soil-agri-086 -->
+2018. **Pedometrics** — Advanced · Concept · Minor · builds on: Pedology (4), Soil survey (2006) <!-- soil-agri-092 -->
+2019. **Pedometric mapping** — Advanced · Method · Major · builds on: Digital soil mapping (2013), Pedometrics (2018), Soil map (2007) <!-- soil-agri-091 -->
+2020. **Universal model of soil variation** — Advanced · Concept · Minor · builds on: Pedometrics (2018), Soil map (2007), Pedometric mapping (2019), Soil formation (182) <!-- soil-agri-093 -->
+2021. **Land use change** — Intermediate · Process · Minor · builds on: Land use (2009), Soil (1), Nutrient (1321), Greenhouse gas (542) <!-- soil-agri-222 -->
+2022. **Aerial photography** — Intermediate · Method · Minor · builds on: Remote sensing (2010), Soil survey (2006) <!-- soil-agri-162 -->
+2023. **Land suitability classification** — Intermediate · Classification · Major · builds on: Soil survey interpretation (2014), Soil survey (2006) <!-- soil-agri-166 -->
+2024. **Storie index** — Intermediate · Method · Minor · builds on: Soil survey (2006), Soil texture (47) <!-- soil-agri-094 -->
+2025. **Land use capability map** — Intermediate · Method · Minor · builds on: Soil map (2007), Soil survey interpretation (2014) <!-- soil-agri-168 -->
+2026. **Site index** — Intermediate · Concept · Major · builds on: Soil survey (2006), Soil map (2007) <!-- soil-agri-177 -->
+2027. **Soil phase** — Intermediate · Concept · Minor · builds on: Soil series (1174) <!-- soil-agri-220 -->
+2028. **Reconnaissance soil survey** — Intermediate · Method · Minor <!-- soil-agri-218 -->
+2029. **Web Soil Survey** — Foundational · Method · Minor · builds on: Soil survey (2006), Soil map (2007) <!-- soil-agri-170 -->
+2030. **FAO land suitability classes** — Advanced · Classification · Minor · builds on: Land suitability classification (2023) <!-- soil-agri-167 -->
+2031. **Soil information system** — Intermediate · Concept · Minor · builds on: Soil map (2007) <!-- soil-agri-085 -->
+2032. **Site index curves and equations** — Advanced · Method · Minor · builds on: Site index (2026) <!-- soil-agri-178 -->
 
 ## Studying soil: methods and mapping
 
 
 ### Soil analysis and laboratory methods
 
-1792. **Gas chromatography** — Advanced · Method · Minor · builds on: Soil chemistry laboratory methods (575) <!-- soil-meth-029 -->
-1793. **Elemental analysis** — Advanced · Method · Minor · builds on: Soil chemistry laboratory methods (575) <!-- soil-meth-021 -->
-1794. **Inductively coupled plasma atomic emission spectroscopy** — Advanced · Method · Major · builds on: Elemental analysis (1793), Soil chemistry laboratory methods (575), Soil test (1186) <!-- soil-meth-024 -->
-1795. **Atomic absorption spectroscopy** — Advanced · Method · Minor · builds on: Elemental analysis (1793), Soil chemistry laboratory methods (575) <!-- soil-meth-023 -->
-1796. **Loss on ignition** — Intermediate · Method · Major · builds on: Soil organic matter (26), Soil chemistry laboratory methods (575) <!-- soil-meth-019 -->
-1797. **Kjeldahl method** — Advanced · Method · Major · builds on: Soil chemistry laboratory methods (575), Nitrogen as a plant nutrient (1202) <!-- soil-meth-020 -->
-1798. **Inductively coupled plasma mass spectrometry** — Advanced · Method · Minor · builds on: Inductively coupled plasma atomic emission spectroscopy (1794), Elemental analysis (1793) <!-- soil-meth-025 -->
-1799. **Ion chromatography** — Advanced · Method · Minor · builds on: Cation exchange (640), Soil chemistry laboratory methods (575), Cation-exchange capacity (641) <!-- soil-meth-026 -->
-1800. **Fine earth fraction** — Intermediate · Concept · Minor · builds on: Soil texture (50), Gravel (246), World Reference Base for Soil Resources (1020) <!-- soil-meth-018 -->
-1801. **Ion-selective electrode** — Advanced · Method · Minor · builds on: Soil chemistry laboratory methods (575) <!-- soil-meth-027 -->
-1802. **Ammonium acetate extraction** — Intermediate · Method · Minor · builds on: Cation-exchange capacity (641), Cation exchange (640), Measuring cation-exchange capacity (646) <!-- soil-meth-022 -->
-1803. **Molybdenum blue phosphate test** — Intermediate · Method · Minor · builds on: Soil chemistry laboratory methods (575), Phosphorus as a plant nutrient (1206), Soil test (1186) <!-- soil-meth-028 -->
+2033. **Gas chromatography** — Advanced · Method · Minor · builds on: Soil chemistry laboratory methods (631) <!-- soil-meth-029 -->
+2034. **Elemental analysis** — Advanced · Method · Minor · builds on: Soil chemistry laboratory methods (631) <!-- soil-meth-021 -->
+2035. **Inductively coupled plasma atomic emission spectroscopy** — Advanced · Method · Major · builds on: Elemental analysis (2034), Soil chemistry laboratory methods (631), Soil test (1326) <!-- soil-meth-024 -->
+2036. **Inductively coupled plasma mass spectrometry** — Advanced · Method · Minor · builds on: Inductively coupled plasma atomic emission spectroscopy (2035), Elemental analysis (2034) <!-- soil-meth-025 -->
+2037. **Atomic absorption spectroscopy** — Advanced · Method · Minor · builds on: Elemental analysis (2034), Soil chemistry laboratory methods (631) <!-- soil-meth-023 -->
+2038. **Loss on ignition** — Intermediate · Method · Major · builds on: Soil organic matter (1045), Soil chemistry laboratory methods (631) <!-- soil-meth-019 -->
+2039. **Kjeldahl method** — Advanced · Method · Major · builds on: Soil chemistry laboratory methods (631), Nitrogen as a plant nutrient (1339) <!-- soil-meth-020 -->
+2040. **Soil test calibration** — Intermediate · Concept · Major · builds on: Soil test (1326) <!-- soil-meth-058 -->
+2041. **Soil sampling for fertility testing** — Foundational · Method · Major · builds on: Soil test (1326) <!-- soil-meth-057 -->
+2042. **Soil test phosphorus methods** — Intermediate · Method · Major · builds on: Soil test (1326) <!-- soil-meth-059 -->
+2043. **Ion chromatography** — Advanced · Method · Minor · builds on: Cation exchange (704), Soil chemistry laboratory methods (631), Cation-exchange capacity (705) <!-- soil-meth-026 -->
+2044. **Sample preparation** — Foundational · Method · Minor <!-- soil-meth-056 -->
+2045. **Certified reference materials** — Intermediate · Concept · Minor <!-- soil-meth-055 -->
+2046. **Soil test interpretation categories** — Intermediate · Concept · Minor · builds on: Soil test calibration (2040), Soil test (1326) <!-- soil-meth-062 -->
+2047. **Unusual soil test results** — Advanced · Concept · Minor · builds on: Soil test (1326) <!-- soil-meth-061 -->
+2048. **Crop nitrogen sensing** — Advanced · Method · Minor · builds on: Soil and crop nitrogen tests (1370) <!-- soil-meth-060 -->
+2049. **Grid soil sampling** — Intermediate · Method · Minor · builds on: Soil test (1326) <!-- soil-fert-188 -->
+2050. **High tunnel soil testing** — Advanced · Practice · Minor <!-- soil-meth-063 -->
+2051. **Fine earth fraction** — Intermediate · Concept · Minor · builds on: Soil texture (47), Gravel (258), World Reference Base for Soil Resources (1156) <!-- soil-meth-018 -->
+2052. **Ion-selective electrode** — Advanced · Method · Minor · builds on: Soil chemistry laboratory methods (631) <!-- soil-meth-027 -->
+2053. **Ammonium acetate extraction** — Intermediate · Method · Minor · builds on: Cation-exchange capacity (705), Cation exchange (704), Measuring cation-exchange capacity (710) <!-- soil-meth-022 -->
+2054. **Molybdenum blue phosphate test** — Intermediate · Method · Minor · builds on: Soil chemistry laboratory methods (631), Phosphorus as a plant nutrient (1343), Soil test (1326) <!-- soil-meth-028 -->
 
 ### Soil micromorphology
 
-1804. **Soil micromorphology** — Intermediate · Method · Minor · builds on: Soil morphology (139) <!-- soil-form-020 -->
-1805. **Soil thin section** — Advanced · Method · Major · builds on: Soil micromorphology (1804), Mineral (27), Rock (90) <!-- soil-meth-030 -->
-1806. **Soil biofabric** — Advanced · Concept · Minor · builds on: Soil thin section (1805), Soil micromorphology (1804), Bioturbation (773), Termites (788), Soil biomantle (197) <!-- soil-meth-031 -->
-1807. **Mineral alteration in thin section** — Advanced · Concept · Minor · builds on: Soil thin section (1805), Weathering (28), Mineral (27) <!-- soil-meth-032 -->
+2055. **Soil micromorphology** — Intermediate · Method · Minor · builds on: Soil morphology (137) <!-- soil-form-020 -->
+2056. **Soil thin section** — Advanced · Method · Major · builds on: Soil micromorphology (2055), Mineral (26), Rock (87) <!-- soil-meth-030 -->
+2057. **Digital image analysis** — Intermediate · Method · Minor <!-- soil-meth-066 -->
+2058. **Soil biofabric** — Advanced · Concept · Minor · builds on: Soil thin section (2056), Soil micromorphology (2055), Bioturbation (849), Termites (865), Soil biomantle (195) <!-- soil-meth-031 -->
+2059. **Polarized light microscopy** — Intermediate · Method · Minor · builds on: Soil thin section (2056) <!-- soil-meth-064 -->
+2060. **Mineral alteration in thin section** — Advanced · Concept · Minor · builds on: Soil thin section (2056), Weathering (27), Mineral (26) <!-- soil-meth-032 -->
+2061. **X-ray microtomography** — Advanced · Method · Minor <!-- soil-meth-065 -->
 
 ### Pedometrics and digital soil mapping
 
-1808. **Geomorphometry** — Intermediate · Method · Major · builds on: Digital soil mapping (1774) <!-- soil-meth-008 -->
-1809. **Ground-penetrating radar** — Intermediate · Method · Minor · builds on: Soil horizon (67) <!-- soil-meth-014 -->
-1810. **Electrical resistivity tomography** — Intermediate · Method · Minor · builds on: Soil resistivity (289) <!-- soil-meth-015 -->
-1811. **Multispectral imaging** — Intermediate · Method · Minor <!-- soil-meth-011 -->
-1812. **Hyperspectral imaging** — Advanced · Method · Minor · builds on: Multispectral imaging (1811) <!-- soil-meth-012 -->
-1813. **Normalized difference vegetation index** — Intermediate · Method · Minor · builds on: Multispectral imaging (1811) <!-- soil-meth-010 -->
-1814. **Spatial variability** — Intermediate · Concept · Major · builds on: Soil (1) <!-- soil-meth-005 -->
-1815. **Geostatistics** — Advanced · Method · Major · builds on: Spatial variability (1814), Pedometrics (1779) <!-- soil-meth-001 -->
-1816. **Variogram** — Advanced · Concept · Major · builds on: Geostatistics (1815), Spatial variability (1814) <!-- soil-meth-002 -->
-1817. **Spatial interpolation** — Intermediate · Method · Minor · builds on: Spatial variability (1814) <!-- soil-meth-006 -->
-1818. **Kriging** — Advanced · Method · Major · builds on: Variogram (1816), Geostatistics (1815), Spatial interpolation (1817) <!-- soil-meth-003 -->
-1819. **Regression-kriging** — Advanced · Method · Major · builds on: Kriging (1818), Geomorphometry (1808), Universal model of soil variation (1781), Digital soil mapping (1774) <!-- soil-meth-004 -->
-1820. **Inverse distance weighting** — Intermediate · Method · Minor · builds on: Spatial interpolation (1817) <!-- soil-meth-007 -->
-1821. **Topographic wetness index** — Advanced · Concept · Minor · builds on: Geomorphometry (1808), Hydrology (400), Catena (194) <!-- soil-meth-009 -->
-1822. **SoilGrids** — Intermediate · Method · Minor · builds on: Regression-kriging (1819), Soil profile (150), Digital soil mapping (1774) <!-- soil-meth-017 -->
-1823. **Planetary gamma-ray spectrometry** — Advanced · Method · Minor · builds on: Regolith (88) <!-- soil-meth-016 -->
-1824. **Near-infrared spectroscopy** — Advanced · Method · Minor · builds on: Soil chemistry laboratory methods (575), Soil test (1186) <!-- soil-meth-013 -->
+2062. **Spatial analysis** — Intermediate · Concept · Major <!-- soil-meth-045 -->
+2063. **Landsat program** — Intermediate · Concept · Minor <!-- soil-meth-039 -->
+2064. **Geomorphometry** — Intermediate · Method · Major · builds on: Digital soil mapping (2013) <!-- soil-meth-008 -->
+2065. **Ground-penetrating radar** — Intermediate · Method · Minor · builds on: Soil horizon (64) <!-- soil-meth-014 -->
+2066. **Scorpan model** — Intermediate · Concept · Major · builds on: Digital soil mapping (2013), Soil-forming factors (184), Jenny's state equation (191), Soil formation (182) <!-- soil-agri-090 -->
+2067. **Electromagnetic induction** — Intermediate · Concept · Minor <!-- soil-meth-037 -->
+2068. **Electrical resistivity tomography** — Intermediate · Method · Minor · builds on: Soil resistivity (298) <!-- soil-meth-015 -->
+2069. **Conventional soil mapping** — Intermediate · Method · Major <!-- soil-meth-050 -->
+2070. **Digital soil map accuracy assessment** — Advanced · Method · Major · builds on: Digital soil mapping (2013) <!-- soil-meth-053 -->
+2071. **Digital soil map uncertainty** — Advanced · Concept · Major · builds on: Digital soil mapping (2013) <!-- soil-meth-054 -->
+2072. **Spatial scale** — Foundational · Concept · Minor <!-- soil-meth-047 -->
+2073. **Multispectral imaging** — Intermediate · Method · Minor <!-- soil-meth-011 -->
+2074. **Hyperspectral imaging** — Advanced · Method · Minor · builds on: Multispectral imaging (2073) <!-- soil-meth-012 -->
+2075. **Normalized difference vegetation index** — Intermediate · Method · Minor · builds on: Multispectral imaging (2073) <!-- soil-meth-010 -->
+2076. **Modifiable areal unit problem** — Advanced · Concept · Minor · builds on: Spatial analysis (2062) <!-- soil-meth-041 -->
+2077. **Spatial variability** — Intermediate · Concept · Major · builds on: Soil (1) <!-- soil-meth-005 -->
+2078. **Geostatistics** — Advanced · Method · Major · builds on: Spatial variability (2077), Pedometrics (2018) <!-- soil-meth-001 -->
+2079. **Variogram** — Advanced · Concept · Major · builds on: Geostatistics (2078), Spatial variability (2077) <!-- soil-meth-002 -->
+2080. **Spatial interpolation** — Intermediate · Method · Minor · builds on: Spatial variability (2077) <!-- soil-meth-006 -->
+2081. **Kriging** — Advanced · Method · Major · builds on: Variogram (2079), Geostatistics (2078), Spatial interpolation (2080) <!-- soil-meth-003 -->
+2082. **Regression-kriging** — Advanced · Method · Major · builds on: Kriging (2081), Geomorphometry (2064), Universal model of soil variation (2020), Digital soil mapping (2013) <!-- soil-meth-004 -->
+2083. **Inverse distance weighting** — Intermediate · Method · Minor · builds on: Spatial interpolation (2080) <!-- soil-meth-007 -->
+2084. **Random forest** — Advanced · Method · Major <!-- soil-meth-043 -->
+2085. **Spatial autocorrelation** — Advanced · Concept · Minor · builds on: Spatial analysis (2062) <!-- soil-meth-046 -->
+2086. **Stratified sampling** — Intermediate · Method · Minor <!-- soil-meth-048 -->
+2087. **Compositional data** — Advanced · Concept · Minor <!-- soil-meth-035 -->
+2088. **Log-ratio transformation** — Advanced · Method · Minor · builds on: Compositional data (2087) <!-- soil-meth-036 -->
+2089. **Soil survey intensity levels** — Advanced · Classification · Minor · builds on: Conventional soil mapping (2069) <!-- soil-meth-051 -->
+2090. **Sampling design** — Intermediate · Concept · Minor <!-- soil-meth-044 -->
+2091. **Soil sampling design for digital soil mapping** — Advanced · Method · Major · builds on: Sampling design (2090), Stratified sampling (2086) <!-- soil-meth-052 -->
+2092. **Topographic wetness index** — Advanced · Concept · Minor · builds on: Geomorphometry (2064), Hydrology (416), Catena (192) <!-- soil-meth-009 -->
+2093. **Fuzzy clustering** — Advanced · Method · Minor <!-- soil-meth-038 -->
+2094. **SoilGrids** — Intermediate · Method · Minor · builds on: Regression-kriging (2082), Soil profile (148), Digital soil mapping (2013) <!-- soil-meth-017 -->
+2095. **Planetary gamma-ray spectrometry** — Advanced · Method · Minor · builds on: Regolith (85) <!-- soil-meth-016 -->
+2096. **Latin hypercube sampling** — Advanced · Method · Minor <!-- soil-meth-040 -->
+2097. **Uncertainty quantification** — Advanced · Concept · Minor <!-- soil-meth-049 -->
+2098. **Near-infrared spectroscopy** — Advanced · Method · Minor · builds on: Soil chemistry laboratory methods (631), Soil test (1326) <!-- soil-meth-013 -->
+2099. **Chemometrics** — Intermediate · Method · Minor · builds on: Near-infrared spectroscopy (2098) <!-- soil-meth-033 -->
+2100. **Partial least squares regression** — Advanced · Method · Minor · builds on: Chemometrics (2099) <!-- soil-meth-042 -->
+2101. **Multivariate calibration** — Advanced · Method · Minor · builds on: Chemometrics (2099), Near-infrared spectroscopy (2098) <!-- soil-meth-034 -->
 
 ## Environmental soil science and climate
 
 
 ### Soil carbon and climate
 
-1825. **Carbon cycle** — Foundational · Process · Landmark · builds on: Biogeochemical cycle (1245), Soil organic matter (26), Pedosphere (3) <!-- soil-env-102 -->
-1826. **Soil carbon** — Foundational · Concept · Landmark · builds on: Soil organic matter (26), Carbonate minerals (59), Carbon cycle (1825) <!-- soil-env-106 -->
-1827. **Carbon sink** — Intermediate · Concept · Landmark · builds on: Carbon cycle (1825) <!-- soil-env-116 -->
-1828. **Climate change mitigation** — Intermediate · Practice · Minor · builds on: Carbon cycle (1825), Carbon sink (1827) <!-- soil-env-167 -->
-1829. **Carbon sequestration** — Foundational · Process · Major · builds on: Carbon cycle (1825), Carbon sink (1827) <!-- soil-env-212 -->
-1830. **Soil carbon and climate change** — Intermediate · Concept · Major · builds on: Soil carbon (1826), Carbon cycle (1825) <!-- soil-env-110 -->
-1831. **Effects of climate change on agriculture** — Intermediate · Concept · Major · builds on: Soil fertility (1182), Crop yield (1646), Soil carbon and climate change (1830) <!-- soil-env-162 -->
-1832. **Soil inorganic carbon** — Intermediate · Material · Major · builds on: Soil carbon (1826), Carbonate minerals (59), Weathering (28), Parent material (110) <!-- soil-env-107 -->
-1833. **Soil organic carbon** — Intermediate · Concept · Major · builds on: Soil carbon (1826), Soil organic matter (26) <!-- soil-env-108 -->
-1834. **Managing soil carbon** — Intermediate · Practice · Major · builds on: Soil organic carbon (1833), Tillage (1695), Soil carbon (1826) <!-- soil-env-111 -->
-1835. **Permafrost carbon cycle** — Advanced · Process · Major · builds on: Carbon cycle (1825), Permafrost (515), Soil organic carbon (1833) <!-- soil-env-154 -->
-1836. **Pingo** — Intermediate · Concept · Minor · builds on: Permafrost (515), Frost heaving (512) <!-- soil-env-170 -->
-1837. **Active layer** — Intermediate · Concept · Major · builds on: Permafrost (515), Soil temperature (507), Soil thermal properties (514) <!-- soil-env-146 -->
-1838. **Soils as carbon sinks** — Intermediate · Concept · Major · builds on: Carbon sink (1827), Soil carbon (1826), Soil organic matter (26) <!-- soil-env-118 -->
-1839. **Soil carbon sequestration** — Intermediate · Practice · Landmark · builds on: Soil carbon (1826), Carbon sink (1827), Soils as carbon sinks (1838) <!-- soil-env-168 -->
-1840. **Fast and slow carbon cycles** — Intermediate · Concept · Minor · builds on: Carbon cycle (1825), Weathering (28), Biogeochemical cycle (1245) <!-- soil-env-103 -->
-1841. **Permafrost thaw** — Intermediate · Process · Major · builds on: Permafrost (515), Active layer (1837) <!-- soil-env-139 -->
-1842. **Permafrost zones** — Intermediate · Classification · Major · builds on: Permafrost (515) <!-- soil-env-130 -->
-1843. **Carbon catchment health** — Intermediate · Concept · Minor · builds on: Soil carbon (1826), Carbon sink (1827) <!-- soil-env-112 -->
-1844. **Soil carbon monitoring** — Intermediate · Method · Minor · builds on: Soil organic carbon (1833), Soil carbon and climate change (1830) <!-- soil-env-113 -->
-1845. **Soil organic carbon and soil function** — Intermediate · Concept · Minor · builds on: Soil organic carbon (1833), Cation-exchange capacity (641), Bulk density (301) <!-- soil-env-109 -->
-1846. **Methane emissions** — Intermediate · Process · Major · builds on: Methanogenesis (679), Wetland (1562) <!-- soil-env-279 -->
-1847. **Climate change feedbacks** — Intermediate · Concept · Major · builds on: Carbon cycle (1825), Carbon sink (1827) <!-- soil-env-213 -->
-1848. **Carbon pool** — Foundational · Concept · Minor · builds on: Carbon cycle (1825) <!-- soil-env-117 -->
-1849. **Terrestrial carbon pool** — Intermediate · Concept · Major · builds on: Carbon cycle (1825), Carbon pool (1848), Soil organic matter (26) <!-- soil-env-104 -->
-1850. **Land-use change and carbon loss** — Intermediate · Process · Minor · builds on: Carbon cycle (1825), Terrestrial carbon pool (1849) <!-- soil-env-105 -->
-1851. **Soil carbon feedback** — Advanced · Concept · Major · builds on: Soil carbon (1826), Soil respiration (761), Soil carbon and climate change (1830) <!-- soil-env-114 -->
-1852. **Alpine permafrost** — Intermediate · Concept · Minor · builds on: Permafrost (515) <!-- soil-env-131 -->
-1853. **Construction on permafrost** — Intermediate · Practice · Minor · builds on: Permafrost (515), Bearing capacity (346) <!-- soil-env-138 -->
-1854. **History of permafrost research** — Intermediate · Event · Minor · builds on: Permafrost (515) <!-- soil-env-145 -->
-1855. **Massive ground ice** — Intermediate · Material · Minor · builds on: Permafrost (515), Water content (370) <!-- soil-env-135 -->
-1856. **Yedoma** — Intermediate · Material · Major · builds on: Permafrost (515), Soil organic carbon (1833), Massive ground ice (1855) <!-- soil-env-152 -->
-1857. **Past extent of permafrost** — Intermediate · Concept · Minor · builds on: Permafrost (515) <!-- soil-env-133 -->
-1858. **Permafrost base depth** — Advanced · Concept · Minor · builds on: Permafrost (515), Soil temperature (507), Soil thermal properties (514) <!-- soil-env-134 -->
-1859. **Permafrost ecology** — Intermediate · Concept · Minor · builds on: Permafrost (515), Soil microbiology (751) <!-- soil-env-137 -->
-1860. **Permafrost landforms** — Intermediate · Concept · Minor · builds on: Permafrost (515), Ice wedge (161), Frost heaving (512) <!-- soil-env-136 -->
-1861. **Permafrost thaw and infrastructure** — Intermediate · Concept · Minor · builds on: Permafrost thaw (1841), Construction on permafrost (1853) <!-- soil-env-142 -->
-1862. **Pollutants released by permafrost thaw** — Intermediate · Concept · Minor · builds on: Permafrost thaw (1841), Mercury cycle (1267) <!-- soil-env-143 -->
-1863. **Revival of ancient organisms from permafrost** — Intermediate · Concept · Minor · builds on: Permafrost (515), Permafrost ecology (1859) <!-- soil-env-144 -->
-1864. **Subsea permafrost** — Intermediate · Concept · Minor · builds on: Permafrost (515), Past extent of permafrost (1857) <!-- soil-env-132 -->
-1865. **Thaw-induced ground instability** — Intermediate · Process · Minor · builds on: Permafrost thaw (1841), Massive ground ice (1855), Slope stability (1484) <!-- soil-env-141 -->
-1866. **Methanotroph** — Intermediate · Concept · Major · builds on: Soil microbiology (751), Methanogenesis (679), Soil bacteria (766) <!-- soil-env-280 -->
-1867. **Mycorrhizal fungi and soil carbon storage** — Advanced · Concept · Major · builds on: Mycorrhiza (881), Soil carbon (1826), Decomposition (951) <!-- soil-env-120 -->
-1868. **Wetland restoration** — Intermediate · Practice · Minor · builds on: Wetland (1562), Peatland (1563), Soils as carbon sinks (1838) <!-- soil-env-169 -->
-1869. **Climate change and soil fertility** — Intermediate · Process · Minor · builds on: Soil fertility (1182), Soil organic carbon (1833), Decomposition (951), Soil erosion (1438) <!-- soil-env-163 -->
-1870. **Sea level rise and farmland** — Intermediate · Concept · Minor · builds on: Arable land (1697), Soil salinity (696), Soil erosion (1438) <!-- soil-env-165 -->
-1871. **Thawing of potentially arable land** — Intermediate · Concept · Minor · builds on: Permafrost thaw (1841), Arable land (1697) <!-- soil-env-164 -->
-1872. **Thermokarst** — Intermediate · Concept · Major · builds on: Permafrost (515), Massive ground ice (1855), Permafrost thaw (1841) <!-- soil-env-153 -->
-1873. **Permafrost carbon release** — Advanced · Process · Major · builds on: Permafrost carbon cycle (1835), Permafrost thaw (1841), Decomposition (951) <!-- soil-env-157 -->
-1874. **Permafrost carbon feedback** — Advanced · Process · Major · builds on: Permafrost thaw (1841), Soil carbon feedback (1851), Permafrost carbon release (1873) <!-- soil-env-140 -->
-1875. **Permafrost carbon stocks** — Advanced · Concept · Major · builds on: Permafrost carbon cycle (1835), Soil organic carbon (1833) <!-- soil-env-156 -->
-1876. **Talik** — Intermediate · Concept · Minor · builds on: Permafrost (515) <!-- soil-env-150 -->
-1877. **Agricultural greenhouse gas emissions** — Intermediate · Concept · Major · builds on: Soil carbon (1826), Land-use change and carbon loss (1850), Soil nitrous oxide emissions (1286) <!-- soil-env-166 -->
-1878. **Soil carbon sponge** — Intermediate · Concept · Minor · builds on: Soil carbon (1826), Soil aggregate stability (279), Pore space in soil (303), Soil water retention (376), Infiltration (368) <!-- soil-env-119 -->
-1879. **Thaw depth** — Intermediate · Concept · Minor · builds on: Active layer (1837), Soil temperature (507), Soil texture (50) <!-- soil-env-147 -->
-1880. **Syngenetic permafrost growth** — Advanced · Process · Minor · builds on: Permafrost (515), Sediment (1477), Aeolian processes (1479) <!-- soil-env-171 -->
-1881. **Land use, land-use change, and forestry** — Intermediate · Classification · Major · builds on: Land-use change and carbon loss (1850), Carbon cycle (1825) <!-- soil-env-278 -->
-1882. **Abrupt permafrost thaw** — Advanced · Process · Major · builds on: Permafrost thaw (1841), Thermokarst (1872) <!-- soil-env-160 -->
-1883. **Permafrost carbon dioxide emissions** — Advanced · Process · Minor · builds on: Permafrost carbon release (1873), Soil respiration (761) <!-- soil-env-158 -->
-1884. **Permafrost carbon storage processes** — Advanced · Process · Minor · builds on: Permafrost carbon cycle (1835), Cryoturbation (146), Syngenetic permafrost growth (1880) <!-- soil-env-155 -->
-1885. **Permafrost methane emissions** — Advanced · Process · Minor · builds on: Permafrost carbon release (1873), Methanogenesis (679), Reduction in waterlogged soils (678), Thermokarst (1872), Redox (660) <!-- soil-env-159 -->
-1886. **Arctic methane emissions** — Advanced · Process · Major · builds on: Permafrost thaw (1841), Permafrost methane emissions (1885), Methanogenesis (679), Permafrost carbon cycle (1835) <!-- soil-env-215 -->
-1887. **Permafrost emission estimates** — Advanced · Concept · Minor · builds on: Permafrost carbon feedback (1874), Permafrost carbon dioxide emissions (1883), Permafrost methane emissions (1885) <!-- soil-env-161 -->
-1888. **Pereletok** — Intermediate · Concept · Minor · builds on: Permafrost (515), Active layer (1837) <!-- soil-env-149 -->
-1889. **Soil formation in the active layer** — Advanced · Process · Minor · builds on: Active layer (1837), Cryoturbation (146), Soil formation (184) <!-- soil-env-148 -->
-1890. **Black carbon in soils** — Intermediate · Material · Minor · builds on: Soil organic carbon (1833), Charcoal (1141) <!-- soil-env-172 -->
-1891. **Biochar permanence** — Advanced · Concept · Minor · builds on: Biochar carbon removal (1331), Biochar (1307), Biochar properties (1362) <!-- soil-env-272 -->
-1892. **Biochar carbon credits** — Intermediate · Practice · Minor · builds on: Biochar carbon removal (1331), Biochar permanence (1891) <!-- soil-env-273 -->
-1893. **Carbon cycle feedbacks** — Advanced · Process · Minor · builds on: Climate change feedbacks (1847), Carbon cycle (1825), Carbon sink (1827) <!-- soil-env-214 -->
-1894. **Supra-permafrost talik** — Advanced · Process · Minor · builds on: Talik (1876), Active layer (1837), Permafrost thaw (1841) <!-- soil-env-151 -->
-1895. **Compost-bomb instability** — Advanced · Concept · Minor · builds on: Soil carbon feedback (1851), Peatland (1563) <!-- soil-env-115 -->
-1896. **Silicate weathering and carbon dioxide** — Intermediate · Process · Minor · builds on: Chemical weathering (31), Hydrolysis and carbonation (55), Silicate minerals (46), Fast and slow carbon cycles (1840) <!-- soil-env-126 -->
-1897. **Enhanced weathering** — Intermediate · Practice · Major · builds on: Silicate weathering and carbon dioxide (1896), Silicate minerals (46), Carbon sink (1827), Weathering (28) <!-- soil-env-125 -->
-1898. **Mineral carbonation** — Advanced · Process · Minor · builds on: Silicate weathering and carbon dioxide (1896), Carbonate minerals (59) <!-- soil-env-128 -->
-1899. **Terrestrial enhanced weathering** — Advanced · Practice · Minor · builds on: Enhanced weathering (1897), Silicate minerals (46), Soil pH (66) <!-- soil-env-127 -->
-1900. **Mycorrhizal fungi and soil aggregation** — Advanced · Process · Minor · builds on: Mycorrhizal fungi and soil carbon storage (1867), Soil aggregation (278) <!-- soil-env-122 -->
-1901. **Mycorrhizal inhibition of decomposition** — Advanced · Process · Minor · builds on: Mycorrhizal fungi and soil carbon storage (1867), Ectomycorrhiza (888), Decomposition (951) <!-- soil-env-124 -->
-1902. **Mycorrhizal priming** — Advanced · Process · Minor · builds on: Mycorrhizal fungi and soil carbon storage (1867), Priming effect (971), Decomposition (951) <!-- soil-env-123 -->
-1903. **Recalcitrance of mycorrhizal tissues** — Advanced · Concept · Minor · builds on: Mycorrhizal fungi and soil carbon storage (1867), Decomposition (951), Glomalin (974) <!-- soil-env-121 -->
-1904. **Alternate wetting and drying** — Intermediate · Practice · Minor · builds on: Paddy field (680), Methanogenesis (679) <!-- soil-env-271 -->
-1905. **Pathways of wetland methane emission** — Advanced · Process · Minor · builds on: Wetland greenhouse gas emissions (1601), Methanogenesis (679), Wetland (1562), Methanotroph (1866) <!-- soil-env-274 -->
-1906. **Controls on wetland methane flux** — Advanced · Concept · Minor · builds on: Pathways of wetland methane emission (1905), Water table (378), Methanogenesis (679) <!-- soil-env-275 -->
-1907. **Wetland drainage and methane** — Intermediate · Process · Minor · builds on: Wetland greenhouse gas emissions (1601), Methanotroph (1866), Methanogenesis (679) <!-- soil-env-277 -->
-1908. **Wetland nitrous oxide fluxes** — Advanced · Process · Minor · builds on: Wetland greenhouse gas emissions (1601), Soil nitrous oxide emissions (1286), Denitrification (1263) <!-- soil-env-276 -->
-1909. **Earth system and land surface models** — Advanced · Method · Minor · builds on: Carbon cycle (1825), Soil carbon feedback (1851), Hydrology (400) <!-- soil-env-284 -->
-1910. **Soil methane uptake** — Advanced · Process · Minor · builds on: Methanotroph (1866), Methanogenesis (679), Carbon sink (1827) <!-- soil-env-283 -->
-1911. **Peatland rewetting** — Intermediate · Practice · Minor · builds on: Peatland (1563), Peat drainage (1137), Peat (1136), Peatland restoration (1150) <!-- soil-env-281 -->
-1912. **Paludiculture** — Intermediate · Practice · Minor · builds on: Peatland rewetting (1911), Peatland (1563), Peat drainage (1137), Peatland restoration (1150) <!-- soil-env-282 -->
+2102. **Carbon cycle** — Foundational · Process · Landmark · builds on: Biogeochemical cycle (1393), Soil organic matter (1045), Pedosphere (3) <!-- soil-env-102 -->
+2103. **Soil carbon** — Foundational · Concept · Landmark · builds on: Soil organic matter (1045), Carbonate minerals (56), Carbon cycle (2102) <!-- soil-env-106 -->
+2104. **Carbon sink** — Intermediate · Concept · Landmark · builds on: Carbon cycle (2102) <!-- soil-env-116 -->
+2105. **Climate change mitigation** — Intermediate · Practice · Minor · builds on: Carbon cycle (2102), Carbon sink (2104) <!-- soil-env-167 -->
+2106. **Carbon sequestration** — Foundational · Process · Major · builds on: Carbon cycle (2102), Carbon sink (2104) <!-- soil-env-212 -->
+2107. **Soil carbon and climate change** — Intermediate · Concept · Major · builds on: Soil carbon (2103), Carbon cycle (2102) <!-- soil-env-110 -->
+2108. **Effects of climate change on agriculture** — Intermediate · Concept · Major · builds on: Soil fertility (1322), Crop yield (1842), Soil carbon and climate change (2107) <!-- soil-env-162 -->
+2109. **Soil inorganic carbon** — Intermediate · Material · Major · builds on: Soil carbon (2103), Carbonate minerals (56), Weathering (27), Parent material (108) <!-- soil-env-107 -->
+2110. **Soil organic carbon** — Intermediate · Concept · Major · builds on: Soil carbon (2103), Soil organic matter (1045) <!-- soil-env-108 -->
+2111. **Managing soil carbon** — Intermediate · Practice · Major · builds on: Soil organic carbon (2110), Tillage (1916), Soil carbon (2103) <!-- soil-env-111 -->
+2112. **Permafrost carbon cycle** — Advanced · Process · Major · builds on: Carbon cycle (2102), Permafrost (551), Soil organic carbon (2110) <!-- soil-env-154 -->
+2113. **Pingo** — Intermediate · Concept · Minor · builds on: Permafrost (551), Frost heaving (548) <!-- soil-env-170 -->
+2114. **Active layer** — Intermediate · Concept · Major · builds on: Permafrost (551), Soil temperature (543), Soil thermal properties (550) <!-- soil-env-146 -->
+2115. **Soils as carbon sinks** — Intermediate · Concept · Major · builds on: Carbon sink (2104), Soil carbon (2103), Soil organic matter (1045) <!-- soil-env-118 -->
+2116. **Soil carbon sequestration** — Intermediate · Practice · Landmark · builds on: Soil carbon (2103), Carbon sink (2104), Soils as carbon sinks (2115) <!-- soil-env-168 -->
+2117. **Soil carbon feedback** — Advanced · Concept · Major · builds on: Soil carbon (2103), Soil respiration (837), Soil carbon and climate change (2107) <!-- soil-env-114 -->
+2118. **Permafrost thaw** — Intermediate · Process · Major · builds on: Permafrost (551), Active layer (2114) <!-- soil-env-139 -->
+2119. **Permafrost zones** — Intermediate · Classification · Major · builds on: Permafrost (551) <!-- soil-env-130 -->
+2120. **Fast and slow carbon cycles** — Intermediate · Concept · Minor · builds on: Carbon cycle (2102), Weathering (27), Biogeochemical cycle (1393) <!-- soil-env-103 -->
+2121. **Carbon catchment health** — Intermediate · Concept · Minor · builds on: Soil carbon (2103), Carbon sink (2104) <!-- soil-env-112 -->
+2122. **Soil carbon monitoring** — Intermediate · Method · Minor · builds on: Soil organic carbon (2110), Soil carbon and climate change (2107) <!-- soil-env-113 -->
+2123. **Soil organic carbon and soil function** — Intermediate · Concept · Minor · builds on: Soil organic carbon (2110), Cation-exchange capacity (705), Bulk density (310) <!-- soil-env-109 -->
+2124. **Climate change feedbacks** — Intermediate · Concept · Major · builds on: Carbon cycle (2102), Carbon sink (2104) <!-- soil-env-213 -->
+2125. **Methane emissions** — Intermediate · Process · Major · builds on: Methanogenesis (744), Wetland (1757) <!-- soil-env-279 -->
+2126. **Carbon pool** — Foundational · Concept · Minor · builds on: Carbon cycle (2102) <!-- soil-env-117 -->
+2127. **Terrestrial carbon pool** — Intermediate · Concept · Major · builds on: Carbon cycle (2102), Carbon pool (2126), Soil organic matter (1045) <!-- soil-env-104 -->
+2128. **Land-use change and carbon loss** — Intermediate · Process · Minor · builds on: Carbon cycle (2102), Terrestrial carbon pool (2127) <!-- soil-env-105 -->
+2129. **Alpine permafrost** — Intermediate · Concept · Minor · builds on: Permafrost (551) <!-- soil-env-131 -->
+2130. **Construction on permafrost** — Intermediate · Practice · Minor · builds on: Permafrost (551), Bearing capacity (351) <!-- soil-env-138 -->
+2131. **History of permafrost research** — Intermediate · Event · Minor · builds on: Permafrost (551) <!-- soil-env-145 -->
+2132. **Massive ground ice** — Intermediate · Material · Minor · builds on: Permafrost (551), Water content (390) <!-- soil-env-135 -->
+2133. **Yedoma** — Intermediate · Material · Major · builds on: Permafrost (551), Soil organic carbon (2110), Massive ground ice (2132) <!-- soil-env-152 -->
+2134. **Past extent of permafrost** — Intermediate · Concept · Minor · builds on: Permafrost (551) <!-- soil-env-133 -->
+2135. **Permafrost base depth** — Advanced · Concept · Minor · builds on: Permafrost (551), Soil temperature (543), Soil thermal properties (550) <!-- soil-env-134 -->
+2136. **Permafrost ecology** — Intermediate · Concept · Minor · builds on: Permafrost (551), Soil microbiology (827) <!-- soil-env-137 -->
+2137. **Permafrost landforms** — Intermediate · Concept · Minor · builds on: Permafrost (551), Ice wedge (159), Frost heaving (548) <!-- soil-env-136 -->
+2138. **Permafrost thaw and infrastructure** — Intermediate · Concept · Minor · builds on: Permafrost thaw (2118), Construction on permafrost (2130) <!-- soil-env-142 -->
+2139. **Pollutants released by permafrost thaw** — Intermediate · Concept · Minor · builds on: Permafrost thaw (2118), Mercury cycle (1415) <!-- soil-env-143 -->
+2140. **Revival of ancient organisms from permafrost** — Intermediate · Concept · Minor · builds on: Permafrost (551), Permafrost ecology (2136) <!-- soil-env-144 -->
+2141. **Subsea permafrost** — Intermediate · Concept · Minor · builds on: Permafrost (551), Past extent of permafrost (2134) <!-- soil-env-132 -->
+2142. **Thaw-induced ground instability** — Intermediate · Process · Minor · builds on: Permafrost thaw (2118), Massive ground ice (2132), Slope stability (1676) <!-- soil-env-141 -->
+2143. **Methanotroph** — Intermediate · Concept · Major · builds on: Soil microbiology (827), Methanogenesis (744), Soil bacteria (842) <!-- soil-env-280 -->
+2144. **Mycorrhizal fungi and soil carbon storage** — Advanced · Concept · Major · builds on: Mycorrhiza (971), Soil carbon (2103), Decomposition (1047) <!-- soil-env-120 -->
+2145. **Wetland restoration** — Intermediate · Practice · Minor · builds on: Wetland (1757), Peatland (1758), Soils as carbon sinks (2115) <!-- soil-env-169 -->
+2146. **Agricultural greenhouse gas emissions** — Intermediate · Concept · Major · builds on: Soil carbon (2103), Land-use change and carbon loss (2128), Soil nitrous oxide emissions (1434) <!-- soil-env-166 -->
+2147. **Climate change and soil fertility** — Intermediate · Process · Minor · builds on: Soil fertility (1322), Soil organic carbon (2110), Decomposition (1047), Soil erosion (1630) <!-- soil-env-163 -->
+2148. **Sea level rise and farmland** — Intermediate · Concept · Minor · builds on: Arable land (1918), Soil salinity (763), Soil erosion (1630) <!-- soil-env-165 -->
+2149. **Thawing of potentially arable land** — Intermediate · Concept · Minor · builds on: Permafrost thaw (2118), Arable land (1918) <!-- soil-env-164 -->
+2150. **Climate tipping points** — Intermediate · Concept · Major · builds on: Climate change feedbacks (2124), Greenhouse gas (542), Albedo (559) <!-- soil-env-322 -->
+2151. **Permafrost carbon release** — Advanced · Process · Major · builds on: Permafrost carbon cycle (2112), Permafrost thaw (2118), Decomposition (1047) <!-- soil-env-157 -->
+2152. **Permafrost carbon feedback** — Advanced · Process · Major · builds on: Permafrost thaw (2118), Soil carbon feedback (2117), Permafrost carbon release (2151) <!-- soil-env-140 -->
+2153. **Permafrost carbon stocks** — Advanced · Concept · Major · builds on: Permafrost carbon cycle (2112), Soil organic carbon (2110) <!-- soil-env-156 -->
+2154. **Thermokarst** — Intermediate · Concept · Major · builds on: Permafrost (551), Massive ground ice (2132), Permafrost thaw (2118) <!-- soil-env-153 -->
+2155. **Talik** — Intermediate · Concept · Minor · builds on: Permafrost (551) <!-- soil-env-150 -->
+2156. **Soil carbon sponge** — Intermediate · Concept · Minor · builds on: Soil carbon (2103), Soil aggregate stability (271), Pore space in soil (312), Soil water retention (396), Infiltration (388) <!-- soil-env-119 -->
+2157. **Thaw depth** — Intermediate · Concept · Minor · builds on: Active layer (2114), Soil temperature (543), Soil texture (47) <!-- soil-env-147 -->
+2158. **Syngenetic permafrost growth** — Advanced · Process · Minor · builds on: Permafrost (551), Sediment (1669), Aeolian processes (1671) <!-- soil-env-171 -->
+2159. **Permafrost carbon dioxide emissions** — Advanced · Process · Minor · builds on: Permafrost carbon release (2151), Soil respiration (837) <!-- soil-env-158 -->
+2160. **Permafrost carbon storage processes** — Advanced · Process · Minor · builds on: Permafrost carbon cycle (2112), Cryoturbation (144), Syngenetic permafrost growth (2158) <!-- soil-env-155 -->
+2161. **Permafrost methane emissions** — Advanced · Process · Minor · builds on: Permafrost carbon release (2151), Methanogenesis (744), Reduction in waterlogged soils (743), Thermokarst (2154), Redox (725) <!-- soil-env-159 -->
+2162. **Arctic methane emissions** — Advanced · Process · Major · builds on: Permafrost thaw (2118), Permafrost methane emissions (2161), Methanogenesis (744), Permafrost carbon cycle (2112) <!-- soil-env-215 -->
+2163. **Permafrost emission estimates** — Advanced · Concept · Minor · builds on: Permafrost carbon feedback (2152), Permafrost carbon dioxide emissions (2159), Permafrost methane emissions (2161) <!-- soil-env-161 -->
+2164. **Land use, land-use change, and forestry** — Intermediate · Classification · Major · builds on: Land-use change and carbon loss (2128), Carbon cycle (2102) <!-- soil-env-278 -->
+2165. **Abrupt permafrost thaw** — Advanced · Process · Major · builds on: Permafrost thaw (2118), Thermokarst (2154) <!-- soil-env-160 -->
+2166. **Black carbon in soils** — Intermediate · Material · Minor · builds on: Soil organic carbon (2110), Charcoal (1280) <!-- soil-env-172 -->
+2167. **Pereletok** — Intermediate · Concept · Minor · builds on: Permafrost (551), Active layer (2114) <!-- soil-env-149 -->
+2168. **Soil formation in the active layer** — Advanced · Process · Minor · builds on: Active layer (2114), Cryoturbation (144), Soil formation (182) <!-- soil-env-148 -->
+2169. **Compost-bomb instability** — Advanced · Concept · Minor · builds on: Soil carbon feedback (2117), Peatland (1758) <!-- soil-env-115 -->
+2170. **Carbon cycle feedbacks** — Advanced · Process · Minor · builds on: Climate change feedbacks (2124), Carbon cycle (2102), Carbon sink (2104) <!-- soil-env-214 -->
+2171. **Biochar permanence** — Advanced · Concept · Minor · builds on: Biochar carbon removal (1489), Biochar (1464), Biochar properties (1519) <!-- soil-env-272 -->
+2172. **Biochar carbon credits** — Intermediate · Practice · Minor · builds on: Biochar carbon removal (1489), Biochar permanence (2171) <!-- soil-env-273 -->
+2173. **Silicate weathering and carbon dioxide** — Intermediate · Process · Minor · builds on: Chemical weathering (28), Hydrolysis and carbonation (49), Silicate minerals (43), Fast and slow carbon cycles (2120) <!-- soil-env-126 -->
+2174. **Enhanced weathering** — Intermediate · Practice · Major · builds on: Silicate weathering and carbon dioxide (2173), Silicate minerals (43), Carbon sink (2104), Weathering (27) <!-- soil-env-125 -->
+2175. **Mineral carbonation** — Advanced · Process · Minor · builds on: Silicate weathering and carbon dioxide (2173), Carbonate minerals (56) <!-- soil-env-128 -->
+2176. **Terrestrial enhanced weathering** — Advanced · Practice · Minor · builds on: Enhanced weathering (2174), Silicate minerals (43), Soil pH (63) <!-- soil-env-127 -->
+2177. **Supra-permafrost talik** — Advanced · Process · Minor · builds on: Talik (2155), Active layer (2114), Permafrost thaw (2118) <!-- soil-env-151 -->
+2178. **Mycorrhizal fungi and soil aggregation** — Advanced · Process · Minor · builds on: Mycorrhizal fungi and soil carbon storage (2144), Soil aggregation (270) <!-- soil-env-122 -->
+2179. **Mycorrhizal inhibition of decomposition** — Advanced · Process · Minor · builds on: Mycorrhizal fungi and soil carbon storage (2144), Ectomycorrhiza (978), Decomposition (1047) <!-- soil-env-124 -->
+2180. **Mycorrhizal priming** — Advanced · Process · Minor · builds on: Mycorrhizal fungi and soil carbon storage (2144), Priming effect (1068), Decomposition (1047) <!-- soil-env-123 -->
+2181. **Recalcitrance of mycorrhizal tissues** — Advanced · Concept · Minor · builds on: Mycorrhizal fungi and soil carbon storage (2144), Decomposition (1047), Glomalin (1043) <!-- soil-env-121 -->
+2182. **Alternate wetting and drying** — Intermediate · Practice · Minor · builds on: Paddy field (745), Methanogenesis (744) <!-- soil-env-271 -->
+2183. **Compost bomb instability** — Advanced · Concept · Minor · builds on: Peatland carbon storage (1777), Greenhouse gas (542), Albedo (559) <!-- soil-env-324 -->
+2184. **Permafrost thaw tipping dynamics** — Advanced · Concept · Minor · builds on: Permafrost (551), Greenhouse gas (542), Albedo (559) <!-- soil-env-323 -->
+2185. **Pathways of wetland methane emission** — Advanced · Process · Minor · builds on: Wetland greenhouse gas emissions (1796), Methanogenesis (744), Wetland (1757), Methanotroph (2143) <!-- soil-env-274 -->
+2186. **Controls on wetland methane flux** — Advanced · Concept · Minor · builds on: Pathways of wetland methane emission (2185), Water table (398), Methanogenesis (744) <!-- soil-env-275 -->
+2187. **Wetland drainage and methane** — Intermediate · Process · Minor · builds on: Wetland greenhouse gas emissions (1796), Methanotroph (2143), Methanogenesis (744) <!-- soil-env-277 -->
+2188. **Wetland nitrous oxide fluxes** — Advanced · Process · Minor · builds on: Wetland greenhouse gas emissions (1796), Soil nitrous oxide emissions (1434), Denitrification (1410) <!-- soil-env-276 -->
+2189. **Earth system and land surface models** — Advanced · Method · Minor · builds on: Carbon cycle (2102), Soil carbon feedback (2117), Hydrology (416) <!-- soil-env-284 -->
+2190. **Soil methane uptake** — Advanced · Process · Minor · builds on: Methanotroph (2143), Methanogenesis (744), Carbon sink (2104) <!-- soil-env-283 -->
+2191. **Peatland rewetting** — Intermediate · Practice · Minor · builds on: Peatland (1758), Peat drainage (1276), Peat (1275), Peatland restoration (1289) <!-- soil-env-281 -->
+2192. **Paludiculture** — Intermediate · Practice · Minor · builds on: Peatland rewetting (2191), Peatland (1758), Peat drainage (1276), Peatland restoration (1289) <!-- soil-env-282 -->
+2193. **Cuvette Centrale peatland** — Advanced · Case study · Minor · builds on: Tropical peat (1294), Greenhouse gas (542), Albedo (559) <!-- soil-env-325 -->
 
 ### Degradation and desertification
 
-1913. **Soil degradation** — Foundational · Process · Landmark · builds on: Soil (1), Soil formation (184), Soil erosion (1438), Humus (952) <!-- soil-env-058 -->
-1914. **Land degradation** — Foundational · Process · Landmark · builds on: Soil (1), Soil erosion (1438) <!-- soil-env-062 -->
-1915. **Deforestation** — Foundational · Process · Major · builds on: Land degradation (1914) <!-- soil-env-269 -->
-1916. **Causes of land degradation** — Intermediate · Concept · Major · builds on: Land degradation (1914) <!-- soil-env-065 -->
-1917. **Global extent of land degradation** — Intermediate · Concept · Major · builds on: Land degradation (1914) <!-- soil-env-063 -->
-1918. **Impacts of land degradation** — Intermediate · Concept · Major · builds on: Land degradation (1914), Soil degradation (1913) <!-- soil-env-067 -->
-1919. **Sustainable land management** — Intermediate · Practice · Major · builds on: Land degradation (1914), Soil conservation (1737) <!-- soil-env-070 -->
-1920. **Soil sealing** — Intermediate · Process · Major · builds on: Land degradation (1914), Impervious surface (390), Topsoil (137), Soil compaction (304) <!-- soil-env-093 -->
-1921. **Land consumption** — Intermediate · Process · Major · builds on: Land degradation (1914), Soil sealing (1920), Land development (1422) <!-- soil-env-101 -->
-1922. **Drylands** — Foundational · Concept · Major · builds on: Aridity (1108) <!-- soil-env-077 -->
-1923. **Desertification** — Foundational · Process · Landmark · builds on: Land degradation (1914), Drylands (1922), Aridity (1108), Soil erosion (1438) <!-- soil-env-072 -->
-1924. **United Nations Convention to Combat Desertification** — Intermediate · Person/Institution · Major · builds on: Desertification (1923), Drylands (1922), Land degradation (1914) <!-- soil-env-100 -->
-1925. **Climate change and desertification** — Intermediate · Concept · Major · builds on: Desertification (1923), Drylands (1922) <!-- soil-env-076 -->
-1926. **Reversing desertification** — Intermediate · Practice · Major · builds on: Desertification (1923) <!-- soil-env-084 -->
-1927. **Desert greening** — Intermediate · Practice · Major · builds on: Reversing desertification (1926), Desertification (1923) <!-- soil-env-086 -->
-1928. **Soil improvement against desertification** — Intermediate · Practice · Major · builds on: Reversing desertification (1926), Desertification (1923), Soil erosion (1438) <!-- soil-env-085 -->
-1929. **Climate change and land degradation** — Intermediate · Concept · Major · builds on: Land degradation (1914), Drylands (1922), Permafrost (515) <!-- soil-env-066 -->
-1930. **Overgrazing** — Foundational · Process · Major · builds on: Soil erosion (1438) <!-- soil-env-096 -->
-1931. **Causes of desertification** — Intermediate · Concept · Major · builds on: Desertification (1923), Overgrazing (1930), Vegetation cover and erosion (1444) <!-- soil-env-074 -->
-1932. **Human role in desertification** — Intermediate · Debate · Major · builds on: Desertification (1923), Causes of desertification (1931) <!-- soil-env-075 -->
-1933. **Soil climax and succession** — Intermediate · Concept · Minor · builds on: Soil formation (184), Soil-forming factors (186), Soil horizon (67) <!-- soil-env-060 -->
-1934. **Soil retrogression** — Intermediate · Process · Major · builds on: Soil degradation (1913), Soil climax and succession (1933), Soil erosion (1438), Soil horizon (67) <!-- soil-env-059 -->
-1935. **Soil enhancement and rebuilding** — Intermediate · Practice · Minor · builds on: Soil degradation (1913), Soil structure (249), Soil organic matter (26), Surface runoff (1415) <!-- soil-env-061 -->
-1936. **Agrivoltaics in deserts** — Advanced · Practice · Minor · builds on: Desertification (1923), Drylands (1922) <!-- soil-env-091 -->
-1937. **Definitions of desertification** — Intermediate · Debate · Minor · builds on: Desertification (1923) <!-- soil-env-073 -->
-1938. **Desertification and dust storms** — Intermediate · Process · Minor · builds on: Desertification (1923), Dust storm (1508), Aeolian processes (1479) <!-- soil-env-078 -->
-1939. **Desertification and food insecurity** — Intermediate · Concept · Minor · builds on: Desertification (1923), Arable land (1697) <!-- soil-env-079 -->
-1940. **Desertification and poverty** — Intermediate · Concept · Minor · builds on: Desertification (1923), Drylands (1922) <!-- soil-env-080 -->
-1941. **Desertification in South America** — Intermediate · Process · Minor · builds on: Desertification (1923), Drylands (1922), Soil erosion (1438), Overgrazing (1930) <!-- soil-env-083 -->
-1942. **Desertification in the Gobi and Mongolia** — Intermediate · Process · Minor · builds on: Desertification (1923), Drylands (1922) <!-- soil-env-082 -->
-1943. **Desertification in the Sahel** — Intermediate · Process · Minor · builds on: Desertification (1923), Drylands (1922) <!-- soil-env-081 -->
-1944. **History of desertification** — Intermediate · Concept · Minor · builds on: Desertification (1923) <!-- soil-env-092 -->
-1945. **Managed grazing** — Intermediate · Practice · Minor · builds on: Overgrazing (1930), Desertification (1923) <!-- soil-env-090 -->
-1946. **Land degradation on farms** — Advanced · Concept · Minor · builds on: Land degradation (1914), Causes of land degradation (1916) <!-- soil-env-069 -->
-1947. **Land sensitivity and resilience** — Intermediate · Concept · Minor · builds on: Land degradation (1914) <!-- soil-env-068 -->
-1948. **Types of land degradation** — Intermediate · Classification · Minor · builds on: Land degradation (1914), Soil degradation (1913), Soil erosion (1438) <!-- soil-env-064 -->
-1949. **Grassland degradation** — Intermediate · Process · Major · builds on: Land degradation (1914), Overgrazing (1930) <!-- soil-env-095 -->
-1950. **Woody plant encroachment** — Intermediate · Process · Major · builds on: Grassland degradation (1949), Land degradation (1914) <!-- soil-env-207 -->
-1951. **Three-North Shelter Forest Program** — Intermediate · Practice · Major · builds on: Desertification (1923), Desertification in the Gobi and Mongolia (1942), Windbreak (1741) <!-- soil-env-088 -->
-1952. **Great Green Wall (Africa)** — Intermediate · Practice · Major · builds on: Desertification (1923), Desertification in the Sahel (1943) <!-- soil-env-089 -->
-1953. **Farmer-managed natural regeneration** — Intermediate · Practice · Major · builds on: Reversing desertification (1926), Land degradation (1914), Desertification (1923) <!-- soil-env-087 -->
-1954. **Rangeland management** — Intermediate · Practice · Major · builds on: Overgrazing (1930), Grassland degradation (1949) <!-- soil-env-313 -->
-1955. **Aridity index** — Intermediate · Method · Minor · builds on: Aridity (1108), Potential evapotranspiration (442) <!-- soil-env-206 -->
-1956. **Soil unsealing** — Intermediate · Practice · Minor · builds on: Soil sealing (1920), Impervious surface (390) <!-- soil-env-094 -->
-1957. **Dryland restoration** — Intermediate · Practice · Minor · builds on: Drylands (1922), Land degradation (1914), Desertification (1923) <!-- soil-env-205 -->
-1958. **Bush control** — Intermediate · Practice · Minor · builds on: Woody plant encroachment (1950) <!-- soil-env-211 -->
-1959. **Causes of woody plant encroachment** — Intermediate · Process · Minor · builds on: Woody plant encroachment (1950), Overgrazing (1930) <!-- soil-env-208 -->
-1960. **Woody encroachment and soil carbon** — Advanced · Concept · Minor · builds on: Woody plant encroachment (1950), Soil organic carbon (1833), Carbon sink (1827) <!-- soil-env-209 -->
-1961. **Woody encroachment and soil water** — Intermediate · Process · Minor · builds on: Woody plant encroachment (1950), Groundwater recharge (464), Evapotranspiration (387) <!-- soil-env-210 -->
-1962. **Degrees of grassland degradation** — Intermediate · Classification · Minor · builds on: Grassland degradation (1949) <!-- soil-env-098 -->
-1963. **Grassland restoration** — Intermediate · Practice · Minor · builds on: Grassland degradation (1949), Degrees of grassland degradation (1962) <!-- soil-env-099 -->
-1964. **Small mammals in grassland degradation** — Intermediate · Debate · Minor · builds on: Grassland degradation (1949) <!-- soil-env-097 -->
-1965. **Land abandonment** — Intermediate · Process · Minor · builds on: Land degradation (1914) <!-- soil-env-270 -->
-1966. **Land degradation neutrality** — Intermediate · Concept · Minor · builds on: Land degradation (1914) <!-- soil-env-071 -->
+2194. **Soil degradation** — Foundational · Process · Landmark · builds on: Soil (1), Soil formation (182), Soil erosion (1630), Humus (1048) <!-- soil-env-058 -->
+2195. **Land degradation** — Foundational · Process · Landmark · builds on: Soil (1), Soil erosion (1630) <!-- soil-env-062 -->
+2196. **Deforestation** — Foundational · Process · Major · builds on: Land degradation (2195) <!-- soil-env-269 -->
+2197. **Causes of land degradation** — Intermediate · Concept · Major · builds on: Land degradation (2195) <!-- soil-env-065 -->
+2198. **Global extent of land degradation** — Intermediate · Concept · Major · builds on: Land degradation (2195) <!-- soil-env-063 -->
+2199. **Impacts of land degradation** — Intermediate · Concept · Major · builds on: Land degradation (2195), Soil degradation (2194) <!-- soil-env-067 -->
+2200. **Sustainable land management** — Intermediate · Practice · Major · builds on: Land degradation (2195), Soil conservation (1961) <!-- soil-env-070 -->
+2201. **Soil sealing** — Intermediate · Process · Major · builds on: Land degradation (2195), Impervious surface (407), Topsoil (135), Soil compaction (313) <!-- soil-env-093 -->
+2202. **Land consumption** — Intermediate · Process · Major · builds on: Land degradation (2195), Soil sealing (2201), Land development (1615) <!-- soil-env-101 -->
+2203. **Overgrazing** — Foundational · Process · Major · builds on: Soil erosion (1630) <!-- soil-env-096 -->
+2204. **Drylands** — Foundational · Concept · Major · builds on: Aridity (1247) <!-- soil-env-077 -->
+2205. **Desertification** — Foundational · Process · Landmark · builds on: Land degradation (2195), Drylands (2204), Aridity (1247), Soil erosion (1630) <!-- soil-env-072 -->
+2206. **United Nations Convention to Combat Desertification** — Intermediate · Person/Institution · Major · builds on: Desertification (2205), Drylands (2204), Land degradation (2195) <!-- soil-env-100 -->
+2207. **Causes of desertification** — Intermediate · Concept · Major · builds on: Desertification (2205), Overgrazing (2203), Vegetation cover and erosion (1636) <!-- soil-env-074 -->
+2208. **Climate change and desertification** — Intermediate · Concept · Major · builds on: Desertification (2205), Drylands (2204) <!-- soil-env-076 -->
+2209. **Human role in desertification** — Intermediate · Debate · Major · builds on: Desertification (2205), Causes of desertification (2207) <!-- soil-env-075 -->
+2210. **Reversing desertification** — Intermediate · Practice · Major · builds on: Desertification (2205) <!-- soil-env-084 -->
+2211. **Desert greening** — Intermediate · Practice · Major · builds on: Reversing desertification (2210), Desertification (2205) <!-- soil-env-086 -->
+2212. **Soil improvement against desertification** — Intermediate · Practice · Major · builds on: Reversing desertification (2210), Desertification (2205), Soil erosion (1630) <!-- soil-env-085 -->
+2213. **Climate change and land degradation** — Intermediate · Concept · Major · builds on: Land degradation (2195), Drylands (2204), Permafrost (551) <!-- soil-env-066 -->
+2214. **Soil climax and succession** — Intermediate · Concept · Minor · builds on: Soil formation (182), Soil-forming factors (184), Soil horizon (64) <!-- soil-env-060 -->
+2215. **Soil retrogression** — Intermediate · Process · Major · builds on: Soil degradation (2194), Soil climax and succession (2214), Soil erosion (1630), Soil horizon (64) <!-- soil-env-059 -->
+2216. **Soil enhancement and rebuilding** — Intermediate · Practice · Minor · builds on: Soil degradation (2194), Soil structure (260), Soil organic matter (1045), Surface runoff (1608) <!-- soil-env-061 -->
+2217. **Agrivoltaics in deserts** — Advanced · Practice · Minor · builds on: Desertification (2205), Drylands (2204) <!-- soil-env-091 -->
+2218. **Definitions of desertification** — Intermediate · Debate · Minor · builds on: Desertification (2205) <!-- soil-env-073 -->
+2219. **Desertification and dust storms** — Intermediate · Process · Minor · builds on: Desertification (2205), Dust storm (1700), Aeolian processes (1671) <!-- soil-env-078 -->
+2220. **Desertification and food insecurity** — Intermediate · Concept · Minor · builds on: Desertification (2205), Arable land (1918) <!-- soil-env-079 -->
+2221. **Desertification and poverty** — Intermediate · Concept · Minor · builds on: Desertification (2205), Drylands (2204) <!-- soil-env-080 -->
+2222. **Desertification in South America** — Intermediate · Process · Minor · builds on: Desertification (2205), Drylands (2204), Soil erosion (1630), Overgrazing (2203) <!-- soil-env-083 -->
+2223. **Desertification in the Gobi and Mongolia** — Intermediate · Process · Minor · builds on: Desertification (2205), Drylands (2204) <!-- soil-env-082 -->
+2224. **Desertification in the Sahel** — Intermediate · Process · Minor · builds on: Desertification (2205), Drylands (2204) <!-- soil-env-081 -->
+2225. **History of desertification** — Intermediate · Concept · Minor · builds on: Desertification (2205) <!-- soil-env-092 -->
+2226. **Managed grazing** — Intermediate · Practice · Minor · builds on: Overgrazing (2203), Desertification (2205) <!-- soil-env-090 -->
+2227. **Land degradation on farms** — Advanced · Concept · Minor · builds on: Land degradation (2195), Causes of land degradation (2197) <!-- soil-env-069 -->
+2228. **Land sensitivity and resilience** — Intermediate · Concept · Minor · builds on: Land degradation (2195) <!-- soil-env-068 -->
+2229. **Types of land degradation** — Intermediate · Classification · Minor · builds on: Land degradation (2195), Soil degradation (2194), Soil erosion (1630) <!-- soil-env-064 -->
+2230. **Grassland degradation** — Intermediate · Process · Major · builds on: Land degradation (2195), Overgrazing (2203) <!-- soil-env-095 -->
+2231. **Woody plant encroachment** — Intermediate · Process · Major · builds on: Grassland degradation (2230), Land degradation (2195) <!-- soil-env-207 -->
+2232. **Three-North Shelter Forest Program** — Intermediate · Practice · Major · builds on: Desertification (2205), Desertification in the Gobi and Mongolia (2223), Windbreak (1965) <!-- soil-env-088 -->
+2233. **Great Green Wall (Africa)** — Intermediate · Practice · Major · builds on: Desertification (2205), Desertification in the Sahel (2224) <!-- soil-env-089 -->
+2234. **Farmer-managed natural regeneration** — Intermediate · Practice · Major · builds on: Reversing desertification (2210), Land degradation (2195), Desertification (2205) <!-- soil-env-087 -->
+2235. **Rangeland management** — Intermediate · Practice · Major · builds on: Overgrazing (2203), Grassland degradation (2230) <!-- soil-env-313 -->
+2236. **Aridity index** — Intermediate · Method · Minor · builds on: Aridity (1247), Potential evapotranspiration (517) <!-- soil-env-206 -->
+2237. **Soil unsealing** — Intermediate · Practice · Minor · builds on: Soil sealing (2201), Impervious surface (407) <!-- soil-env-094 -->
+2238. **Dryland restoration** — Intermediate · Practice · Minor · builds on: Drylands (2204), Land degradation (2195), Desertification (2205) <!-- soil-env-205 -->
+2239. **Compaction and root growth** — Intermediate · Concept · Major · builds on: Soil compaction (313) <!-- soil-env-321 -->
+2240. **Bush control** — Intermediate · Practice · Minor · builds on: Woody plant encroachment (2231) <!-- soil-env-211 -->
+2241. **Causes of woody plant encroachment** — Intermediate · Process · Minor · builds on: Woody plant encroachment (2231), Overgrazing (2203) <!-- soil-env-208 -->
+2242. **Woody encroachment and soil carbon** — Advanced · Concept · Minor · builds on: Woody plant encroachment (2231), Soil organic carbon (2110), Carbon sink (2104) <!-- soil-env-209 -->
+2243. **Woody encroachment and soil water** — Intermediate · Process · Minor · builds on: Woody plant encroachment (2231), Groundwater recharge (480), Evapotranspiration (512) <!-- soil-env-210 -->
+2244. **Shallow compaction** — Intermediate · Concept · Major · builds on: Soil structure (260), Soil consistency (279) <!-- soil-env-319 -->
+2245. **Subsoil compaction** — Intermediate · Concept · Major · builds on: Shallow compaction (2244) <!-- soil-env-320 -->
+2246. **Degrees of grassland degradation** — Intermediate · Classification · Minor · builds on: Grassland degradation (2230) <!-- soil-env-098 -->
+2247. **Grassland restoration** — Intermediate · Practice · Minor · builds on: Grassland degradation (2230), Degrees of grassland degradation (2246) <!-- soil-env-099 -->
+2248. **Small mammals in grassland degradation** — Intermediate · Debate · Minor · builds on: Grassland degradation (2230) <!-- soil-env-097 -->
+2249. **Non-limiting water range** — Advanced · Concept · Minor · builds on: Available water capacity (506), Water potential (394), Soil aeration (545), Soil compaction (313), Water content (390), Field capacity (482), Permanent wilting point (505) <!-- soil-phys-220 -->
+2250. **Land abandonment** — Intermediate · Process · Minor · builds on: Land degradation (2195) <!-- soil-env-270 -->
+2251. **Land degradation neutrality** — Intermediate · Concept · Minor · builds on: Land degradation (2195) <!-- soil-env-071 -->
 
 ### Urban and human-made soils
 
-1967. **Rain garden** — Intermediate · Practice · Major · builds on: Urban runoff (1428), Impervious surface (390), Infiltration (368), Bioretention (1764) <!-- soil-env-308 -->
-1968. **Urban soil** — Intermediate · Concept · Major · builds on: Topsoil (137), Soil compaction (304) <!-- soil-env-306 -->
-1969. **Spoil tip** — Intermediate · Material · Minor <!-- soil-env-311 -->
-1970. **Urban forestry** — Intermediate · Practice · Minor · builds on: Urban soil (1968) <!-- soil-env-312 -->
-1971. **Bioretention soil mix** — Intermediate · Material · Minor · builds on: Rain garden (1967), Soil texture (50), Permeability of soils (425) <!-- soil-env-309 -->
-1972. **Artefacts in soil** — Advanced · Material · Minor · builds on: Technosol (1115), Urban soil (1968), Soil horizon (67) <!-- soil-env-307 -->
-1973. **Soil stockpile** — Foundational · Practice · Minor · builds on: Topsoil (137) <!-- soil-env-310 -->
+2252. **Rain garden** — Intermediate · Practice · Major · builds on: Urban runoff (1620), Impervious surface (407), Infiltration (388), Bioretention (1993) <!-- soil-env-308 -->
+2253. **Urban soil site assessment** — Intermediate · Method · Major <!-- soil-env-374 -->
+2254. **Urban soil contamination** — Intermediate · Concept · Major <!-- soil-env-373 -->
+2255. **Urban soil** — Intermediate · Concept · Major · builds on: Topsoil (135), Soil compaction (313) <!-- soil-env-306 -->
+2256. **Urban soil reconditioning** — Intermediate · Practice · Major · builds on: Urban soil (2255) <!-- soil-env-375 -->
+2257. **Spoil tip** — Intermediate · Material · Minor <!-- soil-env-311 -->
+2258. **Urban forestry** — Intermediate · Practice · Minor · builds on: Urban soil (2255) <!-- soil-env-312 -->
+2259. **Bioretention soil mix** — Intermediate · Material · Minor · builds on: Rain garden (2252), Soil texture (47), Permeability of soils (438) <!-- soil-env-309 -->
+2260. **Topsoil conservation during construction** — Intermediate · Practice · Minor · builds on: Soil compaction (313) <!-- soil-env-379 -->
+2261. **Container and green roof soil mixes** — Intermediate · Material · Minor · builds on: Soil texture (47) <!-- soil-env-377 -->
+2262. **Gap-graded soil** — Advanced · Material · Minor · builds on: Soil compaction (313), Soil texture (47) <!-- soil-env-378 -->
+2263. **Urban green space soil remediation** — Intermediate · Practice · Minor · builds on: Urban soil reconditioning (2256) <!-- soil-env-376 -->
+2264. **Artefacts in soil** — Advanced · Material · Minor · builds on: Technosol (1254), Urban soil (2255), Soil horizon (64) <!-- soil-env-307 -->
+2265. **Soil stockpile** — Foundational · Practice · Minor · builds on: Topsoil (135) <!-- soil-env-310 -->
 
 ### Soil health and protection
 
-1974. **Soil regeneration** — Intermediate · Practice · Major · builds on: Soil health (11), Soil degradation (1913), Topsoil (137), Soil organic carbon (1833), Soil organic matter (26) <!-- soil-env-185 -->
-1975. **Soil health testing** — Intermediate · Method · Major · builds on: Soil health (11), Soil test (1186) <!-- soil-env-177 -->
-1976. **Ecosystem service** — Foundational · Concept · Major · builds on: Soil functions (10), Decomposition (951), Nutrient cycle (1250) <!-- soil-env-285 -->
-1977. **Environmental soil science** — Foundational · Concept · Major · builds on: Pedosphere (3), Soil science (2), Edaphology (5) <!-- soil-env-173 -->
-1978. **Interpretations of soil health** — Intermediate · Debate · Minor · builds on: Soil health (11) <!-- soil-env-176 -->
-1979. **Soil health gap** — Advanced · Concept · Minor · builds on: Soil health testing (1975), Soil health (11) <!-- soil-env-178 -->
-1980. **Soil health versus soil quality** — Intermediate · Concept · Minor · builds on: Soil health (11), Soil quality (12) <!-- soil-env-175 -->
-1981. **Permaculture** — Intermediate · Practice · Minor · builds on: Soil health (11), Agroecology (1693) <!-- soil-env-218 -->
-1982. **Soil quality indicators** — Intermediate · Method · Major · builds on: Soil quality (12), Physical properties of soil (248), Soil pH (66) <!-- soil-env-180 -->
-1983. **Forms of soil degradation** — Intermediate · Classification · Major · builds on: Soil degradation (1913), Soil erosion (1438) <!-- soil-env-186 -->
-1984. **Regenerative soil practices** — Intermediate · Practice · Major · builds on: Soil regeneration (1974), Conservation agriculture (1746) <!-- soil-env-188 -->
-1985. **Soil resilience** — Intermediate · Concept · Major · builds on: Soil health (11), Soil formation (184) <!-- soil-env-184 -->
-1986. **Land rehabilitation** — Intermediate · Practice · Minor · builds on: Soil (1), Land degradation (1914) <!-- soil-found-112 -->
-1987. **Soil governance** — Intermediate · Concept · Major · builds on: Soil management (1740), Soil degradation (1913) <!-- soil-env-189 -->
-1988. **Agricultural soil carbon loss** — Intermediate · Process · Minor · builds on: Soil organic carbon (1833), Carbon cycle (1825), Soil carbon (1826) <!-- soil-env-187 -->
-1989. **Mine reclamation** — Intermediate · Practice · Minor · builds on: Land degradation (1914), Soil reclamation (8), Land reclamation (1623) <!-- soil-env-217 -->
-1990. **Soil bioengineering** — Intermediate · Practice · Major · builds on: Erosion control (1442), Slope stability (1484), Root reinforcement of soil (1554) <!-- soil-env-194 -->
-1991. **Mapping soil functions** — Advanced · Method · Minor · builds on: Soil functions (10), Soil map (1769), Soil survey interpretation (1775), Soil survey (1768) <!-- soil-env-183 -->
-1992. **Soil as a filter and buffer** — Intermediate · Concept · Minor · builds on: Soil functions (10) <!-- soil-env-182 -->
-1993. **Septic drain field** — Intermediate · Practice · Major · builds on: Soil as a filter and buffer (1992), Percolation (471), Soil texture (50) <!-- soil-env-195 -->
-1994. **Septic tank** — Intermediate · Practice · Minor · builds on: Soil as a filter and buffer (1992), Decomposition (951) <!-- soil-env-216 -->
-1995. **Drain field site assessment** — Intermediate · Method · Minor · builds on: Septic drain field (1993), Percolation test (428), Soil morphology (139), Redoximorphic features (662), Soil texture (50) <!-- soil-env-196 -->
-1996. **Onsite sewage facility** — Intermediate · Practice · Minor · builds on: Soil survey interpretation (1775), Biofilter (670) <!-- soil-agri-169 -->
-1997. **Soil Health Card Scheme** — Intermediate · Practice · Minor · builds on: Soil test (1186), Nutrient management (1191), Soil health (11) <!-- soil-env-197 -->
-1998. **EU soil policy** — Intermediate · Concept · Minor · builds on: Soil governance (1987) <!-- soil-env-191 -->
-1999. **Global Soil Partnership** — Intermediate · Person/Institution · Minor · builds on: Soil governance (1987) <!-- soil-env-190 -->
-2000. **Soil governance in India** — Intermediate · Concept · Minor · builds on: Soil governance (1987), Soil degradation (1913) <!-- soil-env-192 -->
-2001. **Urban and industrial soil governance** — Intermediate · Concept · Minor · builds on: Soil governance (1987), Soil degradation (1913) <!-- soil-env-193 -->
+2266. **Soil regeneration** — Intermediate · Practice · Major · builds on: Soil health (10), Soil degradation (2194), Topsoil (135), Soil organic carbon (2110), Soil organic matter (1045) <!-- soil-env-185 -->
+2267. **Soil health testing** — Intermediate · Method · Major · builds on: Soil health (10), Soil test (1326) <!-- soil-env-177 -->
+2268. **Ecosystem service** — Foundational · Concept · Major · builds on: Soil functions (9), Decomposition (1047), Nutrient cycle (1398) <!-- soil-env-285 -->
+2269. **Environmental soil science** — Foundational · Concept · Major · builds on: Pedosphere (3), Soil science (2), Edaphology (5) <!-- soil-env-173 -->
+2270. **Interpretations of soil health** — Intermediate · Debate · Minor · builds on: Soil health (10) <!-- soil-env-176 -->
+2271. **Soil health gap** — Advanced · Concept · Minor · builds on: Soil health testing (2267), Soil health (10) <!-- soil-env-178 -->
+2272. **Soil health versus soil quality** — Intermediate · Concept · Minor · builds on: Soil health (10), Soil quality (11) <!-- soil-env-175 -->
+2273. **Permaculture** — Intermediate · Practice · Minor · builds on: Soil health (10), Agroecology (1914) <!-- soil-env-218 -->
+2274. **Soil quality indicators** — Intermediate · Method · Major · builds on: Soil quality (11), Physical properties of soil (259), Soil pH (63) <!-- soil-env-180 -->
+2275. **Forms of soil degradation** — Intermediate · Classification · Major · builds on: Soil degradation (2194), Soil erosion (1630) <!-- soil-env-186 -->
+2276. **Regenerative soil practices** — Intermediate · Practice · Major · builds on: Soil regeneration (2266), Conservation agriculture (1970) <!-- soil-env-188 -->
+2277. **Soil resilience** — Intermediate · Concept · Major · builds on: Soil health (10), Soil formation (182) <!-- soil-env-184 -->
+2278. **Food and Agriculture Organization** — Foundational · Person/Institution · Minor <!-- soil-env-372 -->
+2279. **Land rehabilitation** — Intermediate · Practice · Minor · builds on: Soil (1), Land degradation (2195) <!-- soil-found-112 -->
+2280. **Soil governance** — Intermediate · Concept · Major · builds on: Soil management (1964), Soil degradation (2194) <!-- soil-env-189 -->
+2281. **Agricultural soil carbon loss** — Intermediate · Process · Minor · builds on: Soil organic carbon (2110), Carbon cycle (2102), Soil carbon (2103) <!-- soil-env-187 -->
+2282. **Mine reclamation** — Intermediate · Practice · Minor · builds on: Land degradation (2195), Land reclamation (1819) <!-- soil-env-217 -->
+2283. **Soil bioengineering** — Intermediate · Practice · Major · builds on: Erosion control (1634), Slope stability (1676), Root reinforcement of soil (1749) <!-- soil-env-194 -->
+2284. **Mapping soil functions** — Advanced · Method · Minor · builds on: Soil functions (9), Soil map (2007), Soil survey interpretation (2014), Soil survey (2006) <!-- soil-env-183 -->
+2285. **Soil as a filter and buffer** — Intermediate · Concept · Minor · builds on: Soil functions (9) <!-- soil-env-182 -->
+2286. **Septic drain field** — Intermediate · Practice · Major · builds on: Soil as a filter and buffer (2285), Percolation (484), Soil texture (47) <!-- soil-env-195 -->
+2287. **Septic tank** — Intermediate · Practice · Minor · builds on: Soil as a filter and buffer (2285), Decomposition (1047) <!-- soil-env-216 -->
+2288. **Drain field site assessment** — Intermediate · Method · Minor · builds on: Septic drain field (2286), Percolation test (441), Soil morphology (137), Redoximorphic features (727), Soil texture (47) <!-- soil-env-196 -->
+2289. **Holistic management** — Intermediate · Practice · Minor · builds on: Permaculture (2273) <!-- soil-env-326 -->
+2290. **Onsite sewage facility** — Intermediate · Practice · Minor · builds on: Soil survey interpretation (2014), Biofilter (731) <!-- soil-agri-169 -->
+2291. **Soil Health Card Scheme** — Intermediate · Practice · Minor · builds on: Soil test (1326), Nutrient management (1331), Soil health (10) <!-- soil-env-197 -->
+2292. **Attributes of healthy soil** — Foundational · Concept · Major · builds on: Soil quality (11), Tilth (272), Soil aggregate stability (271) <!-- soil-env-332 -->
+2293. **Soil nutrient and organic matter cycle** — Intermediate · Process · Major · builds on: Soil organic matter (1045), Chemical weathering (28), Nutrient cycle (1398) <!-- soil-env-335 -->
+2294. **Soil health assessment** — Foundational · Method · Major · builds on: Soil health (10) <!-- soil-env-349 -->
+2295. **Field soil health indicators** — Intermediate · Method · Major · builds on: Soil health assessment (2294) <!-- soil-env-350 -->
+2296. **Building healthy soil** — Intermediate · Practice · Major · builds on: Soil organic matter (1045), Tillage (1916), Cover crop (1962) <!-- soil-env-333 -->
+2297. **Agricultural soil degradation spiral** — Intermediate · Process · Major · builds on: Tillage (1916), Soil erosion (1630), Soil organic matter (1045) <!-- soil-env-336 -->
+2298. **Soil-plant-human health connection** — Intermediate · Concept · Major · builds on: Soil health (10) <!-- soil-env-337 -->
+2299. **Continuous living plants** — Intermediate · Practice · Major · builds on: Cover crop (1962) <!-- soil-env-365 -->
+2300. **Laboratory soil health indicators** — Advanced · Method · Major · builds on: Soil health testing (2267) <!-- soil-env-352 -->
+2301. **Six Cs of soil health management** — Intermediate · Practice · Major · builds on: Soil health (10) <!-- soil-env-364 -->
+2302. **Resilient natural ecosystems** — Intermediate · Concept · Major · builds on: Soil biodiversity (830) <!-- soil-env-340 -->
+2303. **Ecological crop and soil management** — Intermediate · Practice · Major · builds on: Resilient natural ecosystems (2302) <!-- soil-env-341 -->
+2304. **EU soil policy** — Intermediate · Concept · Minor · builds on: Soil governance (2280) <!-- soil-env-191 -->
+2305. **Global Soil Partnership** — Intermediate · Person/Institution · Minor · builds on: Soil governance (2280) <!-- soil-env-190 -->
+2306. **Soil governance in India** — Intermediate · Concept · Minor · builds on: Soil governance (2280), Soil degradation (2194) <!-- soil-env-192 -->
+2307. **Urban and industrial soil governance** — Intermediate · Concept · Minor · builds on: Soil governance (2280), Soil degradation (2194) <!-- soil-env-193 -->
+2308. **Soil nitrate strip test** — Intermediate · Method · Minor · builds on: Nitrification (1402), Bulk density (310) <!-- soil-env-330 -->
+2309. **Combining soil health practices** — Intermediate · Practice · Minor · builds on: Soil health (10) <!-- soil-env-355 -->
+2310. **Preventive soil health management** — Intermediate · Practice · Minor · builds on: Soil health testing (2267) <!-- soil-env-358 -->
+2311. **Plant defense signaling to beneficial organisms** — Advanced · Process · Minor · builds on: Rhizosphere (970) <!-- soil-env-344 -->
+2312. **Reduced tillage and residue for soil organic matter** — Intermediate · Practice · Minor · builds on: No-till farming (1925) <!-- soil-env-357 -->
+2313. **Soil health balance sheet** — Intermediate · Concept · Minor · builds on: Soil health (10) <!-- soil-env-356 -->
+2314. **Short- and long-term fixes for soil constraints** — Intermediate · Practice · Minor · builds on: Soil health testing (2267) <!-- soil-env-359 -->
+2315. **Soil health management on fruit farms and landscapes** — Intermediate · Practice · Minor · builds on: Soil compaction (313) <!-- soil-env-362 -->
+2316. **Soil health management on grain farms** — Intermediate · Practice · Minor · builds on: No-till farming (1925), Crop rotation (1817) <!-- soil-env-360 -->
+2317. **Soil health management on vegetable farms** — Intermediate · Practice · Minor · builds on: Cover crop (1962) <!-- soil-env-361 -->
+2318. **Terroir** — Intermediate · Concept · Minor <!-- soil-env-363 -->
+2319. **Fertilizer grade and nutrient conversion** — Foundational · Method · Minor · builds on: Fertilizer (1460), Macronutrients in fertilizers (1467) <!-- soil-env-331 -->
+2320. **Biodrilling** — Intermediate · Practice · Minor · builds on: Soil compaction (313) <!-- soil-env-366 -->
+2321. **Inherent and dynamic soil quality** — Foundational · Concept · Minor · builds on: Soil quality (11) <!-- soil-env-327 -->
+2322. **Organic amendments and soil health** — Intermediate · Practice · Minor · builds on: Compost (1461) <!-- soil-env-371 -->
+2323. **Soil functions and ecosystem services** — Intermediate · Concept · Minor · builds on: Soil health (10) <!-- soil-env-370 -->
+2324. **Soil health scoring curves** — Advanced · Method · Minor · builds on: Soil health testing (2267) <!-- soil-env-369 -->
+2325. **Visual soil health assessment** — Foundational · Method · Minor <!-- soil-env-368 -->
+2326. **Why soil compaction is hard to reduce** — Intermediate · Concept · Minor · builds on: Soil compaction (313) <!-- soil-env-367 -->
+2327. **Interrelationships of soil properties** — Intermediate · Concept · Minor · builds on: Soil compaction (313) <!-- soil-env-339 -->
+2328. **When to inoculate beneficial organisms** — Intermediate · Practice · Minor · builds on: Microbial inoculant (853) <!-- soil-env-354 -->
+2329. **Field aggregate stability test** — Foundational · Method · Minor · builds on: Soil aggregate stability (271) <!-- soil-env-351 -->
+2330. **Soil health scorecards** — Intermediate · Method · Minor · builds on: Soil health (10) <!-- soil-env-334 -->
+2331. **Push-pull technology** — Intermediate · Method · Minor · builds on: Biological pest control (1978) <!-- soil-env-343 -->
+2332. **Residue retention and disease** — Intermediate · Concept · Minor · builds on: Crop residue (1923) <!-- soil-env-348 -->
+2333. **Symphylans** — Intermediate · Material · Minor <!-- soil-env-347 -->
+2334. **Organic food and human health** — Intermediate · Debate · Minor · builds on: Soil-plant-human health connection (2298) <!-- soil-env-338 -->
+2335. **Induced resistance in plants** — Advanced · Process · Minor · builds on: Rhizosphere (970) <!-- soil-env-345 -->
+2336. **Plant health and pest resistance** — Intermediate · Concept · Minor · builds on: Soil health (10) <!-- soil-env-346 -->
+2337. **Soil practices that suppress pests** — Intermediate · Practice · Minor · builds on: Cover crop (1962) <!-- soil-env-342 -->
+2338. **Active carbon** — Advanced · Method · Minor · builds on: Soil organic carbon (2110), Soil health testing (2267) <!-- soil-env-286 -->
 
 ### Contamination and remediation
 
-2002. **Soil contamination** — Foundational · Concept · Landmark · builds on: Soil (1), Land degradation (1914) <!-- soil-env-001 -->
-2003. **Nonpoint source pollution** — Foundational · Concept · Major · builds on: Surface runoff (1415) <!-- soil-env-015 -->
-2004. **Nutrient pollution** — Intermediate · Concept · Landmark · builds on: Nutrient (1181), Nonpoint source pollution (2003), Fertilizer (1303) <!-- soil-env-019 -->
-2005. **Heavy metals in soil** — Intermediate · Material · Major · builds on: Soil contamination (2002) <!-- soil-env-018 -->
-2006. **Soil remediation** — Intermediate · Method · Landmark · builds on: Soil contamination (2002) <!-- soil-env-012 -->
-2007. **Bioremediation** — Intermediate · Method · Landmark · builds on: Soil remediation (2006), Soil microbiology (751) <!-- soil-env-023 -->
-2008. **Phytoremediation** — Intermediate · Method · Major · builds on: Bioremediation (2007), Root (867), Rhizosphere (880) <!-- soil-env-037 -->
-2009. **Mycoremediation** — Intermediate · Method · Major · builds on: Bioremediation (2007), Soil fungi (768), Saprotroph (959) <!-- soil-env-033 -->
-2010. **Pesticide** — Foundational · Material · Major <!-- soil-env-237 -->
-2011. **Polycyclic aromatic hydrocarbon** — Intermediate · Material · Major · builds on: Soil contamination (2002), Organic matter (950), Soil organic matter (26) <!-- soil-env-199 -->
-2012. **Eutrophication** — Intermediate · Process · Major · builds on: Nutrient pollution (2004), Nutrient (1181) <!-- soil-env-020 -->
-2013. **Ecological effects of soil contamination** — Intermediate · Concept · Major · builds on: Soil contamination (2002), Soil biodiversity (753), Soil food web (760) <!-- soil-env-009 -->
-2014. **Exposure pathways of soil contaminants** — Intermediate · Concept · Major · builds on: Soil contamination (2002) <!-- soil-env-007 -->
-2015. **Pesticides in soil** — Intermediate · Material · Major · builds on: Soil contamination (2002) <!-- soil-env-004 -->
-2016. **Sources of soil contamination** — Foundational · Concept · Major · builds on: Soil contamination (2002) <!-- soil-env-002 -->
-2017. **Persistent organic pollutant** — Intermediate · Material · Major · builds on: Soil contamination (2002) <!-- soil-env-198 -->
-2018. **DDT** — Intermediate · Material · Major · builds on: Pesticides in soil (2015) <!-- soil-env-005 -->
-2019. **Soil vapor extraction** — Intermediate · Method · Major · builds on: Soil remediation (2006), Soil gas (506), Vadose zone (484), Permeability of soils (425) <!-- soil-env-045 -->
-2020. **PFAS** — Intermediate · Material · Major · builds on: Soil contamination (2002), Persistent organic pollutant (2017) <!-- soil-env-200 -->
-2021. **Environmental remediation** — Intermediate · Practice · Major · builds on: Soil contamination (2002) <!-- soil-env-249 -->
-2022. **Biomagnification** — Intermediate · Process · Major · builds on: Soil food web (760) <!-- soil-env-010 -->
-2023. **Agricultural nonpoint source pollution** — Intermediate · Concept · Major · builds on: Nonpoint source pollution (2003), Fertilizer (1303), Sediment (1477) <!-- soil-env-016 -->
-2024. **Microplastics in soil** — Intermediate · Material · Major · builds on: Soil contamination (2002) <!-- soil-env-003 -->
-2025. **Biostimulation** — Intermediate · Method · Major · builds on: Bioremediation (2007), Nutrient (1181), Redox (660) <!-- soil-env-055 -->
-2026. **Contaminant effects on soil functions** — Advanced · Concept · Minor · builds on: Heavy metals in soil (2005), Ecological effects of soil contamination (2013), Soil microbiology (751), Carbon cycle (1825), Nitrogen cycle (1246), Soil contamination (2002), Soil functions (10) <!-- soil-env-011 -->
-2027. **Health effects of soil contamination** — Intermediate · Concept · Minor · builds on: Exposure pathways of soil contaminants (2014), Soil contamination (2002) <!-- soil-env-008 -->
-2028. **War-related soil contamination** — Foundational · Concept · Minor · builds on: Soil contamination (2002) <!-- soil-env-006 -->
-2029. **Groundwater pollution** — Intermediate · Concept · Major · builds on: Soil contamination (2002), Groundwater (472), Aquifer (473) <!-- soil-env-242 -->
-2030. **Phytoextraction** — Intermediate · Process · Major · builds on: Phytoremediation (2008), Root nutrient uptake (1205) <!-- soil-env-038 -->
-2031. **Brownfield land** — Intermediate · Concept · Major · builds on: Soil contamination (2002), Land development (1422), Heavy metals in soil (2005) <!-- soil-env-201 -->
-2032. **GIS in environmental contamination** — Intermediate · Method · Minor · builds on: Soil contamination (2002) <!-- soil-env-048 -->
-2033. **Agricultural pollution** — Foundational · Concept · Major · builds on: Soil contamination (2002) <!-- soil-env-235 -->
-2034. **Metal toxicity** — Intermediate · Concept · Major · builds on: Heavy metals in soil (2005) <!-- soil-env-257 -->
-2035. **Electrokinetic remediation** — Advanced · Method · Major · builds on: Soil remediation (2006), Heavy metals in soil (2005), Soil pH (66), Permeability (porous media) (369) <!-- soil-env-047 -->
-2036. **Anaerobic bioremediation** — Advanced · Process · Minor · builds on: Bioremediation (2007), Anaerobic respiration (677), Redox (660) <!-- soil-env-028 -->
-2037. **Biopiles and windrows** — Intermediate · Method · Minor · builds on: Bioremediation (2007) <!-- soil-env-027 -->
-2038. **Biosparging** — Intermediate · Method · Minor · builds on: Bioremediation (2007), Water table (378) <!-- soil-env-025 -->
-2039. **Bioventing** — Intermediate · Method · Minor · builds on: Bioremediation (2007), Soil aeration (509), Vadose zone (484) <!-- soil-env-024 -->
-2040. **Genetically engineered bioremediation** — Advanced · Method · Minor · builds on: Bioremediation (2007) <!-- soil-env-031 -->
-2041. **Limitations of bioremediation** — Intermediate · Concept · Minor · builds on: Bioremediation (2007) <!-- soil-env-030 -->
-2042. **Pesticide bioremediation** — Intermediate · Method · Minor · builds on: Bioremediation (2007), Pesticides in soil (2015) <!-- soil-env-029 -->
-2043. **In situ thermal desorption** — Advanced · Method · Minor · builds on: Soil remediation (2006) <!-- soil-env-054 -->
-2044. **Biodegradation** — Intermediate · Process · Minor · builds on: Decomposition (951), Soil microbiology (751) <!-- soil-env-231 -->
-2045. **Pathogens in runoff** — Intermediate · Concept · Minor · builds on: Nonpoint source pollution (2003), Surface runoff (1415) <!-- soil-env-017 -->
-2046. **Groundwater remediation** — Intermediate · Method · Major · builds on: Groundwater pollution (2029), Environmental remediation (2021), Soil remediation (2006) <!-- soil-env-246 -->
-2047. **Phytodegradation** — Advanced · Process · Minor · builds on: Phytoremediation (2008) <!-- soil-env-040 -->
-2048. **Phytoscreening** — Advanced · Method · Minor · builds on: Phytoremediation (2008) <!-- soil-env-044 -->
-2049. **Phytostabilization** — Intermediate · Process · Minor · builds on: Phytoremediation (2008) <!-- soil-env-039 -->
-2050. **Phytostimulation** — Intermediate · Process · Minor · builds on: Phytoremediation (2008), Rhizosphere (880) <!-- soil-env-041 -->
-2051. **Phytovolatilization** — Intermediate · Process · Minor · builds on: Phytoremediation (2008) <!-- soil-env-042 -->
-2052. **Point source pollution** — Foundational · Concept · Minor · builds on: Soil contamination (2002) <!-- soil-env-204 -->
-2053. **Nutrient source apportionment** — Advanced · Method · Minor · builds on: Nutrient pollution (2004), Nonpoint source pollution (2003) <!-- soil-env-022 -->
-2054. **Nutrient trading** — Advanced · Practice · Minor · builds on: Nutrient pollution (2004) <!-- soil-env-021 -->
-2055. **Landfarming** — Intermediate · Method · Minor · builds on: Bioremediation (2007), Tillage (1695) <!-- soil-env-053 -->
-2056. **Radioactive contamination** — Intermediate · Concept · Major · builds on: Soil contamination (2002) <!-- soil-env-203 -->
-2057. **Natural attenuation** — Intermediate · Process · Major · builds on: Bioremediation (2007) <!-- soil-env-026 -->
-2058. **Surfactant leaching** — Intermediate · Method · Minor · builds on: Soil remediation (2006) <!-- soil-env-056 -->
-2059. **Bioaugmentation** — Intermediate · Method · Minor · builds on: Bioremediation (2007) <!-- soil-env-032 -->
-2060. **Fungal biosorption of metals** — Intermediate · Process · Minor · builds on: Mycoremediation (2009), Heavy metals in soil (2005) <!-- soil-env-034 -->
-2061. **Fungal degradation of organic pollutants** — Advanced · Process · Minor · builds on: Mycoremediation (2009), White-rot fungi (1000), Lignin (968) <!-- soil-env-035 -->
-2062. **Mycorrhizoremediation** — Intermediate · Method · Minor · builds on: Phytoremediation (2008), Mycorrhiza (881) <!-- soil-env-036 -->
-2063. **Permeable reactive barrier** — Advanced · Method · Minor · builds on: Soil remediation (2006), Sorption (618), Redox (660), Hydraulic conductivity (373) <!-- soil-env-202 -->
-2064. **Ecotoxicology** — Intermediate · Concept · Major · builds on: Soil contamination (2002) <!-- soil-env-259 -->
-2065. **Arsenic contamination of groundwater** — Intermediate · Concept · Major · builds on: Groundwater pollution (2029), Redox potential (Eh) (669), Aquifer (473) <!-- soil-env-241 -->
-2066. **Dense non-aqueous phase liquid** — Intermediate · Material · Minor · builds on: Groundwater pollution (2029), Aquifer (473) <!-- soil-env-220 -->
-2067. **In situ chemical reduction** — Advanced · Method · Minor · builds on: Groundwater remediation (2046), Redox potential (Eh) (669), In situ chemical oxidation (668) <!-- soil-env-227 -->
-2068. **Phytotoxicity** — Intermediate · Concept · Minor · builds on: Soil contamination (2002), Heavy metals in soil (2005) <!-- soil-env-222 -->
-2069. **DRASTIC aquifer vulnerability index** — Advanced · Method · Minor · builds on: GIS in environmental contamination (2032), Hydraulic conductivity (373), Vadose zone (484) <!-- soil-env-049 -->
-2070. **Contaminated land risk assessment** — Intermediate · Method · Major · builds on: Soil contamination (2002), Exposure pathways of soil contaminants (2014) <!-- soil-env-013 -->
-2071. **SVE off-gas treatment** — Advanced · Method · Minor · builds on: Soil vapor extraction (2019), Sorption (618) <!-- soil-env-046 -->
-2072. **Air sparging** — Intermediate · Method · Minor · builds on: Groundwater remediation (2046), Soil vapor extraction (2019) <!-- soil-env-240 -->
-2073. **Hexavalent chromium** — Intermediate · Material · Minor · builds on: Oxidation state (673), Heavy metals in soil (2005) <!-- soil-env-255 -->
-2074. **Metallophyte** — Intermediate · Classification · Minor · builds on: Heavy metals in soil (2005) <!-- soil-env-052 -->
-2075. **Hyperaccumulator** — Intermediate · Concept · Major · builds on: Metallophyte (2074), Heavy metals in soil (2005), Phytoremediation (2008) <!-- soil-env-050 -->
-2076. **Phytomining** — Intermediate · Practice · Minor · builds on: Hyperaccumulator (2075), Phytoextraction (2030) <!-- soil-env-051 -->
-2077. **Pesticide degradation** — Advanced · Process · Major · builds on: Pesticide (2010), Biodegradation (2044) <!-- soil-env-238 -->
-2078. **In situ bioremediation** — Intermediate · Method · Major · builds on: Bioremediation (2007) <!-- soil-env-262 -->
-2079. **Entomoremediation** — Intermediate · Method · Minor · builds on: Bioremediation (2007), Termites (788) <!-- soil-env-253 -->
-2080. **Nanoremediation** — Advanced · Method · Minor · builds on: Soil remediation (2006), In situ chemical reduction (2067) <!-- soil-env-252 -->
-2081. **Pump and treat** — Intermediate · Method · Minor · builds on: Groundwater remediation (2046), Adsorption (619) <!-- soil-env-250 -->
-2082. **Solidification and stabilization** — Intermediate · Method · Minor · builds on: Soil remediation (2006), Soil contamination (2002) <!-- soil-env-251 -->
-2083. **Surfactant enhanced aquifer remediation** — Advanced · Method · Minor · builds on: Groundwater remediation (2046), Dense non-aqueous phase liquid (2066) <!-- soil-env-254 -->
-2084. **Aquifer vulnerability mapping** — Advanced · Method · Minor · builds on: Groundwater pollution (2029), Aquifer (473) <!-- soil-env-245 -->
-2085. **Geogenic groundwater contamination** — Intermediate · Concept · Minor · builds on: Groundwater pollution (2029), Weathering (28) <!-- soil-env-243 -->
-2086. **Pathogen removal below on-site sanitation** — Intermediate · Process · Minor · builds on: Groundwater pollution (2029), Vadose zone (484), Adsorption (619) <!-- soil-env-244 -->
-2087. **Acid mine drainage treatment** — Advanced · Method · Minor · builds on: Acid mine drainage (812), Liming (soil) (1316) <!-- soil-env-233 -->
-2088. **Yellow boy** — Intermediate · Material · Minor · builds on: Acid mine drainage (812), Iron oxides (597) <!-- soil-env-234 -->
-2089. **Thermal desorption** — Intermediate · Method · Minor · builds on: Soil remediation (2006), Desorption (626) <!-- soil-env-230 -->
-2090. **Light non-aqueous phase liquid** — Intermediate · Material · Minor · builds on: Groundwater pollution (2029), Water table (378), Dense non-aqueous phase liquid (2066) <!-- soil-env-221 -->
-2091. **Biosorption** — Intermediate · Process · Minor · builds on: Heavy metals in soil (2005), Adsorption (619), Bioremediation (2007) <!-- soil-env-219 -->
-2092. **Pesticide leaching** — Intermediate · Process · Minor · builds on: Pesticide (2010), Leaching (agriculture) (1622), Groundwater pollution (2029) <!-- soil-env-236 -->
-2093. **Remediation of metal-contaminated soil** — Intermediate · Method · Minor · builds on: Soil remediation (2006), Heavy metals in soil (2005) <!-- soil-env-258 -->
-2094. **Cadmium poisoning** — Intermediate · Concept · Minor · builds on: Heavy metals in soil (2005), Metal toxicity (2034) <!-- soil-env-256 -->
-2095. **Bioslurping** — Advanced · Method · Minor · builds on: Bioventing (2039), Light non-aqueous phase liquid (2090) <!-- soil-env-247 -->
-2096. **Dual-phase vacuum extraction** — Advanced · Method · Minor · builds on: Soil vapor extraction (2019), Groundwater remediation (2046) <!-- soil-env-248 -->
-2097. **Rhizofiltration** — Intermediate · Method · Minor · builds on: Phytoremediation (2008), Root (867) <!-- soil-env-043 -->
-2098. **Pneumatic fracturing** — Advanced · Method · Minor · builds on: Soil remediation (2006), Soil vapor extraction (2019) <!-- soil-env-223 -->
-2099. **Total petroleum hydrocarbon** — Intermediate · Concept · Minor · builds on: Soil contamination (2002) <!-- soil-env-224 -->
-2100. **Electrical resistance heating** — Advanced · Method · Minor · builds on: Soil remediation (2006), Soil vapor extraction (2019) <!-- soil-env-229 -->
-2101. **Microbial biodegradation** — Advanced · Process · Minor · builds on: Biodegradation (2044), Bioremediation (2007) <!-- soil-env-232 -->
-2102. **Ecotoxicity testing** — Advanced · Method · Minor · builds on: Ecotoxicology (2064), Earthworm (758) <!-- soil-env-260 -->
-2103. **Pesticide transformation products** — Advanced · Material · Minor · builds on: Pesticide degradation (2077), Pesticide (2010) <!-- soil-env-239 -->
-2104. **Hydrocarbon biodegradation in soil** — Intermediate · Process · Minor · builds on: Biodegradation (2044), Total petroleum hydrocarbon (2099), Polycyclic aromatic hydrocarbon (2011) <!-- soil-env-264 -->
-2105. **Raymond process** — Advanced · Method · Minor · builds on: In situ bioremediation (2078), Electron acceptor (672) <!-- soil-env-263 -->
-2106. **Bioremediation of PCBs** — Advanced · Process · Minor · builds on: Bioremediation (2007), Persistent organic pollutant (2017) <!-- soil-env-228 -->
-2107. **Geochemical background** — Advanced · Concept · Minor · builds on: Soil contamination (2002), Weathering (28), Heavy metals in soil (2005) <!-- soil-env-268 -->
-2108. **Contaminants of emerging concern** — Intermediate · Material · Minor · builds on: Soil contamination (2002) <!-- soil-env-261 -->
-2109. **Bioremediation of radioactive waste** — Advanced · Process · Minor · builds on: Bioremediation (2007), Radioactive contamination (2056) <!-- soil-env-265 -->
-2110. **Bioreduction of radionuclides** — Advanced · Process · Minor · builds on: Bioremediation of radioactive waste (2109), Oxidation state (673), Redox potential (Eh) (669) <!-- soil-env-266 -->
-2111. **Phytoextraction of radionuclides** — Intermediate · Method · Minor · builds on: Phytoextraction (2030), Radioactive contamination (2056) <!-- soil-env-267 -->
-2112. **Sustainable remediation** — Intermediate · Practice · Minor · builds on: Soil remediation (2006), Environmental remediation (2021) <!-- soil-env-226 -->
-2113. **Vapor intrusion** — Intermediate · Process · Minor · builds on: Soil contamination (2002), Exposure pathways of soil contaminants (2014), Vadose zone (484), Groundwater pollution (2029) <!-- soil-env-225 -->
+2339. **Soil contamination** — Foundational · Concept · Landmark · builds on: Soil (1), Land degradation (2195) <!-- soil-env-001 -->
+2340. **Nonpoint source pollution** — Foundational · Concept · Major · builds on: Surface runoff (1608) <!-- soil-env-015 -->
+2341. **Nutrient pollution** — Intermediate · Concept · Landmark · builds on: Nutrient (1321), Nonpoint source pollution (2340), Fertilizer (1460) <!-- soil-env-019 -->
+2342. **Heavy metals in soil** — Intermediate · Material · Major · builds on: Soil contamination (2339) <!-- soil-env-018 -->
+2343. **Soil remediation** — Intermediate · Method · Landmark · builds on: Soil contamination (2339) <!-- soil-env-012 -->
+2344. **Bioremediation** — Intermediate · Method · Landmark · builds on: Soil remediation (2343), Soil microbiology (827) <!-- soil-env-023 -->
+2345. **Phytoremediation** — Intermediate · Method · Major · builds on: Bioremediation (2344), Root (957), Rhizosphere (970) <!-- soil-env-037 -->
+2346. **Mycoremediation** — Intermediate · Method · Major · builds on: Bioremediation (2344), Soil fungi (844), Saprotroph (1055) <!-- soil-env-033 -->
+2347. **Polycyclic aromatic hydrocarbon** — Intermediate · Material · Major · builds on: Soil contamination (2339), Organic matter (1046), Soil organic matter (1045) <!-- soil-env-199 -->
+2348. **Pesticide** — Foundational · Material · Major <!-- soil-env-237 -->
+2349. **Eutrophication** — Intermediate · Process · Major · builds on: Nutrient pollution (2341), Nutrient (1321) <!-- soil-env-020 -->
+2350. **Ecological effects of soil contamination** — Intermediate · Concept · Major · builds on: Soil contamination (2339), Soil biodiversity (830), Soil food web (836) <!-- soil-env-009 -->
+2351. **Exposure pathways of soil contaminants** — Intermediate · Concept · Major · builds on: Soil contamination (2339) <!-- soil-env-007 -->
+2352. **Pesticides in soil** — Intermediate · Material · Major · builds on: Soil contamination (2339) <!-- soil-env-004 -->
+2353. **Sources of soil contamination** — Foundational · Concept · Major · builds on: Soil contamination (2339) <!-- soil-env-002 -->
+2354. **Persistent organic pollutant** — Intermediate · Material · Major · builds on: Soil contamination (2339) <!-- soil-env-198 -->
+2355. **DDT** — Intermediate · Material · Major · builds on: Pesticides in soil (2352) <!-- soil-env-005 -->
+2356. **PFAS** — Intermediate · Material · Major · builds on: Soil contamination (2339), Persistent organic pollutant (2354) <!-- soil-env-200 -->
+2357. **Soil vapor extraction** — Intermediate · Method · Major · builds on: Soil remediation (2343), Soil gas (541), Vadose zone (494), Permeability of soils (438) <!-- soil-env-045 -->
+2358. **Biomagnification** — Intermediate · Process · Major · builds on: Soil food web (836) <!-- soil-env-010 -->
+2359. **Environmental remediation** — Intermediate · Practice · Major · builds on: Soil contamination (2339) <!-- soil-env-249 -->
+2360. **Agricultural nonpoint source pollution** — Intermediate · Concept · Major · builds on: Nonpoint source pollution (2340), Fertilizer (1460), Sediment (1669) <!-- soil-env-016 -->
+2361. **Microplastics in soil** — Intermediate · Material · Major · builds on: Soil contamination (2339) <!-- soil-env-003 -->
+2362. **Contaminant effects on soil functions** — Advanced · Concept · Minor · builds on: Heavy metals in soil (2342), Ecological effects of soil contamination (2350), Soil microbiology (827), Carbon cycle (2102), Nitrogen cycle (1394), Soil contamination (2339), Soil functions (9) <!-- soil-env-011 -->
+2363. **Health effects of soil contamination** — Intermediate · Concept · Minor · builds on: Exposure pathways of soil contaminants (2351), Soil contamination (2339) <!-- soil-env-008 -->
+2364. **War-related soil contamination** — Foundational · Concept · Minor · builds on: Soil contamination (2339) <!-- soil-env-006 -->
+2365. **Biostimulation** — Intermediate · Method · Major · builds on: Bioremediation (2344), Nutrient (1321), Redox (725) <!-- soil-env-055 -->
+2366. **Brownfield land** — Intermediate · Concept · Major · builds on: Soil contamination (2339), Land development (1615), Heavy metals in soil (2342) <!-- soil-env-201 -->
+2367. **Groundwater pollution** — Intermediate · Concept · Major · builds on: Soil contamination (2339), Groundwater (485), Aquifer (486) <!-- soil-env-242 -->
+2368. **Phytoextraction** — Intermediate · Process · Major · builds on: Phytoremediation (2345), Root nutrient uptake (1342) <!-- soil-env-038 -->
+2369. **GIS in environmental contamination** — Intermediate · Method · Minor · builds on: Soil contamination (2339) <!-- soil-env-048 -->
+2370. **Metal toxicity** — Intermediate · Concept · Major · builds on: Heavy metals in soil (2342) <!-- soil-env-257 -->
+2371. **Agricultural pollution** — Foundational · Concept · Major · builds on: Soil contamination (2339) <!-- soil-env-235 -->
+2372. **Electrokinetic remediation** — Advanced · Method · Major · builds on: Soil remediation (2343), Heavy metals in soil (2342), Soil pH (63), Permeability (porous media) (389) <!-- soil-env-047 -->
+2373. **Anaerobic bioremediation** — Advanced · Process · Minor · builds on: Bioremediation (2344), Anaerobic respiration (742), Redox (725) <!-- soil-env-028 -->
+2374. **Biopiles and windrows** — Intermediate · Method · Minor · builds on: Bioremediation (2344) <!-- soil-env-027 -->
+2375. **Biosparging** — Intermediate · Method · Minor · builds on: Bioremediation (2344), Water table (398) <!-- soil-env-025 -->
+2376. **Bioventing** — Intermediate · Method · Minor · builds on: Bioremediation (2344), Soil aeration (545), Vadose zone (494) <!-- soil-env-024 -->
+2377. **Genetically engineered bioremediation** — Advanced · Method · Minor · builds on: Bioremediation (2344) <!-- soil-env-031 -->
+2378. **Limitations of bioremediation** — Intermediate · Concept · Minor · builds on: Bioremediation (2344) <!-- soil-env-030 -->
+2379. **Pesticide bioremediation** — Intermediate · Method · Minor · builds on: Bioremediation (2344), Pesticides in soil (2352) <!-- soil-env-029 -->
+2380. **Biodegradation** — Intermediate · Process · Minor · builds on: Decomposition (1047), Soil microbiology (827) <!-- soil-env-231 -->
+2381. **In situ thermal desorption** — Advanced · Method · Minor · builds on: Soil remediation (2343) <!-- soil-env-054 -->
+2382. **Pathogens in runoff** — Intermediate · Concept · Minor · builds on: Nonpoint source pollution (2340), Surface runoff (1608) <!-- soil-env-017 -->
+2383. **Groundwater remediation** — Intermediate · Method · Major · builds on: Groundwater pollution (2367), Environmental remediation (2359), Soil remediation (2343) <!-- soil-env-246 -->
+2384. **Phytodegradation** — Advanced · Process · Minor · builds on: Phytoremediation (2345) <!-- soil-env-040 -->
+2385. **Phytoscreening** — Advanced · Method · Minor · builds on: Phytoremediation (2345) <!-- soil-env-044 -->
+2386. **Phytostabilization** — Intermediate · Process · Minor · builds on: Phytoremediation (2345) <!-- soil-env-039 -->
+2387. **Phytostimulation** — Intermediate · Process · Minor · builds on: Phytoremediation (2345), Rhizosphere (970) <!-- soil-env-041 -->
+2388. **Phytovolatilization** — Intermediate · Process · Minor · builds on: Phytoremediation (2345) <!-- soil-env-042 -->
+2389. **Point source pollution** — Foundational · Concept · Minor · builds on: Soil contamination (2339) <!-- soil-env-204 -->
+2390. **Nutrient source apportionment** — Advanced · Method · Minor · builds on: Nutrient pollution (2341), Nonpoint source pollution (2340) <!-- soil-env-022 -->
+2391. **Nutrient trading** — Advanced · Practice · Minor · builds on: Nutrient pollution (2341) <!-- soil-env-021 -->
+2392. **Landfarming** — Intermediate · Method · Minor · builds on: Bioremediation (2344), Tillage (1916) <!-- soil-env-053 -->
+2393. **Radioactive contamination** — Intermediate · Concept · Major · builds on: Soil contamination (2339) <!-- soil-env-203 -->
+2394. **Permeable reactive barrier** — Advanced · Method · Minor · builds on: Soil remediation (2343), Sorption (681), Redox (725), Hydraulic conductivity (393) <!-- soil-env-202 -->
+2395. **Natural attenuation** — Intermediate · Process · Major · builds on: Bioremediation (2344) <!-- soil-env-026 -->
+2396. **Surfactant leaching** — Intermediate · Method · Minor · builds on: Soil remediation (2343) <!-- soil-env-056 -->
+2397. **Bioaugmentation** — Intermediate · Method · Minor · builds on: Bioremediation (2344) <!-- soil-env-032 -->
+2398. **Fungal biosorption of metals** — Intermediate · Process · Minor · builds on: Mycoremediation (2346), Heavy metals in soil (2342) <!-- soil-env-034 -->
+2399. **Fungal degradation of organic pollutants** — Advanced · Process · Minor · builds on: Mycoremediation (2346), White-rot fungi (1133), Lignin (1064) <!-- soil-env-035 -->
+2400. **Mycorrhizoremediation** — Intermediate · Method · Minor · builds on: Phytoremediation (2345), Mycorrhiza (971) <!-- soil-env-036 -->
+2401. **Ecotoxicology** — Intermediate · Concept · Major · builds on: Soil contamination (2339) <!-- soil-env-259 -->
+2402. **Arsenic contamination of groundwater** — Intermediate · Concept · Major · builds on: Groundwater pollution (2367), Redox potential (Eh) (737), Aquifer (486) <!-- soil-env-241 -->
+2403. **Dense non-aqueous phase liquid** — Intermediate · Material · Minor · builds on: Groundwater pollution (2367), Aquifer (486) <!-- soil-env-220 -->
+2404. **In situ chemical reduction** — Advanced · Method · Minor · builds on: Groundwater remediation (2383), Redox potential (Eh) (737), In situ chemical oxidation (730) <!-- soil-env-227 -->
+2405. **Hexavalent chromium** — Intermediate · Material · Minor · builds on: Oxidation state (733), Heavy metals in soil (2342) <!-- soil-env-255 -->
+2406. **Phytotoxicity** — Intermediate · Concept · Minor · builds on: Soil contamination (2339), Heavy metals in soil (2342) <!-- soil-env-222 -->
+2407. **DRASTIC aquifer vulnerability index** — Advanced · Method · Minor · builds on: GIS in environmental contamination (2369), Hydraulic conductivity (393), Vadose zone (494) <!-- soil-env-049 -->
+2408. **Contaminated land risk assessment** — Intermediate · Method · Major · builds on: Soil contamination (2339), Exposure pathways of soil contaminants (2351) <!-- soil-env-013 -->
+2409. **SVE off-gas treatment** — Advanced · Method · Minor · builds on: Soil vapor extraction (2357), Sorption (681) <!-- soil-env-046 -->
+2410. **Air sparging** — Intermediate · Method · Minor · builds on: Groundwater remediation (2383), Soil vapor extraction (2357) <!-- soil-env-240 -->
+2411. **Metallophyte** — Intermediate · Classification · Minor · builds on: Heavy metals in soil (2342) <!-- soil-env-052 -->
+2412. **Hyperaccumulator** — Intermediate · Concept · Major · builds on: Metallophyte (2411), Heavy metals in soil (2342), Phytoremediation (2345) <!-- soil-env-050 -->
+2413. **Phytomining** — Intermediate · Practice · Minor · builds on: Hyperaccumulator (2412), Phytoextraction (2368) <!-- soil-env-051 -->
+2414. **Pesticide degradation** — Advanced · Process · Major · builds on: Pesticide (2348), Biodegradation (2380) <!-- soil-env-238 -->
+2415. **In situ bioremediation** — Intermediate · Method · Major · builds on: Bioremediation (2344) <!-- soil-env-262 -->
+2416. **Entomoremediation** — Intermediate · Method · Minor · builds on: Bioremediation (2344), Termites (865) <!-- soil-env-253 -->
+2417. **Nanoremediation** — Advanced · Method · Minor · builds on: Soil remediation (2343), In situ chemical reduction (2404) <!-- soil-env-252 -->
+2418. **Pump and treat** — Intermediate · Method · Minor · builds on: Groundwater remediation (2383), Adsorption (682) <!-- soil-env-250 -->
+2419. **Solidification and stabilization** — Intermediate · Method · Minor · builds on: Soil remediation (2343), Soil contamination (2339) <!-- soil-env-251 -->
+2420. **Surfactant enhanced aquifer remediation** — Advanced · Method · Minor · builds on: Groundwater remediation (2383), Dense non-aqueous phase liquid (2403) <!-- soil-env-254 -->
+2421. **Aquifer vulnerability mapping** — Advanced · Method · Minor · builds on: Groundwater pollution (2367), Aquifer (486) <!-- soil-env-245 -->
+2422. **Geogenic groundwater contamination** — Intermediate · Concept · Minor · builds on: Groundwater pollution (2367), Weathering (27) <!-- soil-env-243 -->
+2423. **Pathogen removal below on-site sanitation** — Intermediate · Process · Minor · builds on: Groundwater pollution (2367), Vadose zone (494), Adsorption (682) <!-- soil-env-244 -->
+2424. **Acid mine drainage treatment** — Advanced · Method · Minor · builds on: Acid mine drainage (891), Liming (soil) (1473) <!-- soil-env-233 -->
+2425. **Yellow boy** — Intermediate · Material · Minor · builds on: Acid mine drainage (891), Iron oxides (660) <!-- soil-env-234 -->
+2426. **Thermal desorption** — Intermediate · Method · Minor · builds on: Soil remediation (2343), Desorption (689) <!-- soil-env-230 -->
+2427. **Light non-aqueous phase liquid** — Intermediate · Material · Minor · builds on: Groundwater pollution (2367), Water table (398), Dense non-aqueous phase liquid (2403) <!-- soil-env-221 -->
+2428. **Biosorption** — Intermediate · Process · Minor · builds on: Heavy metals in soil (2342), Adsorption (682), Bioremediation (2344) <!-- soil-env-219 -->
+2429. **Remediation of metal-contaminated soil** — Intermediate · Method · Minor · builds on: Soil remediation (2343), Heavy metals in soil (2342) <!-- soil-env-258 -->
+2430. **Pesticide leaching** — Intermediate · Process · Minor · builds on: Pesticide (2348), Leaching (agriculture) (1818), Groundwater pollution (2367) <!-- soil-env-236 -->
+2431. **Soil reclamation** — Intermediate · Practice · Major · builds on: Soil (1), Soil composition (6), Soil erosion (1630), Clay mineral (617) <!-- soil-found-082 -->
+2432. **Soil amendments in reclamation** — Intermediate · Practice · Major · builds on: Soil reclamation (2431) <!-- soil-env-314 -->
+2433. **Cadmium poisoning** — Intermediate · Concept · Minor · builds on: Heavy metals in soil (2342), Metal toxicity (2370) <!-- soil-env-256 -->
+2434. **Bioslurping** — Advanced · Method · Minor · builds on: Bioventing (2376), Light non-aqueous phase liquid (2427) <!-- soil-env-247 -->
+2435. **Dual-phase vacuum extraction** — Advanced · Method · Minor · builds on: Soil vapor extraction (2357), Groundwater remediation (2383) <!-- soil-env-248 -->
+2436. **Rhizofiltration** — Intermediate · Method · Minor · builds on: Phytoremediation (2345), Root (957) <!-- soil-env-043 -->
+2437. **Pneumatic fracturing** — Advanced · Method · Minor · builds on: Soil remediation (2343), Soil vapor extraction (2357) <!-- soil-env-223 -->
+2438. **Total petroleum hydrocarbon** — Intermediate · Concept · Minor · builds on: Soil contamination (2339) <!-- soil-env-224 -->
+2439. **Electrical resistance heating** — Advanced · Method · Minor · builds on: Soil remediation (2343), Soil vapor extraction (2357) <!-- soil-env-229 -->
+2440. **Microbial biodegradation** — Advanced · Process · Minor · builds on: Biodegradation (2380), Bioremediation (2344) <!-- soil-env-232 -->
+2441. **Ecotoxicity testing** — Advanced · Method · Minor · builds on: Ecotoxicology (2401), Earthworm (834) <!-- soil-env-260 -->
+2442. **Pesticide transformation products** — Advanced · Material · Minor · builds on: Pesticide degradation (2414), Pesticide (2348) <!-- soil-env-239 -->
+2443. **Hydrocarbon biodegradation in soil** — Intermediate · Process · Minor · builds on: Biodegradation (2380), Total petroleum hydrocarbon (2438), Polycyclic aromatic hydrocarbon (2347) <!-- soil-env-264 -->
+2444. **Raymond process** — Advanced · Method · Minor · builds on: In situ bioremediation (2415), Electron acceptor (732) <!-- soil-env-263 -->
+2445. **Organic and inorganic soil contaminants** — Foundational · Classification · Minor <!-- soil-env-315 -->
+2446. **Remediation strategy selection** — Intermediate · Concept · Minor <!-- soil-env-316 -->
+2447. **Soil vitrification** — Advanced · Process · Minor <!-- soil-env-318 -->
+2448. **Soil washing** — Intermediate · Process · Minor <!-- soil-env-317 -->
+2449. **Bioremediation of PCBs** — Advanced · Process · Minor · builds on: Bioremediation (2344), Persistent organic pollutant (2354) <!-- soil-env-228 -->
+2450. **Geochemical background** — Advanced · Concept · Minor · builds on: Soil contamination (2339), Weathering (27), Heavy metals in soil (2342) <!-- soil-env-268 -->
+2451. **Contaminants of emerging concern** — Intermediate · Material · Minor · builds on: Soil contamination (2339) <!-- soil-env-261 -->
+2452. **Bioremediation of radioactive waste** — Advanced · Process · Minor · builds on: Bioremediation (2344), Radioactive contamination (2393) <!-- soil-env-265 -->
+2453. **Bioreduction of radionuclides** — Advanced · Process · Minor · builds on: Bioremediation of radioactive waste (2452), Oxidation state (733), Redox potential (Eh) (737) <!-- soil-env-266 -->
+2454. **Phytoextraction of radionuclides** — Intermediate · Method · Minor · builds on: Phytoextraction (2368), Radioactive contamination (2393) <!-- soil-env-267 -->
+2455. **Sustainable remediation** — Intermediate · Practice · Minor · builds on: Soil remediation (2343), Environmental remediation (2359) <!-- soil-env-226 -->
+2456. **Vapor intrusion** — Intermediate · Process · Minor · builds on: Soil contamination (2339), Exposure pathways of soil contaminants (2351), Vadose zone (494), Groundwater pollution (2367) <!-- soil-env-225 -->
 
 ### Soils and human health
 
-2114. **Itai-itai disease** — Intermediate · Event · Major · builds on: Cadmium poisoning (2094), Heavy metals in soil (2005) <!-- soil-env-298 -->
-2115. **Coccidioidomycosis** — Intermediate · Concept · Major · builds on: Soil fungi (768) <!-- soil-env-293 -->
-2116. **Medical geology** — Intermediate · Concept · Landmark · builds on: Mineral (27), Plant micronutrients (1195), Heavy metals in soil (2005), Bioavailability (soil) (1276) <!-- soil-env-287 -->
-2117. **Iodine deficiency** — Intermediate · Concept · Major · builds on: Plant micronutrients (1195), Medical geology (2116) <!-- soil-env-295 -->
-2118. **Selenium deficiency** — Intermediate · Concept · Major · builds on: Plant micronutrients (1195), Medical geology (2116) <!-- soil-env-296 -->
-2119. **Melioidosis** — Intermediate · Concept · Major · builds on: Soil bacteria (766) <!-- soil-env-294 -->
-2120. **Geophagia** — Foundational · Practice · Major · builds on: Clay (49), Clay mineral (561) <!-- soil-env-288 -->
-2121. **Soil-transmitted helminthiasis** — Foundational · Concept · Major · builds on: Nematode (798) <!-- soil-env-292 -->
-2122. **Prion** — Intermediate · Concept · Minor · builds on: Clay mineral (561) <!-- soil-env-304 -->
-2123. **Keshan disease** — Intermediate · Concept · Minor · builds on: Selenium deficiency (2118) <!-- soil-env-297 -->
-2124. **One Health** — Foundational · Concept · Minor <!-- soil-env-303 -->
-2125. **Podoconiosis** — Intermediate · Concept · Major · builds on: Clay (49), Clay mineral (561), Kaolinite (569) <!-- soil-env-291 -->
-2126. **Chronic wasting disease** — Intermediate · Concept · Minor · builds on: Prion (2122) <!-- soil-env-305 -->
-2127. **Mycobacterium vaccae** — Intermediate · Concept · Minor · builds on: Soil bacteria (766), Soil actinomycetes (769) <!-- soil-env-302 -->
-2128. **Jinzū River soil restoration** — Intermediate · Practice · Minor · builds on: Itai-itai disease (2114), Soil remediation (2006), Heavy metals in soil (2005) <!-- soil-env-299 -->
-2129. **Avian geophagy** — Intermediate · Process · Minor · builds on: Geophagia (2120), Clay (49), Cation-exchange capacity (641) <!-- soil-env-289 -->
-2130. **Soil ingestion by livestock** — Intermediate · Process · Minor · builds on: Geophagia (2120) <!-- soil-env-290 -->
-2131. **Biofortification** — Intermediate · Practice · Minor · builds on: Plant micronutrients (1195), Iodine deficiency (2117) <!-- soil-env-300 -->
-2132. **Hygiene hypothesis** — Intermediate · Debate · Minor · builds on: Soil biology (750), Soil bacteria (766) <!-- soil-env-301 -->
+2457. **Geophagia** — Foundational · Practice · Major · builds on: Clay (46), Clay mineral (617) <!-- soil-env-288 -->
+2458. **Itai-itai disease** — Intermediate · Event · Major · builds on: Cadmium poisoning (2433), Heavy metals in soil (2342) <!-- soil-env-298 -->
+2459. **Coccidioidomycosis** — Intermediate · Concept · Major · builds on: Soil fungi (844) <!-- soil-env-293 -->
+2460. **Medical geology** — Intermediate · Concept · Landmark · builds on: Mineral (26), Plant micronutrients (1335), Heavy metals in soil (2342), Bioavailability (soil) (1424) <!-- soil-env-287 -->
+2461. **Iodine deficiency** — Intermediate · Concept · Major · builds on: Plant micronutrients (1335), Medical geology (2460) <!-- soil-env-295 -->
+2462. **Selenium deficiency** — Intermediate · Concept · Major · builds on: Plant micronutrients (1335), Medical geology (2460) <!-- soil-env-296 -->
+2463. **Prion** — Intermediate · Concept · Minor · builds on: Clay mineral (617) <!-- soil-env-304 -->
+2464. **Melioidosis** — Intermediate · Concept · Major · builds on: Soil bacteria (842) <!-- soil-env-294 -->
+2465. **Soil-transmitted helminthiasis** — Foundational · Concept · Major · builds on: Nematode (876) <!-- soil-env-292 -->
+2466. **Keshan disease** — Intermediate · Concept · Minor · builds on: Selenium deficiency (2462) <!-- soil-env-297 -->
+2467. **One Health** — Foundational · Concept · Minor <!-- soil-env-303 -->
+2468. **Podoconiosis** — Intermediate · Concept · Major · builds on: Clay (46), Clay mineral (617), Kaolinite (626) <!-- soil-env-291 -->
+2469. **Avian geophagy** — Intermediate · Process · Minor · builds on: Geophagia (2457), Clay (46), Cation-exchange capacity (705) <!-- soil-env-289 -->
+2470. **Soil ingestion by livestock** — Intermediate · Process · Minor · builds on: Geophagia (2457) <!-- soil-env-290 -->
+2471. **Chronic wasting disease** — Intermediate · Concept · Minor · builds on: Prion (2463) <!-- soil-env-305 -->
+2472. **Mycobacterium vaccae** — Intermediate · Concept · Minor · builds on: Soil bacteria (842), Soil actinomycetes (845) <!-- soil-env-302 -->
+2473. **Jinzū River soil restoration** — Intermediate · Practice · Minor · builds on: Itai-itai disease (2458), Soil remediation (2343), Heavy metals in soil (2342) <!-- soil-env-299 -->
+2474. **Biofortification** — Intermediate · Practice · Minor · builds on: Plant micronutrients (1335), Iodine deficiency (2461) <!-- soil-env-300 -->
+2475. **Hygiene hypothesis** — Intermediate · Debate · Minor · builds on: Soil biology (826), Soil bacteria (842) <!-- soil-env-301 -->
 
 ## History, people and frontiers
 
 
 ### Paleopedology and soil dating
 
-2133. **Geochronology** — Intermediate · Concept · Major · builds on: Rock (90), Sediment (1477), Paleosol (187) <!-- soil-hist-119 -->
-2134. **Radiocarbon dating** — Intermediate · Method · Major · builds on: Geochronology (2133), Organic matter (950), Soil organic matter (26) <!-- soil-hist-120 -->
-2135. **Luminescence dating** — Advanced · Method · Major · builds on: Geochronology (2133), Mineral (27) <!-- soil-hist-124 -->
-2136. **Palynology** — Intermediate · Method · Major · builds on: Sediment (1477), Sedimentary rock (91), Peat (1136) <!-- soil-hist-132 -->
-2137. **Cosmogenic nuclide** — Advanced · Concept · Major · builds on: Geochronology (2133), Rock (90) <!-- soil-hist-127 -->
-2138. **δ13C** — Advanced · Concept · Major · builds on: Paleosol (187) <!-- soil-hist-131 -->
-2139. **Optically stimulated luminescence** — Advanced · Method · Minor · builds on: Luminescence dating (2135), Sediment (1477) <!-- soil-hist-125 -->
-2140. **Tephrochronology** — Intermediate · Method · Minor · builds on: Geochronology (2133), Volcanic ash (123) <!-- soil-hist-135 -->
-2141. **Thermoluminescence dating** — Advanced · Method · Minor · builds on: Luminescence dating (2135), Sediment (1477) <!-- soil-hist-126 -->
-2142. **Radiocarbon calibration** — Advanced · Method · Minor · builds on: Radiocarbon dating (2134) <!-- soil-hist-121 -->
-2143. **Radiocarbon dating of soil and peat** — Advanced · Method · Minor · builds on: Radiocarbon dating (2134), Soil organic matter (26), Humus (952), Peat (1136) <!-- soil-hist-122 -->
-2144. **Surface exposure dating** — Advanced · Method · Minor · builds on: Cosmogenic nuclide (2137), Geochronology (2133), Rock (90) <!-- soil-hist-128 -->
-2145. **Beryllium-10 as a soil tracer** — Advanced · Method · Minor · builds on: Cosmogenic nuclide (2137), Soil formation (184), Soil erosion (1438), Soil pH (66) <!-- soil-hist-129 -->
-2146. **Bomb pulse** — Advanced · Concept · Minor · builds on: Radiocarbon dating (2134) <!-- soil-hist-123 -->
-2147. **Lead-210 dating** — Advanced · Method · Minor · builds on: Geochronology (2133), Sediment (1477), Soil erosion (1438) <!-- soil-hist-130 -->
-2148. **Rhizolith** — Intermediate · Material · Minor · builds on: Paleosol (187), Root (867), Rhizosphere (880) <!-- soil-hist-133 -->
-2149. **Silurian-Devonian Terrestrial Revolution** — Intermediate · Event · Minor · builds on: Soil (1), Weathering (28), Root (867), Soil fungi (768), Rhizosphere (880) <!-- soil-hist-134 -->
+2476. **Photosynthesis** — Foundational · Process · Landmark · builds on: Redox (725) <!-- soil-hist-147 -->
+2477. **Geochronology** — Intermediate · Concept · Major · builds on: Rock (87), Sediment (1669), Paleosol (185) <!-- soil-hist-119 -->
+2478. **Radiocarbon dating** — Intermediate · Method · Major · builds on: Geochronology (2477), Organic matter (1046), Soil organic matter (1045) <!-- soil-hist-120 -->
+2479. **Palynology** — Intermediate · Method · Major · builds on: Sediment (1669), Sedimentary rock (89), Peat (1275) <!-- soil-hist-132 -->
+2480. **Luminescence dating** — Advanced · Method · Major · builds on: Geochronology (2477), Mineral (26) <!-- soil-hist-124 -->
+2481. **Cosmogenic nuclide** — Advanced · Concept · Major · builds on: Geochronology (2477), Rock (87) <!-- soil-hist-127 -->
+2482. **Evolution of photosynthesis** — Intermediate · Event · Minor · builds on: Photosynthesis (2476), Redox (725) <!-- soil-hist-153 -->
+2483. **Factors limiting photosynthesis** — Intermediate · Concept · Minor · builds on: Photosynthesis (2476), Redox (725) <!-- soil-hist-152 -->
+2484. **Light-dependent reactions** — Intermediate · Process · Minor · builds on: Photosynthesis (2476), Redox (725) <!-- soil-hist-148 -->
+2485. **Calvin cycle** — Intermediate · Process · Minor · builds on: Light-dependent reactions (2484), Redox (725) <!-- soil-hist-149 -->
+2486. **Photorespiration** — Advanced · Process · Minor · builds on: Calvin cycle (2485), Redox (725) <!-- soil-hist-150 -->
+2487. **C4 and CAM photosynthesis** — Advanced · Process · Minor · builds on: Photorespiration (2486), Redox (725) <!-- soil-hist-151 -->
+2488. **δ13C** — Advanced · Concept · Major · builds on: Paleosol (185), Photosynthesis (2476) <!-- soil-hist-131 -->
+2489. **Optically stimulated luminescence** — Advanced · Method · Minor · builds on: Luminescence dating (2480), Sediment (1669) <!-- soil-hist-125 -->
+2490. **Tephrochronology** — Intermediate · Method · Minor · builds on: Geochronology (2477), Volcanic ash (121) <!-- soil-hist-135 -->
+2491. **Thermoluminescence dating** — Advanced · Method · Minor · builds on: Luminescence dating (2480), Sediment (1669) <!-- soil-hist-126 -->
+2492. **Radiocarbon calibration** — Advanced · Method · Minor · builds on: Radiocarbon dating (2478) <!-- soil-hist-121 -->
+2493. **Radiocarbon dating of soil and peat** — Advanced · Method · Minor · builds on: Radiocarbon dating (2478), Soil organic matter (1045), Humus (1048), Peat (1275) <!-- soil-hist-122 -->
+2494. **Surface exposure dating** — Advanced · Method · Minor · builds on: Cosmogenic nuclide (2481), Geochronology (2477), Rock (87) <!-- soil-hist-128 -->
+2495. **Beryllium-10 as a soil tracer** — Advanced · Method · Minor · builds on: Cosmogenic nuclide (2481), Soil formation (182), Soil erosion (1630), Soil pH (63) <!-- soil-hist-129 -->
+2496. **Bomb pulse** — Advanced · Concept · Minor · builds on: Radiocarbon dating (2478) <!-- soil-hist-123 -->
+2497. **Lead-210 dating** — Advanced · Method · Minor · builds on: Geochronology (2477), Sediment (1669), Soil erosion (1630) <!-- soil-hist-130 -->
+2498. **Rhizolith** — Intermediate · Material · Minor · builds on: Paleosol (185), Root (957), Rhizosphere (970) <!-- soil-hist-133 -->
+2499. **Marine isotope stages** — Intermediate · Classification · Minor · builds on: Core sample (82), Calcite (57) <!-- soil-hist-146 -->
+2500. **Clumped isotopes** — Advanced · Method · Minor <!-- soil-hist-145 -->
+2501. **Silurian-Devonian Terrestrial Revolution** — Intermediate · Event · Minor · builds on: Soil (1), Weathering (27), Root (957), Soil fungi (844), Rhizosphere (970) <!-- soil-hist-134 -->
 
 ### Forensic and archaeological soil science
 
-2150. **Taphonomy** — Intermediate · Concept · Minor · builds on: Decomposition (951) <!-- soil-hist-088 -->
-2151. **Geoarchaeology** — Intermediate · Concept · Major · builds on: Pedology (4), Geomorphology (1578), Sediment (1477), Soil (1) <!-- soil-hist-092 -->
-2152. **Environmental DNA** — Intermediate · Method · Minor · builds on: Soil microbiology (751), Metagenomics (833) <!-- soil-hist-090 -->
-2153. **Soil mark** — Foundational · Concept · Minor · builds on: Soil color (69) <!-- soil-hist-098 -->
-2154. **Midden** — Foundational · Material · Minor · builds on: Organic matter (950), Soil pH (66) <!-- soil-hist-102 -->
-2155. **Law of superposition** — Foundational · Concept · Minor · builds on: Sedimentary rock (91) <!-- soil-hist-096 -->
-2156. **Stratigraphy (archaeology)** — Intermediate · Concept · Major · builds on: Law of superposition (2155), Soil horizon (67) <!-- soil-hist-095 -->
-2157. **Forensic geology** — Intermediate · Method · Major · builds on: Soil (1) <!-- soil-hist-084 -->
-2158. **Forensic soil comparison** — Intermediate · Method · Major · builds on: Forensic geology (2157), Soil color (69), Particle-size distribution (252) <!-- soil-hist-085 -->
-2159. **Celtic field** — Foundational · Practice · Minor · builds on: Plough (1696), Lynchet (1750) <!-- soil-hist-099 -->
-2160. **Ridge and furrow** — Foundational · Practice · Minor · builds on: Plough (1696) <!-- soil-hist-100 -->
-2161. **Forensic palynology** — Intermediate · Method · Minor · builds on: Palynology (2136), Forensic geology (2157) <!-- soil-hist-086 -->
-2162. **Forensic archaeology** — Intermediate · Method · Minor · builds on: Forensic geology (2157), Stratigraphy (archaeology) (2156) <!-- soil-hist-087 -->
-2163. **Geotaphonomy** — Intermediate · Concept · Minor · builds on: Taphonomy (2150), Decomposition (951), Soil pH (66) <!-- soil-hist-089 -->
-2164. **Magnetic susceptibility analysis** — Advanced · Method · Minor · builds on: Iron oxides (597), Soil formation (184) <!-- soil-hist-093 -->
-2165. **Geophysical survey (archaeology)** — Intermediate · Method · Major · builds on: Ground-penetrating radar (1809), Electrical resistivity tomography (1810), Magnetic susceptibility analysis (2164), Soil resistivity (289) <!-- soil-hist-091 -->
-2166. **Soil phosphate survey** — Advanced · Method · Minor · builds on: Phosphorus cycle (1248), Geoarchaeology (2151) <!-- soil-hist-094 -->
-2167. **Cropmark** — Intermediate · Concept · Minor · builds on: Soil mark (2153) <!-- soil-hist-097 -->
-2168. **Raised field** — Foundational · Practice · Minor · builds on: Drainage (372) <!-- soil-hist-101 -->
+2502. **Taphonomy** — Intermediate · Concept · Minor · builds on: Decomposition (1047) <!-- soil-hist-088 -->
+2503. **Geoarchaeology** — Intermediate · Concept · Major · builds on: Pedology (4), Geomorphology (1773), Sediment (1669), Soil (1) <!-- soil-hist-092 -->
+2504. **Environmental DNA** — Intermediate · Method · Minor · builds on: Soil microbiology (827), Metagenomics (912) <!-- soil-hist-090 -->
+2505. **Soil mark** — Foundational · Concept · Minor · builds on: Soil color (66) <!-- soil-hist-098 -->
+2506. **Midden** — Foundational · Material · Minor · builds on: Organic matter (1046), Soil pH (63) <!-- soil-hist-102 -->
+2507. **Law of superposition** — Foundational · Concept · Minor · builds on: Sedimentary rock (89) <!-- soil-hist-096 -->
+2508. **Stratigraphy (archaeology)** — Intermediate · Concept · Major · builds on: Law of superposition (2507), Soil horizon (64) <!-- soil-hist-095 -->
+2509. **Forensic geology** — Intermediate · Method · Major · builds on: Soil (1) <!-- soil-hist-084 -->
+2510. **Forensic soil comparison** — Intermediate · Method · Major · builds on: Forensic geology (2509), Soil color (66), Particle-size distribution (263) <!-- soil-hist-085 -->
+2511. **Celtic field** — Foundational · Practice · Minor · builds on: Plough (1917), Lynchet (1974) <!-- soil-hist-099 -->
+2512. **Ridge and furrow** — Foundational · Practice · Minor · builds on: Plough (1917) <!-- soil-hist-100 -->
+2513. **Forensic palynology** — Intermediate · Method · Minor · builds on: Palynology (2479), Forensic geology (2509) <!-- soil-hist-086 -->
+2514. **Forensic archaeology** — Intermediate · Method · Minor · builds on: Forensic geology (2509), Stratigraphy (archaeology) (2508) <!-- soil-hist-087 -->
+2515. **Geotaphonomy** — Intermediate · Concept · Minor · builds on: Taphonomy (2502), Decomposition (1047), Soil pH (63) <!-- soil-hist-089 -->
+2516. **Magnetic susceptibility analysis** — Advanced · Method · Minor · builds on: Iron oxides (660), Soil formation (182) <!-- soil-hist-093 -->
+2517. **Geophysical survey (archaeology)** — Intermediate · Method · Major · builds on: Ground-penetrating radar (2065), Electrical resistivity tomography (2068), Magnetic susceptibility analysis (2516), Soil resistivity (298) <!-- soil-hist-091 -->
+2518. **Soil phosphate survey** — Advanced · Method · Minor · builds on: Phosphorus cycle (1396), Geoarchaeology (2503) <!-- soil-hist-094 -->
+2519. **Cropmark** — Intermediate · Concept · Minor · builds on: Soil mark (2505) <!-- soil-hist-097 -->
+2520. **Raised field** — Foundational · Practice · Minor · builds on: Drainage (392) <!-- soil-hist-101 -->
 
 ### History of soil science
 
-2169. **World Congress of Soil Science** — Foundational · Event · Minor · builds on: Soil science (2) <!-- soil-hist-040 -->
-2170. **The Formation of Vegetable Mould Through the Action of Worms** — Foundational · Event · Major · builds on: Earthworm (758), Bioturbation (773), Worm cast (805) <!-- soil-hist-035 -->
-2171. **History of soil science** — Foundational · Event · Landmark · builds on: Soil science (2), Soil (1), Pedology (4) <!-- soil-hist-027 -->
-2172. **World Soil Museum** — Foundational · Person/Institution · Minor · builds on: Soil profile (150), Soil classification (1019), Soil horizon (67) <!-- soil-hist-041 -->
-2173. **International Year of Soils** — Foundational · Event · Minor · builds on: Soil (1) <!-- soil-hist-038 -->
-2174. **Agricultural chemistry** — Foundational · Concept · Minor · builds on: Soil chemistry (560), Soil fertility (1182) <!-- soil-hist-077 -->
-2175. **Australian Society of Soil Science Incorporated** — Foundational · Person/Institution · Minor · builds on: Soil science (2) <!-- soil-hist-043 -->
-2176. **Soil and Water Conservation Society** — Foundational · Person/Institution · Minor · builds on: Soil conservation (1737) <!-- soil-hist-044 -->
-2177. **Development of Soil Taxonomy** — Intermediate · Event · Major · builds on: Soil classification (1019), 1938 USDA soil taxonomy (1029), USDA soil taxonomy (1022) <!-- soil-hist-031 -->
-2178. **Russian school of soil science** — Intermediate · Event · Major · builds on: Soil as a natural body (9), Soil-forming factors (186), Pedology (4) <!-- soil-hist-028 -->
-2179. **Marbut's soil profile concept** — Intermediate · Event · Major · builds on: Russian school of soil science (2178), Soil profile (150), Soil horizon (67) <!-- soil-hist-029 -->
-2180. **Park Grass Experiment** — Foundational · Event · Minor · builds on: Fertilizer (1303), Manure (1348), Crop yield (1646) <!-- soil-hist-046 -->
-2181. **German Soil Science Society** — Foundational · Person/Institution · Minor · builds on: Soil science (2) <!-- soil-hist-045 -->
-2182. **World Soil Day** — Foundational · Event · Minor · builds on: Soil (1) <!-- soil-hist-039 -->
-2183. **V.V. Dokuchaev Central Museum of Soil** — Foundational · Person/Institution · Minor · builds on: Soil science (2), Russian school of soil science (2178) <!-- soil-hist-042 -->
-2184. **Burial of objects by earthworms** — Foundational · Process · Minor · builds on: Earthworm (758), Worm cast (805), Bioturbation (773) <!-- soil-hist-037 -->
-2185. **On the Formation of Mould** — Foundational · Event · Minor · builds on: Earthworm (758) <!-- soil-hist-036 -->
-2186. **Long-term agricultural experiments** — Intermediate · Method · Major · builds on: Soil fertility (1182), Fertilizer (1303), Sustainable agriculture (1641) <!-- soil-hist-114 -->
-2187. **History of bioturbation research** — Intermediate · Event · Minor · builds on: Bioturbation (773), Bioturbation in soils (777), Earthworm (758), The Formation of Vegetable Mould Through the Action of Worms (2170) <!-- soil-hist-033 -->
-2188. **Modern study of soil formation** — Intermediate · Event · Minor · builds on: Soil formation (184), Soil-forming factors (186), Jenny's state equation (193) <!-- soil-hist-030 -->
-2189. **Rethinking soil organic matter** — Advanced · Event · Minor · builds on: Soil organic matter (26), Humification (956), Soil continuum model (997), Humification debate (637) <!-- soil-hist-034 -->
-2190. **Soil surveys for nonfarm uses** — Intermediate · Event · Minor · builds on: Soil survey (1768), Soil survey interpretation (1775) <!-- soil-hist-032 -->
-2191. **Broadbalk experiment** — Foundational · Event · Minor · builds on: Fertilizer (1303) <!-- soil-hist-115 -->
-2192. **Humus theory** — Intermediate · Concept · Minor · builds on: Humus (952), Plant nutrition (1183) <!-- soil-hist-118 -->
-2193. **Soil Map of the World** — Intermediate · Event · Minor · builds on: Soil classification (1019) <!-- soil-hist-117 -->
-2194. **Virgin Lands campaign** — Intermediate · Event · Minor · builds on: Soil erosion (1438), Wind erosion (1441) <!-- soil-hist-116 -->
+2521. **World Congress of Soil Science** — Foundational · Event · Minor · builds on: Soil science (2) <!-- soil-hist-040 -->
+2522. **The Formation of Vegetable Mould Through the Action of Worms** — Foundational · Event · Major · builds on: Earthworm (834), Bioturbation (849), Worm cast (883) <!-- soil-hist-035 -->
+2523. **History of soil science** — Foundational · Event · Landmark · builds on: Soil science (2), Soil (1), Pedology (4) <!-- soil-hist-027 -->
+2524. **World Soil Museum** — Foundational · Person/Institution · Minor · builds on: Soil profile (148), Soil classification (1155), Soil horizon (64) <!-- soil-hist-041 -->
+2525. **International Year of Soils** — Foundational · Event · Minor · builds on: Soil (1) <!-- soil-hist-038 -->
+2526. **Agricultural chemistry** — Foundational · Concept · Minor · builds on: Soil chemistry (616), Soil fertility (1322) <!-- soil-hist-077 -->
+2527. **Australian Society of Soil Science Incorporated** — Foundational · Person/Institution · Minor · builds on: Soil science (2) <!-- soil-hist-043 -->
+2528. **Soil and Water Conservation Society** — Foundational · Person/Institution · Minor · builds on: Soil conservation (1961) <!-- soil-hist-044 -->
+2529. **Development of Soil Taxonomy** — Intermediate · Event · Major · builds on: Soil classification (1155), 1938 USDA soil taxonomy (1165), USDA soil taxonomy (1158) <!-- soil-hist-031 -->
+2530. **Russian school of soil science** — Intermediate · Event · Major · builds on: Soil as a natural body (8), Soil-forming factors (184), Pedology (4) <!-- soil-hist-028 -->
+2531. **Marbut's soil profile concept** — Intermediate · Event · Major · builds on: Russian school of soil science (2530), Soil profile (148), Soil horizon (64) <!-- soil-hist-029 -->
+2532. **Park Grass Experiment** — Foundational · Event · Minor · builds on: Fertilizer (1460), Manure (1505), Crop yield (1842) <!-- soil-hist-046 -->
+2533. **German Soil Science Society** — Foundational · Person/Institution · Minor · builds on: Soil science (2) <!-- soil-hist-045 -->
+2534. **Burial of objects by earthworms** — Foundational · Process · Minor · builds on: Earthworm (834), Worm cast (883), Bioturbation (849) <!-- soil-hist-037 -->
+2535. **On the Formation of Mould** — Foundational · Event · Minor · builds on: Earthworm (834) <!-- soil-hist-036 -->
+2536. **World Soil Day** — Foundational · Event · Minor · builds on: Soil (1) <!-- soil-hist-039 -->
+2537. **V.V. Dokuchaev Central Museum of Soil** — Foundational · Person/Institution · Minor · builds on: Soil science (2), Russian school of soil science (2530) <!-- soil-hist-042 -->
+2538. **OPAL Soil Centre** — Foundational · Person/Institution · Minor <!-- soil-hist-144 -->
+2539. **Central Soil Salinity Research Institute** — Foundational · Person/Institution · Minor <!-- soil-hist-143 -->
+2540. **Indian Institute of Soil Science** — Foundational · Person/Institution · Minor · builds on: Soil science (2) <!-- soil-hist-142 -->
+2541. **Long-term agricultural experiments** — Intermediate · Method · Major · builds on: Soil fertility (1322), Fertilizer (1460), Sustainable agriculture (1837) <!-- soil-hist-114 -->
+2542. **History of bioturbation research** — Intermediate · Event · Minor · builds on: Bioturbation (849), Bioturbation in soils (854), Earthworm (834), The Formation of Vegetable Mould Through the Action of Worms (2522) <!-- soil-hist-033 -->
+2543. **Modern study of soil formation** — Intermediate · Event · Minor · builds on: Soil formation (182), Soil-forming factors (184), Jenny's state equation (191) <!-- soil-hist-030 -->
+2544. **Soil surveys for nonfarm uses** — Intermediate · Event · Minor · builds on: Soil survey (2006), Soil survey interpretation (2014) <!-- soil-hist-032 -->
+2545. **Broadbalk experiment** — Foundational · Event · Minor · builds on: Fertilizer (1460) <!-- soil-hist-115 -->
+2546. **Humus theory** — Intermediate · Concept · Minor · builds on: Humus (1048), Plant nutrition (1323) <!-- soil-hist-118 -->
+2547. **Soil Map of the World** — Intermediate · Event · Minor · builds on: Soil classification (1155) <!-- soil-hist-117 -->
+2548. **Virgin Lands campaign** — Intermediate · Event · Minor · builds on: Soil erosion (1630), Wind erosion (1633) <!-- soil-hist-116 -->
 
 ### Founders and pioneers
 
-2195. **Vasily Dokuchaev** — Foundational · Person/Institution · Landmark · builds on: Soil science (2), Pedology (4) <!-- soil-hist-001 -->
-2196. **Justus von Liebig** — Foundational · Person/Institution · Major · builds on: Plant nutrition (1183), Nutrient (1181) <!-- soil-hist-004 -->
-2197. **Hans Jenny (pedologist)** — Intermediate · Person/Institution · Major · builds on: Soil formation (184), Soil-forming factors (186), Jenny's state equation (193) <!-- soil-hist-010 -->
-2198. **Sergei Winogradsky** — Intermediate · Person/Institution · Major · builds on: Soil microbiology (751), Biogeochemical cycle (1245), Nitrification (1254), Lithotroph (779), Nitrogen cycle (1246) <!-- soil-hist-013 -->
-2199. **Martinus Beijerinck** — Intermediate · Person/Institution · Major · builds on: Soil microbiology (751), Nitrogen fixation (1247) <!-- soil-hist-016 -->
-2200. **Friedrich Albert Fallou** — Foundational · Person/Institution · Major · builds on: Soil science (2), Pedology (4) <!-- soil-hist-003 -->
-2201. **Konstantin Glinka** — Intermediate · Person/Institution · Major · builds on: Vasily Dokuchaev (2195), Russian school of soil science (2178) <!-- soil-hist-008 -->
-2202. **Eugene W. Hilgard** — Foundational · Person/Institution · Major · builds on: Pedology (4), Soil formation (184) <!-- soil-hist-007 -->
-2203. **Curtis F. Marbut** — Intermediate · Person/Institution · Major · builds on: Soil survey (1768), Soil classification (1019) <!-- soil-hist-009 -->
-2204. **Lorenzo A. Richards** — Intermediate · Person/Institution · Major · builds on: Soil physics (299), Soil water retention (376), Water potential (374), Richards equation (487) <!-- soil-hist-023 -->
-2205. **Mineral theory of plant nutrition** — Intermediate · Concept · Major · builds on: Justus von Liebig (2196), Plant nutrition (1183), Essential plant nutrients (1185), Mineral (27), Nutrient (1181) <!-- soil-hist-005 -->
-2206. **John Bennet Lawes** — Foundational · Person/Institution · Major · builds on: Fertilizer (1303), Superphosphate (1408) <!-- soil-hist-074 -->
-2207. **Guy D. Smith** — Intermediate · Person/Institution · Major · builds on: Soil classification (1019), USDA soil taxonomy (1022) <!-- soil-hist-024 -->
-2208. **Rattan Lal** — Intermediate · Person/Institution · Major · builds on: Soil carbon (1826), Soil management (1740), Effects of climate change on agriculture (1831), Soil organic matter (26) <!-- soil-hist-026 -->
-2209. **Hugh Hammond Bennett** — Foundational · Person/Institution · Major · builds on: Soil erosion (1438), Soil conservation (1737) <!-- soil-hist-019 -->
-2210. **Franklin Hiram King** — Intermediate · Person/Institution · Minor · builds on: Soil physics (299) <!-- soil-hist-020 -->
-2211. **Edmund Ruffin** — Intermediate · Person/Institution · Major · builds on: Marl (1328), Liming (soil) (1316), Soil pH (66), Crop rotation (1621) <!-- soil-hist-106 -->
-2212. **Jean-Baptiste Boussingault** — Foundational · Person/Institution · Major · builds on: Plant nutrition (1183), Agricultural chemistry (2174) <!-- soil-hist-073 -->
-2213. **Edgar Buckingham** — Advanced · Person/Institution · Major · builds on: Soil physics (299), Water potential (374), Hydraulic conductivity (373), Soil gas (506), Darcy's law (375) <!-- soil-hist-105 -->
-2214. **Liebig's nitrogen debate** — Intermediate · Debate · Minor · builds on: Mineral theory of plant nutrition (2205), Nitrogen fixation (1247), Nitrogen fertilizers (1312), Nitrogen as a plant nutrient (1202) <!-- soil-hist-006 -->
-2215. **Selman Waksman** — Intermediate · Person/Institution · Minor · builds on: Soil microbiology (751), Soil actinomycetes (769), Decomposition (951) <!-- soil-hist-018 -->
-2216. **Carl Sprengel** — Foundational · Person/Institution · Major · builds on: Liebig's law of the minimum (1192), Plant nutrition (1183), Agricultural chemistry (2174) <!-- soil-hist-072 -->
-2217. **Joseph Henry Gilbert** — Intermediate · Person/Institution · Major · builds on: John Bennet Lawes (2206), Justus von Liebig (2196), Nitrogen cycle (1246) <!-- soil-hist-108 -->
-2218. **Konstantin Gedroits** — Advanced · Person/Institution · Major · builds on: Soil colloids (576), Cation exchange (640), Soil chemistry (560) <!-- soil-hist-109 -->
-2219. **Peter Erasmus Müller (forester)** — Intermediate · Person/Institution · Minor · builds on: Humus form (963), Mull humus (973), Mor humus (975), Forest soils (17), Humus (952) <!-- soil-hist-012 -->
-2220. **Discovery of chemosynthesis** — Intermediate · Event · Minor · builds on: Sergei Winogradsky (2198), Chemolithotrophy (781), Lithotroph (779) <!-- soil-hist-014 -->
-2221. **Charles Darwin** — Foundational · Person/Institution · Minor · builds on: Earthworm (758) <!-- soil-hist-104 -->
-2222. **Albert Bernhard Frank** — Intermediate · Person/Institution · Minor · builds on: Mycorrhiza (881) <!-- soil-hist-076 -->
-2223. **Albert Atterberg** — Intermediate · Person/Institution · Minor · builds on: Atterberg limits (262), Soil texture (50), Clay (49) <!-- soil-hist-011 -->
-2224. **Nicolas-Théodore de Saussure** — Intermediate · Person/Institution · Major · builds on: Plant nutrition (1183) <!-- soil-hist-110 -->
-2225. **Albrecht Thaer** — Intermediate · Person/Institution · Major · builds on: Humus (952), Plant nutrition (1183) <!-- soil-hist-103 -->
-2226. **Lorenz Hiltner** — Intermediate · Person/Institution · Minor · builds on: Rhizosphere (880), Soil microbiology (751), Rhizobia (892) <!-- soil-hist-075 -->
-2227. **Francis D. Hole** — Intermediate · Person/Institution · Minor · builds on: Pedology (4), Soil survey (1768) <!-- soil-hist-107 -->
-2228. **Cyril G. Hopkins** — Intermediate · Person/Institution · Minor · builds on: Soil science (2), Soil fertility (1182) <!-- soil-hist-022 -->
-2229. **Roy W. Simonson** — Intermediate · Person/Institution · Minor · builds on: Soil survey (1768), Pedology (4), Soil classification (1019) <!-- soil-hist-025 -->
-2230. **Thomas Lyttleton Lyon** — Intermediate · Person/Institution · Minor · builds on: Nitrogen cycle (1246), Soil science (2) <!-- soil-hist-111 -->
-2231. **Enrichment culture** — Intermediate · Method · Minor · builds on: Soil microbiology (751) <!-- soil-hist-017 -->
-2232. **Farmers of Forty Centuries** — Foundational · Event · Minor · builds on: Franklin Hiram King (2210), Soil fertility (1182) <!-- soil-hist-021 -->
-2233. **Milton Whitney** — Intermediate · Person/Institution · Minor · builds on: Soil survey (1768) <!-- soil-hist-112 -->
-2234. **Nikolai Sibirtsev** — Intermediate · Person/Institution · Minor · builds on: Vasily Dokuchaev (2195), Pedology (4) <!-- soil-hist-113 -->
-2235. **Russian Chernozem** — Intermediate · Event · Minor · builds on: Chernozem (1104), Vasily Dokuchaev (2195) <!-- soil-hist-002 -->
-2236. **Winogradsky column** — Intermediate · Method · Minor · builds on: Sergei Winogradsky (2198), Soil microbiology (751), Redox gradient (671), Discovery of chemosynthesis (2220) <!-- soil-hist-015 -->
+2549. **Vasily Dokuchaev** — Foundational · Person/Institution · Landmark · builds on: Soil science (2), Pedology (4) <!-- soil-hist-001 -->
+2550. **Justus von Liebig** — Foundational · Person/Institution · Major · builds on: Plant nutrition (1323), Nutrient (1321) <!-- soil-hist-004 -->
+2551. **Hans Jenny (pedologist)** — Intermediate · Person/Institution · Major · builds on: Soil formation (182), Soil-forming factors (184), Jenny's state equation (191) <!-- soil-hist-010 -->
+2552. **Sergei Winogradsky** — Intermediate · Person/Institution · Major · builds on: Soil microbiology (827), Biogeochemical cycle (1393), Nitrification (1402), Lithotroph (856), Nitrogen cycle (1394) <!-- soil-hist-013 -->
+2553. **Martinus Beijerinck** — Intermediate · Person/Institution · Major · builds on: Soil microbiology (827), Nitrogen fixation (1395) <!-- soil-hist-016 -->
+2554. **Friedrich Albert Fallou** — Foundational · Person/Institution · Major · builds on: Soil science (2), Pedology (4) <!-- soil-hist-003 -->
+2555. **Konstantin Glinka** — Intermediate · Person/Institution · Major · builds on: Vasily Dokuchaev (2549), Russian school of soil science (2530) <!-- soil-hist-008 -->
+2556. **Eugene W. Hilgard** — Foundational · Person/Institution · Major · builds on: Pedology (4), Soil formation (182) <!-- soil-hist-007 -->
+2557. **Curtis F. Marbut** — Intermediate · Person/Institution · Major · builds on: Soil survey (2006), Soil classification (1155) <!-- soil-hist-009 -->
+2558. **Lorenzo A. Richards** — Intermediate · Person/Institution · Major · builds on: Soil physics (308), Soil water retention (396), Water potential (394), Richards equation (497) <!-- soil-hist-023 -->
+2559. **Mineral theory of plant nutrition** — Intermediate · Concept · Major · builds on: Justus von Liebig (2550), Plant nutrition (1323), Essential plant nutrients (1325), Mineral (26), Nutrient (1321) <!-- soil-hist-005 -->
+2560. **John Bennet Lawes** — Foundational · Person/Institution · Major · builds on: Fertilizer (1460), Superphosphate (1601) <!-- soil-hist-074 -->
+2561. **Guy D. Smith** — Intermediate · Person/Institution · Major · builds on: Soil classification (1155), USDA soil taxonomy (1158) <!-- soil-hist-024 -->
+2562. **Rattan Lal** — Intermediate · Person/Institution · Major · builds on: Soil carbon (2103), Soil management (1964), Effects of climate change on agriculture (2108), Soil organic matter (1045) <!-- soil-hist-026 -->
+2563. **Hugh Hammond Bennett** — Foundational · Person/Institution · Major · builds on: Soil erosion (1630), Soil conservation (1961) <!-- soil-hist-019 -->
+2564. **Franklin Hiram King** — Intermediate · Person/Institution · Minor · builds on: Soil physics (308) <!-- soil-hist-020 -->
+2565. **Jean-Baptiste Boussingault** — Foundational · Person/Institution · Major · builds on: Plant nutrition (1323), Agricultural chemistry (2526) <!-- soil-hist-073 -->
+2566. **Edmund Ruffin** — Intermediate · Person/Institution · Major · builds on: Marl (1485), Liming (soil) (1473), Soil pH (63), Crop rotation (1817) <!-- soil-hist-106 -->
+2567. **Edgar Buckingham** — Advanced · Person/Institution · Major · builds on: Soil physics (308), Water potential (394), Hydraulic conductivity (393), Soil gas (541), Darcy's law (395) <!-- soil-hist-105 -->
+2568. **Liebig's nitrogen debate** — Intermediate · Debate · Minor · builds on: Mineral theory of plant nutrition (2559), Nitrogen fixation (1395), Nitrogen fertilizers (1469), Nitrogen as a plant nutrient (1339) <!-- soil-hist-006 -->
+2569. **Selman Waksman** — Intermediate · Person/Institution · Minor · builds on: Soil microbiology (827), Soil actinomycetes (845), Decomposition (1047) <!-- soil-hist-018 -->
+2570. **Carl Sprengel** — Foundational · Person/Institution · Major · builds on: Liebig's law of the minimum (1332), Plant nutrition (1323), Agricultural chemistry (2526) <!-- soil-hist-072 -->
+2571. **Joseph Henry Gilbert** — Intermediate · Person/Institution · Major · builds on: John Bennet Lawes (2560), Justus von Liebig (2550), Nitrogen cycle (1394) <!-- soil-hist-108 -->
+2572. **Discovery of chemosynthesis** — Intermediate · Event · Minor · builds on: Sergei Winogradsky (2552), Chemolithotrophy (858), Lithotroph (856) <!-- soil-hist-014 -->
+2573. **Konstantin Gedroits** — Advanced · Person/Institution · Major · builds on: Soil colloids (632), Cation exchange (704), Soil chemistry (616) <!-- soil-hist-109 -->
+2574. **Peter Erasmus Müller (forester)** — Intermediate · Person/Institution · Minor · builds on: Humus form (1061), Mull humus (1070), Mor humus (1071), Forest soils (16), Humus (1048) <!-- soil-hist-012 -->
+2575. **Charles Darwin** — Foundational · Person/Institution · Minor · builds on: Earthworm (834) <!-- soil-hist-104 -->
+2576. **Nicolas-Théodore de Saussure** — Intermediate · Person/Institution · Major · builds on: Plant nutrition (1323) <!-- soil-hist-110 -->
+2577. **Heath** — Intermediate · Concept · Minor <!-- soil-hist-141 -->
+2578. **Albert Bernhard Frank** — Intermediate · Person/Institution · Minor · builds on: Mycorrhiza (971) <!-- soil-hist-076 -->
+2579. **Albert Atterberg** — Intermediate · Person/Institution · Minor · builds on: Atterberg limits (280), Soil texture (47), Clay (46) <!-- soil-hist-011 -->
+2580. **Albrecht Thaer** — Intermediate · Person/Institution · Major · builds on: Humus (1048), Plant nutrition (1323) <!-- soil-hist-103 -->
+2581. **Lorenz Hiltner** — Intermediate · Person/Institution · Minor · builds on: Rhizosphere (970), Soil microbiology (827), Rhizobia (982) <!-- soil-hist-075 -->
+2582. **Francis D. Hole** — Intermediate · Person/Institution · Minor · builds on: Pedology (4), Soil survey (2006) <!-- soil-hist-107 -->
+2583. **Cyril G. Hopkins** — Intermediate · Person/Institution · Minor · builds on: Soil science (2), Soil fertility (1322) <!-- soil-hist-022 -->
+2584. **Roy W. Simonson** — Intermediate · Person/Institution · Minor · builds on: Soil survey (2006), Pedology (4), Soil classification (1155) <!-- soil-hist-025 -->
+2585. **Thomas Lyttleton Lyon** — Intermediate · Person/Institution · Minor · builds on: Nitrogen cycle (1394), Soil science (2) <!-- soil-hist-111 -->
+2586. **Enrichment culture** — Intermediate · Method · Minor · builds on: Soil microbiology (827) <!-- soil-hist-017 -->
+2587. **Farmers of Forty Centuries** — Foundational · Event · Minor · builds on: Franklin Hiram King (2564), Soil fertility (1322) <!-- soil-hist-021 -->
+2588. **Milton Whitney** — Intermediate · Person/Institution · Minor · builds on: Soil survey (2006) <!-- soil-hist-112 -->
+2589. **Nikolai Sibirtsev** — Intermediate · Person/Institution · Minor · builds on: Vasily Dokuchaev (2549), Pedology (4) <!-- soil-hist-113 -->
+2590. **Russian Chernozem** — Intermediate · Event · Minor · builds on: Chernozem (1243), Vasily Dokuchaev (2549) <!-- soil-hist-002 -->
 
 ### Societies, institutes and journals
 
-2237. **Soil Science Society of America** — Foundational · Person/Institution · Major · builds on: Soil science (2) <!-- soil-hist-048 -->
-2238. **Natural Resources Conservation Service** — Foundational · Person/Institution · Major · builds on: Soil conservation (1737), Hugh Hammond Bennett (2209), Soil survey (1768) <!-- soil-hist-050 -->
-2239. **Rothamsted Research** — Foundational · Person/Institution · Major <!-- soil-hist-053 -->
-2240. **National Cooperative Soil Survey** — Intermediate · Person/Institution · Major · builds on: Soil survey (1768), Soil classification (1019) <!-- soil-hist-051 -->
-2241. **International Union of Soil Sciences** — Foundational · Person/Institution · Major · builds on: Soil science (2) <!-- soil-hist-047 -->
-2242. **International Soil Reference and Information Centre** — Foundational · Person/Institution · Minor · builds on: Soil science (2), Soil information system (1789) <!-- soil-hist-049 -->
-2243. **Pochvovedenie** — Intermediate · Person/Institution · Minor · builds on: Soil science (2) <!-- soil-found-104 -->
-2244. **Soil Science Society of Poland** — Intermediate · Person/Institution · Minor · builds on: Soil science (2), Polish Soil Classification (1047) <!-- soil-hist-057 -->
-2245. **Early United States soil survey** — Intermediate · Event · Minor · builds on: Soil survey (1768), National Cooperative Soil Survey (2240), Curtis F. Marbut (2203), Soil map (1769) <!-- soil-hist-052 -->
-2246. **International Humic Substances Society** — Intermediate · Person/Institution · Minor · builds on: Humic substance (616), Organic matter (950) <!-- soil-hist-055 -->
-2247. **Soil Science Society of America Journal** — Intermediate · Person/Institution · Minor · builds on: Soil Science Society of America (2237) <!-- soil-hist-078 -->
-2248. **Journal of Soil and Water Conservation** — Intermediate · Person/Institution · Minor · builds on: Soil science (2), Soil conservation (1737) <!-- soil-found-113 -->
-2249. **International Committee on Anthropogenic Soils** — Intermediate · Person/Institution · Minor · builds on: Soil classification (1019), Anthrosol (1107), USDA soil taxonomy (1022) <!-- soil-hist-056 -->
-2250. **European Soil Bureau Network** — Intermediate · Person/Institution · Minor · builds on: European Soil Database (1777), Soil information system (1789) <!-- soil-hist-054 -->
-2251. **Geoderma** — Intermediate · Person/Institution · Minor · builds on: Soil science (2) <!-- soil-hist-136 -->
+2591. **Soil Science Society of America** — Foundational · Person/Institution · Major · builds on: Soil science (2) <!-- soil-hist-048 -->
+2592. **Natural Resources Conservation Service** — Foundational · Person/Institution · Major · builds on: Soil conservation (1961), Hugh Hammond Bennett (2563), Soil survey (2006) <!-- soil-hist-050 -->
+2593. **Rothamsted Research** — Foundational · Person/Institution · Major <!-- soil-hist-053 -->
+2594. **National Cooperative Soil Survey** — Intermediate · Person/Institution · Major · builds on: Soil survey (2006), Soil classification (1155) <!-- soil-hist-051 -->
+2595. **International Union of Soil Sciences** — Foundational · Person/Institution · Major · builds on: Soil science (2) <!-- soil-hist-047 -->
+2596. **International Soil Reference and Information Centre** — Foundational · Person/Institution · Minor · builds on: Soil science (2), Soil information system (2031) <!-- soil-hist-049 -->
+2597. **Pochvovedenie** — Intermediate · Person/Institution · Minor · builds on: Soil science (2) <!-- soil-found-104 -->
+2598. **Soil Science Society of Poland** — Intermediate · Person/Institution · Minor · builds on: Soil science (2), Polish Soil Classification (1183) <!-- soil-hist-057 -->
+2599. **Early United States soil survey** — Intermediate · Event · Minor · builds on: Soil survey (2006), National Cooperative Soil Survey (2594), Curtis F. Marbut (2557), Soil map (2007) <!-- soil-hist-052 -->
+2600. **International Humic Substances Society** — Intermediate · Person/Institution · Minor · builds on: Humic substance (679), Organic matter (1046) <!-- soil-hist-055 -->
+2601. **Soil Science Society of America Journal** — Intermediate · Person/Institution · Minor · builds on: Soil Science Society of America (2591) <!-- soil-hist-078 -->
+2602. **Journal of Soil and Water Conservation** — Intermediate · Person/Institution · Minor · builds on: Soil science (2), Soil conservation (1961) <!-- soil-found-113 -->
+2603. **International Committee on Anthropogenic Soils** — Intermediate · Person/Institution · Minor · builds on: Soil classification (1155), Anthrosol (1246), USDA soil taxonomy (1158) <!-- soil-hist-056 -->
+2604. **European Soil Bureau Network** — Intermediate · Person/Institution · Minor · builds on: European Soil Database (2016), Soil information system (2031) <!-- soil-hist-054 -->
+2605. **National Society of Consulting Soil Scientists** — Foundational · Person/Institution · Minor · builds on: Nutrient management (1331), Onsite sewage facility (2290), Wetland (1757), Erosion (1670), Land degradation (2195) <!-- soil-hist-154 -->
+2606. **Geoderma** — Intermediate · Person/Institution · Minor · builds on: Soil science (2) <!-- soil-hist-136 -->
 
 ### Soils beyond Earth
 
-2252. **Lunar regolith** — Intermediate · Material · Major · builds on: Regolith (88), Weathering (28), Grain size (235) <!-- soil-hist-059 -->
-2253. **Martian regolith** — Intermediate · Material · Major · builds on: Regolith (88), Weathering (28) <!-- soil-hist-067 -->
-2254. **Lunar regolith simulant** — Intermediate · Material · Major · builds on: Lunar regolith (2252), Particle-size distribution (252) <!-- soil-hist-071 -->
-2255. **Space weathering** — Intermediate · Process · Major · builds on: Weathering (28), Lunar regolith (2252), Regolith (88) <!-- soil-hist-079 -->
-2256. **Astropedology** — Intermediate · Concept · Major · builds on: Paleosol (187), Pedology (4), Soil (1) <!-- soil-hist-058 -->
-2257. **Perchlorates in Martian soil** — Intermediate · Concept · Major · builds on: Martian regolith (2253) <!-- soil-hist-069 -->
-2258. **Lunar dust hazards** — Intermediate · Concept · Minor · builds on: Lunar regolith (2252), Dust (1443) <!-- soil-hist-061 -->
-2259. **Lunar sample return** — Intermediate · Event · Minor · builds on: Lunar regolith (2252) <!-- soil-hist-062 -->
-2260. **Lunar soil formation** — Advanced · Process · Minor · builds on: Lunar regolith (2252), Weathering (28) <!-- soil-hist-060 -->
-2261. **In situ resource utilization** — Intermediate · Practice · Minor · builds on: Lunar regolith (2252), Martian regolith (2253) <!-- soil-hist-083 -->
-2262. **Extraterrestrial soil definition** — Advanced · Debate · Minor · builds on: Astropedology (2256), What counts as soil (25), Soil organic matter (26), Soil classification (1019) <!-- soil-hist-068 -->
-2263. **Martian dust** — Advanced · Concept · Minor · builds on: Martian regolith (2253), Dust (1443), Grain size (235), Aeolian processes (1479) <!-- soil-hist-070 -->
-2264. **Lunarcrete** — Intermediate · Material · Minor · builds on: Lunar regolith (2252), In situ resource utilization (2261), Lunar regolith simulant (2254) <!-- soil-hist-082 -->
-2265. **Martian regolith simulant** — Intermediate · Material · Minor · builds on: Martian regolith (2253) <!-- soil-hist-081 -->
-2266. **Impact gardening** — Intermediate · Process · Minor · builds on: Lunar regolith (2252), Regolith (88) <!-- soil-hist-080 -->
-2267. **Archean paleosols** — Advanced · Concept · Minor · builds on: Paleosol (187), Astropedology (2256) <!-- soil-hist-065 -->
-2268. **Growing plants on the Moon and Mars** — Intermediate · Practice · Minor · builds on: Lunar regolith (2252), Martian regolith (2253), Lunar regolith simulant (2254), Plant nutrition (1183) <!-- soil-hist-064 -->
-2269. **Martian paleosols** — Advanced · Concept · Minor · builds on: Paleosol (187), Martian regolith (2253), Astropedology (2256) <!-- soil-hist-063 -->
-2270. **Origin of life in soil** — Advanced · Concept · Minor · builds on: Clay (49), Astropedology (2256), Clay hypothesis of the origin of life (579), Weathering (28) <!-- soil-hist-066 -->
-2271. **Viking lander biological experiments** — Advanced · Event · Major · builds on: Martian regolith (2253) <!-- soil-hist-137 -->
-2272. **Mars sample-return mission** — Intermediate · Event · Minor · builds on: Martian regolith (2253), Core sample (85) <!-- soil-hist-139 -->
-2273. **Plants in space** — Intermediate · Practice · Minor · builds on: Lunar regolith (2252) <!-- soil-hist-140 -->
-2274. **Labeled release experiment** — Advanced · Method · Minor · builds on: Viking lander biological experiments (2271), Martian regolith (2253) <!-- soil-hist-138 -->
+2607. **Lunar regolith** — Intermediate · Material · Major · builds on: Regolith (85), Weathering (27), Grain size (246) <!-- soil-hist-059 -->
+2608. **Martian regolith** — Intermediate · Material · Major · builds on: Regolith (85), Weathering (27) <!-- soil-hist-067 -->
+2609. **Lunar regolith simulant** — Intermediate · Material · Major · builds on: Lunar regolith (2607), Particle-size distribution (263) <!-- soil-hist-071 -->
+2610. **Space weathering** — Intermediate · Process · Major · builds on: Weathering (27), Lunar regolith (2607), Regolith (85) <!-- soil-hist-079 -->
+2611. **Astropedology** — Intermediate · Concept · Major · builds on: Paleosol (185), Pedology (4), Soil (1) <!-- soil-hist-058 -->
+2612. **Perchlorates in Martian soil** — Intermediate · Concept · Major · builds on: Martian regolith (2608) <!-- soil-hist-069 -->
+2613. **Lunar dust hazards** — Intermediate · Concept · Minor · builds on: Lunar regolith (2607), Dust (1635) <!-- soil-hist-061 -->
+2614. **Lunar sample return** — Intermediate · Event · Minor · builds on: Lunar regolith (2607) <!-- soil-hist-062 -->
+2615. **Lunar soil formation** — Advanced · Process · Minor · builds on: Lunar regolith (2607), Weathering (27) <!-- soil-hist-060 -->
+2616. **In situ resource utilization** — Intermediate · Practice · Minor · builds on: Lunar regolith (2607), Martian regolith (2608) <!-- soil-hist-083 -->
+2617. **Extraterrestrial soil definition** — Advanced · Debate · Minor · builds on: Astropedology (2611), What counts as soil (25), Soil organic matter (1045), Soil classification (1155) <!-- soil-hist-068 -->
+2618. **Martian dust** — Advanced · Concept · Minor · builds on: Martian regolith (2608), Dust (1635), Grain size (246), Aeolian processes (1671) <!-- soil-hist-070 -->
+2619. **Lunarcrete** — Intermediate · Material · Minor · builds on: Lunar regolith (2607), In situ resource utilization (2616), Lunar regolith simulant (2609) <!-- soil-hist-082 -->
+2620. **Martian regolith simulant** — Intermediate · Material · Minor · builds on: Martian regolith (2608) <!-- soil-hist-081 -->
+2621. **Impact gardening** — Intermediate · Process · Minor · builds on: Lunar regolith (2607), Regolith (85) <!-- soil-hist-080 -->
+2622. **Archean paleosols** — Advanced · Concept · Minor · builds on: Paleosol (185), Astropedology (2611) <!-- soil-hist-065 -->
+2623. **Growing plants on the Moon and Mars** — Intermediate · Practice · Minor · builds on: Lunar regolith (2607), Martian regolith (2608), Lunar regolith simulant (2609), Plant nutrition (1323) <!-- soil-hist-064 -->
+2624. **Martian paleosols** — Advanced · Concept · Minor · builds on: Paleosol (185), Martian regolith (2608), Astropedology (2611) <!-- soil-hist-063 -->
+2625. **Origin of life in soil** — Advanced · Concept · Minor · builds on: Clay (46), Astropedology (2611), Clay hypothesis of the origin of life (636), Weathering (27) <!-- soil-hist-066 -->
+2626. **Viking lander biological experiments** — Advanced · Event · Major · builds on: Martian regolith (2608) <!-- soil-hist-137 -->
+2627. **Mars sample-return mission** — Intermediate · Event · Minor · builds on: Martian regolith (2608), Core sample (82) <!-- soil-hist-139 -->
+2628. **Plants in space** — Intermediate · Practice · Minor · builds on: Lunar regolith (2607) <!-- soil-hist-140 -->
+2629. **Labeled release experiment** — Advanced · Method · Minor · builds on: Viking lander biological experiments (2626), Martian regolith (2608) <!-- soil-hist-138 -->

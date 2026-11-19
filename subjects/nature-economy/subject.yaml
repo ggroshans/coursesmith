@@ -26,6 +26,7 @@ sources:
   - name: cabezas-resource-economics
     adapter: html
     base: https://eng.libretexts.org/Bookshelves/Environmental_Engineering_(Sustainability_and_Conservation)/Book%3A_Sustainability_-_A_Comprehensive_Foundation_(Cabezas)/06%3A_Environmental_and_Resource_Economics
+    pages: ["/Bookshelves/Environmental_Engineering_(Sustainability_and_Conservation)/Book%3A_Sustainability_-_A_Comprehensive_Foundation_(Cabezas)/06%3A_Environmental_and_Resource_Economics"]
     selector: ".mt-content-container"
     depth: 2
     tier: curated
@@ -34,6 +35,7 @@ sources:
   - name: core-the-economy
     adapter: html
     base: https://books.core-econ.org/the-economy/microeconomics/0-4-preface.html
+    pages: ["/the-economy/microeconomics/0-4-preface.html"]
     allow: ["/the-economy/microeconomics/"]
     depth: 2
     tier: curated
@@ -42,6 +44,7 @@ sources:
   - name: core-climate-justice
     adapter: html
     base: https://books.core-econ.org/insights/climate-justice/08-references.html
+    pages: ["/insights/climate-justice/08-references.html"]
     allow: ["/insights/climate-justice/"]
     depth: 2
     tier: curated
@@ -98,9 +101,9 @@ frame:
       foundations: true
       chapters:
         - title: Nature as the economy's foundation
-          seeds: [Ecosystem, Ecosystem service, Natural capital, Biodiversity, Sustainability]
+          seeds: ["Ecosystem", "Ecosystem service", "Natural capital", "Biodiversity", "Sustainability", "pdf>dasgupta-review/The_Economics_of_Biodiversity_The_Dasgupta_Review_Full_Report.pdf"]
         - title: Why markets miss nature
-          seeds: [Economics, Scarcity, Externality, Market failure, Environmental economics]
+          seeds: ["Economics", "Scarcity", "Externality", "Market failure", "Environmental economics", "Land Economics", "Persistent organic pollutant", "Risk assessment", "Smog", "Soundscape ecology"]
 
     - key: econ
       title: Economics from the ground up
@@ -134,7 +137,7 @@ frame:
                   Risk aversion, Uncertainty, Expected value, Hyperbolic discounting]
           hints: [time value, present value, discount, interest rate, risk aversion, uncertainty]
         - title: Measuring an economy
-          seeds: [Gross domestic product, Economic growth, Wealth, Income, Measures of national income and output]
+          seeds: ["Gross domestic product", "Economic growth", "Wealth", "Income", "Measures of national income and output", "Aggregate demand", "Business cycle", "Fiscal multiplier", "Lorenz curve", "Marginal propensity to consume"]
           hints: [gross domestic product, economic growth, national income, wealth]
         - title: Behavior and decisions
           seeds: [Behavioral economics, Bounded rationality, Nudge theory, Loss aversion, Endowment effect,
@@ -219,7 +222,7 @@ frame:
           hints: [cost–benefit, cost-benefit, net present value, value of life, cost-effectiveness, multiple-criteria,
                   shadow price, impact analysis]
         - title: Debates about pricing nature
-          seeds: [Commodification of nature, Environmental ethics, Value pluralism, Value of Earth, Clive Spash]
+          seeds: ["Commodification of nature", "Environmental ethics", "Value pluralism", "Value of Earth", "Clive Spash", "Ecological modernization"]
           hints: [commodification, incommensurab, environmental ethics, pluralism, critique]
 
     - key: acct
@@ -229,7 +232,7 @@ frame:
               natural capital accounting, disclosure, tnfd, esg, full-cost, true cost]
       chapters:
         - title: Beyond GDP
-          seeds: [Green gross domestic product, Genuine progress indicator, Inclusive wealth, Broad measures of economic progress, Human Development Index, Wellbeing economy, Index of Sustainable Economic Welfare]
+          seeds: ["Green gross domestic product", "Genuine progress indicator", "Inclusive wealth", "Broad measures of economic progress", "Human Development Index", "Wellbeing economy", "Index of Sustainable Economic Welfare", "World Happiness Report"]
           hints: [green gdp, green gross, genuine progress, inclusive wealth, genuine savings, beyond gdp,
                   wellbeing economy, sustainable economic welfare]
         - title: National and corporate natural capital accounts
@@ -273,7 +276,7 @@ frame:
                   Extended producer responsibility, Nudge theory, Precautionary principle]
           hints: [subsid, ecolabel, certification, producer responsibility, precautionary, liability, voluntary]
         - title: Choosing among instruments
-          seeds: [Policy mix, Environmental policy, Martin Weitzman]
+          seeds: ["Policy mix", "Environmental policy", "Martin Weitzman", "doc>eng.libretexts.org/Bookshelves/Environmental_Engineering_(Sustainability_and_Conservation)/Book%3A_Sustainability_-_A_Comprehensive_Foundation_(Cabezas)/06%3A_Environmental_and_Resource_Economics/6.06%3A_Solutions-_Property_Rights_Regulations_and_Incentive_Policies"]
           hints: [prices vs, instrument, policy mix, environmental policy]
 
     - key: mkt
@@ -367,7 +370,7 @@ frame:
           hints: [agroforestry, regenerative, carbon farming, sustainable agriculture, conservation agriculture,
                   silvopasture, agroecology, climate-smart, cover crop, buffer, landscape management]
         - title: Evidence, risks and greenwashing
-          seeds: [Greenwashing, Maladaptation, Monoculture, Tree planting]
+          seeds: ["Greenwashing", "Maladaptation", "Monoculture", "Tree planting", "Food sovereignty", "Introduced species"]
           hints: [greenwashing, maladaptation, standard, monoculture]
 
     - key: clim

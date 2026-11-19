@@ -10,3 +10,9 @@
 - Zinc deficiency in plants (little leaf; only sections): Zinc deficiency (plant disorder)
 - Chlorosis and Nitrogen deficiency were crawled but are out of scope; both would give the deficiency entries their own pages: Chlorosis; Nitrogen deficiency
 - Carl Sprengel, co-author of the law of the minimum (never crawled): Carl Sprengel
+
+Coal tar page (chunk 5) off-topic, skipped. Human copper physiology skipped (off-topic).
+
+Human-nutrition mineral tables (RDA/UL) skipped as off-topic.
+
+Farm anecdotes (Maine potato/dairy, Vermont dairy) skipped.

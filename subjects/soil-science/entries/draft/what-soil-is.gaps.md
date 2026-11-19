@@ -6,3 +6,5 @@
 - Natural attenuation (soil's capacity to degrade contaminants; one mention in Soil#Functions): `Natural attenuation`
 - Dirt versus soil (one lead sentence only): `Dirt`
 - Soil solution (entry drafted without an article of its own): `Soil solution`
+
+Skipped Akadama, Microbacteriaceae, licensing boards, museums, societies, journals (no teachable soil-science content or off-topic); no new outside-source pages in this chunk.

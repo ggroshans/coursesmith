@@ -70,35 +70,6 @@
    ]
   }
  ],
- "soil-found-045": [
-  {
-   "type": "scale",
-   "caption": "Organic matter content runs from under 1% in deserts to 90% in low-lying wet soils.",
-   "sent_ids": [
-    "48683ad5ee21",
-    "5f94302b59da"
-   ],
-   "axis": "Organic matter, % by mass",
-   "log": true,
-   "ranges": [
-    [
-     1,
-     6,
-     "Upland topsoils"
-    ]
-   ],
-   "marks": [
-    [
-     1,
-     "Deserts, below"
-    ],
-    [
-     90,
-     "Wet low-lying soils"
-    ]
-   ]
-  }
- ],
  "soil-found-052": [
   {
    "type": "flow",

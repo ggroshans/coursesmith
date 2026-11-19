@@ -42,3 +42,15 @@ _Update after every step. `coursesmith status soil-science` prints the live numb
   performer and is excluded.
 - Concepts with no Wikipedia page or sentences (Land evaluation, Soil association, Epipedon as a whole, soil fabric
   and others) are listed in `reports/syllabus.md` and `entries/draft/*.gaps.md`.
+
+## Upgrade pass (2026-11-19)
+Rebuilt on the current process, in place: vetted outside sources (WRB 2022 PDF; four CC BY / CC BY-NC LibreTexts books: two
+lab manuals, Building Soils for Better Crops, Digging into Canadian Soils), a gap-fill round (27 unresolved concepts
+seeded, 187 pages crawled), and consolidation of every page no entry rested on yet. Entries 2,314 -> 2,760 (2,629 selected);
+units 505 -> 584; ids unchanged, order re-built stable (old entries keep their relative order). 393 entries written
+(354 new, 39 with new facts), 12 figures, 259 new questions, `write check` 0 problems, `publish check` 0 problems.
+- `distribution: personal` (two NonCommercial books).
+- Not used: Soils4Africa DSM manual (page would not fetch), Predictive Soil Mapping (.Rmd not read by the github adapter),
+  USDA NRCS Keys/Survey Manual (no license readable).
+- Many new Wikipedia-only entries from the earlier crawl are generic supporting topics (physics, statistics); selection
+  kept them. Open duplicate warnings (38) are same-page section entries, left as distinct.

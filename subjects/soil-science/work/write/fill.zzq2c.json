@@ -1,0 +1,219 @@
+{
+ "questions": {
+  "soil-fert-244": {
+   "q": "Why do dairy and beef manures influence organic matter more than poultry or swine manure?",
+   "a": "They hold undigested forage and bedding rich in lignin.",
+   "sent_ids": [
+    "1817c485d319",
+    "db5e23a54abc",
+    "45b847d9cab5"
+   ]
+  },
+  "soil-fert-251": {
+   "q": "What happens to fall-applied manure in humid climates?",
+   "a": "Ammonium converts to nitrate that leaches or denitrifies; a New York study found about twice the N leaching from fall as from spring application.",
+   "sent_ids": [
+    "7d1e087499aa",
+    "49fd6f41a379",
+    "7e7735dc5e37"
+   ]
+  },
+  "soil-water-091": {
+   "q": "What happens to soil under buildings and roads?",
+   "a": "It is sealed off from rainfall and the nutrient cycle, so it is in effect consumed and made infertile.",
+   "sent_ids": [
+    "d0bdfffc1b57"
+   ]
+  },
+  "soil-water-022": {
+   "q": "What does impervious surface do to groundwater and flooding?",
+   "a": "Less water reaches groundwater, so the water table falls and droughts worsen, while more water left on the surface causes flooding.",
+   "sent_ids": [
+    "53c887d92043",
+    "6f1959e1d75e"
+   ]
+  },
+  "soil-water-103": {
+   "q": "Why can gelifluction occur on slopes of less than half a degree?",
+   "a": "The waterlogged topsoil flows like a liquid.",
+   "sent_ids": [
+    "26d49965626f",
+    "6c8caf1e29d5"
+   ]
+  },
+  "soil-water-251": {
+   "q": "Which particles are held up by turbulence and travel in suspension?",
+   "a": "Particles of about 70 micrometres or less in air.",
+   "sent_ids": [
+    "c15db74ba715",
+    "619e166d3b4f"
+   ]
+  },
+  "soil-water-067": {
+   "q": "In which four main ways do plants act on slopes?",
+   "a": "Wind throw, removal of water, the added mass of the vegetation (surcharge) and mechanical reinforcement by roots.",
+   "sent_ids": [
+    "cff15862bd86"
+   ]
+  },
+  "soil-water-300": {
+   "q": "What happens to quick clays when saturated?",
+   "a": "They liquefy and flow, causing mass wasting.",
+   "sent_ids": [
+    "0b67c06e2750"
+   ]
+  },
+  "soil-agri-001": {
+   "q": "Before pedology arose in the 19th century, what was the only branch of soil science?",
+   "a": "Agricultural soil science, or edaphology.",
+   "sent_ids": [
+    "d05e07900815",
+    "a984fd585b64"
+   ]
+  },
+  "soil-agri-044": {
+   "q": "What does fallowing do for land and for pests?",
+   "a": "It lets land recover and store organic matter while keeping moisture, and breaks pest and soil-borne pathogen cycles by removing their hosts.",
+   "sent_ids": [
+    "e61509bbf6f4"
+   ]
+  },
+  "soil-agri-042": {
+   "q": "What did a 2020 review of 229 articles find about the definition of regenerative agriculture?",
+   "a": "No legal or widely accepted definition: some stress practices, others outcomes.",
+   "sent_ids": [
+    "7b9e6c34ed40",
+    "f1d9ed6f1f60"
+   ]
+  },
+  "soil-agri-133": {
+   "q": "Why is crop rotation not intercropping?",
+   "a": "Its crops grow in separate seasons.",
+   "sent_ids": [
+    "c7100c4ea2b9"
+   ]
+  },
+  "soil-agri-034": {
+   "q": "What temperature must soil reach in solarization, and to what depth do pathogens die?",
+   "a": "35-60 \u00b0C, which kills pathogens in the top 30 cm.",
+   "sent_ids": [
+    "e7efb165d861",
+    "fd67098a0e7e"
+   ]
+  },
+  "soil-agri-138": {
+   "q": "Who is called the father of the Green Revolution, and what prize did he receive?",
+   "a": "Norman Borlaug, who received the Nobel Peace Prize in 1970.",
+   "sent_ids": [
+    "7faffd5f9efa"
+   ]
+  },
+  "soil-agri-139": {
+   "q": "How much does 1 kg of dry coco peat expand to when moist?",
+   "a": "15 litres, with a pH of 5.5 to 6.5.",
+   "sent_ids": [
+    "19868ccd6360",
+    "0184a1831bde",
+    "c3a5b8436cf3"
+   ]
+  },
+  "soil-agri-012": {
+   "q": "What do permanent indicators and point indicators describe?",
+   "a": "Permanent indicators, chiefly soil properties, describe a field's main constants; point indicators track crop status such as disease, water stress or nitrogen stress.",
+   "sent_ids": [
+    "78a68dbcd6ee",
+    "3714a7e6daeb"
+   ]
+  },
+  "soil-agri-039": {
+   "q": "How long can rock powder supply nutrients?",
+   "a": "Up to 5 years: plants take what they need and the rest stays crystallized.",
+   "sent_ids": [
+    "849d126e3e06",
+    "e3d2a15cdea0",
+    "b96a03aaba61"
+   ]
+  },
+  "soil-agri-045": {
+   "q": "What should susceptible crops such as corn follow, rather than a fallow?",
+   "a": "A cover crop that hosts the fungi, such as oats or another small grain.",
+   "sent_ids": [
+    "19d1a9fcaf74"
+   ]
+  },
+  "soil-agri-148": {
+   "q": "What are Fukuoka's five principles?",
+   "a": "No tillage, no fertilizer, no pesticides or herbicides, no weeding and no pruning.",
+   "sent_ids": [
+    "dacf7c148bf6",
+    "a78c03020b82",
+    "2d8a713c8f3d",
+    "bf02399debac",
+    "63331805f1a1",
+    "188b53ea5e36"
+   ]
+  },
+  "soil-agri-179": {
+   "q": "How is stone wool made?",
+   "a": "By blowing air or steam through molten rock at about 1600 C, giving fine intertwined fibres 2 to 6 micrometres across.",
+   "sent_ids": [
+    "08cd0ad9b732",
+    "bacc654dce4f"
+   ]
+  },
+  "soil-agri-182": {
+   "q": "Why do grass cover crops scavenge nitrogen and reduce erosion?",
+   "a": "Their fibrous root systems scavenge leftover nutrients, especially nitrogen, and some establish rapidly.",
+   "sent_ids": [
+    "12ff16d5bf31",
+    "e7e909611a34"
+   ]
+  },
+  "soil-agri-198": {
+   "q": "What should follow a legume forage in rotation?",
+   "a": "A high-nitrogen crop such as corn.",
+   "sent_ids": [
+    "89746153f96a",
+    "440693fe2805"
+   ]
+  },
+  "soil-agri-190": {
+   "q": "How do cover crops raise infiltration and water-holding capacity?",
+   "a": "Infiltration through macropores, and water-holding capacity through organic matter; residue also slows runoff.",
+   "sent_ids": [
+    "15947da2427b",
+    "e6246d6138bc"
+   ]
+  },
+  "soil-agri-191": {
+   "q": "Are grain crops hosts of root-knot nematode?",
+   "a": "No, they are nonhosts, so growing grains reduces numbers; very bad infestations may need two full grain seasons.",
+   "sent_ids": [
+    "4b83d93b1b40",
+    "0edf68d4f1a7",
+    "8f189049eaa9"
+   ]
+  },
+  "soil-agri-197": {
+   "q": "How long a break do diseases need from their host crops?",
+   "a": "Some need only a one-year break; others need several years of nonhost crops to cut inoculum.",
+   "sent_ids": [
+    "22547509d245"
+   ]
+  },
+  "soil-agri-203": {
+   "q": "What is considered the foundation of modern agroecology?",
+   "a": "Harper's 1974 concept of agroecosystems.",
+   "sent_ids": [
+    "bbb0a03a29e3"
+   ]
+  },
+  "soil-agri-223": {
+   "q": "What did centuries of tillage cause, especially around the Mediterranean?",
+   "a": "Excessive erosion, organic matter loss and nutrient depletion.",
+   "sent_ids": [
+    "5b38e96da0b4"
+   ]
+  }
+ }
+}

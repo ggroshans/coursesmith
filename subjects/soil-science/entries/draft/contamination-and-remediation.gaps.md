@@ -20,3 +20,6 @@ Important concepts with no or too few sentences in the crawl (suggested Wikipedi
 - Lead poisoning
 - Dead zone (ecology)
 - In situ chemical reduction
+
+Biotransformation (general chemistry, seed) and Nanotoxicology (seed) skipped as off-topic for soil.
+Possible: Anthroposol-building case studies; reclamation of mine sites (Land reclamation already exists).

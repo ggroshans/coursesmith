@@ -1,0 +1,1 @@
+- Anti-planning/ecology-relevant pages Capitalism and Planned economy drafted; Soviet-era history, Chile Cybersyn skipped as off-topic

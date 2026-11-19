@@ -26,3 +26,7 @@ Merged from the three pilot consolidation passes.
 - Laser diffraction particle sizing as its own article: Laser diffraction analysis
 - AASHTO engineering soil classification (cited by Soil gradation): AASHTO Soil Classification System
 - Albert Atterberg, who proposed the first texture classification and the Atterberg limits (rejected by the "chemist" exclude rule): Albert Atterberg
+
+- Soil water retention and potential, hydraulic conductivity, soil temperature and heat flow appear in the Canadian soils overview page; owned by other chapters.
+
+- Biotope (Wikipedia page): off-topic for soil science; no entry drafted.

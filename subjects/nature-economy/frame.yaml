@@ -19,6 +19,7 @@ parts:
     - Environmental degradation
     - Short-termism
     - Triple planetary crisis
+    - pdf>dasgupta-review/The_Economics_of_Biodiversity_The_Dasgupta_Review_Full_Report.pdf
     share: 0.0085
   - key: why-markets-miss-nature
     title: Why markets miss nature
@@ -38,6 +39,11 @@ parts:
     - Pollution
     - Social cost
     - Tyranny of small decisions
+    - Land Economics
+    - Persistent organic pollutant
+    - Risk assessment
+    - Smog
+    - Soundscape ecology
     share: 0.0102
 - key: econ
   title: Economics from the ground up
@@ -95,6 +101,8 @@ parts:
     - Mixed economy
     - Neoclassical economics
     - Institutional economics
+    - Capitalism
+    - Planned economy
     candidates:
     - Financial incentives for photovoltaics
     - Home energy upgrades from public utilities
@@ -153,6 +161,9 @@ parts:
     - Supply (economics)
     - Total cost
     - Zero-profit condition
+    - Black market
+    - Barriers to entry
+    - Public utility
     candidates:
     - Gabor–Granger method
     - Grid parity
@@ -175,6 +186,13 @@ parts:
     - Technological change
     - Theory of the firm
     - Variable cost
+    - Diffusion of innovations
+    - Collusion
+    - Bertrand competition
+    - Marginal revenue productivity theory of wages
+    - Product differentiation
+    - Stackelberg competition
+    - Vertical integration
   - key: efficiency-and-welfare
     title: Efficiency and welfare
     seeds:
@@ -212,6 +230,10 @@ parts:
     - Theory of the second best
     - Utilitarianism
     - Utility–possibility frontier
+    - Tax
+    - Income distribution
+    - Progressive tax
+    - X-inefficiency
     candidates:
     - Eco-efficiency
     - Levelized cost of water
@@ -222,6 +244,7 @@ parts:
     - Nuisance
     - Strict liability
     - The Problem of Social Cost
+    - Negligence
   - key: public-goods-commons-and-property
     title: Public goods, commons and property
     seeds:
@@ -256,6 +279,7 @@ parts:
     - Social trap
     - Tragedy of the anticommons
     - Usufruct
+    - doc>eng.libretexts.org/Bookshelves/Environmental_Engineering_(Sustainability_and_Conservation)/Book%3A_Sustainability_-_A_Comprehensive_Foundation_(Cabezas)/06%3A_Environmental_and_Resource_Economics/6.02%3A__Tragedy_of_the_Commons
     candidates:
     - Riparian water rights
     share: 0.0191
@@ -273,6 +297,7 @@ parts:
     - Screening (economics)
     - Mechanism design
     - Contract theory
+    - Warranty
   - key: time-risk-and-discounting
     title: Time, risk and discounting
     seeds:
@@ -314,6 +339,11 @@ parts:
     - Stochastic dominance
     - Time preference
     - Von Neumann–Morgenstern utility theorem
+    - Bayesian probability
+    - Dynamic inconsistency
+    - Demurrage currency
+    - Ellsberg paradox
+    - Phillips curve
     candidates:
     - Time value of carbon
     share: 0.0161
@@ -356,6 +386,11 @@ parts:
     - Total factor productivity
     - Value added
     - Financial capital
+    - Aggregate demand
+    - Business cycle
+    - Fiscal multiplier
+    - Lorenz curve
+    - Marginal propensity to consume
     candidates:
     - Green national product
     share: 0.0093
@@ -418,6 +453,12 @@ parts:
     - Subgame perfect equilibrium
     - Tit for tat
     - Zero-sum game
+    - Common knowledge (logic)
+    - Fixed-point theorem
+    - Kin selection
+    - Population cycle
+    - Reciprocity (social psychology)
+    - Traffic congestion
   - key: mathematical-tools-for-economics
     title: Mathematical tools for economics
     seeds:
@@ -446,6 +487,7 @@ parts:
     - Stability theory
     - Steady state
     - Computable general equilibrium
+    - Malthusian growth model
   - key: empirical-methods-and-econometrics
     title: Empirical methods and econometrics
     seeds:
@@ -479,6 +521,9 @@ parts:
     - Statistical hypothesis test
     - Synthetic control method
     - Truncated regression model
+    - Probability
+    - Econometrics
+    - Exogenous and endogenous variables
 - key: eco
   title: How ecosystems work
   chapters:
@@ -534,6 +579,12 @@ parts:
     - Soil organic matter
     - Terrestrial ecosystem
     - Trophic cascade
+    - Coevolution
+    - Biological interaction
+    - Detritivore
+    - Ecoregion
+    - Nitrous oxide
+    - Soil food web
     candidates:
     - Meadow
     - Energy systems language
@@ -553,6 +604,16 @@ parts:
     - R/K selection theory
     - Recruitment (biology)
     - Species–area relationship
+    - Natural selection
+    - Gene flow
+    - Genetic drift
+    - Intermediate disturbance hypothesis
+    - Life history theory
+    - Matrix (mathematics)
+    - Paradox of enrichment
+    - Population pyramid
+    - Population viability analysis
+    - Probability distribution
   - key: cycles-of-carbon-water-and-nutrients
     title: Cycles of carbon, water and nutrients
     seeds:
@@ -586,6 +647,10 @@ parts:
     - Sulfur cycle
     - Surface runoff
     - Whale feces
+    - Algal bloom
+    - Fertilizer
+    - Green Revolution
+    - Methane emissions
     share: 0.0122
   - key: climate-science-essentials
     title: Climate science essentials
@@ -653,6 +718,8 @@ parts:
     - Threatened species
     - Wildlife corridor
     - Wildlife trade
+    - Species
+    - Market concentration
     candidates:
     - Mangrove deforestation in Myanmar
     share: 0.0176
@@ -680,6 +747,9 @@ parts:
     - Resistance (ecology)
     - Socio-ecological system
     - Systems thinking
+    - Overgrazing
+    - Earth system science
+    - Sustainable population
     candidates:
     - Overconsumption
     share: 0.012
@@ -725,6 +795,37 @@ parts:
     - Tropical rainforest
     - Tundra
     - Wetland conservation
+    - Permafrost
+    - Land reclamation
+    - Marine heatwave
+    - Savanna
+    - Sediment
+    - Aridity index
+    - Benthic zone
+    - Bioaccumulation
+    - Bioindicator
+    - Chemosynthesis
+    - Climate change feedbacks
+    - Controlled burn
+    - Desert
+    - Detritus
+    - Economic development
+    - Forest Stewardship Council
+    - Hydrology
+    - Limnology
+    - Methane
+    - Methanogenesis
+    - Methanotroph
+    - Mycorrhizal network
+    - Ocean deoxygenation
+    - Positive feedback
+    - Provisioning (technology)
+    - Seascape ecology
+    - Symbiosis
+    - Tide
+    - Unintended consequences
+    - Water table
+    - Woody plant encroachment
     candidates:
     - Community Based Mangrove Management
     - Integrated mangrove-shrimp aquaculture
@@ -824,6 +925,8 @@ parts:
     - Exchange value
     - Non-use value
     - Paradox of value
+    - doc>eng.libretexts.org/Bookshelves/Environmental_Engineering_(Sustainability_and_Conservation)/Book%3A_Sustainability_-_A_Comprehensive_Foundation_(Cabezas)/06%3A_Environmental_and_Resource_Economics/6.04%3A__Environmental_Valuation
+    - Human rights
     share: 0.0132
   - key: valuation-methods
     title: Valuation methods
@@ -854,6 +957,7 @@ parts:
     - Probit model
     - Random utility model
     - Scope neglect
+    - Normal distribution
   - key: cost-benefit-analysis
     title: Cost–benefit analysis
     seeds:
@@ -872,6 +976,9 @@ parts:
     - Project appraisal
     - Quality-adjusted life year
     - Risk–benefit ratio
+    - doc>eng.libretexts.org/Bookshelves/Environmental_Engineering_(Sustainability_and_Conservation)/Book%3A_Sustainability_-_A_Comprehensive_Foundation_(Cabezas)/06%3A_Environmental_and_Resource_Economics/6.05%3A_Evaluating_Projects_and_Policies
+    - Risk
+    - Regulation
     share: 0.012
   - key: debates-about-pricing-nature
     title: Debates about pricing nature
@@ -886,6 +993,7 @@ parts:
     - Fictitious commodities
     - Land ethic
     - Lexicographic preferences
+    - Ecological modernization
     candidates:
     - Commodification of water
     share: 0.0096
@@ -911,6 +1019,7 @@ parts:
     - OECD Better Life Index
     - Social Progress Index
     - Sustainable national income
+    - World Happiness Report
     share: 0.0134
   - key: national-and-corporate-natural-capital-a
     title: National and corporate natural capital accounts
@@ -930,6 +1039,7 @@ parts:
     - Material flow accounting
     - System of Environmental and Economic Accounting for Water
     - Triple bottom line
+    - Net domestic product
     share: 0.0156
   - key: footprints-and-indicators
     title: Footprints and indicators
@@ -957,6 +1067,7 @@ parts:
     - Input–output model
     - Material input per unit of service
     - Red List Index
+    - Supply chain
     candidates:
     - Resource intensity
     - Resource productivity
@@ -976,6 +1087,10 @@ parts:
     - Municipal solid waste
     - Particulate matter
     - Nonpoint source pollution
+    - Incineration
+    - Black carbon
+    - Environmental remediation
+    - Greenfield land
   - key: regulation-and-standards
     title: Regulation and standards
     seeds:
@@ -1005,6 +1120,10 @@ parts:
     - Renewable portfolio standard
     - Superfund
     - Zoning
+    - Biofuel
+    - Critical habitat
+    - Indirect land use change impacts of biofuels
+    - Urban sprawl
     candidates:
     - Eco-tariff
     - Game law
@@ -1083,6 +1202,9 @@ parts:
     - Voluntary Emission Reduction
     - White certificates
     - Windfall gain
+    - Auction theory
+    - Renewable Energy Certificate (United States)
+    - Spillover (economics)
     candidates:
     - Open Coalition on Compliance Carbon Markets
     - UK Emissions Trading Scheme
@@ -1114,6 +1236,8 @@ parts:
     - Sustainable seafood advisory lists and certification
     - Tax incentive
     - Toxics Release Inventory
+    - Perverse incentive
+    - Right to know
     candidates:
     - Eco-Management and Audit Scheme
     share: 0.0144
@@ -1127,6 +1251,7 @@ parts:
     - Induced innovation
     - Market-based environmental policy instruments
     - Public choice
+    - doc>eng.libretexts.org/Bookshelves/Environmental_Engineering_(Sustainability_and_Conservation)/Book%3A_Sustainability_-_A_Comprehensive_Foundation_(Cabezas)/06%3A_Environmental_and_Resource_Economics/6.06%3A_Solutions-_Property_Rights_Regulations_and_Incentive_Policies
     share: 0.0039
   - key: political-economy-of-environmental-polic
     title: Political economy of environmental policy
@@ -1139,6 +1264,10 @@ parts:
     - Rent-seeking
     - The Logic of Collective Action
     - Bootleggers and Baptists
+    - Network effect
+    - Climate change denial
+    - Advocacy group
+    - Voting
   - key: trade-and-the-environment
     title: Trade and the environment
     seeds:
@@ -1148,6 +1277,8 @@ parts:
     - World Trade Organization
     - Global waste trade
     - Carbon leakage
+    - Foreign direct investment
+    - Tariff
 - key: mkt
   title: Paying for nature
   chapters:
@@ -1225,6 +1356,8 @@ parts:
     - Fiduciary
     - Diversification (finance)
     - Stock
+    - Debt
+    - Divestment
     candidates:
     - Great Plains Conservation
     - Eco hotel
@@ -1275,6 +1408,7 @@ parts:
     - Sovereign wealth fund
     - Sustainable yield
     - Blue economy
+    - Exchange rate
     candidates:
     - Energix Renewable Energies
     - Harold Hotelling
@@ -1319,6 +1453,8 @@ parts:
     - Sustainable seafood
     - Sustainable yield in fisheries
     - Wild fisheries
+    - doc>eng.libretexts.org/Bookshelves/Environmental_Engineering_(Sustainability_and_Conservation)/Book%3A_Sustainability_-_A_Comprehensive_Foundation_(Cabezas)/06%3A_Environmental_and_Resource_Economics/6.03%3A_Case_Study-_Marine_Fisheries
+    - Common Fisheries Policy
     share: 0.0185
   - key: forests-land-and-water
     title: Forests, land and water
@@ -1368,6 +1504,16 @@ parts:
     - Water security
     - Water-energy nexus
     - Agricultural economics
+    - Agriculture
+    - Bioenergy
+    - Water pollution
+    - Commodity
+    - Location theory
+    - Privatization
+    - Sustainable Development Goal 6
+    - Trade
+    - Urban economics
+    - Urbanization
     share: 0.0174
   - key: managing-the-commons
     title: Managing the commons
@@ -1397,6 +1543,8 @@ parts:
     - Ecosystem-based adaptation
     - Nature-based solutions
     - Ecosystem-based disaster risk reduction
+    - Monitoring and evaluation
+    - Phytoremediation
     share: 0.0085
   - key: water-and-flood-solutions
     title: Water and flood solutions
@@ -1422,6 +1570,12 @@ parts:
     - Source water protection
     - Stormwater
     - Urban flooding
+    - Dam
+    - Combined sewer
+    - Detention basin
+    - Drinking water
+    - Flood
+    - Levee
     share: 0.0256
   - key: coastal-solutions
     title: Coastal solutions
@@ -1444,6 +1598,7 @@ parts:
     - Sea rewilding
     - Seawall
     - Soft engineering
+    - Longshore drift
     candidates:
     - GreenWave
     - Seagrass
@@ -1529,6 +1684,10 @@ parts:
     - Rotational grazing
     - Soil conservation
     - Soil health
+    - Tillage
+    - Ecology
+    - Pasture
+    - Polyculture
     share: 0.0213
   - key: evidence-risks-and-greenwashing
     title: Evidence, risks and greenwashing
@@ -1540,6 +1699,8 @@ parts:
     - Albedo
     - Systematic review
     - Tree plantation
+    - Food sovereignty
+    - Introduced species
     share: 0.0069
 - key: clim
   title: Climate economics
@@ -1586,6 +1747,9 @@ parts:
     - Price of oil
     - Variable renewable energy
     - Energy economics
+    - Distributed generation
+    - Electricity generation
+    - Smart grid
   - key: mitigation-and-carbon-removal
     title: Mitigation and carbon removal
     seeds:
@@ -1615,6 +1779,9 @@ parts:
     - Low-carbon economy
     - Solar radiation modification
     - Sustainable energy
+    - Biomass
+    - Pyrolysis
+    - Weathering
     candidates:
     - EcoProfit
     share: 0.0179
@@ -1667,6 +1834,8 @@ parts:
     - Pledge and review
     - Soft loan
     - United Nations Climate Change Conference
+    - Ozone depletion
+    - Global Environment Facility
     candidates:
     - Criticism of the Kyoto Protocol
     - Flexible mechanisms
@@ -1704,6 +1873,15 @@ parts:
     - Sustainability science
     - Systems ecology
     - Unequal exchange
+    - Energy
+    - Renewable energy
+    - Mathematical model
+    - Money
+    - Deliberative democracy
+    - Energy storage
+    - Green building
+    - Post-Keynesian economics
+    - Urban metabolism
     candidates:
     - '2052: A Global Forecast for the Next Forty Years'
     - Deep Economy
@@ -1728,6 +1906,8 @@ parts:
     - Constant elasticity of substitution
     - Elasticity of substitution
     - Overlapping generations model
+    - Robert Solow
+    - Marginal rate of technical substitution
     share: 0.0125
   - key: growth-theory-and-the-environment
     title: Growth theory and the environment
@@ -1773,6 +1953,13 @@ parts:
     - Sustainability strategies
     - Sustainable consumption
     - World3
+    - Appropriate technology
+    - Consumerism
+    - Demographic transition
+    - Economic inequality
+    - Global North and Global South
+    - Simple living
+    - Universal basic income
     candidates:
     - Green industrial policy
     - The Path to Degrowth in Overdeveloped Countries
@@ -1813,6 +2000,11 @@ parts:
     - Urban mining
     - Waste valorization
     - Zero waste
+    - Waste
+    - Electronic waste
+    - Biomimetics
+    - Ecological sanitation
+    - Waste minimisation
     candidates:
     - Material flow cost accounting
     - Material flow
@@ -1859,6 +2051,9 @@ parts:
     - Transition management (governance)
     - Transnational environmental policy
     - Vienna Convention for the Protection of the Ozone Layer
+    - Collective action
+    - Citizen science
+    - Marine pollution
     candidates:
     - Ecoauthoritarianism
     share: 0.0161
@@ -1889,6 +2084,8 @@ parts:
     - United Nations Convention to Combat Desertification
     - World Charter for Nature
     - World Heritage Site
+    - Intergovernmental Panel on Climate Change
+    - Half-Earth
     candidates:
     - Geopark
     share: 0.0195
@@ -1936,6 +2133,12 @@ parts:
     - Seven generation sustainability
     - The human right to a clean, healthy and sustainable environment
     - WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge
+    - Climate migration
+    - Intellectual property
+    - Environmental migrant
+    - NIMBY
+    - Political economy
+    - Wildfire
     candidates:
     - Bush tucker
     - Resource justice
@@ -1968,6 +2171,9 @@ parts:
     - Sustainability reporting
     - Sustainable sourcing
     - Task Force on Climate-related Financial Disclosures
+    - Fossil fuel
+    - Bystander effect
+    - Competitive advantage
     share: 0.0119
 - key: hist
   title: History, people and frontiers
@@ -2043,6 +2249,9 @@ parts:
     - William E. Rees
     - William Forster Lloyd
     - William Stanley Jevons
+    - Pesticide
+    - John Muir
+    - Resources for the Future
     candidates:
     - Anthony Clinton Fisher
     - Martin D. Smith (environmental economist)
@@ -2140,6 +2349,7 @@ parts:
     - Natural Capital Initiative
     - Psychological impact of climate change
     - Russian Society for Ecological Economics
+    - Global Forest Watch
     candidates:
     - California Climate Credit
     - Civic agriculture

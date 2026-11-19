@@ -10,3 +10,7 @@
 - Controlled traffic farming: suggested page "Controlled traffic farming" (no sentences)
 - Plough pan: suggested page "Hardpan" or "Plow pan" (entry drafted with no article; tillage pan sentences only)
 - Keyline design: suggested page "Keyline design" (entry anchored on Contour plowing#Modifications)
+
+- Seed drill / planter equipment (no-till planters, cross-slot opener) has no entry of its own.
+
+- Desalination (Wikipedia page): water engineering with no soil content; not drafted.

@@ -10,3 +10,5 @@ Important people and ideas with no page or too few sentences (suggested Wikipedi
 - Charles Kellogg (naturalist) (US soil survey chief, teacher of Simonson)
 - Milton Whitney (first chief of the US Bureau of Soils, opponent of F. H. King)
 - Humus theory (the plant-nutrition theory Liebig attacked; no page of its own)
+
+- Bernard Keen skipped (non-founder, no soil content); Charles Kellogg page is a different person

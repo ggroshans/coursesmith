@@ -18,3 +18,5 @@ Concepts expected but found only in passing or not at all:
 - Plant-growth promoting fungi: "Plant-growth promoting fungi"
 - Lorenz Hiltner, who coined "rhizosphere" in 1904: "Lorenz Hiltner"
 - Albert Bernhard Frank, who named mycorrhiza in 1885: "Albert Bernhard Frank"
+
+Depletion region (semiconductor) off-topic, skipped; Arsenic biochemistry skipped (no soil rhizosphere content).

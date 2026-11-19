@@ -1,15 +1,15 @@
 subject: soil-science
-status: 'reviewed 2026-11-16 (review pass for the owner; the pilot chapter reviewed 2026-11-15). Merged the ''other topics''
-  chapters, moved misplaced seeds, dropped single taxa, soil series, journals and engineering tools, pinned the founders.
-  Re-review freely. Targets set 2026-11-16 to what each chapter''s sources supported after consolidation (1,666 in all).
-  Curriculum review 2026-11-16: Water in soil moved into Soil physics, Horizons before How soils form, Redox before Acidity,
-  farming systems open the agriculture part; Permafrost moved to Soil temperature and air, and soil health, functions
-  and quality to Foundations. Discovery 2026-11-16: thirteen chapters added from the syllabus plan (a new part, Studying
-  soil: methods and mapping), and pages the scope judge and the syllabus placed added as seeds. Order review 2026-11-16:
-  the methods part moved after Agriculture (its entries build on soil tests and soil survey); Forest and rangeland soils
-  dissolved into weathering, degradation and soil survey.'
-note: 'Edit freely: reorder parts and chapters, move seeds, rename. Seeds are forced into the crawl; candidates are crawled
-  only if they pass the scope threshold. `share` is the chapter''s share of the entry target.'
+status: 'reviewed 2026-11-16 (review pass for the owner; the pilot chapter reviewed 2026-11-15). Merged the ''other
+  topics'' chapters, moved misplaced seeds, dropped single taxa, soil series, journals and engineering tools, pinned
+  the founders. Re-review freely. Targets set 2026-11-16 to what each chapter''s sources supported after consolidation
+  (1,666 in all). Curriculum review 2026-11-16: Water in soil moved into Soil physics, Horizons before How soils
+  form, Redox before Acidity, farming systems open the agriculture part; Permafrost moved to Soil temperature and
+  air, and soil health, functions and quality to Foundations. Discovery 2026-11-16: thirteen chapters added from
+  the syllabus plan (a new part, Studying soil: methods and mapping), and pages the scope judge and the syllabus
+  placed added as seeds. Order review 2026-11-16: the methods part moved after Agriculture (its entries build on
+  soil tests and soil survey); Forest and rangeland soils dissolved into weathering, degradation and soil survey.'
+note: 'Edit freely: reorder parts and chapters, move seeds, rename. Seeds are forced into the crawl; candidates
+  are crawled only if they pass the scope threshold. `share` is the chapter''s share of the entry target.'
 parts:
 - key: found
   title: Foundations
@@ -95,6 +95,9 @@ parts:
     - Sedimentary rock
     - Tephra
     - Volcanic ash
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/02%3A_Parent_Materials_and_Mineralogy/2.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/02%3A_Parent_Materials_and_Mineralogy/2.04%3A_Activity_3-_Weathering
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/02%3A_Parent_Materials_and_Mineralogy/2.05%3A_Activity_4-_Rocks_to_Parent_Material
     target: 28
     candidates:
     - Lateritic nickel ore deposits
@@ -156,6 +159,18 @@ parts:
     - Periglaciation
     - Solod
     - Tree throw
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/01%3A_Fundamentals/1.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/01%3A_Fundamentals/1.02%3A_Activity_1_-_Soil_Formation
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/01%3A_Fundamentals/1.05%3A_Activity_4_-_Soil_Texture
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/01%3A_Fundamentals/1.06%3A_Activity_5_-__Soil_Structure
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/09%3A_Field_Lab/9.02%3A_Climate
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/09%3A_Field_Lab/9.03%3A_Relief
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/09%3A_Field_Lab/9.04%3A_Time
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/09%3A_Field_Lab/9.05%3A_Soil_Classification
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/09%3A_Field_Lab/9.07%3A_Slope_and_Runoff
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/09%3A_Field_Lab/9.10%3A_Activity_1_-_Soil_Formation
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Soils_Laboratory_Manual_(Moorberg_and_Crouse)/02%3A_Soil_Formation_Classification_and_Mapping/02.1%3A_Soil_Formation
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Digging_into_Canadian_Soils%3A_An_Introduction_to_Soil_Science/01%3A_Digging_In/1.02%3A_Soil_Genesis
     target: 43
     candidates:
     - Surfactant leaching (decontamination)
@@ -165,6 +180,11 @@ parts:
     title: Soil geography
     seeds:
     - Hillslope evolution
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Digging_into_Canadian_Soils%3A_An_Introduction_to_Soil_Science/02%3A_Digging_Across_Canada/2.01%3A_Soils_of_British_Columbia_and_Yukon-_The_Western_Cordillera
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Digging_into_Canadian_Soils%3A_An_Introduction_to_Soil_Science/02%3A_Digging_Across_Canada/2.02%3A_Soils_of_the_Prairie_Provinces
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Digging_into_Canadian_Soils%3A_An_Introduction_to_Soil_Science/02%3A_Digging_Across_Canada/2.03%3A_Soils_of_Ontario
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Digging_into_Canadian_Soils%3A_An_Introduction_to_Soil_Science/02%3A_Digging_Across_Canada/2.04%3A_Soils_of_Quebec
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Digging_into_Canadian_Soils%3A_An_Introduction_to_Soil_Science/02%3A_Digging_Across_Canada/2.05%3A_Soils_of_the_Atlantic_Provinces
 - key: phys
   title: Soil physics
   chapters:
@@ -201,6 +221,8 @@ parts:
     - Slaking (geology)
     - Stokes's law
     - Ternary plot
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Soils_Laboratory_Manual_(Moorberg_and_Crouse)/03%3A_Soil_Physics/03.1%3A_Soil_Texture_and_Structure
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Digging_into_Canadian_Soils%3A_An_Introduction_to_Soil_Science/01%3A_Digging_In/1.04%3A_Soil_Physics
     candidates:
     - Biological soil crust
     - Flocculation
@@ -251,6 +273,9 @@ parts:
     - Tortuosity
     - Trafficability
     - Trampling
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Soils_Laboratory_Manual_(Moorberg_and_Crouse)/03%3A_Soil_Physics/03.2%3A_Soil_Density
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/15%3A_Addressing_Compaction/15.02%3A_Diagnosing_Different_Types_of_Compaction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/15%3A_Addressing_Compaction/15.03%3A_Relieving_and_Preventing_Compaction
     target: 60
     candidates:
     - Bioclogging
@@ -344,6 +369,21 @@ parts:
     - Transpiration
     - Water balance
     - Wilting
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/05%3A_Soil_Physics_and_Water_Relations/5.05%3A_Porosity
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/05%3A_Soil_Physics_and_Water_Relations/5.07%3A_Soil-Water_Relations
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/05%3A_Soil_Physics_and_Water_Relations/5.08%3A_Soil_Erosion
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/05%3A_Soil_Physics_and_Water_Relations/5.09%3A_Activity_1_-_Bulk_Density_and_Porosity_of_Soil_Cores
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/05%3A_Soil_Physics_and_Water_Relations/5.12%3A_Activity_4_-_Infiltration_Estimates_and_Available_Water_Calculations
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/05%3A_Soil_Physics_and_Water_Relations/5.13%3A_Activity_5_-_Effects_of_Soil_Erosion
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Soils_Laboratory_Manual_(Moorberg_and_Crouse)/03%3A_Soil_Physics/03.3%3A_Soil_and_Water_Relationships
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Soils_Laboratory_Manual_(Moorberg_and_Crouse)/03%3A_Soil_Physics/03.4%3A_Soil_Water_Measurement_and_Movement
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/05%3A_Soil_Particles_Water_and_Air/5.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/05%3A_Soil_Particles_Water_and_Air/5.02%3A_Texture_-_A_Basic_Soil_Property
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/05%3A_Soil_Particles_Water_and_Air/5.03%3A_Water_and_Aeration
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/05%3A_Soil_Particles_Water_and_Air/5.04%3A_Available_Water_and_Rooting
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/05%3A_Soil_Particles_Water_and_Air/5.05%3A_Infiltration_Versus_Runoff
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/05%3A_Soil_Particles_Water_and_Air/5.06%3A_Soil_Water_and_Aggregation
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/05%3A_Soil_Particles_Water_and_Air/5.07%3A_What_Comes_From_the_Sky-_The_Lifeblood_of_Ecosystems
     target: 99
     candidates:
     - Amplitude domain reflectometry
@@ -403,6 +443,7 @@ parts:
     - Thermal conductivity and resistivity
     - Thermal effusivity
     - Units of textile measurement
+    - Greenhouse gas
     target: 28
     candidates:
     - Lithalsa
@@ -441,6 +482,7 @@ parts:
     - Volcanic glass
     - X-ray fluorescence
     - Zeolite
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Digging_into_Canadian_Soils%3A_An_Introduction_to_Soil_Science/03%3A_Digging_Deeper/3.01%3A_Soil_Mineralogy
   - key: clay-minerals-and-colloids
     title: Clay minerals and colloids
     seeds:
@@ -504,6 +546,10 @@ parts:
     - Adsorption
     - Desorption
     - Equivalent (chemistry)
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/07%3A_Soil_Chemistry/7.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/07%3A_Soil_Chemistry/7.03%3A_Activity_2_-_Soil_Charge
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/07%3A_Soil_Chemistry/7.06%3A_Activity_5_-_Reduction_and_Oxidation_Reactions
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Digging_into_Canadian_Soils%3A_An_Introduction_to_Soil_Science/01%3A_Digging_In/1.05%3A_Soil_Chemistry
     target: 29
     candidates:
     - Hydrogen cycle
@@ -594,6 +640,13 @@ parts:
     - Salinity
     - Saltwater intrusion
     - Van Genuchten–Gupta model
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/20%3A_Other_Fertility_Issues/20.02%3A_Other_Nutrients
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/20%3A_Other_Fertility_Issues/20.03%3A_Cation_Exchange_Capacity_(CEC)_Management
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/20%3A_Other_Fertility_Issues/20.04%3A_Soil_Acidity
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/20%3A_Other_Fertility_Issues/20.05%3A_Remediation_of_Sodic_(Alkali)_and_Saline_Soils
+    - Gypsum
+    - Air pollution
+    - Granite
     target: 44
     candidates:
     - Brackish marsh
@@ -678,6 +731,18 @@ parts:
     - Streptomyces
     - Symbiosis
     - Termite
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/10%3A_Soil_Ecology/10.01%3A_Microbial_Activity_and_the_Carbon_Cycle
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/10%3A_Soil_Ecology/10.02%3A_Humus
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/10%3A_Soil_Ecology/10.03%3A_Soil_Microorganisms
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/10%3A_Soil_Ecology/10.05%3A_Carbon_Nitrogen_Ratio
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/10%3A_Soil_Ecology/10.10%3A_Activity_3_-_Soil_Nitrate-Nitrogen_Analysis
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/10%3A_Soil_Ecology/10.12%3A_Activity_5_-_Winogradsky_Columns
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/04%3A_The_Living_Soil/4.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/04%3A_The_Living_Soil/4.02%3A_Soil_Microorganisms
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/04%3A_The_Living_Soil/4.03%3A_Small_and_Medium-Size_Soil_Animals
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/04%3A_The_Living_Soil/4.05%3A_Plant_Roots
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/04%3A_The_Living_Soil/4.06%3A_Biological_Diversity_Abundance_Activity_and_Balance
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Digging_into_Canadian_Soils%3A_An_Introduction_to_Soil_Science/01%3A_Digging_In/1.06%3A_Soil_Biodiversity_and_Ecology
     target: 87
     candidates:
     - Bacteria
@@ -853,6 +918,23 @@ parts:
     - Remineralisation
     - Saprophagy
     - Suberin
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/02%3A_What_Is_Organic_Matter_and_Why_Is_It_So_Important/2.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/02%3A_What_Is_Organic_Matter_and_Why_Is_It_So_Important/2.02%3A_Why_Soil_Organic_Matter_is_So_Important
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/02%3A_What_Is_Organic_Matter_and_Why_Is_It_So_Important/2.03%3A_Organic_Matter_And_Natural_Cycles
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/03%3A_Amount_of_Organic_Matter_in_Soils/3.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/03%3A_Amount_of_Organic_Matter_in_Soils/3.02%3A_Natural_Factors
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/03%3A_Amount_of_Organic_Matter_in_Soils/3.03%3A_Human_Influences
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/03%3A_Amount_of_Organic_Matter_in_Soils/3.04%3A_Organic_Matter_Distribution_Within_Soil
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/03%3A_Amount_of_Organic_Matter_in_Soils/3.05%3A_Active_Versus_Passive_Organic_Matter
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/03%3A_Amount_of_Organic_Matter_in_Soils/3.06%3A_Amounts_of_Living_Organic_Matter
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/03%3A_Amount_of_Organic_Matter_in_Soils/3.07%3A_How_Much_Organic_Matter_Is_Enough
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/03%3A_Amount_of_Organic_Matter_in_Soils/3.08%3A_Organic_Matter_and_Cropping_Systems
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/03%3A_Amount_of_Organic_Matter_in_Soils/3.09%3A_The_Dynamics_of_Raising_and_Maintaining_Soil_Organic_Matter_Levels
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/09%3A_Managing_for_High-Quality_Soils_and_Focusing_on_Organic_Matter_Management/9.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/09%3A_Managing_for_High-Quality_Soils_and_Focusing_on_Organic_Matter_Management/9.02%3A_Organic_Matter_Management
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/09%3A_Managing_for_High-Quality_Soils_and_Focusing_on_Organic_Matter_Management/9.04%3A_Besides_Organic_Matter_Management
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Digging_into_Canadian_Soils%3A_An_Introduction_to_Soil_Science/01%3A_Digging_In/1.03%3A_Soil_Organic_Matter
+    - Epiphyte
     target: 44
     candidates:
     - Kerogen
@@ -897,6 +979,10 @@ parts:
     - Référentiel pédologique
     - AASHTO Soil Classification System
     - Soil series
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/03%3A_Taxonomy/3.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/03%3A_Taxonomy/3.04%3A_Activity_2_-_Taxonomic_Class
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Soils_Laboratory_Manual_(Moorberg_and_Crouse)/02%3A_Soil_Formation_Classification_and_Mapping/02.2%3A_Soil_Classification_and_Mapping
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Digging_into_Canadian_Soils%3A_An_Introduction_to_Soil_Science/01%3A_Digging_In/1.08%3A_Soil_Classification_and_Distribution
     target: 49
     candidates:
     - Calcid
@@ -959,6 +1045,7 @@ parts:
     - Technosol
     - Umbrisol
     - Albeluvisols
+    - pdf>wrb-2022/WRB_fourth_edition_2022-12-18.pdf
     target: 33
     share: 0.02
   - key: other-soil-types
@@ -1025,6 +1112,11 @@ parts:
     - Potassium deficiency (plants)
     - Trace element
     - Zinc deficiency (plant disorder)
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/18%3A_Nutrient_Management/18.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/18%3A_Nutrient_Management/18.02%3A_The_Bottom_Line-_Nutrients_and_Plant_Health_Pests_Profits_and_the_Environment
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/18%3A_Nutrient_Management/18.03%3A_Organic_Matter_and_Nutrient_Availability
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/18%3A_Nutrient_Management/18.04%3A_Improving_Nutrient_Cycling_on_the_Farm
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/18%3A_Nutrient_Management/18.05%3A_Using_Fertilizers_and_Amendments
     target: 52
     candidates:
     - Barren vegetation
@@ -1067,6 +1159,13 @@ parts:
     - Selenium cycle
     - Sulfur assimilation
     - Urease
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/07%3A_Carbon_and_Nutrient_Cycles_and_Flows/7.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/07%3A_Carbon_and_Nutrient_Cycles_and_Flows/7.02%3A_Carbon_and_Nutrient_Flows_in_History
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/07%3A_Carbon_and_Nutrient_Cycles_and_Flows/7.03%3A_Cycling_and_Flows_in_Modern_Agriculture
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/07%3A_Carbon_and_Nutrient_Cycles_and_Flows/7.04%3A_Flow_Patterns_at_Farm_Scale
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/07%3A_Carbon_and_Nutrient_Cycles_and_Flows/7.05%3A_Flow_Patterns_at_Large_Scale
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Digging_into_Canadian_Soils%3A_An_Introduction_to_Soil_Science/01%3A_Digging_In/1.07%3A_Soil_Nutrient_Cycling
+    - Nitrous oxide
     target: 50
     candidates:
     - Ammonium nitrate
@@ -1117,6 +1216,25 @@ parts:
     - Potash
     - Sewage sludge
     - Wood ash
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/12%3A_Integrating_Crops_and_Livestock/12.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/12%3A_Integrating_Crops_and_Livestock/12.02%3A_Types_of_Crop-Livestock_Farms
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/12%3A_Integrating_Crops_and_Livestock/12.03%3A_Manure
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/12%3A_Integrating_Crops_and_Livestock/12.05%3A_Manure_Handling_Systems
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/12%3A_Integrating_Crops_and_Livestock/12.06%3A_Chemical_Characteristics_of_Manures
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/12%3A_Integrating_Crops_and_Livestock/12.07%3A_Effects_of_Manuring_on_Soils
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/12%3A_Integrating_Crops_and_Livestock/12.08%3A_Using_Manures
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/12%3A_Integrating_Crops_and_Livestock/12.09%3A_Estimating_Manure_Nutrient_Availability
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/12%3A_Integrating_Crops_and_Livestock/12.10%3A_Grazing
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/12%3A_Integrating_Crops_and_Livestock/12.11%3A_Potential_Problems_Using_Manures
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/13%3A_Making_and_Using_Composts/13.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/13%3A_Making_and_Using_Composts/13.02%3A_Making_Composts
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/13%3A_Making_and_Using_Composts/13.03%3A_Other_Composting_Techniques
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/13%3A_Making_and_Using_Composts/13.04%3A_Using_Composts
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/13%3A_Making_and_Using_Composts/13.05%3A_Advantages_of_Composting
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/19%3A_Management_of_Nitrogen_and_Phosphorus/19.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/19%3A_Management_of_Nitrogen_and_Phosphorus/19.02%3A_Management_of_N_and_P
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/19%3A_Management_of_Nitrogen_and_Phosphorus/19.03%3A_Planning_for_N_and_P_Management
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/19%3A_Management_of_Nitrogen_and_Phosphorus/19.04%3A_Managing_High-P_Soils
     target: 96
     candidates:
     - Ammonia volatilization from urea
@@ -1191,6 +1309,7 @@ parts:
     - Stream power
     - Suspended load
     - Wind erosion equation
+    - Marine clay
     target: 113
     candidates:
     - Ball clay
@@ -1319,6 +1438,19 @@ parts:
     - Shifting cultivation
     - Slash-and-burn agriculture
     - Sustainable agriculture
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/10%3A_Cover_Crops/10.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/10%3A_Cover_Crops/10.02%3A_Benefits_of_Cover_Crops
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/10%3A_Cover_Crops/10.03%3A_Types_of_Cover_Crops
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/10%3A_Cover_Crops/10.04%3A_Cover_Crop_Management
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/11%3A_Diversifying_Cropping_Systems/11.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/11%3A_Diversifying_Cropping_Systems/11.02%3A_Why_Rotations
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/11%3A_Diversifying_Cropping_Systems/11.03%3A_Rotations_and_Soil_Organic_Matter_Levels
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/11%3A_Diversifying_Cropping_Systems/11.05%3A_Species_Richness_and_Active_Rooting_Periods
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/11%3A_Diversifying_Cropping_Systems/11.06%3A_Rotations_Water_Quality_and_Gaseous_Losses_of_N
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/11%3A_Diversifying_Cropping_Systems/11.07%3A_Farm_Labor_and_Economics
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/11%3A_Diversifying_Cropping_Systems/11.08%3A_General_Principles
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/11%3A_Diversifying_Cropping_Systems/11.09%3A_Rotation_Examples
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/11%3A_Diversifying_Cropping_Systems/11.10%3A_Agroforestry
     target: 55
     candidates:
     - Bioeffector
@@ -1370,6 +1502,10 @@ parts:
     - Mulch-till
     - Stubble burning
     - Stubble-mulching
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/16%3A_Minimizing_Tillage/16.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/16%3A_Minimizing_Tillage/16.02%3A_Tillage_Systems
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/16%3A_Minimizing_Tillage/16.03%3A_Which_Tillage_System_is_Right_for_Your_Farm
+    - Desalination
     target: 36
     candidates: []
     share: 0.0218
@@ -1395,6 +1531,12 @@ parts:
     - Bioretention
     - Buffer strip
     - Vetiver System
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/14%3A_Reducing_Runoff_and_Erosion/14.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/14%3A_Reducing_Runoff_and_Erosion/14.02%3A_Tolerable_Soil_Loss
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/14%3A_Reducing_Runoff_and_Erosion/14.03%3A_Off-Site_Effects
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/14%3A_Reducing_Runoff_and_Erosion/14.04%3A_Addressing_Runoff_and_Erosion
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/14%3A_Reducing_Runoff_and_Erosion/14.05%3A_Other_Practices_and_Structures_for_Soil_Conservation
+    - Biological pest control
     target: 23
     candidates:
     - Lynchet
@@ -1418,6 +1560,11 @@ parts:
     - Onsite sewage facility
     - Remote sensing
     - Stereoscopy
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/04%3A_Mapping_Survey/4.02%3A_What_is_a_soil_survey
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/04%3A_Mapping_Survey/4.03%3A_Challenges_in_soil_surveying
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/04%3A_Mapping_Survey/4.04%3A_Responsibility_for_soil_surveys
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/04%3A_Mapping_Survey/4.05%3A_Activity_1_-_Using_Web_Soil_Survey
+    - Land use
     target: 14
     candidates: []
     share: 0.0085
@@ -1445,6 +1592,16 @@ parts:
     - Pentetic acid
     - Sample preparation
     - Wood auger
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/21%3A_Analyzing_Your_Soil_and_Crop/21.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/21%3A_Analyzing_Your_Soil_and_Crop/21.02%3A_Taking_Soil_Samples
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/21%3A_Analyzing_Your_Soil_and_Crop/21.03%3A_Accuracy_of_Recommendations_Based_on_Soil_Tests
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/21%3A_Analyzing_Your_Soil_and_Crop/21.05%3A_Soil_Testing_for_Nitrogen
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/21%3A_Analyzing_Your_Soil_and_Crop/21.06%3A_Soil_Testing_for_P
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/21%3A_Analyzing_Your_Soil_and_Crop/21.09%3A_Interpreting_Soil_Test_Results
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/21%3A_Analyzing_Your_Soil_and_Crop/21.10%3A_Adjusting_a_Soil_Test_Recommendation
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/21%3A_Analyzing_Your_Soil_and_Crop/21.11%3A_Making_Adjustments_to_Fertilizer_Application_Rates
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/21%3A_Analyzing_Your_Soil_and_Crop/21.12%3A_Managing_Field_Nutrient_Variability
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/21%3A_Analyzing_Your_Soil_and_Crop/21.13%3A_Testing_High_Tunnel_Soils
   - key: soil-micromorphology
     title: Soil micromorphology
     seeds:
@@ -1487,6 +1644,7 @@ parts:
     - Topographic wetness index
     - Uncertainty quantification
     - Variogram
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Digging_into_Canadian_Soils%3A_An_Introduction_to_Soil_Science/03%3A_Digging_Deeper/3.04%3A_Digital_Soil_Mapping
 - key: env
   title: Environmental soil science and climate
   chapters:
@@ -1520,6 +1678,7 @@ parts:
     - Peatland restoration
     - Terrestrial biological carbon cycle
     - Verification and validation
+    - Tipping points in the climate system
     target: 70
     candidates:
     - Syngenetic permafrost growth
@@ -1546,6 +1705,13 @@ parts:
     - Woody plant encroachment
     - Deforestation
     - Overgrazing
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/06%3A_Soil_Degradation-_Erosion_Compaction_and_Contamination/6.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/06%3A_Soil_Degradation-_Erosion_Compaction_and_Contamination/6.02%3A_Erosion
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/06%3A_Soil_Degradation-_Erosion_Compaction_and_Contamination/6.03%3A_Soil_Tilth_and_Compaction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/06%3A_Soil_Degradation-_Erosion_Compaction_and_Contamination/6.04%3A_Consequences_of_Compaction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/06%3A_Soil_Degradation-_Erosion_Compaction_and_Contamination/6.05%3A_The_Water_Range_for_Best_Plant_Growth
+    - Climate change
+    - Food security
     target: 43
     candidates:
     - Desertification in Lebanon
@@ -1560,6 +1726,12 @@ parts:
     - Soil stockpile
     - Spoil tip
     - Urban forestry
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/22%3A_Soils_for_Urban_Farms_Gardens_and_Green_Spaces/22.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/22%3A_Soils_for_Urban_Farms_Gardens_and_Green_Spaces/22.02%3A_Common_Challenges_with_Urban_Soils
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/22%3A_Soils_for_Urban_Farms_Gardens_and_Green_Spaces/22.03%3A_Testing_for_Soil_Contaminants
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/22%3A_Soils_for_Urban_Farms_Gardens_and_Green_Spaces/22.04%3A_Soil_Reconditioning_Strategies
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/22%3A_Soils_for_Urban_Farms_Gardens_and_Green_Spaces/22.05%3A_Urban_Green_Infrastructure
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/22%3A_Soils_for_Urban_Farms_Gardens_and_Green_Spaces/22.06%3A_Other_Construction_Concerns
   - key: soil-health-and-protection
     title: Soil health and protection
     seeds:
@@ -1578,6 +1750,29 @@ parts:
     - Septic tank
     - Mine reclamation
     - Ecosystem service
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/08%3A_Soil_Health/8.01%3A_Introduction_to_Soil_Health
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/08%3A_Soil_Health/8.04%3A_Activity_3_-_Soil_Nitrate
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)/08%3A_Soil_Health/8.05%3A_Activity_4_-_Fertilizer_Calculations
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/01%3A_Healthy_Soils/1.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/01%3A_Healthy_Soils/1.02%3A_How_is_Soil_Made
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/01%3A_Healthy_Soils/1.03%3A_What_Kind_of_Soil_Do_You_Want
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/01%3A_Healthy_Soils/1.05%3A_How_Do_Soils_Become_Degraded
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/01%3A_Healthy_Soils/1.06%3A_How_Do_You_Build_A_Healthy_High-Quality_Soil
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/01%3A_Healthy_Soils/1.07%3A_Soil_Health_Plant_Health_and_Human_Health
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/08%3A_Soil_Health_Plant_Health_and_Pests/8.02%3A_Soil_Properties_and_Their_Interrelationships
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/08%3A_Soil_Health_Plant_Health_and_Pests/8.03%3A_Ecological_Principles_for_Agriculture
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/08%3A_Soil_Health_Plant_Health_and_Pests/8.04%3A_Ecological_Crop_and_Soil_Management
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/08%3A_Soil_Health_Plant_Health_and_Pests/8.05%3A_Plant_Defenses_Management_Practices_and_Pests
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/08%3A_Soil_Health_Plant_Health_and_Pests/8.06%3A_Inoculate_With_Beneficial_Organisms
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/23%3A_How_Good_Are_Your_Soils/23.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/23%3A_How_Good_Are_Your_Soils/23.03%3A_Field_Indicators
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/23%3A_How_Good_Are_Your_Soils/23.04%3A_Laboratory_Soil_Health_Testing
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/24%3A_Putting_It_All_Together/24.01%3A_Introduction
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/24%3A_Putting_It_All_Together/24.02%3A_General_Approaches
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/24%3A_Putting_It_All_Together/24.03%3A_What_Makes_Sense_for_Your_Situation
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)/24%3A_Putting_It_All_Together/24.04%3A_Practices_to_Help_Remedy_Specific_Constraints
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Digging_into_Canadian_Soils%3A_An_Introduction_to_Soil_Science/03%3A_Digging_Deeper/3.02%3A_Soil_Health_and_Management
+    - Food and Agriculture Organization
     target: 23
     candidates:
     - Aerobic granulation
@@ -1655,6 +1850,7 @@ parts:
     - Thermal desorption
     - Total petroleum hydrocarbon
     - Vapor intrusion
+    - doc>geo.libretexts.org/Bookshelves/Soil_Science/Digging_into_Canadian_Soils%3A_An_Introduction_to_Soil_Science/03%3A_Digging_Deeper/3.03%3A_Soil_Reclamation_and_Remediation_of_Disturbed_Lands
     target: 55
     candidates:
     - Biofilter
@@ -1709,6 +1905,8 @@ parts:
     - Tephrochronology
     - Thermoluminescence dating
     - Δ13C
+    - Photosynthesis
+    - Quartz
   - key: forensic-and-archaeological-soil-science
     title: Forensic and archaeological soil science
     seeds:
@@ -1788,6 +1986,7 @@ parts:
     - Konstantin Gedroits
     - Nicolas Théodore de Saussure
     - Thomas Lyttleton Lyon
+    - Heath
     target: 26
     candidates:
     - Abdul Karim (soil scientist)

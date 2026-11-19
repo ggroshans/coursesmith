@@ -1,0 +1,51 @@
+{
+ "soil-fert-279": [
+  {
+   "type": "table",
+   "caption": "Yearly exports per acre differ sharply between corn grain and grass hay.",
+   "sent_ids": [
+    "37c12a5e5567",
+    "dcd7c296344d",
+    "cef58c1a4028",
+    "f2f7fcce0e84",
+    "a4136ed90dee",
+    "b0d86f144132"
+   ],
+   "header": [
+    "Crop",
+    "N, lb",
+    "P, lb",
+    "K, lb"
+   ],
+   "rows": [
+    [
+     "Corn grain",
+     "135",
+     "25",
+     "35"
+    ],
+    [
+     "Grass hay",
+     "150",
+     "20",
+     "130"
+    ]
+   ]
+  }
+ ],
+ "soil-fert-278": [
+  {
+   "type": "flow",
+   "caption": "Each break moves nutrients farther from the soils they came from.",
+   "sent_ids": [
+    "83ed5c46b9ee",
+    "fd03c8bbadf1",
+    "051c783ed2da",
+    "7096bbc8cae0",
+    "70da5c466452",
+    "75cc1649a17b"
+   ],
+   "mermaid": "flowchart TD\nA[Mixed crop and animal farms] -->|cities grow| B[First break]\nB -->|specialization| C[Second break]\nC -->|crops shipped overseas| D[Third break]"
+  }
+ ]
+}

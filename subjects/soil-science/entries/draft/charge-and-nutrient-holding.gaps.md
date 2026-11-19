@@ -7,3 +7,8 @@
 - Siderophores: `Siderophore` (never crawled; folded into Natural chelating agents)
 - Isomorphous substitution behind permanent charge: `Isomorphous substitution` (only passing mentions on Soil, Soil matrix and Montmorillonite)
 - J. Thomas Way, credited as father of soil chemistry and discoverer of cation exchange: `John Thomas Way` (two passing mentions; dates disagree)
+
+- Lab activities (dye leaching, redox mesocosms): skipped, no explainable facts
+- Redox ladder/Eh-pH diagram: already covered by redox chapter
+
+- Sudbury Regreening: case study, skipped; most of this survey page repeats existing entries

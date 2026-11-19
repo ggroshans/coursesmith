@@ -137,11 +137,15 @@ def build(subject, chapter="all", log=print, new=False):
     if not wanted:
         raise SystemExit(f"no frame chapter '{chapter}'")
     summary = []
+    cited = set()
+    if new:  # a gap-fill reads only what no entry rests on yet: pages consolidated before dossiers listed them count too
+        for e in subject.entries():
+            cited.update(s.get("title") for s in e.get("sources") or [])
     for pk, ck, ptitle, ctitle in wanted:
         seeds, assigned = chapter_pages(subject, graph, ck)
         lines = []
         out = subject.dossier_dir / ck
-        done = _done_pages(out) if new else set()
+        done = (_done_pages(out) | cited) if new else set()
         for t in seeds + assigned:
             if t in done:
                 continue

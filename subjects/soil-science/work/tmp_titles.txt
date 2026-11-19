@@ -1,0 +1,2581 @@
+Soil acidification |8||acidity-alkalinity-and-salinit
+Acid rain and soil |8||acidity-alkalinity-and-salinit
+Biological acidification |3||acidity-alkalinity-and-salinit
+Acidic parent materials |3||acidity-alkalinity-and-salinit
+Fertilizer-induced acidification |5||acidity-alkalinity-and-salinit
+Effects of soil acidification |4||acidity-alkalinity-and-salinit
+Managing soil acidification |4||acidity-alkalinity-and-salinit
+Soil salinity |8||acidity-alkalinity-and-salinit
+Sodic soil |6||acidity-alkalinity-and-salinit
+Irrigation salinity |8||acidity-alkalinity-and-salinit
+Soil salinity control |8||acidity-alkalinity-and-salinit
+Measuring soil salinity |5||acidity-alkalinity-and-salinit
+Leaching requirement |4||acidity-alkalinity-and-salinit
+Drainage for salinity control |4||acidity-alkalinity-and-salinit
+Strip cropping for salinity control |3||acidity-alkalinity-and-salinit
+Soil salinity models |3||acidity-alkalinity-and-salinit
+Sodium adsorption ratio |7||acidity-alkalinity-and-salinit
+Exchangeable sodium percentage |5||acidity-alkalinity-and-salinit
+Alkali soil |8||acidity-alkalinity-and-salinit
+Man-made soil alkalinity |4||acidity-alkalinity-and-salinit
+Reclaiming alkali soils |7||acidity-alkalinity-and-salinit
+Saline-alkali aquaculture |3||acidity-alkalinity-and-salinit
+Residual sodium carbonate index |4||acidity-alkalinity-and-salinit
+Dryland salinity |7||acidity-alkalinity-and-salinit
+Primary and secondary salinity |3||acidity-alkalinity-and-salinit
+Managing dryland salinity |4||acidity-alkalinity-and-salinit
+Saline seep |3||acidity-alkalinity-and-salinit
+Salinity in Australia |8||acidity-alkalinity-and-salinit
+Australian salinity programs |4||acidity-alkalinity-and-salinit
+Acid sulfate soil |8||acidity-alkalinity-and-salinit
+Pyrite oxidation in acid sulfate soils |4||acidity-alkalinity-and-salinit
+Sulfidic and sulfuric material |4||acidity-alkalinity-and-salinit
+Acid base accounting |4||acidity-alkalinity-and-salinit
+Managing acid sulfate soils |4||acidity-alkalinity-and-salinit
+Calcareous soil |5||acidity-alkalinity-and-salinit
+Caliche |8||acidity-alkalinity-and-salinit
+Chilean caliche |4||acidity-alkalinity-and-salinit
+Gypcrust |4||acidity-alkalinity-and-salinit
+Duricrust |5||acidity-alkalinity-and-salinit
+SahysMod |4||acidity-alkalinity-and-salinit
+Environmental impact of irrigation |8||acidity-alkalinity-and-salinit
+Framboid |4||acidity-alkalinity-and-salinit
+Maas–Hoffman model |4||acidity-alkalinity-and-salinit
+Agricultural gypsum |4||acidity-alkalinity-and-salinit
+Halophyte |4||acidity-alkalinity-and-salinit
+Pyrite |4||acidity-alkalinity-and-salinit
+Biosaline agriculture |7||acidity-alkalinity-and-salinit
+Halotolerance |4||acidity-alkalinity-and-salinit
+Critical load |7||acidity-alkalinity-and-salinit
+Van Genuchten–Gupta model |3||acidity-alkalinity-and-salinit
+Road salt and soil |4||acidity-alkalinity-and-salinit
+Saltwater intrusion |4||acidity-alkalinity-and-salinit
+Alkalinity |4||acidity-alkalinity-and-salinit
+Electrolytic conductivity |3||acidity-alkalinity-and-salinit
+Manganese toxicity |3||acidity-alkalinity-and-salinit
+Brønsted–Lowry acid–base theory |6||acidity-alkalinity-and-salinit
+Buffer solution |8||acidity-alkalinity-and-salinit
+Efflorescence |3||acidity-alkalinity-and-salinit
+Electrical resistivity and conductivity |6||acidity-alkalinity-and-salinit
+Osmotic pressure |4||acidity-alkalinity-and-salinit
+Organic matter contribution to CEC |4||acidity-alkalinity-and-salinit
+Managing cation exchange capacity |4||acidity-alkalinity-and-salinit
+Copper deficiency |2||acidity-alkalinity-and-salinit
+Sulfur deficiency |3||acidity-alkalinity-and-salinit
+Boron deficiency |3||acidity-alkalinity-and-salinit
+Zinc deficiency |2||acidity-alkalinity-and-salinit
+Reserve acidity |3||acidity-alkalinity-and-salinit
+Crop pH requirements |4||acidity-alkalinity-and-salinit
+Benefits of liming |3||acidity-alkalinity-and-salinit
+Soil sampling for pH |3||acidity-alkalinity-and-salinit
+Lime requirement |3||acidity-alkalinity-and-salinit
+Fertilizer-induced acidification |2||acidity-alkalinity-and-salinit
+Leaching requirement |2||acidity-alkalinity-and-salinit
+Agricultural gypsum |2||acidity-alkalinity-and-salinit
+Saline soil management without shallow groundwater |4||acidity-alkalinity-and-salinit
+Cation-exchange capacity |8||charge-and-nutrient-holding.js
+Cation exchange |8||charge-and-nutrient-holding.js
+Permanent charge |4||charge-and-nutrient-holding.js
+Variable charge |4||charge-and-nutrient-holding.js
+Diffuse double layer |4||charge-and-nutrient-holding.js
+Measuring cation-exchange capacity |4||charge-and-nutrient-holding.js
+Base saturation |6||charge-and-nutrient-holding.js
+Anion-exchange capacity |8||charge-and-nutrient-holding.js
+Base-richness |4||charge-and-nutrient-holding.js
+Base-cation saturation ratio |7||charge-and-nutrient-holding.js
+William Albrecht |4||charge-and-nutrient-holding.js
+Discovery of cation exchange |2||charge-and-nutrient-holding.js
+Humic substance |7||charge-and-nutrient-holding.js
+Humic acid |4||charge-and-nutrient-holding.js
+Fulvic acid |4||charge-and-nutrient-holding.js
+Humic substance fractionation |4||charge-and-nutrient-holding.js
+Chemistry of humic substances |4||charge-and-nutrient-holding.js
+Humification debate |5||charge-and-nutrient-holding.js
+Humic substances and plant growth |4||charge-and-nutrient-holding.js
+Artificial humic substances |4||charge-and-nutrient-holding.js
+Humate |2||charge-and-nutrient-holding.js
+Humic acid in drinking water |3||charge-and-nutrient-holding.js
+Sorption |6||charge-and-nutrient-holding.js
+Chelation |7||charge-and-nutrient-holding.js
+Chelate effect |3||charge-and-nutrient-holding.js
+Natural chelating agents |4||charge-and-nutrient-holding.js
+Chelated micronutrient fertilizers |4||charge-and-nutrient-holding.js
+Leonardite |4||charge-and-nutrient-holding.js
+Potassium humate |3||charge-and-nutrient-holding.js
+Point of zero charge |4||charge-and-nutrient-holding.js
+Adsorption |7||charge-and-nutrient-holding.js
+Adsorption isotherm |7||charge-and-nutrient-holding.js
+Desorption |4||charge-and-nutrient-holding.js
+Chemical equivalent |4||charge-and-nutrient-holding.js
+Estimating CEC from clay mineralogy |3||charge-and-nutrient-holding.pa
+Measuring cation-exchange capacity |2||charge-and-nutrient-holding.pa
+Soil colloids |4||charge-and-nutrient-holding.pa
+Saline, sodic and saline-sodic soils |4||charge-and-nutrient-holding.pa
+Reclaiming salt-affected soils |3||charge-and-nutrient-holding.pa
+Causes of salt accumulation in soil |3||charge-and-nutrient-holding.pa
+Soil classification |8||classification-systems.jsonl
+Engineering soil classification |6||classification-systems.jsonl
+Natural and technical classification |6||classification-systems.jsonl
+OSHA soil classification |4||classification-systems.jsonl
+Soil type |7||classification-systems.jsonl
+USDA soil taxonomy |7||classification-systems.jsonl
+USDA suborders and great groups |4||classification-systems.jsonl
+USDA soil subgroups |4||classification-systems.jsonl
+USDA soil family |3||classification-systems.jsonl
+Soil temperature regime |4||classification-systems.jsonl
+Soil moisture regime |7||classification-systems.jsonl
+1938 USDA soil taxonomy |4||classification-systems.jsonl
+Intrazonal soil |3||classification-systems.jsonl
+Azonal soil |3||classification-systems.jsonl
+Zonal soil |2||classification-systems.jsonl
+World Reference Base for Soil Resources |8||classification-systems.jsonl
+WRB diagnostics |7||classification-systems.jsonl
+Naming a soil with the WRB |4||classification-systems.jsonl
+WRB map legends |4||classification-systems.jsonl
+Reference Soil Groups |7||classification-systems.jsonl
+FAO soil classification |8||classification-systems.jsonl
+Australian Soil Classification |8||classification-systems.jsonl
+Canadian system of soil classification |8||classification-systems.jsonl
+Cryosolic order |4||classification-systems.jsonl
+Canadian Organic order |3||classification-systems.jsonl
+Vertisolic order |3||classification-systems.jsonl
+Podzolic order |4||classification-systems.jsonl
+Gleysolic order |4||classification-systems.jsonl
+Solonetzic order |4||classification-systems.jsonl
+Chernozemic order |3||classification-systems.jsonl
+Luvisolic order |3||classification-systems.jsonl
+Brunisolic order |3||classification-systems.jsonl
+Regosolic order |3||classification-systems.jsonl
+Polish Soil Classification |4||classification-systems.jsonl
+Référentiel pédologique |2||classification-systems.jsonl
+AASHTO Soil Classification System |4||classification-systems.jsonl
+Soil series |6||classification-systems.jsonl
+State soil |4||classification-systems.jsonl
+Vineyard soils |4||classification-systems.jsonl
+Ranker (soil) |4||classification-systems.jsonl
+Ustic |4||classification-systems.jsonl
+Pedalfer |3||classification-systems.jsonl
+Miami (soil) |4||classification-systems.jsonl
+Anthroposol |4||classification-systems.jsonl
+Argillic |7||classification-systems.jsonl
+Handbook of Australian Soils |2||classification-systems.jsonl
+Greyzem |4||classification-systems.jsonl
+Udic moisture regime |3||classification-systems.jsonl
+Kurosol |4||classification-systems.jsonl
+ISO 14688 |4||classification-systems.jsonl
+Xeric moisture regime |3||classification-systems.jsonl
+Aridic moisture regime |4||classification-systems.jsonl
+Aquic conditions |3||classification-systems.jsonl
+Soil chemistry |7||clay-minerals-and-colloids.jso
+Environmental soil chemistry |3||clay-minerals-and-colloids.jso
+Soil chemistry laboratory methods |4||clay-minerals-and-colloids.jso
+Clay mineral |8||clay-minerals-and-colloids.jso
+Tetrahedral and octahedral sheets |6||clay-minerals-and-colloids.jso
+1:1 and 2:1 clay minerals |6||clay-minerals-and-colloids.jso
+Clay mineral identification |4||clay-minerals-and-colloids.jso
+Clay hypothesis of the origin of life |3||clay-minerals-and-colloids.jso
+Soil colloids |7||clay-minerals-and-colloids.jso
+Isomorphous substitution |7||clay-minerals-and-colloids.jso
+Clay mineral weathering sequence |6||clay-minerals-and-colloids.jso
+Chlorite (clay mineral) |4||clay-minerals-and-colloids.jso
+Kaolinite |8||clay-minerals-and-colloids.jso
+Kaolinite formation in soils |4||clay-minerals-and-colloids.jso
+Halloysite |4||clay-minerals-and-colloids.jso
+Smectite |7||clay-minerals-and-colloids.jso
+Interlayer cations and clay swelling |6||clay-minerals-and-colloids.jso
+Montmorillonite |7||clay-minerals-and-colloids.jso
+Illite |8||clay-minerals-and-colloids.jso
+Vermiculite |6||clay-minerals-and-colloids.jso
+Vermiculite in horticulture |4||clay-minerals-and-colloids.jso
+Allophane |4||clay-minerals-and-colloids.jso
+Imogolite |4||clay-minerals-and-colloids.jso
+Amorphous clays |4||clay-minerals-and-colloids.jso
+Bentonite |4||clay-minerals-and-colloids.jso
+Bentonite amendment of degraded soils |4||clay-minerals-and-colloids.jso
+Fuller's earth |4||clay-minerals-and-colloids.jso
+Clay–water interaction |4||clay-minerals-and-colloids.jso
+Goethite |8||clay-minerals-and-colloids.jso
+Gibbsite |7||clay-minerals-and-colloids.jso
+Sesquioxide clays |8||clay-minerals-and-colloids.jso
+Diatomaceous earth |4||clay-minerals-and-colloids.jso
+Bauxite |4||clay-minerals-and-colloids.jso
+Fougèrite |4||clay-minerals-and-colloids.jso
+Palygorskite |4||clay-minerals-and-colloids.jso
+Ferrihydrite |4||clay-minerals-and-colloids.jso
+Hematite |4||clay-minerals-and-colloids.jso
+Mica |7||clay-minerals-and-colloids.jso
+Clay chemistry |4||clay-minerals-and-colloids.jso
+Clay mineral X-ray diffraction |8||clay-minerals-and-colloids.jso
+Interstratified clay minerals |4||clay-minerals-and-colloids.jso
+Beidellite |2||clay-minerals-and-colloids.jso
+Layer charge |4||clay-minerals-and-colloids.jso
+Colloid |7||clay-minerals-and-colloids.jso
+Colloidal stability |8||clay-minerals-and-colloids.jso
+Colloid-facilitated contaminant transport |4||clay-minerals-and-colloids.jso
+DLVO theory |8||clay-minerals-and-colloids.jso
+Particle aggregation |8||clay-minerals-and-colloids.jso
+Schulze–Hardy rule |4||clay-minerals-and-colloids.jso
+Zeta potential |7||clay-minerals-and-colloids.jso
+Peptization |4||clay-minerals-and-colloids.jso
+Hydrous oxides |3||clay-minerals-and-colloids.jso
+Iron oxides |8||clay-minerals-and-colloids.jso
+Lepidocrocite |4||clay-minerals-and-colloids.jso
+Limonite |4||clay-minerals-and-colloids.jso
+Maghemite |4||clay-minerals-and-colloids.jso
+Sepiolite |4||clay-minerals-and-colloids.jso
+Measuring specific surface area |4||clay-minerals-and-colloids.jso
+Van der Waals force |7||clay-minerals-and-colloids.par
+X-ray diffraction |5||clay-minerals-and-colloids.par
+Soil contamination |8||contamination-and-remediation.
+Sources of soil contamination |8||contamination-and-remediation.
+Microplastics in soil |8||contamination-and-remediation.
+Pesticides in soil |8||contamination-and-remediation.
+DDT |8||contamination-and-remediation.
+War-related soil contamination |4||contamination-and-remediation.
+Exposure pathways of soil contaminants |5||contamination-and-remediation.
+Health effects of soil contamination |4||contamination-and-remediation.
+Ecological effects of soil contamination |6||contamination-and-remediation.
+Biomagnification |8||contamination-and-remediation.
+Contaminant effects on soil functions |3||contamination-and-remediation.
+Soil remediation |8||contamination-and-remediation.
+Contaminated land risk assessment |8||contamination-and-remediation.
+Soil guideline value |4||contamination-and-remediation.
+Nonpoint source pollution |8||contamination-and-remediation.
+Agricultural nonpoint source pollution |4||contamination-and-remediation.
+Pathogens in runoff |3||contamination-and-remediation.
+Heavy metals in soil |8||contamination-and-remediation.
+Nutrient pollution |8||contamination-and-remediation.
+Eutrophication |7||contamination-and-remediation.
+Nutrient trading |3||contamination-and-remediation.
+Nutrient source apportionment |3||contamination-and-remediation.
+Bioremediation |8||contamination-and-remediation.
+Bioventing |4||contamination-and-remediation.
+Biosparging |2||contamination-and-remediation.
+Natural attenuation |6||contamination-and-remediation.
+Biopiles and windrows |3||contamination-and-remediation.
+Anaerobic bioremediation |3||contamination-and-remediation.
+Pesticide bioremediation |3||contamination-and-remediation.
+Limitations of bioremediation |4||contamination-and-remediation.
+Genetically engineered bioremediation |3||contamination-and-remediation.
+Bioaugmentation |3||contamination-and-remediation.
+Mycoremediation |7||contamination-and-remediation.
+Fungal biosorption of metals |4||contamination-and-remediation.
+Fungal degradation of organic pollutants |4||contamination-and-remediation.
+Mycorrhizoremediation |4||contamination-and-remediation.
+Phytoremediation |7||contamination-and-remediation.
+Phytoextraction |4||contamination-and-remediation.
+Phytostabilization |3||contamination-and-remediation.
+Phytodegradation |2||contamination-and-remediation.
+Phytostimulation |3||contamination-and-remediation.
+Phytovolatilization |2||contamination-and-remediation.
+Rhizofiltration |4||contamination-and-remediation.
+Phytoscreening |3||contamination-and-remediation.
+Soil vapor extraction |8||contamination-and-remediation.
+SVE off-gas treatment |4||contamination-and-remediation.
+Electrokinetic remediation |8||contamination-and-remediation.
+GIS in environmental contamination |4||contamination-and-remediation.
+DRASTIC aquifer vulnerability index |3||contamination-and-remediation.
+Hyperaccumulator |8||contamination-and-remediation.
+Phytomining |4||contamination-and-remediation.
+Metallophyte |3||contamination-and-remediation.
+Landfarming |4||contamination-and-remediation.
+In situ thermal desorption |4||contamination-and-remediation.
+Biostimulation |4||contamination-and-remediation.
+Surfactant leaching |2||contamination-and-remediation.
+Toxicity characteristic leaching procedure |3||contamination-and-remediation.
+Persistent organic pollutant |7||contamination-and-remediation.
+Polycyclic aromatic hydrocarbon |8||contamination-and-remediation.
+PFAS |8||contamination-and-remediation.
+Brownfield land |6||contamination-and-remediation.
+Permeable reactive barrier |4||contamination-and-remediation.
+Radioactive contamination |6||contamination-and-remediation.
+Point source pollution |3||contamination-and-remediation.
+Biosorption |4||contamination-and-remediation.
+Dense non-aqueous phase liquid |4||contamination-and-remediation.
+Light non-aqueous phase liquid |2||contamination-and-remediation.
+Phytotoxicity |4||contamination-and-remediation.
+Pneumatic fracturing |2||contamination-and-remediation.
+Total petroleum hydrocarbon |3||contamination-and-remediation.
+Vapor intrusion |4||contamination-and-remediation.
+Sustainable remediation |4||contamination-and-remediation.
+In situ chemical reduction |4||contamination-and-remediation.
+Bioremediation of PCBs |4||contamination-and-remediation.
+Electrical resistance heating |4||contamination-and-remediation.
+Thermal desorption |4||contamination-and-remediation.
+Biodegradation |4||contamination-and-remediation.
+Microbial biodegradation |4||contamination-and-remediation.
+Acid mine drainage treatment |4||contamination-and-remediation.
+Yellow boy |2||contamination-and-remediation.
+Agricultural pollution |6||contamination-and-remediation.
+Pesticide leaching |3||contamination-and-remediation.
+Pesticide |6||contamination-and-remediation.
+Pesticide degradation |7||contamination-and-remediation.
+Pesticide transformation products |3||contamination-and-remediation.
+Air sparging |3||contamination-and-remediation.
+Arsenic contamination of groundwater |7||contamination-and-remediation.
+Groundwater pollution |7||contamination-and-remediation.
+Geogenic groundwater contamination |3||contamination-and-remediation.
+Pathogen removal below on-site sanitation |4||contamination-and-remediation.
+Aquifer vulnerability mapping |3||contamination-and-remediation.
+Groundwater remediation |4||contamination-and-remediation.
+Bioslurping |2||contamination-and-remediation.
+Dual-phase vacuum extraction |2||contamination-and-remediation.
+Environmental remediation |4||contamination-and-remediation.
+Pump and treat |3||contamination-and-remediation.
+Solidification and stabilization |3||contamination-and-remediation.
+Nanoremediation |3||contamination-and-remediation.
+Entomoremediation |2||contamination-and-remediation.
+Surfactant enhanced aquifer remediation |3||contamination-and-remediation.
+Hexavalent chromium |4||contamination-and-remediation.
+Cadmium poisoning |4||contamination-and-remediation.
+Metal toxicity |6||contamination-and-remediation.
+Remediation of metal-contaminated soil |3||contamination-and-remediation.
+Ecotoxicology |5||contamination-and-remediation.
+Ecotoxicity testing |3||contamination-and-remediation.
+Contaminants of emerging concern |4||contamination-and-remediation.
+In situ bioremediation |4||contamination-and-remediation.
+Raymond process |2||contamination-and-remediation.
+Hydrocarbon biodegradation in soil |4||contamination-and-remediation.
+Bioremediation of radioactive waste |4||contamination-and-remediation.
+Bioreduction of radionuclides |3||contamination-and-remediation.
+Phytoextraction of radionuclides |3||contamination-and-remediation.
+Geochemical background |4||contamination-and-remediation.
+Soil reclamation |5||contamination-and-remediation.
+Soil amendments in reclamation |5||contamination-and-remediation.
+Anthroposol |3||contamination-and-remediation.
+Organic and inorganic soil contaminants |4||contamination-and-remediation.
+Remediation strategy selection |4||contamination-and-remediation.
+Soil washing |2||contamination-and-remediation.
+Soil vitrification |3||contamination-and-remediation.
+Thermal desorption |2||contamination-and-remediation.
+Solidification and stabilization |2||contamination-and-remediation.
+Hydrocarbon biodegradation in soil |4||contamination-and-remediation.
+Soil degradation |7||degradation-and-desertificatio
+Soil retrogression |6||degradation-and-desertificatio
+Soil climax and succession |4||degradation-and-desertificatio
+Soil enhancement and rebuilding |4||degradation-and-desertificatio
+Land degradation |8||degradation-and-desertificatio
+Global extent of land degradation |8||degradation-and-desertificatio
+Types of land degradation |3||degradation-and-desertificatio
+Causes of land degradation |7||degradation-and-desertificatio
+Climate change and land degradation |7||degradation-and-desertificatio
+Impacts of land degradation |8||degradation-and-desertificatio
+Land sensitivity and resilience |3||degradation-and-desertificatio
+Land degradation on farms |4||degradation-and-desertificatio
+Sustainable land management |6||degradation-and-desertificatio
+Land degradation neutrality |4||degradation-and-desertificatio
+Desertification |8||degradation-and-desertificatio
+Definitions of desertification |4||degradation-and-desertificatio
+Causes of desertification |6||degradation-and-desertificatio
+Human role in desertification |5||degradation-and-desertificatio
+Climate change and desertification |5||degradation-and-desertificatio
+Drylands |8||degradation-and-desertificatio
+Desertification and dust storms |4||degradation-and-desertificatio
+Desertification and food insecurity |3||degradation-and-desertificatio
+Desertification and poverty |4||degradation-and-desertificatio
+Desertification in the Sahel |4||degradation-and-desertificatio
+Desertification in the Gobi and Mongolia |4||degradation-and-desertificatio
+Desertification in South America |3||degradation-and-desertificatio
+Reversing desertification |5||degradation-and-desertificatio
+Soil improvement against desertification |7||degradation-and-desertificatio
+Desert greening |4||degradation-and-desertificatio
+Farmer-managed natural regeneration |8||degradation-and-desertificatio
+Three-North Shelter Forest Program |8||degradation-and-desertificatio
+Great Green Wall (Africa) |8||degradation-and-desertificatio
+Managed grazing |3||degradation-and-desertificatio
+Agrivoltaics in deserts |3||degradation-and-desertificatio
+History of desertification |4||degradation-and-desertificatio
+Soil sealing |8||degradation-and-desertificatio
+Soil unsealing |4||degradation-and-desertificatio
+Grassland degradation |8||degradation-and-desertificatio
+Overgrazing |8||degradation-and-desertificatio
+Small mammals in grassland degradation |3||degradation-and-desertificatio
+Degrees of grassland degradation |4||degradation-and-desertificatio
+Grassland restoration |4||degradation-and-desertificatio
+United Nations Convention to Combat Desertification |8||degradation-and-desertificatio
+Land consumption |7||degradation-and-desertificatio
+Dryland restoration |4||degradation-and-desertificatio
+Aridity index |4||degradation-and-desertificatio
+Woody plant encroachment |8||degradation-and-desertificatio
+Causes of woody plant encroachment |4||degradation-and-desertificatio
+Woody encroachment and soil carbon |4||degradation-and-desertificatio
+Woody encroachment and soil water |3||degradation-and-desertificatio
+Bush control |4||degradation-and-desertificatio
+Deforestation |6||degradation-and-desertificatio
+Land abandonment |3||degradation-and-desertificatio
+Rangeland management |6||degradation-and-desertificatio
+Shallow compaction |5||degradation-and-desertificatio
+Subsoil compaction |5||degradation-and-desertificatio
+Compaction and root growth |5||degradation-and-desertificatio
+Non-limiting water range |3||degradation-and-desertificatio
+Tillage erosion |2||degradation-and-desertificatio
+Soil physics |8||density-pores-and-compaction.j
+Bulk density |8||density-pores-and-compaction.j
+Measuring soil bulk density |4||density-pores-and-compaction.j
+Particle density |8||density-pores-and-compaction.j
+Porosity |7||density-pores-and-compaction.j
+Soil porosity and texture |4||density-pores-and-compaction.j
+Porosity and hydraulic conductivity |3||density-pores-and-compaction.j
+Types of porosity |4||density-pores-and-compaction.j
+IUPAC pore size classification |3||density-pores-and-compaction.j
+Measuring porosity |4||density-pores-and-compaction.j
+Pore space in soil |8||density-pores-and-compaction.j
+Soil pore size classes |8||density-pores-and-compaction.j
+Soil crack modeling |4||density-pores-and-compaction.j
+Resin-impregnation imaging |3||density-pores-and-compaction.j
+Void ratio |7||density-pores-and-compaction.j
+Unsaturated soil conditions |4||density-pores-and-compaction.j
+Aggregate moisture conditions |2||density-pores-and-compaction.j
+Soil compaction |8||density-pores-and-compaction.j
+Compaction in construction |4||density-pores-and-compaction.j
+Engineering compaction methods |3||density-pores-and-compaction.j
+Laboratory compaction tests |4||density-pores-and-compaction.j
+Soil compaction in agriculture |8||density-pores-and-compaction.j
+Mechanism of soil compaction |5||density-pores-and-compaction.j
+Causes of agricultural compaction |4||density-pores-and-compaction.j
+Effects of soil compaction |8||density-pores-and-compaction.j
+Identifying soil compaction |4||density-pores-and-compaction.j
+Compaction avoidance and mitigation |8||density-pores-and-compaction.j
+Soil mechanics |6||density-pores-and-compaction.j
+Soil mass–volume relations |7||density-pores-and-compaction.j
+Relative density |4||density-pores-and-compaction.j
+Capillary action in soil |5||density-pores-and-compaction.j
+Soil shear tests |2||density-pores-and-compaction.j
+Lightweight deflectometer |1||density-pores-and-compaction.j
+Pore water pressure |7||density-pores-and-compaction.j
+Matric suction |4||density-pores-and-compaction.j
+Effective stress |8||density-pores-and-compaction.j
+Shear strength (soil) |8||density-pores-and-compaction.j
+Factors controlling shear strength |4||density-pores-and-compaction.j
+Undrained shear strength |4||density-pores-and-compaction.j
+Drained shear strength |4||density-pores-and-compaction.j
+Critical state theory |4||density-pores-and-compaction.j
+Steady state soil mechanics |4||density-pores-and-compaction.j
+Cohesion (geology) |5||density-pores-and-compaction.j
+Apparent cohesion |3||density-pores-and-compaction.j
+Angle of repose |4||density-pores-and-compaction.j
+Soil consolidation |8||density-pores-and-compaction.j
+Compression index |4||density-pores-and-compaction.j
+Overconsolidation |4||density-pores-and-compaction.j
+Secondary consolidation |4||density-pores-and-compaction.j
+Origins of consolidation theory |4||density-pores-and-compaction.j
+Overburden pressure |4||density-pores-and-compaction.j
+Soil liquefaction |8||density-pores-and-compaction.j
+Liquefaction potential analysis |2||density-pores-and-compaction.j
+Quicksand |4||density-pores-and-compaction.j
+Thixotropy |4||density-pores-and-compaction.j
+Soil matrix |8||density-pores-and-compaction.j
+Bearing capacity |4||density-pores-and-compaction.j
+Bearing capacity equations |2||density-pores-and-compaction.j
+Seepage |8||density-pores-and-compaction.j
+Flow nets |1||density-pores-and-compaction.j
+Sand boil |4||density-pores-and-compaction.j
+Specific storage and storativity |4||density-pores-and-compaction.j
+Specific yield |3||density-pores-and-compaction.j
+Specific weight |4||density-pores-and-compaction.j
+Dilatancy |4||density-pores-and-compaction.j
+Groundwater-related subsidence |4||density-pores-and-compaction.j
+Lateral earth pressure |3||density-pores-and-compaction.j
+Terzaghi's principle |4||density-pores-and-compaction.j
+Penetrometer |4||density-pores-and-compaction.j
+Geotechnical engineering |8||density-pores-and-compaction.j
+Geotechnical investigation |4||density-pores-and-compaction.j
+Mohr–Coulomb theory |8||density-pores-and-compaction.j
+Oedometer test |8||density-pores-and-compaction.j
+Pore structure |8||density-pores-and-compaction.j
+Porous medium |4||density-pores-and-compaction.j
+Representative elementary volume |4||density-pores-and-compaction.j
+Tortuosity |4||density-pores-and-compaction.j
+Trampling |4||density-pores-and-compaction.j
+Soil strength |4||density-pores-and-compaction.j
+Soil erosion |8||erosion-and-sediment.jsonl
+Erosion |8||erosion-and-sediment.jsonl
+Water erosion |6||erosion-and-sediment.jsonl
+Splash erosion |4||erosion-and-sediment.jsonl
+Sheet erosion |4||erosion-and-sediment.jsonl
+River and stream erosion |4||erosion-and-sediment.jsonl
+Coastal erosion |4||erosion-and-sediment.jsonl
+Chemical erosion |4||erosion-and-sediment.jsonl
+Glacial erosion |4||erosion-and-sediment.jsonl
+Wind erosion |8||erosion-and-sediment.jsonl
+Rainfall erosivity |6||erosion-and-sediment.jsonl
+Vegetation cover and erosion |6||erosion-and-sediment.jsonl
+Slope and erosion |4||erosion-and-sediment.jsonl
+Agriculture and soil erosion |8||erosion-and-sediment.jsonl
+Deforestation and soil erosion |4||erosion-and-sediment.jsonl
+Urbanization and erosion |3||erosion-and-sediment.jsonl
+Climate change and soil erosion |4||erosion-and-sediment.jsonl
+Sediment pollution of waterways |7||erosion-and-sediment.jsonl
+Surface runoff |8||erosion-and-sediment.jsonl
+Infiltration-excess overland flow |3||erosion-and-sediment.jsonl
+Saturation-excess overland flow |3||erosion-and-sediment.jsonl
+Subsurface return flow |2||erosion-and-sediment.jsonl
+Urban runoff |3||erosion-and-sediment.jsonl
+Runoff mitigation |4||erosion-and-sediment.jsonl
+Rill erosion |7||erosion-and-sediment.jsonl
+Rill initiation |4||erosion-and-sediment.jsonl
+Gully erosion |7||erosion-and-sediment.jsonl
+Gully stabilisation |4||erosion-and-sediment.jsonl
+Aeolian processes |7||erosion-and-sediment.jsonl
+Deflation |3||erosion-and-sediment.jsonl
+Wind abrasion |4||erosion-and-sediment.jsonl
+Aeolian transport |4||erosion-and-sediment.jsonl
+Sand dune |4||erosion-and-sediment.jsonl
+Dust storm |8||erosion-and-sediment.jsonl
+Dust |8||erosion-and-sediment.jsonl
+Dust control |4||erosion-and-sediment.jsonl
+Wind Erosion on European Light Soils |1||erosion-and-sediment.jsonl
+Tillage erosion |8||erosion-and-sediment.jsonl
+Tillage erosion measurement |4||erosion-and-sediment.jsonl
+Tillage erosion models |3||erosion-and-sediment.jsonl
+Universal Soil Loss Equation |7||erosion-and-sediment.jsonl
+Support practice factor |3||erosion-and-sediment.jsonl
+Erosion prediction |8||erosion-and-sediment.jsonl
+Erosion index |2||erosion-and-sediment.jsonl
+Erodibility |8||erosion-and-sediment.jsonl
+Sediment |7||erosion-and-sediment.jsonl
+Sediment grain shape |4||erosion-and-sediment.jsonl
+Sediment transport |8||erosion-and-sediment.jsonl
+Sediment delivery ratio |3||erosion-and-sediment.jsonl
+Erosion control |8||erosion-and-sediment.jsonl
+Sediment control |6||erosion-and-sediment.jsonl
+Sediment treatment systems |4||erosion-and-sediment.jsonl
+Mass wasting |8||erosion-and-sediment.jsonl
+Mass wasting landforms |4||erosion-and-sediment.jsonl
+Downhill creep |8||erosion-and-sediment.jsonl
+Solifluction |4||erosion-and-sediment.jsonl
+Landslide |8||erosion-and-sediment.jsonl
+Landslide classification |8||erosion-and-sediment.jsonl
+Shallow and deep-seated landslides |4||erosion-and-sediment.jsonl
+Mudflow |4||erosion-and-sediment.jsonl
+Landslide hazard mapping |4||erosion-and-sediment.jsonl
+Landslide monitoring |3||erosion-and-sediment.jsonl
+Climate change and landslides |4||erosion-and-sediment.jsonl
+Slope stability |8||erosion-and-sediment.jsonl
+Slope stabilization |4||erosion-and-sediment.jsonl
+Slope stability analysis |4||erosion-and-sediment.jsonl
+Vegetation and slope stability |7||erosion-and-sediment.jsonl
+Transpiration and slope stability |4||erosion-and-sediment.jsonl
+Root reinforcement of soil |4||erosion-and-sediment.jsonl
+Root pull-out resistance |4||erosion-and-sediment.jsonl
+Quick clay |7||erosion-and-sediment.jsonl
+Quick clay formation |4||erosion-and-sediment.jsonl
+Electrical double layer |4||erosion-and-sediment.jsonl
+Quick clay landslides |4||erosion-and-sediment.jsonl
+Dust Bowl |8||erosion-and-sediment.jsonl
+Dust Bowl government response |4||erosion-and-sediment.jsonl
+Economic legacy of the Dust Bowl |4||erosion-and-sediment.jsonl
+Fech fech |3||erosion-and-sediment.jsonl
+Water cycle |7||erosion-and-sediment.jsonl
+Land use and the water cycle |3||erosion-and-sediment.jsonl
+Stormwater |7||erosion-and-sediment.jsonl
+Stormwater management |4||erosion-and-sediment.jsonl
+Stormwater sinkholes |3||erosion-and-sediment.jsonl
+Subsidence |6||erosion-and-sediment.jsonl
+Seasonal subsidence and heave |3||erosion-and-sediment.jsonl
+Runoff |4||erosion-and-sediment.jsonl
+Rainfall-runoff model |3||erosion-and-sediment.jsonl
+Runoff curve number |7||erosion-and-sediment.jsonl
+Straw |4||erosion-and-sediment.jsonl
+Retention basin |4||erosion-and-sediment.jsonl
+Land development |4||erosion-and-sediment.jsonl
+Bioswale |4||erosion-and-sediment.jsonl
+Silt fence |4||erosion-and-sediment.jsonl
+Hole erosion test |3||erosion-and-sediment.jsonl
+Jet erosion test |4||erosion-and-sediment.jsonl
+River bank failure |4||erosion-and-sediment.jsonl
+River bank protection |4||erosion-and-sediment.jsonl
+Fiber roll |3||erosion-and-sediment.jsonl
+Sediment basin |3||erosion-and-sediment.jsonl
+Internal erosion |8||erosion-and-sediment.jsonl
+Earthflow |4||erosion-and-sediment.jsonl
+Riparian buffer |4||erosion-and-sediment.jsonl
+Gelifluction |3||erosion-and-sediment.jsonl
+Fluvio-thermal erosion |4||erosion-and-sediment.jsonl
+Soil loss tolerance |6||erosion-and-sediment.jsonl
+Baer–Babinet law |3||erosion-and-sediment.jsonl
+Hydrological transport model |4||erosion-and-sediment.jsonl
+Soil sloughing |4||erosion-and-sediment.jsonl
+Grassed waterway |4||erosion-and-sediment.jsonl
+Revegetation |4||erosion-and-sediment.jsonl
+WEPP |4||erosion-and-sediment.jsonl
+National Resources Inventory |2||erosion-and-sediment.jsonl
+Prairie restoration |4||erosion-and-sediment.jsonl
+Shear strength of discontinuities |4||erosion-and-sediment.jsonl
+TDR in geotechnical monitoring |3||erosion-and-sediment.jsonl
+Bed load and suspended load |4||erosion-and-sediment.jsonl
+Hjulström curve |3||erosion-and-sediment.jsonl
+Saltation |4||erosion-and-sediment.jsonl
+Debris flow |8||erosion-and-sediment.jsonl
+Desert pavement |4||erosion-and-sediment.jsonl
+Geotextile |4||erosion-and-sediment.jsonl
+Hydrologic soil group |4||erosion-and-sediment.jsonl
+Rainfall simulator |4||erosion-and-sediment.jsonl
+Legacy sediment |4||erosion-and-sediment.jsonl
+Post-fire hillslope stabilization |4||erosion-and-sediment.jsonl
+Aggradation |4||erosion-and-sediment.jsonl
+Badlands |4||erosion-and-sediment.jsonl
+Bank erosion |4||erosion-and-sediment.jsonl
+Corrasion |3||erosion-and-sediment.jsonl
+Denudation |6||erosion-and-sediment.jsonl
+Measuring denudation rates |4||erosion-and-sediment.jsonl
+Deposition (geology) |5||erosion-and-sediment.jsonl
+Sedimentation |4||erosion-and-sediment.jsonl
+Entrainment |2||erosion-and-sediment.jsonl
+Fluvial sediment processes |7||erosion-and-sediment.jsonl
+Headward erosion |4||erosion-and-sediment.jsonl
+Landslide causes and triggers |4||erosion-and-sediment.jsonl
+Rainfall-triggered landslides |4||erosion-and-sediment.jsonl
+Mineral dust |7||erosion-and-sediment.jsonl
+Shear velocity |4||erosion-and-sediment.jsonl
+Shields parameter |4||erosion-and-sediment.jsonl
+Siltation |7||erosion-and-sediment.jsonl
+Stream power |5||erosion-and-sediment.jsonl
+Suspended load |4||erosion-and-sediment.jsonl
+Wind erosion equation |4||erosion-and-sediment.jsonl
+Soil and Water Assessment Tool |1||erosion-and-sediment.jsonl
+Soil piping |3||erosion-and-sediment.jsonl
+Vegetative filter strip |4||erosion-and-sediment.jsonl
+Revised Universal Soil Loss Equation |4||erosion-and-sediment.jsonl
+Sediment yield |4||erosion-and-sediment.jsonl
+Marine clay |6||erosion-and-sediment.part13.js
+Marine clay flocculation |4||erosion-and-sediment.part13.js
+Marine clay in construction |4||erosion-and-sediment.part13.js
+Agricultural soil science |8||farming-systems-and-growing-me
+Agroecology |7||farming-systems-and-growing-me
+Agroecosystem |3||farming-systems-and-growing-me
+Crop rotation |8||farming-systems-and-growing-me
+Rotation effect |4||farming-systems-and-growing-me
+Crop rotation and erosion control |4||farming-systems-and-growing-me
+Crop choice in rotations |4||farming-systems-and-growing-me
+Mixed farming |3||farming-systems-and-growing-me
+Polyculture |3||farming-systems-and-growing-me
+Precision agriculture |7||farming-systems-and-growing-me
+Variable rate application |4||farming-systems-and-growing-me
+Within-field variability |4||farming-systems-and-growing-me
+Irrigation |8||farming-systems-and-growing-me
+Irrigation efficiency |4||farming-systems-and-growing-me
+Drip irrigation |8||farming-systems-and-growing-me
+Sprinkler irrigation |4||farming-systems-and-growing-me
+Subirrigation |3||farming-systems-and-growing-me
+Wastewater irrigation |4||farming-systems-and-growing-me
+Leaching (agriculture) |6||farming-systems-and-growing-me
+Nitrate leaching |5||farming-systems-and-growing-me
+Phosphorus leaching |4||farming-systems-and-growing-me
+Salt tolerance of crops |6||farming-systems-and-growing-me
+Soil salinity classes for crops |4||farming-systems-and-growing-me
+Crop tolerance to seawater |3||farming-systems-and-growing-me
+Potting soil |8||farming-systems-and-growing-me
+Specialty potting mixes |3||farming-systems-and-growing-me
+Saturated media extract |3||farming-systems-and-growing-me
+Soilless growing substrates |4||farming-systems-and-growing-me
+Soil steam sterilization |7||farming-systems-and-growing-me
+Soil steaming methods |4||farming-systems-and-growing-me
+Soil solarization |8||farming-systems-and-growing-me
+Biosolarization |3||farming-systems-and-growing-me
+Agrogeology |4||farming-systems-and-growing-me
+Rock phosphate fertilizer |4||farming-systems-and-growing-me
+Agrominerals |4||farming-systems-and-growing-me
+Soil remineralization |7||farming-systems-and-growing-me
+Land reclamation |6||farming-systems-and-growing-me
+Agricultural land reclamation |3||farming-systems-and-growing-me
+Regenerative agriculture |8||farming-systems-and-growing-me
+Holistic planned grazing |4||farming-systems-and-growing-me
+Fallow |7||farming-systems-and-growing-me
+Fallow syndrome |3||farming-systems-and-growing-me
+Herbicide |7||farming-systems-and-growing-me
+Soil-applied herbicides |3||farming-systems-and-growing-me
+Herbicide persistence |4||farming-systems-and-growing-me
+Surface irrigation |7||farming-systems-and-growing-me
+Furrow irrigation |4||farming-systems-and-growing-me
+Basin irrigation |3||farming-systems-and-growing-me
+Spate irrigation |3||farming-systems-and-growing-me
+Monocropping |7||farming-systems-and-growing-me
+Integrated pest management |4||farming-systems-and-growing-me
+Land restoration |3||farming-systems-and-growing-me
+Biofumigation |4||farming-systems-and-growing-me
+Zaï |3||farming-systems-and-growing-me
+Crop yield |4||farming-systems-and-growing-me
+Center-pivot irrigation |4||farming-systems-and-growing-me
+Deficit irrigation |4||farming-systems-and-growing-me
+Intercropping |7||farming-systems-and-growing-me
+Alley cropping |4||farming-systems-and-growing-me
+Organic farming |7||farming-systems-and-growing-me
+Organic soil fertility management |4||farming-systems-and-growing-me
+Organic farming and soil quality |4||farming-systems-and-growing-me
+Green Revolution |8||farming-systems-and-growing-me
+Coir |4||farming-systems-and-growing-me
+Methyl bromide |4||farming-systems-and-growing-me
+Dryland farming |7||farming-systems-and-growing-me
+Expanded clay aggregate |4||farming-systems-and-growing-me
+Monoculture |4||farming-systems-and-growing-me
+Multiple cropping |4||farming-systems-and-growing-me
+Natural farming |4||farming-systems-and-growing-me
+Shifting cultivation |7||farming-systems-and-growing-me
+Slash-and-burn agriculture |6||farming-systems-and-growing-me
+Sustainable agriculture |8||farming-systems-and-growing-me
+Soil sickness |2||farming-systems-and-growing-me
+Fertigation |4||farming-systems-and-growing-me
+Mineral wool growing medium |3||farming-systems-and-growing-me
+Cover crop |3||farming-systems-and-growing-me
+Cover crop functions by species |4||farming-systems-and-growing-me
+Cover crops and soil organic matter |5||farming-systems-and-growing-me
+Cover crops and mycorrhizal fungi |1||farming-systems-and-growing-me
+Selecting cover crops |5||farming-systems-and-growing-me
+Cover crop survey results |3||farming-systems-and-growing-me
+Legume cover crops |6||farming-systems-and-growing-me
+Grass cover crops |3||farming-systems-and-growing-me
+Buckwheat cover crop |3||farming-systems-and-growing-me
+Cover crops in perennial systems |3||farming-systems-and-growing-me
+Cover crop mixtures |3||farming-systems-and-growing-me
+Cover crop nitrogen supply |3||farming-systems-and-growing-me
+Cover crop planting timing |3||farming-systems-and-growing-me
+Planting green |3||farming-systems-and-growing-me
+Cover crop termination |3||farming-systems-and-growing-me
+Cover crop management cautions |3||farming-systems-and-growing-me
+Cover crops and plant-parasitic nematodes |3||farming-systems-and-growing-me
+Crop diversification |3||farming-systems-and-growing-me
+Rotation effect |4||farming-systems-and-growing-me
+Crop rotation |4||farming-systems-and-growing-me
+Rotations and soil organic matter |6||farming-systems-and-growing-me
+Rotations and soil life |3||farming-systems-and-growing-me
+Active rooting period |4||farming-systems-and-growing-me
+Rotations and water quality |3||farming-systems-and-growing-me
+Rotation labor and economics |3||farming-systems-and-growing-me
+Rotation and plant disease control |3||farming-systems-and-growing-me
+Rotation design principles |6||farming-systems-and-growing-me
+Historic rotations and the corn-soybean rotation |3||farming-systems-and-growing-me
+Agroforestry |2||farming-systems-and-growing-me
+Alley cropping |5||farming-systems-and-growing-me
+Silvopasture |3||farming-systems-and-growing-me
+Forest farming |1||farming-systems-and-growing-me
+Riparian buffer |1||farming-systems-and-growing-me
+Faidherbia albida in agroforestry |2||farming-systems-and-growing-me
+Transitional agroforestry systems |1||farming-systems-and-growing-me
+Fertilizer |8||fertilizers-manures-and-amendm
+History of fertilizers |8||fertilizers-manures-and-amendm
+Macronutrients in fertilizers |7||fertilizers-manures-and-amendm
+Fertilizer classification |6||fertilizers-manures-and-amendm
+NPK rating |4||fertilizers-manures-and-amendm
+Micronutrient fertilizers |4||fertilizers-manures-and-amendm
+Nitrogen fertilizers |8||fertilizers-manures-and-amendm
+Phosphate fertilizers |6||fertilizers-manures-and-amendm
+Potassium fertilizers |8||fertilizers-manures-and-amendm
+Organic fertilizers |8||fertilizers-manures-and-amendm
+Fertilizer application timing |5||fertilizers-manures-and-amendm
+Solid and liquid fertilizers |4||fertilizers-manures-and-amendm
+Nitrification and urease inhibitors |4||fertilizers-manures-and-amendm
+Environmental effects of fertilizers |7||fertilizers-manures-and-amendm
+Fertilizer runoff and water pollution |4||fertilizers-manures-and-amendm
+Acidification by nitrogen fertilizers |4||fertilizers-manures-and-amendm
+Toxic elements in fertilizers |7||fertilizers-manures-and-amendm
+Trace mineral depletion |3||fertilizers-manures-and-amendm
+Fertilizer effects on soil biology |4||fertilizers-manures-and-amendm
+Fertilizers and greenhouse gases |4||fertilizers-manures-and-amendm
+Urea |8||fertilizers-manures-and-amendm
+Controlled-release fertiliser |8||fertilizers-manures-and-amendm
+Manure |7||fertilizers-manures-and-amendm
+Animal manure |7||fertilizers-manures-and-amendm
+Hazards of animal manure |4||fertilizers-manures-and-amendm
+Green manure |8||fertilizers-manures-and-amendm
+Nutrient release from green manure |4||fertilizers-manures-and-amendm
+Compost |8||fertilizers-manures-and-amendm
+Composting |7||fertilizers-manures-and-amendm
+Compost organisms |4||fertilizers-manures-and-amendm
+Phases of composting |4||fertilizers-manures-and-amendm
+Hot and cold composting |4||fertilizers-manures-and-amendm
+Pathogen removal in composting |4||fertilizers-manures-and-amendm
+Compost application |6||fertilizers-manures-and-amendm
+Compost tea |4||fertilizers-manures-and-amendm
+Industrial composting |4||fertilizers-manures-and-amendm
+Humanure |4||fertilizers-manures-and-amendm
+Composting toilet |4||fertilizers-manures-and-amendm
+Vermicompost |8||fertilizers-manures-and-amendm
+Phosphate rich organic manure |4||fertilizers-manures-and-amendm
+Night soil |4||fertilizers-manures-and-amendm
+Reuse of human excreta |8||fertilizers-manures-and-amendm
+Urine as fertilizer |8||fertilizers-manures-and-amendm
+Feces as fertilizer |4||fertilizers-manures-and-amendm
+Biosolids |8||fertilizers-manures-and-amendm
+Peak phosphorus |4||fertilizers-manures-and-amendm
+Multiple barrier approach |4||fertilizers-manures-and-amendm
+Biofertilizer |8||fertilizers-manures-and-amendm
+Biofertilizer microorganisms |4||fertilizers-manures-and-amendm
+Biochar |7||fertilizers-manures-and-amendm
+Biochar production |4||fertilizers-manures-and-amendm
+Biochar properties |4||fertilizers-manures-and-amendm
+Biochar carbon removal |8||fertilizers-manures-and-amendm
+Biochar as a soil amendment |7||fertilizers-manures-and-amendm
+Liming (soil) |6||fertilizers-manures-and-amendm
+Lime requirement |4||fertilizers-manures-and-amendm
+Structure liming |2||fertilizers-manures-and-amendm
+Liming and soil organic carbon |3||fertilizers-manures-and-amendm
+Agricultural lime |8||fertilizers-manures-and-amendm
+Calcium carbonate equivalent |4||fertilizers-manures-and-amendm
+Liming of the Brazilian cerrado |3||fertilizers-manures-and-amendm
+Aglime and strontium isotope studies |3||fertilizers-manures-and-amendm
+Soil conditioner |8||fertilizers-manures-and-amendm
+Polyacrylamide soil conditioners |4||fertilizers-manures-and-amendm
+Hydroabsorbent polymers |4||fertilizers-manures-and-amendm
+Mulch |8||fertilizers-manures-and-amendm
+Organic mulch |4||fertilizers-manures-and-amendm
+Plastic mulch |4||fertilizers-manures-and-amendm
+Living mulch |3||fertilizers-manures-and-amendm
+Sour mulch |3||fertilizers-manures-and-amendm
+Ammonium nitrate |4||fertilizers-manures-and-amendm
+Perlite |3||fertilizers-manures-and-amendm
+Leachate |4||fertilizers-manures-and-amendm
+Landfill leachate |4||fertilizers-manures-and-amendm
+Rock flour |4||fertilizers-manures-and-amendm
+Carbon farming |8||fertilizers-manures-and-amendm
+Compost for soil carbon |3||fertilizers-manures-and-amendm
+Grazing management and soil carbon |3||fertilizers-manures-and-amendm
+Marl |4||fertilizers-manures-and-amendm
+Marling |4||fertilizers-manures-and-amendm
+Seaweed fertiliser |4||fertilizers-manures-and-amendm
+Fertilizer burn |4||fertilizers-manures-and-amendm
+Fertilizer salt index |3||fertilizers-manures-and-amendm
+Ammonia volatilization from urea |8||fertilizers-manures-and-amendm
+Urease inhibitors |4||fertilizers-manures-and-amendm
+Raised-bed gardening |4||fertilizers-manures-and-amendm
+Slash-and-char |4||fertilizers-manures-and-amendm
+Hügelkultur |4||fertilizers-manures-and-amendm
+UAN |4||fertilizers-manures-and-amendm
+Bone meal |4||fertilizers-manures-and-amendm
+Isobutylidenediurea |3||fertilizers-manures-and-amendm
+Foliar feeding |4||fertilizers-manures-and-amendm
+Milorganite |3||fertilizers-manures-and-amendm
+Superphosphate |8||fertilizers-manures-and-amendm
+Phosphorite |8||fertilizers-manures-and-amendm
+Digestate |8||fertilizers-manures-and-amendm
+Struvite |4||fertilizers-manures-and-amendm
+Manure management |8||fertilizers-manures-and-amendm
+Coated urea |4||fertilizers-manures-and-amendm
+Bokashi |4||fertilizers-manures-and-amendm
+Azolla |4||fertilizers-manures-and-amendm
+Biostimulant |4||fertilizers-manures-and-amendm
+Diammonium phosphate |4||fertilizers-manures-and-amendm
+Ecological sanitation |4||fertilizers-manures-and-amendm
+Guano |7||fertilizers-manures-and-amendm
+Guano Age |4||fertilizers-manures-and-amendm
+Liquid manure |4||fertilizers-manures-and-amendm
+Nutrient budgeting |4||fertilizers-manures-and-amendm
+Phosphogypsum |4||fertilizers-manures-and-amendm
+Polyhalite |3||fertilizers-manures-and-amendm
+Wood ash |4||fertilizers-manures-and-amendm
+Converting NPK labels to elemental content |4||fertilizers-manures-and-amendm
+Fertilizer placement |3||fertilizers-manures-and-amendm
+Crop and livestock specialization problems |5||fertilizers-manures-and-amendm
+Integrated crop-livestock farms |3||fertilizers-manures-and-amendm
+Soil health on crop-livestock farms |4||fertilizers-manures-and-amendm
+Manure nitrogen availability |7||fertilizers-manures-and-amendm
+Management intensive grazing |4||fertilizers-manures-and-amendm
+Mob grazing |2||fertilizers-manures-and-amendm
+Integrated crop-livestock systems |4||fertilizers-manures-and-amendm
+Manure-driven nutrient buildup |3||fertilizers-manures-and-amendm
+Phosphorus Index |3||fertilizers-manures-and-amendm
+Livestock farm nutrient imports |2||fertilizers-manures-and-amendm
+Hazards of animal manure |4||fertilizers-manures-and-amendm
+Dung patches on pasture |2||fertilizers-manures-and-amendm
+Phases of composting |4||fertilizers-manures-and-amendm
+Compost pile management |5||fertilizers-manures-and-amendm
+Compost feedstock C:N balance |3||fertilizers-manures-and-amendm
+Compost curing |3||fertilizers-manures-and-amendm
+Pathogen removal in composting |3||fertilizers-manures-and-amendm
+Pit and vessel composting |2||fertilizers-manures-and-amendm
+Vermicompost |3||fertilizers-manures-and-amendm
+Bokashi |2||fertilizers-manures-and-amendm
+Disease suppression by compost |4||fertilizers-manures-and-amendm
+Compost application |3||fertilizers-manures-and-amendm
+Benefits and limits of composting |4||fertilizers-manures-and-amendm
+Nitrogen and phosphorus behavior compared |6||fertilizers-manures-and-amendm
+Problems of excess nitrogen fertilizer |5||fertilizers-manures-and-amendm
+Nutrient availability from organic amendments |2||fertilizers-manures-and-amendm
+Weather and nitrogen supply |5||fertilizers-manures-and-amendm
+Fixed and adaptive nitrogen recommendations |4||fertilizers-manures-and-amendm
+Maximum return to nitrogen |2||fertilizers-manures-and-amendm
+Pre-sidedress nitrate test |3||fertilizers-manures-and-amendm
+End-of-season nitrogen evaluation |2||fertilizers-manures-and-amendm
+Nitrogen and phosphorus management practices |5||fertilizers-manures-and-amendm
+Nitrogen credits from previous crops |3||fertilizers-manures-and-amendm
+Nitrification and urease inhibitors |3||fertilizers-manures-and-amendm
+Corn nitrogen efficiency |2||fertilizers-manures-and-amendm
+Surface broadcasting in no-till |2||fertilizers-manures-and-amendm
+Nutrient budgeting |2||fertilizers-manures-and-amendm
+Manure-driven nutrient buildup |2||fertilizers-manures-and-amendm
+Forensic geology |6||forensic-and-archaeological-so
+Forensic soil comparison |7||forensic-and-archaeological-so
+Forensic palynology |4||forensic-and-archaeological-so
+Forensic archaeology |4||forensic-and-archaeological-so
+Taphonomy |4||forensic-and-archaeological-so
+Geotaphonomy |4||forensic-and-archaeological-so
+Environmental DNA |4||forensic-and-archaeological-so
+Geophysical survey (archaeology) |8||forensic-and-archaeological-so
+Geoarchaeology |6||forensic-and-archaeological-so
+Magnetic susceptibility analysis |4||forensic-and-archaeological-so
+Soil phosphate survey |4||forensic-and-archaeological-so
+Stratigraphy (archaeology) |7||forensic-and-archaeological-so
+Law of superposition |3||forensic-and-archaeological-so
+Cropmark |4||forensic-and-archaeological-so
+Soil mark |4||forensic-and-archaeological-so
+Celtic field |4||forensic-and-archaeological-so
+Ridge and furrow |4||forensic-and-archaeological-so
+Raised field |3||forensic-and-archaeological-so
+Midden |4||forensic-and-archaeological-so
+Vasily Dokuchaev |8||founders-and-pioneers.jsonl
+Russian Chernozem |3||founders-and-pioneers.jsonl
+Friedrich Albert Fallou |6||founders-and-pioneers.jsonl
+Justus von Liebig |6||founders-and-pioneers.jsonl
+Mineral theory of plant nutrition |6||founders-and-pioneers.jsonl
+Liebig's nitrogen debate |4||founders-and-pioneers.jsonl
+Eugene W. Hilgard |6||founders-and-pioneers.jsonl
+Konstantin Glinka |6||founders-and-pioneers.jsonl
+Curtis F. Marbut |6||founders-and-pioneers.jsonl
+Hans Jenny (pedologist) |8||founders-and-pioneers.jsonl
+Albert Atterberg |4||founders-and-pioneers.jsonl
+Peter Erasmus Müller (forester) |4||founders-and-pioneers.jsonl
+Sergei Winogradsky |6||founders-and-pioneers.jsonl
+Discovery of chemosynthesis |4||founders-and-pioneers.jsonl
+Winogradsky column |2||founders-and-pioneers.jsonl
+Martinus Beijerinck |7||founders-and-pioneers.jsonl
+Enrichment culture |3||founders-and-pioneers.jsonl
+Selman Waksman |6||founders-and-pioneers.jsonl
+Hugh Hammond Bennett |8||founders-and-pioneers.jsonl
+Franklin Hiram King |4||founders-and-pioneers.jsonl
+Farmers of Forty Centuries |4||founders-and-pioneers.jsonl
+Cyril G. Hopkins |3||founders-and-pioneers.jsonl
+Lorenzo A. Richards |7||founders-and-pioneers.jsonl
+Guy D. Smith |5||founders-and-pioneers.jsonl
+Roy W. Simonson |4||founders-and-pioneers.jsonl
+Rattan Lal |6||founders-and-pioneers.jsonl
+Carl Sprengel |6||founders-and-pioneers.jsonl
+Jean-Baptiste Boussingault |8||founders-and-pioneers.jsonl
+John Bennet Lawes |5||founders-and-pioneers.jsonl
+Lorenz Hiltner |4||founders-and-pioneers.jsonl
+Albert Bernhard Frank |4||founders-and-pioneers.jsonl
+Albrecht Thaer |8||founders-and-pioneers.jsonl
+Charles Darwin |3||founders-and-pioneers.jsonl
+Edgar Buckingham |8||founders-and-pioneers.jsonl
+Edmund Ruffin |6||founders-and-pioneers.jsonl
+Francis D. Hole |4||founders-and-pioneers.jsonl
+Joseph Henry Gilbert |5||founders-and-pioneers.jsonl
+Konstantin Gedroits |5||founders-and-pioneers.jsonl
+Nicolas-Théodore de Saussure |6||founders-and-pioneers.jsonl
+Thomas Lyttleton Lyon |4||founders-and-pioneers.jsonl
+Milton Whitney |2||founders-and-pioneers.jsonl
+Nikolai Sibirtsev |3||founders-and-pioneers.jsonl
+History of soil science |8||history-of-soil-science.jsonl
+Russian school of soil science |7||history-of-soil-science.jsonl
+Marbut's soil profile concept |6||history-of-soil-science.jsonl
+Modern study of soil formation |4||history-of-soil-science.jsonl
+Development of Soil Taxonomy |5||history-of-soil-science.jsonl
+Soil surveys for nonfarm uses |4||history-of-soil-science.jsonl
+History of bioturbation research |4||history-of-soil-science.jsonl
+Rethinking soil organic matter |3||history-of-soil-science.jsonl
+The Formation of Vegetable Mould Through the Action of Worms |7||history-of-soil-science.jsonl
+On the Formation of Mould |3||history-of-soil-science.jsonl
+Burial of objects by earthworms |4||history-of-soil-science.jsonl
+International Year of Soils |4||history-of-soil-science.jsonl
+World Soil Day |4||history-of-soil-science.jsonl
+World Congress of Soil Science |6||history-of-soil-science.jsonl
+World Soil Museum |5||history-of-soil-science.jsonl
+V.V. Dokuchaev Central Museum of Soil |3||history-of-soil-science.jsonl
+Australian Society of Soil Science Incorporated |4||history-of-soil-science.jsonl
+Soil and Water Conservation Society |3||history-of-soil-science.jsonl
+German Soil Science Society |4||history-of-soil-science.jsonl
+Park Grass Experiment |4||history-of-soil-science.jsonl
+Agricultural chemistry |4||history-of-soil-science.jsonl
+Long-term agricultural experiments |7||history-of-soil-science.jsonl
+Broadbalk experiment |2||history-of-soil-science.jsonl
+Virgin Lands campaign |4||history-of-soil-science.jsonl
+Soil Map of the World |4||history-of-soil-science.jsonl
+Humus theory |4||history-of-soil-science.jsonl
+Soil morphology |8||horizons-and-the-soil-profile.
+Soil profile |7||horizons-and-the-soil-profile.
+Pedon |4||horizons-and-the-soil-profile.
+Horizon designation |7||horizons-and-the-soil-profile.
+Horizon boundaries |3||horizons-and-the-soil-profile.
+O horizon |8||horizons-and-the-soil-profile.
+H horizon |4||horizons-and-the-soil-profile.
+A horizon |7||horizons-and-the-soil-profile.
+E horizon |8||horizons-and-the-soil-profile.
+B horizon |6||horizons-and-the-soil-profile.
+C horizon |8||horizons-and-the-soil-profile.
+R layer |3||horizons-and-the-soil-profile.
+Transitional horizon |4||horizons-and-the-soil-profile.
+Horizon suffixes |4||horizons-and-the-soil-profile.
+Lithologic discontinuity |3||horizons-and-the-soil-profile.
+Buried soil horizon |4||horizons-and-the-soil-profile.
+Diagnostic horizon |6||horizons-and-the-soil-profile.
+Epipedon |4||horizons-and-the-soil-profile.
+Albic horizon |4||horizons-and-the-soil-profile.
+Topsoil |8||horizons-and-the-soil-profile.
+Commercial topsoil |4||horizons-and-the-soil-profile.
+Subsoil |7||horizons-and-the-soil-profile.
+Solum |6||horizons-and-the-soil-profile.
+Hardpan |8||horizons-and-the-soil-profile.
+Claypan |8||horizons-and-the-soil-profile.
+Duripan |4||horizons-and-the-soil-profile.
+Fragipan |4||horizons-and-the-soil-profile.
+Petrocalcic horizon |4||horizons-and-the-soil-profile.
+Umbric horizon |4||horizons-and-the-soil-profile.
+Cambic horizon |4||horizons-and-the-soil-profile.
+Illuviation |7||horizons-and-the-soil-profile.
+Eluviation |8||horizons-and-the-soil-profile.
+Cryoturbation |7||horizons-and-the-soil-profile.
+Tepetate |2||horizons-and-the-soil-profile.
+Ice wedge |4||horizons-and-the-soil-profile.
+Cecil (soil) |4||horizons-and-the-soil-profile.
+Ferricrete |4||horizons-and-the-soil-profile.
+Cob (material) |3||horizons-and-the-soil-profile.
+Pedocal |3||horizons-and-the-soil-profile.
+Olympic (soil) |4||horizons-and-the-soil-profile.
+Silcrete |4||horizons-and-the-soil-profile.
+Cutans |4||horizons-and-the-soil-profile.
+Paralithic horizon |2||horizons-and-the-soil-profile.
+Slickensides in soils |3||horizons-and-the-soil-profile.
+Spodic horizon |3||horizons-and-the-soil-profile.
+Mollic epipedon |4||horizons-and-the-soil-profile.
+Natric horizon |3||horizons-and-the-soil-profile.
+Kandic horizon |3||horizons-and-the-soil-profile.
+Calcic horizon |3||horizons-and-the-soil-profile.
+Soil monolith |3||horizons-and-the-soil-profile.
+Soil formation |8||how-soils-form.jsonl
+Soil-forming factors |8||how-soils-form.jsonl
+Climate as a soil-forming factor |8||how-soils-form.jsonl
+Topography as a soil-forming factor |6||how-soils-form.jsonl
+Organisms as a soil-forming factor |8||how-soils-form.jsonl
+Time as a soil-forming factor |6||how-soils-form.jsonl
+Dokuchaev's soil-forming equation |3||how-soils-form.jsonl
+Jenny's state equation |6||how-soils-form.jsonl
+Leaching (pedology) |8||how-soils-form.jsonl
+Leaching model |4||how-soils-form.jsonl
+Leaching efficiency |4||how-soils-form.jsonl
+Catena |8||how-soils-form.jsonl
+Soil biomantle |8||how-soils-form.jsonl
+Biomixing, biotransfer and biosorting |4||how-soils-form.jsonl
+Dynamic denudation |3||how-soils-form.jsonl
+Biomantles and archaeology |4||how-soils-form.jsonl
+Biorhexistasy |4||how-soils-form.jsonl
+Lessivage |8||how-soils-form.jsonl
+Podzolisation |7||how-soils-form.jsonl
+Cheluviation |4||how-soils-form.jsonl
+Chronosequence |5||how-soils-form.jsonl
+Pedodiversity |7||how-soils-form.jsonl
+Laterite |7||how-soils-form.jsonl
+Laterization |7||how-soils-form.jsonl
+Laterite soils in farming |4||how-soils-form.jsonl
+Laterite building blocks |4||how-soils-form.jsonl
+Laterite aquifers |3||how-soils-form.jsonl
+Laterite for phosphorus removal |3||how-soils-form.jsonl
+Lateritic ores |4||how-soils-form.jsonl
+Paleosol |7||how-soils-form.jsonl
+Paleosol identification |4||how-soils-form.jsonl
+Paleosol classification |4||how-soils-form.jsonl
+Paleoclimate reconstruction from paleosols |4||how-soils-form.jsonl
+Paleoatmosphere reconstruction from paleosols |3||how-soils-form.jsonl
+Polygenetic soil |3||how-soils-form.jsonl
+Soil memory |4||how-soils-form.jsonl
+Microbial soil memory |3||how-soils-form.jsonl
+Pedoturbation |6||how-soils-form.jsonl
+Ferrallitisation |4||how-soils-form.jsonl
+Sewage treatment |3||how-soils-form.jsonl
+Stonelayer |4||how-soils-form.jsonl
+Stone-line origin debate |4||how-soils-form.jsonl
+Sesquioxide |4||how-soils-form.jsonl
+Soil production function |4||how-soils-form.jsonl
+Argillipedoturbation |4||how-soils-form.jsonl
+Tree throw |4||how-soils-form.jsonl
+Ecological succession |4||how-soils-form.jsonl
+Periglaciation |4||how-soils-form.jsonl
+Soil-forming processes |5||how-soils-form.part05.jsonl
+Soil-forming factors |3||how-soils-form.part05.jsonl
+Hillslope positions |4||how-soils-form.part06.jsonl
+Effective precipitation and leaching |4||how-soils-form.part06.jsonl
+Soil age and profile development |6||how-soils-form.part06.jsonl
+Slope, texture and runoff rate |5||how-soils-form.part06.jsonl
+Soil-forming processes |4||how-soils-form.part07.jsonl
+Human activity as a soil-forming factor |4||how-soils-form.part07.jsonl
+Forest soil genesis pathways |5||how-soils-form.part07.jsonl
+Decalcification and calcification |3||how-soils-form.part07.jsonl
+Solonization and solodization |4||how-soils-form.part07.jsonl
+Grassland soil formation |5||how-soils-form.part07.jsonl
+Wetland soil formation |6||how-soils-form.part07.jsonl
+Cryoturbation |3||how-soils-form.part07.jsonl
+Formation of soil structure |5||how-soils-form.part07.jsonl
+Glacial parent materials |5||how-soils-form.part07.jsonl
+Cation release during weathering |6||how-soils-form.part07.jsonl
+Soil formation in unglaciated terrain |5||how-soils-form.part07.jsonl
+Argillipedoturbation |2||how-soils-form.part07.jsonl
+Secondary mineral |2||how-soils-form.part07.jsonl
+Soil biology |8||life-in-the-soil.jsonl
+Soil bacteria |8||life-in-the-soil.jsonl
+Soil fungi |8||life-in-the-soil.jsonl
+Soil ecosystem engineers |8||life-in-the-soil.jsonl
+Soil ecology |8||life-in-the-soil.jsonl
+Soil microbial hotspots |4||life-in-the-soil.jsonl
+Global patterns of soil biodiversity |4||life-in-the-soil.jsonl
+Soil biodiversity |8||life-in-the-soil.jsonl
+Threats to soil biodiversity |7||life-in-the-soil.jsonl
+Measuring soil biodiversity |4||life-in-the-soil.jsonl
+Soil microbiology |8||life-in-the-soil.jsonl
+Soil actinomycetes |7||life-in-the-soil.jsonl
+Soil algae |4||life-in-the-soil.jsonl
+Soil protozoa |4||life-in-the-soil.jsonl
+Soil microbial loop |8||life-in-the-soil.jsonl
+Soil bacteriophages |4||life-in-the-soil.jsonl
+Slime molds and myxobacteria |3||life-in-the-soil.jsonl
+Agricultural use of soil microbes |8||life-in-the-soil.jsonl
+Soil zoology |4||life-in-the-soil.jsonl
+Soil animals |8||life-in-the-soil.jsonl
+Soil microfauna |7||life-in-the-soil.jsonl
+Soil mesofauna |7||life-in-the-soil.jsonl
+Soil macrofauna |7||life-in-the-soil.jsonl
+Soil megafauna |4||life-in-the-soil.jsonl
+Soil food web |8||life-in-the-soil.jsonl
+Types of soil food webs |4||life-in-the-soil.jsonl
+Soil flow webs |4||life-in-the-soil.jsonl
+Bottom-up control in soil food webs |3||life-in-the-soil.jsonl
+Top-down control in soil food webs |4||life-in-the-soil.jsonl
+Stability of soil food webs |4||life-in-the-soil.jsonl
+Soil fauna extraction methods |3||life-in-the-soil.jsonl
+External rumen |4||life-in-the-soil.jsonl
+Soil respiration |8||life-in-the-soil.jsonl
+Sources of soil respiration |4||life-in-the-soil.jsonl
+Controls on soil respiration |4||life-in-the-soil.jsonl
+Measuring soil respiration |4||life-in-the-soil.jsonl
+Soil respiration and global change |4||life-in-the-soil.jsonl
+Birch effect |3||life-in-the-soil.jsonl
+Soil enzyme |8||life-in-the-soil.jsonl
+Earthworm |8||life-in-the-soil.jsonl
+Earthworm ecological categories |5||life-in-the-soil.jsonl
+Earthworms and soil fertility |8||life-in-the-soil.jsonl
+Earthworm invasions |8||life-in-the-soil.jsonl
+Vermicomposting |4||life-in-the-soil.jsonl
+Worm cast |4||life-in-the-soil.jsonl
+Drilosphere |4||life-in-the-soil.jsonl
+Bioturbation |8||life-in-the-soil.jsonl
+Bioturbation in soils |6||life-in-the-soil.jsonl
+Bioturbation and archaeology |3||life-in-the-soil.jsonl
+Biofilm |8||life-in-the-soil.jsonl
+Biofilm development |4||life-in-the-soil.jsonl
+Detritivore |8||life-in-the-soil.jsonl
+Saprotrophic bacteria |4||life-in-the-soil.jsonl
+Soil bacterial growth rates |4||life-in-the-soil.jsonl
+Enzymatic latch |4||life-in-the-soil.jsonl
+Lithotroph |8||life-in-the-soil.jsonl
+Chemolithotrophy |8||life-in-the-soil.jsonl
+Lithotrophs in soil formation |4||life-in-the-soil.jsonl
+Acid mine drainage |3||life-in-the-soil.jsonl
+Oligotroph |6||life-in-the-soil.jsonl
+Oligotrophic soil environments |4||life-in-the-soil.jsonl
+Plant adaptations to nutrient-poor soils |4||life-in-the-soil.jsonl
+Biomineralization |8||life-in-the-soil.jsonl
+Types of biomineralization |4||life-in-the-soil.jsonl
+Geomycology |3||life-in-the-soil.jsonl
+Biogenic mineral controversy |4||life-in-the-soil.jsonl
+Microbiologically induced calcite precipitation |7||life-in-the-soil.jsonl
+Biocementation of soil |4||life-in-the-soil.jsonl
+Soil-borne pathogen |7||life-in-the-soil.jsonl
+Microbial inoculant |8||life-in-the-soil.jsonl
+Ammonia fungi |4||life-in-the-soil.jsonl
+Ammonia fungi succession |4||life-in-the-soil.jsonl
+Petrichor |8||life-in-the-soil.jsonl
+Geosmin |7||life-in-the-soil.jsonl
+Bacterial metabolic types |4||life-in-the-soil.jsonl
+Total organic carbon |4||life-in-the-soil.jsonl
+Lumbricus terrestris |4||life-in-the-soil.jsonl
+Extracellular polymeric substance |7||life-in-the-soil.jsonl
+Dwarf forest |3||life-in-the-soil.jsonl
+Mendocino ecological staircase |4||life-in-the-soil.jsonl
+Entomopathogenic nematode |4||life-in-the-soil.jsonl
+Thatch (lawn) |3||life-in-the-soil.jsonl
+Springtails |8||life-in-the-soil.jsonl
+Oribatid mites |4||life-in-the-soil.jsonl
+Enchytraeids |4||life-in-the-soil.jsonl
+Copiotroph |4||life-in-the-soil.jsonl
+Fungal loop hypothesis |4||life-in-the-soil.jsonl
+Nematode |8||life-in-the-soil.jsonl
+Plant-parasitic nematodes |4||life-in-the-soil.jsonl
+Testate amoebae |4||life-in-the-soil.jsonl
+Bacterivore |4||life-in-the-soil.jsonl
+Fungivory |4||life-in-the-soil.jsonl
+Chemotroph |4||life-in-the-soil.jsonl
+Organotroph |3||life-in-the-soil.jsonl
+Primary nutritional groups |7||life-in-the-soil.jsonl
+Microbial metabolism |7||life-in-the-soil.jsonl
+Microarthropods |4||life-in-the-soil.jsonl
+Soil mites |4||life-in-the-soil.jsonl
+Millipedes |4||life-in-the-soil.jsonl
+Termites |7||life-in-the-soil.jsonl
+Termite mounds |4||life-in-the-soil.jsonl
+Fossorial animals |4||life-in-the-soil.jsonl
+Nematophagous fungi |4||life-in-the-soil.jsonl
+Hypha |4||life-in-the-soil.jsonl
+Mycelium |8||life-in-the-soil.jsonl
+Geomicrobiology |6||life-in-the-soil.jsonl
+Microbial ecology |4||life-in-the-soil.jsonl
+Microbial biogeography |4||life-in-the-soil.jsonl
+Metagenomics |7||life-in-the-soil.jsonl
+Phospholipid fatty acid analysis |8||life-in-the-soil.jsonl
+PLFA biomarkers of soil microbes |4||life-in-the-soil.jsonl
+Azotobacter |4||life-in-the-soil.jsonl
+Streptomyces |4||life-in-the-soil.jsonl
+Symbiosis |4||life-in-the-soil.jsonl
+Microbiome |4||life-in-the-soil.jsonl
+Detrital food web |4||life-in-the-soil.jsonl
+Invasive earthworms of North America |8||life-in-the-soil.jsonl
+Soil food web |3||life-in-the-soil.part14.jsonl
+Soil biodiversity |4||life-in-the-soil.part14.jsonl
+Soil bacteria |4||life-in-the-soil.part14.jsonl
+Free-living nitrogen-fixing bacteria |4||life-in-the-soil.part14.jsonl
+Bacteria-to-fungi balance in soil |4||life-in-the-soil.part14.jsonl
+Soil cyanobacteria |2||life-in-the-soil.part14.jsonl
+Soil actinomycetes |2||life-in-the-soil.part14.jsonl
+Nematode |3||life-in-the-soil.part14.jsonl
+Earthworms and soil fertility |4||life-in-the-soil.part14.jsonl
+Earthworm invasions |3||life-in-the-soil.part14.jsonl
+Enchytraeids |1||life-in-the-soil.part14.jsonl
+Soil insects and arthropods |3||life-in-the-soil.part14.jsonl
+Roots as soil engineers |5||life-in-the-soil.part14.jsonl
+Rhizosphere |2||life-in-the-soil.part14.jsonl
+Natural suppression of plant pests in soil |4||life-in-the-soil.part14.jsonl
+Management practices that influence soil life |3||life-in-the-soil.part14.jsonl
+Size range of soil organisms |3||life-in-the-soil.part15.jsonl
+Soil archaea |3||life-in-the-soil.part15.jsonl
+Soil bacteria |3||life-in-the-soil.part15.jsonl
+Soil fungi |4||life-in-the-soil.part15.jsonl
+Oomycetes in soil |3||life-in-the-soil.part15.jsonl
+Nematode |3||life-in-the-soil.part15.jsonl
+Soil viruses |3||life-in-the-soil.part15.jsonl
+Soil vertebrates |2||life-in-the-soil.part15.jsonl
+Root |3||life-in-the-soil.part15.jsonl
+Soil biomass and abundance |3||life-in-the-soil.part15.jsonl
+Distribution of soil biota in the profile |2||life-in-the-soil.part15.jsonl
+Microbial biogeography |2||life-in-the-soil.part15.jsonl
+Great plate count anomaly |2||life-in-the-soil.part15.jsonl
+Measuring soil biodiversity |3||life-in-the-soil.part15.jsonl
+Metagenomics |4||life-in-the-soil.part15.jsonl
+Discovery of streptomycin |3||life-in-the-soil.part15.jsonl
+Microbial nutrient transformations in soil |3||life-in-the-soil.part15.jsonl
+Phosphate solubilizing bacteria |3||life-in-the-soil.part15.jsonl
+Microbial transformation of pollutants |4||life-in-the-soil.part15.jsonl
+Sporosarcina pasteurii |4||life-in-the-soil.part15.jsonl
+Nitrogen cycle |8||nutrient-cycles.jsonl
+Nitrogen fixation |8||nutrient-cycles.jsonl
+Nitrogenase |4||nutrient-cycles.jsonl
+Diazotroph |7||nutrient-cycles.jsonl
+Haber–Bosch process |8||nutrient-cycles.jsonl
+Discovery of biological nitrogen fixation |4||nutrient-cycles.jsonl
+Ammonification |7||nutrient-cycles.jsonl
+Nitrogen assimilation |4||nutrient-cycles.jsonl
+Denitrification |8||nutrient-cycles.jsonl
+Dissimilatory nitrate reduction to ammonium |4||nutrient-cycles.jsonl
+Comammox |4||nutrient-cycles.jsonl
+Anammox |4||nutrient-cycles.jsonl
+Nitrification |8||nutrient-cycles.jsonl
+Nitrifying bacteria |7||nutrient-cycles.jsonl
+Nitrosomonas |4||nutrient-cycles.jsonl
+Ammonia-oxidizing archaea |3||nutrient-cycles.jsonl
+Nitrification inhibitor |7||nutrient-cycles.jsonl
+Discovery of nitrification |4||nutrient-cycles.jsonl
+Soil nitrous oxide emissions |8||nutrient-cycles.jsonl
+Denitrifying bacteria |8||nutrient-cycles.jsonl
+Denitrification-coupled methane oxidation |3||nutrient-cycles.jsonl
+Immobilization (soil science) |8||nutrient-cycles.jsonl
+Reactive nitrogen |7||nutrient-cycles.jsonl
+Human impact on the nitrogen cycle |8||nutrient-cycles.jsonl
+Nitrogen deposition |4||nutrient-cycles.jsonl
+Nitrogen saturation |4||nutrient-cycles.jsonl
+Nitrogen cascade |4||nutrient-cycles.jsonl
+Phosphorus cycle |8||nutrient-cycles.jsonl
+Phosphorus release by weathering |6||nutrient-cycles.jsonl
+Soil phosphorus retention |6||nutrient-cycles.jsonl
+Organic phosphorus mineralization |4||nutrient-cycles.jsonl
+Human impact on the phosphorus cycle |4||nutrient-cycles.jsonl
+Phosphate solubilizing bacteria |4||nutrient-cycles.jsonl
+Sulfur cycle |6||nutrient-cycles.jsonl
+Microbial sulfur oxidation |4||nutrient-cycles.jsonl
+Dissimilatory sulfate reduction |4||nutrient-cycles.jsonl
+Human impact on the sulfur cycle |4||nutrient-cycles.jsonl
+Potassium cycle |8||nutrient-cycles.jsonl
+Soil potassium pools |4||nutrient-cycles.jsonl
+Calcium cycle |8||nutrient-cycles.jsonl
+Biogeochemical cycle |7||nutrient-cycles.jsonl
+Reservoirs and residence time |4||nutrient-cycles.jsonl
+Iron cycle |4||nutrient-cycles.jsonl
+Bioavailability (soil) |4||nutrient-cycles.jsonl
+Nutrient cycle |8||nutrient-cycles.jsonl
+Nitrobacter |4||nutrient-cycles.jsonl
+Sulfate-reducing microorganisms |4||nutrient-cycles.jsonl
+Oxygen cycle |4||nutrient-cycles.jsonl
+Mercury cycle |4||nutrient-cycles.jsonl
+Silica cycle |6||nutrient-cycles.jsonl
+Biogeochemistry |6||nutrient-cycles.jsonl
+Leghemoglobin |4||nutrient-cycles.jsonl
+Nitrogen-15 tracing |4||nutrient-cycles.jsonl
+Nitrospira |4||nutrient-cycles.jsonl
+Selenium cycle |4||nutrient-cycles.jsonl
+Sulfur assimilation |4||nutrient-cycles.jsonl
+Urease |4||nutrient-cycles.jsonl
+Nitrous oxide reductase |4||nutrient-cycles.jsonl
+Phosphatase |4||nutrient-cycles.part07.jsonl
+Nutrient flows |5||nutrient-cycles.part07.jsonl
+Alluvial nutrient replenishment |3||nutrient-cycles.part07.jsonl
+Breaks in nutrient cycling |5||nutrient-cycles.part07.jsonl
+Farm nutrient balance |7||nutrient-cycles.part07.jsonl
+Nitrogen balance indicator |4||nutrient-cycles.part07.jsonl
+Unintended nutrient losses |4||nutrient-cycles.part07.jsonl
+Global grain trade and nutrient flows |4||nutrient-cycles.part07.jsonl
+Ion exchange membranes |4||nutrient-cycles.part08.jsonl
+Residual soil nitrate test |3||nutrient-cycles.part08.jsonl
+4R nutrient stewardship |5||nutrient-cycles.part08.jsonl
+Ammonium fixation |3||nutrient-cycles.part08.jsonl
+Sulfur mineralization |3||nutrient-cycles.part08.jsonl
+Phosphorus saturation |3||nutrient-cycles.part08.jsonl
+Soil fertility |8||nutrients-and-plant-nutrition.
+Soil fertilization |4||nutrients-and-plant-nutrition.
+Soil depletion |7||nutrients-and-plant-nutrition.
+Colonial soil depletion |4||nutrients-and-plant-nutrition.
+Soil depletion under plantation slavery |3||nutrients-and-plant-nutrition.
+Soil fertility and human health |3||nutrients-and-plant-nutrition.
+Irrigation effects on soil fertility |4||nutrients-and-plant-nutrition.
+Plant nutrition |8||nutrients-and-plant-nutrition.
+Root nutrient uptake |7||nutrients-and-plant-nutrition.
+Macronutrients and micronutrients |7||nutrients-and-plant-nutrition.
+Iron as a plant nutrient |4||nutrients-and-plant-nutrition.
+Boron as a plant nutrient |4||nutrients-and-plant-nutrition.
+Zinc as a plant nutrient |4||nutrients-and-plant-nutrition.
+Nutrient mobility in plants |6||nutrients-and-plant-nutrition.
+Nutrient deficiency in plants |7||nutrients-and-plant-nutrition.
+Plant nutrient toxicity |4||nutrients-and-plant-nutrition.
+Nutrient interactions |4||nutrients-and-plant-nutrition.
+Plant tissue analysis |4||nutrients-and-plant-nutrition.
+Hydroponics |3||nutrients-and-plant-nutrition.
+Luxury consumption |3||nutrients-and-plant-nutrition.
+Essential plant nutrients |8||nutrients-and-plant-nutrition.
+Nutrient movement to roots |8||nutrients-and-plant-nutrition.
+Carbon in plant nutrition |4||nutrients-and-plant-nutrition.
+Nitrogen as a plant nutrient |8||nutrients-and-plant-nutrition.
+Nitrogen losses from soil |4||nutrients-and-plant-nutrition.
+Phosphorus as a plant nutrient |8||nutrients-and-plant-nutrition.
+Potassium as a plant nutrient |8||nutrients-and-plant-nutrition.
+Calcium as a plant nutrient |4||nutrients-and-plant-nutrition.
+Magnesium as a plant nutrient |3||nutrients-and-plant-nutrition.
+Sulfur as a plant nutrient |4||nutrients-and-plant-nutrition.
+Plant micronutrients |8||nutrients-and-plant-nutrition.
+Beneficial plant elements |4||nutrients-and-plant-nutrition.
+Nutrient |6||nutrients-and-plant-nutrition.
+Liebig's law of the minimum |8||nutrients-and-plant-nutrition.
+Liebig's barrel |3||nutrients-and-plant-nutrition.
+Carbon-to-nitrogen ratio |7||nutrients-and-plant-nutrition.
+Compost feedstock C:N balance |4||nutrients-and-plant-nutrition.
+Sediment C/N ratio |4||nutrients-and-plant-nutrition.
+Soil test |8||nutrients-and-plant-nutrition.
+Grid soil sampling |3||nutrients-and-plant-nutrition.
+Engineering soil tests |2||nutrients-and-plant-nutrition.
+Testing soil for lead |3||nutrients-and-plant-nutrition.
+Illinois Soil Nitrogen Test |4||nutrients-and-plant-nutrition.
+Nutrient management |5||nutrients-and-plant-nutrition.
+Nutrient management plan |4||nutrients-and-plant-nutrition.
+Nitrogen management |8||nutrients-and-plant-nutrition.
+Soil and crop nitrogen tests |3||nutrients-and-plant-nutrition.
+Nutrient depletion |4||nutrients-and-plant-nutrition.
+Molybdenum deficiency |4||nutrients-and-plant-nutrition.
+Barren vegetation |3||nutrients-and-plant-nutrition.
+Law of the Maximum |4||nutrients-and-plant-nutrition.
+Iron deficiency chlorosis |4||nutrients-and-plant-nutrition.
+Boron deficiency |4||nutrients-and-plant-nutrition.
+Calcium deficiency |4||nutrients-and-plant-nutrition.
+Chlorosis |4||nutrients-and-plant-nutrition.
+Manganese deficiency |4||nutrients-and-plant-nutrition.
+Zinc deficiency |4||nutrients-and-plant-nutrition.
+Nitrogen deficiency |4||nutrients-and-plant-nutrition.
+Phosphorus deficiency |4||nutrients-and-plant-nutrition.
+Potassium deficiency |4||nutrients-and-plant-nutrition.
+Hoagland solution |4||nutrients-and-plant-nutrition.
+Nitrogen use efficiency |3||nutrients-and-plant-nutrition.
+Non-destructive plant tissue tests |4||nutrients-and-plant-nutrition.
+Nutrient budget |4||nutrients-and-plant-nutrition.
+Mitscherlich's law of physiological relations |2||nutrients-and-plant-nutrition.
+Copper as a plant nutrient |4||nutrients-and-plant-nutrition.
+Copper deficiency in livestock |2||nutrients-and-plant-nutrition.
+Manganese as a plant nutrient |2||nutrients-and-plant-nutrition.
+Molybdenum as a plant nutrient |1||nutrients-and-plant-nutrition.
+Nickel as a plant nutrient |1||nutrients-and-plant-nutrition.
+Chlorine as a plant nutrient |1||nutrients-and-plant-nutrition.
+Plant micronutrients |3||nutrients-and-plant-nutrition.
+Micronutrient deficiency in people |3||nutrients-and-plant-nutrition.
+Humus |8||organic-matter-humus-and-decom
+Humification |8||organic-matter-humus-and-decom
+Humus composition |7||organic-matter-humus-and-decom
+Soil continuum model |5||organic-matter-humus-and-decom
+Humus stability |8||organic-matter-humus-and-decom
+Humus and soil fertility |8||organic-matter-humus-and-decom
+Humus form |8||organic-matter-humus-and-decom
+Mull humus |8||organic-matter-humus-and-decom
+Amphi humus |4||organic-matter-humus-and-decom
+Tangel humus |3||organic-matter-humus-and-decom
+HUMUSICA |4||organic-matter-humus-and-decom
+Humus form diagnostic horizons |7||organic-matter-humus-and-decom
+Humus Index |3||organic-matter-humus-and-decom
+Humus form change |7||organic-matter-humus-and-decom
+Moder humus |8||organic-matter-humus-and-decom
+Mor humus |8||organic-matter-humus-and-decom
+Humin |4||organic-matter-humus-and-decom
+Plant litter |8||organic-matter-humus-and-decom
+Litterfall nutrient cycling |7||organic-matter-humus-and-decom
+Litterbag |4||organic-matter-humus-and-decom
+Forest litter raking |3||organic-matter-humus-and-decom
+Leaf litter habitat |4||organic-matter-humus-and-decom
+Mangrove litterfall |3||organic-matter-humus-and-decom
+Detritus |8||organic-matter-humus-and-decom
+Detritus food chain |4||organic-matter-humus-and-decom
+Organic matter |8||organic-matter-humus-and-decom
+Decomposition |8||organic-matter-humus-and-decom
+Lignin |4||organic-matter-humus-and-decom
+Priming effect |8||organic-matter-humus-and-decom
+Particulate organic matter |8||organic-matter-humus-and-decom
+Soil organic matter fractions |4||organic-matter-humus-and-decom
+Mineralization (soil science) |8||organic-matter-humus-and-decom
+Glomalin |4||organic-matter-humus-and-decom
+Glomalin controversy |4||organic-matter-humus-and-decom
+Canopy soils |4||organic-matter-humus-and-decom
+Canopy soil nitrogen cycling |4||organic-matter-humus-and-decom
+Saprotroph |7||organic-matter-humus-and-decom
+Forest floor |8||organic-matter-humus-and-decom
+Litter quality |6||organic-matter-humus-and-decom
+Dissolved organic matter |4||organic-matter-humus-and-decom
+White-rot fungi |3||organic-matter-humus-and-decom
+Hydrogen cycle |4||organic-matter-humus-and-decom
+Kerogen |4||organic-matter-humus-and-decom
+Decomposer |7||organic-matter-humus-and-decom
+Leaf mold |4||organic-matter-humus-and-decom
+Coarse woody debris |4||organic-matter-humus-and-decom
+Microbial necromass |4||organic-matter-humus-and-decom
+Brown-rot fungi |4||organic-matter-humus-and-decom
+Hemicellulose |4||organic-matter-humus-and-decom
+Cutin |4||organic-matter-humus-and-decom
+Suberin |4||organic-matter-humus-and-decom
+Saprophagy |4||organic-matter-humus-and-decom
+Photodegradation |4||organic-matter-humus-and-decom
+Soil organic matter and the nitrogen cycle |6||organic-matter-humus-and-decom
+Soil organic matter and the water cycle |2||organic-matter-humus-and-decom
+Soil color interpretation |2||organic-matter-humus-and-decom
+Soil organic matter in the carbon cycle |6||organic-matter-humus-and-decom
+Climate and organic matter accumulation |4||organic-matter-humus-and-decom
+Soil texture and organic matter |3||organic-matter-humus-and-decom
+Drainage, landscape position and organic matter |3||organic-matter-humus-and-decom
+Vegetation type and soil organic matter |3||organic-matter-humus-and-decom
+Acidity and organic matter accumulation |1||organic-matter-humus-and-decom
+Root and aboveground residue contributions |3||organic-matter-humus-and-decom
+Soil organic matter protection |3||organic-matter-humus-and-decom
+Soil organic matter balance |2||organic-matter-humus-and-decom
+Organic matter loss after cropland conversion |4||organic-matter-humus-and-decom
+Effects of tillage |3||organic-matter-humus-and-decom
+Erosion and soil organic matter |3||organic-matter-humus-and-decom
+Crop rotation and soil organic matter |3||organic-matter-humus-and-decom
+Organic amendments and soil organic matter |3||organic-matter-humus-and-decom
+Soil organic carbon with depth |3||organic-matter-humus-and-decom
+Aggregates and organic matter requirement |3||organic-matter-humus-and-decom
+Living, active and passive organic matter |4||organic-matter-humus-and-decom
+Living soil organisms and management |3||organic-matter-humus-and-decom
+How much organic matter is enough |4||organic-matter-humus-and-decom
+Organic matter in cropping systems |3||organic-matter-humus-and-decom
+Organic matter saturation and build-up |5||organic-matter-humus-and-decom
+Organic matter needed to raise soil organic matter |2||organic-matter-humus-and-decom
+Organic matter equilibrium model |5||organic-matter-humus-and-decom
+Managing organic matter turnover |3||organic-matter-humus-and-decom
+Soil health management practice groups |2||organic-matter-humus-and-decom
+Brown earth |8||other-soil-types.jsonl
+Brown podzolic |4||other-soil-types.jsonl
+Rendzina |8||other-soil-types.jsonl
+Terra rossa |8||other-soil-types.jsonl
+Origin of terra rossa |3||other-soil-types.jsonl
+Terra preta |8||other-soil-types.jsonl
+Charcoal in terra preta |7||other-soil-types.jsonl
+Origin of terra preta |4||other-soil-types.jsonl
+Synthetic terra preta |4||other-soil-types.jsonl
+Dark earth |8||other-soil-types.jsonl
+Red soil |8||other-soil-types.jsonl
+Latosol |4||other-soil-types.jsonl
+Serpentine soil |8||other-soil-types.jsonl
+Serpentine plant communities |4||other-soil-types.jsonl
+Serpentine barrens |4||other-soil-types.jsonl
+Duplex soil |4||other-soil-types.jsonl
+Stagnogley |4||other-soil-types.jsonl
+Brickearth |4||other-soil-types.jsonl
+Gumbo soil |2||other-soil-types.jsonl
+Takir |4||other-soil-types.jsonl
+Subaqueous soil |7||other-soil-types.jsonl
+Subaqueous soil mapping |4||other-soil-types.jsonl
+Peat |8||other-soil-types.jsonl
+Peat formation |6||other-soil-types.jsonl
+Peat material types |2||other-soil-types.jsonl
+Peat archives |4||other-soil-types.jsonl
+Peat drainage |5||other-soil-types.jsonl
+Peat fires |6||other-soil-types.jsonl
+Peat hags |3||other-soil-types.jsonl
+Peat fuel |4||other-soil-types.jsonl
+Peat in horticulture |4||other-soil-types.jsonl
+Peatland restoration |4||other-soil-types.jsonl
+Peatland permafrost |4||other-soil-types.jsonl
+Tropical peat |8||other-soil-types.jsonl
+Mesotrophic soil |2||other-soil-types.jsonl
+Charcoal |4||other-soil-types.jsonl
+Fill dirt |4||other-soil-types.jsonl
+Bay mud |4||other-soil-types.jsonl
+Calcareous grassland |4||other-soil-types.jsonl
+Blue goo |4||other-soil-types.jsonl
+Growstones |3||other-soil-types.jsonl
+Acrotelm |4||other-soil-types.jsonl
+Constructed soil |8||other-soil-types.jsonl
+Machair |4||other-soil-types.jsonl
+Black cotton soil |4||other-soil-types.jsonl
+Paddy soil |4||other-soil-types.jsonl
+Geochronology |8||paleopedology-and-soil-dating.
+Radiocarbon dating |8||paleopedology-and-soil-dating.
+Radiocarbon calibration |4||paleopedology-and-soil-dating.
+Radiocarbon dating of soil and peat |4||paleopedology-and-soil-dating.
+Bomb pulse |4||paleopedology-and-soil-dating.
+Luminescence dating |8||paleopedology-and-soil-dating.
+Optically stimulated luminescence |4||paleopedology-and-soil-dating.
+Thermoluminescence dating |4||paleopedology-and-soil-dating.
+Cosmogenic nuclide |6||paleopedology-and-soil-dating.
+Surface exposure dating |4||paleopedology-and-soil-dating.
+Beryllium-10 as a soil tracer |4||paleopedology-and-soil-dating.
+Lead-210 dating |4||paleopedology-and-soil-dating.
+δ13C |7||paleopedology-and-soil-dating.
+Palynology |7||paleopedology-and-soil-dating.
+Rhizolith |4||paleopedology-and-soil-dating.
+Silurian-Devonian Terrestrial Revolution |4||paleopedology-and-soil-dating.
+Tephrochronology |4||paleopedology-and-soil-dating.
+Geostatistics |6||pedometrics-and-digital-soil-m
+Variogram |7||pedometrics-and-digital-soil-m
+Kriging |7||pedometrics-and-digital-soil-m
+Regression-kriging |8||pedometrics-and-digital-soil-m
+Spatial variability |6||pedometrics-and-digital-soil-m
+Spatial interpolation |4||pedometrics-and-digital-soil-m
+Inverse distance weighting |4||pedometrics-and-digital-soil-m
+Geomorphometry |7||pedometrics-and-digital-soil-m
+Topographic wetness index |4||pedometrics-and-digital-soil-m
+Normalized difference vegetation index |4||pedometrics-and-digital-soil-m
+Multispectral imaging |4||pedometrics-and-digital-soil-m
+Hyperspectral imaging |4||pedometrics-and-digital-soil-m
+Near-infrared spectroscopy |4||pedometrics-and-digital-soil-m
+Ground-penetrating radar |4||pedometrics-and-digital-soil-m
+Electrical resistivity tomography |4||pedometrics-and-digital-soil-m
+Planetary gamma-ray spectrometry |4||pedometrics-and-digital-soil-m
+SoilGrids |2||pedometrics-and-digital-soil-m
+Chemometrics |4||pedometrics-and-digital-soil-m
+Multivariate calibration |4||pedometrics-and-digital-soil-m
+Compositional data |5||pedometrics-and-digital-soil-m
+Log-ratio transformation |4||pedometrics-and-digital-soil-m
+Electromagnetic induction |4||pedometrics-and-digital-soil-m
+Fuzzy clustering |4||pedometrics-and-digital-soil-m
+Landsat program |4||pedometrics-and-digital-soil-m
+Latin hypercube sampling |3||pedometrics-and-digital-soil-m
+Modifiable areal unit problem |4||pedometrics-and-digital-soil-m
+Partial least squares regression |4||pedometrics-and-digital-soil-m
+Random forest |5||pedometrics-and-digital-soil-m
+Sampling design |2|THIN|pedometrics-and-digital-soil-m
+Spatial analysis |4||pedometrics-and-digital-soil-m
+Spatial autocorrelation |3||pedometrics-and-digital-soil-m
+Spatial scale |2||pedometrics-and-digital-soil-m
+Stratified sampling |4||pedometrics-and-digital-soil-m
+Uncertainty quantification |4||pedometrics-and-digital-soil-m
+Scorpan model |5||pedometrics-and-digital-soil-m
+Digital soil mapping |5||pedometrics-and-digital-soil-m
+Conventional soil mapping |5||pedometrics-and-digital-soil-m
+Soil survey intensity levels |2|THIN|pedometrics-and-digital-soil-m
+Soil sampling design for digital soil mapping |4||pedometrics-and-digital-soil-m
+Digital soil map accuracy assessment |3||pedometrics-and-digital-soil-m
+Digital soil map uncertainty |4||pedometrics-and-digital-soil-m
+Soil horizon |8||reading-a-soil.jsonl
+Master horizons |7||reading-a-soil.jsonl
+WRB horizon designations |4||reading-a-soil.jsonl
+Australian horizon designations |4||reading-a-soil.jsonl
+Soil pH |8||reading-a-soil.jsonl
+Soil pH classes |3||reading-a-soil.jsonl
+Measuring soil pH |6||reading-a-soil.jsonl
+Plant pH preferences |4||reading-a-soil.jsonl
+Factors affecting soil pH |7||reading-a-soil.jsonl
+Aluminium toxicity |6||reading-a-soil.jsonl
+Soil pH and nutrient availability |6||reading-a-soil.jsonl
+Soil pH and water availability |3||reading-a-soil.jsonl
+Soil pH and soil organisms |4||reading-a-soil.jsonl
+Lowering soil pH |3||reading-a-soil.jsonl
+Soil buffering capacity |6||reading-a-soil.jsonl
+Soil color |6||reading-a-soil.jsonl
+Munsell soil color charts |8||reading-a-soil.jsonl
+Soil color interpretation |7||reading-a-soil.jsonl
+Gleying |4||reading-a-soil.jsonl
+Trial pit |3||reading-a-soil.jsonl
+Core sample |4||reading-a-soil.jsonl
+Redox |7||redox-and-soil-chemistry.jsonl
+Oxidizing agent |3||redox-and-soil-chemistry.jsonl
+Reducing agent |4||redox-and-soil-chemistry.jsonl
+Redox couples and half-reactions |4||redox-and-soil-chemistry.jsonl
+Standard electrode potential |4||redox-and-soil-chemistry.jsonl
+Redox in soils |7||redox-and-soil-chemistry.jsonl
+Biological redox reactions |3||redox-and-soil-chemistry.jsonl
+Redoximorphic features |6||redox-and-soil-chemistry.jsonl
+Redox gradient |5||redox-and-soil-chemistry.jsonl
+Redox ladder |5||redox-and-soil-chemistry.jsonl
+Redox potential (Eh) |8||redox-and-soil-chemistry.jsonl
+Measuring redox potential |4||redox-and-soil-chemistry.jsonl
+Reduction in waterlogged soils |6||redox-and-soil-chemistry.jsonl
+Microbes along redox gradients |4||redox-and-soil-chemistry.jsonl
+Redox gradients in water and sediments |3||redox-and-soil-chemistry.jsonl
+Anaerobic respiration |8||redox-and-soil-chemistry.jsonl
+Methanogenesis |8||redox-and-soil-chemistry.jsonl
+Biofilter |4||redox-and-soil-chemistry.jsonl
+In situ chemical oxidation |5||redox-and-soil-chemistry.jsonl
+ISCO oxidants |4||redox-and-soil-chemistry.jsonl
+Paddy field |4||redox-and-soil-chemistry.jsonl
+Dissimilatory metal reduction |7||redox-and-soil-chemistry.jsonl
+Green rust |4||redox-and-soil-chemistry.jsonl
+Iron-oxidizing bacteria |4||redox-and-soil-chemistry.jsonl
+Manganese cycle |5||redox-and-soil-chemistry.jsonl
+Manganese in soil |4||redox-and-soil-chemistry.jsonl
+Methanogens |4||redox-and-soil-chemistry.jsonl
+Obligate anaerobes |4||redox-and-soil-chemistry.jsonl
+Electron acceptor |4||redox-and-soil-chemistry.jsonl
+Electron donor |3||redox-and-soil-chemistry.jsonl
+Oxidation state |4||redox-and-soil-chemistry.jsonl
+Standard hydrogen electrode |4||redox-and-soil-chemistry.jsonl
+Pourbaix diagram |4||redox-and-soil-chemistry.jsonl
+Solubility equilibrium |4||redox-and-soil-chemistry.jsonl
+Hydromorphic soil |4||redox-and-soil-chemistry.jsonl
+Electron activity (pe) |4||redox-and-soil-chemistry.jsonl
+Root |7||roots-and-the-rhizosphere.json
+Root system architecture |4||roots-and-the-rhizosphere.json
+Rooting depth |5||roots-and-the-rhizosphere.json
+Root growth regulation |4||roots-and-the-rhizosphere.json
+Specialized root types |4||roots-and-the-rhizosphere.json
+Fibrous root system |5||roots-and-the-rhizosphere.json
+Taproot |4||roots-and-the-rhizosphere.json
+Root hair |7||roots-and-the-rhizosphere.json
+Root mucilage |7||roots-and-the-rhizosphere.json
+Root exudates |8||roots-and-the-rhizosphere.json
+Rhizosphere |8||roots-and-the-rhizosphere.json
+Rhizosphere ecology |7||roots-and-the-rhizosphere.json
+Rhizosphere signalling |4||roots-and-the-rhizosphere.json
+Allelopathy |3||roots-and-the-rhizosphere.json
+Rhizosphere research methods |4||roots-and-the-rhizosphere.json
+Rhizodeposition |3||roots-and-the-rhizosphere.json
+Bulk soil |6||roots-and-the-rhizosphere.json
+Spermosphere |4||roots-and-the-rhizosphere.json
+Root microbiome |7||roots-and-the-rhizosphere.json
+Mutualist–parasite continuum |4||roots-and-the-rhizosphere.json
+Root microbiome assembly |4||roots-and-the-rhizosphere.json
+Rhizobacteria |8||roots-and-the-rhizosphere.json
+Plant growth-promoting rhizobacteria |7||roots-and-the-rhizosphere.json
+Deleterious rhizobacteria |3||roots-and-the-rhizosphere.json
+Mycorrhiza |7||roots-and-the-rhizosphere.json
+Mycorrhizal nutrient exchange |7||roots-and-the-rhizosphere.json
+Mycorrhizal types |6||roots-and-the-rhizosphere.json
+Dual mycorrhiza |4||roots-and-the-rhizosphere.json
+Mycorrhizal stress protection |6||roots-and-the-rhizosphere.json
+Mycorrhizae on barren soil |4||roots-and-the-rhizosphere.json
+Mycorrhizae and climate change |4||roots-and-the-rhizosphere.json
+Common mycorrhizal network |8||roots-and-the-rhizosphere.json
+History of mycorrhizal research |4||roots-and-the-rhizosphere.json
+Arbuscular mycorrhiza |8||roots-and-the-rhizosphere.json
+Arbuscular mycorrhizal nutrient exchange |7||roots-and-the-rhizosphere.json
+Arbuscular mycorrhizae in agriculture |6||roots-and-the-rhizosphere.json
+Mycorrhizal inoculation for land restoration |4||roots-and-the-rhizosphere.json
+Arbuscular mycorrhizal effects on soil communities |4||roots-and-the-rhizosphere.json
+Detecting arbuscular mycorrhizal fungi |4||roots-and-the-rhizosphere.json
+Strigolactones |7||roots-and-the-rhizosphere.json
+Ectomycorrhiza |8||roots-and-the-rhizosphere.json
+Ectomycorrhizal tolerance of polluted soils |4||roots-and-the-rhizosphere.json
+Ectomycorrhizae in forestry |4||roots-and-the-rhizosphere.json
+Ericoid mycorrhiza |4||roots-and-the-rhizosphere.json
+Glomeromycota |4||roots-and-the-rhizosphere.json
+Rhizobia |8||roots-and-the-rhizosphere.json
+Root nodule |8||roots-and-the-rhizosphere.json
+Actinorhizal plant |4||roots-and-the-rhizosphere.json
+Fungal endophyte defense |4||roots-and-the-rhizosphere.json
+Legume family (Fabaceae) |4||roots-and-the-rhizosphere.json
+Glomus (fungus) |3||roots-and-the-rhizosphere.json
+Rhizophagus irregularis |3||roots-and-the-rhizosphere.json
+Hartig net |4||roots-and-the-rhizosphere.json
+Orchid mycorrhiza |4||roots-and-the-rhizosphere.json
+Hydraulic redistribution |7||roots-and-the-rhizosphere.json
+Disease suppressive soils |6||roots-and-the-rhizosphere.json
+Nitrogen nutrition in the arbuscular mycorrhizal system |4||roots-and-the-rhizosphere.json
+Common symbiosis signaling pathway |4||roots-and-the-rhizosphere.json
+Cluster root |4||roots-and-the-rhizosphere.json
+Siderophore |8||roots-and-the-rhizosphere.json
+Laimosphere |4||roots-and-the-rhizosphere.json
+Root cap |4||roots-and-the-rhizosphere.json
+Pneumatophores |4||roots-and-the-rhizosphere.json
+Frankia |4||roots-and-the-rhizosphere.json
+Nod factor |4||roots-and-the-rhizosphere.json
+Endophyte |7||roots-and-the-rhizosphere.json
+Azospirillum |4||roots-and-the-rhizosphere.json
+Bradyrhizobium |4||roots-and-the-rhizosphere.json
+Rhizobium |4||roots-and-the-rhizosphere.json
+Ectomycorrhizal extramatrical mycelium |8||roots-and-the-rhizosphere.json
+Ectomycorrhizal exploration types |4||roots-and-the-rhizosphere.json
+Fine root |7||roots-and-the-rhizosphere.json
+Fine root classification |4||roots-and-the-rhizosphere.json
+Lateral root |4||roots-and-the-rhizosphere.json
+Plant hormone |7||roots-and-the-rhizosphere.json
+Mycorrhiza helper bacteria |8||roots-and-the-rhizosphere.json
+Mycorrhizosphere |6||roots-and-the-rhizosphere.json
+Farming practices and the mycorrhizosphere |4||roots-and-the-rhizosphere.json
+Plant-growth promoting fungi |4||roots-and-the-rhizosphere.json
+Plant–soil feedback |6||roots-and-the-rhizosphere.json
+Mutualism |4||roots-and-the-rhizosphere.json
+Rhizotron |3||roots-and-the-rhizosphere.json
+International Union of Soil Sciences |8||societies-institutes-and-journ
+Soil Science Society of America |8||societies-institutes-and-journ
+International Soil Reference and Information Centre |4||societies-institutes-and-journ
+Natural Resources Conservation Service |8||societies-institutes-and-journ
+National Cooperative Soil Survey |8||societies-institutes-and-journ
+Early United States soil survey |4||societies-institutes-and-journ
+Rothamsted Research |8||societies-institutes-and-journ
+European Soil Bureau Network |3||societies-institutes-and-journ
+International Humic Substances Society |4||societies-institutes-and-journ
+International Committee on Anthropogenic Soils |3||societies-institutes-and-journ
+Soil Science Society of Poland |4||societies-institutes-and-journ
+Pochvovedenie |1||societies-institutes-and-journ
+Journal of Soil and Water Conservation |1||societies-institutes-and-journ
+Soil Science Society of America Journal |3||societies-institutes-and-journ
+Geoderma |1||societies-institutes-and-journ
+Fine earth fraction |4||soil-analysis-and-laboratory-m
+Loss on ignition |7||soil-analysis-and-laboratory-m
+Kjeldahl method |7||soil-analysis-and-laboratory-m
+Elemental analysis |4||soil-analysis-and-laboratory-m
+Ammonium acetate extraction |3||soil-analysis-and-laboratory-m
+Atomic absorption spectroscopy |4||soil-analysis-and-laboratory-m
+Inductively coupled plasma atomic emission spectroscopy |7||soil-analysis-and-laboratory-m
+Inductively coupled plasma mass spectrometry |4||soil-analysis-and-laboratory-m
+Ion chromatography |3||soil-analysis-and-laboratory-m
+Ion-selective electrode |4||soil-analysis-and-laboratory-m
+Molybdenum blue phosphate test |4||soil-analysis-and-laboratory-m
+Gas chromatography |2||soil-analysis-and-laboratory-m
+Exoenzyme |7||soil-biochemistry.jsonl
+Fungal extracellular enzyme activity |7||soil-biochemistry.jsonl
+Soil enzyme assays |4||soil-biochemistry.jsonl
+Acid phosphatase |4||soil-biochemistry.jsonl
+Β-Glucosidase |4||soil-biochemistry.jsonl
+Lignin peroxidase |4||soil-biochemistry.jsonl
+Manganese peroxidase |4||soil-biochemistry.jsonl
+Amino sugar |3||soil-biochemistry.jsonl
+Amplicon |4||soil-biochemistry.jsonl
+Metabarcoding |4||soil-biochemistry.jsonl
+Stable-isotope probing |4||soil-biochemistry.jsonl
+Ecological stoichiometry |6||soil-biochemistry.jsonl
+Michaelis–Menten kinetics |4||soil-biochemistry.jsonl
+Microbial carbon pump |4||soil-biochemistry.jsonl
+Q10 (temperature coefficient) |4||soil-biochemistry.jsonl
+Resistome |4||soil-biochemistry.jsonl
+Microbial biomass |7||soil-biochemistry.jsonl
+Microbial carbon use efficiency |2||soil-biochemistry.jsonl
+Carbon cycle |8||soil-carbon-and-climate.jsonl
+Fast and slow carbon cycles |4||soil-carbon-and-climate.jsonl
+Terrestrial carbon pool |8||soil-carbon-and-climate.jsonl
+Land-use change and carbon loss |4||soil-carbon-and-climate.jsonl
+Soil carbon |8||soil-carbon-and-climate.jsonl
+Soil inorganic carbon |4||soil-carbon-and-climate.jsonl
+Soil organic carbon |8||soil-carbon-and-climate.jsonl
+Soil organic carbon and soil function |4||soil-carbon-and-climate.jsonl
+Soil carbon and climate change |6||soil-carbon-and-climate.jsonl
+Managing soil carbon |7||soil-carbon-and-climate.jsonl
+Carbon catchment health |4||soil-carbon-and-climate.jsonl
+Soil carbon monitoring |4||soil-carbon-and-climate.jsonl
+Soil carbon feedback |7||soil-carbon-and-climate.jsonl
+Compost-bomb instability |3||soil-carbon-and-climate.jsonl
+Carbon sink |7||soil-carbon-and-climate.jsonl
+Carbon pool |3||soil-carbon-and-climate.jsonl
+Soils as carbon sinks |8||soil-carbon-and-climate.jsonl
+Soil carbon sponge |4||soil-carbon-and-climate.jsonl
+Mycorrhizal fungi and soil carbon storage |6||soil-carbon-and-climate.jsonl
+Recalcitrance of mycorrhizal tissues |3||soil-carbon-and-climate.jsonl
+Mycorrhizal fungi and soil aggregation |4||soil-carbon-and-climate.jsonl
+Mycorrhizal priming |4||soil-carbon-and-climate.jsonl
+Mycorrhizal inhibition of decomposition |4||soil-carbon-and-climate.jsonl
+Enhanced weathering |7||soil-carbon-and-climate.jsonl
+Silicate weathering and carbon dioxide |4||soil-carbon-and-climate.jsonl
+Terrestrial enhanced weathering |4||soil-carbon-and-climate.jsonl
+Mineral carbonation |4||soil-carbon-and-climate.jsonl
+Permafrost zones |6||soil-carbon-and-climate.jsonl
+Alpine permafrost |4||soil-carbon-and-climate.jsonl
+Subsea permafrost |4||soil-carbon-and-climate.jsonl
+Past extent of permafrost |3||soil-carbon-and-climate.jsonl
+Permafrost base depth |4||soil-carbon-and-climate.jsonl
+Massive ground ice |4||soil-carbon-and-climate.jsonl
+Permafrost landforms |4||soil-carbon-and-climate.jsonl
+Permafrost ecology |4||soil-carbon-and-climate.jsonl
+Construction on permafrost |4||soil-carbon-and-climate.jsonl
+Permafrost thaw |6||soil-carbon-and-climate.jsonl
+Permafrost carbon feedback |8||soil-carbon-and-climate.jsonl
+Thaw-induced ground instability |4||soil-carbon-and-climate.jsonl
+Permafrost thaw and infrastructure |4||soil-carbon-and-climate.jsonl
+Pollutants released by permafrost thaw |4||soil-carbon-and-climate.jsonl
+Revival of ancient organisms from permafrost |3||soil-carbon-and-climate.jsonl
+History of permafrost research |4||soil-carbon-and-climate.jsonl
+Active layer |7||soil-carbon-and-climate.jsonl
+Thaw depth |4||soil-carbon-and-climate.jsonl
+Soil formation in the active layer |4||soil-carbon-and-climate.jsonl
+Pereletok |4||soil-carbon-and-climate.jsonl
+Talik |3||soil-carbon-and-climate.jsonl
+Supra-permafrost talik |4||soil-carbon-and-climate.jsonl
+Yedoma |5||soil-carbon-and-climate.jsonl
+Thermokarst |4||soil-carbon-and-climate.jsonl
+Permafrost carbon cycle |8||soil-carbon-and-climate.jsonl
+Permafrost carbon storage processes |4||soil-carbon-and-climate.jsonl
+Permafrost carbon stocks |5||soil-carbon-and-climate.jsonl
+Permafrost carbon release |8||soil-carbon-and-climate.jsonl
+Permafrost carbon dioxide emissions |4||soil-carbon-and-climate.jsonl
+Permafrost methane emissions |4||soil-carbon-and-climate.jsonl
+Abrupt permafrost thaw |6||soil-carbon-and-climate.jsonl
+Permafrost emission estimates |4||soil-carbon-and-climate.jsonl
+Effects of climate change on agriculture |6||soil-carbon-and-climate.jsonl
+Climate change and soil fertility |4||soil-carbon-and-climate.jsonl
+Thawing of potentially arable land |4||soil-carbon-and-climate.jsonl
+Sea level rise and farmland |3||soil-carbon-and-climate.jsonl
+Agricultural greenhouse gas emissions |8||soil-carbon-and-climate.jsonl
+Climate change mitigation |4||soil-carbon-and-climate.jsonl
+Soil carbon sequestration |8||soil-carbon-and-climate.jsonl
+Wetland restoration |4||soil-carbon-and-climate.jsonl
+Pingo |4||soil-carbon-and-climate.jsonl
+Syngenetic permafrost growth |4||soil-carbon-and-climate.jsonl
+Black carbon in soils |4||soil-carbon-and-climate.jsonl
+Carbon sequestration |8||soil-carbon-and-climate.jsonl
+Climate change feedbacks |7||soil-carbon-and-climate.jsonl
+Carbon cycle feedbacks |4||soil-carbon-and-climate.jsonl
+Arctic methane emissions |8||soil-carbon-and-climate.jsonl
+Alternate wetting and drying |4||soil-carbon-and-climate.jsonl
+Biochar permanence |4||soil-carbon-and-climate.jsonl
+Biochar carbon credits |3||soil-carbon-and-climate.jsonl
+Pathways of wetland methane emission |4||soil-carbon-and-climate.jsonl
+Controls on wetland methane flux |4||soil-carbon-and-climate.jsonl
+Wetland nitrous oxide fluxes |3||soil-carbon-and-climate.jsonl
+Wetland drainage and methane |2||soil-carbon-and-climate.jsonl
+Land use, land-use change, and forestry |5||soil-carbon-and-climate.jsonl
+Methane emissions |5||soil-carbon-and-climate.jsonl
+Methanotroph |5||soil-carbon-and-climate.jsonl
+Peatland rewetting |3||soil-carbon-and-climate.jsonl
+Paludiculture |3||soil-carbon-and-climate.jsonl
+Soil methane uptake |4||soil-carbon-and-climate.jsonl
+Earth system and land surface models |4||soil-carbon-and-climate.jsonl
+Soil conservation |8||soil-conservation.jsonl
+Soil-conservation farming |4||soil-conservation.jsonl
+Windbreak |8||soil-conservation.jsonl
+Reducing pesticide use |3||soil-conservation.jsonl
+Soil management |8||soil-conservation.jsonl
+Soil management and greenhouse gases |6||soil-conservation.jsonl
+Conservation agriculture |8||soil-conservation.jsonl
+Cover crop |8||soil-conservation.jsonl
+Cover crops for soil fertility |6||soil-conservation.jsonl
+Catch crop |4||soil-conservation.jsonl
+Cover crops and soil water |4||soil-conservation.jsonl
+Weed suppression by cover crops |4||soil-conservation.jsonl
+Cover crops in pest and disease control |4||soil-conservation.jsonl
+Strip farming |8||soil-conservation.jsonl
+Terrace (earthworks) |8||soil-conservation.jsonl
+Terracette |3||soil-conservation.jsonl
+Contour trenching |4||soil-conservation.jsonl
+Soil stabilization |7||soil-conservation.jsonl
+Mechanical soil stabilization |4||soil-conservation.jsonl
+Magnesium chloride dust control |4||soil-conservation.jsonl
+Soil Conservation and Domestic Allotment Act of 1936 |4||soil-conservation.jsonl
+Great Plains Shelterbelt |5||soil-conservation.jsonl
+Lynchet |4||soil-conservation.jsonl
+Agroforestry |8||soil-conservation.jsonl
+Check dam |4||soil-conservation.jsonl
+Prairie strips |4||soil-conservation.jsonl
+Bioretention |4||soil-conservation.jsonl
+Buffer strip |6||soil-conservation.jsonl
+Contour buffer strip |3||soil-conservation.jsonl
+Filter strip |3||soil-conservation.jsonl
+Vetiver System |4||soil-conservation.jsonl
+Soil geography |5||soil-geography.jsonl
+Tropical soils |8||soil-geography.jsonl
+Lithosequence |3||soil-geography.jsonl
+Soils of Australia |3||soil-geography.jsonl
+Environmental soil science |5||soil-health-and-protection.jso
+Soil health versus soil quality |4||soil-health-and-protection.jso
+Interpretations of soil health |4||soil-health-and-protection.jso
+Soil health testing |8||soil-health-and-protection.jso
+Soil health gap |2||soil-health-and-protection.jso
+Soil quality indicators |5||soil-health-and-protection.jso
+Soil as a filter and buffer |3||soil-health-and-protection.jso
+Mapping soil functions |3||soil-health-and-protection.jso
+Soil resilience |8||soil-health-and-protection.jso
+Soil regeneration |8||soil-health-and-protection.jso
+Forms of soil degradation |8||soil-health-and-protection.jso
+Agricultural soil carbon loss |4||soil-health-and-protection.jso
+Regenerative soil practices |7||soil-health-and-protection.jso
+Soil governance |8||soil-health-and-protection.jso
+Global Soil Partnership |4||soil-health-and-protection.jso
+EU soil policy |4||soil-health-and-protection.jso
+Soil governance in India |4||soil-health-and-protection.jso
+Urban and industrial soil governance |4||soil-health-and-protection.jso
+Soil bioengineering |7||soil-health-and-protection.jso
+Septic drain field |8||soil-health-and-protection.jso
+Drain field site assessment |4||soil-health-and-protection.jso
+Soil Health Card Scheme |4||soil-health-and-protection.jso
+Land rehabilitation |3||soil-health-and-protection.jso
+Septic tank |4||soil-health-and-protection.jso
+Mine reclamation |4||soil-health-and-protection.jso
+Permaculture |4||soil-health-and-protection.jso
+Ecosystem service |5||soil-health-and-protection.jso
+Active carbon |2||soil-health-and-protection.jso
+Onsite sewage facility |4||soil-health-and-protection.jso
+Holistic management |4||soil-health-and-protection.par
+Inherent and dynamic soil quality |3||soil-health-and-protection.par
+Soil health versus soil quality |3||soil-health-and-protection.par
+Soil aggregate stability |2||soil-health-and-protection.par
+Aggregate stability measurement |1||soil-health-and-protection.par
+Organic phosphorus mineralization |2||soil-health-and-protection.par
+Phosphorus in the soil solution |3||soil-health-and-protection.par
+Potassium loss and luxury consumption |3||soil-health-and-protection.par
+Soil nitrate strip test |4||soil-health-and-protection.par
+Soil functions |2||soil-health-and-protection.par
+Fertilizer grade and nutrient conversion |4||soil-health-and-protection.par
+Attributes of healthy soil |6||soil-health-and-protection.par
+Building healthy soil |5||soil-health-and-protection.par
+Soil health scorecards |2||soil-health-and-protection.par
+Soil nutrient and organic matter cycle |5||soil-health-and-protection.par
+Agricultural soil degradation spiral |5||soil-health-and-protection.par
+Soil degradation and early civilizations |3||soil-health-and-protection.par
+Soil thin section |6||soil-micromorphology.jsonl
+Soil biofabric |2||soil-micromorphology.jsonl
+Mineral alteration in thin section |2||soil-micromorphology.jsonl
+Soil micromorphology |3||soil-micromorphology.jsonl
+Soil mineralogy |8||soil-mineralogy.jsonl
+Pedogenic carbonate |5||soil-mineralogy.jsonl
+Bowen's reaction series |5||soil-mineralogy.jsonl
+Goldich dissolution series |8||soil-mineralogy.jsonl
+Powder diffraction |7||soil-mineralogy.jsonl
+X-ray fluorescence |4||soil-mineralogy.jsonl
+Fourier-transform infrared spectroscopy |4||soil-mineralogy.jsonl
+Electron probe microanalysis |4||soil-mineralogy.jsonl
+Environmental magnetism |4||soil-mineralogy.jsonl
+Heavy mineral |4||soil-mineralogy.jsonl
+Selective extraction of iron oxides |3||soil-mineralogy.jsonl
+Birnessite |4||soil-mineralogy.jsonl
+Glauconite |4||soil-mineralogy.jsonl
+Jarosite |4||soil-mineralogy.jsonl
+Schwertmannite |4||soil-mineralogy.jsonl
+Zeolite |4||soil-mineralogy.jsonl
+Volcanic glass |4||soil-mineralogy.jsonl
+Activity coefficient |7||soil-solution-chemistry-and-so
+Ionic strength |7||soil-solution-chemistry-and-so
+Debye–Hückel theory |8||soil-solution-chemistry-and-so
+Coprecipitation |4||soil-solution-chemistry-and-so
+Freundlich equation |7||soil-solution-chemistry-and-so
+Langmuir adsorption model |8||soil-solution-chemistry-and-so
+Geochemical modeling |8||soil-solution-chemistry-and-so
+Inner sphere complex |8||soil-solution-chemistry-and-so
+Partition coefficient |4||soil-solution-chemistry-and-so
+X-ray absorption fine structure |4||soil-solution-chemistry-and-so
+Chemical speciation |4||soil-solution-chemistry-and-so
+Soil survey |8||soil-survey-and-land-evaluatio
+Soil survey interpretation |4||soil-survey-and-land-evaluatio
+Soil map |6||soil-survey-and-land-evaluatio
+Soil information system |3||soil-survey-and-land-evaluatio
+SSURGO |3||soil-survey-and-land-evaluatio
+Soil value |4||soil-survey-and-land-evaluatio
+Prime farmland |7||soil-survey-and-land-evaluatio
+Digital soil mapping |6||soil-survey-and-land-evaluatio
+Scorpan model |3||soil-survey-and-land-evaluatio
+Pedometric mapping |8||soil-survey-and-land-evaluatio
+Pedometrics |4||soil-survey-and-land-evaluatio
+Universal model of soil variation |3||soil-survey-and-land-evaluatio
+Storie index |4||soil-survey-and-land-evaluatio
+European Soil Database |4||soil-survey-and-land-evaluatio
+Aerial photography |4||soil-survey-and-land-evaluatio
+Remote sensing |5||soil-survey-and-land-evaluatio
+Digital elevation model |4||soil-survey-and-land-evaluatio
+Geographic information system |4||soil-survey-and-land-evaluatio
+Land suitability classification |5||soil-survey-and-land-evaluatio
+FAO land suitability classes |3||soil-survey-and-land-evaluatio
+Land use capability map |3||soil-survey-and-land-evaluatio
+Web Soil Survey |2||soil-survey-and-land-evaluatio
+Site index |6||soil-survey-and-land-evaluatio
+Site index curves and equations |4||soil-survey-and-land-evaluatio
+Soil temperature |8||soil-temperature-and-air.jsonl
+Soil heat flux |3||soil-temperature-and-air.jsonl
+Soil heat capacity |4||soil-temperature-and-air.jsonl
+Soil thermal properties |6||soil-temperature-and-air.jsonl
+Soil thermal conductivity |4||soil-temperature-and-air.jsonl
+Thermal lag |4||soil-temperature-and-air.jsonl
+Heat probe method |4||soil-temperature-and-air.jsonl
+Thermal remote sensing of soil |3||soil-temperature-and-air.jsonl
+Ground heat storage |3||soil-temperature-and-air.jsonl
+Soil gas |8||soil-temperature-and-air.jsonl
+Soil air composition |7||soil-temperature-and-air.jsonl
+Gas diffusion in soil |8||soil-temperature-and-air.jsonl
+Soil gas surveys |4||soil-temperature-and-air.jsonl
+Soil aeration |8||soil-temperature-and-air.jsonl
+Core and spike aeration |3||soil-temperature-and-air.jsonl
+Linear aeration |3||soil-temperature-and-air.jsonl
+Frost heaving |7||soil-temperature-and-air.jsonl
+Ice lens |6||soil-temperature-and-air.jsonl
+Frost-susceptible soil |4||soil-temperature-and-air.jsonl
+Premelting and thermal regelation |4||soil-temperature-and-air.jsonl
+Frost-heave landforms |4||soil-temperature-and-air.jsonl
+Frost line |7||soil-temperature-and-air.jsonl
+Needle ice |7||soil-temperature-and-air.jsonl
+Frost boil |4||soil-temperature-and-air.jsonl
+Lithalsa |2||soil-temperature-and-air.jsonl
+Patterned ground |6||soil-temperature-and-air.jsonl
+Thermal diffusivity |4||soil-temperature-and-air.jsonl
+Permafrost |7||soil-temperature-and-air.jsonl
+Albedo |4||soil-temperature-and-air.jsonl
+Ground source heat pump |4||soil-temperature-and-air.jsonl
+Ice segregation |4||soil-temperature-and-air.jsonl
+Microclimate |4||soil-temperature-and-air.jsonl
+Fick's laws of diffusion |4||soil-temperature-and-air.jsonl
+Fourier's law |4||soil-temperature-and-air.jsonl
+Heat equation |4||soil-temperature-and-air.jsonl
+Thermal effusivity |4||soil-temperature-and-air.jsonl
+Seasonal frost |3||soil-temperature-and-air.jsonl
+Soil structure |8||soil-texture-and-structure.jso
+Soil structure types |7||soil-texture-and-structure.jso
+Ped |7||soil-texture-and-structure.jso
+Soil aggregate stability |7||soil-texture-and-structure.jso
+Soil aggregation |8||soil-texture-and-structure.jso
+Flocculation |4||soil-texture-and-structure.jso
+Aggregate hierarchy |4||soil-texture-and-structure.jso
+Aggregate stability measurement |4||soil-texture-and-structure.jso
+Slaking |4||soil-texture-and-structure.jso
+Improving soil structure |8||soil-texture-and-structure.jso
+Hardsetting soil |4||soil-texture-and-structure.jso
+Loam |7||soil-texture-and-structure.jso
+Silt |8||soil-texture-and-structure.jso
+Sand |8||soil-texture-and-structure.jso
+Grain size |5||soil-texture-and-structure.jso
+Krumbein phi scale |4||soil-texture-and-structure.jso
+Sediment sorting |4||soil-texture-and-structure.jso
+Particle-size distribution |8||soil-texture-and-structure.jso
+Sieve analysis |8||soil-texture-and-structure.jso
+Grain-size distribution curve |4||soil-texture-and-structure.jso
+Atterberg limits |7||soil-texture-and-structure.jso
+Liquid limit |4||soil-texture-and-structure.jso
+Plastic limit |4||soil-texture-and-structure.jso
+Shrinkage limit |2||soil-texture-and-structure.jso
+Plasticity index |4||soil-texture-and-structure.jso
+Liquidity index |4||soil-texture-and-structure.jso
+Clay activity |3||soil-texture-and-structure.jso
+Shrink–swell capacity |8||soil-texture-and-structure.jso
+Expansive clay |4||soil-texture-and-structure.jso
+Gilgai |2||soil-texture-and-structure.jso
+Soil crust |8||soil-texture-and-structure.jso
+Biological soil crust |4||soil-texture-and-structure.jso
+Soil dispersion |8||soil-texture-and-structure.jso
+Hydrophobic soil |4||soil-texture-and-structure.jso
+Soil water repellency tests |4||soil-texture-and-structure.jso
+Unified Soil Classification System |8||soil-texture-and-structure.jso
+USCS coarse-grained soil groups |4||soil-texture-and-structure.jso
+USCS fine-grained soil groups |4||soil-texture-and-structure.jso
+Tilth |8||soil-texture-and-structure.jso
+Physical properties of soil |7||soil-texture-and-structure.jso
+Soil consistency |7||soil-texture-and-structure.jso
+Soil resistivity |3||soil-texture-and-structure.jso
+Specific surface area |6||soil-texture-and-structure.jso
+Gravel |4||soil-texture-and-structure.jso
+USDA soil texture classes |5||soil-texture-and-structure.jso
+Soil texture triangle |8||soil-texture-and-structure.jso
+Soil separates |7||soil-texture-and-structure.jso
+International soil texture system |4||soil-texture-and-structure.jso
+Texture by feel |6||soil-texture-and-structure.jso
+Hydrometer method |8||soil-texture-and-structure.jso
+Laser diffraction particle sizing |8||soil-texture-and-structure.jso
+X-ray sedimentation |3||soil-texture-and-structure.jso
+Plasticity of clay |6||soil-texture-and-structure.jso
+Clay size versus clay minerals |4||soil-texture-and-structure.jso
+Clay soils in agriculture |4||soil-texture-and-structure.jso
+Soil gradation |4||soil-texture-and-structure.jso
+Coefficients of uniformity and curvature |4||soil-texture-and-structure.jso
+Mud |4||soil-texture-and-structure.jso
+Agrophysics |4||soil-texture-and-structure.jso
+Friability |4||soil-texture-and-structure.jso
+Stokes's law |8||soil-texture-and-structure.jso
+Particle size analysis |4||soil-texture-and-structure.jso
+Pipette method |3||soil-texture-and-structure.jso
+Clod |4||soil-texture-and-structure.jso
+Medical geology |7||soils-and-human-health.jsonl
+Geophagia |7||soils-and-human-health.jsonl
+Avian geophagy |3||soils-and-human-health.jsonl
+Soil ingestion by livestock |2||soils-and-human-health.jsonl
+Podoconiosis |6||soils-and-human-health.jsonl
+Soil-transmitted helminthiasis |5||soils-and-human-health.jsonl
+Coccidioidomycosis |6||soils-and-human-health.jsonl
+Melioidosis |6||soils-and-human-health.jsonl
+Iodine deficiency |5||soils-and-human-health.jsonl
+Selenium deficiency |6||soils-and-human-health.jsonl
+Keshan disease |4||soils-and-human-health.jsonl
+Itai-itai disease |5||soils-and-human-health.jsonl
+Jinzū River soil restoration |3||soils-and-human-health.jsonl
+Biofortification |4||soils-and-human-health.jsonl
+Hygiene hypothesis |4||soils-and-human-health.jsonl
+Mycobacterium vaccae |3||soils-and-human-health.jsonl
+One Health |3||soils-and-human-health.jsonl
+Prion |4||soils-and-human-health.jsonl
+Chronic wasting disease |4||soils-and-human-health.jsonl
+Astropedology |5||soils-beyond-earth.jsonl
+Lunar regolith |8||soils-beyond-earth.jsonl
+Lunar soil formation |4||soils-beyond-earth.jsonl
+Lunar dust hazards |4||soils-beyond-earth.jsonl
+Lunar sample return |4||soils-beyond-earth.jsonl
+Martian paleosols |4||soils-beyond-earth.jsonl
+Growing plants on the Moon and Mars |4||soils-beyond-earth.jsonl
+Archean paleosols |2||soils-beyond-earth.jsonl
+Origin of life in soil |3||soils-beyond-earth.jsonl
+Martian regolith |8||soils-beyond-earth.jsonl
+Extraterrestrial soil definition |4||soils-beyond-earth.jsonl
+Perchlorates in Martian soil |7||soils-beyond-earth.jsonl
+Martian dust |4||soils-beyond-earth.jsonl
+Lunar regolith simulant |7||soils-beyond-earth.jsonl
+Space weathering |8||soils-beyond-earth.jsonl
+Impact gardening |3||soils-beyond-earth.jsonl
+Martian regolith simulant |4||soils-beyond-earth.jsonl
+Lunarcrete |4||soils-beyond-earth.jsonl
+In situ resource utilization |4||soils-beyond-earth.jsonl
+Viking lander biological experiments |8||soils-beyond-earth.jsonl
+Labeled release experiment |4||soils-beyond-earth.jsonl
+Mars sample-return mission |4||soils-beyond-earth.jsonl
+Plants in space |4||soils-beyond-earth.jsonl
+Landscape ecology |8||soils-in-the-landscape.jsonl
+Spatial heterogeneity |4||soils-in-the-landscape.jsonl
+Landscape patch and mosaic |4||soils-in-the-landscape.jsonl
+Ecotone |4||soils-in-the-landscape.jsonl
+Hydric soil |8||soils-in-the-landscape.jsonl
+US legal hydric soil definition |4||soils-in-the-landscape.jsonl
+Bog |8||soils-in-the-landscape.jsonl
+Raised bog |8||soils-in-the-landscape.jsonl
+Blanket bog |4||soils-in-the-landscape.jsonl
+Wetland |8||soils-in-the-landscape.jsonl
+Fen |8||soils-in-the-landscape.jsonl
+Bog–rich-fen gradient |8||soils-in-the-landscape.jsonl
+Wetland nutrient cycling |8||soils-in-the-landscape.jsonl
+Wetland ecosystem services |4||soils-in-the-landscape.jsonl
+Marsh |8||soils-in-the-landscape.jsonl
+Wet meadow |3||soils-in-the-landscape.jsonl
+Vernal pool |4||soils-in-the-landscape.jsonl
+Prairie pothole |4||soils-in-the-landscape.jsonl
+Mima mounds |4||soils-in-the-landscape.jsonl
+Swamp |8||soils-in-the-landscape.jsonl
+Wetland loss |4||soils-in-the-landscape.jsonl
+Peatland |8||soils-in-the-landscape.jsonl
+Mire |4||soils-in-the-landscape.jsonl
+Peatland carbon storage |8||soils-in-the-landscape.jsonl
+Muskeg |8||soils-in-the-landscape.jsonl
+Börde |4||soils-in-the-landscape.jsonl
+Soil-surface roughness |4||soils-in-the-landscape.jsonl
+Suffosion |4||soils-in-the-landscape.jsonl
+Slump (geology) |8||soils-in-the-landscape.jsonl
+Polder |8||soils-in-the-landscape.jsonl
+Ombrotrophic |8||soils-in-the-landscape.jsonl
+Freshwater marsh |4||soils-in-the-landscape.jsonl
+Minerotrophic |7||soils-in-the-landscape.jsonl
+Shrub swamp |4||soils-in-the-landscape.jsonl
+Paludification |7||soils-in-the-landscape.jsonl
+String bog |4||soils-in-the-landscape.jsonl
+Hummock |4||soils-in-the-landscape.jsonl
+Palustrine wetland |4||soils-in-the-landscape.jsonl
+Land loss |3||soils-in-the-landscape.jsonl
+Salt marsh |4||soils-in-the-landscape.jsonl
+Flark |3||soils-in-the-landscape.jsonl
+Wetland hydrology |4||soils-in-the-landscape.jsonl
+Constructed wetland |4||soils-in-the-landscape.jsonl
+Wetland greenhouse gas emissions |4||soils-in-the-landscape.jsonl
+Ramsar Convention |4||soils-in-the-landscape.jsonl
+Riparian zone |7||soils-in-the-landscape.jsonl
+Floodplain |7||soils-in-the-landscape.jsonl
+Floodplain soils |4||soils-in-the-landscape.jsonl
+Palsa |4||soils-in-the-landscape.jsonl
+Peat swamp forest |4||soils-in-the-landscape.jsonl
+Alluvial fan |8||soils-in-the-landscape.jsonl
+Slope aspect |6||soils-in-the-landscape.jsonl
+Geomorphology |7||soils-in-the-landscape.jsonl
+Pedotope |1||soils-in-the-landscape.jsonl
+Hydrosere |4||soils-in-the-landscape.jsonl
+Hillslope evolution |8||soils-in-the-landscape.jsonl
+Hillslope sediment flux models |4||soils-in-the-landscape.jsonl
+Soil-mantled parabolic hills |4||soils-in-the-landscape.jsonl
+Contaminant transport in groundwater |6||solute-transport-in-soil.jsonl
+Advection |4||solute-transport-in-soil.jsonl
+Hydrodynamic dispersion |6||solute-transport-in-soil.jsonl
+Molecular diffusion of solutes |3||solute-transport-in-soil.jsonl
+Retardation by adsorption |4||solute-transport-in-soil.jsonl
+Convection–diffusion equation |5||solute-transport-in-soil.jsonl
+Colloid-facilitated transport |4||solute-transport-in-soil.jsonl
+Vadose zone transport models |3||solute-transport-in-soil.jsonl
+Dye tracing |4||solute-transport-in-soil.jsonl
+Tillage |8||tillage-and-cultivation.jsonl
+Primary and secondary tillage |6||tillage-and-cultivation.jsonl
+Intensive tillage |4||tillage-and-cultivation.jsonl
+Reduced tillage |2||tillage-and-cultivation.jsonl
+Conservation tillage |8||tillage-and-cultivation.jsonl
+Effects of tillage |8||tillage-and-cultivation.jsonl
+Plough pan |3||tillage-and-cultivation.jsonl
+Tillage and archaeology |2||tillage-and-cultivation.jsonl
+Forest site preparation |4||tillage-and-cultivation.jsonl
+Slash burning for site preparation |4||tillage-and-cultivation.jsonl
+Mounding |4||tillage-and-cultivation.jsonl
+Plough |8||tillage-and-cultivation.jsonl
+Ard |4||tillage-and-cultivation.jsonl
+Hoe cultivation |3||tillage-and-cultivation.jsonl
+Mouldboard plough |8||tillage-and-cultivation.jsonl
+Heavy plough |4||tillage-and-cultivation.jsonl
+Chisel plough |4||tillage-and-cultivation.jsonl
+Subsoiling |8||tillage-and-cultivation.jsonl
+Mole plough |4||tillage-and-cultivation.jsonl
+Harrow |8||tillage-and-cultivation.jsonl
+Cultivator |4||tillage-and-cultivation.jsonl
+Seedbed |4||tillage-and-cultivation.jsonl
+No-till farming |8||tillage-and-cultivation.jsonl
+No-till and soil carbon |7||tillage-and-cultivation.jsonl
+Weed management in no-till |4||tillage-and-cultivation.jsonl
+Strip-till |8||tillage-and-cultivation.jsonl
+Minimum tillage |3||tillage-and-cultivation.jsonl
+Vertical tillage |4||tillage-and-cultivation.jsonl
+Contour plowing |7||tillage-and-cultivation.jsonl
+Keyline design |4||tillage-and-cultivation.jsonl
+Optimum water content for tillage |4||tillage-and-cultivation.jsonl
+Arable land |8||tillage-and-cultivation.jsonl
+Conversion to arable land |3||tillage-and-cultivation.jsonl
+Three-field system |4||tillage-and-cultivation.jsonl
+Crop residue |8||tillage-and-cultivation.jsonl
+Controlled traffic farming |4||tillage-and-cultivation.jsonl
+Deep ploughing |4||tillage-and-cultivation.jsonl
+Disc harrow |4||tillage-and-cultivation.jsonl
+Mulch tillage |1||tillage-and-cultivation.jsonl
+Stubble burning |6||tillage-and-cultivation.jsonl
+Stubble mulching |1||tillage-and-cultivation.jsonl
+Ridge tillage |1||tillage-and-cultivation.jsonl
+Urban soil |6||urban-and-human-made-soils.jso
+Artefacts in soil |3||urban-and-human-made-soils.jso
+Rain garden |5||urban-and-human-made-soils.jso
+Bioretention soil mix |4||urban-and-human-made-soils.jso
+Soil stockpile |2||urban-and-human-made-soils.jso
+Spoil tip |4||urban-and-human-made-soils.jso
+Urban forestry |4||urban-and-human-made-soils.jso
+USDA soil orders |8||usda-soil-orders.jsonl
+Alfisol |8||usda-soil-orders.jsonl
+Fossil record of Alfisols |4||usda-soil-orders.jsonl
+Andisol |7||usda-soil-orders.jsonl
+Aridisol |7||usda-soil-orders.jsonl
+Entisol |7||usda-soil-orders.jsonl
+Orthent |4||usda-soil-orders.jsonl
+Gelisol |8||usda-soil-orders.jsonl
+Gelisol suborders |4||usda-soil-orders.jsonl
+Histosol |8||usda-soil-orders.jsonl
+Spodosol |6||usda-soil-orders.jsonl
+Inceptisol |7||usda-soil-orders.jsonl
+Mollisol |8||usda-soil-orders.jsonl
+Mollisol suborders |4||usda-soil-orders.jsonl
+Oxisol |8||usda-soil-orders.jsonl
+Ultisol |8||usda-soil-orders.jsonl
+Gardening in Ultisols |4||usda-soil-orders.jsonl
+Vertisol |8||usda-soil-orders.jsonl
+Vertisol suborders |4||usda-soil-orders.jsonl
+Psamment |8||usda-soil-orders.jsonl
+Sapric |4||usda-soil-orders.jsonl
+Muck farming |4||usda-soil-orders.jsonl
+Paleopedology |8||usda-soil-orders.jsonl
+Soil climate |4||usda-soil-orders.jsonl
+Trace fossils in paleosols |3||usda-soil-orders.jsonl
+Reconstructing paleosol parent material |4||usda-soil-orders.jsonl
+Paleopedological record |8||usda-soil-orders.jsonl
+Soil in the United States |4||usda-soil-orders.jsonl
+Anthrepts |1||usda-soil-orders.jsonl
+Calcid |4||usda-soil-orders.jsonl
+Ultisol suborders |4||usda-soil-orders.jsonl
+Soil water retention |8||water-in-soil.jsonl
+Soil moisture and climate |4||water-in-soil.jsonl
+Soil moisture |8||water-in-soil.jsonl
+Saturated and unsaturated flow |7||water-in-soil.jsonl
+Preferential flow |8||water-in-soil.jsonl
+Fingered flow |2||water-in-soil.jsonl
+Percolation |4||water-in-soil.jsonl
+Plant water uptake |8||water-in-soil.jsonl
+Evapotranspiration |8||water-in-soil.jsonl
+Transpiration ratio |2||water-in-soil.jsonl
+Soil suction and pF |4||water-in-soil.jsonl
+Water content |7||water-in-soil.jsonl
+Standard soil water contents |7||water-in-soil.jsonl
+Degree of saturation |3||water-in-soil.jsonl
+Oven-dry method |4||water-in-soil.jsonl
+Soil moisture measurement |5||water-in-soil.jsonl
+Satellite soil moisture sensing |2||water-in-soil.jsonl
+Neutron probe |4||water-in-soil.jsonl
+Agricultural drought |4||water-in-soil.jsonl
+Water potential |7||water-in-soil.jsonl
+Matric potential |5||water-in-soil.jsonl
+Osmotic potential of soil water |4||water-in-soil.jsonl
+Water retention curve |7||water-in-soil.jsonl
+Van Genuchten model |4||water-in-soil.jsonl
+Field capacity |8||water-in-soil.jsonl
+Permanent wilting point |7||water-in-soil.jsonl
+Capillary fringe |6||water-in-soil.jsonl
+Infiltration |8||water-in-soil.jsonl
+Factors affecting infiltration |8||water-in-soil.jsonl
+Infiltration equations |6||water-in-soil.jsonl
+Green–Ampt method |3||water-in-soil.jsonl
+Horton's equation |3||water-in-soil.jsonl
+Kostiakov equation |2||water-in-soil.jsonl
+Sorptivity |4||water-in-soil.jsonl
+Infiltrometer |5||water-in-soil.jsonl
+Double-ring infiltrometer |3||water-in-soil.jsonl
+Macropore |8||water-in-soil.jsonl
+Macropore network |3||water-in-soil.jsonl
+Permeability (porous media) |8||water-in-soil.jsonl
+Permeability of soils |7||water-in-soil.jsonl
+Hydraulic conductivity |8||water-in-soil.jsonl
+Hazen's formula |3||water-in-soil.jsonl
+Constant-head test |3||water-in-soil.jsonl
+Falling-head test |2||water-in-soil.jsonl
+Field permeability tests |4||water-in-soil.jsonl
+Augerhole method |4||water-in-soil.jsonl
+Transmissivity |3||water-in-soil.jsonl
+Hydraulic anisotropy |4||water-in-soil.jsonl
+Darcy's law |8||water-in-soil.jsonl
+Forchheimer equation |4||water-in-soil.jsonl
+Darcy (unit) |4||water-in-soil.jsonl
+Disc permeameter |4||water-in-soil.jsonl
+Pedotransfer function |8||water-in-soil.jsonl
+Soil moisture velocity equation |4||water-in-soil.jsonl
+Soil moisture zone |3||water-in-soil.jsonl
+Soil-plant-atmosphere continuum |4||water-in-soil.jsonl
+Hydropedology |3||water-in-soil.jsonl
+Groundwater recharge |8||water-in-soil.jsonl
+Depression-focused recharge |4||water-in-soil.jsonl
+Artificial groundwater recharge |4||water-in-soil.jsonl
+Groundwater recharge estimation |4||water-in-soil.jsonl
+Drainage |7||water-in-soil.jsonl
+Agricultural land drainage |8||water-in-soil.jsonl
+Geotextile drain filters |3||water-in-soil.jsonl
+Sustainable urban drainage |3||water-in-soil.jsonl
+Waterlogging |6||water-in-soil.jsonl
+Drainage equation |4||water-in-soil.jsonl
+Drainage research |4||water-in-soil.jsonl
+Tensiometer |6||water-in-soil.jsonl
+Soil moisture sensor |7||water-in-soil.jsonl
+Time-domain reflectometry |8||water-in-soil.jsonl
+Capacitance probe |4||water-in-soil.jsonl
+Frequency domain sensor |3||water-in-soil.jsonl
+Soil Moisture Active Passive |4||water-in-soil.jsonl
+Watertable control |8||water-in-soil.jsonl
+Available water capacity |7||water-in-soil.jsonl
+Vadose zone |7||water-in-soil.jsonl
+Impervious surface |4||water-in-soil.jsonl
+Natural impervious area |4||water-in-soil.jsonl
+Total impervious area |4||water-in-soil.jsonl
+Irrigation scheduling |8||water-in-soil.jsonl
+Soil water balance method |4||water-in-soil.jsonl
+Management allowed depletion |2||water-in-soil.jsonl
+SaltMod |4||water-in-soil.jsonl
+Richards equation |7||water-in-soil.jsonl
+Finite water-content vadose zone flow method |4||water-in-soil.jsonl
+Ecohydrology |4||water-in-soil.jsonl
+Bioclogging |4||water-in-soil.jsonl
+Plinthite |4||water-in-soil.jsonl
+Soil inference system |4||water-in-soil.jsonl
+Mariotte's bottle |4||water-in-soil.jsonl
+Moisture equivalent |3||water-in-soil.jsonl
+Potential evapotranspiration |4||water-in-soil.jsonl
+Water table |8||water-in-soil.jsonl
+Lysimeter |4||water-in-soil.jsonl
+Throughflow |4||water-in-soil.jsonl
+Percolation test |4||water-in-soil.jsonl
+Depression storage capacity |2||water-in-soil.jsonl
+Moisture stress |4||water-in-soil.jsonl
+Hydraulic head |7||water-in-soil.jsonl
+Hydraulic gradient |4||water-in-soil.jsonl
+Aquifer |8||water-in-soil.jsonl
+Confined and unconfined aquifers |4||water-in-soil.jsonl
+Groundwater |8||water-in-soil.jsonl
+Phreatic zone |4||water-in-soil.jsonl
+Interflow |4||water-in-soil.jsonl
+Subsurface flow |4||water-in-soil.jsonl
+Hydrology |4||water-in-soil.jsonl
+Hydrogeology |4||water-in-soil.jsonl
+Groundwater flow equation |4||water-in-soil.jsonl
+Water balance |6||water-in-soil.jsonl
+Agricultural hydrology |4||water-in-soil.jsonl
+Irrigation and drainage requirements |4||water-in-soil.jsonl
+Transpiration |8||water-in-soil.jsonl
+Wilting |4||water-in-soil.jsonl
+Penman–Monteith equation |7||water-in-soil.jsonl
+Priestley–Taylor equation |3||water-in-soil.jsonl
+Reference evapotranspiration |4||water-in-soil.jsonl
+Crop coefficient |4||water-in-soil.jsonl
+Eddy covariance |4||water-in-soil.jsonl
+Non-limiting water range |3||water-in-soil.jsonl
+Bound water |3||water-in-soil.jsonl
+Water retention hysteresis |3||water-in-soil.jsonl
+Pressure head |4||water-in-soil.jsonl
+Kozeny–Carman equation |3||water-in-soil.jsonl
+Unsaturated hydraulic conductivity |4||water-in-soil.jsonl
+Agricultural drainage systems |8||water-in-soil.jsonl
+Tile drainage |8||water-in-soil.jsonl
+Ecological effects of tile drainage |4||water-in-soil.jsonl
+Parent material |8||weathering-and-parent-material
+Residuum |7||weathering-and-parent-material
+Transported parent material |7||weathering-and-parent-material
+Glacial till |8||weathering-and-parent-material
+Glaciofluvial deposits |3||weathering-and-parent-material
+Glaciolacustrine deposits |2||weathering-and-parent-material
+Lacustrine parent material |3||weathering-and-parent-material
+Marine parent material |2||weathering-and-parent-material
+Cumulose parent material |3||weathering-and-parent-material
+Volcanic tephra parent material |4||weathering-and-parent-material
+Regolith |8||weathering-and-parent-material
+Asteroid regolith |3||weathering-and-parent-material
+Icy regolith on Titan |3||weathering-and-parent-material
+Saprolite |8||weathering-and-parent-material
+Deep weathering |7||weathering-and-parent-material
+Bedrock |6||weathering-and-parent-material
+Superficial deposits |3||weathering-and-parent-material
+Eluvial deposits |4||weathering-and-parent-material
+Loess |7||weathering-and-parent-material
+Periglacial loess |4||weathering-and-parent-material
+Non-glacial loess |3||weathering-and-parent-material
+Loess soils and fertility |4||weathering-and-parent-material
+Loess Plateau |4||weathering-and-parent-material
+Loess–paleosol sequences |4||weathering-and-parent-material
+Alluvium |7||weathering-and-parent-material
+Colluvium |7||weathering-and-parent-material
+Stone stripe |4||weathering-and-parent-material
+River channel migration |4||weathering-and-parent-material
+Rock |5||weathering-and-parent-material
+Igneous rock |4||weathering-and-parent-material
+Sedimentary rock |4||weathering-and-parent-material
+Metamorphic rock |3||weathering-and-parent-material
+Rock cycle |4||weathering-and-parent-material
+Lithology |4||weathering-and-parent-material
+Primary mineral |5||weathering-and-parent-material
+Feldspar |7||weathering-and-parent-material
+Plagioclase |4||weathering-and-parent-material
+Orthoclase |3||weathering-and-parent-material
+Biotite |3||weathering-and-parent-material
+Olivine |4||weathering-and-parent-material
+Mafic |4||weathering-and-parent-material
+Limestone |4||weathering-and-parent-material
+Grus |3||weathering-and-parent-material
+Glacial drift |3||weathering-and-parent-material
+Moraine |4||weathering-and-parent-material
+Outwash plain |3||weathering-and-parent-material
+Volcanic ash |4||weathering-and-parent-material
+Lichens and soil formation |4||weathering-and-parent-material
+Spheroidal weathering |4||weathering-and-parent-material
+Desert varnish |4||weathering-and-parent-material
+Mineral |8||what-soil-is-made-of.jsonl
+Mineral chemistry |6||what-soil-is-made-of.jsonl
+Silicate minerals |7||what-soil-is-made-of.jsonl
+Framework silicates |4||what-soil-is-made-of.jsonl
+Phyllosilicates |6||what-soil-is-made-of.jsonl
+Carbonate minerals |4||what-soil-is-made-of.jsonl
+Oxide minerals |4||what-soil-is-made-of.jsonl
+Sulfate minerals |3||what-soil-is-made-of.jsonl
+Rock-forming minerals |4||what-soil-is-made-of.jsonl
+Mineral identification |4||what-soil-is-made-of.jsonl
+Biogenic minerals debate |4||what-soil-is-made-of.jsonl
+Clay |7||what-soil-is-made-of.jsonl
+Clay formation |7||what-soil-is-made-of.jsonl
+Clay varieties |4||what-soil-is-made-of.jsonl
+Uses of clay |4||what-soil-is-made-of.jsonl
+Clay as a building material |4||what-soil-is-made-of.jsonl
+Soil organic matter |7||what-soil-is-made-of.jsonl
+Soil organic carbon with depth |4||what-soil-is-made-of.jsonl
+Mineral-associated organic matter |3||what-soil-is-made-of.jsonl
+Composition of plant residues |4||what-soil-is-made-of.jsonl
+Soil organic matter in the carbon cycle |4||what-soil-is-made-of.jsonl
+Climate and organic matter accumulation |4||what-soil-is-made-of.jsonl
+Soil texture |7||what-soil-is-made-of.jsonl
+Weathering |6||what-soil-is-made-of.jsonl
+Physical weathering |4||what-soil-is-made-of.jsonl
+Frost weathering |4||what-soil-is-made-of.jsonl
+Thermal stress weathering |4||what-soil-is-made-of.jsonl
+Pressure release weathering |4||what-soil-is-made-of.jsonl
+Salt weathering |4||what-soil-is-made-of.jsonl
+Chemical weathering |6||what-soil-is-made-of.jsonl
+Dissolution weathering |4||what-soil-is-made-of.jsonl
+Hydrolysis and carbonation |6||what-soil-is-made-of.jsonl
+Oxidation weathering |4||what-soil-is-made-of.jsonl
+Mineral hydration |4||what-soil-is-made-of.jsonl
+Biological weathering |7||what-soil-is-made-of.jsonl
+Weathering in soil formation |7||what-soil-is-made-of.jsonl
+Compressed earth block |4||what-soil-is-made-of.jsonl
+Lateritic nickel ore deposits |4||what-soil-is-made-of.jsonl
+Sand mining |4||what-soil-is-made-of.jsonl
+Calcite |4||what-soil-is-made-of.jsonl
+Mineralogy |4||what-soil-is-made-of.jsonl
+Phytolith |4||what-soil-is-made-of.jsonl
+Weathering rind |4||what-soil-is-made-of.jsonl
+Soil |8||what-soil-is.jsonl
+Soil composition |7||what-soil-is.jsonl
+Soil solution |5||what-soil-is.jsonl
+What counts as soil |6||what-soil-is.jsonl
+Uses of soil |8||what-soil-is.jsonl
+Soil reclamation |4||what-soil-is.jsonl
+Pedosphere |7||what-soil-is.jsonl
+Pioneer organisms in soil formation |4||what-soil-is.jsonl
+Atmospheric inputs to soil |4||what-soil-is.jsonl
+Forest soils |4||what-soil-is.jsonl
+Tropical forest soils |4||what-soil-is.jsonl
+Grassland and desert soils |4||what-soil-is.jsonl
+Soil science |8||what-soil-is.jsonl
+Soil as a natural body |6||what-soil-is.jsonl
+Vernacular soil classification |4||what-soil-is.jsonl
+Soil science in practice |4||what-soil-is.jsonl
+Pedology |6||what-soil-is.jsonl
+Principles of pedology |7||what-soil-is.jsonl
+Edaphology |6||what-soil-is.jsonl
+Van Helmont's willow experiment |2||what-soil-is.jsonl
+Industrialization and edaphology |4||what-soil-is.jsonl
+Earthworks (engineering) |4||what-soil-is.jsonl
+Embankment (earthworks) |3||what-soil-is.jsonl
+Soil cement |4||what-soil-is.jsonl
+Earth shelter |4||what-soil-is.jsonl
+Fresno scraper |4||what-soil-is.jsonl
+Aeroponics |4||what-soil-is.jsonl
+Thickness (geology) |3||what-soil-is.jsonl
+Earth's critical zone |7||what-soil-is.jsonl
+Soil health |8||what-soil-is.jsonl
+Soil quality |5||what-soil-is.jsonl
+Soil functions |7||what-soil-is.jsonl
+Acrisol |6||world-reference-base-soil-grou
+Alisol |4||world-reference-base-soil-grou
+Andosol |8||world-reference-base-soil-grou
+Anthrosol |7||world-reference-base-soil-grou
+Calcisol |7||world-reference-base-soil-grou
+Cambisol |6||world-reference-base-soil-grou
+Chernozem |8||world-reference-base-soil-grou
+Theories of chernozem origin |4||world-reference-base-soil-grou
+Durisol |4||world-reference-base-soil-grou
+Fluvisol |7||world-reference-base-soil-grou
+Gleysol |7||world-reference-base-soil-grou
+Gypsisol |4||world-reference-base-soil-grou
+Kastanozem |4||world-reference-base-soil-grou
+Leptosol |7||world-reference-base-soil-grou
+Lixisol |3||world-reference-base-soil-grou
+Luvisol |6||world-reference-base-soil-grou
+Nitisol |4||world-reference-base-soil-grou
+Phaeozem |4||world-reference-base-soil-grou
+Planosol |4||world-reference-base-soil-grou
+Plinthosol |4||world-reference-base-soil-grou
+Podzol |8||world-reference-base-soil-grou
+Regosol |4||world-reference-base-soil-grou
+Retisol |4||world-reference-base-soil-grou
+WRB argic soil groups |5||world-reference-base-soil-grou
+Solonchak |5||world-reference-base-soil-grou
+Solonetz |6||world-reference-base-soil-grou
+Stagnosol |4||world-reference-base-soil-grou
+Technosol |7||world-reference-base-soil-grou
+Umbrisol |4||world-reference-base-soil-grou
+Albeluvisols |4||world-reference-base-soil-grou
+Aridity |4||world-reference-base-soil-grou
+Plaggen soil |4||world-reference-base-soil-grou
+Black Dirt Region |4||world-reference-base-soil-grou
+Water stagnation |1||world-reference-base-soil-grou
+WRB qualifiers |4||world-reference-base-soil-grou

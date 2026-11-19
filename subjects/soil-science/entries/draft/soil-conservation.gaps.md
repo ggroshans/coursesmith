@@ -10,3 +10,8 @@
 - Soil Conservation Service: suggested page "Natural Resources Conservation Service#History" (the 1935 agency behind US contour farming and the shelterbelt; owned by the societies chapter)
 - Check dam: suggested page "Check dam" (three passing mentions; gully control structure missing)
 - Contour bunding: suggested page "Contour bund" (one sentence in Contour plowing)
+
+- Sediment control basin (agricultural), Conservation reserve program: only passing mentions in chunk 4.
+- Skipped: Dust Bowl intro and Honduras anecdotes (case studies).
+
+- Push-pull technology, Sterile insect technique, Mucuna pruriens as biocontrol: only brief mentions here; mostly pest-management, not soil.

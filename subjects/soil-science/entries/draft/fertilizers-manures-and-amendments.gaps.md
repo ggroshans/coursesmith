@@ -28,3 +28,18 @@
 - Hydrochar, the hydrothermal counterpart of biochar: Hydrothermal carbonization
 - Seaweed extracts as plant biostimulants: Biostimulant
 - Calcium ammonium nitrate (named on Ammonium nitrate and UAN only): Calcium ammonium nitrate
+
+Allotropes of sulfur and Chromosome pages are off-topic; skipped (Sulfur allotropes could feed a sulfur-forms entry if wanted).
+
+none
+
+- Grazing lands and rangeland management (Building Soils ch. 12 only touches it)
+- Manure analysis and nutrient content tables (Table 12.1)
+
+- Compost maturity tests (Solvita, germination tests)
+- Composting dead animals (case study)
+
+- Soil nitrate testing details (Chapter 21)
+- Nitrogen use efficiency indices
+
+- Phosphorus fertilizer recommendations and soil-test P interpretation

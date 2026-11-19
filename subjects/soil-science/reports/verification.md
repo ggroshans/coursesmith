@@ -1,16 +1,16 @@
 # Verification
 
-Entries checked: 2274 (selected plus flagged). DOIs looked up: 4855.
+Entries checked: 2629 (selected plus flagged). DOIs looked up: 5000.
 Authorities with a fetcher: USDA NRCS Soil Survey Manual, USDA NRCS soil survey glossary, USDA NRCS Keys to Soil Taxonomy, IUSS World Reference Base for Soil Resources.
 Authorities pending a fetcher: ISRIC SoilGrids.
 
 ## Verdicts
 
-- no comparable claim: 7829
-- no abstract: 2503
+- no comparable claim: 8655
+- no abstract: 2561
 - supports: 116
 - different object: 108
-- not found: 43
+- not found: 44
 - differs: 15
 - older estimate: 3
 - different method: 2
@@ -18,7 +18,9 @@ Authorities pending a fetcher: ISRIC SoilGrids.
 
 ## Source tiers
 
-- wikipedia: 2184
+- wikipedia: 2196
+- curated: 247
+- reference: 96
 - primary: 90
 
 ## Automatic supports (spot-check: a matching number near the term is evidence, not proof)

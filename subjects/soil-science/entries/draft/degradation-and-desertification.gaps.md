@@ -8,3 +8,8 @@
 - The African Great Green Wall (entry drafted with no article; its length and country count conflict): Great Green Wall (Africa)
 - China's Three-North Shelter Forest Program (entry drafted with no article; its end date conflicts): Three-North Shelter Forest Program
 - Shrub and bush encroachment of overgrazed grassland, named on four pages but never described: Woody plant encroachment
+
+Chunk 4: erosion, landslide and degradation-spiral pages are covered by existing entries (Soil erosion, Water erosion, Wind erosion, Landslide, Agricultural soil degradation spiral); not redrafted.
+Possible gap: Dust Bowl detail is in existing entries.
+
+Chunk 5 skipped: Economic analysis of climate change (off-topic economics) and Nigeria Erosion and Watershed Management Project (programme case study).

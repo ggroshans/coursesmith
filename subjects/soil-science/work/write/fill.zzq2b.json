@@ -1,0 +1,256 @@
+{
+ "questions": {
+  "soil-class-157": {
+   "q": "Why are constructed soils preferred to imported topsoil?",
+   "a": "Harvesting topsoil degrades a second site and usually costs more.",
+   "sent_ids": [
+    "f613fb0e64fa",
+    "32c2aac19aae",
+    "ae7fb3eadc38",
+    "3ade96502ca6",
+    "9454ac675c1b"
+   ]
+  },
+  "soil-class-167": {
+   "q": "When was this quicksand without water first created in the laboratory?",
+   "a": "In 2004, after long being doubted as folklore.",
+   "sent_ids": [
+    "ab3555a9719a",
+    "b742c53367cf"
+   ]
+  },
+  "soil-fert-190": {
+   "q": "Who should avoid soil with estimated total lead above 300 ppm?",
+   "a": "Children and pregnant women.",
+   "sent_ids": [
+    "da4169ee496b",
+    "d8bfd985059c",
+    "5e2992a34421"
+   ]
+  },
+  "soil-fert-164": {
+   "q": "At what concentration in soil water is boron toxic to most plants?",
+   "a": "Above 1 ppm.",
+   "sent_ids": [
+    "226f2bbc9d4c",
+    "545c62cab3cc"
+   ]
+  },
+  "soil-fert-186": {
+   "q": "What carbon-to-nitrogen ratios point to marine sources, and what to land plants?",
+   "a": "Ratios of 4-10:1 usually mean marine sources, while land vascular plants tend to exceed 20.",
+   "sent_ids": [
+    "875a8fae4087",
+    "8400ebc20544",
+    "4a9010939e8d"
+   ]
+  },
+  "soil-fert-195": {
+   "q": "What do preplant and late-spring soil nitrogen tests show?",
+   "a": "Preplant tests show the soil's nitrogen-supplying power, and late-spring or pre-side-dress tests decide whether more is needed.",
+   "sent_ids": [
+    "b4e36e146b48",
+    "9004c4ab8852"
+   ]
+  },
+  "soil-fert-229": {
+   "q": "How does manganese deficiency show on leaves, and which leaves first?",
+   "a": "Leaves yellow between the veins in a chequered pattern; young leaves show it first because manganese is immobile.",
+   "sent_ids": [
+    "1cc557c08d04",
+    "fea4a671955a",
+    "3c0a446667c0"
+   ]
+  },
+  "soil-fert-291": {
+   "q": "Which rotations leach less nitrogen than annual row crops?",
+   "a": "Rotations with cover crops, perennial grasses and legumes.",
+   "sent_ids": [
+    "5787fdc54dff"
+   ]
+  },
+  "soil-fert-284": {
+   "q": "How does copper deficiency show in plants?",
+   "a": "As browning of leaf tips and chlorosis.",
+   "sent_ids": [
+    "b8b480965ee7"
+   ]
+  },
+  "soil-fert-292": {
+   "q": "What do slow-release nitrogen forms and inhibitors do?",
+   "a": "They better match nitrogen supply to crop needs.",
+   "sent_ids": [
+    "d07ce556312b",
+    "fc4113a36d9d"
+   ]
+  },
+  "soil-found-066": {
+   "q": "In which three oxidation states does mercury occur?",
+   "a": "0 (elemental), I (mercurous) and II (mercuric).",
+   "sent_ids": [
+    "74aaae0633ce"
+   ]
+  },
+  "soil-fert-128": {
+   "q": "What limits how much phosphorus an ecosystem has?",
+   "a": "The rate at which weathering releases phosphorus; apatite dissolution is a key control on productivity.",
+   "sent_ids": [
+    "fe0184462caa",
+    "f277790c618d"
+   ]
+  },
+  "soil-fert-117": {
+   "q": "Who first suggested, and when, that oxidizing ammonia to nitrate is biological?",
+   "a": "Louis Pasteur, in 1862.",
+   "sent_ids": [
+    "f0a3a1474489"
+   ]
+  },
+  "soil-fert-224": {
+   "q": "How does urea hydrolysis change the pH around it?",
+   "a": "It raises it, because the basic ammonia released is produced in two stages through carbamic acid.",
+   "sent_ids": [
+    "6bd2267adcde",
+    "512875a225e4",
+    "18dd9ef11de4"
+   ]
+  },
+  "soil-fert-221": {
+   "q": "What view did Nitrospira inopinata overturn?",
+   "a": "That the two steps of nitrification need two organisms; it carries out complete nitrification (comammox).",
+   "sent_ids": [
+    "314d916e33af",
+    "e4811fd99cdc"
+   ]
+  },
+  "soil-fert-279": {
+   "q": "What is a farm with a negative nutrient balance doing?",
+   "a": "Living off capital, drawing down mineral and organic-matter nutrients until yields fall.",
+   "sent_ids": [
+    "37c12a5e5567",
+    "dcd7c296344d"
+   ]
+  },
+  "soil-fert-225": {
+   "q": "Which organisms can turn N2O into N2?",
+   "a": "Only denitrifying prokaryotes, though some denitrifiers lack the step and stop at N2O.",
+   "sent_ids": [
+    "e68ed8e750a2",
+    "bd74347b4f81",
+    "2a19f71658d6"
+   ]
+  },
+  "soil-fert-277": {
+   "q": "What is the optimum nitrogen balance, and what do values below 0 and above 50 mean?",
+   "a": "Generally between 0 and +50 pounds per acre; below 0 the soil is being mined of nitrogen, and above 50 the excess causes environmental damage.",
+   "sent_ids": [
+    "8815ee2703ab",
+    "2bf04cd9a2cb",
+    "61e364e35b10"
+   ]
+  },
+  "soil-fert-035": {
+   "q": "How is compost tea usually made?",
+   "a": "By adding compost to water at 1:4-1:10 and stirring occasionally to release microbes, with or without aeration.",
+   "sent_ids": [
+    "9af0cbcd374a",
+    "26f11365aa86"
+   ]
+  },
+  "soil-fert-033": {
+   "q": "Why does stabilized compost pose very little risk?",
+   "a": "It has reached 50-70 \u00b0C, which kills pathogens and makes even oocysts unviable.",
+   "sent_ids": [
+    "86c0a97daf84"
+   ]
+  },
+  "soil-fert-081": {
+   "q": "Which seaweeds are used most, and in what forms?",
+   "a": "Brown seaweeds; laid as mulch, composted, dried and powdered, or made into liquid extracts.",
+   "sent_ids": [
+    "da317009596d",
+    "f8c6444a7711",
+    "dcd75ed9ecc8"
+   ]
+  },
+  "soil-fert-077": {
+   "q": "What did a 2013 study find about a single compost application on grassland?",
+   "a": "It significantly and durably raised carbon storage by 25-70%.",
+   "sent_ids": [
+    "ad446e69ade6"
+   ]
+  },
+  "soil-fert-083": {
+   "q": "Which has the highest salt index: potassium chloride, urea or diammonium phosphate?",
+   "a": "Potassium chloride, at 116.2, against 74.4 for urea and 29.2 for diammonium phosphate.",
+   "sent_ids": [
+    "ab472a725f87",
+    "3cbd960fe308",
+    "f63d4400d3e9"
+   ]
+  },
+  "soil-fert-262": {
+   "q": "By how much does a compost pile shrink?",
+   "a": "By 30-60 percent as carbon dioxide and water escape.",
+   "sent_ids": [
+    "51571386c215",
+    "74f9ecf6adbf",
+    "6f61ecaeab4b",
+    "ba84aadcd1ca",
+    "3fd9579cae97"
+   ]
+  },
+  "soil-fert-205": {
+   "q": "As of 2016, did any country have a specific regulatory framework for biostimulants?",
+   "a": "No; with no agreed definition, some treat them under fertilizer law.",
+   "sent_ids": [
+    "5f2ae094ecea",
+    "230d7eab86a7"
+   ]
+  },
+  "soil-fert-274": {
+   "q": "What should be cut first when phosphorus surpluses build up on livestock farms?",
+   "a": "P in animal diets; a survey found US dairy herds fed about 25% more P than NRC advice.",
+   "sent_ids": [
+    "e7ac53cce6fa",
+    "c6918d8ee39d",
+    "ed50fff58a10",
+    "7412ba5be2b5"
+   ]
+  },
+  "soil-fert-216": {
+   "q": "What factor converts P2O5 to elemental phosphorus, and K2O to potassium?",
+   "a": "P2O5 is 43.6% phosphorus, so multiply by 0.436; K2O is 83% potassium, so multiply by 0.83.",
+   "sent_ids": [
+    "1e6f0d698d0f",
+    "5a1a77c736ac",
+    "a4bf1cd23fdd",
+    "dcd67c6ddea4"
+   ]
+  },
+  "soil-fert-240": {
+   "q": "What are the two types of integrated crop-livestock farm?",
+   "a": "One mainly sells animal products and matches animal numbers to carrying capacity; the other is a diversified farm that raises all its feed but sells a range of crops and animal products.",
+   "sent_ids": [
+    "180ddb3c8812",
+    "d17a7025ea2b",
+    "be3810e93772",
+    "a38297a62fc1"
+   ]
+  },
+  "soil-fert-268": {
+   "q": "What is the late-spring nitrate test especially good at identifying?",
+   "a": "Sites that need no more N fertilizer, since it implicitly captures early-season weather.",
+   "sent_ids": [
+    "ccefb3b2da7c"
+   ]
+  },
+  "soil-fert-249": {
+   "q": "What should be done where soil P is far above optimum?",
+   "a": "Apply manure by crop P need and export part of it.",
+   "sent_ids": [
+    "7ab3d4a9e5d0"
+   ]
+  }
+ }
+}
