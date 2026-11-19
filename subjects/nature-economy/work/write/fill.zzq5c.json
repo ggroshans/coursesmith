@@ -1,0 +1,238 @@
+{
+ "questions": {
+  "nature-gov-039": {
+   "q": "What range do the IUCN protected area categories cover?",
+   "a": "From Category Ia, strict nature reserve, and Category II, national park, to Category VI, protected areas with sustainable use of natural resources.",
+   "sent_ids": [
+    "9de15de5522a",
+    "99864b5c8eeb",
+    "4bac3e9cae47"
+   ]
+  },
+  "nature-gov-044": {
+   "q": "On what principle does the 2000 biosafety protocol on GMOs rest?",
+   "a": "The precautionary principle of the 1992 Rio Declaration: lack of full scientific certainty is no reason to delay cost-effective protection.",
+   "sent_ids": [
+    "b51b65c116cb",
+    "e8bc1f87feaa",
+    "486f73613441"
+   ]
+  },
+  "nature-gov-032": {
+   "q": "What usually drives wildlife trafficking?",
+   "a": "Organised crime, eased by corruption and weak governance.",
+   "sent_ids": [
+    "17c088269ca2"
+   ]
+  },
+  "nature-gov-227": {
+   "q": "What is the core assumption of political ecology about environmental change?",
+   "a": "That it does not affect society evenly: political, social and economic differences shape who bears costs and who gains benefits.",
+   "sent_ids": [
+    "71a60c7cb1b9"
+   ]
+  },
+  "nature-gov-173": {
+   "q": "Who coined the term environmental racism in 1982, and in what fight?",
+   "a": "Benjamin Chavis, while opposing a PCB waste landfill in Warren County, North Carolina.",
+   "sent_ids": [
+    "86ac02df66de",
+    "a68b0afaf53c"
+   ]
+  },
+  "nature-gov-180": {
+   "q": "What do 'free', 'prior' and 'informed' each mean in free, prior and informed consent?",
+   "a": "Free means no coercion or bribery; prior means consent is sought well before activities begin; informed means people get adequate information on the project's nature, size, pace and duration.",
+   "sent_ids": [
+    "c3ed6c1119a8",
+    "827142657243",
+    "1f598854bcc5"
+   ]
+  },
+  "nature-gov-212": {
+   "q": "Around what did the label eco-colonialism first appear?",
+   "a": "Debt-for-nature swaps, from 1989.",
+   "sent_ids": [
+    "f7cecd6de318"
+   ]
+  },
+  "nature-gov-174": {
+   "q": "What forms can environmental justice compensation take?",
+   "a": "Direct payouts, or funds for cleaning waste sites, air monitors in low-income neighbourhoods, or public transport.",
+   "sent_ids": [
+    "702943bcd326"
+   ]
+  },
+  "nature-gov-219": {
+   "q": "Why do facilities with local costs, such as landfills, tend to end up in poor places?",
+   "a": "Such facilities tend to end up in poor, minority or politically under-represented places that cannot fight them off.",
+   "sent_ids": [
+    "2e3ace50c5d5"
+   ]
+  },
+  "nature-gov-206": {
+   "q": "Unlike mainstream environmentalism, what does the environmentalism of the poor put first?",
+   "a": "Social justice.",
+   "sent_ids": [
+    "8e7a36e8be54"
+   ]
+  },
+  "nature-gov-228": {
+   "q": "Is carbon pricing progressive or regressive, according to a study of countries by income?",
+   "a": "On average progressive in countries with per capita incomes below USD 15,000 a year, but tending to be regressive in richer countries.",
+   "sent_ids": [
+    "7c029bf2005f"
+   ]
+  },
+  "nature-gov-238": {
+   "q": "Where do most climate migrants move?",
+   "a": "Within their own countries.",
+   "sent_ids": [
+    "015e805afbee",
+    "8e44818f00e9"
+   ]
+  },
+  "nature-gov-189": {
+   "q": "How does 'ancestral domain' differ from land title?",
+   "a": "'Domain' covers spiritual and cultural ties to land, not just ownership that can be traded.",
+   "sent_ids": [
+    "342e92c20826"
+   ]
+  },
+  "nature-gov-181": {
+   "q": "On whom does the duty to consult Indigenous peoples fall?",
+   "a": "On the state, not on companies, and it aims at agreement or consent to the proposed development.",
+   "sent_ids": [
+    "e8ee98426aaa",
+    "8e7d2383091a"
+   ]
+  },
+  "nature-gov-001": {
+   "q": "In a poverty trap, what keeps poverty going once it exists?",
+   "a": "Self-reinforcing mechanisms, unless someone from outside steps in.",
+   "sent_ids": [
+    "63117578ad8c"
+   ]
+  },
+  "nature-gov-231": {
+   "q": "Why are fossil fuels non-renewable resources?",
+   "a": "Because they take millions of years to form.",
+   "sent_ids": [
+    "7f21737949f2",
+    "adace7f9a4a6"
+   ]
+  },
+  "nature-gov-234": {
+   "q": "What does Mark Zandi say about fossil fuel prices and inflation?",
+   "a": "That fossil fuel prices have driven every big inflation episode since WWII.",
+   "sent_ids": [
+    "a4a3390227b1"
+   ]
+  },
+  "nature-gov-093": {
+   "q": "What do corporate sustainability measures that count environmental and social effects mainly aim at?",
+   "a": "Economic sustainability, treating natural and social capital as tools for win-win gains.",
+   "sent_ids": [
+    "50e2e7a582d8",
+    "8bc0e5741b5a"
+   ]
+  },
+  "nature-hist-014": {
+   "q": "Which 1662 work is the conservation movement often traced to, and what did it urge?",
+   "a": "John Evelyn's Sylva, which urged England to manage the rate of tree felling and replant cut trees.",
+   "sent_ids": [
+    "b2811bbefc22",
+    "048e86df9543"
+   ]
+  },
+  "nature-hist-017": {
+   "q": "In the physiocrats' view, which labour created value?",
+   "a": "Only farm labour; industry and other work were 'unproductive appendages' to agriculture.",
+   "sent_ids": [
+    "4c4e627b23cc",
+    "f63a39c1154e"
+   ]
+  },
+  "nature-hist-084": {
+   "q": "Which kind of pesticide is most common worldwide?",
+   "a": "Herbicides, about 50% of all pesticide use.",
+   "sent_ids": [
+    "0f687c283edd",
+    "e9da81b39929"
+   ]
+  },
+  "nature-hist-052": {
+   "q": "Which 1833 pamphlet did Hardin's tragedy of the commons essay draw on?",
+   "a": "William Forster Lloyd's pamphlet about herders overgrazing a shared parcel of land.",
+   "sent_ids": [
+    "87ecc71c2b4e"
+   ]
+  },
+  "nature-hist-044": {
+   "q": "What did the 1971 book The Entropy Law and the Economic Process argue?",
+   "a": "That all natural resources are irreversibly degraded when used in economic activity.",
+   "sent_ids": [
+    "2a0bd235bf64"
+   ]
+  },
+  "nature-hist-075": {
+   "q": "What does the ecological footprint estimate?",
+   "a": "Humanity's demand on nature, through measurable flows of energy and materials to and from ecosystems.",
+   "sent_ids": [
+    "14c091f0c971"
+   ]
+  },
+  "nature-hist-067": {
+   "q": "Where and with whom was the ecological footprint concept developed as PhD work from 1990 to 1994?",
+   "a": "At the University of British Columbia, with supervisor William Rees.",
+   "sent_ids": [
+    "7754d635c0cd"
+   ]
+  },
+  "nature-hist-078": {
+   "q": "What does ecological economics aim to integrate?",
+   "a": "The interplay between 'nature's household' (ecosystems) and 'humanity's household' (the economy).",
+   "sent_ids": [
+    "67d8baf8a75f"
+   ]
+  },
+  "nature-hist-085": {
+   "q": "What share of sprayed insecticides and herbicides reach something other than the target pest?",
+   "a": "Over 98% of insecticides and 95% of herbicides.",
+   "sent_ids": [
+    "f56c4f76040f"
+   ]
+  },
+  "nature-hist-081": {
+   "q": "What risk did the economist who co-wrote Climate Shock (2015) with Gernot Wagner add to cost-benefit analysis?",
+   "a": "The risk of dramatic climate change, to argue for immediate action.",
+   "sent_ids": [
+    "16199e1731a4",
+    "46349dae6126"
+   ]
+  },
+  "nature-hist-068": {
+   "q": "What did Schaefer's and Gordon's work together lay the basis for?",
+   "a": "Quantitative fisheries economics, in what is now the Gordon-Schaefer model.",
+   "sent_ids": [
+    "ad4a6b26e7ab",
+    "61f31202ff97"
+   ]
+  },
+  "nature-hist-065": {
+   "q": "On what principle does the theory of social costs base its preventive policies?",
+   "a": "The precautionary principle.",
+   "sent_ids": [
+    "0d7ad2adccb0"
+   ]
+  },
+  "nature-hist-037": {
+   "q": "What three pathways have been suggested linking climate change to mental health?",
+   "a": "Direct exposure to extreme weather, indirect effects such as lost income, and awareness of climate risk.",
+   "sent_ids": [
+    "c6e85aa40882",
+    "3730f080dc36"
+   ]
+  }
+ }
+}

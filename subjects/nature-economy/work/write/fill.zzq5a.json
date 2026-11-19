@@ -1,0 +1,241 @@
+{
+ "questions": {
+  "nature-clim-128": {
+   "q": "What did Arab oil producers do in the 1973 oil crisis?",
+   "a": "They embargoed shipments to Western Europe and the United States over their support for Israel.",
+   "sent_ids": [
+    "f62ef90667b6"
+   ]
+  },
+  "nature-clim-123": {
+   "q": "What do system LCOE and similar metrics add to the cost of wind and solar power?",
+   "a": "The cost of storage or backup plants needed when wind and solar are unavailable.",
+   "sent_ids": [
+    "d97fa5218d97"
+   ]
+  },
+  "nature-clim-208": {
+   "q": "In terms like carbon-neutral economy, what does 'carbon' stand for?",
+   "a": "All greenhouse gases.",
+   "sent_ids": [
+    "da9680ee8b51",
+    "01b4f87389c2"
+   ]
+  },
+  "nature-clim-153": {
+   "q": "How many people is fossil-fuel air pollution estimated to kill each year, as of 2019?",
+   "a": "Over 5 million people a year.",
+   "sent_ids": [
+    "43b8743c7dfd"
+   ]
+  },
+  "nature-clim-144": {
+   "q": "What share of the world's soil carbon do wetlands hold, and on how much of its land?",
+   "a": "They hold 20-30% of it on only 5-8% of the world's land.",
+   "sent_ids": [
+    "647216761dcb"
+   ]
+  },
+  "nature-clim-179": {
+   "q": "How much plant carbon stays in the soil under slash-and-burn compared with slash-and-char?",
+   "a": "Slash-and-burn leaves only 3%, while slash-and-char can keep up to 50%.",
+   "sent_ids": [
+    "f05337e3b3fa"
+   ]
+  },
+  "nature-clim-177": {
+   "q": "What did Bohm (1993) first show about supply-side climate policy?",
+   "a": "That taking fossil fuel reserves off the market can be a beneficial climate policy.",
+   "sent_ids": [
+    "0a7f3413e1fe"
+   ]
+  },
+  "nature-clim-013": {
+   "q": "Why are climate services called demand-driven?",
+   "a": "They are designed with users through co-design, rather than being supply-driven research products.",
+   "sent_ids": [
+    "f1e0238a926f",
+    "a2ec0f354612"
+   ]
+  },
+  "nature-clim-016": {
+   "q": "Why do resilience toolkits rely on long lists of proxy indicators?",
+   "a": "Resilience has no single observable metric and includes intangibles like social capital.",
+   "sent_ids": [
+    "b4ce0da9d62c",
+    "559b655eee4c",
+    "8ca707fd7195"
+   ]
+  },
+  "nature-clim-035": {
+   "q": "Why is traditional indemnity insurance usually not viable for smallholders in developing countries?",
+   "a": "Assessing their actual losses is too costly.",
+   "sent_ids": [
+    "1141a4723d86"
+   ]
+  },
+  "nature-clim-053": {
+   "q": "What is the ultimate aim of the UN climate convention, set out in Article 2?",
+   "a": "To stabilise greenhouse gas concentrations at a level that prevents dangerous human interference with the climate system.",
+   "sent_ids": [
+    "4f1f789d052c"
+   ]
+  },
+  "nature-clim-098": {
+   "q": "What were the pledges of the bottom-up climate approach renamed at Paris?",
+   "a": "Nationally Determined Contributions.",
+   "sent_ids": [
+    "90f646ef114e",
+    "c721325d82f8"
+   ]
+  },
+  "nature-clim-049": {
+   "q": "How much debt did Seychelles redirect to marine parks, ocean conservation and ecotourism in its debt-for-nature swap?",
+   "a": "$27 million.",
+   "sent_ids": [
+    "eee1697bf7b4"
+   ]
+  },
+  "nature-clim-095": {
+   "q": "Why are HFCs a concern even though they do not harm the ozone layer?",
+   "a": "They are greenhouse gases with a high global warming potential.",
+   "sent_ids": [
+    "98a2daec10ef",
+    "b65681189342",
+    "20c1d66e7d33"
+   ]
+  },
+  "nature-clim-082": {
+   "q": "How have the wealthiest nations responded to climate reparations at the UNFCCC?",
+   "a": "They have consistently opposed them, and before COP27 talks were steered to 'cooperation and facilitation' rather than liability.",
+   "sent_ids": [
+    "58cfbae3aeae",
+    "e6409bbc50be"
+   ]
+  },
+  "nature-eecon-240": {
+   "q": "How do deductive, inductive and 'floating' models differ?",
+   "a": "A deductive model rests on theory, an inductive model on empirical generalization, and a floating model on neither.",
+   "sent_ids": [
+    "7a155f04c3b6",
+    "61438a0d0707",
+    "c51192fed6c0"
+   ]
+  },
+  "nature-eecon-063": {
+   "q": "Why does Karl William Kapp call 'externalities' a misnomer for environmental harms?",
+   "a": "Because modern business makes profit by shifting costs onto others as normal practice.",
+   "sent_ids": [
+    "b895b601e3a5",
+    "a8a0bd1460f1"
+   ]
+  },
+  "nature-eecon-118": {
+   "q": "What do the first and second laws of thermodynamics say?",
+   "a": "The first says energy cannot be created or destroyed; the second says the total entropy of interacting systems never decreases.",
+   "sent_ids": [
+    "8e612bcba446",
+    "648f81501b00"
+   ]
+  },
+  "nature-eecon-245": {
+   "q": "What share of global energy use and energy-related CO2 emissions do buildings account for as of 2020?",
+   "a": "37%, or 39% when the manufacture of building materials is counted.",
+   "sent_ids": [
+    "0c9ee9769d5a",
+    "ddd2a181f73a"
+   ]
+  },
+  "nature-eecon-127": {
+   "q": "Who contrasted a 'cowboy economy' with a 'spaceman economy' in a 1966 essay on Spaceship Earth?",
+   "a": "Kenneth Boulding.",
+   "sent_ids": [
+    "dadde84d6f28",
+    "f97e88a3000d"
+   ]
+  },
+  "nature-eecon-246": {
+   "q": "What is the foundation of post-Keynesian economics?",
+   "a": "The principle of effective demand: demand matters in the long run as well as the short run, so a market economy has no automatic tendency toward full employment.",
+   "sent_ids": [
+    "d47c3653aac1"
+   ]
+  },
+  "nature-eecon-070": {
+   "q": "In ecological economics, whose writing on money can the work on debt, growth and money be traced to?",
+   "a": "Frederick Soddy's.",
+   "sent_ids": [
+    "32a5a013c0e4"
+   ]
+  },
+  "nature-eecon-120": {
+   "q": "How did nutrients sent to cities as food create a metabolic rift?",
+   "a": "They were not returned to the land as waste, a one-way 'robbing of the soil' that linked urban pollution with soil depletion.",
+   "sent_ids": [
+    "c8f2d59244ce",
+    "15865b53186c",
+    "41568f29910d"
+   ]
+  },
+  "nature-eecon-083": {
+   "q": "What did Gerard K. O'Neill plan in the 1970s, and why?",
+   "a": "Space settlements, to solve overpopulation and limits to growth without political repression.",
+   "sent_ids": [
+    "26f381bc768f"
+   ]
+  },
+  "nature-eecon-133": {
+   "q": "How large did Hickel and colleagues calculate the drain from the Global South to be for 1990 to 2015 under unequal exchange?",
+   "a": "Equivalent to 242 trillion in 2010 US dollars.",
+   "sent_ids": [
+    "fab43f633a59"
+   ]
+  },
+  "nature-eecon-247": {
+   "q": "Who developed the term urban metabolism in 1965, and what did he model?",
+   "a": "Abel Wolman, who modelled the inflows and outflows, mainly water and the waste it produces, of a hypothetical American city of 1 million people.",
+   "sent_ids": [
+    "555ba272de57",
+    "ac5a9caf7183",
+    "25b2194db226"
+   ]
+  },
+  "nature-eecon-104": {
+   "q": "What net energy gain does a process with an EROI of 5 yield?",
+   "a": "A net gain of 4 units for each unit spent.",
+   "sent_ids": [
+    "9f7ab480580d"
+   ]
+  },
+  "nature-eecon-122": {
+   "q": "What does Moore hold about the split between social and natural systems?",
+   "a": "That it is empirically false and arbitrary.",
+   "sent_ids": [
+    "612e1b6f735c"
+   ]
+  },
+  "nature-eecon-131": {
+   "q": "What advantage did Odum believe societies with access to higher-quality energy had?",
+   "a": "An advantage in the evolutionary struggle.",
+   "sent_ids": [
+    "40e65f504dcb"
+   ]
+  },
+  "nature-eecon-212": {
+   "q": "Why is economic development controversial in debates on sustainable development?",
+   "a": "Because 'development' can be read as just economic growth, which can promote a system that is bad for the environment.",
+   "sent_ids": [
+    "384e32e905a2",
+    "5a15eb1288c0",
+    "6c1937d23267"
+   ]
+  },
+  "nature-eecon-226": {
+   "q": "Who introduced the two-factor capital-labour CES production function, and who popularised it?",
+   "a": "Solow introduced it; Arrow, Chenery, Minhas and Solow popularised it.",
+   "sent_ids": [
+    "2ca5e2da813a"
+   ]
+  }
+ }
+}

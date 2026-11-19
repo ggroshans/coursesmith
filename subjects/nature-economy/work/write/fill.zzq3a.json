@@ -1,0 +1,426 @@
+{
+ "questions": {
+  "nature-eco-729": {
+   "q": "Where does methanogenesis sit in the breakdown of biomass in oxygen-free environments?",
+   "a": "It is the final stage of anaerobic digestion, the last step in decomposing biomass where there is no oxygen.",
+   "sent_ids": [
+    "b23dae1f7dae",
+    "d6b1b0eae49c"
+   ]
+  },
+  "nature-eco-448": {
+   "q": "What does the Ramsar Convention do for wetlands?",
+   "a": "It lists wetlands of international importance and promotes their wise use; it has worked since 1971.",
+   "sent_ids": [
+    "09a5febec641",
+    "94890970b555",
+    "eaa042582181"
+   ]
+  },
+  "nature-eco-734": {
+   "q": "Why do methanotrophs matter for global warming?",
+   "a": "They reduce the amount of methane emitted to the atmosphere in the global methane budget.",
+   "sent_ids": [
+    "c1ff832f5322"
+   ]
+  },
+  "nature-eco-416": {
+   "q": "What is a forest ecosystem?",
+   "a": "All the plants, animals and microbes of a woodland working together with their non-living physical surroundings.",
+   "sent_ids": [
+    "0da638ad5326"
+   ]
+  },
+  "nature-eco-743": {
+   "q": "What kind of plants drive shrub encroachment on rangelands?",
+   "a": "Native plants, not alien invasives; they can shift open grasslands and savannas to closed woodlands.",
+   "sent_ids": [
+    "fbcf354482c8",
+    "6d58d1ea6f62"
+   ]
+  },
+  "nature-eco-445": {
+   "q": "What can constructed wetlands remove from wastewater?",
+   "a": "Using plants, soil and organisms, they remove suspended solids, organic matter, nitrogen, phosphorus and pathogens.",
+   "sent_ids": [
+    "d4c504ba0981",
+    "1fb1799cb5b4",
+    "fd8bbebc9e3c"
+   ]
+  },
+  "nature-eco-411": {
+   "q": "What are pneumatophores in mangroves?",
+   "a": "Root-like tubes that stick up out of the mud like straws so the plant can breathe.",
+   "sent_ids": [
+    "ae5df16cbda5"
+   ]
+  },
+  "nature-eco-418": {
+   "q": "How does clearing forest into smaller patches reduce biodiversity?",
+   "a": "It makes it harder for forest species to find food, shelter and mates.",
+   "sent_ids": [
+    "d51a988ff092",
+    "ec0c756767c3"
+   ]
+  },
+  "nature-eco-720": {
+   "q": "Which water-cycle quantities can remote sensing measure?",
+   "a": "Surface water storage, soil moisture, precipitation, evapotranspiration, and snow and ice.",
+   "sent_ids": [
+    "eac3781d5d04"
+   ]
+  },
+  "nature-eco-456": {
+   "q": "How many people benefit from coral reef ecosystem services?",
+   "a": "About 500 million people.",
+   "sent_ids": [
+    "375554b957e5"
+   ]
+  },
+  "nature-eco-482": {
+   "q": "What do riparian zones do for the waters beside them?",
+   "a": "They act as natural biofilters, shielding waters from too much sediment, polluted runoff and erosion.",
+   "sent_ids": [
+    "34a56d331ebb"
+   ]
+  },
+  "nature-eco-507": {
+   "q": "What three kinds of stress can affect freshwater ecosystems?",
+   "a": "Physical (temperature, flow, light), chemical (nutrients, oxygen-consuming materials, toxins) and biological (over-harvesting, exotic species).",
+   "sent_ids": [
+    "c3ce1e785fd7",
+    "889e3c3ea71c",
+    "dbc4454cbb0f",
+    "504fb5390dc5"
+   ]
+  },
+  "nature-eco-548": {
+   "q": "What are large marine ecosystems and how many are there?",
+   "a": "A concept developed by the US agency NOAA in 1984 to guide conservation; there are 66, contributing an estimated $3 trillion a year and 90% of the world's annual marine fish catch.",
+   "sent_ids": [
+    "d66adba2be42",
+    "64c2a02fc12f",
+    "0f124ad487ad"
+   ]
+  },
+  "nature-eco-463": {
+   "q": "How does a meandering river build a floodplain?",
+   "a": "It erodes the outside of each bend and deposits a point bar on the inside, building a level floodplain.",
+   "sent_ids": [
+    "51f70d143a22",
+    "efc42465bf27",
+    "02f8b4d6d3a6"
+   ]
+  },
+  "nature-eco-432": {
+   "q": "Why do extra nutrients change which plants win in a salt marsh?",
+   "a": "Salt marsh plants are normally limited by nitrogen, so extra nutrients reshuffle which species win the competition.",
+   "sent_ids": [
+    "8ebcc3bbeff4"
+   ]
+  },
+  "nature-eco-436": {
+   "q": "How much of the breakdown of organic matter in oxygen-poor sediment can sulfate-reducing bacteria account for?",
+   "a": "Up to 50%.",
+   "sent_ids": [
+    "4b481852c5d5",
+    "875ef8856233"
+   ]
+  },
+  "nature-eco-704": {
+   "q": "What is Antarctica's make-up as the world's largest cold desert?",
+   "a": "About 98% ice sheet and 2% barren rock.",
+   "sent_ids": [
+    "62beb8cc35e4"
+   ]
+  },
+  "nature-eco-476": {
+   "q": "How much peat must land have to be called a peatland?",
+   "a": "At least 30 cm, even if it has been drained.",
+   "sent_ids": [
+    "adc5633f47ce"
+   ]
+  },
+  "nature-eco-509": {
+   "q": "What are quaking bogs?",
+   "a": "Floating mats of moss and sedge, about half a meter thick, that move when walked on.",
+   "sent_ids": [
+    "e9346a1a36e3",
+    "47cfc65a2db5",
+    "863b856f6b20"
+   ]
+  },
+  "nature-eco-493": {
+   "q": "What do most seagrass restoration projects plant?",
+   "a": "Cuttings, rhizome fragments or cores taken from donor meadows; few projects use seeds.",
+   "sent_ids": [
+    "603a1ef87b12",
+    "7a946135f0bd"
+   ]
+  },
+  "nature-eco-566": {
+   "q": "How big are permafrost emissions per degree of warming, according to the IPCC Sixth Assessment Report?",
+   "a": "It estimates 14-175 billion tonnes of CO2-equivalent per 1 C of warming.",
+   "sent_ids": [
+    "76052f5e6c61",
+    "52d09fa72faa"
+   ]
+  },
+  "nature-eco-549": {
+   "q": "Why are tidal flats important to migratory shorebirds?",
+   "a": "They are key stopovers that let tens of millions of migratory shorebirds travel between breeding and non-breeding areas.",
+   "sent_ids": [
+    "c4ff646200be"
+   ]
+  },
+  "nature-eco-547": {
+   "q": "What do mangroves and seagrasses do for coral reefs?",
+   "a": "They regulate the sediment, freshwater and nutrients that reach coral reefs.",
+   "sent_ids": [
+    "7e4c7dc8eb64"
+   ]
+  },
+  "nature-eco-736": {
+   "q": "At what depths do oxygen minimum zones typically lie?",
+   "a": "About 200 to 1,000 meters; their upper edge is a sharp oxygen gradient called the oxycline.",
+   "sent_ids": [
+    "6f97c75e8006",
+    "cb373f2209f9"
+   ]
+  },
+  "nature-eco-695": {
+   "q": "Why are benthic macroinvertebrates good water-quality indicators?",
+   "a": "They are almost always present, easy to sample and identify, visible to the naked eye, short-lived and generally sedentary.",
+   "sent_ids": [
+    "a61669736700",
+    "a9df8555163c"
+   ]
+  },
+  "nature-eco-723": {
+   "q": "What is allochthony in an aquatic food web?",
+   "a": "The share of aquatic food web biomass derived from allochthonous material.",
+   "sent_ids": [
+    "440ea901ca55"
+   ]
+  },
+  "nature-eco-495": {
+   "q": "How do archaea produce methane in wetland soils?",
+   "a": "By fermenting acetate, or by combining hydrogen with carbon dioxide.",
+   "sent_ids": [
+    "4031a7345271",
+    "546f7158d5d9"
+   ]
+  },
+  "nature-eco-541": {
+   "q": "What are the three layers of a stratified lake?",
+   "a": "The warm upper epilimnion, the cold bottom hypolimnion, and the thermocline, the band of rapid temperature change between them.",
+   "sent_ids": [
+    "c319fb7df368",
+    "61a3597dd3e6",
+    "4d4a37ef46a8"
+   ]
+  },
+  "nature-eco-518": {
+   "q": "Why are hydrothermal vent ecosystems unusual?",
+   "a": "They are among the few ecosystems on the planet that do not depend on sunlight for energy.",
+   "sent_ids": [
+    "7719cc56b2be"
+   ]
+  },
+  "nature-eco-440": {
+   "q": "What do green and blue infrastructure include in cities?",
+   "a": "Green infrastructure includes nature preserves and added vegetation such as vertical gardens; blue infrastructure includes stormwater management such as bioswales.",
+   "sent_ids": [
+    "108625cb7e3e",
+    "3c0495db283e"
+   ]
+  },
+  "nature-es-001": {
+   "q": "What term did the Millennium Ecosystem Assessment popularize?",
+   "a": "Ecosystem services, meaning the benefits people gain from ecosystems.",
+   "sent_ids": [
+    "b1d6b96f4e47",
+    "ebc6c86ad35f"
+   ]
+  },
+  "nature-es-011": {
+   "q": "What do life-cycle assessment impact methods link to ecosystem services?",
+   "a": "They link pressures such as land-use change and eutrophication to changes in ecological functions and ecosystem services.",
+   "sent_ids": [
+    "881438750022"
+   ]
+  },
+  "nature-es-010": {
+   "q": "What features mark ecosystem service decisions in land planning?",
+   "a": "They are usually spatial, always have several objectives, and rest on uncertain data, models and estimates.",
+   "sent_ids": [
+    "36cb5f64a069"
+   ]
+  },
+  "nature-es-108": {
+   "q": "How did the 1996 World Food Summit define food security?",
+   "a": "All people at all times having physical and economic access to enough safe, nutritious food for an active, healthy life.",
+   "sent_ids": [
+    "7352c03c9621"
+   ]
+  },
+  "nature-es-103": {
+   "q": "How did New York City purify its water as an ecosystem service?",
+   "a": "It restored its polluted Catskill Watershed rather than rely only on treatment when its water fell below EPA standards.",
+   "sent_ids": [
+    "f85aa16a3dba",
+    "b3fd94c7500b"
+   ]
+  },
+  "nature-es-094": {
+   "q": "How much do honeybees' crop pollination benefits to global food production come to?",
+   "a": "Between $235 and $577 billion.",
+   "sent_ids": [
+    "de19c99f1285"
+   ]
+  },
+  "nature-es-111": {
+   "q": "How much abiotic pollination is done by wind?",
+   "a": "Some 98%.",
+   "sent_ids": [
+    "0c313dee4ff8"
+   ]
+  },
+  "nature-es-115": {
+   "q": "Besides honey bees, what do growers use to pollinate crops?",
+   "a": "Blue orchard bees, bumblebees, hand pollination and even machines.",
+   "sent_ids": [
+    "9d73aa10a211"
+   ]
+  },
+  "nature-val-073": {
+   "q": "Who first proposed contingent valuation surveys, and for what?",
+   "a": "S.V. Ciriacy-Wantrup, in 1947, to value a non-market good.",
+   "sent_ids": [
+    "918227b1abc4"
+   ]
+  },
+  "nature-val-055": {
+   "q": "Who developed the idea of option value and when?",
+   "a": "Burton Weisbrod, in 1964, resting it on uncertain future need, irreversible or costly loss, and the asset not being storable.",
+   "sent_ids": [
+    "c5fb79fc3825",
+    "23213d8bce18"
+   ]
+  },
+  "nature-val-087": {
+   "q": "What did Robert Costanza and colleagues estimate in 1997?",
+   "a": "The first estimate of the worldwide worth of ecosystem services: $33 trillion a year.",
+   "sent_ids": [
+    "8932d1ccc8db",
+    "cdcaeafc81b6"
+   ]
+  },
+  "nature-val-080": {
+   "q": "What independence assumption does the multinomial logit make about choices?",
+   "a": "Independence of irrelevant alternatives: the odds between two options do not depend on what other options are present.",
+   "sent_ids": [
+    "3cbc9cff9db4",
+    "ba3ddf03cbcf"
+   ]
+  },
+  "nature-val-083": {
+   "q": "How does Daniel Kahneman explain insensitivity to the number of birds saved?",
+   "a": "As judgment by prototype: people price a mental image, such as one oil-soaked bird, rather than the number affected.",
+   "sent_ids": [
+    "c155618c6e44",
+    "dcccaf633f1f"
+   ]
+  },
+  "nature-val-107": {
+   "q": "What can regulation do to conduct?",
+   "a": "It may prescribe or proscribe conduct (command-and-control), calibrate incentives, or shape preferences.",
+   "sent_ids": [
+    "705dbe9d961b"
+   ]
+  },
+  "nature-val-109": {
+   "q": "How do mild and wild risk differ?",
+   "a": "Mild risk obeys the law of large numbers and is relatively predictable; wild risk, with possibly infinite mean or variance, makes that law ineffective and is hard or impossible to predict.",
+   "sent_ids": [
+    "552f73652d40",
+    "acdda987503f"
+   ]
+  },
+  "nature-val-010": {
+   "q": "What are negawatts?",
+   "a": "Energy savings: the saved energy is never consumed.",
+   "sent_ids": [
+    "f7e3bdb6e4d6",
+    "6fc5c13ca945"
+   ]
+  },
+  "nature-val-040": {
+   "q": "How does consequentialism judge actions?",
+   "a": "By their results, such as whether they maximise well-being, which treats nature instrumentally.",
+   "sent_ids": [
+    "5dd016106700",
+    "90f3ac7618d3"
+   ]
+  },
+  "nature-val-033": {
+   "q": "Why is there a tendency to overexploit and underproduce nature under commodification?",
+   "a": "Because nature's value cannot be fully counted in money.",
+   "sent_ids": [
+    "41137b47d4a4"
+   ]
+  },
+  "nature-acct-018": {
+   "q": "Who coined Gross National Happiness and when?",
+   "a": "Bhutan's 4th King, Jigme Singye Wangchuck, in 1972, declaring it more important than GDP.",
+   "sent_ids": [
+    "23d16643e217"
+   ]
+  },
+  "nature-acct-116": {
+   "q": "What question underlies the World Happiness Report rankings?",
+   "a": "One life-evaluation question, the Cantril ladder, in which respondents rate their current life from 0 (worst) to 10 (best); the data come mainly from the Gallup World Poll.",
+   "sent_ids": [
+    "6ed54ca5f988",
+    "ccc9390857e5",
+    "30dd3d932b1a"
+   ]
+  },
+  "nature-acct-107": {
+   "q": "What is depletion in accounting?",
+   "a": "Using up natural resources by mining, quarrying, drilling or felling.",
+   "sent_ids": [
+    "aa23099e79f6"
+   ]
+  },
+  "nature-clim-264": {
+   "q": "What is carbon intensity per kilowatt-hour used for?",
+   "a": "It is widely used to compare sources of electricity.",
+   "sent_ids": [
+    "4dc81256ac3c"
+   ]
+  },
+  "nature-acct-055": {
+   "q": "What did the 2024 Living Planet report show about monitored wildlife populations?",
+   "a": "They fell by an average of 73% between 1970 and 2020.",
+   "sent_ids": [
+    "e89804033e66"
+   ]
+  },
+  "nature-acct-037": {
+   "q": "Is there a universal standard for sustainable development indicators?",
+   "a": "No; disciplines and international organizations have proposed many different indicators.",
+   "sent_ids": [
+    "d6ba9faa34ce",
+    "37d0db36c0cf"
+   ]
+  },
+  "nature-acct-069": {
+   "q": "How many indicators does the 2024 Environmental Performance Index use, and for how many countries?",
+   "a": "It uses 58 indicators to rank 180 countries on climate change mitigation, ecosystem vitality and environmental health.",
+   "sent_ids": [
+    "3ea68ba38b51"
+   ]
+  }
+ }
+}

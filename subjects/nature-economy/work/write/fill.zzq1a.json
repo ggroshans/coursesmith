@@ -1,0 +1,230 @@
+{
+ "questions": {
+  "nature-found-023": {
+   "q": "What share of Earth's land did a 2021 study find ecologically and faunally intact?",
+   "a": "Just 3% of it.",
+   "sent_ids": [
+    "ed1439e7f0f0"
+   ]
+  },
+  "nature-found-003": {
+   "q": "Why do lower latitudes generally hold more species than higher latitudes?",
+   "a": "Several factors may contribute, but the underlying one behind many of them is the higher average temperature at the equator.",
+   "sent_ids": [
+    "a6f97ae0d8e1",
+    "f1f26eba34c0"
+   ]
+  },
+  "nature-found-013": {
+   "q": "When was the SEEA Central Framework for environmental-economic accounts published in its final form?",
+   "a": "In February 2014.",
+   "sent_ids": [
+    "7ddb283251e4"
+   ]
+  },
+  "nature-found-091": {
+   "q": "How is the assimilative capacity of a water body understood, using an irrigation standard for salt as an example?",
+   "a": "It is the amount of salt that can be added before the standard is passed; beyond that point a pollutant actually causes pollution.",
+   "sent_ids": [
+    "619920665dfe",
+    "83ec529edc86"
+   ]
+  },
+  "nature-found-093": {
+   "q": "In the Review's model of households and the biosphere, what can a household's income divided by its efficiency be read as?",
+   "a": "As its ecological footprint.",
+   "sent_ids": [
+    "b826dd981f8d"
+   ]
+  },
+  "nature-found-092": {
+   "q": "Since the Neolithic Revolution, by about how much has human consumption cut the world's forest cover?",
+   "a": "By about 47%.",
+   "sent_ids": [
+    "9316fcfbb1bf"
+   ]
+  },
+  "nature-found-032": {
+   "q": "What follows when social costs exceed private costs and people rely on private markets alone?",
+   "a": "The market outcome is inefficient.",
+   "sent_ids": [
+    "081ed358be62"
+   ]
+  },
+  "nature-found-040": {
+   "q": "How can the use values of natural assets be read from behaviour?",
+   "a": "From things like the cost of recreational trips or house prices, as in hedonic methods.",
+   "sent_ids": [
+    "1dd860ceca54"
+   ]
+  },
+  "nature-found-050": {
+   "q": "What did Malthus argue in his 1798 Essay on the Principle of Population?",
+   "a": "That more food raises well-being only for a while, because population then grows.",
+   "sent_ids": [
+    "9bec59306b7d"
+   ]
+  },
+  "nature-found-038": {
+   "q": "Why can future generations not influence today's market prices?",
+   "a": "Because they are not yet born, so they cannot influence prices at all.",
+   "sent_ids": [
+    "e6a9d7051051"
+   ]
+  },
+  "nature-found-041": {
+   "q": "How much damage to nature have harmful subsidies conservatively been estimated to cause each year?",
+   "a": "Between $4 and $6 trillion U.S. dollars per year.",
+   "sent_ids": [
+    "150e631555ce"
+   ]
+  },
+  "nature-found-048": {
+   "q": "What is demand-induced scarcity?",
+   "a": "Scarcity that arises when demand for a resource rises while supply stays the same.",
+   "sent_ids": [
+    "111dc7d9e55d"
+   ]
+  },
+  "nature-found-103": {
+   "q": "What do critics mean by policy myopia?",
+   "a": "That politicians favour quick, visible fixes over lasting long-term solutions.",
+   "sent_ids": [
+    "142690eb481c"
+   ]
+  },
+  "nature-found-066": {
+   "q": "Why can subsidies waste scarce resources?",
+   "a": "Because they can shield inefficient firms from market forces.",
+   "sent_ids": [
+    "1894fa406bc0"
+   ]
+  },
+  "nature-found-057": {
+   "q": "How many deaths did the 2024 Global Burden of Disease Study link to air pollution in 2021?",
+   "a": "It estimated pollution contributed to 8.1 million deaths, more than 1 in 8 deaths.",
+   "sent_ids": [
+    "062255ae9045"
+   ]
+  },
+  "nature-found-099": {
+   "q": "What led to the building of London's sewer system?",
+   "a": "The Great Stink on the Thames in 1858.",
+   "sent_ids": [
+    "a059eeda07d5"
+   ]
+  },
+  "nature-found-080": {
+   "q": "What does a corrective tax proportional to marginal damages yield?",
+   "a": "The efficient level of pollution reduction.",
+   "sent_ids": [
+    "d5cd4041f505"
+   ]
+  },
+  "nature-found-104": {
+   "q": "What global economic loss did one study estimate from a 1% rise in ozone concentrations?",
+   "a": "A loss of $10 billion each year.",
+   "sent_ids": [
+    "60d25860a4c2"
+   ]
+  },
+  "nature-found-078": {
+   "q": "Above what noise level can long exposure cause hearing loss?",
+   "a": "Above 85 A-weighted decibels.",
+   "sent_ids": [
+    "083af7ea595b"
+   ]
+  },
+  "nature-found-070": {
+   "q": "What did the US Noise Control Act of 1972 set?",
+   "a": "A national policy against noise that endangers health and welfare.",
+   "sent_ids": [
+    "eea0447574f5"
+   ]
+  },
+  "nature-found-105": {
+   "q": "What three kinds of sound do soundscapes combine?",
+   "a": "Biophony from organisms, geophony from natural non-biological sources and anthropophony from humans.",
+   "sent_ids": [
+    "ecdfcaef0d1a"
+   ]
+  },
+  "nature-econ-134": {
+   "q": "Why is biodiversity increasingly seen as having economic value?",
+   "a": "Because of ecosystem services such as clean air, food, water, flood defence and pollination.",
+   "sent_ids": [
+    "e0e4adef90d7"
+   ]
+  },
+  "nature-econ-152": {
+   "q": "What makes a preference order rational?",
+   "a": "It is both transitive and complete; people who follow one are called rational agents.",
+   "sent_ids": [
+    "89821aa04509"
+   ]
+  },
+  "nature-econ-139": {
+   "q": "Who first introduced the concept of ordinal utility, and when?",
+   "a": "Vilfredo Pareto, in 1906.",
+   "sent_ids": [
+    "c5e9702b1c11"
+   ]
+  },
+  "nature-econ-115": {
+   "q": "What did Paul Samuelson argue answers all three basic economic questions at once in competitive markets?",
+   "a": "The price mechanism.",
+   "sent_ids": [
+    "805b34eea146"
+   ]
+  },
+  "nature-econ-113": {
+   "q": "What does the law of diminishing marginal productivity say?",
+   "a": "That past some point each extra unit of input yields less output.",
+   "sent_ids": [
+    "4b06db386ade"
+   ]
+  },
+  "nature-econ-154": {
+   "q": "Which countries have large state-owned enterprise sectors alongside large private sectors, as mixed economies?",
+   "a": "China, Norway, Singapore and Vietnam.",
+   "sent_ids": [
+    "49dc078c5089"
+   ]
+  },
+  "nature-econ-106": {
+   "q": "On a production possibilities frontier, what does a slope of 2 mean for producing one more packet of butter?",
+   "a": "It means giving up 2 guns.",
+   "sent_ids": [
+    "13d5745b721f"
+   ]
+  },
+  "nature-econ-114": {
+   "q": "What is marginal cost?",
+   "a": "The extra cost of producing one more unit of output.",
+   "sent_ids": [
+    "34fe31e40e1c"
+   ]
+  },
+  "nature-econ-136": {
+   "q": "In one study of sunk-cost behaviour, how did managers told they had made the earlier poor investment behave?",
+   "a": "They put in an average of $12.97 million more, versus $9.43 million for those told someone else had made it.",
+   "sent_ids": [
+    "6f5a83005096"
+   ]
+  },
+  "nature-econ-389": {
+   "q": "What is a transaction?",
+   "a": "An exchange of goods or services, with or without money.",
+   "sent_ids": [
+    "7b97b096a2bf"
+   ]
+  },
+  "nature-econ-369": {
+   "q": "What does the value of a statistical life try to estimate?",
+   "a": "How much people would pay to lower their risk of dying; it is used to cost deaths from air pollution.",
+   "sent_ids": [
+    "680d1d8d4fc6"
+   ]
+  }
+ }
+}

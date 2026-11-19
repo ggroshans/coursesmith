@@ -1,0 +1,143 @@
+{
+ "questions": {
+  "nature-econ-023": {
+   "q": "How is bounded willpower linked to hyperbolic discounting?",
+   "a": "They are closely linked: hyperbolic discounting is the tendency to value immediate rewards more than future ones.",
+   "sent_ids": [
+    "03f98d545329"
+   ]
+  },
+  "nature-econ-046": {
+   "q": "Why might having more options not leave people better off?",
+   "a": "Classical economics predicts more options leave people at least as well off, but each option costs time and effort to evaluate.",
+   "sent_ids": [
+    "4a7b11d6f221",
+    "0bf329417a98"
+   ]
+  },
+  "nature-econ-675": {
+   "q": "Why is bid rigging harmful to the seller in an auction?",
+   "a": "It weakens competition, discourages other bidders and denies the seller the item's true value.",
+   "sent_ids": [
+    "5e00b746ee24",
+    "de001a20c563"
+   ]
+  },
+  "nature-econ-705": {
+   "q": "What is a crowding game, and what is a congestion game?",
+   "a": "In a crowding game each player's payoff falls as more others choose the same strategy, as when extra cars slow a road for everyone; a congestion game is a crowding game in networks.",
+   "sent_ids": [
+    "97fe3742e0b3",
+    "2fd5f3798b3a",
+    "c50c4c996f88"
+   ]
+  },
+  "nature-econ-681": {
+   "q": "In the hawk–dove game, what do V and C stand for, and which is assumed to be larger?",
+   "a": "V is the value of the resource and C is the cost of an escalated fight; the cost is almost always assumed larger than the value.",
+   "sent_ids": [
+    "fe06e47130af",
+    "d3595b0a513a"
+   ]
+  },
+  "nature-econ-692": {
+   "q": "In a Bayesian game, how do players form their beliefs about the unknown state of nature?",
+   "a": "They use Bayes' rule.",
+   "sent_ids": [
+    "0daad8077e2b"
+   ]
+  },
+  "nature-econ-733": {
+   "q": "What does Kuhn's theorem show about mixed and behavior strategies?",
+   "a": "The two are equivalent in finite extensive-form games with perfect recall, where players remember all past actions.",
+   "sent_ids": [
+    "cf69d74e3d72",
+    "28bc961e69a7",
+    "4deed054e9dc"
+   ]
+  },
+  "nature-econ-710": {
+   "q": "How does kin selection explain altruism, and what does Hamilton's rule say?",
+   "a": "Kin selection explains it through shared genes; Hamilton's rule says relatedness must exceed the ratio of cost to benefit.",
+   "sent_ids": [
+    "65e039fc56de"
+   ]
+  },
+  "nature-econ-740": {
+   "q": "When does reciprocal altruism work, in terms of cost and gain?",
+   "a": "It works where the cost to the helper of sharing food, mates, nests or territory is less than the gain to the one helped.",
+   "sent_ids": [
+    "615e41f0a9dd"
+   ]
+  },
+  "nature-econ-726": {
+   "q": "Who introduced the Shapley value, and when?",
+   "a": "Lloyd Shapley introduced it in 1951.",
+   "sent_ids": [
+    "c8fec3ec30b7"
+   ]
+  },
+  "nature-econ-696": {
+   "q": "In cooperative game theory, when does one allocation dominate another?",
+   "a": "When some coalition prefers it and could obtain at least its members' payoffs on its own.",
+   "sent_ids": [
+    "17e7eb8bcc79",
+    "7f3b175ed646"
+   ]
+  },
+  "nature-econ-429": {
+   "q": "How is the derivative of a function defined formally?",
+   "a": "It is the limit of the ratio of change in output to change in input as the input change shrinks to zero.",
+   "sent_ids": [
+    "e4d139dcecd6",
+    "d4352fe373c5"
+   ]
+  },
+  "nature-econ-427": {
+   "q": "When is a twice-differentiable function of one variable convex?",
+   "a": "Exactly when its second derivative is never negative.",
+   "sent_ids": [
+    "64da98abf410"
+   ]
+  },
+  "nature-econ-474": {
+   "q": "What defines a steady state in continuous time and in discrete time?",
+   "a": "In continuous time the rate of change of each property is zero; in discrete time each period-to-period difference is zero.",
+   "sent_ids": [
+    "5b6f64415f30",
+    "a60133db435c"
+   ]
+  },
+  "nature-econ-436": {
+   "q": "What are difference equations also called, and what are they the counterpart of?",
+   "a": "They are also called recurrence relations, and are the discrete-time counterpart of differential equations.",
+   "sent_ids": [
+    "ae409fc7a33f",
+    "06d42027feb7"
+   ]
+  },
+  "nature-econ-445": {
+   "q": "How can a growth rate be estimated from data over time using logarithms?",
+   "a": "By running a linear regression of log x on time.",
+   "sent_ids": [
+    "74c07b42ccf1"
+   ]
+  },
+  "nature-econ-211": {
+   "q": "In Bayesian updating, what is a prior distribution?",
+   "a": "It is the belief about a parameter before any data are seen, which is turned into posterior probabilities.",
+   "sent_ids": [
+    "e0b53a9d050f",
+    "c9a856daf2bb"
+   ]
+  },
+  "nature-econ-453": {
+   "q": "In complementary slackness, picturing the solution as a particle, when can a constraint push back?",
+   "a": "Only when the particle touches the constraint's boundary.",
+   "sent_ids": [
+    "b72bac4f906b",
+    "7670ef201c6a"
+   ]
+  }
+ }
+}

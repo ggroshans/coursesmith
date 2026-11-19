@@ -1,0 +1,109 @@
+{
+ "questions": {
+  "nature-econ-277": {
+   "q": "What implicit assumptions can framing carry?",
+   "a": "Political ones, such as which group needs protecting, and technical ones, such as which variable is treated as constant.",
+   "sent_ids": [
+    "41a58eb5db70"
+   ]
+  },
+  "nature-econ-255": {
+   "q": "What did Glewwe, Kremer and Moulin begin in 1994?",
+   "a": "One of the earliest economic RCTs, a long-run school intervention in Kenya.",
+   "sent_ids": [
+    "673b022131ca"
+   ]
+  },
+  "nature-econ-234": {
+   "q": "When is instrumental variables estimation needed?",
+   "a": "When an explanatory variable is correlated with the error term, which makes ordinary least squares biased.",
+   "sent_ids": [
+    "2cd239d720e7"
+   ]
+  },
+  "nature-econ-224": {
+   "q": "Which two kinds of variables do simultaneous equations models separate?",
+   "a": "Variables set inside the model (endogenous) and those fixed in advance (exogenous).",
+   "sent_ids": [
+    "eeba78ac9952"
+   ]
+  },
+  "nature-econ-264": {
+   "q": "What does McCrary's density test check for in a regression discontinuity design?",
+   "a": "A bunching of observations at the threshold, such as more students just passing than just failing, a sign of gaming.",
+   "sent_ids": [
+    "6e3badf64315",
+    "a8deb63e873e",
+    "a1c84b9990a5"
+   ]
+  },
+  "nature-eco-302": {
+   "q": "What are primary producers, and what are they mainly on land and in water?",
+   "a": "Organisms that do primary production, also called autotrophs, forming the base of the food chain: mainly plants on land and algae in water.",
+   "sent_ids": [
+    "3ee9bde84180",
+    "06a48e621d94"
+   ]
+  },
+  "nature-eco-320": {
+   "q": "Which abiotic factors shape where species can live?",
+   "a": "They include water, light, temperature, humidity, acidity, salinity, altitude, minerals, tides, dissolved oxygen and soil.",
+   "sent_ids": [
+    "f3a0a6ad5a6e"
+   ]
+  },
+  "nature-eco-318": {
+   "q": "What are the major threats to endangered species?",
+   "a": "Habitat destruction and fragmentation, overexploitation, poaching, pollution, climate change and illegal wildlife trade.",
+   "sent_ids": [
+    "da429313fc17"
+   ]
+  },
+  "nature-eco-282": {
+   "q": "Who popularized the Hutchinsonian niche concept, and what question did he ask?",
+   "a": "The zoologist G. Evelyn Hutchinson, in 1957, asking why so many kinds of organisms live in one habitat.",
+   "sent_ids": [
+    "42ce815996e0",
+    "2b03c9d13204"
+   ]
+  },
+  "nature-eco-337": {
+   "q": "What is interference (contest) competition?",
+   "a": "Organisms fight directly over scarce resources, as large aphids eject smaller ones from the best feeding sites.",
+   "sent_ids": [
+    "bd304a842d48",
+    "a73966adf3fa"
+   ]
+  },
+  "nature-eco-352": {
+   "q": "What kinds of gradient can an ecocline be?",
+   "a": "A gradient in temperature (thermocline), chemistry (chemocline), salinity (halocline) or water density (pycnocline).",
+   "sent_ids": [
+    "13af9e9fed5a"
+   ]
+  },
+  "nature-eco-299": {
+   "q": "In a food web, what is connectance?",
+   "a": "The fraction of all possible feeding links that actually occur in the network.",
+   "sent_ids": [
+    "a1607ee5ee1e"
+   ]
+  },
+  "nature-eco-373": {
+   "q": "What can shift the Redfield ratio away from its usual value?",
+   "a": "Nitrogen fixation, denitrification and changing nutrient inputs.",
+   "sent_ids": [
+    "216e57212819"
+   ]
+  },
+  "nature-eco-359": {
+   "q": "What are herbivores in a food chain, and what do they eat?",
+   "a": "Primary consumers: they eat the carbohydrates plants make by photosynthesis, and carnivores in turn eat them.",
+   "sent_ids": [
+    "b032ad2e284f",
+    "78234d0277a6",
+    "a7194e6a01e1"
+   ]
+  }
+ }
+}

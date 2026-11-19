@@ -1,0 +1,214 @@
+{
+ "questions": {
+  "nature-econ-017": {
+   "q": "What does the revelation principle mean for a mechanism designer?",
+   "a": "The designer need only consider mechanisms in which people truthfully report their private information.",
+   "sent_ids": [
+    "c513f463ff58"
+   ]
+  },
+  "nature-econ-010": {
+   "q": "What does the revelation principle let a mechanism designer assume about games?",
+   "a": "That only games in which people truthfully report their private information need be considered.",
+   "sent_ids": [
+    "c513f463ff58"
+   ]
+  },
+  "nature-econ-801": {
+   "q": "What is the opposite of inflation called?",
+   "a": "Deflation, a fall in the general price level.",
+   "sent_ids": [
+    "4314403d09d5"
+   ]
+  },
+  "nature-econ-816": {
+   "q": "When is a project profitable according to its internal rate of return?",
+   "a": "When its estimated IRR exceeds the firm's cost of capital for it.",
+   "sent_ids": [
+    "b889ff3f417b"
+   ]
+  },
+  "nature-econ-845": {
+   "q": "What did the Stern Review of 2006 warn about global warming?",
+   "a": "That global GDP risked a 20% cut unless 1% of world GDP was invested now to reduce global warming.",
+   "sent_ids": [
+    "650dd05dfc49"
+   ]
+  },
+  "nature-econ-835": {
+   "q": "What inflation target do most OECD countries use?",
+   "a": "About 2%.",
+   "sent_ids": [
+    "5f34538c2bcf"
+   ]
+  },
+  "nature-econ-878": {
+   "q": "How did climate change deniers following Frank Luntz's advice frame global warming?",
+   "a": "As a matter of scientific uncertainty.",
+   "sent_ids": [
+    "1e0cbbb6bfc8"
+   ]
+  },
+  "nature-econ-764": {
+   "q": "By a rule of thumb, how long does money take to double at 6 percent a year?",
+   "a": "About 12 years (72 divided by 6).",
+   "sent_ids": [
+    "5d3f5e078e3b"
+   ]
+  },
+  "nature-econ-833": {
+   "q": "How is the inflation rate between two dates calculated?",
+   "a": "As the change in the price index divided by its earlier value.",
+   "sent_ids": [
+    "646f3e5383cb"
+   ]
+  },
+  "nature-econ-840": {
+   "q": "What did Tversky and Kahneman's candy-bar experiment show about time preferences?",
+   "a": "People who choose 1 candy bar now over 2 tomorrow also choose 2 in 101 days over 1 in 100 days, which is inconsistent.",
+   "sent_ids": [
+    "00ee828f2526"
+   ]
+  },
+  "nature-econ-782": {
+   "q": "What is the continuously compounded rate called?",
+   "a": "The force of interest.",
+   "sent_ids": [
+    "aac8a878a9a8"
+   ]
+  },
+  "nature-econ-751": {
+   "q": "What does Daniel Read's subadditive discounting hold?",
+   "a": "That discounting over a delay grows when the delay is split into smaller intervals.",
+   "sent_ids": [
+    "7ea4e5ee8d9c"
+   ]
+  },
+  "nature-econ-519": {
+   "q": "Which assets do depletion and amortization apply to, matching depreciation of long-term assets?",
+   "a": "Natural resources such as oil, and intangible assets.",
+   "sent_ids": [
+    "7111a3bcb141"
+   ]
+  },
+  "nature-econ-553": {
+   "q": "In ecological economics' flow diagram, what happens to natural inputs once they are consumed?",
+   "a": "They leave the economy as pollution and waste.",
+   "sent_ids": [
+    "550c6aee70f2"
+   ]
+  },
+  "nature-econ-593": {
+   "q": "What did Bourdieu show about social connections?",
+   "a": "That they can be used to reproduce inequality by giving access to powerful positions.",
+   "sent_ids": [
+    "b37342de4f4a"
+   ]
+  },
+  "nature-econ-584": {
+   "q": "What did Reiner Kümmel conclude about the Solow residual?",
+   "a": "That it can be explained very well by an economy's energy input.",
+   "sent_ids": [
+    "8f5027b6fc29"
+   ]
+  },
+  "nature-econ-578": {
+   "q": "Why is a price index that uses current quantities harder to compute than the Laspeyres index?",
+   "a": "It needs current quantity data.",
+   "sent_ids": [
+    "a41d184a25a6"
+   ]
+  },
+  "nature-econ-478": {
+   "q": "Why is economic growth calculated in real terms?",
+   "a": "So that rising prices do not distort the picture.",
+   "sent_ids": [
+    "b23d2118b8b4"
+   ]
+  },
+  "nature-econ-522": {
+   "q": "What do fiscal and monetary policy each handle, and who usually runs them?",
+   "a": "Fiscal policy handles taxes and spending, usually through a government department; monetary policy handles money supply and interest rates, usually through a central bank.",
+   "sent_ids": [
+    "e4d1d35bb968"
+   ]
+  },
+  "nature-econ-598": {
+   "q": "How is multi-factor productivity typically estimated?",
+   "a": "Using growth accounting.",
+   "sent_ids": [
+    "d42ffd86f893"
+   ]
+  },
+  "nature-econ-499": {
+   "q": "How is wealth defined in economics?",
+   "a": "As the net worth of a person, household or nation: the value of all assets owned minus all liabilities owed at a point in time.",
+   "sent_ids": [
+    "6892404486d2"
+   ]
+  },
+  "nature-econ-868": {
+   "q": "What is adjusted national income?",
+   "a": "Net national income corrected for the depletion of natural resources.",
+   "sent_ids": [
+    "e24bb1dacc41"
+   ]
+  },
+  "nature-econ-545": {
+   "q": "What did Keynes hold to be the most important influence on consumption in the short run?",
+   "a": "Real income.",
+   "sent_ids": [
+    "28c439a137e1"
+   ]
+  },
+  "nature-econ-527": {
+   "q": "What non-market activity does GDP leave out?",
+   "a": "Activity such as household production, barter and volunteer work.",
+   "sent_ids": [
+    "0f3d33351f23"
+   ]
+  },
+  "nature-econ-516": {
+   "q": "What have researchers found to be the key driver of carbon emissions?",
+   "a": "Affluence.",
+   "sent_ids": [
+    "4c639ea55fdc"
+   ]
+  },
+  "nature-econ-511": {
+   "q": "What is full crowding out?",
+   "a": "When government spending simply replaces private output instead of adding to it.",
+   "sent_ids": [
+    "ee2525493d8c"
+   ]
+  },
+  "nature-econ-568": {
+   "q": "What do critics say unpaid housework falls outside of?",
+   "a": "The SNA production boundary, which they say hides how much market production depends on non-market labour.",
+   "sent_ids": [
+    "007b3633cc65"
+   ]
+  },
+  "nature-econ-497": {
+   "q": "How does cleaning up an oil spill affect GDP?",
+   "a": "It adds to GDP, while the lost well-being from fouled beaches is not measured.",
+   "sent_ids": [
+    "2e648658a480"
+   ]
+  },
+  "nature-econ-504": {
+   "q": "Why is saved money a leakage?",
+   "a": "Because it is not spent, so not all output gets bought.",
+   "sent_ids": [
+    "2979f1924023"
+   ]
+  },
+  "nature-clim-134": {
+   "q": "What does the energy-efficiency gap suggest about society's investments?",
+   "a": "That society passes up cost-effective investments that could cut energy use at low cost.",
+   "sent_ids": [
+    "d1817fd99949"
+   ]
+  }
+ }
+}

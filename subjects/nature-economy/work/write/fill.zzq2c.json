@@ -1,0 +1,113 @@
+{
+ "questions": {
+  "nature-eco-363": {
+   "q": "What forms the base of ocean food webs?",
+   "a": "Phytoplankton, single-celled algae and plant-like organisms; zooplankton that eat them form the second trophic level.",
+   "sent_ids": [
+    "c794beb6f58a",
+    "39991adb6377"
+   ]
+  },
+  "nature-eco-382": {
+   "q": "In predator-prey coevolution, what did bats and their insect prey each evolve?",
+   "a": "Bats evolved echolocation to find insects, and some insects evolved the ability to hear those calls.",
+   "sent_ids": [
+    "3f9d0ee178d7"
+   ]
+  },
+  "nature-eco-322": {
+   "q": "In a bovine tuberculosis trial that removed badgers, what happened to hedgehog densities?",
+   "a": "They more than doubled.",
+   "sent_ids": [
+    "173ea8c79ad3"
+   ]
+  },
+  "nature-eco-365": {
+   "q": "What does the whale pump reverse, and why are whales able to do it?",
+   "a": "It reverses the usual downward flow of nutrients in the ocean's biological pump; whales feed deep where krill are found but return regularly to the surface to breathe.",
+   "sent_ids": [
+    "bec0846779c4",
+    "1cc83d036c60"
+   ]
+  },
+  "nature-eco-404": {
+   "q": "How large is the global soil carbon pool compared with the atmospheric and biotic pools?",
+   "a": "It is about 2,500 gigatons, 3.3 times the 750-gigaton atmospheric pool and 4.5 times the 560-gigaton biotic pool.",
+   "sent_ids": [
+    "24f4a0ca249c",
+    "c015eab6631d"
+   ]
+  },
+  "nature-eco-676": {
+   "q": "In the soil food web, how do plant roots feed it and what do decomposers do?",
+   "a": "Roots exude acids, sugars and enzymes into the rhizosphere, and decomposers such as bacteria and fungi end each chain by breaking dead matter into simple nutrients.",
+   "sent_ids": [
+    "b1967243f06f",
+    "362d5cc4628f"
+   ]
+  },
+  "nature-eco-396": {
+   "q": "In denitrification, what do bacteria use in place of oxygen, and in what conditions?",
+   "a": "They use nitrate to respire, in low-oxygen conditions such as waterlogged soils.",
+   "sent_ids": [
+    "6db2d20ab4b6",
+    "64830f581189",
+    "477a522e7bd0"
+   ]
+  },
+  "nature-eco-588": {
+   "q": "How do r-strategists and K-strategists differ in their offspring?",
+   "a": "r-strategists have many offspring with little care each; K-strategists invest heavily in fewer offspring.",
+   "sent_ids": [
+    "6c4b232a09fa"
+   ]
+  },
+  "nature-eco-748": {
+   "q": "How much gene flow is enough to prevent drift-driven divergence between two populations?",
+   "a": "One migrant per generation.",
+   "sent_ids": [
+    "a99d4d710a32",
+    "17a4d5fd0eaf"
+   ]
+  },
+  "nature-eco-591": {
+   "q": "What does the species-area curve look like when fitted with Preston's power function on log-log axes?",
+   "a": "A straight line with slope z.",
+   "sent_ids": [
+    "6bf2173b72ed",
+    "769ad7d6bdc6",
+    "263463c2da96"
+   ]
+  },
+  "nature-eco-747": {
+   "q": "Which type of natural selection holds a trait at an optimum, and which favours extreme values?",
+   "a": "Stabilizing selection holds a trait at an optimum, while directional selection favours extreme values.",
+   "sent_ids": [
+    "7f2787141e29",
+    "f45b274a996b"
+   ]
+  },
+  "nature-eco-749": {
+   "q": "How can moving individuals within a species' existing range help it?",
+   "a": "It can help the species adapt to projected local climate conditions.",
+   "sent_ids": [
+    "28f2ab6907f5"
+   ]
+  },
+  "nature-eco-576": {
+   "q": "How do people move organisms from place to place, in dispersal by humans?",
+   "a": "On purpose, as with farm animals, or by accident when organisms cling to people or vehicles.",
+   "sent_ids": [
+    "c6afe96edbc0",
+    "772204b5402e"
+   ]
+  },
+  "nature-eco-579": {
+   "q": "What does a population do once it reaches its stable age structure?",
+   "a": "It grows exponentially at rate lambda (λ).",
+   "sent_ids": [
+    "c616cf7401da"
+   ]
+  }
+ }
+}
