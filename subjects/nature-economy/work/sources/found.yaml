@@ -1,0 +1,67 @@
+- url: https://openstax.org/books/principles-economics-3e/pages/preface
+  adapter: html
+  title: Principles of Economics 3e (OpenStax)
+  why: Rice University OpenStax, the most widely adopted open intro economics text; chapter-level HTML pages covering choice, markets, welfare, externalities, public goods, macro measurement. Page also forbids use in LLM training or ingestion without OpenStax written permission.
+  license_seen: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY NC-SA)
+  license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+  updated: 2022-12-14
+  maintainer: OpenStax (Rice University)
+  domain_class: academic
+  suggested_tier: curated
+  nc_nd: true
+- url: https://books.core-econ.org/the-economy/microeconomics/0-4-preface.html
+  adapter: html
+  title: The Economy (CORE Econ), microeconomics
+  why: CORE Econ project (Bowles, Carlin and others), widely used introductory text; units on externalities, public goods, commons, time and discounting, strategic interaction. ND license, so private use only.
+  license_seen: Licensed under Creative Commons BY NC ND
+  license_url: https://creativecommons.org/licenses/by-nc-nd/4.0/
+  updated: 2026-01-01
+  maintainer: CORE Econ
+  domain_class: academic
+  suggested_tier: curated
+  nc_nd: true
+- url: https://books.core-econ.org/insights/climate-justice/08-references.html
+  adapter: html
+  title: "Climate justice: The intersection of economics, the environment, and inequality (CORE Insights)"
+  why: CORE Econ ebook on climate economics and justice; fits governance, equity and climate chapters. ND license.
+  license_seen: Licensed under Creative Commons BY NC ND
+  license_url: https://creativecommons.org/licenses/by-nc-nd/4.0/
+  updated: 2026-01-01
+  maintainer: CORE Econ
+  domain_class: academic
+  suggested_tier: curated
+  nc_nd: true
+- url: https://assets.publishing.service.gov.uk/media/602e92b2e90e07660f807b47/The_Economics_of_Biodiversity_The_Dasgupta_Review_Full_Report.pdf
+  adapter: pdf
+  title: The Economics of Biodiversity, The Dasgupta Review (Full Report)
+  why: Independent review commissioned by HM Treasury, led by Sir Partha Dasgupta; the key authoritative framework on natural capital as an asset. Third-party material excepted; the licence line is from the gov.uk publication page.
+  license_seen: Open Government Licence v3.0 (all content, except where otherwise stated)
+  license_url: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+  updated: 2021-08-20
+  maintainer: HM Treasury (UK Government)
+  domain_class: official
+  suggested_tier: official
+  nc_nd: false
+- url: https://eng.libretexts.org/Bookshelves/Environmental_Engineering_(Sustainability_and_Conservation)/Book%3A_Sustainability_-_A_Comprehensive_Foundation_(Cabezas)/06%3A_Environmental_and_Resource_Economics
+  adapter: html
+  title: Environmental and Resource Economics (ch. 6 of Sustainability, A Comprehensive Foundation, Cabezas)
+  why: Named author Heriberto Cabezas via GALILEO Open Learning Materials on LibreTexts; sections on tragedy of the commons, fisheries, valuation, project and policy evaluation, property rights and incentive policies. Short, one chapter only.
+  license_seen: shared under a CC BY license
+  license_url: https://creativecommons.org/licenses/by/
+  updated: 2026-01-01
+  maintainer: Heriberto Cabezas / LibreTexts
+  domain_class: academic
+  suggested_tier: curated
+  nc_nd: false
+- url: https://github.com/FanWangEcon/Math4Econ
+  adapter: github
+  repo: FanWangEcon/Math4Econ
+  title: Introductory Mathematics for Economists with Matlab
+  why: Single-author (Fan Wang) bookdown course, partial coverage of mathematical tools for economics; weak candidate, work in progress.
+  license_seen: MIT License
+  license_url: https://raw.githubusercontent.com/FanWangEcon/Math4Econ/master/LICENSE
+  updated: 2025-01-01
+  maintainer: Fan Wang
+  domain_class: personal
+  suggested_tier: commentary
+  nc_nd: false

@@ -6,6 +6,64 @@ description: >-
   classified, how it feeds plants, how water moves and erodes it, how farmers manage it, and what it means
   for the environment and the climate. Ordered from foundational to advanced, sourced from Wikipedia.
 seeds: [Soil science, Soil]
+# Sources besides Wikipedia (always on); licenses were read from each source by the search session.
+sources:
+  - name: wrb-2022
+    adapter: pdf
+    files:
+      - {url: "https://wrb.isric.org/files/WRB_fourth_edition_2022-12-18.pdf", name: "World Reference Base for Soil Resources, 4th ed. (2022)"}
+    tier: official
+    license: {name: "CC BY 4.0", url: "https://creativecommons.org/licenses/by/4.0/"}
+  - name: soil-lab-manual-schwyter
+    adapter: html
+    base: https://geo.libretexts.org/Bookshelves/Soil_Science/Introduction_to_Soil_Science_Laboratory_Manual_(Schwyter_and_Vaughan)
+    selector: ".mt-content-container"
+    depth: 3
+    tier: curated
+    title: "Introduction to Soil Science Laboratory Manual (Schwyter and Vaughan)"
+    license: {name: "CC BY 4.0", url: "https://creativecommons.org/licenses/by/4.0/"}
+  - name: soils-lab-manual-kstate
+    adapter: html
+    base: https://geo.libretexts.org/Bookshelves/Soil_Science/Soils_Laboratory_Manual_(Moorberg_and_Crouse)
+    selector: ".mt-content-container"
+    depth: 3
+    tier: curated
+    title: "Soils Laboratory Manual (Moorberg and Crouse)"
+    license: {name: "CC BY 4.0", url: "https://creativecommons.org/licenses/by/4.0/"}
+  - name: building-soils-4e
+    adapter: html
+    base: https://geo.libretexts.org/Bookshelves/Soil_Science/Building_Soils_for_Better_Crops_-_Ecological_Management_for_Healthy_Soils_4e_(Magdoff_and_van_Es)
+    selector: ".mt-content-container"
+    depth: 3
+    tier: curated
+    title: "Building Soils for Better Crops, 4th ed. (Magdoff and van Es)"
+    license: {name: "CC BY-NC 4.0", url: "https://creativecommons.org/licenses/by-nc/4.0/"}
+  - name: digging-into-canadian-soils
+    adapter: html
+    base: https://geo.libretexts.org/Bookshelves/Soil_Science/Digging_into_Canadian_Soils%3A_An_Introduction_to_Soil_Science
+    selector: ".mt-content-container"
+    depth: 3
+    tier: curated
+    title: "Digging into Canadian Soils"
+    license: {name: "CC BY-NC 4.0", url: "https://creativecommons.org/licenses/by-nc/4.0/"}
+  - name: soils4africa-dsm
+    adapter: html
+    base: https://docs.isric.org/soils4africa/dsm_tutorial/index.html
+    allow: ["/soils4africa/dsm_tutorial/"]
+    depth: 3
+    tier: curated
+    title: "Soils4Africa digital soil mapping manual (ISRIC)"
+    license: {name: "CC BY 4.0", url: "https://creativecommons.org/licenses/by/4.0/"}
+  - name: predictive-soil-mapping
+    adapter: github
+    repo: Envirometrix/PredictiveSoilMapping
+    ref: 8036f21424fd7e3db645793a80aa05518e691169
+    include: ["*.Rmd", "README.md"]
+    depth: 1
+    tier: curated
+    title: "Predictive Soil Mapping with R"
+    license: {name: "CC BY-SA 4.0", url: "https://creativecommons.org/licenses/by-sa/4.0/"}
+distribution: personal
 hubs:
   navboxes: [Template:Soil science topics]
   index: Index of soil-related articles

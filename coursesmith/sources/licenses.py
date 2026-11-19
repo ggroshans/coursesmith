@@ -108,9 +108,12 @@ def detect_from_text(text):
     for m in _CC_ABBREV.finditer(raw):
         found.append((m.start(), classify(m.group(0))))
     low = re.sub(r"\s+", " ", raw.lower())
+    low = re.sub(r"share[- ]alike", "sharealike", low)
     for phrase, cls in _TEXT_PATTERNS:
         k = low.find(phrase)
         if k >= 0:
+            if low.startswith("creative commons ", k - 17) and phrase != "creative commons attribution":
+                k -= 17  # "Creative Commons Attribution-ShareAlike" opens where the generic phrase does
             found.append((k, cls))
     for rx, cls in _NAME_PATTERNS:
         m = rx.search(raw)

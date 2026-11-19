@@ -13,6 +13,41 @@ description: >-
 seeds: [Ecosystem service, Nature-based solutions, Environmental economics, Ecological economics, Natural capital,
         Externality, Market failure, Payment for ecosystem services, Ecosystem valuation, Green infrastructure]
 
+# Sources besides Wikipedia (always on); licenses were read from each source by the search session.
+# Left out on purpose: OpenStax Principles of Economics (its terms bar ingestion by language models); Math4Econ (a
+# programming notebook, not a course text); IPBES, TEEB, SEEA and IPCC pages could not be fetched or licensed.
+sources:
+  - name: dasgupta-review
+    adapter: pdf
+    files:
+      - {url: "https://assets.publishing.service.gov.uk/media/602e92b2e90e07660f807b47/The_Economics_of_Biodiversity_The_Dasgupta_Review_Full_Report.pdf", name: "The Economics of Biodiversity: the Dasgupta Review"}
+    tier: official
+    license: {name: "Open Government Licence v3.0", url: "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"}
+  - name: cabezas-resource-economics
+    adapter: html
+    base: https://eng.libretexts.org/Bookshelves/Environmental_Engineering_(Sustainability_and_Conservation)/Book%3A_Sustainability_-_A_Comprehensive_Foundation_(Cabezas)/06%3A_Environmental_and_Resource_Economics
+    selector: ".mt-content-container"
+    depth: 2
+    tier: curated
+    title: "Environmental and Resource Economics (Cabezas)"
+    license: {name: "CC BY 4.0", url: "https://creativecommons.org/licenses/by/4.0/"}
+  - name: core-the-economy
+    adapter: html
+    base: https://books.core-econ.org/the-economy/microeconomics/0-4-preface.html
+    allow: ["/the-economy/microeconomics/"]
+    depth: 2
+    tier: curated
+    title: "The Economy (CORE Econ), Microeconomics"
+    license: {name: "CC BY-NC-ND 4.0", url: "https://creativecommons.org/licenses/by-nc-nd/4.0/"}
+  - name: core-climate-justice
+    adapter: html
+    base: https://books.core-econ.org/insights/climate-justice/08-references.html
+    allow: ["/insights/climate-justice/"]
+    depth: 2
+    tier: curated
+    title: "CORE Insights: Climate justice"
+    license: {name: "CC BY-NC-ND 4.0", url: "https://creativecommons.org/licenses/by-nc-nd/4.0/"}
+distribution: personal
 hubs:
   navboxes: [Template:Environmental social science, Template:Natural resources, Template:Sustainability,
              Template:Climate change]
