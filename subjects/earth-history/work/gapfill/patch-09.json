@@ -1,0 +1,246 @@
+{
+ "mioc-133": {
+  "add": [
+   {
+    "text": "The Malawi rift is part of a linear chain of rift lakes that extends from the southern tip of the Red Sea to Mozambique, with Lake Malawi the southernmost linear lake feature.",
+    "sent_ids": [
+     "4d44b91d5ce8"
+    ]
+   }
+  ]
+ },
+ "mioc-142": {
+  "add": [
+   {
+    "text": "When an island arc collides with a continent, the subduction zone switches to the other side of the island.",
+    "sent_ids": [
+     "233f19661f25"
+    ]
+   }
+  ]
+ },
+ "mioc-148": {
+  "add": [
+   {
+    "text": "Ground sloths evolved mainly in South America during the late Paleogene and Neogene, while the continent was isolated.",
+    "sent_ids": [
+     "b7427e030626"
+    ]
+   }
+  ]
+ },
+ "mioc-156": {
+  "add": [
+   {
+    "text": "The ancestors of humans split from the ancestors of chimpanzees around the end of the Miocene, during the final Messinian Stage (7.5-5.3 Ma).",
+    "sent_ids": [
+     "6ada6e4c6816"
+    ]
+   }
+  ]
+ },
+ "mioc-159": {
+  "add": [
+   {
+    "text": "The Dead Sea Transform is a left-lateral series of faults between the Sinai Peninsula and the Arabia Plate.",
+    "sent_ids": [
+     "d7c7d81b077b"
+    ]
+   },
+   {
+    "text": "Left steps in this transform have opened a series of wrench basins, including the Dead Sea.",
+    "sent_ids": [
+     "f85b8cc906c8"
+    ]
+   }
+  ]
+ },
+ "mioc-162": {
+  "add": [
+   {
+    "text": "The Miocene-Pliocene boundary coincides with the time of the Messinian salinity crisis.",
+    "sent_ids": [
+     "a1eae61ad168"
+    ]
+   }
+  ]
+ },
+ "nort-009": {
+  "add": [
+   {
+    "text": "A frozen steppe bison mummy from northern Yakutia shows it was a pasture grazer living in a habitat that was becoming dominated by shrub and tundra vegetation.",
+    "sent_ids": [
+     "9986f8eafed7"
+    ]
+   },
+   {
+    "text": "Bison in Alaska and the Yukon survived the loss of the mammoth steppe.",
+    "sent_ids": [
+     "26730339a019"
+    ]
+   }
+  ]
+ },
+ "nort-010": {
+  "add": [
+   {
+    "text": "Menengai sits in the Great Rift Valley, part of an intra-continental system of depressions running north to south through Kenya.",
+    "sent_ids": [
+     "6ac29aed7264"
+    ]
+   }
+  ]
+ },
+ "nort-019": {
+  "add": [
+   {
+    "text": "Some geological processes make circular or near-circular features that can be mistaken for impact craters.",
+    "sent_ids": [
+     "87db1b530f82"
+    ]
+   }
+  ]
+ },
+ "nort-025": {
+  "add": [
+   {
+    "text": "Later eruptions of modern Pinatubo came in episodes much shorter than the quiet intervals between them.",
+    "sent_ids": [
+     "a32a0bd59573"
+    ]
+   },
+   {
+    "text": "The maximum size of eruptions in each period has been getting smaller over modern Pinatubo's 35,000-year history, though this might be an artifact of older deposits being eroded and buried.",
+    "sent_ids": [
+     "85ed82fa1dc3"
+    ]
+   }
+  ]
+ },
+ "nort-032": {
+  "add": [
+   {
+    "text": "A sector collapse is the catastrophic failure of a significant part of a volcano, creating a large debris avalanche.",
+    "sent_ids": [
+     "7b1933ab5d54"
+    ]
+   },
+   {
+    "text": "Mount Rainier has had large debris avalanches and enormous lahars, owing to the large amount of glacial ice on it.",
+    "sent_ids": [
+     "edbffabf3676"
+    ]
+   }
+  ]
+ },
+ "nort-033": {
+  "add": [
+   {
+    "text": "A structure must meet a stringent set of established criteria to be confirmed as an impact crater.",
+    "sent_ids": [
+     "db01d6d68794"
+    ]
+   },
+   {
+    "text": "Proposing that Burckle (30 km) formed within the last few millennia has been met with skepticism, since almost all confirmed craters younger than a million years are under two km across.",
+    "sent_ids": [
+     "01833d02978c"
+    ]
+   }
+  ]
+ },
+ "olig-004": {
+  "add": [
+   {
+    "text": "Lake Baikal in Siberia is a modern example of a rift basin.",
+    "sent_ids": [
+     "38a4a427cee5"
+    ]
+   }
+  ]
+ },
+ "olig-005": {
+  "add": [
+   {
+    "text": "Carnassial teeth sit near the front of the molar row in carnivorans but near the back in creodonts, suggesting separate evolutionary histories and an order-level distinction.",
+    "sent_ids": [
+     "6bc84ddcc61d"
+    ]
+   }
+  ]
+ },
+ "olig-013": {
+  "add": [
+   {
+    "text": "Sea levels were lower in the Oligocene than in the early Eocene, exposing large coastal plains in Europe.",
+    "sent_ids": [
+     "6749b565917d"
+    ]
+   },
+   {
+    "text": "By the end of the Eocene-Oligocene transition, sea levels had dropped by 105 meters.",
+    "sent_ids": [
+     "74b3ab5088ee"
+    ]
+   },
+   {
+    "text": "The Eocene-Oligocene transition in Europe and Asia has been called the Grande Coupure.",
+    "sent_ids": [
+     "a4390258ad35"
+    ]
+   }
+  ]
+ },
+ "olig-022": {
+  "add": [
+   {
+    "text": "Aridity in the Atacama predates the rise of the Central Andes, but hyper-aridity is generally thought to have resulted from that rise.",
+    "sent_ids": [
+     "b252669779c4"
+    ]
+   },
+   {
+    "text": "The most arid part lies between the Andes and the Chilean Coast Range, which block moisture from both the Pacific and the Atlantic, creating a two-sided rain shadow.",
+    "sent_ids": [
+     "85e98f02fc84"
+    ]
+   }
+  ]
+ },
+ "olig-028": {
+  "add": [
+   {
+    "text": "The Haughton crater's Oligocene date is now considered questionable, as later analyses have concluded it dates to 39 Ma, placing the event in the Eocene.",
+    "sent_ids": [
+     "6fe7af110ed1"
+    ]
+   }
+  ]
+ },
+ "olig-053": {
+  "add": [
+   {
+    "text": "Embrithopods arose in the Early Eocene.",
+    "sent_ids": [
+     "8721a9612429"
+    ]
+   },
+   {
+    "text": "Some experts think embrithopods could not compete with invading mammals because of their generalized habits and phyletic conservatism.",
+    "sent_ids": [
+     "02fc00b7fd3b"
+    ]
+   }
+  ]
+ },
+ "olig-056": {
+  "add": [
+   {
+    "text": "Like modern elephants, gomphotheres may have knocked down trees, creating open landscapes.",
+    "sent_ids": [
+     "fe4eca857b13"
+    ]
+   }
+  ]
+ }
+}

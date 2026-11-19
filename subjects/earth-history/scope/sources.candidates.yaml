@@ -1,0 +1,197 @@
+# Candidate sources. Set `status: accept` (or reject), copy `subject_yaml` into
+# subject.yaml under `sources:`, then run `coursesmith sources check`.
+- id: html:pubs.usgs.gov/gip/geotime
+  adapter: html
+  repo: null
+  title: Geologic Time (USGS General Interest Publication, online edition)
+  url: https://pubs.usgs.gov/gip/geotime/
+  snippet: Official USGS publication on the geologic time scale, relative and radiometric dating and the age of
+    Earth; dated (2000) but authoritative. Public domain per USGS policy; the page itself carries no license statement.
+  origin: session
+  license_seen: U.S. Public Domain ("USGS-authored or produced data and information are considered to be in the
+    U.S. Public Domain")
+  domain_class: official
+  suggested_tier: official
+  maintainer: U.S. Geological Survey Publications Services
+  evidence:
+    license_url: https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits
+    updated: 2000-12-11
+    nc_nd: false
+    session: true
+  status: candidate
+  note: ''
+  score: 7.0
+  score_parts:
+    license: 3
+    domain: 3
+    stars: 0.0
+    contributors: 0.0
+    recent: 0
+    maintainer: 1
+    archived: 0
+  subject_yaml:
+    name: geologic-time-(usgs-general-interest-pub
+    adapter: html
+    base: https://pubs.usgs.gov/gip/geotime/
+    allow:
+    - <path prefixes>
+    depth: 2
+    tier: official
+    license:
+      name: U.S. Public Domain ("USGS-authored or produced data and information are considered to be in the U.S.
+        Public Domain")
+- id: html:geo.libretexts.org/Bookshelves/Geology/Physical_Geology_(Earle)
+  adapter: html
+  repo: null
+  title: Physical Geology (Earle)
+  url: https://geo.libretexts.org/Bookshelves/Geology/Physical_Geology_(Earle)
+  snippet: Steven Earle's BCcampus open textbook, widely adopted; chapters on measuring geological time, plate tectonics,
+    glaciation, climate change, geological history of Western Canada and the origin of Earth and the Solar System.
+  origin: session
+  license_seen: CC BY 4.0 (stated on the book page, tag license:ccby)
+  domain_class: academic
+  suggested_tier: curated
+  maintainer: Steven Earle, Vancouver Island University (BCcampus)
+  evidence:
+    license_url: https://geo.libretexts.org/Bookshelves/Geology/Physical_Geology_(Earle)
+    updated: 2024-04-24
+    nc_nd: false
+    session: true
+  status: candidate
+  note: ''
+  score: 6.0
+  score_parts:
+    license: 3
+    domain: 2
+    stars: 0.0
+    contributors: 0.0
+    recent: 0
+    maintainer: 1
+    archived: 0
+  subject_yaml:
+    name: physical-geology-(earle)
+    adapter: html
+    base: https://geo.libretexts.org/Bookshelves/Geology/Physical_Geology_(Earle)
+    allow:
+    - <path prefixes>
+    depth: 2
+    tier: curated
+    license:
+      name: CC BY 4.0 (stated on the book page, tag license:ccby)
+- id: html:geo.libretexts.org/Bookshelves/Geology/Historical_Geology_(Bentley_et_al.)
+  adapter: html
+  repo: null
+  title: Historical Geology (Bentley et al.)
+  url: https://geo.libretexts.org/Bookshelves/Geology/Historical_Geology_(Bentley_et_al.)
+  snippet: OpenGeology's Earth-history text with case studies on oldest rocks, Snowball Earth, endosymbiosis, Rodinia,
+    mass extinctions, Channeled Scablands, PETM and the Anthropocene; deep coverage of individual events. NonCommercial.
+  origin: session
+  license_seen: CC BY-NC 4.0
+  domain_class: academic
+  suggested_tier: curated
+  maintainer: Callan Bentley, Karen Layou, Russ Kohrs, Shelley Jaye, Matt Affolter, Brian Ricketts (OpenGeology)
+  evidence:
+    license_url: https://geo.libretexts.org/Bookshelves/Geology/Historical_Geology_(Bentley_et_al.)
+    updated: 2026-10-21
+    nc_nd: true
+    session: true
+  status: candidate
+  note: ''
+  score: 5.0
+  score_parts:
+    license: 1
+    domain: 2
+    stars: 0.0
+    contributors: 0.0
+    recent: 1
+    maintainer: 1
+    archived: 0
+  subject_yaml:
+    name: historical-geology-(bentley-et-al.)
+    adapter: html
+    base: https://geo.libretexts.org/Bookshelves/Geology/Historical_Geology_(Bentley_et_al.)
+    allow:
+    - <path prefixes>
+    depth: 2
+    tier: curated
+    license:
+      name: CC BY-NC 4.0
+- id: html:geo.libretexts.org/Bookshelves/Geology/Introduction_to_Historical_Geology_(Johnson_et_al.)
+  adapter: html
+  repo: null
+  title: Introduction to Historical Geology (Johnson et al.)
+  url: https://geo.libretexts.org/Bookshelves/Geology/Introduction_to_Historical_Geology_(Johnson_et_al.)
+  snippet: Maricopa Open Digital Press text by named geoscience faculty; chapters on the Precambrian, Paleozoic,
+    Mesozoic and Cenozoic eras, relative dating and taphonomy, giving era-by-era event narrative. Share-alike and
+    NonCommercial.
+  origin: session
+  license_seen: CC BY-NC-SA 4.0
+  domain_class: academic
+  suggested_tier: curated
+  maintainer: Chris Johnson, Callan Bentley, Karla Panchuk and others, Maricopa Open Digital Press
+  evidence:
+    license_url: https://creativecommons.org/licenses/by-nc-sa/4.0
+    updated: 2024-04-24
+    nc_nd: true
+    session: true
+  status: candidate
+  note: ''
+  score: 4.0
+  score_parts:
+    license: 1
+    domain: 2
+    stars: 0.0
+    contributors: 0.0
+    recent: 0
+    maintainer: 1
+    archived: 0
+  subject_yaml:
+    name: introduction-to-historical-geology-(john
+    adapter: html
+    base: https://geo.libretexts.org/Bookshelves/Geology/Introduction_to_Historical_Geology_(Johnson_et_al.)
+    allow:
+    - <path prefixes>
+    depth: 2
+    tier: curated
+    license:
+      name: CC BY-NC-SA 4.0
+- id: html:www.digitalatlasofancientlife.org/learn
+  adapter: html
+  repo: null
+  title: Digital Encyclopedia of Ancient Life
+  url: https://www.digitalatlasofancientlife.org/learn/
+  snippet: Paleontological Research Institution open textbook on fossil groups and the history of life; explains
+    the biological events (radiations, extinctions) that thin entries lack. NonCommercial, share-alike.
+  origin: session
+  license_seen: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0), most
+    materials; some reproduced items differ
+  domain_class: academic
+  suggested_tier: curated
+  maintainer: Paleontological Research Institution (Digital Atlas of Ancient Life project)
+  evidence:
+    license_url: https://www.digitalatlasofancientlife.org/about/
+    updated: null
+    nc_nd: true
+    session: true
+  status: candidate
+  note: ''
+  score: 4.0
+  score_parts:
+    license: 1
+    domain: 2
+    stars: 0.0
+    contributors: 0.0
+    recent: 0
+    maintainer: 1
+    archived: 0
+  subject_yaml:
+    name: digital-encyclopedia-of-ancient-life
+    adapter: html
+    base: https://www.digitalatlasofancientlife.org/learn/
+    allow:
+    - <path prefixes>
+    depth: 2
+    tier: curated
+    license:
+      name: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0), most materials;
+        some reproduced items differ

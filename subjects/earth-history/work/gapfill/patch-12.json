@@ -1,0 +1,328 @@
+{
+ "prot-118": {
+  "add": [
+   {
+    "text": "The Songluo Biota was deposited with no signs of glacial activity, inferred from its shales and siltstones, on a distal shelf likely away from the margins of the large ice sheets of the late Cryogenian.",
+    "sent_ids": [
+     "8c0aefc52f06"
+    ]
+   },
+   {
+    "text": "Macro-algae likely suffered a substantial extinction worldwide during the major glacial periods of the Cryogenian but persisted at less diverse numbers.",
+    "sent_ids": [
+     "2a65fac0efd2"
+    ]
+   }
+  ]
+ },
+ "prot-122": {
+  "add": [
+   {
+    "text": "The Beardmore orogeny is expressed as an unconformity in the Transantarctic Mountains, between folded Late Proterozoic strata and overlying Early or Middle Cambrian sediments.",
+    "sent_ids": [
+     "abf122f14edf"
+    ]
+   }
+  ]
+ },
+ "prot-125": {
+  "add": [
+   {
+    "text": "Franz Josef Land and Kvitøya most likely became part of Baltica in the Timanide Orogeny.",
+    "sent_ids": [
+     "8d06d3739a18"
+    ]
+   },
+   {
+    "text": "The basement of Baltica's eastern margin is an Archaean craton and metamorphosed rocks at least 1.6 Ga old, surrounded by the fold belt of the Timanide orogeny and overlain by Mesoproterozoic sediments.",
+    "sent_ids": [
+     "e447917a47eb"
+    ]
+   }
+  ]
+ },
+ "prot-148": {
+  "add": [
+   {
+    "text": "The Betsimisaraka suture in eastern Madagascar has been identified as the boundary between the African and India terranes.",
+    "sent_ids": [
+     "4becc9d4a376"
+    ]
+   },
+   {
+    "text": "The Mozambique Ocean separated the Congo-Tanzania-Bangweulu Block of central Africa from Neoproterozoic India.",
+    "sent_ids": [
+     "de46223d62c4"
+    ]
+   }
+  ]
+ },
+ "silu-003": {
+  "add": [
+   {
+    "text": "The end-Ordovician extinction reduced the diversity of all trilobite orders, with most asaphid families disappearing.",
+    "sent_ids": [
+     "754e32a88a33"
+    ]
+   },
+   {
+    "text": "In 2020 the superfamily Trinucleioidea was proposed to be raised to an order, Trinucleida, and removed from Asaphida.",
+    "sent_ids": [
+     "711ebe017371"
+    ]
+   }
+  ]
+ },
+ "silu-011": {
+  "add": [
+   {
+    "text": "Dissidocerida was proposed by Zhuravleva (1994) for Dissidoceras undosum, a Silurian orthoconic genus with a wide, nearly central, tubular siphuncle, suborthochoanitic septal necks and an endosiphuncular rod.",
+    "sent_ids": [
+     "8d07380a0b34"
+    ]
+   }
+  ]
+ },
+ "silu-012": {
+  "add": [
+   {
+    "text": "Cladograms show aspects of eocrinoid paraphyly or polyphyly.",
+    "sent_ids": [
+     "4fbe3e230e69"
+    ]
+   }
+  ]
+ },
+ "silu-013": {
+  "add": [
+   {
+    "text": "The youngest known nektaspid is the Laurentian naraoiid Naraoia bertensis from the Bertie Formation in Ontario, Canada, dating to the Upper Silurian.",
+    "sent_ids": [
+     "18d745e3a9de"
+    ]
+   }
+  ]
+ },
+ "silu-014": {
+  "add": [
+   {
+    "text": "Paracrinoidea is an extinct class of blastozoan echinoderms.",
+    "sent_ids": [
+     "ed0e97c915f4"
+    ]
+   }
+  ]
+ },
+ "silu-016": {
+  "add": [
+   {
+    "text": "Amphiporida lived from the mid-late Silurian (Wenlock or Ludlow) to the Late Devonian (Famennian).",
+    "sent_ids": [
+     "19a11a1f45a0"
+    ]
+   },
+   {
+    "text": "The stromatoporoid order Actinostromatida may have originated in the Late Ordovician or the Llandovery Epoch of the early Silurian.",
+    "sent_ids": [
+     "2b50ecd2cbc7"
+    ]
+   }
+  ]
+ },
+ "silu-019": {
+  "add": [
+   {
+    "text": "The Rheic Ocean existed from the Early Ordovician to the Early Carboniferous and was named after Rhea, sister of Iapetus.",
+    "sent_ids": [
+     "e3a348ebd541"
+    ]
+   },
+   {
+    "text": "The Iapetus Ocean closed as Avalonia-Carolina collided with Laurentia and the Appalachian orogeny formed.",
+    "sent_ids": [
+     "9ba02a936e40"
+    ]
+   }
+  ]
+ },
+ "silu-033": {
+  "add": [
+   {
+    "text": "When Bisonocerida was first defined as a new order, it was suggested to be an independent descendant of Ellesmerocerida.",
+    "sent_ids": [
+     "d47b1188d083"
+    ]
+   },
+   {
+    "text": "Bisonocerida was differentiated from Endocerida in 2012 to resolve this issue.",
+    "sent_ids": [
+     "71f6cb43a70e"
+    ]
+   }
+  ]
+ },
+ "silu-039": {
+  "add": [
+   {
+    "text": "The Great Glen Fault had its final phase of movement during the Late Cretaceous to Early Tertiary.",
+    "sent_ids": [
+     "1ad56edd1586"
+    ]
+   },
+   {
+    "text": "Erosion along the fault zone during Quaternary glaciation formed Loch Ness.",
+    "sent_ids": [
+     "25822297a5a3"
+    ]
+   }
+  ]
+ },
+ "silu-049": {
+  "add": [
+   {
+    "text": "Palaeoscolecids are extinct ecdysozoan worms resembling armoured priapulids.",
+    "sent_ids": [
+     "65ead8fdfcb4"
+    ]
+   },
+   {
+    "text": "Palaeoscolecids are known from the Lower Cambrian to the lower Ludfordian and are mainly found as disarticulated sclerites, but are also preserved in many Cambrian lagerstätten.",
+    "sent_ids": [
+     "ec4b5fb8bd48"
+    ]
+   }
+  ]
+ },
+ "silu-056": {
+  "add": [
+   {
+    "text": "Ascomycetes produce microscopic spores inside special elongated cells or sacs called asci, which give the group its name.",
+    "sent_ids": [
+     "25cd9c3e8cdc"
+    ]
+   },
+   {
+    "text": "Ascomycota is the largest phylum of fungi, with over 64,000 species.",
+    "sent_ids": [
+     "cd8c7c8cc285"
+    ]
+   }
+  ]
+ },
+ "silu-059": {
+  "add": [
+   {
+    "text": "By the late Famennian, oxygen levels were high enough for wildfires to occur with regularity and on large scales, which had not been possible before because of the paucity of atmospheric oxygen.",
+    "sent_ids": [
+     "80bde2ccaf94"
+    ]
+   }
+  ]
+ },
+ "silu-066": {
+  "add": [
+   {
+    "text": "Ascocerida is an order of comparatively small nautiloids in the subclass Orthoceratoidea, known from Ordovician and Silurian sediments in Europe and North America.",
+    "sent_ids": [
+     "7ae300bc407e"
+    ]
+   },
+   {
+    "text": "A mature ascocerid, lacking its deciduous conch, would have been an effective swimmer.",
+    "sent_ids": [
+     "4559a6126232"
+    ]
+   }
+  ]
+ },
+ "tria-005": {
+  "add": [
+   {
+    "text": "Today the only living non-tetrapod sarcopterygians are two species of coelacanths and six species of lungfishes.",
+    "sent_ids": [
+     "03568f368e22"
+    ]
+   },
+   {
+    "text": "Coelacanths of the genus Latimeria still live in the open oceans and retain many primordial features of ancient sarcopterygians, earning them a reputation as living fossils.",
+    "sent_ids": [
+     "b135f1669000"
+    ]
+   }
+  ]
+ },
+ "tria-048": {
+  "add": [
+   {
+    "text": "Strata of 247 to 242 Ma, in the early middle Triassic, show the recovery after the mass extinction.",
+    "sent_ids": [
+     "f13a9871f816"
+    ]
+   }
+  ]
+ },
+ "tria-042": {
+  "add": [
+   {
+    "text": "Some dinoflagellates produce resting stages called cysts, which occurs in a little more than 10% of the known marine species.",
+    "sent_ids": [
+     "c7288b98e3f0"
+    ]
+   },
+   {
+    "text": "Recognition that dinoflagellates can encyst dates back to the early 20th century, in biostratigraphic studies of fossil dinoflagellate cysts.",
+    "sent_ids": [
+     "a3079ac0f0cc"
+    ]
+   }
+  ]
+ },
+ "tria-062": {
+  "add": [
+   {
+    "text": "The Carnian pluvial episode introduced markedly more humid conditions across the globe, interrupting the otherwise arid climate of the Late Triassic.",
+    "sent_ids": [
+     "966ce64974c6"
+    ]
+   },
+   {
+    "text": "By cutting rhynchosaurs off from more generalized niches, the Carnian pluvial episode would have reduced their versatility and increased their long-term vulnerability to extinction.",
+    "sent_ids": [
+     "508cdd0493ec"
+    ]
+   }
+  ]
+ },
+ "tria-081": {
+  "add": [
+   {
+    "text": "Rhynchocephalians reached their highest morphological diversity in the Jurassic, occupying a wide range of lifestyles, including the aquatic pleurosaurs with long snake-like bodies and reduced limbs and the specialized herbivorous eilenodontines.",
+    "sent_ids": [
+     "f5c19aa02f98"
+    ]
+   },
+   {
+    "text": "Rhynchocephalians disappeared from Asia after the Early Jurassic.",
+    "sent_ids": [
+     "5014a2bb8cb3"
+    ]
+   }
+  ]
+ },
+ "tria-108": {
+  "add": [
+   {
+    "text": "Anomodontia includes the dicynodonts, a clade of tusked, beaked herbivores, and the most diverse and long-lived clade of non-cynodont therapsids.",
+    "sent_ids": [
+     "15c64ec927c7"
+    ]
+   },
+   {
+    "text": "A tightly coiled embryo of the dicynodont Lystrosaurus from the Early Triassic of South Africa indicates that dicynodonts likely laid eggs.",
+    "sent_ids": [
+     "6f8d22d85019"
+    ]
+   }
+  ]
+ }
+}

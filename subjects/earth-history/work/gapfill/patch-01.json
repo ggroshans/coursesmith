@@ -1,0 +1,90 @@
+{
+"arch-002":{"add":[
+{"text":"Plate tectonics keeps rearranging the continents, which moves carbon dioxide to and from large continental carbonate stores.","sent_ids":["943b0414e2fd"]},
+{"text":"In the carbon cycle, carbon is stored for very long periods as limestone or fossil fuels.","sent_ids":["ccd063069a98"]}]},
+"arch-004":{"add":[
+{"text":"Metamorphism most commonly happens deep in the crust, where buried rocks undergo intense changes in temperature and pressure during mountain building.","sent_ids":["583bddf627a3"]}]},
+"arch-066":{"add":[
+{"text":"Microbial sulfur oxidation is a process in which microorganisms oxidize reduced sulfur compounds to get energy, often supporting carbon fixation by autotrophs.","sent_ids":["6f042eacf4fe"]},
+{"text":"Only bacteria and archaea oxidize reduced sulfur compounds.","sent_ids":["81452f3cb4c8"]}]},
+"camb-007":{"add":[
+{"text":"Orthids are the oldest members of the articulate brachiopods (Rhynchonelliformea) and the order from which all other brachiopods of this group stem.","sent_ids":["30b74becc67d"]},
+{"text":"Orthids were sessile filter feeders, often anchoring themselves onto firm substrates.","sent_ids":["1ca2e4620d36"]}]},
+"camb-020":{"add":[
+{"text":"Cambrian Stage 2 is the unnamed upper stage of the Terreneuvian Series, lying above the Fortunian and below Stage 3.","sent_ids":["471baf8e1ec1","d02d096c3f0b"]},
+{"text":"The proposed upper boundary of Stage 2 might be the first appearance of trilobites around 521 million years ago.","sent_ids":["4ef0bd2591a1"]}]},
+"camb-022":{"add":[
+{"text":"Sediments eroded from the Timanide Orogen are found in the East European Platform, including the Cambrian Sablino Formation near Lake Ladoga.","sent_ids":["77384c41279f"]},
+{"text":"Some researchers dissent from the collision view and suggest there was never such a collision.","sent_ids":["370b5eaec076"]}]},
+"camb-021":{"add":[
+{"text":"In 1972 A. R. Crawford proposed an impact origin after finding shatter coned colluvium in the middle of the crater.","sent_ids":["49728908a84f"]},
+{"text":"A 2020 study gave stronger evidence for an impact origin, and the Earth Impact Database then classified the structure as a confirmed hypervelocity impact crater.","sent_ids":["4aa04a3d5f7a","f65182a7e9a1"]},
+{"text":"The impact may have happened in a shallow-water environment, as soft-sediment deformation near the apparent rim and an overlying diamictite layer suggest.","sent_ids":["2cf00ad79e87"]}]},
+"camb-030":{"add":[
+{"text":"The structure was first noticed as a suspected impact crater in 2000 by geologist Fridtjof Riis.","sent_ids":["23bba83e9d29"]},
+{"text":"In 2008 microscopic evidence was announced: shocked quartz particles, which form only under the very high pressures of 5-10 GPa in a meteorite impact.","sent_ids":["9b6f1798a561","6fdbe898a8b4"]}]},
+"camb-031":{"add":[
+{"text":"The Ross orogeny was one of the most extensive orogenic events in Antarctica, causing widespread plutonism and metamorphism.","sent_ids":["358b09fb7d33"]},
+{"text":"Bimodal magmatism and extension marked the start of the orogeny; later, sedimentary rocks at the continental margin were deformed, metamorphosed and intruded with granite batholiths.","sent_ids":["7cb0769c25ad"]}]},
+"camb-042":{"add":[
+{"text":"A 2023 study suggested the Emu Bay Shale is about 512 million years old, based on a correlation to a radiometric date of 511.87 ± 0.14 Ma in the contemporaneous Billy Creek Formation.","sent_ids":["3e116ba009d8"]},
+{"text":"In 2011, paired compound eyes 2-3 centimetres long from the Emu Bay Shale were described and assigned to Anomalocaris.","sent_ids":["44ba5a4dd770"]}]},
+"camb-041":{"add":[
+{"text":"The event is called the Delamerian Orogeny after Delamere, a small town on the Fleurieu Peninsula where evidence for it was found.","sent_ids":["8a27ba21f4df"]},
+{"text":"Most rocks of the Kanmantoo Province were highly deformed and underwent moderate to high grade metamorphism during the Delamerian Orogeny.","sent_ids":["f80d6b0ef8b9"]}]},
+"camb-053":{"add":[
+{"text":"The discovery of shatter cones and microscopic shock effects is reliable evidence for an impact origin.","sent_ids":["b5f7c8f91406"]},
+{"text":"A ring-shaped aeromagnetic anomaly at the site was probably caused by the impact disrupting a horizontal sill of magnetic igneous rock.","sent_ids":["e4561c486844"]}]},
+"camb-058":{"add":[
+{"text":"Conodonts are known mainly from hard, mineralised tooth-like structures called conodont elements, which in life sat in the oral cavity and were used to process food.","sent_ids":["6b303096f5fb"]},
+{"text":"It has been proposed that conodonts may be stem-cyclostomes, more closely related to hagfish and lampreys than to jawed vertebrates.","sent_ids":["1066546f3ccf"]},
+{"text":"Conodonts diversified extensively in the early Ordovician, reached their peak diversity in the middle of that period, and declined sharply in the late Ordovician and Silurian.","sent_ids":["69fb17623e3f"]}]},
+"camb-060":{"add":[
+{"text":"Paleo-Tethys was a precursor to the Tethys Ocean (Neo-Tethys), which lay between Gondwana and the Hunic terranes, continental fragments that broke off Gondwana and moved north.","sent_ids":["b3bd65408401"]},
+{"text":"A last remnant of the Paleo-Tethys might be oceanic crust under the Black Sea.","sent_ids":["38c6af98ade7"]},
+{"text":"The role of the Paleo-Tethys in the supercontinent cycle, especially the break-up of Pangaea, is unresolved.","sent_ids":["36b3439cb8b6"]}]},
+"camb-061":{"add":[
+{"text":"One record-breaking specimen of Paradoxides davidis, described by John William Salter in 1863, is 37 cm long.","sent_ids":["d2473a8c955d"]},
+{"text":"Like many early trilobites, Paradoxides had nonfulcrate thorax segments that allowed the animal to roll up.","sent_ids":["e7206e65043a"]}]},
+"camb-070":{"add":[
+{"text":"The site was first believed to be a volcanic crater, but in 1990 geologists Johan Naterstad and Johannes A. Dons confirmed it was formed by meteorite impact.","sent_ids":["16d12154941b"]},
+{"text":"The impact fractured the bedrock and forced a powder of crushed rock into all the fractures, forming an impact breccia.","sent_ids":["6fe6718670b4"]}]},
+"camb-071":{"add":[
+{"text":"The Mizarai crater is the second largest in Lithuania; it is not exposed at the surface, and the village of Mizarai now stands on the site.","sent_ids":["d45d83d6006b"]},
+{"text":"Gediminas Motuza discovered the crater during the international Eurobridge seismic survey, which reached depths of 90-100 km.","sent_ids":["4e222703477f"]}]},
+"camb-073":{"add":[
+{"text":"The Orsten fauna are fossilized organisms preserved in Cambrian rocks (Late Miaolingian to Furongian), notably at Kinnekulle and on the island of Oland in Sweden.","sent_ids":["c767c2cdacc4"]},
+{"text":"Konservat-Lagerstatten are deposits known for exceptional preservation of fossilized organisms or traces.","sent_ids":["91985e4bc47a"]}]},
+"camb-087":{"add":[
+{"text":"The Furongian is divided into the Paibian, the Jiangshanian and the unnamed 10th stage of the Cambrian.","sent_ids":["43c134490acf"]},
+{"text":"The base of the Jiangshanian is marked by the first appearance of Agnostotes orientalis.","sent_ids":["94d718926c63"]}]},
+"camb-092":{"add":[
+{"text":"The Ophiuroidea contain two large clades, Ophiurida (brittle stars) and Euryalida (basket stars).","sent_ids":["66e61c4426e2"]},
+{"text":"Over 2,100 species of brittle stars in 256 recognized genera live today, making Ophiuroidea the most diverse and abundant echinoderm class.","sent_ids":["174d4aee85b7"]}]},
+"carb-007":{"add":[
+{"text":"Lobe-finned fish have muscular limb buds (lobes) within their fins, supported by appendicular skeletons.","sent_ids":["82baaeda9c88"]},
+{"text":"The lobe-finned fish clade declined significantly after the Permian-Triassic extinction event known as the Great Dying.","sent_ids":["f840e5b63028"]}]},
+"carb-008":{"add":[
+{"text":"Fossils preserving soft tissues of conodont animals are known from only a few deposits in the world, although conodont elements are abundant.","sent_ids":["1f19e9f5e809"]},
+{"text":"Conodont elements are distinctive to particular species and are widely used in biostratigraphy to mark particular periods of geological time.","sent_ids":["ded35b5cffb9"]}]},
+"carb-010":{"add":[
+{"text":"Early Carboniferous land plants were very similar to those of the Late Devonian, but new groups also appeared.","sent_ids":["1a55c81907cf"]}]},
+"carb-015":{"add":[
+{"text":"From the Early Mississippian, oxygen isotope (delta-18-O) values rose over the long term as the climate cooled.","sent_ids":["d06de4535e51"]}]},
+"carb-018":{"add":[
+{"text":"The aragonite seas of the Carboniferous favoured organisms that secreted aragonite, and the dominant reef builders were aragonitic sponges and corals.","sent_ids":["7a59f6ee6fb5"]},
+{"text":"The magnesium-to-calcium ratio of seawater affects the ability of organisms to biomineralize.","sent_ids":["35ab18a66991"]}]},
+"carb-022":{"add":[
+{"text":"From the late Visean, a cooling climate restricted carbonate production to depths under about 10 m, forming flat-topped carbonate shelves with steep sides.","sent_ids":["e6e8f3f3bbc1"]}]},
+"carb-031":{"add":[
+{"text":"The orogeny was caused by a series of continental collisions between Laurussia, Gondwana and the Armorican terrane assemblage.","sent_ids":["38cb8da5a503"]},
+{"text":"The Central Pangean Mountains formed during the Variscan-Alleghanian-Ouachita orogeny.","sent_ids":["03819d06dc6b"]}]},
+"carb-034":{"add":[
+{"text":"One theory has Patagonia as an allochthonous landmass from Gondwana during the Paleozoic; the other holds that only southern Patagonia is allochthonous and Northern Patagonia is autochthonous.","sent_ids":["5e1d17aa4e31"]},
+{"text":"The collision of Patagonia was followed by rifting and eventual breakup of Gondwana in the early Mesozoic, which involved large-scale rotation of the Patagonian landmass.","sent_ids":["5527774ed2da"]}]},
+"carb-040":{"add":[
+{"text":"Arrow Canyon lay in a shallow, tropical seaway that stretched from Southern California to Alaska.","sent_ids":["135a4b4227ab"]},
+{"text":"The Mississippian is the lower, carbonate-rich sequence, and the Pennsylvanian the upper sequence rich in siliciclastics and coal.","sent_ids":["6a4021072180"]}]},
+"carb-038":{"add":[
+{"text":"As plants and animals grew in size and abundance, land fungi diversified further.","sent_ids":["2c1c2f210364"]}]}
+}

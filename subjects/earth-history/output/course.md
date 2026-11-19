@@ -249,7 +249,7 @@ The Eoarchean opens with Earth's oldest known felsic crust, the Acasta Gneiss, a
 
 - **The carbon cycle takes its basic form** — c. 4 billion years ago (4,000 Ma)
 
-  Carbon was moving around Earth in familiar ways four billion years ago. Early carbon isotope ratios closely match today's, suggesting the carbon cycle's fundamental features were established as early as about 4 billion years ago. Much of the carbon dioxide in the young atmosphere dissolved in water. There it reacted with calcium and magnesium from weathered rock, locking the carbon away in carbonate sediments, limy deposits on the seafloor.
+  Early carbon isotope ratios look much like today's. That suggests the carbon cycle's basic features were in place as early as about 4 Ga. Much of the young atmosphere's carbon dioxide dissolved in water and reacted with calcium and magnesium from weathered rock, building carbonate sediments. In the cycle, carbon is stored for very long periods as limestone or fossil fuels. Plate tectonics keeps rearranging the continents, which moves carbon dioxide to and from the large continental carbonate stores.
 
   <!-- arch-002 -->
 
@@ -261,7 +261,7 @@ The Eoarchean opens with Earth's oldest known felsic crust, the Acasta Gneiss, a
 
 - **The Napier mountains rise in Antarctica** — c. 4 billion years ago (4,000 ± 200 Ma)
 
-  Some of Earth's first metamorphic rocks may come from Antarctica. Mountain building raised the Napier range of East Antarctica, dated to 4000 ± 200 million years ago. Its faulting and folding may have produced some of the planet's first metamorphic rocks, rocks remade by heat and pressure without melting. The range is one of the earliest orogenies, or mountain-building episodes, on record.
+  Some of Earth's first metamorphic rocks may have formed in East Antarctica. Mountain building raised the Napier range there, dated to 4000 ± 200 Ma, and its faulting and folding may have produced them. Metamorphism most commonly happens deep in the crust, where buried rocks undergo intense changes in temperature and pressure during mountain building. One source places the start of the orogeny at the beginning of the Archean.
 
   <!-- arch-004 -->
 
@@ -685,7 +685,7 @@ The Neoarchean is the age of supervolcanoes and stitched-together continents. In
 
 - **Microbes begin to burn sulfur** — c. 2.52 billion years ago (2,520 Ma)
 
-  Some microbes learned to live by oxidizing sulfur, and they did it early. The earliest evidence, about 2.52 billion years old, comes from South Africa's Gamohaan Formation. It shows that sulfur-oxidizing bacteria evolved before the Great Oxygenation Event, while oxygen in the air was still scarce, drawing energy from sulfur compounds in their surroundings.
+  Some microbes make a living from sulfur. Microbial sulfur oxidation is a process in which microorganisms oxidize reduced sulfur compounds to get energy, often supporting carbon fixation by autotrophs. The earliest evidence, about 2.52 Ga, comes from South Africa's Gamohaan Formation. It shows sulfur-oxidizing bacteria evolved before the Great Oxidation Event. Only bacteria and archaea oxidize reduced sulfur compounds.
 
   <!-- arch-066 -->
 
@@ -775,13 +775,13 @@ The Siderian takes its name from the Greek word for iron, and iron is its signat
 
 - **The Dhala impact in India** — c. 2.44–2.24 billion years ago (2,440–2,240 Ma)
 
-  India's largest impact scar is a puzzle in both size and age. An impact struck the Bundelkhand craton and left the largest impact structure in the country. Its diameter is estimated at 3 km by some sources and 11 km by others. Its age is poorly constrained, somewhere between about 2.44 and 2.24 billion years ago, so how it fits into Earth's story remains uncertain.
+  An impact struck the Bundelkhand craton and left the largest impact structure in India. Its size is uncertain: some sources estimate a diameter of 3 km, others 11 km. Its age is also poorly constrained. The Dhala impact is estimated to have occurred between 2.44 and 2.24 Ga.
 
   <!-- prot-009 -->
 
 - **Dike swarms cut Scotland and Australia** — c. 2.42–2.38 billion years ago (2,418–2,375 Ma)
 
-  Scotland and Western Australia share a moment of cracking. The Scourie dike swarm, a set of magma-filled cracks, cut Scotland's Lewisian gneisses, overlapping a phase of crustal deformation called the Inverian at the start of the Proterozoic. Around 2410 million years ago, the Widgiemooltha swarm intruded the Yilgarn Craton, close in time to the Sebanga Poort dike in Zimbabwe.
+  Rifting left its marks as swarms of dikes, sheets of rock that cut across older crust. The Scourie dike swarm cut Scotland's Lewisian gneisses, overlapping the Inverian deformation at the start of the Proterozoic. Around 2410 Ma the Widgiemooltha swarm intruded the Yilgarn Craton, close in time to the Sebanga Poort dike in Zimbabwe. These intrusions in Northwestern Europe, South Africa and Australia are tied to the rifting of Kenorland. Yet Kenorland moved little, and there are no signs an ocean developed.
 
   <!-- prot-011 -->
 
@@ -894,7 +894,7 @@ The Orosirian is a period of giant blows and great collisions. An asteroid perha
 
 - **The Glenburgh orogeny joins Pilbara and Yilgarn** — c. 2.00–1.92 billion years ago (2,005–1,920 Ma)
 
-  Western Australia's two great cratons were joined in a single collision. The Pilbara Craton and the Glenburgh Terrane, a block of crust with its own history, collided with the Yilgarn craton in the Glenburgh orogeny. The crash brought substantial granite magmatism to the Glenburgh Terrane. It also brought intense deformation and metamorphism, the remaking of rock by heat and pressure. Two cratons that had evolved apart now formed one block.
+  Western Australia was stitched together in a collision. The Pilbara Craton and the Glenburgh Terrane collided with the Yilgarn craton, bringing substantial granite magmatism and intense deformation and metamorphism to the Glenburgh Terrane. That collision created the Errabiddy Shear Zone. Between 1990 and 2004 some geologists proposed instead that the orogeny came from the Yilgarn and Pilbara cratons colliding.
 
   <!-- prot-028 -->
 
@@ -934,7 +934,7 @@ The Orosirian is a period of giant blows and great collisions. An asteroid perha
 
 - **The early Ruker orogeny shapes Antarctica** — c. 2.0–1.7 billion years ago (2,000–1,700 Ma)
 
-  Part of Antarctica was once joined to a continent no one has identified. The early Ruker orogeny was mountain building that marked a key event in Antarctica's assembly. It joined East Antarctica to an unknown continental block as Columbia formed, between about 2.0 and 1.7 billion years ago. The other block is still unidentified, but the collision left its mark on the rocks beneath the ice.
+  Much of Antarctica was assembled in one mountain-building event. The early Ruker orogeny was a key step in the continent's assembly, adding much of central Antarctica to the nucleus in East Antarctica. It also joined East Antarctica to an unknown continental block as Columbia formed. Many of the rocks were deformed and metamorphosed close to the end of the orogeny, around 1.7 billion years ago.
 
   <!-- prot-031 -->
 
@@ -1044,7 +1044,7 @@ The Statherian marks the start of a long, quiet stretch sometimes called Earth's
 
 - **The Oklo natural nuclear reactors** — c. 1.7 billion years ago (1,700 Ma)
 
-  Nuclear fission ran in Africa long before anyone built a reactor. About 1.7 billion years ago, natural nuclear fission reactors were generating power in what is now Oklo, Gabon. Concentrated uranium deposits started reacting after groundwater flooded them, since water slows neutrons enough to keep a chain reaction going. The reactions ran on and off, probably never above 100 kilowatts.
+  In what is now Oklo, Gabon, nature ran nuclear reactors. Concentrated uranium deposits started reacting after groundwater flooded them. The reactions ran on and off, probably never above 100 kilowatts. Analysis of isotope ratios of uranium, of the fission products and of their stable daughter nuclides confirmed it. Groundwater-moderated natural reactors are not thought to have been possible before the early photosynthesizers began producing oxygen on a planetary scale.
 
   <!-- prot-052 -->
 
@@ -1062,7 +1062,7 @@ The Statherian marks the start of a long, quiet stretch sometimes called Earth's
 
 - **The Shoemaker impact structure** — c. 1.63 billion years ago (1,630 ± 5 Ma)
 
-  Shatter cones and shocked quartz are the calling cards of an impact. Both turn up in Western Australia's Mid West, where a structure at least 30 km across marks an ancient strike. Its most cited age, about 1,630 million years, records a reheating of the granite. That reheating may date the impact, or only a regional tectonic event, so the impact's true age is uncertain.
+  In the Mid West of Western Australia an impact left shatter cones and shocked quartz across a structure at least 30 km wide. Its age is uncertain, and researchers disagree. The most cited age, about 1,630 Ma, records a reheating of the granite that may be the impact or only a regional tectonic event. K-Ar dating gives ages as young as 568 ± 20 Ma, which could also date the impact or tectonic activity. The idea of an impact was first published in 1974.
 
   <!-- prot-056 -->
 
@@ -1076,7 +1076,7 @@ The Calymmian is a period of new life and a fraying supercontinent. Eukaryotes t
 
 - **The earliest red algae** — c. 1.6 billion years ago (1,600 Ma)
 
-  Red seaweed has a family tree reaching back 1.6 billion years. India's Chitrakoot Formation, in the Vindhya Range, preserves the earliest known red algae, Rafatazmia and Ramathallus. Algae are eukaryotes that make their own food by photosynthesis. The oldest known red algal mats date to about 1.6 billion years ago. They show that complex, sun-powered eukaryotes were already part of The Boring Billion.
+  India's Vindhya Range holds the oldest known red algae. The Chitrakoot Formation preserves Rafatazmia and Ramathallus, and the oldest known red algal mats date to about 1.6 Ga. Rafatazmia chitrakootensis is a filamentous alga described from dolomite in central India. Its cells have been said to resemble oscillatoriacean cyanobacteria and probably multicellular red algae. The find pushes the age of the oldest red alga back by about 400 million years, to about 1,650 ± 89 (2σ) million years ago.
 
   <!-- prot-057 -->
 
@@ -1111,7 +1111,7 @@ The Calymmian is a period of new life and a fraying supercontinent. Eukaryotes t
 
 - **The Volyn biota of Ukraine** — c. 1.5 billion years ago (1,500 Ma)
 
-  Life may have lived inside solid rock 1.5 billion years ago. In what is now Zhytomyr Oblast, Ukraine, exceptionally preserved microfossils formed in cavities of igneous rocks. They include filaments of varied shapes and fungus-like organisms. They may be among the first fossils of the deep biosphere, the life that dwells within rock and sediment far below the surface.
+  Tiny fossils survived in rock cavities. About 1.5 Ga, exceptionally preserved microfossils formed in cavities of igneous rocks in what is now Zhytomyr Oblast, Ukraine. Precambrian fossils are usually poorly preserved, but these cavities held silicon tetrafluoride-rich fluids that favored fossilization. The Volyn samples came from miarolitic pegmatites of the Korosten Pluton in the Ukrainian Shield. They include filaments of varied shapes and fungus-like organisms, possibly among the first fossils of the deep biosphere.
 
   <!-- prot-064 -->
 
@@ -1187,7 +1187,7 @@ In the Ectasian, one supercontinent finished falling apart and the next began to
 
 - **The Musgrave orogeny in central Australia** — c. 1.22–1.12 billion years ago (1,220–1,120 Ma)
 
-  In the red center of Australia, a magma plume built a region of 220,000 km². This Musgrave Province was shaped by three orogenic events between 1.22 and 1.12 billion years ago. The Musgravian orogeny, about 1,200 million years ago, melted the lower crust and generated the voluminous Kulgera granites. The province is one of the many belts of crust formed or reworked as Rodinia came together.
+  Heat from deep in the mantle reshaped central Australia. Between 1.22 and 1.12 Ga three orogenic events shaped the Musgrave Province, a 220,000 km² region formed via a magma plume. The Musgravian orogeny about 1,200 Ma melted the lower crust and produced the voluminous Kulgera granites. It is read as an intracontinental orogeny caused by significant upwelling of heat and material from the mantle. The Musgrave Block is mainly exposed through the Petermann Orogeny at about 535-550 Ma, which exhumed the belt along the Woodroffe Thrust.
 
   <!-- prot-074 -->
 
@@ -1197,7 +1197,7 @@ The Stenian is the period of sex, failed rifts and growing supercontinents. Bang
 
 - **The Stac Fada impact and its missing crater** — c. 1.2 billion years ago (1,200 Ma)
 
-  An asteroid left its debris behind but hid its crater. The Stac Fada Member, a layer of rock, records an impact about 1.2 billion years ago. From that layer, geologists infer a crater about 40 km wide. Yet the crater itself has never been found, so the impact is known only from the debris it scattered.
+  The crater is missing, but the debris is not. The Stac Fada Member records an impact about 1.2 Ga, and its inferred crater, about 40 km wide, has not been found. The member is an impactite, a mixture of suevite and clast-poor impact melt rocks. It is exposed along about 50 km of the Wester Ross coast, from Loch Ewe in the south to the Stoer peninsula in the north. The impact was in the near vicinity, likely in the Minch or near Lairg.
 
   <!-- prot-077 -->
 
@@ -1223,13 +1223,13 @@ The Stenian is the period of sex, failed rifts and growing supercontinents. Bang
 
 - **The Nonesuch lake fossils** — c. 1.08–1.07 billion years ago (1,083–1,070 Ma)
 
-  A billion-year-old lake in Michigan held enough oxygen to keep its microbes in fine detail. The lake lay in the Midcontinent Rift, and its exceptionally preserved freshwater microbes make it a Lagerstätte, a site of unusually good fossils. Its shale, siltstone and sandstone, 150–210 m thick, extend from Michigan and Wisconsin to Iowa. It offers a rare look at life in fresh water, far from the sea.
+  An oxygenated lake in the Midcontinent Rift preserved freshwater microbes exceptionally well in what is now Michigan. Its shale, siltstone and sandstone are 150–210 m thick and extend from Michigan and Wisconsin to Iowa. The Nonesuch beds contain common organic carbon and pyrite. The shale has enough organic carbon (greater than 0.5%) to be a potential petroleum source bed, but exploration wells in all three states found no commercial petroleum.
 
   <!-- prot-082 -->
 
 - **The Warakurna large igneous province** — 1.08 billion years ago (1,076 ± 6 Ma)
 
-  Central Australia was flooded with magma about 1.08 billion years ago. The Warakurna large igneous province intruded the Giles Complex and Winburn granites and erupted the volcanic rocks of the Bentley Supergroup. Some have looked for a link to a 1110-million-year-old event in Africa, India and Amazonia. A link is possible but unlikely, so Warakurna appears to stand as its own event.
+  Central Australia was flooded with magma. The Warakurna large igneous province intruded the Giles Complex and Winburn granites and erupted the Bentley Supergroup volcanics. Those are bimodal volcanic rocks, widely considered comagmatic with the Giles Complex intrusions. The Palgrave Volcanic Association is a large volcanic and granite caldera edifice of about 1500 square kilometres. A link to the 1110 Ma African-Indian-Amazonian event is possible but unlikely.
 
   <!-- prot-083 -->
 
@@ -1283,7 +1283,7 @@ The Tonian is when eukaryotes finally stepped forward. They diversified rapidly 
 
 - **Proterocladus, the first multicellular green alga** — c. 1 billion years ago (1,000 Ma)
 
-  Every land plant descends from green algae, and the oldest many-celled one is about 1 billion years old. Proterocladus antiquus is the first known preserved case of multicellularity in green algae. Around this time, the first multicellular plants emerged, probably green algae. Where a colony of cells ends and a true multicellular organism begins is blurred. Still, Proterocladus shows green algae building bodies of many cells. They joined the red algae of Bangiomorpha, the first known sexual organism among the first seaweeds.
+  Proterocladus antiquus, about 1 billion years old, is the first known preserved case of multicellularity in green algae. Around 1 Ga the first multicellular plants emerged, probably green algae, though the line between a colony and a multicellular organism is blurred. Proterocladus is known from the Nanfen and Diaoyutai Formations in China and the Svanbergfjellet Formation in Norway. Cell size and septa constrictions vary in P. antiquus, which casts doubt on every other Proterocladus species from Svanbergfjellet. Why would going multicellular pay off? In lab studies of unicellular green algae, populations that grew into multicellular structures survived predation better.
 
   <!-- prot-089 -->
 
@@ -1327,7 +1327,7 @@ The Tonian is when eukaryotes finally stepped forward. They diversified rapidly 
 
 - **The Huainan worms** — c. 840–740 million years ago (840–740 Ma)
 
-  Some of the first creatures you could see without a microscope lived in what is now China. Near Huainan City, in Anhui, small worm-shaped organisms large enough to see with the naked eye record a transitional stage in evolution, 840–740 million years ago. A similar biota, about 1 billion years old, was found on Russia's Timan Ridge. Both hint that life was moving from microbes toward larger, more complex forms.
+  Small worm-shaped organisms, visible to the eye, lived 840–740 Ma near Huainan City, Anhui, China. They record a transitional stage in evolution. Wang Guixiang and Sun Weiguo discovered them in the 1980s in Precambrian rock formations there. A similar biota about 1 billion years old was found on Russia's Timan Ridge. The Huainan biota has no jellyfish-like discs, as seen in the Ediacaran biota, and no forms close to sponges.
 
   <!-- prot-099 -->
 
@@ -1351,7 +1351,7 @@ The Tonian is when eukaryotes finally stepped forward. They diversified rapidly 
 
 - **The Pharusian Ocean opens and closes** — c. 800 million years ago (800 Ma)
 
-  As Rodinia tore apart, a new ocean opened along the edge of West Africa. Rifting along the eastern margin of the West African craton opened the Pharusian Ocean about 800 million years ago. It did not last. It began to close about 730 million years ago, as the Tilemsi arc, a chain of volcanoes, was subducted eastward against the Hoggar region.
+  Rifting along the eastern margin of the West African craton during Rodinia's breakup opened the Pharusian Ocean about 800 Ma. It began to close about 730 Ma as the Tilemsi arc was subducted eastward against the Hoggar region. The western Hoggar massif is made of material from this ocean, including oceanic basalts, arc volcanic and sedimentary rocks. The Trans-Saharan Belt, running from Algeria to Benin, marks the suture zone of the closure.
 
   <!-- prot-105 -->
 
@@ -1435,7 +1435,7 @@ The Cryogenian is the age when the planet nearly froze solid. It opened with mag
 
 - **Shelled amoebae appear in the ice age** — c. 700 million years ago (700 Ma)
 
-  Single cells began building houses around 700 Ma. Fossils of testate amoebae, or Arcellinida, single-celled organisms with shells, first appear then, in the middle of the Cryogenian. They were not alone. Porter (2000) suggests red and green algae, stramenopiles, ciliates and dinoflagellates also evolved during this period, so the ice age was a time of new microbial branches.
+  Single-celled organisms with shells, testate amoebae (Arcellinida), first appear as fossils around 700 Ma in the Cryogenian. Arcellinid fossils date back even to the Tonian, around 789-759 million years ago. Porter (2000) suggests red and green algae, stramenopiles, ciliates and dinoflagellates also evolved in this period. Arcellinid testate amoebae are commonly found in soils, leaf litter, peat bogs and in or near fresh water.
 
   <!-- prot-113 -->
 
@@ -1474,7 +1474,7 @@ The Cryogenian is the age when the planet nearly froze solid. It opened with mag
 
 - **Songluo seaweeds in a break from the ice** — c. 650 million years ago (650 Ma)
 
-  In a short break in the Marinoan glaciation, around 650 Ma, large seaweeds grew in what is now South China. These macroalgae fossils form the Songluo Biota. It is the only known macrofossil biota from the Cryogenian, the first large carbonaceous fossils found in rocks of that age.
+  Seaweed grew during a pause in the ice age. Large macroalgae fossils of the Songluo Biota lived in South China around 650 Ma, during a short break in the Marinoan glaciation. It is the only known macrofossil biota from the Cryogenian, and the first large carbonaceous fossils in rocks of that age. Its shales and siltstones show no signs of glacial activity, and it was laid down on a distal shelf likely away from the margins of the large ice sheets. Macro-algae likely suffered a substantial extinction worldwide in the major glacial periods but persisted at less diverse numbers.
 
   <!-- prot-118 -->
 
@@ -1512,7 +1512,7 @@ The Ediacaran begins at a layer of limestone laid directly on top of the last gr
 
 - **Beardmore mountains rise in Antarctica** — c. 633–620 million years ago (633–620 Ma)
 
-  A supercontinent's pieces began drifting home. From about 633 to 620 Ma, the Beardmore orogeny, a mountain-building episode, raised ranges in Antarctica. It reflects the final breakup of Rodinia. As that supercontinent came apart, its fragments started moving back together, toward a new assembly called Pannotia.
+  The Beardmore orogeny built mountains in Antarctica from about 633 to 620 Ma. It reflects Rodinia's final breakup, as its fragments began moving together again toward Pannotia. Today it shows as an unconformity in the Transantarctic Mountains, between folded Late Proterozoic strata and overlying Early or Middle Cambrian sediments.
 
   <!-- prot-122 -->
 
@@ -1530,7 +1530,7 @@ The Ediacaran begins at a layer of limestone laid directly on top of the last gr
 
 - **The Timanide orogeny, Precambrian's last mountain belt** — c. 620–550 million years ago (620–550 Ma)
 
-  From about 620 to 550 Ma, the Timanide orogeny reshaped the northern Baltic Shield. It is called the last major orogenic event of the Precambrian. Around 555 Ma, Baltica's northern margin turned active and gathered in new crust: the Timan-Pechora Basin, the northern Urals and Novaya Zemlya.
+  The Timanide orogeny affected the northern Baltic Shield from about 620 to 550 Ma and is called the last major orogenic event of the Precambrian. Around 555 Ma Baltica's northern margin turned active, accreting the Timan-Pechora Basin, the northern Urals and Novaya Zemlya. Franz Josef Land and Kvitøya most likely joined Baltica in the same orogeny. The basement of Baltica's eastern margin is an Archaean craton and metamorphosed rocks at least 1.6 Ga old, ringed by the Timanide fold belt and overlain by Mesoproterozoic sediments.
 
   <!-- prot-125 -->
 
@@ -1714,7 +1714,7 @@ The Ediacaran begins at a layer of limestone laid directly on top of the last gr
 
 - **The Malagasy orogeny: India joins Africa** — c. 550–515 million years ago (550–515 Ma)
 
-  India rammed into Africa in the Malagasy orogeny, a collision that ran from the Ediacaran into the Cambrian. It struck a block already joined from Azania and the Congo–Tanzania–Bangweulu Block. The collision deformed Madagascar, eastern East Africa and southern India about 550–515 Ma, adding another seam to assembling Gondwana.
+  India collided with Africa. In the Malagasy orogeny, from the Ediacaran into the Cambrian, India met an already joined Azania and Congo–Tanzania–Bangweulu Block. It affected Madagascar, eastern East Africa and southern India about 550–515 Ma. Before that, the Mozambique Ocean had separated the Congo-Tanzania-Bangweulu Block of central Africa from Neoproterozoic India. The Betsimisaraka suture in eastern Madagascar has been identified as the boundary between the African and India terranes.
 
   <!-- prot-148 -->
 
@@ -1790,7 +1790,7 @@ The Terreneuvian is the Cambrian's first epoch, named for Newfoundland, where Fo
 
 - **Orthid brachiopods open their shells** — during the Early Cambrian, 539–506 million years ago (538.8–506.5 Ma)
 
-  Orthida, an order of brachiopods, shelled animals that look like clams but are not, appeared in the Early Cambrian, in the Botomian. They began to differentiate late in the Early Cambrian. By the late Cambrian they had diversified into many forms, 2–5 cm wide. In the shelf seas of the Ordovician they became very diverse.
+  Orthida, an order of brachiopods, appeared in the Early Cambrian (Botomian) and became very diverse in Ordovician shelf seas. They began to differentiate in the late Early Cambrian and by the late Cambrian had diversified into many forms, 2–5 cm wide. Orthids are the oldest articulate brachiopods (Rhynchonelliformea), the order from which all other brachiopods of this group stem. They were sessile filter feeders, often anchoring themselves onto firm substrates.
 
   <!-- camb-007 -->
 
@@ -1838,7 +1838,7 @@ The Terreneuvian is the Cambrian's first epoch, named for Newfoundland, where Fo
 
 - **A carbon spike and two molluscs mark Stage 2** — c. 529 million years ago (529 Ma)
 
-  Geologists need markers they can find anywhere. Around 529 Ma, a positive carbon isotope excursion called the ZHUCE coincides with the first appearances of two molluscs, Watsonella crosbyi and Aldanella attleborensis. Together these markers reliably indicate the boundary between the Fortunian and Cambrian Stage 2.
+  A spike in carbon isotopes marks a boundary. The positive excursion, the ZHUCE, coincides with the first appearances of the molluscs Watsonella crosbyi and Aldanella attleborensis around 529 Ma. Together these markers reliably indicate the boundary between the Fortunian and Cambrian Stage 2. Stage 2 is the unnamed upper stage of the Terreneuvian Series, lying above the Fortunian and below Stage 3.
 
   <!-- camb-020 -->
 
@@ -1852,13 +1852,13 @@ The Terreneuvian is the Cambrian's first epoch, named for Newfoundland, where Fo
 
 - **Baltica collides with Arctida** — c. 528–510 million years ago (528–510 Ma)
 
-  Between 528 and 510 Ma, Baltica and Arctida collided, and the Timanide Orogen rose where they met. The mountains did not last. Erosion of the belt began in the Cambrian and grew stronger in the Ordovician, shedding sediment as the range wore down.
+  The Timanide Orogen formed as Baltica and Arctida collided between 528 and 510 Ma. Erosion of the mountain belt began in the Cambrian and grew stronger in the Ordovician. Sediments from it are found in the East European Platform, including the Cambrian Sablino Formation near Lake Ladoga. Not everyone accepts the collision: some researchers suggest there never was one.
 
   <!-- camb-022 -->
 
 - **Ramgarh, an impact crater of uncertain age** — c. 528–395 million years ago (528–395 Ma)
 
-  Somewhere between 528 and 395 Ma, an impact struck what is now Ramgarh in India. Uranium–lead dating gives that wide window. Other studies propose a younger age still. The crater is a reminder that not every event can be pinned to a date, and that some impacts of this era remain loosely placed in time.
+  In 1972 A. R. Crawford proposed an impact origin for India's Ramgarh structure after finding shatter coned colluvium in the middle of the crater. A 2020 study gave stronger evidence, and the Earth Impact Database then classified it as a confirmed hypervelocity impact crater. Its age is less settled. Uranium–lead dating places the impact between 528 and 395 Ma, while other studies propose a younger age. Soft-sediment deformation near the apparent rim and an overlying diamictite layer suggest it struck a shallow-water environment.
 
   <!-- camb-021 -->
 
@@ -1902,13 +1902,13 @@ Trilobites define this epoch: their body fossils first appear around 521 Ma, wit
 
 - **The Ritland crater, Norway** — c. 520 million years ago (520 ± 20 Ma)
 
-  About 520 ± 20 Ma, an impact blasted a crater about 2 km across at Ritland, in Norway. It is a confirmed impact crater, one of several from the Cambrian. Its small size points to a modest impactor, but the age carries a wide margin of uncertainty, as many ancient impact dates do.
+  A confirmed impact crater about 2 km across lies at Ritland, Norway, and formed about 520 ± 20 Ma. Geologist Fridtjof Riis first noticed it as a suspected crater in 2000. In 2008 came microscopic proof: shocked quartz particles, which form only under the very high pressures of 5-10 GPa in a meteorite impact.
 
   <!-- camb-030 -->
 
 - **The Ross orogeny lifts the Transantarctic Mountains** — c. 520–450 million years ago (520–450 Ma)
 
-  Antarctica's great mountain spine began in the Cambrian. After rifting early in the period, Antarctica deformed, and the Transantarctic Mountains rose in the mid-Cambrian. From about 520 to 450 Ma, Cambrian sediments there were uplifted, folded and metamorphosed, changed by heat and pressure. Huge bodies of granite, called batholiths, intruded them.
+  One of the most extensive mountain-building events in Antarctica, the Ross orogeny caused widespread plutonism and metamorphism. After early Cambrian rifting, Antarctica deformed and the Transantarctic Mountains rose in the mid-Cambrian. Bimodal magmatism and extension marked the start. Later, sedimentary rocks at the continental margin were deformed, metamorphosed and intruded with granite batholiths. From about 520 to 450 Ma, Cambrian sediments in the range were uplifted, folded, metamorphosed and intruded.
 
   <!-- camb-031 -->
 
@@ -1940,13 +1940,13 @@ Trilobites define this epoch: their body fossils first appear around 521 Ma, wit
 
 - **Emu Bay Shale: muscle turned to mineral** — c. 514–512 million years ago (514–512 Ma)
 
-  The oldest phosphatized muscle tissue comes from South Australia's Emu Bay Shale. Dated to Stage 4, about 514–512 Ma, it preserves soft tissue mineralized as apatite, a calcium phosphate, or as calcium carbonate. It is younger than the Chengjiang and Sirius Passet sites, adding a later snapshot of the Cambrian explosion.
+  South Australia's Emu Bay Shale preserves soft tissue mineralized as apatite or calcium carbonate. It holds the oldest phosphatized muscle tissue and is younger than the Chengjiang and Sirius Passet Lagerstätten. It is dated to Stage 4, about 514–512 Ma. A 2023 study suggested about 512 million years, based on a correlation to a radiometric date of 511.87 ± 0.14 Ma in the contemporaneous Billy Creek Formation. In 2011, paired compound eyes 2-3 centimetres long from the shale were described and assigned to Anomalocaris.
 
   <!-- camb-042 -->
 
 - **The Delamerian orogeny folds South Australia** — c. 514–490 million years ago (514–490 Ma)
 
-  From about 514 to 490 Ma, the Delamerian orogeny ended deposition in the Adelaide Superbasin and folded and deformed its rocks. Australia's eastern margin was turned inside out. It became a subduction zone, where the ocean floor of the Palaeo-Pacific sank beneath the continent.
+  The Delamerian orogeny, about 514 to 490 Ma, ended deposition in the Adelaide Superbasin and folded and deformed its rocks. Australia's eastern margin was inverted and became a subduction zone of the Palaeo-Pacific. Most rocks of the Kanmantoo Province were highly deformed and underwent moderate to high grade metamorphism. The event is named after Delamere, a small town on the Fleurieu Peninsula where evidence for it was found. One list of orogenies gives a shorter span.
 
   <!-- camb-041 -->
 
@@ -1991,7 +1991,7 @@ Trilobites define this epoch: their body fossils first appear around 521 Ma, wit
 
 - **The Glikson crater, Western Australia** — c. 508 million years ago (508 ± 5 Ma)
 
-  The Glikson crater in Western Australia is about 19 km across. Its age is hard to fix. Nearby dolerite, a dark volcanic rock, is dated 508 ± 5 Ma, and that suggests the impact is younger, probably Paleozoic. Like other old craters, it is better known for its size than for its timing.
+  The Glikson crater in Western Australia is about 19 km across. Shatter cones and microscopic shock effects are reliable evidence of an impact. Nearby dolerite dated 508 ± 5 Ma suggests the impact is younger, probably Paleozoic. A ring-shaped aeromagnetic anomaly at the site was probably caused by the impact disrupting a horizontal sill of magnetic igneous rock.
 
   <!-- camb-053 -->
 
@@ -2013,19 +2013,19 @@ The Miaolingian opens with a die-off: the first major trilobite extinction remov
 
 - **Conodonts: teeth that lasted 300 million years** — during the Middle Cambrian, 506–497 million years ago (506.5–497 Ma)
 
-  For more than 300 million years, from the Cambrian to the start of the Jurassic, the seas held conodonts. These eel-like jawless animals are known mostly from their tooth elements, which survive where their soft bodies do not. They first appear in the Middle Cambrian. Their teeth are so durable and so widespread that they turn up across a vast stretch of the fossil record.
+  Conodonts, eel-like jawless animals, are known mostly from their teeth. They first appear in the Middle Cambrian and lasted more than 300 million years, from the Cambrian to the start of the Jurassic. The hard, mineralised tooth-like structures called conodont elements sat in the oral cavity in life and were used to process food. It has been proposed that conodonts may be stem-cyclostomes, more closely related to hagfish and lampreys than to jawed vertebrates. They diversified extensively in the early Ordovician, peaked in the middle of that period, and declined sharply in the late Ordovician and Silurian. Sources differ on when they began: some say about 520 Ma, others the late Cambrian.
 
   <!-- camb-058 -->
 
 - **The Paleo-Tethys Ocean begins to open** — during the Middle Cambrian, 506–497 million years ago (506.5–497 Ma)
 
-  An ocean that would last about 400 million years began as a crack along Gondwana's northern margin in the Middle Cambrian. The Paleo-Tethys Ocean grew through the Paleozoic as land split away from the supercontinent. It finally closed in the Late Triassic. Its long life spans most of the story of the Paleozoic seas told in the coming chapters.
+  The Paleo-Tethys Ocean began to open along Gondwana's northern margin in the Middle Cambrian. It grew through the Paleozoic and closed in the Late Triassic, lasting about 400 million years. It was a precursor to the Tethys Ocean (Neo-Tethys), which lay between Gondwana and the Hunic terranes, continental fragments that broke off Gondwana and moved north. A last remnant of the Paleo-Tethys might be oceanic crust under the Black Sea. Its role in the supercontinent cycle, especially the break-up of Pangaea, is unresolved.
 
   <!-- camb-060 -->
 
 - **Paradoxides, the giant trilobites** — during the Miaolingian, 506–497 million years ago (506.5–497 Ma)
 
-  Paradoxides was a genus of large to very large trilobites, the biggest of the Cambrian. In the Middle Cambrian, the Miaolingian, they lived throughout the world. They spread after Trilobites suffer their first great extinction had cleared away older trilobite groups, and their wide range makes them familiar fossils of the epoch.
+  Paradoxides, a genus of large to very large trilobites, lived throughout the world in the Middle Cambrian (Miaolingian). They were the largest Cambrian trilobites. One record-breaking specimen of Paradoxides davidis, described by John William Salter in 1863, is 37 cm long. Like many early trilobites, Paradoxides had nonfulcrate thorax segments that allowed the animal to roll up.
 
   <!-- camb-061 -->
 
@@ -2043,13 +2043,13 @@ The Miaolingian opens with a die-off: the first major trilobite extinction remov
 
 - **The Gardnos impact hits a shallow sea** — c. 500 million years ago (500 ± 10 Ma)
 
-  A meteorite 200–300 m across struck Buskerud, Norway, about 500 ± 10 Ma, leaving the 5 km Gardnos crater. The sediments laid down afterward show it hit a shallow sea. When the crater rim was breached, rock avalanches and debris flows poured in.
+  A meteorite 200–300 m across struck Buskerud, Norway, about 500 ± 10 Ma and left the 5 km Gardnos crater. Post-impact sediments show it hit a shallow sea, and rock avalanches and debris flows followed when the crater rim was breached. The impact fractured the bedrock and forced a powder of crushed rock into all the fractures, forming an impact breccia. The site was first believed to be a volcanic crater, but in 1990 geologists Johan Naterstad and Johannes A. Dons confirmed a meteorite impact.
 
   <!-- camb-070 -->
 
 - **The Mizarai crater, Lithuania** — c. 500 million years ago (500 ± 20 Ma)
 
-  In Lithuania lies the Mizarai crater, 5 km across, formed by an impact about 500 Ma. It is one of a cluster of craters dated to around the end of the Cambrian, from Norway to North America. Like many old impact sites, it is known mainly from its size and approximate age.
+  The 5 km Mizarai crater in Lithuania formed about 500 Ma, though sources give the uncertainty as ±10 or ±20 Ma. It is the second largest in the country and is not exposed at the surface; the village of Mizarai now stands on the site. Gediminas Motuza discovered it during the international Eurobridge seismic survey, which reached depths of 90-100 km.
 
   <!-- camb-071 -->
 
@@ -2061,7 +2061,7 @@ The Miaolingian opens with a die-off: the first major trilobite extinction remov
 
 - **Orsten: microscopic animals of the seafloor** — c. 500 million years ago (500 Ma)
 
-  Some of the most revealing Cambrian fossils are too small to see without a microscope. Sweden's Kinnekulle Orsten and Alum Shale reveal the oldest well-documented meiofauna, the tiny animals that live among seafloor grains. Among them are microscopic arthropods such as free-living pentastomids. These sites show that the Cambrian sea floor teemed with life at a scale larger fossils miss.
+  Sweden's Kinnekulle Orsten and Alum Shale reveal the oldest well-documented seafloor meiofauna, including microscopic arthropods such as free-living pentastomids. The Orsten fauna are fossilized organisms preserved in Cambrian rocks (Late Miaolingian to Furongian), notably at Kinnekulle and on the island of Oland. Such deposits belong to the Konservat-Lagerstatten, known for exceptional preservation of fossilized organisms or traces. This one dates to about 500 Ma.
 
   <!-- camb-073 -->
 
@@ -2119,7 +2119,7 @@ The Furongian is the Cambrian's last epoch, and it was a hard one. One extinctio
 
 - **The Jiangshanian extinction** — during the Jiangshanian, 494–491 million years ago (494.2–491 Ma)
 
-  Recovery did not last. After diversity rebounded at the start of the Jiangshanian, a new extinction cut species diversity by 55.2%, a deeper cut than the end-Marjuman crisis that came just before. Small fluctuations in species richness followed and lasted until shortly after the Ordovician began. The late Cambrian thus ended with repeated blows rather than a single clean break.
+  Diversity had just recovered when it fell again. After the recovery at the start of the Jiangshanian, a new extinction cut species diversity by 55.2%. Small fluctuations in species richness followed and lasted until shortly after the Ordovician began. The Furongian is divided into the Paibian, the Jiangshanian and the unnamed 10th stage of the Cambrian. The base of the Jiangshanian is marked by the first appearance of Agnostotes orientalis.
 
   <!-- camb-087 -->
 
@@ -2137,7 +2137,7 @@ The Furongian is the Cambrian's last epoch, and it was a hard one. One extinctio
 
 - **The earliest brittle stars** — c. 488 million years ago (488 Ma)
 
-  The earliest brittle stars, or ophiuroids, appear about 488 Ma. These echinoderms, with slender arms around a small central disc, arrived at the very end of the Cambrian. They are a small sign of the new kinds of animals that would fill the Ordovician seas.
+  The earliest brittle stars (ophiuroids) appear about 488 Ma. The group contains two large clades, Ophiurida (brittle stars) and Euryalida (basket stars). Over 2,100 species in 256 recognized genera live today, which makes Ophiuroidea the most diverse and abundant echinoderm class.
 
   <!-- camb-092 -->
 
@@ -2215,7 +2215,7 @@ The Early Ordovician was a time of rising water and new arrivals. Sea level clim
 
 - **The seas turn to calcite** — during the Early Ordovician, 487–471 million years ago (486.9–471.3 Ma)
 
-  The chemistry of seawater decides which minerals shells and cements form from. In the Cambrian, seas were mixed, precipitating both aragonite and calcite, two forms of calcium carbonate. By the early Ordovician they had given way to fully calcite seas, where calcite was the mineral that formed.
+  The chemistry of seawater shifted. Mixed aragonite–calcite seas of the Cambrian gave way to fully calcite seas by the early Ordovician, though the change was not simple but protracted and variable through the Cambrian. Calcite seas coincided with times of rapid seafloor spreading and global greenhouse climate. Hardgrounds were very common in calcite seas such as those of the Ordovician and Jurassic, but virtually absent from the aragonite seas of the Permian.
 
   <!-- ordo-007 -->
 
@@ -2233,7 +2233,7 @@ The Early Ordovician was a time of rising water and new arrivals. Sea level clim
 
 - **The Sauk Sea retreats from North America** — during the Early Ordovician, 487–471 million years ago (486.9–471.3 Ma)
 
-  At its peak, the shallow Sauk Sea had covered most of North America. Early in the Ordovician, a marine regression, a retreat of the sea, ended the Sauk sequence of rocks it had laid down. The Tippecanoe sequence followed later in the period, when the sea returned.
+  At its peak the shallow Sauk Sea had covered most of North America. With each sea-level rise, a shallow tropical ocean spread over most of the continent. Then a marine regression ended the Sauk sequence early in the Ordovician. The Tippecanoe sequence followed later in the period.
 
   <!-- ordo-017 -->
 
@@ -2397,7 +2397,7 @@ The Late Ordovician begins with continents on the move and ends in catastrophe. 
 
 - **The Hunic terranes split from Gondwana** — during the Late Ordovician, 458–443 million years ago (458.2–443.1 Ma)
 
-  Behind a line of volcanoes, the crust stretched and tore. This back-arc spreading split the Hunic terranes, a group of crustal blocks, away from Gondwana in the late Ordovician. The split opened the Paleo-Tethys Ocean behind them. The terranes then began moving north toward Euramerica, a journey that would carry them to the future Europe.
+  A strip of continent tore away from Gondwana. Back-arc spreading split the Hunic terranes from it in the late Ordovician, opening the Paleo-Tethys Ocean, and the terranes began moving north toward Euramerica. Paleo-Tethys lay between Gondwana and the Hunic terranes, continental fragments that broke off and moved north. The Hunic terranes are divided into the European Hunic (crust under parts of Europe, called Armorica, and Iberia) and the Asiatic Hunic (crust of parts of southern Asia). In the Early Carboniferous a subduction zone developed south of the European Hunic terranes, consuming Paleo-Tethys oceanic crust.
 
   <!-- ordo-043 -->
 
@@ -2409,7 +2409,7 @@ The Late Ordovician begins with continents on the move and ends in catastrophe. 
 
 - **The last agnostid trilobites** — during the Late Ordovician, 458–443 million years ago (458.2–443.1 Ma)
 
-  Agnostids, a group of small trilobites, had already declined sharply across the Cambrian–Ordovician transition. The last of them died out in the Late Ordovician. The Ordovician mass extinction ended them, along with the once-successful Telephinidae, closing two long-lived trilobite lineages.
+  Agnostids declined sharply across the Cambrian–Ordovician transition, and the last died out in the Late Ordovician. The Ordovician mass extinction ended them and the once-successful Telephinidae. It hit trilobites as a whole hard. They survived it, but went extinct in the end-Permian mass extinction.
 
   <!-- ordo-045 -->
 
@@ -2518,7 +2518,7 @@ The Late Ordovician begins with continents on the move and ends in catastrophe. 
 
 - **Beecher's Trilobite Bed: soft parts in gold** — c. 445 million years ago (445 Ma)
 
-  The soft parts of trilobites rarely survive, but in a thin shale bed in Oneida County, New York, they do. Trilobites such as Triarthrus eatoni have their soft tissues replaced by pyrite, fool's gold. The bed ranks among the world's best examples of near-perfect fossil preservation.
+  A thin shale bed in Oneida County, New York, preserves trilobites such as Triarthrus eatoni with their soft tissues intact. It ranks among the world's best examples of near-perfect fossil preservation. The detail comes from pyritization, in which soft tissues are replaced with pyrite. In these trilobites the mineral pyrite, FeS2, has replaced the hard parts that made up the animal.
 
   <!-- ordo-062 -->
 
@@ -2564,7 +2564,7 @@ The Silurian is the period of fish and the first green coasts. Jawed fish divers
 
 - **The asaphid trilobites die out** — during the Silurian, 443–420 million years ago (443.1–419.6 Ma)
 
-  Asaphida, a large and varied trilobite order known since the Middle Cambrian, died out during the Silurian. Its last members, the Trinucleioidea, disappeared before the end of the period. Their loss closed a lineage that had lasted through the whole of the Ordovician and its great extinction.
+  Asaphida, a large and varied trilobite order known since the Middle Cambrian, died out during the Silurian. The end-Ordovician extinction had reduced the diversity of all trilobite orders, with most asaphid families disappearing. Its last members, the Trinucleioidea, vanished before the end of the period. In 2020 the superfamily Trinucleioidea was proposed to be raised to an order, Trinucleida, and removed from Asaphida.
 
   <!-- silu-003 -->
 
@@ -2584,31 +2584,31 @@ The Silurian is the period of fish and the first green coasts. Jawed fish divers
 
 - **The last dissidocerid cephalopods** — during the Silurian, 443–420 million years ago (443.1–419.6 Ma)
 
-  Dissidocerida, an order of cephalopods with straight shells, had lived since the Early Ordovician. Its last appearance is in the Early Silurian. The order was one of several that arose in the Ordovician heyday of the nautiloids and faded after the period's great extinction.
+  Dissidocerida, an order of orthocone cephalopods known since the Early Ordovician, last appears in the Early Silurian. Zhuravleva (1994) proposed the order for Dissidoceras undosum, a Silurian orthoconic genus with a wide, nearly central, tubular siphuncle, suborthochoanitic septal necks and an endosiphuncular rod.
 
   <!-- silu-011 -->
 
 - **The last eocrinoids** — during the Silurian, 443–420 million years ago (443.1–419.6 Ma)
 
-  Eocrinoids, the early stalked echinoderms, had been around since Cambrian Stage 3. They make their last appearance in the Silurian. Once the most common echinoderms of the Cambrian, they outlasted the end-Ordovician extinction before finally disappearing.
+  Eocrinoids, early stalked echinoderms known since Cambrian Stage 3, last appear in the Silurian. Cladograms show aspects of eocrinoid paraphyly or polyphyly, so the group's family tree is not a tidy single branch.
 
   <!-- silu-012 -->
 
 - **The last nektaspid arthropods** — during the Silurian, 443–420 million years ago (443.1–419.6 Ma)
 
-  Nektaspida, trilobite-like arthropods without mineral shells, had lived since the early Cambrian. They last appear in the upper Silurian. Because their bodies were not mineralized, they are known only from sites of exceptional preservation, which makes their long survival easy to overlook.
+  Nektaspida, unmineralised trilobite-like arthropods known since the early Cambrian, last appear in the upper Silurian. The youngest known nektaspid is the Laurentian naraoiid Naraoia bertensis from the Bertie Formation in Ontario, Canada, dating to the Upper Silurian.
 
   <!-- silu-013 -->
 
 - **The last paracrinoids** — during the Silurian, 443–420 million years ago (443.1–419.6 Ma)
 
-  Paracrinoids, echinoderms of shallow seas, lived from the Early Ordovician to the Early Silurian. They were among the new classes of the Ordovician echinoderm radiation, and among the first of those classes to vanish. Their span covers barely more than one period.
+  Paracrinoids lived in shallow seas from the Early Ordovician to the Early Silurian. Paracrinoidea is an extinct class of blastozoan echinoderms, and the Silurian marks its last appearance.
 
   <!-- silu-014 -->
 
 - **Stromatoporoid sponges branch out** — during the Silurian, 443–420 million years ago (443.1–419.6 Ma)
 
-  Most stromatoporoid sponge orders, including Amphiporida and Stromatoporida, originated in the Silurian. Clathrodictyids and actinostromatids diversified strongly while the older labechiids declined. Amphiporida is first recorded in the Ludlow. These sponges helped build the expanding reefs of the period.
+  Most stromatoporoid sponge orders, including Amphiporida and Stromatoporida, originated in the Silurian. Clathrodictyids and actinostromatids diversified strongly while labechiids declined. Amphiporida is first recorded in the Ludlow and lived from the mid-late Silurian (Wenlock or Ludlow) to the Late Devonian (Famennian). The order Actinostromatida may have originated earlier, in the Late Ordovician or the Llandovery Epoch of the early Silurian.
 
   <!-- silu-016 -->
 
@@ -2620,7 +2620,7 @@ The Silurian is the period of fish and the first green coasts. Jawed fish divers
 
 - **The Rheic Ocean at its widest** — during the Silurian, 443–420 million years ago (443.1–419.6 Ma)
 
-  As Avalonia and Carolina drifted north from Gondwana, the ocean behind them kept widening. In the Silurian, the Rheic Ocean reached its greatest width, about 4,000 km. It separated Laurussia to the north from Gondwana to the south. From then on it could only narrow.
+  As Avalonia–Carolina drifted north from Gondwana, the Rheic Ocean reached its greatest width, about 4,000 km, in the Silurian. It separated Laurussia to the north from Gondwana to the south. The ocean existed from the Early Ordovician to the Early Carboniferous and was named after Rhea, sister of Iapetus. The Iapetus Ocean closed as Avalonia-Carolina collided with Laurentia and the Appalachian orogeny formed.
 
   <!-- silu-019 -->
 
@@ -2722,7 +2722,7 @@ The Wenlock is short and turbulent. It opens with the Ireviken event, the first 
 
 - **The last bisonocerid nautiloids** — during the Wenlock, 433–427 million years ago (432.9–426.7 Ma)
 
-  Bisonocerida, a nautiloid order dating from the Tremadocian, last appears in the Wenlock. It had arisen in the Early Ordovician, when nautiloids were at their height, and lasted through the end-Ordovician extinction before disappearing. Its end is one more sign of the slow fading of the old Ordovician nautiloid groups.
+  Bisonocerida, a nautiloid order dating from the Tremadocian, last appears in the Wenlock. When first defined as a new order, it was suggested to be an independent descendant of Ellesmerocerida. Bisonocerida was differentiated from Endocerida in 2012 to resolve this issue.
 
   <!-- silu-033 -->
 
@@ -2746,7 +2746,7 @@ The Wenlock is short and turbulent. It opens with the Ireviken event, the first 
 
 - **The Great Glen Fault cuts across Scotland** — c. 430–390 million years ago (430–390 Ma)
 
-  The Scottish Highlands take their shape from a fault. The Great Glen Fault formed late in the Caledonian orogeny, as Laurentia and Baltica collided, probably between 430 and 390 Ma. It is a product of the same collision that raised mountains from Norway to New York.
+  The Great Glen Fault formed late in the Caledonian orogeny, as Laurentia and Baltica collided, probably between 430 and 390 Ma. One source dates its start to c. 433 Ma. It shaped the Scottish Highlands. The fault had its final phase of movement during the Late Cretaceous to Early Tertiary. Much later, erosion along the fault zone during Quaternary glaciation formed Loch Ness.
 
   <!-- silu-039 -->
 
@@ -2808,7 +2808,7 @@ In the Ludlow, the land was still nearly empty, but the first settlers had arriv
 
 - **Palaeoscolecid worms make their final appearance** — during the Ludfordian, 425–423 million years ago (425–422.7 Ma)
 
-  A lineage of worms that had crawled through the seafloor since the late Early Cambrian vanished in the Ludfordian. These were the palaeoscolecids, armored with tiny plates along their bodies. Their last fossils appear in this age, and The Lau event, the Silurian's last extinction may have been what finished them off.
+  Palaeoscolecids are extinct ecdysozoan worms resembling armoured priapulids. Known since the late Early Cambrian, they last appear in the Ludfordian, and the Lau event may have finished them off. They are mainly found as disarticulated sclerites, but are also preserved in many Cambrian lagerstätten. Their record runs from the Lower Cambrian to the lower Ludfordian.
 
   <!-- silu-049 -->
 
@@ -2842,7 +2842,7 @@ In the Ludlow, the land was still nearly empty, but the first settlers had arriv
 
 - **The oldest sac fungi** — c. 423–419 million years ago (423–419 Ma)
 
-  Most familiar molds and yeasts belong to the ascomycetes, or sac fungi. The earliest known members date from 423 to 419 million years ago, in the Silurian. They belong to a larger group, the dikaryan fungi, which began expanding and diversifying during this period.
+  The earliest known ascomycete fungi date from 423 to 419 Ma, in the Silurian. Dikaryan fungi, the group including ascomycetes, began expanding and diversifying then. Ascomycetes produce microscopic spores inside special elongated cells or sacs called asci, which give the group its name. Ascomycota is today the largest phylum of fungi, with over 64,000 species.
 
   <!-- silu-056 -->
 
@@ -2852,7 +2852,7 @@ The Pridoli, the last and shortest epoch of the Silurian, saw the land come aliv
 
 - **Charcoal marks the first wildfires** — during the Pridoli, 423–420 million years ago (422.7–419.6 Ma)
 
-  Fire needs fuel and it needs oxygen. By the Pridoli, both were finally present. The first charcoal in the fossil record appears in this epoch, showing that atmospheric oxygen had risen high enough to sustain wildfires. Silurian charcoal suggests oxygen had crossed about 15% of the air, the threshold for burning. From here on, fire becomes a recurring force in the history of land plants.
+  Fire needs air with enough oxygen. In the Pridoli the first charcoal appears in the fossil record, so oxygen had first risen high enough for wildfires. Silurian charcoal shows oxygen had crossed about 15%, enough to sustain fire for the first time. Fires were not yet routine. By the late Famennian, oxygen levels were high enough for wildfires to occur with regularity and on large scales, which had not been possible before because of the paucity of atmospheric oxygen.
 
   <!-- silu-059 -->
 
@@ -2900,7 +2900,7 @@ The Pridoli, the last and shortest epoch of the Silurian, saw the land come aliv
 
 - **Ascocerid nautiloids vanish** — c. 420 million years ago (419.6 Ma)
 
-  The ascocerids, an odd group of shelled cephalopods, came back from near-ruin once. Cut back by the end-Ordovician extinction, they recovered in the Silurian. Then, at the end of the Silurian, they died out abruptly.
+  Ascocerida is an order of comparatively small nautiloids in the subclass Orthoceratoidea, known from Ordovician and Silurian sediments in Europe and North America. The end-Ordovician extinction cut them back, but they recovered in the Silurian. Then they died out abruptly at the end of the Silurian. A mature ascocerid, lacking its deciduous conch, would have been an effective swimmer.
 
   <!-- silu-066 -->
 
@@ -2931,7 +2931,7 @@ The Devonian is popularly called the Age of Fishes, and with reason: jawed verte
 
 - **The Chaitenia arc docks with Patagonia** — during the Devonian, 420–359 million years ago (419.6–358.9 Ma)
 
-  A chain of volcanic islands called Chaitenia crashed into Patagonia during the Devonian. Its remains sit in what is now south-central Chile. The event was part of a larger change: Patagonia's margin turned convergent, with crust moving together, which led to a collision that began in the mid-Carboniferous.
+  An island arc named Chaitenia accreted to Patagonia, in what is now south-central Chile. Patagonia's margin turned convergent in the Devonian, leading to a collision that began in the mid-Carboniferous. The accretion is placed in the Devonian (c. 400–360 million years ago), inferred from an event of pressure, deformation and heating dated to that period. After Chaitenia merged, accretionary complexes developed to its west, so it acted as a backstop.
 
   <!-- devo-003 -->
 
@@ -2995,7 +2995,7 @@ The Early Devonian rearranged both the map and the tree of life. The Caledonian 
 
 - **The last of the radiodonts** — during the Early Devonian, 420–393 million years ago (419.6–393.5 Ma)
 
-  The radiodonts, the group of Cambrian predators that includes Anomalocaris, outlasted the Cambrian by a very long way. Their last appearance comes in the Early Devonian. One late survivor was Schinderhannes bartelsi, from Germany.
+  Radiodonts, the Cambrian predators that include Anomalocaris, make their last appearance in the Early Devonian. A late survivor was Schinderhannes bartelsi from Germany. They were among the earliest large predators, but also included sediment sifters and filter feeders. Until the 2010s they were considered uniformly large apex predators; new species discovered that decade greatly widened their known diversity.
 
   <!-- devo-008 -->
 
@@ -3103,7 +3103,7 @@ The Early Devonian rearranged both the map and the tree of life. The Caledonian 
 
 - **Lungfish and the dipnoan renaissance** — c. 400 million years ago (400 Ma)
 
-  Lungfish appeared about 400 million years ago and evolved so quickly that the burst is called the dipnoan renaissance. By the Middle Devonian, 397–385 million years ago, they had evolved proto-lungs and proto-limbs. These let them spend spells outside the water.
+  Lungfish appeared about 400 Ma and evolved rapidly through the Devonian, the 'dipnoan renaissance'. By the Middle Devonian (397-385 Ma) they had evolved proto-lungs and proto-limbs for spells outside water. Through convergent evolution, they also evolved internal nostrils similar to the tetrapods' choana. The first tetrapodomorphs, their closest kin, had the same general anatomy but appear not to have left the water until the Late Devonian.
 
   <!-- devo-032 -->
 
@@ -3131,13 +3131,13 @@ In the Middle Devonian, Earth grew its first forests. Cladoxylopsid trees stood 
 
 - **Forests cool the Middle Devonian** — during the Middle Devonian, 393–382 million years ago (393.5–382.3 Ma)
 
-  The new forests did more than shade the ground. They drew carbon out of the air and buried it in sediments, where it could no longer trap heat. That drawdown may be reflected in a Middle Devonian cooling of around 5 °C.
+  Forests may have cooled the planet. Newly evolved forests drew carbon from the air and buried it in sediments, which may be reflected in a Middle Devonian cooling of around 5 °C. By the middle of the Devonian, several groups of vascular plants had evolved leaves and true roots. During the period free-sporing land plants spread across dry land, forming extensive coal forests that covered the continents.
 
   <!-- devo-038 -->
 
 - **The progymnosperms appear** — during the Middle Devonian, 393–382 million years ago (393.5–382.3 Ma)
 
-  Progymnosperms, plants that came before the seed plants, first appear in the Middle Devonian. The group lasted a long time, into the Lopingian of the late Permian. Their best-known order, the Archaeopteridales, spans the Middle and Late Devonian.
+  Progymnosperms first appear in the Middle Devonian, and the group lasts into the Lopingian (late Permian). The oldest known belong to the Middle Devonian order Aneurophytales, with forms such as Protopteridium whose vegetative organs were relatively loose clusters of axes. Their order Archaeopteridales spans the Middle and Late Devonian. In the Late Devonian another group of progymnosperms gave rise to Archaeopteris, the first really large trees known.
 
   <!-- devo-039 -->
 
@@ -3183,7 +3183,7 @@ The Late Devonian was a time of giants, impacts and loss. In Western Australia, 
 
 - **The Chilenia terrane docks** — during the Late Devonian, 382–359 million years ago (382.3–358.9 Ma)
 
-  Subduction off western South America kept dragging crust toward the continent. In the Late Devonian it brought a block called the Chilenia terrane into collision with the western border of the Precordillera, where it accreted, welded on for good.
+  Continued subduction led the Chilenia terrane to collide with and accrete to the western border of the Precordillera. Chilenia was an ancient microcontinent, or terrane, that affected many of the older rocks of central Chile and western Argentina. Another source dates its accretion to Cuyania, from which oceanic crust had separated it, to about 420–390 million years ago, when Cuyania was already joined to Gondwana.
 
   <!-- devo-048 -->
 
@@ -3195,7 +3195,7 @@ The Late Devonian was a time of giants, impacts and loss. In Western Australia, 
 
 - **The Late Devonian warms again** — during the Late Devonian, 382–359 million years ago (382.3–358.9 Ma)
 
-  After a cooler middle, the Late Devonian warmed back to Early Devonian levels. More continental weathering and the spread of plants show it. Oddly, carbon dioxide did not rise to match. Arid climates shrank while temperate climates became more common.
+  The Late Devonian warmed back to Early Devonian levels, shown by more continental weathering and plant distribution, without a matching CO2 rise. Arid climates became less widespread and temperate climates more common. Microbial reefs dominated under the warmer conditions of the early and late Devonian, while coral-stromatoporoid reefs dominated the cooler middle. The Devonian has been wrongly called a greenhouse age because of sampling bias: most early finds came from western Europe and eastern North America, which then straddled the Equator.
 
   <!-- devo-052 -->
 
@@ -3219,7 +3219,7 @@ The Late Devonian was a time of giants, impacts and loss. In Western Australia, 
 
 - **Oxygen settles in the deep sea** — c. 380 million years ago (380 Ma)
 
-  Before about 380 million years ago, oxygen in the deep ocean came and went, sporadic and variable. Only after that date did it stabilize near modern levels.
+  Deep-sea oxygen, sporadic and variable before, stabilized near modern levels only after 380 Ma. As plants took hold on the continental margins, oxygen levels increased and carbon dioxide dropped, although much less dramatically.
 
   <!-- devo-055 -->
 
@@ -3231,13 +3231,13 @@ The Late Devonian was a time of giants, impacts and loss. In Western Australia, 
 
 - **The buried Kaluga crater** — c. 380 million years ago (380 ± 5 Ma)
 
-  Under about 800 m of sediment in Russia's Kaluga Oblast lies a crater 15 km across. An impact made it 380 ± 5 million years ago, in the Late Devonian. It is not exposed at the surface.
+  An impact in what is now Kaluga Oblast, Russia, left a crater 15 km across, dated to 380 ± 5 Ma in the Late Devonian. It now lies buried under about 800 m of sediment and is not exposed at the surface. For eroded or buried craters, the stated diameter usually refers to an estimate of the original rim diameter and may not match present surface features.
 
   <!-- devo-057 -->
 
 - **The Ilyinets crater** — c. 378 million years ago (378 ± 5 Ma)
 
-  Ukraine's Ilyinets crater, 8.5 km across, formed about 378 ± 5 million years ago. It is one of several Late Devonian impact scars found in Europe.
+  The Ilyinets crater, in Vinnytsia Oblast, Ukraine, is 8.5 km across and formed about 378 ± 5 Ma. It lies at the boundary of the Ros–Tikych and Dniester–Bug megastructures of the Ukrainian Shield.
 
   <!-- devo-059 -->
 
@@ -3331,7 +3331,7 @@ The Late Devonian was a time of giants, impacts and loss. In Western Australia, 
 
 - **Cladoselache, an early shark** — c. 370 million years ago (370 Ma)
 
-  Cladoselache appears about 370 million years ago. It was an early shark and the first abundant genus of cartilaginous fish.
+  Cladoselache, an early shark and the first abundant genus of cartilaginous fish, appears about 370 Ma. It lived in the Late Devonian (Famennian) of North America and is one of the best-known early Chondrichthyes. Its cladodont teeth had a large sharp central cusp surrounded by one or two pairs of smaller cusps. It is often called the earliest shark in broad ecological terms, though it is only distantly related to modern sharks.
 
   <!-- devo-070 -->
 
@@ -3349,13 +3349,13 @@ The Late Devonian was a time of giants, impacts and loss. In Western Australia, 
 
 - **Tadpole shrimps, living fossils** — c. 365 million years ago (365 Ma)
 
-  Tadpole shrimps living today, Triops and Lepidurus, look much as their kind has since the end of the Devonian. The oldest known notostracan, Strudops goldenbergi, comes from the Famennian of Belgium, about 365 million years ago.
+  The oldest known notostracan, Strudops goldenbergi, comes from the Famennian of Belgium, about 365 Ma. Notostracans are 2–5 centimetres long, with a broad carapace at the front and a long, slender abdomen. They are omnivores living on the bottom of temporary pools and shallow lakes. Living Triops and Lepidurus are 'living fossils', with similar forms since the end of the Devonian.
 
   <!-- devo-076 -->
 
 - **The Woodleigh impact structure** — c. 364 million years ago (364 ± 8 Ma)
 
-  Western Australia's Woodleigh impact structure measures somewhere from 60 to 160 km across. It is dated to 364 ± 8 million years ago, between the Late Devonian and Early Carboniferous. That age roughly matches the Late Devonian extinction.
+  The Woodleigh impact structure in Western Australia, 60-160 km across, is dated to 364 ± 8 Ma, Late Devonian to Early Carboniferous. Its age roughly matches the Late Devonian extinction. Its central uplift, interpreted as 20 kilometres in diameter, was first intersected by drilling in the late 1970s, but its significance as an impact structure was only realised in 1997. In the early 2000s the event was thought to date between 259 and 201 million years ago.
 
   <!-- devo-077 -->
 
@@ -3379,7 +3379,7 @@ The Late Devonian was a time of giants, impacts and loss. In Western Australia, 
 
 - **The proposed Warburton twin impacts** — c. 360–300 million years ago (360–300 Ma)
 
-  Two asteroids 10 km wide may have struck Australia's West and East Warburton Basins, leaving an impact zone 400 km across. The basins have been linked to the Late Devonian extinction, about 360 million years ago. These craters remain hypothetical, proposed but not confirmed.
+  Two 10-km asteroids may have struck Australia's West and East Warburton Basins, leaving a 400-km impact zone. This is proposed, not confirmed: the craters remain hypothetical. The idea is that an asteroid or comet split into two main pieces and hit the Australian continent, then part of Gondwana. The East Warburton crater is adjacent to the West Warburton crater, which is also around 200 km in diameter. The basins have been linked to the Late Devonian extinction, c. 360 Ma.
 
   <!-- devo-080 -->
 
@@ -3413,7 +3413,7 @@ The Late Devonian was a time of giants, impacts and loss. In Western Australia, 
 
 - **The chitinozoans vanish** — c. 359 million years ago (358.9 Ma)
 
-  Chitinozoans, microfossils of filter-feeding organisms that drifted in open water, appear to have died out at the end of the Devonian. Rare later finds may be older specimens reworked into younger rocks.
+  Chitinozoans are flask-shaped, organic-walled marine microfossils produced by an as yet unknown organism. These pelagic filter-feeders appear to have died out at the end of the Devonian, completely, during the Hangenberg Event; rare later finds may be reworked. Bambach (2006) estimated that 31% of marine genera died out in the last substage of the Famennian.
 
   <!-- devo-087 -->
 
@@ -3429,13 +3429,13 @@ The Carboniferous is the period of coal swamps, and some of its plants, such as 
 
 - **Giant lobe-finned fish rule fresh water** — during the Carboniferous, 359–299 million years ago (358.9–298.9 Ma)
 
-  Rhizodus hibberti, from Great Britain, reached up to 6 m long. It was the largest of the non-tetrapod lobe-finned fish, which were the dominant predators of Carboniferous and Permian fresh waters.
+  Non-tetrapod lobe-finned fish were the dominant predators of Carboniferous and Permian fresh waters. The largest known, Rhizodus hibberti from Great Britain, reached up to 6 m long. Lobe-finned fish have muscular limb buds (lobes) within their fins, supported by appendicular skeletons. The clade declined significantly after the Permian-Triassic extinction event known as the Great Dying.
 
   <!-- carb-007 -->
 
 - **The Granton Shrimp Bed** — during the Carboniferous, 359–299 million years ago (358.9–298.9 Ma)
 
-  Soft bodies rarely fossilize. Scotland's Granton Shrimp Bed preserves Clydagnathus windsorensis, one of only three conodont species known with its trunk.
+  This Scottish bed preserves Clydagnathus windsorensis, one of only three conodont species known with its trunk. Conodont elements are abundant, but fossils preserving the soft tissues of the animals are known from only a few deposits in the world. The elements are distinctive to particular species and are widely used in biostratigraphy to mark particular periods of geological time.
 
   <!-- carb-008 -->
 
@@ -3481,7 +3481,7 @@ The Mississippian opens just after the Hangenberg extinction, with survivors mov
 
 - **The last cladoxylopsid trees** — during the Early Carboniferous, 359–323 million years ago (358.9–323.4 Ma)
 
-  The cladoxylopsids built Earth's first forests in the Devonian. These large trees, ancestors of the ferns, and their order Pseudosporochnales lasted into the Early Carboniferous, and then they were gone.
+  Cladoxylopsids, large fern-ancestor trees, and their order Pseudosporochnales range from the Devonian to the Early Carboniferous. Early Carboniferous land plants were very similar to those of the Late Devonian, but new groups also appeared.
 
   <!-- carb-010 -->
 
@@ -3493,7 +3493,7 @@ The Mississippian opens just after the Hangenberg extinction, with survivors mov
 
 - **The Early Tournaisian Warm Interval** — c. 358–353 million years ago (358–353 Ma)
 
-  A brief glaciation at the Devonian–Carboniferous boundary did not last. The climate warmed again in the Early Tournaisian Warm Interval, 358–353 million years ago. The global average temperature was about 22 °C, with the tropics near 30 °C and the polar regions about 1.5 °C.
+  A brief glaciation at the Devonian–Carboniferous boundary gave way to warmth. In the Early Tournaisian Warm Interval, from 358 to 353 million years ago, global average temperature reached about 22 °C. The tropics sat near 30 °C, while the polar regions were about 1.5 °C. The warmth did not last. From the Early Mississippian, oxygen isotope (delta-18-O) values rose over the long term, a sign that the climate was cooling again.
 
   <!-- carb-015 -->
 
@@ -3519,7 +3519,7 @@ The Mississippian opens just after the Hangenberg extinction, with survivors mov
 
 - **Aragonite seas replace calcite seas** — during the Middle Mississippian, 347–330 million years ago (346.7–330.3 Ma)
 
-  Seawater's chemistry decides what shells can be made of. From the early Carboniferous, the ratio of magnesium to calcium in seawater rose. By the Middle Mississippian, aragonite seas, which favor shells of the mineral aragonite, had replaced calcite seas. Aragonite reef builders, including algae and sponges, followed in the Pennsylvanian.
+  The chemistry of seawater tilted, and reef builders had to follow. From the early Carboniferous, the magnesium-to-calcium ratio of seawater rose. By the Middle Mississippian, aragonite seas had replaced calcite seas. That ratio matters because it affects the ability of organisms to biomineralize, to build hard parts from dissolved minerals. The aragonite seas favoured organisms that secreted aragonite. The dominant reef builders were aragonitic sponges and corals. Aragonite reef builders, including algae and sponges, appeared in the Pennsylvanian.
 
   <!-- carb-018 -->
 
@@ -3531,7 +3531,7 @@ The Mississippian opens just after the Hangenberg extinction, with survivors mov
 
 - **The Visean Warm Interval** — during the Visean, 347–330 million years ago (346.7–330.3 Ma)
 
-  In the Visean Warm Interval, glaciers nearly vanished. They survived only in the proto-Andes of Bolivia and Argentina and in highlands of Brazil and southwest Africa, a pause before the ice returned in force.
+  For a while, the ice almost disappeared. During the Visean Warm Interval, glaciers survived only in the proto-Andes of Bolivia and Argentina and in highlands of Brazil and southwest Africa. Then the climate cooled again. From the late Visean, carbonate production was restricted to depths under about 10 m, which built flat-topped carbonate shelves with steep sides.
 
   <!-- carb-022 -->
 
@@ -3596,7 +3596,7 @@ The Mississippian opens just after the Hangenberg extinction, with survivors mov
 
 - **The Ouachita orogeny** — during the Late Mississippian, 330–323 million years ago (330.3–323.4 Ma)
 
-  South America, then part of Gondwana, struck Laurussia's southern margin at an angle in the Ouachita orogeny. The collision began in the Late Mississippian. The uplifted Ouachita Mountains created foreland basins, low areas in front of the range, such as the Delaware Basin. They fed rivers with sediment through the Pennsylvanian and Permian.
+  A slow, oblique collision raised mountains across what is now the southern United States. In the mid-Carboniferous, the South American part of Gondwana struck Laurussia's southern margin at an angle. This was the Ouachita orogeny, a mountain-building event that began in the Late Mississippian. It was caused by a series of continental collisions between Laurussia, Gondwana and the Armorican terrane assemblage. The uplifted Ouachita Mountains created foreland basins such as the Delaware Basin and fed rivers through the Pennsylvanian and Permian. Together, the Variscan-Alleghanian-Ouachita orogeny formed the Central Pangean Mountains.
 
   <!-- carb-031 -->
 
@@ -3626,7 +3626,7 @@ The Mississippian opens just after the Hangenberg extinction, with survivors mov
 
 - **Patagonia meets Gondwana** — c. 330–320 million years ago (330–320 Ma)
 
-  Igneous rocks 330–320 million years old under the North Patagonian Massif record subduction. It began in the early Carboniferous and lasted about 20 million years. The Patagonian landmass first touched Gondwana in the mid-Carboniferous, and the broader collision came in the early Permian.
+  Patagonia's arrival at Gondwana took tens of millions of years. Subduction-related igneous rocks of 330–320 Ma under the North Patagonian Massif show that subduction began in the early Carboniferous and lasted about 20 million years. The landmass first touched Gondwana in the mid-Carboniferous, with broader collision in the early Permian. Where Patagonia came from is debated. One theory has all of it as an allochthonous landmass, one that arrived from elsewhere, from Gondwana during the Paleozoic. The other holds that only southern Patagonia is allochthonous and Northern Patagonia is autochthonous. Rifting and the breakup of Gondwana in the early Mesozoic later rotated Patagonia on a large scale.
 
   <!-- carb-034 -->
 
@@ -3654,7 +3654,7 @@ The Pennsylvanian was the age of coal. Vast freshwater swamp forests covered muc
 
 - **Arrow Canyon marks the Pennsylvanian** — 323 million years ago (323.4 ± 0.4 Ma)
 
-  In Arrow Canyon, Nevada, a single layer of rock marks the start of the Pennsylvanian and its first stage, the Bashkirian. The boundary is set by the first appearance of a conodont, Declinognathodus noduliferus.
+  A single cliff section in Nevada defines where the Pennsylvanian begins. The base of the Pennsylvanian and its Bashkirian Stage is fixed at Arrow Canyon, marked by the first appearance of the conodont Declinognathodus noduliferus. In those days Arrow Canyon lay in a shallow, tropical seaway that stretched from Southern California to Alaska. The boundary also separates two kinds of rock: the lower Mississippian is carbonate-rich, while the upper Pennsylvanian is rich in siliciclastics and coal.
 
   <!-- carb-040 -->
 
@@ -3666,7 +3666,7 @@ The Pennsylvanian was the age of coal. Vast freshwater swamp forests covered muc
 
 - **All modern classes of fungi appear** — during the Late Carboniferous, 323–299 million years ago (323.4–298.9 Ma)
 
-  By the late Carboniferous, every modern class of fungi had appeared. Rocks of Pennsylvanian age preserve them, showing that the fungal world of today was already fully sketched out among the coal swamps.
+  By the late Carboniferous, the fungal family tree was complete at the top level. All modern classes of fungi had appeared, as rocks of Pennsylvanian age show. Land fungi then diversified further as plants and animals grew in size and abundance, giving them more to live on.
 
   <!-- carb-038 -->
 
@@ -3785,19 +3785,19 @@ The Pennsylvanian was the age of coal. Vast freshwater swamp forests covered muc
 
 - **The magnetic field stops flipping** — c. 312–262 million years ago (312–262 Ma)
 
-  Earth's magnetic field normally reverses every so often. From about 312 to 262 million years ago, it did not. For more than 50 million years it held reversed polarity, with north and south swapped from today's arrangement. This stretch, the Kiaman superchron, spans the late Carboniferous to the late Permian. Comparable spells are the Cretaceous Normal Superchron and a possible one in the Ordovician.
+  Earth's magnetic field normally reverses every so often. From about 312 to 262 million years ago, it did not. For more than 50 million years it held reversed polarity, with north and south swapped from today's arrangement. This stretch is the Kiaman superchron, and it spans the late Carboniferous to the late Permian. A superchron is a polarity interval lasting at least 10 million years. The Cretaceous Normal Superchron is a comparable spell. So is a possible Ordovician one, found so far only in the Moyero river section north of the polar circle in Siberia. The name Kiaman comes from the Australian town of Kiama, where some of the first geological evidence was found in 1925.
 
   <!-- carb-062 -->
 
 - **Mazon Creek's ironstone treasures** — c. 310 million years ago (310 Ma)
 
-  The Tully monster, Tullimonstrum, is known from only one place: Mazon Creek, near Morris, Illinois. There a large delta preserved fossils in ironstone concretions in exceptional detail. Its roughly 200 insect species, some gigantic, show that insects already filled their main modern roles as plant eaters, scavengers of dead matter and insect eaters.
+  Near Morris, Illinois, a large delta turned the dead into stone. Chemicals released by decaying soft tissue changed the surrounding sediment into a siderite concretion, which encased each fossil in ironstone and preserved it in exceptional detail. The beds hold the enigmatic Tullimonstrum, known only from here. Roughly 200 insect species, some gigantic, show that insects already filled their main modern niches as herbivores, detritivores and insectivores. Another source dates this life to about 300 Ma.
 
   <!-- carb-065 -->
 
 - **A brief, intense Kasimovian glaciation** — during the Kasimovian, 307–304 million years ago (307–303.7 Ma)
 
-  Early in the Kasimovian, a glaciation lasting less than a million years drove carbon dioxide as low as 180 ppm. It was short but intense. It ended abruptly as carbon dioxide rose quickly, but by then the wetland forests had been restructured and the tree lycopsids lost.
+  Carbon dioxide fell to 180 ppm, and the planet froze. Early in the Kasimovian, a short but intense glaciation, lasting less than 1 million years, drove CO2 that low. It ended abruptly as CO2 rose quickly to about 600 ppm, which brought a warmer climate. By then wetland forests had been restructured and tree lycopsids lost. The Kasimovian boundary also covers a time of globally low sea level, which left disconformities in many sequences of this age.
 
   <!-- carb-067 -->
 
@@ -3825,7 +3825,7 @@ The Pennsylvanian was the age of coal. Vast freshwater swamp forests covered muc
 
 - **The first diapsid reptiles** — c. 305 million years ago (305 Ma)
 
-  Petrolacosaurus, around 305 million years old, is among the first diapsid reptiles, the group with two openings behind each eye. By the end of the Carboniferous, amniotes included saurians and araeoscelids among several new groups. The reptile family tree was branching fast.
+  The reptiles that would inherit the Earth appear in the fossil record around 305 million years ago. The first diapsid reptiles, such as Petrolacosaurus, date to that time. Diapsids are true reptiles, and the common ancestor of all living reptiles was almost certainly a diapsid. By the end of the Carboniferous, amniotes included saurians and araeoscelids among several new groups. Climate drove the change. Reptiles went through a major evolutionary radiation in response to the drier climate that came before the rainforest collapse. Amphibians, then the dominant vertebrates, fared poorly in that collapse. Reptiles kept diversifying, thanks to the hard-shelled egg and scales, which hold water better.
 
   <!-- carb-072 -->
 
@@ -3871,7 +3871,7 @@ In the Permian, almost every major landmass was gathered into one supercontinent
 
 - **Lizards' ancestors part from the archelosaurs** — during the Permian, 299–252 million years ago (298.9–251.9 Ma)
 
-  Lizards, snakes and their kin descend from a lineage called the Lepidosauromorpha. It is thought to have split from its sister group, the Archelosauria, during the Permian, a quiet fork in the reptile family tree with large consequences.
+  The family tree of living reptiles forked during the Permian. The lineage of lizards and their kin, the Lepidosauromorpha, is thought to have split from its sister group, Archelosauria. Among modern groups, Lepidosauria is the sister taxon to Archelosauria, which includes turtles, birds and crocodilians. Lepidosauria itself splits into Squamata and Rhynchocephalia. Yet the earliest modern lepidosaurs are known only from the Middle Jurassic, though Megachirella from the Middle Triassic may be a stem-group squamate.
 
   <!-- perm-008 -->
 
@@ -3910,7 +3910,7 @@ The Cisuralian, the first Permian epoch, opened in the grip of an ice age and en
 
 - **Aidaralash marks the start of the Permian** — 299 million years ago (298.9 ± 0.15 Ma)
 
-  In the Aidaralash River valley near Aqtöbe, Kazakhstan, a layer of rock marks the start of the Permian. The boundary is set by the first appearance of a conodont, Streptognathodus isolatus.
+  The Permian begins with a tiny fossil. Its start is marked by the first appearance of the conodont Streptognathodus isolatus. The reference section lies in the Aidaralash River valley near Aqtöbe, Kazakhstan. This Aidaralash GSSP, the official boundary marker, sets the Carboniferous-Permian boundary at 298.9 million years ago and the base of the Asselian.
 
   <!-- perm-001 -->
 
@@ -3928,7 +3928,7 @@ The Cisuralian, the first Permian epoch, opened in the grip of an ice age and en
 
 - **Patagonia completes its collision** — during the Early Permian, 299–274 million years ago (298.9–274.4 Ma)
 
-  The Patagonian landmass had first touched south-western Gondwana in the mid-Carboniferous. In the early Permian came the broader collision. Deformation and metamorphism from it carried on into the Permian, welding Patagonia firmly to the supercontinent.
+  Patagonia's collision with Gondwana had begun long before the Permian and outlasted its start. The landmass first touched south-western Gondwana in the mid-Carboniferous. The broader collision came in the early Permian, and deformation and metamorphism from it continued into the Permian. After the collision came the rifting and eventual breakup of Gondwana in the early Mesozoic, which rotated Patagonia on a large scale. Its origin is still argued. One theory has all of Patagonia arriving from Gondwana as an allochthonous landmass in the Paleozoic. The other holds that Northern Patagonia is autochthonous and only the southern part is allochthonous.
 
   <!-- perm-015 -->
 
@@ -3984,7 +3984,7 @@ The Cisuralian, the first Permian epoch, opened in the grip of an ice age and en
 
 - **Dimetrodon appears** — c. 295 million years ago (295 Ma)
 
-  The pelycosaur Dimetrodon evolved about 295 million years ago. Pelycosaurs like it diversified widely, and its remains turn up at Bromacker in Germany and in the Red Beds of Texas.
+  A sail-backed predator ruled Texas about 295 million years ago. The pelycosaur Dimetrodon evolved then and diversified, and its remains occur at Bromacker in Germany and in the Red Beds of Texas. It was probably the top predator of the Red Beds ecosystem, feeding on animals such as the shark Xenacanthus and the amphibians Trimerorhachis and Diplocaulus. The word pelycosaur, traditionally used for Dimetrodon, is now considered obsolete. Terms such as primitive or basal synapsids have replaced it.
 
   <!-- perm-023 -->
 
@@ -3996,7 +3996,7 @@ The Cisuralian, the first Permian epoch, opened in the grip of an ice age and en
 
 - **The Dobele crater** — c. 290 million years ago (290 ± 35 Ma)
 
-  An impact formed a crater 4.5 km across at Dobele, Latvia. Its age is about 290 ± 35 million years, in the Cisuralian. The wide margin of error leaves its place in the Permian story loose.
+  A 4.5 km crater at Dobele, Latvia, records an impact about 290 ± 35 million years ago, in the Cisuralian. You cannot see it. The Dobele crater is not exposed at the surface.
 
   <!-- perm-028 -->
 
@@ -4036,7 +4036,7 @@ The Cisuralian, the first Permian epoch, opened in the grip of an ice age and en
 
 - **Mesosaurs and the oldest amniote embryos** — c. 285–275 million years ago (285–275 Ma)
 
-  The earliest known amniote embryos come from the Mangrullo Formation of Brazil and Uruguay, of Artinskian age. The rocks are rich in mesosaurs. Mesosaurus fossils also occur in Permian black shales of Brazil's Paraná Basin, alongside Glossopteris coals.
+  Brazil and Uruguay hold the oldest known evidence of amniotic ontogeny, the development of an embryo inside an egg. The Artinskian Mangrullo Formation is rich in mesosaur fossils and holds the earliest known amniote embryos. It yields several fossil embryos, a hatchling and very small mesosaurids. Mesosaurus fossils also occur in Permian black shales of Brazil's Paraná Basin, alongside Glossopteris coals. In the top layers the sea connection was reestablished, and the mesosaurs disappeared, replaced again by fish and bioturbating organisms. One source calls the Paraná Basin's Irati Formation, famous for its Mesosaurus fauna, Late Permian.
 
   <!-- perm-034 -->
 
@@ -4054,7 +4054,7 @@ The Cisuralian, the first Permian epoch, opened in the grip of an ice age and en
 
 - **The Ternovka crater** — c. 280 million years ago (280 ± 10 Ma)
 
-  At Kryvyi Rih, Ukraine, a buried crater 11 km across records an impact about 280 ± 10 million years ago, in the Early or Middle Permian.
+  Beneath Kryvyi Rih, Ukraine, lies an 11 km scar from the sky. An impact in the Early or Middle Permian, about 280 ± 10 million years ago, left the Ternovka crater. It is buried and not exposed at the surface.
 
   <!-- perm-039 -->
 
@@ -4118,7 +4118,7 @@ The Guadalupian, the Middle Permian, was a time of reefs and new predators. Reef
 
 - **A cooling recorded in carbon** — during the Capitanian, 264–260 million years ago (264.3–259.9 Ma)
 
-  Marine limestones of Capitanian age record a rise in carbon-13, the heavier form of carbon, a sign of global cooling. That cooling may have caused the end-Capitanian extinction of warm-water species: large fusulinids, alatoconchid bivalves and waagenophyllid rugose corals.
+  Carbon in Capitanian limestones tells of a cooling world. Marine limestones of that age record a rise in carbon-13, reflecting a cooling of global climate. This cooling may have caused the end-Capitanian extinction of warm-water species such as large fusulinids, alatoconchid bivalves and waagenophyllid rugose corals. Diversity followed an odd path. Global diversity rose dramatically in the Capitanian, probably as disaster taxa filled empty guilds, then fell again in the Wuchiapingian after the end-Guadalupian event. That mass extinction was associated with ocean anoxia and acidification, and was possibly caused by the volcanic eruptions that produced the Emeishan Traps.
 
   <!-- perm-055 -->
 
@@ -4163,7 +4163,7 @@ The Lopingian, the last epoch of the Permian and of the Paleozoic, opened with o
 
 - **The last callistophytalean seed ferns** — during the Wuchiapingian, 260–254 million years ago (259.9–254.1 Ma)
 
-  The Callistophytales were seed ferns whose coal forests had once covered South China. They make their last appearance in the Wuchiapingian, one more Carboniferous lineage gone before the great extinction.
+  The last callistophytalean seed ferns left the record in the Wuchiapingian. Callistophytales, whose coal forests had covered South China, lived from the Pennsylvanian to the Permian. They were reproductively more sophisticated than most other Paleozoic seed ferns. They seem to have out-competed and replaced some of those in the coal swamp vegetation during the Late Pennsylvanian and Permian.
 
   <!-- perm-067 -->
 
@@ -4181,7 +4181,7 @@ The Lopingian, the last epoch of the Permian and of the Paleozoic, opened with o
 
 - **The first gliding vertebrates** — during the Late Permian, 260–252 million years ago (259.9–251.9 Ma)
 
-  Weigeltisaurids were lizard-like reptiles with extendable wings, like modern gliding lizards. They are the oldest known gliding vertebrates. Their worldwide spread shows that tall, thin forests, the kind a glider needs, had become widespread by the Late Permian.
+  The first vertebrates to glide were lizard-like reptiles. Weigeltisaurids, with extendable wings like modern gliding lizards, are the oldest known gliding vertebrates. Their worldwide spread shows that tall, thin forests had become widespread by the Late Permian. Their gliding membrane originated on the lower-lateral surface of the body, unlike those of rib-gliding reptiles. How well they glided has changed with the evidence. A 2011 study found Coelurosauravus a less efficient glider than modern Draco because of its larger body size. A 2025 study found its body mass had been overestimated and that it would have been a relatively efficient glider.
 
   <!-- perm-066 -->
 
@@ -4211,7 +4211,7 @@ The Lopingian, the last epoch of the Permian and of the Paleozoic, opened with o
 
 - **The Araguainha impact** — c. 255 million years ago (254.7 ± 2.5 Ma)
 
-  An impact left a crater 40 km wide on the border of Mato Grosso and Goiás, Brazil, probably in a shallow sea. Its age, 254.7 ± 2.5 million years, overlaps the Permian–Triassic boundary. Some suggest the warming it caused helped trigger the extinction.
+  A 40 km crater on the border of Mato Grosso and Goiás, Brazil, may be tied to the worst extinction of all. The Araguainha impact struck where there was probably a shallow sea. It punched through Paleozoic sedimentary units of the Paraná Basin and exposed the underlying Ordovician granite basement. Its age, 254.7 ± 2.5 million years ago, overlaps the Permian–Triassic boundary, and some suggest the warming it caused helped trigger the extinction. Its estimated energy is insufficient to cause the global mass extinction directly. But the huge local rifting would have released large amounts of oil and gas from the shattered rock.
 
   <!-- perm-076 -->
 
@@ -4300,7 +4300,7 @@ The Lopingian, the last epoch of the Permian and of the Paleozoic, opened with o
 
 - **The last spiny sharks** — c. 252 million years ago (251.9 Ma)
 
-  The acanthodians, or spiny sharks, were an early class of jawed fishes. Their diversity had been low but stable through the Carboniferous and slipped further in the Permian. The Permian–Triassic extinction finished them.
+  The spiny sharks outlasted their rivals for a time, then lost the race. The acanthodians, an early class of jawed fishes, became extinct in the Permian–Triassic extinction, about 250 Ma. Their diversity had been low but stable through the Carboniferous and slipped further in the Permian. Competition from bony fishes proved too much for them. Acanthodians share features with both bony and cartilaginous fish but are more closely related to the cartilaginous fish. They predate sharks, which they gave rise to.
 
   <!-- perm-089 -->
 
@@ -4318,25 +4318,25 @@ The Lopingian, the last epoch of the Permian and of the Paleozoic, opened with o
 
 - **The last griffinflies** — c. 252 million years ago (251.9 Ma)
 
-  Several Paleozoic insect groups were extinct by the end of the Permian, including the giant griffinflies and the palaeodictyopteroids. Only three Paleozoic insect groups are known after it. This was the largest known mass extinction of insects.
+  The largest insects ever known vanished with the Permian. Several Paleozoic insect groups, including the giant griffinflies (protodonates) and palaeodictyopteroids, were extinct by its end. Griffinflies include the late Carboniferous Meganeura monyi and the even larger Permian Meganeuropsis permiana, with wingspans of up to 71 cm. Of the Paleozoic insect groups, only three are known after the extinction, the largest known mass extinction of insects. Because of it, there is only little fossil record of insects, including beetles, from the Lower Triassic.
 
   <!-- perm-092 -->
 
 - **The last progymnosperms** — c. 252 million years ago (251.9 Ma)
 
-  Progymnosperms were woody, spore-bearing plants thought to have given rise to the seed plants. Their last surviving group, the Noeggerathiales, persisted until the end of the Permian.
+  The last progymnosperms lasted until the end of the Permian. These were the Noeggerathiales, rare in European and North American floras but common in Cathaysian Chinese floras. Progymnosperms were woody, spore-bearing plants thought to have given rise to the seed plants. Noeggerathiales are thought to have grown as cycad-like plants with thick unbranched vertical stems, leafless except for a crown of fern-like pinnate leaves at the top.
 
   <!-- perm-093 -->
 
 - **The Paleozoic corals vanish** — c. 252 million years ago (251.9 Ma)
 
-  About 96% of coral and other anthozoan genera were lost in the Permian–Triassic extinction. Among the casualties were the rugose and tabulate corals, the reef-building corals of the Paleozoic, which died out entirely. Their loss left the seas without the reef builders that had served them through the Paleozoic.
+  The reef builders of the Paleozoic died with the Permian. Rugose and tabulate corals died out in the Permian–Triassic extinction. They had built reefs in the late Paleozoic ocean that almost certainly served as shelter and nurseries for many other species. About 96% of coral and other anthozoan genera were lost. Rugose corals had been abundant in seas from the Middle Ordovician to the Late Permian. They have a unique arrangement of septa that preserves bilateral symmetry, unlike the fully radial symmetry of tabulate and modern scleractinian corals. The most vulnerable marine organisms were those with calcareous hard parts, low metabolic rates and weak respiratory systems, notably these corals. Afterward the sea had no more blastoids, fusulinid forams, trilobites or rugose corals.
 
   <!-- perm-094 -->
 
 - **The last lycopsid swamps** — c. 252 million years ago (251.9 Ma)
 
-  Carboniferous-style swamps of lycopods and horsetails survived to the end of the Permian in only one place: Cathaysia, equatorial islands that became South China. Even there, tree lycopsids had become rare, marginal plants, no longer the main makers of coal.
+  In one corner of the world, the Carboniferous coal forests lived on. Lycopod and horsetail swamps survived to the end of the Permian only in Cathaysia, equatorial islands that became South China. By then tree lycopsids were rare, marginal plants there, no longer the main coal formers. The collapse of the Carboniferous rainforests had affected equatorial Euramerica but not Cathaysia to the east, which mostly corresponds to modern China. Lyginopterids also survived into the Late Permian in Cathaysia and equatorial east Gondwana.
 
   <!-- perm-095 -->
 
@@ -4416,7 +4416,7 @@ The Early Triassic was the hottest stretch of the whole Phanerozoic, and life pa
 
 - **Coelacanths and lungfishes enjoy their heyday** — during the Early Triassic, 252–247 million years ago (251.9–247 Ma)
 
-  Two famous 'living fossil' groups had their best days right after the worst disaster. Coelacanths, lobe-finned fishes, had their greatest burst of diversity in the Early Triassic, just after the Great Dying. Lungfishes reached their peak variety during the Triassic. Today only three lungfish genera survive.
+  The Great Dying cleared the water, and old fish filled it. Coelacanths had their greatest burst of diversity in the Early Triassic, just after it. Lungfishes were most diverse during the Triassic, and only three genera survive today. The only living non-tetrapod sarcopterygians are two species of coelacanths and six species of lungfishes. Coelacanths of the genus Latimeria still live in the open oceans and retain many primordial features of ancient sarcopterygians, which earned them a reputation as living fossils.
 
   <!-- tria-005 -->
 
@@ -4576,7 +4576,7 @@ A third extinction since the Permian closed the Early Triassic, yet what followe
 
 - **A third extinction closes the Early Triassic** — c. 247 million years ago (247 Ma)
 
-  Life had been knocked back twice since the Permian, and now it happened a third time. A new extinction event struck at the Olenekian–Anisian boundary, ending the Early Triassic. Siberian Traps activity has been linked to it. The same volcanic source has also been tied to later crises in the Middle–Late Anisian and at the Anisian–Ladinian boundary.
+  Recovery from the Permian disaster was interrupted. A third post-Permian extinction event struck at the Olenekian–Anisian boundary, ending the Early Triassic. Siberian Traps activity has been linked to it, and to later Middle–Late Anisian and Anisian–Ladinian crises. Strata of 247 to 242 Ma, in the early middle Triassic, show the recovery after the mass extinction.
 
   <!-- tria-048 -->
 
@@ -4608,7 +4608,7 @@ A third extinction since the Permian closed the Early Triassic, yet what followe
 
 - **Dinoflagellates leave their first fossil cysts** — during the Middle Triassic, 247–237 million years ago (247–237 Ma)
 
-  Chemical traces say dinoflagellates may have drifted in the sea since the Early Cambrian. Their first true fossils, though, appear only in the mid-Triassic, mostly as tough resting cysts. These single-celled plankton then radiated in shape from the Late Triassic through the Middle Jurassic. By then they had become prominent phytoplankton, the drifting algae of the open sea.
+  Dinoflagellate fossils, mostly resting cysts, first occur in the mid-Triassic. Chemical markers hint at a presence back to the Early Cambrian. Some dinoflagellates produce these resting stages, called cysts, which occurs in a little more than 10% of the known marine species. Recognition that they can encyst dates to the early 20th century, in biostratigraphic studies of fossil cysts. Their shapes radiated from the Late Triassic through the Middle Jurassic, when they became prominent phytoplankton. Another source places their first appearance in the microplankton at the Carnian pluvial episode.
 
   <!-- tria-042 -->
 
@@ -4694,7 +4694,7 @@ The Late Triassic opens with a crisis at sea and a shock to the climate. Marine 
 
 - **Specialist rhynchosaurs spread across the globe** — during the Carnian, 237–227 million years ago (237–227.3 Ma)
 
-  A crisis gave one narrow branch the whole world. Rhynchosaurs had diversified around 240 million years ago, but the lines common in the Middle Triassic died out during The Carnian rains turn Pangaea's deserts green. The specialized hyperodapedontines were left. They became widespread and abundant in the late Carnian, giving rhynchosaurs their broadest, truly global range.
+  A wet spell reshaped the rhynchosaurs. They diversified around 240 Ma, but lines common in the Middle Triassic died out in the Carnian pluvial episode, leaving specialised hyperodapedontines. That episode introduced markedly more humid conditions across the globe, interrupting the otherwise arid climate of the Late Triassic. The survivors thrived. Hyperodapedontines were widespread and abundant in the late Carnian, giving rhynchosaurs their broadest, global distribution. Yet by cutting rhynchosaurs off from more generalized niches, the episode would have reduced their versatility and increased their long-term vulnerability to extinction.
 
   <!-- tria-062 -->
 
@@ -4796,7 +4796,7 @@ The Late Triassic opens with a crisis at sea and a shock to the climate. Marine 
 
 - **Tuatara relatives spread around the world** — c. 227 million years ago (227.3 Ma)
 
-  Today the tuatara is a lonely survivor, but its relatives once ranged worldwide. By the end of the Carnian, rhynchocephalians had spread across the globe. They went on to be the dominant small reptiles of the Jurassic.
+  Relatives of the living tuatara once covered the world. Rhynchocephalians had spread worldwide by the end of the Carnian, and went on to be the dominant small reptiles of the Jurassic. They reached their highest morphological diversity then, with a wide range of lifestyles. These included the aquatic pleurosaurs, with long snake-like bodies and reduced limbs, and the specialized herbivorous eilenodontines. They disappeared from Asia after the Early Jurassic.
 
   <!-- tria-081 -->
 
@@ -4984,7 +4984,7 @@ The Late Triassic opens with a crisis at sea and a shock to the climate. Marine 
 
 - **The last dicynodonts disappear** — c. 201 million years ago (201.4 Ma)
 
-  The group of Lystrosaurus had a long run. Dicynodonts were among the most successful therapsids of the Permian and stayed large plant-eaters until they died out at the end of the Triassic. Their last appearance is uncertain. They survived at least into the late Norian or earliest Rhaetian.
+  Dicynodonts, among the most successful Permian therapsids, stayed large plant-eaters until they died out at the end of the Triassic. Their last appearance is uncertain: they survived at least into the late Norian or earliest Rhaetian. Another source says the exact extinction date is uncertain too. The group Anomodontia includes the dicynodonts, a clade of tusked, beaked herbivores, and is the most diverse and long-lived clade of non-cynodont therapsids. A tightly coiled embryo of the dicynodont Lystrosaurus from the Early Triassic of South Africa indicates that they likely laid eggs.
 
   <!-- tria-108 -->
 
@@ -5006,7 +5006,7 @@ The Jurassic begins with the land drying out and the dinosaurs moving in. As Gon
 
 - **Pangaea's great monsoon starts to fail** — during the Jurassic, 201–143 million years ago (201.4–143.1 Ma)
 
-  The rains that had swept Pangaea for an entire period began to fail. At the start of the Jurassic, the Pangean megamonsoon started falling apart. Gondwana, the southern half of Pangaea, dried out, and so did southern Laurasia. As the continents drifted apart, the monsoon kept weakening through the rest of the Jurassic.
+  The Pangean megamonsoon is the hypothesis that Pangaea had a distinct seasonal reversal of winds, causing extreme transitions between dry and wet periods through the year. It would have led to immensely arid regions in the interior of the supercontinent, with extremely hot days and frigid nights. Those areas would have been nearly uninhabitable to terrestrial ecosystems. At the start of the Jurassic the megamonsoon began to fall apart as Gondwana and southern Laurasia dried out. It kept weakening through the Jurassic as the continents drifted apart. When Pangaea finally broke apart by the middle Mesozoic, the megamonsoon fell apart completely.
 
   <!-- jura-026 -->
 
@@ -5058,19 +5058,19 @@ In the wreckage of the end-Triassic extinction, the Early Jurassic rebuilt fast.
 
 - **The first certain ornithischians appear** — during the Early Jurassic, 201–175 million years ago (201.4–174.7 Ma)
 
-  One of the great dinosaur branches finally shows itself plainly in the Early Jurassic. The earliest definitive ornithischians, the 'bird-hipped' dinosaurs, appeared and diversified then. They were small basal forms such as Lesothosaurus, the heterodontosaurids and early thyreophorans, the armored line. From these modest plant-eaters the group would grow into one of the dinosaurs' main branches.
+  The dinosaurs that would become the plant-eating giants began small. The earliest definitive ornithischians appeared and diversified in the Early Jurassic. They included small basal forms such as Lesothosaurus, the heterodontosaurids and early thyreophorans. Early ornithischians were relatively small, averaging about 1–2 meters in body length, and were bipedal. Where heterodontosaurids belong is disputed. One view treats them as very early ornithischians like Lesothosaurus, while a 2021 study nested them alongside Pachycephalosauria.
 
   <!-- jura-010 -->
 
 - **The Farallon plate dives beneath North America** — during the Early Jurassic, 201–175 million years ago (201.4–174.7 Ma)
 
-  As Pangaea broke apart, an ocean plate began sliding under the American West. In the Early Jurassic, the Farallon plate started sinking beneath western North America. Mountains in Nevada and California kept rising as plate motions pushed North America northward.
+  As Pangaea broke apart, an ocean plate began to sink under the west. The Farallon plate started subducting beneath western North America in the Early Jurassic. Mountains in Nevada and California kept rising as plate motions pushed North America northward. During its subduction the plate accreted island arcs and terranes to North America, and much of the west is composed of these accreted terranes. Most of the Farallon plate was subducted. Two remnants persist: the Cocos plate under Central America and the Juan de Fuca plate under Washington, Oregon and northern California.
 
   <!-- jura-011 -->
 
 - **Dicroidium makes a last stand in Antarctica** — during the Early Jurassic, 201–175 million years ago (201.4–174.7 Ma)
 
-  The seed fern that once ruled Gondwana's forests ended its days in Antarctica. Dicroidium survived there only as a relict into the Early Jurassic. Its relative Lepidopteris, a peltasperm, likewise lingered in Patagonia.
+  Dicroidium, a seed fern that grew as large trees, was widely distributed and dominant over Gondwana during the Triassic. Its ecosystems collapsed during the end-Triassic mass extinction. The plant clung on only as a relict in Antarctica into the Early Jurassic. The related peltasperm Lepidopteris likewise lingered in Patagonia.
 
   <!-- jura-017 -->
 
@@ -5082,7 +5082,7 @@ In the wreckage of the end-Triassic extinction, the Early Jurassic rebuilt fast.
 
 - **Seawater flips from aragonite to calcite** — during the Early Jurassic, 201–175 million years ago (201.4–174.7 Ma)
 
-  Seawater itself changed character in the Early Jurassic. The world's oceans shifted from aragonite-sea to calcite-sea chemistry, two states named for the two forms of calcium carbonate. The new chemistry favored dissolving aragonite and precipitating calcite.
+  The chemistry of the sea flipped in the Early Jurassic. The world's oceans changed from aragonite-sea to calcite-sea chemistry, favouring the dissolving of aragonite and the precipitating of calcite. A fall in the Mg/Ca ratio of seawater favors calcite over aragonite. Calcite seas bring rapid, widespread formation of carbonate hardgrounds, calcitic ooids and calcite cements, and dissolution of aragonite shells in shallow warm seas.
 
   <!-- jura-024 -->
 
@@ -5159,13 +5159,13 @@ In the wreckage of the end-Triassic extinction, the Early Jurassic rebuilt fast.
 
 - **Sea level climbs, then falls back** — c. 200–184 million years ago (199.5–184.2 Ma)
 
-  The early Jurassic sea rose and fell like a slow tide. Through the Hettangian and Sinemurian it stayed near today's level. In the late Sinemurian and Pliensbachian it rose several tens of meters. By the late Pliensbachian it had fallen back to near present levels.
+  Sea level swung by several tens of metres across the Early Jurassic. It stayed near today's level in the Hettangian and Sinemurian, then rose several tens of metres in the late Sinemurian–Pliensbachian. It fell back to near present levels by the late Pliensbachian. During the latest part of the Toarcian the sea level again dropped by several tens of metres.
 
   <!-- jura-039 -->
 
 - **Saltriovenator, the oldest known ceratosaur** — c. 199–198 million years ago (199.3–197.5 Ma)
 
-  Italy holds the oldest known ceratosaur. Saltriovenator comes from the early Sinemurian, 199.3–197.5 million years ago. It belongs to the averostrans, an advanced group of theropods whose earliest members appeared in the Early Jurassic.
+  The oldest known ceratosaur, Saltriovenator, comes from the early Sinemurian of Italy, 199.3–197.5 million years ago. It belongs to the earliest averostran theropods, which appeared in the Early Jurassic. Ceratosauria originally included the Coelophysoidea and Dilophosauridae as well, which implied a much earlier divergence of ceratosaurs from other theropods. Abelisauroids flourished in the Southern Hemisphere in the Cretaceous. Their origins go back to at least the Middle Jurassic, with the earliest remains from Australian and South American deposits dated to about 170 million years ago.
 
   <!-- jura-040 -->
 
@@ -5177,7 +5177,7 @@ In the wreckage of the end-Triassic extinction, the Early Jurassic rebuilt fast.
 
 - **Lyme Regis mudstones yield the armored Scelidosaurus** — c. 196–188 million years ago (196–188 Ma)
 
-  Complete skeletons of an armored dinosaur come out of the cliffs of Lyme Regis and Charmouth, England. The Charmouth Mudstone yields Scelidosaurus along with plesiosaurs and ichthyosaurs. It also holds large numbers of exceptional fish and a diverse insect fauna.
+  The cliffs between Lyme Regis and Charmouth give up complete skeletons. The Charmouth Mudstone yields the armoured dinosaur Scelidosaurus, plus plesiosaurs and ichthyosaurs, along with large numbers of exceptional fish and a diverse insect fauna. It dates to the Early Jurassic (Sinemurian–Pliensbachian). It is best exposed in those cliffs but extends north to Market Weighton in Yorkshire and underground in the East Midlands Shelf and Wessex Basin.
 
   <!-- jura-044 -->
 
@@ -5195,13 +5195,13 @@ In the wreckage of the end-Triassic extinction, the Early Jurassic rebuilt fast.
 
 - **Volcanoes erupt across southern Sweden** — c. 191–178 million years ago (191–178 Ma)
 
-  A volcanic mudflow made a time capsule in Sweden. In central Skåne, volcanism had its first and main phase from the late Sinemurian to the Toarcian, about 191 to 178 million years ago. At Korsaröd a lahar, a flow of volcanic mud, buried Early Jurassic wood, pollen and spores and preserved them exceptionally well.
+  Small volcanoes dotted southern Sweden. Volcanism in central Skåne had its first and main phase from the late Sinemurian to the Toarcian, about 191 to 178 million years ago. It was a field of cinder cones with Strombolian eruption styles. A lahar, a volcanic mudflow, at Korsaröd buried Early Jurassic wood, pollen and spores, preserving them exceptionally well. The volcanism was linked to the break-up of Pangea, and so is analogous to the much more voluminous Karoo-Ferrar flood basalts of Southern Africa.
 
   <!-- jura-051 -->
 
 - **The first pliosaurs enter the seas** — c. 190 million years ago (190 Ma)
 
-  About 190 million years ago, pliosaurs, short-necked plesiosaurs, entered the fossil record. They arrived in busy seas. Many groups of primitive sea invertebrates appeared about the same time, and sponge reefs developed extensively.
+  Short-necked sea hunters entered the fossil record about 190 million years ago. These were the pliosaurs, short-necked plesiosaurs. Many groups of primitive sea invertebrates appeared about the same time, and sponge reefs developed extensively. Thalassophonea, the best-known pliosaur subclade, had crocodile-like short-necked forms with large heads and massive toothed jaws. Pliosaurs range from 4 to 10 meters or more in length.
 
   <!-- jura-053 -->
 
@@ -5299,7 +5299,7 @@ The Middle Jurassic opens with the Toarcian heat fading into a long cool interva
 
 - **The first true Ginkgo trees appear** — during the Middle Jurassic, 175–162 million years ago (174.7–161.5 Ma)
 
-  The ginkgo trees that line city streets today have relatives that look strikingly familiar in Middle Jurassic rocks. The earliest members of the genus Ginkgo, with ovule and pollen organs like the living species, appear then in the Northern Hemisphere. Their wider order, the Ginkgoales, was among the most important parts of Eurasian Jurassic floras.
+  Ginkgo has a long pedigree. The earliest members of the genus, with ovule and pollen organs like the living species, appear in the Middle Jurassic of the Northern Hemisphere. Ginkgoales were among the most important parts of Eurasian Jurassic floras. Other Jurassic lineages had Ginkgo-like leaves but differently arranged reproductive structures from living and fossil Ginkgo. Today the genus is represented by a single species, Ginkgo biloba.
 
   <!-- jura-079 -->
 
@@ -5317,7 +5317,7 @@ The Middle Jurassic opens with the Toarcian heat fading into a long cool interva
 
 - **Long-isolated terranes dock with North America** — during the Middle Jurassic, 175–162 million years ago (174.7–161.5 Ma)
 
-  Pieces of crust that had drifted alone in Panthalassa finally reached land. In the Middle Jurassic, the Alexander and Wrangellia terranes were accreted, or welded, onto western North America. The Cache Creek Ocean probably closed at the same time, and the Stikinia terrane was also added during the Jurassic.
+  Western North America grew by collecting pieces of other places. The Alexander and Wrangellia terranes, long isolated in Panthalassa, were accreted to it in the Middle Jurassic. The Cache Creek Ocean probably closed at the same time, and the Stikinia terrane was also added during the Jurassic. The first terrane collisions on the western edge came earlier, in the early Triassic, when the Quesnel, Cache Creek and Stikine terranes combined to form the Intermontane Superterrane. The likely order of arrival was Yukon-Tanana, Quesnel, Cache Creek and Stikine. It is also possible that these terranes were assembled as one unit before reaching North America.
 
   <!-- jura-086 -->
 
@@ -5337,13 +5337,13 @@ The Middle Jurassic opens with the Toarcian heat fading into a long cool interva
 
 - **Carnosaurs join the ranks of predators** — c. 174 million years ago (174 Ma)
 
-  Some predator lines come and go quickly; the carnosaurs stayed. They first appeared in the Middle Jurassic, around 174 million years ago, and hunted on through most of the Cretaceous. Their last definite family, the carcharodontosaurids, died out only about 90 million years ago.
+  Carnosaurs first appeared in the Middle Jurassic around 174 Ma. Their last definite family, the carcharodontosaurids, died out about 90 Ma. Distinctive characteristics include large eye sockets, a long narrow skull, and a thigh bone (femur) longer than the shin (tibia). The largest carnosaurs can reach up to 10 meters in length. The group once held more: most former carnosaurs, such as the megalosaurids, the spinosaurids and the ceratosaurs, were reclassified as more primitive theropods.
 
   <!-- jura-089 -->
 
 - **Dinosaur tracks and bones on the Isle of Skye** — c. 174–166 million years ago (174–166 Ma)
 
-  Scotland's Isle of Skye is one of the best places to see Middle Jurassic dinosaurs. Rocks of its Trotternish peninsula, about 174–166 million years old, preserve both footprints and bones. Bones of large theropods, sauropods and thyreophorans, the armored dinosaurs, have been found there. Footprints of all three turn up at Staffin Bay, Duntulm and Brother's Point.
+  Skye's Trotternish peninsula holds rare traces of Middle Jurassic dinosaurs. Rocks there, about 174-166 million years old, preserve footprints and bones. Bones of large theropods, sauropods and thyreophorans have been found, with footprints of all three at Staffin Bay, Duntulm and Brother's Point. That matters because dinosaur fossils are scarce from the Early and Middle Jurassic, though by the Late Jurassic dinosaurs were dominating the planet.
 
   <!-- jura-091 -->
 
@@ -5367,7 +5367,7 @@ The Middle Jurassic opens with the Toarcian heat fading into a long cool interva
 
 - **Megalosaurids appear in Europe** — c. 170 million years ago (170 Ma)
 
-  The oldest radiation of tetanuran theropods began in Europe. Megalosaurids first appeared there during the Bajocian, around 170 million years ago. By the late Middle Jurassic, megalosaurines were already among the largest land predators.
+  The first great predators of the tetanuran line appeared in Europe. Megalosaurids, the oldest radiation of tetanuran theropods, first appeared there during the Bajocian, around 170 Ma. By the late Middle Jurassic, megalosaurines were already among the largest land predators. The earliest members of the Tetanurae themselves appeared during the late Early Jurassic or early Middle Jurassic.
 
   <!-- jura-098 -->
 
@@ -5391,7 +5391,7 @@ The Middle Jurassic opens with the Toarcian heat fading into a long cool interva
 
 - **Iberia slides away from Europe** — c. 170–120 million years ago (170–120 Ma)
 
-  Spain and Portugal took a long sideways journey. From 170 to 120 million years ago, Iberia slid more than 200 km past Europe as it rifted away from the Grand Banks. In the Late Jurassic, the Iberian microcontinent broke from the European plate, and the Valais Ocean opened between them.
+  Iberia took a long time to break free. From 170 to 120 Ma it slid more than 200 km sideways past Europe as it rifted away from the Grand Banks. Rifting had begun earlier: in the Late Triassic and Early Jurassic there were two stages, with extension and subsidence, on Iberia's western margin. In the Late Jurassic the Iberian microcontinent broke from the European plate, and the Valais Ocean opened between them. In the same period Africa started moving east and the Alpine Tethys opened.
 
   <!-- jura-100 -->
 
@@ -5535,7 +5535,7 @@ By the Late Jurassic, the map and the menu had both changed. Africa separated fr
 
 - **Juramaia, a shrew-like start to the placental line** — c. 160 million years ago (160 Ma)
 
-  The ancestors of whales, bats and people may have looked like a shrew. Juramaia sinensis, a small, shrew-like mammal from China dated to about 160 million years ago, is the oldest known eutherian. Eutherians are the branch of mammals that includes the placentals. Juramaia sits closer to the ancestry of placental mammals than to marsupials, so the split between the two lines had already happened by its time.
+  A shrew-like animal from China is the oldest known eutherian. Juramaia sinensis, dated to about 160 Ma, sits closer to the ancestry of placental mammals than to marsupials. It also poses a puzzle. The earliest proposed placental mammal, Juramaia, is Jurassic, yet the earliest known monotreme, Teinolophus, is Cretaceous, even though placentals are more derived and should appear after monotremes. Recalibrations of genetic and morphological diversity rates have suggested a Late Cretaceous origin for placentals and a Paleocene origin for most modern clades. The fossil and the calculations still disagree.
 
   <!-- jura-144 -->
 
@@ -5607,7 +5607,7 @@ By the Late Jurassic, the map and the menu had both changed. Africa separated fr
 
 - **Cimmeria finally docks against Laurasia** — c. 150 million years ago (150 Ma)
 
-  After crossing an ocean, Cimmeria finally ran aground. About 150 million years ago, it collided with Laurasia and stalled. The ocean floor behind it buckled under, forming the Tethys Trench. In Greece, the Hellenic orogeny records Late Jurassic collisions of Cimmerian crustal fragments with Eurasia.
+  A drifting sliver of crust finally ran into a continent. About 150 Ma Cimmeria collided with Laurasia and stalled, and the ocean floor behind it buckled under, forming the Tethys Trench. Late Jurassic collisions of Cimmerian fragments with Eurasia are recorded in Greece's Hellenic orogeny. Cimmeria, a piece of shelf, had traveled north over about 60 million years, pushing the floor of the Paleo-Tethys Ocean under the eastern end of northern Pangaea. The Neo-Tethys Ocean formed between Cimmeria and Gondwana, directly over where the Paleo-Tethys had been.
 
   <!-- jura-160 -->
 
@@ -5625,7 +5625,7 @@ By the Late Jurassic, the map and the menu had both changed. Africa separated fr
 
 - **The Arctic Ocean begins to open** — c. 148–70 million years ago (148–70 Ma)
 
-  The Arctic Ocean is younger than the dinosaurs. As Pangaea's breakup continued across the Jurassic–Cretaceous boundary, it opened the Amerasian Basin and the Arctic Ocean. The opening ran from around 148 to 70 million years ago. Volcanism of the High Arctic Large Igneous Province accompanied it.
+  The Arctic Ocean opened from around 148 to 70 Ma, accompanied by the High Arctic Large Igneous Province. It was a result of Pangaea's breakup across the Jurassic–Cretaceous, which opened the Amerasian Basin. As the Atlantic and Arctic oceans opened during the Mesozoic and into the Cenozoic, the Arctic Region went through several stages of rifting, sedimentation and magmatism. The flood basalts in the Canadian Arctic Islands are similar to the Columbia River flood basalts of the Pacific Northwest.
 
   <!-- jura-168 -->
 
@@ -5697,7 +5697,7 @@ The Early Cretaceous begins 143.1 million years ago, with impacts on either side
 
 - **Raptors appear: the first dromaeosaurs** — c. 143 million years ago (143.1 ± 0.6 Ma)
 
-  Teeth that may belong to dromaeosaurs, the 'raptors', turn up in Jurassic rocks. Their bodies do not. No dromaeosaur body fossils are known until the Cretaceous, and the first dromaeosaurs are placed at the start of that period.
+  The 'raptors' arrive at the start of the Cretaceous. The first dromaeosaurs are placed there, around 143 million years ago. Teeth possibly from dromaeosaurs are known from the Jurassic, but no body fossils until the Cretaceous, in the Early Cretaceous (145-140 million years ago). The family survived until the Maastrichtian, 66 Ma. Dromaeosaurs belong to Coelurosauria, in the clade Paraves, together with avialans and troodontids.
 
   <!-- cret-011 -->
 
@@ -5709,7 +5709,7 @@ The Early Cretaceous begins 143.1 million years ago, with impacts on either side
 
 - **Shark-toothed giants spread across the globe** — during the Early Cretaceous, 143–100 million years ago (143.1–100.5 Ma)
 
-  Big predators can cross continents when land bridges allow. In the Early Cretaceous, large carcharodontosaurids spread worldwide, reaching Africa, North America and South America. Dinosaur footprints suggest part of the route passed through Apulia in Italy, then joined to Africa by a land bridge.
+  Giant predators spread across the continents. Large carcharodontosaurids dispersed worldwide in the Early Cretaceous, reaching Africa, North America and South America. The dispersal may have passed through Apulia in Italy, then joined to Africa by a land bridge, as dinosaur footprints there suggest. With the spinosaurids, they were the largest predators of the early and middle Cretaceous throughout Gondwana, with species also in North America, Europe and possibly Asia. Acrocanthosaurus, Giganotosaurus, Mapusaurus, Carcharodontosaurus and Tyrannotitan all rivaled Tyrannosaurus and Spinosaurus in size.
 
   <!-- cret-002 -->
 
@@ -5721,7 +5721,7 @@ The Early Cretaceous begins 143.1 million years ago, with impacts on either side
 
 - **The Eromanga Sea floods inland Australia** — during the Early Cretaceous, 143–100 million years ago (143.1–100.5 Ma)
 
-  In the Early Cretaceous, Australia's dry heart lay under water. An inland sea, the Eromanga Sea, covered a large part of the continent. It was home to the giant pliosaur Kronosaurus, a short-necked marine reptile.
+  An inland sea drowned much of Australia during the Early Cretaceous. The Eromanga Sea flooded large parts of what is now Queensland and Central Australia at least four times, and it was home to the giant pliosaur Kronosaurus. The present-day Winton Formation represents remnants of the river plains that filled the basin the sea left behind.
 
   <!-- cret-008 -->
 
@@ -5745,13 +5745,13 @@ The Early Cretaceous begins 143.1 million years ago, with impacts on either side
 
 - **Mjølnir: a bolide hammers the Barents Sea floor** — c. 142 million years ago (142 ± 2.6 Ma)
 
-  A bolide about 2 km wide hit the seafloor of what is now the Barents Sea, off Norway. It left a crater 40 km across, named Mjølnir, dated to 142.0 ± 2.6 million years ago.
+  A bolide about 2 km wide struck the floor of what is now the Barents Sea off Norway. It left a 40-km crater, dated to 142.0 ± 2.6 million years ago. In 2006 Swedish geologists found indications of a tsunami that flooded the Swedish southern coast about 145 million years ago. They speculated it was associated with the Mjolnir impact.
 
   <!-- cret-020 -->
 
 - **Orb-weaver spiders appear, spinning wheel-shaped webs** — c. 140 million years ago (140 Ma)
 
-  The classic spider web, a wheel of spokes and spirals, goes back to the Early Cretaceous. Orb-weaver spiders, the builders of these wheel-shaped webs, appeared around 140 million years ago, as insects, their prey, were diversifying.
+  Spiders learned to build traps in the sky. Orb-weaver spiders, builders of wheel-shaped webs, appeared around 140 Ma. The orb-web consists of a frame and supporting radii overlaid with a sticky capture spiral. Because orb-webs absorb the impact of flying prey, orbicularian spiders became the dominant predators of aerial insects in many ecosystems.
 
   <!-- cret-022 -->
 
@@ -5827,7 +5827,7 @@ The Early Cretaceous begins 143.1 million years ago, with impacts on either side
 
 - **The Faraoni Event brings another warm pulse** — during the Hauterivian, 133–126 million years ago (132.6–125.8 Ma)
 
-  The Weissert Event was not the last of the Early Cretaceous warmings. In the middle Hauterivian came the next in the series, the Faraoni Thermal Excursion. A minor oceanic anoxic event, recorded mostly around the Atlantic, has also been proposed for the Hauterivian.
+  The Early Cretaceous warmed in a series of pulses. The middle Hauterivian Faraoni Thermal Excursion followed the Weissert event in that series. It was a hyperthermal event induced by flood basalt volcanism. A minor oceanic anoxic event, mostly recorded around the Atlantic, has been proposed for the Hauterivian.
 
   <!-- cret-033 -->
 
@@ -5841,7 +5841,7 @@ The Early Cretaceous begins 143.1 million years ago, with impacts on either side
 
 - **The first anglerfish appear** — c. 130 million years ago (130 Ma)
 
-  Today's anglerfish dangle a lure in front of their mouths to catch prey. Their line is ancient. The earliest anglerfish appeared about 130 million years ago, in the Early Cretaceous, while dinosaurs still walked the land.
+  The first anglerfish appeared about 130 Ma. They are ray-finned fish of the order Lophiiformes. Their oldest fossils are younger than that, from the Eocene of the Monte Bolca formation in Italy, and they already show diversification into the modern families.
 
   <!-- cret-035 -->
 
@@ -5865,7 +5865,7 @@ The Early Cretaceous begins 143.1 million years ago, with impacts on either side
 
 - **Colombia's Paja shales preserve sea reptiles** — c. 130–113 million years ago (130–113 Ma)
 
-  The world's most complete record of Early Cretaceous marine reptiles lies in Colombia. Its shales and mudstones settled in a warm, shallow, anoxic sea that covered much of the present-day country. The IUGS, the international geology body, lists the Paja Formation as a geological heritage site for that record.
+  Colombia holds the world's most complete record of Early Cretaceous marine reptiles. The IUGS lists the Paja Formation as a geological heritage site for it. Its shales and mudstones were laid down in an anoxic, warm, shallow sea that covered much of present-day Colombia. The formation dates from the late Hauterivian to the late Aptian. The Selli event of the early Aptian, about 120 Ma, was active while its black shales were being deposited.
 
   <!-- cret-040 -->
 
@@ -5877,7 +5877,7 @@ The Early Cretaceous begins 143.1 million years ago, with impacts on either side
 
 - **Tookoonooka: a crater buried deep in Australia** — c. 128 million years ago (128 ± 5 Ma)
 
-  Deep beneath Australia's Eromanga Basin lies a crater 55–66 km across. Shocked quartz in drill core proved that an impact made it, about 128 ± 5 million years ago. The nearby Talundilly structure may be its twin.
+  A crater 55–66 km across lies buried deep in the Eromanga Basin of Australia. Shocked quartz in drill core proved its impact origin, and the nearby Talundilly structure may be its twin. The impact occurred during deposition of the Cadna-owie Formation, whose age is estimated variously at 123-133 Ma or 115-112 Ma, so sources differ on the date. Tookoonooka is associated with several small oil fields.
 
   <!-- cret-042 -->
 
@@ -5895,7 +5895,7 @@ The Early Cretaceous begins 143.1 million years ago, with impacts on either side
 
 - **Las Hoyas preserves a Spanish wetland in stone** — c. 125 million years ago (125 Ma)
 
-  About 125 million years ago, a freshwater wetland in Spain turned into fine limestone. At Las Hoyas, it preserves dinosaurs and many enantiornithine birds in exquisite detail. It also yields Montsechia, one of the oldest flowering-plant fossils larger than pollen.
+  A freshwater wetland in Spain preserved its dead with unusual care. The limestones at Las Hoyas, about 125 Ma, hold dinosaurs and many enantiornithine birds exquisitely, and Montsechia, one of the oldest flowering-plant macrofossils. Microbial mats may be responsible for preserving the soft tissue in many fossils, such as the crest of Pelecanimimus. Charophyte and ostracod assemblages constrain the age to the Late Barremian.
 
   <!-- cret-047 -->
 
@@ -5917,7 +5917,7 @@ The Early Cretaceous begins 143.1 million years ago, with impacts on either side
 
 - **Stressed forests pour out resin, and amber piles up** — c. 125–75 million years ago (125–75 Ma)
 
-  Trees bleed resin when they are hurt, and Cretaceous trees were hurt often. From 125 to 75 million years ago, heat-driven storms, hurricanes, wildfires and insect damage made them produce huge amounts of it. By the Early Cretaceous, amber, fossilized resin, formed in concentrations matching or exceeding those of the Carnian.
+  Trees bled resin on a vast scale. Heat-driven storms, hurricanes and wildfires plus insect damage made them produce huge amounts of it from 125 to 75 Ma. The Cretaceous Resinous Interval began roughly 125 million years ago, during the Barremian age. By the Early Cretaceous, amber formed in concentrations matching or exceeding those of the Carnian. After the interval, in the Maastrichtian, amber was widely distributed but scarce and rarely held bioinclusions.
 
   <!-- cret-044 -->
 
@@ -5929,7 +5929,7 @@ The Early Cretaceous begins 143.1 million years ago, with impacts on either side
 
 - **Thalattosuchian sea crocodiles fade away** — during the Aptian, 121–113 million years ago (121.4–113.2 Ma)
 
-  In the Jurassic, sea-going crocodile relatives called thalattosuchians were abundant. By the Early Cretaceous they had become scarce and mostly tropical. Their last records come from the Aptian, and after that this long marine experiment of the crocodile line was over.
+  The marine crocodile relatives that were abundant in the Jurassic faded in the Early Cretaceous. Thalattosuchians became scarce and mostly tropical, with their last records in the Aptian. The clade was mostly marine, lived from the Early Jurassic to the Early Cretaceous and had a cosmopolitan distribution. They are not members of Crocodilia, and records from Thailand and China suggest some lived in freshwater.
 
   <!-- cret-050 -->
 
@@ -5965,13 +5965,13 @@ The Early Cretaceous begins 143.1 million years ago, with impacts on either side
 
 - **Egg-laying monotremes appear in Australia** — c. 120 million years ago (120 Ma)
 
-  The platypus has very old roots in Australia. Teinolophos, which lived there about 120 million years ago, is one of the earliest known monotremes, the egg-laying mammals. Steropodon, from Australia about 105 million years ago, has also been called the oldest monotreme.
+  Egg-laying mammals have a record centered on Australia. Teinolophos, which lived about 120 Ma, is one of the earliest known monotremes. Steropodon, from about 105 Ma, has also been called the oldest, and sources give different dates. The only Mesozoic monotremes come from Australia plus Patagonia. Teinolophos is dated Barremian, 126 Ma, and the many Cenomanian forms suggest monotremes were diversifying by the early Late Cretaceous. One hypothesis is that they arose in Australia in the Late Jurassic or Early Cretaceous and some migrated across the Antarctic land bridge to South America.
 
   <!-- cret-055 -->
 
 - **The last mammal-like tritylodontids vanish** — c. 120 million years ago (120 Ma)
 
-  Some cynodonts came so close to being mammals that they are called extremely mammal-like. Tritylodontids, plant-eaters, were the last surviving cynodonts outside the mammaliaforms. In Asia they persisted into the Barremian–Aptian, at least until around 120 million years ago, as Fossiomanus from China shows. They died out in the Early Cretaceous.
+  The last animals that were mammal-like but not yet mammals died out in the Early Cretaceous. Herbivorous tritylodontids persisted in Asia into the Barremian–Aptian, at least until around 120 Ma, as Fossiomanus from China shows. They were the last surviving non-mammaliaform cynodonts. Only two groups of non-mammaliaform cynodonts survived past the end of the Triassic, both in Probainognathia. A Kayentatherium specimen shows that tritylodontids already had a marsupial-like reproductive style but produced much larger litters, around 38 perinates or possibly eggs.
 
   <!-- cret-057 -->
 
@@ -6007,13 +6007,13 @@ The Early Cretaceous begins 143.1 million years ago, with impacts on either side
 
 - **Subduction zones begin to ring the Pacific** — c. 115 million years ago (115 Ma)
 
-  The Pacific Ring of Fire, today's loop of volcanoes and earthquakes, began to take shape in the Early Cretaceous. About 120–115 million years ago, the Farallon plate was subducting beneath the Americas and north-east Asia, and the Izanagi plate beneath east Asia. By about 115 million years ago, today's subduction zones had begun to form the ring around South America, North America and Asia.
+  By about 115 Ma, today's subduction zones had begun to form the Pacific Ring of Fire around South America, North America and Asia. About 120–115 Ma the Farallon plate was subducting beneath the Americas and north-east Asia, and the Izanagi plate beneath east Asia. By 85 to 70 million years ago the Izanagi plate was subducting under east Asia and North America, while the Farallon plate went under South America. The ring has a gap. It does not cross the southern Pacific from New Zealand to the Antarctic Peninsula or the southern tip of South America. The plate boundaries there (the Pacific–Antarctic Ridge, East Pacific Rise and Chile Ridge) are divergent instead of convergent.
 
   <!-- cret-064 -->
 
 - **Vista Alegre crater scars Brazil's basalts** — c. 115 million years ago (115 Ma)
 
-  An impact punched into the basalt plains of southern Brazil, near the Vargeão Dome. The Vista Alegre crater lies in those dark volcanic rocks. Geologists have only recently dated it, to about 115 million years ago, in the Early Cretaceous.
+  An impact crater in the basalts of southern Brazil has recently been dated to about 115 Ma. The Vista Alegre crater is a meteorite crater in Coronel Vivida, Paraná State. Given their proximity, age and stratigraphic similarities, it has been proposed that it and the nearby Vargeão structure formed as a double impact. An earlier estimate put the age at Paleogene or younger.
 
   <!-- cret-065 -->
 
@@ -6117,7 +6117,7 @@ The Late Cretaceous began in a hothouse and ended in catastrophe. For 34 million
 
 - **Meridiolestidans, South America's forgotten mammal rulers** — during the Late Cretaceous, 100–66 million years ago (100.5–66 Ma)
 
-  Long before llamas or armadillos, South America's mammals belonged to a group few people have heard of. Meridiolestidans were the dominant mammals of the continent in the Late Cretaceous. They came in surprising variety, from the sabre-toothed Cronopio to plant-eating mesungulatids. The group also proved remarkably durable: it outlasted the age of dinosaurs and lingered in Patagonia until the Miocene.
+  South America's Late Cretaceous mammals were not the ones we expect. Meridiolestidans were dominant, from sabre-toothed Cronopio to herbivorous mesungulatids. Meridiolestida is an extinct clade known from the Cretaceous and Cenozoic of South America and possibly Antarctica. The group lingered until the Miocene in Patagonia. Dryolestids are known from the Jurassic through Early Cretaceous of the Northern Hemisphere and from the Late Cretaceous through the Miocene of South America.
 
   <!-- cret-083 -->
 
@@ -6129,7 +6129,7 @@ The Late Cretaceous began in a hothouse and ended in catastrophe. For 34 million
 
 - **The Mississippi embayment, cradle of a great delta** — c. 100 million years ago (100 Ma)
 
-  The Mississippi River Delta has a surprisingly deep history. It traces back about 100 million years, to the Late Cretaceous, when a broad low trough called the Mississippi embayment formed. That embayment, an arm of lowland open to the sea, gave the future river a path to the Gulf. Everything the delta became later was built on this ancient foundation.
+  The Mississippi River Delta traces back about 100 Ma, when the Mississippi embayment formed in the Late Cretaceous. This physiographic feature in the south-central United States is part of the Mississippi Alluvial Plain. The embayment became a primary focus of sediment deposition during the Miocene (about 23 to 5.3 million years ago), which built the foundation of the modern delta region.
 
   <!-- cret-087 -->
 
@@ -6178,13 +6178,13 @@ The Late Cretaceous began in a hothouse and ended in catastrophe. For 34 million
 
 - **The first true crocodilians** — c. 95 million years ago (95 Ma)
 
-  Today's crocodiles, alligators and gharials belong to a lineage older than Tyrannosaurus. The first true crocodilians, the group called Crocodylia, evolved around 95 million years ago. Their ancestors had been around much longer, but this is when the line leading to every living crocodile and alligator began. That line would go on to outlast the dinosaurs around it.
+  True crocodilians (Crocodylia) evolve around 95 million years ago. One source dates their appearance to 83.5 million years ago in the Campanian. It calls them the closest living relatives of birds, the two groups being the only known survivors of the Archosauria. Their wider total group, Pseudosuchia, appeared about 250 million years ago in the Early Triassic and diversified during the Mesozoic.
 
   <!-- cret-093 -->
 
 - **Lebanon's Sannine fossil beds** — c. 95–94 million years ago (95–94 Ma)
 
-  In the hills of Lebanon, the stone splits open to reveal fish so perfect they look freshly caught. The Sannine Formation sites at Haqel, Hjoula and al-Nammoura are famous Cenomanian Lagerstätten, deposits of exceptionally well-preserved fossils. Shrimp, octopus, stingrays and bony fish are common finds. The octopuses are the true treasures, since fossil octopuses are among the rarest of all.
+  Lebanon's Sannine Formation sites at Haqel, Hjoula and al-Nammoura are famous Cenomanian Lagerstätten, rock deposits with exceptionally preserved fossils. Shrimp, octopus, stingrays and bony fish are common finds, though fossil octopuses are among the rarest. Together with Sahel Alma, these localities are known as the Fish Beds of Lebanon. The formation and its fossil fishes have been known since Roman Phoenicia.
 
   <!-- cret-094 -->
 
@@ -6204,7 +6204,7 @@ The Late Cretaceous began in a hothouse and ended in catastrophe. For 34 million
 
 - **The first mosasaurs slip into the sea** — c. 94 million years ago (94 Ma)
 
-  The most fearsome hunters of the late Cretaceous oceans started out modestly. The first mosasaurs, marine reptiles, appear around 94 million years ago. From that start they went on to rule the Late Cretaceous seas. They filled the role left empty by the ichthyosaurs, whose decline is told in Ichthyosaurs, the fish-lizards, die out.
+  The first mosasaurs appear around 94 million years ago. They went on to rule the Late Cretaceous oceans, filling the role left by the ichthyosaurs. Mosasaurs breathed air, were powerful swimmers and were well adapted to the warm, shallow inland seas of the Late Cretaceous. They became extinct in the K-Pg event at the end of the Cretaceous, about 66 million years ago.
 
   <!-- cret-096 -->
 
@@ -6256,7 +6256,7 @@ The Late Cretaceous began in a hothouse and ended in catastrophe. For 34 million
 
 - **Lava floods across Madagascar** — c. 92–85 million years ago (92–85 Ma)
 
-  Madagascar's rocks keep a timeline of fire that runs from north to south. Flood basalts, vast sheets of runny lava, erupted across the island between about 92 and 85 million years ago, by argon–argon dating. The ages are 88–92 million years in the north and 85–88 million years in the south. The pattern suggests the eruptions swept down the island over several million years.
+  Lava once covered Madagascar, roughly 1,000,000 km2 of it before erosion. Flood basalts erupted across the island between about 92 and 85 million years ago, by argon–argon dating. Ages run 88–92 million years in the north and 85–88 million years in the south. The basalts consist of lava flows, dykes, sills and intrusions, with plugs, scoria and spatter cones among other volcanic features.
 
   <!-- cret-101 -->
 
@@ -6268,19 +6268,19 @@ The Late Cretaceous began in a hothouse and ended in catastrophe. For 34 million
 
 - **The earliest ticks** — c. 90 million years ago (90 Ma)
 
-  Ticks are older than most of the animals they feed on today. The earliest examples of these small blood-sucking relatives of spiders appear around 90 million years ago. Their first hosts would have been the reptiles, birds and mammals of the Late Cretaceous world.
+  The earliest examples of ticks appear around 90 million years ago, but the timing of their origin is uncertain. The oldest known tick fossils are around 100 million years old and come from the Cretaceous. A 2019 analysis suggested that the last common ancestor of all living ticks lived around 195 million years ago in the Southern Hemisphere, in what was then Gondwana. Blood-feeding evolved independently at least six times in arthropods during the late Cretaceous. In ticks it is thought to have evolved 120 million years ago.
 
   <!-- cret-103 -->
 
 - **The last carnosaurs fall** — c. 90 million years ago (90 Ma)
 
-  One of the longest-running lines of giant predators came to an end. Carcharodontosaurids, the last definitive family of carnosaurs, became extinct in the Turonian, around 90 million years ago. Carnosaurs, a group of large meat-eating dinosaurs, had first appeared in the Middle Jurassic, around 174 million years ago. Their exit left the top-predator role to other theropods.
+  The last definitive carnosaur family, the carcharodontosaurids, became extinct in the Turonian around 90 million years ago. Carnosaurs had first appeared in the Middle Jurassic, around 174 million years ago. They are distinguished by large eye sockets, a long narrow skull, and leg and pelvis modifications such as a thigh bone (femur) longer than the shin (tibia). Most former carnosaurs, such as the megalosaurids, spinosaurids and ceratosaurs, have been reclassified as more primitive theropods.
 
   <!-- cret-104 -->
 
 - **A disputed anoxic event in the Coniacian–Santonian** — during the Coniacian–Santonian, 90–84 million years ago (89.8–83.6 Ma)
 
-  Not every black shale tells a global story. A minor oceanic anoxic event, recorded by organic-rich black shales, has been proposed for the Coniacian–Santonian stages, about 89.8–83.6 million years ago. Its shales are more local than those of the major Cretaceous events, found mainly in the Atlantic and nearby areas. That patchiness fuels a real disagreement: some researchers tie the shales to local conditions rather than to any global change.
+  Not every black shale tells a global story. A minor oceanic anoxic event, recorded by organic-rich black shales, has been proposed for the Coniacian–Santonian, about 89.8–83.6 million years ago. An anoxic event is a time when large expanses of ocean lost their dissolved oxygen, leaving waters both anoxic and sulfidic, and so toxic. Such events can be read as the Earth's response to excess carbon dioxide injected into air and water. These shales are more local than those of the major Cretaceous events, found mainly in the Atlantic and nearby areas. Some researchers therefore tie them to local conditions rather than to global change.
 
   <!-- cret-105 -->
 
@@ -6304,13 +6304,13 @@ The Late Cretaceous began in a hothouse and ended in catastrophe. For 34 million
 
 - **The first duck-billed hadrosaurids** — c. 86 million years ago (86 Ma)
 
-  The duck-billed dinosaurs would become some of the most common plant-eaters of the latest Cretaceous. Their family, the hadrosaurids, first appears around 86 million years ago. Its members included nest-builders like Maiasaura, the good mother lizard.
+  The duck-billed dinosaurs would become some of the most common plant-eaters of the latest Cretaceous. Their family, the hadrosaurids, first appears around 86 million years ago. They descended from Late Jurassic or Early Cretaceous iguanodonts and kept a similar body layout. Their teeth were different: stacked into complex dental batteries that made effective grinding surfaces, unlike those of more primitive iguanodonts. They could also switch stance. In some species the young walked mostly on two legs and the adults mostly on four. Its members included nest-builders like Maiasaura, the good mother lizard.
 
   <!-- cret-109 -->
 
 - **The Praia Grande crater, hidden off Brazil** — c. 86–84 million years ago (85.8–83.5 Ma)
 
-  Off the coast of Brazil, a scar from space lies under 4 km of rock. An impact in the Santonian made the Praia Grande crater, about 20 km across, in the Santos Basin. Buried deep beneath younger sediment, the crater is well preserved, shielded from the erosion that wipes out most impact scars.
+  Off the coast of Brazil, a scar from space lies under 4 km of rock. An impact in the Santonian made the Praia Grande crater, about 20 km across, in the Santos Basin. The basin lies about 200 kilometres southeast of the São Paulo State coastline. Buried deep beneath younger sediment, the crater is well preserved. It counts only as a possible impact crater: Petrobras identified it on 3D seismic data in 2004.
 
   <!-- cret-111 -->
 
@@ -6330,7 +6330,7 @@ The Late Cretaceous began in a hothouse and ended in catastrophe. For 34 million
 
 - **The High Arctic volcanoes flare again** — c. 85–60 million years ago (85–60 Ma)
 
-  Some volcanic provinces erupt for tens of millions of years. The High Arctic Large Igneous Province was active from about 130 to 60 million years ago. About 85 million years ago it entered a second phase. From then until about 60 million years ago, it poured out mildly alkaline flood basalts, a chemically distinct lava from its earlier eruptions.
+  Some volcanic provinces erupt for tens of millions of years. The High Arctic Large Igneous Province was active from about 130 to 60 million years ago. About 85 million years ago it entered a second phase. From then until about 60 million years ago, it poured out mildly alkaline flood basalts, with a geochemical makeup similar to intra-plate composition. The flood basalts in the Canadian Arctic Islands resemble the Columbia River flood basalts of the Pacific Northwest of the United States.
 
   <!-- cret-113 -->
 
@@ -6364,19 +6364,19 @@ The Late Cretaceous began in a hothouse and ended in catastrophe. For 34 million
 
 - **The Ninety East Ridge, a 5,000 km volcanic trail** — c. 82–38 million years ago (82–38 Ma)
 
-  A single straight ridge runs 5,000 km across the floor of the Indian Ocean. The Kerguelen hotspot built this Ninety East Ridge between 82 and 38 million years ago. A hotspot is a fixed plume of hot mantle that punches volcanoes through the plate above it. This one sat at or near a spreading ridge, and as India breaks free and races north carried India north, it left a long line of volcanic rock behind.
+  A single hotspot built a ridge as long as a country. The Kerguelen hotspot raised the 5,000 km Ninety East Ridge between 82 and 38 million years ago, at or near a spreading ridge. Around 60 million years ago, in the late Paleocene, parts of it stood above water for 2–3 million years as volcanic islands, probably 1,000 km from the nearest land. Yet the ridge shows no systematic isotopic variation. That is inconsistent with an ageing mantle plume for all of it, which suggests at least two hotspots contributed. The area also lies on the diffuse boundary between the Indian and Australian plates.
 
   <!-- cret-119 -->
 
 - **The oldest Hawaiian–Emperor volcanoes** — c. 81 million years ago (81 Ma)
 
-  The Hawaiian Islands are only the youngest end of a chain of volcanoes. Its oldest dated volcano, at the far northern end, is 81 million years old. The Emperor seamounts, the oldest and most eroded part of the chain, are 39 to 85 million years old. Each formed over the same hotspot and was then carried away by the moving Pacific plate.
+  Hawaii is the young end of a very old chain. The oldest dated volcano of the Hawaiian hotspot chain, at its northern end, is 81 million years old. The Emperor seamounts, the chain's oldest and most eroded part, are 39 to 85 million years old. The fifteen volcanoes of the eight principal Hawaiian islands are the youngest of more than 129 volcanoes stretching 5,800 kilometers across the North Pacific. In 1963 John Tuzo Wilson hypothesized that an essentially stationary hotspot made the chain as the Pacific plate drifted northwest, leaving a trail of increasingly eroded islands and seamounts.
 
   <!-- cret-120 -->
 
 - **The first palm trees** — c. 80 million years ago (80 Ma)
 
-  Palms, the emblem of tropical beaches, have roots deep in the age of dinosaurs. The first palm trees appear around 80 million years ago. They joined a world already being transformed by flowering plants, and their later spread became a useful sign of warm climates.
+  Palms arrived in the fossil record around 80 million years ago, by the date used here. Yet the family, Arecaceae, was the first modern family of monocots to appear, around 108 million years ago in the Early Cretaceous. That is earlier than the date given for this entry.
 
   <!-- cret-121 -->
 
@@ -6394,7 +6394,7 @@ The Late Cretaceous began in a hothouse and ended in catastrophe. For 34 million
 
 - **Lappajärvi, a Finnish lake in an impact crater** — 78 million years ago (77.85 ± 0.78 Ma)
 
-  One of Finland's largest lakes fills a hole punched by an asteroid. A rock about 1.6 km across struck about 77.85 million years ago, in the Campanian. It left a crater about 22–23 km wide and 750 m deep. Today that crater holds Lake Lappajärvi.
+  A rock about 1.6 km across left one of Finland's largest lakes. An asteroid of that size struck about 77.85 million years ago, in the Campanian. It left a crater about 22–23 km wide and 750 m deep, now Lake Lappajärvi. In 2001 uranium-lead dating by the Geological Survey of Finland put the crater's age at around 73.3 million years, give or take five million. Other dating methods give different ages, so the exact date is not settled.
 
   <!-- cret-124 -->
 
@@ -6406,7 +6406,7 @@ The Late Cretaceous began in a hothouse and ended in catastrophe. For 34 million
 
 - **The first Velociraptor** — c. 75 million years ago (75 Ma)
 
-  The real Velociraptor was a feathered hunter of the Late Cretaceous. It first appears around 75 million years ago. It became one of the most famous of the small predatory dinosaurs, and one was later found locked in combat in The Fighting Dinosaurs of the Gobi.
+  The famous raptor was smaller than most people expect. Velociraptor first appears around 75 million years ago and lived in Asia until about 71 million years ago. It was a small dromaeosaurid, about 1.5–2.07 m long, with a body mass of around 14.1–19.7 kg, smaller than Deinonychus and Achillobator. Its long, low skull with an upturned snout sets it apart from other dromaeosaurids.
 
   <!-- cret-128 -->
 
@@ -6418,7 +6418,7 @@ The Late Cretaceous began in a hothouse and ended in catastrophe. For 34 million
 
 - **The Manson impact in Iowa** — c. 74 million years ago (73.8 ± 0.3 Ma)
 
-  Beneath the cornfields of Iowa lies a buried scar from space. An asteroid or comet nucleus struck near present-day Manson about 74 million years ago. It left an impact structure about 35 km across, now hidden under younger sediment.
+  Under the flat fields of Iowa lies one of North America's largest known impact scars. An asteroid or comet nucleus struck near present-day Manson about 74 million years ago, leaving a buried structure about 35 km across. Nothing shows at the surface, because comparatively recent glacial till covers it and the site is now a flat landscape. Some dating of the core gives a different age, so sources do not agree exactly.
 
   <!-- cret-129 -->
 
@@ -6430,13 +6430,13 @@ The Late Cretaceous began in a hothouse and ended in catastrophe. For 34 million
 
 - **The last Bennettitales** — during the Maastrichtian, 72–66 million years ago (72.2–66 Ma)
 
-  Bennettitales looked a little like cycads, and for a long time they were everywhere. These seed plants, also called cycadeoids, had been around since the Permian and were widespread in the Jurassic and Early Cretaceous. Then flowering plants rose, and Bennettitales declined severely through the Late Cretaceous. They died out in most areas toward the end of the period. Their last northern records come from polar latitudes.
+  Once among the most common seed plants of the Mesozoic, the Bennettitales ended as a polar remnant. These shrubs and cycad-like plants, also called cycadeoids, had been present since the Permian. They were widespread in the Jurassic and Early Cretaceous, then declined severely in the Late Cretaceous as flowering plants rose. They died out in most areas toward the end of the Cretaceous, with the last northern records in polar latitudes. Where they belong among seed plants remains uncertain.
 
   <!-- cret-131 -->
 
 - **The Maastrichtian sea-level fall** — during the Maastrichtian, 72–66 million years ago (72.2–66 Ma)
 
-  In the final stage of the Cretaceous, the seas drained off the continents faster than at any other time in the Mesozoic. Sea level fell further during this Maastrichtian regression than in any other Mesozoic interval. A regression is a retreat of the sea from the land, exposing old seafloor and shrinking shallow coastal habitats. The drop came just before the end of the dinosaurs, and it is one of the proposed contributors to The Cretaceous–Paleogene mass extinction.
+  The sea itself retreated as the Cretaceous ended. Sea level fell in the final stage by more than at any other time in the Mesozoic. This Maastrichtian regression is one of the proposed contributors to the K–Pg extinction. A massive fall would have greatly shrunk the continental shelf margin, which could have caused a mass extinction for marine species only. Some argue it was the most likely cause because the boundary layers show no distortion or tilting related to mountains. The case is contradicted by sections that show no sign of marine regression yet still show a major drop in diversity.
 
   <!-- cret-133 -->
 
@@ -6450,19 +6450,19 @@ The Late Cretaceous began in a hothouse and ended in catastrophe. For 34 million
 
 - **Mosasaurus, the last giant sea lizard** — c. 70 million years ago (70 Ma)
 
-  The mosasaur that gave the whole group its name arrived late. Mosasaurus evolved around 70 million years ago. By the Maastrichtian, several large mosasaurs shared the Tethys Sea and competed for its prey. They were the ruling marine predators right up to the end of the Cretaceous.
+  Mosasaurus evolves around 70 million years ago, and it was not alone. In the Maastrichtian, several large mosasaurs shared and competed in the Tethys Sea. Mosasaurus faced other large predatory mosasaurs such as Prognathodon and Tylosaurus, which fed on similar prey. They coexisted through niche partitioning. Another source gives Mosasaurus a longer range, about 82 to 66 million years ago, across the Campanian and Maastrichtian.
 
   <!-- cret-138 -->
 
 - **Multituberculates, rodents before rodents** — c. 70 million years ago (70 Ma)
 
-  Long before mice and squirrels existed, another group of mammals filled their roles. Multituberculates increased in diversity around 70 million years ago. In the Late Cretaceous they radiated as plant-eaters and into forms like squirrel-like tree dwellers, reaching a peak of diversity. They were among the most successful mammals of the age of dinosaurs.
+  The most successful of the early mammals were gnawers. Multituberculates increased in diversity around 70 million years ago. They were the most diverse order of Mesozoic mammals, with more than 200 species ranging from mouse-sized to beaver-sized. By the Cenomanian, early in the Late Cretaceous, the Cimolodonta had replaced all other multituberculate lineages. In the Late Cretaceous they radiated as herbivores and into forms like squirrel-like tree dwellers, peaking in diversity.
 
   <!-- cret-139 -->
 
 - **The Labrador Sea begins to open** — c. 69 million years ago (69 Ma)
 
-  Greenland began drifting away from North America near the end of the Cretaceous. The Labrador Sea started opening 69 million years ago, in the Maastrichtian. Seafloor spreading in its southern part pushed Greenland north relative to North America. The date is not settled: a 1989 paper dates the sea's first opening to 92 million years ago, not 69.
+  The Labrador Sea started opening 69 million years ago, in the Maastrichtian. Seafloor spreading in its southern part moved Greenland north relative to North America. Sources disagree on the timing. One says the sea formed as the North American and Greenland plates separated, starting about 60 million years ago in the Paleocene and stopping about 40 million years ago. Spreading in Baffin Bay and the Labrador Sea slowed, became oblique, and ceased between 45 and 36 million years ago. The cited 1989 paper dates the initial opening to 92 Ma, not the 69 Ma used here.
 
   <!-- cret-140 -->
 
@@ -6474,7 +6474,7 @@ The Late Cretaceous began in a hothouse and ended in catastrophe. For 34 million
 
 - **Quetzalcoatlus, a giant of the skies** — c. 68 million years ago (68 Ma)
 
-  One of the largest animals ever to fly appeared just before the end of the Cretaceous. Quetzalcoatlus, a giant pterosaur, first appears around 68 million years ago. It was among the very last flying reptiles, and its line would end with The last pterosaurs.
+  Few animals ever matched it for size in the air. Quetzalcoatlus first appears around 68 million years ago. Its type specimen, found in 1971 in the Javelina Formation of Texas, is just several wing fragments, and it was described as Quetzalcoatlus northropi in 1975. That species is a candidate for the largest flying animal ever found, though its size is hard to estimate from a fragmentary specimen. Azhdarchids like it were highly terrestrial by pterosaur standards, yet even the largest could fly.
 
   <!-- cret-143 -->
 
@@ -6541,13 +6541,13 @@ The Late Cretaceous began in a hothouse and ended in catastrophe. For 34 million
 
 - **The last belemnites** — c. 66 million years ago (66 Ma)
 
-  Belemnites, squid-like animals with bullet-shaped internal shells, were already in trouble before the asteroid hit. By then they had shrunk to a few high-latitude regions. The K–Pg extinction finished them. As with ammonites, their embryos probably could not survive the acidifying ocean. Sea butterflies, small swimming snails, took the place of their larvae in the food chain.
+  Belemnites were already declining and confined to a few high-latitude regions when they died out in the K–Pg extinction. Like ammonites, their embryos probably could not survive ocean acidification, and sea butterflies replaced their larvae in the food chain. The loss mattered: belemnites had been an important food source for many Mesozoic marine creatures, both adults and planktonic juveniles.
 
   <!-- cret-150 -->
 
 - **The last pterosaurs** — c. 66 million years ago (66 Ma)
 
-  The first vertebrates to fly under their own power did not survive the asteroid. Azhdarchid and nyctosaurid pterosaurs were still present in the Maastrichtian, and likely died out at the K–Pg boundary. In the end every pterosaur perished in that extinction. The skies passed entirely to the birds.
+  No pterosaur survived the K–Pg extinction. Azhdarchid and nyctosaurid pterosaurs were present in the Maastrichtian and likely died out at the boundary. Pterosaurs were an extinct clade of warm-blooded flying reptiles. They were not dinosaurs, which are defined as descendants of the last common ancestor of Saurischia and Ornithischia.
 
   <!-- cret-152 -->
 
@@ -6575,7 +6575,7 @@ The Late Cretaceous began in a hothouse and ended in catastrophe. For 34 million
 
 - **Shiva, a disputed second crater** — c. 66 million years ago (66 Ma)
 
-  Some researchers think Chicxulub may not have struck alone. Sankar Chatterjee and colleagues proposed that a structure off India, the potential Shiva crater, formed at the K–Pg boundary and helped cause the extinction. At 450–600 km across, it would far exceed Chicxulub, and it has been dated to about 66 million years ago. But Shiva is only a proposed impact structure, and it has not been confirmed.
+  A crater far larger than Chicxulub would be hard to miss, and that is the claim. The potential Shiva crater, 450–600 km across, has been dated to about 66 million years ago. It is a proposed impact crater on the Indian continental shelf, offshore west of Mumbai. Sankar Chatterjee and colleagues proposed that it formed at the K–Pg boundary and helped cause the extinction. He suggested that Shiva, Chicxulub and other possible craters came from multiple impacts. Shiva remains only a proposed, unconfirmed structure.
 
   <!-- cret-155 -->
 
@@ -6703,7 +6703,7 @@ The Paleocene is the story of recovery. Colorado's Denver Formation records mamm
 
 - **The Deccan fires die down** — c. 63 million years ago (63 Ma)
 
-  The vast eruptions of The Deccan Traps flood India with lava came in a rush, then faded. The bulk of the lava poured from fissures in the Western Ghats between 66 and 65 million years ago. Two-thirds of it may have formed within a million years around 65.5 million years ago. India's plate motion slowed around 63 million years ago. By then the main phase of Deccan volcanism had ended.
+  Most of the Deccan lava came out in a flash of geological time. The bulk erupted from fissures in the Western Ghats between 66 and 65 Ma, and two-thirds may have formed within a million years around 65.5 Ma. India's plate motion slowed around 63 Ma, by which time the main phase had ended. The Deccan Traps may originally have covered about 1.5 million km2, with a correspondingly larger volume. Erosion and plate tectonics reduced them, and the lava flows directly observable now cover around 500,000 km2.
 
   <!-- pale-024 -->
 
@@ -6755,7 +6755,7 @@ The Paleocene is the story of recovery. Colorado's Denver Formation records mamm
 
 - **Eritherium, an elephant ancestor the size of a cat** — c. 60 million years ago (60 Ma)
 
-  The first member of the elephant order weighed no more than a house cat. Proboscideans first evolved in Africa around 60 million years ago, during the Selandian. The earliest known, Eritherium, weighed only about 3–8 kg. From such small beginnings would come mammoths and today's elephants.
+  The ancestor of the elephants weighed about as much as a house cat. Proboscideans, the elephant order, first evolved in Africa around 60 Ma, during the Selandian. The earliest known, Eritherium, weighed only about 3–8 kg. Later proboscideans are distinguished by enormous size, tusks and long muscular trunks, which were less developed or absent in the early ones. By the Early Eocene, proboscideans began growing in size.
 
   <!-- pale-033 -->
 
@@ -6889,7 +6889,7 @@ The Eocene opened in heat. Around its start, oxygen in the atmosphere more or le
 
 - **Gastornis, the giant flightless bird** — c. 56–40 million years ago (56–40 Ma)
 
-  In the forests of the early Eocene stalked a bird too big to fly. Gastornis, a large flightless bird, appears in the fossil record about 56 million years ago. It lasted a long time, going extinct only about 40 million years ago. Birds, not just mammals, produced giants after the dinosaurs.
+  A bird taller than most of its neighbors could not fly. Gastornis, a large flightless bird, appears in the fossil record about 56 million years ago and went extinct about 40 million years ago. No fossil of it has been found younger than about 45 million years. Its relatives are still debated: a 2024 study found little support for Gastornithiformes and placed Gastornis in the Galliformes crown group, closer to Phasianoidea than to megapodes.
 
   <!-- eoce-010 -->
 
@@ -6929,7 +6929,7 @@ The Eocene opened in heat. Around its start, oxygen in the atmosphere more or le
 
 - **The London Clay's tropical flora** — c. 54–50 million years ago (54–50 Ma)
 
-  Under the streets of London lie the fruits of a tropical forest. Shallow seas over southeast England laid down the London Clay, rich in fossil seeds and fruits of some 350 plant species. Its flora includes tropical plants that now grow in Asia. They are a sign of how much warmer the early Eocene climate was.
+  Palm-like fruits from southeast England look like a tropical market. Shallow seas over the region laid down the London Clay, rich in fossil seeds and fruits of some 350 plant species. Its flora includes tropical plants now found in Asia, reflecting the much warmer early Eocene climate. Collectors have gathered these plant fossils for almost 300 years. The clay itself is stiff and bluish, turning brown when weathered and oxidized.
 
   <!-- eoce-020 -->
 
@@ -6968,7 +6968,7 @@ The Eocene opened in heat. Around its start, oxygen in the atmosphere more or le
 
 - **Eocene Thermal Maximum 3** — c. 53 million years ago (52.8 Ma)
 
-  Hothouse worlds tend to come in a sequence of spikes. ETM-3, informally the K or X event, was another early Eocene hyperthermal, about 52.8 million years ago. It is marked by a pulse of isotopically light carbon, the kind released from organic matter. Its carbon-isotope excursion marks the onset of The Early Eocene Climatic Optimum.
+  ETM-3, informally the K or X event, was another early Eocene hyperthermal, a brief warm spike marked by a pulse of isotopically light carbon. Its carbon-isotope excursion marks the onset of the Early Eocene Climatic Optimum. Sources differ on the date. Another gives about 52.5 million years ago, after ETM2 at about 53.2 million years ago.
 
   <!-- eoce-025 -->
 
@@ -6994,7 +6994,7 @@ The Eocene opened in heat. Around its start, oxygen in the atmosphere more or le
 
 - **Cambay amber, an Indian insect trap** — c. 52–50 million years ago (52–50 Ma)
 
-  Tree resin is a perfect trap for small creatures, and it can hold them for tens of millions of years. Amber from Gujarat, India, preserves an important early Eocene assemblage of arthropods, mostly insects. It dates to about 52–50 million years ago, around the time India was meeting Asia.
+  Insects trapped in resin in Gujarat give a glimpse of a world in motion. The Cambay amber preserves an important early Eocene assemblage of arthropods, mainly insects, and mayflies have been found in it. It was being deposited at the peak of the Early Eocene Climatic Optimum. India was colliding with Asia then, acting as a biotic ferry, so the amber may help show the biotic interchange between the two landmasses.
 
   <!-- eoce-026 -->
 
@@ -7012,13 +7012,13 @@ The Eocene opened in heat. Around its start, oxygen in the atmosphere more or le
 
 - **The Sevier orogeny ends** — c. 50 million years ago (50 Ma)
 
-  A belt of thrust faults in western North America had been folding and stacking rock for a very long time. Deformation in the Sevier fold-and-thrust belt, under way since about 160 million years ago, ended around 50 million years ago. In southwestern Utah, some Sevier thrusts may have stayed active until later in the Eocene.
+  A mountain-building episode that began about 160 million years ago finally stopped. Deformation in the Sevier fold-and-thrust belt of western North America ended around 50 Ma, though in southwestern Utah some thrusts may have stayed active until later in the Eocene. The orogeny affected western North America from northern Canada to Mexico. It was preceded by the Nevadan, Sonoman and Antler orogenies and partially overlapped in time and space with the Laramide orogeny.
 
   <!-- eoce-035 -->
 
 - **Monte Bolca, the fishbowl of Verona** — c. 50–49 million years ago (50–49 Ma)
 
-  Some fossil fish from Italy still show their colors. Near Verona, low-oxygen mud preserved fish so well that their organs are often intact, and skin color can sometimes be read. The site's Pesciara, meaning 'fishbowl', is famous for these extraordinarily well-preserved Eocene fish, from about 50–49 million years ago.
+  Near Verona, a lack of oxygen in the mud preserved fish almost as they lived. Their organs are often intact and skin colour can sometimes be read. The Pesciara ('fishbowl') is famous for extraordinarily well preserved Eocene fish. Monte Bolca is rich, with 250 species in 140 genera, 90 families and 19 orders. It has the most diverse fish fauna of any Cenozoic fossil site, with many of the earliest fossil occurrences of modern marine fish groups.
 
   <!-- eoce-034 -->
 
@@ -7071,25 +7071,25 @@ The Eocene opened in heat. Around its start, oxygen in the atmosphere more or le
 
 - **Rifts open across western Europe** — during the Middle Eocene, 48–38 million years ago (48.07–37.71 Ma)
 
-  The same collision that raised the Alps also tore western Europe open. From the Eocene onward, the ongoing Alpine collision opened a north–south system of rifts, long valleys where the crust pulls apart. The Limagne Graben formed in the middle Eocene and held a lake. Rifting also began in the Bresse Graben.
+  A crack more than a thousand kilometers long opened across western Europe. The ongoing Alpine collision opened a north–south rift system from the Eocene onward. The European Cenozoic Rift System is 1,100 km long, formed in the foreland of the Alps as the lithosphere responded to the Alpine and Pyrenean orogenies. It began to form in the Late Eocene. The Limagne Graben formed in the middle Eocene, holding a lake, and rifting also began in the Bresse Graben. Parts, especially the Upper and Lower Rhine Grabens, remain seismically active and cause most of the larger earthquakes in Europe north of the Alps.
 
   <!-- eoce-039 -->
 
 - **Grasses spread and the first savannas appear** — during the Middle Eocene, 48–38 million years ago (48.07–37.71 Ma)
 
-  Grasslands began as a thin fringe along rivers. As the climate cooled and dried after the EECO, grasses began to spread. During the Eocene they moved out from riverbanks into open tracts. Subhumid savannas, open grassy country with scattered trees, are known in South America from the middle Eocene. The change opened new country for grazing animals.
+  Open grassland is a young idea. Grasses began to spread as the climate cooled and dried after the Early Eocene Climatic Optimum, moving out from riverbanks into open tracts. Subhumid savannas are known in South America from the middle Eocene. The middle Eocene shifted to a cooler climate around 47.8 Ma, briefly interrupted by the Middle Eocene Climatic Optimum. The Eocene held the warmest period of the Cenozoic and also marked the decline into an icehouse climate and the rapid expansion of the Antarctic ice sheet. One timeline places the first grasslands later, around 35 Ma.
 
   <!-- eoce-040 -->
 
 - **The Kula plate disappears beneath Alaska** — c. 48 million years ago (48 Ma)
 
-  An entire tectonic plate can be swallowed whole. The Kula plate had been subducting under Alaska and the Yukon since the early Eocene. Around 48 million years ago it was entirely consumed. Only a slab of it remains, deep in the mantle under the Bering Sea.
+  An entire ocean plate vanished under Alaska. The Kula plate, subducting under Alaska and the Yukon since the early Eocene, was entirely consumed around 48 million years ago. Only a slab in the mantle under the Bering Sea remains. Another source says nearly all of it had been subducted beneath the North American Plate by about 40 million years ago, and that Kula–Pacific spreading ceased then as the Kula plate joined the Pacific plate.
 
   <!-- eoce-044 -->
 
 - **Geiseltal, a German lignite treasure** — c. 48–41 million years ago (48–41 Ma)
 
-  A coal mine in central Germany turned out to be a vault of Eocene life. A coastal moorland of lakes and tidal bays there preserved over 50,000 fossil vertebrates, along with insects and plants. Its soft tissues were among the very first found from the Eocene. Its mammals are so characteristic that they define a European land-mammal stage.
+  A coastal moorland of lakes and tidal bays in central Germany preserved over 50,000 fossil vertebrates, plus insects and plants. The Geiseltal fossils, especially the vertebrates and mammals, are uniquely preserved in lignite, found nowhere else in Central Europe. Soft tissues were among the very first found from the Eocene, and the mammals define a European land-mammal stage. The lignite is divided into four main seams, of which the lower three were mainly fossil-bearing.
 
   <!-- eoce-043 -->
 
@@ -7119,7 +7119,7 @@ The Eocene opened in heat. Around its start, oxygen in the atmosphere more or le
 
 - **Kishenehn's blood-filled mosquito** — c. 46 million years ago (46.2 Ma)
 
-  A mosquito from Montana died with its last meal still inside it. Oil shale there, about 46.2 million years old, preserves exquisitely detailed insects. Among them is a blood-filled mosquito with traces of hemoglobin, the oxygen-carrying molecule in blood, still detectable after tens of millions of years.
+  A mosquito that had just fed lies in Montana stone. Oil shale of the Kishenehn Formation, a Paleogene stratigraphic unit, preserves exquisitely detailed insects. These include a blood-filled mosquito with traces of hemoglobin.
 
   <!-- eoce-050 -->
 
@@ -7143,25 +7143,25 @@ The Eocene opened in heat. Around its start, oxygen in the atmosphere more or le
 
 - **The Quercy 'natural mummies'** — c. 45–25 million years ago (45–25 Ma)
 
-  In southern France, cracks in limestone became time capsules. Karst fissures, cavities dissolved in the rock, filled with sediment holding mammals, birds, turtles, crocodiles, plants and insects from about 45–25 million years ago. Some amphibians and lizards survive as articulated 'natural mummies', with their soft tissue preserved.
+  Fissures in southern France became natural tombs. These karst deposits hold mammals, birds, turtles, crocodiles, plants and insects. Some amphibians and lizards are preserved as articulated 'natural mummies' with soft tissue. Nearly all fly pupae were preserved as isolated endocasts, many still covered by the puparium, the hardened skin of the last larval instar. The first phosphate deposits in Quercy were discovered in 1869 and published independently by Daubré and Trutat in 1871.
 
   <!-- eoce-056 -->
 
 - **India and Australia fuse into one plate** — c. 43 million years ago (43 Ma)
 
-  Two of the plates that had drifted apart from Gondwana ended up joined again. The Indo-Australian plate formed when the Indian and Australian plates fused, approximately 43 million years ago. From then on they moved as a single slab of crust.
+  Two plates became one. The Indo-Australian plate formed when the Indian and Australian plates fused, approximately 43 million years ago, after the mid-ocean ridge between them ceased spreading. The union is not perfect. Along the northern Ninety East Ridge there appears to be a weakness zone where the two plates are going different ways. Differential movement has compressed the plate near its centre at Sumatra, with a possible division into separate Indian and Australian plates again.
 
   <!-- eoce-058 -->
 
 - **The Logoisk crater in Belarus** — c. 42 million years ago (42.3 ± 1.1 Ma)
 
-  Belarus hides a buried crater 15 km wide. A meteorite struck near the town of Lahoysk about 42.3 million years ago and left it. Today it lies beneath younger sediment, invisible at the surface.
+  Drillers looking for something else found a buried crater. A meteorite struck near Lahoysk, Belarus, about 42.3 million years ago, leaving a 15 km crater, now buried. It was found by accident during routine exploration drilling near the village of Kuzevichi in the 1970s. Drilling found Quaternary deposits to 160 m, then 230 m of layered clays and lacustrine sediments, then 240 m of breccias. It was suggested that the crater may contain impact diamonds, but this has not been confirmed.
 
   <!-- eoce-059 -->
 
 - **A burst of magnetic reversals** — c. 42 million years ago (42 Ma)
 
-  Around 42 million years ago, Earth's magnetic field could not settle down. It flipped 17 times in 3 million years, swapping north and south again and again. That was a fast pace. Earlier, in a 4-million-year window centered on 54 million years ago, there were 10 reversals, a contrast with the long calm of The magnetic field's long calm ends.
+  The magnetic field can get restless. Around 42 million years ago, Earth's field flipped 17 times in 3 million years. Earlier, in a 4-million-year window centred on 54 Ma, there were 10 reversals. There have been at least 183 reversals over the last 83 million years, on average once every 450,000 years or so. The rate has varied widely over time.
 
   <!-- eoce-060 -->
 
@@ -7205,7 +7205,7 @@ The Eocene opened in heat. Around its start, oxygen in the atmosphere more or le
 
 - **The Eridanos, a lost Baltic river** — c. 40 million years ago (40 Ma)
 
-  Where the Baltic Sea now lies, a great river once flowed. The Eridanos, an ancient river through what is now the Baltic region, began to form about 40 million years ago. Today the Baltic Sea covers the land it once drained.
+  A river that no longer exists once drained much of northern Europe. The Eridanos began to form about 40 million years ago and flowed through what is now the Baltic Sea. Its remnants are found from the North Sea and the Netherlands in the west to sediments in northern Lapland. Neogene uplift of the South Swedish Dome deflected it from its path across south-central Sweden to a course south of Sweden in the Pliocene. After it disappeared, the Rhine became the most important river in this part of the North Sea Basin.
 
   <!-- eoce-065 -->
 
@@ -7223,7 +7223,7 @@ The Eocene opened in heat. Around its start, oxygen in the atmosphere more or le
 
 - **Rifting begins in northern Kenya** — c. 40–35 million years ago (40–35 Ma)
 
-  East Africa began to crack open in the Eocene. Volcanism and rifting began around Turkana, in northern Kenya, 40–35 million years ago. The rifting then spread north and south along the Gregory Rift.
+  Africa began to split in the north. Volcanism and rifting began around Turkana in northern Kenya 40–35 million years ago, then spread north and south along the Gregory Rift. When rifting reached the Tanzanian Craton, the rift divided into the eastern Gregory Rift and the western Albertine Rift, separated by the 1,300 kilometres wide East African Plateau. The rift is widest at its northern end in the Afar region, narrowing to a few kilometers in northern Tanzania.
 
   <!-- eoce-070 -->
 
@@ -7241,13 +7241,13 @@ The Eocene opened in heat. Around its start, oxygen in the atmosphere more or le
 
 - **Lake Wanapitei impact** — c. 37 million years ago (37.2 ± 1.2 Ma)
 
-  A round lake in Canada fills the scar of an impact. About 37.2 million years ago, a body from space struck and made a crater 8.4 km across. Today that crater holds Lake Wanapitei.
+  A lake inside a city fills an old crater. An impact about 37.2 million years ago made an 8.4 km crater, now Lake Wanapitei, within the city of Greater Sudbury, Ontario, Canada. It lies next to the nearby but unrelated Sudbury impact crater. It is one of the world's largest lakes entirely within a single municipality.
 
   <!-- eoce-078 -->
 
 - **The Cascade volcanoes awaken** — c. 37 million years ago (37 Ma)
 
-  The volcanic arc that includes today's Cascade peaks began to burn about 37 million years ago. Volcanism in the Cascade arc of the Pacific Northwest began then. The West Cascades period that followed, from 37 to 17 million years ago, was a time of exceptionally active volcanoes.
+  Volcanism in the Cascade arc of the Pacific Northwest began about 37 million years ago. The West Cascades period, 37 to 17 million years ago, was a time of exceptionally active volcanoes. The arc now includes nearly 20 major volcanoes among over 4,000 separate volcanic vents. In the North Cascades geologists have not identified with certainty any volcanic rocks as old as 35 million years.
 
   <!-- eoce-079 -->
 
@@ -7267,7 +7267,7 @@ The Eocene opened in heat. Around its start, oxygen in the atmosphere more or le
 
 - **The Mistastin impact in Labrador** — c. 37 million years ago (36.6 Ma)
 
-  In the wilds of Labrador, Canada, lies a crater that was once about 28 km across. An impact made it about 36.6 million years ago, one of several large strikes of the late Eocene.
+  A crater in Labrador was spotted from space. An impact about 36.6 million years ago left a crater originally about 28 km across, in northwestern inland Labrador, due west of Natuashish, near Quebec. Mistastin Lake was first identified as a possible impact crater in 1968, after being viewed from space. Cubic zirconia around the rim suggests temperatures above 2,370 °C, roughly 43% of the temperature of the Sun's surface.
 
   <!-- eoce-083 -->
 
@@ -7297,7 +7297,7 @@ The Eocene opened in heat. Around its start, oxygen in the atmosphere more or le
 
 - **The Ring of Fire takes its modern shape** — c. 35 million years ago (35 Ma)
 
-  The Pacific's ring of volcanoes is surprisingly young in its present form. By about 35 million years ago, the Kula and Farallon plates had been subducted. The Pacific plate was then ringed by subduction much like today's Ring of Fire. The New Zealand subduction zone, the last of its present segments, formed about 35 million years ago.
+  By about 35 million years ago the Kula and Farallon plates had been subducted, and the Pacific plate was ringed by subduction much like today's Ring of Fire. The New Zealand subduction zone, the last of its present segments, formed about 35 million years ago. The ring is not complete: it does not extend across the southern Pacific from New Zealand to the Antarctic Peninsula or the southern tip of South America, because plate boundaries there are divergent. The southwest is more complex, with smaller plates colliding with the Pacific plate at the Mariana Islands, the Philippines, eastern Indonesia, Papua New Guinea, Tonga and New Zealand.
 
   <!-- eoce-089 -->
 
@@ -7315,7 +7315,7 @@ The Eocene opened in heat. Around its start, oxygen in the atmosphere more or le
 
 - **Florissant, a lake of fossils** — c. 34 million years ago (34 Ma)
 
-  In Colorado, a lake dammed by volcanic mudflows became a perfect fossil trap. Diatom blooms in its water finely preserved late Eocene plants and insects, about 34 million years ago. The site is also famous for petrified stumps of giant sequoia relatives.
+  Falling algae buried a forest's leftovers. In Colorado, diatom blooms in a lake dammed by volcanic mudflows finely preserved late Eocene plants and insects. As diatoms fell to the lake bottom, plants and animals that had recently died were preserved by the diatom falls. The site is also known for petrified stumps of giant sequoia relatives. Fossil plants, especially leaves, have been the most useful source of information on paleoclimate during deposition of the Florissant Formation.
 
   <!-- eoce-092 -->
 
@@ -7390,13 +7390,13 @@ About 33.9 million years ago, ice began to build up on Antarctica, and Earth ent
 
 - **Baikal's rift starts pulling apart again** — during the Oligocene, 34–23 million years ago (33.9–23.04 Ma)
 
-  In the heart of Siberia, the crust began to stretch once more. Rifting in the Baikal Rift Zone resumed in the Oligocene. Over time the stretching formed graben basins, sunken troughs dropped between faults.
+  Rifting in the Baikal Rift Zone resumed in the Oligocene, later forming graben basins, which are down-dropped blocks of crust. Lake Baikal in Siberia is a modern example of a rift basin.
 
   <!-- olig-004 -->
 
 - **Carnivorans seize the top predator roles** — during the Oligocene, 34–23 million years ago (33.9–23.04 Ma)
 
-  In the Eocene, the top hunters had been oxyaenids and mesonychians. In the Oligocene, carnivorans took their place, led by the cat-like nimravids. Across the Old World, dogs, nimravids, bears, weasels and raccoons began to replace the older creodonts. The predator families that still rule land today were settling into their jobs.
+  Cats and their kin took over the hunt. Carnivorans, led by the cat-like nimravids, took the top-predator roles held in the Eocene by oxyaenids and mesonychians. Dogs, nimravids, bears, weasels and raccoons began to replace the creodonts in the Old World. The teeth hint that the groups were separate: carnassial teeth sit near the front of the molar row in carnivorans but near the back in creodonts, suggesting separate evolutionary histories and an order-level distinction.
 
   <!-- olig-005 -->
 
@@ -7414,7 +7414,7 @@ About 33.9 million years ago, ice began to build up on Antarctica, and Earth ent
 
 - **The Obik Sea drains and Europe meets Asia** — during the Oligocene, 34–23 million years ago (33.9–23.04 Ma)
 
-  For a long time a shallow sea, the Obik Sea, kept Europe and Asia apart. Early in the Oligocene it retreated, and the two landmasses gained a lasting land connection. The cause was falling sea level, which closed the Turgai Strait that ran across it. With the water gone, Europe lay open to Asian mammals. The consequences arrived quickly, in the faunal upheaval described in The Grande Coupure: Asia's mammals overrun Europe.
+  A sea disappeared and animals walked across its bed. The Obik Sea, which had separated Europe from Asia, retreated early in the Oligocene and left a lasting land connection. Falling sea level closed the Turgai Strait across it, opening Europe to Asian mammals. Sea levels were lower in the Oligocene than in the early Eocene, exposing large coastal plains in Europe. By the end of the Eocene-Oligocene transition they had dropped by 105 meters. That transition in Europe and Asia has been called the Grande Coupure.
 
   <!-- olig-013 -->
 
@@ -7469,7 +7469,7 @@ About 33.9 million years ago, ice began to build up on Antarctica, and Earth ent
 
 - **The Atacama begins its long drought** — c. 33 million years ago (33 Ma)
 
-  The Atacama may be Earth's oldest desert. Its drying began with a proto-Humboldt Current, a cold coastal flow set up when the passage between Tasmania and Antarctica opened about 33 million years ago. After that, humid air was generally lacking there, apart from brief wetter spells.
+  Earth's oldest desert may be in Chile. A proto-Humboldt Current, set up with the Tasmania–Antarctic passage about 33 million years ago, began the Atacama's drying. Humid air was generally lacking there afterward, apart from brief wetter spells. Aridity predates the rise of the Central Andes, but hyper-aridity is generally thought to have resulted from that rise. The driest part lies between the Andes and the Chilean Coast Range, which block moisture from both the Pacific and the Atlantic in a two-sided rain shadow.
 
   <!-- olig-022 -->
 
@@ -7497,7 +7497,7 @@ About 33.9 million years ago, ice began to build up on Antarctica, and Earth ent
 
 - **An asteroid strikes Arctic Devon Island** — c. 32–31 million years ago (32–31 Ma)
 
-  An impactor about 2 km wide struck Devon Island in Arctic Canada, leaving the Haughton crater about 23 km across. The blast exposed rock from as deep as 1,700 m. Its age is unsettled. The crater's own record gives 31–32 million years, but other analyses place it in the Eocene, at 39 million years.
+  An impactor about 2 km wide struck Devon Island in Arctic Canada, leaving a crater about 23 km across that exposes rock from as deep as 1,700 m. Its age has been revised several times. The crater's own page gives 31–32 million years, in the Oligocene. But later analyses cited by the Oligocene page put it at 39 Ma, in the Eocene, and call the Oligocene date questionable. The date remains contested.
 
   <!-- olig-028 -->
 
@@ -7593,7 +7593,7 @@ About 33.9 million years ago, ice began to build up on Antarctica, and Earth ent
 
 - **Embrithopods leave the record** — during the Late Oligocene, 27–23 million years ago (27.3–23.04 Ma)
 
-  Embrithopods were an order of mammals that lived only in Afro-Arabia, a branch of the continent's homegrown fauna. Their last record comes from the latest Oligocene, and after that the order is gone. One timeline sets their extinction earlier, at about 30 million years ago.
+  Embrithopods, an order of Afro-Arabian mammals, arose in the Early Eocene and were last recorded in the latest Oligocene. Why they vanished is debated. Some experts think they could not compete with invading mammals because of their generalized habits and phyletic conservatism, a tendency to stay unchanged.
 
   <!-- olig-053 -->
 
@@ -7605,19 +7605,19 @@ About 33.9 million years ago, ice began to build up on Antarctica, and Earth ent
 
 - **The first elephantimorphs** — during the Late Oligocene, 27–23 million years ago (27.3–23.04 Ma)
 
-  The lineage that would give rise to mastodons and modern elephants made its first appearance in the Late Oligocene. These were the elephantimorphs, the branch of proboscideans that includes both. One timeline dates the first true elephants to about 26 million years ago, though the elephant family proper is traced in The elephant family arises in Africa.
+  Elephantimorphs, the proboscidean group that includes mastodons and modern elephants, first appeared in the Late Oligocene. One timeline dates the first true elephants to about 26 million years ago. These animals reshaped their surroundings: like modern elephants, gomphotheres may have knocked down trees, creating open landscapes.
 
   <!-- olig-056 -->
 
 - **Notoungulates grow teeth that never stop** — during the Late Oligocene, 27–23 million years ago (27.3–23.04 Ma)
 
-  Several South American notoungulate families separately evolved high-crowned cheek teeth that kept growing throughout life. They arrived at the same solution independently. From the Late Oligocene on, such species made up most notoungulates.
+  Teeth that never stop growing helped a South American group diversify. Several notoungulate families separately evolved high-crowned, ever-growing cheek teeth, and such species made up most notoungulates from the Late Oligocene. Notoungulates make up over half the described diversity of South America's native ungulates, with over 150 genera in 14 families. They were morphologically diverse, with forms resembling animals as different as rabbits and rhinoceroses. They and other native ungulates reached their apex of diversity during the Eocene and Oligocene.
 
   <!-- olig-058 -->
 
 - **The West Antarctic Ice Sheet first forms** — c. 27 million years ago (27 Ma)
 
-  The West Antarctic Ice Sheet first formed about 27 million years ago, probably fed partly by glaciers from the older East Antarctic Ice Sheet. It is a marine ice sheet. Most of its ice rests on rock and sediment well below sea level, ground that would be ocean floor without the ice.
+  The West Antarctic Ice Sheet first formed about 27 million years ago, probably fed partly by glaciers from the older East Antarctic Ice Sheet. It is a marine ice sheet: most of its ice rests on rock and sediment well below sea level, which would be ocean floor without the ice. Because the whole sheet is grounded below sea level, it is vulnerable to geologically rapid ice loss. It declined somewhat during the warm early Pliocene, about five to three million years ago, and the Ross Sea opened up.
 
   <!-- olig-060 -->
 
@@ -7658,7 +7658,7 @@ About 33.9 million years ago, ice began to build up on Antarctica, and Earth ent
 
 - **Central America begins to close its seaway** — c. 25 million years ago (25 Ma)
 
-  A long chain of volcanoes started the job of joining two continents. By the Oligocene, the Central American volcanic arc began colliding with northwestern South America. That collision, which would eventually close the Central American Seaway, started about 25 million years ago. The process ran for millions of years, through the closure of the deep seaway in The deep seaway between the Americas closes to the final link in The Isthmus of Panama joins the Americas.
+  By the Oligocene, the Central American volcanic arc began colliding with northwestern South America. The collision that closed the Central American Seaway started about 25 million years ago. The setting had been prepared earlier: during the Eocene, about 45 Ma, subduction of the Farallon plate along the Central American subduction zone was re-established.
 
   <!-- olig-065 -->
 
@@ -7670,7 +7670,7 @@ About 33.9 million years ago, ice began to build up on Antarctica, and Earth ent
 
 - **The Sea of Japan begins to open** — c. 25 million years ago (25 Ma)
 
-  Around 25 million years ago the Sea of Japan began to open. As it widened, Japan pulled away from the Asian mainland and took the form of today's island arc. The opening continued into the Miocene, as The Sea of Japan opens at both ends describes.
+  Around 25 million years ago the Sea of Japan began to open, separating Japan from the mainland and forming today's island arc. It is a modern example of back-arc spreading, a modest ocean basin opened between the volcanic arc of Japan and the Asian mainland.
 
   <!-- olig-069 -->
 
@@ -7684,13 +7684,13 @@ About 33.9 million years ago, ice began to build up on Antarctica, and Earth ent
 
 - **Seals arrive and nautiloids vanish** — c. 24 million years ago (24 Ma)
 
-  The earliest pinnipeds, the group that includes seals, appeared about 24 million years ago, near the end of the Oligocene. Their spread left a curious pattern in the fossil record. From the Oligocene on, nautiloids vanished from each region as pinnipeds appeared there. Wherever the new marine mammals arrived, the ancient shelled hunters of the sea disappeared.
+  The earliest pinnipeds, the seal group, appeared about 24 million years ago, near the end of the Oligocene. They belong to the suborder Caniformia of the order Carnivora. Their closest living relatives are musteloids (weasels, raccoons, skunks and red pandas), from which they diverged about 50 million years ago. Their arrival had a cost for others: from the Oligocene on, nautiloids vanished from each region as pinnipeds appeared there.
 
   <!-- olig-074 -->
 
 - **Creodonts retreat to Africa** — c. 23 million years ago (23.04 Ma)
 
-  At the end of the Oligocene, creodonts died out everywhere except Africa and the Middle East. The old predator order, long pushed aside by carnivorans, hung on only in that corner of the world. Its final end is told in The last creodonts disappear.
+  At the end of the Oligocene, creodonts died out everywhere except Africa and the Middle East. Africa was relatively isolated and kept its endemic fauna.
 
   <!-- olig-076 -->
 
@@ -7716,7 +7716,7 @@ Apes first evolved in the early Miocene, then diversified and spread across the 
 
 - **Africa's plants lose ground to the seasons** — c. 23 million years ago (23.04 Ma)
 
-  Africa's plant life took a sharp hit as the Miocene began. Plant diversity fell steeply, probably because the seasons became more pronounced, with stronger swings between wet and dry. Species suited to steady conditions lost out. The great equatorial forest belt did not simply shrink. Through the whole Miocene it broke apart and rejoined again and again, splitting forest populations and then reconnecting them.
+  Africa's plant diversity fell sharply at the start of the Miocene, probably because seasons became more pronounced. Through the epoch the climate slowly cooled towards a series of ice ages. Africa's equatorial forest belt broke apart and rejoined repeatedly during that time.
 
   <!-- mioc-001 -->
 
@@ -7742,7 +7742,7 @@ Apes first evolved in the early Miocene, then diversified and spread across the 
 
 - **The East Asian summer monsoon takes modern shape** — during the Early Miocene, 23–16 million years ago (23.04–15.98 Ma)
 
-  Global cooling led the East Asian Summer Monsoon to begin taking its modern form in the Early Miocene. The mountains mattered too. Major phases of Himalayan geology during the Miocene changed Asian monsoon patterns. Those patterns were tied in turn to glacial periods in the north, so ice far away and rock nearby both shaped the rain. The link between rising Tibet and stronger monsoons, first seen in Tibet rises and the South Asian monsoon strengthens, keeps returning through the Neogene.
+  Global cooling led the East Asian Summer Monsoon to begin taking its modern form in the Early Miocene. Major phases of Himalayan geology during the Miocene affected Asian monsoon patterns, which were linked to northern glacial periods. Meanwhile, topographic changes in Africa weakened the Somali Jet while South Asian Summer Monsoon rainfall increased.
 
   <!-- mioc-007 -->
 
@@ -7776,7 +7776,7 @@ Apes first evolved in the early Miocene, then diversified and spread across the 
 
 - **Diatoms move into fresh water** — during the Miocene, 23.0–5.3 million years ago (23.04–5.333 Ma)
 
-  Diatoms, single-celled algae in glassy shells, had radiated in the oceans back in the Cretaceous. Freshwater diatoms did not appear until the Miocene. Their diversity rose through the epoch as carbon dioxide and global temperatures fell.
+  Marine diatoms radiated in the Cretaceous, but freshwater diatoms did not appear until the Miocene. Miocene diatom diversity rose as carbon dioxide and global temperatures fell. Most modern lineages of diatoms had appeared by the Late Miocene.
 
   <!-- mioc-009 -->
 
@@ -7799,13 +7799,13 @@ Apes first evolved in the early Miocene, then diversified and spread across the 
 
 - **Kelp forests rise in Miocene seas** — during the Miocene, 23.0–5.3 million years ago (23.04–5.333 Ma)
 
-  Two new biomes carried much of Miocene life. One was the grassland. The other grew underwater. Kelp forests, dense stands of giant brown seaweed, first appeared in Miocene seas and soon became one of Earth's most productive ecosystems. On land and in the sea, then, the epoch built new kinds of habitat at the same time, each feeding a great range of animals.
+  Underwater forests are a Miocene invention. Kelp forests first appeared in Miocene seas and soon became one of Earth's most productive ecosystems. With grasslands, they were one of two new biomes that supported much of Miocene life. Kelp forests are formed by brown macroalgae and provide a unique habitat for marine organisms. A wide range of sea life, including fish, uses them for protection or food. Especially productive ones tend to occur where oceanographic upwelling delivers cool, nutrient-rich water from depth to the surface layer.
 
   <!-- mioc-011 -->
 
 - **Necrolestes, last of an ancient line** — during the Miocene, 23.0–5.3 million years ago (23.04–5.333 Ma)
 
-  Meridiolestidans were mammals that dominated Late Cretaceous South America. Their last member turned up in the Miocene of Patagonia: Necrolestes, a mole-like burrowing insect-eater. It appears 50 million years after the previous known member of its group, a very long silence in the record.
+  Meridiolestidans dominated Late Cretaceous South America, and the last of them lived in the Miocene of Patagonia. That last was the mole-like burrowing insectivore Necrolestes, 50 million years after the previous known member. They are generally classified within Cladotheria, closer to living marsupials and placental mammals than to monotremes, though one study recovered them as sister to spalacotheriid 'symmetrodonts'. A possible meridiolestidan is known from a tooth fragment, now lost, from the Eocene La Meseta Formation of the Antarctic Peninsula.
 
   <!-- mioc-012 -->
 
@@ -7817,19 +7817,19 @@ Apes first evolved in the early Miocene, then diversified and spread across the 
 
 - **Sloth families multiply** — during the Miocene, 23.0–5.3 million years ago (23.04–5.333 Ma)
 
-  Sloths diversified in the Miocene, when the major sloth families appeared. Their diversity rose and fell through the epoch and then declined at its end. They had already traveled far: a basal sloth group had colonized the Antilles by the early Miocene.
+  Sloths diversified in the Miocene, when the major sloth families appeared; diversity waxed and waned, then declined at the epoch's end. A basal sloth group had already colonized the Antilles by the early Miocene. Ground sloths evolved early, in the late Paleogene and Neogene, while South America was isolated. They ranged from under 100 kilograms in the Caribbean forms to 3,700–4,100 kilograms in the largest genera Megatherium, Lestodon and Eremotherium.
 
   <!-- mioc-015 -->
 
 - **Snakes boom in North America** — during the Miocene, 23.0–5.3 million years ago (23.04–5.333 Ma)
 
-  Snakes had been a minor part of North American wildlife. In the Miocene their numbers and diversity rose sharply. Vipers and elapids, the cobra family, first appeared on the continent, and colubrids diversified into many modern genera. Snakes were among the animals that diversified as grassland spread, as Grass takes over the world describes.
+  Snakes were once a minor part of North American fauna, then rose sharply in number and diversity during the Miocene. Vipers and elapids first appeared in North America, and colubrids diversified into many modern genera. The expansion of grasslands there led to an explosive radiation among snakes.
 
   <!-- mioc-016 -->
 
 - **South America's native hoofed mammals thin out** — during the Miocene, 23.0–5.3 million years ago (23.04–5.333 Ma)
 
-  Notoungulates lost 45% of their families during the Miocene, though their number of species stayed stable. Fewer branches carried as many leaves. By the late Miocene, litopterns and notoungulates were the only South American native ungulate groups still standing.
+  South America's native hoofed mammals were losing ground. Notoungulates lost 45% of their families in the Miocene, though species numbers stayed stable. By the late Miocene, litopterns and notoungulates were the only surviving native ungulate groups. They had peaked in diversity in the Eocene and Oligocene. Their diversity declined further during the Pliocene and Pleistocene, at the same time as the Great American Interchange let North American ungulates and other mammals enter South America.
 
   <!-- mioc-017 -->
 
@@ -7879,7 +7879,7 @@ Apes first evolved in the early Miocene, then diversified and spread across the 
 
 - **The Alboran Basin and the Betic Corridor open** — c. 23–20 million years ago (23–20 Ma)
 
-  Between 23 and 20 million years ago, spreading thinned the crust south of Spain to just 12-15 km, forming the Alboran Basin. In the early Miocene Iberia rotated and opened the Betic Corridor, a strait joining the Mediterranean and the Atlantic. Its fate matters later, in The Messinian crisis: the Mediterranean dries out.
+  Between 23 and 20 million years ago, spreading thinned the crust south of Spain to 12-15 km, forming the Alboran Basin. Rotation of Iberia in the early Miocene opened the Betic Corridor, a strait joining the Mediterranean and the Atlantic. The Valencia Trough opened between the Late Oligocene and early Miocene, at the same time as the Provençal Basin.
 
   <!-- mioc-020 -->
 
@@ -7891,7 +7891,7 @@ Apes first evolved in the early Miocene, then diversified and spread across the 
 
 - **East Antarctic glaciers come and go** — c. 23–15 million years ago (23–15 Ma)
 
-  East Antarctica probably held some glaciers during the early to mid Miocene, 23 to 15 million years ago. They were restless. The Ross Sea margin of the East Antarctic Ice Sheet advanced and retreated often during the Early Miocene, ice that had not yet settled into a stable cap.
+  Antarctic ice was not a steady sheet. East Antarctica probably held some glaciers during the early to mid Miocene, 23 to 15 million years ago, and the Ross Sea margin of its ice sheet advanced and retreated often during the Early Miocene. Global temperatures stayed fairly steady through the Oligocene and early Miocene, and Antarctic glaciation waned. About 15 million years ago the Southern Hemisphere ice cap began to grow to its present form, as oceans cooled partly from the Antarctic Circumpolar Current.
 
   <!-- mioc-023 -->
 
@@ -7903,13 +7903,13 @@ Apes first evolved in the early Miocene, then diversified and spread across the 
 
 - **New Zealand almost drowns** — c. 22 million years ago (22 Ma)
 
-  About 22 million years ago only 18% of present-day New Zealand stood above sea level. The rest lay under the sea, a stretch called the Oligocene Drowning Maximum. Isolation on scattered patches of land mattered for evolution. This drowning was very important in the radiation of the moa.
+  About 22 million years ago only 18% of present-day New Zealand stood above sea level. This drowning was very important in the radiation of the moa. The land is part of Zealandia, a submerged mass that includes present-day New Zealand and would be considered a continent.
 
   <!-- mioc-029 -->
 
 - **Tibet sinks, then rises again** — c. 22–20 million years ago (21.6–20.4 Ma)
 
-  The Tibetan Plateau did not climb steadily. Between 25.5 and 21.6 million years ago it sank about 900 m. Then, between 21.6 and 20.4 million years ago, it rose by 500 to 1,000 m, regaining much of the lost height.
+  Tibet sank before it climbed. After sinking about 900 m between 25.5 and 21.6 million years ago, the Tibetan Plateau rose by 500 to 1,000 m, between 21.6 and 20.4 million years ago. It is the world's largest and highest plateau above sea level, with an area of 2,500,000 square kilometres. The Indo-Australian plate is still driven under it, pushing it up at about 5 mm per year, though erosion reduces the actual gain in height.
 
   <!-- mioc-030 -->
 
@@ -7935,13 +7935,13 @@ Apes first evolved in the early Miocene, then diversified and spread across the 
 
 - **Conifers and cycads branch out** — c. 20 million years ago (20 Ma)
 
-  About 20 million years ago, some conifer and cycad groups began to diversify as conditions changed. These old seed-plant lines, far older than the grasses spreading around them, found new room in the shifting Miocene climate.
+  About 20 million years ago some conifer and cycad groups began to diversify as conditions changed. These are gymnosperms, a group that also includes seed ferns and ginkgos and that could reproduce by seeds from the Devonian.
 
   <!-- mioc-033 -->
 
 - **Rising rift shoulders split Africa's great rivers** — c. 20 million years ago (20 Ma)
 
-  Around 20 million years ago the western flank of the East African Rift rose. It cut the Great Lakes region off from the Congo basin. The map then looked very different. Lake Victoria did not yet exist, and Ethiopian and Ugandan rivers did not yet feed the Egyptian Nile.
+  Around 20 million years ago the western flank of the East African Rift rose, cutting the Great Lakes region off from the Congo basin. Lake Victoria did not yet exist, and Ethiopian and Ugandan rivers did not yet feed the Egyptian Nile. Today the region holds the source of the Nile and several large lakes of its system, including Lake Victoria, Lake Albert, Lake George and Lake Edward. The rift is an intracontinental rift basin with active volcanism.
 
   <!-- mioc-034 -->
 
@@ -8063,7 +8063,7 @@ Apes first evolved in the early Miocene, then diversified and spread across the 
 
 - **Steens Mountain catches the magnetic field flipping** — c. 17 million years ago (16.7 Ma)
 
-  Lava flows at Steens Mountain in Oregon froze a record of Earth's magnetic field as it reversed, about 16.7 Ma. They suggest the field can shift up to 6 degrees a day, astonishingly fast. The reversal that ended the magnetic period called Chron C5Cr was not one clean flip but a series of reversals and excursions.
+  Lava flows caught the field in the act of flipping. At Steens Mountain, Oregon, they recorded a reversal about 16.7 Ma, suggesting the field can shift up to 6 degrees a day. The reversal ending Chron C5Cr contained a series of reversals and excursions. At Battle Mountain, Nevada, lava flows show a brief, several-year-long interval in a reversal when the field direction changed by over 50 degrees. During a reversal the field does not vanish completely, and many poles may form chaotically in different places until it stabilizes again.
 
   <!-- mioc-055 -->
 
@@ -8099,7 +8099,7 @@ Apes first evolved in the early Miocene, then diversified and spread across the 
 
 - **Australia begins to collide with Southeast Asia** — during the Middle Miocene, 16–12 million years ago (15.98–11.63 Ma)
 
-  Australia had been drifting north since it broke from Antarctica. In the Middle Miocene, it began to collide with Southeast Asia. The collision did more than crumple crust. It blocked the equatorial ocean flow between the western Pacific and the Indian Ocean, closing a warm-water passage along the equator.
+  In the Middle Miocene, Australia began to collide with Southeast Asia. The collision blocked equatorial ocean flow between the western Pacific and Indian Oceans. Australia had been alone for a long time: by 50 Ma it had separated from Antarctica.
 
   <!-- mioc-062 -->
 
@@ -8111,7 +8111,7 @@ Apes first evolved in the early Miocene, then diversified and spread across the 
 
 - **Most modern seed plants appear** — during the Middle Miocene, 16–12 million years ago (15.98–11.63 Ma)
 
-  Many new plants evolved in the mid-Miocene, including 95% of modern seed plants. Most of the plant kinds growing today, in other words, trace their origin to this one stretch of time.
+  Many new plants evolved in the mid-Miocene, including 95% of modern seed plants. Seed reproduction developed in the Devonian among gymnosperms, but flowering plants evolved millions of years later, in the Cretaceous.
 
   <!-- mioc-064 -->
 
@@ -8129,7 +8129,7 @@ Apes first evolved in the early Miocene, then diversified and spread across the 
 
 - **Earth's magnetic field flips again and again** — c. 15 million years ago (15 Ma)
 
-  Earth's magnetic field has reversed many times, but around 15 million years ago it was especially restless. At least 51 reversals occurred in a 12-million-year period centred on that date. Each one is written into rocks that cooled while it lasted.
+  At least 51 geomagnetic reversals occurred in a 12-million-year period centred on 15 million years ago. In a period of 3 million years centred on 24 Ma, 13 reversals occurred. Overall there have been at least 183 reversals over the last 83 million years, on average one about every 450,000 years. Eras of frequent reversals have been balanced by a few superchrons, long periods with no reversals.
 
   <!-- mioc-067 -->
 
@@ -8182,7 +8182,7 @@ Apes first evolved in the early Miocene, then diversified and spread across the 
 
 - **The Chile Triple Junction forms** — c. 14 million years ago (14 Ma)
 
-  About 14 million years ago, the Antarctic Plate began sliding beneath South America. The Chile Ridge, a spreading ridge, collided with the continent near Tierra del Fuego. Where the three plates meet, the Chile Triple Junction formed.
+  The Antarctic Plate began subducting beneath South America about 14 million years ago, forming the Chile Triple Junction, and the Chile Ridge collided with South America near Tierra del Fuego. The asthenospheric window linked to the junction disturbed mantle convection beneath Patagonia, causing an uplift of about 1 km that reversed the Oligocene–Miocene transgression. As the southern Nazca Plate and Chile Rise were consumed by subduction, the junction advanced north. It now lies offshore the Taitao Peninsula at 46°15' S.
 
   <!-- mioc-076 -->
 
@@ -8194,13 +8194,13 @@ Apes first evolved in the early Miocene, then diversified and spread across the 
 
 - **The Sea of Japan opens at both ends** — c. 14 million years ago (14 Ma)
 
-  By 14 million years ago, the Sea of Japan basin was open to the northeast and southwest. Rising seas isolated Japan further from the mainland, continuing the opening that began in The Sea of Japan begins to open.
+  By 14 million years ago the Sea of Japan back-arc basin was open to the northeast and southwest, and rising seas further isolated Japan. The sea is a modest ocean basin that opened by back-arc spreading between the volcanic arc of the Japanese islands and the Asian mainland.
 
   <!-- mioc-079 -->
 
 - **The Andes cast a rain shadow over Patagonia** — c. 14–12 million years ago (14–12 Ma)
 
-  Mountains can make deserts. As the southern Andes rose 14 to 12 million years ago, they blocked moist air and cast a rain shadow, a dry zone downwind of a range. East of the mountains, the Patagonian Desert formed.
+  Mountains can make deserts. As the southern Andes rose 14 to 12 million years ago, their rain shadow created the Patagonian Desert to the east. A rain shadow forms when orographic uplift makes weather systems drop their precipitation on one side of a range, leaving little moisture for the other. Dating of metamorphosed layers suggests the Magallanes Basin and the Andean fold-thrust belt were exhumed between 10 and 4 million years ago.
 
   <!-- mioc-078 -->
 
@@ -8253,7 +8253,7 @@ Apes first evolved in the early Miocene, then diversified and spread across the 
 
 - **The Paratethys turns brackish and its sea life dies** — c. 13 million years ago (12.65 Ma)
 
-  From 13.36 to 12.65 Ma, the Central Paratethys was open sea again. Then the Bârlad Strait reopened, and the sea turned brackish, between salt and fresh. That change caused the Badenian–Sarmatian extinction event.
+  The sea did not simply return; it changed character. After open-marine conditions from 13.36 to 12.65 Ma, the Bârlad Strait reopened and the Central Paratethys turned brackish. This change caused the Badenian–Sarmatian extinction event. Meanwhile the Eastern Paratethys moved the other way: when the strait reopened, its lake levels dropped as it became a sea again.
 
   <!-- mioc-089 -->
 
@@ -8283,7 +8283,7 @@ Apes first evolved in the early Miocene, then diversified and spread across the 
 
 - **The Eridanos, a lost river, builds a giant delta** — c. 12 million years ago (12 Ma)
 
-  A great river once flowed from Lapland across the Baltic region. By about 12 Ma at the latest, this Eridanos had reached the North Sea area. Its sediments built an immense delta, reckoned comparable in size to the modern Amazon's.
+  A river from Lapland once built a delta to rival the Amazon's. By about 12 Ma, a minimum age, the Eridanos, flowing from Lapland across the Baltic region, had reached the North Sea area. Its sediments built an immense delta, reckoned comparable in size to the modern Amazon's. Remnants turn up from the North Sea and the Netherlands in the west to northern Lapland. Neogene uplift of the South Swedish Dome later deflected the river from its path across south-central Sweden to a course south of Sweden in the Pliocene.
 
   <!-- mioc-095 -->
 
@@ -8317,7 +8317,7 @@ Apes first evolved in the early Miocene, then diversified and spread across the 
 
 - **The Amazon runs across a continent** — c. 12–11 million years ago (11.8–11.3 Ma)
 
-  In the Cretaceous, the proto-Amazon flowed west, part of a river system draining from Africa. The river we know flows the other way. Between 11.8 and 11.3 Ma, the Amazon began flowing as a river across the whole continent. Its new course ran through the region once held by the wetland in Lake Pebas floods western Amazonia.
+  The Amazon once flowed the wrong way. In the Cretaceous the proto-Amazon ran west, part of a river system draining from Africa. Between 11.8 and 11.3 Ma it began flowing as a river across the whole continent. The result is the largest river in the world by discharge, and the second-longest or longest river system, a title disputed with the Nile. Its average discharge of about 215,000 to 230,000 cubic meters per second is greater than the next seven largest independent rivers combined.
 
   <!-- mioc-099 -->
 
@@ -8333,7 +8333,7 @@ About 11 million years ago the Middle Miocene Warm Interval ended, and the much 
 
 - **Europe's big mammals decline** — during the Late Miocene, 12.0–5.3 million years ago (11.63–5.333 Ma)
 
-  Europe's variety of large mammals fell significantly during the Late Miocene. The drying climate picked winners and losers. In Iberia, grazers diversified while browsers declined, as open grass replaced the leaves that browsing animals depended on.
+  Europe lost many of its big animals in the Late Miocene. Large mammal diversity fell significantly. The cause lay in a slow change of climate: over the Miocene it cooled gradually towards a series of ice ages. In Iberia, as the climate dried, grazers diversified while browsers declined.
 
   <!-- mioc-102 -->
 
@@ -8375,7 +8375,7 @@ About 11 million years ago the Middle Miocene Warm Interval ended, and the much 
 
 - **The modern Yangtze takes shape** — c. 11 million years ago (11 Ma)
 
-  The modern Yangtze River is estimated to have originated around 11 Ma. The evidence lies in the mud it carried. Sedimentation rates suggest that its present outlet to the sea is no older than the late Miocene, about 11 Ma.
+  The Yangtze, the longest river of China and the third-longest in the world, is younger than its size suggests. The modern river is estimated to have originated around 11 Ma, and sedimentation rates suggest its present outlet is no older than the late Miocene. It rises at Jari Hill in the Tanggula Mountains of the Tibetan Plateau and flows 6,300 kilometers east to the East China Sea.
 
   <!-- mioc-111 -->
 
@@ -8417,7 +8417,7 @@ About 11 million years ago the Middle Miocene Warm Interval ended, and the much 
 
 - **Ten-million-year-old apes of East Africa** — c. 10 million years ago (10 Ma)
 
-  Ten-million-year-old hominid apes are known from East Africa: Chororapithecus from Ethiopia's Afar rift, and Nakalipithecus. They date from about the time the gorilla branch split from the branch leading to humans and chimpanzees, around 10 Ma.
+  Ten million years ago, apes close to our own family tree lived in East Africa. Ten-million-year-old hominid apes, Chororapithecus from Ethiopia's Afar rift and Nakalipithecus, are known from there. The gorilla branch split from the human–chimpanzee branch around then, at 10 Ma. The Rift Valley, an active continental rift zone, has been a rich source of hominid fossils for studying human evolution.
 
   <!-- mioc-120 -->
 
@@ -8429,7 +8429,7 @@ About 11 million years ago the Middle Miocene Warm Interval ended, and the much 
 
 - **The Rivera microplate breaks away** — c. 10 million years ago (10 Ma)
 
-  Plates can split into smaller pieces. Around 10 Ma, off western Mexico, the Rivera plate broke away from the Cocos plate. It became a microplate, a small independent slab of crust with its own motion.
+  Off western Mexico, a piece of the seafloor came loose. Around 10 Ma the Rivera plate broke away from the Cocos plate and became a microplate. Some sources give 10 to 5 Ma for this split. The Cocos Plate is a remnant of the Farallon Plate. It is still being subducted, pushed under Central America, where it dives beneath the North America and Caribbean Plates.
 
   <!-- mioc-124 -->
 
@@ -8453,7 +8453,7 @@ About 11 million years ago the Middle Miocene Warm Interval ended, and the much 
 
 - **Oreodonts fade as deer and bovids arrive** — c. 9.4 million years ago (9.4 Ma)
 
-  North America's cast of mammals changed in the Hemphillian age, from about 9.4 Ma. Old residents bowed out. The last oreodonts, mylagaulids and dromomerycids died out. Newcomers walked in from Asia: deer, bovids, saber-toothed cats and skunks. At home, rabbits and short-faced bears diversified. Several animals now familiar in North America, from deer to skunks, first arrived on the continent in this turnover.
+  North America's mammals changed cast in the Hemphillian age, from about 9.4 Ma. The last oreodonts, mylagaulids and dromomerycids died out. In their place, deer, bovids, saber-toothed cats and skunks arrived from Asia, while rabbits and short-faced bears diversified. The Hemphillian North American Land Mammal Age spans 9–4.75 Ma, and the Blancan follows from 4.75–1.6 Ma. Sources differ on exactly where the Hemphillian starts.
 
   <!-- mioc-126 -->
 
@@ -8477,7 +8477,7 @@ About 11 million years ago the Middle Miocene Warm Interval ended, and the much 
 
 - **The Lake Malawi basin begins to form** — c. 8.6 million years ago (8.6 Ma)
 
-  The Lake Malawi basin began forming about 8.6 Ma, far earlier than once thought. Water came much later. Deep water first appeared there only 4.5 Ma, millions of years after the basin itself opened in the rift.
+  Lake Malawi is older than anyone once thought. Its basin began forming about 8.6 Ma, far earlier than believed, though deep water first appeared only 4.5 Ma. The Malawi rift belongs to a linear chain of rift lakes that extends from the southern tip of the Red Sea to Mozambique. Lake Malawi is the southernmost lake in that line.
 
   <!-- mioc-133 -->
 
@@ -8524,7 +8524,7 @@ About 11 million years ago the Middle Miocene Warm Interval ended, and the much 
 
 - **The Banda Arc meets Australia** — during the Messinian, 7.2–5.3 million years ago (7.246–5.333 Ma)
 
-  In the Messinian, the Banda Arc, a curved chain of volcanic islands, began colliding with Australia and Timor. Geologists use it as a standard example of how an island arc crashes into a continent and builds a mountain belt, an orogen, along the seam.
+  An island arc ran into a continent. In the Messinian, the Banda Arc began colliding with Australia and Timor. It is a standard example of an island arc colliding with a continent to build an orogen, a mountain belt. Such a collision has a side effect: the subduction zone switches to the other side of the island.
 
   <!-- mioc-142 -->
 
@@ -8542,7 +8542,7 @@ About 11 million years ago the Middle Miocene Warm Interval ended, and the much 
 
 - **Thalassocnus, the sloth that swam** — c. 7 million years ago (7 Ma)
 
-  A ground sloth went to sea. The oldest fossils of Thalassocnus, adapted to marine life on South America's Pacific coast, date to roughly 7 Ma in Peru. It is now known from many Miocene–Pliocene rock units along the coast, including Chile's Coquimbo Formation.
+  A ground sloth went to sea. The oldest fossils of Thalassocnus, a ground sloth adapted to marine life on South America's Pacific coast, date to roughly 7 Ma in Peru. It is now known from many Miocene–Pliocene units along that coast, including Chile's Coquimbo Formation. Ground sloths themselves evolved mainly in South America during the late Paleogene and Neogene, while the continent was isolated.
 
   <!-- mioc-148 -->
 
@@ -8634,7 +8634,7 @@ About 11 million years ago the Middle Miocene Warm Interval ended, and the much 
 
 - **Ardipithecus appears in East Africa** — c. 5.5 million years ago (5.5 Ma)
 
-  The genus Ardipithecus appeared around 5.5 Ma, probably after the human–chimpanzee split, though the two lines may still have been swapping genes. An early form, A. kadabba, joined Sahelanthropus and Orrorin among the first hominins in Africa at the very end of the Miocene. Its fossils from the Middle Awash date 6.5–5.5 Ma.
+  The human line was already separate from the chimpanzee line when Ardipithecus appeared. Our ancestors split from the ancestors of chimpanzees around the end of the Miocene, during the final Messinian Stage (7.5–5.3 Ma). The genus appeared around 5.5 Ma, probably after the split, while gene flow may still have continued. An early form, A. kadabba, joined Sahelanthropus and Orrorin among the first hominins in Africa at the very end of the Miocene. Its Middle Awash fossils date 6.5–5.5 Ma, and one timeline places Orrorin and Ardipithecus at 6 Ma.
 
   <!-- mioc-156 -->
 
@@ -8652,7 +8652,7 @@ About 11 million years ago the Middle Miocene Warm Interval ended, and the much 
 
 - **The Dead Sea Transform forms** — c. 5.3 million years ago (5.333 Ma)
 
-  Toward the end of the Miocene, the Arabian plate began colliding with Eurasia. A new boundary developed: the Dead Sea Transform, where the Arabian and African plates now slide past each other. Rifting in the Gulf of Suez, active since Arabia begins to tear away from Africa, ceased.
+  Near the end of the Miocene, the map of the Middle East was redrawn. The Arabian plate began colliding with Eurasia, the Dead Sea Transform developed, and rifting in the Gulf of Suez ceased. The transform is the boundary between the Arabian and African plates, a left-lateral series of faults between the Sinai Peninsula and the Arabia Plate. Left steps in it have opened a series of wrench basins, including the Dead Sea.
 
   <!-- mioc-159 -->
 
@@ -8670,7 +8670,7 @@ About 11 million years ago the Middle Miocene Warm Interval ended, and the much 
 
 - **The Miocene ends in warmth** — c. 5.3 million years ago (5.333 Ma)
 
-  The cold of the Messinian did not last. At the end of the Miocene, global temperatures rose again as the swing in Earth's axial tilt grew. Central Asia grew more arid. The Pliocene began warmer than the cool Messinian that came before it.
+  The Miocene ended on a warming note. Global temperatures rose again as the swing in Earth's axial tilt grew, increasing aridity in Central Asia. The Pliocene began warmer than the cool Messinian. The Miocene-Pliocene boundary also coincides with the time of the Messinian salinity crisis.
 
   <!-- mioc-162 -->
 
@@ -8686,7 +8686,7 @@ The Pliocene opened with a flood. Atlantic water broke through at the Strait of 
 
 - **The first tree sloths** — c. 5.3 million years ago (5.333 Ma)
 
-  Today's sloths hang from branches, and the first tree sloths appeared around the start of the Pliocene. Their megalonychid cousins show how sizes shifted. Early megalonychids were small and perhaps partly tree-dwelling. By the Pliocene they had grown to about half the size of the later Megalonyx.
+  Sloths took to the trees around the start of the Pliocene. The first tree sloths appeared then. Early megalonychid sloths were small and perhaps partly tree-dwelling; by the Pliocene they reached about half the size of later Megalonyx. Living tree sloths are thought to have evolved from ground sloth ancestors, which makes ground sloths a paraphyletic group. During the Pliocene and Pleistocene, as part of the Great American Interchange, more sloth lineages migrated into Central and North America.
 
   <!-- plio-003 -->
 
@@ -9113,7 +9113,7 @@ The Gelasian, the first age of the Pleistocene, opens with Earth's magnetic fiel
 
 - **Ethiopian waters join the Nile** — c. 2.5 million years ago (2.5 Ma)
 
-  About 2.5 Ma, waters from Ethiopia flowed north for the first time and joined the ancestral Egyptian Nile. Farther south, the Rwenzori Mountains rose. Their uplift turned the drainage of paleolake Obweruka east and began forming Lake Victoria, which did not yet drain north.
+  The Nile's flood owes its silt to Ethiopia. About 2.5 Ma waters from Ethiopia flowed north for the first time and joined the ancestral Egyptian Nile. Nile silt is eroded and carried only in the Ethiopian rainy season, when rainfall is especially high in the Highlands; the rest of the year the major rivers draining Ethiopia flow more weakly. Farther south, uplift of the Rwenzori Mountains turned paleolake Obweruka's drainage east and began forming Lake Victoria, which did not yet drain north.
 
   <!-- gela-009 -->
 
@@ -9131,7 +9131,7 @@ The Gelasian, the first age of the Pleistocene, opens with Earth's magnetic fiel
 
 - **Lake Bungunnia dams the Murray** — c. 2.5–0.5 million years ago (2.5–0.5 Ma)
 
-  About 2.5 Ma, the Grampians of Victoria rose more than 250 m. Earth movements then blocked the Murray River near Swan Reach. Behind the blockage grew Lake Bungunnia, a vast freshwater lake that lasted from 2.5 to 0.5 Ma.
+  Earth movements blocked the Murray River near Swan Reach and made a lake. Vast, freshwater Lake Bungunnia lasted from 2.5 to 0.5 Ma. The damming followed more than 250 m of uplift in the Grampians of Victoria about 2.5 Ma. When the lake drained, it appears to have marked the end of a wet phase in the Murray–Darling Basin and the onset of widespread arid conditions similar to today.
 
   <!-- gela-010 -->
 
@@ -9158,13 +9158,13 @@ The Gelasian, the first age of the Pleistocene, opens with Earth's magnetic fiel
 
 - **The Amazon settles into its present course** — c. 2.4 million years ago (2.4 Ma)
 
-  The Amazon had already been a transcontinental river since 11.8–11.3 Ma, as The Amazon runs across a continent describes. It took its present shape later, about 2.4 million years ago. So the river that crosses the continent is old, but its present layout is young. Its shape settled in the same cold, dry stretch that saw ice spread across the north.
+  The Amazon had already been a transcontinental river since 11.8–11.3 Ma, as The Amazon runs across a continent describes. It took its present shape about 2.4 million years ago. Geological studies suggest that for millions of years before that the river flowed in the opposite direction, from east to west. So the river that crosses the continent is old, but its present layout is young.
 
   <!-- gela-015 -->
 
 - **Wind-blown dust builds the Loess Plateau** — c. 2.4 million years ago (2.4 Ma)
 
-  About 2.4 Ma, crustal movement and a cold climate started laying down loess on China's Loess Plateau. Loess is fine, wind-blown silt that piles up in thick blankets. Several causes lined up. Tibetan uplift had set up the East Asian monsoon, as The East Asian summer monsoon takes modern shape describes. Then the drier Quaternary climate weathered out the silt. The winds carried it away and dropped it, layer upon layer, over the plateau.
+  A dusty wind-blown blanket began to build in northern China. Crustal movement and a cold climate started loess deposition on the Loess Plateau about 2.4 Ma. Tibetan uplift had set up the East Asian monsoon, and the drier Quaternary climate weathered out the silt that became loess. The Chinese Loess Plateau is one location where loess data has been very useful in understanding past climate.
 
   <!-- gela-017 -->
 
@@ -9190,7 +9190,7 @@ The Gelasian, the first age of the Pleistocene, opens with Earth's magnetic fiel
 
 - **Giant ground sloths walk into North America** — c. 2.2 million years ago (2.2 Ma)
 
-  Eremotherium eomigrans, the first megatheriid ground sloth in North America, arrived 2.2 Ma across the new Panamanian land bridge. Traffic ran the other way too. Horses that had entered South America in the Great American Interchange evolved into Hippidion around 2.5 Ma.
+  Giant sloths walked north over a new land bridge. Eremotherium eomigrans, the first megatheriid ground sloth in North America, arrived 2.2 Ma across the new Panamanian land bridge. Eremotherium and Megatherium are the largest known ground sloths, thought to have had body masses of 3.5-4 tons. Traffic ran both ways in the Great American Interchange: horses that entered South America evolved into Hippidion around 2.5 Ma, and more ground sloth lineages migrated into Central and North America.
 
   <!-- gela-020 -->
 
@@ -9262,7 +9262,7 @@ The Gelasian, the first age of the Pleistocene, opens with Earth's magnetic fiel
 
 - **The Congo basin takes its present shape** — c. 2.0–1.5 million years ago (2–1.5 Ma)
 
-  The Congo River had a long history of rearrangement, as the rising rift flanks in Rising rift shoulders split Africa's great rivers show. Between about 2.0 and 1.5 Ma, its basin finally acquired its present shape. The great drainage of central Africa took the outline it still has.
+  Between about 2.0 and 1.5 Ma the basin of the Congo River acquired its present shape. The Congo Basin has a total area of about 4,000,000 km2, or 13% of the entire African landmass.
 
   <!-- gela-027 -->
 
@@ -9348,7 +9348,7 @@ Around 1.8 million years ago, people were already living in the hills of Georgia
 
 - **The first Missoula floods scour the Scablands** — c. 1.5 million years ago (1.5 Ma)
 
-  Floods of staggering size tore across the American Northwest. The oldest Pleistocene Missoula floods swept through the Channeled Scablands sometime before 1.5 million years ago. Their age comes from calcretes, hard limy soil crusts that formed in warm interglacials between flood deposits. Magnetic dating of the layers and luminescence dating, which measures when grains last saw light, back it up.
+  The Channeled Scablands were scoured long before the last ice age. The oldest Pleistocene Missoula floods swept through them sometime before 1.5 million years ago. The age rests on interglacial calcretes between flood deposits, magnetostratigraphy and luminescence dating. The floods blasted away the nurturing soils of the Palouse and much of the basalt beneath them.
 
   <!-- gela-048 -->
 
@@ -9375,7 +9375,7 @@ Around 1.8 million years ago, people were already living in the hills of Georgia
 
 - **The Mesa Falls eruption at Yellowstone** — c. 1.3 million years ago (1.3 Ma)
 
-  Yellowstone's second great cycle peaked about 1.3 million years ago. The Mesa Falls Tuff eruption threw out more than 280 km³ of material. It formed Henry's Fork Caldera inside the older Island Park Caldera. High-precision argon dating pins the eruption to 1.3001 ± 0.0006 million years ago, an unusually exact date for something so old.
+  Yellowstone's second cycle peaked about 1.3 Ma in the Mesa Falls Tuff eruption, over 280 km³, forming Henry's Fork Caldera inside the Island Park Caldera. High-precision argon dating puts it at 1.3001 ± 0.0006 Ma. Over the past 2 Ma three very large explosive eruptions at Yellowstone have yielded approximately 900 cubic kilometers of felsic magma, about 900 times the volume of the 1980 eruption of Mount St. Helens.
 
   <!-- gela-054 -->
 
@@ -9395,7 +9395,7 @@ Around 1.8 million years ago, people were already living in the hills of Georgia
 
 - **The Gregory Rift begins to pull apart** — c. 1.2 million years ago (1.2 Ma)
 
-  East Africa is slowly tearing open. The Gregory Rift, the eastern branch of the East African Rift, began spreading about 1.2 million years ago and still widens about 3 mm a year. Its faulting followed a long burst of large shield volcanoes near the edge of the old continental core, between 5 and 1 million years ago.
+  Africa has been splitting for a long time, and still is. The Gregory Rift, the eastern branch of the East African Rift, began spreading about 1.2 Ma and still opens about 3 mm a year. Faulting then followed large shield-volcano eruptions near the craton's edge between 5 and 1 Ma. When rifting reached the Tanzanian Craton, the rift split into the eastern Gregory Rift and the western Albertine Rift, separated by the 1,300 kilometres wide East African Plateau. It results from the separation of the Somali plate from the Nubian plate, driven by a thermal plume.
 
   <!-- gela-058 -->
 
@@ -9457,7 +9457,7 @@ Around 1.8 million years ago, people were already living in the hills of Georgia
 
 - **Straight-tusked Palaeoloxodon leaves Africa** — c. 800,000 years ago (800 ka)
 
-  Elephants joined the stream of animals moving out of Africa. At the end of the Early Pleistocene, about 800,000 years ago, the elephant genus Palaeoloxodon spread out of Africa and across Eurasia.
+  The largest elephant may have outweighed the largest land mammals of any age. At the end of the Early Pleistocene, about 800,000 years ago, the elephant genus Palaeoloxodon spread out of Africa and across Eurasia. One species, P. namadicus, is suggested to have had a body mass surpassing 16 tonnes, rivalling or exceeding paraceratheres, the otherwise largest known land mammals.
 
   <!-- gela-072 -->
 
@@ -9491,7 +9491,7 @@ The age we still live in, magnetically speaking, began when Earth's field last r
 
 - **The last chalicotheres, horses with claws** — during the Middle Pleistocene, 774,000–129,000 years ago (774–129 ka)
 
-  Imagine a relative of horses that walked on claws. The chalicotheres, or Ancylopoda, were clawed perissodactyls, the group of hoofed mammals that includes horses and rhinos. Their lineage lasted from the Eocene into the Middle Pleistocene. Sometime in that later stretch, between 774,000 and 129,000 years ago, the last of them disappeared.
+  The chalicotheres were odd browsers with claws instead of hooves. Their group, the Ancylopoda, ran from the Eocene into the Middle Pleistocene, and these last ones belong to its final stretch. They were herbivorous perissodactyl mammals, browsing with long, curved, cleft claws. Morphological evidence indicates they diverged from the tapirs, rhinoceroses and horses after the Brontotheria. One source lists chalicotheres among groups that went extinct in the Pliocene.
 
   <!-- chib-002 -->
 
@@ -9529,13 +9529,13 @@ The age we still live in, magnetically speaking, began when Earth's field last r
 
 - **Tiny ancestors of the Flores 'hobbit'** — c. 700,000 years ago (700 ka)
 
-  Small people were already small 700,000 years ago. Teeth and a partial jaw found at Mata Menge on Flores come from hominins thought to be ancestors of Homo floresiensis. They were as small as, or smaller than, the much later remains from Liang Bua. The species' small size therefore stayed stable for hundreds of thousands of years.
+  Flores's small people had small ancestors. Teeth and a partial jaw from hominins thought ancestral to Homo floresiensis lived at Mata Menge about 700,000 years ago. They were as small as or smaller than the later Liang Bua remains, so the species' small size stayed stable for hundreds of thousands of years. The teeth are similar in size and shape to those of H. floresiensis but more primitive. These hominins likely arose from insular dwarfism acting on Homo erectus.
 
   <!-- chib-009 -->
 
 - **A 'ghost' lineage splits from modern humans** — c. 700,000 years ago (700 ka)
 
-  Some living Africans carry DNA from a people no one has ever found. An archaic hominin population broke away from the modern human lineage around 700,000 years ago. No fossils of it are known, which is why it is called a ghost lineage. About 35,000 years ago its DNA entered some sub-Saharan hunter-gatherer groups, such as the Biaka and the San.
+  Modern humans carry DNA from a lineage no fossil has yet named. An archaic hominin population broke away from the modern human lineage around 700,000 years ago. Its DNA entered some sub-Saharan hunter-gatherer groups, such as the Biaka and San, about 35,000 years ago. West African groups such as the Yoruba and Mende carry it too, which shows it was acquired long before agriculture spread.
 
   <!-- chib-010 -->
 
@@ -9565,13 +9565,13 @@ The age we still live in, magnetically speaking, began when Earth's field last r
 
 - **The Rockland eruption at Lassen** — c. 610,000 years ago (610 ka)
 
-  About 610,000 years ago, the Lassen area of California blew out more than 130 km³ of rhyolite magma. Huge pyroclastic flows raced across the land, and an ash plume rose tens of kilometers high. Recent studies put the Rockland ash at up to 326.7 km³, over twice the ash of the Mazama eruption.
+  More than 130 km³ of rhyolite magma erupted violently from the Lassen area of California, with huge pyroclastic flows and an ash plume tens of kilometres high. Recent studies put the Rockland ash at up to 326.7 km³, over twice the Mazama ash, so the Rockland eruption could be the most voluminous eruption in the Cascade Volcanic Arc. From 600,000 to 400,000 years ago, eruptions then built the large conical stratovolcano Mount Tehama. Another source rounds the comparison with Mazama to nearly twice.
 
   <!-- chib-015 -->
 
 - **The Great Barrier Reef builds its first full reefs** — c. 600,000 years ago (600 ka)
 
-  The Great Barrier Reef is younger than it looks. Coral skeleton deposits on the Great Barrier Reef date back about half a million years. The earliest evidence of complete reef structures there is a little older, about 600,000 years.
+  The Great Barrier Reef is the world's largest coral reef system, made of over 2,900 individual reefs and 900 islands. Its earliest evidence of complete reef structures dates to about 600,000 years ago, and coral skeleton deposits there go back about half a million years. Ribbon reefs and deltaic reefs form only in the northern part.
 
   <!-- chib-016 -->
 
@@ -9623,7 +9623,7 @@ The age we still live in, magnetically speaking, began when Earth's field last r
 
 - **The first brown bears** — c. 500,000 years ago (500 ka)
 
-  Brown bears are relative newcomers. The first ones appeared around half a million years ago, in the Middle Pleistocene.
+  Brown bears are recent arrivals in the bear family. Ursine bears originated around five million years ago, with extensive hybridization among the different species. The first brown bears appeared around 0.5 million years ago. The founding population of most North American brown bears arrived first, with its genetic lineage developing around 177,000 years ago.
 
   <!-- chib-025 -->
 
@@ -9647,7 +9647,7 @@ The age we still live in, magnetically speaking, began when Earth's field last r
 
 - **The mammoth steppe is born** — c. 460,000 years ago (460 ka)
 
-  During the MIS 12 glacial, about 460,000 years ago, a new kind of landscape appeared. The steppe-tundra biome, also called the mammoth steppe, first emerged. It joined animals of the northern tundra with those of the Central Asian steppe into one community. Cold, dry grassland stretched where the two had once been separate. This biome was not fixed. It grew with every later glacial cycle and shrank in each warm spell, again and again.
+  During the MIS 12 glacial, about 460,000 years ago, a new kind of landscape appeared. The steppe-tundra biome, also called the mammoth steppe, first emerged, uniting animals of the northern tundra and Central Asian steppe. It would repeatedly expand and contract with later glacial cycles. At its peak it was once the Earth's most extensive biome. It was cold and dry and relatively featureless, though climate, topography and geography varied considerably. Its fauna was dominated by reindeer, muskox, saiga antelope, steppe bison, horses, woolly rhinoceros and woolly mammoth.
 
   <!-- chib-032 -->
 
@@ -9681,19 +9681,19 @@ The age we still live in, magnetically speaking, began when Earth's field last r
 
 - **The Clactonian tool industry** — c. 400,000 years ago (400 ka)
 
-  From about 400,000 years ago, Homo heidelbergensis developed a tool industry of its own, the Clactonian.
+  Not every early toolmaker made handaxes. From about 0.4 Ma, Homo heidelbergensis developed its own tool industry, the Clactonian, dated to the early Hoxnian Interglacial, around 424-415,000 years ago. It differs from the contemporaneous Acheulean mainly in not using handaxes; thick irregular flakes struck from a flint core served as choppers. Its distinctiveness has been questioned, because its techniques resemble the Acheulean and handaxes occur in Britain both before and after it.
 
   <!-- chib-037 -->
 
 - **The first modern grey wolves** — c. 400,000 years ago (400 ka)
 
-  The earliest specimens of the modern grey wolf date to around 400,000 years ago, and possibly as early as 1 million years ago. At first they were no bigger than dholes, Asian wild dogs. Between 400,000 and 300,000 years ago the two were similar in size, but wolves were slowly growing larger.
+  The earliest specimens of the modern grey wolf date to around 400,000 years ago, possibly as early as 1 million years ago. Between 400,000 and 300,000 years ago dholes and wolves were similar in size, but wolves were slowly growing larger. It is widely agreed that the lineage goes back 2 million years to Canis etruscus, followed in the Middle Pleistocene by Canis mosbachensis. A 2010 study found that Canis diversity fell by the end of the Early to Middle Pleistocene, leaving in Eurasia the small C. mosbachensis-C. variabilis wolves and the large hypercarnivorous Canis (Xenocyon) lycanoides.
 
   <!-- chib-038 -->
 
 - **The first polar bears** — c. 400,000 years ago (400 ka)
 
-  Polar bears are among the younger large mammals. The first of them appeared about 400,000 years ago, during the Middle Pleistocene.
+  Polar bears are young, and their exact birthday is uncertain. The first appeared about 400,000 years ago. Estimates of when they split from brown bears differ: a 2010 study gave about 150,000 years ago and a 2012 study about 600,000 years ago. Glaciation events over hundreds of thousands of years led to their origin and to their later interactions and hybridizations with brown bears.
 
   <!-- chib-039 -->
 
@@ -9809,7 +9809,7 @@ The age we still live in, magnetically speaking, began when Earth's field last r
 
 - **The last mesotheriids of South America** — c. 220,000 years ago (220 ka)
 
-  South America's native hoofed mammals, the notoungulates, were dwindling. Mesotherium, the last mesotheriid and the last of the group called Typotheria, has its final records around 220,000 years ago. After it, Toxodontidae was the only notoungulate family to survive into the Late Pleistocene.
+  A burrowing, rodent-like giant of South America made its last stand. Mesotherium, the last mesotheriid and last of the Typotheria, has its final records around 220,000 years ago. It was a long-lived, superficially rodent-like notoungulate, the largest typothere, possibly weighing up to 100 kg. Afterwards Toxodontidae was the only notoungulate family to survive into the Late Pleistocene.
 
   <!-- chib-059 -->
 
@@ -9851,7 +9851,7 @@ The age we still live in, magnetically speaking, began when Earth's field last r
 
 - **Karymsky blankets Kamchatka in ash** — c. 177,000 years ago (177 ka)
 
-  About 177,000 years ago, a huge eruption spread ash over more than 1.5 million km². It has been linked to Karymsky volcano on the Kamchatka peninsula. The blast rated VEI 6 or larger.
+  Karymsky, an active stratovolcano on the Kamchatka Peninsula in Russia, has been linked to a VEI 6 or larger eruption that spread ash over more than 1.5 million km².
 
   <!-- chib-066 -->
 
@@ -9863,7 +9863,7 @@ The age we still live in, magnetically speaking, began when Earth's field last r
 
 - **Megadroughts grip tropical Africa** — c. 135,000 years ago (135 ka)
 
-  From 135,000 years ago, megadroughts struck tropical Africa. They pushed humans toward the coasts and onto other continents. By the MIS 5 megadrought, 130,000 years ago, Africa held two ancestral human population clusters. One of them, in the south, carried the maternal lineage known as mitochondrial haplogroup L0.
+  Drought drove early humans out of the heartland. From 135,000 years ago, megadroughts struck tropical Africa, pushing people toward the coasts and onto other continents. By the MIS 5 megadrought, 130,000 years ago, Africa held two ancestral human population clusters, including mtDNA haplogroup L0 in the south. Homo sapiens seems to have reached the western Sahelian zone by then. Early modern human expansion in sub-Saharan Africa appears to have contributed to the end of late Acheulean (Fauresmith) industries about 130,000 years ago.
 
   <!-- chib-068 -->
 
@@ -9881,7 +9881,7 @@ The age we still live in, magnetically speaking, began when Earth's field last r
 
 - **Burials at Krapina** — c. 130,000 years ago (130 ka)
 
-  At Krapina in Croatia, the dead were buried about 130,000 years ago. Some anthropologists see in such burials a growing concern for the dead and a developing belief in an afterlife.
+  Burials at Krapina, Croatia, date to about 130,000 years ago. Some anthropologists see in such burials a developing belief in an afterlife and a concern for the dead. Burial and ritual are among the religious behaviors people began to show in the Middle or Upper Paleolithic, alongside art. Some scientists propose that Middle Paleolithic societies such as the Neanderthals may also have practiced the earliest totemism or animal worship.
 
   <!-- chib-071 -->
 
@@ -10043,7 +10043,7 @@ The Late Pleistocene opened in warmth. The Last Interglacial followed the Penult
 
 - **Bone harpoons at Katanda** — c. 90,000 years ago (90 ka)
 
-  About 90,000 years ago, people in the Semliki River valley of Central Africa carved harpoons from bone. The Katanda harpoons date to the Middle Stone Age. Harpoons were first invented about then, in the late Middle Paleolithic. They brought fish into human diets, a hedge against starvation.
+  Humans started fishing with barbed bone points. Bone harpoons from Katanda, in the Semliki River valley of Central Africa, date to about 90,000 years ago, in the Middle Stone Age. Harpoons were first invented in the late Middle Paleolithic, bringing fish into human diets as a hedge against starvation. The first evidence of fishing is also noted from artifacts at places such as Blombos Cave in South Africa. In Africa, bone artifacts and the first art appear in the same record.
 
   <!-- late-025 -->
 
@@ -10305,7 +10305,7 @@ The Late Pleistocene opened in warmth. The Last Interglacial followed the Penult
 
 - **Walking to Tasmania** — c. 40,000 years ago (40 ka)
 
-  About 43,000 years ago, low glacial seas exposed the Bassian Plain, a land bridge from mainland Australia to Tasmania. People walked across about 40,000 years ago and became the Aboriginal Tasmanians. Tasmania's megafauna disappeared about 41,000 years ago, apparently through hunting.
+  Low glacial seas exposed a land bridge, and people walked across it. Aboriginal Tasmanians arrived about 40,000 years ago across the Bassian Plain. The bridge formed about 43,000 years ago; Tasmania's megafauna disappeared about 41,000 years ago, apparently through hunting. Australian megafauna extinction appears to have peaked around 42,000 years ago, earlier than in the Americas or among the Eurasian mammoth steppe fauna. The giant kangaroo Protemnodon died out sooner on the mainland than on Tasmania, which humans colonised a few thousand years later.
 
   <!-- late-063 -->
 
@@ -10620,7 +10620,7 @@ The Late Pleistocene opened in warmth. The Last Interglacial followed the Penult
 
 - **Rising seas flood the Persian Gulf** — c. 15,000 years ago (15 ka)
 
-  For most of the ice age, the Persian Gulf was a dry basin. About 15,000 years ago, seas swollen by melting ice sheets began to flood it. The filling was slow. Much of the Gulf floor was still dry 12,000 to 9,000 years ago. The modern marine Gulf took shape in the early Holocene, by about 6,000 years ago.
+  Rising seas from the melting ice sheets began flooding the Persian Gulf basin about 15,000 years ago. Much of the Gulf floor was still dry 12,000–9,000 years ago, and the modern marine Gulf formed in the early Holocene, by about 6,000 years ago. The Gulf is a foreland basin between the Arabian Peninsula and the Zagros Mountains of Iran.
 
   <!-- late-113 -->
 
@@ -10703,7 +10703,7 @@ The Late Pleistocene opened in warmth. The Last Interglacial followed the Penult
 
 - **The Great Lakes basins begin to fill** — c. 14,000 years ago (14 ka)
 
-  The Great Lakes sit in holes the ice dug. Around 14,000 years ago, retreating ice sheets exposed the basins they had carved, and meltwater filled them. In Wisconsin, too, the ice began to retreat about then as the climate warmed.
+  The Great Lakes are young water in an ancient hollow. They began forming around 14,000 years ago, as retreating ice sheets exposed the basins they had carved and meltwater filled them. In Wisconsin the ice also began to retreat then as the climate warmed. The meltwater lakes included Lake Algonquin, Lake Chicago, Glacial Lake Iroquois and the Champlain Sea. The foundations of the present upper Great Lakes were laid far earlier, 1.1 to 1.2 billion years ago, when two previously fused tectonic plates split apart and created the Midcontinent Rift.
 
   <!-- late-123 -->
 
@@ -10958,7 +10958,7 @@ The Greenlandian is the opening age of the Holocene, a time of melting ice and r
 
 - **South America's last notoungulates die out** — 11,000 years ago (c. 9050 BCE)
 
-  An order of hoofed mammals found only in South America lasted some 61 million years and then was gone. Notoungulata lived from about 61 million to 11,000 years ago. The order included Toxodon, a rhinoceros-sized grazer, which belongs among the late victims of the extinctions described in The megafauna keep dying into the Holocene.
+  South America's native hoofed mammals ended with the Pleistocene. Notoungulata lived from about 61 million to 11,000 years ago and included Toxodon, a rhinoceros-sized grazer. Their diversity declined during the Pliocene and Pleistocene, at the same time as the Great American Interchange let ungulates and other mammals from North America enter South America. Only the large toxodontids persisted until the end of the Pleistocene, and they perished in the Late Pleistocene megafauna extinctions along with most other large mammals across the Americas. Some Toxodon remains at Itapipoca, Brazil, and a tooth from another site gave even younger dates.
 
   <!-- gree-017 -->
 
@@ -11010,7 +11010,7 @@ The Greenlandian is the opening age of the Holocene, a time of melting ice and r
 
 - **The modern coyote appears** — 10,000 years ago (c. 8050 BCE)
 
-  Not every Ice Age lineage ended in extinction. The modern coyote appeared around 10,000 years ago, most likely descended from the Pleistocene coyote. It came through the great die-off described in The megafauna keep dying into the Holocene as a smaller, newer form of an old line.
+  The modern coyote appeared around 10,000 years ago, most likely descended from the Pleistocene coyote. The species itself is much older: by the Early Pleistocene, 1 million years ago, Canis latrans was already in existence.
 
   <!-- gree-033 -->
 
@@ -11078,7 +11078,7 @@ The Greenlandian is the opening age of the Holocene, a time of melting ice and r
 
 - **Today's Great Barrier Reef starts to grow** — 9,000 years ago (c. 7050 BCE)
 
-  The living Great Barrier Reef is younger than it looks. It is believed to have begun growing on an older platform about 9,000 years ago, as the seas of The early Holocene sea rises 60 meters rose over the land.
+  The reef we see today is a latecomer on an old foundation. The present living Great Barrier Reef is believed to have begun growing on an older platform about 9,000 years ago. The land under it was a coastal plain formed from eroded sediments of the Great Dividing Range, with some larger hills that were mostly remnants of older reefs or, rarely, volcanoes. The reef system is the world's largest, made of over 2,900 individual reefs and 900 islands stretching over 2,300 kilometres across about 344,400 square kilometres.
 
   <!-- gree-044 -->
 
@@ -11154,13 +11154,13 @@ The Northgrippian opens with a shock: global temperatures dropped abruptly aroun
 
 - **The last steppe bison** — 8,000 years ago (c. 6050 BCE)
 
-  The steppe bison, a grazer of the mammoth steppe, survived in north-central eastern Siberia until about 8,000 years ago. Traces may stretch later. Bison DNA in northeastern Siberian permafrost may extend its survival to 5050–3800 BCE. The youngest North American remains, from Yukon, date to 3628–3377 BCE.
+  The steppe bison outlived the mammoth steppe it grazed. It survived in north-central eastern Siberia until about 8,000 years ago, and bison DNA in northeastern Siberian permafrost may extend its survival to 5050–3800 BCE. A frozen mummy from northern Yakutia shows a pasture grazer living in a habitat becoming dominated by shrub and tundra vegetation. Bison in Alaska and the Yukon survived the loss of the mammoth steppe; the youngest North American remains, from Yukon, date to 3628–3377 BCE.
 
   <!-- nort-009 -->
 
 - **Menengai collapses in Kenya's Rift Valley** — 8,000 years ago (c. 6050 BCE)
 
-  Menengai is a shield volcano, a broad, gently sloping cone, on the floor of Kenya's Rift Valley. About 8,000 years ago it collapsed to form its 12 × 8 km caldera, the bowl left when a volcano's summit falls in. The eruption is listed at VEI 6, with about 70 km³ of material.
+  Menengai, a shield volcano on the floor of Kenya's Rift Valley, collapsed to form its 12 × 8 km caldera. The eruption is listed at VEI 6, with about 70 km³ of material. The volcano sits in the Great Rift Valley, part of an intra-continental system of depressions running north to south through Kenya.
 
   <!-- nort-010 -->
 
@@ -11220,7 +11220,7 @@ The Northgrippian opens with a shock: global temperatures dropped abruptly aroun
 
 - **The Ilumetsa craters in Estonia** — c. 7,170–7,000 years ago (5220 BCE–5050 BCE)
 
-  Two probable meteorite craters, about 80 m and 50 m wide, formed together in southeastern Estonia. The word probable matters. No meteorite fragments or shock features have been found, so their impact origin is likely but not proven.
+  Two probable meteorite craters, about 80 m and 50 m wide, formed together in southeastern Estonia. No meteorite fragments or shock features have been found, so the impact origin is probable rather than proven. That caution is fair, because some geological processes make circular or near-circular features that can be mistaken for impact craters.
 
   <!-- nort-019 -->
 
@@ -11260,7 +11260,7 @@ The Northgrippian opens with a shock: global temperatures dropped abruptly aroun
 
 - **Pinatubo's Crow Valley eruptions** — c. 5,950–4,950 years ago (4000 BCE–3000 BCE)
 
-  Mount Pinatubo's famous 1991 eruption was not its largest. During its earlier Crow Valley eruptive period, it produced pyroclastic flows two to three times larger than those of 1991. That eruption is listed at VEI 6, with about 12 km³ of material.
+  Mount Pinatubo's Crow Valley eruptive period produced pyroclastic flows two to three times larger than those of 1991. The eruption is listed at VEI 6, with about 12 km³ of material. Later eruptions of modern Pinatubo came in episodes much shorter than the quiet intervals between them. The maximum size of eruptions in each period has been getting smaller over its 35,000-year history, though this might be an artifact of older deposits being eroded and buried.
 
   <!-- nort-025 -->
 
@@ -11296,13 +11296,13 @@ The Northgrippian opens with a shock: global temperatures dropped abruptly aroun
 
 - **Mount Rainier collapses into the Osceola Mudflow** — 5,000 years ago (c. 3050 BCE)
 
-  About 5,000 years ago, a huge part of Mount Rainier slid away, taking about 490 m off its summit. The debris avalanche fed the Osceola Mudflow, a torrent of mud and rock. It reached the sites of today's Tacoma and south Seattle.
+  About 5,000 years ago a huge part of Mount Rainier slid away, taking about 490 m off its summit. A sector collapse is the catastrophic failure of a significant part of a volcano, creating a large debris avalanche. This one fed the Osceola Mudflow, which reached the sites of today's Tacoma and south Seattle. Rainier has had large debris avalanches and enormous lahars, owing to the large amount of glacial ice on it.
 
   <!-- nort-032 -->
 
 - **Burckle crater: a disputed impact** — 5,000 years ago (c. 3050 BCE)
 
-  Beneath the southwest Indian Ocean lies a 29 km undersea feature. The Holocene Impact Working Group proposes that it is an impact crater about 5,000 years old. Its backers link it to floods that affected Sumerian civilization. Other geologists dispute that the Burckle feature is an impact crater at all.
+  A 29 km undersea feature in the southwest Indian Ocean may be a crater only about 5,000 years old, but other geologists dispute that it is an impact crater at all. The Holocene Impact Working Group proposes the impact, and its backers link it to floods that affected Sumerian civilization. A structure must meet a stringent set of established criteria to be confirmed. Proposing that Burckle (30 km) formed within the last few millennia has met with skepticism, since almost all confirmed craters younger than a million years are under two km across.
 
   <!-- nort-033 -->
 
@@ -11388,13 +11388,13 @@ The youngest age of the Holocene begins with a drought: a severe one that began 
 
 - **The Caribbean's last ground sloths** — 3,500 years ago (c. 1550 BCE)
 
-  Mainland ground sloths had died out about 11,000 years ago, as North America loses its sloths, horses and short-faced bears tells. Their island relatives outlived them. Caribbean ground sloths, the group's last survivors, lived on Cuba, Hispaniola and Puerto Rico possibly until 1550 BCE, much as Wrangel Island's mammoths outlasted theirs.
+  The last ground sloths lived on islands. Caribbean ground sloths on Cuba, Hispaniola and Puerto Rico lived possibly until 1550 BCE. Mainland ground sloths had died out about 11,000 years ago; the island relicts outlived them, much as Wrangel Island's mammoths did. They survived about 6,000 years longer, matching the fact that those islands were not colonized by humans until about 5500 yr BP. Ground sloths ranged from under 100 kilograms in the Caribbean to 3,700–4,100 kilograms in the largest genera Megatherium, Lestodon and Eremotherium.
 
   <!-- megh-014 -->
 
 - **Did the last litopterns live into the late Holocene?** — 3,500 years ago (c. 1550 BCE)
 
-  Litopterns were an order of South American native hoofed mammals that arose 62.5 million years ago. They are usually thought to have vanished about 12,000 years ago. A 2025 study challenges that. It radiocarbon-dated a Xenorhinotherium specimen to 3,493–4,217 years ago, suggesting the order survived into the late Holocene. That claim rests on a single date, so it remains unconfirmed.
+  Litopterns, an order of South American native hoofed mammals that arose 62.5 million years ago, are usually thought to have vanished about 12,000 years ago. A 2025 study of a Xenorhinotherium specimen radiocarbon dated to 3,493–4,217 years ago suggests the order survived into the late Holocene, though that rests on a single date. The last genera were Macrauchenia, Xenorhinotherium and Neolicaphrium. The order had nine families, of which Proterotheriidae and Macraucheniidae were the most diverse and the last to survive.
 
   <!-- megh-015 -->
 
@@ -11418,7 +11418,7 @@ The youngest age of the Holocene begins with a drought: a severe one that began 
 
 - **Pinatubo's Maraunot eruption** — 3,000 years ago (c. 1050 BCE)
 
-  Mount Pinatubo in Luzon erupted at VEI 6 around 1050 BCE, during its Maraunot eruptive period. It ejected about 12.5 km³ of material. The volcano would erupt on that scale again in Pinatubo cools the world in 1991.
+  Mount Pinatubo in Luzon erupted at VEI 6 around 1050 BCE, ejecting about 12.5 km³ during its Maraunot eruptive period. It is an active stratovolcano in the Zambales Mountains in the Philippines. Its oldest eruption, Inararo, was also its largest.
 
   <!-- megh-020 -->
 
@@ -11436,7 +11436,7 @@ The youngest age of the Holocene begins with a drought: a severe one that began 
 
 - **Raoul Island blasts open the Denham caldera** — 2,200 years ago (c. 250 BCE)
 
-  At one spot on Raoul Island, 40 m of pumice lies under 80 m of ignimbrite. About 2,200 years ago, a major dacitic explosion on the island, in the Kermadecs, formed the 6.5 by 4 km Denham caldera. Rated VEI 6 and about the size of Krakatoa's 1883 eruption, it left the Fleetwood tephra.
+  About 2,200 years ago a major dacitic explosion on Raoul Island, in the Kermadecs, formed the 6.5 by 4 km Denham caldera. Rated VEI 6 and about the size of Krakatoa's 1883 eruption, it left the Fleetwood tephra; at one spot 40 m of pumice lies under 80 m of ignimbrite. The caldera's long axis runs parallel to the tectonic fabric of the Havre Trough, west of the volcanic arc. Historical eruptions in the 19th and 20th centuries were small-to-moderate phreatic ones, and some formed ephemeral islands in the caldera.
 
   <!-- megh-025 -->
 
@@ -11448,7 +11448,7 @@ The youngest age of the Holocene begins with a drought: a severe one that began 
 
 - **Lake Chad's Bodélé basin dries out** — c. 2,000–1,000 years ago (50 BCE–950 CE)
 
-  The largest single source of dust on Earth today is a dried lakebed. Lake Chad shrank to about 5% of its former size. Its deep northern Bodélé basin, cut off from the Chari River, dried out completely about 2,000–1,000 years ago. Its dust is the lasting mark of The green Sahara dries into desert.
+  Lake Chad was once the largest lake on Earth. As Lake Megachad it grew to at least ten times its present size, then shrank to about 5% of its former size. Its deep northern Bodélé basin dried out completely about 2,000–1,000 years ago, cut off from the Chari River. The dry basin is today the largest single source of dust on Earth. Some studies suggest it supplies over half of the nutrient-rich dust that supports the Amazon rainforest.
 
   <!-- megh-027 -->
 
@@ -11478,7 +11478,7 @@ The youngest age of the Holocene begins with a drought: a severe one that began 
 
 - **Ksudach's caldera-forming eruption** — c. 240 CE
 
-  Around 240 CE, Kamchatka's Ksudach volcano had a major caldera-forming eruption, rated VEI 6. It ejected 18–19 km³ and created the 4 by 6.5 km Caldera V. It joins the Kurile Lake caldera of Kurile Lake caldera blasts Kamchatka among Kamchatka's great Holocene blasts.
+  Kamchatka's Ksudach volcano had a major caldera-forming eruption around 240 CE, ejecting 18–19 km³ and creating the 4 by 6.5 km Caldera V. The eruption is rated VEI 6. Ksudach has had five known collapse events, which created its system of nested calderas. Two lakes, Bolshoe and Kraternoe, lie within calderas at its summit.
 
   <!-- megh-032 -->
 
@@ -11513,7 +11513,7 @@ The youngest age of the Holocene begins with a drought: a severe one that began 
 
 - **Mount Churchill spreads the White River Ash** — c. 847 CE
 
-  Ash from one Alaskan volcano blankets north-western Canada. Mount Churchill erupted at VEI 6 around 847 CE, ejecting about 50 km³ and laying the eastern lobe of the White River Ash. An earlier VEI 6 eruption, about 145–345 CE, had laid the northern lobe.
+  An Alaskan eruption rerouted trade across north-western Canada. Mount Churchill erupted at VEI 6 around 847 CE, ejecting about 50 km³ and laying the eastern lobe of the White River Ash. An earlier VEI 6 eruption about 145–345 CE laid the northern lobe. The eastern lobe is 2.5 centimetres thick 600 kilometres from the volcano and extends to the Great Slave and Great Bear Lakes. Archaeological data show some important trade routes were abandoned and new ones set up afterward, implying displaced people built new trade networks.
 
   <!-- megh-037 -->
 
@@ -11595,7 +11595,7 @@ The youngest age of the Holocene begins with a drought: a severe one that began 
 
 - **The last wild aurochs dies in Poland** — 1627 CE
 
-  The aurochs, the wild ancestor of most modern cattle, once ranged across Eurasia, North Africa and India. Only the European form survived into historical times. Hunting, forest clearance, competition with livestock and cattle diseases left one herd in Poland's Jaktorów forest. The last of them died there in 1627.
+  The aurochs, wild ancestor of most modern cattle, once ranged across Eurasia, North Africa and India; only the European form survived into historical times. Hunting, forest clearance, competition with livestock and cattle diseases left one herd in Poland's Jaktorów forest. The last widely accepted aurochs cow there died of natural causes in 1627. Subfossil finds suggest wild aurochs may have survived in northwestern Transylvania until the 14th to 16th century and in western Moldavia until probably the early 17th century.
 
   <!-- megh-059 -->
 
@@ -11627,13 +11627,13 @@ The youngest age of the Holocene begins with a drought: a severe one that began 
 
 - **The Great Lisbon earthquake** — 1755 CE
 
-  On 1 November 1755 the Great Lisbon earthquake struck, killing around 100,000 people. It was one of the most destructive earthquakes in history. It heads the list of large earthquakes and tsunamis the Azores–Gibraltar fault zone has produced since records began in the 1700s.
+  On 1 November 1755 the Great Lisbon earthquake struck, one of the most destructive in history, killing around 100,000 people. It heads the list of large earthquakes and tsunamis the Azores–Gibraltar fault zone has produced since records began in the 1700s. That transform zone activated at about 30 Ma, appears as a ridge on the Atlantic Ocean floor, and is still an earthquake zone today.
 
   <!-- megh-066 -->
 
 - **Steller's sea cow: gone in 27 years** — c. 1768 CE
 
-  Steller's sea cow was the largest known sirenian, a plant-eating sea mammal, at up to 10 m and 5–10 tonnes. It survived as a relict in the Bering Sea's Commander Islands. Discovered in 1741, it was hunted for meat and hides until it was gone by 1768, just 27 years later.
+  Steller's sea cow lasted only 27 years after its discovery. The largest known sirenian, at up to 10 m and 5–10 tonnes, survived as a relict in the Bering Sea's Commander Islands. Discovered in 1741, it was hunted for meat and hides until it was gone by 1768. In 1887 Stejneger estimated that fewer than 1,500 remained when Steller found them, and argued extinction was already an immediate danger. One study argues it was already a dead clade walking, since natural climatic and sea level shifts had wiped out most of the population and the tiny remainder risked a genetic extinction vortex.
 
   <!-- megh-067 -->
 
@@ -11673,7 +11673,7 @@ The youngest age of the Holocene begins with a drought: a severe one that began 
 
 - **The 1831 eruption traced to Zavaritski Caldera** — c. 1831 CE
 
-  A high-magnitude explosive eruption in the northern summer of 1831 may have come from Zavaritski Caldera on Simushir, in the Kuril Islands. Its reconstructed radiative forcing, its effect on Earth's energy balance, matches that of Pinatubo in 1991. It may explain cooling in 1831–1833, which ended the volcanic cold spell of 1809–1831.
+  A volcano nobody saw may have caused famines on two continents. A high-magnitude explosive eruption in the northern summer of 1831 may have come from Zavaritski Caldera on Simushir, in the Kuril Islands. Tephra layers found with the 1831 sulphate peaks in ice chemically matched its most recent Plinian eruption, dated to the early 19th century. Its reconstructed radiative forcing matches Pinatubo's in 1991 and may explain cooling in 1831–1833, ending the volcanic cold spell of 1809–1831. The sulfur is thought to have cooled the Northern Hemisphere by 0.5–1.0 °C, coincided with shifts in the Indian and African monsoons, and preceded famines including the Guntur famine of 1832 in India and the Tenpō famine in Japan.
 
   <!-- megh-073 -->
 
@@ -11705,7 +11705,7 @@ The youngest age of the Holocene begins with a drought: a severe one that began 
 
 - **Santa María erupts in Guatemala** — 1902 CE
 
-  In October 1902, Santa María in Guatemala had its first recorded eruption. The VEI 6 blast ejected about 5.5 km³ of magma over two days, and 7,000–13,000 people died. It ranks with Novarupta (1912) and Pinatubo (1991) among the three largest eruptions of the 20th century.
+  Nobody in Guatemala knew Santa María could erupt. In October 1902 its first recorded eruption, a VEI 6, ejected about 5.5 km³ of magma over two days. Because it had no recorded eruptions, local people did not recognise the earlier seismicity as a warning. Between 7,000 and 13,000 people died. It ranks with Novarupta (1912) and Pinatubo (1991) among the three largest eruptions of the 20th century. New eruptions began in 1922 with a lava dome complex extruded in the crater the 1902 eruption left.
 
   <!-- megh-080 -->
 
@@ -11723,19 +11723,19 @@ The youngest age of the Holocene begins with a drought: a severe one that began 
 
 - **Martha, the last passenger pigeon** — 1914 CE
 
-  The passenger pigeon was once perhaps 40% of all birds in North America. Habitat loss and mass hunting for a meat industry destroyed it. It was declared extinct in 1914, when Martha, the last known bird, died at the Cincinnati Zoo. The species had vanished from the wild 20 years before.
+  The passenger pigeon, once perhaps 40% of all birds in North America, was destroyed by habitat loss and mass hunting for a meat industry. It was declared extinct in 1914 when Martha, the last known bird, died at the Cincinnati Zoo, 20 years after the species vanished from the wild. Environmental laws passed to protect it did little to improve its numbers. The deforestation was also worsened by the invasive chestnut blight, which greatly reduced American chestnut trees.
 
   <!-- megh-083 -->
 
 - **The last thylacine dies in Hobart** — 1936 CE
 
-  The thylacine, or Tasmanian tiger, was a dog-like marsupial predator. After Thylacine and devil vanish from mainland Australia it survived only in Tasmania, and the last confirmed wild one was killed in 1931. The last known thylacine died at Hobart Zoo on 7 September 1936. A 2023 analysis of sightings suggests it may have lingered for decades.
+  The thylacine, or Tasmanian tiger, a dog-like marsupial predator, survived only in Tasmania; the last confirmed wild one was killed in 1931. The last known thylacine died at Hobart Zoo on 7 September 1936, though a 2023 analysis of sightings suggests it lingered for decades. Naturalist David Fleay shot a 45 second black-and-white film of the zoo's presumed last thylacine in 1933. Since 1996 Australia has marked National Threatened Species Day on 7 September.
 
   <!-- megh-084 -->
 
 - **Iron rains on Sikhote-Alin** — 1947 CE
 
-  On 12 February 1947, an iron meteorite of over 23 tonnes fell in the Sikhote-Alin Mountains of the Soviet Far East. It broke apart as it fell. Its fragments scattered over about 1.3 km² and blasted craters up to 26 m across.
+  On 12 February 1947 an iron meteorite of over 23 tonnes fell in the Sikhote-Alin Mountains of the Soviet Far East. Eyewitnesses saw a bolide brighter than the sun come out of the north and descend at about 41 degrees. Its fragments scattered over about 1.3 km² and blasted craters up to 26 m across. Before entering the atmosphere the meteoroid is estimated to have had a mass of about 90 tonnes.
 
   <!-- megh-086 -->
 
@@ -11895,7 +11895,7 @@ The youngest age of the Holocene begins with a drought: a severe one that began 
 
 - **The 2010 Chile earthquake** — c. 2010 CE
 
-  On 27 February 2010, a magnitude 8.8 earthquake struck central Chile. Its waves set off seiches as far away as Louisiana. Nearby, the Caldera del Atuel and other volcanic centres subsided after the quake. Great earthquakes along this coast often stir its volcanoes, as Valdivia 1960: the largest earthquake ever recorded showed half a century earlier.
+  A magnitude 8.8 earthquake struck central Chile on 27 February 2010. It was the largest to hit Chile since the magnitude 9.5 1960 Valdivia earthquake and the strongest worldwide since the 2004 Indian Ocean earthquake. It triggered a tsunami with waves up to 24.1 m that devastated several coastal towns in south-central Chile, with the worst damage at Constitución. Its waves set off seiches as far away as Louisiana, and the Caldera del Atuel and other volcanic centres subsided afterward.
 
   <!-- megh-114 -->
 
@@ -11951,7 +11951,7 @@ The youngest age of the Holocene begins with a drought: a severe one that began 
 
 - **The 2025 Kamchatka earthquake** — c. 2025 CE
 
-  The Kamchatka coast shook again in 2025. Another giant megathrust earthquake, of magnitude 8.8, struck where the Pacific plate subducts along the Kuril–Kamchatka Trench. It was the same boundary that broke in The 1952 Kamchatka earthquake, a fault with a long record of giant quakes. Its return is a reminder that these plate boundaries reload and fail again.
+  In 2025 another giant megathrust earthquake, of magnitude 8.8, struck the Kamchatka coast. Kamchatka lies on the Okhotsk plate, and the Pacific plate subducts beneath it along the Kuril–Kamchatka Trench.
 
   <!-- megh-124 -->
 

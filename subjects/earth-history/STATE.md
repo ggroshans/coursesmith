@@ -21,3 +21,18 @@ _Update after every step. `coursesmith status earth-history` prints the live num
 - Entries still have no structured definitions, so the glossary holds only the writers' extra terms; 32 terms
   used before their defining unit were dropped (`fill.zz-glossary.json`).
 - Glossary and figure sent_ids are entry-level (a figure cites its entry's sentences), not matched one by one.
+
+## Upgrade pass (2026-11-19): thin entries and outside sources
+The course had no frame crawl (it was ported whole), so the standard gap-fill loop could not run. Instead of adding entries
+(which would break the 365-units-a-year design), the thin ones were deepened in place:
+- Sources added (licenses read by the search session, `sources check` clean, `distribution: personal`): Physical Geology
+  (Earle, CC BY), Historical Geology (Bentley et al., CC BY-NC), Introduction to Historical Geology (Johnson et al.,
+  CC BY-NC-SA), USGS Geologic Time (public domain). Rejected: ICS chart (all rights reserved), UCMP and BCcampus
+  (license unreadable), journal reviews (license not confirmed).
+- 605 Wikipedia pages behind the 467 thin entries (1-2 facts) were crawled and indexed, plus 513 pages of the sources.
+  Each thin entry got candidate sentences from its own pages and from the sources; agents added 1-3 facts per entry from
+  those only. 298 entries were enriched with 556 facts (numbers checked against the cited sentences); thin entries
+  (1-2 facts) went from 467 to 194, and 31 entries now rest partly on a vetted outside source. The remaining 194 had no
+  fitting sentence; none was padded.
+- Prose of the 298 changed entries was rewritten; entry count, order, units (365) and questions are unchanged.
+  `write check` and `publish check` 0 problems.

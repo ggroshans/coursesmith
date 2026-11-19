@@ -16,3 +16,43 @@ source:
   project: deep-time-chronicle
   ics_chart: v2026/06
   revisions: 13-14 November 2026
+
+# Sources besides Wikipedia (always on). Licenses were read from each source by the search session; sources check repeats it.
+distribution: personal
+sources:
+  - name: physical-geology-earle
+    adapter: html
+    base: https://geo.libretexts.org/Bookshelves/Geology/Physical_Geology_(Earle)
+    pages: ["/Bookshelves/Geology/Physical_Geology_(Earle)"]
+    selector: ".mt-content-container"
+    depth: 3
+    tier: curated
+    title: "Physical Geology (Earle)"
+    license: {name: "CC BY 4.0", url: "https://creativecommons.org/licenses/by/4.0/"}
+  - name: historical-geology-bentley
+    adapter: html
+    base: https://geo.libretexts.org/Bookshelves/Geology/Historical_Geology_(Bentley_et_al.)
+    pages: ["/Bookshelves/Geology/Historical_Geology_(Bentley_et_al.)"]
+    selector: ".mt-content-container"
+    depth: 3
+    tier: curated
+    title: "Historical Geology (Bentley et al.)"
+    license: {name: "CC BY-NC 4.0", url: "https://creativecommons.org/licenses/by-nc/4.0/"}
+  - name: intro-historical-geology-johnson
+    adapter: html
+    base: https://geo.libretexts.org/Bookshelves/Geology/Introduction_to_Historical_Geology_(Johnson_et_al.)
+    pages: ["/Bookshelves/Geology/Introduction_to_Historical_Geology_(Johnson_et_al.)"]
+    selector: ".mt-content-container"
+    depth: 3
+    tier: curated
+    title: "Introduction to Historical Geology (Johnson et al.)"
+    license: {name: "CC BY-NC-SA 4.0", url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"}
+  - name: usgs-geologic-time
+    adapter: html
+    base: https://pubs.usgs.gov/gip/geotime/
+    pages: ["/gip/geotime/"]
+    allow: ["/gip/geotime/"]
+    depth: 2
+    tier: official
+    title: "USGS: Geologic Time"
+    license: {name: "Public domain (US government work)", url: "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits"}
