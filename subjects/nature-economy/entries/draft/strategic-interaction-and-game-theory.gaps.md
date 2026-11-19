@@ -17,3 +17,7 @@
 - Evolutionarily stable strategy — "Evolutionarily stable strategy"
 - Kin selection / Hamilton's rule — "Kin selection"
 - Games of climate cooperation / environmental agreements as games — "Climate change mitigation game" (no sentences tie game theory to climate treaties beyond one Stag hunt line)
+
+- Fixed-point theorem (math page, off-topic, skipped)
+
+- none

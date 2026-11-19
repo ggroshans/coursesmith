@@ -19,3 +19,9 @@
 - Slow violence (Rob Nixon; mentioned only) — "Slow violence"
 - NIMBY (mentioned on LULU and Environmentalism pages) — "NIMBY"
 - Customary land tenure — "Customary land"
+
+none
+
+none
+
+none

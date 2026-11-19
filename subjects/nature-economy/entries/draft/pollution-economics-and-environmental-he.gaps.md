@@ -8,3 +8,7 @@
 - Plastic pollution -> "Plastic pollution"
 - Lead poisoning and its economic burden -> "Lead poisoning"
 - Environmental remediation -> "Environmental remediation"
+
+- Short-lived climate pollutants (suggest page); Dioxin; Landfill tax (UK); Flue-gas cleaning
+
+- Phytoremediation; Thermal desorption; Phase I environmental site assessment; Natural attenuation (suggest pages)

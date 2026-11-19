@@ -8,3 +8,13 @@
 - Energy Systems Language — suggested page: Energy Systems Language
 - Industrial metabolism — suggested page: Industrial metabolism
 - Optimal scale / full-world economy — only one weak phrase hit; suggested page: Herman Daly (Economics for a Full World)
+
+none beyond entries drafted
+
+none beyond entries drafted
+
+none beyond entries drafted
+
+none
+
+none

@@ -1,0 +1,48 @@
+{
+ "entries": {
+  "soil-chem-120": {
+   "title": "Redoximorphic features: colors that record wet and dry",
+   "text": "Soil keeps a diary of its wetness in color. Redoximorphic features are color patterns from the loss or gain of pigment against the matrix color. They form by oxidation and reduction of iron or manganese and their movement, or a matrix color is set by ferrous iron. A pattern counts as redoximorphic only once the processes that formed it are known or inferred. Reducing conditions give disrupted color with complex mottled patterns and points of color concentration, whereas aerobic conditions give uniform or gradual changes. As a wet soil dries and oxygen returns, reduced iron can re-oxidize locally into bright yellow-brown mottles. Fluctuating water levels give red and yellow blotches mixed with gray. Continuous strong reduction from long-term waterlogging gives gleyed conditions in dark gray to blue to black. Eh, the voltage measured in a soil, expresses the potential for these reactions. Classification uses the features: {{ref:soil-class-106}} soils with {{ref:soil-class-155}} and redoximorphic features are Aquerts, and the WRB suffix σ marks permanent saturation without them. They provide critical information for soil interpretation. See also {{ref:soil-chem-118}}, {{ref:soil-found-025}} and {{ref:soil-found-028}}."
+  },
+  "soil-chem-241": {
+   "title": "Phosphate minerals and where soil phosphorus goes",
+   "text": "Phosphate forms over 300 minerals. The commonest pure primary ones are the apatites, Ca5(PO4)3(F,Cl,OH), with fluor-, chlor- and hydroxyapatite as the end members. Rock phosphate is mined for fertilizer. Soils typically hold 400-800 mg of phosphorus per kg, against a crustal average of 1050 mg per kg. Phosphate in soil, whether from rock or fertilizer, precipitates with calcium, aluminium and iron. Wet, sub-oxic soils form iron phosphates such as vivianite and {{ref:soil-chem-234}}. Acidic soils form aluminium phosphate, as in variscite. Soils described in {{ref:soil-chem-035}} form calcium phosphates such as brushite, which commonly precipitates where fertilizer is banded at high concentration."
+  },
+  "soil-form-034": {
+   "title": "Cryoturbation: how frost churns the ground",
+   "text": "In the frozen north, the soil mixes itself. Cryoturbation is frost churning: the mixing of material from different soil horizons, down to bedrock, by repeated freezing and thawing in soils with permanently frozen ground. It occurs to some degree in most soils of the order {{ref:soil-class-096}}, whose name comes from Latin gelare, to freeze. Autumn freezing forms wedges of ice, described in {{ref:soil-form-036}}, in the most erodible parts of the parent rock. In summer the {{ref:soil-env-146}} lets loosened material move both down and up. Moisture moves from the warm surface to the cold top of the frozen layer, drying the upper soil into a granular structure with lens-shaped bodies of ice. These lenses grow by drawing unfrozen water along a thermal gradient, displacing and mixing mineral and organic material at the ice-water interface. Separation of coarse from fine material produces {{ref:soil-phys-163}}. Cryoturbation is the dominant force in that layer and tends to make it uniform in composition. It is strongest on exposed sites and weak in sheltered valleys: Turbels show it in over one-third of that layer, with distorted {{ref:soil-form-005}}, Orthels in less. In {{ref:soil-phys-160}} it can bring base-rich water to the surface, neutralizing acidity and replenishing nutrients. In effect, ice scrambles the layers described in {{ref:soil-found-001}}."
+  },
+  "soil-form-141": {
+   "title": "Feldspar: the rock mineral that becomes clay",
+   "text": "Feldspars make up about 60% of the Earth's crust and 41% of the continental crust by weight. They are rock-forming aluminium tectosilicate minerals that also contain cations such as sodium, calcium, potassium or barium. The commonest are the sodium-calcium plagioclase feldspars and the potassium-sodium alkali feldspars. Formed at high temperature, they are unstable at the surface, especially plagioclase, so they weather easily. Hydrolysis, described in {{ref:soil-form-172}}, turns them into {{ref:soil-chem-079}} including {{ref:soil-chem-094}}, {{ref:soil-chem-091}} and {{ref:soil-chem-088}}, and because feldspars are so abundant, clays are abundant too. Clay-replaced feldspar looks chalky beside glassy unweathered grains. Feldspar-rich sediment therefore points to little chemical weathering before burial."
+  },
+  "soil-form-162": {
+   "title": "Soils of British Columbia and Yukon",
+   "text": "No other part of Canada has soils as varied as British Columbia and Yukon, thanks to a varied geologic history, rugged terrain and a wide climate range. The region holds all ten soil orders of the Canadian system. {{ref:soil-class-138}} soils have the largest extent in British Columbia, on {{ref:soil-chem-004}} under cool, humid conditions, and Luvisols are the other dominant order, on loamy glacial tills in the Interior plateaus and boreal forest. Cryosols occur in permafrost areas of northern Yukon and on high mountain peaks, while {{ref:soil-class-123}} soils occur only in the arid Central Interior. {{ref:soil-class-139}} soils mark landslide-prone and avalanche-prone slopes and the Fraser Delta, and drained {{ref:soil-class-127}} soils in the Fraser Valley are among the province's most productive farm soils. Mining leaves {{ref:soil-class-044}}; in metal mining the chief concern is acid rock drainage, because sulphide minerals such as {{ref:soil-chem-134}} weather rapidly to sulfuric acid."
+  },
+  "soil-form-172": {
+   "title": "Hydrolysis: how water cracks minerals open",
+   "text": "Water does more than wet a mineral; it can break it. Hydrolysis is any chemical reaction in which a water molecule breaks one or more chemical bonds. One fragment of the split molecule gains a hydrogen ion and the other gains a hydroxide. It is the reverse of condensation, which joins molecules by removing water. The lab manual says all minerals weather this way, and that hydrolysis is the primary reaction releasing most plant nutrient elements from minerals. In one example, {{ref:soil-form-143}} and water yield an aluminum silicate, K+ and OH-. This is a main route of {{ref:soil-found-058}}. Hydrolysis also drives {{ref:soil-chem-076}}. Metal ions in water form aqua ions that act as acids: trivalent Al3+ and Fe3+ are weak acids with a pKa comparable to acetic acid, while Na+ hydrolyses almost imperceptibly. In the soils of {{ref:soil-chem-030}}, loosely bound Al3+ and Fe3+ and sparingly soluble sulfates such as jarosite release H+ this way. In the soils of {{ref:soil-chem-019}} the carbonate anion hydrolyses to bicarbonate and hydroxyl ions, raising pH. The enzyme {{ref:soil-fert-224}} catalyzes the hydrolysis of {{ref:soil-fert-021}}, and highly alkaline soils, pH about 8.2 or higher, increase it."
+  }
+ },
+ "questions": {
+  "soil-form-141": {
+   "q": "Why are clays such abundant weathering products in soils?",
+   "a": "Feldspars make up about 60% of the Earth's crust, and hydrolysis turns them into clays such as illite, smectite and kaolinite.",
+   "sent_ids": [
+    "0a1cdcc6e7dd",
+    "fab73d883d14",
+    "8db321a11d11"
+   ]
+  },
+  "soil-form-167": {
+   "q": "What made the St. Lawrence Lowlands clays unstable after glaciation?",
+   "a": "The Champlain Sea left salt-rich clay there, and leaching of the salt plus river incision made it unstable, causing landslides and flows of the wet clay.",
+   "sent_ids": [
+    "e4c59a1c1b1f",
+    "cbb66a3ba70f",
+    "96d361dfc43b"
+   ]
+  }
+ }
+}

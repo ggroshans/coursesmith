@@ -1,23 +1,27 @@
 # Verification
 
-Entries checked: 3594 (selected plus flagged). DOIs looked up: 4964.
+Entries checked: 3936 (selected plus flagged). DOIs looked up: 5452.
 Authorities with a fetcher: none yet.
 Authorities pending a fetcher: none.
 
 ## Verdicts
 
-- no comparable claim: 3682
-- no abstract: 1980
-- supports: 45
-- not found: 33
-- different object: 9
-- differs: 6
-- refines: 6
+- no comparable claim: 4015
+- no abstract: 2171
+- supports: 48
+- not found: 36
+- different object: 11
+- differs: 7
+- refines: 7
+- older estimate: 1
 
 ## Source tiers
 
-- wikipedia: 3544
-- primary: 50
+- wikipedia: 3854
+- primary: 54
+- reference: 17
+- official: 8
+- curated: 3
 
 ## Automatic supports (spot-check: a matching number near the term is evidence, not proof)
 
@@ -34,6 +38,7 @@ Authorities pending a fetcher: none.
 - nature-nbs-069 **Oyster reef** vs 10.1525/bio.2011.61.2.5: 85 % — “Overall, we estimate that 85% of oyster reefs havebeen lost globally.”
 - nature-es-037 **Set point theory of happiness** vs 10.1111/j.1467-9280.1996.tb00355.x: 44–44 % — “Happiness, or subjective well-being, was measured on a birth-record-based sample of several thousand middle-aged twins using the Well-Being (WB) scale of the Multidimensional Personality Questionnaire”
 - nature-es-079 **Universal Soil Loss Equation** vs 10.1016/j.envsci.2015.03.012: 57–57 % — “The support practices accounted for in the P-factor reduce the risk of soil erosion by 3%, with grass margins having the largest impact (57% of the total erosion risk reduction) followed by stone wall”
+- nature-eco-667 **Green Revolution outcomes and trade-offs** vs 10.1086/714444: 17 % — “A 10-year delay of the Green Revolution would in 2010 have cost 17% of GDP (gross domestic product) per capita and added 223 million people to the developing-world population.”
 - nature-eecon-134 **Declining terms of trade** vs 10.1177/0308518x251394163: from 2000 — “”
 - nature-eco-322 **Mesopredator release** vs 10.1525/bio.2009.59.9.9: 60 % — “We also examine shifts in North American carnivore ranges during the past 200 years and show that 60% of mesopredator ranges have expanded, whereas all apex predator ranges have contracted.”
 - nature-acct-027 **Ecological footprint** vs 10.3390/resources7030058: from 1961 — “”
@@ -49,6 +54,8 @@ Authorities pending a fetcher: none.
 - nature-eco-478 **Peatland drainage** vs 10.1139/a11-014: 10–10 % — “Anthropogenic disturbance, primarily agriculture and forestry drainage (10%–20% of global peatlands), results in net CO2 emissions, reduced CH4 emissions, and increased N2O emissions.”
 - nature-eco-520 **Drylands** vs 10.1038/s41467-020-17710-7: 41 % — “Abstract Drylands cover 41% of the earth’s land surface and include 45% of the world’s agricultural land.”
 - nature-eco-522 **Drylands and climate change** vs 10.1038/s41467-020-17710-7: 12.6 % — “Despite an average global greening, anthropogenic climate change has degraded 12.6% (5.43 million km 2 ) of drylands, contributing to desertification and affecting 213 million people, 93% of who live ”
+- nature-eco-678 **Permafrost** vs 10.1007/s11111-020-00370-6: 42 % — “Climate-driven permafrost projections suggest that by 2050, 42% of the permafrost settlements will become permafrost-free due to thawing.”
+- nature-eco-685 **Lavaka erosion in Madagascar** vs 10.1086/598945: 84 % — “Comparison of 10Be abundance in hillslope, lavaka, and river sediment samples indicates that lavakas dominate the mass input to rivers (84% by volume) in spite of the fact that they occupy a small fra”
 - nature-econ-421 **Calculus of variations** vs 10.3390/axioms10030171: in 1687 — “”
 - nature-clim-178 **Biochar** vs 10.1016/j.prostr.2020.06.023: 2–2 % — “Based on previous work, this investigation has a twofold objective: to understand the full influence of the use of an optimized percentage of Biochar (2% with respect to the weight of the cement) eith”
 - nature-pol-070 **Health effects of particulate matter** vs 10.7189/jogh.10.010417: 57.4 % — “ResultsTen articles involving 519 247 cases among 12 523 553 participants were included in this meta-analysis.The pooled RR of cognitive impairment per 5 μg/m 3 increments in exposure to particulate m”
@@ -60,6 +67,7 @@ Authorities pending a fetcher: none.
 - nature-econ-802 **Climateflation** vs 10.1038/s43247-023-01173-x: 30–50 % — “Finally, the 2022 extreme summer heat increased food inflation in Europe by 0.43-0.93 percentage-points which warming projected for 2035 would amplify by 30-50%.”
 - nature-nbs-198 **Sponge city** vs 10.14710/ijpd.2.1.1-10: in 2014 — “”
 - nature-nbs-292 **Organic farming** vs 10.1111/j.1365-2664.2005.01005.x: 30 % — “Organic farming usually increases species richness, having on average 30% higher species richness than conventional farming systems.”
+- nature-nbs-344 **Tillage residue cover classes** vs 10.1111/1365-2664.12544: 16–16 % — “Conservation tillage was found to support more abundant predator communities and higher aphid predation (16% higher than in the fields managed under conventional tillage).”
 
 ## To review (differs, nothing supports)
 

@@ -21,3 +21,7 @@
 - Bottom of the pyramid
 - Blended value
 - Science Based Targets Network
+
+- none (Bystander effect skipped as off-topic)
+
+- none (Competitive advantage skipped as generic; no entry drafted)

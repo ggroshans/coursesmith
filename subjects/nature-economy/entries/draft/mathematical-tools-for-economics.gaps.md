@@ -12,3 +12,5 @@
 - Stochastic processes and stochastic dynamic programming: Stochastic process; Stochastic dynamic programming
 - Optimal stopping (timing decisions, real options): Optimal stopping
 - Input–output model as precursor of CGE: Input–output model
+
+none

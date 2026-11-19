@@ -13,3 +13,10 @@
 - Agricultural subsidy
 - Farmland bird
 - Natural pest control
+
+- Shifting cultivation
+- Strip-till
+
+- Rangeland
+- Meadow
+- Rice-duck farming

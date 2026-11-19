@@ -22,3 +22,5 @@
 - IUCN Red List (suggested page: IUCN Red List)
 - Seed banks and cryopreservation for conservation (suggested page: Seed bank)
 - Human–wildlife conflict (suggested page: Human–wildlife conflict)
+
+- none (Market concentration skipped as generic)

@@ -21,3 +21,5 @@
 - Heteroscedasticity (Heteroscedasticity)
 - Spatial autocorrelation (Spatial autocorrelation)
 - Field experiment (Field experiment)
+
+- Probability (generic page, skipped)

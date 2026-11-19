@@ -8,3 +8,9 @@
 - Sunk cost — Sunk cost
 - Cost curve — Cost curve
 - Marginal cost — Marginal cost
+
+- none
+
+- none
+
+- none

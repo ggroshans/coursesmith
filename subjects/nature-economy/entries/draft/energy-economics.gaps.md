@@ -10,3 +10,9 @@
 - Energy subsidy / fossil fuel subsidies (thin in this dossier)
 - Energy elasticity
 - Feed-in tariff
+
+- Base load and peak load (page not crawled)
+- Cost of electricity by source
+
+- Advanced metering infrastructure
+- Time-of-use pricing

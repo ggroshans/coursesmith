@@ -8,3 +8,7 @@
 - Fossil fuel subsidies (political drivers) — "Fossil fuel subsidies"
 - Climate change denial (as policy obstruction) — "Climate change denial"
 - Carbon leakage and competitiveness lobbying — "Carbon leakage"
+
+- Network effect page is tech-market oriented; no environmental-economics gaps found.
+
+- Voting page skipped as generic/off-topic.

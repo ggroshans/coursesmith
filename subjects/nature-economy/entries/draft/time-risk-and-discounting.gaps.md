@@ -19,3 +19,12 @@
 - Mean-preserving spread
 - Allais paradox
 - Ellsberg paradox
+
+- Phillips curve (skipped, general macroeconomics)
+- Time consistency in monetary policy (Kydland-Prescott page)
+
+- Choquet expected utility (no own page)
+- Info-gap decision theory
+- Allais paradox
+
+Phillips curve skipped (general macroeconomics, off-topic); CORE Econ preface has no teachable content.

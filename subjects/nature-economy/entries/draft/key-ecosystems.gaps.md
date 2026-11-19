@@ -15,3 +15,23 @@ Most expected ecosystems (Estuary, Coral reef, Kelp forest, Grassland, Riparian 
 - Savanna as a biome (forests grade into savanna; no page here) — Savanna
 - Permafrost itself (tundra entries depend on it) — Permafrost
 - Ecological succession (prerequisite of forest stand stages) — Ecological succession
+
+none
+
+none
+
+- Turbidite system; Phi scale / Wentworth grain-size classes (Sediment page sections)
+
+- Biomagnification as its own page; Hydrothermal vent ecosystems detail
+
+- Lapse rate feedback, Cloud feedback as separate pages; Cultural burning (Anishinaabeg, Maasai) detail
+
+- Desert flora and fauna adaptations (xerocoles); Marine detritus/aquarium filtration skipped as off-topic
+
+- Development indicators (Gender Development Index, Gender Empowerment Measure); Industry clusters
+
+- Hydrogeology/groundwater flow; Infiltration capacity detail (page Hydrology)
+
+- Methane clathrates as own page; Sabatier/Fischer-Tropsch skipped (off-topic)
+
+- Plant allelopathy; Methane monooxygenase enzymes (off-topic detail)

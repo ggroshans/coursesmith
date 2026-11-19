@@ -1,1 +1,0 @@
-- chunk held only the generic Supply chain page; no footprint or indicator concepts

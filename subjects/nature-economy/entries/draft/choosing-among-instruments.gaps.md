@@ -5,3 +5,5 @@
 - Hybrid instruments such as price floors and ceilings in permit markets (Carbon price floor)
 - Deposit-refund system (Deposit-refund system)
 - Environmental effectiveness versus political feasibility of instruments (Political feasibility)
+
+- none; chunk is one chapter of the Cabezas text, mostly already covered

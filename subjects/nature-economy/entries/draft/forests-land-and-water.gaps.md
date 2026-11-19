@@ -17,3 +17,14 @@
 - Hydropolitics (Hydropolitics)
 - Public trust doctrine (Public trust doctrine)
 - Sustained yield (Sustained yield)
+
+- Food versus fuel debate (biofuel land competition)
+- Green Revolution
+
+- Commodity price volatility for natural resources (no dedicated page)
+
+- Tariff (own page not in chunk)
+- Comparative advantage extensions are covered
+
+- Urban sprawl (no page in chunk)
+- Agglomeration economies

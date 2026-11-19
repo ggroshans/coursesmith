@@ -5,3 +5,7 @@
 - Climate club -- Climate club
 - Embedded emissions -- Embedded emissions
 - Price floor in carbon markets -- Price floor
+
+None new; entries covering Auction, Spillover and RECs extended above.
+
+None new; Spillover (economics) drafted as new entries (existing Spillover effect is the fisheries concept).

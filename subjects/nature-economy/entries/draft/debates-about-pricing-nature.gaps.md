@@ -9,3 +9,5 @@
 - Ecocentrism
 - Rights of nature
 - Commodification of water (frame candidate)
+
+none

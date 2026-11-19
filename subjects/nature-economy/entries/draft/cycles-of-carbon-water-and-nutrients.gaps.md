@@ -16,3 +16,7 @@
 - Carbon farming (mentioned only in passing)
 - Acid rain (referenced by Sulfur cycle; no own block here)
 - Blue carbon (expected alongside Oceanic carbon cycle; not present)
+
+- Organic fertilizer; Phosphate rock (peak phosphorus)
+
+Green Revolution: none missing. Possible: Mexico/IR8 history (anecdote, skipped).

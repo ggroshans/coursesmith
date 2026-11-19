@@ -15,3 +15,5 @@ The dossier has only two seed pages, both general trade pages; the environmental
 - Comparative advantage and gains from trade (basic economics) -> "Comparative advantage", "Gains from trade"
 - Tariff (basic definition) -> "Tariff"
 - Free trade and protectionism -> "Free trade", "Protectionism"
+
+Foreign portfolio investment; Multinational corporation; Harmonized System (customs)

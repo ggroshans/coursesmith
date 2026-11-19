@@ -5,3 +5,7 @@
 - Water pollution as an economic externality (no seed page in this chapter) — Water pollution
 - Pollution haven hypothesis (polluters moving to lax-regulation countries) — Pollution haven hypothesis
 - Environmental Kuznets curve — Kuznets curve#Environmental Kuznets curve
+
+- Perfluoroalkyl substances (PFAS)
+
+- 1952 Great Smog of London

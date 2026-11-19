@@ -6,3 +6,5 @@
 - International Sustainability Standards Board — International Sustainability Standards Board
 - System of National Accounts — System of National Accounts
 - Depreciation (as companion to depletion) — Depreciation
+
+- none: the pages added only Net domestic product.

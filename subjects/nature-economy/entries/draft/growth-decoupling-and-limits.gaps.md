@@ -8,3 +8,11 @@ Concepts expected here with no usable sentences in the dossier (suggested Wikipe
 - Wellbeing economy (in frame, but only passing mentions in this dossier)
 - Beyond GDP / Broad measures of economic progress (only passing mentions)
 - Simon–Ehrlich wager (linked from The Limits to Growth, no sentences)
+
+none: Appropriate technology and Consumerism drafted
+
+none
+
+none
+
+none

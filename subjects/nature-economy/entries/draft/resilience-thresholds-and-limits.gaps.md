@@ -7,3 +7,5 @@
 - Spruce budworm outbreak model (classic hysteresis case) — suggested page: Spruce budworm
 - Shallow lake clear/turbid regime shift (canonical example) — suggested page: Shallow lake
 - Critical load (pollution threshold) — suggested page: Critical load
+
+- none beyond the three drafted pages

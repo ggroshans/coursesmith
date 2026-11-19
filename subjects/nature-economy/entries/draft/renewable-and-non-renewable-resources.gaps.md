@@ -9,3 +9,6 @@
 - Resource nationalism / royalties — "Resource nationalism"
 - Rentier state — "Rentier state"
 - Green paradox — "The Green Paradox"
+
+- Chunk 10 holds only the macro page Exchange rate; drafted Exchange rate and Real exchange rate as support for Dutch disease. Parallel exchange rate, interest rate parity skipped as off-topic.
+- Suggested pages to pair with it: Real exchange rate (appreciation after resource booms), Currency appreciation and depreciation.

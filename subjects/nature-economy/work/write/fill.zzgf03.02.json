@@ -1,0 +1,64 @@
+{
+ "entries": {
+  "nature-eco-662": {
+   "title": "Fertilizer: feeding crops from a bag",
+   "text": "A fertilizer is any natural or synthetic material applied to soil or plant tissue to supply plant nutrients. Modern fertilization focuses on the macronutrients nitrogen, phosphorus and potassium (NPK). Straight fertilizers supply one nutrient. Multinutrient or complex fertilizers supply two or more, such as nitrogen and phosphorus together.\n\nEach nutrient has its own origin. Nitrogen fertilizers are made from ammonia from the energy-intensive Haber-Bosch process, in which natural gas usually supplies the hydrogen. Phosphate fertilizers come from phosphate rock; billions of kg are mined annually while the size and quality of remaining ore decreases. Legumes fix atmospheric nitrogen and generally need no nitrogen fertilizer.\n\nAbout 90% of fertilizers are applied as solids."
+  },
+  "nature-eco-666": {
+   "title": "The Green Revolution",
+   "text": "A period in which technology transfer led to a large rise in crop yields, the Green Revolution spread from developed countries and then globally until the late 1980s. Its package combined high-yielding cereal varieties, especially dwarf wheat and rice, with chemical fertilizers, pesticides, controlled irrigation and mechanization.\n\nThe new seeds need far more fertilizer than traditional varieties. High-yielding varieties absorb more nitrogen, so semi-dwarfing genes were bred in to stop cereals falling over before harvest. The term was first used by USAID administrator William S. Gaud in a speech on 8 March 1968. The CGIAR network of agricultural research centres was founded on 19 May 1971, backed by the World Bank, FAO, IFAD and UNDP.\n\nOne 2021 estimate says it raised yields by 44% between 1965 and 2010. Cereal output more than doubled in developing nations from 1961 to 1985. Its energy came from fossil fuels: natural gas for fertilizer, oil for pesticides and hydrocarbon-fuelled irrigation. Efforts to import the model into Africa were generally less successful, owing to corruption, insecurity, weak infrastructure, and scarce irrigation water and varied soils."
+  },
+  "nature-eco-668": {
+   "title": "Where methane comes from",
+   "text": "About 60% of the methane released in 2019 came from human activity: roughly 360 million tons from humans and 230 million tons from natural sources. The 2024 total was estimated at 610 million tons, nearly two-thirds human. The 2021 CCAC and UNEP assessment attributes over 50% of global emissions to people: fossil fuels 35%, waste 20% and agriculture 40%.\n\nBiogenic methane is made by methanogens, which live in warm, moist soils and in the digestive tracts of ruminants, which emit it by burping and defecating. Landfills turn anaerobic within about a year of filling, letting methanogens take over. Rice paddies emitted about 30 of 400 million metric tons of anthropogenic methane in 2022. Biomass burning, mostly human-caused, and gas-engine 'methane slip' also release it.\n\nSinks weaken too. Converting forest to farmland adds soil nitrogen, which inhibits methane oxidation and weakens soil methanotrophs. Methane mixes through the troposphere in about 1-2 years, and satellite data show over 80% of emission growth in 2010-2019 was tropical and terrestrial. See {{ref:nature-eco-201}} for the gas itself."
+  },
+  "nature-eco-659": {
+   "title": "Algal blooms",
+   "text": "An algal bloom is a rapid increase or accumulation in the population of algae in fresh or marine water. Blooms follow nutrients such as nitrogen or phosphorus, from fertilizer runoff or other nutrient pollution, entering the water and causing excessive algal growth. There is no officially recognized threshold: definitions have used chlorophyll above 5-100 ug/L or more than 1000 cells/mL of the blooming species.\n\nMarine blooms rise each spring as storms add nutrients to sunlit water. Satellites track them via chlorophyll, and they end when nutrients decline and zooplankton graze. Bloom intensity and occurrence have increased in recent decades, mainly because warming water stimulates growth and lengthens the season. Heavy rain can also flush blooms out. Forecasting, once reliant on water sampling and hydrodynamic models, increasingly combines remote sensing with machine learning."
+  },
+  "nature-eco-663": {
+   "title": "The environmental costs of fertilizer",
+   "text": "Only a fraction of nitrogen fertilizer becomes plant matter. The rest accumulates in soil or is lost as runoff, and agricultural runoff is a major contributor to freshwater eutrophication. Greenhouse gases from manufacture and use of nitrogen fertilizer are about 5% of anthropogenic emissions, one third from production and two thirds from use. Most synthetic fertilizer depends on fossil fuel, which supplies energy and methane for the hydrogen used in Haber process ammonia.\n\nPhosphate fertilizers can add toxic elements to soil: cadmium in monoammonium phosphate ranged from 0.14 to 50.9 mg/kg, and fluoride from fluorapatite has risen in soils. Excess fertilizer may break down symbiosis between plant roots and mycorrhizal fungi, while effects on soil animals are still debated. Overapplication can cause fertilizer burn, damaging or killing the plant."
+  },
+  "nature-eco-667": {
+   "title": "The Green Revolution: gains and trade-offs",
+   "text": "Few agricultural changes are praised and blamed so loudly. Its effects on hunger, income, health and the environment are mixed and argued over. A 2012 review found it contributed to widespread poverty reduction, averted hunger for millions and avoided converting thousands of hectares to cultivation. A 2021 study found it substantially raised income: a ten-year delay would have cost 17% of GDP per capita, and no Green Revolution could have halved developing-world GDP per capita. A 2020 study of 37 developing countries found modern crop varieties reduced infant mortality by 2.4-5.3 percentage points from a baseline of 18%.\n\nCritics answer that more food is not the same as food security. The shift brought malnutrition such as iron and vitamin-A deficiencies, with monoculture crops often exported, fed to animals or made into biofuel. Malthusian critics call it unsustainable, yet a 2021 study found it reduced population growth rather than increasing it.\n\nEffects on wild biodiversity are disputed. Higher yields may spare land, but land degradation and nutrient depletion pushed farmers to clear forest to keep production up. Studies indicate it substantially raised CO2 emissions, while a 2021 study found it cut the land used for agriculture. Its yield gains have been declining as social and environmental costs become clearer; the Evergreen Revolution aims at 'productivity in perpetuity without associated ecological harm'. Scholars disagree about the net effects on biodiversity, food security and the environment."
+  },
+  "nature-eco-664": {
+   "title": "Controlled-release and foliar fertilizers",
+   "text": "A controlled-release fertilizer is a granulated fertilizer that releases nutrients gradually into the soil. Chemicals that raise nitrogen uptake efficiency let farmers limit polluting nitrogen runoff. Foliar fertilizers applied to leaves can reduce the total fertilizer used and achieve high efficiency."
+  },
+  "nature-eco-665": {
+   "title": "Fertilizer policy",
+   "text": "Governments regulate and subsidize fertilizer to manage its environmental effects. The European Union's Nitrates Directive addresses high nitrate concentrations in runoff, and Britain encourages catchment-sensitive farming. China has regulated nitrogen fertilizer use and, from 2008, began partly withdrawing fertilizer subsidies for transport, electricity and natural gas."
+  },
+  "nature-eco-661": {
+   "title": "Managing algal blooms",
+   "text": "Algal bloom management falls into three categories: mitigation, prevention and control. Mitigation includes routine shellfish toxin monitoring for early warning, restrictions keeping contaminated shellfish off the market, and moving fish pens away from blooms. Prevention reduces nutrient-laden runoff, using more permeable surfaces and vegetation that absorb it before it reaches waterways."
+  },
+  "nature-eco-660": {
+   "title": "Natural causes of freshwater algal blooms",
+   "text": "Freshwater blooms are not always human-caused. They occur naturally in both eutrophic and oligotrophic lakes. Cyanobacteria are better at nutrient uptake in oligotrophic waters and can fix dissolved atmospheric nitrogen, sustaining large blooms there. Seasonal overturn in lakes mixes nutrients from deep layers upward, and autumn turnover of stratified lakes can release bio-available phosphorus that triggers blooms. Phosphorus inputs must be reduced to mitigate blooms containing cyanobacteria."
+  },
+  "nature-eco-669": {
+   "title": "Cutting methane emissions",
+   "text": "Capturing and using methane can deliver environmental and economic benefits together. The IEA says about 40% of fossil-fuel methane emissions, 9% of all human methane emissions, could be eliminated at no net cost to firms with existing technology. The US EPA's 1996 Landfill Rule requires large landfills to collect and combust landfill gas, though it excludes 96% of US landfills. Satellites such as Sentinel-5P, at about 50 square kilometre resolution, monitor emissions; MethaneSAT aims for 1 kilometre."
+  },
+  "nature-eco-656": {
+   "title": "Species: the unit of biodiversity",
+   "text": "A species is the basic unit of biological classification and a taxonomic rank, as well as a unit of biodiversity. A common definition is the largest group of organisms whose members can produce fertile offspring. Others use karyotype, DNA sequence, morphology, behaviour or ecological niche.\n\nSpecies are not permanent. They change by evolving into new species, exchanging genes with others, merging, or going extinct. A species is extinct when its last individual dies, but it may be functionally extinct well before. Over 99 percent of all species that ever lived are estimated to be extinct.\n\nThe definition matters in practice. Difficulty assigning organisms reliably to a species threatens research validity, for example measures of how abundant a species is in an ecosystem."
+  },
+  "nature-eco-658": {
+   "title": "Evolutionarily significant units",
+   "text": "An evolutionarily significant unit, also called a wildlife species, is a population of organisms treated as distinct for purposes of conservation. It shows how conservation can need units that differ from formal species concepts."
+  },
+  "nature-eco-657": {
+   "title": "Species concepts and the species problem",
+   "text": "Biologists have never agreed on one way to define a species. Most textbooks start from Ernst Mayr's 1942 biological species concept: interbreeding natural populations reproductively isolated from other such groups. Other concepts include typological (fixed properties), phylogenetic (diagnosable lineages), evolutionary (own independent evolutionary fate), ecological (a set adapted to a niche) and genetic species.\n\nThe Mayr concept breaks down for asexual organisms such as bacteria, and for natural hybridisation and ring species, where gene flow links populations. Microspecies complicate it too: perhaps 400 blackberry and over 200 dandelion microspecies in Britain alone."
+  },
+  "nature-eco-761": {
+   "title": "Overgrazing",
+   "text": "Plants exposed to intensive grazing for long periods, or without enough time to recover, suffer overgrazing. It reduces the usefulness, productivity and biodiversity of land and is one cause of desertification and erosion. A meta-analysis of 148 studies found most ecosystem functions decline as grazing intensity rises, and greater aridity weakens the benefits of light grazing.\n\nIn Namibia overgrazing is considered the main cause of woody plant encroachment at the expense of grasses over up to 45 million hectares. Violent herder-farmer conflicts in Nigeria, Mali, Sudan and elsewhere in the Sahel have been worsened by land degradation and overgrazing.\n\nHardin's tragedy of the commons used overgrazing as its example. But his model omitted real practice: English and Welsh commons were regulated and 'stinted', limiting animals per commoner."
+  }
+ }
+}

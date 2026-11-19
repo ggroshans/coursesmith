@@ -10,3 +10,6 @@
 - Product stewardship — Product stewardship
 - Corporate environmental disclosure / ESG reporting — Sustainability reporting
 - Rebound effect of efficiency subsidies — Rebound effect (conservation)
+
+- Emergency Planning and Community Right-to-Know Act (own page)
+- Hazard Communication Standard (own page)

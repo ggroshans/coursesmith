@@ -1,2 +1,0 @@
-- Advanced metering infrastructure
-- Time-of-use pricing

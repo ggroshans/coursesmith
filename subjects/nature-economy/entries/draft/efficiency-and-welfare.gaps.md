@@ -8,3 +8,7 @@
 - Pareto frontier as standalone concept — Pareto front
 - Intergenerational equity — Intergenerational equity
 - Lindahl prices / Lindahl equilibrium — Lindahl tax
+
+none
+
+none

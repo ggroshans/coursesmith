@@ -10,3 +10,5 @@
 - Wallace E. Oates (Baumol and Oates, The Theory of Environmental Policy)
 - Gordon–Schaefer model
 - Jay Wright Forrester (system dynamics behind World3)
+
+- Hetch Hetchy dam dispute (page); Sierra Club; Integrated pest management.

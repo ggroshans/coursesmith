@@ -9,3 +9,5 @@
 - Climate finance flows (only in passing) — Climate finance
 - William Nordhaus (founder; DICE author) — William Nordhaus (people chapter)
 - Nicholas Stern (founder; Stern Review author) — Nicholas Stern, Baron Stern of Brentford (people chapter)
+
+Chunk 10 is a CORE Econ references list; no teachable content, no entries.

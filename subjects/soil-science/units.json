@@ -1,6 +1,6 @@
 {
  "subject": "soil-science",
- "built": "2026-11-19T14:35Z",
+ "built": "2026-11-19T15:04Z",
  "n_units": 584,
  "n_entries": 2629,
  "sizes": {
@@ -795,7 +795,7 @@
    ],
    "question": {
     "q": "Why are clays such abundant weathering products in soils?",
-    "a": "Feldspars make up about 60% of the Earth's crust, and hydrolysis turns them into clay minerals such as illite, smectite and kaolinite.",
+    "a": "Feldspars make up about 60% of the Earth's crust, and hydrolysis turns them into clays such as illite, smectite and kaolinite.",
     "sent_ids": [
      "0a1cdcc6e7dd",
      "fab73d883d14",
@@ -837,7 +837,7 @@
     ]
    },
    "last_time": "Feldspar: the rock mineral that becomes clay; Olivine, the mantle mineral that fades fast at the surface; Plagioclase, the striped feldspar that weathers first; and Biotite, the dark mica that yellows with age",
-   "answer_prev": "Feldspars make up about 60% of the Earth's crust, and hydrolysis turns them into clay minerals such as illite, smectite and kaolinite.",
+   "answer_prev": "Feldspars make up about 60% of the Earth's crust, and hydrolysis turns them into clays such as illite, smectite and kaolinite.",
    "next": "Parent material, the stuff every soil grows from; Transported parent material, soil from somewhere else; Loess, the wind-blown silt that buries whole regions; and Alluvium, the sediment that rivers leave behind"
   },
   {
@@ -1856,7 +1856,7 @@
    ],
    "question": {
     "q": "What made the St. Lawrence Lowlands clays unstable after glaciation?",
-    "a": "The Champlain Sea left salt-rich clay there, and leaching of the salt plus river incision made it unstable, causing landslides and earthflows.",
+    "a": "The Champlain Sea left salt-rich clay there, and leaching of the salt plus river incision made it unstable, causing landslides and flows of the wet clay.",
     "sent_ids": [
      "e4c59a1c1b1f",
      "cbb66a3ba70f",
@@ -1865,7 +1865,7 @@
    },
    "last_time": "Soil geography, the map of where soils lie; Tropical soils, lush forests on poor ground; Soils of British Columbia and Yukon; and Soils of Ontario",
    "answer_prev": "Intense leaching and weathering deplete the mineral pool, and unlike nitrogen it cannot be replenished from the air.",
-   "next": "Prairie Chernozems and the grasses that made them; Lithosequences, soils that differ only in their rock; The soils of Australia, ancient and starved of phosphorus; and One yardstick from clay specks to giant boulders"
+   "next": "Prairie dark soils and the grasses that made them; Lithosequences, soils that differ only in their rock; The soils of Australia, ancient and starved of phosphorus; and One yardstick from clay specks to giant boulders"
   },
   {
    "n": 55,
@@ -1894,7 +1894,7 @@
     "soils of australia"
    ],
    "question": {
-    "q": "What separates the great groups of the Chernozemic order?",
+    "q": "What separates the great groups of the order of dark prairie soils?",
     "a": "The colour of the A horizon, which shows how much organic carbon the grasses added.",
     "sent_ids": [
      "0873c8bbcf48",
@@ -1902,7 +1902,7 @@
     ]
    },
    "last_time": "Soils of Quebec; Soils of the Atlantic Provinces; Soils of the Prairie Provinces; and From grassland to forest: the Parkland transition",
-   "answer_prev": "The Champlain Sea left salt-rich clay there, and leaching of the salt plus river incision made it unstable, causing landslides and earthflows.",
+   "answer_prev": "The Champlain Sea left salt-rich clay there, and leaching of the salt plus river incision made it unstable, causing landslides and flows of the wet clay.",
    "next": "Sand, the gritty grain that records its own journey; Silt, the grain at the edge of eyesight; Three bins for every grain: sand, silt and clay; and Two meanings of clay: a size and a mineral"
   },
   {
@@ -1934,7 +1934,7 @@
      "6e062603c4ef"
     ]
    },
-   "last_time": "Prairie Chernozems and the grasses that made them; Lithosequences, soils that differ only in their rock; The soils of Australia, ancient and starved of phosphorus; and One yardstick from clay specks to giant boulders",
+   "last_time": "Prairie dark soils and the grasses that made them; Lithosequences, soils that differ only in their rock; The soils of Australia, ancient and starved of phosphorus; and One yardstick from clay specks to giant boulders",
    "answer_prev": "The colour of the A horizon, which shows how much organic carbon the grasses added.",
    "next": "Why wet clay keeps any shape pressed into it; Heavy, wet and surprisingly fertile: farming on clay; Twelve names for every blend of sand, silt and clay; and Loam, the balanced blend that farmers and gardeners prize"
   },
@@ -4586,7 +4586,7 @@
    },
    "last_time": "Banking summer sun in the ground for winter; Ground source heat pumps, tapping the steady earth; Zeolites, the mineral sponges that swap ions; and Bowen's reaction series: the order in which magma freezes",
    "answer_prev": "About 18.0 m in wet clay but only 6.5 m in dry clay.",
-   "next": "Anatase: the short-lived form of titanium dioxide; How clay minerals differ in charge and surface area; Quartz, the mineral that fills the sand; and Secondary minerals: what weathering builds from the wreckage"
+   "next": "Anatase: the short-lived form of titanium dioxide; How layered silicate minerals differ in charge and surface area; Quartz, the mineral that fills the sand; and Secondary minerals: what weathering builds from the wreckage"
   },
   {
    "n": 134,
@@ -4655,7 +4655,7 @@
      "d7883f4a6038"
     ]
    },
-   "last_time": "Anatase: the short-lived form of titanium dioxide; How clay minerals differ in charge and surface area; Quartz, the mineral that fills the sand; and Secondary minerals: what weathering builds from the wreckage",
+   "last_time": "Anatase: the short-lived form of titanium dioxide; How layered silicate minerals differ in charge and surface area; Quartz, the mineral that fills the sand; and Secondary minerals: what weathering builds from the wreckage",
    "answer_prev": "Anatase has a lower surface energy, though rutile is the most common and stable TiO2 polymorph.",
    "next": "Powder diffraction, a fingerprint for every crystal; X-ray fluorescence: making minerals glow with their elements; Electron probe microanalysis: chemistry from a speck; and Infrared spectra that reveal water in minerals"
   },
@@ -6711,7 +6711,7 @@
    },
    "last_time": "Mycelium, the hidden body of a fungus; Thatch, the spongy mat that builds up under lawns; Soil-borne pathogens, the enemies waiting below the crop; and Macrofauna, the soil animals big enough to see",
    "answer_prev": "In two stages: its hyphae secrete enzymes that break polymers into small units such as monomers, which are then absorbed.",
-   "next": "Slime molds and myxobacteria, single cells that act as one; Soil algae, sunlight harvesters at the surface; Phages, the viruses that prey on soil bacteria; and Protozoa, the soil's single-celled grazers"
+   "next": "Slime molds and myxobacteria, single cells that act as one; Soil algae, sunlight harvesters at the surface; Phages, the viruses that prey on soil bacteria; and The soil's single-celled grazers"
   },
   {
    "n": 196,
@@ -6775,7 +6775,7 @@
      "5f86608fa231"
     ]
    },
-   "last_time": "Slime molds and myxobacteria, single cells that act as one; Soil algae, sunlight harvesters at the surface; Phages, the viruses that prey on soil bacteria; and Protozoa, the soil's single-celled grazers",
+   "last_time": "Slime molds and myxobacteria, single cells that act as one; Soil algae, sunlight harvesters at the surface; Phages, the viruses that prey on soil bacteria; and The soil's single-celled grazers",
    "answer_prev": "They need light, so they are spread wherever sunlight and moderate moisture reach.",
    "next": "Entomopathogenic nematodes, worms that hunt insects; When burrowers scramble the archaeologist's layers; When a living thing makes a crystal, is it a mineral?; and Geomycology: fungi that build and break minerals"
   },
@@ -8770,7 +8770,7 @@
    },
    "last_time": "Exoenzymes: digesting food before eating it; How fungi spend energy to dismantle litter; Amplicons, copied DNA that names the microbes; and Metabarcoding: a census of a whole sample",
    "answer_prev": "Breaking macromolecules into small pieces lets their constituents pass through the cell membrane and be used inside the cell.",
-   "next": "Acid phosphatase, the key to locked-up phosphorus; Microbial biomass, the living fraction of soil; Ecological stoichiometry: life as a balance of elements; and Isotope-ratio mass spectrometry: weighing atoms by type"
+   "next": "The acid enzyme that unlocks bound phosphorus; Microbial biomass, the living fraction of soil; Ecological stoichiometry: life as a balance of elements; and Isotope-ratio mass spectrometry: weighing atoms by type"
   },
   {
    "n": 256,
@@ -8794,7 +8794,7 @@
     "isotope-ratio mass spectrometry"
    ],
    "question": {
-    "q": "What reaction does acid phosphatase catalyse, and at what pH does it work best?",
+    "q": "What reaction does the acid enzyme that unlocks bound phosphorus catalyse, and at what pH does it work best?",
     "a": "It hydrolyses a phosphate monoester with water to give an alcohol and phosphate, at an optimum pH below 7.",
     "sent_ids": [
      "ebaac450f278",
@@ -8836,7 +8836,7 @@
      "1696ac6aa990"
     ]
    },
-   "last_time": "Acid phosphatase, the key to locked-up phosphorus; Microbial biomass, the living fraction of soil; Ecological stoichiometry: life as a balance of elements; and Isotope-ratio mass spectrometry: weighing atoms by type",
+   "last_time": "The acid enzyme that unlocks bound phosphorus; Microbial biomass, the living fraction of soil; Ecological stoichiometry: life as a balance of elements; and Isotope-ratio mass spectrometry: weighing atoms by type",
    "answer_prev": "It hydrolyses a phosphate monoester with water to give an alcohol and phosphate, at an optimum pH below 7.",
    "next": "Carbon use efficiency: growth versus upkeep; The microbial carbon pump: making carbon hard to eat; Q10: how much warmth speeds up life; The resistome: soil's ancient store of drug resistance; and Putting the world's soils in order"
   },

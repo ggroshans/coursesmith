@@ -5,3 +5,5 @@
 - Conditional logit / independence of irrelevant alternatives - "Independence of irrelevant alternatives"
 - Latent class analysis applied to choice experiments - "Latent class model" (valuation application missing)
 - Willingness-to-pay estimation from choice models - "Willingness to pay"
+
+none

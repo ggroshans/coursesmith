@@ -3,82 +3,82 @@
 | Chapter | Drafted | Passing | Target | Selected | L/M/m | Short by |
 |---|---:|---:|---:|---:|---|---:|
 | Adaptation and resilience | 39 | 38 | 38 | 38 | 1/18/19 |  |
-| Behavior and decisions | 59 | 59 | 59 | 59 | 5/26/28 |  |
-| Beyond GDP | 26 | 25 | 25 | 25 | 1/12/12 |  |
-| Biodiversity agreements and targets | 46 | 46 | 46 | 46 | 4/16/26 |  |
-| Biodiversity and its loss | 135 | 135 | 135 | 135 | 8/44/83 |  |
-| Business and nature | 50 | 48 | 48 | 48 | 3/19/26 |  |
-| Choices, scarcity and value | 75 | 75 | 75 | 75 | 7/36/32 |  |
+| Behavior and decisions | 58 | 58 | 58 | 58 | 5/26/27 |  |
+| Beyond GDP | 28 | 26 | 26 | 26 | 1/12/13 |  |
+| Biodiversity agreements and targets | 47 | 47 | 47 | 47 | 4/16/27 |  |
+| Biodiversity and its loss | 138 | 138 | 138 | 138 | 8/45/85 |  |
+| Business and nature | 54 | 52 | 52 | 52 | 3/20/29 |  |
+| Choices, scarcity and value | 77 | 77 | 77 | 77 | 7/37/33 |  |
 | Choosing among instruments | 15 | 15 | 15 | 15 | 2/6/7 |  |
-| Circular and bio-based economies | 55 | 55 | 55 | 55 | 3/24/28 |  |
+| Circular and bio-based economies | 62 | 62 | 62 | 62 | 3/27/32 |  |
 | Cities and green space | 30 | 30 | 30 | 30 | 2/13/15 |  |
-| Climate finance and agreements | 59 | 59 | 59 | 59 | 5/18/36 |  |
-| Climate science essentials | 28 | 28 | 28 | 28 | 7/10/11 |  |
-| Coastal solutions | 38 | 38 | 38 | 38 | 3/13/22 |  |
-| Cost–benefit analysis | 27 | 25 | 25 | 25 | 1/10/14 |  |
+| Climate finance and agreements | 65 | 65 | 65 | 65 | 5/20/40 |  |
+| Climate science essentials | 27 | 27 | 27 | 27 | 7/9/11 |  |
+| Coastal solutions | 43 | 43 | 43 | 43 | 3/14/26 |  |
+| Cost–benefit analysis | 34 | 32 | 32 | 32 | 1/12/19 |  |
 | Cultural services and human wellbeing | 34 | 34 | 34 | 34 | 2/15/17 |  |
-| Cycles of carbon, water and nutrients | 113 | 113 | 113 | 113 | 7/36/70 |  |
-| Debates about pricing nature | 21 | 20 | 20 | 20 | 2/9/9 |  |
-| Ecological economics | 80 | 79 | 79 | 79 | 2/27/50 |  |
+| Cycles of carbon, water and nutrients | 124 | 124 | 124 | 124 | 8/41/75 |  |
+| Debates about pricing nature | 22 | 21 | 21 | 21 | 2/10/9 |  |
+| Ecological economics | 90 | 89 | 89 | 89 | 2/33/54 |  |
 | Economics of conservation | 10 | 10 | 10 | 10 | 0/5/5 |  |
-| Ecosystem structure and function | 128 | 127 | 127 | 127 | 7/44/76 |  |
-| Efficiency and welfare | 53 | 53 | 53 | 53 | 3/18/32 |  |
-| Empirical methods and econometrics | 75 | 74 | 74 | 74 | 5/30/39 |  |
-| Energy economics | 32 | 32 | 32 | 32 | 2/12/18 |  |
-| Environmental governance | 49 | 49 | 49 | 49 | 4/22/23 |  |
-| Evidence, risks and greenwashing | 22 | 22 | 22 | 22 | 1/8/13 |  |
-| Externalities, Pigou and Coase | 11 | 10 | 10 | 10 | 0/4/6 |  |
-| Finance for conservation | 69 | 67 | 67 | 67 | 3/17/47 |  |
-| Firms, costs and market structure | 31 | 31 | 31 | 31 | 4/14/13 |  |
-| Fisheries | 86 | 85 | 85 | 85 | 5/29/51 |  |
-| Footprints and indicators | 59 | 59 | 59 | 59 | 5/25/29 |  |
+| Ecosystem structure and function | 136 | 135 | 135 | 135 | 7/48/80 |  |
+| Efficiency and welfare | 57 | 57 | 57 | 57 | 3/20/34 |  |
+| Empirical methods and econometrics | 76 | 75 | 75 | 75 | 5/30/40 |  |
+| Energy economics | 36 | 36 | 36 | 36 | 2/15/19 |  |
+| Environmental governance | 52 | 52 | 52 | 52 | 4/23/25 |  |
+| Evidence, risks and greenwashing | 24 | 24 | 24 | 24 | 1/8/15 |  |
+| Externalities, Pigou and Coase | 12 | 11 | 11 | 11 | 0/5/6 |  |
+| Finance for conservation | 71 | 69 | 69 | 69 | 3/18/48 |  |
+| Firms, costs and market structure | 38 | 38 | 38 | 38 | 4/19/15 |  |
+| Fisheries | 88 | 87 | 87 | 87 | 5/30/52 |  |
+| Footprints and indicators | 60 | 60 | 60 | 60 | 5/25/30 |  |
 | Forest carbon and REDD+ | 35 | 35 | 35 | 35 | 2/15/18 |  |
-| Forests, land and water | 83 | 83 | 83 | 83 | 5/38/40 |  |
-| Growth, decoupling and limits | 56 | 56 | 56 | 56 | 9/19/28 |  |
+| Forests, land and water | 100 | 100 | 100 | 100 | 5/45/50 |  |
+| Growth, decoupling and limits | 64 | 64 | 64 | 64 | 9/26/29 |  |
 | Growth theory and the environment | 8 | 8 | 8 | 8 | 1/1/6 |  |
 | How the field developed | 25 | 24 | 24 | 24 | 6/13/5 |  |
-| Information, incentives and contracts | 23 | 23 | 23 | 23 | 0/7/16 |  |
-| Institutions and initiatives | 9 | 8 | 8 | 8 | 0/3/5 |  |
-| Justice, rights and Indigenous knowledge | 66 | 66 | 66 | 66 | 5/27/34 |  |
-| Key ecosystems | 154 | 153 | 153 | 153 | 9/59/85 |  |
-| Kinds of value | 22 | 22 | 22 | 22 | 2/13/7 |  |
+| Information, incentives and contracts | 22 | 22 | 22 | 22 | 0/7/15 |  |
+| Institutions and initiatives | 10 | 9 | 9 | 9 | 0/3/6 |  |
+| Justice, rights and Indigenous knowledge | 72 | 72 | 72 | 72 | 5/31/36 |  |
+| Key ecosystems | 222 | 221 | 221 | 221 | 9/83/129 |  |
+| Kinds of value | 23 | 23 | 23 | 23 | 2/13/8 |  |
 | Managing the commons | 20 | 20 | 20 | 20 | 2/7/11 |  |
 | Mapping and modeling services | 34 | 33 | 33 | 33 | 3/10/20 |  |
-| Markets, prices and surplus | 77 | 77 | 77 | 77 | 15/31/31 |  |
-| Mathematical tools for economics | 61 | 61 | 61 | 61 | 5/24/32 |  |
-| Measuring an economy | 124 | 124 | 124 | 124 | 8/49/67 |  |
-| Mitigation and carbon removal | 82 | 82 | 82 | 82 | 7/32/43 |  |
-| National and corporate natural capital accounts | 26 | 26 | 26 | 26 | 2/12/12 |  |
-| Nature as the economy's foundation | 28 | 28 | 28 | 28 | 4/6/18 |  |
+| Markets, prices and surplus | 81 | 81 | 81 | 81 | 15/33/33 |  |
+| Mathematical tools for economics | 62 | 62 | 62 | 62 | 5/24/33 |  |
+| Measuring an economy | 130 | 130 | 130 | 130 | 8/53/69 |  |
+| Mitigation and carbon removal | 87 | 87 | 87 | 87 | 7/34/46 |  |
+| National and corporate natural capital accounts | 27 | 27 | 27 | 27 | 2/13/12 |  |
+| Nature as the economy's foundation | 35 | 35 | 35 | 35 | 4/8/23 |  |
 | Offsets and banking | 17 | 17 | 17 | 17 | 2/5/10 |  |
 | Payments for ecosystem services | 17 | 17 | 17 | 17 | 2/9/6 |  |
-| People who shaped the field | 44 | 43 | 43 | 43 | 0/22/21 |  |
-| Political economy of environmental policy | 12 | 12 | 12 | 12 | 0/8/4 |  |
-| Pollution economics and environmental health | 35 | 34 | 34 | 34 | 1/9/24 |  |
+| People who shaped the field | 49 | 48 | 48 | 48 | 0/23/25 |  |
+| Political economy of environmental policy | 18 | 18 | 18 | 18 | 0/10/8 |  |
+| Pollution economics and environmental health | 44 | 43 | 43 | 43 | 1/12/30 |  |
 | Pollution taxes and charges | 47 | 42 | 42 | 42 | 4/17/21 |  |
-| Populations and communities | 21 | 21 | 21 | 21 | 1/7/13 |  |
+| Populations and communities | 37 | 37 | 37 | 37 | 2/12/23 |  |
 | Poverty, development and the environment | 9 | 9 | 9 | 9 | 1/4/4 |  |
 | Provisioning and regulating services | 36 | 36 | 36 | 36 | 2/13/21 |  |
 | Public goods, commons and property | 64 | 64 | 64 | 64 | 6/19/39 |  |
-| Regulation and standards | 51 | 51 | 51 | 51 | 3/22/26 |  |
-| Renewable and non-renewable resources | 54 | 53 | 53 | 53 | 6/15/32 |  |
-| Resilience, thresholds and limits | 64 | 64 | 64 | 64 | 4/24/36 |  |
+| Regulation and standards | 62 | 62 | 62 | 62 | 3/26/33 |  |
+| Renewable and non-renewable resources | 56 | 55 | 55 | 55 | 6/15/34 |  |
+| Resilience, thresholds and limits | 67 | 67 | 67 | 67 | 4/26/37 |  |
 | Restoring land and forests | 52 | 51 | 51 | 51 | 3/19/29 |  |
-| Strategic interaction and game theory | 73 | 72 | 72 | 72 | 1/22/49 |  |
-| Strong and weak sustainability | 23 | 23 | 23 | 23 | 3/11/9 |  |
-| Subsidies, information and voluntary approaches | 54 | 54 | 54 | 54 | 3/18/33 |  |
+| Strategic interaction and game theory | 78 | 78 | 78 | 78 | 1/22/55 |  |
+| Strong and weak sustainability | 25 | 25 | 25 | 25 | 3/11/11 |  |
+| Subsidies, information and voluntary approaches | 56 | 56 | 56 | 56 | 3/19/34 |  |
 | The economics of climate change | 44 | 44 | 44 | 44 | 4/15/25 |  |
 | The ecosystem services idea | 11 | 11 | 11 | 11 | 1/6/4 |  |
-| Time, risk and discounting | 103 | 102 | 102 | 102 | 14/28/60 |  |
-| Tradable permits and carbon markets | 47 | 46 | 46 | 46 | 3/13/30 |  |
-| Trade and the environment | 17 | 17 | 17 | 17 | 1/7/9 |  |
-| Valuation econometrics | 11 | 11 | 11 | 11 | 0/3/8 |  |
+| Time, risk and discounting | 107 | 106 | 106 | 106 | 14/29/63 |  |
+| Tradable permits and carbon markets | 53 | 52 | 52 | 52 | 3/13/36 |  |
+| Trade and the environment | 23 | 23 | 23 | 23 | 1/9/13 |  |
+| Valuation econometrics | 13 | 13 | 13 | 13 | 0/5/8 |  |
 | Valuation methods | 18 | 18 | 18 | 18 | 3/6/9 |  |
-| Water and flood solutions | 57 | 57 | 57 | 57 | 3/19/35 |  |
-| What nature-based solutions are | 10 | 10 | 10 | 10 | 2/1/7 |  |
-| Why markets miss nature | 59 | 59 | 59 | 59 | 5/22/32 |  |
-| Working lands | 84 | 82 | 82 | 82 | 5/26/51 |  |
+| Water and flood solutions | 72 | 72 | 72 | 72 | 3/26/43 |  |
+| What nature-based solutions are | 18 | 18 | 18 | 18 | 2/3/13 |  |
+| Why markets miss nature | 69 | 69 | 69 | 69 | 5/26/38 |  |
+| Working lands | 98 | 96 | 96 | 96 | 6/29/61 |  |
 
-Selected **3590** of 3622 entries: Landmark 8%, Major 37%, Minor 55% (aim 10 / 35 / 55).
+Selected **3932** of 3964 entries: Landmark 7%, Major 37%, Minor 56% (aim 10 / 35 / 55).
 
 Every passing entry is kept. Short chapters are not padded: widen the frame or gap-fill instead.

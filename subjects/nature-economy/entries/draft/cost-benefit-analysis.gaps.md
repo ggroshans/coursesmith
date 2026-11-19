@@ -6,3 +6,5 @@
 - Economic impact analysis / Social return on investment — crawled, named as related techniques
 - Discounted cash flow
 - Damage function (pollution dose to money value)
+
+- Equimarginal principle; Sensitivity analysis in CBA (covered); Risk perception (Risk page, off-focus)

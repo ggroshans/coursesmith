@@ -1,126 +1,144 @@
 {
-  "nature-eco-060": {
-    "10.2139/ssrn.2465799": {
-      "reviewed_verdict": "supports",
-      "note": "29% of land in degradation hotspots and 3.2 billion people match the ~30% / 3.2 billion facts"
-    }
-  },
-  "nature-nbs-026": {
-    "10.3846/16486897.2016.1194276": {
-      "reviewed_verdict": "different object",
-      "note": "80% is green coverage of a Beijing belt width, not a fact in the entry"
-    }
-  },
-  "nature-eco-011": {
-    "10.5194/acp-22-12221-2022": {
-      "reviewed_verdict": "different object",
-      "note": "12% is aerosol forcing share since 2000; entry gives no such figure"
-    }
-  },
-  "nature-hist-007": {
-    "10.1088/1748-9326/ac2966": {
-      "reviewed_verdict": "different object",
-      "note": "99% is scientific consensus, not CO2 or warming figures"
-    }
-  },
-  "nature-eco-265": {
-    "10.1002/2016wr019314": {
-      "reviewed_verdict": "different object",
-      "note": "5 m x 2 m is flume size, not splash distance"
-    }
-  },
-  "nature-mkt-007": {
-    "10.1016/j.marpol.2023.105571": {
-      "reviewed_verdict": "different object",
-      "note": "30% of a global stakeholder sample are paper parks; entry cites a European MPA study"
-    }
-  },
-  "nature-eco-327": {
-    "10.1038/s43247-021-00270-z": {
-      "reviewed_verdict": "supports",
-      "note": "nearly a quarter of land shifts biome matches 22%; 30% is the protection target"
-    }
-  },
-  "nature-nbs-097": {
-    "10.1371/journal.pmed.0040078": {
-      "reviewed_verdict": "supports",
-      "note": "300 systematic reviews sample; 50% is unrelated"
-    },
-    "10.7326/0003-4819-147-4-200708210-00179": {
-      "reviewed_verdict": "supports",
-      "note": "100 reviews, 7% at publication, 15% within 1 yr, 23% within 2 yr match cumulative facts; 50% is effect-size threshold"
-    }
-  },
-  "nature-eecon-158": {
-    "10.1016/j.futures.2022.103020": {
-      "reviewed_verdict": "different object",
-      "note": "60.5% is European public support, not researcher survey"
-    }
-  },
-  "nature-eco-473": {
-    "10.1038/s41598-020-57564-z": {
-      "reviewed_verdict": "supports",
-      "note": "11 and 40 years are study intervals; findings on encroachment support the entry"
-    }
-  },
-  "nature-eco-479": {
-    "10.5194/bg-7-1505-2010": {
-      "reviewed_verdict": "supports",
-      "note": "12.9 Mha deforested by 2006 matches; 82% and 1.3-3.1% are other figures"
-    }
-  },
-  "nature-eco-542": {
-    "10.5343/bms.2012.1069": {
-      "reviewed_verdict": "different object",
-      "note": "51.9% loss and 28% aquaculture share in eight countries over a study period, not global 35% / quarter shrimp"
-    }
-  },
-  "nature-eco-550": {
-    "10.1890/14-1154.1": {
-      "reviewed_verdict": "supports",
-      "note": "old-growth stores 30% more carbon than younger forests, supporting the carbon fact"
-    }
-  },
-  "nature-eco-558": {
-    "10.1073/pnas.0905620106": {
-      "reviewed_verdict": "supports",
-      "note": "29% lost since 1879 is consistent with 'over 20% since late 19th century'"
-    }
-  },
-  "nature-eco-562": {
-    "10.1002/fee.2420": {
-      "reviewed_verdict": "different object",
-      "note": "62% of terrestrial vertebrates, not 50% of all species"
-    }
-  },
-  "nature-gov-007": {
-    "10.1002/wwp2.12209": {
-      "reviewed_verdict": "different object",
-      "note": "75% of land surface affected; entry figures concern stunting and farms"
-    }
-  },
-  "nature-es-095": {
-    "10.1111/j.1442-1984.2011.00330.x": {
-      "reviewed_verdict": "supports",
-      "note": "orchid pollinated by rain or butterflies supported; 76%/70.4% are fruit sets"
-    }
-  },
-  "nature-pol-223": {
-    "10.1257/jep.28.3.217": {
-      "reviewed_verdict": "supports",
-      "note": "JEP review supports; 1.8% is Fair Trade share of coffee exports"
-    }
-  },
-  "nature-found-057": {
-    "10.1596/978-1-4648-1816-5": {
-      "reviewed_verdict": "supports",
-      "note": "$8.1 trillion global cost matches; 6.1% is global GDP share, entry's >10% is India/China"
-    }
-  },
-  "nature-nbs-294": {
-    "10.1073/pnas.1423674112": {
-      "reviewed_verdict": "supports",
-      "note": "22-35% more profitable and 5-7% breakeven premiums match"
-    }
+ "nature-eco-060": {
+  "10.2139/ssrn.2465799": {
+   "reviewed_verdict": "supports",
+   "note": "29% of land in degradation hotspots and 3.2 billion people match the ~30% / 3.2 billion facts"
   }
+ },
+ "nature-nbs-026": {
+  "10.3846/16486897.2016.1194276": {
+   "reviewed_verdict": "different object",
+   "note": "80% is green coverage of a Beijing belt width, not a fact in the entry"
+  }
+ },
+ "nature-eco-011": {
+  "10.5194/acp-22-12221-2022": {
+   "reviewed_verdict": "different object",
+   "note": "12% is aerosol forcing share since 2000; entry gives no such figure"
+  }
+ },
+ "nature-hist-007": {
+  "10.1088/1748-9326/ac2966": {
+   "reviewed_verdict": "different object",
+   "note": "99% is scientific consensus, not CO2 or warming figures"
+  }
+ },
+ "nature-eco-265": {
+  "10.1002/2016wr019314": {
+   "reviewed_verdict": "different object",
+   "note": "5 m x 2 m is flume size, not splash distance"
+  }
+ },
+ "nature-mkt-007": {
+  "10.1016/j.marpol.2023.105571": {
+   "reviewed_verdict": "different object",
+   "note": "30% of a global stakeholder sample are paper parks; entry cites a European MPA study"
+  }
+ },
+ "nature-eco-327": {
+  "10.1038/s43247-021-00270-z": {
+   "reviewed_verdict": "supports",
+   "note": "nearly a quarter of land shifts biome matches 22%; 30% is the protection target"
+  }
+ },
+ "nature-nbs-097": {
+  "10.1371/journal.pmed.0040078": {
+   "reviewed_verdict": "supports",
+   "note": "300 systematic reviews sample; 50% is unrelated"
+  },
+  "10.7326/0003-4819-147-4-200708210-00179": {
+   "reviewed_verdict": "supports",
+   "note": "100 reviews, 7% at publication, 15% within 1 yr, 23% within 2 yr match cumulative facts; 50% is effect-size threshold"
+  }
+ },
+ "nature-eecon-158": {
+  "10.1016/j.futures.2022.103020": {
+   "reviewed_verdict": "different object",
+   "note": "60.5% is European public support, not researcher survey"
+  }
+ },
+ "nature-eco-473": {
+  "10.1038/s41598-020-57564-z": {
+   "reviewed_verdict": "supports",
+   "note": "11 and 40 years are study intervals; findings on encroachment support the entry"
+  }
+ },
+ "nature-eco-479": {
+  "10.5194/bg-7-1505-2010": {
+   "reviewed_verdict": "supports",
+   "note": "12.9 Mha deforested by 2006 matches; 82% and 1.3-3.1% are other figures"
+  }
+ },
+ "nature-eco-542": {
+  "10.5343/bms.2012.1069": {
+   "reviewed_verdict": "different object",
+   "note": "51.9% loss and 28% aquaculture share in eight countries over a study period, not global 35% / quarter shrimp"
+  }
+ },
+ "nature-eco-550": {
+  "10.1890/14-1154.1": {
+   "reviewed_verdict": "supports",
+   "note": "old-growth stores 30% more carbon than younger forests, supporting the carbon fact"
+  }
+ },
+ "nature-eco-558": {
+  "10.1073/pnas.0905620106": {
+   "reviewed_verdict": "supports",
+   "note": "29% lost since 1879 is consistent with 'over 20% since late 19th century'"
+  }
+ },
+ "nature-eco-562": {
+  "10.1002/fee.2420": {
+   "reviewed_verdict": "different object",
+   "note": "62% of terrestrial vertebrates, not 50% of all species"
+  }
+ },
+ "nature-gov-007": {
+  "10.1002/wwp2.12209": {
+   "reviewed_verdict": "different object",
+   "note": "75% of land surface affected; entry figures concern stunting and farms"
+  }
+ },
+ "nature-es-095": {
+  "10.1111/j.1442-1984.2011.00330.x": {
+   "reviewed_verdict": "supports",
+   "note": "orchid pollinated by rain or butterflies supported; 76%/70.4% are fruit sets"
+  }
+ },
+ "nature-pol-223": {
+  "10.1257/jep.28.3.217": {
+   "reviewed_verdict": "supports",
+   "note": "JEP review supports; 1.8% is Fair Trade share of coffee exports"
+  }
+ },
+ "nature-found-057": {
+  "10.1596/978-1-4648-1816-5": {
+   "reviewed_verdict": "supports",
+   "note": "$8.1 trillion global cost matches; 6.1% is global GDP share, entry's >10% is India/China"
+  }
+ },
+ "nature-nbs-294": {
+  "10.1073/pnas.1423674112": {
+   "reviewed_verdict": "supports",
+   "note": "22-35% more profitable and 5-7% breakeven premiums match"
+  }
+ },
+ "nature-eecon-233": {
+  "10.1007/s10668-023-02925-7": {
+   "reviewed_verdict": "different object",
+   "note": "The abstract's 17.4% concerns recycled materials as catalysts, not the share of e-waste collected."
+  }
+ },
+ "nature-eco-666": {
+  "10.1086/714444": {
+   "reviewed_verdict": "different object",
+   "note": "The abstract's 17% is a different yield-effect measure from the 44% estimate cited."
+  }
+ },
+ "nature-hist-085": {
+  "10.2307/1311994": {
+   "reviewed_verdict": "older estimate",
+   "note": "A 1992 paper with its own percentages; the entry cites later per-study figures."
+  }
+ }
 }

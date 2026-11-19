@@ -1,1 +1,0 @@
-- none (Competitive advantage skipped as generic; no entry drafted)

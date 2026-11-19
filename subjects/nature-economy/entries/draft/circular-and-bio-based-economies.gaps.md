@@ -11,3 +11,9 @@
 - Ecodesign regulation / design for disassembly -> "Ecodesign", "Design for disassembly"
 - Repair cafés -> "Repair café"
 - Food loss and waste as a circular-economy topic -> "Food loss and waste"
+
+- none beyond pages drafted; country-specific waste statistics, munitions and medical waste skipped as off-topic
+
+- none beyond pages drafted; country-specific waste statistics, munitions and medical waste skipped as off-topic
+
+- none beyond pages drafted; country-specific waste statistics, munitions and medical waste skipped as off-topic

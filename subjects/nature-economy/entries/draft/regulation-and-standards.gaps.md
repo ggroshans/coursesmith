@@ -10,3 +10,11 @@
 - Building energy codes — suggested page: "Building energy code"
 - Feebate — suggested page: "Feebate"
 - Eco-tariff and Game law (frame candidates) were not in this dossier — suggested pages: "Eco-tariff", "Game law"
+
+- Renewable Fuel Standard (US EPA, RFS2): ILUC page has a 55-sentence section "Implementation > United States > EPA Renewable Fuel Standard"; suggested page "Renewable Fuel Standard".
+- European Union biofuel rules (Renewable Energy Directive, ILUC limits) and UK Renewable Transport Fuel Obligation: sections of the ILUC page.
+- Tennessee Valley Authority v. Hill (1978): Critical habitat court-case page.
+- Food vs fuel; Sustainable biofuel; Cellulosic ethanol: separate pages not yet crawled.
+
+- Smart growth, Compact city, Urban growth boundary, Automobile dependency: own pages would deepen the anti-sprawl policy entries.
+- Newman and Kenworthy 1989 density-and-fuel-use study: details are in the Automobile dependency section of Urban sprawl.

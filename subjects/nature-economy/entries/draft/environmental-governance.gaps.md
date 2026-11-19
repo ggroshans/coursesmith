@@ -6,3 +6,8 @@
 - Transboundary environmental impact assessment — suggested page: Espoo Convention
 - Boundary organizations at the science–policy interface — suggested page: Boundary organization
 - Social-ecological systems (named by several governance pages, no page crawled) — suggested page: Social-ecological system
+
+- Biodiversity monitoring (no entry found)
+
+- Ocean acidification (own entry check)
+- Oil spills

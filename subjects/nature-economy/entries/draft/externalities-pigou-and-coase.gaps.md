@@ -5,3 +5,5 @@
 - Rylands v Fletcher (Rylands v Fletcher)
 - Polluter pays principle (Polluter pays principle)
 - Social cost (Social cost)
+
+- Pigouvian tax liability comparisons: no gaps beyond Negligence

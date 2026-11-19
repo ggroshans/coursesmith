@@ -15,3 +15,5 @@
 - Austrian School (Austrian School): cited as a major critic of neoclassical economics, but its page was not crawled
 - Conspicuous consumption (Conspicuous consumption): Veblen's idea, which matters for consumption and environmental pressure
 - Command economy / Planned economy (Planned economy): crawled but not in this chapter's dossier
+
+- Anti-planning/ecology-relevant pages Capitalism and Planned economy drafted; Soviet-era history, Chile Cybersyn skipped as off-topic

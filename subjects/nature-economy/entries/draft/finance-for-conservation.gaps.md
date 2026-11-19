@@ -9,3 +9,5 @@
 - Socially responsible investing (suggested page: Socially responsible investing)
 - Microfinance (suggested page: Microfinance)
 - Development finance institution (suggested page: Development finance institution)
+
+- none

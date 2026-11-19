@@ -6,3 +6,5 @@
 - Raw material consumption / domestic material consumption indicators -> "Domestic material consumption"
 - Species Habitat Index and other GEO BON essential biodiversity variables -> "Essential biodiversity variables"
 - Ecological Footprint national accounts methodology (yield and equivalence factors) -> "National Footprint and Biocapacity Accounts"
+
+- chunk held only the generic Supply chain page; no footprint or indicator concepts

@@ -12,3 +12,7 @@
 - Consumer surplus / Producer surplus - no own pages in this range (Economic surplus covered by chunks 01-10?)
 - Economic rent - crawled with only 3 lead sentences
 - Rationing (economics)
+
+- Illegal wildlife trade (related only)
+
+none

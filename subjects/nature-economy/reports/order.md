@@ -32,6 +32,13 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - Mixed economy (nature-econ-154) needed Market economy (nature-econ-395) — consolidation
 - Neoclassical economics (nature-hist-023) needed Supply and demand (nature-econ-360) — consolidation
 - Neoclassical economics (nature-hist-023) needed Classical economics (nature-hist-012) — consolidation
+- Capitalism (nature-econ-848) needed Market economy (nature-econ-395) — consolidation
+- Capitalism (nature-econ-848) needed Profit (economics) (nature-econ-409) — lead link + RefD 0.126
+- Capitalism (nature-econ-848) needed Economic growth (nature-econ-478) — lead link + RefD 0.095
+- Capitalism (nature-econ-848) needed Market (nature-econ-342) — lead link + RefD 0.089
+- Planned economy (nature-econ-849) needed Market economy (nature-econ-395) — consolidation
+- Planned economy (nature-econ-849) needed Investment (macroeconomics) (nature-econ-539) — lead link + RefD 0.105
+- Planned economy (nature-econ-849) needed Market (nature-econ-342) — lead link + RefD 0.194
 - Circular business models (nature-eecon-004) needed Sustainable business (nature-gov-059) — consolidation
 - Green space inequality (nature-nbs-011) needed Environmental justice (nature-gov-168) — consolidation
 - Food desert (nature-nbs-018) needed Environmental justice (nature-gov-168) — consolidation
@@ -39,8 +46,13 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - Cool roof (nature-nbs-021) needed Albedo (nature-nbs-090) — ordering pass
 - Urban resilience (nature-nbs-031) needed Climate change adaptation (nature-clim-002) — consolidation
 - Urban rewilding (nature-nbs-032) needed Rewilding (nature-nbs-131) — ordering pass
+- Fossil fuel divestment (nature-clim-086) needed Fossil fuel (nature-gov-231) — consolidation
+- Water vapour feedback (nature-eco-010) needed Climate change feedbacks (nature-eco-014) — ordering pass
+- Climate model (nature-eco-015) needed Climate change feedbacks (nature-eco-014) — ordering pass
+- Earth system sensitivity (nature-eco-016) needed Climate change feedbacks (nature-eco-014) — ordering pass
 - Earth system sensitivity (nature-eco-016) needed Transient and equilibrium climate sensitivity (nature-clim-255) — consolidation
 - Climate change and food security (nature-eco-019) needed Food security (nature-es-108) — consolidation
+- Ice sheet decline (nature-eco-021) needed Climate change feedbacks (nature-eco-014) — consolidation
 - Blue carbon (nature-nbs-034) needed Carbon sequestration (nature-clim-143) — consolidation
 - Blue carbon (nature-nbs-034) needed Climate change mitigation (nature-clim-149) — consolidation
 - Managed retreat (nature-nbs-040) needed Sea level rise (nature-clim-037) — consolidation
@@ -53,6 +65,8 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - Sea rewilding (nature-nbs-070) needed Rewilding (nature-nbs-131) — ordering pass
 - Soft engineering (nature-nbs-073) needed Ecological restoration (nature-nbs-112) — consolidation
 - Cost-effectiveness of energy efficiency (nature-val-010) needed Efficient energy use (nature-clim-108) — consolidation
+- Pitfalls in cost estimation (nature-val-106) needed Additionality (nature-mkt-144) — consolidation
+- Human impact on the carbon cycle (nature-eco-168) needed Fossil fuel (nature-gov-231) — consolidation
 - Forests as carbon sinks (nature-nbs-103) needed Carbon sequestration (nature-clim-143) — consolidation
 - Water cycle intensification (nature-eco-199) needed Climate change (nature-hist-007) — ordering pass
 - Atmospheric methane (nature-eco-201) needed Greenhouse gas (nature-eco-162) — ordering pass
@@ -63,13 +77,41 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - Ocean alkalinity enhancement (nature-eco-251) needed Carbon dioxide removal (nature-clim-138) — ordering pass
 - Iron fertilization (nature-clim-206) needed Carbon dioxide removal (nature-clim-138) — consolidation
 - Permafrost carbon feedback (nature-eco-257) needed Climate change (nature-hist-007) — ordering pass
+- Fertilizer (nature-eco-662) needed Greenhouse gas emissions (nature-eco-163) — lead link + RefD 0.183
+- Environmental effects of fertilizer (nature-eco-663) needed Greenhouse gas emissions (nature-eco-163) — lead link + RefD 0.183
+- Controlled-release fertilizer (nature-eco-664) needed Greenhouse gas emissions (nature-eco-163) — lead link + RefD 0.183
+- Fertilizer policy (nature-eco-665) needed Greenhouse gas emissions (nature-eco-163) — lead link + RefD 0.183
+- Green Revolution (nature-eco-666) needed Pesticide (nature-hist-084) — lead link + RefD 0.071
+- Green Revolution outcomes and trade-offs (nature-eco-667) needed Pesticide (nature-hist-084) — lead link + RefD 0.071
+- Methane emission sources (nature-eco-668) needed Greenhouse gas (nature-eco-162) — lead link + RefD 0.384
+- Methane emission sources (nature-eco-668) needed Climate change (nature-hist-007) — lead link + RefD 0.502
+- Methane emission sources (nature-eco-668) needed Methane (nature-eco-727) — lead link + RefD 0.345
+- Methane emission sources (nature-eco-668) needed Greenhouse gas emissions (nature-eco-163) — lead link + RefD 0.305
+- Methane emission sources (nature-eco-668) needed Fossil fuel (nature-gov-231) — lead link + RefD 0.24
+- Methane emission sources (nature-eco-668) needed Wetland (nature-eco-441) — lead link + RefD 0.084
+- Methane emission sources (nature-eco-668) needed Wildfire (nature-gov-243) — lead link + RefD 0.103
+- Methane emission reduction (nature-eco-669) needed Greenhouse gas (nature-eco-162) — lead link + RefD 0.384
+- Methane emission reduction (nature-eco-669) needed Climate change (nature-hist-007) — lead link + RefD 0.502
+- Methane emission reduction (nature-eco-669) needed Methane (nature-eco-727) — lead link + RefD 0.345
+- Methane emission reduction (nature-eco-669) needed Greenhouse gas emissions (nature-eco-163) — lead link + RefD 0.305
+- Methane emission reduction (nature-eco-669) needed Fossil fuel (nature-gov-231) — lead link + RefD 0.24
+- Methane emission reduction (nature-eco-669) needed Wetland (nature-eco-441) — lead link + RefD 0.084
+- Methane emission reduction (nature-eco-669) needed Wildfire (nature-gov-243) — lead link + RefD 0.103
 - Market environmentalism (nature-res-117) needed Commodification of water (nature-res-116) — consolidation
 - Social ecological economics (nature-val-036) needed Ecological economics (nature-eecon-059) — ordering pass
+- Ecological modernization (nature-val-112) needed Green economy (nature-eecon-140) — consolidation
+- Ecological economics (nature-eecon-059) needed Sustainability (nature-eecon-208) — consolidation
 - Green economy (nature-eecon-140) needed Sustainable development (nature-eecon-209) — consolidation
 - Social metabolism accounting schools (nature-eecon-088) needed Material flow analysis (nature-eecon-019) — consolidation
 - Jevons paradox (nature-eecon-163) needed Rebound effect (nature-eecon-159) — consolidation
 - Green logistics (nature-eecon-092) needed Eco-efficiency (nature-eecon-027) — consolidation
+- Sustainability science (nature-eecon-129) needed Sustainability (nature-eecon-208) — consolidation
 - Sustainability science (nature-eecon-129) needed Sustainable development (nature-eecon-209) — consolidation
+- Renewable energy (nature-eecon-239) needed Fossil fuel (nature-gov-231) — lead link + RefD 0.204
+- Energy storage (nature-eecon-244) needed Fossil fuel (nature-gov-231) — lead link + RefD 0.455
+- Green building (nature-eecon-245) needed Life cycle thinking (nature-eecon-028) — consolidation
+- Urban metabolism (nature-eecon-247) needed Material flow analysis (nature-eecon-019) — consolidation
+- Urban metabolism (nature-eecon-247) needed Sustainability (nature-eecon-208) — lead link + RefD 0.333
 - Human–wildlife conflict (nature-mkt-003) needed Natural resource (nature-res-248) — consolidation
 - Marxan (nature-mkt-006) needed Protected area (nature-gov-038) — consolidation
 - Paper park (nature-mkt-007) needed Protected area (nature-gov-038) — ordering pass
@@ -97,12 +139,40 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - Nitrification (nature-eco-395) needed Ammonification (nature-eco-178) — consolidation
 - Denitrification (nature-eco-396) needed Nitrogen cycle (nature-eco-176) — consolidation
 - Soil carbon pool (nature-eco-404) needed Carbon cycle (nature-eco-164) — consolidation
+- Coevolution (nature-eco-670) needed Species (nature-eco-656) — lead link + RefD 0.583
+- Symbiosis (nature-eco-671) needed Ecology (nature-nbs-347) — lead link + RefD 0.502
+- Symbiosis (nature-eco-671) needed Species (nature-eco-656) — lead link + RefD 0.588
+- Non-trophic interactions (nature-eco-672) needed Ecology (nature-nbs-347) — lead link + RefD 0.502
+- Non-trophic interactions (nature-eco-672) needed Species (nature-eco-656) — lead link + RefD 0.588
+- Detritivore (nature-eco-673) needed Detritus (nature-eco-709) — lead link + RefD 0.051
+- Ecoregion (nature-eco-674) needed Ecology (nature-nbs-347) — lead link + RefD 0.13
+- Ecoregion (nature-eco-674) needed Species (nature-eco-656) — lead link + RefD 0.267
+- Nitrous oxide (nature-eco-675) needed Nitrogen cycle (nature-eco-176) — consolidation
+- Nitrous oxide (nature-eco-675) needed Greenhouse gas (nature-eco-162) — consolidation
+- Nitrous oxide (nature-eco-675) needed Climate change (nature-hist-007) — lead link + RefD 0.656
+- Soil food web (nature-eco-676) needed Photosynthesis (nature-eco-190) — lead link + RefD 0.455
+- Food web representations (nature-eco-677) needed Photosynthesis (nature-eco-190) — lead link + RefD 0.455
 - Constrained Pareto efficiency (nature-econ-170) needed Information asymmetry (nature-econ-330) — consolidation
 - Distribution (economics) (nature-econ-185) needed Income (nature-econ-491) — consolidation
 - Greenwald–Stiglitz theorem (nature-econ-192) needed Information asymmetry (nature-econ-330) — consolidation
 - Lump-sum tax (nature-pol-119) needed Optimal tax (nature-pol-118) — consolidation
+- Income distribution (nature-econ-850) needed Gini coefficient (nature-econ-527) — consolidation
+- Income distribution (nature-econ-850) needed Gross domestic product (nature-econ-483) — lead link + RefD 0.056
+- Income distribution (nature-econ-850) needed Economic inequality (nature-eecon-252) — lead link + RefD 0.116
+- Progressive tax (nature-econ-851) needed Income (nature-econ-491) — lead link + RefD 0.078
+- Negative income tax (nature-econ-852) needed Income (nature-econ-491) — lead link + RefD 0.078
+- Efficient energy use (nature-clim-108) needed Energy (nature-eecon-238) — consolidation
 - Energy conservation (nature-clim-151) needed Climate change mitigation (nature-clim-149) — consolidation
 - Energy poverty (nature-clim-112) needed Poverty (nature-gov-005) — consolidation
+- Energy poverty (nature-clim-112) needed Energy (nature-eecon-238) — consolidation
+- Energy security (nature-clim-114) needed Energy (nature-eecon-238) — consolidation
+- Variable renewable energy (nature-clim-130) needed Renewable energy (nature-eecon-239) — consolidation
+- Energy economics (nature-clim-133) needed Energy (nature-eecon-238) — consolidation
+- Distributed generation (nature-clim-280) needed Renewable energy (nature-eecon-239) — lead link + RefD 0.455
+- Microgrid (nature-clim-281) needed Renewable energy (nature-eecon-239) — lead link + RefD 0.455
+- Electricity generation (nature-clim-282) needed Carbon capture and storage (nature-clim-185) — lead link + RefD 0.09
+- Electricity generation (nature-clim-282) needed Climate change mitigation (nature-clim-149) — lead link + RefD 0.24
+- Smart grid (nature-clim-283) needed Energy storage (nature-eecon-244) — lead link + RefD 0.167
 - Planetary justice (nature-gov-113) needed Environmental justice (nature-gov-168) — ordering pass
 - Agenda 21 (nature-gov-127) needed Earth Summit (nature-hist-003) — consolidation
 - Ecosystem approach (nature-gov-133) needed Convention on Biological Diversity (nature-gov-015) — consolidation
@@ -110,6 +180,8 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - National park (nature-gov-148) needed Protected area (nature-gov-038) — consolidation
 - Rio Conventions (nature-gov-151) needed Earth Summit (nature-hist-003) — consolidation
 - Rio Declaration on Environment and Development (nature-gov-152) needed Earth Summit (nature-hist-003) — consolidation
+- Marine pollution (nature-gov-237) needed Pesticide (nature-hist-084) — lead link + RefD 0.222
+- Greenwashing (nature-nbs-075) needed Sustainability (nature-eecon-208) — consolidation
 - Forest albedo trade-off (nature-nbs-091) needed Carbon sequestration (nature-clim-143) — consolidation
 - Nuisance (nature-econ-286) needed Property rights (nature-econ-621) — consolidation
 - The Problem of Social Cost (nature-econ-290) needed Transaction cost (nature-econ-641) — consolidation
@@ -117,12 +189,17 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - Property rules and liability rules (nature-econ-297) needed Transaction cost (nature-econ-641) — ordering pass
 - Sustainable finance taxonomy (nature-mkt-020) needed Greenwashing (nature-nbs-075) — consolidation
 - Return on integration (nature-mkt-070) needed Social cost of carbon (nature-clim-241) — consolidation
+- Debt (nature-mkt-153) needed Money (nature-eecon-241) — lead link + RefD 0.242
 - Cournot competition (nature-econ-302) needed Nash equilibrium (nature-econ-718) — consolidation
 - Transaction cost theory of the firm (nature-econ-323) needed Transaction cost (nature-econ-641) — ordering pass
 - Behavioural theory of the firm (nature-econ-324) needed Bounded rationality (nature-econ-022) — ordering pass
 - Asset specificity (nature-econ-325) needed Transaction cost (nature-econ-641) — ordering pass
 - Property rights theory of the firm (nature-econ-623) needed Property rights (nature-econ-621) — ordering pass
 - Property rights theory of the firm (nature-econ-623) needed Transaction cost (nature-econ-641) — consolidation
+- Stackelberg competition (nature-econ-861) needed Backward induction (nature-econ-735) — consolidation
+- Stackelberg competition (nature-econ-861) needed Game theory (nature-econ-034) — lead link + RefD 0.291
+- Vertical integration (nature-econ-862) needed Supply chain (nature-acct-118) — lead link + RefD 0.056
+- Sustainable fishery (nature-res-008) needed Sustainability (nature-eecon-208) — consolidation
 - Marine protected area (nature-res-024) needed Protected area (nature-gov-038) — consolidation
 - Density dependence (nature-res-044) needed Population growth (nature-eecon-202) — consolidation
 - Exclusive economic zone (nature-res-047) needed Law of the sea (nature-gov-142) — ordering pass
@@ -131,12 +208,16 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - Regional fishery body (nature-res-067) needed International environmental agreement (nature-gov-141) — ordering pass
 - International Treaty on Plant Genetic Resources for Food and Agriculture (nature-res-082) needed International environmental agreement (nature-gov-141) — ordering pass
 - International Treaty on Plant Genetic Resources for Food and Agriculture (nature-res-082) needed Convention on Biological Diversity (nature-gov-015) — consolidation
+- Ecological footprint (nature-acct-027) needed Sustainability (nature-eecon-208) — consolidation
+- Sustainability metrics and indices (nature-acct-037) needed Sustainability (nature-eecon-208) — ordering pass
 - Daly rules (nature-acct-038) needed Renewable resource (nature-res-212) — consolidation
+- Natural Step framework (nature-acct-039) needed Sustainability (nature-eecon-208) — ordering pass
 - Natural Step framework (nature-acct-039) needed Brundtland Commission (nature-eecon-222) — ordering pass
 - Emergy sustainability index (nature-acct-041) needed Embodied energy (nature-eecon-095) — ordering pass
 - Water footprint (nature-acct-044) needed Virtual water (nature-res-111) — consolidation
 - National water footprint (nature-acct-046) needed Virtual water (nature-res-111) — ordering pass
 - Biocapacity (nature-acct-047) needed Natural resource (nature-res-248) — consolidation
+- Sustainability measurement (nature-acct-056) needed Sustainability (nature-eecon-208) — consolidation
 - Hubbert peak as a depletion metric (nature-acct-058) needed Non-renewable resource (nature-res-209) — ordering pass
 - Material input per unit of service (nature-acct-083) needed Eco-efficiency (nature-eecon-027) — consolidation
 - Clean Development Mechanism (nature-mkt-104) needed Kyoto Protocol (nature-clim-056) — consolidation
@@ -144,12 +225,20 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - Forest degradation (nature-res-095) needed Forest management (nature-res-092) — consolidation
 - Corresponding adjustments (nature-mkt-118) needed Paris Agreement (nature-clim-074) — consolidation
 - Sustainable forest management (nature-res-093) needed Sustainable development (nature-eecon-209) — consolidation
+- Bioenergy (nature-res-258) needed Renewable energy (nature-eecon-239) — lead link + RefD 0.27
+- Biofuel generations (nature-res-259) needed Renewable energy (nature-eecon-239) — lead link + RefD 0.27
+- Surface power density (nature-res-260) needed Renewable energy (nature-eecon-239) — lead link + RefD 0.27
+- Water pollution (nature-res-261) needed Pesticide (nature-hist-084) — lead link + RefD 0.184
+- Thermal pollution (nature-res-262) needed Pesticide (nature-hist-084) — lead link + RefD 0.184
+- Water pollution control (nature-res-263) needed Pesticide (nature-hist-084) — lead link + RefD 0.184
+- Urbanization (nature-res-273) needed Sustainability (nature-eecon-208) — lead link + RefD 0.196
+- Appropriate technology (nature-eecon-248) needed E. F. Schumacher (nature-hist-060) — consolidation
+- Global North and Global South (nature-eecon-253) needed Poverty (nature-gov-005) — lead link + RefD 0.151
 - Adverse selection (nature-econ-001) needed Insurance (nature-econ-805) — consolidation
 - Incentive compatibility (nature-econ-002) needed Game theory (nature-econ-034) — consolidation
 - Moral hazard (nature-econ-004) needed Insurance (nature-econ-805) — consolidation
 - Vickrey auction (nature-econ-007) needed Auction (nature-econ-671) — ordering pass
 - Mechanism design (nature-econ-008) needed Game theory (nature-econ-034) — consolidation
-- Revenue equivalence theorem (nature-econ-009) needed Auction (nature-econ-671) — ordering pass
 - Screening in insurance markets (nature-econ-018) needed Insurance (nature-econ-805) — consolidation
 - Climate change and poverty (nature-gov-193) needed Poverty (nature-gov-005) — consolidation
 - Mangroves as coastal protection (nature-es-082) needed Ecological values of mangroves (nature-es-081) — consolidation
@@ -162,6 +251,7 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - Wetland restoration (nature-eco-449) needed Ecological restoration (nature-nbs-112) — consolidation
 - Wetlands and climate change (nature-eco-450) needed Carbon sequestration (nature-clim-143) — consolidation
 - Wetland valuation and assessment (nature-eco-451) needed Ecosystem valuation (nature-val-087) — consolidation
+- Agroecosystem (nature-eco-452) needed Agriculture (nature-res-257) — consolidation
 - Coral reef ecosystem services (nature-eco-456) needed Ecosystem valuation (nature-val-087) — consolidation
 - Coral farming (nature-eco-461) needed Ecological restoration (nature-nbs-112) — consolidation
 - Floodplain phosphorus retention (nature-eco-466) needed Nutrient cycle (nature-es-084) — consolidation
@@ -174,6 +264,52 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - Seagrass restoration (nature-eco-493) needed Ecological restoration (nature-nbs-112) — consolidation
 - Dryland restoration (nature-eco-524) needed Ecological restoration (nature-nbs-112) — consolidation
 - Indigenous knowledge in dryland restoration (nature-eco-529) needed Traditional ecological knowledge (nature-gov-176) — ordering pass
+- Permafrost (nature-eco-678) needed Biomass (nature-clim-284) — lead link + RefD 0.159
+- Sediment (nature-eco-682) needed Weathering (nature-clim-286) — consolidation
+- Bioindicator (nature-eco-692) needed Water pollution (nature-res-261) — lead link + RefD 0.349
+- Animal and plant biomonitors (nature-eco-693) needed Water pollution (nature-res-261) — lead link + RefD 0.349
+- Microbial indicators of contamination (nature-eco-694) needed Water pollution (nature-res-261) — lead link + RefD 0.349
+- Benthic macroinvertebrate indicators (nature-eco-695) needed Water pollution (nature-res-261) — lead link + RefD 0.349
+- Chemosynthesis (nature-eco-696) needed Biomass (nature-clim-284) — lead link + RefD 0.182
+- Planck response (nature-eco-697) needed Wildfire (nature-gov-243) — lead link + RefD 0.159
+- Methane hydrate feedback (nature-eco-698) needed Wildfire (nature-gov-243) — lead link + RefD 0.159
+- Controlled burn (nature-eco-699) needed Ecological restoration (nature-nbs-112) — lead link + RefD 0.141
+- Controlled burn (nature-eco-699) needed Wildfire (nature-gov-243) — lead link + RefD 0.482
+- Fire suppression policy and ecosystems (nature-eco-700) needed Ecological restoration (nature-nbs-112) — lead link + RefD 0.141
+- Fire suppression policy and ecosystems (nature-eco-700) needed Wildfire (nature-gov-243) — lead link + RefD 0.482
+- Savanna burning for emissions abatement (nature-eco-701) needed Ecological restoration (nature-nbs-112) — lead link + RefD 0.141
+- Savanna burning for emissions abatement (nature-eco-701) needed Wildfire (nature-gov-243) — lead link + RefD 0.482
+- Muirburn (nature-eco-702) needed Ecological restoration (nature-nbs-112) — lead link + RefD 0.141
+- Muirburn (nature-eco-702) needed Wildfire (nature-gov-243) — lead link + RefD 0.482
+- Forest Stewardship Council (nature-eco-713) needed Forest management (nature-res-092) — lead link + RefD 0.266
+- FSC certification labels (nature-eco-714) needed Forest management (nature-res-092) — lead link + RefD 0.266
+- Criticism of FSC certification (nature-eco-715) needed Forest management (nature-res-092) — lead link + RefD 0.266
+- Non-state market driven governance (nature-eco-716) needed Forest management (nature-res-092) — lead link + RefD 0.266
+- Hydrology (nature-eco-717) needed Groundwater (nature-res-133) — lead link + RefD 0.176
+- Statistical hydrology (nature-eco-718) needed Groundwater (nature-res-133) — lead link + RefD 0.176
+- Hydrological models (nature-eco-719) needed Groundwater (nature-res-133) — lead link + RefD 0.176
+- Remote sensing in hydrology (nature-eco-720) needed Groundwater (nature-res-133) — lead link + RefD 0.176
+- Limnology (nature-eco-721) needed Groundwater (nature-res-133) — lead link + RefD 0.188
+- Limnology (nature-eco-721) needed Drainage basin (nature-res-119) — lead link + RefD 0.138
+- Lake trophic classification (nature-eco-722) needed Groundwater (nature-res-133) — lead link + RefD 0.188
+- Lake trophic classification (nature-eco-722) needed Drainage basin (nature-res-119) — lead link + RefD 0.138
+- Allochthonous and autochthonous carbon (nature-eco-723) needed Groundwater (nature-res-133) — lead link + RefD 0.188
+- Allochthonous and autochthonous carbon (nature-eco-723) needed Drainage basin (nature-res-119) — lead link + RefD 0.138
+- Nutrient limitation in freshwater (nature-eco-724) needed Groundwater (nature-res-133) — lead link + RefD 0.188
+- Nutrient limitation in freshwater (nature-eco-724) needed Drainage basin (nature-res-119) — lead link + RefD 0.138
+- Aquatic metabolism and dissolved oxygen (nature-eco-725) needed Groundwater (nature-res-133) — lead link + RefD 0.188
+- Aquatic metabolism and dissolved oxygen (nature-eco-725) needed Drainage basin (nature-res-119) — lead link + RefD 0.138
+- Tropical limnology (nature-eco-726) needed Groundwater (nature-res-133) — lead link + RefD 0.188
+- Tropical limnology (nature-eco-726) needed Drainage basin (nature-res-119) — lead link + RefD 0.138
+- Ocean deoxygenation (nature-eco-735) needed Nutrient cycle (nature-es-084) — consolidation
+- Oxygen minimum zones (nature-eco-736) needed Nutrient cycle (nature-es-084) — lead link + RefD 0.119
+- Effects of ocean deoxygenation on fisheries (nature-eco-737) needed Nutrient cycle (nature-es-084) — lead link + RefD 0.119
+- Seascape ecology (nature-eco-739) needed Landscape ecology (nature-es-046) — consolidation
+- Seascape ecology (nature-eco-739) needed Ecology (nature-nbs-347) — lead link + RefD 0.385
+- Water table (nature-eco-742) needed Groundwater (nature-res-133) — consolidation
+- Water table (nature-eco-742) needed Aquifer (nature-res-112) — consolidation
+- Woody plant encroachment (nature-eco-743) needed Wildfire (nature-gov-243) — lead link + RefD 0.137
+- Bush control (nature-eco-744) needed Wildfire (nature-gov-243) — lead link + RefD 0.137
 - Total economic value (nature-val-052) needed Cost–benefit analysis (nature-val-001) — consolidation
 - Rights of nature (nature-val-061) needed Environmental law (nature-pol-140) — consolidation
 - Deep ecology (nature-val-062) needed Environmental ethics (nature-val-037) — consolidation
@@ -190,11 +326,24 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - Cost curve (nature-econ-367) needed Fixed cost (nature-econ-307) — consolidation
 - General equilibrium theory (nature-econ-382) needed Pareto efficiency (nature-econ-168) — consolidation
 - Zero-profit condition (nature-econ-414) needed Long run and short run (nature-econ-309) — consolidation
+- Barriers to entry (nature-econ-863) needed Fixed cost (nature-econ-307) — lead link + RefD 0.161
+- Public utility (nature-econ-865) needed Regulation (nature-val-107) — consolidation
+- Public utility (nature-econ-865) needed Economies of scale (nature-econ-303) — lead link + RefD 0.155
+- Public utility (nature-econ-865) needed Renewable energy (nature-eecon-239) — lead link + RefD 0.071
+- Utility rate regulation (nature-econ-866) needed Economies of scale (nature-econ-303) — lead link + RefD 0.155
+- Utility rate regulation (nature-econ-866) needed Renewable energy (nature-eecon-239) — lead link + RefD 0.071
 - Logistic growth (nature-eco-580) needed Carrying capacity (nature-eco-593) — consolidation
 - Logistic growth (nature-eco-580) needed Population (nature-eco-374) — consolidation
 - Computable general equilibrium (nature-econ-475) needed Input–output model (nature-acct-080) — consolidation
+- Malthusian growth model (nature-econ-867) needed An Essay on the Principle of Population (nature-hist-011) — lead link + RefD 0.104
+- Malthusian growth model (nature-econ-867) needed Population ecology (nature-eco-375) — lead link + RefD 0.095
+- Malthusian growth model (nature-econ-867) needed Population dynamics (nature-eco-585) — lead link + RefD 0.357
 - Endogenous growth theory (nature-econ-551) needed Solow–Swan model (nature-eecon-204) — consolidation
 - Source and sink functions of the environment (nature-econ-553) needed Natural resource (nature-res-248) — consolidation
+- Lorenz curve (nature-econ-873) needed Economic inequality (nature-eecon-252) — lead link + RefD 0.141
+- Lorenz curve (nature-econ-873) needed Asset (nature-acct-105) — lead link + RefD 0.182
+- Lorenz curve (nature-econ-873) needed Debt (nature-mkt-153) — lead link + RefD 0.115
+- Energy transition (nature-clim-167) needed Fossil fuel (nature-gov-231) — consolidation
 - Energy justice (nature-clim-172) needed Environmental justice (nature-gov-168) — consolidation
 - Sustainable energy (nature-clim-215) needed Sustainable development (nature-eecon-209) — consolidation
 - Depletion (accounting) (nature-acct-107) needed Natural resource (nature-res-248) — consolidation
@@ -205,6 +354,13 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - Ecosystem service categories (nature-found-005) needed Millennium Ecosystem Assessment (nature-es-001) — consolidation
 - System of Environmental-Economic Accounting (nature-found-013) needed National accounts (nature-econ-566) — consolidation
 - System of Environmental-Economic Accounting (nature-found-013) needed Environmental accounting (nature-acct-089) — consolidation
+- Sustainability and environmental management (nature-found-029) needed Sustainability (nature-eecon-208) — consolidation
+- Produced, human and natural capital (nature-found-091) needed Capital (economics) (nature-econ-083) — consolidation
+- Ecosystems do not maximise productivity (nature-found-093) needed Gross and net primary production (nature-eco-303) — consolidation
+- Mobility and silence of nature as a source of externalities (nature-found-095) needed Externality (nature-found-031) — consolidation
+- Mobility and silence of nature as a source of externalities (nature-found-095) needed Public good (nature-econ-633) — consolidation
+- Humanity's demand on the biosphere (nature-found-096) needed Ecological footprint (nature-acct-027) — consolidation
+- Humanity's demand on the biosphere (nature-found-096) needed Ecological overshoot (nature-eecon-173) — consolidation
 - Conservation easement (nature-mkt-126) needed Land law (nature-gov-217) — consolidation
 - Conservation easement (nature-mkt-126) needed Land trust (nature-mkt-051) — consolidation
 - Additionality (nature-mkt-144) needed Carbon credit (nature-mkt-081) — consolidation
@@ -212,9 +368,31 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - Results-based payments (nature-mkt-152) needed REDD+ (nature-mkt-092) — consolidation
 - Results-based payments (nature-mkt-152) needed Forest reference emission level (nature-mkt-113) — consolidation
 - Rent-seeking (nature-pol-042) needed Economic rent (nature-res-218) — consolidation
+- Climate change denial (nature-pol-290) needed Climate change adaptation (nature-clim-002) — lead link + RefD 0.291
+- Climate change denial (nature-pol-290) needed Climate change mitigation (nature-clim-149) — lead link + RefD 0.477
+- Psychology of climate change denial (nature-pol-291) needed Climate change adaptation (nature-clim-002) — lead link + RefD 0.291
+- Psychology of climate change denial (nature-pol-291) needed Climate change mitigation (nature-clim-149) — lead link + RefD 0.477
 - Controlling acid rain (nature-pol-049) needed Emissions trading (nature-pol-253) — consolidation
 - Regulating nonpoint source pollution (nature-pol-078) needed Point source pollution (nature-pol-170) — ordering pass
 - Damage function (nature-clim-234) needed Cost–benefit analysis of climate change (nature-clim-233) — consolidation
+- Waste incineration (nature-pol-294) needed Waste hierarchy (nature-eecon-022) — consolidation
+- Waste incineration (nature-pol-294) needed Pyrolysis (nature-clim-285) — lead link + RefD 0.167
+- Debate over waste incineration (nature-pol-295) needed Pyrolysis (nature-clim-285) — lead link + RefD 0.167
+- Black carbon (nature-pol-296) needed Fossil fuel (nature-gov-231) — lead link + RefD 0.327
+- Black carbon (nature-pol-296) needed Biomass (nature-clim-284) — lead link + RefD 0.222
+- Black carbon (nature-pol-296) needed Albedo (nature-nbs-090) — lead link + RefD 0.093
+- Black carbon and climate (nature-pol-297) needed Fossil fuel (nature-gov-231) — lead link + RefD 0.327
+- Black carbon and climate (nature-pol-297) needed Biomass (nature-clim-284) — lead link + RefD 0.222
+- Black carbon and climate (nature-pol-297) needed Albedo (nature-nbs-090) — lead link + RefD 0.093
+- Black carbon mitigation (nature-pol-298) needed Fossil fuel (nature-gov-231) — lead link + RefD 0.327
+- Black carbon mitigation (nature-pol-298) needed Biomass (nature-clim-284) — lead link + RefD 0.222
+- Black carbon mitigation (nature-pol-298) needed Albedo (nature-nbs-090) — lead link + RefD 0.093
+- Environmental remediation (nature-pol-299) needed Groundwater (nature-res-133) — lead link + RefD 0.245
+- Environmental remediation (nature-pol-299) needed Ecology (nature-nbs-347) — lead link + RefD 0.059
+- Remediation technologies (nature-pol-300) needed Groundwater (nature-res-133) — lead link + RefD 0.245
+- Remediation technologies (nature-pol-300) needed Ecology (nature-nbs-347) — lead link + RefD 0.059
+- Incremental health risk (nature-pol-301) needed Groundwater (nature-res-133) — lead link + RefD 0.245
+- Incremental health risk (nature-pol-301) needed Ecology (nature-nbs-347) — lead link + RefD 0.059
 - Carbon tax (nature-pol-081) needed Social cost of carbon (nature-clim-241) — consolidation
 - Carbon tariff (nature-pol-265) needed Carbon leakage (nature-pol-252) — consolidation
 - Carbon tariff (nature-pol-265) needed Carbon pricing (nature-pol-239) — consolidation
@@ -229,6 +407,19 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - Competitive Lotka–Volterra equations (nature-eco-577) needed Carrying capacity (nature-eco-593) — consolidation
 - R/K selection theory (nature-eco-588) needed Carrying capacity (nature-eco-593) — consolidation
 - Species–area relationship (nature-eco-591) needed Species richness (nature-eco-150) — consolidation
+- Natural selection (nature-eco-745) needed Species (nature-eco-656) — lead link + RefD 0.131
+- Fitness (biology) (nature-eco-746) needed Species (nature-eco-656) — lead link + RefD 0.131
+- Types of natural selection (nature-eco-747) needed Species (nature-eco-656) — lead link + RefD 0.131
+- Gene flow (nature-eco-748) needed Genetic diversity (nature-eco-118) — consolidation
+- Intermediate disturbance hypothesis (nature-eco-753) needed Disturbance (ecology) (nature-eco-624) — consolidation
+- Intermediate disturbance hypothesis (nature-eco-753) needed Wildfire (nature-gov-243) — lead link + RefD 0.333
+- Intermediate disturbance hypothesis (nature-eco-753) needed Deforestation (nature-eco-053) — lead link + RefD 0.167
+- Life history theory (nature-eco-754) needed Ecology (nature-nbs-347) — lead link + RefD 0.313
+- Life history trade-offs (nature-eco-755) needed Ecology (nature-nbs-347) — lead link + RefD 0.313
+- Capital and income breeding (nature-eco-756) needed Ecology (nature-nbs-347) — lead link + RefD 0.313
+- Paradox of enrichment (nature-eco-757) needed Carrying capacity (nature-eco-593) — lead link + RefD 0.5
+- Population viability analysis (nature-eco-760) needed Species (nature-eco-656) — lead link + RefD 0.556
+- Population viability analysis (nature-eco-760) needed Ecology (nature-nbs-347) — lead link + RefD 0.323
 - Biological control strategies (nature-nbs-285) needed Integrated pest management (nature-nbs-283) — consolidation
 - Bioprospecting contracts (nature-es-106) needed Convention on Biological Diversity (nature-gov-015) — consolidation
 - Groundwater recharge (nature-es-110) needed Aquifer (nature-res-112) — consolidation
@@ -240,23 +431,72 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - Environmental law (nature-pol-140) needed Natural resource (nature-res-248) — consolidation
 - Command and control versus economic incentives (nature-pol-148) needed Pigouvian tax (nature-pol-088) — ordering pass
 - Command and control versus economic incentives (nature-pol-148) needed Emissions trading (nature-pol-253) — ordering pass
+- Global warming taxes (nature-pol-151) needed Pigouvian tax (nature-pol-088) — ordering pass
+- Meat tax (nature-pol-152) needed Pigouvian tax (nature-pol-088) — ordering pass
+- Clean Water Act (nature-pol-155) needed Water pollution (nature-res-261) — consolidation
 - Low-carbon fuel standard (nature-pol-165) needed Emissions trading (nature-pol-253) — ordering pass
 - Minimum energy performance standard (nature-pol-167) needed Efficient energy use (nature-clim-108) — consolidation
 - Natura 2000 (nature-pol-169) needed Protected area (nature-gov-038) — consolidation
+- Renewable portfolio standard (nature-pol-175) needed Renewable energy (nature-eecon-239) — consolidation
 - Superfund (nature-pol-176) needed Polluter pays principle (nature-pol-095) — consolidation
 - Zoning (nature-pol-177) needed Land use (nature-res-107) — consolidation
 - Environmental liability (nature-pol-182) needed Polluter pays principle (nature-pol-095) — consolidation
+- Biofuel (nature-pol-303) needed Renewable resource (nature-res-212) — consolidation
+- Biofuel (nature-pol-303) needed Bioenergy (nature-res-258) — consolidation
+- Biofuel (nature-pol-303) needed Fossil fuel (nature-gov-231) — lead link + RefD 0.34
+- Biofuel (nature-pol-303) needed Renewable energy (nature-eecon-239) — lead link + RefD 0.16
+- Biofuel (nature-pol-303) needed Land use (nature-res-107) — lead link + RefD 0.098
+- Biofuel (nature-pol-303) needed Climate change mitigation (nature-clim-149) — lead link + RefD 0.16
+- Ethanol fuel (nature-pol-304) needed Fossil fuel (nature-gov-231) — lead link + RefD 0.34
+- Ethanol fuel (nature-pol-304) needed Renewable energy (nature-eecon-239) — lead link + RefD 0.16
+- Ethanol fuel (nature-pol-304) needed Land use (nature-res-107) — lead link + RefD 0.098
+- Ethanol fuel (nature-pol-304) needed Climate change mitigation (nature-clim-149) — lead link + RefD 0.16
+- Biodiesel (nature-pol-305) needed Fossil fuel (nature-gov-231) — lead link + RefD 0.34
+- Biodiesel (nature-pol-305) needed Renewable energy (nature-eecon-239) — lead link + RefD 0.16
+- Biodiesel (nature-pol-305) needed Land use (nature-res-107) — lead link + RefD 0.098
+- Biodiesel (nature-pol-305) needed Climate change mitigation (nature-clim-149) — lead link + RefD 0.16
+- Aviation biofuel (nature-pol-306) needed Fossil fuel (nature-gov-231) — lead link + RefD 0.34
+- Aviation biofuel (nature-pol-306) needed Renewable energy (nature-eecon-239) — lead link + RefD 0.16
+- Aviation biofuel (nature-pol-306) needed Land use (nature-res-107) — lead link + RefD 0.098
+- Aviation biofuel (nature-pol-306) needed Climate change mitigation (nature-clim-149) — lead link + RefD 0.16
+- Biogas (nature-pol-307) needed Fossil fuel (nature-gov-231) — lead link + RefD 0.34
+- Biogas (nature-pol-307) needed Renewable energy (nature-eecon-239) — lead link + RefD 0.16
+- Biogas (nature-pol-307) needed Land use (nature-res-107) — lead link + RefD 0.098
+- Biogas (nature-pol-307) needed Climate change mitigation (nature-clim-149) — lead link + RefD 0.16
+- Food vs fuel debate (nature-pol-308) needed Fossil fuel (nature-gov-231) — lead link + RefD 0.34
+- Food vs fuel debate (nature-pol-308) needed Renewable energy (nature-eecon-239) — lead link + RefD 0.16
+- Food vs fuel debate (nature-pol-308) needed Land use (nature-res-107) — lead link + RefD 0.098
+- Food vs fuel debate (nature-pol-308) needed Climate change mitigation (nature-clim-149) — lead link + RefD 0.16
+- Indirect land use change from biofuels (nature-pol-309) needed Land use change (nature-res-108) — consolidation
+- Indirect land use change from biofuels (nature-pol-309) needed Economic spillover (nature-pol-319) — lead link + RefD 0.067
+- Indirect land use change from biofuels (nature-pol-309) needed Land use, land-use change and forestry (LULUCF) (nature-res-098) — lead link + RefD 0.1
+- Indirect land use change from biofuels (nature-pol-309) needed Carbon leakage (nature-pol-252) — lead link + RefD 0.067
+- Urban sprawl (nature-pol-311) needed Land use change (nature-res-108) — consolidation
 - Blue economy (nature-res-245) needed Sustainable development (nature-eecon-209) — consolidation
 - Blue finance (nature-res-246) needed Climate finance (nature-clim-042) — consolidation
 - Human carrying capacity (nature-eco-596) needed Human overpopulation (nature-eecon-180) — consolidation
 - Adaptive governance (nature-eco-651) needed Adaptive management (nature-nbs-146) — consolidation
 - Adaptive governance (nature-eco-651) needed Climate governance (nature-gov-124) — consolidation
+- Overgrazing (nature-eco-761) needed Agriculture (nature-res-257) — lead link + RefD 0.196
+- Overgrazing (nature-eco-761) needed Introduced species (nature-nbs-318) — lead link + RefD 0.071
+- Earth system science (nature-eco-762) needed Ecology (nature-nbs-347) — lead link + RefD 0.2
+- Sustainable population (nature-eco-763) needed Sustainability (nature-eecon-208) — lead link + RefD 0.466
+- Sustainable population (nature-eco-763) needed Overconsumption (nature-eecon-185) — lead link + RefD 0.223
+- Sustainable population (nature-eco-763) needed Sustainable development (nature-eecon-209) — lead link + RefD 0.138
+- Sustainable population (nature-eco-763) needed Poverty (nature-gov-005) — lead link + RefD 0.259
+- Sustainable population (nature-eco-763) needed Population growth (nature-eecon-202) — lead link + RefD 0.271
 - Afforestation (nature-nbs-102) needed Carbon sequestration (nature-clim-143) — consolidation
 - Afforestation and surface albedo (nature-nbs-105) needed Albedo (nature-nbs-090) — consolidation
 - Restoration versus emission cuts (nature-nbs-117) needed Climate change mitigation (nature-clim-149) — consolidation
 - Paludiculture (nature-nbs-296) needed Carbon sequestration (nature-clim-143) — consolidation
 - Assisted natural regeneration (nature-nbs-138) needed Tree planting (nature-nbs-087) — consolidation
+- Evolutionary game theory (nature-econ-707) needed Natural selection (nature-eco-745) — consolidation
+- Common knowledge (nature-econ-874) needed Agent-based model (nature-es-061) — lead link + RefD 0.191
+- Kin selection (nature-econ-875) needed Natural selection (nature-eco-745) — lead link + RefD 0.113
+- Population cycle (nature-econ-876) needed Carrying capacity (nature-eco-593) — consolidation
+- Robert Solow (nature-eecon-256) needed Solow–Swan model (nature-eecon-204) — consolidation
 - Forest certification (nature-pol-211) needed Sustainable forest management (nature-res-093) — consolidation
+- Feed-in tariff (nature-pol-224) needed Renewable energy (nature-eecon-239) — consolidation
 - Sustainable seafood advisory lists and certification (nature-pol-236) needed Overfishing (nature-res-027) — consolidation
 - Costs of climate change mitigation (nature-clim-230) needed Climate change mitigation (nature-clim-149) — consolidation
 - Costs of climate change adaptation (nature-clim-232) needed Climate change adaptation (nature-clim-002) — consolidation
@@ -267,6 +507,7 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - Social discount rate (nature-econ-752) needed Cost–benefit analysis (nature-val-001) — consolidation
 - Ramsey discounting formula (nature-econ-753) needed Economic growth (nature-econ-478) — consolidation
 - Discounting in climate economics (nature-econ-755) needed Cost–benefit analysis of climate change (nature-clim-233) — consolidation
+- Inflation (nature-econ-801) needed Money (nature-eecon-241) — consolidation
 - Climateflation (nature-econ-802) needed Climate change (nature-hist-007) — consolidation
 - Inflation targeting (nature-econ-803) needed Monetary policy (nature-econ-560) — consolidation
 - Inflation targeting (nature-econ-803) needed Inflation and deflation (nature-econ-542) — consolidation
@@ -279,6 +520,9 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - Price index (nature-econ-832) needed Inflation and deflation (nature-econ-542) — consolidation
 - Capital asset pricing model (nature-econ-845) needed Diversifiable and systematic risk (nature-mkt-074) — consolidation
 - Quasi-option value (nature-econ-847) needed Option value (nature-val-055) — consolidation
+- Dynamic inconsistency (nature-econ-878) needed Game theory (nature-econ-034) — lead link + RefD 0.28
+- Dynamic inconsistency (nature-econ-878) needed Behavioral economics (nature-econ-021) — lead link + RefD 0.231
+- Bayesian probability (nature-econ-879) needed Bayesian inference (nature-econ-211) — lead link + RefD 0.079
 - Internal carbon pricing (nature-pol-243) needed Social cost of carbon (nature-clim-241) — consolidation
 - Carbon trading and environmental justice (nature-pol-250) needed Environmental justice (nature-gov-168) — consolidation
 - Global carbon market (nature-pol-251) needed Paris Agreement (nature-clim-074) — consolidation
@@ -290,16 +534,20 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - Certified emission reduction (nature-pol-269) needed Clean Development Mechanism (nature-mkt-104) — consolidation
 - Certified emission reduction (nature-pol-269) needed Kyoto Protocol (nature-clim-056) — consolidation
 - Flexible mechanisms (nature-pol-275) needed Kyoto Protocol (nature-clim-056) — ordering pass
+- Green certificate (nature-pol-276) needed Renewable energy (nature-eecon-239) — consolidation
 - Joint Implementation (nature-pol-277) needed Kyoto Protocol (nature-clim-056) — consolidation
 - Personal carbon trading (nature-pol-279) needed Carbon budget (nature-clim-136) — consolidation
 - Voluntary Emission Reduction (nature-pol-283) needed Carbon credit (nature-mkt-081) — consolidation
 - White certificates (nature-pol-284) needed Efficient energy use (nature-clim-108) — consolidation
+- Renewable energy certificate (United States) (nature-pol-318) needed Renewable energy (nature-eecon-239) — lead link + RefD 0.475
+- Measuring international spillovers (nature-pol-320) needed Material flow analysis (nature-eecon-019) — consolidation
 - Bamako Convention (nature-pol-017) needed Basel Convention (nature-gov-129) — ordering pass
 - Ecosystem valuation (nature-val-087) needed Cost–benefit analysis (nature-val-001) — consolidation
 - Green gentrification (nature-nbs-168) needed Environmental justice (nature-gov-168) — consolidation
 - Green gentrification (nature-nbs-168) needed Urban green space (nature-nbs-009) — consolidation
 - Storm surge barrier (nature-nbs-181) needed Coastal management (nature-nbs-053) — consolidation
 - Stream restoration (nature-nbs-188) needed Ecological restoration (nature-nbs-112) — consolidation
+- Flood (nature-nbs-329) needed Sea level rise (nature-clim-037) — lead link + RefD 0.153
 - Ecological engineering (nature-nbs-216) needed Ecological restoration (nature-nbs-112) — consolidation
 - Ecosystem-based adaptation (nature-nbs-218) needed Climate change adaptation (nature-clim-002) — consolidation
 - Nature-based solutions (nature-nbs-220) needed Climate change adaptation (nature-clim-002) — consolidation
@@ -320,12 +568,31 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - Pecuniary externality (nature-found-074) needed Pareto efficiency (nature-econ-168) — consolidation
 - Socially optimal level of pollution (nature-found-080) needed Marginal damage (nature-econ-294) — consolidation
 - Marginal social cost (nature-found-085) needed Marginal cost (nature-econ-347) — consolidation
+- Persistent organic pollutant (nature-found-098) needed Bioaccumulation (nature-eco-689) — consolidation
+- Persistent organic pollutant (nature-found-098) needed Pesticide (nature-hist-084) — lead link + RefD 0.175
+- Persistent organic pollutant (nature-found-098) needed Wildfire (nature-gov-243) — lead link + RefD 0.073
+- Stockholm Convention on Persistent Organic Pollutants (nature-found-099) needed Pesticide (nature-hist-084) — lead link + RefD 0.175
+- Stockholm Convention on Persistent Organic Pollutants (nature-found-099) needed Wildfire (nature-gov-243) — lead link + RefD 0.073
+- Health effects of persistent organic pollutants (nature-found-100) needed Pesticide (nature-hist-084) — lead link + RefD 0.175
+- Health effects of persistent organic pollutants (nature-found-100) needed Wildfire (nature-gov-243) — lead link + RefD 0.073
+- Smog (nature-found-104) needed Particulate matter (nature-pol-068) — lead link + RefD 0.499
+- Smog (nature-found-104) needed Wildfire (nature-gov-243) — lead link + RefD 0.112
+- Photochemical smog (nature-found-105) needed Particulate matter (nature-pol-068) — lead link + RefD 0.499
+- Photochemical smog (nature-found-105) needed Wildfire (nature-gov-243) — lead link + RefD 0.112
+- Health effects of smog (nature-found-106) needed Particulate matter (nature-pol-068) — lead link + RefD 0.499
+- Health effects of smog (nature-found-106) needed Wildfire (nature-gov-243) — lead link + RefD 0.112
+- Soundscape ecology (nature-found-107) needed Ecology (nature-nbs-347) — lead link + RefD 0.387
+- Soundscape ecology (nature-found-107) needed Nature conservation (nature-eco-140) — lead link + RefD 0.097
 - Carbon farming (nature-nbs-226) needed Carbon sequestration (nature-clim-143) — consolidation
 - Climate-smart agriculture (nature-nbs-229) needed Climate change adaptation (nature-clim-002) — consolidation
 - Climate-Resilient Agriculture Index (nature-nbs-231) needed Climate resilience (nature-clim-014) — consolidation
 - Agroforestry (nature-nbs-247) needed Carbon sequestration (nature-clim-143) — consolidation
 - Regenerative agriculture (nature-nbs-258) needed Carbon sequestration (nature-clim-143) — consolidation
 - Regenerative economics (nature-nbs-265) needed Ecological economics (nature-eecon-059) — consolidation
+- Integrated pest management (nature-nbs-283) needed Pesticide (nature-hist-084) — consolidation
+- Ecology (nature-nbs-347) needed Biomass (nature-clim-284) — lead link + RefD 0.11
+- Levels of ecological organization (nature-nbs-348) needed Biomass (nature-clim-284) — lead link + RefD 0.11
+- Niche construction (nature-nbs-349) needed Biomass (nature-clim-284) — lead link + RefD 0.11
 - Pollution (nature-found-079) needed Pollutant (nature-found-075) — cycle
 - Factors of production (nature-econ-086) needed Land (economics) (nature-econ-082) — cycle
 - Factors of production (nature-econ-086) needed Capital (economics) (nature-econ-083) — cycle
@@ -340,21 +607,25 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - Value added (nature-econ-602) needed Intermediate consumption (nature-econ-536) — cycle
 - Prospect theory (nature-econ-067) needed Loss aversion (nature-econ-037) — cycle
 - Prospect theory (nature-econ-067) needed Framing effect (nature-econ-053) — cycle
-- Framing effect (nature-econ-053) needed Loss aversion (nature-econ-037) — cycle
+- Loss aversion (nature-econ-037) needed Framing effect (nature-econ-053) — cycle
 - Regression analysis (nature-econ-257) needed Ordinary least squares (nature-econ-245) — cycle
 - Logistic regression (nature-eco-582) needed Log-odds (nature-econ-238) — cycle
 - Conservation biology (nature-eco-309) needed Habitat (nature-eco-294) — cycle
 - Habitat (nature-eco-294) needed Ecological niche (nature-eco-281) — cycle
+- Food web (nature-eco-297) needed Food chain (nature-eco-353) — cycle
 - Trophic level (nature-eco-305) needed Food chain (nature-eco-353) — cycle
-- Trophic level (nature-eco-305) needed Food web (nature-eco-297) — cycle
 - Decomposition (nature-eco-341) needed Decomposer (nature-eco-340) — cycle
 - Beta diversity (nature-eco-079) needed Gamma diversity (nature-eco-117) — cycle
 - Choice modelling (nature-val-091) needed Discrete choice (nature-val-100) — cycle
 - Sustainable finance (nature-mkt-018) needed Environmental, social, and governance (nature-mkt-040) — cycle
+- Polyculture (nature-nbs-351) needed Intercropping (nature-nbs-286) — cycle
 - Integrated pest management (nature-nbs-283) needed Economic injury level (nature-nbs-284) — cycle
 - Net-zero emissions (nature-clim-162) needed Carbon dioxide removal (nature-clim-138) — cycle
 - Energy transition (nature-clim-167) needed Sustainable energy (nature-clim-215) — cycle
 - Sustainable development (nature-eecon-209) needed Intergenerational equity (nature-eecon-224) — cycle
+- Cobb–Douglas production function (nature-eecon-225) needed Elasticity of substitution (nature-eecon-227) — cycle
+- Constant elasticity of substitution (nature-eecon-226) needed Elasticity of substitution (nature-eecon-227) — cycle
+- Elasticity of substitution (nature-eecon-227) needed Marginal rate of technical substitution (nature-eecon-257) — cycle
 - Transition management (nature-gov-155) needed Multi-level perspective on transitions (nature-gov-156) — cycle
 
 ## Cycles broken
@@ -369,18 +640,23 @@ Each points to a later chapter or part (or closed a cycle). Move an entry, reord
 - released Consumption (economics) ahead of Income
 - released Value added ahead of Intermediate consumption
 - released Prospect theory ahead of Loss aversion, Framing effect
-- released Framing effect ahead of Loss aversion
+- released Loss aversion ahead of Framing effect
 - released Regression analysis ahead of Ordinary least squares
 - released Logistic regression ahead of Log-odds
 - released Conservation biology ahead of Habitat
 - released Habitat ahead of Ecological niche
-- released Trophic level ahead of Food chain, Food web
+- released Food web ahead of Food chain
+- released Trophic level ahead of Food chain
 - released Decomposition ahead of Decomposer
 - released Beta diversity ahead of Gamma diversity
 - released Choice modelling ahead of Discrete choice
 - released Sustainable finance ahead of Environmental, social, and governance
+- released Polyculture ahead of Intercropping
 - released Integrated pest management ahead of Economic injury level
 - released Net-zero emissions ahead of Carbon dioxide removal
 - released Energy transition ahead of Sustainable energy
 - released Sustainable development ahead of Intergenerational equity
+- released Cobb–Douglas production function ahead of Elasticity of substitution
+- released Constant elasticity of substitution ahead of Elasticity of substitution
+- released Elasticity of substitution ahead of Marginal rate of technical substitution
 - released Transition management ahead of Multi-level perspective on transitions
