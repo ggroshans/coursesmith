@@ -13,22 +13,22 @@ One rule is never relaxed: **every fact comes from a cited source sentence (Wiki
 source you approved). Nothing comes from a model's general knowledge.** Language models help find pages, judge scope,
 order prerequisites and write prose, but only from the cited facts they are handed.
 
-## Examples
+## Courses
 
-| Subject | Ordering | Size |
-|---|---|---|
-| [`soil-science`](subjects/soil-science) | foundational to advanced | 2,629 entries in 584 units, 12 parts, 50 chapters, from 7,072 pages and four open textbooks and the WRB |
-| [`nature-economy`](subjects/nature-economy) | foundational to advanced | 3,932 entries in 874 units, 14 parts, 76 chapters, from 3,857 pages, the Dasgupta Review and an open economics chapter |
-| [`earth-history`](subjects/earth-history) | chronological | 1,672 entries in 365 units, from the Hadean to the present (ported from an earlier project) |
+The engine holds no courses. The finished ones (soil science, nature economy, earth history, system design) live in
+[coursesmith-courses](https://github.com/ggroshans/coursesmith-courses), each with `output/course.json` (the whole
+course), `output/course.md` and `output/curriculum.md`.
 
-Each has `output/course.json` (the whole course), `output/course.md` (readable in one file) and
-`output/curriculum.md` (the table of contents with every entry's level, kind and prerequisites).
+## Where your courses live
 
-[`system-design`](subjects/system-design) is the first course built from more than Wikipedia: system design
-interview questions, beginner to advanced, from Wikipedia, three openly licensed guides, fourteen RFCs, twenty-two
-paper abstracts, the Google SRE book and the Kubernetes and PostgreSQL documentation. It has 48 chapters (19 of them
-design questions with worked answers), 1,091 entries and 312 daily units, built and published (see its `STATE.md`).
-It is `distribution: personal`, because two of its guides and the SRE book are NonCommercial.
+A course is a folder, `subjects/<slug>/`, inside a *workspace*. The engine reads and writes only the workspace; the
+page cache (`cache/`) and EPUBs (`build/`) stay in the engine checkout and are not committed.
+
+```
+coursesmith --workspace ~/my-courses init my-subject --title "..."    # or: export COURSESMITH_WORKSPACE=~/my-courses
+```
+
+The workspace can be a plain folder or your own git repo. Without a setting it is the engine checkout itself.
 
 ## Setup
 
@@ -196,7 +196,6 @@ coursesmith/  the `coursesmith` command
   port/         reclean
 guides/       briefs for the passes
 sources/      registry.yaml: domains and repos vetted once, with the license read and when
-subjects/     one folder per subject
 docs/         design (DESIGN.md), discovery (DISCOVERY_DESIGN.md), output format (OUTPUT.md)
 tests/        unit tests
 cache/        gitignored: shared page cache keyed by page key and version, sentence index, images
@@ -207,13 +206,13 @@ build/        gitignored: EPUBs
 
 ## License
 
-The code is MIT (`LICENSE`). Course content (everything under `subjects/` and everything the engine exports)
+The code is MIT (`LICENSE`). Course content (everything a workspace's `subjects/` holds and everything the engine exports)
 is derived from Wikipedia (CC BY-SA 4.0) and, for a subject that lists them, other sources under their own
 licenses, attributed through the cited revisions and versions; see `NOTICE.md`.
 
 ## Renamed from wikicourse
 
-The package and command were `wikicourse` before 0.2. `COURSESMITH_ROOT`, `COURSESMITH_CONTACT` and
+The package and command were `wikicourse` before 0.2. `COURSESMITH_ROOT`, `COURSESMITH_WORKSPACE`, `COURSESMITH_CONTACT` and
 `COURSESMITH_MIN_INTERVAL` replace the `WIKICOURSE_*` variables, which are still read as a fallback. The
 `course.json` format id stays `wikicourse-course` because readers match on it. If you rename the repo folder,
-update the `course` path in the xteink-daily config, which points at `../wikicourse/subjects/<slug>/output/course.json`.
+update the `course` path in the xteink-daily config, which points at `<workspace>/subjects/<slug>/output/course.json`.

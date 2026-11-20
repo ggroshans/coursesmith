@@ -17,3 +17,6 @@ subjects/*/work/scope/
 subjects/*/work/**/*.md
 subjects/*/work/graph.json
 subjects/*/work/figures/
+
+# courses live in a workspace repo; an in-tree one is never committed here
+subjects/

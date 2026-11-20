@@ -1,8 +1,0 @@
-{"nature-pol-179": [{"type": "table", "caption": "The two forms of direct pollution rule differ in what they fix and what they leave to the firm.",
- "sent_ids": ["4c9767a8bc24","74f77f525c09","9d8ef8b734cc","c0961bb2596c","d6b20d7ce541","2e8e0d55e2f5","c6223aebf487"],
- "header": ["", "Performance standard", "Technology standard"],
- "rows": [["What is fixed", "A numeric emission limit", "The equipment to use"], ["Firm's choice", "Any technology that meets the limit", "None"], ["Enforcement", "Measured at the discharge point", "Easy to check"], ["Innovation", "Firms may choose how", "Worst tool, per Cabezas"]]}],
- "nature-pol-326": [{"type": "tree", "caption": "FDI is sorted by the investor's view into three types, and by the host country's view into three classes.",
- "sent_ids": ["f3fc1b38d23a","9bd93d61b1f2","540492b25099","d8e1b40854ac","3d35188fd037"],
- "root": "Foreign direct investment",
- "children": {"Investor's view": {"Horizontal": null, "Vertical": null, "Conglomerate": null}, "Host country's view": {"Import-substituting": null, "Export-increasing": null, "Government-initiated": null}}}]}

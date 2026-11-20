@@ -13,7 +13,10 @@ def env(name, default=""):
 
 ROOT = Path(env("ROOT") or Path(__file__).resolve().parent.parent)
 
-SUBJECTS = ROOT / "subjects"
+# Where courses live. The engine reads and writes subjects/<slug>/ under the workspace, which defaults to the
+# engine checkout; point COURSESMITH_WORKSPACE (or --workspace) at any other folder, e.g. a repo of your courses.
+WORKSPACE = Path(env("WORKSPACE") or ROOT).expanduser().resolve()
+SUBJECTS = WORKSPACE / "subjects"
 GUIDES = ROOT / "guides"
 
 # Shared, gitignored cache. Pages are keyed by title + revid so subjects that overlap share fetches and a

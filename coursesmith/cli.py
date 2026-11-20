@@ -428,6 +428,8 @@ def cmd_export(a):
 # --------------------------------------------------------------------- main
 def build_parser():
     p = argparse.ArgumentParser(prog="coursesmith", description="Sourced courses from Wikipedia and vetted sources.")
+    p.add_argument("--workspace", default=None, metavar="DIR",
+                   help="folder holding subjects/<slug>/ (default: $COURSESMITH_WORKSPACE, else the engine checkout)")
     sub = p.add_subparsers(dest="command", metavar="<command>")
     groups = {}
     for name, help_, args_spec, needs_subject, fn in COMMANDS:
@@ -454,6 +456,11 @@ def main(argv=None):
     if not getattr(a, "fn", None):
         p.print_help()
         sys.exit(1)
+    if a.workspace:
+        from pathlib import Path
+        from . import config
+        config.WORKSPACE = Path(a.workspace).expanduser().resolve()
+        config.SUBJECTS = config.WORKSPACE / "subjects"
     if a.needs_subject:
         try:
             a.subject = load(a.subject)

@@ -1,8 +1,0 @@
-{
- "sysd-found-192": {
-  "10.1097/ede.0b013e318225c1de": {
-   "reviewed_verdict": "different object",
-   "note": "the paper estimates population percentiles from epidemiological samples; the entry defines the percentile and its use in latency and bandwidth billing"
-  }
- }
-}

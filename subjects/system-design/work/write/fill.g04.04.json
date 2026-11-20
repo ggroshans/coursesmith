@@ -1,9 +1,0 @@
-{
- "entries": {},
- "openers": {
-  "http-https-and-tls": "A browser asks and a server answers, and that exchange is the foundation of data communication for the World Wide Web. HTTP is a stateless, application-layer request-response protocol, so each request can be understood on its own. This chapter follows it from the shape of a message, through its methods and status codes, to the cookies that give it a memory. It then turns to the encryption that lets the same conversation stay private: public keys, shared secret keys and the certificates that say who owns a key."
- },
- "reviews": {
-  "http-https-and-tls": "HTTP keeps no memory of its own, which is why cookies and sessions are built on top of it. Its methods, status codes and cache rules mean the same in every version, while the plumbing changed from one connection per resource to multiplexed streams in {{ref:sysd-found-040}} and QUIC over UDP in HTTP/3. Security arrived as a layer underneath: {{ref:sysd-found-049}} uses public-key cryptography and certificates to agree on a symmetric session key, and that turns HTTP into HTTPS. Its weak points are the ones the chapter kept returning to: a compromised certificate authority, a first visit before HSTS, and any intermediary that sits on the path."
- }
-}

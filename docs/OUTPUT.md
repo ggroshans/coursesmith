@@ -8,7 +8,7 @@ A finished subject can be used three ways:
 - **The subject's own files** (`entries/*.jsonl`, `order.json`, `units.json`, `glossary.json`,
   `output/prose.json`), documented in `SCHEMA.md`. Read these if you are changing the course, not just showing it.
 
-The two example courses in `subjects/` ship with `course.json` already exported.
+The finished courses in [coursesmith-courses](https://github.com/ggroshans/coursesmith-courses) ship with `course.json` already exported.
 
 ## `course.json`
 

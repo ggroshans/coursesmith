@@ -1,8 +1,0 @@
-{
- "openers": {
-  "how-computers-talk-ip-tcp-and-udp": "A client asks and a server answers, but between them the data passes down a stack of layers, and this chapter takes that stack apart. The OSI model splits network communication into seven abstract layers, and the TCP/IP model organizes the Internet's protocols into four. As data is sent, each layer nests it inside a packet with a header, a step called encapsulation. The transport layer carries it from an application on one host to an application on another: TCP offers reliable, ordered, error-checked delivery of a stream of bytes after a three-way handshake, while UDP just sends messages as datagrams to other hosts on an IP network. Underneath both, IP gives each device a numerical address so it can be found, and it relays datagrams across network boundaries."
- },
- "reviews": {
-  "how-computers-talk-ip-tcp-and-udp": "Data is wrapped in headers layer by layer, and IP, with its addresses and subnets, relays the resulting packets across network boundaries with only best-effort delivery. Reliability is left to the hosts at the ends, and TCP supplies it with sequence numbers, acknowledgments, windows, timers and handshakes that open and close each connection. UDP keeps the datagram and drops those guarantees, so choosing between them comes down to whether late data is worse than lost data. QUIC rebuilds reliability on top of UDP, so one lost packet no longer stalls every stream. Around them, DHCP hands out addresses, ARP finds hardware addresses and ICMP reports errors."
- }
-}
