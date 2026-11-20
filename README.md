@@ -78,7 +78,7 @@ Four finished courses live in their own repo,
 | **Soil science** | foundations → advanced | 2,629 entries in 584 units |
 | **Nature economy** | foundations → advanced | 3,932 entries in 874 units |
 | **Earth history** | chronological | 1,672 entries in 365 units |
-| **System design** | interview questions | 1,091 entries in 312 units |
+| **System design** | foundations → advanced | 1,091 entries in 312 units |
 
 Each one ships `output/course.json` (the whole course), `output/course.md` and `output/curriculum.md`.
 
@@ -352,6 +352,9 @@ licenses used.
 Set `course_type: questions` and flag parts with `question: true`. Now each chapter is one interview-style
 question. A **Worked example** entry answers it in longer paragraphs and comes last in its chapter. Before it come
 the concepts a good answer relies on.
+
+A question part doesn't have to close the course. List one after the concept parts its answers rely on, and the
+questions climb with the course: system design has three, from first designs to advanced ones.
 
 Capacity math like "about 4 writes a second" is declared as a derived number. The checks recompute it, so it can
 never sneak past the sourced-numbers rule. Architecture diagrams use `flow` figures with database cylinders and
