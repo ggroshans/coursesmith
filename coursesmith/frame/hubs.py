@@ -136,15 +136,20 @@ def category_tree(client, roots, depth=1, exclude=()):
 IMPORTANCE = ("Top", "High", "Mid", "Low")
 
 
-def wikiproject_importance(client, project):
-    """{title: importance} from the talk-page categories '<Imp>-importance <Project> articles'."""
+def wikiproject_importance(client, project, levels=IMPORTANCE):
+    """{title: importance} from the talk-page categories '<Imp>-importance <Project> articles'.
+
+    `levels` limits which importance classes are read (default all four); a limited read is cached apart."""
+    levels = tuple(levels)
+
     def fetch():
         out = {}
-        for imp in IMPORTANCE:
+        for imp in levels:
             for title, ns in client.category_members(f"Category:{imp}-importance {project} articles", ns=(1,)):
                 out.setdefault(title.removeprefix("Talk:"), imp)
         return out
-    return _cached(f"wikiproject {project}", fetch)
+    key = f"wikiproject {project}" + ("" if levels == IMPORTANCE else " " + "+".join(levels))
+    return _cached(key, fetch)
 
 
 def drop(key):

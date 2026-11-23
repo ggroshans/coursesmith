@@ -82,13 +82,17 @@ def gather(subject, client, store, log=print):
             for t in g["links"]:
                 cand[t].setdefault("navbox", label)
                 nav_titles.append(t)
-    if hc.get("index"):
-        for t in H.index_page(client, hc["index"]):
+    # `index` is one page or a list of them (a large field has an outline, an index and a glossary)
+    idx = hc.get("index")
+    for page in [idx] if isinstance(idx, str) else idx or []:
+        for t in H.index_page(client, page):
             cand[t]["index"] = True
     for spec in hc.get("vital") or []:
         for t in H.vital_section(client, spec):
             cand[t]["vital"] = True
-    imp = H.wikiproject_importance(client, hc["wikiproject"]) if hc.get("wikiproject") else {}
+    # `importance` limits the WikiProject levels read: a field with 14,000 Low-importance pages lists Top to Mid
+    imp = (H.wikiproject_importance(client, hc["wikiproject"], hc.get("importance") or H.IMPORTANCE)
+           if hc.get("wikiproject") else {})
     for t, i in imp.items():
         cand[t]["importance"] = i
     cats = cfg.get("categories") or {}
