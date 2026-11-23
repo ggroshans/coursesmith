@@ -47,9 +47,10 @@ sources: []
 # and that is fine: seeds, categories and the planner pass carry it.
 hubs: {{}}
 #   navboxes: [Template:Soil science topics]     # the navbox at the foot of the main article
-#   index: Index of soil-related articles
+#   index: Index of soil-related articles       # one page, or a list of outline / index / glossary pages
 #   vital: [Wikipedia:Vital articles/Level 4/Physical sciences#Pedology]
 #   wikiproject: Soil                            # WikiProject name, for Top/High/Mid/Low importance
+#   importance: [Top, High, Mid]                 # optional: skip the Low tier of a very large project
 
 categories:
   roots: {categories}
