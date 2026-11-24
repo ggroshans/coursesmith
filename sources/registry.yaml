@@ -84,6 +84,17 @@ repos:
       verified: 2026-11-18
       evidence: "LICENSE: 'Attribution-NonCommercial-NoDerivatives 4.0 International'"
     note: "NonCommercial and NoDerivatives: personal reading only."
+  - repo: dotnet/docs
+    tier: official
+    class: official
+    topics: [".NET", "C#", "F#", "Visual Basic", "CLR", "NuGet", "Orleans", "ML.NET"]
+    license:
+      name: "CC BY 4.0"
+      url: "https://creativecommons.org/licenses/by/4.0/"
+      class: cc-by
+      verified: 2026-11-24
+      evidence: "LICENSE: 'Attribution 4.0 International' (the documentation); LICENSE-CODE: the MIT License (the code samples, which the engine does not read)"
+    note: "Microsoft's .NET documentation: the written guides behind learn.microsoft.com/dotnet. Markdown with DocFX extensions (markup: docfx)."
 
 # Whether a course meant for the public (`distribution: public`) may cite a source in each license class.
 # Override a class here only with a reason; the defaults are in coursesmith/sources/licenses.py.

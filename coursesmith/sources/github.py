@@ -10,7 +10,8 @@ Set COURSESMITH_GITHUB_TOKEN (or GITHUB_TOKEN) to lift the 60 requests per hour 
       ref: ae9bbd7b02d90b9866215de185217d33f39ab733   # a commit; `sources check` suggests the current one
       include: ["README.md", "solutions/**/README.md"]
       exclude: ["**/README-*.md"]                      # translations
-      seeds: ["README.md"]                             # crawled without listing them under `seeds:`
+      seeds: ["README.md", "docs/**/*.md"]             # crawled without listing them under `seeds:`; a glob names
+                                                       # every file of the pinned commit it matches (and include allows)
       split: {"README.md": 1}                          # a one-file course: each `# Chapter` becomes its own page
       markup: docfx                                    # Microsoft Learn Markdown (dotnet/docs): see text/docfx.py
       depth: 1
@@ -164,7 +165,14 @@ class GithubAdapter(SourceAdapter):
         return p.lower().endswith(TEXT_EXT) and glob_match(p, self.include) and not glob_match(p, self.exclude)
 
     def seeds(self):
-        return [self.key(p) for p in self.cfg.get("seeds") or []]
+        out = []
+        for p in self.cfg.get("seeds") or []:
+            p = str(p)
+            if any(c in p for c in "*?"):
+                out += [self.key(f) for f in self.files() if glob_match(f, [p])]
+            else:
+                out.append(self.key(p))
+        return out
 
     def key_for_url(self, url, base_key=None):
         """A link in a markdown file: relative path, GitHub blob/tree URL of this repo, or a Wikipedia article."""

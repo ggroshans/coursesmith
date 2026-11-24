@@ -28,6 +28,18 @@ def adapter(**cfg):
     return GithubAdapter(c, http=http)
 
 
+class GlobSeedsTest(unittest.TestCase):
+    def test_a_glob_seed_names_every_matching_file_of_the_commit(self):
+        a = adapter(seeds=["README.md", "solutions/**/README.md"])
+        keys = a.seeds()
+        self.assertEqual(keys[0], "gh>donnemartin/system-design-primer/README.md")
+        self.assertTrue(all(k.endswith("/README.md") for k in keys))
+        self.assertGreater(len(keys), 2)
+        self.assertEqual(len(keys), len(set(keys)))
+        self.assertTrue(all(a.allowed(k) for k in keys))
+        self.assertEqual(adapter(seeds=["README.md"]).seeds(), ["gh>donnemartin/system-design-primer/README.md"])
+
+
 class KeysAndAllowlistTest(unittest.TestCase):
     def test_owns_and_allowed(self):
         a = adapter()
