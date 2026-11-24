@@ -79,6 +79,12 @@ def run(subject, part=None, log=print):
                 warnings.append(f"{i}: long sentence ({len(s.split())} words): {s[:70]}...")
         if len((p.get("title") or "").split()) > 12:
             warnings.append(f"{i}: long title")
+    # explain mode: terms and blurbs cite sentences from the entry or its background pages, and add no numbers
+    from .. import explain as X
+    if X.settings(subject):
+        p2, w2 = X.audit(subject, prose, entries, order)
+        problems += p2
+        warnings += w2
     # figures: they draw, and every number in one is in its entry's facts
     from ..publish import figures as figmod
     for i, figs in figmod.load(subject).items():
@@ -116,6 +122,7 @@ def run(subject, part=None, log=print):
                         + r")(?:s|es)?(?![\w-])", re.I)  # plurals count too: "Mollisols" uses "Mollisol"
         for j in order:
             text = REF_RE.sub("", (prose["entries"].get(j) or {}).get("text") or "")
+            text += " " + REF_RE.sub("", X.text_of(prose, j))
             for t in dict.fromkeys(m.lower() for m in rx.findall(text)):
                 i = term_of[t]
                 if pos[i] > pos[j]:
@@ -154,6 +161,11 @@ def run(subject, part=None, log=print):
         problems, warnings = [m for m in problems if ours(m)], [m for m in warnings if ours(m)]
         order = [i for i in order if i in mine]
     log(f"[write check] {subject.slug}: {len(order)} entries, {len(problems)} problems, {len(warnings)} warnings")
+    if X.settings(subject):
+        terms = sum(len(X.items(prose, i)[0]) for i in order)
+        blurbs = sum(len(X.items(prose, i)[1]) for i in order)
+        log(f"  explain: {terms} terms and {blurbs} blurbs across "
+            f"{sum(1 for i in order if X.items(prose, i) != ([], []))} of {len(order)} entries")
     for p in problems[:200]:
         log(f"  PROBLEM {p}")
     for w in warnings[:300]:

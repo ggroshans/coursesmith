@@ -41,17 +41,35 @@ def word_range(e, subject=None):
     return f"{lo}-{hi} words"
 
 
-def _entry_block(e, by_id, subject=None):
+def _explain_lines(e, cfg, bg):
+    """What the writer may use to explain an entry: its background pages' sentences, topics the course covers
+    itself, and the caps. Every sentence carries the sent_id an explanation cites."""
+    L = []
+    for p in (bg.get("entries") or {}).get(e["id"]) or []:
+        L += [f"- BACKGROUND ({p['key']}) [{s['sent_id']}] {s['text']}" for s in p.get("sentences") or []]
+    for c in (bg.get("covered") or {}).get(e["id"]) or []:
+        L.append(f"- COVERED BY THE COURSE: {c['phrase']} is entry {c['entry']}; point to it with "
+                 f"{{{{ref:{c['entry']}}}}} instead of explaining it")
+    L.append(f"- EXPLAIN: up to {cfg['terms']} terms and {cfg['blurbs']} blurb(s), citing sent_ids from the Fact "
+             "and BACKGROUND lines of this entry only (guides/WRITING_GUIDE.md, Explain mode)")
+    return L
+
+
+def _entry_block(e, by_id, subject=None, explain=None):
     L = [f"### {e['id']} | {e['title']} | {e.get('kind')} | {e.get('level')} | {e.get('weight')} | "
          f"{word_range(e, subject)}"]
     d = e.get("definition") or {}
     if d.get("text"):
-        L.append(f"- Definition: {d['text']}")
+        ids = f" [{', '.join(d.get('sent_ids') or [])}]" if explain else ""
+        L.append(f"- Definition{ids}: {d['text']}")
     pre = [p for p in e.get("prerequisites") or [] if p in by_id]
     if pre:
         L.append("- Builds on (refer with {{ref:id}} when the facts support the link): "
                  + "; ".join(f"{p} ({by_id[p]['title']})" for p in pre))
-    L += [f"- Fact: {f['text']}" for f in e.get("facts") or []]
+    if explain:  # the writer cites sentences, so each fact shows the ids it rests on
+        L += [f"- Fact [{', '.join(f.get('sent_ids') or [])}]: {f['text']}" for f in e.get("facts") or []]
+    else:
+        L += [f"- Fact: {f['text']}" for f in e.get("facts") or []]
     if e.get("contested"):
         L.append(f"- CONTESTED: {e.get('contested_note') or 'the sources call this debated'} (say so plainly)")
     for c in e.get("conflicts") or []:
@@ -64,6 +82,8 @@ def _entry_block(e, by_id, subject=None):
     for ev in e.get("events") or []:
         if ev.get("date_text"):
             L.append(f"- DATE IN THE FACTS: {ev['date_text']}")
+    if explain:
+        L += _explain_lines(e, *explain)
     return L
 
 
@@ -74,6 +94,13 @@ def build(subject, log=print):
     entries = subject.entries_by_id()
     by_id = {i: entries[i] for i in order if i in entries}
     outline = Outline.from_subject(subject)
+    from .. import explain as X
+    cfg = X.settings(subject)
+    bg = X.load_background(subject) if cfg else {}
+    if cfg and not bg:
+        log("[write] warning: explain mode is on but there is no explain/background.json; explanations can only "
+            "draw on each entry's own facts (run `explain packet`, the scout pass and `explain resolve`)")
+    explain = (cfg, bg) if cfg else None
     packets, cur_part = {}, None
     seen = set()
     last_in_leaf = {}
@@ -86,7 +113,12 @@ def build(subject, log=print):
         L = packets.setdefault(part, [f"# Writer packet: {subject.title} › {outline.title(part)}", "",
                                       "The facts here are the only content you may use (guides/WRITING_GUIDE.md). "
                                       "Write titles, texts, openers, reviews and glossary terms as JSON batches "
-                                      "in work/write/fill.<part>.NN.json.", ""])
+                                      "in work/write/fill.<part>.NN.json.", ""]
+                           + ([f"EXPLAIN MODE. Reader: {cfg['audience'] or 'a smart, curious newcomer to this field'}."
+                               + (f" The reader especially wants: {cfg['focus']}." if cfg["focus"] else ""),
+                               "Where an entry leans on something the reader may not know, add a term or a blurb "
+                               "to the batch's `explain` key (guides/WRITING_GUIDE.md, Explain mode).", ""]
+                              if cfg else []))
         for nid in path:
             if nid in seen:
                 continue
@@ -100,7 +132,7 @@ def build(subject, log=print):
                 if d or f0:
                     L.append(f"- [{j}] {d or f0}")
             L.append("")
-        L += _entry_block(e, by_id, subject) + [""]
+        L += _entry_block(e, by_id, subject, explain) + [""]
         leaf = path[-1] if path else None
         if leaf and last_in_leaf.get(leaf) == i and len(path) > 1:
             mem = [j for j in order if outline.leaf(entries[j]) == leaf]

@@ -48,6 +48,16 @@ def _page_record(row):
             "license": row["license"].get("name"), "license_class": row["license_class"], "tier": row["tier"]}
 
 
+def _explain_record(d, titles):
+    """An entry's terms and blurbs for course.json: the text raw (with {{ref:id}}) and as plain text."""
+    def item(x):
+        out = dict(x)
+        out["text_plain"] = resolve_refs(x.get("text") or "", titles)
+        out["sent_ids"] = list(x.get("sent_ids") or [])
+        return out
+    return {"terms": [item(x) for x in d.get("terms") or []], "blurbs": [item(x) for x in d.get("blurbs") or []]}
+
+
 def export(subject, out=None, images=False, strict=False, log=print):
     order = (subject.order() or {}).get("order") or []
     if not order:
@@ -74,11 +84,16 @@ def export(subject, out=None, images=False, strict=False, log=print):
         rec["text"] = p.get("text") or None
         rec["text_plain"] = resolve_refs(p.get("text") or "", titles) or None
         rec["figures"] = figs.get(i) or []
+        if (prose.get("explain") or {}).get(i):      # explain mode: only entries that have explanations carry it
+            rec["explain"] = _explain_record(prose["explain"][i], titles)
+            cited += [s for k in ("terms", "blurbs") for item in rec["explain"][k] for s in item["sent_ids"]]
         rec["sources"] = [A.norm_source(s) for s in e.get("sources") or []]
         entries.append(rec)
         cited += _cited(e)
     from ..crawl.store import Store
-    rows = A.source_rows([e for e in (by_id.get(i) for i in order) if e], registry, Store())
+    from .. import explain as X
+    used = [e for e in (by_id.get(i) for i in order) if e]
+    rows = A.source_rows(used + X.source_entries(subject, prose, by_id), registry, Store())
     pages = {r["key"]: _page_record(r) for r in rows}
     summary = A.summarize(rows, registry, subject.cfg.get("distribution") or "personal")
 

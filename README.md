@@ -220,6 +220,7 @@ any one of them.
 | **Select** | `select` | |
 | **Order** | `order packet`, ordering pass, `order build` | **Read** `output/curriculum.md`, then run `order lock`. |
 | **Verify** | `crawl --context`, `verify`, verification pass | Read every genuine conflict. |
+| **Explain** (optional) | `explain packet`, scout pass, `explain resolve` | **Read** `reports/explain.md`; fix wrong page matches. |
 | **Write** | `write skeleton`, writing passes (prose and figures), `write render`, `write check` | Spot-read the prose. |
 | **Figures** | `figures` draws `figures.json`: Mermaid flowcharts, cycles, layers, scales, bar charts, trees, tables | Look at every one. |
 | **Units** | `units build`. For courses with questions: `write questions`, a question pass, `write render`, then `units build` again (units copy their questions only when built). | |
@@ -286,6 +287,7 @@ breaks the rules, and every fact must cite sentence ids that actually exist.
 | `GAPFILL_GUIDE.md` | `reports/gaps.md`, `reports/coverage.md`, gaps files | `frame.yaml` seeds, more draft entries |
 | `ORDERING_GUIDE.md` | `work/order/packet*.md` | `work/order/prereqs.NN.json` |
 | `VERIFICATION_GUIDE.md` | `verify/worklist.md` | `verify/reviews.json` |
+| `EXPLAIN_GUIDE.md` | `work/explain/packet-NNN.md` | `work/explain/assumes.NNN.json` |
 | `WRITING_GUIDE.md` | `work/write/packet-<part>.md`, `questions-packet*.md` | `work/write/fill.<part>.NN.json` |
 
 ---
@@ -306,6 +308,13 @@ coursesmith sources merge system-design      #           ...then fold its found.
 # accept candidates by copying them under `sources:` in subject.yaml, then:
 coursesmith sources check system-design --fix-refs   # reads each LICENSE, pins commits, checks allowlists
 ```
+
+### Docs repositories written for Microsoft Learn
+
+Microsoft's documentation (the .NET docs, for one) lives in GitHub repositories as Markdown with DocFX extensions.
+Add `markup: docfx` to the source and the engine strips what would read as stray text: code and include lines, zone and
+tab markers, `<xref:...>` links (kept as the type or member name) and callout tags (kept as "Note:", "Warning:").
+Sections named *See also* and *Next steps*, which are only lists of links, are dropped. Code samples are not course text; the prose around them is.
 
 ### Naming pages from other sources
 
@@ -360,6 +369,53 @@ teaches what it needs.
 Capacity math like "about 4 writes a second" is declared as a derived number. The checks recompute it, so it can
 never sneak past the sourced-numbers rule. Architecture diagrams use `flow` figures with database cylinders and
 tier boxes. Everything else, from the daily units to `course.json`, works the same way.
+
+---
+
+## Explain mode: teach what the entries assume
+
+Documentation and reference material assume a lot: that you know what a thread is, what HTTP does, why anyone
+would want dependency injection. Explain mode is an optional layer that finds those assumptions and teaches them
+in place, in the same course format. It is off unless `subject.yaml` has an `explain:` block.
+
+```yaml
+explain:
+  audience: "a developer who knows another language but is new to .NET"   # who is reading
+  focus: ""        # optional: what they most want from the course
+  background: 3    # background pages the scout may name per entry
+  blurbs: 1        # boxed mini-lessons per entry, at most
+  terms: 3         # one-line definitions of assumed words per entry, at most
+```
+
+```mermaid
+flowchart LR
+    classDef eng fill:#dbeafe,stroke:#2563eb,color:#1e3a8a
+    classDef agent fill:#ede9fe,stroke:#7c3aed,color:#4c1d95
+    classDef you fill:#ffedd5,stroke:#ea580c,color:#7c2d12
+    classDef out fill:#dcfce7,stroke:#16a34a,color:#14532d
+
+    pk["explain packet"]:::eng --> sc["Scout<br/>what does each entry assume?"]:::agent
+    sc --> rs["explain resolve<br/>find and fetch Wikipedia pages"]:::eng
+    rs --> rp{{"Read reports/explain.md"}}:::you
+    rp --> wr["Writers add terms & blurbs<br/>citing those sentences"]:::agent
+    wr --> ck["write check<br/>same rules as the text"]:::eng --> out["Terms and blurbs in<br/>EPUBs, course.md, course.json"]:::out
+```
+
+Run it after `verify` and before `write skeleton`. The result is the same course as without it, with two additions
+under an entry's text: **terms** (a one-line definition of a word the entry assumes) and **blurbs** (a short boxed
+lesson on a concept worth stopping for). The writers also see your `audience`, so the prose is pitched at that reader.
+
+> [!IMPORTANT]
+> **The one rule still holds.** A term or blurb may only use sentences it cites, from the entry's own facts or from
+> the background pages the scout named. `write check` and `publish check` fail a citation from anywhere else, and a
+> number that none of the cited sentences contains. Where the background is thin, there are fewer blurbs.
+
+| | |
+|---|---|
+| **Where background comes from** | Wikipedia, resolved by search, with disambiguation pages skipped. A topic that is already a course entry is linked with `{{ref:id}}` instead of explained twice. |
+| **What you review** | `reports/explain.md` lists every phrase and the page it became. Fix a wrong match in `work/explain/pages.json`. |
+| **What it costs** | One Wikipedia search and one page fetch per new phrase (shared by every subject; the usual one request every two seconds), plus one scout answer per 60 entries. |
+| **What it adds to the output** | `entries[].explain` in `course.json` (absent when there is nothing to show), boxed blurbs and definitions in the EPUBs, and the background pages in the sources and license list. |
 
 ---
 

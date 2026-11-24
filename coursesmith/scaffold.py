@@ -77,6 +77,17 @@ verification:
   authorities: []           # see guides/VERIFICATION_GUIDE.md
   units: []                 # extra units to compare, e.g. [ms, QPS, GB] for a systems course
 
+# Explain mode (optional, off until this block is uncommented): the course also teaches what its entries assume the
+# reader already knows. A scout pass names the background each entry assumes (`coursesmith explain packet`),
+# `explain resolve` fetches those Wikipedia pages, and the writers add short definitions (terms) and boxed mini
+# lessons (blurbs) to entries, every one citing sentences like the rest of the course. guides/EXPLAIN_GUIDE.md.
+# explain:
+#   audience: "a smart reader who is new to this field"   # who is reading; decides what counts as assumed
+#   focus: ""          # optional: what the reader most wants out of the course
+#   background: 3      # background pages the scout may name per entry
+#   blurbs: 1          # boxed mini-lessons per entry, at most
+#   terms: 3           # one-line definitions of assumed words per entry, at most
+
 # Gaps the consolidation passes could not fill (`coursesmith report gaps`) are worked off with a gap-fill round
 # (guides/GAPFILL_GUIDE.md). One the owner decides to live with is accepted here, with the reason:
 #   gaps:

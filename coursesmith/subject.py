@@ -23,6 +23,8 @@ DEFAULTS = {
     "sources": [],
     "seeds": [],
     "verification": {"works": "openalex", "authorities": [], "units": []},
+    # explain mode (off unless the block is in subject.yaml): see coursesmith/explain/__init__.py
+    "explain": {"enabled": False, "audience": "", "focus": "", "background": 3, "blurbs": 1, "terms": 3},
 }
 
 
@@ -38,6 +40,11 @@ class Subject:
         if not self.yaml_path.exists():
             raise SubjectError(f"no subject.yaml for '{slug}' (looked in {self.yaml_path})")
         raw = yaml.safe_load(self.yaml_path.read_text(encoding="utf-8")) or {}
+        ex = raw.get("explain")
+        if isinstance(ex, bool):                       # `explain: true`
+            raw["explain"] = {"enabled": ex}
+        elif isinstance(ex, dict):                     # a block with settings is on unless it says otherwise
+            raw["explain"] = dict(ex, enabled=ex.get("enabled", True))
         self.cfg = _merge(DEFAULTS, raw)
 
     def __repr__(self):
@@ -69,6 +76,12 @@ class Subject:
     def edition(self):
         return self.cfg["edition"]
 
+    @property
+    def explain(self):
+        """The explain-mode settings, or None when the subject does not use it."""
+        ex = self.cfg.get("explain") or {}
+        return ex if ex.get("enabled") else None
+
     # -- paths ---------------------------------------------------------------
     frame_path = property(lambda s: s.dir / "frame.yaml")
     entries_dir = property(lambda s: s.dir / "entries")
@@ -88,6 +101,8 @@ class Subject:
     verify_dir = property(lambda s: s.dir / "verify")
     graph_path = property(lambda s: s.dir / "work" / "graph.json")
     prose_path = property(lambda s: s.dir / "output" / "prose.json")
+    explain_dir = property(lambda s: s.dir / "explain")                  # background.json: pages the entries assume
+    explain_work = property(lambda s: s.dir / "work" / "explain")         # scout packets and their answers
 
     def tmp(self, pass_slug):
         """Private scratch folder for one pass. Passes run in parallel never share scratch files."""

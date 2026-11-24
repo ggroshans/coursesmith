@@ -46,7 +46,7 @@ title, so a key never collides with an article, and none of the characters the p
 ## Subject files
 | File | Written by | What |
 |---|---|---|
-| `subject.yaml` | hand | seeds, `sources:`, `distribution`, `course_type`, hubs, categories, scope rules, targets (units, word ranges, fact caps), ordering strategy, edition flags, verification registry and units, frame hints |
+| `subject.yaml` | hand | seeds, `sources:`, `distribution`, `course_type`, hubs, categories, scope rules, targets (units, word ranges, fact caps), ordering strategy, edition flags, `explain:` (explain mode), verification registry and units, frame hints |
 | `sources/registry.yaml` (repo root, shared) | hand | domains and GitHub repos vetted once: default tier and license (with where it was read and when) for each, and the license classes |
 | `scope/sources.candidates.yaml` | `sources discover`, `sources merge`, hand | candidate sources with evidence, score and a ready `subject_yaml` snippet; set `status: accept` or `reject` |
 | `scope/sources.ok` | `sources check` | stamp of the `sources:` block that last passed; `crawl` and `finalize` refuse to run without a current one |
@@ -68,6 +68,8 @@ title, so a key never collides with an article, and none of the characters the p
 | `verify/reviews.json`, `verify/external.json` | verification pass | hand verdicts; tier D facts |
 | `work/write/packet-<part>.md`, `questions-packet.md` | `write skeleton`, `write questions` (gitignored) | writer input |
 | `work/write/fill.*.json` | writing passes | prose batches (see below) |
+| `work/explain/packet-NNN.md`, `work/explain/assumes.NNN.json`, `work/explain/pages.json` | `explain packet`, scout pass, hand | explain mode only: scout packets, the background each entry assumes (`{"assumes": {id: [phrase]}}`), and phrase-to-page fixes (`{"phrase": "Page title"}`) |
+| `explain/background.json`, `reports/explain.md` | `explain resolve` | explain mode only: per entry, the Wikipedia pages it assumes with their lead sentences and `sent_id`s (`entries`), topics that are course entries (`covered`), phrases that did not resolve (`unresolved`) |
 | `output/prose.json`, `output/course.md` | `write render` | merged prose; the whole course as Markdown. `course.md` is a reading draft: headings, openers, entry text and figures only. The tag line, chapter reviews, questions and glossary appear in the EPUBs and in `course.json`. Re-run `write render` after `figures` changes to refresh it |
 | `units.json`, `glossary.json` | `units build` | units and the cumulative glossary |
 | `output/course.json` | `export` | the whole course in one file for any renderer (see `docs/OUTPUT.md`) |
@@ -132,12 +134,16 @@ title, so a key never collides with an article, and none of the characters the p
  "reviews":   {"<outline node id>": "..."},
  "glossary":  {"<id>": [{"term": "...", "text": "...", "sent_ids": ["..."]}]},
  "questions": {"<first entry id of the unit>": {"q": "...", "a": "...", "sent_ids": ["..."]}},
+ "explain":   {"<id>": {"terms":  [{"term": "...", "text": "...", "sent_ids": ["..."]}],
+                        "blurbs": [{"heading": "...", "text": "...", "sent_ids": ["..."]}]}},
  "derived":   {"<id>": [{"values": [386], "from": ["<sent_id>"], "expr": "1000000000 / (30 * 86400)", "reason": "..."}]},
  "closing":   "..."}
 ```
 Merged in file-name order, later files win. `{{ref:<id>}}` in a text renders as that entry's title and unit number.
 A text is one paragraph unless it is a Worked example or Case study, or the subject sets `edition.paragraphs: true`;
-then a blank line (`\n\n`) in the text starts a new paragraph. `derived` declares arithmetic on an entry's own
+then a blank line (`\n\n`) in the text starts a new paragraph. `explain` (explain mode) holds an entry's terms and blurbs; each cites sentences from the entry's own facts or its
+`explain/background.json` pages, a later file replaces an entry's whole list, and `write check` holds them to the same
+number rule as the entry text. `derived` declares arithmetic on an entry's own
 numbers (a back-of-the-envelope figure); `publish/derived.py` recomputes it and a failing declaration waives
 nothing. `waivers.json` takes the same under `derived`.
 

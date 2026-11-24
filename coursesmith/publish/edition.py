@@ -46,6 +46,9 @@ figure.fig { margin: 0.8em 0 1em; page-break-inside: avoid; } figure.fig figcapt
 table.fig { border-collapse: collapse; width: 100%; font-size: 0.82em; margin: 0.3em 0; text-align: left; }
 table.fig th, table.fig td { border: 1px solid #000; padding: 0.2em 0.35em; vertical-align: top; }
 table.fig th { font-weight: bold; background: #ddd; }
+p.term { font-size: 0.92em; margin: 0 0 0.35em 0.8em; }
+blockquote.blurb { margin: 0.6em 0 0.8em; padding: 0.05em 0.7em; border-left: 3px solid #000; font-size: 0.95em; }
+blockquote.blurb p { margin: 0.25em 0; }
 body.cover { margin: 0; padding: 0; text-align: center; } .cover img { max-width: 100%; max-height: 100%; }
 """
 
@@ -86,7 +89,11 @@ class Edition:
         self.figs = figures.load(subject)
         self.registry = A.course_registry(subject)
         used = [e for e in self.entries.values() if e.get("selected")]
-        self.rows = A.source_rows(used, self.registry, Store())
+        from .. import explain as X
+        # background pages an entry's explanations cite are sources too (explain mode)
+        self.extra_sources = {x["id"]: x["sources"] for x in X.source_entries(subject, self.prose, self.entries)}
+        self.rows = A.source_rows(used + [{"id": i, "sources": s} for i, s in self.extra_sources.items()],
+                                  self.registry, Store())
         self.rowmap = {r["key"]: r for r in self.rows}
         self.license = A.summarize(self.rows, self.registry, subject.cfg.get("distribution") or "personal")
         self.wiki_only = self.license["wikipedia_only"]
@@ -101,6 +108,21 @@ class Edition:
     def text(self, eid):
         t = (self.prose["entries"].get(eid) or {}).get("text") or ""
         return REF_RE.sub(lambda m: self._ref(m.group(1)), t)
+
+    def explain_html(self, eid):
+        """An entry's explanations: each term's definition, then each blurb as a boxed lesson."""
+        from .. import explain as X
+        terms, blurbs = X.items(self.prose, eid)
+        out = []
+        for t in terms:
+            out.append(f'<p class="term"><b>{_inline(t.get("term"))}</b>: {_inline(self._plain(t.get("text")))}</p>')
+        for b in blurbs:
+            out.append(f'<blockquote class="blurb"><p><b>{_inline(b.get("heading"))}</b></p>'
+                       f'{_paras(self._plain(b.get("text")))}</blockquote>')
+        return "".join(out)
+
+    def _plain(self, text):
+        return REF_RE.sub(lambda m: self._ref(m.group(1)), text or "")
 
     def _ref(self, eid):
         t = self.titles.get(eid, eid)
@@ -138,6 +160,9 @@ class Edition:
         src = self.source_names(e)
         if src:
             bits.append("Sources: " + escape(src))
+        bg = [x["title"] for x in self.extra_sources.get(e["id"]) or []]
+        if bg:
+            bits.append("Background: " + escape("; ".join(dict.fromkeys(bg))))
         ext = list(dict.fromkeys(x.get("source") for x in e.get("external") or [] if x.get("source")))
         if ext:
             bits.append(" ".join("+ " + escape(x) for x in ext))
@@ -157,6 +182,7 @@ class Edition:
         out.append(_paras(self.text(eid)))
         if self.figs.get(eid) and images is not None:
             out.append(figures.figures_html(self.figs[eid], images.figs, eid))
+        out.append(self.explain_html(eid))
         out.append(f'<p class="tags">{self.tag_line(e)}</p></div>')
         return "".join(out)
 
@@ -167,7 +193,8 @@ class Edition:
         return " › ".join(escape(self.outline.title(p)) for p in path)
 
     def unit_words(self, u):
-        n = sum(len((self.text(i) + " " + self.titles[i]).split()) for i in u["entries"])
+        from .. import explain as X
+        n = sum(len((self.text(i) + " " + self.titles[i]).split()) + X.words(self.prose, i) for i in u["entries"])
         n += sum(len((self.prose["openers"].get(o) or "").split()) for o in u.get("openers") or [])
         n += sum(len((self.prose["reviews"].get(r) or "").split()) for r in u.get("reviews") or [])
         return n
@@ -196,6 +223,9 @@ class Edition:
         for i in ids:
             e = self.entries[i]
             pages = "; ".join(self._source_ref(s) for s in e.get("sources") or [])
+            if self.extra_sources.get(i):
+                bg = "; ".join(self._source_ref(s) for s in self.extra_sources[i])
+                pages = f"{pages}. Background: {bg}" if pages else f"Background: {bg}"
             out.append(f"<p><b>{_inline(self.titles[i])}</b>: {pages or 'no source recorded'}</p>")
             img = e.get("image")
             if img and img.get("file") and self.s.edition.get("images"):

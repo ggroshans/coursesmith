@@ -9,7 +9,8 @@ sources), the units. You write only:
 - chapter **openers** (`OPENER <node>`) and chapter **reviews** (`REVIEW <node>`);
 - optional extra **glossary** terms;
 - **figures** (diagrams, charts, flowcharts, tables) for the entries they help, in `figures.json`;
-- one **question** per unit, when the subject has `edition.questions: true` (a separate packet, below).
+- one **question** per unit, when the subject has `edition.questions: true` (a separate packet, below);
+- **terms and blurbs** that explain what an entry assumes, when the subject has an `explain:` block (Explain mode, below).
 
 ## Inputs
 - `subjects/<subject>/work/write/packet-<part>.md` (`coursesmith write skeleton <subject>`): in course order, an
@@ -201,6 +202,37 @@ After `coursesmith units build`, run `coursesmith write questions <subject>`, wh
 
 One question per unit, answered entirely by that unit's facts; the answer cites them. Test the facts; never ask
 for anything outside them. The answer opens the next unit.
+
+## Explain mode (subjects with an `explain:` block)
+The packet then opens with `EXPLAIN MODE. Reader: ...` and each entry shows more: its Definition and every Fact carry
+`[sent_ids]`, `BACKGROUND (Page) [sent_id] sentence` lines give the lead of each Wikipedia page the entry assumes,
+`COVERED BY THE COURSE` names an assumed topic that is itself an entry, and an `EXPLAIN` line gives the caps. You may
+add, per entry, up to that many **terms** and **blurbs** under the batch's `explain` key:
+
+```json
+{"explain": {"dotnet-core-0123": {
+   "terms":  [{"term": "service container", "text": "An object that creates other objects and hands them to whoever asks.",
+               "sent_ids": ["3f2a9c1b77de"]}],
+   "blurbs": [{"heading": "Why objects ask for their helpers", "text": "Most programs ... ",
+               "sent_ids": ["3f2a9c1b77de", "81d0b4a6c2f9"]}]}}}
+```
+
+The one rule still holds: **an explanation is built only from the sentences it cites**. `sent_ids` must come from that
+entry's own Fact/Definition lines or its BACKGROUND lines, and `write check` fails anything else. No fact from your
+own memory, however well known; if the background is thin, write fewer.
+- **Terms.** A word, acronym or proper noun that the entry's text uses and a newcomer might not know. The term
+  must appear in the entry's text (or a blurb), and the definition is one or two plain sentences under 45 words: what
+  it is, and why it matters here. Skip everyday words, terms the entry's text already defines, and any topic marked
+  COVERED BY THE COURSE (write `{{ref:id}}` in the text instead).
+- **Blurbs.** A small boxed lesson, 60 to 140 words, for a concept worth stopping on: start from zero, build in
+  order, and end on why it matters for this entry. A blurb has a short heading (3 to 8 words), plain prose with no
+  list, and may point to other entries with `{{ref:id}}`. A number in it must be in a sentence it cites.
+- **Who it is for.** Write to the `Reader:` line. Define things in words that reader has; never talk down. Each
+  idea is set up before it is used, each paragraph makes one point, and the sentences read like the best modern
+  nonfiction: clear, concrete, warm, never breathless. The voice rules above apply to every term and blurb, and so does
+  the no-term-before-its-entry rule.
+- **How many.** The caps are ceilings, not targets. A plain entry that assumes nothing gets none. A reader should
+  feel the page was clarified, not padded.
 
 ## Finishing
 1. `coursesmith write render <subject>`, then `coursesmith write check <subject>` until it reports **0 problems**.

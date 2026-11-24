@@ -368,6 +368,22 @@ def cmd_write_render(a):
     render.render(a.subject)
 
 
+# --------------------------------------------------------------------- explain (optional)
+@command("explain packet", "scout packets: what each entry assumes the reader knows (guides/EXPLAIN_GUIDE.md)")
+def cmd_explain_packet(a):
+    from .explain import background
+    background.packet(a.subject)
+
+
+@command("explain resolve", "fetch the Wikipedia pages the scout named; write explain/background.json")
+def cmd_explain_resolve(a):
+    from . import config
+    from .explain import background
+    if not config.CONTACT:
+        raise SystemExit("set COURSESMITH_CONTACT (email or URL) or write cache/contact.txt before crawling")
+    background.resolve(a.subject)
+
+
 # --------------------------------------------------------------------- units + publish
 @command("units build", "split the locked order into units (per_unit entries each, as many as needed)",
          arg("--units", type=int, default=None, help="number of units (default: subject.yaml or ~4.5/unit)"))

@@ -7,6 +7,8 @@ Fails when:
   - a selected entry has no fact with sent_ids, or no written text;
   - a number in an entry's prose is absent from its facts (and its date line, title, notes);
   - a glossary term is used in an earlier unit's prose than the unit that defines it;
+  - explain mode: a term or blurb cites a sentence outside its entry's facts and background pages, or states a
+    number its cited sentences lack (write/check.py reports the same);
   - a question's answer is not supported by its unit's facts (sent_ids, numbers);
   - an image lacks a license record (or the license is not CC BY-SA, CC0 or public domain);
   - an EPUB exceeds 1 MB (2 MB with images).
@@ -128,6 +130,10 @@ def run(subject, log=print):
             if not img.get("license") or not OK_LICENSES.search(img["license"]) or not img.get("file"):
                 problems.append(f"{i}: image without an acceptable license record ({img.get('license')})")
 
+    from .. import explain as X
+    if X.settings(subject):
+        problems += X.audit(subject, prose, entries, [i for i in seq if i in entries])[0]
+
     # every figure draws (a figure that cannot is left out of the EPUB, which is better said now than found later)
     from . import figures as figmod
     for eid, figs in figmod.load(subject).items():
@@ -143,7 +149,8 @@ def run(subject, log=print):
     if glossary:
         unit_text = {}
         for u in units:
-            unit_text[u["n"]] = " ".join((prose["entries"].get(i) or {}).get("text") or "" for i in u["entries"])
+            unit_text[u["n"]] = " ".join(((prose["entries"].get(i) or {}).get("text") or "") + " "
+                                         + X.text_of(prose, i) for i in u["entries"])
         for key, t in glossary.items():
             if key in term_waivers:
                 continue

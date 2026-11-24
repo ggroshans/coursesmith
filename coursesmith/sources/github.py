@@ -12,6 +12,7 @@ Set COURSESMITH_GITHUB_TOKEN (or GITHUB_TOKEN) to lift the 60 requests per hour 
       exclude: ["**/README-*.md"]                      # translations
       seeds: ["README.md"]                             # crawled without listing them under `seeds:`
       split: {"README.md": 1}                          # a one-file course: each `# Chapter` becomes its own page
+      markup: docfx                                    # Microsoft Learn Markdown (dotnet/docs): see text/docfx.py
       depth: 1
       tier: curated
       license: {name: "CC BY 4.0"}
@@ -276,8 +277,14 @@ class GithubAdapter(SourceAdapter):
                 raise MissingSource(f"{self.repo}@{sha[:7]}: no file {path}")
             fallback = path.rsplit("/", 1)[-1]
         if path.lower().endswith((".md", ".markdown")):
-            doc = markdown_to_doc(raw, resolve_link=lambda a: self.key_for_url(a.get("href", ""), key))
+            docfx = str(self.cfg.get("markup") or "").lower() == "docfx"
+            if docfx:
+                from ..text import docfx as DX
+            doc = markdown_to_doc(DX.clean(raw) if docfx else raw,
+                                  resolve_link=lambda a: self.key_for_url(a.get("href", ""), key))
             text, dname, links, anchors, code = doc.text, doc.name, doc.links, doc.anchors, doc.code_blocks
+            if docfx:
+                text, dname = DX.restore(text), DX.restore(dname)
             lead_links = doc.lead_links
         else:
             dname = fallback

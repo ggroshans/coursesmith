@@ -61,6 +61,7 @@ The finished courses in [coursesmith-courses](https://github.com/ggroshans/cours
 | `definition`, `facts` | `{text, sent_ids}`: what the prose was written from, each fact citing sentences |
 | `prerequisites`, `related` | entry ids: what this builds on (always earlier), and see-also links |
 | `sources` | the pages the entry cites: `title` (human name), `key`, `url`, `revid`, `version`, `source`, `license`, `sent_ids` |
+| `explain` | only for a subject that uses explain mode, and only on entries that have some: `{terms: [{term, text, text_plain, sent_ids}], blurbs: [{heading, text, text_plain, sent_ids}]}`. Show each term under the entry and each blurb as a boxed aside. Their `sent_ids` are in `sentences`, and the background pages they cite are in `license.pages` |
 | `unit`, `position` | which unit it falls in, and where |
 | `source_tier`, `verification`, `external` | `primary` when an outside source confirms the key claim, `wikipedia` for an entry citing only Wikipedia, else the best tier among its sources (`official`, `standard`, `reference`, `curated`, `commentary`); the checks; facts added from authorities |
 | `image` | Commons image record (`file`, `license`, `artist`, `caption`, `local`), when the subject uses images |
