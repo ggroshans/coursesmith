@@ -47,6 +47,7 @@ def adapter_class(name):
 class Registry:
     def __init__(self, sources_cfg=None, global_path=None, http=None, wiki_client=None, sources_only=False):
         self.global_ = load_global(global_path)
+        self.sources_only = bool(sources_only)
         self.http = http
         cfgs = [dict(c) for c in (sources_cfg or [])]
         if not sources_only and not any(c.get("adapter", "wikipedia") == "wikipedia" and not c.get("api_url")

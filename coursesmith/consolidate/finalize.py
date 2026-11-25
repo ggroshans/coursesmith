@@ -400,6 +400,8 @@ def _derive(e, found, nodes, db, registry=None):
         tests.append("mentioned on 2+ pages")
     if n.get("tier") in VETTED_TIERS and n.get("source", "wikipedia") != "wikipedia":
         tests.append("vetted source")
+    if getattr(registry, "sources_only", False) and e["source_tier"] in VETTED_TIERS and "vetted source" not in tests:
+        tests.append("vetted source")  # no page of its own to look up: the entry's own sources are vetted
     if e.get("kind") in QUESTION_KINDS:
         tests.append("question entry")
     e["curriculum"] = tests
