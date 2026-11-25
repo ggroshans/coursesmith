@@ -152,10 +152,10 @@ class LocalAdapter(SourceAdapter):
         else:
             raw = data.decode("utf-8", errors="replace").replace("\r\n", "\n")
             if suffix in (".md", ".markdown"):
-                doc = markdown_to_doc(_prepare_wikilinks(raw), resolve_link=resolve)
+                doc = markdown_to_doc(_prepare_wikilinks(raw), resolve_link=resolve, table_cells="span")
             elif suffix in (".html", ".htm"):
                 doc = html_to_doc(raw, selector=self.cfg.get("selector"), drop=self.cfg.get("drop") or (),
-                                  resolve_link=resolve)
+                                  resolve_link=resolve, table_cells="span")
             else:
                 doc = None
             if doc is not None:

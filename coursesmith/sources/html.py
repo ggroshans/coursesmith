@@ -12,6 +12,7 @@ subject lists the site, the path prefixes a crawl may enter, and the CSS selecto
       drop: [".sidebar", ".toc"]  # extra chrome to remove
       pages: ["/docs/latest/develop/data-types/"]   # crawled without listing them under `seeds:`
       depth: 2
+      table_cells: span           # keep equal neighbouring table cells apart ("Yes | Yes | Yes"); default merges them
       tier: official
       license: {name: "CC BY-SA 4.0", url: "https://creativecommons.org/licenses/by-sa/4.0/"}
 
@@ -134,7 +135,8 @@ class HtmlAdapter(SourceAdapter):
         if raw is None:
             raise MissingSource(f"{url}: not found or not allowed")
         doc = html_to_doc(raw, selector=self.cfg.get("selector"), drop=self.cfg.get("drop") or (),
-                          resolve_link=lambda a: self.key_for_url(a.get("href", ""), key))
+                          resolve_link=lambda a: self.key_for_url(a.get("href", ""), key),
+                          table_cells=self.cfg.get("table_cells") or "all")
         if len(doc.text.split()) < 20:
             raise SourceError(f"{url}: no readable content (selector {self.cfg.get('selector') or 'auto'})")
         title = self.cfg.get("title") or self.host

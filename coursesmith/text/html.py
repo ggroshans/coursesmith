@@ -32,7 +32,7 @@ def find_main(soup, selector=None):
 
 
 def html_to_doc(html, name="", selector=None, drop=(), resolve_link=None, drop_sections=DOC_DROP_SECTIONS,
-                demote_h1=True):
+                demote_h1=True, table_cells="all"):
     soup = BeautifulSoup(html, "html.parser")
     title_tag = soup.find("title")
     root = find_main(soup, selector)
@@ -52,7 +52,7 @@ def html_to_doc(html, name="", selector=None, drop=(), resolve_link=None, drop_s
     if not name and title_tag:
         name = norm(title_tag.get_text())
     em = Emitter(resolve_link=resolve_link, drop_sections=drop_sections, nested_headings=True, code="drop",
-                 neutralize=True, min_level=2, collect_anchors=True)
+                 neutralize=True, min_level=2, collect_anchors=True, table_cells=table_cells)
     text = em.run(root, name)
     return Doc(text=text, name=name, links=em.links, lead_links=em.lead_links, anchors=em.anchors,
                sections=em.sections, code_blocks=em.code_blocks)

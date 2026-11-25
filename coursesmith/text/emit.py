@@ -69,17 +69,22 @@ def _span(v):
         return 1
 
 
-def table_rows(table):
-    """Expand a table into a list of row-lists, honouring rowspan/colspan."""
+def table_rows(table, merge="all"):
+    """Expand a table into a list of row-lists, honouring rowspan/colspan.
+
+    merge="all" (the default, kept so earlier courses keep their sentence ids) merges any neighbouring cells with
+    equal text; merge="span" merges only the copies made by one cell's colspan, so a row of "Yes | Yes | Yes"
+    stays three cells."""
     rows = [tr for tr in table.find_all("tr") if tr.find_parent("table") is table]
     grid, pending = [], {}  # pending: col -> [rows_remaining, text]
     for tr in rows:
         cells = tr.find_all(["th", "td"], recursive=False)
-        row, col, ci = [], 0, 0
+        row, col, ci, origin = [], 0, 0, []  # origin: which source cell each entry of `row` came from
         while ci < len(cells) or any(c >= col for c in pending):
             if col in pending:
                 rem, txt = pending[col]
                 row.append(txt)
+                origin.append(("p", col))
                 if rem - 1 > 0:
                     pending[col] = [rem - 1, txt]
                 else:
@@ -96,14 +101,16 @@ def table_rows(table):
             rs = min(_span(cell.get("rowspan")), 500)
             for _ in range(cs):
                 row.append(txt)
+                origin.append(("c", ci))
                 if rs > 1:
                     pending[col] = [rs - 1, txt]
                 col += 1
         # collapse colspan duplicates; drop empty trailing cells
-        out = []
-        for c in row:
-            if not out or c != out[-1]:
+        out, last = [], None
+        for c, o in zip(row, origin):
+            if not out or c != out[-1] or (merge == "span" and o != last):
                 out.append(c)
+            last = o
         while out and not out[-1]:
             out.pop()
         if any(out):
@@ -138,10 +145,12 @@ class Emitter:
     neutralize: a literal " | " in prose becomes U+2223 and a leading "#"/">" is escaped, so no sentence is
           mistaken for a table row, heading or quote.
     min_level: the shallowest heading level taken as a section (2 for Wikipedia, whose h1 is the page title).
+    table_cells: "all" merges neighbouring equal cells of a table row (legacy); "span" merges only colspan copies.
     """
 
     def __init__(self, resolve_link=None, drop_sections=DROP_SECTIONS, nested_headings=False, code="text",
-                 neutralize=False, min_level=2, collect_anchors=False):
+                 neutralize=False, min_level=2, collect_anchors=False, table_cells="all"):
+        self.table_cells = table_cells
         self.resolve_link = resolve_link
         self.drop_sections = drop_sections
         self.nested = nested_headings
@@ -229,7 +238,7 @@ class Emitter:
             cap = el.find("caption")
             if cap:
                 self.text(cap.get_text(), "Table: ")
-            for row in table_rows(el):
+            for row in table_rows(el, self.table_cells):
                 self.lines.append(" | ".join(row))
             self.lines.append("")
         elif name == "blockquote":

@@ -95,3 +95,16 @@ class SourcesOnlyTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TableCellsTest(unittest.TestCase):
+    ROW = "<table><tr><th>Capability</th><th>A</th><th>B</th></tr><tr><td>API</td><td>Yes</td><td>Yes</td></tr>" \
+          "<tr><td colspan='2'>Wide</td><td>x</td></tr></table>"
+
+    def test_span_mode_keeps_equal_neighbours_apart(self):
+        from coursesmith.text.emit import table_rows
+        from bs4 import BeautifulSoup
+        t = BeautifulSoup(self.ROW, "html.parser").table
+        self.assertEqual(table_rows(t)[1], ["API", "Yes"])                      # legacy: merged
+        self.assertEqual(table_rows(t, "span")[1], ["API", "Yes", "Yes"])
+        self.assertEqual(table_rows(t, "span")[2], ["Wide", "x"])               # a real colspan still merges
