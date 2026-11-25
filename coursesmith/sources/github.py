@@ -14,6 +14,7 @@ Set COURSESMITH_GITHUB_TOKEN (or GITHUB_TOKEN) to lift the 60 requests per hour 
                                                        # every file of the pinned commit it matches (and include allows)
       split: {"README.md": 1}                          # a one-file course: each `# Chapter` becomes its own page
       markup: docfx                                    # Microsoft Learn Markdown (dotnet/docs): see text/docfx.py
+      code: {drop: [vb], max_lines: 80}                # keep code blocks as listings (docfx only); see README
       depth: 1
       tier: curated
       license: {name: "CC BY 4.0"}
@@ -271,6 +272,19 @@ class GithubAdapter(SourceAdapter):
             self._parts[path] = split_markdown(raw, self.split[path])
         return self._parts[path]
 
+    def _read_relative(self, md_path, ref):
+        """A file a DocFX code reference names: relative to the page, `~/` and `/` from the repository root."""
+        ref = unquote(ref.strip())
+        if ref.startswith("~/"):
+            target = ref[2:]
+        elif ref.startswith("/"):
+            target = ref[1:]
+        else:
+            target = posixpath.normpath(posixpath.join(posixpath.dirname(md_path), ref))
+        if not target or target.startswith(".."):
+            return None
+        return self.http.get(f"{RAW}/{self.repo}/{self.sha()}/{quote(target)}")
+
     def fetch(self, key):
         path, part = self.path_of(key), self.part_of(key)
         sha = self.sha()
@@ -286,17 +300,25 @@ class GithubAdapter(SourceAdapter):
             fallback = path.rsplit("/", 1)[-1]
         if path.lower().endswith((".md", ".markdown")):
             docfx = str(self.cfg.get("markup") or "").lower() == "docfx"
+            listings = None
             if docfx:
                 from ..text import docfx as DX
-            doc = markdown_to_doc(DX.clean(raw) if docfx else raw,
+                code = self.cfg.get("code")
+                if code:
+                    code = code if isinstance(code, dict) else {}
+                    listings = DX.Listings(drop=code.get("drop") or [], max_lines=code.get("max_lines") or 80,
+                                           read=lambda ref: self._read_relative(path, ref))
+            doc = markdown_to_doc(DX.clean(raw, listings) if docfx else raw,
                                   resolve_link=lambda a: self.key_for_url(a.get("href", ""), key))
             text, dname, links, anchors, code = doc.text, doc.name, doc.links, doc.anchors, doc.code_blocks
+            found = listings.items if listings else []
             if docfx:
                 text, dname = DX.restore(text), DX.restore(dname)
             lead_links = doc.lead_links
         else:
             dname = fallback
             text, links, anchors, code, lead_links = plain_to_doc(raw, fallback), [], {}, 0, []
+            found = []
         title = self.cfg.get("title") or self.repo.split("/")[1]
         name = dname or fallback
         if (path != "README.md" or part) and name != title:
@@ -306,6 +328,8 @@ class GithubAdapter(SourceAdapter):
         rec = self.record(key, name, url, text, sha,
                           source_id=f"{self.repo}/{path}" + (f"{PART}{part}" if part else ""))
         rec.update({"body_links": links, "lead_links": [l for l in lead_links if l != key], "anchors": anchors})
+        if found:
+            rec["listings"] = found
         rec["meta"] = {"description": dname, "tags": [], "path": path, "part": part, "repo": self.repo, "ref": sha,
                        "code_blocks": code, "dates": bool(self.cfg.get("dates")), "hash": hashlib.sha256(raw.encode()).hexdigest()[:16]}
         return rec

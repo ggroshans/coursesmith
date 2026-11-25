@@ -55,7 +55,29 @@ def _explain_lines(e, cfg, bg):
     return L
 
 
-def _entry_block(e, by_id, subject=None, explain=None):
+PREVIEW_LINES = 6
+
+
+def _listing_lines(e, subject, db):
+    """The code the entry may place with {{code:id}}: id, language, length, the sentence it follows and a preview."""
+    from .. import listings as LS
+    from ..extract import sentences as SN
+    cfg = LS.settings(subject)
+    avail = LS.available(subject, e, db)[:LS.OFFERED]
+    if not avail:
+        return []
+    L = [f"- LISTINGS: place up to {cfg['per_entry']} of these with {{{{code:ID}}}} on a paragraph of its own, right "
+         "after the sentence it illustrates. The code is inserted for you, verbatim; never retype it."]
+    for x in avail:
+        after = SN.lookup(db, [x["after_sid"]]).get(x["after_sid"], {}).get("sentence") if x["after_sid"] else ""
+        L.append(f"  - LISTING {x['id']} | {x['lang']} | {x['lines']} lines | follows: {(after or '(page start)')[:110]}")
+        L += [f"      {ln}" for ln in x["code"].split("\n")[:PREVIEW_LINES]]
+        if x["lines"] > PREVIEW_LINES:
+            L.append("      ...")
+    return L
+
+
+def _entry_block(e, by_id, subject=None, explain=None, code_db=None):
     L = [f"### {e['id']} | {e['title']} | {e.get('kind')} | {e.get('level')} | {e.get('weight')} | "
          f"{word_range(e, subject)}"]
     d = e.get("definition") or {}
@@ -84,6 +106,8 @@ def _entry_block(e, by_id, subject=None, explain=None):
             L.append(f"- DATE IN THE FACTS: {ev['date_text']}")
     if explain:
         L += _explain_lines(e, *explain)
+    if code_db is not None:
+        L += _listing_lines(e, subject, code_db)
     return L
 
 
@@ -101,6 +125,9 @@ def build(subject, log=print):
         log("[write] warning: explain mode is on but there is no explain/background.json; explanations can only "
             "draw on each entry's own facts (run `explain packet`, the scout pass and `explain resolve`)")
     explain = (cfg, bg) if cfg else None
+    from .. import listings as LS
+    from ..extract import sentences as SN
+    code_db = SN.connect() if LS.settings(subject) else None
     packets, cur_part = {}, None
     seen = set()
     last_in_leaf = {}
@@ -132,12 +159,14 @@ def build(subject, log=print):
                 if d or f0:
                     L.append(f"- [{j}] {d or f0}")
             L.append("")
-        L += _entry_block(e, by_id, subject, explain) + [""]
+        L += _entry_block(e, by_id, subject, explain, code_db) + [""]
         leaf = path[-1] if path else None
         if leaf and last_in_leaf.get(leaf) == i and len(path) > 1:
             mem = [j for j in order if outline.leaf(entries[j]) == leaf]
             L += [f"## REVIEW {leaf} ({outline.title(leaf)}): 3-5 sentences tying the chapter together, using only the "
                   f"facts of its entries ({', '.join(mem)})", ""]
+    if code_db is not None:
+        code_db.close()
     subject.write_dir.mkdir(parents=True, exist_ok=True)
     for part, L in packets.items():
         atomic_write(subject.write_dir / f"packet-{slug(part, 30)}.md", "\n".join(L) + "\n")

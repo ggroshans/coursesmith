@@ -15,6 +15,7 @@ a table/infobox row. Each page's first lead sentence is its definition.
 """
 import hashlib
 import json
+import re
 import sqlite3
 
 from .. import config
@@ -30,9 +31,41 @@ CREATE TABLE IF NOT EXISTS sentences (sent_id TEXT, title TEXT, revid INTEGER, s
     sentence TEXT, is_row INTEGER, is_lead INTEGER, cites TEXT, dois TEXT, tags TEXT, links TEXT,
     cite_years TEXT, dates TEXT);
 CREATE TABLE IF NOT EXISTS subject_pages (subject TEXT, title TEXT, PRIMARY KEY (subject, title));
+CREATE TABLE IF NOT EXISTS listings (code_id TEXT, title TEXT, n INTEGER, section TEXT, after_sid TEXT, lang TEXT,
+    code TEXT, source TEXT);
+CREATE INDEX IF NOT EXISTS l_id ON listings (code_id);
+CREATE INDEX IF NOT EXISTS l_page ON listings (title, n);
 CREATE INDEX IF NOT EXISTS s_id ON sentences (sent_id);
 CREATE INDEX IF NOT EXISTS s_page ON sentences (title, idx);
 """
+
+
+MARK_SPLIT = re.compile(r"⟦L\d+⟧")
+MARK_LINE = re.compile(r"⟦L(\d+)⟧$")
+
+
+def code_id(title, lang, code):
+    return hashlib.sha1(f"{title}\n{lang}\n{code}".encode()).hexdigest()[:12]
+
+
+def page_listings(db, title):
+    """[(code_id, n, section, after_sid, lang, code, source)] of a page in page order."""
+    return db.execute("SELECT code_id, n, section, after_sid, lang, code, source FROM listings WHERE title = ? "
+                      "ORDER BY n", (title,)).fetchall()
+
+
+def listing_lookup(db, ids):
+    """code_id -> {title, url, name, lang, code, source, section, after_sid, license, version, revid}."""
+    out = {}
+    for i in ids:
+        r = db.execute("SELECT l.code_id, l.title, l.lang, l.code, l.source, l.section, l.after_sid, p.url, p.name, "
+                       "p.license, p.version, p.revid FROM listings l JOIN pages p ON p.title = l.title "
+                       "WHERE l.code_id = ?", (i,)).fetchone()
+        if r:
+            out[r[0]] = {"title": r[1], "lang": r[2], "code": r[3], "source": r[4], "section": r[5],
+                         "after_sid": r[6], "url": r[7], "name": r[8] or r[1],
+                         "license": json.loads(r[9]) if r[9] else None, "version": r[10], "revid": r[11]}
+    return out
 
 
 def sent_id(title, plain):
@@ -67,15 +100,27 @@ def index_page(db, store, rec, text):
     title = rec["title"]
     db.execute("DELETE FROM sentences WHERE title = ?", (title,))
     cits = {c["n"]: c for c in rec.get("citations", [])}
+    listing_rows, found = [], {l["n"]: l for l in rec.get("listings") or []}
+    if found:       # a code marker ⟦L3⟧ sits on a line of its own, so no sentence swallows it
+        text = MARK_SPLIT.sub(lambda m: f"\n{m.group(0)}\n", text)
+    last_sid = None
     pm = PageMentions(rec, store.canonical)
     rows, definition, fallback = [], None, None
     # other sources are technical text: AD/BP/CE and "Ma" readings are only for Wikipedia (or a source that asks)
     use_dates = not rec.get("source") or bool((rec.get("meta") or {}).get("dates"))
     for i, (section, raw, is_row) in enumerate(iter_sentences(text)):
+        mk = MARK_LINE.match(raw.strip()) if found else None
+        if mk:          # a listing: anchored to the sentence before it, stored apart from the sentences
+            lst = found.get(int(mk.group(1)))
+            if lst:
+                listing_rows.append((code_id(title, lst["lang"], lst["code"]), title, lst["n"], section, last_sid,
+                                     lst["lang"], lst["code"], lst.get("source")))
+            continue
         plain, cites, tags = clean_sentence(raw)
         if len(plain) < 12:
             continue
         sid = sent_id(title, plain)
+        last_sid = sid
         is_lead = section == "(lead)"
         # the definition is the first real lead sentence: infobox titles ("Granulometry") sit in the lead too
         boilerplate = bool(rec.get("source")) and plain.lower().startswith(NOT_A_DEFINITION)  # not for Wikipedia
@@ -93,6 +138,8 @@ def index_page(db, store, rec, text):
                      json.dumps(cite_years(rec.get("citations"), cites)), json.dumps(ds) if ds else None))
     if definition is None and rec.get("source"):
         definition = fallback  # a README or spec has no encyclopedia lead; its first prose sentence defines it
+    db.execute("DELETE FROM listings WHERE title = ?", (title,))
+    db.executemany("INSERT INTO listings VALUES (?,?,?,?,?,?,?,?)", listing_rows)
     db.executemany("INSERT INTO sentences VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)", rows)
     qid = (store.meta.get(title) or {}).get("qid")
     lic = rec.get("license")

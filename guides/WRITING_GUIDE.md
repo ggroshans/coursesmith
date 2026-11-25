@@ -203,6 +203,13 @@ After `coursesmith units build`, run `coursesmith write questions <subject>`, wh
 One question per unit, answered entirely by that unit's facts; the answer cites them. Test the facts; never ask
 for anything outside them. The answer opens the next unit.
 
+## Code listings (subjects with a `code:` block)
+An entry's packet may list `LISTING <id> | <lang> | <n> lines | follows: <sentence>` lines with a preview. Place one
+with `{{code:<id>}}` on a paragraph of its own, right after the sentence that introduces it, and say in prose what the
+code shows, using only the entry's facts. Never retype or edit the code; it is inserted from the source. Use at most
+`code.per_entry`. Prefer a short listing that makes the point to a long one, and never place one you have not explained.
+`edition.paragraphs` must be true (blank lines between paragraphs).
+
 ## Explain mode (subjects with an `explain:` block)
 The packet then opens with `EXPLAIN MODE. Reader: ...` and each entry shows more: its Definition and every Fact carry
 `[sent_ids]`, `BACKGROUND (Page) [sent_id] sentence` lines give the lead of each Wikipedia page the entry assumes,

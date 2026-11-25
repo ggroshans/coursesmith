@@ -46,6 +46,9 @@ figure.fig { margin: 0.8em 0 1em; page-break-inside: avoid; } figure.fig figcapt
 table.fig { border-collapse: collapse; width: 100%; font-size: 0.82em; margin: 0.3em 0; text-align: left; }
 table.fig th, table.fig td { border: 1px solid #000; padding: 0.2em 0.35em; vertical-align: top; }
 table.fig th { font-weight: bold; background: #ddd; }
+pre.code { font-family: monospace; font-size: 0.78em; line-height: 1.3; margin: 0.4em 0 0.8em; padding: 0.4em 0.5em;
+  border: 1px solid #000; white-space: pre-wrap; word-wrap: break-word; page-break-inside: avoid; }
+pre.code code { font-family: monospace; }
 p.term { font-size: 0.92em; margin: 0 0 0.35em 0.8em; }
 blockquote.blurb { margin: 0.6em 0 0.8em; padding: 0.05em 0.7em; border-left: 3px solid #000; font-size: 0.95em; }
 blockquote.blurb p { margin: 0.25em 0; }
@@ -106,8 +109,24 @@ class Edition:
 
     # -- pieces --------------------------------------------------------------
     def text(self, eid):
+        """The entry's prose with refs resolved and no code (word counts, plain uses)."""
+        from .. import listings as LS
         t = (self.prose["entries"].get(eid) or {}).get("text") or ""
-        return REF_RE.sub(lambda m: self._ref(m.group(1)), t)
+        return REF_RE.sub(lambda m: self._ref(m.group(1)), LS.strip(t))
+
+    def body_html(self, eid):
+        """The entry's paragraphs, each {{code:id}} as a <pre> of the stored code."""
+        from .. import listings as LS
+        raw = (self.prose["entries"].get(eid) or {}).get("text") or ""
+        code = LS.lookup(LS.CODE_RE.findall(raw))
+        out = []
+        for kind, v in LS.blocks(raw):
+            if kind == "text":
+                out.append(f"<p>{_inline(REF_RE.sub(lambda m: self._ref(m.group(1)), v))}</p>")
+            elif v in code:
+                out.append(f'<pre class="code"><code class="language-{escape(code[v]["lang"])}">'
+                           f'{escape(code[v]["code"], quote=False)}</code></pre>')
+        return "".join(out)
 
     def explain_html(self, eid):
         """An entry's explanations: each term's definition, then each blurb as a boxed lesson."""
@@ -179,7 +198,7 @@ class Edition:
             if href:
                 out.append(f'<figure><img src="{href}" alt="{escape(img.get("alt") or self.titles[eid])}"/>'
                            f'<figcaption>{escape(img.get("caption") or "")}</figcaption></figure>')
-        out.append(_paras(self.text(eid)))
+        out.append(self.body_html(eid))
         if self.figs.get(eid) and images is not None:
             out.append(figures.figures_html(self.figs[eid], images.figs, eid))
         out.append(self.explain_html(eid))

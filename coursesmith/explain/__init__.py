@@ -129,7 +129,8 @@ def audit(subject, prose, entries, order, log=None):
             problems.append(f"{i}: {len(blurbs)} blurbs (explain.blurbs allows {cfg['blurbs']})")
         allowed_ids = own_sent_ids(e) | background_ids(bg, i)
         own_numbers = allowed_numbers(e)
-        body = REF_RE.sub("", (prose["entries"].get(i) or {}).get("text") or "")
+        from ..listings import strip
+        body = strip(REF_RE.sub("", (prose["entries"].get(i) or {}).get("text") or ""))
         shown = (body + " " + text_of(prose, i) + " " + " ".join(b.get("heading") or "" for b in blurbs)).lower()
         for kind, group in (("term", terms), ("blurb", blurbs)):
             for k, item in enumerate(group, 1):

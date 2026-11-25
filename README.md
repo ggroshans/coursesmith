@@ -372,6 +372,21 @@ tier boxes. Everything else, from the daily units to `course.json`, works the sa
 
 ---
 
+## Code listings: keep a source's code blocks
+
+By default a course is prose only. A docs source that teaches through code can keep it. On a `github` source with
+`markup: docfx`, add `code: {drop: [vb], max_lines: 80}`: fenced blocks, `:::code` blocks and `[!code-csharp[..](..)]`
+references (the snippet files are read from the pinned commit, with their `id` regions and line ranges) are stored beside
+the sentences, each with an id and the sentence it follows. A subject-level `code: {per_entry: 3, max_lines: 40}` turns
+on placing them. The writer packet lists the listings an entry may use (those that follow a sentence it cites, or sit in
+a section it cites), and the writer puts `{{code:<id>}}` on a paragraph of its own. The code is inserted verbatim by
+`write render`, the EPUB and `export` (`entries[].listings`); a writer never retypes it. `write check` fails an id the
+entry may not place, a repeat, or a token inside a paragraph. Code adds no facts: numbers in prose still need a fact.
+See `coursesmith/listings.py`.
+
+`coursesmith frame from-map <subject>` builds `frame.yaml` for a one-source docs course from `scope/frame_map.yaml`:
+parts and chapters in reading order, each listing glob patterns; a page goes to the first chapter that matches.
+
 ## Explain mode: teach what the entries assume
 
 Documentation and reference material assume a lot: that you know what a thread is, what HTTP does, why anyone

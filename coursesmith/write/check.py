@@ -15,6 +15,7 @@ write {{ref:<id>}} or say it in plain words), an opener or review outside 3-5 se
 import re
 
 from ..outline import Outline
+from .. import listings as LS
 from ..publish import derived
 from ..publish.check import allowed_numbers, nums
 from ..util import read_json
@@ -52,7 +53,7 @@ def run(subject, part=None, log=print):
         for r in REF_RE.findall(t):
             if r not in entries:
                 problems.append(f"{i}: {{{{ref:{r}}}}} names no entry")
-        body = REF_RE.sub("", t)
+        body = LS.strip(REF_RE.sub("", t))
         low = body.lower()
         for b in BANNED:
             if b in low:
@@ -85,6 +86,10 @@ def run(subject, part=None, log=print):
         p2, w2 = X.audit(subject, prose, entries, order)
         problems += p2
         warnings += w2
+    # code listings: only ids the entry may place, each once, on a paragraph of its own
+    p3, w3 = LS.audit(subject, prose, entries, order)
+    problems += p3
+    warnings += w3
     # figures: they draw, and every number in one is in its entry's facts
     from ..publish import figures as figmod
     for i, figs in figmod.load(subject).items():

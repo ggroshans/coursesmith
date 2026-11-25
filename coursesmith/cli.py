@@ -114,6 +114,12 @@ def cmd_frame_resolve(a):
     syllabus.resolve(a.subject)
 
 
+@command("frame from-map", "frame.yaml from scope/frame_map.yaml: glob rules that place every page of a source")
+def cmd_frame_from_map(a):
+    from .frame import frommap
+    frommap.run(a.subject)
+
+
 @command("frame build", "scout the subject's hubs and draft frame.yaml for review",
          arg("--scout", type=int, default=100, help="pages to fetch in the scout crawl"),
          arg("--refresh", action="store_true", help="re-read the navboxes instead of using the hub cache"))

@@ -10,6 +10,7 @@ the engine's cache to read. `docs/OUTPUT.md` documents the format.
 import shutil
 
 from .. import __version__, config
+from .. import listings as LS
 from ..extract import sentences as SN
 from . import attribution as A
 from ..outline import Outline
@@ -83,6 +84,11 @@ def export(subject, out=None, images=False, strict=False, log=print):
         rec["title"] = titles[i]
         rec["text"] = p.get("text") or None
         rec["text_plain"] = resolve_refs(p.get("text") or "", titles) or None
+        ids = LS.CODE_RE.findall(p.get("text") or "")
+        if ids:      # code listings: the text holds {{code:id}} where each goes; the code itself is here, verbatim
+            found = LS.lookup(ids)
+            rec["listings"] = [{"id": d, "lang": found[d]["lang"], "code": found[d]["code"], "source_file": found[d]["source"],
+                                "key": found[d]["title"], "url": found[d]["url"]} for d in dict.fromkeys(ids) if d in found]
         rec["figures"] = figs.get(i) or []
         if (prose.get("explain") or {}).get(i):      # explain mode: only entries that have explanations carry it
             rec["explain"] = _explain_record(prose["explain"][i], titles)

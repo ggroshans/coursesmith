@@ -28,6 +28,7 @@ from ..util import read_json
 from ..write.render import REF_RE
 from ..write.render import load as load_prose
 from . import derived
+from .. import listings as LS
 
 NUM = re.compile(r"(?<![\w.])\d[\d,]*(?:\.\d+)?")
 from .units import _per_unit, size_bounds
@@ -114,7 +115,7 @@ def run(subject, log=print):
         if not p.get("text"):
             problems.append(f"{i}: no written text")
             continue
-        body = REF_RE.sub("", p["text"]) + " " + (p.get("title") or "")
+        body = LS.strip(REF_RE.sub("", p["text"])) + " " + (p.get("title") or "")
         allowed = allowed_numbers(e)
         waived = set(map(float, ((waivers.get("numbers") or {}).get(i) or {}).get("values") or []))
         d_values, d_probs = derived.waived(
@@ -133,6 +134,8 @@ def run(subject, log=print):
     from .. import explain as X
     if X.settings(subject):
         problems += X.audit(subject, prose, entries, [i for i in seq if i in entries])[0]
+
+    problems += LS.audit(subject, prose, entries, [i for i in seq if i in entries])[0]
 
     # every figure draws (a figure that cannot is left out of the EPUB, which is better said now than found later)
     from . import figures as figmod

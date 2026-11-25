@@ -76,13 +76,15 @@ def tidy_text(text, paragraphs=True):
 
 
 def resolve_refs(text, titles, units=None):
-    """{{ref:id}} -> the entry's written title, plus '(Unit N)' when unit numbers are known."""
+    """{{ref:id}} -> the entry's written title, plus '(Unit N)' when unit numbers are known. Code tokens
+    ({{code:id}}, see listings.py) are left out: plain text has no code."""
+    from ..listings import strip
     def sub(m):
         i = m.group(1)
         t = titles.get(i, i)
         u = (units or {}).get(i)
         return f"{t} (Unit {u})" if u else t
-    return REF_RE.sub(sub, text or "")
+    return REF_RE.sub(sub, strip(text))
 
 
 def render(subject, log=print):
@@ -112,9 +114,9 @@ def render(subject, log=print):
         p = prose["entries"].get(i) or {}
         if not p.get("text"):
             missing += 1
-        lines += [f"- **{titles.get(i, e['title'])}**" + (f" — {e['date_display']}" if e.get("date_display") else ""),
-                  "", "  " + resolve_refs(p.get("text") or "{{TEXT:" + i + "}}", titles).replace("\n\n", "\n\n  "), "",
-                  f"  <!-- {i} -->", ""]
+        lines += [f"- **{titles.get(i, e['title'])}**" + (f" — {e['date_display']}" if e.get("date_display") else ""), ""]
+        lines += _text_md(p.get("text") or "{{TEXT:" + i + "}}", titles)
+        lines += [f"  <!-- {i} -->", ""]
         for fig in figs.get(i) or []:
             lines += _figure_md(fig)
         lines += _explain_md(prose, i, titles)
@@ -126,6 +128,21 @@ def render(subject, log=print):
         f"{len(order) - missing}/{len(order)} entries written, {len(prose['openers'])} openers, "
         f"{len(prose['reviews'])} reviews, {len(prose['questions'])} questions")
     return missing
+
+
+def _text_md(text, titles):
+    """An entry's text in course.md: paragraphs, and each {{code:id}} as a fenced block of the stored code."""
+    from .. import listings as LS
+    code = LS.lookup(LS.CODE_RE.findall(text))
+    out = []
+    for kind, v in LS.blocks(text):
+        if kind == "text":
+            out += ["  " + resolve_refs(v, titles), ""]
+        elif v in code:
+            out += [f"  ```{code[v]['lang']}"] + [("  " + l).rstrip() for l in code[v]["code"].split("\n")] + ["  ```", ""]
+        else:
+            out += [f"  <!-- missing listing {v} -->", ""]
+    return out
 
 
 def _explain_md(prose, eid, titles):
