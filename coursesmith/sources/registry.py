@@ -7,7 +7,8 @@ Two layers, subject over shared:
     repositories with a default tier and a verified license, plus the license classes.
 
 A key is allowed only when an adapter built from the subject's list owns it and accepts it. Wikipedia is always
-present, so bare titles work with no configuration.
+present, so bare titles work with no configuration, unless the subject sets `sources_only: true`: then only the
+listed sources exist and nothing is fetched from Wikipedia.
 """
 from fnmatch import fnmatch
 
@@ -33,7 +34,7 @@ def adapter_class(name):
     """Adapter classes load on demand so a subject using only Wikipedia imports nothing else."""
     import importlib
     mods = {"wikipedia": "wikipedia", "github": "github", "html": "html", "rfc": "rfc", "pdf": "pdf",
-            "paper": "paper"}
+            "paper": "paper", "local": "local"}
     if name not in mods:
         raise SourceError(f"unknown source adapter '{name}' (known: {', '.join(sorted(mods))})")
     try:
@@ -44,11 +45,12 @@ def adapter_class(name):
 
 
 class Registry:
-    def __init__(self, sources_cfg=None, global_path=None, http=None, wiki_client=None):
+    def __init__(self, sources_cfg=None, global_path=None, http=None, wiki_client=None, sources_only=False):
         self.global_ = load_global(global_path)
         self.http = http
         cfgs = [dict(c) for c in (sources_cfg or [])]
-        if not any(c.get("adapter", "wikipedia") == "wikipedia" and not c.get("api_url") for c in cfgs):
+        if not sources_only and not any(c.get("adapter", "wikipedia") == "wikipedia" and not c.get("api_url")
+                                        for c in cfgs):
             cfgs.insert(0, {"name": "wikipedia", "adapter": "wikipedia"})
         self.adapters = []
         for c in cfgs:
@@ -56,13 +58,13 @@ class Registry:
             cls = adapter_class(c["adapter"])
             probe = cls(c, http=http)
             self.adapters.append(cls(c, http=http, defaults=self._defaults_for(c, probe.hosts())))
-        self.default_wiki = next(a for a in self.adapters if a.adapter == "wikipedia" and a.prefix == "")
-        if wiki_client is not None:
+        self.default_wiki = next((a for a in self.adapters if a.adapter == "wikipedia" and a.prefix == ""), None)
+        if wiki_client is not None and self.default_wiki is not None:
             self.default_wiki.client = wiki_client
 
     @classmethod
     def from_subject(cls, subject, **kw):
-        return cls(subject.cfg.get("sources"), **kw)
+        return cls(subject.cfg.get("sources"), sources_only=bool(subject.cfg.get("sources_only")), **kw)
 
     # -- shared defaults -----------------------------------------------------------
     def _defaults_for(self, cfg, hosts):

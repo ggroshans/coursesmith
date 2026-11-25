@@ -39,6 +39,7 @@ def subject_status(s):
     st = {"slug": s.slug, "title": s.title, "ordering": s.ordering}
     st["frame"] = s.frame_path.exists()
     st["sources"] = _sources(s)
+    st["sources_only"] = bool(s.cfg.get("sources_only"))
     labels = s.scope_dir / "calibration.csv"
     if labels.exists():
         with labels.open(newline="", encoding="utf-8") as f:
@@ -121,7 +122,8 @@ def show(slug=None, log=print):
         log(f"{st['title']} ({sl}, {st['ordering']}): stage {st['stage']}")
         if st.get("sources"):
             n, ok = st["sources"]
-            log(f"  sources: Wikipedia + {n} other{'s' if n != 1 else ''}; "
+            base = "sources only" if st.get("sources_only") else "Wikipedia"
+            log(f"  sources: {base} + {n} other{'s' if n != 1 else ''}; "
                 + ("checked" if ok else f"NOT CHECKED: run `coursesmith sources check {sl}`"))
         cal = f", calibration labeled {st['calibration'][0]}/{st['calibration'][1]}" if st.get("calibration") else ""
         log(f"  frame {'yes' if st['frame'] else 'no'}{cal}; pages {st['pages']:,}; sentences {st['sentences']:,}; "

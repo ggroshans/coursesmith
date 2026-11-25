@@ -309,6 +309,25 @@ coursesmith sources merge system-design      #           ...then fold its found.
 coursesmith sources check system-design --fix-refs   # reads each LICENSE, pins commits, checks allowlists
 ```
 
+### Courses made from your own files
+
+Set `sources_only: true` in subject.yaml and Wikipedia is not used at all: nothing is fetched from it, and only the
+sources you list exist. Point a `local` source at a folder (or one file) of Markdown, text, HTML or PDF and every
+file becomes a page of the course. Links between files work as relative paths and `[[wikilinks]]`.
+
+```yaml
+sources_only: true
+sources:
+  - name: field-notes
+    adapter: local
+    path: ~/notes/field-notes        # include/exclude globs, and selector/drop for HTML files, are optional
+    tier: primary
+```
+
+Files are keyed `local>field-notes/path/to/file.md` and are all seeded. A file's version is the hash of its bytes.
+The default license is "all rights reserved", which suits `distribution: personal` (the default) and makes
+`publish check` refuse a public edition unless you declare something else.
+
 ### Docs repositories written for Microsoft Learn
 
 Microsoft's documentation (the .NET docs, for one) lives in GitHub repositories as Markdown with DocFX extensions.
@@ -327,6 +346,7 @@ A page from another source has a **key**. Wikipedia pages keep their bare titles
 | GitHub | `gh>owner/repo/path.md` |
 | Docs site | `doc>host/path` |
 | Paper | `paper>10.1145/...` |
+| Local file | `local>source-name/path/to/file.md` |
 
 List keys under `seeds:` or in `frame.yaml`, just like any Wikipedia page.
 
