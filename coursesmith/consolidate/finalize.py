@@ -284,6 +284,7 @@ def finalize(subject, chapter="all", check_file=None, log=print):
             counters[m.group(1)] = max(counters[m.group(1)], int(m.group(2)))
 
     out_by_chapter = defaultdict(list)
+    claimed = set()  # an existing id is handed to one draft entry only, even when several share its title or article
     for ck, es in drafts.items():
         pk, ptitle, ctitle = chapters.get(ck, ("misc", "Unplaced", ck))
         for e in es:
@@ -291,7 +292,8 @@ def finalize(subject, chapter="all", check_file=None, log=print):
             e.setdefault("part", ptitle)
             e.setdefault("chapter", ctitle)
             old = by_title.get(e["title"].lower()) or by_art.get(((e.get("article") or "").lower(), e["chapter"]))
-            if old:
+            if old and old["id"] not in claimed:
+                claimed.add(old["id"])
                 e["id"] = old["id"]
                 for k in KEEP:
                     if k in old and k not in e:
