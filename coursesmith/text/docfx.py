@@ -105,6 +105,15 @@ class Listings:
         return ["", f"{indent}⟦L{len(self.items) - 1}⟧", ""]
 
 
+def code_listings(cfg):
+    """A Listings for a source whose `code:` setting asks for code blocks to be kept (`code: {drop: [...], max_lines: N}`
+    or `code: true`), else None."""
+    if not cfg:
+        return None
+    cfg = cfg if isinstance(cfg, dict) else {}
+    return Listings(drop=cfg.get("drop") or [], max_lines=cfg.get("max_lines") or 80)
+
+
 def _ranges(spec, n):
     """1-based line ranges "1-5,9,12-" -> sorted line indexes."""
     out = []

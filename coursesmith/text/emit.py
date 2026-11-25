@@ -118,6 +118,18 @@ def table_rows(table, merge="all"):
     return grid
 
 
+def pre_language(pre):
+    """The language a <pre> block declares (class language-json, lang-json, highlight-json or data-lang), else ''."""
+    for el in [pre, *pre.find_all("code", limit=1), *list(pre.parents)[:2]]:
+        if el.get("data-lang"):
+            return str(el["data-lang"]).strip().lower()
+        for c in el.get("class") or []:
+            for pfx in ("language-", "lang-", "highlight-", "source-"):
+                if c.startswith(pfx) and len(c) > len(pfx):
+                    return c[len(pfx):].lower()
+    return ""
+
+
 GENERIC_DROP = "script, style, noscript, template, nav, footer, aside, svg, iframe, form, button, " \
                "[hidden], [aria-hidden=true]"
 
@@ -145,12 +157,14 @@ class Emitter:
     neutralize: a literal " | " in prose becomes U+2223 and a leading "#"/">" is escaped, so no sentence is
           mistaken for a table row, heading or quote.
     min_level: the shallowest heading level taken as a section (2 for Wikipedia, whose h1 is the page title).
+    listings: a text.docfx.Listings; every <pre> goes into it and leaves a marker line (⟦L3⟧) in the text.
     table_cells: "all" merges neighbouring equal cells of a table row (legacy); "span" merges only colspan copies.
     """
 
     def __init__(self, resolve_link=None, drop_sections=DROP_SECTIONS, nested_headings=False, code="text",
-                 neutralize=False, min_level=2, collect_anchors=False, table_cells="all"):
+                 neutralize=False, min_level=2, collect_anchors=False, table_cells="all", listings=None):
         self.table_cells = table_cells
+        self.listings = listings
         self.resolve_link = resolve_link
         self.drop_sections = drop_sections
         self.nested = nested_headings
@@ -244,6 +258,9 @@ class Emitter:
         elif name == "blockquote":
             self.link_scan(el)
             self.text(el.get_text(), "> ")
+        elif name == "pre" and self.listings is not None:
+            self.code_blocks += 1
+            self.lines.extend(self.listings.add(pre_language(el), el.get_text()))
         elif name == "pre" and self.code != "text":
             self.code_blocks += 1
             if self.code == "keep":

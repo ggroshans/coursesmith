@@ -404,6 +404,10 @@ a section it cites), and the writer puts `{{code:<id>}}` on a paragraph of its o
 entry may not place, a repeat, or a token inside a paragraph. Code adds no facts: numbers in prose still need a fact.
 See `coursesmith/listings.py`.
 
+`html` and `local` sources keep code the same way: add `code: {max_lines: 80}` to the source and every `<pre>` block or
+fenced block becomes a listing (its language comes from the `language-xxx` class or the fence), with the same
+subject-level `code:` setting to place them. Handy for request and response samples in API docs.
+
 `coursesmith frame from-map <subject>` builds `frame.yaml` for a one-source docs course from `scope/frame_map.yaml`:
 parts and chapters in reading order, each listing glob patterns; a page goes to the first chapter that matches.
 

@@ -12,6 +12,7 @@ subject lists the site, the path prefixes a crawl may enter, and the CSS selecto
       drop: [".sidebar", ".toc"]  # extra chrome to remove
       pages: ["/docs/latest/develop/data-types/"]   # crawled without listing them under `seeds:`
       depth: 2
+      code: {max_lines: 80}       # keep code blocks as listings a writer can place (see README)
       table_cells: span           # keep equal neighbouring table cells apart ("Yes | Yes | Yes"); default merges them
       tier: official
       license: {name: "CC BY-SA 4.0", url: "https://creativecommons.org/licenses/by-sa/4.0/"}
@@ -28,6 +29,7 @@ from urllib.robotparser import RobotFileParser
 from . import licenses
 from .base import MissingSource, SourceAdapter, SourceError
 from .keys import SEP, clean_id
+from ..text.docfx import code_listings
 from ..text.html import html_to_doc
 
 SKIP_EXT = (".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp", ".pdf", ".zip", ".gz", ".tar", ".mp4", ".css", ".js",
@@ -134,9 +136,10 @@ class HtmlAdapter(SourceAdapter):
             raw = self.http.get(url + "/")  # docs sites often serve a page only at its trailing-slash URL
         if raw is None:
             raise MissingSource(f"{url}: not found or not allowed")
+        listings = code_listings(self.cfg.get("code"))
         doc = html_to_doc(raw, selector=self.cfg.get("selector"), drop=self.cfg.get("drop") or (),
                           resolve_link=lambda a: self.key_for_url(a.get("href", ""), key),
-                          table_cells=self.cfg.get("table_cells") or "all")
+                          table_cells=self.cfg.get("table_cells") or "all", listings=listings)
         if len(doc.text.split()) < 20:
             raise SourceError(f"{url}: no readable content (selector {self.cfg.get('selector') or 'auto'})")
         title = self.cfg.get("title") or self.host
@@ -147,6 +150,8 @@ class HtmlAdapter(SourceAdapter):
         rec = self.record(key, name, url, doc.text, version, source_id=f"{self.host}{self.path_of(key)}")
         rec.update({"body_links": [l for l in doc.links if l != key], "lead_links": [l for l in doc.lead_links if l != key],
                     "anchors": doc.anchors})
+        if listings is not None and listings.items:
+            rec["listings"] = listings.items
         rec["meta"] = {"description": doc.name, "tags": [], "code_blocks": doc.code_blocks,
                        "dates": bool(self.cfg.get("dates"))}
         return rec

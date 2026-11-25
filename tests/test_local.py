@@ -108,3 +108,35 @@ class TableCellsTest(unittest.TestCase):
         self.assertEqual(table_rows(t)[1], ["API", "Yes"])                      # legacy: merged
         self.assertEqual(table_rows(t, "span")[1], ["API", "Yes", "Yes"])
         self.assertEqual(table_rows(t, "span")[2], ["Wide", "x"])               # a real colspan still merges
+
+
+class CodeListingsTest(unittest.TestCase):
+    MD = ("# Request shapes\n\nThe request carries one vehicle and one visit, as the sample below shows.\n\n"
+          "```json\n{\"vehicles\": [{\"id\": \"Ann\"}], \"visits\": [{\"id\": \"A\"}]}\n```\n\n"
+          "The reply is a flat list sorted best first, and each item names the shift it uses.\n")
+
+    def adapter(self, d, **cfg):
+        (Path(d) / "shapes.md").write_text(self.MD)
+        return LocalAdapter({"name": "n", "path": d, **cfg})
+
+    def test_code_block_becomes_a_listing_with_a_marker(self):
+        with tempfile.TemporaryDirectory() as d:
+            rec = self.adapter(d, code={"max_lines": 20}).fetch("local>n/shapes.md")
+            self.assertEqual(len(rec["listings"]), 1)
+            self.assertEqual(rec["listings"][0]["lang"], "json")
+            self.assertIn('"vehicles"', rec["listings"][0]["code"])
+            self.assertIn("⟦L0⟧", rec["text"])
+            self.assertNotIn("vehicles", rec["text"])
+
+    def test_without_code_setting_code_is_dropped_as_before(self):
+        with tempfile.TemporaryDirectory() as d:
+            rec = self.adapter(d).fetch("local>n/shapes.md")
+            self.assertNotIn("listings", rec)
+            self.assertNotIn("⟦L", rec["text"])
+
+    def test_html_pre_language_comes_from_its_class(self):
+        from bs4 import BeautifulSoup
+        from coursesmith.text.emit import pre_language
+        pre = BeautifulSoup('<pre class="highlight"><code class="language-yaml" data-lang="yaml">a: 1</code></pre>',
+                            "html.parser").pre
+        self.assertEqual(pre_language(pre), "yaml")

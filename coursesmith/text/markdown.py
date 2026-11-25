@@ -20,9 +20,9 @@ def strip_front_matter(md):
     return _FRONT.sub("", md, count=1)
 
 
-def markdown_to_doc(md, name="", resolve_link=None, drop=(), table_cells="all"):
+def markdown_to_doc(md, name="", resolve_link=None, drop=(), table_cells="all", listings=None):
     html = _renderer().render(strip_front_matter(md))
-    return html_to_doc(f"<div>{html}</div>", name=name, resolve_link=resolve_link, drop=drop, table_cells=table_cells)
+    return html_to_doc(f"<div>{html}</div>", name=name, resolve_link=resolve_link, drop=drop, table_cells=table_cells, listings=listings)
 
 
 def markdown_to_text(md, name="", resolve_link=None):

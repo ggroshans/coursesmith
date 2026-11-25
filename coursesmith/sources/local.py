@@ -10,6 +10,7 @@ The subject names a folder (or one file) and nothing else is ever read, so every
       exclude: ["drafts/**"]
       selector: "main"                   # html files only: the content container
       drop: [".toc"]                     # html files only: extra chrome to remove
+      code: {max_lines: 80}              # keep fenced and <pre> code blocks as listings a writer can place
       tier: primary
       license: {name: "Private notes", class: all-rights-reserved}
 
@@ -25,6 +26,7 @@ from urllib.parse import quote, unquote, urldefrag
 from .base import MissingSource, SourceAdapter, SourceError, glob_match
 from .github import plain_to_doc
 from .keys import SEP, make_key
+from ..text.docfx import code_listings
 from ..text.html import html_to_doc
 from ..text.markdown import markdown_to_doc
 from ..text.pdf import pdf_to_text
@@ -151,11 +153,12 @@ class LocalAdapter(SourceAdapter):
             text = text if text.startswith("# ") else f"# {name}\n{text}"
         else:
             raw = data.decode("utf-8", errors="replace").replace("\r\n", "\n")
+            listings = code_listings(self.cfg.get("code"))
             if suffix in (".md", ".markdown"):
-                doc = markdown_to_doc(_prepare_wikilinks(raw), resolve_link=resolve, table_cells="span")
+                doc = markdown_to_doc(_prepare_wikilinks(raw), resolve_link=resolve, table_cells="span", listings=listings)
             elif suffix in (".html", ".htm"):
                 doc = html_to_doc(raw, selector=self.cfg.get("selector"), drop=self.cfg.get("drop") or (),
-                                  resolve_link=resolve, table_cells="span")
+                                  resolve_link=resolve, table_cells="span", listings=listings)
             else:
                 doc = None
             if doc is not None:
@@ -170,6 +173,8 @@ class LocalAdapter(SourceAdapter):
             name = f"{name} ({title})"
         version = hashlib.sha256(data).hexdigest()[:16]
         rec = self.record(key, name, path.as_uri(), text, version, source_id=f"{self.label}/{rel}")
+        if suffix != ".pdf" and listings is not None and listings.items:
+            rec["listings"] = listings.items
         rec.update({"body_links": [l for l in links if l != key], "lead_links": [l for l in lead if l != key],
                     "anchors": anchors})
         rec["meta"] = {"description": name, "tags": [], "path": rel, "code_blocks": code, "bytes": len(data),
